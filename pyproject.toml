@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "flashscore-scraper-py"
+version = "0.1.0"
+description = "Scrap data from Flashscore."
+authors = ["Rodrigo Azevedo <rodrig4zevedo@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.32.4"
+beautifulsoup4 = "^4.13.4"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.3"
+ruff = "^0.6.9"
+pytest-cov = "^5.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
