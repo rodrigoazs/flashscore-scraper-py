@@ -1,0 +1,381 @@
+date,home_team,away_team,home_score,away_score
+07.12. 01:30,Bahia,Atletico-MG,4,1
+07.12. 01:30,Coritiba,Corinthians,0,2
+07.12. 01:30,Cruzeiro,Palmeiras,1,1
+07.12. 01:30,Cuiaba,Athletico-PR,3,0
+07.12. 01:30,Fluminense,Gremio,2,3
+07.12. 01:30,Internacional,Botafogo RJ,3,1
+07.12. 01:30,Santos,Fortaleza,1,2
+07.12. 01:30,Sao Paulo,Flamengo RJ,1,0
+07.12. 01:30,Vasco,Bragantino,2,1
+06.12. 23:00,Goias,America MG,1,0
+03.12. 22:30,America MG,Bahia,3,2
+03.12. 22:30,Athletico-PR,Santos,3,0
+03.12. 22:30,Botafogo RJ,Cruzeiro,0,0
+03.12. 22:30,Bragantino,Coritiba,1,0
+03.12. 22:30,Fortaleza,Goias,1,0
+03.12. 22:30,Gremio,Vasco,1,0
+03.12. 20:00,Flamengo RJ,Cuiaba,2,1
+03.12. 20:00,Palmeiras,Fluminense,1,0
+03.12. 01:00,Atletico-MG,Sao Paulo,2,1
+02.12. 22:00,Corinthians,Internacional,1,2
+01.12. 00:30,Bragantino,Fortaleza,1,2
+01.12. 00:00,Cruzeiro,Athletico-PR,1,1
+30.11. 23:00,Gremio,Goias,2,1
+30.11. 01:30,Coritiba,Botafogo RJ,1,1
+30.11. 01:30,Palmeiras,America MG,4,0
+30.11. 00:00,Bahia,Sao Paulo,0,1
+30.11. 00:00,Cuiaba,Internacional,0,2
+29.11. 23:30,Flamengo RJ,Atletico-MG,0,3
+29.11. 23:00,Santos,Fluminense,0,3
+29.11. 01:30,Vasco,Corinthians,2,4
+28.11. 01:00,Goias,Cruzeiro,0,1
+26.11. 22:30,America MG,Flamengo RJ,0,3
+26.11. 22:30,Fortaleza,Palmeiras,2,2
+26.11. 22:30,Internacional,Bragantino,1,0
+26.11. 22:30,Sao Paulo,Cuiaba,0,0
+26.11. 20:00,Atletico-MG,Gremio,3,0
+26.11. 20:00,Botafogo RJ,Santos,1,1
+26.11. 01:00,Fluminense,Coritiba,2,1
+25.11. 23:30,Athletico-PR,Vasco,0,0
+25.11. 01:00,Corinthians,Bahia,1,5
+24.11. 01:30,Flamengo RJ,Bragantino,1,0
+23.11. 23:00,Fortaleza,Botafogo RJ,2,2
+23.11. 01:30,Fluminense,Sao Paulo,1,0
+22.11. 23:00,Cruzeiro,Vasco,2,2
+18.11. 22:30,Fortaleza,Cruzeiro,0,1
+12.11. 22:30,Atletico-MG,Goias,2,1
+12.11. 22:30,Bahia,Athletico-PR,1,1
+12.11. 22:30,Cuiaba,Fortaleza,2,1
+12.11. 22:30,Santos,Sao Paulo,0,0
+12.11. 22:30,Vasco,America MG,2,1
+12.11. 20:00,Bragantino,Botafogo RJ,2,2
+12.11. 20:00,Gremio,Corinthians,0,1
+12.11. 01:00,Palmeiras,Internacional,3,0
+11.11. 22:30,Flamengo RJ,Fluminense,1,1
+11.11. 20:00,Coritiba,Cruzeiro,1,0
+10.11. 00:00,Bahia,Cuiaba,0,3
+10.11. 00:00,Botafogo RJ,Gremio,3,4
+09.11. 23:00,Corinthians,Atletico-MG,1,1
+09.11. 23:00,Goias,Santos,0,1
+09.11. 01:30,Flamengo RJ,Palmeiras,3,0
+09.11. 00:00,Athletico-PR,Fortaleza,1,1
+09.11. 00:00,Sao Paulo,Bragantino,1,0
+08.11. 23:00,America MG,Coritiba,0,3
+08.11. 23:00,Internacional,Fluminense,0,0
+07.11. 01:00,Santos,Cuiaba,0,0
+06.11. 23:00,Vasco,Botafogo RJ,1,0
+05.11. 22:30,Coritiba,Goias,0,1
+05.11. 20:00,Bragantino,Corinthians,1,0
+05.11. 20:00,Cruzeiro,Internacional,1,2
+05.11. 20:00,Fortaleza,Flamengo RJ,0,2
+05.11. 01:30,Palmeiras,Athletico-PR,1,0
+04.11. 23:30,America MG,Atletico-MG,1,1
+04.11. 23:30,Gremio,Bahia,1,0
+03.11. 00:00,Sao Paulo,Cruzeiro,1,0
+02.11. 22:00,Goias,Bragantino,0,2
+02.11. 21:00,Cuiaba,Vasco,0,2
+02.11. 01:30,Atletico-MG,Fortaleza,3,1
+02.11. 01:30,Botafogo RJ,Palmeiras,3,4
+02.11. 00:00,Coritiba,Gremio,1,2
+02.11. 00:00,Flamengo RJ,Santos,1,2
+01.11. 23:00,Corinthians,Athletico-PR,1,0
+01.11. 23:00,Internacional,America MG,1,1
+31.10. 23:00,Bahia,Fluminense,1,0
+30.10. 00:00,Botafogo RJ,Cuiaba,0,1
+29.10. 22:30,Corinthians,Santos,1,1
+29.10. 22:30,Internacional,Coritiba,3,4
+29.10. 20:00,Athletico-PR,Sao Paulo,1,1
+29.10. 20:00,Goias,Vasco,1,1
+29.10. 02:00,Atletico-MG,Fluminense,2,0
+29.10. 00:00,America MG,Gremio,3,4
+29.10. 00:00,Palmeiras,Bahia,1,0
+27.10. 02:30,Santos,Coritiba,2,1
+27.10. 00:00,Vasco,Internacional,1,2
+26.10. 02:30,Cuiaba,Corinthians,0,1
+26.10. 02:30,Gremio,Flamengo RJ,3,2
+26.10. 01:00,Cruzeiro,Bahia,3,0
+26.10. 01:00,Palmeiras,Sao Paulo,5,0
+26.10. 00:00,Athletico-PR,America MG,3,2
+26.10. 00:00,Bragantino,Atletico-MG,1,2
+26.10. 00:00,Fluminense,Goias,5,3
+22.10. 23:30,Bragantino,Fluminense,1,0
+22.10. 23:30,Corinthians,America MG,1,1
+22.10. 23:30,Coritiba,Palmeiras,0,2
+22.10. 21:00,Atletico-MG,Cruzeiro,0,1
+22.10. 21:00,Flamengo RJ,Vasco,1,0
+22.10. 21:00,Internacional,Santos,7,1
+22.10. 20:00,Botafogo RJ,Athletico-PR,1,1
+21.10. 23:30,Bahia,Fortaleza,2,0
+21.10. 23:30,Cuiaba,Goias,1,1
+21.10. 23:30,Sao Paulo,Gremio,3,0
+20.10. 02:30,Fluminense,Corinthians,3,3
+20.10. 01:00,Santos,Bragantino,1,3
+20.10. 00:00,Cruzeiro,Flamengo RJ,0,2
+20.10. 00:00,Palmeiras,Atletico-MG,0,2
+19.10. 02:30,Bahia,Internacional,1,0
+19.10. 02:30,Goias,Sao Paulo,2,0
+19.10. 02:30,Vasco,Fortaleza,1,0
+19.10. 01:00,America MG,Botafogo RJ,1,2
+19.10. 01:00,Coritiba,Cuiaba,0,3
+19.10. 00:00,Gremio,Athletico-PR,1,2
+15.10. 02:00,Cuiaba,Cruzeiro,0,0
+08.10. 23:30,Athletico-PR,Bragantino,1,1
+08.10. 23:30,Atletico-MG,Coritiba,1,2
+08.10. 23:30,Fortaleza,America MG,3,2
+08.10. 21:00,Fluminense,Botafogo RJ,0,2
+08.10. 21:00,Internacional,Gremio,3,2
+08.10. 21:00,Palmeiras,Santos,1,2
+08.10. 02:00,Corinthians,Flamengo RJ,1,1
+07.10. 23:30,Vasco,Sao Paulo,0,0
+07.10. 21:00,Goias,Bahia,4,6
+03.10. 01:00,Botafogo RJ,Goias,1,1
+01.10. 23:30,Bragantino,Palmeiras,2,1
+01.10. 21:00,Coritiba,Athletico-PR,2,0
+01.10. 21:00,Cruzeiro,America MG,1,1
+01.10. 21:00,Santos,Vasco,4,1
+01.10. 02:00,Internacional,Atletico-MG,0,2
+30.09. 23:30,Cuiaba,Fluminense,3,0
+30.09. 23:30,Sao Paulo,Corinthians,2,1
+30.09. 21:00,Flamengo RJ,Bahia,1,0
+30.09. 21:00,Fortaleza,Gremio,1,1
+28.09. 00:00,Sao Paulo,Coritiba,2,1
+26.09. 01:00,America MG,Vasco,0,1
+24.09. 02:00,Atletico-MG,Cuiaba,1,0
+23.09. 01:00,Corinthians,Botafogo RJ,1,0
+22.09. 02:30,Gremio,Palmeiras,1,0
+22.09. 00:30,Athletico-PR,Internacional,2,1
+22.09. 00:00,Vasco,Coritiba,5,1
+21.09. 02:30,Fluminense,Cruzeiro,1,0
+21.09. 02:30,Sao Paulo,Fortaleza,1,2
+21.09. 00:00,Goias,Flamengo RJ,0,0
+20.09. 02:30,America MG,Bragantino,0,2
+19.09. 02:00,Corinthians,Gremio,4,4
+19.09. 01:00,Bahia,Santos,1,2
+17.09. 02:00,Atletico-MG,Botafogo RJ,1,0
+16.09. 21:00,Vasco,Fluminense,4,2
+16.09. 02:30,Palmeiras,Goias,1,0
+16.09. 01:00,Cuiaba,America MG,2,2
+15.09. 02:30,Bragantino,Gremio,2,0
+15.09. 01:00,Coritiba,Bahia,2,4
+15.09. 00:00,Fortaleza,Corinthians,2,1
+15.09. 00:00,Santos,Cruzeiro,0,3
+14.09. 02:30,Flamengo RJ,Athletico-PR,0,3
+14.09. 02:30,Internacional,Sao Paulo,2,1
+03.09. 23:30,America MG,Santos,2,0
+03.09. 23:30,Bahia,Vasco,1,1
+03.09. 23:30,Cruzeiro,Bragantino,0,0
+03.09. 21:00,Corinthians,Palmeiras,0,0
+03.09. 21:00,Fluminense,Fortaleza,1,0
+03.09. 16:00,Gremio,Cuiaba,2,0
+03.09. 02:00,Botafogo RJ,Flamengo RJ,1,2
+02.09. 21:00,Athletico-PR,Atletico-MG,1,1
+02.09. 21:00,Goias,Internacional,0,0
+28.08. 00:00,Gremio,Cruzeiro,3,0
+27.08. 23:30,Athletico-PR,Fluminense,2,2
+27.08. 23:30,Fortaleza,Coritiba,3,1
+27.08. 23:30,Palmeiras,Vasco,1,0
+27.08. 21:00,America MG,Sao Paulo,2,1
+27.08. 21:00,Atletico-MG,Santos,2,0
+27.08. 21:00,Botafogo RJ,Bahia,3,0
+27.08. 16:00,Bragantino,Cuiaba,2,0
+27.08. 02:00,Corinthians,Goias,1,1
+26.08. 23:30,Flamengo RJ,Internacional,0,0
+22.08. 01:00,Goias,Athletico-PR,1,1
+20.08. 21:00,Bahia,Bragantino,4,0
+20.08. 21:00,Coritiba,Flamengo RJ,2,3
+20.08. 21:00,Santos,Gremio,2,1
+20.08. 16:00,Vasco,Atletico-MG,1,0
+20.08. 02:00,Cruzeiro,Corinthians,1,1
+19.08. 23:30,Cuiaba,Palmeiras,0,2
+19.08. 23:30,Fluminense,America MG,3,1
+19.08. 21:00,Internacional,Fortaleza,0,1
+19.08. 21:00,Sao Paulo,Botafogo RJ,0,0
+16.08. 01:00,Athletico-PR,Cuiaba,2,0
+15.08. 02:00,Bragantino,Vasco,1,1
+15.08. 00:00,Palmeiras,Cruzeiro,1,0
+13.08. 23:30,Flamengo RJ,Sao Paulo,1,1
+13.08. 23:30,Fortaleza,Santos,4,0
+13.08. 21:00,America MG,Goias,0,1
+13.08. 21:00,Corinthians,Coritiba,3,1
+13.08. 21:00,Gremio,Fluminense,2,1
+13.08. 16:00,Atletico-MG,Bahia,1,0
+13.08. 02:00,Botafogo RJ,Internacional,3,1
+07.08. 01:00,Cuiaba,Flamengo RJ,3,0
+06.08. 23:30,Bahia,America MG,3,1
+06.08. 23:30,Coritiba,Bragantino,0,1
+06.08. 23:30,Cruzeiro,Botafogo RJ,0,0
+06.08. 21:00,Sao Paulo,Atletico-MG,0,2
+06.08. 21:00,Vasco,Gremio,1,0
+06.08. 02:00,Fluminense,Palmeiras,2,1
+05.08. 23:30,Goias,Fortaleza,1,0
+05.08. 23:30,Internacional,Corinthians,2,2
+05.08. 21:00,Santos,Athletico-PR,1,1
+30.07. 23:30,Goias,Gremio,1,1
+30.07. 21:00,America MG,Palmeiras,1,4
+30.07. 21:00,Botafogo RJ,Coritiba,4,1
+30.07. 16:00,Sao Paulo,Bahia,0,0
+30.07. 02:00,Atletico-MG,Flamengo RJ,1,2
+29.07. 23:30,Corinthians,Vasco,3,1
+29.07. 23:30,Fortaleza,Bragantino,0,3
+29.07. 21:00,Athletico-PR,Cruzeiro,3,3
+29.07. 21:00,Fluminense,Santos,1,0
+29.07. 21:00,Internacional,Cuiaba,1,2
+25.07. 00:00,Coritiba,Fluminense,2,0
+23.07. 23:30,Vasco,Athletico-PR,0,2
+23.07. 21:00,Bragantino,Internacional,0,0
+23.07. 21:00,Cruzeiro,Goias,0,1
+23.07. 21:00,Santos,Botafogo RJ,2,2
+23.07. 02:00,Gremio,Atletico-MG,1,0
+22.07. 23:30,Bahia,Corinthians,0,0
+22.07. 23:30,Cuiaba,Sao Paulo,2,1
+22.07. 21:00,Flamengo RJ,America MG,1,1
+22.07. 21:00,Palmeiras,Fortaleza,3,1
+18.07. 01:00,Goias,Atletico-MG,0,0
+16.07. 23:30,Athletico-PR,Bahia,2,0
+16.07. 23:30,Internacional,Palmeiras,0,0
+16.07. 21:00,Fluminense,Flamengo RJ,0,0
+16.07. 21:00,Fortaleza,Cuiaba,0,1
+16.07. 21:00,Sao Paulo,Santos,4,1
+16.07. 16:00,Cruzeiro,Coritiba,0,0
+16.07. 02:00,Botafogo RJ,Bragantino,2,0
+09.07. 23:30,Fortaleza,Athletico-PR,1,0
+09.07. 23:30,Gremio,Botafogo RJ,0,2
+09.07. 21:00,Bragantino,Sao Paulo,0,0
+09.07. 21:00,Fluminense,Internacional,2,0
+09.07. 16:00,Santos,Goias,4,3
+09.07. 02:00,Palmeiras,Flamengo RJ,1,1
+08.07. 23:30,Atletico-MG,Corinthians,0,1
+08.07. 23:30,Coritiba,America MG,3,1
+08.07. 21:00,Cuiaba,Bahia,1,1
+08.07. 21:00,Vasco,Cruzeiro,0,1
+04.07. 01:00,Goias,Coritiba,1,2
+02.07. 23:30,Cuiaba,Santos,3,0
+02.07. 21:00,Athletico-PR,Palmeiras,2,2
+02.07. 21:00,Atletico-MG,America MG,2,2
+02.07. 21:00,Botafogo RJ,Vasco,2,0
+02.07. 16:00,Corinthians,Bragantino,0,1
+02.07. 02:00,Internacional,Cruzeiro,0,0
+01.07. 23:30,Bahia,Gremio,1,2
+01.07. 23:30,Flamengo RJ,Fortaleza,2,0
+01.07. 21:00,Sao Paulo,Fluminense,1,0
+27.06. 02:00,Vasco,Cuiaba,1,0
+25.06. 23:30,America MG,Internacional,1,2
+25.06. 23:30,Bragantino,Goias,2,0
+25.06. 23:30,Santos,Flamengo RJ,2,3
+25.06. 21:00,Gremio,Coritiba,5,1
+25.06. 21:00,Palmeiras,Botafogo RJ,0,1
+25.06. 02:00,Cruzeiro,Sao Paulo,1,0
+24.06. 23:30,Fluminense,Bahia,2,1
+24.06. 23:30,Fortaleza,Atletico-MG,2,1
+24.06. 21:00,Athletico-PR,Corinthians,1,0
+23.06. 02:30,Bragantino,Flamengo RJ,4,0
+23.06. 01:00,Coritiba,Internacional,0,1
+23.06. 01:00,Cuiaba,Botafogo RJ,0,1
+23.06. 01:00,Vasco,Goias,0,1
+23.06. 00:00,Gremio,America MG,3,1
+22.06. 02:30,Bahia,Palmeiras,1,0
+22.06. 02:30,Fluminense,Atletico-MG,1,1
+22.06. 01:00,Santos,Corinthians,0,2
+22.06. 00:00,Cruzeiro,Fortaleza,0,1
+22.06. 00:00,Sao Paulo,Athletico-PR,2,1
+11.06. 23:30,Flamengo RJ,Gremio,3,0
+11.06. 23:30,Goias,Fluminense,2,2
+11.06. 21:00,Internacional,Vasco,2,1
+11.06. 21:00,Sao Paulo,Palmeiras,0,2
+11.06. 16:00,America MG,Athletico-PR,2,2
+11.06. 02:00,Botafogo RJ,Fortaleza,2,0
+10.06. 23:30,Atletico-MG,Bragantino,1,1
+10.06. 23:30,Bahia,Cruzeiro,2,2
+10.06. 23:30,Corinthians,Cuiaba,1,1
+10.06. 21:00,Coritiba,Santos,0,0
+06.06. 01:00,Vasco,Flamengo RJ,1,4
+04.06. 23:30,Goias,Cuiaba,0,1
+04.06. 23:30,Palmeiras,Coritiba,3,1
+04.06. 21:00,Fluminense,Bragantino,2,1
+04.06. 21:00,Gremio,Sao Paulo,2,1
+04.06. 02:00,Santos,Internacional,1,1
+03.06. 23:30,America MG,Corinthians,2,0
+03.06. 23:30,Athletico-PR,Botafogo RJ,1,0
+03.06. 23:30,Cruzeiro,Atletico-MG,0,1
+03.06. 21:00,Fortaleza,Bahia,0,0
+29.05. 00:00,Botafogo RJ,America MG,2,0
+28.05. 23:30,Atletico-MG,Palmeiras,1,1
+28.05. 23:30,Bragantino,Santos,2,0
+28.05. 21:00,Corinthians,Fluminense,2,0
+28.05. 21:00,Internacional,Bahia,2,0
+28.05. 02:00,Sao Paulo,Goias,2,1
+27.05. 23:30,Cuiaba,Coritiba,1,1
+27.05. 23:30,Flamengo RJ,Cruzeiro,1,1
+27.05. 21:00,Athletico-PR,Gremio,1,2
+27.05. 21:00,Fortaleza,Vasco,2,0
+23.05. 01:00,Cruzeiro,Cuiaba,0,1
+21.05. 23:30,Gremio,Internacional,3,1
+21.05. 21:00,Flamengo RJ,Corinthians,1,0
+21.05. 02:00,Santos,Palmeiras,0,0
+20.05. 23:30,America MG,Fortaleza,2,1
+20.05. 23:30,Botafogo RJ,Fluminense,1,0
+20.05. 23:30,Bragantino,Athletico-PR,2,0
+20.05. 23:30,Coritiba,Atletico-MG,1,2
+20.05. 23:30,Sao Paulo,Vasco,4,2
+20.05. 21:00,Bahia,Goias,1,1
+14.05. 23:30,America MG,Cruzeiro,0,4
+14.05. 23:30,Athletico-PR,Coritiba,3,2
+14.05. 23:30,Goias,Botafogo RJ,2,1
+14.05. 21:00,Corinthians,Sao Paulo,1,1
+14.05. 21:00,Gremio,Fortaleza,0,0
+14.05. 21:00,Vasco,Santos,0,1
+14.05. 02:00,Atletico-MG,Internacional,2,0
+13.05. 23:30,Fluminense,Cuiaba,2,0
+13.05. 23:30,Palmeiras,Bragantino,1,1
+13.05. 21:00,Bahia,Flamengo RJ,2,3
+12.05. 01:00,Fortaleza,Sao Paulo,0,0
+12.05. 00:30,Botafogo RJ,Corinthians,3,0
+12.05. 00:00,Coritiba,Vasco,1,1
+11.05. 02:30,Cruzeiro,Fluminense,0,2
+11.05. 02:30,Palmeiras,Gremio,4,1
+11.05. 01:00,Cuiaba,Atletico-MG,0,4
+11.05. 01:00,Flamengo RJ,Goias,2,0
+11.05. 00:00,Bragantino,America MG,2,2
+11.05. 00:00,Internacional,Athletico-PR,0,2
+11.05. 00:00,Santos,Bahia,3,0
+09.05. 01:00,Corinthians,Fortaleza,1,1
+07.05. 23:30,Botafogo RJ,Atletico-MG,2,0
+07.05. 23:30,Goias,Palmeiras,0,5
+07.05. 23:30,Gremio,Bragantino,3,3
+07.05. 21:00,Athletico-PR,Flamengo RJ,2,1
+07.05. 21:00,Bahia,Coritiba,3,1
+07.05. 21:00,Sao Paulo,Internacional,2,0
+07.05. 16:00,America MG,Cuiaba,1,2
+07.05. 02:00,Fluminense,Vasco,1,1
+06.05. 21:00,Cruzeiro,Santos,2,1
+02.05. 01:00,Vasco,Bahia,0,1
+30.04. 23:30,Cuiaba,Gremio,1,2
+30.04. 23:30,Internacional,Goias,1,0
+30.04. 21:00,Flamengo RJ,Botafogo RJ,2,3
+30.04. 02:00,Atletico-MG,Athletico-PR,2,1
+29.04. 23:30,Bragantino,Cruzeiro,0,3
+29.04. 23:30,Palmeiras,Corinthians,2,1
+29.04. 23:30,Santos,America MG,3,2
+29.04. 21:30,Coritiba,Sao Paulo,1,1
+29.04. 21:30,Fortaleza,Fluminense,4,2
+25.04. 01:00,Bahia,Botafogo RJ,1,2
+24.04. 00:00,Goias,Corinthians,3,1
+23.04. 23:30,Coritiba,Fortaleza,0,3
+23.04. 21:00,Santos,Atletico-MG,0,0
+23.04. 21:00,Vasco,Palmeiras,2,2
+23.04. 16:00,Internacional,Flamengo RJ,2,1
+23.04. 02:00,Cruzeiro,Gremio,1,0
+22.04. 23:30,Cuiaba,Bragantino,1,1
+22.04. 23:30,Sao Paulo,America MG,3,0
+22.04. 21:00,Fluminense,Athletico-PR,2,0
+16.04. 23:30,Gremio,Santos,1,0
+16.04. 21:00,Corinthians,Cruzeiro,2,1
+16.04. 21:00,Flamengo RJ,Coritiba,3,0
+16.04. 02:00,Atletico-MG,Vasco,1,2
+15.04. 23:30,Athletico-PR,Goias,2,0
+15.04. 23:30,Botafogo RJ,Sao Paulo,2,1
+15.04. 23:30,Bragantino,Bahia,2,1
+15.04. 23:30,Fortaleza,Internacional,1,1
+15.04. 21:00,America MG,Fluminense,0,3
+15.04. 21:00,Palmeiras,Cuiaba,2,1

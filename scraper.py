@@ -1,16 +1,13 @@
-import time
 import os
-import json
+import time
 
 import requests
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
-
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-import os
 
 
 def download_logo(src, team_name):
@@ -29,14 +26,18 @@ def download_logo(src, team_name):
 
 def extract_results_from_html(html_content):
     soup = BeautifulSoup(html_content, "html.parser")
-    results = []
+    results = ["date,home_team,away_team,home_score,away_score"]
     matches = soup.find_all("div", class_=["event__match"])
     for match in matches:
         date = match.find("div", class_=["event__time"]).get_text(strip=True)
         home = match.find("div", class_=["event__homeParticipant"])
         away = match.find("div", class_=["event__awayParticipant"])
-        home_score = match.find("span", class_=["event__score--home"]).get_text(strip=True)
-        away_score = match.find("span", class_=["event__score--away"]).get_text(strip=True)
+        home_score = match.find("span", class_=["event__score--home"]).get_text(
+            strip=True
+        )
+        away_score = match.find("span", class_=["event__score--away"]).get_text(
+            strip=True
+        )
         home_team = (home.find("span") or home.find("strong")).get_text(strip=True)
         away_team = (away.find("span") or away.find("strong")).get_text(strip=True)
         home_img = home.find("img")
@@ -45,13 +46,7 @@ def extract_results_from_html(html_content):
         away_logo = away_img["src"] if away_img and away_img.has_attr("src") else None
         download_logo(home_logo, home_team)
         download_logo(away_logo, away_team)
-        results.append({
-            "date": date,
-            "home_team": home_team,
-            "away_team": away_team,
-            "home_score": int(home_score),
-            "away_score": int(away_score),
-        })
+        results.append(",".join([date, home_team, away_team, home_score, away_score]))
     return results
 
 
@@ -108,7 +103,7 @@ def extract_results(url, filename):
         div_element = driver.find_element(By.ID, "live-table")
         results = extract_results_from_html(div_element.get_attribute("innerHTML"))
         with open(filename, "w") as f:
-            json.dump(results, f, indent=4)
+            f.write("\n".join(results))
     except TimeoutException:
         print("Not able to parse.")
     except Exception as e:
@@ -116,11 +111,17 @@ def extract_results(url, filename):
     finally:
         driver.quit()
 
+
 if __name__ == "__main__":
-    folder = "data/england"
-    for year in range(1989, 2024):
-        url = f"https://www.flashscore.com/football/england/premier-league-{year}-{year + 1}/results/"
-        filename = os.path.join(folder, f"{year}-{year + 1}.json")
-        print(f"Extracting results for {year}-{year + 1}...")
-        extract_results(url, filename)
-        time.sleep(5)
+    folder = "data/clubs/uruguay-primera-division"
+    os.makedirs(folder, exist_ok=True)
+    for year in range(2006, 2016):
+        filename = os.path.join(folder, f"{year}-{year+1}.csv")
+        if not os.path.exists(filename):
+            url = (
+                f"https://www.flashscore.com/football/uruguay/liga-auf-uruguaya-{year}-{year+1}/results/"
+            )
+            
+            print(f"Extracting results for {year}-{year+1}...")
+            extract_results(url, filename)
+            time.sleep(5)

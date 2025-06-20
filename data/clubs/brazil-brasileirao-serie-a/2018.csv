@@ -1,0 +1,381 @@
+date,home_team,away_team,home_score,away_score
+02.12. 20:00,Bahia,Cruzeiro,0,0
+02.12. 20:00,Ceara,Vasco,0,0
+02.12. 20:00,Chapecoense-SC,Sao Paulo,1,0
+02.12. 20:00,Fluminense,America MG,1,0
+02.12. 20:00,Gremio,Corinthians,1,0
+02.12. 20:00,Palmeiras,Vitoria,3,2
+02.12. 20:00,Parana,Internacional,1,1
+02.12. 20:00,Sport Recife,Santos,2,1
+01.12. 22:00,Atletico-MG,Botafogo RJ,1,0
+01.12. 22:00,Flamengo RJ,Athletico-PR,1,2
+26.11. 23:00,Botafogo RJ,Parana,2,1
+26.11. 23:00,Sao Paulo,Sport Recife,0,0
+25.11. 22:00,America MG,Bahia,1,0
+25.11. 22:00,Corinthians,Chapecoense-SC,0,0
+25.11. 22:00,Internacional,Fluminense,2,0
+25.11. 20:00,Athletico-PR,Ceara,2,2
+25.11. 20:00,Cruzeiro,Flamengo RJ,0,2
+25.11. 20:00,Vasco,Palmeiras,0,1
+25.11. 20:00,Vitoria,Gremio,0,0
+24.11. 23:00,Santos,Atletico-MG,3,2
+23.11. 00:00,Bahia,Fluminense,2,0
+23.11. 00:00,Ceara,Parana,1,0
+23.11. 00:00,Chapecoense-SC,Sport Recife,2,1
+22.11. 23:00,Vasco,Sao Paulo,2,0
+22.11. 00:45,Athletico-PR,Corinthians,1,0
+22.11. 00:45,Cruzeiro,Vitoria,3,0
+22.11. 00:45,Flamengo RJ,Gremio,2,0
+22.11. 00:45,Palmeiras,America MG,4,0
+22.11. 00:00,Santos,Botafogo RJ,1,1
+21.11. 22:30,Internacional,Atletico-MG,1,2
+19.11. 23:00,Fluminense,Ceara,0,0
+18.11. 22:00,Gremio,Chapecoense-SC,2,0
+18.11. 22:00,Sao Paulo,Cruzeiro,1,0
+18.11. 20:00,America MG,Santos,2,1
+18.11. 20:00,Botafogo RJ,Internacional,1,0
+18.11. 20:00,Parana,Palmeiras,1,1
+18.11. 20:00,Sport Recife,Flamengo RJ,0,1
+18.11. 00:00,Atletico-MG,Bahia,1,0
+17.11. 22:00,Corinthians,Vasco,1,0
+17.11. 22:00,Vitoria,Athletico-PR,1,2
+16.11. 00:00,Internacional,America MG,2,0
+15.11. 22:00,Sao Paulo,Gremio,1,1
+15.11. 20:00,Chapecoense-SC,Botafogo RJ,0,1
+15.11. 20:00,Flamengo RJ,Santos,1,0
+15.11. 00:45,Cruzeiro,Corinthians,1,0
+15.11. 00:45,Palmeiras,Fluminense,3,0
+15.11. 00:45,Sport Recife,Vitoria,0,0
+15.11. 00:00,Bahia,Ceara,2,1
+15.11. 00:00,Parana,Atletico-MG,0,1
+14.11. 22:30,Vasco,Athletico-PR,1,1
+12.11. 23:00,Santos,Chapecoense-SC,0,1
+11.11. 22:00,Fluminense,Sport Recife,0,0
+11.11. 20:00,Atletico-MG,Palmeiras,1,1
+11.11. 20:00,Ceara,Internacional,1,1
+11.11. 20:00,Gremio,Vasco,2,1
+11.11. 20:00,Vitoria,Bahia,2,2
+10.11. 22:00,Athletico-PR,Cruzeiro,2,0
+10.11. 22:00,Botafogo RJ,Flamengo RJ,2,1
+10.11. 20:00,America MG,Parana,0,1
+10.11. 20:00,Corinthians,Sao Paulo,1,1
+05.11. 23:00,Sport Recife,Ceara,1,0
+04.11. 22:00,Bahia,Chapecoense-SC,1,0
+04.11. 22:00,Internacional,Athletico-PR,2,1
+04.11. 20:00,America MG,Cruzeiro,1,2
+04.11. 20:00,Botafogo RJ,Corinthians,1,0
+04.11. 20:00,Parana,Vitoria,1,1
+04.11. 20:00,Sao Paulo,Flamengo RJ,2,2
+03.11. 23:00,Palmeiras,Santos,3,2
+03.11. 21:00,Atletico-MG,Gremio,0,1
+03.11. 21:00,Fluminense,Vasco,0,1
+30.10. 00:00,Ceara,Atletico-MG,2,1
+28.10. 02:00,Athletico-PR,Botafogo RJ,2,1
+28.10. 02:00,Cruzeiro,Parana,3,1
+28.10. 00:00,Chapecoense-SC,America MG,1,0
+28.10. 00:00,Corinthians,Bahia,2,1
+28.10. 00:00,Flamengo RJ,Palmeiras,1,1
+27.10. 21:30,Gremio,Sport Recife,3,4
+27.10. 21:30,Santos,Fluminense,3,0
+27.10. 02:30,Vasco,Internacional,1,1
+27.10. 00:30,Vitoria,Sao Paulo,0,1
+25.10. 00:30,Cruzeiro,Ceara,0,2
+23.10. 01:00,Internacional,Santos,2,2
+22.10. 00:00,Cruzeiro,Chapecoense-SC,3,0
+22.10. 00:00,Parana,Flamengo RJ,0,4
+21.10. 21:00,Fluminense,Atletico-MG,1,0
+21.10. 21:00,Palmeiras,Ceara,2,1
+21.10. 21:00,Vitoria,Corinthians,2,2
+21.10. 00:00,Sao Paulo,Athletico-PR,0,0
+21.10. 00:00,Sport Recife,Vasco,2,1
+20.10. 21:00,America MG,Gremio,1,1
+20.10. 21:00,Botafogo RJ,Bahia,0,1
+16.10. 01:00,Ceara,Botafogo RJ,0,0
+15.10. 00:00,Athletico-PR,Sport Recife,4,0
+15.10. 00:00,Atletico-MG,America MG,0,0
+14.10. 21:00,Internacional,Sao Paulo,3,1
+14.10. 21:00,Palmeiras,Gremio,2,0
+14.10. 21:00,Vasco,Cruzeiro,2,0
+14.10. 16:00,Chapecoense-SC,Vitoria,0,1
+14.10. 02:00,Bahia,Parana,2,0
+14.10. 00:00,Santos,Corinthians,1,0
+13.10. 22:00,Flamengo RJ,Fluminense,3,0
+10.10. 02:00,Botafogo RJ,Vasco,1,1
+09.10. 01:00,Fluminense,Parana,4,0
+07.10. 02:00,Gremio,Bahia,2,2
+06.10. 23:00,Sao Paulo,Palmeiras,0,2
+06.10. 21:00,Athletico-PR,America MG,4,0
+06.10. 21:00,Chapecoense-SC,Atletico-MG,1,0
+06.10. 02:30,Vitoria,Santos,0,1
+06.10. 02:00,Corinthians,Flamengo RJ,0,3
+06.10. 00:00,Sport Recife,Internacional,2,1
+02.10. 01:00,Parana,Vasco,1,1
+01.10. 00:00,Ceara,Chapecoense-SC,3,1
+30.09. 21:00,Atletico-MG,Sport Recife,5,2
+30.09. 21:00,Botafogo RJ,Sao Paulo,2,2
+30.09. 21:00,Internacional,Vitoria,2,1
+30.09. 21:00,Santos,Athletico-PR,1,0
+30.09. 16:00,Palmeiras,Cruzeiro,3,1
+30.09. 02:00,Bahia,Flamengo RJ,0,0
+30.09. 00:00,America MG,Corinthians,0,0
+29.09. 21:00,Fluminense,Gremio,0,1
+28.09. 01:00,Santos,Vasco,1,1
+25.09. 01:00,Chapecoense-SC,Fluminense,1,2
+25.09. 01:00,Vasco,Bahia,2,1
+24.09. 00:00,Cruzeiro,Santos,2,1
+23.09. 23:00,Sport Recife,Palmeiras,0,1
+23.09. 23:00,Vitoria,Botafogo RJ,3,4
+23.09. 21:00,Athletico-PR,Parana,3,0
+23.09. 21:00,Corinthians,Internacional,1,1
+23.09. 21:00,Flamengo RJ,Atletico-MG,2,1
+23.09. 16:00,Gremio,Ceara,3,2
+22.09. 21:00,Sao Paulo,America MG,1,1
+18.09. 01:00,Chapecoense-SC,Internacional,2,1
+17.09. 00:00,Corinthians,Sport Recife,2,1
+16.09. 21:00,Athletico-PR,Fluminense,3,1
+16.09. 21:00,Bahia,Palmeiras,1,1
+16.09. 21:00,Cruzeiro,Atletico-MG,0,0
+16.09. 21:00,Santos,Sao Paulo,0,0
+16.09. 16:00,Botafogo RJ,America MG,1,0
+16.09. 00:00,Vasco,Flamengo RJ,1,1
+15.09. 21:00,Ceara,Vitoria,2,0
+15.09. 21:00,Gremio,Parana,2,0
+14.09. 01:00,Chapecoense-SC,Athletico-PR,2,1
+11.09. 01:00,Atletico-MG,Athletico-PR,3,1
+10.09. 00:00,Parana,Santos,0,2
+10.09. 00:00,Vitoria,Vasco,1,0
+09.09. 21:00,America MG,Ceara,0,0
+09.09. 21:00,Fluminense,Botafogo RJ,1,0
+09.09. 21:00,Internacional,Gremio,1,0
+09.09. 21:00,Palmeiras,Corinthians,1,0
+09.09. 02:00,Flamengo RJ,Chapecoense-SC,2,0
+09.09. 00:00,Sao Paulo,Bahia,1,0
+08.09. 21:00,Sport Recife,Cruzeiro,0,0
+07.09. 01:00,America MG,Vasco,2,1
+07.09. 00:00,Fluminense,Vitoria,0,0
+07.09. 00:00,Santos,Gremio,0,0
+06.09. 02:45,Atletico-MG,Sao Paulo,1,0
+06.09. 02:45,Internacional,Flamengo RJ,2,1
+06.09. 02:00,Palmeiras,Athletico-PR,2,0
+06.09. 02:00,Parana,Chapecoense-SC,1,1
+06.09. 01:00,Ceara,Corinthians,2,1
+06.09. 00:30,Bahia,Sport Recife,2,0
+06.09. 00:30,Botafogo RJ,Cruzeiro,1,1
+03.09. 00:00,Chapecoense-SC,Palmeiras,1,2
+03.09. 00:00,Cruzeiro,Internacional,0,0
+02.09. 21:00,Athletico-PR,Bahia,2,0
+02.09. 21:00,Sao Paulo,Fluminense,1,1
+02.09. 21:00,Sport Recife,Parana,1,0
+02.09. 16:00,Flamengo RJ,Ceara,0,1
+02.09. 02:00,Corinthians,Atletico-MG,1,1
+02.09. 00:00,Vasco,Santos,0,3
+01.09. 21:00,Gremio,Botafogo RJ,4,0
+01.09. 21:00,Vitoria,America MG,1,0
+30.08. 00:30,Athletico-PR,Vasco,1,0
+30.08. 00:30,Ceara,Bahia,0,2
+27.08. 00:00,Vasco,Chapecoense-SC,3,1
+26.08. 21:00,America MG,Flamengo RJ,2,2
+26.08. 21:00,Internacional,Palmeiras,0,0
+26.08. 21:00,Vitoria,Atletico-MG,1,0
+26.08. 16:00,Sao Paulo,Ceara,1,0
+26.08. 02:00,Botafogo RJ,Sport Recife,2,0
+26.08. 02:00,Cruzeiro,Fluminense,2,1
+26.08. 00:00,Athletico-PR,Gremio,2,1
+26.08. 00:00,Corinthians,Parana,1,0
+25.08. 21:00,Santos,Bahia,2,0
+24.08. 01:00,Atletico-MG,Vasco,0,0
+24.08. 00:30,Flamengo RJ,Vitoria,1,0
+23.08. 02:45,Fluminense,Corinthians,1,0
+23.08. 02:45,Gremio,Cruzeiro,1,1
+23.08. 02:00,Palmeiras,Botafogo RJ,2,0
+23.08. 02:00,Sport Recife,America MG,0,2
+23.08. 00:30,Bahia,Internacional,0,1
+23.08. 00:30,Parana,Sao Paulo,1,1
+21.08. 01:00,Vasco,Ceara,1,1
+20.08. 00:00,America MG,Fluminense,0,0
+20.08. 00:00,Sao Paulo,Chapecoense-SC,2,0
+19.08. 21:00,Botafogo RJ,Atletico-MG,0,3
+19.08. 21:00,Cruzeiro,Bahia,1,1
+19.08. 21:00,Vitoria,Palmeiras,0,3
+19.08. 16:00,Athletico-PR,Flamengo RJ,3,0
+19.08. 16:00,Internacional,Parana,1,0
+19.08. 00:00,Corinthians,Gremio,0,1
+18.08. 21:00,Santos,Sport Recife,3,0
+14.08. 01:00,Fluminense,Internacional,0,3
+13.08. 00:00,Gremio,Vitoria,4,0
+13.08. 00:00,Palmeiras,Vasco,1,0
+12.08. 21:00,Chapecoense-SC,Corinthians,2,1
+12.08. 21:00,Flamengo RJ,Cruzeiro,1,0
+12.08. 21:00,Sport Recife,Sao Paulo,1,3
+12.08. 16:00,Atletico-MG,Santos,3,1
+12.08. 16:00,Parana,Botafogo RJ,1,1
+12.08. 00:00,Bahia,America MG,1,0
+11.08. 21:00,Ceara,Athletico-PR,0,0
+09.08. 00:30,Ceara,Santos,1,1
+07.08. 01:00,Atletico-MG,Internacional,0,1
+06.08. 00:00,Fluminense,Bahia,1,1
+06.08. 00:00,Sport Recife,Chapecoense-SC,1,1
+05.08. 21:00,America MG,Palmeiras,0,0
+05.08. 21:00,Parana,Ceara,0,1
+05.08. 21:00,Sao Paulo,Vasco,2,1
+05.08. 21:00,Vitoria,Cruzeiro,1,1
+05.08. 02:00,Corinthians,Athletico-PR,0,0
+05.08. 00:00,Gremio,Flamengo RJ,2,0
+04.08. 21:00,Botafogo RJ,Santos,0,0
+31.07. 01:00,Bahia,Atletico-MG,2,2
+30.07. 00:00,Chapecoense-SC,Gremio,1,1
+30.07. 00:00,Santos,America MG,0,1
+29.07. 21:00,Athletico-PR,Vitoria,4,0
+29.07. 21:00,Cruzeiro,Sao Paulo,0,2
+29.07. 21:00,Flamengo RJ,Sport Recife,4,1
+29.07. 21:00,Internacional,Botafogo RJ,3,0
+29.07. 16:00,Palmeiras,Parana,3,0
+29.07. 16:00,Vasco,Corinthians,1,4
+28.07. 21:00,Ceara,Fluminense,1,0
+27.07. 01:00,America MG,Internacional,2,1
+27.07. 00:30,Botafogo RJ,Chapecoense-SC,1,0
+27.07. 00:30,Gremio,Sao Paulo,2,1
+27.07. 00:30,Vitoria,Sport Recife,1,0
+26.07. 02:45,Corinthians,Cruzeiro,2,0
+26.07. 02:45,Santos,Flamengo RJ,1,1
+26.07. 02:00,Atletico-MG,Parana,2,0
+26.07. 00:30,Fluminense,Palmeiras,1,0
+24.07. 01:00,Internacional,Ceara,1,0
+23.07. 00:00,Chapecoense-SC,Santos,0,0
+23.07. 00:00,Cruzeiro,Athletico-PR,2,1
+22.07. 21:00,Bahia,Vitoria,4,1
+22.07. 21:00,Palmeiras,Atletico-MG,3,2
+22.07. 21:00,Parana,America MG,1,0
+22.07. 21:00,Sport Recife,Fluminense,1,2
+22.07. 21:00,Vasco,Gremio,1,0
+22.07. 02:00,Sao Paulo,Corinthians,3,1
+22.07. 00:00,Flamengo RJ,Botafogo RJ,2,0
+20.07. 02:00,Athletico-PR,Internacional,2,2
+20.07. 01:00,Santos,Palmeiras,1,1
+20.07. 01:00,Vasco,Fluminense,1,1
+20.07. 00:30,Chapecoense-SC,Bahia,1,1
+20.07. 00:30,Cruzeiro,America MG,3,1
+19.07. 02:45,Corinthians,Botafogo RJ,2,0
+19.07. 02:45,Flamengo RJ,Sao Paulo,0,1
+19.07. 02:45,Gremio,Atletico-MG,2,0
+19.07. 02:00,Vitoria,Parana,1,0
+19.07. 00:30,Ceara,Sport Recife,1,0
+14.06. 02:45,Atletico-MG,Ceara,2,1
+14.06. 02:45,Bahia,Corinthians,1,0
+14.06. 02:45,Internacional,Vasco,3,1
+14.06. 02:00,Botafogo RJ,Athletico-PR,2,0
+14.06. 02:00,Palmeiras,Flamengo RJ,1,1
+14.06. 00:30,Parana,Cruzeiro,1,1
+14.06. 00:30,Sport Recife,Gremio,0,0
+14.06. 00:00,Fluminense,Santos,0,1
+13.06. 21:00,America MG,Chapecoense-SC,0,0
+13.06. 02:30,Sao Paulo,Vitoria,3,0
+11.06. 00:00,Flamengo RJ,Parana,2,0
+11.06. 00:00,Santos,Internacional,1,2
+10.06. 21:00,Atletico-MG,Fluminense,5,2
+10.06. 21:00,Bahia,Botafogo RJ,3,3
+10.06. 21:00,Ceara,Palmeiras,2,2
+10.06. 21:00,Gremio,America MG,1,0
+10.06. 02:00,Corinthians,Vitoria,0,0
+10.06. 00:00,Chapecoense-SC,Cruzeiro,2,0
+10.06. 00:00,Vasco,Sport Recife,3,2
+09.06. 21:00,Athletico-PR,Sao Paulo,0,1
+08.06. 02:00,America MG,Atletico-MG,1,3
+08.06. 01:00,Fluminense,Flamengo RJ,0,2
+08.06. 01:00,Parana,Bahia,1,0
+07.06. 02:45,Cruzeiro,Vasco,1,1
+07.06. 02:45,Gremio,Palmeiras,0,2
+07.06. 02:00,Corinthians,Santos,1,1
+07.06. 02:00,Sport Recife,Athletico-PR,1,0
+07.06. 00:30,Botafogo RJ,Ceara,0,0
+07.06. 00:30,Vitoria,Chapecoense-SC,1,0
+06.06. 02:30,Sao Paulo,Internacional,0,0
+05.06. 01:00,Parana,Fluminense,2,1
+04.06. 00:00,Ceara,Cruzeiro,0,1
+03.06. 21:00,America MG,Athletico-PR,3,1
+03.06. 21:00,Bahia,Gremio,0,2
+03.06. 21:00,Flamengo RJ,Corinthians,1,0
+03.06. 21:00,Santos,Vitoria,5,2
+03.06. 02:00,Palmeiras,Sao Paulo,3,1
+03.06. 00:00,Vasco,Botafogo RJ,1,2
+02.06. 21:00,Atletico-MG,Chapecoense-SC,3,3
+02.06. 21:00,Internacional,Sport Recife,0,0
+01.06. 02:00,Athletico-PR,Santos,2,0
+31.05. 23:00,Corinthians,America MG,1,0
+31.05. 21:00,Flamengo RJ,Bahia,2,0
+31.05. 02:45,Cruzeiro,Palmeiras,1,0
+31.05. 02:45,Gremio,Fluminense,0,0
+31.05. 02:00,Chapecoense-SC,Ceara,2,0
+31.05. 02:00,Sao Paulo,Botafogo RJ,3,2
+31.05. 00:30,Sport Recife,Atletico-MG,3,2
+31.05. 00:30,Vasco,Parana,1,0
+31.05. 00:30,Vitoria,Internacional,2,3
+28.05. 00:00,America MG,Sao Paulo,1,3
+28.05. 00:00,Ceara,Gremio,0,1
+27.05. 21:00,Bahia,Vasco,3,0
+27.05. 21:00,Botafogo RJ,Vitoria,1,1
+27.05. 21:00,Internacional,Corinthians,2,1
+27.05. 21:00,Santos,Cruzeiro,0,1
+27.05. 16:00,Parana,Athletico-PR,0,0
+27.05. 02:00,Atletico-MG,Flamengo RJ,0,1
+27.05. 00:00,Palmeiras,Sport Recife,2,3
+26.05. 21:00,Fluminense,Chapecoense-SC,3,1
+22.05. 01:00,Internacional,Chapecoense-SC,3,0
+21.05. 00:00,Fluminense,Athletico-PR,2,0
+20.05. 21:00,America MG,Botafogo RJ,1,0
+20.05. 21:00,Parana,Gremio,0,0
+20.05. 21:00,Sao Paulo,Santos,1,0
+20.05. 21:00,Sport Recife,Corinthians,1,1
+20.05. 16:00,Vitoria,Ceara,2,1
+20.05. 02:00,Palmeiras,Bahia,3,0
+20.05. 00:00,Flamengo RJ,Vasco,1,1
+19.05. 21:00,Atletico-MG,Cruzeiro,1,0
+15.05. 01:00,Botafogo RJ,Fluminense,2,1
+15.05. 01:00,Ceara,America MG,2,2
+14.05. 00:00,Santos,Parana,3,1
+13.05. 21:00,Athletico-PR,Atletico-MG,1,2
+13.05. 21:00,Bahia,Sao Paulo,2,2
+13.05. 21:00,Chapecoense-SC,Flamengo RJ,3,2
+13.05. 21:00,Corinthians,Palmeiras,1,0
+13.05. 21:00,Vasco,Vitoria,2,3
+13.05. 16:00,Cruzeiro,Sport Recife,2,0
+12.05. 21:00,Gremio,Internacional,0,0
+08.05. 01:00,Chapecoense-SC,Parana,1,1
+07.05. 00:00,Gremio,Santos,5,1
+07.05. 00:00,Sport Recife,Bahia,2,0
+06.05. 21:00,Athletico-PR,Palmeiras,1,3
+06.05. 21:00,Cruzeiro,Botafogo RJ,1,0
+06.05. 21:00,Flamengo RJ,Internacional,2,0
+06.05. 21:00,Vitoria,Fluminense,1,2
+06.05. 16:00,Corinthians,Ceara,1,1
+06.05. 00:00,Sao Paulo,Atletico-MG,2,2
+06.05. 00:00,Vasco,America MG,4,1
+01.05. 01:00,America MG,Vitoria,2,1
+30.04. 00:00,Internacional,Cruzeiro,0,0
+29.04. 21:00,Atletico-MG,Corinthians,1,0
+29.04. 21:00,Bahia,Athletico-PR,0,0
+29.04. 21:00,Ceara,Flamengo RJ,0,3
+29.04. 21:00,Fluminense,Sao Paulo,1,1
+29.04. 21:00,Palmeiras,Chapecoense-SC,0,0
+29.04. 21:00,Parana,Sport Recife,1,2
+28.04. 21:00,Botafogo RJ,Gremio,2,1
+24.04. 01:00,Sport Recife,Botafogo RJ,1,1
+23.04. 00:00,Gremio,Athletico-PR,0,0
+22.04. 21:00,Atletico-MG,Vitoria,2,1
+22.04. 21:00,Ceara,Sao Paulo,0,0
+22.04. 21:00,Chapecoense-SC,Vasco,1,1
+22.04. 21:00,Fluminense,Cruzeiro,1,0
+22.04. 21:00,Palmeiras,Internacional,1,0
+22.04. 16:00,Parana,Corinthians,0,4
+22.04. 00:00,Flamengo RJ,America MG,2,0
+21.04. 21:00,Bahia,Santos,1,0
+17.04. 01:00,Botafogo RJ,Palmeiras,1,1
+17.04. 01:00,Sao Paulo,Parana,1,0
+16.04. 00:00,Athletico-PR,Chapecoense-SC,5,1
+15.04. 21:00,Corinthians,Fluminense,2,1
+15.04. 21:00,Internacional,Bahia,2,0
+15.04. 21:00,Vasco,Atletico-MG,2,1
+15.04. 16:00,America MG,Sport Recife,3,0
+15.04. 02:00,Santos,Ceara,2,0
+15.04. 00:00,Vitoria,Flamengo RJ,2,2
+14.04. 21:00,Cruzeiro,Gremio,0,1
