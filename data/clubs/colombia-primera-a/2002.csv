@@ -1,0 +1,449 @@
+date,home_team,away_team,home_score,away_score
+18.12. 00:00,Dep. Pasto,Ind. Medellin,1,1
+18.12. 00:00,Ind. Medellin,Dep. Pasto,2,0
+15.12. 00:00,America De Cali,Dep. Pasto,3,0
+15.12. 00:00,Atl. Nacional,U. Magdalena,2,0
+15.12. 00:00,Bucaramanga,Dep. Cali,1,2
+15.12. 00:00,Deportes Tolima,Ind. Medellin,1,3
+12.12. 00:00,Dep. Pasto,Atl. Nacional,1,0
+11.12. 00:00,Dep. Cali,Deportes Tolima,1,0
+11.12. 00:00,Ind. Medellin,Bucaramanga,1,0
+11.12. 00:00,U. Magdalena,America De Cali,3,1
+08.12. 00:00,Dep. Pasto,U. Magdalena,3,1
+08.12. 00:00,Deportes Tolima,Bucaramanga,1,1
+08.12. 00:00,Ind. Medellin,Dep. Cali,1,1
+07.12. 00:00,America De Cali,Atl. Nacional,2,1
+04.12. 00:00,Atl. Nacional,America De Cali,0,0
+04.12. 00:00,Bucaramanga,Deportes Tolima,2,0
+04.12. 00:00,Dep. Cali,Ind. Medellin,0,1
+04.12. 00:00,U. Magdalena,Dep. Pasto,0,0
+01.12. 00:00,Dep. Cali,Bucaramanga,4,0
+01.12. 00:00,Dep. Pasto,America De Cali,2,0
+01.12. 00:00,Ind. Medellin,Deportes Tolima,1,1
+01.12. 00:00,U. Magdalena,Atl. Nacional,2,0
+24.11. 00:00,America De Cali,U. Magdalena,2,0
+24.11. 00:00,Atl. Nacional,Dep. Pasto,1,1
+24.11. 00:00,Bucaramanga,Ind. Medellin,1,0
+24.11. 00:00,Deportes Tolima,Dep. Cali,2,0
+17.11. 00:00,America De Cali,Atl. Nacional,2,2
+17.11. 00:00,Bucaramanga,Dep. Pasto,1,0
+17.11. 00:00,Huila,Quindio,1,0
+17.11. 00:00,Ind. Medellin,Dep. Cali,3,0
+17.11. 00:00,Inter Palmira,Deportes Tolima,2,1
+17.11. 00:00,Junior,Cartagena,1,2
+17.11. 00:00,Millonarios,Pereira,2,0
+16.11. 00:00,Envigado,U. Magdalena,0,1
+16.11. 00:00,Once Caldas,Santa Fe,2,0
+14.11. 00:00,Envigado,Dep. Cali,1,1
+10.11. 00:00,Atl. Nacional,Inter Palmira,2,1
+10.11. 00:00,Cartagena,Envigado,2,0
+10.11. 00:00,Dep. Cali,Junior,2,0
+10.11. 00:00,Dep. Pasto,Millonarios,1,3
+10.11. 00:00,Deportes Tolima,Once Caldas,1,0
+10.11. 00:00,Pereira,Huila,3,2
+10.11. 00:00,Quindio,Ind. Medellin,0,1
+10.11. 00:00,Santa Fe,Bucaramanga,3,2
+09.11. 00:00,U. Magdalena,America De Cali,1,3
+07.11. 00:00,Inter Palmira,Dep. Cali,0,3
+03.11. 00:00,America De Cali,Cartagena,2,1
+03.11. 00:00,Bucaramanga,Millonarios,1,1
+03.11. 00:00,Huila,Dep. Pasto,3,1
+03.11. 00:00,Ind. Medellin,Pereira,4,0
+03.11. 00:00,Inter Palmira,U. Magdalena,2,1
+03.11. 00:00,Junior,Quindio,1,0
+03.11. 00:00,Once Caldas,Atl. Nacional,1,0
+03.11. 00:00,Santa Fe,Deportes Tolima,2,2
+31.10. 00:00,Atl. Nacional,Santa Fe,2,0
+31.10. 00:00,Cartagena,Inter Palmira,1,0
+31.10. 00:00,Dep. Pasto,Ind. Medellin,0,0
+31.10. 00:00,Deportes Tolima,Bucaramanga,1,1
+31.10. 00:00,Millonarios,Huila,3,2
+31.10. 00:00,Pereira,Junior,3,1
+31.10. 00:00,Quindio,Envigado,1,1
+31.10. 00:00,U. Magdalena,Once Caldas,2,0
+30.10. 00:00,Dep. Cali,America De Cali,2,1
+27.10. 00:00,America De Cali,Quindio,2,0
+27.10. 00:00,Bucaramanga,Huila,3,0
+27.10. 00:00,Deportes Tolima,Atl. Nacional,2,1
+27.10. 00:00,Envigado,Pereira,1,2
+27.10. 00:00,Ind. Medellin,Millonarios,2,0
+27.10. 00:00,Junior,Dep. Pasto,3,4
+27.10. 00:00,Once Caldas,Cartagena,3,0
+27.10. 00:00,Santa Fe,U. Magdalena,3,3
+21.10. 00:00,Pereira,America De Cali,3,1
+20.10. 00:00,Atl. Nacional,Bucaramanga,1,0
+20.10. 00:00,Cartagena,Santa Fe,2,4
+20.10. 00:00,Dep. Cali,Once Caldas,3,0
+20.10. 00:00,Dep. Pasto,Envigado,1,0
+20.10. 00:00,Huila,Ind. Medellin,0,0
+20.10. 00:00,Millonarios,Junior,0,2
+20.10. 00:00,Quindio,Inter Palmira,2,0
+20.10. 00:00,U. Magdalena,Deportes Tolima,0,0
+13.10. 00:00,America De Cali,Dep. Pasto,3,0
+13.10. 00:00,Atl. Nacional,U. Magdalena,0,1
+13.10. 00:00,Bucaramanga,Ind. Medellin,3,1
+13.10. 00:00,Deportes Tolima,Cartagena,2,0
+13.10. 00:00,Envigado,Millonarios,0,1
+13.10. 00:00,Inter Palmira,Pereira,2,1
+13.10. 00:00,Junior,Huila,2,2
+13.10. 00:00,Once Caldas,Quindio,3,1
+13.10. 00:00,Santa Fe,Dep. Cali,0,0
+10.10. 00:00,Inter Palmira,Millonarios,1,0
+06.10. 00:00,Cartagena,Atl. Nacional,1,5
+06.10. 00:00,Dep. Cali,Deportes Tolima,1,1
+06.10. 00:00,Dep. Pasto,Inter Palmira,2,0
+06.10. 00:00,Huila,Envigado,1,0
+06.10. 00:00,Ind. Medellin,Junior,3,1
+06.10. 00:00,Millonarios,America De Cali,0,2
+06.10. 00:00,Pereira,Once Caldas,1,1
+06.10. 00:00,U. Magdalena,Bucaramanga,1,0
+05.10. 00:00,Quindio,Santa Fe,1,1
+02.10. 00:00,America De Cali,Huila,1,1
+02.10. 00:00,Atl. Nacional,Dep. Cali,1,3
+02.10. 00:00,Bucaramanga,Junior,2,2
+02.10. 00:00,Deportes Tolima,Quindio,2,0
+02.10. 00:00,Envigado,Ind. Medellin,1,1
+02.10. 00:00,Once Caldas,Dep. Pasto,1,1
+02.10. 00:00,Santa Fe,Pereira,0,0
+02.10. 00:00,U. Magdalena,Cartagena,1,1
+29.09. 00:00,Cartagena,Bucaramanga,1,1
+29.09. 00:00,Dep. Cali,U. Magdalena,3,1
+29.09. 00:00,Dep. Pasto,Santa Fe,4,1
+29.09. 00:00,Huila,Inter Palmira,0,2
+29.09. 00:00,Ind. Medellin,America De Cali,0,0
+29.09. 00:00,Junior,Envigado,1,1
+29.09. 00:00,Millonarios,Once Caldas,1,1
+29.09. 00:00,Pereira,Deportes Tolima,2,2
+29.09. 00:00,Quindio,Atl. Nacional,1,0
+22.09. 00:00,America De Cali,Junior,1,1
+22.09. 00:00,Atl. Nacional,Pereira,2,2
+22.09. 00:00,Bucaramanga,Envigado,2,1
+22.09. 00:00,Cartagena,Dep. Cali,0,1
+22.09. 00:00,Deportes Tolima,Dep. Pasto,0,2
+22.09. 00:00,Inter Palmira,Ind. Medellin,0,1
+22.09. 00:00,Once Caldas,Huila,0,0
+22.09. 00:00,Santa Fe,Millonarios,3,2
+22.09. 00:00,U. Magdalena,Quindio,0,0
+15.09. 00:00,Dep. Cali,Bucaramanga,3,2
+15.09. 00:00,Dep. Pasto,Atl. Nacional,1,1
+15.09. 00:00,Huila,Santa Fe,1,0
+15.09. 00:00,Ind. Medellin,Once Caldas,2,2
+15.09. 00:00,Junior,Inter Palmira,2,2
+15.09. 00:00,Millonarios,Deportes Tolima,1,1
+15.09. 00:00,Pereira,U. Magdalena,1,0
+15.09. 00:00,Quindio,Cartagena,3,1
+14.09. 00:00,Envigado,America De Cali,0,1
+08.09. 00:00,Atl. Nacional,Millonarios,1,1
+08.09. 00:00,Bucaramanga,America De Cali,0,1
+08.09. 00:00,Cartagena,Pereira,2,0
+08.09. 00:00,Dep. Cali,Quindio,2,0
+08.09. 00:00,Deportes Tolima,Huila,0,0
+08.09. 00:00,Inter Palmira,Envigado,1,1
+08.09. 00:00,Once Caldas,Junior,1,1
+08.09. 00:00,Santa Fe,Ind. Medellin,0,0
+08.09. 00:00,U. Magdalena,Dep. Pasto,3,1
+04.09. 00:00,America De Cali,Inter Palmira,3,1
+01.09. 00:00,Dep. Pasto,Cartagena,1,0
+01.09. 00:00,Huila,Atl. Nacional,0,1
+01.09. 00:00,Ind. Medellin,Deportes Tolima,1,2
+01.09. 00:00,Junior,Santa Fe,1,1
+01.09. 00:00,Millonarios,U. Magdalena,1,1
+01.09. 00:00,Pereira,Dep. Cali,3,1
+01.09. 00:00,Quindio,Bucaramanga,1,3
+31.08. 00:00,Envigado,Once Caldas,1,1
+25.08. 00:00,Atl. Nacional,Ind. Medellin,1,1
+25.08. 00:00,Bucaramanga,Inter Palmira,1,0
+25.08. 00:00,Cartagena,Millonarios,1,0
+25.08. 00:00,Dep. Cali,Dep. Pasto,3,0
+25.08. 00:00,Deportes Tolima,Junior,2,1
+25.08. 00:00,Quindio,Pereira,2,1
+25.08. 00:00,Santa Fe,Envigado,4,0
+25.08. 00:00,U. Magdalena,Huila,2,2
+24.08. 00:00,Once Caldas,America De Cali,3,0
+18.08. 00:00,America De Cali,Santa Fe,1,0
+18.08. 00:00,Dep. Pasto,Quindio,2,1
+18.08. 00:00,Envigado,Deportes Tolima,3,0
+18.08. 00:00,Huila,Cartagena,2,1
+18.08. 00:00,Ind. Medellin,U. Magdalena,1,0
+18.08. 00:00,Inter Palmira,Once Caldas,1,0
+18.08. 00:00,Junior,Atl. Nacional,1,1
+18.08. 00:00,Millonarios,Dep. Cali,0,1
+18.08. 00:00,Pereira,Bucaramanga,0,1
+11.08. 00:00,Atl. Nacional,Envigado,1,0
+11.08. 00:00,Bucaramanga,Once Caldas,1,1
+11.08. 00:00,Cartagena,Ind. Medellin,0,1
+11.08. 00:00,Dep. Cali,Huila,4,0
+11.08. 00:00,Deportes Tolima,America De Cali,4,0
+11.08. 00:00,Pereira,Dep. Pasto,1,2
+11.08. 00:00,Quindio,Millonarios,1,0
+11.08. 00:00,Santa Fe,Inter Palmira,1,1
+11.08. 00:00,U. Magdalena,Junior,2,0
+04.08. 00:00,Dep. Cali,Pereira,3,0
+04.08. 00:00,Dep. Pasto,Millonarios,2,1
+04.08. 00:00,Envigado,Cartagena,0,1
+04.08. 00:00,Huila,Deportes Tolima,1,1
+04.08. 00:00,Ind. Medellin,Junior,0,2
+04.08. 00:00,Inter Palmira,Quindio,0,1
+04.08. 00:00,Once Caldas,America De Cali,1,0
+04.08. 00:00,Santa Fe,Bucaramanga,2,3
+04.08. 00:00,U. Magdalena,Atl. Nacional,2,1
+28.07. 00:00,America De Cali,Dep. Cali,1,2
+28.07. 00:00,Atl. Nacional,Envigado,3,1
+28.07. 00:00,Bucaramanga,Huila,1,0
+28.07. 00:00,Cartagena,Ind. Medellin,2,1
+28.07. 00:00,Deportes Tolima,Dep. Pasto,2,1
+28.07. 00:00,Junior,U. Magdalena,3,0
+28.07. 00:00,Millonarios,Santa Fe,0,2
+28.07. 00:00,Pereira,Inter Palmira,3,4
+28.07. 00:00,Quindio,Once Caldas,1,1
+21.07. 00:00,America De Cali,Quindio,1,0
+21.07. 00:00,Dep. Pasto,Bucaramanga,4,3
+21.07. 00:00,Envigado,U. Magdalena,3,0
+21.07. 00:00,Huila,Santa Fe,1,2
+21.07. 00:00,Ind. Medellin,Atl. Nacional,0,0
+21.07. 00:00,Inter Palmira,Dep. Cali,0,0
+21.07. 00:00,Junior,Cartagena,1,1
+21.07. 00:00,Millonarios,Deportes Tolima,3,2
+21.07. 00:00,Once Caldas,Pereira,0,0
+14.07. 00:00,Atl. Nacional,Cartagena,0,0
+14.07. 00:00,Bucaramanga,Deportes Tolima,1,1
+14.07. 00:00,Dep. Cali,Once Caldas,0,0
+14.07. 00:00,Envigado,Junior,1,0
+14.07. 00:00,Huila,Millonarios,2,1
+14.07. 00:00,Inter Palmira,America De Cali,1,0
+14.07. 00:00,Pereira,Quindio,0,1
+14.07. 00:00,Santa Fe,Dep. Pasto,3,1
+14.07. 00:00,U. Magdalena,Ind. Medellin,2,1
+07.07. 00:00,America De Cali,Pereira,0,1
+07.07. 00:00,Cartagena,U. Magdalena,0,1
+07.07. 00:00,Dep. Pasto,Huila,1,0
+07.07. 00:00,Deportes Tolima,Santa Fe,1,3
+07.07. 00:00,Ind. Medellin,Envigado,1,0
+07.07. 00:00,Junior,Atl. Nacional,0,2
+07.07. 00:00,Millonarios,Bucaramanga,4,2
+07.07. 00:00,Once Caldas,Inter Palmira,1,0
+07.07. 00:00,Quindio,Dep. Cali,1,0
+19.06. 00:00,Atl. Nacional,America De Cali,0,1
+16.06. 00:00,America De Cali,Atl. Nacional,2,1
+12.06. 00:00,America De Cali,Envigado,2,1
+12.06. 00:00,Atl. Nacional,Dep. Cali,2,1
+12.06. 00:00,Dep. Pasto,U. Magdalena,1,2
+12.06. 00:00,Santa Fe,Bucaramanga,3,1
+09.06. 00:00,Bucaramanga,America De Cali,0,1
+09.06. 00:00,Dep. Cali,Dep. Pasto,3,1
+09.06. 00:00,Envigado,Santa Fe,0,1
+09.06. 00:00,U. Magdalena,Atl. Nacional,0,1
+05.06. 00:00,America De Cali,Santa Fe,2,1
+05.06. 00:00,Atl. Nacional,Dep. Pasto,3,0
+05.06. 00:00,Bucaramanga,Envigado,0,2
+05.06. 00:00,U. Magdalena,Dep. Cali,6,0
+02.06. 00:00,Dep. Cali,U. Magdalena,4,1
+02.06. 00:00,Dep. Pasto,Atl. Nacional,0,2
+02.06. 00:00,Envigado,Bucaramanga,1,1
+02.06. 00:00,Santa Fe,America De Cali,2,0
+29.05. 00:00,America De Cali,Bucaramanga,1,0
+29.05. 00:00,Atl. Nacional,U. Magdalena,2,1
+29.05. 00:00,Dep. Pasto,Dep. Cali,1,1
+29.05. 00:00,Santa Fe,Envigado,0,0
+23.05. 00:00,Bucaramanga,Santa Fe,2,2
+23.05. 00:00,Dep. Cali,Atl. Nacional,2,2
+23.05. 00:00,Envigado,America De Cali,2,0
+23.05. 00:00,U. Magdalena,Dep. Pasto,2,1
+19.05. 00:00,Atl. Nacional,America De Cali,0,2
+19.05. 00:00,Cartagena,Junior,1,2
+19.05. 00:00,Dep. Cali,Ind. Medellin,4,1
+19.05. 00:00,Dep. Pasto,Bucaramanga,3,2
+19.05. 00:00,Deportes Tolima,Inter Palmira,2,0
+19.05. 00:00,Pereira,Millonarios,3,0
+19.05. 00:00,Quindio,Huila,1,1
+19.05. 00:00,Santa Fe,Once Caldas,1,0
+19.05. 00:00,U. Magdalena,Envigado,1,1
+15.05. 00:00,America De Cali,U. Magdalena,1,1
+15.05. 00:00,Bucaramanga,Santa Fe,0,1
+15.05. 00:00,Envigado,Cartagena,1,0
+15.05. 00:00,Huila,Pereira,1,0
+15.05. 00:00,Ind. Medellin,Quindio,0,1
+15.05. 00:00,Inter Palmira,Atl. Nacional,2,0
+15.05. 00:00,Junior,Dep. Cali,0,2
+15.05. 00:00,Millonarios,Dep. Pasto,1,1
+15.05. 00:00,Once Caldas,Deportes Tolima,6,1
+11.05. 00:00,America De Cali,Once Caldas,3,1
+11.05. 00:00,Ind. Medellin,Atl. Nacional,1,1
+11.05. 00:00,Inter Palmira,Santa Fe,0,0
+05.05. 00:00,Atl. Nacional,Once Caldas,1,0
+05.05. 00:00,Cartagena,America De Cali,1,1
+05.05. 00:00,Dep. Cali,Envigado,0,0
+05.05. 00:00,Dep. Pasto,Huila,1,0
+05.05. 00:00,Deportes Tolima,Santa Fe,0,0
+05.05. 00:00,Millonarios,Bucaramanga,1,1
+05.05. 00:00,Pereira,Ind. Medellin,1,1
+05.05. 00:00,Quindio,Junior,1,0
+05.05. 00:00,U. Magdalena,Inter Palmira,1,0
+01.05. 00:00,America De Cali,Dep. Cali,0,3
+01.05. 00:00,Bucaramanga,Deportes Tolima,2,0
+01.05. 00:00,Envigado,Quindio,1,1
+01.05. 00:00,Huila,Millonarios,0,0
+01.05. 00:00,Ind. Medellin,Dep. Pasto,2,4
+01.05. 00:00,Inter Palmira,Cartagena,1,1
+01.05. 00:00,Junior,Pereira,0,2
+01.05. 00:00,Once Caldas,U. Magdalena,2,0
+01.05. 00:00,Santa Fe,Atl. Nacional,0,2
+28.04. 00:00,Atl. Nacional,Deportes Tolima,2,1
+28.04. 00:00,Cartagena,Once Caldas,1,2
+28.04. 00:00,Dep. Cali,Inter Palmira,2,0
+28.04. 00:00,Dep. Pasto,Junior,1,0
+28.04. 00:00,Huila,Bucaramanga,1,1
+28.04. 00:00,Millonarios,Ind. Medellin,2,2
+28.04. 00:00,Pereira,Envigado,0,1
+28.04. 00:00,Quindio,America De Cali,1,0
+28.04. 00:00,U. Magdalena,Santa Fe,1,1
+24.04. 00:00,America De Cali,Pereira,0,0
+24.04. 00:00,Bucaramanga,Atl. Nacional,1,1
+24.04. 00:00,Deportes Tolima,U. Magdalena,0,1
+24.04. 00:00,Envigado,Dep. Pasto,1,1
+24.04. 00:00,Ind. Medellin,Huila,3,0
+24.04. 00:00,Inter Palmira,Quindio,0,0
+24.04. 00:00,Junior,Millonarios,1,0
+24.04. 00:00,Once Caldas,Dep. Cali,2,2
+24.04. 00:00,Santa Fe,Cartagena,4,0
+20.04. 00:00,Cartagena,Deportes Tolima,1,0
+20.04. 00:00,Dep. Cali,Santa Fe,3,0
+20.04. 00:00,Dep. Pasto,America De Cali,2,1
+20.04. 00:00,Huila,Junior,1,2
+20.04. 00:00,Ind. Medellin,Bucaramanga,2,0
+20.04. 00:00,Millonarios,Envigado,2,0
+20.04. 00:00,Pereira,Inter Palmira,1,0
+20.04. 00:00,Quindio,Once Caldas,1,2
+20.04. 00:00,U. Magdalena,Atl. Nacional,2,0
+17.04. 00:00,America De Cali,Millonarios,2,0
+17.04. 00:00,Atl. Nacional,Cartagena,1,0
+17.04. 00:00,Bucaramanga,U. Magdalena,2,1
+17.04. 00:00,Deportes Tolima,Dep. Cali,2,2
+17.04. 00:00,Envigado,Huila,2,1
+17.04. 00:00,Inter Palmira,Dep. Pasto,1,0
+17.04. 00:00,Junior,Ind. Medellin,2,0
+17.04. 00:00,Once Caldas,Pereira,1,1
+17.04. 00:00,Santa Fe,Quindio,2,0
+14.04. 00:00,Cartagena,U. Magdalena,1,0
+14.04. 00:00,Dep. Cali,Atl. Nacional,1,1
+14.04. 00:00,Dep. Pasto,Once Caldas,1,0
+14.04. 00:00,Huila,America De Cali,2,0
+14.04. 00:00,Ind. Medellin,Envigado,2,2
+14.04. 00:00,Junior,Bucaramanga,0,0
+14.04. 00:00,Millonarios,Inter Palmira,1,0
+14.04. 00:00,Pereira,Santa Fe,0,0
+14.04. 00:00,Quindio,Deportes Tolima,0,0
+07.04. 00:00,America De Cali,Ind. Medellin,0,0
+07.04. 00:00,Atl. Nacional,Quindio,2,2
+07.04. 00:00,Bucaramanga,Cartagena,3,0
+07.04. 00:00,Deportes Tolima,Pereira,1,2
+07.04. 00:00,Envigado,Junior,1,0
+07.04. 00:00,Inter Palmira,Huila,2,1
+07.04. 00:00,Once Caldas,Millonarios,2,1
+07.04. 00:00,Santa Fe,Dep. Pasto,1,1
+07.04. 00:00,U. Magdalena,Dep. Cali,3,2
+03.04. 00:00,Dep. Cali,Cartagena,1,1
+03.04. 00:00,Dep. Pasto,Deportes Tolima,2,0
+03.04. 00:00,Envigado,Bucaramanga,2,0
+03.04. 00:00,Huila,Once Caldas,2,0
+03.04. 00:00,Ind. Medellin,Inter Palmira,1,4
+03.04. 00:00,Junior,America De Cali,0,0
+03.04. 00:00,Millonarios,Santa Fe,0,1
+03.04. 00:00,Pereira,Atl. Nacional,0,0
+03.04. 00:00,Quindio,U. Magdalena,3,1
+31.03. 00:00,America De Cali,Envigado,1,0
+31.03. 00:00,Atl. Nacional,Dep. Pasto,2,0
+31.03. 00:00,Bucaramanga,Dep. Cali,1,2
+31.03. 00:00,Cartagena,Quindio,0,0
+31.03. 00:00,Deportes Tolima,Millonarios,0,0
+31.03. 00:00,Inter Palmira,Junior,0,0
+31.03. 00:00,Once Caldas,Ind. Medellin,1,0
+31.03. 00:00,Santa Fe,Huila,3,0
+31.03. 00:00,U. Magdalena,Pereira,2,1
+27.03. 00:00,Once Caldas,Inter Palmira,2,1
+23.03. 00:00,America De Cali,Bucaramanga,2,0
+23.03. 00:00,Dep. Pasto,U. Magdalena,2,1
+23.03. 00:00,Envigado,Inter Palmira,2,0
+23.03. 00:00,Huila,Deportes Tolima,2,2
+23.03. 00:00,Ind. Medellin,Santa Fe,1,2
+23.03. 00:00,Junior,Once Caldas,3,1
+23.03. 00:00,Millonarios,Atl. Nacional,0,1
+23.03. 00:00,Pereira,Cartagena,2,1
+23.03. 00:00,Quindio,Dep. Cali,0,3
+17.03. 00:00,Atl. Nacional,Huila,2,1
+17.03. 00:00,Bucaramanga,Quindio,2,1
+17.03. 00:00,Cartagena,Dep. Pasto,2,2
+17.03. 00:00,Dep. Cali,Pereira,3,0
+17.03. 00:00,Deportes Tolima,Ind. Medellin,1,1
+17.03. 00:00,Once Caldas,Envigado,4,1
+17.03. 00:00,Santa Fe,Junior,2,0
+17.03. 00:00,U. Magdalena,Millonarios,1,0
+16.03. 00:00,Inter Palmira,America De Cali,1,3
+14.03. 00:00,America De Cali,Once Caldas,2,2
+14.03. 00:00,Dep. Pasto,Dep. Cali,5,3
+14.03. 00:00,Envigado,Santa Fe,0,0
+14.03. 00:00,Huila,U. Magdalena,1,1
+14.03. 00:00,Inter Palmira,Bucaramanga,0,1
+14.03. 00:00,Junior,Deportes Tolima,2,1
+14.03. 00:00,Millonarios,Cartagena,0,0
+14.03. 00:00,Pereira,Quindio,3,0
+11.03. 00:00,Santa Fe,America De Cali,1,2
+08.03. 00:00,Atl. Nacional,Junior,1,1
+08.03. 00:00,Bucaramanga,Pereira,1,0
+08.03. 00:00,Cartagena,Huila,4,0
+08.03. 00:00,Dep. Cali,Millonarios,2,0
+08.03. 00:00,Deportes Tolima,Envigado,2,1
+08.03. 00:00,Quindio,Dep. Pasto,0,0
+08.03. 00:00,U. Magdalena,Ind. Medellin,1,1
+07.03. 00:00,Deportes Tolima,Millonarios,0,0
+03.03. 00:00,America De Cali,Deportes Tolima,2,1
+03.03. 00:00,Dep. Pasto,Pereira,0,0
+03.03. 00:00,Envigado,Atl. Nacional,0,1
+03.03. 00:00,Huila,Dep. Cali,0,3
+03.03. 00:00,Ind. Medellin,Cartagena,0,0
+03.03. 00:00,Junior,U. Magdalena,2,2
+03.03. 00:00,Millonarios,Quindio,5,0
+03.03. 00:00,Once Caldas,Bucaramanga,2,3
+23.02. 00:00,Atl. Nacional,U. Magdalena,1,0
+23.02. 00:00,Bucaramanga,Santa Fe,1,0
+23.02. 00:00,Cartagena,Envigado,0,1
+23.02. 00:00,Deportes Tolima,Huila,0,0
+23.02. 00:00,Junior,Ind. Medellin,2,1
+23.02. 00:00,Millonarios,Dep. Pasto,2,1
+23.02. 00:00,Pereira,Dep. Cali,2,1
+23.02. 00:00,Quindio,Inter Palmira,2,2
+17.02. 00:00,Dep. Cali,America De Cali,2,1
+17.02. 00:00,Dep. Pasto,Deportes Tolima,1,3
+17.02. 00:00,Envigado,Atl. Nacional,2,0
+17.02. 00:00,Huila,Bucaramanga,2,0
+17.02. 00:00,Ind. Medellin,Cartagena,2,1
+17.02. 00:00,Once Caldas,Quindio,1,2
+17.02. 00:00,Santa Fe,Millonarios,0,0
+17.02. 00:00,U. Magdalena,Junior,2,1
+16.02. 00:00,Inter Palmira,Pereira,0,1
+13.02. 00:00,Atl. Nacional,Ind. Medellin,1,1
+13.02. 00:00,Bucaramanga,Dep. Pasto,0,0
+13.02. 00:00,Cartagena,Junior,1,0
+13.02. 00:00,Dep. Cali,Inter Palmira,0,1
+13.02. 00:00,Pereira,Once Caldas,1,1
+13.02. 00:00,Quindio,America De Cali,3,3
+13.02. 00:00,Santa Fe,Huila,2,2
+13.02. 00:00,U. Magdalena,Envigado,2,0
+10.02. 00:00,America De Cali,Inter Palmira,1,1
+10.02. 00:00,Cartagena,Atl. Nacional,0,0
+10.02. 00:00,Dep. Pasto,Santa Fe,0,3
+10.02. 00:00,Deportes Tolima,Bucaramanga,1,1
+10.02. 00:00,Ind. Medellin,U. Magdalena,4,1
+10.02. 00:00,Junior,Envigado,0,1
+10.02. 00:00,Millonarios,Huila,2,1
+10.02. 00:00,Once Caldas,Dep. Cali,1,1
+10.02. 00:00,Quindio,Pereira,2,0
+03.02. 00:00,Atl. Nacional,Junior,4,1
+03.02. 00:00,Bucaramanga,Millonarios,2,0
+03.02. 00:00,Dep. Cali,Quindio,2,3
+03.02. 00:00,Envigado,Ind. Medellin,1,0
+03.02. 00:00,Huila,Dep. Pasto,2,1
+03.02. 00:00,Inter Palmira,Once Caldas,0,3
+03.02. 00:00,Pereira,America De Cali,0,0
+03.02. 00:00,Santa Fe,Deportes Tolima,2,0
+03.02. 00:00,U. Magdalena,Cartagena,2,1
