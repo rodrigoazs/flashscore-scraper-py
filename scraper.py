@@ -16,7 +16,7 @@ leagues = {
     # "data/clubs/uruguay-primera-division": "/uruguay/liga-auf-uruguaya",
     # "data/clubs/argentina-primera-division": "/argentina/torneo-betano",
     # "data/clubs/argentina-copa-argentina": "/argentina/copa-argentina",
-    "data/clubs/argentina-copa-de-la-liga": "/argentina/copa-de-la-liga-profesional",
+    # "data/clubs/argentina-copa-de-la-liga": "/argentina/copa-de-la-liga-profesional",
     # "data/clubs/brazil-brasileirao-serie-a": "/brazil/serie-a-betano",
     # "data/clubs/brazil-copa-do-brasil": "/brazil/copa-betano-do-brasil",
     # "data/clubs/chile-primera-division": "/chile/liga-de-primera",
@@ -119,7 +119,7 @@ def get_year(date_str):
 def extract_results_from_html(html_content, year):
     soup = BeautifulSoup(html_content, "html.parser")
     results = [
-        "timestamp,home_team,away_team,home_score,away_score,info,home_part,away_part"
+        "timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part"
     ]
     matches = soup.find_all("div", class_=["event__match"])
     last_month = None
