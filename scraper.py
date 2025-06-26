@@ -10,12 +10,15 @@ from fake_useragent import UserAgent
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 
 leagues = {
     # "data/clubs/uruguay-primera-division": "/uruguay/liga-auf-uruguaya",
     # "data/clubs/argentina-primera-division": "/argentina/torneo-betano",
-    # "data/clubs/argentina-copa-argentina": "/argentina/copa-argentina",
+    "data/clubs/argentina-copa-argentina": "/argentina/copa-argentina",
     # "data/clubs/argentina-copa-de-la-liga": "/argentina/copa-de-la-liga-profesional",
     # "data/clubs/brazil-brasileirao-serie-a": "/brazil/serie-a-betano",
     # "data/clubs/brazil-copa-do-brasil": "/brazil/copa-betano-do-brasil",
@@ -95,7 +98,7 @@ def get_timestamp(date_str, year):
 def get_month(date_str):
     match = re.search(r"\d{2}\.(\d{2})\.", date_str)
     if match:
-        month = match.group(0)
+        month = match.group(1)
         return int(month)
     return None
 
@@ -116,23 +119,42 @@ def get_year(date_str):
         return int(match.group(1))
 
 
-def extract_results_from_html(html_content, year):
+def get_neutral(_id, driver):
+    div_id = driver.find_element(By.ID, _id)
+    time.sleep(1)
+    info_icon = div_id.find_element(
+        By.CSS_SELECTOR, '[data-testid="wcl-icon-settings-info-rounded"]'
+    )
+    # Scroll the info icon into view
+    driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", info_icon)
+    time.sleep(0.5)  # Give browser a moment to settle after scroll
+    ActionChains(driver).move_to_element(info_icon).perform()
+    popup = WebDriverWait(driver, 10).until(
+        EC.visibility_of_element_located((By.CSS_SELECTOR, ".tooltip"))
+    )
+    if "Neutral location" in popup.text:
+        return "1"
+    return "0"
+
+
+def extract_results_from_html(html_content, year, driver):
     soup = BeautifulSoup(html_content, "html.parser")
     results = [
-        "timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part"
+        "timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral"
     ]
     matches = soup.find_all("div", class_=["event__match"])
     last_month = None
     current_year = year if isinstance(year, int) else year[0]
     for match in matches[::-1]:
+        neutral = "0"
+        _id = match.get("id")
         date = match.find("div", class_=["event__time"]).get_text(strip=True)
         info = get_info(date)
         if isinstance(year, list):
             month = get_month(date)
             if last_month and month < last_month:
                 current_year = year[1]
-            else:
-                last_month = month
+            last_month = month
         timestamp = get_timestamp(date, current_year)
         home = match.find("div", class_=["event__homeParticipant"])
         away = match.find("div", class_=["event__awayParticipant"])
@@ -156,6 +178,9 @@ def extract_results_from_html(html_content, year):
             away_part = ""
         home_team = (home.find("span") or home.find("strong")).get_text(strip=True)
         away_team = (away.find("span") or away.find("strong")).get_text(strip=True)
+        icon_match = match.find(attrs={"data-testid": "wcl-icon-settings-info-rounded"})
+        if icon_match:
+            neutral = get_neutral(_id, driver)
         home_img = home.find("img")
         away_img = away.find("img")
         home_logo = home_img["src"] if home_img and home_img.has_attr("src") else None
@@ -173,6 +198,7 @@ def extract_results_from_html(html_content, year):
                     info,
                     home_part,
                     away_part,
+                    neutral,
                 ]
             )
         )
@@ -278,7 +304,7 @@ def extract_results(url, filename):
         year = get_year(url)
         div_element = driver.find_element(By.ID, "live-table")
         results = extract_results_from_html(
-            div_element.get_attribute("innerHTML"), year
+            div_element.get_attribute("innerHTML"), year, driver
         )
         with open(filename, "w") as f:
             f.write("\n".join(results))
@@ -294,7 +320,7 @@ if __name__ == "__main__":
     for folder, league_url in leagues.items():
         archive = get_archive(league_url)
         os.makedirs(folder, exist_ok=True)
-        for url in archive:
+        for url in archive[::-1]:
             pattern = r"-(\d{4}-\d{4}|\d{4})\/"
             matches = re.findall(pattern, url)
             if not matches:
