@@ -1,64 +1,64 @@
-date,home_team,away_team,home_score,away_score
-14.12. 01:10,Central Cordoba,River Plate,0,3
-15.11. 01:10,River Plate,CA Estudiantes,2,0
-14.11. 21:00,Central Cordoba,Lanus,1,0
-25.10. 22:10,Independiente,Lanus,0,2
-17.10. 02:10Pen,Colon Santa Fe,CA Estudiantes,2,3
-16.10. 20:35,Central Cordoba,Estudiantes L.P.,1,0
-12.10. 01:30,River Plate,Almagro,2,0
-10.10. 23:10Pen,Sportivo Estudiantes,Estudiantes L.P.,2,3
-07.10. 22:40,Almagro,Talleres Cordoba,1,0
-27.09. 02:10,Defensa y Justicia,Independiente,0,1
-26.09. 01:00Pen,CA Estudiantes,Real Pilar,2,1
-19.09. 22:00,Sportivo Estudiantes,Barracas Central,2,0
-19.09. 02:10,Godoy Cruz,River Plate,0,1
-18.09. 23:10Pen,Talleres Cordoba,Banfield,1,0
-11.09. 00:10Pen,Colon Santa Fe,Atl. Tucuman,2,1
-08.09. 20:05,Villa Mitre,Central Cordoba,1,2
-07.09. 22:10,Lanus,Argentinos Jrs,4,1
-05.09. 02:10Pen,Atl. Tucuman,Boca Unidos,3,2
-29.08. 00:10,Arsenal Sarandi,CA Estudiantes,2,3
-28.08. 22:00,Patronato,Independiente,0,1
-28.08. 19:40,Sol de Mayo,Colon Santa Fe,0,4
-22.08. 00:15Pen,San Martin T.,Argentinos Jrs,0,1
-21.08. 20:30,All Boys,Central Cordoba,0,1
-14.08. 02:10Pen,Boca Juniors,Almagro,1,2
-03.08. 18:10,Villa Mitre,San Martin S.J.,1,0
-27.07. 17:10,Belgrano,Real Pilar,0,1
-21.07. 22:10Pen,Racing Club,Boca Unidos,0,1
-21.07. 02:10,Lanus,Ind. Rivadavia,1,0
-20.07. 22:10Pen,Gimnasia L.P.,Defensa y Justicia,1,2
-20.07. 18:10,CA Mitre,Estudiantes L.P.,0,2
-17.07. 02:10Pen,Gimnasia Mendoza,River Plate,1,2
-14.07. 21:40Pen,Huracan,Godoy Cruz,1,2
-23.05. 02:10,San Lorenzo,Sportivo Estudiantes,0,2
-22.05. 23:10,Estudiantes L.P.,Sarmiento Resistencia,5,1
-15.05. 21:00,Huracan,Union Sunchales,2,0
-08.05. 22:10,Belgrano,Dep. Riestra,3,0
-26.04. 01:10,Union de Santa Fe,Barracas Central,0,1
-25.04. 00:10,Colon Santa Fe,Acassuso,3,0
-24.04. 02:10,Ind. Rivadavia,Midland,1,0
-19.04. 23:00,Boca Juniors,Estudiantes Rio Cuarto,2,0
-18.04. 02:10,River Plate,Argentino de Merlo,3,0
-17.04. 22:10,CA Mitre,Deportivo Roca,1,0
-17.04. 01:05,Defensa y Justicia,Gimnasia y Tiro,1,0
-10.04. 22:10,Arsenal Sarandi,Atletico Atlanta,2,0
-03.04. 21:10,Nueva Chicago,Central Cordoba,0,1
-27.03. 21:10,Sarmiento Junin,All Boys,0,2
-25.03. 22:10,Talleres Cordoba,Laferrere,5,0
-24.03. 21:10,Newells Old Boys,Villa Mitre,1,2
-23.03. 21:10,Godoy Cruz,Deportivo Armenio,2,1
-22.03. 00:10,Lanus,Huracan Las Heras,2,0
-21.03. 22:10Pen,Gimnasia L.P.,Defensores Belgrano VR,1,0
-21.03. 00:10,Atl. Tucuman,Platense,1,0
-20.03. 22:10,San Martin S.J.,Villa Dalmine,1,0
-19.03. 22:10,Aldosivi,Gimnasia Mendoza,0,1
-13.03. 21:10Pen,Patronato,Dock Sud,2,1
-08.03. 00:10,Velez Sarsfield,Real Pilar,0,1
-07.03. 21:10Pen,Almagro,Atl. Rafaela,2,1
-07.03. 01:35Pen,San Martin T.,Agropecuario,3,2
-06.03. 23:30,Independiente,Atlas,4,0
-05.03. 21:10,Argentinos Jrs,Douglas Haig,4,1
-01.03. 00:10,Tigre,CA Estudiantes,0,3
-27.02. 21:10,Banfield,CDJU Gualeguaychu,3,0
-27.02. 01:10Pen,Rosario Central,Sol de Mayo,2,3
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1551226200,Rosario Central,Sol de Mayo,2,2,Pen,2,3,0
+1551298200,Banfield,CDJU Gualeguaychu,3,0,,,,0
+1551395400,Tigre,CA Estudiantes,0,3,,,,0
+1551816600,Argentinos Jrs,Douglas Haig,4,1,,,,0
+1551911400,Independiente,Atlas,4,0,,,,0
+1551918900,San Martin T.,Agropecuario,2,2,Pen,3,2,0
+1551989400,Almagro,Atl. Rafaela,1,1,Pen,2,1,0
+1552000200,Velez Sarsfield,Real Pilar,0,1,,,,0
+1552507800,Patronato,Dock Sud,1,1,Pen,2,1,0
+1553029800,Aldosivi,Gimnasia Mendoza,0,1,,,,0
+1553116200,San Martin S.J.,Villa Dalmine,1,0,,,,0
+1553123400,Atl. Tucuman,Platense,1,0,,,,0
+1553202600,Gimnasia L.P.,Defensores Belgrano VR,0,0,Pen,1,0,0
+1553209800,Lanus,Huracan Las Heras,2,0,,,,0
+1553371800,Godoy Cruz,Deportivo Armenio,2,1,,,,0
+1553458200,Newells Old Boys,Villa Mitre,1,2,,,,0
+1553548200,Talleres Cordoba,Laferrere,5,0,,,,0
+1553717400,Sarmiento Junin,All Boys,0,2,,,,0
+1554318600,Nueva Chicago,Central Cordoba,0,1,,,,0
+1554927000,Arsenal Sarandi,Atletico Atlanta,2,0,,,,0
+1555455900,Defensa y Justicia,Gimnasia y Tiro,1,0,,,,0
+1555531800,CA Mitre,Deportivo Roca,1,0,,,,0
+1555546200,River Plate,Argentino de Merlo,3,0,,,,0
+1555707600,Boca Juniors,Estudiantes Rio Cuarto,2,0,,,,0
+1556064600,Ind. Rivadavia,Midland,1,0,,,,0
+1556143800,Colon Santa Fe,Acassuso,3,0,,,,0
+1556233800,Union de Santa Fe,Barracas Central,0,1,,,,0
+1557346200,Belgrano,Dep. Riestra,3,0,,,,0
+1557946800,Huracan,Union Sunchales,2,0,,,,0
+1558559400,Estudiantes L.P.,Sarmiento Resistencia,5,1,,,,0
+1558570200,San Lorenzo,Sportivo Estudiantes,0,2,,,,0
+1563133200,Huracan,Godoy Cruz,1,1,Pen,1,2,0
+1563322200,Gimnasia Mendoza,River Plate,1,1,Pen,1,2,0
+1563639000,CA Mitre,Estudiantes L.P.,0,2,,,,0
+1563653400,Gimnasia L.P.,Defensa y Justicia,1,1,Pen,1,2,0
+1563667800,Lanus,Ind. Rivadavia,1,0,,,,0
+1563739800,Racing Club,Boca Unidos,0,0,Pen,0,1,0
+1564240200,Belgrano,Real Pilar,0,1,,,,0
+1564848600,Villa Mitre,San Martin S.J.,1,0,,,,0
+1565741400,Boca Juniors,Almagro,1,1,Pen,1,2,0
+1566412200,All Boys,Central Cordoba,0,1,,,,0
+1566425700,San Martin T.,Argentinos Jrs,0,0,Pen,0,1,0
+1567014000,Sol de Mayo,Colon Santa Fe,0,4,,,,0
+1567022400,Patronato,Independiente,0,1,,,,0
+1567030200,Arsenal Sarandi,CA Estudiantes,2,3,,,,0
+1567642200,Atl. Tucuman,Boca Unidos,2,2,Pen,3,2,0
+1567887000,Lanus,Argentinos Jrs,4,1,,,,0
+1567965900,Villa Mitre,Central Cordoba,1,2,,,,0
+1568153400,Colon Santa Fe,Atl. Tucuman,1,1,Pen,2,1,0
+1568841000,Talleres Cordoba,Banfield,0,0,Pen,1,0,0
+1568851800,Godoy Cruz,River Plate,0,1,,,,0
+1568923200,Sportivo Estudiantes,Barracas Central,2,0,,,,0
+1569452400,CA Estudiantes,Real Pilar,1,1,Pen,2,1,0
+1569543000,Defensa y Justicia,Independiente,0,1,,,,0
+1570480800,Almagro,Talleres Cordoba,1,0,,,,0
+1570741800,Sportivo Estudiantes,Estudiantes L.P.,2,2,Pen,2,3,0
+1570836600,River Plate,Almagro,2,0,,,,0
+1571250900,Central Cordoba,Estudiantes L.P.,1,0,,,,0
+1571271000,Colon Santa Fe,CA Estudiantes,2,2,Pen,2,3,0
+1572034200,Independiente,Lanus,0,2,,,,0
+1573761600,Central Cordoba,Lanus,1,0,,,,0
+1573776600,River Plate,CA Estudiantes,2,0,,,,1
+1576282200,Central Cordoba,River Plate,0,3,,,,0

@@ -1,64 +1,64 @@
-date,home_team,away_team,home_score,away_score
-05.11. 01:10,Rosario Central,Boca Juniors,0,2
-24.10. 02:30,Rosario Central,Racing Club,1,0
-24.10. 00:00,Lanus,Boca Juniors,0,2
-24.09. 02:30,Defensa y Justicia,Boca Juniors,1,2
-24.09. 00:30,Rosario Central,Estudiantes L.P.,2,1
-18.09. 01:10,Racing Club,San Lorenzo,2,1
-10.09. 00:00Pen,Lanus,Velez Sarsfield,2,1
-04.09. 00:00Pen,Quilmes,Estudiantes L.P.,1,2
-02.09. 21:30,Gimnasia L.P.,Velez Sarsfield,0,1
-28.08. 00:00Pen,Rosario Central,Ferro,1,0
-27.08. 02:00Pen,Racing Club,Atletico Atlanta,2,1
-26.08. 23:30,San Lorenzo,Atl. Rafaela,1,0
-20.08. 20:00,Defensa y Justicia,Chacarita Juniors,1,0
-20.08. 02:00,Boca Juniors,Guarani Antonio Franco,4,0
-19.08. 23:30,Independiente,Lanus,0,2
-12.08. 22:30,Velez Sarsfield,Acassuso,3,0
-12.08. 20:00Pen,Atletico Atlanta,Comunicaciones,2,1
-10.08. 22:30,Atl. Rafaela,Dep. Merlo,5,1
-08.08. 02:10,Racing Club,Tigre,2,1
-07.08. 23:00,Independiente,Deportivo Espanol,1,0
-07.08. 00:30Pen,Temperley,Defensa y Justicia,1,2
-06.08. 22:00,Lanus,Nueva Chicago,3,0
-06.08. 00:15,Instituto,San Lorenzo,1,2
-05.08. 20:00Pen,Ferro,Los Andes,4,3
-30.07. 22:30,Quilmes,Ind. Rivadavia,3,0
-30.07. 00:30,Boca Juniors,Banfield,3,0
-23.07. 23:15,Argentinos Jrs,Guarani Antonio Franco,0,1
-21.07. 20:00,Chacarita Juniors,All Boys,2,1
-16.07. 02:10Pen,Union de Santa Fe,Gimnasia L.P.,0,1
-16.07. 00:00Pen,Estudiantes L.P.,San Martin S.J.,2,1
-04.07. 03:30,River Plate,Rosario Central,0,2
-02.07. 01:10,Huracan,Ind. Rivadavia,0,1
-12.06. 02:00Pen,San Martin S.J.,CA Estudiantes,2,1
-05.06. 01:00,Estudiantes L.P.,Santamarina,2,1
-04.06. 02:15,River Plate,CA Liniers,2,0
-04.06. 00:00,Racing Club,Independiente de Neuquen,2,0
-03.06. 19:00Pen,Aldosivi,Comunicaciones,0,1
-28.05. 20:00Pen,Colon Santa Fe,Acassuso,0,1
-28.05. 01:00,Boca Juniors,Huracan Las Heras,2,0
-28.05. 00:00,Lanus,Atl. Tucuman,2,0
-27.05. 23:00Pen,Atl. Rafaela,Flandria,2,1
-27.05. 23:00,Crucero del Norte,Los Andes,0,2
-21.05. 02:00,San Lorenzo,Viale,3,0
-20.05. 20:00Pen,Ferro,Boca Unidos,2,1
-20.05. 20:00,Union de Santa Fe,Deportivo Armenio,2,1
-19.05. 21:00,Newells Old Boys,Chacarita Juniors,0,2
-13.05. 22:00,Rosario Central,Dep. Riestra,3,1
-13.05. 21:00,Godoy Cruz,Deportivo Espanol,0,1
-07.05. 02:30,Gimnasia L.P.,AH Zapla,2,0
-30.04. 02:00,Arsenal Sarandi,Guarani Antonio Franco,1,2
-30.04. 01:10,Quilmes,Sportivo Belgrano,2,0
-27.04. 02:10Pen,Independiente,Coronel Moldes,2,1
-24.04. 02:00,Tigre,Gimnasia Jujuy,1,0
-24.04. 01:10,Argentinos Jrs,San Martin T.,3,0
-22.04. 20:00,Sarmiento Junin,Dep. Merlo,1,2
-22.04. 20:00,Velez Sarsfield,La Emilia,3,0
-09.04. 23:30,Douglas Haig,All Boys,1,2
-09.04. 02:00Pen,Belgrano,Instituto,0,1
-08.04. 21:00Pen,Olimpo Bahia Blanca,Atletico Atlanta,1,2
-27.03. 01:00,Defensa y Justicia,Andino,3,0
-26.03. 21:00,Nueva Chicago,Defensores Belgrano VR,2,1
-19.03. 21:00Pen,Temperley,Patronato,2,1
-19.03. 02:00,Banfield,Sol de America,1,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1395190800,Banfield,Sol de America,1,0,,,,0
+1395259200,Temperley,Patronato,1,1,Pen,2,1,0
+1395864000,Nueva Chicago,Defensores Belgrano VR,2,1,,,,0
+1395878400,Defensa y Justicia,Andino,3,0,,,,0
+1396983600,Olimpo Bahia Blanca,Atletico Atlanta,1,1,Pen,1,2,0
+1397001600,Belgrano,Instituto,0,0,Pen,0,1,0
+1397079000,Douglas Haig,All Boys,1,2,,,,1
+1398189600,Velez Sarsfield,La Emilia,3,0,,,,0
+1398189600,Sarmiento Junin,Dep. Merlo,1,2,,,,0
+1398294600,Argentinos Jrs,San Martin T.,3,0,,,,0
+1398297600,Tigre,Gimnasia Jujuy,1,0,,,,0
+1398557400,Independiente,Coronel Moldes,1,1,Pen,2,1,0
+1398813000,Quilmes,Sportivo Belgrano,2,0,,,,0
+1398816000,Arsenal Sarandi,Guarani Antonio Franco,1,2,,,,0
+1399422600,Gimnasia L.P.,AH Zapla,2,0,,,,0
+1400007600,Godoy Cruz,Deportivo Espanol,0,1,,,,0
+1400011200,Rosario Central,Dep. Riestra,3,1,,,,0
+1400526000,Newells Old Boys,Chacarita Juniors,0,2,,,,0
+1400608800,Union de Santa Fe,Deportivo Armenio,2,1,,,,0
+1400608800,Ferro,Boca Unidos,1,1,Pen,2,1,0
+1400630400,San Lorenzo,Viale,3,0,,,,0
+1401224400,Crucero del Norte,Los Andes,0,2,,,,0
+1401224400,Atl. Rafaela,Flandria,1,1,Pen,2,1,0
+1401228000,Lanus,Atl. Tucuman,2,0,,,,0
+1401231600,Boca Juniors,Huracan Las Heras,2,0,,,,0
+1401300000,Colon Santa Fe,Acassuso,0,0,Pen,0,1,0
+1401814800,Aldosivi,Comunicaciones,0,0,Pen,0,1,0
+1401832800,Racing Club,Independiente de Neuquen,2,0,,,,0
+1401840900,River Plate,CA Liniers,2,0,,,,0
+1401922800,Estudiantes L.P.,Santamarina,2,1,,,,0
+1402531200,San Martin S.J.,CA Estudiantes,1,1,Pen,2,1,0
+1404256200,Huracan,Ind. Rivadavia,0,1,,,,0
+1404437400,River Plate,Rosario Central,0,2,,,,0
+1405461600,Estudiantes L.P.,San Martin S.J.,1,1,Pen,2,1,0
+1405469400,Union de Santa Fe,Gimnasia L.P.,0,0,Pen,0,1,0
+1405965600,Chacarita Juniors,All Boys,2,1,,,,0
+1406150100,Argentinos Jrs,Guarani Antonio Franco,0,1,,,,0
+1406673000,Boca Juniors,Banfield,3,0,,,,0
+1406752200,Quilmes,Ind. Rivadavia,3,0,,,,0
+1407261600,Ferro,Los Andes,3,3,Pen,4,3,0
+1407276900,Instituto,San Lorenzo,1,2,,,,0
+1407355200,Lanus,Nueva Chicago,3,0,,,,0
+1407364200,Temperley,Defensa y Justicia,1,1,Pen,1,2,0
+1407445200,Independiente,Deportivo Espanol,1,0,,,,0
+1407456600,Racing Club,Tigre,2,1,,,,0
+1407702600,Atl. Rafaela,Dep. Merlo,5,1,,,,0
+1407866400,Atletico Atlanta,Comunicaciones,1,1,Pen,2,1,0
+1407875400,Velez Sarsfield,Acassuso,3,0,,,,0
+1408483800,Independiente,Lanus,0,2,,,,1
+1408492800,Boca Juniors,Guarani Antonio Franco,4,0,,,,1
+1408557600,Defensa y Justicia,Chacarita Juniors,1,0,,,,1
+1409088600,San Lorenzo,Atl. Rafaela,1,0,,,,1
+1409097600,Racing Club,Atletico Atlanta,1,1,Pen,2,1,1
+1409176800,Rosario Central,Ferro,0,0,Pen,1,0,1
+1409686200,Gimnasia L.P.,Velez Sarsfield,0,1,,,,1
+1409781600,Quilmes,Estudiantes L.P.,1,1,Pen,1,2,1
+1410300000,Lanus,Velez Sarsfield,1,1,Pen,2,1,1
+1410995400,Racing Club,San Lorenzo,2,1,,,,1
+1411511400,Rosario Central,Estudiantes L.P.,2,1,,,,1
+1411518600,Defensa y Justicia,Boca Juniors,1,2,,,,1
+1414101600,Lanus,Boca Juniors,0,2,,,,1
+1414110600,Rosario Central,Racing Club,1,0,,,,1
+1415146200,Rosario Central,Boca Juniors,0,2,,,,1

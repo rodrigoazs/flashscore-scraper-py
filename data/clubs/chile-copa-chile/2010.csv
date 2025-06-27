@@ -1,48 +1,48 @@
-date,home_team,away_team,home_score,away_score
-08.12. 22:00Pen,Deportes Iquique,D. Concepcion,2,1
-28.10. 03:00Pen,D. Concepcion,Palestino,1,0
-28.10. 01:00,D. Puerto Montt,Deportes Iquique,2,3
-11.10. 17:00,D. Puerto Montt,U. Espanola,2,1
-08.10. 04:00,Deportes Iquique,Nublense,2,0
-08.10. 02:00,D. Concepcion,Union La Calera,3,1
-07.10. 22:00,Curico Unido,Palestino,0,2
-09.09. 04:00,Deportes Iquique,Cobreloa,2,1
-09.09. 02:00Pen,D. Concepcion,Huachipato,2,1
-08.09. 22:00,Curico Unido,A. Italiano,1,0
-05.09. 22:00,Union La Calera,S. Wanderers,1,0
-05.09. 17:30,D. Puerto Montt,U. Catolica,4,2
-04.09. 22:00,Dep. Linares,Nublense,0,4
-04.09. 22:00,Palestino,San Luis,3,0
-02.09. 18:00,Coquimbo,U. Espanola,0,3
-06.06. 21:30Pen,Curico Unido,Rangers,1,0
-06.06. 21:30Pen,La Serena,Coquimbo,1,1
-06.06. 21:30Pen,S. Wanderers,San Felipe,4,0
-06.06. 21:30,U. De Concepcion,D. Concepcion,1,2
-06.06. 21:00,Nublense,C.D.S. Naval,2,0
-06.06. 04:00Pen,Deportes Iquique,San Marcos de Arica,2,0
-06.06. 01:00,Osorno,D. Puerto Montt,3,7
-05.06. 22:00,Cobresal,A. Italiano,1,3
-05.06. 22:00,Everton,Union La Calera,1,3
-05.06. 22:00Pen,O'Higgins,Dep. Linares,3,1
-05.06. 21:30,Cobreloa,Antofagasta,1,0
-05.06. 21:30,Palestino,S. Morning,2,2
-05.06. 18:00,U. Espanola,Pudahuel Barrancas,6,1
-05.06. 02:00,Huachipato,Lota Schwager,2,2
-04.06. 04:00,U. Catolica,Deportes Temuco,5,3
-03.06. 01:00,San Luis,General Velasquez,4,1
-02.06. 02:00,D. Concepcion,U. De Concepcion,1,0
-30.05. 18:30,Antofagasta,Cobreloa,0,0
-30.05. 18:30,Dep. Linares,O'Higgins,1,0
-30.05. 18:30,General Velasquez,San Luis,1,2
-30.05. 18:00,D. Puerto Montt,Osorno,0,0
-30.05. 18:00,S. Morning,Palestino,2,6
-30.05. 18:00,San Marcos de Arica,Deportes Iquique,5,4
-30.05. 04:00,Deportes Temuco,U. Catolica,0,5
-30.05. 00:00,Coquimbo,La Serena,2,1
-29.05. 22:00,Pudahuel Barrancas,U. Espanola,5,8
-29.05. 21:30,C.D.S. Naval,Nublense,0,2
-29.05. 21:30,San Felipe,S. Wanderers,2,1
-29.05. 21:00,Lota Schwager,Huachipato,1,2
-29.05. 18:00,A. Italiano,Cobresal,2,1
-28.05. 21:30,Rangers,Curico Unido,1,1
-28.05. 04:15,Union La Calera,Everton,1,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1275012900,Union La Calera,Everton,1,1,,,,0
+1275075000,Rangers,Curico Unido,1,1,,,,0
+1275148800,A. Italiano,Cobresal,2,1,,,,0
+1275159600,Lota Schwager,Huachipato,1,2,,,,0
+1275161400,San Felipe,S. Wanderers,2,1,,,,0
+1275161400,C.D.S. Naval,Nublense,0,2,,,,0
+1275163200,Pudahuel Barrancas,U. Espanola,5,8,,,,0
+1275170400,Coquimbo,La Serena,2,1,,,,0
+1275184800,Deportes Temuco,U. Catolica,0,5,,,,0
+1275235200,San Marcos de Arica,Deportes Iquique,5,4,,,,0
+1275235200,S. Morning,Palestino,2,6,,,,0
+1275235200,D. Puerto Montt,Osorno,0,0,,,,0
+1275237000,General Velasquez,San Luis,1,2,,,,0
+1275237000,Dep. Linares,O'Higgins,1,0,,,,0
+1275237000,Antofagasta,Cobreloa,0,0,,,,0
+1275436800,D. Concepcion,U. De Concepcion,1,0,,,,0
+1275519600,San Luis,General Velasquez,4,1,,,,0
+1275616800,U. Catolica,Deportes Temuco,5,3,,,,0
+1275696000,Huachipato,Lota Schwager,2,2,,,,0
+1275753600,U. Espanola,Pudahuel Barrancas,6,1,,,,0
+1275766200,Palestino,S. Morning,2,2,,,,0
+1275766200,Cobreloa,Antofagasta,1,0,,,,0
+1275768000,O'Higgins,Dep. Linares,3,0,Pen,3,1,0
+1275768000,Everton,Union La Calera,1,3,,,,0
+1275768000,Cobresal,A. Italiano,1,3,,,,0
+1275778800,Osorno,D. Puerto Montt,3,7,,,,0
+1275789600,Deportes Iquique,San Marcos de Arica,1,0,Pen,2,0,0
+1275850800,Nublense,C.D.S. Naval,2,0,,,,0
+1275852600,U. De Concepcion,D. Concepcion,1,2,,,,0
+1275852600,S. Wanderers,San Felipe,3,0,Pen,4,0,0
+1275852600,La Serena,Coquimbo,1,0,Pen,1,1,0
+1275852600,Curico Unido,Rangers,0,0,Pen,1,0,0
+1283443200,Coquimbo,U. Espanola,0,3,,,,0
+1283630400,Palestino,San Luis,3,0,,,,0
+1283630400,Dep. Linares,Nublense,0,4,,,,0
+1283700600,D. Puerto Montt,U. Catolica,4,2,,,,0
+1283716800,Union La Calera,S. Wanderers,1,0,,,,0
+1283976000,Curico Unido,A. Italiano,1,0,,,,0
+1283990400,D. Concepcion,Huachipato,1,1,Pen,2,1,0
+1283997600,Deportes Iquique,Cobreloa,2,1,,,,0
+1286481600,Curico Unido,Palestino,0,2,,,,0
+1286496000,D. Concepcion,Union La Calera,3,1,,,,0
+1286503200,Deportes Iquique,Nublense,2,0,,,,0
+1286809200,D. Puerto Montt,U. Espanola,2,1,,,,0
+1288220400,D. Puerto Montt,Deportes Iquique,2,3,,,,0
+1288227600,D. Concepcion,Palestino,0,0,Pen,1,0,0
+1291842000,Deportes Iquique,D. Concepcion,1,1,Pen,2,1,0

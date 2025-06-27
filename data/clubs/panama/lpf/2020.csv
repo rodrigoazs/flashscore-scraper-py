@@ -1,53 +1,53 @@
-date,home_team,away_team,home_score,away_score
-20.12. 21:00,Independiente,San Francisco,3,1
-17.12. 22:00,Tauro,San Francisco,2,2
-16.12. 22:00,Independiente,Potros del Este,0,0
-14.12. 22:00,San Francisco,Tauro,2,0
-13.12. 22:00,Potros del Este,Independiente,1,2
-11.12. 22:00,San Francisco,Plaza Amador,1,0
-10.12. 22:00,Alianza,Potros del Este,1,4
-07.12. 23:00,Arabe Unido,Deportivo Universitario,2,1
-07.12. 23:00,Chiriqui,Tauro,0,1
-07.12. 23:00,Miguelito,Independiente,0,2
-07.12. 23:00,Plaza Amador,Alianza,1,0
-07.12. 23:00,San Francisco,Potros del Este,0,0
-04.12. 22:00,Tauro,San Francisco,1,0
-01.12. 22:00,San Francisco,Independiente,1,1
-30.11. 00:00,Potros del Este,Plaza Amador,1,1
-29.11. 21:00,Alianza,Deportivo Universitario,0,0
-29.11. 01:00,Tauro,Miguelito,1,2
-28.11. 21:00,Independiente,Chiriqui,2,0
-28.11. 21:00,San Francisco,Arabe Unido,3,0
-26.11. 01:00,Independiente,Plaza Amador,0,0
-25.11. 21:00,Chiriqui,Alianza,1,2
-25.11. 21:00,Potros del Este,Arabe Unido,1,1
-24.11. 21:00,Deportivo Universitario,Miguelito,1,4
-23.11. 00:00,Alianza,Arabe Unido,5,2
-22.11. 21:00,Chiriqui,Potros del Este,3,3
-21.11. 23:00,Miguelito,Plaza Amador,0,1
-21.11. 21:00,Deportivo Universitario,Tauro,1,4
-20.11. 00:00,Potros del Este,Alianza,1,1
-19.11. 00:00,Plaza Amador,Tauro,0,1
-18.11. 22:00,Miguelito,San Francisco,1,2
-18.11. 21:00,Arabe Unido,Chiriqui,0,0
-18.11. 21:00,Independiente,Deportivo Universitario,4,0
-15.11. 00:00,Alianza,Miguelito,1,0
-14.11. 22:00,Arabe Unido,Independiente,2,0
-14.11. 21:00,Deportivo Universitario,San Francisco,0,1
-13.11. 00:00,Tauro,Potros del Este,0,0
-12.11. 21:00,Chiriqui,Plaza Amador,1,2
-09.11. 01:00,San Francisco,Alianza,0,0
-08.11. 22:00,Tauro,Independiente,0,3
-08.11. 00:00,Plaza Amador,Arabe Unido,0,2
-07.11. 21:00,Potros del Este,Deportivo Universitario,3,0
-06.11. 21:00,Miguelito,Chiriqui,0,0
-31.10. 21:00,Chiriqui,Deportivo Universitario,0,0
-31.10. 00:00,Plaza Amador,San Francisco,0,0
-30.10. 21:00,Independiente,Potros del Este,2,0
-30.10. 00:00,Alianza,Tauro,2,2
-29.10. 22:00,Arabe Unido,Miguelito,1,2
-25.10. 23:00,Independiente,Alianza,1,1
-25.10. 21:00,Plaza Amador,Deportivo Universitario,0,0
-25.10. 01:00,Potros del Este,Miguelito,2,1
-24.10. 22:00,San Francisco,Chiriqui,1,1
-23.10. 01:00,Tauro,Arabe Unido,1,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1603407600,Tauro,Arabe Unido,1,1,,,,0
+1603569600,San Francisco,Chiriqui,1,1,,,,0
+1603580400,Potros del Este,Miguelito,2,1,,,,0
+1603656000,Plaza Amador,Deportivo Universitario,0,0,,,,0
+1603663200,Independiente,Alianza,1,1,,,,0
+1604005200,Arabe Unido,Miguelito,1,2,,,,0
+1604012400,Alianza,Tauro,2,2,,,,0
+1604088000,Independiente,Potros del Este,2,0,,,,0
+1604098800,Plaza Amador,San Francisco,0,0,,,,0
+1604174400,Chiriqui,Deportivo Universitario,0,0,,,,0
+1604692800,Miguelito,Chiriqui,0,0,,,,0
+1604779200,Potros del Este,Deportivo Universitario,3,0,,,,0
+1604790000,Plaza Amador,Arabe Unido,0,2,,,,0
+1604869200,Tauro,Independiente,0,3,,,,0
+1604880000,San Francisco,Alianza,0,0,,,,0
+1605211200,Chiriqui,Plaza Amador,1,2,,,,0
+1605222000,Tauro,Potros del Este,0,0,,,,0
+1605384000,Deportivo Universitario,San Francisco,0,1,,,,0
+1605387600,Arabe Unido,Independiente,2,0,,,,0
+1605394800,Alianza,Miguelito,1,0,,,,0
+1605729600,Independiente,Deportivo Universitario,4,0,,,,0
+1605729600,Arabe Unido,Chiriqui,0,0,,,,0
+1605733200,Miguelito,San Francisco,1,2,,,,0
+1605740400,Plaza Amador,Tauro,0,1,,,,0
+1605826800,Potros del Este,Alianza,1,1,,,,0
+1605988800,Deportivo Universitario,Tauro,1,4,,,,0
+1605996000,Miguelito,Plaza Amador,0,1,,,,0
+1606075200,Chiriqui,Potros del Este,3,3,,,,0
+1606086000,Alianza,Arabe Unido,5,2,,,,0
+1606248000,Deportivo Universitario,Miguelito,1,4,,,,0
+1606334400,Potros del Este,Arabe Unido,1,1,,,,0
+1606334400,Chiriqui,Alianza,1,2,,,,0
+1606348800,Independiente,Plaza Amador,0,0,,,,0
+1606593600,San Francisco,Arabe Unido,3,0,,,,0
+1606593600,Independiente,Chiriqui,2,0,,,,0
+1606608000,Tauro,Miguelito,1,2,,,,0
+1606680000,Alianza,Deportivo Universitario,0,0,,,,0
+1606690800,Potros del Este,Plaza Amador,1,1,,,,0
+1606856400,San Francisco,Independiente,1,1,,,,0
+1607115600,Tauro,San Francisco,1,0,,,,0
+1607378400,San Francisco,Potros del Este,0,0,,,,0
+1607378400,Plaza Amador,Alianza,1,0,,,,0
+1607378400,Miguelito,Independiente,0,2,,,,0
+1607378400,Chiriqui,Tauro,0,1,,,,0
+1607378400,Arabe Unido,Deportivo Universitario,2,1,,,,0
+1607634000,Alianza,Potros del Este,1,4,,,,0
+1607720400,San Francisco,Plaza Amador,1,0,,,,0
+1607893200,Potros del Este,Independiente,1,2,,,,0
+1607979600,San Francisco,Tauro,2,0,,,,0
+1608152400,Independiente,Potros del Este,0,0,,,,0
+1608238800,Tauro,San Francisco,2,2,,,,0
+1608494400,Independiente,San Francisco,3,1,,,,0

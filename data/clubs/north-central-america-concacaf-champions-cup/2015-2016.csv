@@ -1,63 +1,63 @@
-date,home_team,away_team,home_score,away_score
-28.04. 03:45,Club America,Tigres UANL,2,1
-21.04. 03:45,Tigres UANL,Club America,0,2
-06.04. 04:00AET,Club America,Santos Laguna,1,0
-06.04. 02:00,Tigres UANL,Queretaro,2,0
-17.03. 03:00,Santos Laguna,Club America,0,0
-16.03. 03:00,Queretaro,Tigres UANL,0,0
-03.03. 04:00,Real Salt Lake,Tigres UANL,1,1
-03.03. 02:00,Club America,Seattle Sounders,3,1
-02.03. 04:00,Santos Laguna,Los Angeles Galaxy,4,0
-02.03. 02:00,DC United,Queretaro,1,1
-25.02. 04:00,Los Angeles Galaxy,Santos Laguna,0,0
-25.02. 02:00,Tigres UANL,Real Salt Lake,2,0
-24.02. 04:00,Seattle Sounders,Club America,2,2
-24.02. 02:00,Queretaro,DC United,2,0
-23.10. 04:00,Olimpia,Vancouver Whitecaps,1,0
-23.10. 04:00,San Francisco,Verdes,8,0
-23.10. 02:00,Montego Bay,Arabe Unido,1,2
-22.10. 04:00,Comunicaciones,Los Angeles Galaxy,1,1
-22.10. 02:00,Tigres UANL,Herediano,0,0
-21.10. 04:00,Motagua,Club America,1,1
-21.10. 04:00,Real Salt Lake,Municipal,1,0
-21.10. 02:00,Santos Laguna,Saprissa,6,1
-25.09. 04:00,Metapan,Tigres UANL,1,2
-25.09. 04:00,Real Salt Lake,Santa Tecla,2,1
-25.09. 02:00,Ferretti,Motagua,1,2
-24.09. 04:00,Seattle Sounders,Vancouver Whitecaps,3,0
-24.09. 02:00,Central FC,Los Angeles Galaxy,1,1
-23.09. 04:00,Verdes,San Francisco,2,1
-23.09. 02:00,Montego Bay,DC United,3,3
-23.09. 02:00,W Connection,Santos Laguna,0,1
-18.09. 04:00,Metapan,Herediano,2,0
-18.09. 04:00,Queretaro,Verdes,8,0
-18.09. 02:00,Central FC,Comunicaciones,1,0
-17.09. 04:00,Ferretti,Club America,1,3
-17.09. 04:00,Vancouver Whitecaps,Olimpia,1,0
-17.09. 02:00,W Connection,Saprissa,2,1
-16.09. 04:00,Santa Tecla,Real Salt Lake,0,0
-16.09. 02:00,DC United,Arabe Unido,2,0
-28.08. 04:00,Comunicaciones,Central FC,1,0
-28.08. 04:00,Motagua,Ferretti,2,0
-27.08. 04:00,Herediano,Tigres UANL,1,1
-27.08. 04:00,Olimpia,Seattle Sounders,1,0
-27.08. 02:00,San Francisco,Queretaro,2,1
-26.08. 04:00,Municipal,Santa Tecla,2,1
-26.08. 04:00,Saprissa,Santos Laguna,2,1
-26.08. 02:00,DC United,Montego Bay,3,0
-21.08. 04:00,Santa Tecla,Municipal,1,1
-21.08. 04:00,Saprissa,W Connection,4,0
-20.08. 04:00,Club America,Ferretti,1,0
-20.08. 04:00,Seattle Sounders,Olimpia,2,1
-20.08. 02:00,Arabe Unido,DC United,0,1
-19.08. 04:00,Los Angeles Galaxy,Comunicaciones,5,0
-19.08. 04:00,Verdes,Queretaro,0,0
-19.08. 02:00,Tigres UANL,Metapan,2,1
-07.08. 04:00,Herediano,Metapan,3,0
-07.08. 04:00,Los Angeles Galaxy,Central FC,5,1
-06.08. 04:00,Club America,Motagua,4,0
-06.08. 04:00,Vancouver Whitecaps,Seattle Sounders,1,1
-06.08. 02:00,Arabe Unido,Montego Bay,3,0
-05.08. 04:00,Municipal,Real Salt Lake,0,1
-05.08. 04:00,Santos Laguna,W Connection,4,0
-05.08. 02:00,Queretaro,San Francisco,2,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1438732800,Queretaro,San Francisco,2,0,,,,0
+1438740000,Santos Laguna,W Connection,4,0,,,,0
+1438740000,Municipal,Real Salt Lake,0,1,,,,0
+1438819200,Arabe Unido,Montego Bay,3,0,,,,0
+1438826400,Vancouver Whitecaps,Seattle Sounders,1,1,,,,0
+1438826400,Club America,Motagua,4,0,,,,0
+1438912800,Los Angeles Galaxy,Central FC,5,1,,,,0
+1438912800,Herediano,Metapan,3,0,,,,0
+1439942400,Tigres UANL,Metapan,2,1,,,,0
+1439949600,Verdes,Queretaro,0,0,,,,0
+1439949600,Los Angeles Galaxy,Comunicaciones,5,0,,,,0
+1440028800,Arabe Unido,DC United,0,1,,,,0
+1440036000,Seattle Sounders,Olimpia,2,1,,,,0
+1440036000,Club America,Ferretti,1,0,,,,0
+1440122400,Saprissa,W Connection,4,0,,,,0
+1440122400,Santa Tecla,Municipal,1,1,,,,0
+1440547200,DC United,Montego Bay,3,0,,,,0
+1440554400,Saprissa,Santos Laguna,2,1,,,,0
+1440554400,Municipal,Santa Tecla,2,1,,,,0
+1440633600,San Francisco,Queretaro,2,1,,,,0
+1440640800,Olimpia,Seattle Sounders,1,0,,,,0
+1440640800,Herediano,Tigres UANL,1,1,,,,0
+1440727200,Motagua,Ferretti,2,0,,,,0
+1440727200,Comunicaciones,Central FC,1,0,,,,0
+1442361600,DC United,Arabe Unido,2,0,,,,0
+1442368800,Santa Tecla,Real Salt Lake,0,0,,,,0
+1442448000,W Connection,Saprissa,2,1,,,,0
+1442455200,Vancouver Whitecaps,Olimpia,1,0,,,,0
+1442455200,Ferretti,Club America,1,3,,,,0
+1442534400,Central FC,Comunicaciones,1,0,,,,0
+1442541600,Queretaro,Verdes,8,0,,,,0
+1442541600,Metapan,Herediano,2,0,,,,0
+1442966400,W Connection,Santos Laguna,0,1,,,,0
+1442966400,Montego Bay,DC United,3,3,,,,0
+1442973600,Verdes,San Francisco,2,1,,,,0
+1443052800,Central FC,Los Angeles Galaxy,1,1,,,,0
+1443060000,Seattle Sounders,Vancouver Whitecaps,3,0,,,,0
+1443139200,Ferretti,Motagua,1,2,,,,0
+1443146400,Real Salt Lake,Santa Tecla,2,1,,,,0
+1443146400,Metapan,Tigres UANL,1,2,,,,0
+1445385600,Santos Laguna,Saprissa,6,1,,,,0
+1445392800,Real Salt Lake,Municipal,1,0,,,,0
+1445392800,Motagua,Club America,1,1,,,,0
+1445472000,Tigres UANL,Herediano,0,0,,,,0
+1445479200,Comunicaciones,Los Angeles Galaxy,1,1,,,,0
+1445558400,Montego Bay,Arabe Unido,1,2,,,,0
+1445565600,San Francisco,Verdes,8,0,,,,0
+1445565600,Olimpia,Vancouver Whitecaps,1,0,,,,0
+1456275600,Queretaro,DC United,2,0,,,,0
+1456282800,Seattle Sounders,Club America,2,2,,,,0
+1456362000,Tigres UANL,Real Salt Lake,2,0,,,,0
+1456369200,Los Angeles Galaxy,Santos Laguna,0,0,,,,0
+1456880400,DC United,Queretaro,1,1,,,,0
+1456887600,Santos Laguna,Los Angeles Galaxy,4,0,,,,0
+1456966800,Club America,Seattle Sounders,3,1,,,,0
+1456974000,Real Salt Lake,Tigres UANL,1,1,,,,0
+1458093600,Queretaro,Tigres UANL,0,0,,,,0
+1458180000,Santos Laguna,Club America,0,0,,,,0
+1459900800,Tigres UANL,Queretaro,2,0,,,,0
+1459908000,Club America,Santos Laguna,0,0,AET,1,0,0
+1461203100,Tigres UANL,Club America,0,2,,,,0
+1461807900,Club America,Tigres UANL,2,1,,,,0

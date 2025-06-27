@@ -1,31 +1,31 @@
-date,home_team,away_team,home_score,away_score
-04.11. 00:30,Dep. Cali,Aguilas,2,0
-27.10. 22:30,Aguilas,Dep. Cali,0,1
-14.10. 03:00,La Equidad,Dep. Cali,3,5
-13.10. 22:30Pen,Aguilas,Millonarios,3,3
-07.10. 03:00,Dep. Cali,La Equidad,2,0
-07.10. 03:00,Millonarios,Aguilas,2,3
-30.09. 03:00,Dep. Cali,Santa Fe,3,1
-23.09. 16:00,Cucuta,Millonarios,0,1
-23.09. 03:00Pen,Atl. Nacional,Aguilas,5,2
-22.09. 22:30,Pereira,La Equidad,1,2
-17.09. 03:00,Millonarios,Cucuta,1,1
-16.09. 03:00,Aguilas,Atl. Nacional,4,0
-16.09. 02:30,La Equidad,Pereira,2,0
-09.09. 03:10,Santa Fe,Dep. Cali,0,1
-26.08. 03:00Pen,Millonarios,Bucaramanga,2,2
-26.08. 02:30,Atl. Nacional,Chico,2,1
-26.08. 02:30,Cucuta,Atl. La Sabana,4,0
-26.08. 02:30,La Equidad,Huila,2,0
-25.08. 22:30Pen,Cartagena,Santa Fe,3,2
-25.08. 22:30Pen,Dep. Cali,Junior,4,2
-25.08. 22:30,Deportes Tolima,Aguilas,2,2
-25.08. 22:30,Pereira,Dep. Pasto,3,0
-20.08. 02:30,Santa Fe,Cartagena,2,0
-19.08. 03:30,Bucaramanga,Millonarios,1,2
-19.08. 03:00,Dep. Pasto,Pereira,1,2
-19.08. 02:30,Atl. La Sabana,Cucuta,1,0
-19.08. 02:30,Chico,Atl. Nacional,2,2
-18.08. 22:30,Aguilas,Deportes Tolima,1,0
-18.08. 22:30,Huila,La Equidad,2,1
-18.08. 22:30,Junior,America De Cali,1,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1282163400,Junior,America De Cali,1,0,,,,0
+1282163400,Huila,La Equidad,2,1,,,,0
+1282163400,Aguilas,Deportes Tolima,1,0,,,,0
+1282177800,Chico,Atl. Nacional,2,2,,,,0
+1282177800,Atl. La Sabana,Cucuta,1,0,,,,0
+1282179600,Dep. Pasto,Pereira,1,2,,,,0
+1282181400,Bucaramanga,Millonarios,1,2,,,,0
+1282264200,Santa Fe,Cartagena,2,0,,,,0
+1282768200,Pereira,Dep. Pasto,3,0,,,,0
+1282768200,Deportes Tolima,Aguilas,2,2,,,,0
+1282768200,Dep. Cali,Junior,3,2,Pen,4,2,0
+1282768200,Cartagena,Santa Fe,3,1,Pen,3,2,0
+1282782600,La Equidad,Huila,2,0,,,,0
+1282782600,Cucuta,Atl. La Sabana,4,0,,,,0
+1282782600,Atl. Nacional,Chico,2,1,,,,0
+1282784400,Millonarios,Bucaramanga,1,2,Pen,2,2,0
+1283994600,Santa Fe,Dep. Cali,0,1,,,,0
+1284597000,La Equidad,Pereira,2,0,,,,0
+1284598800,Aguilas,Atl. Nacional,4,0,,,,0
+1284685200,Millonarios,Cucuta,1,1,,,,0
+1285187400,Pereira,La Equidad,1,2,,,,0
+1285203600,Atl. Nacional,Aguilas,5,1,Pen,5,2,0
+1285250400,Cucuta,Millonarios,0,1,,,,0
+1285808400,Dep. Cali,Santa Fe,3,1,,,,0
+1286413200,Millonarios,Aguilas,2,3,,,,0
+1286413200,Dep. Cali,La Equidad,2,0,,,,0
+1287001800,Aguilas,Millonarios,2,3,Pen,3,3,0
+1287018000,La Equidad,Dep. Cali,3,5,,,,0
+1288211400,Aguilas,Dep. Cali,0,1,,,,0
+1288827000,Dep. Cali,Aguilas,2,0,,,,0

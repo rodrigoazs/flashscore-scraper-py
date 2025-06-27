@@ -1,15 +1,15 @@
-date,home_team,away_team,home_score,away_score
-12.05. 02:00,Alajuelense,Saprissa,4,0
-05.05. 02:00,Saprissa,Alajuelense,1,1
-21.04. 02:00,Chicago Fire,Saprissa,2,1
-21.04. 02:00,Monterrey,Alajuelense,1,1
-14.04. 02:00,Alajuelense,Monterrey,1,0
-14.04. 02:00,Saprissa,Chicago Fire,2,0
-24.03. 02:00,Chicago Fire,San Juan Jabloteh,4,0
-24.03. 02:00,Monterrey,FAS,4,1
-24.03. 02:00AET,Pachuca,Saprissa,2,1
-24.03. 02:00,San Jose Earthquakes,Alajuelense,1,0
-17.03. 02:00,Alajuelense,San Jose Earthquakes,3,0
-17.03. 02:00,FAS,Monterrey,0,0
-17.03. 02:00,San Juan Jabloteh,Chicago Fire,5,2
-17.03. 02:00,Saprissa,Pachuca,2,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1079485200,Saprissa,Pachuca,2,0,,,,0
+1079485200,San Juan Jabloteh,Chicago Fire,5,2,,,,0
+1079485200,FAS,Monterrey,0,0,,,,0
+1079485200,Alajuelense,San Jose Earthquakes,3,0,,,,0
+1080090000,San Jose Earthquakes,Alajuelense,1,0,,,,0
+1080090000,Pachuca,Saprissa,2,0,AET,2,1,0
+1080090000,Monterrey,FAS,4,1,,,,0
+1080090000,Chicago Fire,San Juan Jabloteh,4,0,,,,0
+1081900800,Saprissa,Chicago Fire,2,0,,,,0
+1081900800,Alajuelense,Monterrey,1,0,,,,0
+1082505600,Monterrey,Alajuelense,1,1,,,,0
+1082505600,Chicago Fire,Saprissa,2,1,,,,0
+1083715200,Saprissa,Alajuelense,1,1,,,,0
+1084320000,Alajuelense,Saprissa,4,0,,,,0

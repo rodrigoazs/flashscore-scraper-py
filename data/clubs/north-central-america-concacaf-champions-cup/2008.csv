@@ -1,15 +1,15 @@
-date,home_team,away_team,home_score,away_score
-30.04. 23:00,Pachuca,Saprissa,2,1
-23.04. 23:00,Saprissa,Pachuca,1,1
-09.04. 23:00,DC United,Pachuca,2,1
-09.04. 23:00,Saprissa,Houston Dynamo,3,0
-02.04. 23:00,Houston Dynamo,Saprissa,0,0
-01.04. 23:00,Pachuca,DC United,2,0
-20.03. 23:00,Saprissa,Atlante,3,0
-19.03. 23:00,Houston Dynamo,Municipal,3,1
-19.03. 23:00,Pachuca,Motagua,1,0
-18.03. 23:00,DC United,Harbour View,5,0
-13.03. 23:00,Atlante,Saprissa,2,1
-12.03. 23:00,Harbour View,DC United,1,1
-12.03. 23:00,Municipal,Houston Dynamo,0,0
-11.03. 23:00,Motagua,Pachuca,0,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1205272800,Motagua,Pachuca,0,0,,,,0
+1205359200,Municipal,Houston Dynamo,0,0,,,,0
+1205359200,Harbour View,DC United,1,1,,,,0
+1205445600,Atlante,Saprissa,2,1,,,,0
+1205877600,DC United,Harbour View,5,0,,,,0
+1205964000,Pachuca,Motagua,1,0,,,,0
+1205964000,Houston Dynamo,Municipal,3,1,,,,0
+1206050400,Saprissa,Atlante,3,0,,,,0
+1207083600,Pachuca,DC United,2,0,,,,0
+1207170000,Houston Dynamo,Saprissa,0,0,,,,0
+1207774800,Saprissa,Houston Dynamo,3,0,,,,0
+1207774800,DC United,Pachuca,2,1,,,,0
+1208984400,Saprissa,Pachuca,1,1,,,,0
+1209589200,Pachuca,Saprissa,2,1,,,,0

@@ -1,44 +1,44 @@
-date,home_team,away_team,home_score,away_score
-27.11. 00:15Pen,Rosario Central,Huracan,0,1
-20.11. 02:00,Rosario Central,Argentinos Jrs,5,0
-19.11. 23:00,Atl. Rafaela,Huracan,0,2
-22.10. 23:10,Atl. Rafaela,Defensa y Justicia,1,0
-17.10. 00:10Pen,Argentinos Jrs,CA Estudiantes,2,1
-10.10. 01:10Pen,River Plate,Rosario Central,0,1
-09.10. 00:10Pen,Estudiantes L.P.,Huracan,1,2
-02.10. 01:35,Estudiantes L.P.,Independiente,2,0
-25.09. 21:00Pen,Huracan,Banfield,3,2
-24.09. 20:00,Rosario Central,Tigre,1,0
-18.09. 23:25,Racing Club,Argentinos Jrs,0,1
-18.09. 00:00,San Lorenzo,Defensa y Justicia,1,2
-09.09. 22:00,Atl. Rafaela,Talleres Cordoba,2,1
-21.08. 01:30Pen,River Plate,Colon Santa Fe,1,0
-19.08. 20:00,Instituto,CA Estudiantes,0,1
-12.08. 20:00,Quilmes,Banfield,0,4
-29.07. 02:15,Belgrano,Independiente,0,2
-28.07. 20:00Pen,Tigre,All Boys,1,0
-28.07. 02:30Pen,River Plate,Ferro,1,0
-27.07. 23:30,Racing Club,San Martin S.J.,1,0
-27.07. 21:15,Lanus,Colon Santa Fe,0,1
-27.07. 01:15,Boca Juniors,Huracan,0,2
-26.07. 22:15,Rosario Central,Juventud U.U.,3,1
-26.07. 02:15,Newells Old Boys,Talleres Cordoba,1,3
-25.07. 23:10Pen,Gimnasia L.P.,Argentinos Jrs,0,1
-25.07. 00:15,Velez Sarsfield,CA Estudiantes,0,2
-24.07. 02:30Pen,Godoy Cruz,Defensa y Justicia,3,4
-23.07. 23:30,Arsenal Sarandi,Instituto,1,3
-22.07. 20:00Pen,Olimpo Bahia Blanca,Atl. Rafaela,0,1
-19.07. 21:30,Estudiantes L.P.,Douglas Haig,3,1
-18.07. 00:30,San Lorenzo,Almirante Brown,2,0
-08.05. 02:00,Aldosivi,Banfield,0,3
-07.05. 20:00Pen,Boca Unidos,Douglas Haig,1,2
-07.05. 20:00Pen,Huracan,Crucero del Norte,3,2
-01.05. 02:00Pen,Juventud U.U.,Union de Santa Fe,1,0
-01.05. 02:00Pen,Patronato,Instituto,2,3
-01.05. 02:00,San Martin S.J.,Cipolletti,2,1
-24.04. 02:00Pen,Gimnasia Jujuy,CA Estudiantes,0,1
-24.04. 02:00,Ind. Rivadavia,Almirante Brown,1,2
-17.04. 02:00,Talleres Cordoba,Sarmiento Junin,3,0
-16.04. 20:30Pen,Defensa y Justicia,Brown Adrogue,2,1
-10.04. 01:00,Atl. Tucuman,Ferro,0,1
-10.04. 01:00,Independiente,Santamarina,4,2
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1365548400,Independiente,Santamarina,4,2,,,,0
+1365548400,Atl. Tucuman,Ferro,0,1,,,,0
+1366137000,Defensa y Justicia,Brown Adrogue,1,1,Pen,2,1,0
+1366156800,Talleres Cordoba,Sarmiento Junin,3,0,,,,0
+1366761600,Ind. Rivadavia,Almirante Brown,1,2,,,,0
+1366761600,Gimnasia Jujuy,CA Estudiantes,0,0,Pen,0,1,0
+1367366400,San Martin S.J.,Cipolletti,2,1,,,,0
+1367366400,Patronato,Instituto,2,2,Pen,2,3,0
+1367366400,Juventud U.U.,Union de Santa Fe,0,0,Pen,1,0,0
+1367949600,Huracan,Crucero del Norte,2,2,Pen,3,2,0
+1367949600,Boca Unidos,Douglas Haig,1,1,Pen,1,2,0
+1367971200,Aldosivi,Banfield,0,3,,,,0
+1374100200,San Lorenzo,Almirante Brown,2,0,,,,0
+1374262200,Estudiantes L.P.,Douglas Haig,3,1,,,,0
+1374516000,Olimpo Bahia Blanca,Atl. Rafaela,0,0,Pen,0,1,0
+1374615000,Arsenal Sarandi,Instituto,1,3,,,,0
+1374625800,Godoy Cruz,Defensa y Justicia,3,3,Pen,3,4,0
+1374704100,Velez Sarsfield,CA Estudiantes,0,2,,,,0
+1374786600,Gimnasia L.P.,Argentinos Jrs,0,0,Pen,0,1,0
+1374797700,Newells Old Boys,Talleres Cordoba,1,3,,,,0
+1374869700,Rosario Central,Juventud U.U.,3,1,,,,0
+1374880500,Boca Juniors,Huracan,0,2,,,,0
+1374952500,Lanus,Colon Santa Fe,0,1,,,,0
+1374960600,Racing Club,San Martin S.J.,1,0,,,,0
+1374971400,River Plate,Ferro,0,0,Pen,1,0,0
+1375034400,Tigre,All Boys,0,0,Pen,1,0,0
+1375056900,Belgrano,Independiente,0,2,,,,0
+1376330400,Quilmes,Banfield,0,4,,,,0
+1376935200,Instituto,CA Estudiantes,0,1,,,,0
+1377041400,River Plate,Colon Santa Fe,0,0,Pen,1,0,0
+1378756800,Atl. Rafaela,Talleres Cordoba,2,1,,,,0
+1379455200,San Lorenzo,Defensa y Justicia,1,2,,,,0
+1379539500,Racing Club,Argentinos Jrs,0,1,,,,0
+1380045600,Rosario Central,Tigre,1,0,,,,0
+1380135600,Huracan,Banfield,2,2,Pen,3,2,0
+1380670500,Estudiantes L.P.,Independiente,2,0,,,,0
+1381270200,Estudiantes L.P.,Huracan,1,1,Pen,1,2,0
+1381360200,River Plate,Rosario Central,0,0,Pen,0,1,0
+1381961400,Argentinos Jrs,CA Estudiantes,1,1,Pen,2,1,0
+1382476200,Atl. Rafaela,Defensa y Justicia,1,0,,,,0
+1384898400,Atl. Rafaela,Huracan,0,2,,,,0
+1384909200,Rosario Central,Argentinos Jrs,5,0,,,,0
+1385507700,Rosario Central,Huracan,0,0,Pen,0,1,0

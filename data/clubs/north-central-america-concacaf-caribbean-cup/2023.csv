@@ -1,29 +1,29 @@
-date,home_team,away_team,home_score,away_score
-07.12. 01:00,Cavalier (Jam),Robinhood (Sur),0,2
-06.12. 00:00,Moca (Dom),Harbour View (Jam),1,1
-01.12. 00:00,Robinhood (Sur),Cavalier (Jam),1,0
-29.11. 00:00,Harbour View (Jam),Moca (Dom),1,2
-03.11. 01:00Pen,Robinhood (Sur),Moca (Dom),2,0
-01.11. 01:00,Cavalier (Jam),Harbour View (Jam),0,0
-26.10. 00:00,Moca (Dom),Robinhood (Sur),1,0
-25.10. 02:00,Harbour View (Jam),Cavalier (Jam),0,5
-06.10. 02:06,Cibao (Dom),Harbour View (Jam),2,1
-06.10. 02:06,Robinhood (Sur),Atletico Pantoja (Dom),3,1
-05.10. 02:06,Defence Force (Tri),Moca (Dom),0,2
-05.10. 02:06,Golden Lion (Mar),Cavalier (Jam),2,5
-29.09. 02:06,Dunbeholden (Jam),Cibao (Dom),2,1
-29.09. 00:06,Port Of Spain (Tri),Defence Force (Tri),1,1
-28.09. 02:06,Harbour View (Jam),Robinhood (Sur),3,2
-27.09. 02:06,Moca (Dom),Golden Lion (Mar),3,0
-22.09. 02:06,Dunbeholden (Jam),Robinhood (Sur),0,2
-21.09. 02:06,Atletico Pantoja (Dom),Harbour View (Jam),1,1
-21.09. 00:06,Port Of Spain (Tri),Golden Lion (Mar),2,3
-20.09. 02:06,Cavalier (Jam),Moca (Dom),3,0
-01.09. 02:06,Robinhood (Sur),Cibao (Dom),1,0
-01.09. 00:06,Cavalier (Jam),Port Of Spain (Tri),2,1
-31.08. 02:06,Atletico Pantoja (Dom),Dunbeholden (Jam),1,1
-31.08. 00:06,Golden Lion (Mar),Defence Force (Tri),0,1
-25.08. 16:00,Moca (Dom),Port Of Spain (Tri),1,0
-25.08. 03:06,Cibao (Dom),Atletico Pantoja (Dom),1,1
-25.08. 02:06,Defence Force (Tri),Cavalier (Jam),1,1
-24.08. 00:06,Harbour View (Jam),Dunbeholden (Jam),1,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1692828360,Harbour View (Jam),Dunbeholden (Jam),1,0,,,,0
+1692921960,Defence Force (Tri),Cavalier (Jam),1,1,,,,0
+1692925560,Cibao (Dom),Atletico Pantoja (Dom),1,1,,,,0
+1692972000,Moca (Dom),Port Of Spain (Tri),1,0,,,,0
+1693433160,Golden Lion (Mar),Defence Force (Tri),0,1,,,,0
+1693440360,Atletico Pantoja (Dom),Dunbeholden (Jam),1,1,,,,0
+1693519560,Cavalier (Jam),Port Of Spain (Tri),2,1,,,,0
+1693526760,Robinhood (Sur),Cibao (Dom),1,0,,,,0
+1695168360,Cavalier (Jam),Moca (Dom),3,0,,,,0
+1695247560,Port Of Spain (Tri),Golden Lion (Mar),2,3,,,,0
+1695254760,Atletico Pantoja (Dom),Harbour View (Jam),1,1,,,,0
+1695341160,Dunbeholden (Jam),Robinhood (Sur),0,2,,,,0
+1695773160,Moca (Dom),Golden Lion (Mar),3,0,,,,0
+1695859560,Harbour View (Jam),Robinhood (Sur),3,2,,,,0
+1695938760,Port Of Spain (Tri),Defence Force (Tri),1,1,,,,0
+1695945960,Dunbeholden (Jam),Cibao (Dom),2,1,,,,0
+1696464360,Golden Lion (Mar),Cavalier (Jam),2,5,,,,0
+1696464360,Defence Force (Tri),Moca (Dom),0,2,,,,0
+1696550760,Robinhood (Sur),Atletico Pantoja (Dom),3,1,,,,0
+1696550760,Cibao (Dom),Harbour View (Jam),2,1,,,,0
+1698192000,Harbour View (Jam),Cavalier (Jam),0,5,,,,0
+1698271200,Moca (Dom),Robinhood (Sur),1,0,,,,0
+1698796800,Cavalier (Jam),Harbour View (Jam),0,0,,,,0
+1698969600,Robinhood (Sur),Moca (Dom),1,0,Pen,2,0,0
+1701212400,Harbour View (Jam),Moca (Dom),1,2,,,,0
+1701385200,Robinhood (Sur),Cavalier (Jam),1,0,,,,0
+1701817200,Moca (Dom),Harbour View (Jam),1,1,,,,0
+1701907200,Cavalier (Jam),Robinhood (Sur),0,2,,,,0

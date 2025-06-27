@@ -1,77 +1,77 @@
-date,home_team,away_team,home_score,away_score
-09.12. 01:00Pen,Independiente,Goias,4,1
-02.12. 01:00,Goias,Independiente,2,0
-26.11. 01:30,Independiente,LDU Quito,2,1
-25.11. 00:50,Palmeiras,Goias,1,2
-19.11. 01:30,LDU Quito,Independiente,3,2
-18.11. 00:50,Goias,Palmeiras,0,1
-12.11. 01:30,Independiente,Deportes Tolima,0,0
-11.11. 23:00,Avai,Goias,0,1
-11.11. 03:20,LDU Quito,Newells Old Boys,1,0
-11.11. 01:00,Palmeiras,Atletico-MG,2,0
-04.11. 01:15,Deportes Tolima,Independiente,2,2
-03.11. 01:15,Newells Old Boys,LDU Quito,0,0
-28.10. 02:00,Goias,Avai,2,2
-27.10. 23:45,Atletico-MG,Palmeiras,1,1
-22.10. 02:45,San Jose,Newells Old Boys,2,0
-22.10. 00:15,Avai,Emelec,3,1
-21.10. 02:00,Palmeiras,U. Sucre,3,1
-21.10. 02:00,Santa Fe,Atletico-MG,1,0
-20.10. 23:30,Penarol,Goias,3,2
-20.10. 03:00,LDU Quito,San Felipe,6,1
-20.10. 00:20,Independiente,Defensor Sp.,4,2
-15.10. 02:15,U. Sucre,Palmeiras,0,1
-14.10. 03:00,Atletico-MG,Santa Fe,2,0
-14.10. 03:00,Emelec,Avai,2,1
-14.10. 00:30,Goias,Penarol,1,0
-13.10. 03:30,Deportes Tolima,Banfield,3,0
-13.10. 01:15,San Felipe,LDU Quito,4,2
-07.10. 02:15,Newells Old Boys,San Jose,6,0
-30.09. 02:15,Banfield,Deportes Tolima,2,0
-29.09. 02:15,Defensor Sp.,Independiente,1,0
-24.09. 03:45,Caracas,Santa Fe,0,0
-24.09. 01:15,Emelec,U. San Martin,5,0
-24.09. 01:15Pen,San Felipe,Guarani,2,1
-23.09. 02:15,Estudiantes L.P.,Newells Old Boys,1,1
-23.09. 02:15,San Jose,Huila,4,0
-22.09. 20:00,Sport Huancayo,Defensor Sp.,2,0
-22.09. 03:45,Deportes Tolima,Oriente Petrolero,2,0
-22.09. 01:15,Cerro Porteno,U. Sucre,2,2
-17.09. 02:45,Defensor Sp.,Sport Huancayo,9,0
-17.09. 02:45,Santa Fe,Caracas,2,1
-17.09. 00:00,Newells Old Boys,Estudiantes L.P.,1,0
-16.09. 04:00,U. San Martin,Emelec,2,1
-16.09. 01:30,Banfield,Velez Sarsfield,1,1
-15.09. 02:45,Oriente Petrolero,Deportes Tolima,1,0
-15.09. 00:15,Penarol,Barcelona SC,2,1
-10.09. 03:15,U. Sucre,Cerro Porteno,1,0
-10.09. 00:30,Argentinos Jrs,Independiente,1,1
-08.09. 03:45,Huila,San Jose,1,1
-08.09. 01:30,Guarani,San Felipe,1,1
-03.09. 03:15,Olimpia Asuncion,Defensor Sp.,1,1
-03.09. 00:45,Velez Sarsfield,Banfield,0,1
-02.09. 03:45,Trujillanos,Huila,1,1
-02.09. 01:15,River Plate,Guarani,4,2
-01.09. 03:15,Barcelona SC,Penarol,0,1
-01.09. 00:45,Oriente Petrolero,U. De Chile,1,0
-27.08. 04:30,Santa Fe,Lara,4,0
-27.08. 02:15,Independiente,Argentinos Jrs,1,0
-26.08. 00:00,Colo Colo,U. Sucre,3,1
-25.08. 03:45,Barcelona SC,Cesar Vallejo,3,1
-25.08. 01:15,U. De Chile,Oriente Petrolero,2,2
-20.08. 02:50,Palmeiras,Vitoria,3,0
-20.08. 00:30,Guarani,River Plate,2,0
-19.08. 02:50,Avai,Santos,0,1
-18.08. 03:30,Lara,Santa Fe,2,0
-18.08. 01:15,U. Sucre,Colo Colo,2,0
-13.08. 02:50,Cesar Vallejo,Barcelona SC,1,2
-13.08. 02:50,Santos,Avai,1,3
-13.08. 00:30,Gremio,Goias,0,2
-12.08. 02:50,Atletico-MG,Barueri,1,0
-12.08. 02:50,Vitoria,Palmeiras,2,0
-11.08. 02:15,U. San Martin,Dep. Quito,2,1
-06.08. 00:30,Goias,Gremio,1,1
-05.08. 04:30,Huila,Trujillanos,4,1
-05.08. 02:15,Dep. Quito,U. San Martin,3,2
-05.08. 00:00,Barueri,Atletico-MG,0,0
-04.08. 00:00,Defensor Sp.,Olimpia Asuncion,2,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1280872800,Defensor Sp.,Olimpia Asuncion,2,0,,,,0
+1280959200,Barueri,Atletico-MG,0,0,,,,0
+1280967300,Dep. Quito,U. San Martin,3,2,,,,0
+1280975400,Huila,Trujillanos,4,1,,,,0
+1281047400,Goias,Gremio,1,1,,,,0
+1281485700,U. San Martin,Dep. Quito,2,1,,,,0
+1281574200,Vitoria,Palmeiras,2,0,,,,0
+1281574200,Atletico-MG,Barueri,1,0,,,,0
+1281652200,Gremio,Goias,0,2,,,,0
+1281660600,Santos,Avai,1,3,,,,0
+1281660600,Cesar Vallejo,Barcelona SC,1,2,,,,0
+1282086900,U. Sucre,Colo Colo,2,0,,,,0
+1282095000,Lara,Santa Fe,2,0,,,,0
+1282179000,Avai,Santos,0,1,,,,0
+1282257000,Guarani,River Plate,2,0,,,,0
+1282265400,Palmeiras,Vitoria,3,0,,,,0
+1282691700,U. De Chile,Oriente Petrolero,2,2,,,,0
+1282700700,Barcelona SC,Cesar Vallejo,3,1,,,,0
+1282773600,Colo Colo,U. Sucre,3,1,,,,0
+1282868100,Independiente,Argentinos Jrs,1,0,,,,0
+1282876200,Santa Fe,Lara,4,0,,,,0
+1283294700,Oriente Petrolero,U. De Chile,1,0,,,,0
+1283303700,Barcelona SC,Penarol,0,1,,,,0
+1283382900,River Plate,Guarani,4,2,,,,0
+1283391900,Trujillanos,Huila,1,1,,,,0
+1283467500,Velez Sarsfield,Banfield,0,1,,,,0
+1283476500,Olimpia Asuncion,Defensor Sp.,1,1,,,,0
+1283902200,Guarani,San Felipe,1,1,,,,0
+1283910300,Huila,San Jose,1,1,,,,0
+1284071400,Argentinos Jrs,Independiente,1,1,,,,0
+1284081300,U. Sucre,Cerro Porteno,1,0,,,,0
+1284502500,Penarol,Barcelona SC,2,1,,,,0
+1284511500,Oriente Petrolero,Deportes Tolima,1,0,,,,0
+1284593400,Banfield,Velez Sarsfield,1,1,,,,0
+1284602400,U. San Martin,Emelec,2,1,,,,0
+1284674400,Newells Old Boys,Estudiantes L.P.,1,0,,,,0
+1284684300,Santa Fe,Caracas,2,1,,,,0
+1284684300,Defensor Sp.,Sport Huancayo,9,0,,,,0
+1285110900,Cerro Porteno,U. Sucre,2,2,,,,0
+1285119900,Deportes Tolima,Oriente Petrolero,2,0,,,,0
+1285178400,Sport Huancayo,Defensor Sp.,2,0,,,,0
+1285200900,San Jose,Huila,4,0,,,,0
+1285200900,Estudiantes L.P.,Newells Old Boys,1,1,,,,0
+1285283700,San Felipe,Guarani,1,1,Pen,2,1,0
+1285283700,Emelec,U. San Martin,5,0,,,,0
+1285292700,Caracas,Santa Fe,0,0,,,,0
+1285719300,Defensor Sp.,Independiente,1,0,,,,0
+1285805700,Banfield,Deportes Tolima,2,0,,,,0
+1286410500,Newells Old Boys,San Jose,6,0,,,,0
+1286925300,San Felipe,LDU Quito,4,2,,,,0
+1286933400,Deportes Tolima,Banfield,3,0,,,,0
+1287009000,Goias,Penarol,1,0,,,,0
+1287018000,Emelec,Avai,2,1,,,,0
+1287018000,Atletico-MG,Santa Fe,2,0,,,,0
+1287101700,U. Sucre,Palmeiras,0,1,,,,0
+1287526800,Independiente,Defensor Sp.,4,2,,,,0
+1287536400,LDU Quito,San Felipe,6,1,,,,0
+1287610200,Penarol,Goias,3,2,,,,0
+1287619200,Santa Fe,Atletico-MG,1,0,,,,0
+1287619200,Palmeiras,U. Sucre,3,1,,,,0
+1287699300,Avai,Emelec,3,1,,,,0
+1287708300,San Jose,Newells Old Boys,2,0,,,,0
+1288215900,Atletico-MG,Palmeiras,1,1,,,,0
+1288224000,Goias,Avai,2,2,,,,0
+1288743300,Newells Old Boys,LDU Quito,0,0,,,,0
+1288829700,Deportes Tolima,Independiente,2,2,,,,0
+1289433600,Palmeiras,Atletico-MG,2,0,,,,0
+1289442000,LDU Quito,Newells Old Boys,1,0,,,,0
+1289512800,Avai,Goias,0,1,,,,0
+1289521800,Independiente,Deportes Tolima,0,0,,,,0
+1290037800,Goias,Palmeiras,0,1,,,,0
+1290126600,LDU Quito,Independiente,3,2,,,,0
+1290642600,Palmeiras,Goias,1,2,,,,0
+1290731400,Independiente,LDU Quito,2,1,,,,0
+1291248000,Goias,Independiente,2,0,,,,0
+1291852800,Independiente,Goias,3,1,Pen,4,1,0

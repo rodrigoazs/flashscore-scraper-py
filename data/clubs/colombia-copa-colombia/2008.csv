@@ -1,7 +1,7 @@
-date,home_team,away_team,home_score,away_score
-21.11. 02:15,Once Caldas,La Equidad,3,3
-12.11. 21:30,La Equidad,Once Caldas,1,0
-06.11. 21:00,La Equidad,Envigado,4,1
-06.11. 01:30,Once Caldas,Tigres,0,0
-29.10. 21:30,Envigado,La Equidad,0,0
-29.10. 21:30,Tigres,Once Caldas,0,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1225312200,Tigres,Once Caldas,0,1,,,,0
+1225312200,Envigado,La Equidad,0,0,,,,0
+1225931400,Once Caldas,Tigres,0,0,,,,0
+1226001600,La Equidad,Envigado,4,1,,,,0
+1226521800,La Equidad,Once Caldas,1,0,,,,0
+1227230100,Once Caldas,La Equidad,3,3,,,,0

@@ -1,64 +1,64 @@
-date,home_team,away_team,home_score,away_score
-09.08. 03:45Pen,Sporting Kansas City,Seattle Sounders,2,1
-12.07. 04:00,Seattle Sounders,Chivas USA,4,1
-11.07. 04:00,Sporting Kansas City,Philadelphia Union,2,0
-27.06. 04:30,Chivas USA,Charlotte Eagles,2,1
-27.06. 04:30,San Jose Earthquakes,Seattle Sounders,0,1
-27.06. 02:30,Sporting Kansas City,Dayton,3,0
-27.06. 01:30,Philadelphia Union,Penn,5,2
-06.06. 05:00,San Jose Earthquakes,Minnesota United,1,0
-06.06. 04:00,Seattle Sounders,Cal,5,0
-06.06. 02:30AET,San Antonio,Charlotte Eagles,1,2
-06.06. 02:30,Sporting Kansas City,Colorado Rapids,2,0
-06.06. 01:30AET,DC United,Philadelphia Union,1,2
-06.06. 01:30AET,Michigan Bucks,Dayton,1,2
-06.06. 01:05,North Carolina,Chivas USA,1,2
-06.06. 01:00AET,Penn,New York Red Bulls,3,1
-31.05. 04:30AET,Portland Timbers,Cal,0,1
-31.05. 04:00,Seattle Sounders,Atlanta SC,5,1
-30.05. 04:30,San Jose Earthquakes,Fort Lauderdale Strikers,2,1
-30.05. 04:00,Ventura,Chivas USA,0,1
-30.05. 03:00,Real Salt Lake,Minnesota United,1,3
-30.05. 02:30,FC Dallas,Charlotte Eagles,0,2
-30.05. 02:30,San Antonio,Houston Dynamo,1,0
-30.05. 02:30,Sporting Kansas City,Orlando City,3,2
-30.05. 01:30,Charleston,New York Red Bulls,0,3
-30.05. 01:30,Columbus Crew,Dayton,1,2
-30.05. 01:30AET,Michigan Bucks,Chicago Fire,3,2
-30.05. 01:30Pen,Penn,New England Revolution,4,3
-30.05. 01:30,Philadelphia Union,Rochester New York,3,0
-30.05. 01:30,Tampa Bay,Colorado Rapids,1,3
-30.05. 01:05,North Carolina,Los Angeles Galaxy,2,1
-30.05. 01:00AET,Richmond Kickers,DC United,1,2
-23.05. 04:00,Chivas Patriots,Charlotte Eagles,0,1
-23.05. 02:30,Menace,Minnesota United,0,2
-23.05. 02:30,San Antonio,Laredo Heat,2,0
-23.05. 02:00,Jacksonville United,Tampa Bay,0,3
-23.05. 02:00AET,Orange County SC,Ventura,1,3
-23.05. 01:35,Rochester New York,Brooklyn Italians,3,0
-23.05. 01:30,Aegean Hawks,Richmond Kickers,0,4
-23.05. 01:30,Charleston,Reading,2,1
-23.05. 01:30,Fort Lauderdale Strikers,Fuego,7,2
-23.05. 01:30,Georgia Revolution,Atlanta SC,0,1
-23.05. 01:30,Orlando City,KC Athletics,7,0
-23.05. 01:05,North Carolina,PSA Elite,6,0
-23.05. 01:00,Chicago Premier,Dayton,1,2
-23.05. 01:00,Penn,Long Island,2,0
-23.05. 01:00,Pittsburgh,Michigan Bucks,0,1
-23.05. 01:00,Wilmington Hammerheads,Cal,0,4
-16.05. 04:30,Portland U23,PSA Elite,1,3
-16.05. 04:15AET,Fullerton,Ventura,2,6
-16.05. 04:15,Kitsap Pumas,Cal,1,3
-16.05. 04:00,Chivas Patriots,NTX Rayados,3,1
-16.05. 04:00,Stanislaus,Fuego,0,2
-16.05. 03:15AET,Laredo Heat,New Stars,4,2
-16.05. 03:00,Real Colorado,KC Athletics,1,3
-16.05. 02:45AET,Bavarian United,Menace,1,3
-16.05. 02:00,Portland Phoenix,Brooklyn Italians,2,3
-16.05. 01:30,Aegean Hawks,North Carolina Fusion U23,3,1
-16.05. 01:30AET,Georgia Revolution,Mississippi Brilla,1,0
-16.05. 01:30,Michigan Bucks,Jersey Shore,6,0
-16.05. 01:05,Lehigh Valley,Long Island,0,2
-16.05. 01:00,Chicago Premier,Croatian Eagles,1,0
-16.05. 01:00,Orlando City,Jacksonville United,1,2
-16.05. 01:00,Reading,Greek American,2,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1337122800,Reading,Greek American,2,1,,,,0
+1337122800,Orlando City,Jacksonville United,1,2,,,,0
+1337122800,Chicago Premier,Croatian Eagles,1,0,,,,0
+1337123100,Lehigh Valley,Long Island,0,2,,,,0
+1337124600,Michigan Bucks,Jersey Shore,6,0,,,,0
+1337124600,Georgia Revolution,Mississippi Brilla,0,0,AET,1,0,0
+1337124600,Aegean Hawks,North Carolina Fusion U23,3,1,,,,0
+1337126400,Portland Phoenix,Brooklyn Italians,2,3,,,,0
+1337129100,Bavarian United,Menace,1,1,AET,1,3,0
+1337130000,Real Colorado,KC Athletics,1,3,,,,0
+1337130900,Laredo Heat,New Stars,2,2,AET,4,2,0
+1337133600,Stanislaus,Fuego,0,2,,,,0
+1337133600,Chivas Patriots,NTX Rayados,3,1,,,,0
+1337134500,Kitsap Pumas,Cal,1,3,,,,0
+1337134500,Fullerton,Ventura,2,2,AET,2,6,0
+1337135400,Portland U23,PSA Elite,1,3,,,,0
+1337727600,Wilmington Hammerheads,Cal,0,4,,,,0
+1337727600,Pittsburgh,Michigan Bucks,0,1,,,,0
+1337727600,Penn,Long Island,2,0,,,,0
+1337727600,Chicago Premier,Dayton,1,2,,,,0
+1337727900,North Carolina,PSA Elite,6,0,,,,0
+1337729400,Orlando City,KC Athletics,7,0,,,,0
+1337729400,Georgia Revolution,Atlanta SC,0,1,,,,0
+1337729400,Fort Lauderdale Strikers,Fuego,7,2,,,,0
+1337729400,Charleston,Reading,2,1,,,,0
+1337729400,Aegean Hawks,Richmond Kickers,0,4,,,,0
+1337729700,Rochester New York,Brooklyn Italians,3,0,,,,0
+1337731200,Orange County SC,Ventura,1,1,AET,1,3,0
+1337731200,Jacksonville United,Tampa Bay,0,3,,,,0
+1337733000,San Antonio,Laredo Heat,2,0,,,,0
+1337733000,Menace,Minnesota United,0,2,,,,0
+1337738400,Chivas Patriots,Charlotte Eagles,0,1,,,,0
+1338332400,Richmond Kickers,DC United,1,1,AET,1,2,0
+1338332700,North Carolina,Los Angeles Galaxy,2,1,,,,0
+1338334200,Tampa Bay,Colorado Rapids,1,3,,,,0
+1338334200,Philadelphia Union,Rochester New York,3,0,,,,0
+1338334200,Penn,New England Revolution,0,0,Pen,4,3,0
+1338334200,Michigan Bucks,Chicago Fire,2,2,AET,3,2,0
+1338334200,Columbus Crew,Dayton,1,2,,,,0
+1338334200,Charleston,New York Red Bulls,0,3,,,,0
+1338337800,Sporting Kansas City,Orlando City,3,2,,,,0
+1338337800,San Antonio,Houston Dynamo,1,0,,,,0
+1338337800,FC Dallas,Charlotte Eagles,0,2,,,,0
+1338339600,Real Salt Lake,Minnesota United,1,3,,,,0
+1338343200,Ventura,Chivas USA,0,1,,,,0
+1338345000,San Jose Earthquakes,Fort Lauderdale Strikers,2,1,,,,0
+1338429600,Seattle Sounders,Atlanta SC,5,1,,,,0
+1338431400,Portland Timbers,Cal,0,0,AET,0,1,0
+1338937200,Penn,New York Red Bulls,1,1,AET,3,1,0
+1338937500,North Carolina,Chivas USA,1,2,,,,0
+1338939000,Michigan Bucks,Dayton,1,1,AET,1,2,0
+1338939000,DC United,Philadelphia Union,1,1,AET,1,2,0
+1338942600,Sporting Kansas City,Colorado Rapids,2,0,,,,0
+1338942600,San Antonio,Charlotte Eagles,1,1,AET,1,2,0
+1338948000,Seattle Sounders,Cal,5,0,,,,0
+1338951600,San Jose Earthquakes,Minnesota United,1,0,,,,0
+1340753400,Philadelphia Union,Penn,5,2,,,,0
+1340757000,Sporting Kansas City,Dayton,3,0,,,,0
+1340764200,San Jose Earthquakes,Seattle Sounders,0,1,,,,0
+1340764200,Chivas USA,Charlotte Eagles,2,1,,,,0
+1341972000,Sporting Kansas City,Philadelphia Union,2,0,,,,0
+1342058400,Seattle Sounders,Chivas USA,4,1,,,,0
+1344476700,Sporting Kansas City,Seattle Sounders,1,1,Pen,2,1,0

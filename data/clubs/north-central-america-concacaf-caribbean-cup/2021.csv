@@ -1,19 +1,19 @@
-date,home_team,away_team,home_score,away_score
-26.05. 02:00,Inter Moengotapoe (Sur),Cavaly (Hai),0,3
-24.05. 02:00,Samaritaine (Mar),Cavaly (Hai),0,2
-23.05. 23:00,Inter Moengotapoe (Sur),Metropolitan FA (Pur),3,1
-21.05. 02:00,Don Bosco (Hai),AS Le Gosier (Gua),1,0
-20.05. 23:00,Cavaly (Hai),Hope International (Svg),2,1
-20.05. 23:00,Scherpenheuvel (Cur),Olympique de Cayenne (Fgu),3,1
-20.05. 02:00,Universidad O&M (Dom),Inter Moengotapoe (Sur),1,1
-19.05. 23:00,Delfines Del Este (Dom),Real Rincon (Bon),10,0
-19.05. 02:00,Cavaly (Hai),Olympique de Cayenne (Fgu),5,0
-19.05. 02:00,Scherpenheuvel (Cur),Hope International (Svg),3,1
-18.05. 23:00,Samaritaine (Mar),AS Le Gosier (Gua),3,1
-18.05. 02:00,Flames United (Sma),Inter Moengotapoe (Sur),0,12
-17.05. 23:00,Metropolitan FA (Pur),Real Rincon (Bon),4,0
-17.05. 02:00,Cavaly (Hai),Scherpenheuvel (Cur),3,0
-16.05. 23:00,Don Bosco (Hai),Samaritaine (Mar),2,2
-16.05. 23:00,Olympique de Cayenne (Fgu),Hope International (Svg),1,4
-16.05. 02:00Awrd,Delfines Del Este (Dom),Metropolitan FA (Pur),0,3
-15.05. 23:00,Universidad O&M (Dom),Flames United (Sma),11,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1621112400,Universidad O&M (Dom),Flames United (Sma),11,1,,,,0
+1621123200,Delfines Del Este (Dom),Metropolitan FA (Pur),0,3,Awrd,,,0
+1621198800,Olympique de Cayenne (Fgu),Hope International (Svg),1,4,,,,0
+1621198800,Don Bosco (Hai),Samaritaine (Mar),2,2,,,,0
+1621209600,Cavaly (Hai),Scherpenheuvel (Cur),3,0,,,,0
+1621285200,Metropolitan FA (Pur),Real Rincon (Bon),4,0,,,,0
+1621296000,Flames United (Sma),Inter Moengotapoe (Sur),0,12,,,,0
+1621371600,Samaritaine (Mar),AS Le Gosier (Gua),3,1,,,,0
+1621382400,Scherpenheuvel (Cur),Hope International (Svg),3,1,,,,0
+1621382400,Cavaly (Hai),Olympique de Cayenne (Fgu),5,0,,,,0
+1621458000,Delfines Del Este (Dom),Real Rincon (Bon),10,0,,,,0
+1621468800,Universidad O&M (Dom),Inter Moengotapoe (Sur),1,1,,,,0
+1621544400,Scherpenheuvel (Cur),Olympique de Cayenne (Fgu),3,1,,,,0
+1621544400,Cavaly (Hai),Hope International (Svg),2,1,,,,0
+1621555200,Don Bosco (Hai),AS Le Gosier (Gua),1,0,,,,0
+1621803600,Inter Moengotapoe (Sur),Metropolitan FA (Pur),3,1,,,,0
+1621814400,Samaritaine (Mar),Cavaly (Hai),0,2,,,,0
+1621987200,Inter Moengotapoe (Sur),Cavaly (Hai),0,3,,,,0

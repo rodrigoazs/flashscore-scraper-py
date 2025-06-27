@@ -1,64 +1,64 @@
-date,home_team,away_team,home_score,away_score
-14.12. 01:10,Estudiantes L.P.,Defensa y Justicia,1,0
-24.11. 01:10,Defensa y Justicia,San Lorenzo,1,0
-23.11. 01:10,Boca Juniors,Estudiantes L.P.,2,3
-16.10. 02:10Pen,Talleres Cordoba,Boca Juniors,1,2
-13.10. 22:00,Huracan,Estudiantes L.P.,0,2
-12.10. 02:10Pen,Chaco For Ever,Defensa y Justicia,1,2
-10.10. 22:00,San Lorenzo,San Martin S.J.,1,0
-10.09. 22:30Pen,Almagro,Boca Juniors,2,3
-10.09. 01:10,Racing Club,Huracan,3,5
-09.09. 20:15Pen,Independiente,Estudiantes L.P.,1,2
-07.09. 02:10Pen,Estudiantes Rio Cuarto,Defensa y Justicia,0,1
-30.08. 23:30,San Lorenzo,Belgrano,1,0
-30.08. 21:15,Argentinos Jrs,San Martin S.J.,0,1
-30.08. 19:00Pen,Talleres Cordoba,Colon Santa Fe,3,2
-23.08. 19:00Pen,Villa Mitre,Chaco For Ever,0,1
-16.08. 02:30Pen,Independiente,Central Cordoba,1,0
-15.08. 22:00,Colon Santa Fe,Lanus,2,0
-09.08. 22:30,Instituto,Huracan,0,2
-04.08. 02:15,Belgrano,Claypole,1,0
-03.08. 22:00,Banfield,Estudiantes Rio Cuarto,0,1
-02.08. 23:00,Chaco For Ever,Rosario Central,1,0
-27.07. 02:10Pen,San Lorenzo,Platense,1,0
-26.07. 23:00,Excursionistas,Almagro,1,4
-25.07. 23:00,Patronato,Argentinos Jrs,1,2
-25.07. 20:30,All Boys,Estudiantes L.P.,0,1
-21.07. 03:00,River Plate,Talleres Cordoba,0,1
-21.07. 00:00,Barracas Central,Boca Juniors,1,2
-20.07. 21:00Pen,Villa Mitre,Godoy Cruz,1,0
-20.07. 18:45Pen,San Martin S.J.,Velez Sarsfield,3,2
-20.07. 02:00,Racing Club,San Martin T.,2,1
-19.07. 23:00,Defensa y Justicia,CSR Espanol,1,0
-27.06. 22:10,Godoy Cruz,Defensores Unidos,3,1
-19.06. 22:05,Banfield,Argentino de Merlo,3,0
-14.06. 18:30,Aldosivi,San Martin S.J.,0,1
-08.06. 02:30,Instituto,Dep. Riestra,2,1
-08.06. 00:10,Velez Sarsfield,Deportivo Espanol,5,1
-06.06. 19:00,Talleres Cordoba,Chacarita Juniors,2,0
-24.05. 21:00,Rosario Central,Central Norte,4,1
-24.05. 19:00,Central Cordoba,Comunicaciones,3,0
-18.05. 02:10Pen,Gimnasia Mendoza,All Boys,0,1
-17.05. 01:00,Atl. Tucuman,Estudiantes Rio Cuarto,1,3
-12.05. 01:05,Lanus,Sol de Mayo,3,1
-11.05. 02:10,Barracas Central,CA Estudiantes,1,0
-10.05. 01:05Pen,Union de Santa Fe,Almagro,1,2
-03.05. 22:10,Platense,Def. de Belgrano,2,0
-02.05. 22:10Pen,Arsenal Sarandi,Villa Mitre,1,2
-27.04. 02:30,Colon Santa Fe,Colegiales,2,0
-26.04. 20:30,Belgrano,Ind. Rivadavia,2,0
-19.04. 21:10,San Martin T.,Deportivo Moron,2,0
-26.03. 23:00,Independiente,Ciudad Bolivar,3,0
-25.03. 23:00,Boca Juniors,Olimpo Bahia Blanca,2,1
-16.03. 01:00,San Lorenzo,Sarmiento Resistencia,3,0
-15.03. 22:45,Argentinos Jrs,Deportivo Armenio,3,0
-09.03. 01:10,River Plate,Racing Cordoba,3,0
-08.03. 21:10Pen,Sarmiento Junin,Chaco For Ever,0,1
-23.02. 01:40,Racing Club,San Martin Formosa,3,1
-22.02. 23:20,Newells Old Boys,Claypole,0,1
-22.02. 21:00Pen,Gimnasia L.P.,Excursionistas,1,2
-09.02. 01:15Pen,Tigre,CSR Espanol,1,2
-08.02. 22:45,Estudiantes L.P.,Independiente Chivilcoy,3,0
-02.02. 01:30,Huracan,Yupanqui,4,1
-01.02. 23:00,Defensa y Justicia,Ituzaingo,3,2
-24.01. 23:40,Patronato,Gimnasia y Tiro,2,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1674600000,Patronato,Gimnasia y Tiro,2,0,,,,1
+1675288800,Defensa y Justicia,Ituzaingo,3,2,,,,1
+1675297800,Huracan,Yupanqui,4,1,,,,1
+1675892700,Estudiantes L.P.,Independiente Chivilcoy,3,0,,,,1
+1675901700,Tigre,CSR Espanol,1,1,Pen,1,2,1
+1677096000,Gimnasia L.P.,Excursionistas,1,1,Pen,1,2,1
+1677104400,Newells Old Boys,Claypole,0,1,,,,1
+1677112800,Racing Club,San Martin Formosa,3,1,,,,1
+1678306200,Sarmiento Junin,Chaco For Ever,0,0,Pen,0,1,1
+1678320600,River Plate,Racing Cordoba,3,0,,,,1
+1678916700,Argentinos Jrs,Deportivo Armenio,3,0,,,,1
+1678924800,San Lorenzo,Sarmiento Resistencia,3,0,,,,1
+1679781600,Boca Juniors,Olimpo Bahia Blanca,2,1,,,,1
+1679864400,Independiente,Ciudad Bolivar,3,0,,,,1
+1681931400,San Martin T.,Deportivo Moron,2,0,,,,1
+1682533800,Belgrano,Ind. Rivadavia,2,0,,,,1
+1682555400,Colon Santa Fe,Colegiales,2,0,,,,1
+1683058200,Arsenal Sarandi,Villa Mitre,1,1,Pen,1,2,1
+1683144600,Platense,Def. de Belgrano,2,0,,,,1
+1683673500,Union de Santa Fe,Almagro,1,1,Pen,1,2,1
+1683763800,Barracas Central,CA Estudiantes,1,0,,,,1
+1683846300,Lanus,Sol de Mayo,3,1,,,,1
+1684278000,Atl. Tucuman,Estudiantes Rio Cuarto,1,3,,,,1
+1684368600,Gimnasia Mendoza,All Boys,0,0,Pen,0,1,1
+1684947600,Central Cordoba,Comunicaciones,3,0,,,,1
+1684954800,Rosario Central,Central Norte,4,1,,,,1
+1686070800,Talleres Cordoba,Chacarita Juniors,2,0,,,,1
+1686175800,Velez Sarsfield,Deportivo Espanol,5,1,,,,1
+1686184200,Instituto,Dep. Riestra,2,1,,,,1
+1686760200,Aldosivi,San Martin S.J.,0,1,,,,1
+1687205100,Banfield,Argentino de Merlo,3,0,,,,1
+1687896600,Godoy Cruz,Defensores Unidos,3,1,,,,1
+1689800400,Defensa y Justicia,CSR Espanol,1,0,,,,1
+1689811200,Racing Club,San Martin T.,2,1,,,,1
+1689871500,San Martin S.J.,Velez Sarsfield,2,2,Pen,3,2,1
+1689879600,Villa Mitre,Godoy Cruz,0,0,Pen,1,0,1
+1689890400,Barracas Central,Boca Juniors,1,2,,,,1
+1689901200,River Plate,Talleres Cordoba,0,1,,,,1
+1690309800,All Boys,Estudiantes L.P.,0,1,,,,1
+1690318800,Patronato,Argentinos Jrs,1,2,,,,1
+1690405200,Excursionistas,Almagro,1,4,,,,1
+1690416600,San Lorenzo,Platense,0,0,Pen,1,0,1
+1691010000,Chaco For Ever,Rosario Central,1,0,,,,1
+1691092800,Banfield,Estudiantes Rio Cuarto,0,1,,,,1
+1691108100,Belgrano,Claypole,1,0,,,,1
+1691613000,Instituto,Huracan,0,2,,,,1
+1692129600,Colon Santa Fe,Lanus,2,0,,,,1
+1692145800,Independiente,Central Cordoba,0,0,Pen,1,0,1
+1692810000,Villa Mitre,Chaco For Ever,0,0,Pen,0,1,1
+1693414800,Talleres Cordoba,Colon Santa Fe,2,2,Pen,3,2,1
+1693422900,Argentinos Jrs,San Martin S.J.,0,1,,,,1
+1693431000,San Lorenzo,Belgrano,1,0,,,,1
+1694045400,Estudiantes Rio Cuarto,Defensa y Justicia,0,0,Pen,0,1,1
+1694283300,Independiente,Estudiantes L.P.,1,1,Pen,1,2,1
+1694301000,Racing Club,Huracan,3,5,,,,1
+1694377800,Almagro,Boca Juniors,2,2,Pen,2,3,1
+1696968000,San Lorenzo,San Martin S.J.,1,0,,,,1
+1697069400,Chaco For Ever,Defensa y Justicia,1,1,Pen,1,2,1
+1697227200,Huracan,Estudiantes L.P.,0,2,,,,1
+1697415000,Talleres Cordoba,Boca Juniors,1,1,Pen,1,2,1
+1700698200,Boca Juniors,Estudiantes L.P.,2,3,,,,1
+1700784600,Defensa y Justicia,San Lorenzo,1,0,,,,1
+1702512600,Estudiantes L.P.,Defensa y Justicia,1,0,,,,1

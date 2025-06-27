@@ -1,56 +1,56 @@
-date,home_team,away_team,home_score,away_score
-12.02. 02:00Pen,Ind. Medellin,Deportes Tolima,2,1
-28.01. 21:15Pen,Deportes Tolima,Dep. Pasto,2,1
-28.01. 01:40,Quindio,Ind. Medellin,0,1
-21.01. 21:15,Deportes Tolima,Atl. Nacional,2,0
-15.01. 01:45Pen,Dep. Pasto,America De Cali,2,1
-14.01. 02:00,Ind. Medellin,Junior,2,1
-13.01. 23:30,Quindio,Alianza,2,0
-25.11. 21:00Pen,Real Santander,Dep. Pasto,1,2
-20.11. 01:40Pen,Alianza,Millonarios,3,2
-19.11. 21:00Awrd,Cucuta,Deportes Tolima,0,3
-19.11. 21:00,Pereira,Ind. Medellin,0,2
-19.11. 02:00Pen,Santa Fe,America De Cali,0,1
-18.11. 23:45Pen,Aguilas,Atl. Nacional,2,3
-18.11. 21:30Pen,Envigado,Junior,3,4
-18.11. 21:00Pen,Quindio,Dep. Cali,2,1
-30.10. 02:10,Alianza,Bucaramanga,4,0
-29.10. 23:45,Cucuta,La Equidad,3,2
-29.10. 21:30,Santa Fe,Patriotas,1,2
-29.10. 21:00,Leones,Aguilas,1,2
-29.10. 21:00,Real Santander,Chico,2,1
-29.10. 20:00,Tigres,Pereira,1,1
-29.10. 01:40,Once Caldas,Envigado,2,0
-29.10. 01:00Pen,Quindio,Jaguares de Cordoba,1,1
-23.10. 03:00,Patriotas,Santa Fe,1,3
-23.10. 01:00,Aguilas,Leones,2,0
-23.10. 01:00,Bucaramanga,Alianza,2,0
-22.10. 03:00,Chico,Real Santander,1,1
-22.10. 03:00,Envigado,Once Caldas,3,0
-22.10. 01:00,La Equidad,Cucuta,1,2
-21.10. 22:00,Jaguares de Cordoba,Quindio,0,1
-21.10. 22:00,Pereira,Tigres,1,0
-02.10. 02:45,U. Magdalena,Leones,1,3
-02.10. 00:30,Quindio,Fortaleza,1,0
-01.10. 22:15,Real Santander,Huila,2,0
-01.10. 01:00Pen,Tigres,Cartagena,2,1
-25.09. 02:40,Fortaleza,Quindio,0,1
-24.09. 22:15,Huila,Real Santander,1,1
-24.09. 03:05,Leones,U. Magdalena,1,1
-24.09. 01:00,Cartagena,Tigres,0,0
-05.03. 23:30,Quindio,Real Cundinamarca,2,0
-05.03. 21:30,Tigres,Barranquilla,2,1
-05.03. 21:15Pen,Inter Palmira,Real Santander,1,2
-05.03. 20:00Pen,Fortaleza,Orsomarso,1,1
-05.03. 01:40,Bogota,U. Magdalena,3,1
-05.03. 01:00,Cartagena,Atletico F.C.,1,1
-04.03. 21:30Pen,Leones,Boca Juniors,2,1
-04.03. 21:15,Llaneros,Huila,0,4
-21.02. 02:05,Atletico F.C.,Cartagena,1,2
-21.02. 00:00,Huila,Llaneros,0,2
-20.02. 21:30,Barranquilla,Tigres,0,1
-20.02. 21:30,Orsomarso,Fortaleza,1,2
-20.02. 02:05,U. Magdalena,Bogota,3,0
-20.02. 00:00,Boca Juniors,Leones,0,0
-19.02. 21:30,Real Cundinamarca,Quindio,0,2
-19.02. 20:00,Real Santander,Inter Palmira,1,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1582138800,Real Santander,Inter Palmira,1,1,,,,0
+1582144200,Real Cundinamarca,Quindio,0,2,,,,0
+1582153200,Boca Juniors,Leones,0,0,,,,0
+1582160700,U. Magdalena,Bogota,3,0,,,,0
+1582230600,Orsomarso,Fortaleza,1,2,,,,0
+1582230600,Barranquilla,Tigres,0,1,,,,0
+1582239600,Huila,Llaneros,0,2,,,,0
+1582247100,Atletico F.C.,Cartagena,1,2,,,,0
+1583352900,Llaneros,Huila,0,4,,,,0
+1583353800,Leones,Boca Juniors,1,1,Pen,2,1,0
+1583366400,Cartagena,Atletico F.C.,1,1,,,,0
+1583368800,Bogota,U. Magdalena,3,1,,,,0
+1583434800,Fortaleza,Orsomarso,0,1,Pen,1,1,0
+1583439300,Inter Palmira,Real Santander,1,1,Pen,1,2,0
+1583440200,Tigres,Barranquilla,2,1,,,,0
+1583447400,Quindio,Real Cundinamarca,2,0,,,,0
+1600902000,Cartagena,Tigres,0,0,,,,0
+1600909500,Leones,U. Magdalena,1,1,,,,0
+1600978500,Huila,Real Santander,1,1,,,,0
+1600994400,Fortaleza,Quindio,0,1,,,,0
+1601506800,Tigres,Cartagena,1,1,Pen,2,1,0
+1601583300,Real Santander,Huila,2,0,,,,0
+1601591400,Quindio,Fortaleza,1,0,,,,0
+1601599500,U. Magdalena,Leones,1,3,,,,0
+1603310400,Pereira,Tigres,1,0,,,,0
+1603310400,Jaguares de Cordoba,Quindio,0,1,,,,0
+1603321200,La Equidad,Cucuta,1,2,,,,0
+1603328400,Envigado,Once Caldas,3,0,,,,0
+1603328400,Chico,Real Santander,1,1,,,,0
+1603407600,Bucaramanga,Alianza,2,0,,,,0
+1603407600,Aguilas,Leones,2,0,,,,0
+1603414800,Patriotas,Santa Fe,1,3,,,,0
+1603929600,Quindio,Jaguares de Cordoba,0,1,Pen,1,1,0
+1603932000,Once Caldas,Envigado,2,0,,,,0
+1603998000,Tigres,Pereira,1,1,,,,0
+1604001600,Real Santander,Chico,2,1,,,,0
+1604001600,Leones,Aguilas,1,2,,,,0
+1604003400,Santa Fe,Patriotas,1,2,,,,0
+1604011500,Cucuta,La Equidad,3,2,,,,0
+1604020200,Alianza,Bucaramanga,4,0,,,,0
+1605729600,Quindio,Dep. Cali,1,1,Pen,2,1,0
+1605731400,Envigado,Junior,3,3,Pen,3,4,0
+1605739500,Aguilas,Atl. Nacional,2,2,Pen,2,3,0
+1605747600,Santa Fe,America De Cali,0,0,Pen,0,1,0
+1605816000,Pereira,Ind. Medellin,0,2,,,,0
+1605816000,Cucuta,Deportes Tolima,0,3,Awrd,,,0
+1605832800,Alianza,Millonarios,2,2,Pen,3,2,0
+1606334400,Real Santander,Dep. Pasto,1,1,Pen,1,2,0
+1578954600,Quindio,Alianza,2,0,,,,0
+1578963600,Ind. Medellin,Junior,2,1,,,,0
+1579049100,Dep. Pasto,America De Cali,1,1,Pen,2,1,0
+1579637700,Deportes Tolima,Atl. Nacional,2,0,,,,0
+1580172000,Quindio,Ind. Medellin,0,1,,,,0
+1580242500,Deportes Tolima,Dep. Pasto,1,1,Pen,2,1,0
+1581469200,Ind. Medellin,Deportes Tolima,1,1,Pen,2,1,0

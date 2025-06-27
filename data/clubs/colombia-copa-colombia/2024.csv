@@ -1,71 +1,71 @@
-date,home_team,away_team,home_score,away_score
-15.12. 23:00,America De Cali,Atl. Nacional,0,0
-13.12. 01:30,Atl. Nacional,America De Cali,3,1
-18.11. 01:30,Ind. Medellin,Atl. Nacional,1,0
-17.11. 23:15Pen,America De Cali,Bucaramanga,1,0
-01.11. 02:00,Atl. Nacional,Ind. Medellin,2,0
-31.10. 02:00,Bucaramanga,America De Cali,1,1
-26.10. 03:30Pen,Ind. Medellin,Chico,4,0
-25.10. 03:30,Atl. Nacional,Jaguares de Cordoba,2,1
-25.10. 01:30,Bucaramanga,Dep. Pasto,0,0
-24.10. 02:00,Dep. Cali,America De Cali,0,0
-23.10. 01:10Awrd,Chico,Ind. Medellin,3,0
-20.10. 00:00,Jaguares de Cordoba,Atl. Nacional,1,3
-18.10. 03:40,Dep. Pasto,Bucaramanga,1,2
-18.10. 01:40,America De Cali,Dep. Cali,2,0
-09.10. 03:00Pen,Bucaramanga,Millonarios,2,1
-03.10. 03:00Pen,Junior,Ind. Medellin,2,1
-03.10. 02:30,Dep. Pasto,Deportes Tolima,1,1
-03.10. 01:30Pen,Aguilas,Chico,1,1
-03.10. 01:00,Jaguares de Cordoba,Envigado,1,0
-03.10. 01:00,La Equidad,America De Cali,0,0
-02.10. 03:00,Millonarios,Bucaramanga,0,0
-26.09. 01:30,America De Cali,La Equidad,2,0
-25.09. 02:00Pen,Dep. Cali,Fortaleza,4,2
-20.09. 02:30,Atl. Nacional,Alianza,2,1
-19.09. 02:00,Chico,Aguilas,2,1
-18.09. 03:00,Fortaleza,Dep. Cali,1,0
-18.09. 02:00,Deportes Tolima,Dep. Pasto,1,2
-17.09. 23:00,Envigado,Jaguares de Cordoba,0,0
-17.09. 01:30,Alianza,Atl. Nacional,1,1
-12.09. 01:00,Ind. Medellin,Junior,2,0
-30.08. 03:00,Cartagena,Envigado,2,1
-29.08. 01:15,Bucaramanga,Santa Fe,3,1
-16.05. 22:00,Jaguares de Cordoba,Tigres,3,0
-16.05. 03:05,Fortaleza,Pereira,1,0
-16.05. 01:00,Santa Fe,Bucaramanga,1,1
-10.05. 02:10,Tigres,Jaguares de Cordoba,5,3
-09.05. 02:30,Pereira,Fortaleza,0,1
-08.05. 23:00,Envigado,Cartagena,2,0
-26.04. 03:00,Once Caldas,Fortaleza,0,1
-26.04. 02:00,Quindio,Envigado,2,3
-26.04. 00:30,Patriotas,Bucaramanga,0,3
-25.04. 02:30,Santa Fe,Inter Palmira,1,0
-25.04. 02:00Pen,Leones,Pereira,1,2
-24.04. 23:00Pen,Jaguares de Cordoba,Llaneros,2,1
-24.04. 22:30Pen,Cartagena,Huila,4,1
-24.04. 02:40,Tigres,Cucuta,1,0
-11.04. 02:40,Bucaramanga,Patriotas,3,0
-10.04. 23:00,Envigado,Quindio,3,2
-10.04. 23:00,Huila,Cartagena,2,0
-10.04. 22:45,Llaneros,Jaguares de Cordoba,2,2
-10.04. 03:00,Pereira,Leones,1,1
-10.04. 01:00,Fortaleza,Once Caldas,2,1
-09.04. 23:00,Cucuta,Tigres,0,0
-08.04. 23:00,Inter Palmira,Santa Fe,2,2
-22.03. 02:00,Once Caldas,Bogota,4,1
-21.03. 22:00,Huila,Barranquilla,1,1
-21.03. 21:30Pen,U. Magdalena,Tigres,2,2
-21.03. 02:00,Boca Juniors,Santa Fe,1,1
-21.03. 00:00,Real Cundinamarca,Pereira,0,0
-20.03. 22:00,Orsomarso,Envigado,0,1
-20.03. 22:00,Real Santander,Bucaramanga,3,4
-20.03. 00:10,Jaguares de Cordoba,Atletico F.C.,2,1
-08.03. 02:00,Pereira,Real Cundinamarca,2,0
-08.03. 00:00,Bucaramanga,Real Santander,6,2
-07.03. 22:00,Barranquilla,Huila,1,3
-07.03. 21:30,Tigres,U. Magdalena,2,1
-07.03. 02:00,Santa Fe,Boca Juniors,3,1
-07.03. 00:00,Bogota,Once Caldas,0,2
-06.03. 21:30,Atletico F.C.,Jaguares de Cordoba,1,2
-05.03. 22:00,Envigado,Orsomarso,1,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1709672400,Envigado,Orsomarso,1,0,,,,0
+1709757000,Atletico F.C.,Jaguares de Cordoba,1,2,,,,0
+1709766000,Bogota,Once Caldas,0,2,,,,0
+1709773200,Santa Fe,Boca Juniors,3,1,,,,0
+1709843400,Tigres,U. Magdalena,2,1,,,,0
+1709845200,Barranquilla,Huila,1,3,,,,0
+1709852400,Bucaramanga,Real Santander,6,2,,,,0
+1709859600,Pereira,Real Cundinamarca,2,0,,,,0
+1710889800,Jaguares de Cordoba,Atletico F.C.,2,1,,,,0
+1710968400,Real Santander,Bucaramanga,3,4,,,,0
+1710968400,Orsomarso,Envigado,0,1,,,,0
+1710975600,Real Cundinamarca,Pereira,0,0,,,,0
+1710982800,Boca Juniors,Santa Fe,1,1,,,,0
+1711053000,U. Magdalena,Tigres,2,1,Pen,2,2,0
+1711054800,Huila,Barranquilla,1,1,,,,0
+1711069200,Once Caldas,Bogota,4,1,,,,0
+1712610000,Inter Palmira,Santa Fe,2,2,,,,0
+1712696400,Cucuta,Tigres,0,0,,,,0
+1712703600,Fortaleza,Once Caldas,2,1,,,,0
+1712710800,Pereira,Leones,1,1,,,,0
+1712781900,Llaneros,Jaguares de Cordoba,2,2,,,,0
+1712782800,Huila,Cartagena,2,0,,,,0
+1712782800,Envigado,Quindio,3,2,,,,0
+1712796000,Bucaramanga,Patriotas,3,0,,,,0
+1713919200,Tigres,Cucuta,1,0,,,,0
+1713990600,Cartagena,Huila,3,1,Pen,4,1,0
+1713992400,Jaguares de Cordoba,Llaneros,1,1,Pen,2,1,0
+1714003200,Leones,Pereira,1,1,Pen,1,2,0
+1714005000,Santa Fe,Inter Palmira,1,0,,,,0
+1714084200,Patriotas,Bucaramanga,0,3,,,,0
+1714089600,Quindio,Envigado,2,3,,,,0
+1714093200,Once Caldas,Fortaleza,0,1,,,,0
+1715202000,Envigado,Cartagena,2,0,,,,0
+1715214600,Pereira,Fortaleza,0,1,,,,0
+1715299800,Tigres,Jaguares de Cordoba,5,3,,,,0
+1715814000,Santa Fe,Bucaramanga,1,1,,,,0
+1715821500,Fortaleza,Pereira,1,0,,,,0
+1715889600,Jaguares de Cordoba,Tigres,3,0,,,,0
+1724886900,Bucaramanga,Santa Fe,3,1,,,,0
+1724979600,Cartagena,Envigado,2,1,,,,0
+1726095600,Ind. Medellin,Junior,2,0,,,,0
+1726529400,Alianza,Atl. Nacional,1,1,,,,0
+1726606800,Envigado,Jaguares de Cordoba,0,0,,,,0
+1726617600,Deportes Tolima,Dep. Pasto,1,2,,,,0
+1726621200,Fortaleza,Dep. Cali,1,0,,,,0
+1726704000,Chico,Aguilas,2,1,,,,0
+1726792200,Atl. Nacional,Alianza,2,1,,,,0
+1727222400,Dep. Cali,Fortaleza,3,2,Pen,4,2,0
+1727307000,America De Cali,La Equidad,2,0,,,,0
+1727830800,Millonarios,Bucaramanga,0,0,,,,0
+1727910000,La Equidad,America De Cali,0,0,,,,0
+1727910000,Jaguares de Cordoba,Envigado,1,0,,,,0
+1727911800,Aguilas,Chico,1,0,Pen,1,1,0
+1727915400,Dep. Pasto,Deportes Tolima,1,1,,,,0
+1727917200,Junior,Ind. Medellin,2,0,Pen,2,1,0
+1728435600,Bucaramanga,Millonarios,1,1,Pen,2,1,0
+1729208400,America De Cali,Dep. Cali,2,0,,,,0
+1729215600,Dep. Pasto,Bucaramanga,1,2,,,,0
+1729375200,Jaguares de Cordoba,Atl. Nacional,1,3,,,,0
+1729638600,Chico,Ind. Medellin,3,0,Awrd,,,0
+1729728000,Dep. Cali,America De Cali,0,0,,,,0
+1729812600,Bucaramanga,Dep. Pasto,0,0,,,,0
+1729819800,Atl. Nacional,Jaguares de Cordoba,2,1,,,,0
+1729906200,Ind. Medellin,Chico,3,0,Pen,4,0,0
+1730336400,Bucaramanga,America De Cali,1,1,,,,0
+1730422800,Atl. Nacional,Ind. Medellin,2,0,,,,0
+1731881700,America De Cali,Bucaramanga,0,0,Pen,1,0,0
+1731889800,Ind. Medellin,Atl. Nacional,1,0,,,,0
+1734049800,Atl. Nacional,America De Cali,3,1,,,,0
+1734300000,America De Cali,Atl. Nacional,0,0,,,,0

@@ -1,63 +1,63 @@
-date,home_team,away_team,home_score,away_score
-30.04. 02:00,CF Montreal (Can),Club America (Mex),2,4
-23.04. 03:00,Club America (Mex),CF Montreal (Can),1,1
-09.04. 04:00,Club America (Mex),Herediano (Cos),6,0
-08.04. 04:00,Alajuelense (Cos),CF Montreal (Can),4,2
-19.03. 01:00,CF Montreal (Can),Alajuelense (Cos),2,0
-18.03. 03:00,Herediano (Cos),Club America (Mex),3,0
-06.03. 02:00,Herediano (Cos),Olimpia (Hon),2,0
-05.03. 04:00,Club America (Mex),Saprissa (Cos),2,0
-05.03. 02:00,DC United (Usa),Alajuelense (Cos),2,1
-04.03. 02:00,CF Montreal (Can),Pachuca (Mex),1,1
-27.02. 02:00,Alajuelense (Cos),DC United (Usa),5,2
-26.02. 03:00,Saprissa (Cos),Club America (Mex),0,3
-25.02. 04:00,Pachuca (Mex),CF Montreal (Can),2,2
-25.02. 02:00,Olimpia (Hon),Herediano (Cos),1,1
-24.10. 04:00,Saprissa (Cos),Sporting Kansas City (Usa),2,0
-24.10. 02:00,Club Leon (Mex),Metapan (Sal),4,1
-23.10. 04:00,Real Espana (Hon),Pachuca (Mex),3,2
-23.10. 02:00,New York Red Bulls (Usa),CF Montreal (Can),1,1
-22.10. 04:00,Alajuelense (Cos),Cruz Azul (Mex),1,1
-22.10. 04:00,Olimpia (Hon),Portland Timbers (Usa),3,1
-22.10. 02:00,Club America (Mex),Comunicaciones (Gtm),2,0
-22.10. 02:00,Tauro (Pan),DC United (Usa),0,1
-26.09. 04:00,Deportivo Universitario (Pan),Alajuelense (Cos),1,1
-26.09. 02:00,Bayamon (Pur),Comunicaciones (Gtm),0,2
-25.09. 04:00,FAS (Sal),New York Red Bulls (Usa),0,0
-25.09. 04:00,Herediano (Cos),Club Leon (Mex),2,1
-25.09. 02:00,DC United (Usa),Tauro (Pan),2,0
-25.09. 02:00,Pachuca (Mex),Municipal (Gtm),4,1
-24.09. 04:00,Portland Timbers (Usa),Alpha (Guy),6,0
-24.09. 02:00,Sporting Kansas City (Usa),Esteli (Nic),3,0
-19.09. 04:00,Metapan (Sal),Herediano (Cos),2,4
-19.09. 02:00,Sporting Kansas City (Usa),Saprissa (Cos),3,1
-18.09. 04:00,Municipal (Gtm),Real Espana (Hon),3,0
-18.09. 02:00,Bayamon (Pur),Club America (Mex),1,10
-18.09. 02:00,CF Montreal (Can),New York Red Bulls (Usa),1,0
-17.09. 04:00,Portland Timbers (Usa),Olimpia (Hon),4,2
-17.09. 02:00,Cruz Azul (Mex),Deportivo Universitario (Pan),3,0
-17.09. 02:00,Waterhouse (Jam),DC United (Usa),1,2
-29.08. 04:00,Alajuelense (Cos),Deportivo Universitario (Pan),1,0
-29.08. 04:00,Olimpia (Hon),Alpha (Guy),6,0
-29.08. 02:00,Waterhouse (Jam),Tauro (Pan),4,1
-28.08. 04:00,Municipal (Gtm),Pachuca (Mex),3,7
-28.08. 02:00,Club Leon (Mex),Herediano (Cos),1,1
-27.08. 04:00,Comunicaciones (Gtm),Club America (Mex),1,1
-27.08. 04:00,Saprissa (Cos),Esteli (Nic),3,0
-27.08. 02:00,New York Red Bulls (Usa),FAS (Sal),2,0
-22.08. 04:00,Herediano (Cos),Metapan (Sal),4,0
-22.08. 04:00,Real Espana (Hon),Municipal (Gtm),1,1
-21.08. 04:00,FAS (Sal),CF Montreal (Can),2,3
-21.08. 02:00,DC United (Usa),Waterhouse (Jam),1,0
-20.08. 04:00,Deportivo Universitario (Pan),Cruz Azul (Mex),1,0
-20.08. 04:00,Esteli (Nic),Sporting Kansas City (Usa),1,1
-20.08. 02:00,Alpha (Guy),Portland Timbers (Usa),1,4
-20.08. 02:00,Club America (Mex),Bayamon (Pur),6,1
-08.08. 04:00,Comunicaciones (Gtm),Bayamon (Pur),5,0
-08.08. 04:00,Tauro (Pan),Waterhouse (Jam),1,2
-07.08. 04:00,Esteli (Nic),Saprissa (Cos),1,1
-07.08. 02:00,Pachuca (Mex),Real Espana (Hon),4,1
-06.08. 04:00,Metapan (Sal),Club Leon (Mex),2,4
-06.08. 02:00,Alpha (Guy),Olimpia (Hon),0,1
-06.08. 02:00,CF Montreal (Can),FAS (Sal),1,0
-06.08. 02:00,Cruz Azul (Mex),Alajuelense (Cos),1,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1407283200,Cruz Azul (Mex),Alajuelense (Cos),1,1,,,,0
+1407283200,CF Montreal (Can),FAS (Sal),1,0,,,,0
+1407283200,Alpha (Guy),Olimpia (Hon),0,1,,,,0
+1407290400,Metapan (Sal),Club Leon (Mex),2,4,,,,0
+1407369600,Pachuca (Mex),Real Espana (Hon),4,1,,,,0
+1407376800,Esteli (Nic),Saprissa (Cos),1,1,,,,0
+1407463200,Tauro (Pan),Waterhouse (Jam),1,2,,,,0
+1407463200,Comunicaciones (Gtm),Bayamon (Pur),5,0,,,,0
+1408492800,Club America (Mex),Bayamon (Pur),6,1,,,,0
+1408492800,Alpha (Guy),Portland Timbers (Usa),1,4,,,,0
+1408500000,Esteli (Nic),Sporting Kansas City (Usa),1,1,,,,0
+1408500000,Deportivo Universitario (Pan),Cruz Azul (Mex),1,0,,,,0
+1408579200,DC United (Usa),Waterhouse (Jam),1,0,,,,0
+1408586400,FAS (Sal),CF Montreal (Can),2,3,,,,0
+1408672800,Real Espana (Hon),Municipal (Gtm),1,1,,,,0
+1408672800,Herediano (Cos),Metapan (Sal),4,0,,,,0
+1409097600,New York Red Bulls (Usa),FAS (Sal),2,0,,,,0
+1409104800,Saprissa (Cos),Esteli (Nic),3,0,,,,0
+1409104800,Comunicaciones (Gtm),Club America (Mex),1,1,,,,0
+1409184000,Club Leon (Mex),Herediano (Cos),1,1,,,,0
+1409191200,Municipal (Gtm),Pachuca (Mex),3,7,,,,0
+1409270400,Waterhouse (Jam),Tauro (Pan),4,1,,,,0
+1409277600,Olimpia (Hon),Alpha (Guy),6,0,,,,0
+1409277600,Alajuelense (Cos),Deportivo Universitario (Pan),1,0,,,,0
+1410912000,Waterhouse (Jam),DC United (Usa),1,2,,,,0
+1410912000,Cruz Azul (Mex),Deportivo Universitario (Pan),3,0,,,,0
+1410919200,Portland Timbers (Usa),Olimpia (Hon),4,2,,,,0
+1410998400,CF Montreal (Can),New York Red Bulls (Usa),1,0,,,,0
+1410998400,Bayamon (Pur),Club America (Mex),1,10,,,,0
+1411005600,Municipal (Gtm),Real Espana (Hon),3,0,,,,0
+1411084800,Sporting Kansas City (Usa),Saprissa (Cos),3,1,,,,0
+1411092000,Metapan (Sal),Herediano (Cos),2,4,,,,0
+1411516800,Sporting Kansas City (Usa),Esteli (Nic),3,0,,,,0
+1411524000,Portland Timbers (Usa),Alpha (Guy),6,0,,,,0
+1411603200,Pachuca (Mex),Municipal (Gtm),4,1,,,,0
+1411603200,DC United (Usa),Tauro (Pan),2,0,,,,0
+1411610400,Herediano (Cos),Club Leon (Mex),2,1,,,,0
+1411610400,FAS (Sal),New York Red Bulls (Usa),0,0,,,,0
+1411689600,Bayamon (Pur),Comunicaciones (Gtm),0,2,,,,0
+1411696800,Deportivo Universitario (Pan),Alajuelense (Cos),1,1,,,,0
+1413936000,Tauro (Pan),DC United (Usa),0,1,,,,0
+1413936000,Club America (Mex),Comunicaciones (Gtm),2,0,,,,0
+1413943200,Olimpia (Hon),Portland Timbers (Usa),3,1,,,,0
+1413943200,Alajuelense (Cos),Cruz Azul (Mex),1,1,,,,0
+1414022400,New York Red Bulls (Usa),CF Montreal (Can),1,1,,,,0
+1414029600,Real Espana (Hon),Pachuca (Mex),3,2,,,,0
+1414108800,Club Leon (Mex),Metapan (Sal),4,1,,,,0
+1414116000,Saprissa (Cos),Sporting Kansas City (Usa),2,0,,,,0
+1424826000,Olimpia (Hon),Herediano (Cos),1,1,,,,0
+1424833200,Pachuca (Mex),CF Montreal (Can),2,2,,,,0
+1424916000,Saprissa (Cos),Club America (Mex),0,3,,,,0
+1424998800,Alajuelense (Cos),DC United (Usa),5,2,,,,0
+1425430800,CF Montreal (Can),Pachuca (Mex),1,1,,,,0
+1425517200,DC United (Usa),Alajuelense (Cos),2,1,,,,0
+1425524400,Club America (Mex),Saprissa (Cos),2,0,,,,0
+1425603600,Herediano (Cos),Olimpia (Hon),2,0,,,,0
+1426644000,Herediano (Cos),Club America (Mex),3,0,,,,0
+1426723200,CF Montreal (Can),Alajuelense (Cos),2,0,,,,0
+1428458400,Alajuelense (Cos),CF Montreal (Can),4,2,,,,0
+1428544800,Club America (Mex),Herediano (Cos),6,0,,,,0
+1429750800,Club America (Mex),CF Montreal (Can),1,1,,,,0
+1430352000,CF Montreal (Can),Club America (Mex),2,4,,,,0

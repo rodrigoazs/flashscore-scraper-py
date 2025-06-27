@@ -1,78 +1,78 @@
-date,home_team,away_team,home_score,away_score
-13.11. 22:00Pen,U. Espanola,Magallanes,2,3
-02.11. 23:00,U. Espanola,U. De Chile,1,0
-26.10. 23:00,U. De Chile,U. Espanola,0,0
-16.10. 17:00,Magallanes,Huachipato,1,1
-14.10. 00:00,U. Catolica,U. De Chile,2,2
-13.10. 01:00,Huachipato,Magallanes,0,1
-29.09. 22:30Pen,Cobreloa,Magallanes,1,2
-28.09. 01:30Pen,Nublense,Huachipato,2,2
-27.09. 23:00,U. Espanola,Antofagasta,4,1
-25.09. 22:30,U. De Chile,U. Catolica,1,0
-25.09. 01:00,Huachipato,Nublense,1,0
-24.09. 01:00,Antofagasta,U. Espanola,1,2
-23.09. 17:30,Magallanes,Cobreloa,0,0
-23.08. 02:30,Coquimbo,Huachipato,0,0
-23.08. 00:00,U. De Chile,Cobresal,1,0
-22.08. 02:00,U. Espanola,O'Higgins,1,0
-21.08. 23:30,Colo Colo,Nublense,1,1
-21.08. 18:00,Curico Unido,Antofagasta,2,1
-21.08. 00:30,U. Catolica,A. Italiano,3,0
-20.08. 21:45,Cobreloa,S. Morning,1,0
-20.08. 19:15,Magallanes,U. De Concepcion,4,1
-19.08. 02:30,Cobresal,U. De Chile,1,1
-19.08. 00:00,Huachipato,Coquimbo,1,0
-18.08. 02:30,O'Higgins,U. Espanola,1,3
-18.08. 00:00,Nublense,Colo Colo,2,1
-17.08. 23:00,Antofagasta,Curico Unido,4,2
-17.08. 02:30,U. De Concepcion,Magallanes,0,2
-17.08. 00:00,A. Italiano,U. Catolica,0,2
-16.08. 21:00,S. Morning,Cobreloa,0,0
-27.06. 22:00,U. De Chile,General Velasquez,2,2
-26.06. 23:30,Coquimbo,Melipilla,2,1
-26.06. 23:30,Huachipato,D. Puerto Montt,3,0
-26.06. 23:00Pen,Union La Calera,S. Morning,0,2
-26.06. 21:00Pen,Palestino,Cobreloa,0,2
-26.06. 21:00Pen,S. Wanderers,Curico Unido,1,2
-26.06. 18:30,Antofagasta,Limache,2,1
-26.06. 02:00,O'Higgins,Arturo Fernandez Vial,2,0
-25.06. 23:30,U. Catolica,San Felipe,3,0
-25.06. 21:00,Barnechea,Cobresal,1,1
-25.06. 21:00,Everton,Magallanes,1,2
-25.06. 21:00Pen,Ind. Cauquenes,Nublense,0,2
-25.06. 21:00,Provincial Ovalle,U. Espanola,0,1
-25.06. 18:30,La Serena,U. De Concepcion,1,2
-25.06. 01:00,San Antonio Unido,A. Italiano,1,3
-24.06. 00:00,Deportes Temuco,Colo Colo,1,5
-20.06. 00:00,Arturo Fernandez Vial,O'Higgins,1,0
-20.06. 00:00,U. Espanola,Provincial Ovalle,5,0
-19.06. 21:30,General Velasquez,U. De Chile,1,2
-19.06. 18:30,Cobreloa,Palestino,0,1
-19.06. 18:30,Melipilla,Coquimbo,0,0
-19.06. 18:00,Limache,Antofagasta,1,2
-19.06. 00:00,Colo Colo,Deportes Temuco,0,0
-19.06. 00:00,D. Puerto Montt,Huachipato,2,2
-18.06. 23:30,U. De Concepcion,La Serena,4,3
-18.06. 23:00,Nublense,Ind. Cauquenes,1,2
-18.06. 21:30,San Felipe,U. Catolica,1,3
-18.06. 21:00,Cobresal,Barnechea,2,1
-18.06. 21:00,S. Morning,Union La Calera,1,2
-18.06. 18:30,Magallanes,Everton,1,1
-18.06. 01:00,Curico Unido,S. Wanderers,1,1
-16.06. 21:00,A. Italiano,San Antonio Unido,1,2
-28.03. 23:00,Colo Colito,U. De Concepcion,0,9
-28.03. 23:00,Limache,Recoleta,2,1
-28.03. 23:00,Real San Joaquin,Barnechea,0,3
-28.03. 22:30,Rodelindo,Melipilla,0,2
-28.03. 02:00,Trasandino,San Felipe,1,3
-27.03. 23:15,D. Concepcion,Arturo Fernandez Vial,0,2
-27.03. 23:00,Cobreloa,Deportes Iquique,2,0
-27.03. 23:00Pen,Ind. Cauquenes,Rangers,3,2
-27.03. 23:00,Lautaro,S. Morning,0,1
-27.03. 23:00,Provincial Ovalle,Copiapo,3,2
-27.03. 22:30Pen,San Antonio Unido,San Luis,1,0
-27.03. 22:30,San Bernardo Unido,Magallanes,0,6
-27.03. 22:00,General Velasquez,CD Santa Cruz,3,0
-27.03. 22:00,Iberia,Deportes Temuco,0,2
-27.03. 22:00,Provincial Ranco,D. Puerto Montt,1,4
-27.03. 00:00,La Higuera,S. Wanderers,0,4
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1648335600,La Higuera,S. Wanderers,0,4,,,,0
+1648411200,Provincial Ranco,D. Puerto Montt,1,4,,,,0
+1648411200,Iberia,Deportes Temuco,0,2,,,,0
+1648411200,General Velasquez,CD Santa Cruz,3,0,,,,0
+1648413000,San Bernardo Unido,Magallanes,0,6,,,,0
+1648413000,San Antonio Unido,San Luis,0,0,Pen,1,0,0
+1648414800,Provincial Ovalle,Copiapo,3,2,,,,0
+1648414800,Lautaro,S. Morning,0,1,,,,0
+1648414800,Ind. Cauquenes,Rangers,2,2,Pen,3,2,0
+1648414800,Cobreloa,Deportes Iquique,2,0,,,,0
+1648415700,D. Concepcion,Arturo Fernandez Vial,0,2,,,,0
+1648425600,Trasandino,San Felipe,1,3,,,,0
+1648499400,Rodelindo,Melipilla,0,2,,,,0
+1648501200,Real San Joaquin,Barnechea,0,3,,,,0
+1648501200,Limache,Recoleta,2,1,,,,0
+1648501200,Colo Colito,U. De Concepcion,0,9,,,,0
+1655406000,A. Italiano,San Antonio Unido,1,2,,,,0
+1655506800,Curico Unido,S. Wanderers,1,1,,,,0
+1655569800,Magallanes,Everton,1,1,,,,0
+1655578800,S. Morning,Union La Calera,1,2,,,,0
+1655578800,Cobresal,Barnechea,2,1,,,,0
+1655580600,San Felipe,U. Catolica,1,3,,,,0
+1655586000,Nublense,Ind. Cauquenes,1,2,,,,0
+1655587800,U. De Concepcion,La Serena,4,3,,,,0
+1655589600,D. Puerto Montt,Huachipato,2,2,,,,0
+1655589600,Colo Colo,Deportes Temuco,0,0,,,,0
+1655654400,Limache,Antofagasta,1,2,,,,0
+1655656200,Melipilla,Coquimbo,0,0,,,,0
+1655656200,Cobreloa,Palestino,0,1,,,,0
+1655667000,General Velasquez,U. De Chile,1,2,,,,0
+1655676000,U. Espanola,Provincial Ovalle,5,0,,,,0
+1655676000,Arturo Fernandez Vial,O'Higgins,1,0,,,,0
+1656021600,Deportes Temuco,Colo Colo,1,5,,,,0
+1656111600,San Antonio Unido,A. Italiano,1,3,,,,0
+1656174600,La Serena,U. De Concepcion,1,2,,,,0
+1656183600,Provincial Ovalle,U. Espanola,0,1,,,,0
+1656183600,Ind. Cauquenes,Nublense,0,1,Pen,0,2,0
+1656183600,Everton,Magallanes,1,2,,,,0
+1656183600,Barnechea,Cobresal,1,1,,,,0
+1656192600,U. Catolica,San Felipe,3,0,,,,0
+1656201600,O'Higgins,Arturo Fernandez Vial,2,0,,,,0
+1656261000,Antofagasta,Limache,2,1,,,,0
+1656270000,S. Wanderers,Curico Unido,1,1,Pen,1,2,0
+1656270000,Palestino,Cobreloa,0,1,Pen,0,2,0
+1656277200,Union La Calera,S. Morning,0,1,Pen,0,2,0
+1656279000,Huachipato,D. Puerto Montt,3,0,,,,0
+1656279000,Coquimbo,Melipilla,2,1,,,,0
+1656360000,U. De Chile,General Velasquez,2,2,,,,0
+1660676400,S. Morning,Cobreloa,0,0,,,,0
+1660687200,A. Italiano,U. Catolica,0,2,,,,0
+1660696200,U. De Concepcion,Magallanes,0,2,,,,0
+1660770000,Antofagasta,Curico Unido,4,2,,,,0
+1660773600,Nublense,Colo Colo,2,1,,,,0
+1660782600,O'Higgins,U. Espanola,1,3,,,,0
+1660860000,Huachipato,Coquimbo,1,0,,,,0
+1660869000,Cobresal,U. De Chile,1,1,,,,0
+1661015700,Magallanes,U. De Concepcion,4,1,,,,0
+1661024700,Cobreloa,S. Morning,1,0,,,,0
+1661034600,U. Catolica,A. Italiano,3,0,,,,0
+1661097600,Curico Unido,Antofagasta,2,1,,,,0
+1661117400,Colo Colo,Nublense,1,1,,,,0
+1661126400,U. Espanola,O'Higgins,1,0,,,,0
+1661205600,U. De Chile,Cobresal,1,0,,,,0
+1661214600,Coquimbo,Huachipato,0,0,,,,0
+1663947000,Magallanes,Cobreloa,0,0,,,,0
+1663974000,Antofagasta,U. Espanola,1,2,,,,0
+1664060400,Huachipato,Nublense,1,0,,,,0
+1664137800,U. De Chile,U. Catolica,1,0,,,,0
+1664312400,U. Espanola,Antofagasta,4,1,,,,0
+1664321400,Nublense,Huachipato,2,1,Pen,2,2,0
+1664483400,Cobreloa,Magallanes,1,1,Pen,1,2,0
+1665615600,Huachipato,Magallanes,0,1,,,,0
+1665698400,U. Catolica,U. De Chile,2,2,,,,0
+1665932400,Magallanes,Huachipato,1,1,,,,0
+1666818000,U. De Chile,U. Espanola,0,0,,,,0
+1667426400,U. Espanola,U. De Chile,1,0,,,,0
+1668373200,U. Espanola,Magallanes,2,2,Pen,2,3,0

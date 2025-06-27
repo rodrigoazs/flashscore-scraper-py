@@ -1,20 +1,20 @@
-date,home_team,away_team,home_score,away_score
-22.04. 02:00,Inter Moengotapoe,Franciscain,1,2
-21.04. 23:30,Deportivo Nacional,Real Rincon,1,3
-20.04. 02:00,Franciscain,Real Rincon,2,0
-19.04. 23:30,Inter Moengotapoe,Deportivo Nacional,4,0
-17.04. 22:30,Franciscain (Mar),Bodden Town (Cay),5,2
-17.04. 22:30,Real Rincon (Bon),Avenues United (Svg),2,2
-17.04. 22:30,Sainte-Rose (Gua),Inter Moengotapoe (Sur),1,5
-17.04. 20:00,Centro Dominguito (Cur),Cayon FC (Sai),2,2
-17.04. 20:00,Weymouth Wales (Bar),Deportivo Nacional (Aru),2,3
-15.04. 22:30,Franciscain (Mar),Cayon FC (Sai),6,0
-15.04. 22:30,Sainte-Rose (Gua),Deportivo Nacional (Aru),0,2
-15.04. 20:00,Avenues United (Svg),Hard Rock (Gre),3,2
-15.04. 20:00,Bodden Town (Cay),Centro Dominguito (Cur),0,0
-15.04. 20:00,Inter Moengotapoe (Sur),Weymouth Wales (Bar),5,0
-13.04. 22:30,Centro Dominguito (Cur),Franciscain (Mar),2,1
-13.04. 22:30,Hard Rock (Gre),Real Rincon (Bon),1,3
-13.04. 22:30,Weymouth Wales (Bar),Sainte-Rose (Gua),1,2
-13.04. 20:00,Cayon FC (Sai),Bodden Town (Cay),1,2
-13.04. 20:00,Deportivo Nacional (Aru),Inter Moengotapoe (Sur),0,5
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1523642400,Deportivo Nacional (Aru),Inter Moengotapoe (Sur),0,5,,,,0
+1523642400,Cayon FC (Sai),Bodden Town (Cay),1,2,,,,0
+1523651400,Weymouth Wales (Bar),Sainte-Rose (Gua),1,2,,,,0
+1523651400,Hard Rock (Gre),Real Rincon (Bon),1,3,,,,0
+1523651400,Centro Dominguito (Cur),Franciscain (Mar),2,1,,,,0
+1523815200,Inter Moengotapoe (Sur),Weymouth Wales (Bar),5,0,,,,0
+1523815200,Bodden Town (Cay),Centro Dominguito (Cur),0,0,,,,0
+1523815200,Avenues United (Svg),Hard Rock (Gre),3,2,,,,0
+1523824200,Sainte-Rose (Gua),Deportivo Nacional (Aru),0,2,,,,0
+1523824200,Franciscain (Mar),Cayon FC (Sai),6,0,,,,0
+1523988000,Weymouth Wales (Bar),Deportivo Nacional (Aru),2,3,,,,0
+1523988000,Centro Dominguito (Cur),Cayon FC (Sai),2,2,,,,0
+1523997000,Sainte-Rose (Gua),Inter Moengotapoe (Sur),1,5,,,,0
+1523997000,Real Rincon (Bon),Avenues United (Svg),2,2,,,,0
+1523997000,Franciscain (Mar),Bodden Town (Cay),5,2,,,,0
+1524173400,Inter Moengotapoe,Deportivo Nacional,4,0,,,,0
+1524182400,Franciscain,Real Rincon,2,0,,,,0
+1524346200,Deportivo Nacional,Real Rincon,1,3,,,,0
+1524355200,Inter Moengotapoe,Franciscain,1,2,,,,0

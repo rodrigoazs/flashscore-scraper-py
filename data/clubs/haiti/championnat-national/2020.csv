@@ -1,37 +1,37 @@
-date,home_team,away_team,home_score,away_score
-19.03. 23:00,Baltimore,Ouanaminthe,3,0
-19.03. 23:00,Real du Cap,Fica,2,0
-19.03. 22:00,Violette,Arcahaie,1,1
-19.03. 21:00,Cavaly,Tempete,2,1
-19.03. 21:00,Juventus,Don Bosco,1,1
-19.03. 21:00,Mirebalais,Racing Haitien,1,0
-19.03. 21:00,Rivartibonitienne,America des Cayes,1,0
-18.03. 23:00,Capoise,Triomphe Liancourt,2,0
-18.03. 21:00,Racing des Gonaives,Cosmopolites,0,0
-15.03. 23:00,Baltimore,Violette,0,0
-15.03. 23:00,Don Bosco,Capoise,1,0
-15.03. 22:00,Cosmopolites,Real du Cap,2,1
-15.03. 21:00,America des Cayes,Cavaly,2,2
-15.03. 21:00,Arcahaie,Racing des Gonaives,1,0
-15.03. 21:00,Fica,Rivartibonitienne,1,0
-15.03. 21:00,Ouanaminthe,Juventus,0,0
-15.03. 21:00,Triomphe Liancourt,Mirebalais,2,0
-14.03. 22:00,Racing Haitien,Tempete,1,0
-08.03. 22:00,Capoise,Arcahaie,2,0
-08.03. 22:00,Tempete,Triomphe Liancourt,0,2
-08.03. 21:00,Racing Haitien,America des Cayes,0,1
-08.03. 20:00,Juventus,Baltimore,0,1
-08.03. 20:00,Mirebalais,Cosmopolites,0,0
-08.03. 20:00,Racing des Gonaives,Ouanaminthe,1,0
-08.03. 20:00,Rivartibonitienne,Don Bosco,1,0
-07.03. 23:00,Real du Cap,Violette,0,1
-07.03. 21:00,Cavaly,Fica,1,0
-01.03. 22:00,America des Cayes,Tempete,0,1
-01.03. 22:00,Arcahaie,Mirebalais,0,0
-01.03. 22:00,Baltimore,Rivartibonitienne,1,0
-01.03. 22:00,Don Bosco,Racing des Gonaives,4,0
-01.03. 22:00,Fica,Racing Haitien,1,0
-01.03. 22:00,Ouanaminthe,Capoise,1,0
-01.03. 22:00,Triomphe Liancourt,Real du Cap,0,1
-01.03. 22:00,Violette,Juventus,1,2
-29.02. 22:00,Cosmopolites,Cavaly,0,2
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1583010000,Cosmopolites,Cavaly,0,2,,,,0
+1583096400,Violette,Juventus,1,2,,,,0
+1583096400,Triomphe Liancourt,Real du Cap,0,1,,,,0
+1583096400,Ouanaminthe,Capoise,1,0,,,,0
+1583096400,Fica,Racing Haitien,1,0,,,,0
+1583096400,Don Bosco,Racing des Gonaives,4,0,,,,0
+1583096400,Baltimore,Rivartibonitienne,1,0,,,,0
+1583096400,Arcahaie,Mirebalais,0,0,,,,0
+1583096400,America des Cayes,Tempete,0,1,,,,0
+1583611200,Cavaly,Fica,1,0,,,,0
+1583618400,Real du Cap,Violette,0,1,,,,0
+1583694000,Rivartibonitienne,Don Bosco,1,0,,,,0
+1583694000,Racing des Gonaives,Ouanaminthe,1,0,,,,0
+1583694000,Mirebalais,Cosmopolites,0,0,,,,0
+1583694000,Juventus,Baltimore,0,1,,,,0
+1583697600,Racing Haitien,America des Cayes,0,1,,,,0
+1583701200,Tempete,Triomphe Liancourt,0,2,,,,0
+1583701200,Capoise,Arcahaie,2,0,,,,0
+1584219600,Racing Haitien,Tempete,1,0,,,,0
+1584302400,Triomphe Liancourt,Mirebalais,2,0,,,,0
+1584302400,Ouanaminthe,Juventus,0,0,,,,0
+1584302400,Fica,Rivartibonitienne,1,0,,,,0
+1584302400,Arcahaie,Racing des Gonaives,1,0,,,,0
+1584302400,America des Cayes,Cavaly,2,2,,,,0
+1584306000,Cosmopolites,Real du Cap,2,1,,,,0
+1584309600,Don Bosco,Capoise,1,0,,,,0
+1584309600,Baltimore,Violette,0,0,,,,0
+1584561600,Racing des Gonaives,Cosmopolites,0,0,,,,0
+1584568800,Capoise,Triomphe Liancourt,2,0,,,,0
+1584648000,Rivartibonitienne,America des Cayes,1,0,,,,0
+1584648000,Mirebalais,Racing Haitien,1,0,,,,0
+1584648000,Juventus,Don Bosco,1,1,,,,0
+1584648000,Cavaly,Tempete,2,1,,,,0
+1584651600,Violette,Arcahaie,1,1,,,,0
+1584655200,Real du Cap,Fica,2,0,,,,0
+1584655200,Baltimore,Ouanaminthe,3,0,,,,0

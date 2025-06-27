@@ -1,71 +1,71 @@
-date,home_team,away_team,home_score,away_score
-24.11. 02:00Pen,Atl. Nacional,Millonarios,2,1
-16.11. 02:00,Millonarios,Atl. Nacional,1,1
-05.11. 23:00,Cucuta,Millonarios,1,1
-03.11. 02:00,Millonarios,Cucuta,1,0
-02.11. 21:00Pen,Atl. Nacional,Pereira,4,1
-20.10. 03:00,Pereira,Atl. Nacional,2,0
-06.10. 03:30,Alianza,Millonarios,1,2
-06.10. 01:00Pen,Ind. Medellin,Cucuta,1,3
-05.10. 03:30,Atl. Nacional,Aguilas,2,1
-05.10. 01:00,Pereira,Santa Fe,2,0
-29.09. 02:10,Millonarios,Alianza,2,0
-29.09. 00:00,Cucuta,Ind. Medellin,0,1
-28.09. 03:30,Aguilas,Atl. Nacional,0,3
-28.09. 01:15,Santa Fe,Pereira,0,0
-18.08. 03:30,Atl. Nacional,America De Cali,2,1
-18.08. 01:00,Bucaramanga,Millonarios,0,0
-18.08. 01:00Pen,Dep. Pasto,Ind. Medellin,3,2
-17.08. 03:30Pen,Junior,Cucuta,2,2
-17.08. 02:00Pen,Deportes Tolima,Alianza,2,1
-17.08. 02:00,Pereira,Tigres,1,0
-17.08. 01:00Pen,Aguilas,La Equidad,3,1
-17.08. 01:00Pen,Santa Fe,Dep. Cali,2,0
-11.08. 03:10,Millonarios,Bucaramanga,3,1
-10.08. 02:00,Ind. Medellin,Dep. Pasto,3,1
-28.07. 03:00,Dep. Cali,Santa Fe,2,1
-27.07. 23:00,Cucuta,Junior,4,3
-27.07. 03:00,America De Cali,Atl. Nacional,1,3
-27.07. 01:30,Alianza,Deportes Tolima,2,0
-26.07. 22:30,Tigres,Pereira,0,1
-26.07. 02:00,La Equidad,Aguilas,1,0
-04.05. 22:45Pen,Jaguares de Cordoba,Dep. Cali,1,1
-03.05. 22:45,Cucuta,Cartagena,0,0
-03.05. 02:40,Alianza,Orsomarso,3,1
-02.05. 22:00Pen,Tigres,U. Magdalena,2,0
-13.04. 01:00,Cartagena,Cucuta,0,1
-06.04. 21:50,Orsomarso,Alianza,1,1
-06.04. 02:00,Dep. Cali,Jaguares de Cordoba,1,0
-05.04. 22:30,U. Magdalena,Tigres,1,0
-31.03. 02:30,U. Magdalena,Fortaleza,4,2
-30.03. 23:00,Jaguares de Cordoba,Llaneros,1,0
-30.03. 22:30,Cucuta,Quindio,0,0
-30.03. 02:00,Cartagena,Inter Palmira,2,1
-30.03. 00:30,Dep. Cali,Leones,2,0
-29.03. 23:00,Alianza,Bogota,1,0
-29.03. 22:00Pen,Envigado,Tigres,0,1
-28.03. 22:30,Orsomarso,Patriotas,1,0
-17.03. 02:05,Quindio,Cucuta,0,2
-17.03. 00:00,Bogota,Alianza,2,2
-16.03. 21:30,Patriotas,Orsomarso,0,0
-16.03. 02:05,Leones,Dep. Cali,0,0
-16.03. 00:00,Llaneros,Jaguares de Cordoba,1,1
-15.03. 21:15,Fortaleza,U. Magdalena,2,1
-15.03. 21:15,Tigres,Envigado,1,1
-15.03. 21:00,Inter Palmira,Cartagena,1,3
-24.02. 02:00,Dep. Cali,Barranquilla,6,0
-23.02. 23:30Pen,Cartagena,Chico,1,0
-23.02. 21:00,Real Santander,Alianza,1,0
-23.02. 02:00,Once Caldas,Cucuta,1,0
-22.02. 23:30Pen,Envigado,Atletico F.C.,3,0
-22.02. 23:30,Jaguares de Cordoba,Real Cundinamarca,1,0
-22.02. 22:00,U. Magdalena,Boca Juniors,3,0
-22.02. 00:00,Huila,Orsomarso,0,0
-16.02. 23:30,Barranquilla,Dep. Cali,3,3
-16.02. 22:00,Boca Juniors,U. Magdalena,0,1
-16.02. 21:30,Cucuta,Once Caldas,3,1
-16.02. 00:00,Alianza,Real Santander,4,1
-15.02. 23:15,Chico,Cartagena,1,1
-15.02. 21:00,Atletico F.C.,Envigado,2,0
-15.02. 00:00,Real Cundinamarca,Jaguares de Cordoba,0,2
-14.02. 22:00,Orsomarso,Huila,1,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1676408400,Orsomarso,Huila,1,0,,,,0
+1676415600,Real Cundinamarca,Jaguares de Cordoba,0,2,,,,0
+1676491200,Atletico F.C.,Envigado,2,0,,,,0
+1676499300,Chico,Cartagena,1,1,,,,0
+1676502000,Alianza,Real Santander,4,1,,,,0
+1676579400,Cucuta,Once Caldas,3,1,,,,0
+1676581200,Boca Juniors,U. Magdalena,0,1,,,,0
+1676586600,Barranquilla,Dep. Cali,3,3,,,,0
+1677020400,Huila,Orsomarso,0,0,,,,0
+1677099600,U. Magdalena,Boca Juniors,3,0,,,,0
+1677105000,Jaguares de Cordoba,Real Cundinamarca,1,0,,,,0
+1677105000,Envigado,Atletico F.C.,2,0,Pen,3,0,0
+1677114000,Once Caldas,Cucuta,1,0,,,,0
+1677182400,Real Santander,Alianza,1,0,,,,0
+1677191400,Cartagena,Chico,0,0,Pen,1,0,0
+1677200400,Dep. Cali,Barranquilla,6,0,,,,0
+1678910400,Inter Palmira,Cartagena,1,3,,,,0
+1678911300,Tigres,Envigado,1,1,,,,0
+1678911300,Fortaleza,U. Magdalena,2,1,,,,0
+1678921200,Llaneros,Jaguares de Cordoba,1,1,,,,0
+1678928700,Leones,Dep. Cali,0,0,,,,0
+1678998600,Patriotas,Orsomarso,0,0,,,,0
+1679007600,Bogota,Alianza,2,2,,,,0
+1679015100,Quindio,Cucuta,0,2,,,,0
+1680035400,Orsomarso,Patriotas,1,0,,,,0
+1680120000,Envigado,Tigres,0,0,Pen,0,1,0
+1680123600,Alianza,Bogota,1,0,,,,0
+1680129000,Dep. Cali,Leones,2,0,,,,0
+1680134400,Cartagena,Inter Palmira,2,1,,,,0
+1680208200,Cucuta,Quindio,0,0,,,,0
+1680210000,Jaguares de Cordoba,Llaneros,1,0,,,,0
+1680222600,U. Magdalena,Fortaleza,4,2,,,,0
+1680726600,U. Magdalena,Tigres,1,0,,,,0
+1680739200,Dep. Cali,Jaguares de Cordoba,1,0,,,,0
+1680810600,Orsomarso,Alianza,1,1,,,,0
+1681340400,Cartagena,Cucuta,0,1,,,,0
+1683057600,Tigres,U. Magdalena,1,0,Pen,2,0,0
+1683074400,Alianza,Orsomarso,3,1,,,,0
+1683146700,Cucuta,Cartagena,0,0,,,,0
+1683233100,Jaguares de Cordoba,Dep. Cali,1,0,Pen,1,1,0
+1690329600,La Equidad,Aguilas,1,0,,,,0
+1690403400,Tigres,Pereira,0,1,,,,0
+1690414200,Alianza,Deportes Tolima,2,0,,,,0
+1690419600,America De Cali,Atl. Nacional,1,3,,,,0
+1690491600,Cucuta,Junior,4,3,,,,0
+1690506000,Dep. Cali,Santa Fe,2,1,,,,0
+1691625600,Ind. Medellin,Dep. Pasto,3,1,,,,0
+1691716200,Millonarios,Bucaramanga,3,1,,,,0
+1692226800,Santa Fe,Dep. Cali,1,0,Pen,2,0,0
+1692226800,Aguilas,La Equidad,2,1,Pen,3,1,0
+1692230400,Pereira,Tigres,1,0,,,,0
+1692230400,Deportes Tolima,Alianza,2,0,Pen,2,1,0
+1692235800,Junior,Cucuta,2,1,Pen,2,2,0
+1692313200,Dep. Pasto,Ind. Medellin,3,1,Pen,3,2,0
+1692313200,Bucaramanga,Millonarios,0,0,,,,0
+1692322200,Atl. Nacional,America De Cali,2,1,,,,0
+1695856500,Santa Fe,Pereira,0,0,,,,0
+1695864600,Aguilas,Atl. Nacional,0,3,,,,0
+1695938400,Cucuta,Ind. Medellin,0,1,,,,0
+1695946200,Millonarios,Alianza,2,0,,,,0
+1696460400,Pereira,Santa Fe,2,0,,,,0
+1696469400,Atl. Nacional,Aguilas,2,1,,,,0
+1696546800,Ind. Medellin,Cucuta,1,2,Pen,1,3,0
+1696555800,Alianza,Millonarios,1,2,,,,0
+1697763600,Pereira,Atl. Nacional,2,0,,,,0
+1698955200,Atl. Nacional,Pereira,3,1,Pen,4,1,0
+1698973200,Millonarios,Cucuta,1,0,,,,0
+1699221600,Cucuta,Millonarios,1,1,,,,0
+1700096400,Millonarios,Atl. Nacional,1,1,,,,0
+1700787600,Atl. Nacional,Millonarios,1,1,Pen,2,1,0

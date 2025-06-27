@@ -1,79 +1,79 @@
-date,home_team,away_team,home_score,away_score
-28.04. 04:00,Real Salt Lake,Monterrey,0,1
-21.04. 04:00,Monterrey,Real Salt Lake,2,2
-07.04. 02:00,Cruz Azul,Monterrey,1,1
-06.04. 04:00,Saprissa,Real Salt Lake,2,1
-17.03. 03:00,Monterrey,Cruz Azul,2,1
-16.03. 03:00,Real Salt Lake,Saprissa,2,0
-04.03. 02:00,Olimpia,Saprissa,1,2
-03.03. 02:00,Monterrey,Toluca,1,0
-02.03. 04:00,Real Salt Lake,Columbus Crew,4,1
-02.03. 02:00,Santos Laguna,Cruz Azul,1,3
-25.02. 02:00,Saprissa,Olimpia,1,0
-24.02. 02:00,Toluca,Monterrey,0,1
-23.02. 04:00,Cruz Azul,Santos Laguna,2,0
-23.02. 02:00,Columbus Crew,Real Salt Lake,0,0
-22.10. 02:00,Joe Public,Columbus Crew,1,4
-21.10. 04:00,Marathon,Monterrey,0,1
-21.10. 04:00,Olimpia,Puerto Rico,3,0
-21.10. 02:00,Toluca,FAS,5,0
-20.10. 04:00,Real Salt Lake,Cruz Azul,3,1
-20.10. 04:00,Seattle Sounders,Saprissa,1,2
-20.10. 02:00,Santos Laguna,Municipal,6,1
-20.10. 02:00,Toronto FC,Arabe Unido,1,0
-01.10. 04:00,FAS,Olimpia,1,4
-30.09. 04:00,Municipal,Columbus Crew,2,1
-30.09. 04:00,Santos Laguna,Joe Public,5,1
-30.09. 04:00,Seattle Sounders,Marathon,2,0
-30.09. 02:00,Puerto Rico,Toluca,3,2
-29.09. 04:00,Saprissa,Monterrey,2,2
-29.09. 02:00,Cruz Azul,Arabe Unido,2,0
-29.09. 02:00,Toronto FC,Real Salt Lake,1,1
-24.09. 04:00,Olimpia,Toluca,2,1
-24.09. 02:00,Joe Public,Municipal,2,3
-23.09. 04:00,FAS,Puerto Rico,0,0
-23.09. 04:00,Marathon,Saprissa,2,1
-23.09. 02:00,Arabe Unido,Real Salt Lake,2,3
-23.09. 02:00,Monterrey,Seattle Sounders,3,2
-22.09. 04:00,Cruz Azul,Toronto FC,0,0
-22.09. 02:00,Columbus Crew,Santos Laguna,1,0
-17.09. 02:00,Olimpia,FAS,2,0
-16.09. 04:00,Arabe Unido,Cruz Azul,0,6
-16.09. 04:00,Real Salt Lake,Toronto FC,4,1
-16.09. 02:00,Toluca,Puerto Rico,3,0
-15.09. 04:00,Municipal,Santos Laguna,2,2
-15.09. 04:00,Saprissa,Seattle Sounders,2,0
-15.09. 02:00,Columbus Crew,Joe Public,3,0
-15.09. 02:00,Monterrey,Marathon,2,0
-27.08. 04:00,Municipal,Joe Public,1,1
-27.08. 04:00,Saprissa,Marathon,4,1
-27.08. 02:00,Toluca,Olimpia,4,0
-26.08. 04:00,Seattle Sounders,Monterrey,0,2
-26.08. 02:00,Cruz Azul,Real Salt Lake,5,4
-26.08. 02:00,Puerto Rico,FAS,4,1
-25.08. 04:00,Santos Laguna,Columbus Crew,1,0
-25.08. 02:00,Arabe Unido,Toronto FC,1,0
-20.08. 04:00,Marathon,Seattle Sounders,2,1
-19.08. 04:00,FAS,Toluca,0,0
-19.08. 04:00,Real Salt Lake,Arabe Unido,2,1
-19.08. 02:00,Columbus Crew,Municipal,1,0
-19.08. 02:00,Joe Public,Santos Laguna,2,5
-18.08. 04:00,Monterrey,Saprissa,1,0
-18.08. 02:00,Puerto Rico,Olimpia,1,1
-18.08. 02:00,Toronto FC,Cruz Azul,2,1
-06.08. 04:00,Xelaju,FAS,0,2
-06.08. 02:00,Joe Public,Brujas,4,2
-05.08. 04:00,Marathon,Tauro,1,2
-05.08. 04:00,Santos Laguna,San Juan Jabloteh,5,0
-05.08. 02:00,Puerto Rico,Los Angeles Galaxy,1,2
-04.08. 04:00,Metapan,Seattle Sounders,1,1
-04.08. 02:00,Cruz Azul,San Francisco,6,0
-04.08. 02:00,Motagua,Toronto FC,2,2
-30.07. 04:00,FAS,Xelaju,1,1
-29.07. 04:00,Brujas,Joe Public,2,2
-29.07. 04:00,Seattle Sounders,Metapan,1,0
-29.07. 02:00,Tauro,Marathon,0,3
-28.07. 04:00,Los Angeles Galaxy,Puerto Rico,1,4
-28.07. 04:00,San Francisco,Cruz Azul,2,3
-28.07. 02:00,San Juan Jabloteh,Santos Laguna,0,1
-28.07. 02:00,Toronto FC,Motagua,1,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1280275200,Toronto FC,Motagua,1,0,,,,0
+1280275200,San Juan Jabloteh,Santos Laguna,0,1,,,,0
+1280282400,San Francisco,Cruz Azul,2,3,,,,0
+1280282400,Los Angeles Galaxy,Puerto Rico,1,4,,,,0
+1280361600,Tauro,Marathon,0,3,,,,0
+1280368800,Seattle Sounders,Metapan,1,0,,,,0
+1280368800,Brujas,Joe Public,2,2,,,,0
+1280455200,FAS,Xelaju,1,1,,,,0
+1280880000,Motagua,Toronto FC,2,2,,,,0
+1280880000,Cruz Azul,San Francisco,6,0,,,,0
+1280887200,Metapan,Seattle Sounders,1,1,,,,0
+1280966400,Puerto Rico,Los Angeles Galaxy,1,2,,,,0
+1280973600,Santos Laguna,San Juan Jabloteh,5,0,,,,0
+1280973600,Marathon,Tauro,1,2,,,,0
+1281052800,Joe Public,Brujas,4,2,,,,0
+1281060000,Xelaju,FAS,0,2,,,,0
+1282089600,Toronto FC,Cruz Azul,2,1,,,,0
+1282089600,Puerto Rico,Olimpia,1,1,,,,0
+1282096800,Monterrey,Saprissa,1,0,,,,0
+1282176000,Joe Public,Santos Laguna,2,5,,,,0
+1282176000,Columbus Crew,Municipal,1,0,,,,0
+1282183200,Real Salt Lake,Arabe Unido,2,1,,,,0
+1282183200,FAS,Toluca,0,0,,,,0
+1282269600,Marathon,Seattle Sounders,2,1,,,,0
+1282694400,Arabe Unido,Toronto FC,1,0,,,,0
+1282701600,Santos Laguna,Columbus Crew,1,0,,,,0
+1282780800,Puerto Rico,FAS,4,1,,,,0
+1282780800,Cruz Azul,Real Salt Lake,5,4,,,,0
+1282788000,Seattle Sounders,Monterrey,0,2,,,,0
+1282867200,Toluca,Olimpia,4,0,,,,0
+1282874400,Saprissa,Marathon,4,1,,,,0
+1282874400,Municipal,Joe Public,1,1,,,,0
+1284508800,Monterrey,Marathon,2,0,,,,0
+1284508800,Columbus Crew,Joe Public,3,0,,,,0
+1284516000,Saprissa,Seattle Sounders,2,0,,,,0
+1284516000,Municipal,Santos Laguna,2,2,,,,0
+1284595200,Toluca,Puerto Rico,3,0,,,,0
+1284602400,Real Salt Lake,Toronto FC,4,1,,,,0
+1284602400,Arabe Unido,Cruz Azul,0,6,,,,0
+1284681600,Olimpia,FAS,2,0,,,,0
+1285113600,Columbus Crew,Santos Laguna,1,0,,,,0
+1285120800,Cruz Azul,Toronto FC,0,0,,,,0
+1285200000,Monterrey,Seattle Sounders,3,2,,,,0
+1285200000,Arabe Unido,Real Salt Lake,2,3,,,,0
+1285207200,Marathon,Saprissa,2,1,,,,0
+1285207200,FAS,Puerto Rico,0,0,,,,0
+1285286400,Joe Public,Municipal,2,3,,,,0
+1285293600,Olimpia,Toluca,2,1,,,,0
+1285718400,Toronto FC,Real Salt Lake,1,1,,,,0
+1285718400,Cruz Azul,Arabe Unido,2,0,,,,0
+1285725600,Saprissa,Monterrey,2,2,,,,0
+1285804800,Puerto Rico,Toluca,3,2,,,,0
+1285812000,Seattle Sounders,Marathon,2,0,,,,0
+1285812000,Santos Laguna,Joe Public,5,1,,,,0
+1285812000,Municipal,Columbus Crew,2,1,,,,0
+1285898400,FAS,Olimpia,1,4,,,,0
+1287532800,Toronto FC,Arabe Unido,1,0,,,,0
+1287532800,Santos Laguna,Municipal,6,1,,,,0
+1287540000,Seattle Sounders,Saprissa,1,2,,,,0
+1287540000,Real Salt Lake,Cruz Azul,3,1,,,,0
+1287619200,Toluca,FAS,5,0,,,,0
+1287626400,Olimpia,Puerto Rico,3,0,,,,0
+1287626400,Marathon,Monterrey,0,1,,,,0
+1287705600,Joe Public,Columbus Crew,1,4,,,,0
+1298422800,Columbus Crew,Real Salt Lake,0,0,,,,0
+1298430000,Cruz Azul,Santos Laguna,2,0,,,,0
+1298509200,Toluca,Monterrey,0,1,,,,0
+1298595600,Saprissa,Olimpia,1,0,,,,0
+1299027600,Santos Laguna,Cruz Azul,1,3,,,,0
+1299034800,Real Salt Lake,Columbus Crew,4,1,,,,0
+1299114000,Monterrey,Toluca,1,0,,,,0
+1299200400,Olimpia,Saprissa,1,2,,,,0
+1300240800,Real Salt Lake,Saprissa,2,0,,,,0
+1300327200,Monterrey,Cruz Azul,2,1,,,,0
+1302055200,Saprissa,Real Salt Lake,2,1,,,,0
+1302134400,Cruz Azul,Monterrey,1,1,,,,0
+1303351200,Monterrey,Real Salt Lake,2,2,,,,0
+1303956000,Real Salt Lake,Monterrey,0,1,,,,0

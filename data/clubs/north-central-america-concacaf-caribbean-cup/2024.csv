@@ -1,29 +1,29 @@
-date,home_team,away_team,home_score,away_score
-04.12. 01:00,Cibao (Dom),Cavalier (Jam),2,1
-03.12. 22:30,Moca (Dom),Real Hope (Hai),2,3
-27.11. 02:00,Cavalier (Jam),Cibao (Dom),1,0
-27.11. 00:00,Real Hope (Hai),Moca (Dom),1,0
-01.11. 01:00,Cibao (Dom),Real Hope (Hai),1,0
-31.10. 01:00,Cavalier (Jam),Moca (Dom),7,0
-25.10. 03:35,Moca (Dom),Cavalier (Jam),0,0
-24.10. 02:00,Real Hope (Hai),Cibao (Dom),2,3
-04.10. 02:00,Arnett Gardens (Jam),Cavalier (Jam),1,4
-04.10. 02:00,Mount Pleasant (Jam),Real Hope (Hai),0,2
-02.10. 02:00,Cibao (Dom),Ouanaminthe (Hai),4,1
-02.10. 02:00,Grenades (Atg),Moca (Dom),1,2
-27.09. 00:00,Police (Tri),Mount Pleasant (Jam),0,0
-26.09. 02:00,Real Hope (Hai),Arnett Gardens (Jam),0,0
-25.09. 02:00,Port Of Spain (Tri),Cibao (Dom),2,3
-25.09. 00:00,Ouanaminthe (Hai),Grenades (Atg),2,2
-20.09. 02:00,Police (Tri),Arnett Gardens (Jam),2,1
-19.09. 02:00,Moca (Dom),Ouanaminthe (Hai),3,1
-18.09. 02:00,Cavalier (Jam),Real Hope (Hai),1,2
-18.09. 00:00,Port Of Spain (Tri),Grenades (Atg),1,1
-30.08. 02:00,Cavalier (Jam),Police (Tri),4,1
-29.08. 02:00,Grenades (Atg),Cibao (Dom),1,2
-28.08. 02:00,Moca (Dom),Port Of Spain (Tri),3,2
-28.08. 00:00,Arnett Gardens (Jam),Mount Pleasant (Jam),1,2
-23.08. 02:00,Real Hope (Hai),Police (Tri),1,1
-23.08. 00:00,Ouanaminthe (Hai),Port Of Spain (Tri),1,1
-22.08. 00:00,Cibao (Dom),Moca (Dom),0,0
-21.08. 00:00,Mount Pleasant (Jam),Cavalier (Jam),0,2
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1724191200,Mount Pleasant (Jam),Cavalier (Jam),0,2,,,,0
+1724277600,Cibao (Dom),Moca (Dom),0,0,,,,0
+1724364000,Ouanaminthe (Hai),Port Of Spain (Tri),1,1,,,,0
+1724371200,Real Hope (Hai),Police (Tri),1,1,,,,0
+1724796000,Arnett Gardens (Jam),Mount Pleasant (Jam),1,2,,,,0
+1724803200,Moca (Dom),Port Of Spain (Tri),3,2,,,,0
+1724889600,Grenades (Atg),Cibao (Dom),1,2,,,,0
+1724976000,Cavalier (Jam),Police (Tri),4,1,,,,0
+1726610400,Port Of Spain (Tri),Grenades (Atg),1,1,,,,0
+1726617600,Cavalier (Jam),Real Hope (Hai),1,2,,,,0
+1726704000,Moca (Dom),Ouanaminthe (Hai),3,1,,,,0
+1726790400,Police (Tri),Arnett Gardens (Jam),2,1,,,,0
+1727215200,Ouanaminthe (Hai),Grenades (Atg),2,2,,,,0
+1727222400,Port Of Spain (Tri),Cibao (Dom),2,3,,,,0
+1727308800,Real Hope (Hai),Arnett Gardens (Jam),0,0,,,,0
+1727388000,Police (Tri),Mount Pleasant (Jam),0,0,,,,0
+1727827200,Grenades (Atg),Moca (Dom),1,2,,,,0
+1727827200,Cibao (Dom),Ouanaminthe (Hai),4,1,,,,0
+1728000000,Mount Pleasant (Jam),Real Hope (Hai),0,2,,,,0
+1728000000,Arnett Gardens (Jam),Cavalier (Jam),1,4,,,,0
+1729728000,Real Hope (Hai),Cibao (Dom),2,3,,,,0
+1729820100,Moca (Dom),Cavalier (Jam),0,0,,,,0
+1730332800,Cavalier (Jam),Moca (Dom),7,0,,,,0
+1730419200,Cibao (Dom),Real Hope (Hai),1,0,,,,0
+1732662000,Real Hope (Hai),Moca (Dom),1,0,,,,0
+1732669200,Cavalier (Jam),Cibao (Dom),1,0,,,,0
+1733261400,Moca (Dom),Real Hope (Hai),2,3,,,,0
+1733270400,Cibao (Dom),Cavalier (Jam),2,1,,,,0

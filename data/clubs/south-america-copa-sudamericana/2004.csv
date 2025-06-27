@@ -1,69 +1,69 @@
-date,home_team,away_team,home_score,away_score
-17.12. 22:00,Boca Juniors,Bolivar,2,0
-08.12. 23:55,Bolivar,Boca Juniors,1,0
-02.12. 23:55,Bolivar,LDU Quito,2,1
-01.12. 23:55,Internacional,Boca Juniors,0,0
-25.11. 23:55,LDU Quito,Bolivar,1,1
-24.11. 23:55,Boca Juniors,Internacional,4,2
-10.11. 23:55Pen,Cerro Porteno,Boca Juniors,0,1
-10.11. 23:55,Junior,Internacional,1,1
-10.11. 23:55,Santos,LDU Quito,1,2
-04.11. 23:55,Bolivar,Arsenal Sarandi,3,0
-03.11. 23:55,Internacional,Junior,1,0
-03.11. 23:55,LDU Quito,Santos,3,2
-28.10. 23:55,Arsenal Sarandi,Bolivar,1,0
-27.10. 23:55,Boca Juniors,Cerro Porteno,1,1
-21.10. 20:00,Cerro Porteno,Penarol,1,2
-20.10. 23:55,Cruzeiro,Internacional,0,1
-20.10. 23:55,Sao Paulo,Santos,1,1
-19.10. 23:55,Bolivar,U. De Concepcion,4,2
-19.10. 22:00,Junior,Alianza Atl.,4,1
-10.10. 20:00,Internacional,Cruzeiro,3,1
-10.10. 20:00,Santos,Sao Paulo,1,0
-06.10. 23:55,Penarol,Cerro Porteno,1,3
-05.10. 23:55,Cienciano,LDU Quito,2,2
-30.09. 23:55,Alianza Atl.,Junior,0,2
-30.09. 23:55,River Plate,Arsenal Sarandi,0,0
-30.09. 00:00,U. De Concepcion,Bolivar,0,0
-29.09. 23:55AET,Boca Juniors,San Lorenzo,2,1
-28.09. 23:55,LDU Quito,Cienciano,4,0
-23.09. 23:55Pen,Flamengo RJ,Santos,2,3
-22.09. 23:55,Cruzeiro,Goias,3,2
-22.09. 23:55,Gremio,Internacional,2,1
-22.09. 23:55Pen,Sao Paulo,Sao Caetano,2,1
-21.09. 23:55,Penarol,Danubio,1,1
-16.09. 23:55,Goias,Cruzeiro,2,2
-16.09. 23:55,San Lorenzo,Boca Juniors,1,0
-15.09. 23:55,Internacional,Gremio,2,0
-15.09. 23:55,Santos,Flamengo RJ,0,0
-15.09. 23:55,Sao Caetano,Sao Paulo,1,1
-14.09. 23:55,Alianza Atl.,Coronel,4,1
-14.09. 23:55,Aucas,LDU Quito,1,1
-09.09. 23:55,Danubio,Penarol,1,2
-09.09. 23:55,Junior,Millonarios,2,0
-08.09. 23:55,Arsenal Sarandi,River Plate,2,1
-08.09. 23:55,S. Wanderers,U. De Concepcion,0,1
-04.09. 23:30,Sao Caetano,Coritiba,2,2
-04.09. 20:45,Atletico-MG,Goias,1,1
-04.09. 20:45,Santos,Parana,3,0
-04.09. 20:30AET,Internacional,Figueirense,2,1
-02.09. 23:55,Banfield,Arsenal Sarandi,3,4
-02.09. 00:00,San Lorenzo,Quilmes,0,0
-01.09. 00:00,Cienciano,Carabobo,6,1
-01.09. 00:00,U. De Concepcion,S. Wanderers,2,1
-27.08. 02:15,Coritiba,Sao Caetano,1,2
-26.08. 02:45,Goias,Atletico-MG,4,2
-26.08. 02:45,Parana,Santos,2,1
-26.08. 00:30,Figueirense,Internacional,0,0
-25.08. 03:15,Libertad Asuncion,Cerro Porteno,0,2
-24.08. 00:00,Carabobo,Cienciano,1,2
-19.08. 23:55,Bolivar,Aurora,3,1
-19.08. 23:55,Millonarios,Junior,1,0
-18.08. 23:55,Quilmes,San Lorenzo,0,2
-18.08. 03:30,Coronel,Alianza Atl.,1,0
-18.08. 01:00,Carabobo,Miranda,2,0
-13.08. 03:00,Aurora,Bolivar,1,2
-13.08. 01:00,Miranda,Carabobo,0,0
-11.08. 23:55,Cerro Porteno,Libertad Asuncion,1,1
-11.08. 23:55,LDU Quito,Aucas,1,0
-11.08. 02:00,Arsenal Sarandi,Banfield,1,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1092182400,Arsenal Sarandi,Banfield,1,1,,,,0
+1092261300,LDU Quito,Aucas,1,0,,,,0
+1092261300,Cerro Porteno,Libertad Asuncion,1,1,,,,0
+1092351600,Miranda,Carabobo,0,0,,,,0
+1092358800,Aurora,Bolivar,1,2,,,,0
+1092783600,Carabobo,Miranda,2,0,,,,0
+1092792600,Coronel,Alianza Atl.,1,0,,,,0
+1092866100,Quilmes,San Lorenzo,0,2,,,,0
+1092952500,Millonarios,Junior,1,0,,,,0
+1092952500,Bolivar,Aurora,3,1,,,,0
+1093298400,Carabobo,Cienciano,1,2,,,,0
+1093396500,Libertad Asuncion,Cerro Porteno,0,2,,,,0
+1093473000,Figueirense,Internacional,0,0,,,,0
+1093481100,Parana,Santos,2,1,,,,0
+1093481100,Goias,Atletico-MG,4,2,,,,0
+1093565700,Coritiba,Sao Caetano,1,2,,,,0
+1093989600,U. De Concepcion,S. Wanderers,2,1,,,,0
+1093989600,Cienciano,Carabobo,6,1,,,,0
+1094076000,San Lorenzo,Quilmes,0,0,,,,0
+1094162100,Banfield,Arsenal Sarandi,3,4,,,,0
+1094322600,Internacional,Figueirense,1,1,AET,2,1,0
+1094323500,Santos,Parana,3,0,,,,0
+1094323500,Atletico-MG,Goias,1,1,,,,0
+1094333400,Sao Caetano,Coritiba,2,2,,,,0
+1094680500,S. Wanderers,U. De Concepcion,0,1,,,,0
+1094680500,Arsenal Sarandi,River Plate,2,1,,,,0
+1094766900,Junior,Millonarios,2,0,,,,0
+1094766900,Danubio,Penarol,1,2,,,,0
+1095198900,Aucas,LDU Quito,1,1,,,,0
+1095198900,Alianza Atl.,Coronel,4,1,,,,0
+1095285300,Sao Caetano,Sao Paulo,1,1,,,,0
+1095285300,Santos,Flamengo RJ,0,0,,,,0
+1095285300,Internacional,Gremio,2,0,,,,0
+1095371700,San Lorenzo,Boca Juniors,1,0,,,,0
+1095371700,Goias,Cruzeiro,2,2,,,,0
+1095803700,Penarol,Danubio,1,1,,,,0
+1095890100,Sao Paulo,Sao Caetano,1,1,Pen,2,1,0
+1095890100,Gremio,Internacional,2,1,,,,0
+1095890100,Cruzeiro,Goias,3,2,,,,0
+1095976500,Flamengo RJ,Santos,2,2,Pen,2,3,0
+1096408500,LDU Quito,Cienciano,4,0,,,,0
+1096494900,Boca Juniors,San Lorenzo,2,1,AET,2,1,0
+1096495200,U. De Concepcion,Bolivar,0,0,,,,0
+1096581300,River Plate,Arsenal Sarandi,0,0,,,,0
+1096581300,Alianza Atl.,Junior,0,2,,,,0
+1097013300,Cienciano,LDU Quito,2,2,,,,0
+1097099700,Penarol,Cerro Porteno,1,3,,,,0
+1097431200,Santos,Sao Paulo,1,0,,,,0
+1097431200,Internacional,Cruzeiro,3,1,,,,0
+1098216000,Junior,Alianza Atl.,4,1,,,,0
+1098222900,Bolivar,U. De Concepcion,4,2,,,,0
+1098309300,Sao Paulo,Santos,1,1,,,,0
+1098309300,Cruzeiro,Internacional,0,1,,,,0
+1098381600,Cerro Porteno,Penarol,1,2,,,,0
+1098914100,Boca Juniors,Cerro Porteno,1,1,,,,0
+1099000500,Arsenal Sarandi,Bolivar,1,0,,,,0
+1099522500,LDU Quito,Santos,3,2,,,,0
+1099522500,Internacional,Junior,1,0,,,,0
+1099608900,Bolivar,Arsenal Sarandi,3,0,,,,0
+1100127300,Santos,LDU Quito,1,2,,,,0
+1100127300,Junior,Internacional,1,1,,,,0
+1100127300,Cerro Porteno,Boca Juniors,0,0,Pen,0,1,0
+1101336900,Boca Juniors,Internacional,4,2,,,,0
+1101423300,LDU Quito,Bolivar,1,1,,,,0
+1101941700,Internacional,Boca Juniors,0,0,,,,0
+1102028100,Bolivar,LDU Quito,2,1,,,,0
+1102546500,Bolivar,Boca Juniors,1,0,,,,0
+1103317200,Boca Juniors,Bolivar,2,0,,,,0

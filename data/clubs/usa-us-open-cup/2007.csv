@@ -1,40 +1,40 @@
-date,home_team,away_team,home_score,away_score
-03.10. 20:00,FC Dallas,New England Revolution,2,3
-04.09. 20:00,New England Revolution,North Carolina,2,1
-04.09. 20:00,Seattle Sounders,FC Dallas,1,2
-08.08. 20:00,New England Revolution,Penn,2,1
-07.08. 20:00,Charleston,FC Dallas,1,2
-07.08. 20:00,North Carolina,Richmond Kickers,1,0
-07.08. 20:00,Seattle Sounders,Colorado Rapids,5,0
-18.07. 20:00,Seattle Sounders,Chivas USA,3,1
-15.07. 20:00,North Carolina,Chicago Fire,1,0
-11.07. 20:00,Penn,DC United,1,0
-10.07. 20:00,Charleston,Houston Dynamo,1,0
-10.07. 20:00,Colorado Rapids,California,3,1
-10.07. 20:00,Richmond Kickers,Los Angeles Galaxy,1,0
-10.07. 20:00,Rochester New York,New England Revolution,2,4
-09.07. 20:00,FC Dallas,Atlanta SC,1,1
-26.06. 20:00,Atlanta SC,Charlotte Eagles,1,0
-26.06. 20:00,Charleston,El Paso,1,0
-26.06. 20:00,Minnesota United,California,0,1
-26.06. 20:00,North Carolina,Bavarian United,4,0
-26.06. 20:00,Ocean City,Penn,1,2
-26.06. 20:00,Richmond Kickers,Cleveland,2,1
-26.06. 20:00,Rochester New York,Western Mass Pioneers,2,1
-26.06. 20:00,Seattle Sounders,Portland Timbers,2,1
-13.06. 20:00,Charlotte Eagles,Lynchs FC,2,0
-12.06. 20:00,Atlanta SC,Azzuri,10,0
-12.06. 20:00,Bakersfield,Portland Timbers,0,2
-12.06. 20:00,Bavarian United,Cincinnati Riverhawks,1,0
-12.06. 20:00,BYU Cougars,California,1,2
-12.06. 20:00,Charleston,UCF Knights,3,0
-12.06. 20:00,Danbury,Western Mass Pioneers,2,3
-12.06. 20:00,El Paso,Fort Lauderdale Strikers,2,2
-12.06. 20:00,Minnesota United,Indios USA,3,2
-12.06. 20:00,North Carolina,RWB Adria,4,1
-12.06. 20:00,Ocean City,Crystal Palace Baltimore,1,0
-12.06. 20:00,Penn,Aegean Hawks,4,0
-12.06. 20:00,Richmond Kickers,Michigan Bucks,4,2
-12.06. 20:00,Rochester New York,Long Island,1,0
-12.06. 20:00,Seattle Sounders,Banat Storm,4,1
-12.06. 20:00,Sporting Kansas City,Cleveland,0,4
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1181671200,Sporting Kansas City,Cleveland,0,4,,,,0
+1181671200,Seattle Sounders,Banat Storm,4,1,,,,0
+1181671200,Rochester New York,Long Island,1,0,,,,0
+1181671200,Richmond Kickers,Michigan Bucks,4,2,,,,0
+1181671200,Penn,Aegean Hawks,4,0,,,,0
+1181671200,Ocean City,Crystal Palace Baltimore,1,0,,,,0
+1181671200,North Carolina,RWB Adria,4,1,,,,0
+1181671200,Minnesota United,Indios USA,3,2,,,,0
+1181671200,El Paso,Fort Lauderdale Strikers,2,2,,,,0
+1181671200,Danbury,Western Mass Pioneers,2,3,,,,0
+1181671200,Charleston,UCF Knights,3,0,,,,0
+1181671200,BYU Cougars,California,1,2,,,,0
+1181671200,Bavarian United,Cincinnati Riverhawks,1,0,,,,0
+1181671200,Bakersfield,Portland Timbers,0,2,,,,0
+1181671200,Atlanta SC,Azzuri,10,0,,,,0
+1181757600,Charlotte Eagles,Lynchs FC,2,0,,,,0
+1182880800,Seattle Sounders,Portland Timbers,2,1,,,,0
+1182880800,Rochester New York,Western Mass Pioneers,2,1,,,,0
+1182880800,Richmond Kickers,Cleveland,2,1,,,,0
+1182880800,Ocean City,Penn,1,2,,,,0
+1182880800,North Carolina,Bavarian United,4,0,,,,0
+1182880800,Minnesota United,California,0,1,,,,0
+1182880800,Charleston,El Paso,1,0,,,,0
+1182880800,Atlanta SC,Charlotte Eagles,1,0,,,,0
+1184004000,FC Dallas,Atlanta SC,1,1,,,,0
+1184090400,Rochester New York,New England Revolution,2,4,,,,0
+1184090400,Richmond Kickers,Los Angeles Galaxy,1,0,,,,0
+1184090400,Colorado Rapids,California,3,1,,,,0
+1184090400,Charleston,Houston Dynamo,1,0,,,,0
+1184176800,Penn,DC United,1,0,,,,0
+1184522400,North Carolina,Chicago Fire,1,0,,,,0
+1184781600,Seattle Sounders,Chivas USA,3,1,,,,0
+1186509600,Seattle Sounders,Colorado Rapids,5,0,,,,0
+1186509600,North Carolina,Richmond Kickers,1,0,,,,0
+1186509600,Charleston,FC Dallas,1,2,,,,0
+1186596000,New England Revolution,Penn,2,1,,,,0
+1188928800,Seattle Sounders,FC Dallas,1,2,,,,0
+1188928800,New England Revolution,North Carolina,2,1,,,,0
+1191434400,FC Dallas,New England Revolution,2,3,,,,0

@@ -1,39 +1,39 @@
-date,home_team,away_team,home_score,away_score
-22.05. 02:00,Cibao,San Juan Jabloteh,1,0
-21.05. 23:00Pen,Central FC,Portmore,2,3
-19.05. 02:00,Central FC,Cibao,0,1
-18.05. 23:30,San Juan Jabloteh,Portmore,2,2
-17.05. 02:00,Cibao,Grenades,2,2
-16.05. 23:30,Portmore,Racing des Gonaives,1,0
-15.05. 02:00,Central FC,Grenades,3,1
-14.05. 23:30,San Juan Jabloteh,Racing des Gonaives,2,0
-19.03. 01:00,Puerto Rico,Scholars,4,0
-18.03. 22:30,Portmore,SV Transvaal,6,1
-17.03. 01:00,Puerto Rico,Portmore,0,1
-16.03. 22:30,SV Transvaal,Scholars,4,0
-15.03. 01:00,Puerto Rico,SV Transvaal,1,0
-14.03. 22:30,Scholars,Portmore,0,2
-13.03. 00:30,System 3,San Juan Jabloteh,0,1
-12.03. 22:00,Moulien,Flames United,8,0
-11.03. 00:30,System 3,Flames United,9,2
-10.03. 22:00,San Juan Jabloteh,Moulien,4,1
-08.03. 22:30,Flames United,San Juan Jabloteh,0,9
-08.03. 22:00,System 3,Moulien,0,4
-06.03. 02:00,Montego Bay,Barcelona Atletico,2,2
-06.03. 01:00,Don Bosco,Cibao,1,1
-05.03. 23:30,Elite,Grenades,0,2
-05.03. 23:00,Sainte-Rose,Police Force,10,0
-04.03. 02:00,Montego Bay,Elite,5,0
-04.03. 01:00,Don Bosco,Police Force,11,0
-03.03. 23:30,Grenades,Barcelona Atletico,2,2
-03.03. 23:00,Cibao,Sainte-Rose,1,0
-02.03. 02:00,Montego Bay,Grenades,2,3
-02.03. 00:30,Don Bosco,Sainte-Rose,1,1
-01.03. 23:30,Barcelona Atletico,Elite,4,0
-01.03. 22:00,Police Force,Cibao,0,16
-27.02. 00:30,Greenbay Hoppers,Racing des Gonaives,0,2
-26.02. 22:00,Bequia United,Inter Moengotapoe,1,4
-25.02. 00:30,Greenbay Hoppers,Inter Moengotapoe,0,2
-24.02. 22:00,Bequia United,Racing des Gonaives,0,4
-23.02. 00:00,Greenbay Hoppers,Bequia United,2,1
-22.02. 22:00,Racing des Gonaives,Inter Moengotapoe,2,2
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1487797200,Racing des Gonaives,Inter Moengotapoe,2,2,,,,0
+1487804400,Greenbay Hoppers,Bequia United,2,1,,,,0
+1487970000,Bequia United,Racing des Gonaives,0,4,,,,0
+1487979000,Greenbay Hoppers,Inter Moengotapoe,0,2,,,,0
+1488142800,Bequia United,Inter Moengotapoe,1,4,,,,0
+1488151800,Greenbay Hoppers,Racing des Gonaives,0,2,,,,0
+1488402000,Police Force,Cibao,0,16,,,,0
+1488407400,Barcelona Atletico,Elite,4,0,,,,0
+1488411000,Don Bosco,Sainte-Rose,1,1,,,,0
+1488416400,Montego Bay,Grenades,2,3,,,,0
+1488578400,Cibao,Sainte-Rose,1,0,,,,0
+1488580200,Grenades,Barcelona Atletico,2,2,,,,0
+1488585600,Don Bosco,Police Force,11,0,,,,0
+1488589200,Montego Bay,Elite,5,0,,,,0
+1488751200,Sainte-Rose,Police Force,10,0,,,,0
+1488753000,Elite,Grenades,0,2,,,,0
+1488758400,Don Bosco,Cibao,1,1,,,,0
+1488762000,Montego Bay,Barcelona Atletico,2,2,,,,0
+1489006800,System 3,Moulien,0,4,,,,0
+1489008600,Flames United,San Juan Jabloteh,0,9,,,,0
+1489179600,San Juan Jabloteh,Moulien,4,1,,,,0
+1489188600,System 3,Flames United,9,2,,,,0
+1489352400,Moulien,Flames United,8,0,,,,0
+1489361400,System 3,San Juan Jabloteh,0,1,,,,0
+1489527000,Scholars,Portmore,0,2,,,,0
+1489536000,Puerto Rico,SV Transvaal,1,0,,,,0
+1489699800,SV Transvaal,Scholars,4,0,,,,0
+1489708800,Puerto Rico,Portmore,0,1,,,,0
+1489872600,Portmore,SV Transvaal,6,1,,,,0
+1489881600,Puerto Rico,Scholars,4,0,,,,0
+1494797400,San Juan Jabloteh,Racing des Gonaives,2,0,,,,0
+1494806400,Central FC,Grenades,3,1,,,,0
+1494970200,Portmore,Racing des Gonaives,1,0,,,,0
+1494979200,Cibao,Grenades,2,2,,,,0
+1495143000,San Juan Jabloteh,Portmore,2,2,,,,0
+1495152000,Central FC,Cibao,0,1,,,,0
+1495400400,Central FC,Portmore,2,2,Pen,2,3,0
+1495411200,Cibao,San Juan Jabloteh,1,0,,,,0

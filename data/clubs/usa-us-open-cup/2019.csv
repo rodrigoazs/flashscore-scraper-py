@@ -1,84 +1,84 @@
-date,home_team,away_team,home_score,away_score
-28.08. 02:00,Atlanta Utd,Minnesota United,2,1
-08.08. 02:00,Minnesota United,Portland Timbers,2,1
-07.08. 01:30,Orlando City,Atlanta Utd,0,2
-11.07. 04:30,Los Angeles FC,Portland Timbers,0,1
-11.07. 02:00,Minnesota United,New Mexico,6,1
-11.07. 01:30,Atlanta Utd,Saint Louis FC,2,0
-11.07. 01:30Pen,Orlando City,New York City,2,1
-21.06. 04:30,Los Angeles FC,San Jose Earthquakes,3,1
-20.06. 05:00,Portland Timbers,Los Angeles Galaxy,4,0
-20.06. 02:30,Saint Louis FC,FC Cincinnati,1,0
-20.06. 02:00,FC Dallas,New Mexico,1,2
-20.06. 01:30AET,Orlando City,New England Revolution,2,1
-20.06. 01:00,DC United,New York City,1,2
-19.06. 01:00,Columbus Crew,Atlanta Utd,2,3
-19.06. 01:00,Houston Dynamo,Minnesota United,2,3
-14.06. 01:00AET,Atlanta Utd,Charleston,3,1
-13.06. 04:30,Los Angeles Galaxy,Orange County FC,3,0
-13.06. 04:30,Seattle Sounders,Portland Timbers,1,2
-13.06. 03:00Pen,Colorado Rapids,New Mexico,2,3
-13.06. 02:30,Memphis,Orlando City,1,3
-13.06. 02:00,FC Dallas,Oklahoma City Energy,4,0
-13.06. 02:00,Minnesota United,Sporting Kansas City,4,1
-13.06. 01:30AET,FC Cincinnati,Louisville City,2,1
-13.06. 01:00AET,DC United,Philadelphia Union,2,1
-13.06. 01:00,New York City,North Carolina,4,0
-12.06. 04:30,San Jose Earthquakes,Sacramento Republic,4,3
-12.06. 04:00,Real Salt Lake,Los Angeles FC,0,3
-12.06. 02:30,Saint Louis FC,Chicago Fire,2,1
-12.06. 02:00,Houston Dynamo,Austin Bold,3,2
-12.06. 01:30AET,New York Red Bulls,New England Revolution,2,3
-12.06. 01:00,Columbus Crew,Pittsburgh,1,0
-30.05. 04:30,Las Vegas Lights,Orange County FC,3,5
-30.05. 04:30AET,Sacramento Republic,Monterey Bay,1,0
-30.05. 03:00AET,Colorado Springs,New Mexico,1,2
-30.05. 02:30,Austin Bold,San Antonio,4,2
-30.05. 02:30Pen,Nashville SC,Charleston,1,2
-30.05. 02:30,Saint Louis FC,Forward Madison,3,1
-30.05. 02:00,Memphis,Hartford Athletic,4,0
-30.05. 01:45,Pittsburgh,Indy Eleven,1,0
-30.05. 01:00,Louisville City,Birmingham,1,0
-30.05. 01:00,North Carolina,Florida Soccer Soldiers,1,0
-29.05. 04:50,Oklahoma City Energy,Tampa Bay,4,3
-16.05. 04:30Pen,Orange County SC,Orange County FC,2,3
-16.05. 04:30Pen,Phoenix Rising,New Mexico,2,3
-16.05. 04:30,Sacramento Republic,Reno,1,0
-16.05. 03:00,Colorado Springs,FC Denver,1,0
-16.05. 03:00,El Paso,Forward Madison,0,3
-16.05. 02:30Pen,Menace,Saint Louis FC,1,2
-16.05. 02:00,Birmingham,West Chester Utd,4,1
-16.05. 02:00,Memphis,New York Red Bulls U23,3,1
-16.05. 01:00,Greenville,Charleston,1,2
-16.05. 01:00,Indy Eleven,Lansing,1,0
-16.05. 01:00,Louisville City,Reading,3,0
-16.05. 01:00,North Carolina,Richmond Kickers,4,1
-15.05. 23:30,El Farolito,Monterey Bay,0,1
-15.05. 04:30,Las Vegas Lights,Cal,2,0
-15.05. 02:30,Austin Bold,FC Tulsa,2,0
-15.05. 02:30,Nashville SC,Tormenta II,3,2
-15.05. 02:30,Oklahoma City Energy,NTX Rayados,3,1
-15.05. 02:30,San Antonio,Laredo Heat,2,0
-15.05. 01:30,Hartford Athletic,New York Cosmos 2,2,1
-15.05. 01:00Pen,Charlotte Independ.,Florida Soccer Soldiers,2,3
-15.05. 01:00,Pittsburgh,Dayton,3,0
-15.05. 01:00,Tampa Bay,Brave SC,4,1
-09.05. 03:30,Lansing,Ann Arbor,2,1
-09.05. 02:30Pen,Menace,Duluth FC,2,1
-09.05. 02:30,Midland Sockers,FC Denver,1,2
-09.05. 02:20Pen,Little Rock Rangers,NTX Rayados,2,3
-09.05. 01:30,New York Cosmos 2,Black Rock,2,1
-09.05. 01:00,Erie Commodores,Dayton,1,2
-09.05. 01:00,Greenville,Tormenta,1,0
-09.05. 01:00,Miami FC,Florida Soccer Soldiers,1,2
-09.05. 01:00,Reading,Philadelphia Lone Star,2,1
-08.05. 04:30,Academica SC,El Farolito,1,2
-08.05. 04:30,Cal,FC Mulhouse Portland,5,1
-08.05. 04:30,Orange County FC,Golden State Force,2,0
-08.05. 03:15,Laredo Heat,Twin City Toucans,1,0
-08.05. 02:30,Bavarian United,Forward Madison,0,2
-08.05. 02:00,Tormenta II,Chattanooga Red Wolves,3,0
-08.05. 01:45Pen,FC Baltimore,West Chester Utd,1,2
-08.05. 01:00Pen,Lakeland Tropics,Brave SC,1,2
-08.05. 01:00Pen,New York Red Bulls U23,Motown,5,4
-08.05. 01:00,Richmond Kickers,Virginia Utd,6,2
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1557270000,Richmond Kickers,Virginia Utd,6,2,,,,0
+1557270000,New York Red Bulls U23,Motown,3,3,Pen,5,4,0
+1557270000,Lakeland Tropics,Brave SC,1,1,Pen,1,2,0
+1557272700,FC Baltimore,West Chester Utd,1,1,Pen,1,2,0
+1557273600,Tormenta II,Chattanooga Red Wolves,3,0,,,,0
+1557275400,Bavarian United,Forward Madison,0,2,,,,0
+1557278100,Laredo Heat,Twin City Toucans,1,0,,,,0
+1557282600,Orange County FC,Golden State Force,2,0,,,,0
+1557282600,Cal,FC Mulhouse Portland,5,1,,,,0
+1557282600,Academica SC,El Farolito,1,2,,,,0
+1557356400,Reading,Philadelphia Lone Star,2,1,,,,0
+1557356400,Miami FC,Florida Soccer Soldiers,1,2,,,,0
+1557356400,Greenville,Tormenta,1,0,,,,0
+1557356400,Erie Commodores,Dayton,1,2,,,,0
+1557358200,New York Cosmos 2,Black Rock,2,1,,,,0
+1557361200,Little Rock Rangers,NTX Rayados,2,2,Pen,2,3,0
+1557361800,Midland Sockers,FC Denver,1,2,,,,0
+1557361800,Menace,Duluth FC,1,1,Pen,2,1,0
+1557365400,Lansing,Ann Arbor,2,1,,,,0
+1557874800,Tampa Bay,Brave SC,4,1,,,,0
+1557874800,Pittsburgh,Dayton,3,0,,,,0
+1557874800,Charlotte Independ.,Florida Soccer Soldiers,1,1,Pen,2,3,0
+1557876600,Hartford Athletic,New York Cosmos 2,2,1,,,,0
+1557880200,San Antonio,Laredo Heat,2,0,,,,0
+1557880200,Oklahoma City Energy,NTX Rayados,3,1,,,,0
+1557880200,Nashville SC,Tormenta II,3,2,,,,0
+1557880200,Austin Bold,FC Tulsa,2,0,,,,0
+1557887400,Las Vegas Lights,Cal,2,0,,,,0
+1557955800,El Farolito,Monterey Bay,0,1,,,,0
+1557961200,North Carolina,Richmond Kickers,4,1,,,,0
+1557961200,Louisville City,Reading,3,0,,,,0
+1557961200,Indy Eleven,Lansing,1,0,,,,0
+1557961200,Greenville,Charleston,1,2,,,,0
+1557964800,Memphis,New York Red Bulls U23,3,1,,,,0
+1557964800,Birmingham,West Chester Utd,4,1,,,,0
+1557966600,Menace,Saint Louis FC,1,1,Pen,1,2,0
+1557968400,El Paso,Forward Madison,0,3,,,,0
+1557968400,Colorado Springs,FC Denver,1,0,,,,0
+1557973800,Sacramento Republic,Reno,1,0,,,,0
+1557973800,Phoenix Rising,New Mexico,1,1,Pen,2,3,0
+1557973800,Orange County SC,Orange County FC,2,2,Pen,2,3,0
+1559098200,Oklahoma City Energy,Tampa Bay,4,3,,,,0
+1559170800,North Carolina,Florida Soccer Soldiers,1,0,,,,0
+1559170800,Louisville City,Birmingham,1,0,,,,0
+1559173500,Pittsburgh,Indy Eleven,1,0,,,,0
+1559174400,Memphis,Hartford Athletic,4,0,,,,0
+1559176200,Saint Louis FC,Forward Madison,3,1,,,,0
+1559176200,Nashville SC,Charleston,1,1,Pen,1,2,0
+1559176200,Austin Bold,San Antonio,4,2,,,,0
+1559178000,Colorado Springs,New Mexico,1,1,AET,1,2,0
+1559183400,Sacramento Republic,Monterey Bay,0,0,AET,1,0,0
+1559183400,Las Vegas Lights,Orange County FC,3,5,,,,0
+1560294000,Columbus Crew,Pittsburgh,1,0,,,,0
+1560295800,New York Red Bulls,New England Revolution,2,2,AET,2,3,0
+1560297600,Houston Dynamo,Austin Bold,3,2,,,,0
+1560299400,Saint Louis FC,Chicago Fire,2,1,,,,0
+1560304800,Real Salt Lake,Los Angeles FC,0,3,,,,0
+1560306600,San Jose Earthquakes,Sacramento Republic,4,3,,,,0
+1560380400,New York City,North Carolina,4,0,,,,0
+1560380400,DC United,Philadelphia Union,0,0,AET,2,1,0
+1560382200,FC Cincinnati,Louisville City,1,1,AET,2,1,0
+1560384000,Minnesota United,Sporting Kansas City,4,1,,,,0
+1560384000,FC Dallas,Oklahoma City Energy,4,0,,,,0
+1560385800,Memphis,Orlando City,1,3,,,,0
+1560387600,Colorado Rapids,New Mexico,2,2,Pen,2,3,0
+1560393000,Seattle Sounders,Portland Timbers,1,2,,,,0
+1560393000,Los Angeles Galaxy,Orange County FC,3,0,,,,0
+1560466800,Atlanta Utd,Charleston,1,1,AET,3,1,0
+1560898800,Houston Dynamo,Minnesota United,2,3,,,,0
+1560898800,Columbus Crew,Atlanta Utd,2,3,,,,0
+1560985200,DC United,New York City,1,2,,,,0
+1560987000,Orlando City,New England Revolution,0,0,AET,2,1,0
+1560988800,FC Dallas,New Mexico,1,2,,,,0
+1560990600,Saint Louis FC,FC Cincinnati,1,0,,,,0
+1560999600,Portland Timbers,Los Angeles Galaxy,4,0,,,,0
+1561084200,Los Angeles FC,San Jose Earthquakes,3,1,,,,0
+1562801400,Orlando City,New York City,1,1,Pen,2,1,0
+1562801400,Atlanta Utd,Saint Louis FC,2,0,,,,0
+1562803200,Minnesota United,New Mexico,6,1,,,,0
+1562812200,Los Angeles FC,Portland Timbers,0,1,,,,0
+1565134200,Orlando City,Atlanta Utd,0,2,,,,0
+1565222400,Minnesota United,Portland Timbers,2,1,,,,0
+1566950400,Atlanta Utd,Minnesota United,2,1,,,,0

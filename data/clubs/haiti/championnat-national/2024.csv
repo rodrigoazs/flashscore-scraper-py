@@ -1,61 +1,61 @@
-date,home_team,away_team,home_score,away_score
-26.05. 23:00Pen,Real Hope,Ouanaminthe,2,1
-26.05. 21:00,Tempete,America des Cayes,0,1
-22.05. 23:00,Real Hope,Cavaly,2,0
-22.05. 21:00,Ouanaminthe,America des Cayes,3,1
-20.05. 14:30,America des Cayes,Baltimore,1,0
-19.05. 21:00,Cavaly,Tempete,0,1
-16.05. 23:00,Tempete,Real Hope,0,2
-16.05. 21:00,Baltimore,Ouanaminthe,1,1
-28.04. 23:00,Triomphe Liancourt,Tempete,0,1
-28.04. 22:00,Juventus,America des Cayes,0,4
-28.04. 22:00,Ouanaminthe,Capoise,1,0
-28.04. 22:00,Racing des Gonaives,Fica,1,0
-28.04. 22:00,Racing Haitien,Cavaly,0,2
-27.04. 23:00,Cosmopolites,Rivartibonitienne,0,0
-24.04. 22:00,Racing Haitien,America des Cayes,0,0
-21.04. 23:00,Baltimore,Cosmopolites,0,1
-21.04. 22:00,America des Cayes,Cavaly,2,0
-21.04. 22:00,Fica,Real Hope,0,2
-21.04. 22:00,Racing des Gonaives,Ouanaminthe,3,2
-21.04. 22:00,Racing Haitien,Juventus,0,0
-20.04. 23:00,Rivartibonitienne,Tempete,0,1
-17.04. 23:00,Rivartibonitienne,Triomphe Liancourt,2,0
-14.04. 23:00,Tempete,Baltimore,1,1
-14.04. 22:00,Capoise,Fica,1,0
-14.04. 22:00,Real Hope,Racing des Gonaives,3,1
-11.04. 23:00,Cosmopolites,Triomphe Liancourt,0,1
-11.04. 22:00,Ouanaminthe,Real Hope,1,0
-10.04. 23:00,Baltimore,Rivartibonitienne,1,0
-10.04. 22:00,Capoise,Racing des Gonaives,1,1
-07.04. 23:00,Tempete,Cosmopolites,1,1
-07.04. 22:00,Fica,Ouanaminthe,1,0
-07.04. 22:00,Juventus,Cavaly,1,1
-07.04. 22:00,Real Hope,Capoise,1,0
-06.04. 23:00,Triomphe Liancourt,Baltimore,0,1
-31.03. 23:00,Tempete,Triomphe Liancourt,0,0
-31.03. 22:00,Capoise,Ouanaminthe,2,0
-31.03. 22:00,Cavaly,Racing Haitien,1,1
-30.03. 22:00,Rivartibonitienne,Cosmopolites,0,1
-30.03. 21:00,Fica,Racing des Gonaives,0,0
-28.03. 21:00,America des Cayes,Racing Haitien,5,0
-28.03. 21:00,Real Hope,Ouanaminthe,0,1
-24.03. 22:00,Cosmopolites,Baltimore,0,1
-24.03. 21:00,Juventus,Racing Haitien,1,2
-24.03. 21:00,Ouanaminthe,Racing des Gonaives,0,0
-24.03. 21:00,Real Hope,Fica,2,0
-23.03. 22:00,Tempete,Rivartibonitienne,0,0
-20.03. 21:00,Triomphe Liancourt,Rivartibonitienne,1,0
-17.03. 22:00,Baltimore,Tempete,0,0
-17.03. 21:00,America des Cayes,Juventus,1,0
-17.03. 21:00,Fica,Capoise,1,1
-17.03. 21:00,Racing des Gonaives,Real Hope,1,2
-14.03. 23:00,Triomphe Liancourt,Cosmopolites,1,1
-14.03. 21:00,Cavaly,America des Cayes,3,3
-13.03. 23:00,Rivartibonitienne,Baltimore,1,0
-13.03. 21:00,Racing des Gonaives,Capoise,2,0
-10.03. 22:00,Baltimore,Triomphe Liancourt,0,0
-10.03. 22:00,Capoise,Real Hope,1,0
-10.03. 20:00,Cavaly,Juventus,1,0
-10.03. 20:00,Ouanaminthe,Fica,1,0
-09.03. 23:00,Cosmopolites,Tempete,1,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1710021600,Cosmopolites,Tempete,1,0,,,,0
+1710097200,Ouanaminthe,Fica,1,0,,,,0
+1710097200,Cavaly,Juventus,1,0,,,,0
+1710104400,Capoise,Real Hope,1,0,,,,0
+1710104400,Baltimore,Triomphe Liancourt,0,0,,,,0
+1710360000,Racing des Gonaives,Capoise,2,0,,,,0
+1710367200,Rivartibonitienne,Baltimore,1,0,,,,0
+1710446400,Cavaly,America des Cayes,3,3,,,,0
+1710453600,Triomphe Liancourt,Cosmopolites,1,1,,,,0
+1710705600,Racing des Gonaives,Real Hope,1,2,,,,0
+1710705600,Fica,Capoise,1,1,,,,0
+1710705600,America des Cayes,Juventus,1,0,,,,0
+1710709200,Baltimore,Tempete,0,0,,,,0
+1710964800,Triomphe Liancourt,Rivartibonitienne,1,0,,,,0
+1711227600,Tempete,Rivartibonitienne,0,0,,,,0
+1711310400,Real Hope,Fica,2,0,,,,0
+1711310400,Ouanaminthe,Racing des Gonaives,0,0,,,,0
+1711310400,Juventus,Racing Haitien,1,2,,,,0
+1711314000,Cosmopolites,Baltimore,0,1,,,,0
+1711656000,Real Hope,Ouanaminthe,0,1,,,,0
+1711656000,America des Cayes,Racing Haitien,5,0,,,,0
+1711828800,Fica,Racing des Gonaives,0,0,,,,0
+1711832400,Rivartibonitienne,Cosmopolites,0,1,,,,0
+1711915200,Cavaly,Racing Haitien,1,1,,,,0
+1711915200,Capoise,Ouanaminthe,2,0,,,,0
+1711918800,Tempete,Triomphe Liancourt,0,0,,,,0
+1712437200,Triomphe Liancourt,Baltimore,0,1,,,,0
+1712520000,Real Hope,Capoise,1,0,,,,0
+1712520000,Juventus,Cavaly,1,1,,,,0
+1712520000,Fica,Ouanaminthe,1,0,,,,0
+1712523600,Tempete,Cosmopolites,1,1,,,,0
+1712779200,Capoise,Racing des Gonaives,1,1,,,,0
+1712782800,Baltimore,Rivartibonitienne,1,0,,,,0
+1712865600,Ouanaminthe,Real Hope,1,0,,,,0
+1712869200,Cosmopolites,Triomphe Liancourt,0,1,,,,0
+1713124800,Real Hope,Racing des Gonaives,3,1,,,,0
+1713124800,Capoise,Fica,1,0,,,,0
+1713128400,Tempete,Baltimore,1,1,,,,0
+1713387600,Rivartibonitienne,Triomphe Liancourt,2,0,,,,0
+1713646800,Rivartibonitienne,Tempete,0,1,,,,0
+1713729600,Racing Haitien,Juventus,0,0,,,,0
+1713729600,Racing des Gonaives,Ouanaminthe,3,2,,,,0
+1713729600,Fica,Real Hope,0,2,,,,0
+1713729600,America des Cayes,Cavaly,2,0,,,,0
+1713733200,Baltimore,Cosmopolites,0,1,,,,0
+1713988800,Racing Haitien,America des Cayes,0,0,,,,0
+1714251600,Cosmopolites,Rivartibonitienne,0,0,,,,0
+1714334400,Racing Haitien,Cavaly,0,2,,,,0
+1714334400,Racing des Gonaives,Fica,1,0,,,,0
+1714334400,Ouanaminthe,Capoise,1,0,,,,0
+1714334400,Juventus,America des Cayes,0,4,,,,0
+1714338000,Triomphe Liancourt,Tempete,0,1,,,,0
+1715886000,Baltimore,Ouanaminthe,1,1,,,,0
+1715893200,Tempete,Real Hope,0,2,,,,0
+1716145200,Cavaly,Tempete,0,1,,,,0
+1716208200,America des Cayes,Baltimore,1,0,,,,0
+1716404400,Ouanaminthe,America des Cayes,3,1,,,,0
+1716411600,Real Hope,Cavaly,2,0,,,,0
+1716750000,Tempete,America des Cayes,0,1,,,,0
+1716757200,Real Hope,Ouanaminthe,1,1,Pen,2,1,0

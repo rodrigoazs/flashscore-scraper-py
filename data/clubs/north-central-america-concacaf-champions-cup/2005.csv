@@ -1,15 +1,15 @@
-date,home_team,away_team,home_score,away_score
-11.05. 02:00,UNAM Pumas,Saprissa,2,1
-04.05. 02:00,Saprissa,UNAM Pumas,2,0
-13.04. 02:00Pen,Monterrey,Saprissa,1,2
-13.04. 02:00,UNAM Pumas,DC United,5,0
-07.04. 02:00,Saprissa,Monterrey,2,2
-06.04. 02:00,DC United,UNAM Pumas,1,1
-17.03. 02:00,Harbour View,DC United,1,2
-17.03. 02:00,Municipal,Monterrey,0,0
-17.03. 02:00AET,UNAM Pumas,Olimpia,2,1
-16.03. 02:00Pen,Saprissa,Sporting Kansas City,1,2
-09.03. 02:00,DC United,Harbour View,2,1
-09.03. 02:00,Monterrey,Municipal,2,1
-09.03. 02:00,Olimpia,UNAM Pumas,1,1
-09.03. 02:00,Sporting Kansas City,Saprissa,0,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1110330000,Sporting Kansas City,Saprissa,0,0,,,,0
+1110330000,Olimpia,UNAM Pumas,1,1,,,,0
+1110330000,Monterrey,Municipal,2,1,,,,0
+1110330000,DC United,Harbour View,2,1,,,,0
+1110934800,Saprissa,Sporting Kansas City,1,1,Pen,1,2,0
+1111021200,UNAM Pumas,Olimpia,1,1,AET,2,1,0
+1111021200,Municipal,Monterrey,0,0,,,,0
+1111021200,Harbour View,DC United,1,2,,,,0
+1112745600,DC United,UNAM Pumas,1,1,,,,0
+1112832000,Saprissa,Monterrey,2,2,,,,0
+1113350400,UNAM Pumas,DC United,5,0,,,,0
+1113350400,Monterrey,Saprissa,1,1,Pen,1,2,0
+1115164800,Saprissa,UNAM Pumas,2,0,,,,0
+1115769600,UNAM Pumas,Saprissa,2,1,,,,0

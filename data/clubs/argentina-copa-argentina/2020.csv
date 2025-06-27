@@ -1,64 +1,64 @@
-date,home_team,away_team,home_score,away_score
-09.12. 01:10Pen,Talleres Cordoba,Boca Juniors,0,1
-02.12. 01:10,Talleres Cordoba,Godoy Cruz,1,0
-04.11. 01:10,Boca Juniors,Argentinos Jrs,1,0
-14.10. 02:10,Argentinos Jrs,San Telmo,2,1
-07.10. 02:10,Godoy Cruz,Tigre,1,0
-30.09. 02:10,Temperley,Talleres Cordoba,1,2
-23.09. 02:30Pen,Boca Juniors,Patronato,1,0
-22.09. 23:10Pen,Godoy Cruz,Racing Club,4,3
-09.09. 02:10Pen,Defensa y Justicia,Tigre,0,1
-18.08. 23:00,Gimnasia L.P.,Argentinos Jrs,2,3
-12.08. 02:30Pen,Estudiantes Rio Cuarto,Talleres Cordoba,1,2
-05.08. 00:00Pen,Boca Juniors,River Plate,1,0
-04.08. 21:00,Tigre,Independiente,2,1
-20.07. 20:05,Sarmiento Junin,Temperley,0,1
-14.07. 20:35,San Telmo,Banfield,1,0
-13.07. 20:35,Villa San Carlos,Patronato,0,1
-19.05. 20:10,Talleres (R.E),Temperley,0,4
-17.05. 22:10,Newells Old Boys,Sarmiento Junin,0,1
-13.05. 19:10,Boca Unidos,Godoy Cruz,0,2
-12.05. 19:10,Sportivo Estudiantes,Villa San Carlos,1,2
-28.04. 20:10,Deportivo Madryn,Banfield,0,1
-21.04. 19:00,Huracan Las Heras,Estudiantes Rio Cuarto,1,4
-15.04. 02:10Pen,San Martin S.J.,Racing Club,2,3
-08.04. 01:30,Atl. Tucuman,River Plate,1,2
-07.04. 23:00Pen,Talleres Cordoba,Velez Sarsfield,2,1
-07.04. 02:10Pen,Patronato,Lanus,3,2
-25.03. 23:10,San Lorenzo,Defensa y Justicia,0,2
-25.03. 00:10,Boca Juniors,Def. de Belgrano,3,0
-24.03. 02:10,Gimnasia L.P.,Dock Sud,5,0
-17.03. 23:25,Racing Club,Sportivo Belgrano,3,1
-17.03. 21:15,Colon Santa Fe,Argentinos Jrs,0,1
-17.03. 19:05,Laferrere,San Telmo,0,2
-11.03. 01:30,Independiente,Villa Mitre,1,0
-10.03. 23:20,Atl. Tucuman,Comunicaciones,3,0
-10.03. 21:10,Banfield,Club A. Guemes,2,0
-04.03. 01:30,Boca Juniors,Claypole,2,1
-03.03. 02:15,Defensa y Justicia,CA Estudiantes,1,0
-03.03. 00:10Pen,Talleres Cordoba,Atl. Rafaela,1,0
-02.03. 01:30,San Martin T.,San Martin S.J.,0,1
-25.02. 21:10Pen,Huracan,Sportivo Estudiantes,1,2
-24.02. 01:10,Lanus,Real Pilar,3,1
-21.02. 21:10Pen,Atletico Atlanta,Villa San Carlos,0,1
-20.02. 21:10Pen,Tigre,Alvarado,2,1
-20.02. 01:30,Def. de Belgrano,Almirante Brown,4,2
-19.02. 01:10,San Lorenzo,Liniers,3,0
-18.02. 01:10,Velez Sarsfield,Deportivo Camioneros,3,1
-11.02. 01:10,River Plate,Def. Pronunciamiento,4,0
-29.01. 01:10,Arsenal Sarandi,Huracan Las Heras,0,1
-20.01. 23:20,Rosario Central,Boca Unidos,0,3
-15.01. 01:10,Colon Santa Fe,Cipolletti,1,0
-07.01. 22:00,Estudiantes Rio Cuarto,Chaco For Ever,1,0
-06.01. 23:10Pen,Temperley,Dep. Riestra,1,0
-30.12. 23:10,Godoy Cruz,Justo Jose de Urquiza,3,1
-23.12. 22:10,Newells Old Boys,Club Sportivo Penarol,2,0
-12.03. 21:00,Sarmiento Junin,Douglas Haig,3,0
-12.03. 02:10,Argentinos Jrs,Canuelas,1,0
-10.03. 22:00,Platense,Deportivo Madryn,0,1
-06.03. 00:05Pen,Union de Santa Fe,Dock Sud,1,2
-05.03. 01:30,Central Cordoba,San Telmo,0,1
-04.03. 23:00Pen,Estudiantes L.P.,Laferrere,1,2
-28.02. 00:05Pen,Patronato,Instituto,2,1
-26.02. 21:35,Aldosivi,Talleres (R.E),1,3
-26.02. 01:10,Gimnasia L.P.,Sportivo Barracas,2,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1582675800,Gimnasia L.P.,Sportivo Barracas,2,0,,,,1
+1582749300,Aldosivi,Talleres (R.E),1,3,,,,1
+1582844700,Patronato,Instituto,1,1,Pen,2,1,1
+1583359200,Estudiantes L.P.,Laferrere,1,1,Pen,1,2,1
+1583368200,Central Cordoba,San Telmo,0,1,,,,1
+1583449500,Union de Santa Fe,Dock Sud,1,1,Pen,1,2,1
+1583874000,Platense,Deportivo Madryn,0,1,,,,1
+1583975400,Argentinos Jrs,Canuelas,1,0,,,,1
+1584043200,Sarmiento Junin,Douglas Haig,3,0,,,,1
+1608757800,Newells Old Boys,Club Sportivo Penarol,2,0,,,,1
+1609366200,Godoy Cruz,Justo Jose de Urquiza,3,1,,,,1
+1578348600,Temperley,Dep. Riestra,0,0,Pen,1,0,0
+1578430800,Estudiantes Rio Cuarto,Chaco For Ever,1,0,,,,0
+1579047000,Colon Santa Fe,Cipolletti,1,0,,,,0
+1579558800,Rosario Central,Boca Unidos,0,3,,,,1
+1580256600,Arsenal Sarandi,Huracan Las Heras,0,1,,,,1
+1581379800,River Plate,Def. Pronunciamiento,4,0,,,,0
+1581984600,Velez Sarsfield,Deportivo Camioneros,3,1,,,,0
+1582071000,San Lorenzo,Liniers,3,0,,,,0
+1582158600,Def. de Belgrano,Almirante Brown,4,2,,,,0
+1582229400,Tigre,Alvarado,1,1,Pen,2,1,0
+1582315800,Atletico Atlanta,Villa San Carlos,0,0,Pen,0,1,0
+1582503000,Lanus,Real Pilar,3,1,,,,0
+1582661400,Huracan,Sportivo Estudiantes,1,1,Pen,1,2,1
+1583109000,San Martin T.,San Martin S.J.,0,1,,,,0
+1583190600,Talleres Cordoba,Atl. Rafaela,0,0,Pen,1,0,1
+1583198100,Defensa y Justicia,CA Estudiantes,1,0,,,,1
+1583281800,Boca Juniors,Claypole,2,1,,,,0
+1583871000,Banfield,Club A. Guemes,2,0,,,,1
+1583878800,Atl. Tucuman,Comunicaciones,3,0,,,,0
+1583886600,Independiente,Villa Mitre,1,0,,,,1
+1584468300,Laferrere,San Telmo,0,2,,,,0
+1584476100,Colon Santa Fe,Argentinos Jrs,0,1,,,,0
+1584483900,Racing Club,Sportivo Belgrano,3,1,,,,0
+1585012200,Gimnasia L.P.,Dock Sud,5,0,,,,0
+1585091400,Boca Juniors,Def. de Belgrano,3,0,,,,0
+1585174200,San Lorenzo,Defensa y Justicia,0,2,,,,0
+1586218200,Patronato,Lanus,2,2,Pen,3,2,0
+1586293200,Talleres Cordoba,Velez Sarsfield,1,1,Pen,2,1,0
+1586302200,Atl. Tucuman,River Plate,1,2,,,,0
+1586909400,San Martin S.J.,Racing Club,2,2,Pen,2,3,0
+1587488400,Huracan Las Heras,Estudiantes Rio Cuarto,1,4,,,,0
+1588097400,Deportivo Madryn,Banfield,0,1,,,,0
+1589303400,Sportivo Estudiantes,Villa San Carlos,1,2,,,,1
+1589389800,Boca Unidos,Godoy Cruz,0,2,,,,1
+1589746200,Newells Old Boys,Sarmiento Junin,0,1,,,,1
+1589911800,Talleres (R.E),Temperley,0,4,,,,1
+1594665300,Villa San Carlos,Patronato,0,1,,,,1
+1594751700,San Telmo,Banfield,1,0,,,,1
+1595268300,Sarmiento Junin,Temperley,0,1,,,,1
+1596567600,Tigre,Independiente,2,1,,,,1
+1596578400,Boca Juniors,River Plate,0,0,Pen,1,0,1
+1597192200,Estudiantes Rio Cuarto,Talleres Cordoba,1,1,Pen,1,2,1
+1597784400,Gimnasia L.P.,Argentinos Jrs,2,3,,,,1
+1599610200,Defensa y Justicia,Tigre,0,0,Pen,0,1,0
+1600809000,Godoy Cruz,Racing Club,3,3,Pen,4,3,1
+1600821000,Boca Juniors,Patronato,0,0,Pen,1,0,1
+1601424600,Temperley,Talleres Cordoba,1,2,,,,1
+1602029400,Godoy Cruz,Tigre,1,0,,,,1
+1602634200,Argentinos Jrs,San Telmo,2,1,,,,1
+1604448600,Boca Juniors,Argentinos Jrs,1,0,,,,1
+1606867800,Talleres Cordoba,Godoy Cruz,1,0,,,,0
+1607472600,Talleres Cordoba,Boca Juniors,0,0,Pen,0,1,0

@@ -1,21 +1,21 @@
-date,home_team,away_team,home_score,away_score
-05.08. 02:00,Arnett Gardens (Jam),Grenades (Atg),1,0
-04.08. 23:30Pen,Atletico Pantoja (Dom),Dublanc FC (Dom),2,1
-03.08. 02:00,Grenades (Atg),Dublanc FC (Dom),1,0
-02.08. 23:30,Atletico Pantoja (Dom),Arnett Gardens (Jam),1,2
-31.07. 02:00,Grenades (Atg),Robinhood (Sur),2,1
-31.07. 02:00Pen,Village Superstars (Sai),Dublanc FC (Dom),2,3
-30.07. 23:30,Arnett Gardens (Jam),Jong Holland (Cur),7,1
-30.07. 23:30,Metropolitan FA (Pur),Atletico Pantoja (Dom),0,1
-29.07. 02:00Awrd,America des Cayes (Hai),Village Superstars (Sai),-,-
-29.07. 02:00,Scholars (Cay),Dublanc FC (Dom),0,3
-28.07. 23:30,Real Rincon (Bon),Grenades (Atg),1,2
-28.07. 23:30,Robinhood (Sur),Etoile Matoury (Fgu),4,1
-28.07. 02:00,Jong Holland (Cur),BAYS (Sai),3,0
-28.07. 02:00,Racing Club Aruba (Aru),Arnett Gardens (Jam),1,2
-27.07. 23:30,Atletico Pantoja (Dom),Defence Force (Tri),1,0
-27.07. 23:30,Metropolitan FA (Pur),SWA Sharks (Tca),2,0
-27.07. 02:00,Junior Stars (Sma),Dublanc FC (Dom),0,2
-26.07. 23:30,Grenades (Atg),Guyana Defence Force (Guy),6,2
-26.07. 02:00,BAYS (Sai),SCSA Eagles (Sma),1,0
-25.07. 23:30,SWA Sharks (Tca),Paradise (Gre),1,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1721943000,SWA Sharks (Tca),Paradise (Gre),1,0,,,,0
+1721952000,BAYS (Sai),SCSA Eagles (Sma),1,0,,,,0
+1722029400,Grenades (Atg),Guyana Defence Force (Guy),6,2,,,,0
+1722038400,Junior Stars (Sma),Dublanc FC (Dom),0,2,,,,0
+1722115800,Metropolitan FA (Pur),SWA Sharks (Tca),2,0,,,,0
+1722115800,Atletico Pantoja (Dom),Defence Force (Tri),1,0,,,,0
+1722124800,Racing Club Aruba (Aru),Arnett Gardens (Jam),1,2,,,,0
+1722124800,Jong Holland (Cur),BAYS (Sai),3,0,,,,0
+1722202200,Robinhood (Sur),Etoile Matoury (Fgu),4,1,,,,0
+1722202200,Real Rincon (Bon),Grenades (Atg),1,2,,,,0
+1722211200,Scholars (Cay),Dublanc FC (Dom),0,3,,,,0
+1722211200,America des Cayes (Hai),Village Superstars (Sai),-,-,Awrd,,,0
+1722375000,Metropolitan FA (Pur),Atletico Pantoja (Dom),0,1,,,,0
+1722375000,Arnett Gardens (Jam),Jong Holland (Cur),7,1,,,,0
+1722384000,Village Superstars (Sai),Dublanc FC (Dom),2,2,Pen,2,3,0
+1722384000,Grenades (Atg),Robinhood (Sur),2,1,,,,0
+1722634200,Atletico Pantoja (Dom),Arnett Gardens (Jam),1,2,,,,0
+1722643200,Grenades (Atg),Dublanc FC (Dom),1,0,,,,0
+1722807000,Atletico Pantoja (Dom),Dublanc FC (Dom),1,1,Pen,2,1,0
+1722816000,Arnett Gardens (Jam),Grenades (Atg),1,0,,,,0

@@ -1,23 +1,23 @@
-date,home_team,away_team,home_score,away_score
-16.04. 02:00,Robinhood,Franciscain,1,0
-14.04. 02:00,Jong Holland,Franciscain,2,4
-13.04. 23:30,Weymouth Wales,Robinhood,0,3
-12.04. 02:00,Franciscain,Greenbay Hoppers,1,0
-12.04. 02:00,Moulien,Jong Holland,0,3
-11.04. 23:30,FC Santiago de Cuba,Weymouth Wales,0,2
-11.04. 23:30Pen,Village Superstars,Robinhood,1,2
-10.04. 02:00,Jong Holland (Cur),Scholars (Cay),1,0
-10.04. 02:00,Weymouth Wales (Bar),Real Rincon (Bon),1,0
-09.04. 23:30,FC Santiago de Cuba (Cub),Fruta Conquerors (Guy),4,0
-09.04. 23:30,Franciscain (Mar),Dakota (Aru),1,1
-09.04. 21:00,Greenbay Hoppers (Atg),Platinum (Sai),5,2
-08.04. 03:00,FC Santiago de Cuba (Cub),Scholars (Cay),0,0
-08.04. 03:00,Fruta Conquerors (Guy),Jong Holland (Cur),0,0
-08.04. 00:30,Dakota (Aru),Robinhood (Sur),1,4
-08.04. 00:30,Real Rincon (Bon),Moulien (Gua),0,1
-07.04. 22:00,Platinum (Sai),Village Superstars (Sai),1,2
-06.04. 03:00,Franciscain (Mar),Robinhood (Sur),3,1
-06.04. 03:00,Jong Holland (Cur),FC Santiago de Cuba (Cub),0,0
-06.04. 00:30,Greenbay Hoppers (Atg),Village Superstars (Sai),1,2
-06.04. 00:30,Weymouth Wales (Bar),Moulien (Gua),0,1
-05.04. 22:00,Scholars (Cay),Fruta Conquerors (Guy),2,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1554494400,Scholars (Cay),Fruta Conquerors (Guy),2,0,,,,0
+1554503400,Weymouth Wales (Bar),Moulien (Gua),0,1,,,,0
+1554503400,Greenbay Hoppers (Atg),Village Superstars (Sai),1,2,,,,0
+1554512400,Jong Holland (Cur),FC Santiago de Cuba (Cub),0,0,,,,0
+1554512400,Franciscain (Mar),Robinhood (Sur),3,1,,,,0
+1554667200,Platinum (Sai),Village Superstars (Sai),1,2,,,,0
+1554676200,Real Rincon (Bon),Moulien (Gua),0,1,,,,0
+1554676200,Dakota (Aru),Robinhood (Sur),1,4,,,,0
+1554685200,Fruta Conquerors (Guy),Jong Holland (Cur),0,0,,,,0
+1554685200,FC Santiago de Cuba (Cub),Scholars (Cay),0,0,,,,0
+1554836400,Greenbay Hoppers (Atg),Platinum (Sai),5,2,,,,0
+1554845400,Franciscain (Mar),Dakota (Aru),1,1,,,,0
+1554845400,FC Santiago de Cuba (Cub),Fruta Conquerors (Guy),4,0,,,,0
+1554854400,Weymouth Wales (Bar),Real Rincon (Bon),1,0,,,,0
+1554854400,Jong Holland (Cur),Scholars (Cay),1,0,,,,0
+1555018200,Village Superstars,Robinhood,1,1,Pen,1,2,0
+1555018200,FC Santiago de Cuba,Weymouth Wales,0,2,,,,0
+1555027200,Moulien,Jong Holland,0,3,,,,0
+1555027200,Franciscain,Greenbay Hoppers,1,0,,,,0
+1555191000,Weymouth Wales,Robinhood,0,3,,,,0
+1555200000,Jong Holland,Franciscain,2,4,,,,0
+1555372800,Robinhood,Franciscain,1,0,,,,0

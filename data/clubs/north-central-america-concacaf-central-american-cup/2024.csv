@@ -1,59 +1,59 @@
-date,home_team,away_team,home_score,away_score
-05.12. 02:00,Alajuelense,Esteli,2,1
-28.11. 02:00,Esteli,Alajuelense,1,1
-01.11. 03:00,Herediano,Esteli,2,2
-31.10. 03:15,Alajuelense,Antigua,1,0
-31.10. 01:00,Aguila,Motagua,2,2
-30.10. 03:00,Saprissa,Comunicaciones,3,1
-25.10. 04:00,Esteli,Herediano,0,0
-24.10. 04:00,Comunicaciones,Saprissa,1,1
-23.10. 04:00,Antigua,Alajuelense,0,0
-23.10. 02:00,Motagua,Aguila,2,0
-04.10. 04:00,Alajuelense,Comunicaciones,1,1
-03.10. 04:15,Herediano,Motagua,0,0
-03.10. 02:00,Aguila,Esteli,0,0
-02.10. 04:00,Saprissa,Antigua,0,3
-27.09. 04:00,Comunicaciones,Alajuelense,1,2
-26.09. 04:00,Motagua,Herediano,2,2
-26.09. 02:00,Esteli,Aguila,2,1
-25.09. 04:00,Antigua,Saprissa,0,0
-30.08. 04:00,Olimpia,Antigua,1,1
-30.08. 02:00,Independiente,Aguila,0,3
-30.08. 02:00,Saprissa,Municipal,1,0
-30.08. 00:00,Guanacasteca,Esteli,1,0
-29.08. 04:00,Herediano,Motagua,1,1
-29.08. 02:00,Tauro,San Francisco,2,1
-28.08. 04:00,Alajuelense,Comunicaciones,2,1
-28.08. 02:00,Marathon,Alianza FC,1,0
-23.08. 04:00,Aguila,Olimpia,2,0
-23.08. 02:00,San Francisco,Herediano,0,1
-23.08. 00:00,Tauro,Diriangen,1,2
-22.08. 04:00,Marathon,Luis Angel Firpo,1,0
-22.08. 02:00,Guanacasteca,Managua FC,1,1
-22.08. 00:00,Independiente,Port Layola,1,0
-21.08. 04:00,Alianza FC,Alajuelense,1,2
-21.08. 02:00,Esteli,Saprissa,2,1
-16.08. 04:00,Municipal,Guanacasteca,3,1
-16.08. 00:00,San Francisco,Diriangen,0,0
-15.08. 04:00,Comunicaciones,Marathon,2,1
-15.08. 02:00,Esteli,Managua FC,3,0
-15.08. 00:00,Aguila,Port Layola,5,1
-14.08. 04:00,Alianza FC,Luis Angel Firpo,5,2
-14.08. 02:00,Motagua,Tauro,4,1
-14.08. 00:00,Antigua,Independiente,2,1
-09.08. 04:00,Municipal,Esteli,1,1
-09.08. 02:00,Port Layola,Olimpia,1,6
-08.08. 04:00,Comunicaciones,Alianza FC,1,0
-08.08. 02:00,Luis Angel Firpo,Alajuelense,3,4
-08.08. 00:00,Diriangen,Herediano,0,1
-07.08. 04:00,Antigua,Aguila,0,0
-07.08. 02:00,Motagua,San Francisco,3,2
-07.08. 00:00,Managua FC,Saprissa,2,3
-02.08. 04:00,Olimpia,Independiente,3,0
-02.08. 02:00,Alajuelense,Marathon,3,1
-01.08. 04:00,Saprissa,Guanacasteca,5,0
-01.08. 02:00,Luis Angel Firpo,Comunicaciones,1,1
-01.08. 00:00,Managua FC,Municipal,1,0
-31.07. 04:00,Herediano,Tauro,1,0
-31.07. 02:00,Diriangen,Motagua,2,1
-31.07. 00:00,Port Layola,Antigua,1,4
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1722376800,Port Layola,Antigua,1,4,,,,0
+1722384000,Diriangen,Motagua,2,1,,,,0
+1722391200,Herediano,Tauro,1,0,,,,0
+1722463200,Managua FC,Municipal,1,0,,,,0
+1722470400,Luis Angel Firpo,Comunicaciones,1,1,,,,0
+1722477600,Saprissa,Guanacasteca,5,0,,,,0
+1722556800,Alajuelense,Marathon,3,1,,,,0
+1722564000,Olimpia,Independiente,3,0,,,,0
+1722981600,Managua FC,Saprissa,2,3,,,,0
+1722988800,Motagua,San Francisco,3,2,,,,0
+1722996000,Antigua,Aguila,0,0,,,,0
+1723068000,Diriangen,Herediano,0,1,,,,0
+1723075200,Luis Angel Firpo,Alajuelense,3,4,,,,0
+1723082400,Comunicaciones,Alianza FC,1,0,,,,0
+1723161600,Port Layola,Olimpia,1,6,,,,0
+1723168800,Municipal,Esteli,1,1,,,,0
+1723586400,Antigua,Independiente,2,1,,,,0
+1723593600,Motagua,Tauro,4,1,,,,0
+1723600800,Alianza FC,Luis Angel Firpo,5,2,,,,0
+1723672800,Aguila,Port Layola,5,1,,,,0
+1723680000,Esteli,Managua FC,3,0,,,,0
+1723687200,Comunicaciones,Marathon,2,1,,,,0
+1723759200,San Francisco,Diriangen,0,0,,,,0
+1723773600,Municipal,Guanacasteca,3,1,,,,0
+1724198400,Esteli,Saprissa,2,1,,,,0
+1724205600,Alianza FC,Alajuelense,1,2,,,,0
+1724277600,Independiente,Port Layola,1,0,,,,0
+1724284800,Guanacasteca,Managua FC,1,1,,,,0
+1724292000,Marathon,Luis Angel Firpo,1,0,,,,0
+1724364000,Tauro,Diriangen,1,2,,,,0
+1724371200,San Francisco,Herediano,0,1,,,,0
+1724378400,Aguila,Olimpia,2,0,,,,0
+1724803200,Marathon,Alianza FC,1,0,,,,0
+1724810400,Alajuelense,Comunicaciones,2,1,,,,0
+1724889600,Tauro,San Francisco,2,1,,,,0
+1724896800,Herediano,Motagua,1,1,,,,0
+1724968800,Guanacasteca,Esteli,1,0,,,,0
+1724976000,Saprissa,Municipal,1,0,,,,0
+1724976000,Independiente,Aguila,0,3,,,,0
+1724983200,Olimpia,Antigua,1,1,,,,0
+1727229600,Antigua,Saprissa,0,0,,,,0
+1727308800,Esteli,Aguila,2,1,,,,0
+1727316000,Motagua,Herediano,2,2,,,,0
+1727402400,Comunicaciones,Alajuelense,1,2,,,,0
+1727834400,Saprissa,Antigua,0,3,,,,0
+1727913600,Aguila,Esteli,0,0,,,,0
+1727921700,Herediano,Motagua,0,0,,,,0
+1728007200,Alajuelense,Comunicaciones,1,1,,,,0
+1729641600,Motagua,Aguila,2,0,,,,0
+1729648800,Antigua,Alajuelense,0,0,,,,0
+1729735200,Comunicaciones,Saprissa,1,1,,,,0
+1729821600,Esteli,Herediano,0,0,,,,0
+1730253600,Saprissa,Comunicaciones,3,1,,,,0
+1730332800,Aguila,Motagua,2,2,,,,0
+1730340900,Alajuelense,Antigua,1,0,,,,0
+1730426400,Herediano,Esteli,2,2,,,,0
+1732755600,Esteli,Alajuelense,1,1,,,,0
+1733360400,Alajuelense,Esteli,2,1,,,,0

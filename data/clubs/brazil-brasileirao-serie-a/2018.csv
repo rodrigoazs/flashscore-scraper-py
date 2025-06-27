@@ -1,381 +1,381 @@
-date,home_team,away_team,home_score,away_score
-02.12. 20:00,Bahia,Cruzeiro,0,0
-02.12. 20:00,Ceara,Vasco,0,0
-02.12. 20:00,Chapecoense-SC,Sao Paulo,1,0
-02.12. 20:00,Fluminense,America MG,1,0
-02.12. 20:00,Gremio,Corinthians,1,0
-02.12. 20:00,Palmeiras,Vitoria,3,2
-02.12. 20:00,Parana,Internacional,1,1
-02.12. 20:00,Sport Recife,Santos,2,1
-01.12. 22:00,Atletico-MG,Botafogo RJ,1,0
-01.12. 22:00,Flamengo RJ,Athletico-PR,1,2
-26.11. 23:00,Botafogo RJ,Parana,2,1
-26.11. 23:00,Sao Paulo,Sport Recife,0,0
-25.11. 22:00,America MG,Bahia,1,0
-25.11. 22:00,Corinthians,Chapecoense-SC,0,0
-25.11. 22:00,Internacional,Fluminense,2,0
-25.11. 20:00,Athletico-PR,Ceara,2,2
-25.11. 20:00,Cruzeiro,Flamengo RJ,0,2
-25.11. 20:00,Vasco,Palmeiras,0,1
-25.11. 20:00,Vitoria,Gremio,0,0
-24.11. 23:00,Santos,Atletico-MG,3,2
-23.11. 00:00,Bahia,Fluminense,2,0
-23.11. 00:00,Ceara,Parana,1,0
-23.11. 00:00,Chapecoense-SC,Sport Recife,2,1
-22.11. 23:00,Vasco,Sao Paulo,2,0
-22.11. 00:45,Athletico-PR,Corinthians,1,0
-22.11. 00:45,Cruzeiro,Vitoria,3,0
-22.11. 00:45,Flamengo RJ,Gremio,2,0
-22.11. 00:45,Palmeiras,America MG,4,0
-22.11. 00:00,Santos,Botafogo RJ,1,1
-21.11. 22:30,Internacional,Atletico-MG,1,2
-19.11. 23:00,Fluminense,Ceara,0,0
-18.11. 22:00,Gremio,Chapecoense-SC,2,0
-18.11. 22:00,Sao Paulo,Cruzeiro,1,0
-18.11. 20:00,America MG,Santos,2,1
-18.11. 20:00,Botafogo RJ,Internacional,1,0
-18.11. 20:00,Parana,Palmeiras,1,1
-18.11. 20:00,Sport Recife,Flamengo RJ,0,1
-18.11. 00:00,Atletico-MG,Bahia,1,0
-17.11. 22:00,Corinthians,Vasco,1,0
-17.11. 22:00,Vitoria,Athletico-PR,1,2
-16.11. 00:00,Internacional,America MG,2,0
-15.11. 22:00,Sao Paulo,Gremio,1,1
-15.11. 20:00,Chapecoense-SC,Botafogo RJ,0,1
-15.11. 20:00,Flamengo RJ,Santos,1,0
-15.11. 00:45,Cruzeiro,Corinthians,1,0
-15.11. 00:45,Palmeiras,Fluminense,3,0
-15.11. 00:45,Sport Recife,Vitoria,0,0
-15.11. 00:00,Bahia,Ceara,2,1
-15.11. 00:00,Parana,Atletico-MG,0,1
-14.11. 22:30,Vasco,Athletico-PR,1,1
-12.11. 23:00,Santos,Chapecoense-SC,0,1
-11.11. 22:00,Fluminense,Sport Recife,0,0
-11.11. 20:00,Atletico-MG,Palmeiras,1,1
-11.11. 20:00,Ceara,Internacional,1,1
-11.11. 20:00,Gremio,Vasco,2,1
-11.11. 20:00,Vitoria,Bahia,2,2
-10.11. 22:00,Athletico-PR,Cruzeiro,2,0
-10.11. 22:00,Botafogo RJ,Flamengo RJ,2,1
-10.11. 20:00,America MG,Parana,0,1
-10.11. 20:00,Corinthians,Sao Paulo,1,1
-05.11. 23:00,Sport Recife,Ceara,1,0
-04.11. 22:00,Bahia,Chapecoense-SC,1,0
-04.11. 22:00,Internacional,Athletico-PR,2,1
-04.11. 20:00,America MG,Cruzeiro,1,2
-04.11. 20:00,Botafogo RJ,Corinthians,1,0
-04.11. 20:00,Parana,Vitoria,1,1
-04.11. 20:00,Sao Paulo,Flamengo RJ,2,2
-03.11. 23:00,Palmeiras,Santos,3,2
-03.11. 21:00,Atletico-MG,Gremio,0,1
-03.11. 21:00,Fluminense,Vasco,0,1
-30.10. 00:00,Ceara,Atletico-MG,2,1
-28.10. 02:00,Athletico-PR,Botafogo RJ,2,1
-28.10. 02:00,Cruzeiro,Parana,3,1
-28.10. 00:00,Chapecoense-SC,America MG,1,0
-28.10. 00:00,Corinthians,Bahia,2,1
-28.10. 00:00,Flamengo RJ,Palmeiras,1,1
-27.10. 21:30,Gremio,Sport Recife,3,4
-27.10. 21:30,Santos,Fluminense,3,0
-27.10. 02:30,Vasco,Internacional,1,1
-27.10. 00:30,Vitoria,Sao Paulo,0,1
-25.10. 00:30,Cruzeiro,Ceara,0,2
-23.10. 01:00,Internacional,Santos,2,2
-22.10. 00:00,Cruzeiro,Chapecoense-SC,3,0
-22.10. 00:00,Parana,Flamengo RJ,0,4
-21.10. 21:00,Fluminense,Atletico-MG,1,0
-21.10. 21:00,Palmeiras,Ceara,2,1
-21.10. 21:00,Vitoria,Corinthians,2,2
-21.10. 00:00,Sao Paulo,Athletico-PR,0,0
-21.10. 00:00,Sport Recife,Vasco,2,1
-20.10. 21:00,America MG,Gremio,1,1
-20.10. 21:00,Botafogo RJ,Bahia,0,1
-16.10. 01:00,Ceara,Botafogo RJ,0,0
-15.10. 00:00,Athletico-PR,Sport Recife,4,0
-15.10. 00:00,Atletico-MG,America MG,0,0
-14.10. 21:00,Internacional,Sao Paulo,3,1
-14.10. 21:00,Palmeiras,Gremio,2,0
-14.10. 21:00,Vasco,Cruzeiro,2,0
-14.10. 16:00,Chapecoense-SC,Vitoria,0,1
-14.10. 02:00,Bahia,Parana,2,0
-14.10. 00:00,Santos,Corinthians,1,0
-13.10. 22:00,Flamengo RJ,Fluminense,3,0
-10.10. 02:00,Botafogo RJ,Vasco,1,1
-09.10. 01:00,Fluminense,Parana,4,0
-07.10. 02:00,Gremio,Bahia,2,2
-06.10. 23:00,Sao Paulo,Palmeiras,0,2
-06.10. 21:00,Athletico-PR,America MG,4,0
-06.10. 21:00,Chapecoense-SC,Atletico-MG,1,0
-06.10. 02:30,Vitoria,Santos,0,1
-06.10. 02:00,Corinthians,Flamengo RJ,0,3
-06.10. 00:00,Sport Recife,Internacional,2,1
-02.10. 01:00,Parana,Vasco,1,1
-01.10. 00:00,Ceara,Chapecoense-SC,3,1
-30.09. 21:00,Atletico-MG,Sport Recife,5,2
-30.09. 21:00,Botafogo RJ,Sao Paulo,2,2
-30.09. 21:00,Internacional,Vitoria,2,1
-30.09. 21:00,Santos,Athletico-PR,1,0
-30.09. 16:00,Palmeiras,Cruzeiro,3,1
-30.09. 02:00,Bahia,Flamengo RJ,0,0
-30.09. 00:00,America MG,Corinthians,0,0
-29.09. 21:00,Fluminense,Gremio,0,1
-28.09. 01:00,Santos,Vasco,1,1
-25.09. 01:00,Chapecoense-SC,Fluminense,1,2
-25.09. 01:00,Vasco,Bahia,2,1
-24.09. 00:00,Cruzeiro,Santos,2,1
-23.09. 23:00,Sport Recife,Palmeiras,0,1
-23.09. 23:00,Vitoria,Botafogo RJ,3,4
-23.09. 21:00,Athletico-PR,Parana,3,0
-23.09. 21:00,Corinthians,Internacional,1,1
-23.09. 21:00,Flamengo RJ,Atletico-MG,2,1
-23.09. 16:00,Gremio,Ceara,3,2
-22.09. 21:00,Sao Paulo,America MG,1,1
-18.09. 01:00,Chapecoense-SC,Internacional,2,1
-17.09. 00:00,Corinthians,Sport Recife,2,1
-16.09. 21:00,Athletico-PR,Fluminense,3,1
-16.09. 21:00,Bahia,Palmeiras,1,1
-16.09. 21:00,Cruzeiro,Atletico-MG,0,0
-16.09. 21:00,Santos,Sao Paulo,0,0
-16.09. 16:00,Botafogo RJ,America MG,1,0
-16.09. 00:00,Vasco,Flamengo RJ,1,1
-15.09. 21:00,Ceara,Vitoria,2,0
-15.09. 21:00,Gremio,Parana,2,0
-14.09. 01:00,Chapecoense-SC,Athletico-PR,2,1
-11.09. 01:00,Atletico-MG,Athletico-PR,3,1
-10.09. 00:00,Parana,Santos,0,2
-10.09. 00:00,Vitoria,Vasco,1,0
-09.09. 21:00,America MG,Ceara,0,0
-09.09. 21:00,Fluminense,Botafogo RJ,1,0
-09.09. 21:00,Internacional,Gremio,1,0
-09.09. 21:00,Palmeiras,Corinthians,1,0
-09.09. 02:00,Flamengo RJ,Chapecoense-SC,2,0
-09.09. 00:00,Sao Paulo,Bahia,1,0
-08.09. 21:00,Sport Recife,Cruzeiro,0,0
-07.09. 01:00,America MG,Vasco,2,1
-07.09. 00:00,Fluminense,Vitoria,0,0
-07.09. 00:00,Santos,Gremio,0,0
-06.09. 02:45,Atletico-MG,Sao Paulo,1,0
-06.09. 02:45,Internacional,Flamengo RJ,2,1
-06.09. 02:00,Palmeiras,Athletico-PR,2,0
-06.09. 02:00,Parana,Chapecoense-SC,1,1
-06.09. 01:00,Ceara,Corinthians,2,1
-06.09. 00:30,Bahia,Sport Recife,2,0
-06.09. 00:30,Botafogo RJ,Cruzeiro,1,1
-03.09. 00:00,Chapecoense-SC,Palmeiras,1,2
-03.09. 00:00,Cruzeiro,Internacional,0,0
-02.09. 21:00,Athletico-PR,Bahia,2,0
-02.09. 21:00,Sao Paulo,Fluminense,1,1
-02.09. 21:00,Sport Recife,Parana,1,0
-02.09. 16:00,Flamengo RJ,Ceara,0,1
-02.09. 02:00,Corinthians,Atletico-MG,1,1
-02.09. 00:00,Vasco,Santos,0,3
-01.09. 21:00,Gremio,Botafogo RJ,4,0
-01.09. 21:00,Vitoria,America MG,1,0
-30.08. 00:30,Athletico-PR,Vasco,1,0
-30.08. 00:30,Ceara,Bahia,0,2
-27.08. 00:00,Vasco,Chapecoense-SC,3,1
-26.08. 21:00,America MG,Flamengo RJ,2,2
-26.08. 21:00,Internacional,Palmeiras,0,0
-26.08. 21:00,Vitoria,Atletico-MG,1,0
-26.08. 16:00,Sao Paulo,Ceara,1,0
-26.08. 02:00,Botafogo RJ,Sport Recife,2,0
-26.08. 02:00,Cruzeiro,Fluminense,2,1
-26.08. 00:00,Athletico-PR,Gremio,2,1
-26.08. 00:00,Corinthians,Parana,1,0
-25.08. 21:00,Santos,Bahia,2,0
-24.08. 01:00,Atletico-MG,Vasco,0,0
-24.08. 00:30,Flamengo RJ,Vitoria,1,0
-23.08. 02:45,Fluminense,Corinthians,1,0
-23.08. 02:45,Gremio,Cruzeiro,1,1
-23.08. 02:00,Palmeiras,Botafogo RJ,2,0
-23.08. 02:00,Sport Recife,America MG,0,2
-23.08. 00:30,Bahia,Internacional,0,1
-23.08. 00:30,Parana,Sao Paulo,1,1
-21.08. 01:00,Vasco,Ceara,1,1
-20.08. 00:00,America MG,Fluminense,0,0
-20.08. 00:00,Sao Paulo,Chapecoense-SC,2,0
-19.08. 21:00,Botafogo RJ,Atletico-MG,0,3
-19.08. 21:00,Cruzeiro,Bahia,1,1
-19.08. 21:00,Vitoria,Palmeiras,0,3
-19.08. 16:00,Athletico-PR,Flamengo RJ,3,0
-19.08. 16:00,Internacional,Parana,1,0
-19.08. 00:00,Corinthians,Gremio,0,1
-18.08. 21:00,Santos,Sport Recife,3,0
-14.08. 01:00,Fluminense,Internacional,0,3
-13.08. 00:00,Gremio,Vitoria,4,0
-13.08. 00:00,Palmeiras,Vasco,1,0
-12.08. 21:00,Chapecoense-SC,Corinthians,2,1
-12.08. 21:00,Flamengo RJ,Cruzeiro,1,0
-12.08. 21:00,Sport Recife,Sao Paulo,1,3
-12.08. 16:00,Atletico-MG,Santos,3,1
-12.08. 16:00,Parana,Botafogo RJ,1,1
-12.08. 00:00,Bahia,America MG,1,0
-11.08. 21:00,Ceara,Athletico-PR,0,0
-09.08. 00:30,Ceara,Santos,1,1
-07.08. 01:00,Atletico-MG,Internacional,0,1
-06.08. 00:00,Fluminense,Bahia,1,1
-06.08. 00:00,Sport Recife,Chapecoense-SC,1,1
-05.08. 21:00,America MG,Palmeiras,0,0
-05.08. 21:00,Parana,Ceara,0,1
-05.08. 21:00,Sao Paulo,Vasco,2,1
-05.08. 21:00,Vitoria,Cruzeiro,1,1
-05.08. 02:00,Corinthians,Athletico-PR,0,0
-05.08. 00:00,Gremio,Flamengo RJ,2,0
-04.08. 21:00,Botafogo RJ,Santos,0,0
-31.07. 01:00,Bahia,Atletico-MG,2,2
-30.07. 00:00,Chapecoense-SC,Gremio,1,1
-30.07. 00:00,Santos,America MG,0,1
-29.07. 21:00,Athletico-PR,Vitoria,4,0
-29.07. 21:00,Cruzeiro,Sao Paulo,0,2
-29.07. 21:00,Flamengo RJ,Sport Recife,4,1
-29.07. 21:00,Internacional,Botafogo RJ,3,0
-29.07. 16:00,Palmeiras,Parana,3,0
-29.07. 16:00,Vasco,Corinthians,1,4
-28.07. 21:00,Ceara,Fluminense,1,0
-27.07. 01:00,America MG,Internacional,2,1
-27.07. 00:30,Botafogo RJ,Chapecoense-SC,1,0
-27.07. 00:30,Gremio,Sao Paulo,2,1
-27.07. 00:30,Vitoria,Sport Recife,1,0
-26.07. 02:45,Corinthians,Cruzeiro,2,0
-26.07. 02:45,Santos,Flamengo RJ,1,1
-26.07. 02:00,Atletico-MG,Parana,2,0
-26.07. 00:30,Fluminense,Palmeiras,1,0
-24.07. 01:00,Internacional,Ceara,1,0
-23.07. 00:00,Chapecoense-SC,Santos,0,0
-23.07. 00:00,Cruzeiro,Athletico-PR,2,1
-22.07. 21:00,Bahia,Vitoria,4,1
-22.07. 21:00,Palmeiras,Atletico-MG,3,2
-22.07. 21:00,Parana,America MG,1,0
-22.07. 21:00,Sport Recife,Fluminense,1,2
-22.07. 21:00,Vasco,Gremio,1,0
-22.07. 02:00,Sao Paulo,Corinthians,3,1
-22.07. 00:00,Flamengo RJ,Botafogo RJ,2,0
-20.07. 02:00,Athletico-PR,Internacional,2,2
-20.07. 01:00,Santos,Palmeiras,1,1
-20.07. 01:00,Vasco,Fluminense,1,1
-20.07. 00:30,Chapecoense-SC,Bahia,1,1
-20.07. 00:30,Cruzeiro,America MG,3,1
-19.07. 02:45,Corinthians,Botafogo RJ,2,0
-19.07. 02:45,Flamengo RJ,Sao Paulo,0,1
-19.07. 02:45,Gremio,Atletico-MG,2,0
-19.07. 02:00,Vitoria,Parana,1,0
-19.07. 00:30,Ceara,Sport Recife,1,0
-14.06. 02:45,Atletico-MG,Ceara,2,1
-14.06. 02:45,Bahia,Corinthians,1,0
-14.06. 02:45,Internacional,Vasco,3,1
-14.06. 02:00,Botafogo RJ,Athletico-PR,2,0
-14.06. 02:00,Palmeiras,Flamengo RJ,1,1
-14.06. 00:30,Parana,Cruzeiro,1,1
-14.06. 00:30,Sport Recife,Gremio,0,0
-14.06. 00:00,Fluminense,Santos,0,1
-13.06. 21:00,America MG,Chapecoense-SC,0,0
-13.06. 02:30,Sao Paulo,Vitoria,3,0
-11.06. 00:00,Flamengo RJ,Parana,2,0
-11.06. 00:00,Santos,Internacional,1,2
-10.06. 21:00,Atletico-MG,Fluminense,5,2
-10.06. 21:00,Bahia,Botafogo RJ,3,3
-10.06. 21:00,Ceara,Palmeiras,2,2
-10.06. 21:00,Gremio,America MG,1,0
-10.06. 02:00,Corinthians,Vitoria,0,0
-10.06. 00:00,Chapecoense-SC,Cruzeiro,2,0
-10.06. 00:00,Vasco,Sport Recife,3,2
-09.06. 21:00,Athletico-PR,Sao Paulo,0,1
-08.06. 02:00,America MG,Atletico-MG,1,3
-08.06. 01:00,Fluminense,Flamengo RJ,0,2
-08.06. 01:00,Parana,Bahia,1,0
-07.06. 02:45,Cruzeiro,Vasco,1,1
-07.06. 02:45,Gremio,Palmeiras,0,2
-07.06. 02:00,Corinthians,Santos,1,1
-07.06. 02:00,Sport Recife,Athletico-PR,1,0
-07.06. 00:30,Botafogo RJ,Ceara,0,0
-07.06. 00:30,Vitoria,Chapecoense-SC,1,0
-06.06. 02:30,Sao Paulo,Internacional,0,0
-05.06. 01:00,Parana,Fluminense,2,1
-04.06. 00:00,Ceara,Cruzeiro,0,1
-03.06. 21:00,America MG,Athletico-PR,3,1
-03.06. 21:00,Bahia,Gremio,0,2
-03.06. 21:00,Flamengo RJ,Corinthians,1,0
-03.06. 21:00,Santos,Vitoria,5,2
-03.06. 02:00,Palmeiras,Sao Paulo,3,1
-03.06. 00:00,Vasco,Botafogo RJ,1,2
-02.06. 21:00,Atletico-MG,Chapecoense-SC,3,3
-02.06. 21:00,Internacional,Sport Recife,0,0
-01.06. 02:00,Athletico-PR,Santos,2,0
-31.05. 23:00,Corinthians,America MG,1,0
-31.05. 21:00,Flamengo RJ,Bahia,2,0
-31.05. 02:45,Cruzeiro,Palmeiras,1,0
-31.05. 02:45,Gremio,Fluminense,0,0
-31.05. 02:00,Chapecoense-SC,Ceara,2,0
-31.05. 02:00,Sao Paulo,Botafogo RJ,3,2
-31.05. 00:30,Sport Recife,Atletico-MG,3,2
-31.05. 00:30,Vasco,Parana,1,0
-31.05. 00:30,Vitoria,Internacional,2,3
-28.05. 00:00,America MG,Sao Paulo,1,3
-28.05. 00:00,Ceara,Gremio,0,1
-27.05. 21:00,Bahia,Vasco,3,0
-27.05. 21:00,Botafogo RJ,Vitoria,1,1
-27.05. 21:00,Internacional,Corinthians,2,1
-27.05. 21:00,Santos,Cruzeiro,0,1
-27.05. 16:00,Parana,Athletico-PR,0,0
-27.05. 02:00,Atletico-MG,Flamengo RJ,0,1
-27.05. 00:00,Palmeiras,Sport Recife,2,3
-26.05. 21:00,Fluminense,Chapecoense-SC,3,1
-22.05. 01:00,Internacional,Chapecoense-SC,3,0
-21.05. 00:00,Fluminense,Athletico-PR,2,0
-20.05. 21:00,America MG,Botafogo RJ,1,0
-20.05. 21:00,Parana,Gremio,0,0
-20.05. 21:00,Sao Paulo,Santos,1,0
-20.05. 21:00,Sport Recife,Corinthians,1,1
-20.05. 16:00,Vitoria,Ceara,2,1
-20.05. 02:00,Palmeiras,Bahia,3,0
-20.05. 00:00,Flamengo RJ,Vasco,1,1
-19.05. 21:00,Atletico-MG,Cruzeiro,1,0
-15.05. 01:00,Botafogo RJ,Fluminense,2,1
-15.05. 01:00,Ceara,America MG,2,2
-14.05. 00:00,Santos,Parana,3,1
-13.05. 21:00,Athletico-PR,Atletico-MG,1,2
-13.05. 21:00,Bahia,Sao Paulo,2,2
-13.05. 21:00,Chapecoense-SC,Flamengo RJ,3,2
-13.05. 21:00,Corinthians,Palmeiras,1,0
-13.05. 21:00,Vasco,Vitoria,2,3
-13.05. 16:00,Cruzeiro,Sport Recife,2,0
-12.05. 21:00,Gremio,Internacional,0,0
-08.05. 01:00,Chapecoense-SC,Parana,1,1
-07.05. 00:00,Gremio,Santos,5,1
-07.05. 00:00,Sport Recife,Bahia,2,0
-06.05. 21:00,Athletico-PR,Palmeiras,1,3
-06.05. 21:00,Cruzeiro,Botafogo RJ,1,0
-06.05. 21:00,Flamengo RJ,Internacional,2,0
-06.05. 21:00,Vitoria,Fluminense,1,2
-06.05. 16:00,Corinthians,Ceara,1,1
-06.05. 00:00,Sao Paulo,Atletico-MG,2,2
-06.05. 00:00,Vasco,America MG,4,1
-01.05. 01:00,America MG,Vitoria,2,1
-30.04. 00:00,Internacional,Cruzeiro,0,0
-29.04. 21:00,Atletico-MG,Corinthians,1,0
-29.04. 21:00,Bahia,Athletico-PR,0,0
-29.04. 21:00,Ceara,Flamengo RJ,0,3
-29.04. 21:00,Fluminense,Sao Paulo,1,1
-29.04. 21:00,Palmeiras,Chapecoense-SC,0,0
-29.04. 21:00,Parana,Sport Recife,1,2
-28.04. 21:00,Botafogo RJ,Gremio,2,1
-24.04. 01:00,Sport Recife,Botafogo RJ,1,1
-23.04. 00:00,Gremio,Athletico-PR,0,0
-22.04. 21:00,Atletico-MG,Vitoria,2,1
-22.04. 21:00,Ceara,Sao Paulo,0,0
-22.04. 21:00,Chapecoense-SC,Vasco,1,1
-22.04. 21:00,Fluminense,Cruzeiro,1,0
-22.04. 21:00,Palmeiras,Internacional,1,0
-22.04. 16:00,Parana,Corinthians,0,4
-22.04. 00:00,Flamengo RJ,America MG,2,0
-21.04. 21:00,Bahia,Santos,1,0
-17.04. 01:00,Botafogo RJ,Palmeiras,1,1
-17.04. 01:00,Sao Paulo,Parana,1,0
-16.04. 00:00,Athletico-PR,Chapecoense-SC,5,1
-15.04. 21:00,Corinthians,Fluminense,2,1
-15.04. 21:00,Internacional,Bahia,2,0
-15.04. 21:00,Vasco,Atletico-MG,2,1
-15.04. 16:00,America MG,Sport Recife,3,0
-15.04. 02:00,Santos,Ceara,2,0
-15.04. 00:00,Vitoria,Flamengo RJ,2,2
-14.04. 21:00,Cruzeiro,Gremio,0,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1523732400,Cruzeiro,Gremio,0,1,,,,0
+1523743200,Vitoria,Flamengo RJ,2,2,,,,0
+1523750400,Santos,Ceara,2,0,,,,0
+1523800800,America MG,Sport Recife,3,0,,,,0
+1523818800,Vasco,Atletico-MG,2,1,,,,0
+1523818800,Internacional,Bahia,2,0,,,,0
+1523818800,Corinthians,Fluminense,2,1,,,,0
+1523829600,Athletico-PR,Chapecoense-SC,5,1,,,,0
+1523919600,Sao Paulo,Parana,1,0,,,,0
+1523919600,Botafogo RJ,Palmeiras,1,1,,,,0
+1524337200,Bahia,Santos,1,0,,,,0
+1524348000,Flamengo RJ,America MG,2,0,,,,0
+1524405600,Parana,Corinthians,0,4,,,,0
+1524423600,Palmeiras,Internacional,1,0,,,,0
+1524423600,Fluminense,Cruzeiro,1,0,,,,0
+1524423600,Chapecoense-SC,Vasco,1,1,,,,0
+1524423600,Ceara,Sao Paulo,0,0,,,,0
+1524423600,Atletico-MG,Vitoria,2,1,,,,0
+1524434400,Gremio,Athletico-PR,0,0,,,,0
+1524524400,Sport Recife,Botafogo RJ,1,1,,,,0
+1524942000,Botafogo RJ,Gremio,2,1,,,,0
+1525028400,Parana,Sport Recife,1,2,,,,0
+1525028400,Palmeiras,Chapecoense-SC,0,0,,,,0
+1525028400,Fluminense,Sao Paulo,1,1,,,,0
+1525028400,Ceara,Flamengo RJ,0,3,,,,0
+1525028400,Bahia,Athletico-PR,0,0,,,,0
+1525028400,Atletico-MG,Corinthians,1,0,,,,0
+1525039200,Internacional,Cruzeiro,0,0,,,,0
+1525129200,America MG,Vitoria,2,1,,,,0
+1525557600,Vasco,America MG,4,1,,,,0
+1525557600,Sao Paulo,Atletico-MG,2,2,,,,0
+1525615200,Corinthians,Ceara,1,1,,,,0
+1525633200,Vitoria,Fluminense,1,2,,,,0
+1525633200,Flamengo RJ,Internacional,2,0,,,,0
+1525633200,Cruzeiro,Botafogo RJ,1,0,,,,0
+1525633200,Athletico-PR,Palmeiras,1,3,,,,0
+1525644000,Sport Recife,Bahia,2,0,,,,0
+1525644000,Gremio,Santos,5,1,,,,0
+1525734000,Chapecoense-SC,Parana,1,1,,,,0
+1526151600,Gremio,Internacional,0,0,,,,0
+1526220000,Cruzeiro,Sport Recife,2,0,,,,0
+1526238000,Vasco,Vitoria,2,3,,,,0
+1526238000,Corinthians,Palmeiras,1,0,,,,0
+1526238000,Chapecoense-SC,Flamengo RJ,3,2,,,,0
+1526238000,Bahia,Sao Paulo,2,2,,,,0
+1526238000,Athletico-PR,Atletico-MG,1,2,,,,0
+1526248800,Santos,Parana,3,1,,,,0
+1526338800,Ceara,America MG,2,2,,,,0
+1526338800,Botafogo RJ,Fluminense,2,1,,,,0
+1526756400,Atletico-MG,Cruzeiro,1,0,,,,0
+1526767200,Flamengo RJ,Vasco,1,1,,,,0
+1526774400,Palmeiras,Bahia,3,0,,,,0
+1526824800,Vitoria,Ceara,2,1,,,,0
+1526842800,Sport Recife,Corinthians,1,1,,,,0
+1526842800,Sao Paulo,Santos,1,0,,,,0
+1526842800,Parana,Gremio,0,0,,,,0
+1526842800,America MG,Botafogo RJ,1,0,,,,0
+1526853600,Fluminense,Athletico-PR,2,0,,,,0
+1526943600,Internacional,Chapecoense-SC,3,0,,,,0
+1527361200,Fluminense,Chapecoense-SC,3,1,,,,0
+1527372000,Palmeiras,Sport Recife,2,3,,,,0
+1527379200,Atletico-MG,Flamengo RJ,0,1,,,,0
+1527429600,Parana,Athletico-PR,0,0,,,,0
+1527447600,Santos,Cruzeiro,0,1,,,,0
+1527447600,Internacional,Corinthians,2,1,,,,0
+1527447600,Botafogo RJ,Vitoria,1,1,,,,0
+1527447600,Bahia,Vasco,3,0,,,,0
+1527458400,Ceara,Gremio,0,1,,,,0
+1527458400,America MG,Sao Paulo,1,3,,,,0
+1527719400,Vitoria,Internacional,2,3,,,,0
+1527719400,Vasco,Parana,1,0,,,,0
+1527719400,Sport Recife,Atletico-MG,3,2,,,,0
+1527724800,Sao Paulo,Botafogo RJ,3,2,,,,0
+1527724800,Chapecoense-SC,Ceara,2,0,,,,0
+1527727500,Gremio,Fluminense,0,0,,,,0
+1527727500,Cruzeiro,Palmeiras,1,0,,,,0
+1527793200,Flamengo RJ,Bahia,2,0,,,,0
+1527800400,Corinthians,America MG,1,0,,,,0
+1527811200,Athletico-PR,Santos,2,0,,,,0
+1527966000,Internacional,Sport Recife,0,0,,,,0
+1527966000,Atletico-MG,Chapecoense-SC,3,3,,,,0
+1527976800,Vasco,Botafogo RJ,1,2,,,,0
+1527984000,Palmeiras,Sao Paulo,3,1,,,,0
+1528052400,Santos,Vitoria,5,2,,,,0
+1528052400,Flamengo RJ,Corinthians,1,0,,,,0
+1528052400,Bahia,Gremio,0,2,,,,0
+1528052400,America MG,Athletico-PR,3,1,,,,0
+1528063200,Ceara,Cruzeiro,0,1,,,,0
+1528153200,Parana,Fluminense,2,1,,,,0
+1528245000,Sao Paulo,Internacional,0,0,,,,0
+1528324200,Vitoria,Chapecoense-SC,1,0,,,,0
+1528324200,Botafogo RJ,Ceara,0,0,,,,0
+1528329600,Sport Recife,Athletico-PR,1,0,,,,0
+1528329600,Corinthians,Santos,1,1,,,,0
+1528332300,Gremio,Palmeiras,0,2,,,,0
+1528332300,Cruzeiro,Vasco,1,1,,,,0
+1528412400,Parana,Bahia,1,0,,,,0
+1528412400,Fluminense,Flamengo RJ,0,2,,,,0
+1528416000,America MG,Atletico-MG,1,3,,,,0
+1528570800,Athletico-PR,Sao Paulo,0,1,,,,0
+1528581600,Vasco,Sport Recife,3,2,,,,0
+1528581600,Chapecoense-SC,Cruzeiro,2,0,,,,0
+1528588800,Corinthians,Vitoria,0,0,,,,0
+1528657200,Gremio,America MG,1,0,,,,0
+1528657200,Ceara,Palmeiras,2,2,,,,0
+1528657200,Bahia,Botafogo RJ,3,3,,,,0
+1528657200,Atletico-MG,Fluminense,5,2,,,,0
+1528668000,Santos,Internacional,1,2,,,,0
+1528668000,Flamengo RJ,Parana,2,0,,,,0
+1528849800,Sao Paulo,Vitoria,3,0,,,,0
+1528916400,America MG,Chapecoense-SC,0,0,,,,0
+1528927200,Fluminense,Santos,0,1,,,,0
+1528929000,Sport Recife,Gremio,0,0,,,,0
+1528929000,Parana,Cruzeiro,1,1,,,,0
+1528934400,Palmeiras,Flamengo RJ,1,1,,,,0
+1528934400,Botafogo RJ,Athletico-PR,2,0,,,,0
+1528937100,Internacional,Vasco,3,1,,,,0
+1528937100,Bahia,Corinthians,1,0,,,,0
+1528937100,Atletico-MG,Ceara,2,1,,,,0
+1531953000,Ceara,Sport Recife,1,0,,,,0
+1531958400,Vitoria,Parana,1,0,,,,0
+1531961100,Gremio,Atletico-MG,2,0,,,,0
+1531961100,Flamengo RJ,Sao Paulo,0,1,,,,0
+1531961100,Corinthians,Botafogo RJ,2,0,,,,0
+1532039400,Cruzeiro,America MG,3,1,,,,0
+1532039400,Chapecoense-SC,Bahia,1,1,,,,0
+1532041200,Vasco,Fluminense,1,1,,,,0
+1532041200,Santos,Palmeiras,1,1,,,,0
+1532044800,Athletico-PR,Internacional,2,2,,,,0
+1532210400,Flamengo RJ,Botafogo RJ,2,0,,,,0
+1532217600,Sao Paulo,Corinthians,3,1,,,,0
+1532286000,Vasco,Gremio,1,0,,,,0
+1532286000,Sport Recife,Fluminense,1,2,,,,0
+1532286000,Parana,America MG,1,0,,,,0
+1532286000,Palmeiras,Atletico-MG,3,2,,,,0
+1532286000,Bahia,Vitoria,4,1,,,,0
+1532296800,Cruzeiro,Athletico-PR,2,1,,,,0
+1532296800,Chapecoense-SC,Santos,0,0,,,,0
+1532386800,Internacional,Ceara,1,0,,,,0
+1532557800,Fluminense,Palmeiras,1,0,,,,0
+1532563200,Atletico-MG,Parana,2,0,,,,0
+1532565900,Santos,Flamengo RJ,1,1,,,,0
+1532565900,Corinthians,Cruzeiro,2,0,,,,0
+1532644200,Vitoria,Sport Recife,1,0,,,,0
+1532644200,Gremio,Sao Paulo,2,1,,,,0
+1532644200,Botafogo RJ,Chapecoense-SC,1,0,,,,0
+1532646000,America MG,Internacional,2,1,,,,0
+1532804400,Ceara,Fluminense,1,0,,,,0
+1532872800,Vasco,Corinthians,1,4,,,,0
+1532872800,Palmeiras,Parana,3,0,,,,0
+1532890800,Internacional,Botafogo RJ,3,0,,,,0
+1532890800,Flamengo RJ,Sport Recife,4,1,,,,0
+1532890800,Cruzeiro,Sao Paulo,0,2,,,,0
+1532890800,Athletico-PR,Vitoria,4,0,,,,0
+1532901600,Santos,America MG,0,1,,,,0
+1532901600,Chapecoense-SC,Gremio,1,1,,,,0
+1532991600,Bahia,Atletico-MG,2,2,,,,0
+1533409200,Botafogo RJ,Santos,0,0,,,,0
+1533420000,Gremio,Flamengo RJ,2,0,,,,0
+1533427200,Corinthians,Athletico-PR,0,0,,,,0
+1533495600,Vitoria,Cruzeiro,1,1,,,,0
+1533495600,Sao Paulo,Vasco,2,1,,,,0
+1533495600,Parana,Ceara,0,1,,,,0
+1533495600,America MG,Palmeiras,0,0,,,,0
+1533506400,Sport Recife,Chapecoense-SC,1,1,,,,0
+1533506400,Fluminense,Bahia,1,1,,,,0
+1533596400,Atletico-MG,Internacional,0,1,,,,0
+1533767400,Ceara,Santos,1,1,,,,0
+1534014000,Ceara,Athletico-PR,0,0,,,,0
+1534024800,Bahia,America MG,1,0,,,,0
+1534082400,Parana,Botafogo RJ,1,1,,,,0
+1534082400,Atletico-MG,Santos,3,1,,,,0
+1534100400,Sport Recife,Sao Paulo,1,3,,,,0
+1534100400,Flamengo RJ,Cruzeiro,1,0,,,,0
+1534100400,Chapecoense-SC,Corinthians,2,1,,,,0
+1534111200,Palmeiras,Vasco,1,0,,,,0
+1534111200,Gremio,Vitoria,4,0,,,,0
+1534201200,Fluminense,Internacional,0,3,,,,0
+1534618800,Santos,Sport Recife,3,0,,,,0
+1534629600,Corinthians,Gremio,0,1,,,,0
+1534687200,Internacional,Parana,1,0,,,,0
+1534687200,Athletico-PR,Flamengo RJ,3,0,,,,0
+1534705200,Vitoria,Palmeiras,0,3,,,,0
+1534705200,Cruzeiro,Bahia,1,1,,,,0
+1534705200,Botafogo RJ,Atletico-MG,0,3,,,,0
+1534716000,Sao Paulo,Chapecoense-SC,2,0,,,,0
+1534716000,America MG,Fluminense,0,0,,,,0
+1534806000,Vasco,Ceara,1,1,,,,0
+1534977000,Parana,Sao Paulo,1,1,,,,0
+1534977000,Bahia,Internacional,0,1,,,,0
+1534982400,Sport Recife,America MG,0,2,,,,0
+1534982400,Palmeiras,Botafogo RJ,2,0,,,,0
+1534985100,Gremio,Cruzeiro,1,1,,,,0
+1534985100,Fluminense,Corinthians,1,0,,,,0
+1535063400,Flamengo RJ,Vitoria,1,0,,,,0
+1535065200,Atletico-MG,Vasco,0,0,,,,0
+1535223600,Santos,Bahia,2,0,,,,0
+1535234400,Corinthians,Parana,1,0,,,,0
+1535234400,Athletico-PR,Gremio,2,1,,,,0
+1535241600,Cruzeiro,Fluminense,2,1,,,,0
+1535241600,Botafogo RJ,Sport Recife,2,0,,,,0
+1535292000,Sao Paulo,Ceara,1,0,,,,0
+1535310000,Vitoria,Atletico-MG,1,0,,,,0
+1535310000,Internacional,Palmeiras,0,0,,,,0
+1535310000,America MG,Flamengo RJ,2,2,,,,0
+1535320800,Vasco,Chapecoense-SC,3,1,,,,0
+1535581800,Ceara,Bahia,0,2,,,,0
+1535581800,Athletico-PR,Vasco,1,0,,,,0
+1535828400,Vitoria,America MG,1,0,,,,0
+1535828400,Gremio,Botafogo RJ,4,0,,,,0
+1535839200,Vasco,Santos,0,3,,,,0
+1535846400,Corinthians,Atletico-MG,1,1,,,,0
+1535896800,Flamengo RJ,Ceara,0,1,,,,0
+1535914800,Sport Recife,Parana,1,0,,,,0
+1535914800,Sao Paulo,Fluminense,1,1,,,,0
+1535914800,Athletico-PR,Bahia,2,0,,,,0
+1535925600,Cruzeiro,Internacional,0,0,,,,0
+1535925600,Chapecoense-SC,Palmeiras,1,2,,,,0
+1536186600,Botafogo RJ,Cruzeiro,1,1,,,,0
+1536186600,Bahia,Sport Recife,2,0,,,,0
+1536188400,Ceara,Corinthians,2,1,,,,0
+1536192000,Parana,Chapecoense-SC,1,1,,,,0
+1536192000,Palmeiras,Athletico-PR,2,0,,,,0
+1536194700,Internacional,Flamengo RJ,2,1,,,,0
+1536194700,Atletico-MG,Sao Paulo,1,0,,,,0
+1536271200,Santos,Gremio,0,0,,,,0
+1536271200,Fluminense,Vitoria,0,0,,,,0
+1536274800,America MG,Vasco,2,1,,,,0
+1536433200,Sport Recife,Cruzeiro,0,0,,,,0
+1536444000,Sao Paulo,Bahia,1,0,,,,0
+1536451200,Flamengo RJ,Chapecoense-SC,2,0,,,,0
+1536519600,Palmeiras,Corinthians,1,0,,,,0
+1536519600,Internacional,Gremio,1,0,,,,0
+1536519600,Fluminense,Botafogo RJ,1,0,,,,0
+1536519600,America MG,Ceara,0,0,,,,0
+1536530400,Vitoria,Vasco,1,0,,,,0
+1536530400,Parana,Santos,0,2,,,,0
+1536620400,Atletico-MG,Athletico-PR,3,1,,,,0
+1536879600,Chapecoense-SC,Athletico-PR,2,1,,,,0
+1537038000,Gremio,Parana,2,0,,,,0
+1537038000,Ceara,Vitoria,2,0,,,,0
+1537048800,Vasco,Flamengo RJ,1,1,,,,0
+1537106400,Botafogo RJ,America MG,1,0,,,,0
+1537124400,Santos,Sao Paulo,0,0,,,,0
+1537124400,Cruzeiro,Atletico-MG,0,0,,,,0
+1537124400,Bahia,Palmeiras,1,1,,,,0
+1537124400,Athletico-PR,Fluminense,3,1,,,,0
+1537135200,Corinthians,Sport Recife,2,1,,,,0
+1537225200,Chapecoense-SC,Internacional,2,1,,,,0
+1537642800,Sao Paulo,America MG,1,1,,,,0
+1537711200,Gremio,Ceara,3,2,,,,0
+1537729200,Flamengo RJ,Atletico-MG,2,1,,,,0
+1537729200,Corinthians,Internacional,1,1,,,,0
+1537729200,Athletico-PR,Parana,3,0,,,,0
+1537736400,Vitoria,Botafogo RJ,3,4,,,,0
+1537736400,Sport Recife,Palmeiras,0,1,,,,0
+1537740000,Cruzeiro,Santos,2,1,,,,0
+1537830000,Vasco,Bahia,2,1,,,,0
+1537830000,Chapecoense-SC,Fluminense,1,2,,,,0
+1538089200,Santos,Vasco,1,1,,,,0
+1538247600,Fluminense,Gremio,0,1,,,,0
+1538258400,America MG,Corinthians,0,0,,,,0
+1538265600,Bahia,Flamengo RJ,0,0,,,,0
+1538316000,Palmeiras,Cruzeiro,3,1,,,,0
+1538334000,Santos,Athletico-PR,1,0,,,,0
+1538334000,Internacional,Vitoria,2,1,,,,0
+1538334000,Botafogo RJ,Sao Paulo,2,2,,,,0
+1538334000,Atletico-MG,Sport Recife,5,2,,,,0
+1538344800,Ceara,Chapecoense-SC,3,1,,,,0
+1538434800,Parana,Vasco,1,1,,,,0
+1538776800,Sport Recife,Internacional,2,1,,,,0
+1538784000,Corinthians,Flamengo RJ,0,3,,,,0
+1538785800,Vitoria,Santos,0,1,,,,0
+1538852400,Chapecoense-SC,Atletico-MG,1,0,,,,0
+1538852400,Athletico-PR,America MG,4,0,,,,0
+1538859600,Sao Paulo,Palmeiras,0,2,,,,0
+1538870400,Gremio,Bahia,2,2,,,,0
+1539039600,Fluminense,Parana,4,0,,,,0
+1539129600,Botafogo RJ,Vasco,1,1,,,,0
+1539460800,Flamengo RJ,Fluminense,3,0,,,,0
+1539468000,Santos,Corinthians,1,0,,,,0
+1539475200,Bahia,Parana,2,0,,,,0
+1539525600,Chapecoense-SC,Vitoria,0,1,,,,0
+1539543600,Vasco,Cruzeiro,2,0,,,,0
+1539543600,Palmeiras,Gremio,2,0,,,,0
+1539543600,Internacional,Sao Paulo,3,1,,,,0
+1539554400,Atletico-MG,America MG,0,0,,,,0
+1539554400,Athletico-PR,Sport Recife,4,0,,,,0
+1539644400,Ceara,Botafogo RJ,0,0,,,,0
+1540062000,Botafogo RJ,Bahia,0,1,,,,0
+1540062000,America MG,Gremio,1,1,,,,0
+1540072800,Sport Recife,Vasco,2,1,,,,0
+1540072800,Sao Paulo,Athletico-PR,0,0,,,,0
+1540148400,Vitoria,Corinthians,2,2,,,,0
+1540148400,Palmeiras,Ceara,2,1,,,,0
+1540148400,Fluminense,Atletico-MG,1,0,,,,0
+1540159200,Parana,Flamengo RJ,0,4,,,,0
+1540159200,Cruzeiro,Chapecoense-SC,3,0,,,,0
+1540249200,Internacional,Santos,2,2,,,,0
+1540420200,Cruzeiro,Ceara,0,2,,,,0
+1540593000,Vitoria,Sao Paulo,0,1,,,,0
+1540600200,Vasco,Internacional,1,1,,,,0
+1540668600,Santos,Fluminense,3,0,,,,0
+1540668600,Gremio,Sport Recife,3,4,,,,0
+1540677600,Flamengo RJ,Palmeiras,1,1,,,,0
+1540677600,Corinthians,Bahia,2,1,,,,0
+1540677600,Chapecoense-SC,America MG,1,0,,,,0
+1540688400,Cruzeiro,Parana,3,1,,,,0
+1540688400,Athletico-PR,Botafogo RJ,2,1,,,,0
+1540854000,Ceara,Atletico-MG,2,1,,,,0
+1541275200,Fluminense,Vasco,0,1,,,,0
+1541275200,Atletico-MG,Gremio,0,1,,,,0
+1541282400,Palmeiras,Santos,3,2,,,,0
+1541358000,Sao Paulo,Flamengo RJ,2,2,,,,0
+1541358000,Parana,Vitoria,1,1,,,,0
+1541358000,Botafogo RJ,Corinthians,1,0,,,,0
+1541358000,America MG,Cruzeiro,1,2,,,,0
+1541365200,Internacional,Athletico-PR,2,1,,,,0
+1541365200,Bahia,Chapecoense-SC,1,0,,,,0
+1541455200,Sport Recife,Ceara,1,0,,,,0
+1541876400,Corinthians,Sao Paulo,1,1,,,,0
+1541876400,America MG,Parana,0,1,,,,0
+1541883600,Botafogo RJ,Flamengo RJ,2,1,,,,0
+1541883600,Athletico-PR,Cruzeiro,2,0,,,,0
+1541962800,Vitoria,Bahia,2,2,,,,0
+1541962800,Gremio,Vasco,2,1,,,,0
+1541962800,Ceara,Internacional,1,1,,,,0
+1541962800,Atletico-MG,Palmeiras,1,1,,,,0
+1541970000,Fluminense,Sport Recife,0,0,,,,0
+1542060000,Santos,Chapecoense-SC,0,1,,,,0
+1542231000,Vasco,Athletico-PR,1,1,,,,0
+1542236400,Parana,Atletico-MG,0,1,,,,0
+1542236400,Bahia,Ceara,2,1,,,,0
+1542239100,Sport Recife,Vitoria,0,0,,,,0
+1542239100,Palmeiras,Fluminense,3,0,,,,0
+1542239100,Cruzeiro,Corinthians,1,0,,,,0
+1542308400,Flamengo RJ,Santos,1,0,,,,0
+1542308400,Chapecoense-SC,Botafogo RJ,0,1,,,,0
+1542315600,Sao Paulo,Gremio,1,1,,,,0
+1542322800,Internacional,America MG,2,0,,,,0
+1542488400,Vitoria,Athletico-PR,1,2,,,,0
+1542488400,Corinthians,Vasco,1,0,,,,0
+1542495600,Atletico-MG,Bahia,1,0,,,,0
+1542567600,Sport Recife,Flamengo RJ,0,1,,,,0
+1542567600,Parana,Palmeiras,1,1,,,,0
+1542567600,Botafogo RJ,Internacional,1,0,,,,0
+1542567600,America MG,Santos,2,1,,,,0
+1542574800,Sao Paulo,Cruzeiro,1,0,,,,0
+1542574800,Gremio,Chapecoense-SC,2,0,,,,0
+1542664800,Fluminense,Ceara,0,0,,,,0
+1542835800,Internacional,Atletico-MG,1,2,,,,0
+1542841200,Santos,Botafogo RJ,1,1,,,,0
+1542843900,Palmeiras,America MG,4,0,,,,0
+1542843900,Flamengo RJ,Gremio,2,0,,,,0
+1542843900,Cruzeiro,Vitoria,3,0,,,,0
+1542843900,Athletico-PR,Corinthians,1,0,,,,0
+1542924000,Vasco,Sao Paulo,2,0,,,,0
+1542927600,Chapecoense-SC,Sport Recife,2,1,,,,0
+1542927600,Ceara,Parana,1,0,,,,0
+1542927600,Bahia,Fluminense,2,0,,,,0
+1543096800,Santos,Atletico-MG,3,2,,,,0
+1543172400,Vitoria,Gremio,0,0,,,,0
+1543172400,Vasco,Palmeiras,0,1,,,,0
+1543172400,Cruzeiro,Flamengo RJ,0,2,,,,0
+1543172400,Athletico-PR,Ceara,2,2,,,,0
+1543179600,Internacional,Fluminense,2,0,,,,0
+1543179600,Corinthians,Chapecoense-SC,0,0,,,,0
+1543179600,America MG,Bahia,1,0,,,,0
+1543269600,Sao Paulo,Sport Recife,0,0,,,,0
+1543269600,Botafogo RJ,Parana,2,1,,,,0
+1543698000,Flamengo RJ,Athletico-PR,1,2,,,,0
+1543698000,Atletico-MG,Botafogo RJ,1,0,,,,0
+1543777200,Sport Recife,Santos,2,1,,,,0
+1543777200,Parana,Internacional,1,1,,,,0
+1543777200,Palmeiras,Vitoria,3,2,,,,0
+1543777200,Gremio,Corinthians,1,0,,,,0
+1543777200,Fluminense,America MG,1,0,,,,0
+1543777200,Chapecoense-SC,Sao Paulo,1,0,,,,0
+1543777200,Ceara,Vasco,0,0,,,,0
+1543777200,Bahia,Cruzeiro,0,0,,,,0

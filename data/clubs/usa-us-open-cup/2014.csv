@@ -1,80 +1,80 @@
-date,home_team,away_team,home_score,away_score
-17.09. 01:30AET,Philadelphia Union,Seattle Sounders,1,3
-14.08. 04:30,Seattle Sounders,Chicago Fire,6,0
-13.08. 03:00Pen,FC Dallas,Philadelphia Union,1,2
-10.07. 04:30AET,Seattle Sounders,Portland Timbers,3,1
-10.07. 01:30,Atlanta SC,Chicago Fire,1,3
-10.07. 01:30,North Carolina,FC Dallas,2,5
-09.07. 01:00,Philadelphia Union,New England Revolution,2,0
-26.06. 02:30AET,Chicago Fire,Columbus Crew,4,2
-26.06. 01:30,New England Revolution,Rochester New York,2,1
-25.06. 04:30Pen,Seattle Sounders,San Jose Earthquakes,2,1
-25.06. 03:00,Colorado Rapids,Atlanta SC,1,2
-25.06. 03:00AET,Houston Dynamo,FC Dallas,2,3
-25.06. 02:30,Sporting Kansas City,Portland Timbers,1,3
-25.06. 01:00AET,North Carolina,Los Angeles Galaxy,1,0
-25.06. 01:00AET,Philadelphia Union,New York Cosmos,2,1
-19.06. 04:30,Arizona United,Los Angeles Galaxy,1,2
-19.06. 04:20,Chicago Fire,Pittsburgh,2,1
-19.06. 04:00,Seattle Sounders,PSA Elite,5,0
-19.06. 02:30,Sporting Kansas City,Minnesota United,2,0
-19.06. 01:00,Richmond Kickers,New England Revolution,2,3
-18.06. 04:30,Portland Timbers,Orlando City U23,3,0
-18.06. 03:00,Colorado Rapids,Orlando City,5,2
-18.06. 03:00,FC Dallas,San Antonio,2,0
-18.06. 01:30AET,Columbus Crew,Indy Eleven,2,1
-18.06. 01:05,Rochester New York,DC United,1,0
-18.06. 01:00AET,Philadelphia Union,Penn,3,1
-15.06. 02:30,New York Cosmos,New York Red Bulls,3,0
-15.06. 02:00,Atlanta SC,Real Salt Lake,2,1
-15.06. 02:00Pen,North Carolina,Chivas USA,2,1
-12.06. 04:30,San Jose Earthquakes,Sacramento Republic,2,1
-12.06. 04:00,Houston Dynamo,Laredo Heat,1,0
-29.05. 04:30AET,Arizona United,Oklahoma City Energy,2,1
-29.05. 04:30,Sacramento Republic,Fuego,6,0
-29.05. 04:30Pen,Ventura County,PSA Elite,0,1
-29.05. 02:30,Menace,Minnesota United,0,1
-29.05. 02:30,San Antonio,NTX Rayados,4,2
-29.05. 01:45,Fort Lauderdale Strikers,Laredo Heat,2,3
-29.05. 01:30Pen,Charleston,Orlando City U23,2,3
-29.05. 01:30,Chattanooga,Atlanta SC,0,5
-29.05. 01:30,Indy Eleven,Dayton,5,2
-29.05. 01:30,New York Cosmos,Brooklyn Italians,2,0
-29.05. 01:30,North Carolina,Charlotte Eagles,2,0
-29.05. 01:30,Orlando City,Tampa Bay,4,1
-29.05. 01:00AET,Pittsburgh,RWB Adria,3,2
-29.05. 01:00,Richmond Kickers,Greek American,2,1
-28.05. 23:30,Baltimore Bohemians,Penn,2,4
-28.05. 01:35AET,Rochester New York,Reading,2,1
-15.05. 04:30,Sacramento Republic,Ventura,2,1
-15.05. 04:30,Ventura County,Cal,6,1
-15.05. 04:00WO,San Diego,PSA Elite,-,-
-15.05. 03:15,Laredo Heat,Red Force,2,1
-15.05. 03:00,Fuego,Orange County SC,2,0
-15.05. 02:30Pen,Austin,NTX Rayados,4,5
-15.05. 02:30,Menace,Real Colorado,3,0
-15.05. 02:30,Tulsa Athletic,Oklahoma City Energy,0,2
-15.05. 02:00,Jersey Express,Brooklyn Italians,2,4
-15.05. 01:35AET,Rochester New York,Western Mass Pioneers,2,1
-15.05. 01:30,Baltimore Bohemians,Icon,4,1
-15.05. 01:30,Charleston,Panama City,4,0
-15.05. 01:30AET,Michigan Bucks,RWB Adria,0,1
-15.05. 01:30,Orlando City,Ocala Stampede,4,1
-15.05. 01:05,Lehigh Valley,Penn,0,4
-15.05. 01:00,Charlotte Eagles,North Carolina Fusion U23,3,1
-15.05. 01:00,Ocean City,Greek American,0,2
-15.05. 01:00,Pittsburgh,New York Red Bulls U23,3,1
-15.05. 01:00,Reading,GBFC Thunder,5,2
-15.05. 01:00,RVA,Richmond Kickers,1,6
-15.05. 00:30,Chattanooga,Wilmington Hammerheads,3,1
-14.05. 23:00,Schwaben,Dayton,0,2
-14.05. 22:30,Orlando City U23,Jacksonville United,2,1
-14.05. 04:00,Portland U23,Arizona United,2,3
-08.05. 04:30Pen,PSA Elite,Los Angeles Misioneros,2,1
-08.05. 04:00,Colorado Rovers,Red Force,1,2
-08.05. 04:00WO,San Diego,Corinthians USA,-,-
-08.05. 04:00,Ventura,Aguiluchos,2,1
-08.05. 02:00,New York Red Bulls U23,Vermont Voltage,2,1
-08.05. 02:00AET,Portland Phoenix,Lehigh Valley,0,1
-08.05. 01:30,Western Mass Pioneers,Mass Premier,4,1
-08.05. 01:00Pen,Detroit,RWB Adria,2,3
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1399503600,Detroit,RWB Adria,2,2,Pen,2,3,0
+1399505400,Western Mass Pioneers,Mass Premier,4,1,,,,0
+1399507200,Portland Phoenix,Lehigh Valley,0,0,AET,0,1,0
+1399507200,New York Red Bulls U23,Vermont Voltage,2,1,,,,0
+1399514400,Ventura,Aguiluchos,2,1,,,,0
+1399514400,San Diego,Corinthians USA,-,-,WO,,,0
+1399514400,Colorado Rovers,Red Force,1,2,,,,0
+1399516200,PSA Elite,Los Angeles Misioneros,0,0,Pen,2,1,0
+1400032800,Portland U23,Arizona United,2,3,,,,0
+1400099400,Orlando City U23,Jacksonville United,2,1,,,,0
+1400101200,Schwaben,Dayton,0,2,,,,0
+1400106600,Chattanooga,Wilmington Hammerheads,3,1,,,,0
+1400108400,RVA,Richmond Kickers,1,6,,,,0
+1400108400,Reading,GBFC Thunder,5,2,,,,0
+1400108400,Pittsburgh,New York Red Bulls U23,3,1,,,,0
+1400108400,Ocean City,Greek American,0,2,,,,0
+1400108400,Charlotte Eagles,North Carolina Fusion U23,3,1,,,,0
+1400108700,Lehigh Valley,Penn,0,4,,,,0
+1400110200,Orlando City,Ocala Stampede,4,1,,,,0
+1400110200,Michigan Bucks,RWB Adria,0,0,AET,0,1,0
+1400110200,Charleston,Panama City,4,0,,,,0
+1400110200,Baltimore Bohemians,Icon,4,1,,,,0
+1400110500,Rochester New York,Western Mass Pioneers,0,0,AET,2,1,0
+1400112000,Jersey Express,Brooklyn Italians,2,4,,,,0
+1400113800,Tulsa Athletic,Oklahoma City Energy,0,2,,,,0
+1400113800,Menace,Real Colorado,3,0,,,,0
+1400113800,Austin,NTX Rayados,3,3,Pen,4,5,0
+1400115600,Fuego,Orange County SC,2,0,,,,0
+1400116500,Laredo Heat,Red Force,2,1,,,,0
+1400119200,San Diego,PSA Elite,-,-,WO,,,0
+1400121000,Ventura County,Cal,6,1,,,,0
+1400121000,Sacramento Republic,Ventura,2,1,,,,0
+1401233700,Rochester New York,Reading,1,1,AET,2,1,0
+1401312600,Baltimore Bohemians,Penn,2,4,,,,0
+1401318000,Richmond Kickers,Greek American,2,1,,,,0
+1401318000,Pittsburgh,RWB Adria,2,2,AET,3,2,0
+1401319800,Orlando City,Tampa Bay,4,1,,,,0
+1401319800,North Carolina,Charlotte Eagles,2,0,,,,0
+1401319800,New York Cosmos,Brooklyn Italians,2,0,,,,0
+1401319800,Indy Eleven,Dayton,5,2,,,,0
+1401319800,Chattanooga,Atlanta SC,0,5,,,,0
+1401319800,Charleston,Orlando City U23,2,2,Pen,2,3,0
+1401320700,Fort Lauderdale Strikers,Laredo Heat,2,3,,,,0
+1401323400,San Antonio,NTX Rayados,4,2,,,,0
+1401323400,Menace,Minnesota United,0,1,,,,0
+1401330600,Ventura County,PSA Elite,0,0,Pen,0,1,0
+1401330600,Sacramento Republic,Fuego,6,0,,,,0
+1401330600,Arizona United,Oklahoma City Energy,1,1,AET,2,1,0
+1402538400,Houston Dynamo,Laredo Heat,1,0,,,,0
+1402540200,San Jose Earthquakes,Sacramento Republic,2,1,,,,0
+1402790400,North Carolina,Chivas USA,1,1,Pen,2,1,0
+1402790400,Atlanta SC,Real Salt Lake,2,1,,,,0
+1402792200,New York Cosmos,New York Red Bulls,3,0,,,,0
+1403046000,Philadelphia Union,Penn,1,1,AET,3,1,0
+1403046300,Rochester New York,DC United,1,0,,,,0
+1403047800,Columbus Crew,Indy Eleven,1,1,AET,2,1,0
+1403053200,FC Dallas,San Antonio,2,0,,,,0
+1403053200,Colorado Rapids,Orlando City,5,2,,,,0
+1403058600,Portland Timbers,Orlando City U23,3,0,,,,0
+1403132400,Richmond Kickers,New England Revolution,2,3,,,,0
+1403137800,Sporting Kansas City,Minnesota United,2,0,,,,0
+1403143200,Seattle Sounders,PSA Elite,5,0,,,,0
+1403144400,Chicago Fire,Pittsburgh,2,1,,,,0
+1403145000,Arizona United,Los Angeles Galaxy,1,2,,,,0
+1403650800,Philadelphia Union,New York Cosmos,1,1,AET,2,1,0
+1403650800,North Carolina,Los Angeles Galaxy,0,0,AET,1,0,0
+1403656200,Sporting Kansas City,Portland Timbers,1,3,,,,0
+1403658000,Houston Dynamo,FC Dallas,2,2,AET,2,3,0
+1403658000,Colorado Rapids,Atlanta SC,1,2,,,,0
+1403663400,Seattle Sounders,San Jose Earthquakes,1,1,Pen,2,1,0
+1403739000,New England Revolution,Rochester New York,2,1,,,,0
+1403742600,Chicago Fire,Columbus Crew,2,2,AET,4,2,0
+1404860400,Philadelphia Union,New England Revolution,2,0,,,,0
+1404948600,North Carolina,FC Dallas,2,5,,,,0
+1404948600,Atlanta SC,Chicago Fire,1,3,,,,0
+1404959400,Seattle Sounders,Portland Timbers,1,1,AET,3,1,0
+1407891600,FC Dallas,Philadelphia Union,1,1,Pen,1,2,0
+1407983400,Seattle Sounders,Chicago Fire,6,0,,,,0
+1410910200,Philadelphia Union,Seattle Sounders,1,1,AET,1,3,0

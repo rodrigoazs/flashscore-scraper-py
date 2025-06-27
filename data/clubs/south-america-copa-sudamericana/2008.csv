@@ -1,67 +1,67 @@
-date,home_team,away_team,home_score,away_score
-04.12. 01:00AET,Internacional,Estudiantes L.P.,1,1
-27.11. 01:00,Estudiantes L.P.,Internacional,0,1
-21.11. 00:15,Estudiantes L.P.,Argentinos Jrs,1,0
-20.11. 01:00,Internacional,Guadalajara Chivas,4,0
-14.11. 00:15,Argentinos Jrs,Estudiantes L.P.,1,1
-13.11. 01:00,Guadalajara Chivas,Internacional,0,2
-07.11. 02:30,Guadalajara Chivas,River Plate,2,2
-07.11. 00:00,Boca Juniors,Internacional,1,2
-06.11. 01:00,Botafogo RJ,Estudiantes L.P.,2,2
-06.11. 00:50,Argentinos Jrs,Palmeiras,2,0
-23.10. 02:00,Internacional,Boca Juniors,2,0
-23.10. 02:00,Palmeiras,Argentinos Jrs,0,1
-22.10. 23:45,River Plate,Guadalajara Chivas,1,2
-22.10. 01:00,Estudiantes L.P.,Botafogo RJ,2,0
-03.10. 02:45,Arsenal Sarandi,Estudiantes L.P.,0,0
-03.10. 00:15,River Plate,Defensor Sp.,2,1
-02.10. 03:00,Argentinos Jrs,Atl. San Luis,2,0
-02.10. 03:00,Botafogo RJ,America De Cali,3,1
-02.10. 03:00,Palmeiras,Sport Ancash,1,0
-02.10. 00:30,LDU Quito,Boca Juniors,1,1
-01.10. 22:00,Internacional,U. Catolica,0,0
-01.10. 02:45,Athletico-PR,Guadalajara Chivas,3,4
-26.09. 03:15,U. Catolica,Internacional,1,1
-26.09. 01:00,Defensor Sp.,River Plate,1,2
-24.09. 22:00,America De Cali,Botafogo RJ,1,0
-24.09. 22:00,Arsenal Sarandi,Estudiantes L.P.,1,2
-24.09. 22:00,Atl. San Luis,Argentinos Jrs,2,1
-24.09. 22:00,Guadalajara Chivas,Athletico-PR,2,2
-24.09. 22:00,Sport Ancash,Palmeiras,0,0
-24.09. 00:30,Boca Juniors,LDU Quito,4,0
-19.09. 02:10,Bolivar,LDU Quito,2,1
-18.09. 04:30,Guadalajara Chivas,Aragua,1,1
-18.09. 03:00,Palmeiras,Vasco,3,0
-18.09. 00:45,Olimpia Asuncion,U. Catolica,2,2
-18.09. 00:40,Dep. Quito,Atl. San Luis,3,2
-17.09. 03:15,Dep. Cali,America De Cali,1,0
-16.09. 21:30,Sport Ancash,Nublense,4,0
-05.09. 03:10,Motagua,Arsenal Sarandi,1,2
-05.09. 00:40,Nublense,Sport Ancash,1,0
-29.08. 02:50,U. Catolica,Olimpia Asuncion,4,0
-29.08. 00:20,Gremio,Internacional,2,2
-28.08. 04:00,Aragua,Guadalajara Chivas,1,2
-28.08. 03:00,Atletico-MG,Botafogo RJ,2,5
-28.08. 03:00Pen,Sao Paulo,Athletico-PR,0,1
-27.08. 04:30,Atl. San Luis,Dep. Quito,3,1
-27.08. 02:10,Libertad Asuncion,Defensor Sp.,3,3
-22.08. 02:30,San Lorenzo,Argentinos Jrs,0,2
-22.08. 00:00,Blooming,Olimpia Asuncion,1,0
-21.08. 02:10,Estudiantes L.P.,Independiente,2,1
-20.08. 02:30,Arsenal Sarandi,Motagua,4,0
-20.08. 00:10,Defensor Sp.,Libertad Asuncion,2,1
-15.08. 03:30,America De Cali,Dep. Cali,2,0
-15.08. 01:10,Botafogo RJ,Atletico-MG,3,1
-14.08. 23:00,LDU Quito,Bolivar,4,2
-14.08. 03:00,Internacional,Gremio,1,1
-14.08. 03:00,Vasco,Palmeiras,3,1
-13.08. 03:30,Olimpia Asuncion,Blooming,4,2
-13.08. 01:10,Athletico-PR,Sao Paulo,0,0
-08.08. 04:20,America De Cali,U. A. Maracaibo,4,2
-08.08. 02:00,U. Catolica,River Plate,4,0
-07.08. 01:15,Argentinos Jrs,San Lorenzo,0,0
-06.08. 02:30,Independiente,Estudiantes L.P.,2,1
-06.08. 00:00,Dep. Quito,U. de Deportes,2,1
-01.08. 02:15,U. A. Maracaibo,America De Cali,0,0
-31.07. 02:15,U. de Deportes,Dep. Quito,0,0
-30.07. 02:15,River Plate,U. Catolica,2,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1217376900,River Plate,U. Catolica,2,0,,,,0
+1217463300,U. de Deportes,Dep. Quito,0,0,,,,0
+1217549700,U. A. Maracaibo,America De Cali,0,0,,,,0
+1217973600,Dep. Quito,U. de Deportes,2,1,,,,0
+1217982600,Independiente,Estudiantes L.P.,2,1,,,,0
+1218064500,Argentinos Jrs,San Lorenzo,0,0,,,,0
+1218153600,U. Catolica,River Plate,4,0,,,,0
+1218162000,America De Cali,U. A. Maracaibo,4,2,,,,0
+1218582600,Athletico-PR,Sao Paulo,0,0,,,,0
+1218591000,Olimpia Asuncion,Blooming,4,2,,,,0
+1218675600,Vasco,Palmeiras,3,1,,,,0
+1218675600,Internacional,Gremio,1,1,,,,0
+1218747600,LDU Quito,Bolivar,4,2,,,,0
+1218755400,Botafogo RJ,Atletico-MG,3,1,,,,0
+1218763800,America De Cali,Dep. Cali,2,0,,,,0
+1219183800,Defensor Sp.,Libertad Asuncion,2,1,,,,0
+1219192200,Arsenal Sarandi,Motagua,4,0,,,,0
+1219277400,Estudiantes L.P.,Independiente,2,1,,,,0
+1219356000,Blooming,Olimpia Asuncion,1,0,,,,0
+1219365000,San Lorenzo,Argentinos Jrs,0,2,,,,0
+1219795800,Libertad Asuncion,Defensor Sp.,3,3,,,,0
+1219804200,Atl. San Luis,Dep. Quito,3,1,,,,0
+1219885200,Sao Paulo,Athletico-PR,0,0,Pen,0,1,0
+1219885200,Atletico-MG,Botafogo RJ,2,5,,,,0
+1219888800,Aragua,Guadalajara Chivas,1,2,,,,0
+1219962000,Gremio,Internacional,2,2,,,,0
+1219971000,U. Catolica,Olimpia Asuncion,4,0,,,,0
+1220568000,Nublense,Sport Ancash,1,0,,,,0
+1220577000,Motagua,Arsenal Sarandi,1,2,,,,0
+1221593400,Sport Ancash,Nublense,4,0,,,,0
+1221614100,Dep. Cali,America De Cali,1,0,,,,0
+1221691200,Dep. Quito,Atl. San Luis,3,2,,,,0
+1221691500,Olimpia Asuncion,U. Catolica,2,2,,,,0
+1221699600,Palmeiras,Vasco,3,0,,,,0
+1221705000,Guadalajara Chivas,Aragua,1,1,,,,0
+1221783000,Bolivar,LDU Quito,2,1,,,,0
+1222209000,Boca Juniors,LDU Quito,4,0,,,,0
+1222286400,Sport Ancash,Palmeiras,0,0,,,,0
+1222286400,Guadalajara Chivas,Athletico-PR,2,2,,,,0
+1222286400,Atl. San Luis,Argentinos Jrs,2,1,,,,0
+1222286400,Arsenal Sarandi,Estudiantes L.P.,1,2,,,,0
+1222286400,America De Cali,Botafogo RJ,1,0,,,,0
+1222383600,Defensor Sp.,River Plate,1,2,,,,0
+1222391700,U. Catolica,Internacional,1,1,,,,0
+1222821900,Athletico-PR,Guadalajara Chivas,3,4,,,,0
+1222891200,Internacional,U. Catolica,0,0,,,,0
+1222900200,LDU Quito,Boca Juniors,1,1,,,,0
+1222909200,Palmeiras,Sport Ancash,1,0,,,,0
+1222909200,Botafogo RJ,America De Cali,3,1,,,,0
+1222909200,Argentinos Jrs,Atl. San Luis,2,0,,,,0
+1222985700,River Plate,Defensor Sp.,2,1,,,,0
+1222994700,Arsenal Sarandi,Estudiantes L.P.,0,0,,,,0
+1224630000,Estudiantes L.P.,Botafogo RJ,2,0,,,,0
+1224711900,River Plate,Guadalajara Chivas,1,2,,,,0
+1224720000,Palmeiras,Argentinos Jrs,0,1,,,,0
+1224720000,Internacional,Boca Juniors,2,0,,,,0
+1225929000,Argentinos Jrs,Palmeiras,2,0,,,,0
+1225929600,Botafogo RJ,Estudiantes L.P.,2,2,,,,0
+1226012400,Boca Juniors,Internacional,1,2,,,,0
+1226021400,Guadalajara Chivas,River Plate,2,2,,,,0
+1226534400,Guadalajara Chivas,Internacional,0,2,,,,0
+1226618100,Argentinos Jrs,Estudiantes L.P.,1,1,,,,0
+1227139200,Internacional,Guadalajara Chivas,4,0,,,,0
+1227222900,Estudiantes L.P.,Argentinos Jrs,1,0,,,,0
+1227744000,Estudiantes L.P.,Internacional,0,1,,,,0
+1228348800,Internacional,Estudiantes L.P.,0,1,AET,1,1,0

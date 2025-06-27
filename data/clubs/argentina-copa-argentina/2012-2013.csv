@@ -1,56 +1,56 @@
-date,home_team,away_team,home_score,away_score
-17.10. 01:10,San Lorenzo,Arsenal Sarandi,0,3
-03.10. 01:10Pen,All Boys,Arsenal Sarandi,1,2
-19.09. 01:20Pen,CA Estudiantes,San Lorenzo,1,2
-29.08. 00:10,Arsenal Sarandi,Godoy Cruz,1,0
-15.08. 00:15,All Boys,Estudiantes L.P.,1,0
-14.08. 02:30,San Lorenzo,Gimnasia E.R.,2,0
-08.08. 00:10,Talleres Cordoba,CA Estudiantes,0,1
-24.07. 01:00,Estudiantes L.P.,Quilmes,2,1
-20.06. 01:30,All Boys,Boca Juniors,3,1
-19.06. 23:30,Atl. Rafaela,San Lorenzo,0,3
-19.06. 21:45,Talleres Cordoba,Newells Old Boys,1,0
-13.06. 02:15,Arsenal Sarandi,Independiente,1,0
-30.05. 01:00Pen,CA Estudiantes,Banfield,2,1
-23.05. 03:00,Godoy Cruz,Olimpo Bahia Blanca,3,2
-23.05. 01:00Pen,Independiente,Boca Unidos,2,1
-22.05. 01:00,Platense,Arsenal Sarandi,1,3
-15.05. 22:10Pen,Deportivo Moron,San Lorenzo,0,1
-14.05. 20:00Pen,Tristan Suarez,Gimnasia E.R.,0,1
-10.05. 02:30Pen,Sportivo Belgrano,Talleres Cordoba,1,2
-09.05. 02:00,Juventud Antoniana,Banfield,0,1
-03.05. 01:15,Estudiantes L.P.,Atl. Tucuman,2,1
-02.05. 20:45,Gimnasia E.R.,Defensores Unidos,3,0
-25.04. 03:30,River Plate,CA Estudiantes,0,1
-25.04. 01:15,Racing Club,Tristan Suarez,0,1
-24.04. 23:00,Central Cordoba,All Boys,0,2
-18.04. 03:00Pen,Olimpo Bahia Blanca,Velez Sarsfield,1,0
-18.04. 00:30Pen,Huracan,Godoy Cruz,0,1
-17.04. 22:00,Lanus,Atl. Rafaela,0,1
-28.03. 02:00Awrd,Union Villa Krause,Quilmes,0,3
-27.03. 23:00,Deportivo Armenio,Newells Old Boys,1,2
-26.03. 00:10Pen,Union de Santa Fe,Gimnasia E.R.,1,2
-23.03. 20:45,Arsenal Sarandi,Santamarina,2,0
-23.03. 18:00Pen,Argentinos Jrs,Sportivo Belgrano,0,1
-22.03. 02:15,Tigre,Juventud Antoniana,0,1
-22.03. 00:10,Excursionistas,Boca Juniors,0,4
-21.03. 21:00,Lanus,UAI Urquiza,1,0
-20.03. 23:00Pen,Tristan Suarez,Patronato,3,2
-14.03. 21:00Pen,Ferro,Defensores Unidos,0,1
-14.03. 01:00,Banfield,Central Norte,2,1
-14.03. 01:00,Boca Unidos,Brown De Posadas,1,0
-14.03. 00:20,Belgrano,Talleres Cordoba,0,1
-12.03. 21:00Pen,Almirante Brown,Deportivo Armenio,0,1
-07.03. 00:15,Deportivo Moron,Instituto,2,1
-06.03. 22:00,Atl. Tucuman,San Martin T.,3,1
-06.03. 21:00Pen,Excursionistas,Gimnasia L.P.,1,0
-06.03. 21:00,Huracan,Racing Olavarria,5,1
-06.03. 00:10,Quilmes,Midland,3,1
-21.02. 21:00,Olimpo Bahia Blanca,Guillermo Brown,2,1
-21.02. 01:00,Colon Santa Fe,Platense,1,2
-20.02. 22:00,Rosario Central,Central Cordoba,1,2
-20.02. 21:00,Defensa y Justicia,CA Estudiantes,0,3
-20.02. 01:00Pen,Godoy Cruz,Chacarita Juniors,1,0
-14.02. 02:00,All Boys,Brown Adrogue,4,1
-13.02. 23:30,Atl. Rafaela,Alvarado,2,1
-13.02. 01:00Pen,San Martin S.J.,Union Villa Krause,0,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1329091200,San Martin S.J.,Union Villa Krause,0,0,Pen,0,1,0
+1329172200,Atl. Rafaela,Alvarado,2,1,,,,0
+1329181200,All Boys,Brown Adrogue,4,1,,,,0
+1329696000,Godoy Cruz,Chacarita Juniors,0,0,Pen,1,0,0
+1329768000,Defensa y Justicia,CA Estudiantes,0,3,,,,0
+1329771600,Rosario Central,Central Cordoba,1,2,,,,0
+1329782400,Colon Santa Fe,Platense,1,2,,,,0
+1329854400,Olimpo Bahia Blanca,Guillermo Brown,2,1,,,,0
+1330989000,Quilmes,Midland,3,1,,,,0
+1331064000,Huracan,Racing Olavarria,5,1,,,,0
+1331064000,Excursionistas,Gimnasia L.P.,0,0,Pen,1,0,0
+1331067600,Atl. Tucuman,San Martin T.,3,1,,,,0
+1331075700,Deportivo Moron,Instituto,2,1,,,,0
+1331582400,Almirante Brown,Deportivo Armenio,0,0,Pen,0,1,0
+1331680800,Belgrano,Talleres Cordoba,0,1,,,,0
+1331683200,Boca Unidos,Brown De Posadas,1,0,,,,0
+1331683200,Banfield,Central Norte,2,1,,,,0
+1331755200,Ferro,Defensores Unidos,0,0,Pen,0,1,0
+1332280800,Tristan Suarez,Patronato,2,2,Pen,3,2,0
+1332360000,Lanus,UAI Urquiza,1,0,,,,0
+1332371400,Excursionistas,Boca Juniors,0,4,,,,0
+1332378900,Tigre,Juventud Antoniana,0,1,,,,0
+1332522000,Argentinos Jrs,Sportivo Belgrano,0,0,Pen,0,1,0
+1332531900,Arsenal Sarandi,Santamarina,2,0,,,,0
+1332713400,Union de Santa Fe,Gimnasia E.R.,1,1,Pen,1,2,0
+1332882000,Deportivo Armenio,Newells Old Boys,1,2,,,,0
+1332892800,Union Villa Krause,Quilmes,0,3,Awrd,,,0
+1334692800,Lanus,Atl. Rafaela,0,1,,,,0
+1334701800,Huracan,Godoy Cruz,0,0,Pen,0,1,0
+1334710800,Olimpo Bahia Blanca,Velez Sarsfield,0,0,Pen,1,0,0
+1335301200,Central Cordoba,All Boys,0,2,,,,0
+1335309300,Racing Club,Tristan Suarez,0,1,,,,0
+1335317400,River Plate,CA Estudiantes,0,1,,,,0
+1335984300,Gimnasia E.R.,Defensores Unidos,3,0,,,,0
+1336000500,Estudiantes L.P.,Atl. Tucuman,2,1,,,,0
+1336521600,Juventud Antoniana,Banfield,0,1,,,,0
+1336609800,Sportivo Belgrano,Talleres Cordoba,1,1,Pen,1,2,0
+1337018400,Tristan Suarez,Gimnasia E.R.,0,0,Pen,0,1,0
+1337112600,Deportivo Moron,San Lorenzo,0,0,Pen,0,1,0
+1337641200,Platense,Arsenal Sarandi,1,3,,,,0
+1337727600,Independiente,Boca Unidos,1,1,Pen,2,1,0
+1337734800,Godoy Cruz,Olimpo Bahia Blanca,3,2,,,,0
+1338332400,CA Estudiantes,Banfield,1,1,Pen,2,1,0
+1339546500,Arsenal Sarandi,Independiente,1,0,,,,0
+1340135100,Talleres Cordoba,Newells Old Boys,1,0,,,,0
+1340141400,Atl. Rafaela,San Lorenzo,0,3,,,,0
+1340148600,All Boys,Boca Juniors,3,1,,,,0
+1343084400,Estudiantes L.P.,Quilmes,2,1,,,,0
+1344377400,Talleres Cordoba,CA Estudiantes,0,1,,,,0
+1344904200,San Lorenzo,Gimnasia E.R.,2,0,,,,0
+1344982500,All Boys,Estudiantes L.P.,1,0,,,,0
+1346191800,Arsenal Sarandi,Godoy Cruz,1,0,,,,0
+1348010400,CA Estudiantes,San Lorenzo,1,1,Pen,1,2,0
+1349219400,All Boys,Arsenal Sarandi,1,1,Pen,1,2,0
+1350429000,San Lorenzo,Arsenal Sarandi,0,3,,,,0

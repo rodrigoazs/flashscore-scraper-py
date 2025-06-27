@@ -1,24 +1,24 @@
-date,home_team,away_team,home_score,away_score
-19.11. 02:15Pen,Santa Fe,Dep. Pasto,3,1
-05.11. 02:15Pen,Santa Fe,Atl. Nacional,4,2
-04.11. 21:30,Junior,Dep. Pasto,1,2
-29.10. 02:30,Dep. Pasto,Junior,3,1
-29.10. 02:00,Atl. Nacional,Santa Fe,2,1
-24.09. 03:00,Bucaramanga,Atl. Nacional,1,0
-24.09. 03:00Pen,Junior,Quindio,3,2
-24.09. 03:00,Santa Fe,Dep. Pasto,2,1
-17.09. 03:30,Dep. Pasto,Santa Fe,3,1
-17.09. 03:00,Atl. Nacional,Bucaramanga,2,0
-17.09. 02:30,Quindio,Junior,0,0
-09.09. 03:00Pen,Ind. Medellin,Junior,1,1
-03.09. 02:30,Atl. La Sabana,Atl. Nacional,1,3
-03.09. 02:30,Millonarios,Bucaramanga,0,1
-02.09. 22:30Pen,Cucuta,Santa Fe,5,2
-02.09. 22:30Pen,Huila,Dep. Pasto,2,2
-02.09. 22:30,Quindio,Tigres,3,0
-27.08. 03:30,Bucaramanga,Millonarios,3,1
-27.08. 03:00,Dep. Pasto,Huila,1,0
-27.08. 02:30,Atl. Nacional,Atl. La Sabana,4,1
-27.08. 02:30,Santa Fe,Cucuta,4,0
-26.08. 22:30,Junior,Ind. Medellin,2,1
-26.08. 22:30,Tigres,Quindio,0,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1251318600,Tigres,Quindio,0,0,,,,0
+1251318600,Junior,Ind. Medellin,2,1,,,,0
+1251333000,Santa Fe,Cucuta,4,0,,,,0
+1251333000,Atl. Nacional,Atl. La Sabana,4,1,,,,0
+1251334800,Dep. Pasto,Huila,1,0,,,,0
+1251336600,Bucaramanga,Millonarios,3,1,,,,0
+1251923400,Quindio,Tigres,3,0,,,,0
+1251923400,Huila,Dep. Pasto,2,1,Pen,2,2,0
+1251923400,Cucuta,Santa Fe,5,1,Pen,5,2,0
+1251937800,Millonarios,Bucaramanga,0,1,,,,0
+1251937800,Atl. La Sabana,Atl. Nacional,1,3,,,,0
+1252458000,Ind. Medellin,Junior,1,0,Pen,1,1,0
+1253147400,Quindio,Junior,0,0,,,,0
+1253149200,Atl. Nacional,Bucaramanga,2,0,,,,0
+1253151000,Dep. Pasto,Santa Fe,3,1,,,,0
+1253754000,Santa Fe,Dep. Pasto,2,1,,,,0
+1253754000,Junior,Quindio,2,2,Pen,3,2,0
+1253754000,Bucaramanga,Atl. Nacional,1,0,,,,0
+1256778000,Atl. Nacional,Santa Fe,2,1,,,,0
+1256779800,Dep. Pasto,Junior,3,1,,,,0
+1257366600,Junior,Dep. Pasto,1,2,,,,0
+1257383700,Santa Fe,Atl. Nacional,3,2,Pen,4,2,0
+1258593300,Santa Fe,Dep. Pasto,2,1,Pen,3,1,0

@@ -1,7 +1,7 @@
-date,home_team,away_team,home_score,away_score
-10.02. 00:00,Portmore (Jam),Arcahaie (Hai),0,1
-07.02. 21:00,Atletico Pantoja (Dom),Arcahaie (Hai),2,0
-06.02. 01:00,Portmore (Jam),Atletico Pantoja (Dom),0,4
-03.02. 00:00,Waterhouse (Jam),Don Bosco (Hai),3,0
-31.01. 21:00,Cibao (Dom),Don Bosco (Hai),1,1
-30.01. 01:00,Waterhouse (Jam),Cibao (Dom),0,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1580342400,Waterhouse (Jam),Cibao (Dom),0,0,,,,0
+1580500800,Cibao (Dom),Don Bosco (Hai),1,1,,,,0
+1580684400,Waterhouse (Jam),Don Bosco (Hai),3,0,,,,0
+1580947200,Portmore (Jam),Atletico Pantoja (Dom),0,4,,,,0
+1581105600,Atletico Pantoja (Dom),Arcahaie (Hai),2,0,,,,0
+1581289200,Portmore (Jam),Arcahaie (Hai),0,1,,,,0

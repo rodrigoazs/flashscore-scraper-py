@@ -1,40 +1,40 @@
-date,home_team,away_team,home_score,away_score
-27.09. 20:00,Chicago Fire,Los Angeles Galaxy,3,1
-06.09. 20:00,Chicago Fire,DC United,3,0
-06.09. 20:00,Los Angeles Galaxy,Houston Dynamo,3,1
-23.08. 20:00,Chicago Fire,New England Revolution,2,1
-23.08. 20:00,DC United,New York Red Bulls,3,1
-23.08. 20:00,Houston Dynamo,FC Dallas,3,0
-23.08. 20:00,Los Angeles Galaxy,Colorado Rapids,3,1
-02.08. 20:00,Charleston,FC Dallas,3,3
-02.08. 20:00,Chicago Fire,Sporting Kansas City,2,0
-02.08. 20:00,Columbus Crew,DC United,1,2
-02.08. 20:00,Houston Dynamo,North Carolina Fusion U23,4,2
-02.08. 20:00,Real Salt Lake,Colorado Rapids,0,1
-02.08. 20:00,Rochester New York,New England Revolution,0,0
-02.08. 20:00,Wilmington Hammerheads,New York Red Bulls,1,2
-01.08. 20:00,Los Angeles Galaxy,Dallas Roma,2,0
-12.07. 20:00,Charleston,Portland Timbers,3,1
-12.07. 20:00,Chivas USA,Dallas Roma,0,0
-12.07. 20:00,Michigan Bucks,Columbus Crew,1,4
-12.07. 20:00,North Carolina Fusion U23,Seattle Sounders,3,2
-12.07. 20:00,Rochester New York,New Hampshire,5,1
-12.07. 20:00,Sporting Kansas City,Menace,2,1
-12.07. 20:00,Wilmington Hammerheads,Atlanta SC,2,1
-11.07. 20:00,Real Salt Lake,Virginia,1,2
-28.06. 20:00,Arizona FC,Virginia,0,1
-28.06. 20:00,Charleston,Sonoma County,1,0
-28.06. 20:00,Dallas Roma,Fort Lauderdale Strikers,1,0
-28.06. 20:00,Michigan Bucks,Cincinnati Riverhawks,2,1
-28.06. 20:00,Minnesota United,Menace,0,1
-28.06. 20:00,New Hampshire,Milford,4,1
-28.06. 20:00,Richmond Kickers,North Carolina Fusion U23,0,1
-28.06. 20:00,Wilmington Hammerheads,Charlotte Eagles,3,1
-15.06. 20:00,Arizona FC,BYU Cougars,5,1
-15.06. 20:00,Chicago Lightning,Milford,0,1
-15.06. 20:00,Laredo Heat,Dallas Roma,2,2
-15.06. 20:00,Menace,FC Dallas,3,2
-15.06. 20:00,Michigan Bucks,Pittsburgh,2,0
-15.06. 20:00,North Carolina Fusion U23,Cape Cod,4,3
-15.06. 20:00,Sonoma County,Ogden,1,1
-15.06. 20:00,Wilmington Hammerheads,Virginia,3,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1150394400,Wilmington Hammerheads,Virginia,3,1,,,,0
+1150394400,Sonoma County,Ogden,1,1,,,,0
+1150394400,North Carolina Fusion U23,Cape Cod,4,3,,,,0
+1150394400,Michigan Bucks,Pittsburgh,2,0,,,,0
+1150394400,Menace,FC Dallas,3,2,,,,0
+1150394400,Laredo Heat,Dallas Roma,2,2,,,,0
+1150394400,Chicago Lightning,Milford,0,1,,,,0
+1150394400,Arizona FC,BYU Cougars,5,1,,,,0
+1151517600,Wilmington Hammerheads,Charlotte Eagles,3,1,,,,0
+1151517600,Richmond Kickers,North Carolina Fusion U23,0,1,,,,0
+1151517600,New Hampshire,Milford,4,1,,,,0
+1151517600,Minnesota United,Menace,0,1,,,,0
+1151517600,Michigan Bucks,Cincinnati Riverhawks,2,1,,,,0
+1151517600,Dallas Roma,Fort Lauderdale Strikers,1,0,,,,0
+1151517600,Charleston,Sonoma County,1,0,,,,0
+1151517600,Arizona FC,Virginia,0,1,,,,0
+1152640800,Real Salt Lake,Virginia,1,2,,,,0
+1152727200,Wilmington Hammerheads,Atlanta SC,2,1,,,,0
+1152727200,Sporting Kansas City,Menace,2,1,,,,0
+1152727200,Rochester New York,New Hampshire,5,1,,,,0
+1152727200,North Carolina Fusion U23,Seattle Sounders,3,2,,,,0
+1152727200,Michigan Bucks,Columbus Crew,1,4,,,,0
+1152727200,Chivas USA,Dallas Roma,0,0,,,,0
+1152727200,Charleston,Portland Timbers,3,1,,,,0
+1154455200,Los Angeles Galaxy,Dallas Roma,2,0,,,,0
+1154541600,Wilmington Hammerheads,New York Red Bulls,1,2,,,,0
+1154541600,Rochester New York,New England Revolution,0,0,,,,0
+1154541600,Real Salt Lake,Colorado Rapids,0,1,,,,0
+1154541600,Houston Dynamo,North Carolina Fusion U23,4,2,,,,0
+1154541600,Columbus Crew,DC United,1,2,,,,0
+1154541600,Chicago Fire,Sporting Kansas City,2,0,,,,0
+1154541600,Charleston,FC Dallas,3,3,,,,0
+1156356000,Los Angeles Galaxy,Colorado Rapids,3,1,,,,0
+1156356000,Houston Dynamo,FC Dallas,3,0,,,,0
+1156356000,DC United,New York Red Bulls,3,1,,,,0
+1156356000,Chicago Fire,New England Revolution,2,1,,,,0
+1157565600,Los Angeles Galaxy,Houston Dynamo,3,1,,,,0
+1157565600,Chicago Fire,DC United,3,0,,,,0
+1159380000,Chicago Fire,Los Angeles Galaxy,3,1,,,,0

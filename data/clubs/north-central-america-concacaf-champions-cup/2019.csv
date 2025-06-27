@@ -1,31 +1,31 @@
-date,home_team,away_team,home_score,away_score
-02.05. 04:00,Monterrey,Tigres UANL,1,1
-24.04. 04:00,Tigres UANL,Monterrey,0,1
-12.04. 03:00,Sporting Kansas City,Monterrey,2,5
-11.04. 02:00,Santos Laguna,Tigres UANL,3,2
-05.04. 04:00,Monterrey,Sporting Kansas City,5,0
-04.04. 04:00,Tigres UANL,Santos Laguna,3,0
-15.03. 01:00,Sporting Kansas City,Independiente,3,0
-14.03. 01:00,Atlanta Utd,Monterrey,1,0
-13.03. 04:00,Tigres UANL,Houston Dynamo,1,0
-13.03. 02:00,Santos Laguna,New York Red Bulls,4,2
-07.03. 04:00,Monterrey,Atlanta Utd,3,0
-07.03. 02:00,Independiente,Sporting Kansas City,2,1
-06.03. 04:00,Houston Dynamo,Tigres UANL,0,2
-06.03. 02:00,New York Red Bulls,Santos Laguna,0,2
-01.03. 04:00,Toluca,Sporting Kansas City,0,2
-01.03. 02:00,Atlanta Utd,Herediano,4,0
-28.02. 04:00,Monterrey,Alianza FC,1,0
-28.02. 02:00,New York Red Bulls,Atletico Pantoja,3,0
-28.02. 02:00,Santos Laguna,Marathon,5,0
-27.02. 04:00,Tigres UANL,Saprissa,5,1
-27.02. 02:00,Houston Dynamo,Guastatoya,2,1
-27.02. 02:00,Toronto FC,Independiente,1,1
-22.02. 04:00,Herediano,Atlanta Utd,3,1
-22.02. 02:00,Sporting Kansas City,Toluca,3,0
-21.02. 04:00,Alianza FC,Monterrey,0,0
-21.02. 02:00,Atletico Pantoja,New York Red Bulls,0,2
-21.02. 02:00,Marathon,Santos Laguna,2,6
-20.02. 04:00,Guastatoya,Houston Dynamo,0,1
-20.02. 02:00,Independiente,Toronto FC,4,0
-20.02. 02:00,Saprissa,Tigres UANL,1,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1550624400,Saprissa,Tigres UANL,1,0,,,,0
+1550624400,Independiente,Toronto FC,4,0,,,,0
+1550631600,Guastatoya,Houston Dynamo,0,1,,,,0
+1550710800,Marathon,Santos Laguna,2,6,,,,0
+1550710800,Atletico Pantoja,New York Red Bulls,0,2,,,,0
+1550718000,Alianza FC,Monterrey,0,0,,,,0
+1550797200,Sporting Kansas City,Toluca,3,0,,,,0
+1550804400,Herediano,Atlanta Utd,3,1,,,,0
+1551229200,Toronto FC,Independiente,1,1,,,,0
+1551229200,Houston Dynamo,Guastatoya,2,1,,,,0
+1551236400,Tigres UANL,Saprissa,5,1,,,,0
+1551315600,Santos Laguna,Marathon,5,0,,,,0
+1551315600,New York Red Bulls,Atletico Pantoja,3,0,,,,0
+1551322800,Monterrey,Alianza FC,1,0,,,,0
+1551402000,Atlanta Utd,Herediano,4,0,,,,0
+1551409200,Toluca,Sporting Kansas City,0,2,,,,0
+1551834000,New York Red Bulls,Santos Laguna,0,2,,,,0
+1551841200,Houston Dynamo,Tigres UANL,0,2,,,,0
+1551920400,Independiente,Sporting Kansas City,2,1,,,,0
+1551927600,Monterrey,Atlanta Utd,3,0,,,,0
+1552438800,Santos Laguna,New York Red Bulls,4,2,,,,0
+1552446000,Tigres UANL,Houston Dynamo,1,0,,,,0
+1552521600,Atlanta Utd,Monterrey,1,0,,,,0
+1552608000,Sporting Kansas City,Independiente,3,0,,,,0
+1554343200,Tigres UANL,Santos Laguna,3,0,,,,0
+1554429600,Monterrey,Sporting Kansas City,5,0,,,,0
+1554940800,Santos Laguna,Tigres UANL,3,2,,,,0
+1555030800,Sporting Kansas City,Monterrey,2,5,,,,0
+1556071200,Tigres UANL,Monterrey,0,1,,,,0
+1556762400,Monterrey,Tigres UANL,1,1,,,,0

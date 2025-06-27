@@ -1,67 +1,67 @@
-date,home_team,away_team,home_score,away_score
-06.12. 01:30,Arsenal Sarandi,Club America,1,2
-01.12. 02:15,Club America,Arsenal Sarandi,2,3
-15.11. 00:15Pen,River Plate,Arsenal Sarandi,0,1
-14.11. 03:15,Club America,Millonarios,2,0
-09.11. 00:30,Arsenal Sarandi,River Plate,0,0
-08.11. 02:15,Millonarios,Club America,2,3
-31.10. 01:15,River Plate,Defensor Sp.,0,0
-26.10. 03:30,Guadalajara Chivas,Arsenal Sarandi,1,3
-26.10. 01:00,Defensor Sp.,River Plate,2,2
-25.10. 01:50,Millonarios,Sao Paulo,2,0
-25.10. 01:50,Vasco,Club America,1,0
-10.10. 23:55,Arsenal Sarandi,Guadalajara Chivas,0,0
-10.10. 23:55,Club America,Vasco,2,0
-10.10. 23:55,Sao Paulo,Millonarios,0,1
-04.10. 23:55Pen,Colo Colo,Millonarios,1,2
-04.10. 23:55,EL Nacional,Defensor Sp.,2,0
-03.10. 23:55,Club America,Pachuca,0,2
-02.10. 23:55,Guadalajara Chivas,DC United,1,0
-27.09. 23:55,River Plate,Botafogo RJ,4,2
-26.09. 23:55,Arsenal Sarandi,Goias,1,1
-26.09. 23:55,DC United,Guadalajara Chivas,2,1
-26.09. 23:55,Sao Paulo,Boca Juniors,1,0
-26.09. 23:55,Vasco,Lanus,3,0
-25.09. 23:55,Millonarios,Colo Colo,1,1
-25.09. 23:55,Pachuca,Club America,1,4
-20.09. 23:55,Defensor Sp.,EL Nacional,3,0
-19.09. 23:55,Boca Juniors,Sao Paulo,2,1
-19.09. 23:55,Botafogo RJ,River Plate,1,0
-19.09. 23:55,Lanus,Vasco,2,0
-19.09. 21:15,Goias,Arsenal Sarandi,2,3
-13.09. 23:55,Defensor Sp.,Tacuary,3,0
-13.09. 23:55,Millonarios,Atl. Nacional,0,0
-12.09. 23:55,Corinthians,Botafogo RJ,1,2
-12.09. 23:55,Vasco,Athletico-PR,2,0
-11.09. 23:55,Olmedo,EL Nacional,0,1
-06.09. 23:55,San Lorenzo,Arsenal Sarandi,0,3
-05.09. 23:55,Atl. Nacional,Millonarios,2,3
-05.09. 23:55,Estudiantes L.P.,Lanus,2,1
-04.09. 23:55,A. Italiano,Colo Colo,1,1
-04.09. 23:55,EL Nacional,Olmedo,2,0
-30.08. 23:55,Atl. Nacional,U. de Deportes,1,0
-30.08. 23:55,Tacuary,Defensor Sp.,1,1
-28.08. 23:55,Colo Colo,A. Italiano,0,0
-28.08. 23:55,EL Nacional,Carabobo,4,0
-23.08. 23:55,Coronel,Millonarios,0,1
-23.08. 23:55,Sao Paulo,Figueirense,1,1
-22.08. 23:55,Botafogo RJ,Corinthians,3,1
-22.08. 23:55,Cruzeiro,Goias,1,0
-21.08. 23:55,Libertad Asuncion,Defensor Sp.,2,2
-21.08. 23:55,Zamora,Olmedo,1,2
-16.08. 23:55,Carabobo,EL Nacional,0,1
-16.08. 23:55,Goias,Cruzeiro,2,0
-15.08. 23:55,Athletico-PR,Vasco,2,4
-15.08. 23:55Pen,Danubio,Tacuary,1,2
-15.08. 23:55,Figueirense,Sao Paulo,2,2
-14.08. 23:55,Arsenal Sarandi,San Lorenzo,1,1
-09.08. 23:55,Colo Colo,Real Potosi,3,1
-09.08. 23:55,U. de Deportes,Atl. Nacional,0,1
-08.08. 23:55,Lanus,Estudiantes L.P.,2,0
-07.08. 23:55,Defensor Sp.,Libertad Asuncion,2,1
-07.08. 23:55,Wilstermann,A. Italiano,1,1
-02.08. 23:55,Millonarios,Coronel,0,1
-02.08. 23:55,Real Potosi,Colo Colo,1,1
-01.08. 23:55,Olmedo,Zamora,1,0
-01.08. 23:55,Tacuary,Danubio,1,1
-31.07. 23:55,A. Italiano,Wilstermann,2,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1185918900,A. Italiano,Wilstermann,2,0,,,,0
+1186005300,Tacuary,Danubio,1,1,,,,0
+1186005300,Olmedo,Zamora,1,0,,,,0
+1186091700,Real Potosi,Colo Colo,1,1,,,,0
+1186091700,Millonarios,Coronel,0,1,,,,0
+1186523700,Wilstermann,A. Italiano,1,1,,,,0
+1186523700,Defensor Sp.,Libertad Asuncion,2,1,,,,0
+1186610100,Lanus,Estudiantes L.P.,2,0,,,,0
+1186696500,U. de Deportes,Atl. Nacional,0,1,,,,0
+1186696500,Colo Colo,Real Potosi,3,1,,,,0
+1187128500,Arsenal Sarandi,San Lorenzo,1,1,,,,0
+1187214900,Figueirense,Sao Paulo,2,2,,,,0
+1187214900,Danubio,Tacuary,1,1,Pen,1,2,0
+1187214900,Athletico-PR,Vasco,2,4,,,,0
+1187301300,Goias,Cruzeiro,2,0,,,,0
+1187301300,Carabobo,EL Nacional,0,1,,,,0
+1187733300,Zamora,Olmedo,1,2,,,,0
+1187733300,Libertad Asuncion,Defensor Sp.,2,2,,,,0
+1187819700,Cruzeiro,Goias,1,0,,,,0
+1187819700,Botafogo RJ,Corinthians,3,1,,,,0
+1187906100,Sao Paulo,Figueirense,1,1,,,,0
+1187906100,Coronel,Millonarios,0,1,,,,0
+1188338100,EL Nacional,Carabobo,4,0,,,,0
+1188338100,Colo Colo,A. Italiano,0,0,,,,0
+1188510900,Tacuary,Defensor Sp.,1,1,,,,0
+1188510900,Atl. Nacional,U. de Deportes,1,0,,,,0
+1188942900,EL Nacional,Olmedo,2,0,,,,0
+1188942900,A. Italiano,Colo Colo,1,1,,,,0
+1189029300,Estudiantes L.P.,Lanus,2,1,,,,0
+1189029300,Atl. Nacional,Millonarios,2,3,,,,0
+1189115700,San Lorenzo,Arsenal Sarandi,0,3,,,,0
+1189547700,Olmedo,EL Nacional,0,1,,,,0
+1189634100,Vasco,Athletico-PR,2,0,,,,0
+1189634100,Corinthians,Botafogo RJ,1,2,,,,0
+1189720500,Millonarios,Atl. Nacional,0,0,,,,0
+1189720500,Defensor Sp.,Tacuary,3,0,,,,0
+1190229300,Goias,Arsenal Sarandi,2,3,,,,0
+1190238900,Lanus,Vasco,2,0,,,,0
+1190238900,Botafogo RJ,River Plate,1,0,,,,0
+1190238900,Boca Juniors,Sao Paulo,2,1,,,,0
+1190325300,Defensor Sp.,EL Nacional,3,0,,,,0
+1190757300,Pachuca,Club America,1,4,,,,0
+1190757300,Millonarios,Colo Colo,1,1,,,,0
+1190843700,Vasco,Lanus,3,0,,,,0
+1190843700,Sao Paulo,Boca Juniors,1,0,,,,0
+1190843700,DC United,Guadalajara Chivas,2,1,,,,0
+1190843700,Arsenal Sarandi,Goias,1,1,,,,0
+1190930100,River Plate,Botafogo RJ,4,2,,,,0
+1191362100,Guadalajara Chivas,DC United,1,0,,,,0
+1191448500,Club America,Pachuca,0,2,,,,0
+1191534900,EL Nacional,Defensor Sp.,2,0,,,,0
+1191534900,Colo Colo,Millonarios,1,1,Pen,1,2,0
+1192053300,Sao Paulo,Millonarios,0,1,,,,0
+1192053300,Club America,Vasco,2,0,,,,0
+1192053300,Arsenal Sarandi,Guadalajara Chivas,0,0,,,,0
+1193269800,Vasco,Club America,1,0,,,,0
+1193269800,Millonarios,Sao Paulo,2,0,,,,0
+1193353200,Defensor Sp.,River Plate,2,2,,,,0
+1193362200,Guadalajara Chivas,Arsenal Sarandi,1,3,,,,0
+1193789700,River Plate,Defensor Sp.,0,0,,,,0
+1194484500,Millonarios,Club America,2,3,,,,0
+1194564600,Arsenal Sarandi,River Plate,0,0,,,,0
+1195006500,Club America,Millonarios,2,0,,,,0
+1195082100,River Plate,Arsenal Sarandi,0,0,Pen,0,1,0
+1196471700,Club America,Arsenal Sarandi,2,3,,,,0
+1196901000,Arsenal Sarandi,Club America,1,2,,,,0

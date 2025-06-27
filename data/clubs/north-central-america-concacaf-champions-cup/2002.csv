@@ -1,30 +1,30 @@
-date,home_team,away_team,home_score,away_score
-18.09. 02:00,Atl. Morelia,Pachuca,0,1
-28.08. 02:00,Pachuca,Alajuelense,2,0
-28.08. 02:00,Sporting Kansas City,Atl. Morelia,1,1
-07.08. 02:00,Alajuelense,Pachuca,2,1
-07.08. 02:00,Atl. Morelia,Sporting Kansas City,6,1
-10.07. 02:00,Chicago Fire,Atl. Morelia,2,1
-30.06. 02:00,Atl. Morelia,Chicago Fire,2,0
-24.04. 02:00,Alajuelense,Comunicaciones,0,3
-24.04. 02:00,San Jose Earthquakes,Pachuca,1,0
-24.04. 02:00,Sporting Kansas City,Santos Laguna,2,0
-17.04. 02:00,Pachuca,San Jose Earthquakes,3,0
-14.04. 02:00,Comunicaciones,Alajuelense,2,3
-10.04. 02:00,Santos Laguna,Sporting Kansas City,2,1
-27.03. 02:00,Pachuca,Defence Force,4,0
-27.03. 02:00,Santos Laguna,Tauro,4,2
-24.03. 02:00,Chicago Fire,Municipal,2,0
-20.03. 02:00,Saprissa,Atl. Morelia,1,1
-16.03. 02:00,Municipal,Chicago Fire,0,1
-16.03. 02:00,San Jose Earthquakes,Olimpia,3,1
-16.03. 02:00,Sporting Kansas City,W Connection,2,0
-14.03. 02:00,Tauro,Santos Laguna,1,1
-13.03. 02:00,DC United,Comunicaciones,2,1
-13.03. 02:00,Defence Force,Pachuca,1,0
-13.03. 02:00,Olimpia,San Jose Earthquakes,0,1
-06.03. 02:00,Atl. Morelia,Saprissa,2,0
-06.03. 02:00,Club America,Alajuelense,0,2
-03.03. 02:00,Comunicaciones,DC United,4,0
-03.03. 02:00,W Connection,Sporting Kansas City,0,1
-13.02. 02:00,Alajuelense,Club America,1,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1013562000,Alajuelense,Club America,1,0,,,,0
+1015117200,W Connection,Sporting Kansas City,0,1,,,,0
+1015117200,Comunicaciones,DC United,4,0,,,,0
+1015376400,Club America,Alajuelense,0,2,,,,0
+1015376400,Atl. Morelia,Saprissa,2,0,,,,0
+1015981200,Olimpia,San Jose Earthquakes,0,1,,,,0
+1015981200,Defence Force,Pachuca,1,0,,,,0
+1015981200,DC United,Comunicaciones,2,1,,,,0
+1016067600,Tauro,Santos Laguna,1,1,,,,0
+1016240400,Sporting Kansas City,W Connection,2,0,,,,0
+1016240400,San Jose Earthquakes,Olimpia,3,1,,,,0
+1016240400,Municipal,Chicago Fire,0,1,,,,0
+1016586000,Saprissa,Atl. Morelia,1,1,,,,0
+1016931600,Chicago Fire,Municipal,2,0,,,,0
+1017190800,Santos Laguna,Tauro,4,2,,,,0
+1017190800,Pachuca,Defence Force,4,0,,,,0
+1018396800,Santos Laguna,Sporting Kansas City,2,1,,,,0
+1018742400,Comunicaciones,Alajuelense,2,3,,,,0
+1019001600,Pachuca,San Jose Earthquakes,3,0,,,,0
+1019606400,Sporting Kansas City,Santos Laguna,2,0,,,,0
+1019606400,San Jose Earthquakes,Pachuca,1,0,,,,0
+1019606400,Alajuelense,Comunicaciones,0,3,,,,0
+1025395200,Atl. Morelia,Chicago Fire,2,0,,,,0
+1026259200,Chicago Fire,Atl. Morelia,2,1,,,,0
+1028678400,Atl. Morelia,Sporting Kansas City,6,1,,,,0
+1028678400,Alajuelense,Pachuca,2,1,,,,0
+1030492800,Sporting Kansas City,Atl. Morelia,1,1,,,,0
+1030492800,Pachuca,Alajuelense,2,0,,,,0
+1032307200,Atl. Morelia,Pachuca,0,1,,,,0

@@ -1,58 +1,58 @@
-date,home_team,away_team,home_score,away_score
-15.12. 00:00,Colo Colo,Everton,4,0
-01.12. 00:30,A. Italiano,Everton,0,1
-01.12. 00:00,Colo Colo,U. Catolica,2,0
-24.11. 00:30,Everton,A. Italiano,3,2
-24.11. 00:00,U. Catolica,Colo Colo,0,1
-15.11. 00:30,Everton,U. Espanola,0,0
-11.11. 00:30,U. Espanola,Everton,1,2
-04.11. 00:30,Everton,Palestino,1,1
-27.10. 00:30,Colo Colo,Cobreloa,3,1
-26.10. 01:00Pen,A. Italiano,San Luis,2,3
-25.10. 01:30,U. De Chile,U. Catolica,3,3
-21.10. 01:00,Cobreloa,Colo Colo,1,2
-20.10. 01:30,U. Catolica,U. De Chile,2,0
-19.10. 01:00,San Luis,A. Italiano,2,4
-09.10. 00:00,San Luis,U. De Concepcion,1,0
-07.10. 21:00,Palestino,Everton,0,1
-29.09. 01:00Pen,U. De Chile,Deportes Iquique,3,2
-29.09. 00:00,La Serena,Cobreloa,0,0
-28.09. 22:30,Deportes Temuco,U. Catolica,1,2
-28.09. 21:00,Copiapo,A. Italiano,2,2
-28.09. 01:00,Colo Colo,Huachipato,3,1
-22.09. 02:00,U. Catolica,Deportes Temuco,2,1
-22.09. 00:30,U. De Concepcion,San Luis,0,1
-21.09. 23:30,O'Higgins,U. Espanola,1,2
-21.09. 21:00,Deportes Iquique,U. De Chile,1,1
-16.09. 20:00,Huachipato,Colo Colo,2,1
-16.09. 01:30,A. Italiano,Copiapo,3,1
-16.09. 01:00,Cobreloa,La Serena,3,0
-15.09. 23:30,U. Espanola,O'Higgins,4,0
-21.07. 01:30,Everton,San Felipe,3,0
-17.07. 23:30,Colo Colo,Nublense,2,1
-17.07. 22:00,Antofagasta,Cobreloa,1,1
-17.07. 21:00,S. Wanderers,La Serena,2,1
-17.07. 21:00,San Marcos de Arica,Deportes Iquique,2,2
-17.07. 18:00,U. Catolica,S. Morning,3,0
-16.07. 23:30Pen,U. Espanola,Magallanes,1,1
-16.07. 21:30,Palestino,Coquimbo,1,0
-16.07. 21:00,Cobresal,Copiapo,3,1
-16.07. 21:00,Deportes Temuco,D. Puerto Montt,3,1
-16.07. 21:00,Huachipato,Iberia,1,1
-16.07. 21:00,O'Higgins,Rangers,3,1
-16.07. 18:00,San Luis,Union La Calera,2,1
-16.07. 01:30,A. Italiano,Curico Unido,1,0
-13.07. 22:00,San Felipe,Everton,1,3
-12.07. 01:30,S. Morning,U. Catolica,2,0
-10.07. 23:30,Curico Unido,A. Italiano,1,1
-10.07. 22:00,Cobreloa,Antofagasta,1,0
-10.07. 21:30,Iberia,Huachipato,1,5
-10.07. 18:00,Deportes Iquique,San Marcos de Arica,2,0
-10.07. 18:00,Magallanes,U. Espanola,1,2
-10.07. 00:00,Coquimbo,Palestino,0,6
-10.07. 00:00,D. Puerto Montt,Deportes Temuco,0,2
-10.07. 00:00,Rangers,O'Higgins,1,3
-09.07. 21:30,Union La Calera,San Luis,2,2
-09.07. 21:00,Copiapo,Cobresal,0,1
-09.07. 18:00,Nublense,Colo Colo,0,0
-09.07. 02:00,La Serena,S. Wanderers,3,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1468022400,La Serena,S. Wanderers,3,1,,,,0
+1468080000,Nublense,Colo Colo,0,0,,,,0
+1468090800,Copiapo,Cobresal,0,1,,,,0
+1468092600,Union La Calera,San Luis,2,2,,,,0
+1468101600,Rangers,O'Higgins,1,3,,,,0
+1468101600,D. Puerto Montt,Deportes Temuco,0,2,,,,0
+1468101600,Coquimbo,Palestino,0,6,,,,0
+1468166400,Magallanes,U. Espanola,1,2,,,,0
+1468166400,Deportes Iquique,San Marcos de Arica,2,0,,,,0
+1468179000,Iberia,Huachipato,1,5,,,,0
+1468180800,Cobreloa,Antofagasta,1,0,,,,0
+1468186200,Curico Unido,A. Italiano,1,1,,,,0
+1468279800,S. Morning,U. Catolica,2,0,,,,0
+1468440000,San Felipe,Everton,1,3,,,,0
+1468625400,A. Italiano,Curico Unido,1,0,,,,0
+1468684800,San Luis,Union La Calera,2,1,,,,0
+1468695600,O'Higgins,Rangers,3,1,,,,0
+1468695600,Huachipato,Iberia,1,1,,,,0
+1468695600,Deportes Temuco,D. Puerto Montt,3,1,,,,0
+1468695600,Cobresal,Copiapo,3,1,,,,0
+1468697400,Palestino,Coquimbo,1,0,,,,0
+1468704600,U. Espanola,Magallanes,0,1,Pen,1,1,0
+1468771200,U. Catolica,S. Morning,3,0,,,,0
+1468782000,San Marcos de Arica,Deportes Iquique,2,2,,,,0
+1468782000,S. Wanderers,La Serena,2,1,,,,0
+1468785600,Antofagasta,Cobreloa,1,1,,,,0
+1468791000,Colo Colo,Nublense,2,1,,,,0
+1469057400,Everton,San Felipe,3,0,,,,0
+1473975000,U. Espanola,O'Higgins,4,0,,,,0
+1473980400,Cobreloa,La Serena,3,0,,,,0
+1473982200,A. Italiano,Copiapo,3,1,,,,0
+1474048800,Huachipato,Colo Colo,2,1,,,,0
+1474484400,Deportes Iquique,U. De Chile,1,1,,,,0
+1474493400,O'Higgins,U. Espanola,1,2,,,,0
+1474497000,U. De Concepcion,San Luis,0,1,,,,0
+1474502400,U. Catolica,Deportes Temuco,2,1,,,,0
+1475017200,Colo Colo,Huachipato,3,1,,,,0
+1475089200,Copiapo,A. Italiano,2,2,,,,0
+1475094600,Deportes Temuco,U. Catolica,1,2,,,,0
+1475100000,La Serena,Cobreloa,0,0,,,,0
+1475103600,U. De Chile,Deportes Iquique,2,2,Pen,3,2,0
+1475866800,Palestino,Everton,0,1,,,,0
+1475964000,San Luis,U. De Concepcion,1,0,,,,0
+1476831600,San Luis,A. Italiano,2,4,,,,0
+1476919800,U. Catolica,U. De Chile,2,0,,,,0
+1477004400,Cobreloa,Colo Colo,1,2,,,,0
+1477351800,U. De Chile,U. Catolica,3,3,,,,0
+1477436400,A. Italiano,San Luis,1,3,Pen,2,3,0
+1477521000,Colo Colo,Cobreloa,3,1,,,,0
+1478215800,Everton,Palestino,1,1,,,,0
+1478820600,U. Espanola,Everton,1,2,,,,0
+1479166200,Everton,U. Espanola,0,0,,,,0
+1479942000,U. Catolica,Colo Colo,0,1,,,,0
+1479943800,Everton,A. Italiano,3,2,,,,0
+1480546800,Colo Colo,U. Catolica,2,0,,,,0
+1480548600,A. Italiano,Everton,0,1,,,,0
+1481756400,Colo Colo,Everton,4,0,,,,1

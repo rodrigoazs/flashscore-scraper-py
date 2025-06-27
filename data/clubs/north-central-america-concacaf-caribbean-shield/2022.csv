@@ -1,17 +1,17 @@
-date,home_team,away_team,home_score,away_score
-25.04. 02:00AET,Bayamon,Inter Moengotapoe,2,1
-24.04. 23:00,Jong Holland,AS Le Gosier,0,2
-23.04. 02:00,Inter Moengotapoe,AS Le Gosier,4,0
-22.04. 23:00,Jong Holland,Bayamon,2,3
-20.04. 02:00,Golden Lion (Mar),Inter Moengotapoe (Sur),3,4
-19.04. 23:30,Real Rincon (Bon),SWA Sharks (Tca),1,3
-19.04. 23:30,South East (Dom),Junior Stars (Sma),1,1
-19.04. 21:00,Jong Holland (Cur),AS Le Gosier (Gua),0,0
-18.04. 02:00,Bayamon (Pur),South East (Dom),6,0
-18.04. 02:00,Real Rincon (Bon),Jong Holland (Cur),0,5
-17.04. 23:30,Deportivo Nacional (Aru),Golden Lion (Mar),0,8
-17.04. 21:00,SWA Sharks (Tca),AS Le Gosier (Gua),0,1
-16.04. 02:00,Bayamon (Pur),Junior Stars (Sma),3,3
-16.04. 02:00,SWA Sharks (Tca),Jong Holland (Cur),0,1
-15.04. 23:30,Real Rincon (Bon),AS Le Gosier (Gua),1,2
-15.04. 21:00,Deportivo Nacional (Aru),Inter Moengotapoe (Sur),2,5
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1650049200,Deportivo Nacional (Aru),Inter Moengotapoe (Sur),2,5,,,,0
+1650058200,Real Rincon (Bon),AS Le Gosier (Gua),1,2,,,,0
+1650067200,SWA Sharks (Tca),Jong Holland (Cur),0,1,,,,0
+1650067200,Bayamon (Pur),Junior Stars (Sma),3,3,,,,0
+1650222000,SWA Sharks (Tca),AS Le Gosier (Gua),0,1,,,,0
+1650231000,Deportivo Nacional (Aru),Golden Lion (Mar),0,8,,,,0
+1650240000,Real Rincon (Bon),Jong Holland (Cur),0,5,,,,0
+1650240000,Bayamon (Pur),South East (Dom),6,0,,,,0
+1650394800,Jong Holland (Cur),AS Le Gosier (Gua),0,0,,,,0
+1650403800,South East (Dom),Junior Stars (Sma),1,1,,,,0
+1650403800,Real Rincon (Bon),SWA Sharks (Tca),1,3,,,,0
+1650412800,Golden Lion (Mar),Inter Moengotapoe (Sur),3,4,,,,0
+1650661200,Jong Holland,Bayamon,2,3,,,,0
+1650672000,Inter Moengotapoe,AS Le Gosier,4,0,,,,0
+1650834000,Jong Holland,AS Le Gosier,0,2,,,,0
+1650844800,Bayamon,Inter Moengotapoe,1,1,AET,2,1,0

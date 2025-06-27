@@ -1,40 +1,40 @@
-date,home_team,away_team,home_score,away_score
-03.09. 20:00,DC United,Charleston,2,1
-12.08. 20:00,Charleston,Seattle Sounders,1,1
-12.08. 20:00,DC United,New England Revolution,3,1
-08.07. 20:00,DC United,Chicago Fire,2,1
-08.07. 20:00,FC Dallas,Charleston,1,3
-08.07. 20:00,New England Revolution,Crystal Palace Baltimore,1,1
-08.07. 20:00,Seattle Sounders,Sporting Kansas City,0,0
-01.07. 20:00,Charleston,Houston Dynamo,1,1
-01.07. 20:00,Chicago Fire,Cleveland,4,1
-01.07. 20:00,Crystal Palace Baltimore,New York Red Bulls,2,0
-01.07. 20:00,DC United,Rochester New York,2,0
-01.07. 20:00,FC Dallas,Fort Lauderdale Strikers,2,1
-01.07. 20:00,New England Revolution,Richmond Kickers,3,0
-01.07. 20:00,North Carolina,Sporting Kansas City,2,4
-01.07. 20:00,Seattle Sounders,Chivas USA,2,0
-24.06. 20:00,Charleston,Charlotte Eagles,2,1
-24.06. 20:00,Fort Lauderdale Strikers,Atlanta SC,1,0
-24.06. 20:00,Minnesota United,Cleveland,0,2
-24.06. 20:00,North Carolina,Real Maryland,1,0
-24.06. 20:00,Penn,Crystal Palace Baltimore,2,2
-24.06. 20:00,Rochester New York,Pittsburgh,3,0
-24.06. 20:00,Seattle Sounders,Hollywood United,6,0
-24.06. 20:00,Western Mass Pioneers,Richmond Kickers,1,2
-13.06. 20:00,Real Maryland,New York Pancyprian,3,2
-10.06. 20:00,AAC Eagles,Pittsburgh,0,4
-10.06. 20:00,Arizona FC,Seattle Sounders,0,1
-10.06. 20:00,Austin,Atlanta SC,2,2
-10.06. 20:00,Charleston,New Stars,3,0
-10.06. 20:00,Charlotte Eagles,Clearwater Galactics,5,2
-10.06. 20:00,Fort Lauderdale Strikers,Bradenton,4,2
-10.06. 20:00,Los Angeles Misioneros,Crystal Palace Baltimore,1,2
-10.06. 20:00,Michigan Bucks,Cleveland,1,2
-10.06. 20:00,Minnesota United,St. Louis Lions,4,1
-10.06. 20:00,North Carolina,Brooklyn Knights,1,0
-10.06. 20:00,Penn,Yakima Reds,5,1
-10.06. 20:00,Portland Timbers,Hollywood United,2,3
-10.06. 20:00,Richmond Kickers,Fredericksburg Gunners,3,0
-10.06. 20:00,Rochester New York,RWB Adria,2,1
-10.06. 20:00,Western Mass Pioneers,Boston Olimpiakos,2,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1213120800,Western Mass Pioneers,Boston Olimpiakos,2,0,,,,0
+1213120800,Rochester New York,RWB Adria,2,1,,,,0
+1213120800,Richmond Kickers,Fredericksburg Gunners,3,0,,,,0
+1213120800,Portland Timbers,Hollywood United,2,3,,,,0
+1213120800,Penn,Yakima Reds,5,1,,,,0
+1213120800,North Carolina,Brooklyn Knights,1,0,,,,0
+1213120800,Minnesota United,St. Louis Lions,4,1,,,,0
+1213120800,Michigan Bucks,Cleveland,1,2,,,,0
+1213120800,Los Angeles Misioneros,Crystal Palace Baltimore,1,2,,,,0
+1213120800,Fort Lauderdale Strikers,Bradenton,4,2,,,,0
+1213120800,Charlotte Eagles,Clearwater Galactics,5,2,,,,0
+1213120800,Charleston,New Stars,3,0,,,,0
+1213120800,Austin,Atlanta SC,2,2,,,,0
+1213120800,Arizona FC,Seattle Sounders,0,1,,,,0
+1213120800,AAC Eagles,Pittsburgh,0,4,,,,0
+1213380000,Real Maryland,New York Pancyprian,3,2,,,,0
+1214330400,Western Mass Pioneers,Richmond Kickers,1,2,,,,0
+1214330400,Seattle Sounders,Hollywood United,6,0,,,,0
+1214330400,Rochester New York,Pittsburgh,3,0,,,,0
+1214330400,Penn,Crystal Palace Baltimore,2,2,,,,0
+1214330400,North Carolina,Real Maryland,1,0,,,,0
+1214330400,Minnesota United,Cleveland,0,2,,,,0
+1214330400,Fort Lauderdale Strikers,Atlanta SC,1,0,,,,0
+1214330400,Charleston,Charlotte Eagles,2,1,,,,0
+1214935200,Seattle Sounders,Chivas USA,2,0,,,,0
+1214935200,North Carolina,Sporting Kansas City,2,4,,,,0
+1214935200,New England Revolution,Richmond Kickers,3,0,,,,0
+1214935200,FC Dallas,Fort Lauderdale Strikers,2,1,,,,0
+1214935200,DC United,Rochester New York,2,0,,,,0
+1214935200,Crystal Palace Baltimore,New York Red Bulls,2,0,,,,0
+1214935200,Chicago Fire,Cleveland,4,1,,,,0
+1214935200,Charleston,Houston Dynamo,1,1,,,,0
+1215540000,Seattle Sounders,Sporting Kansas City,0,0,,,,0
+1215540000,New England Revolution,Crystal Palace Baltimore,1,1,,,,0
+1215540000,FC Dallas,Charleston,1,3,,,,0
+1215540000,DC United,Chicago Fire,2,1,,,,0
+1218564000,DC United,New England Revolution,3,1,,,,0
+1218564000,Charleston,Seattle Sounders,1,1,,,,0
+1220464800,DC United,Charleston,2,1,,,,0

@@ -1,65 +1,65 @@
-date,home_team,away_team,home_score,away_score
-19.12. 23:55,Cienciano,River Plate,1,0
-10.12. 00:00,River Plate,Cienciano,3,3
-04.12. 23:55,Cienciano,Atl. Nacional,1,0
-03.12. 23:55,Sao Paulo,River Plate,2,0
-26.11. 23:55,River Plate,Sao Paulo,3,1
-13.11. 23:55,Atl. Nacional,Cienciano,1,2
-12.11. 23:55,Sao Paulo,The Strongest,3,1
-05.11. 23:55,Atl. Nacional,Boca Juniors,4,1
-05.11. 23:10,Libertad Asuncion,River Plate,1,0
-29.10. 23:55,Cienciano,Santos,2,1
-29.10. 23:55,The Strongest,Sao Paulo,1,4
-23.10. 23:55,River Plate,Libertad Asuncion,2,0
-22.10. 23:55,Boca Juniors,Atl. Nacional,0,1
-16.10. 23:55,Santos,Cienciano,1,1
-09.10. 23:55,Boca Juniors,Colon Santa Fe,2,1
-08.10. 23:55,River Plate,Independiente,4,0
-07.10. 23:55,San Lorenzo,The Strongest,2,1
-02.10. 23:55,Atl. Nacional,LDU Quito,1,0
-02.10. 23:55,U. Catolica,Cienciano,3,1
-02.10. 22:40AET,Libertad Asuncion,Nacional,3,0
-01.10. 23:55,Fluminense,Sao Paulo,1,1
-01.10. 23:55,Santos,Sao Caetano,1,1
-25.09. 20:00,Cienciano,U. Catolica,4,0
-24.09. 20:00,Colon Santa Fe,Boca Juniors,1,1
-24.09. 20:00,Nacional,Libertad Asuncion,3,0
-18.09. 00:00,LDU Quito,Atl. Nacional,1,1
-17.09. 00:00,Independiente,River Plate,1,4
-17.09. 00:00,Nacional,Danubio,2,2
-17.09. 00:00,Sao Caetano,Santos,0,1
-17.09. 00:00,The Strongest,San Lorenzo,2,0
-16.09. 00:00,Sao Paulo,Fluminense,1,0
-04.09. 23:55,Rosario Central,Independiente,0,1
-03.09. 23:55,Atletico-MG,Fluminense,0,2
-03.09. 23:55,Flamengo RJ,Santos,0,3
-03.09. 23:55,Sao Paulo,Vasco,2,1
-02.09. 23:55,Osorno,U. Catolica,1,2
-28.08. 23:55,Libertad Asuncion,Guarani,0,1
-28.08. 23:55,Velez Sarsfield,Colon Santa Fe,1,4
-27.08. 00:00,Cruzeiro,Sao Caetano,1,1
-27.08. 00:00,Internacional,Flamengo RJ,3,1
-27.08. 00:00,Vasco,Gremio,1,1
-26.08. 23:55,Alianza Lima,Cienciano,0,1
-26.08. 23:55,Danubio,Nacional,0,1
-21.08. 23:55,Atl. Nacional,Dep. Pasto,2,1
-20.08. 23:55,San Lorenzo,Miranda,6,0
-19.08. 23:55,Bolivar,The Strongest,1,1
-14.08. 23:55,Guarani,Libertad Asuncion,0,1
-14.08. 23:55,Miranda,San Lorenzo,1,2
-13.08. 23:55,Fluminense,Corinthians,2,0
-13.08. 23:55,Palmeiras,Cruzeiro,0,1
-13.08. 23:55,Santos,Internacional,1,1
-12.08. 23:55,Barcelona SC,LDU Quito,2,1
-12.08. 23:55,Colon Santa Fe,Velez Sarsfield,3,1
-07.08. 00:00,Cienciano,Alianza Lima,1,0
-06.08. 00:00,Dep. Pasto,Atl. Nacional,0,0
-06.08. 00:00,Independiente,Rosario Central,1,1
-05.08. 23:00,Miranda,Monagas,1,0
-05.08. 00:00,The Strongest,Bolivar,2,2
-05.08. 00:00,U. Catolica,Osorno,0,1
-31.07. 23:00,Monagas,Miranda,1,2
-30.07. 23:55,Corinthians,Atletico-MG,0,2
-30.07. 23:55,Gremio,Sao Paulo,0,4
-30.07. 23:55,Sao Caetano,Palmeiras,3,0
-29.07. 23:55,LDU Quito,Barcelona SC,2,0
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1059515700,LDU Quito,Barcelona SC,2,0,,,,0
+1059602100,Sao Caetano,Palmeiras,3,0,,,,0
+1059602100,Gremio,Sao Paulo,0,4,,,,0
+1059602100,Corinthians,Atletico-MG,0,2,,,,0
+1059685200,Monagas,Miranda,1,2,,,,0
+1060034400,U. Catolica,Osorno,0,1,,,,0
+1060034400,The Strongest,Bolivar,2,2,,,,0
+1060117200,Miranda,Monagas,1,0,,,,0
+1060120800,Independiente,Rosario Central,1,1,,,,0
+1060120800,Dep. Pasto,Atl. Nacional,0,0,,,,0
+1060207200,Cienciano,Alianza Lima,1,0,,,,0
+1060725300,Colon Santa Fe,Velez Sarsfield,3,1,,,,0
+1060725300,Barcelona SC,LDU Quito,2,1,,,,0
+1060811700,Santos,Internacional,1,1,,,,0
+1060811700,Palmeiras,Cruzeiro,0,1,,,,0
+1060811700,Fluminense,Corinthians,2,0,,,,0
+1060898100,Miranda,San Lorenzo,1,2,,,,0
+1060898100,Guarani,Libertad Asuncion,0,1,,,,0
+1061330100,Bolivar,The Strongest,1,1,,,,0
+1061416500,San Lorenzo,Miranda,6,0,,,,0
+1061502900,Atl. Nacional,Dep. Pasto,2,1,,,,0
+1061934900,Danubio,Nacional,0,1,,,,0
+1061934900,Alianza Lima,Cienciano,0,1,,,,0
+1061935200,Vasco,Gremio,1,1,,,,0
+1061935200,Internacional,Flamengo RJ,3,1,,,,0
+1061935200,Cruzeiro,Sao Caetano,1,1,,,,0
+1062107700,Velez Sarsfield,Colon Santa Fe,1,4,,,,0
+1062107700,Libertad Asuncion,Guarani,0,1,,,,0
+1062539700,Osorno,U. Catolica,1,2,,,,0
+1062626100,Sao Paulo,Vasco,2,1,,,,0
+1062626100,Flamengo RJ,Santos,0,3,,,,0
+1062626100,Atletico-MG,Fluminense,0,2,,,,0
+1062712500,Rosario Central,Independiente,0,1,,,,0
+1063663200,Sao Paulo,Fluminense,1,0,,,,0
+1063749600,The Strongest,San Lorenzo,2,0,,,,0
+1063749600,Sao Caetano,Santos,0,1,,,,0
+1063749600,Nacional,Danubio,2,2,,,,0
+1063749600,Independiente,River Plate,1,4,,,,0
+1063836000,LDU Quito,Atl. Nacional,1,1,,,,0
+1064426400,Nacional,Libertad Asuncion,3,0,,,,0
+1064426400,Colon Santa Fe,Boca Juniors,1,1,,,,0
+1064512800,Cienciano,U. Catolica,4,0,,,,0
+1065045300,Santos,Sao Caetano,1,1,,,,0
+1065045300,Fluminense,Sao Paulo,1,1,,,,0
+1065127200,Libertad Asuncion,Nacional,3,0,AET,3,0,0
+1065131700,U. Catolica,Cienciano,3,1,,,,0
+1065131700,Atl. Nacional,LDU Quito,1,0,,,,0
+1065563700,San Lorenzo,The Strongest,2,1,,,,0
+1065650100,River Plate,Independiente,4,0,,,,0
+1065736500,Boca Juniors,Colon Santa Fe,2,1,,,,0
+1066341300,Santos,Cienciano,1,1,,,,0
+1066859700,Boca Juniors,Atl. Nacional,0,1,,,,0
+1066946100,River Plate,Libertad Asuncion,2,0,,,,0
+1067468100,The Strongest,Sao Paulo,1,4,,,,0
+1067468100,Cienciano,Santos,2,1,,,,0
+1068070200,Libertad Asuncion,River Plate,1,0,,,,0
+1068072900,Atl. Nacional,Boca Juniors,4,1,,,,0
+1068677700,Sao Paulo,The Strongest,3,1,,,,0
+1068764100,Atl. Nacional,Cienciano,1,2,,,,0
+1069887300,River Plate,Sao Paulo,3,1,,,,0
+1070492100,Sao Paulo,River Plate,2,0,,,,0
+1070578500,Cienciano,Atl. Nacional,1,0,,,,0
+1071010800,River Plate,Cienciano,3,3,,,,0
+1071874500,Cienciano,River Plate,1,0,,,,0

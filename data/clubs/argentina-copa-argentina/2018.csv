@@ -1,64 +1,64 @@
-date,home_team,away_team,home_score,away_score
-07.12. 01:10Pen,Rosario Central,Gimnasia L.P.,2,1
-29.11. 01:10Pen,River Plate,Gimnasia L.P.,2,3
-18.11. 21:10Pen,Temperley,Rosario Central,1,2
-01.11. 19:30,Newells Old Boys,Rosario Central,1,2
-31.10. 23:00Pen,San Lorenzo,Temperley,1,2
-13.10. 20:00Pen,Central Cordoba,Gimnasia L.P.,1,2
-07.10. 20:30,River Plate,Sarmiento Resistencia,3,1
-04.10. 02:30Pen,Rosario Central,Almagro,2,1
-03.10. 23:30,Estudiantes L.P.,San Lorenzo,1,3
-03.10. 00:30,Sarmiento Resistencia,Atl. Rafaela,2,0
-28.09. 02:10,Boca Juniors,Gimnasia L.P.,0,1
-27.09. 02:10,Central Cordoba,Brown Adrogue,1,0
-13.09. 01:10,River Plate,Platense,2,0
-11.09. 02:10Pen,Independiente,Brown Adrogue,1,2
-10.09. 01:10,Sarmiento Resistencia,Union de Santa Fe,2,1
-09.09. 20:10,Argentinos Jrs,Temperley,0,2
-08.09. 18:15Pen,Newells Old Boys,Atl. Tucuman,1,0
-08.09. 02:10Pen,San Lorenzo,Colon Santa Fe,3,2
-07.09. 23:00,Boca Juniors,San Martin T.,2,0
-07.09. 02:10Pen,Rosario Central,Talleres Cordoba,1,0
-06.09. 20:40Pen,Estudiantes L.P.,Club Lujan,1,0
-23.08. 01:00,Lanus,Atl. Rafaela,1,2
-19.08. 20:10,Cipolletti,Almagro,0,2
-17.08. 22:00,Deportivo Maipu,Temperley,0,4
-09.08. 02:15,General Lamadrid,Platense,0,1
-06.08. 00:10Pen,Argentinos Jrs,Defensa y Justicia,1,0
-05.08. 22:05,Newells Old Boys,Defensores Unidos,3,0
-05.08. 02:15,Central Cordoba,Tigre,2,0
-04.08. 02:00,Huracan,Atl. Tucuman,0,2
-03.08. 02:10,Rosario Central,Juventud Antoniana,6,0
-02.08. 00:15,Boca Juniors,Alvarado,6,0
-01.08. 02:10,Talleres Cordoba,Midland,2,1
-31.07. 02:10Pen,Lanus,Douglas Haig,2,1
-29.07. 23:00,Almagro,Gimnasia Jujuy,1,0
-29.07. 20:10,Gimnasia L.P.,Olimpo Bahia Blanca,1,0
-29.07. 00:10,River Plate,Villa Dalmine,3,1
-27.07. 22:10,Temperley,CA Estudiantes,1,0
-27.07. 02:10,Patronato,San Martin T.,1,2
-26.07. 20:30,Huracan,Victoriano A.,1,0
-25.07. 02:10,Estudiantes L.P.,Central Cordoba,4,0
-24.07. 22:10,Atl. Rafaela,Def. de Belgrano,4,1
-24.07. 02:10Pen,Godoy Cruz,Defensores Unidos,1,2
-22.07. 23:00,River Plate,Central Norte,7,0
-22.07. 20:00,Atl. Tucuman,Tristan Suarez,1,0
-22.07. 01:10Pen,Colon Santa Fe,Deportivo Moron,2,1
-21.07. 22:30,Gimnasia L.P.,Sportivo Belgrano,1,0
-21.07. 20:00Pen,San Martin S.J.,Brown Adrogue,0,1
-21.07. 02:10,Independiente,Central Ballester,8,0
-20.07. 22:10Pen,Olimpo Bahia Blanca,Aldosivi,2,1
-20.07. 19:30,Tigre,Guillermo Brown,1,0
-19.07. 03:00Pen,Banfield,General Lamadrid,1,2
-18.07. 02:10Pen,Villa Dalmine,UAI Urquiza,1,0
-17.07. 21:00Pen,Velez Sarsfield,Central Cordoba,1,2
-17.07. 02:10,San Lorenzo,Racing Cordoba,1,0
-16.07. 21:00,Agropecuario,Club Lujan,0,1
-26.05. 18:30Pen,Arsenal Sarandi,Cipolletti,0,1
-21.05. 00:10,Belgrano,Platense,0,1
-19.05. 02:10,Newells Old Boys,Deportivo Rincon,2,0
-18.05. 21:00,Defensa y Justicia,CA Mitre,1,0
-18.05. 02:10,Racing Club,Sarmiento Resistencia,0,1
-17.05. 22:10,Union de Santa Fe,CDJU Gualeguaychu,2,0
-15.05. 23:00,Chacarita Juniors,Deportivo Maipu,0,3
-09.05. 20:40,Argentinos Jrs,Independiente Chivilcoy,2,1
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1525891200,Argentinos Jrs,Independiente Chivilcoy,2,1,,,,1
+1526418000,Chacarita Juniors,Deportivo Maipu,0,3,,,,1
+1526587800,Union de Santa Fe,CDJU Gualeguaychu,2,0,,,,1
+1526602200,Racing Club,Sarmiento Resistencia,0,1,,,,1
+1526670000,Defensa y Justicia,CA Mitre,1,0,,,,1
+1526688600,Newells Old Boys,Deportivo Rincon,2,0,,,,1
+1526854200,Belgrano,Platense,0,1,,,,1
+1527352200,Arsenal Sarandi,Cipolletti,0,0,Pen,0,1,1
+1531767600,Agropecuario,Club Lujan,0,1,,,,1
+1531786200,San Lorenzo,Racing Cordoba,1,0,,,,1
+1531854000,Velez Sarsfield,Central Cordoba,1,1,Pen,1,2,1
+1531872600,Villa Dalmine,UAI Urquiza,0,0,Pen,1,0,1
+1531962000,Banfield,General Lamadrid,1,1,Pen,1,2,1
+1532107800,Tigre,Guillermo Brown,1,0,,,,1
+1532117400,Olimpo Bahia Blanca,Aldosivi,1,1,Pen,2,1,1
+1532131800,Independiente,Central Ballester,8,0,,,,1
+1532196000,San Martin S.J.,Brown Adrogue,0,0,Pen,0,1,1
+1532205000,Gimnasia L.P.,Sportivo Belgrano,1,0,,,,1
+1532214600,Colon Santa Fe,Deportivo Moron,1,1,Pen,2,1,1
+1532282400,Atl. Tucuman,Tristan Suarez,1,0,,,,1
+1532293200,River Plate,Central Norte,7,0,,,,1
+1532391000,Godoy Cruz,Defensores Unidos,1,1,Pen,1,2,1
+1532463000,Atl. Rafaela,Def. de Belgrano,4,1,,,,1
+1532477400,Estudiantes L.P.,Central Cordoba,4,0,,,,1
+1532629800,Huracan,Victoriano A.,1,0,,,,1
+1532650200,Patronato,San Martin T.,1,2,,,,1
+1532722200,Temperley,CA Estudiantes,1,0,,,,1
+1532815800,River Plate,Villa Dalmine,3,1,,,,0
+1532887800,Gimnasia L.P.,Olimpo Bahia Blanca,1,0,,,,0
+1532898000,Almagro,Gimnasia Jujuy,1,0,,,,1
+1532995800,Lanus,Douglas Haig,1,1,Pen,2,1,1
+1533082200,Talleres Cordoba,Midland,2,1,,,,1
+1533161700,Boca Juniors,Alvarado,6,0,,,,1
+1533255000,Rosario Central,Juventud Antoniana,6,0,,,,1
+1533340800,Huracan,Atl. Tucuman,0,2,,,,0
+1533428100,Central Cordoba,Tigre,2,0,,,,0
+1533499500,Newells Old Boys,Defensores Unidos,3,0,,,,0
+1533507000,Argentinos Jrs,Defensa y Justicia,0,0,Pen,1,0,0
+1533773700,General Lamadrid,Platense,0,1,,,,0
+1534536000,Deportivo Maipu,Temperley,0,4,,,,0
+1534702200,Cipolletti,Almagro,0,2,,,,0
+1534978800,Lanus,Atl. Rafaela,1,2,,,,0
+1536259200,Estudiantes L.P.,Club Lujan,0,0,Pen,1,0,0
+1536279000,Rosario Central,Talleres Cordoba,0,0,Pen,1,0,0
+1536354000,Boca Juniors,San Martin T.,2,0,,,,0
+1536365400,San Lorenzo,Colon Santa Fe,2,2,Pen,3,2,0
+1536423300,Newells Old Boys,Atl. Tucuman,0,0,Pen,1,0,0
+1536516600,Argentinos Jrs,Temperley,0,2,,,,0
+1536534600,Sarmiento Resistencia,Union de Santa Fe,2,1,,,,0
+1536624600,Independiente,Brown Adrogue,1,1,Pen,1,2,0
+1536793800,River Plate,Platense,2,0,,,,0
+1538007000,Central Cordoba,Brown Adrogue,1,0,,,,0
+1538093400,Boca Juniors,Gimnasia L.P.,0,1,,,,0
+1538519400,Sarmiento Resistencia,Atl. Rafaela,2,0,,,,0
+1538602200,Estudiantes L.P.,San Lorenzo,1,3,,,,0
+1538613000,Rosario Central,Almagro,1,1,Pen,2,1,0
+1538937000,River Plate,Sarmiento Resistencia,3,1,,,,1
+1539453600,Central Cordoba,Gimnasia L.P.,1,1,Pen,1,2,0
+1541023200,San Lorenzo,Temperley,1,1,Pen,1,2,0
+1541097000,Newells Old Boys,Rosario Central,1,2,,,,0
+1542571800,Temperley,Rosario Central,1,1,Pen,1,2,0
+1543450200,River Plate,Gimnasia L.P.,2,2,Pen,2,3,0
+1544141400,Rosario Central,Gimnasia L.P.,1,1,Pen,2,1,0

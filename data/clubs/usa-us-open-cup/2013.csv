@@ -1,68 +1,68 @@
-date,home_team,away_team,home_score,away_score
-02.10. 03:00,Real Salt Lake,DC United,0,1
-08.08. 03:30,Real Salt Lake,Portland Timbers,2,1
-08.08. 02:30,Chicago Fire,DC United,0,2
-27.06. 03:30,Real Salt Lake,North Carolina,3,0
-27.06. 03:00,FC Dallas,Portland Timbers,2,3
-27.06. 02:30,Chicago Fire,Orlando City,5,1
-27.06. 01:00,DC United,New England Revolution,3,1
-13.06. 19:00,Chicago Fire,Columbus Crew,2,1
-13.06. 04:30,Portland Timbers,Tampa Bay,2,0
-13.06. 03:30AET,Real Salt Lake,Charleston,5,2
-13.06. 03:00,FC Dallas,Houston Dynamo,3,0
-13.06. 02:30,Sporting Kansas City,Orlando City,0,1
-13.06. 01:30,New England Revolution,New York Red Bulls,4,2
-13.06. 01:15AET,North Carolina,Chivas USA,3,1
-13.06. 01:00,DC United,Philadelphia Union,3,1
-30.05. 04:30,Portland Timbers,Wilmington Hammerheads,5,1
-30.05. 02:30,Houston Dynamo,Tucson,2,0
-30.05. 01:30,Columbus Crew,Dayton,2,1
-30.05. 01:30,New York Red Bulls,Reading,2,0
-30.05. 01:30,Tampa Bay,Seattle Sounders,1,0
-30.05. 01:15,North Carolina,Los Angeles Galaxy,2,0
-30.05. 01:00,Charlotte Eagles,Chicago Fire,0,2
-29.05. 04:30,Orange County SC,Chivas USA,1,2
-29.05. 03:30AET,Real Salt Lake,Atlanta SC,3,2
-29.05. 02:30,Sporting Kansas City,Menace,2,0
-29.05. 01:35,Rochester New York,New England Revolution,1,5
-29.05. 01:30,Charleston,San Jose Earthquakes,1,0
-29.05. 01:30,Fort Lauderdale Strikers,FC Dallas,0,2
-29.05. 01:30,Orlando City,Colorado Rapids,3,1
-29.05. 01:30,Philadelphia Union,Ocean City,2,1
-29.05. 01:00Pen,Richmond Kickers,DC United,0,1
-22.05. 04:30,Portland U23,Charleston,0,1
-22.05. 03:30,Orange County SC,Ventura,5,1
-22.05. 02:30,Austin,Wilmington Hammerheads,0,2
-22.05. 02:30Pen,San Antonio,Tucson,2,3
-22.05. 02:00,Minnesota United,Menace,0,1
-22.05. 01:35,Rochester New York,Portland Phoenix,1,0
-22.05. 01:30Pen,Fort Lauderdale Strikers,Laredo Heat,2,1
-22.05. 01:30,Ocean City,Pittsburgh,1,0
-22.05. 01:30,Tampa Bay FC,Tampa Bay,1,2
-22.05. 01:00,Charlotte Eagles,Seattle U23,3,0
-22.05. 01:00AET,Dayton,Dearborn Stars,4,1
-22.05. 01:00,Georgia Revolution,Atlanta SC,2,3
-22.05. 01:00,North Carolina,North Carolina Fusion U23,3,1
-22.05. 01:00,Ocala Stampede,Orlando City,1,2
-22.05. 01:00,Reading,Penn,1,0
-22.05. 01:00,Richmond Kickers,Icon,4,1
-16.05. 02:30,Menace,Madison,1,0
-15.05. 04:30,Portland U23,Sacramento Gold,3,2
-15.05. 04:30,Tucson,Phoenix FC,2,1
-15.05. 04:10,Seattle U23,Doxa Italia,5,1
-15.05. 04:10,Ventura,Hasental,3,2
-15.05. 03:15,Laredo Heat,PSA Elite,2,0
-15.05. 02:30,Austin,NTX Rayados,3,0
-15.05. 02:25,Brooklyn Italians,Icon,1,4
-15.05. 02:00,Portland Phoenix,Mass Premier,2,0
-15.05. 01:30,Dayton,River City Rovers,3,0
-15.05. 01:30,Michigan Bucks,Dearborn Stars,0,2
-15.05. 01:30,Ocean City,New York Red Bulls U23,2,0
-15.05. 01:30,Red Force,Ocala Stampede,2,4
-15.05. 01:00,Georgia Revolution,Real Colorado,4,3
-15.05. 01:00Pen,North Carolina Fusion U23,Chattanooga,5,4
-15.05. 01:00Pen,Orlando City U23,Tampa Bay FC,1,2
-15.05. 01:00Pen,Pittsburgh,RWB Adria,2,1
-15.05. 01:00,Reading,Lehigh Valley,2,0
-08.05. 04:30Pen,Colorado Rovers,Georgia Revolution,1,2
-08.05. 04:00,Fuego,Hasental,3,5
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1367978400,Fuego,Hasental,3,5,,,,0
+1367980200,Colorado Rovers,Georgia Revolution,1,1,Pen,1,2,0
+1368572400,Reading,Lehigh Valley,2,0,,,,0
+1368572400,Pittsburgh,RWB Adria,1,1,Pen,2,1,0
+1368572400,Orlando City U23,Tampa Bay FC,1,1,Pen,1,2,0
+1368572400,North Carolina Fusion U23,Chattanooga,3,3,Pen,5,4,0
+1368572400,Georgia Revolution,Real Colorado,4,3,,,,0
+1368574200,Red Force,Ocala Stampede,2,4,,,,0
+1368574200,Ocean City,New York Red Bulls U23,2,0,,,,0
+1368574200,Michigan Bucks,Dearborn Stars,0,2,,,,0
+1368574200,Dayton,River City Rovers,3,0,,,,0
+1368576000,Portland Phoenix,Mass Premier,2,0,,,,0
+1368577500,Brooklyn Italians,Icon,1,4,,,,0
+1368577800,Austin,NTX Rayados,3,0,,,,0
+1368580500,Laredo Heat,PSA Elite,2,0,,,,0
+1368583800,Ventura,Hasental,3,2,,,,0
+1368583800,Seattle U23,Doxa Italia,5,1,,,,0
+1368585000,Tucson,Phoenix FC,2,1,,,,0
+1368585000,Portland U23,Sacramento Gold,3,2,,,,0
+1368664200,Menace,Madison,1,0,,,,0
+1369177200,Richmond Kickers,Icon,4,1,,,,0
+1369177200,Reading,Penn,1,0,,,,0
+1369177200,Ocala Stampede,Orlando City,1,2,,,,0
+1369177200,North Carolina,North Carolina Fusion U23,3,1,,,,0
+1369177200,Georgia Revolution,Atlanta SC,2,3,,,,0
+1369177200,Dayton,Dearborn Stars,1,1,AET,4,1,0
+1369177200,Charlotte Eagles,Seattle U23,3,0,,,,0
+1369179000,Tampa Bay FC,Tampa Bay,1,2,,,,0
+1369179000,Ocean City,Pittsburgh,1,0,,,,0
+1369179000,Fort Lauderdale Strikers,Laredo Heat,1,1,Pen,2,1,0
+1369179300,Rochester New York,Portland Phoenix,1,0,,,,0
+1369180800,Minnesota United,Menace,0,1,,,,0
+1369182600,San Antonio,Tucson,2,2,Pen,2,3,0
+1369182600,Austin,Wilmington Hammerheads,0,2,,,,0
+1369186200,Orange County SC,Ventura,5,1,,,,0
+1369189800,Portland U23,Charleston,0,1,,,,0
+1369782000,Richmond Kickers,DC United,0,0,Pen,0,1,0
+1369783800,Philadelphia Union,Ocean City,2,1,,,,0
+1369783800,Orlando City,Colorado Rapids,3,1,,,,0
+1369783800,Fort Lauderdale Strikers,FC Dallas,0,2,,,,0
+1369783800,Charleston,San Jose Earthquakes,1,0,,,,0
+1369784100,Rochester New York,New England Revolution,1,5,,,,0
+1369787400,Sporting Kansas City,Menace,2,0,,,,0
+1369791000,Real Salt Lake,Atlanta SC,1,1,AET,3,2,0
+1369794600,Orange County SC,Chivas USA,1,2,,,,0
+1369868400,Charlotte Eagles,Chicago Fire,0,2,,,,0
+1369869300,North Carolina,Los Angeles Galaxy,2,0,,,,0
+1369870200,Tampa Bay,Seattle Sounders,1,0,,,,0
+1369870200,New York Red Bulls,Reading,2,0,,,,0
+1369870200,Columbus Crew,Dayton,2,1,,,,0
+1369873800,Houston Dynamo,Tucson,2,0,,,,0
+1369881000,Portland Timbers,Wilmington Hammerheads,5,1,,,,0
+1371078000,DC United,Philadelphia Union,3,1,,,,0
+1371078900,North Carolina,Chivas USA,1,1,AET,3,1,0
+1371079800,New England Revolution,New York Red Bulls,4,2,,,,0
+1371083400,Sporting Kansas City,Orlando City,0,1,,,,0
+1371085200,FC Dallas,Houston Dynamo,3,0,,,,0
+1371087000,Real Salt Lake,Charleston,2,2,AET,5,2,0
+1371090600,Portland Timbers,Tampa Bay,2,0,,,,0
+1371142800,Chicago Fire,Columbus Crew,2,1,,,,0
+1372287600,DC United,New England Revolution,3,1,,,,0
+1372293000,Chicago Fire,Orlando City,5,1,,,,0
+1372294800,FC Dallas,Portland Timbers,2,3,,,,0
+1372296600,Real Salt Lake,North Carolina,3,0,,,,0
+1375921800,Chicago Fire,DC United,0,2,,,,0
+1375925400,Real Salt Lake,Portland Timbers,2,1,,,,0
+1380675600,Real Salt Lake,DC United,0,1,,,,0
