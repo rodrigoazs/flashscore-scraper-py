@@ -8,6 +8,7 @@ authors = ["Rodrigo Azevedo <rodrig4zevedo@gmail.com>"]
 python = "^3.11"
 requests = "^2.32.4"
 beautifulsoup4 = "^4.13.4"
+pandas = "^2.3.0"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.3"

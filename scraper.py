@@ -64,7 +64,7 @@ def download_logo(src, team_name):
     folder = "logos"
     os.makedirs(folder, exist_ok=True)
     team_name = re.sub(r"\(\w{3}\)", "", team_name).strip()
-    team_name = team_name.replace(" ", "_").lower()
+    team_name = team_name.replace("'", "").replace("&", "").replace(" ", "_").lower()
     filename = os.path.join(folder, f"{team_name}.png")
     if not os.path.exists(filename):
         response = requests.get(src, verify=False)
