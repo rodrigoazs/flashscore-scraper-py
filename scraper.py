@@ -16,50 +16,58 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
 leagues = {
-    "data/clubs/uruguay-primera-division": "/uruguay/liga-auf-uruguaya",
-    "data/clubs/argentina-primera-division": "/argentina/torneo-betano",
-    "data/clubs/argentina-copa-argentina": "/argentina/copa-argentina",
-    "data/clubs/argentina-copa-de-la-liga": "/argentina/copa-de-la-liga-profesional",
-    "data/clubs/brazil-brasileirao-serie-a": "/brazil/serie-a-betano",
-    "data/clubs/brazil-copa-do-brasil": "/brazil/copa-betano-do-brasil",
-    "data/clubs/chile-primera-division": "/chile/liga-de-primera",
-    "data/clubs/chile-copa-chile": "/chile/copa-chile",
-    "data/clubs/bolivia-primera-division": "/bolivia/division-profesional",
-    "data/clubs/colombia-primera-a": "/colombia/primera-a",
-    "data/clubs/colombia-copa-colombia": "/colombia/copa-colombia",
-    "data/clubs/ecuador-liga-pro": "/ecuador/liga-pro",
-    "data/clubs/paraguay-copa-de-primera": "/paraguay/copa-de-primera",
-    "data/clubs/peru-liga-1": "/peru/liga-1",
-    "data/clubs/venezuela-liga-futve": "/venezuela/liga-futve",
-    "data/clubs/mexico-liga-mx": "/mexico/liga-mx",
-    "data/clubs/south-america-copa-libertadores": "/south-america/copa-libertadores",
-    "data/clubs/south-america-copa-sudamericana": "/south-america/copa-sudamericana",
-    "data/clubs/north-central-america-concacaf-champions-cup": "/north-central-america/concacaf-champions-cup",
-    "data/clubs/north-central-america-concacaf-caribbean-cup": "/north-central-america/concacaf-caribbean-cup",
-    "data/clubs/north-central-america-concacaf-central-american-cup": "/north-central-america/concacaf-central-american-cup",
-    "data/clubs/north-central-america-concacaf-caribbean-shield": "/north-central-america/concacaf-caribbean-shield",
-    "data/clubs/dominican-republic-ldf": "/dominican-republic/ldf",
-    "data/clubs/haiti-championnat-national": "/haiti/championnat-national",
-    "data/clubs/jamaica-premier-league": "/jamaica/premier-league",
-    "data/clubs/trinidad-and-tobago-tt-premier-league": "/trinidad-and-tobago/tt-premier-league",
-    "data/clubs/costa-rica-primera-division": "/costa-rica/primera-division",
-    "data/clubs/el-salvador-primera-division": "/el-salvador/primera-division",
-    "data/clubs/guatemala-liga-nacional": "/guatemala/liga-nacional",
-    "data/clubs/honduras-liga-nacional": "/honduras/liga-nacional",
-    "data/clubs/panama-lpf": "/panama/lpf",
-    "data/clubs/nicaragua-liga-primera": "/nicaragua/liga-primera",
-    "data/clubs/usa-mls": "/usa/mls",
-    "data/clubs/usa-us-open-cup": "/usa/us-open-cup",
-    "data/clubs/canada-canadian-championship": "/canada/championship",
-    "data/clubs/canada-canadian-premier-league": "/canada/canadian-premier-league",
-    "data/clubs/world-club-friendly": "/world/club-friendly",
-    "data/clubs/world-fifa-intercontinental-cup": "/world/fifa-intercontinental-cup",
-    "data/national/world-world-championship": "/world/world-championship",
-    "data/national/world-friendly-international": "/world/friendly-international",
-    "data/national/world-fifa-confederations-cup": "/world/fifa-confederations-cup",
-    "data/national/south-america-copa-america": "/south-america/copa-america",
-    "data/national/europe-euro": "/europe/euro",
-    "data/national/europe-uefa-nations-league": "/europe/uefa-nations-league",
+    # "data/clubs/uruguay-primera-division": "/uruguay/liga-auf-uruguaya",
+    # "data/clubs/argentina-primera-division": "/argentina/torneo-betano",
+    # "data/clubs/argentina-copa-argentina": "/argentina/copa-argentina",
+    # "data/clubs/argentina-copa-de-la-liga": "/argentina/copa-de-la-liga-profesional",
+    # "data/clubs/brazil-brasileirao-serie-a": "/brazil/serie-a-betano",
+    # "data/clubs/brazil-copa-do-brasil": "/brazil/copa-betano-do-brasil",
+    # "data/clubs/chile-primera-division": "/chile/liga-de-primera",
+    # "data/clubs/chile-copa-chile": "/chile/copa-chile",
+    # "data/clubs/bolivia-primera-division": "/bolivia/division-profesional",
+    # "data/clubs/colombia-primera-a": "/colombia/primera-a",
+    # "data/clubs/colombia-copa-colombia": "/colombia/copa-colombia",
+    # "data/clubs/ecuador-liga-pro": "/ecuador/liga-pro",
+    # "data/clubs/paraguay-copa-de-primera": "/paraguay/copa-de-primera",
+    # "data/clubs/peru-liga-1": "/peru/liga-1",
+    # "data/clubs/venezuela-liga-futve": "/venezuela/liga-futve",
+    # "data/clubs/mexico-liga-mx": "/mexico/liga-mx",
+    # "data/clubs/south-america-copa-libertadores": "/south-america/copa-libertadores",
+    # "data/clubs/south-america-copa-sudamericana": "/south-america/copa-sudamericana",
+    # "data/clubs/north-central-america-concacaf-champions-cup": "/north-central-america/concacaf-champions-cup",
+    # "data/clubs/north-central-america-concacaf-caribbean-cup": "/north-central-america/concacaf-caribbean-cup",
+    # "data/clubs/north-central-america-concacaf-central-american-cup": "/north-central-america/concacaf-central-american-cup",
+    # "data/clubs/north-central-america-concacaf-caribbean-shield": "/north-central-america/concacaf-caribbean-shield",
+    # "data/clubs/dominican-republic-ldf": "/dominican-republic/ldf",
+    # "data/clubs/haiti-championnat-national": "/haiti/championnat-national",
+    # "data/clubs/jamaica-premier-league": "/jamaica/premier-league",
+    # "data/clubs/trinidad-and-tobago-tt-premier-league": "/trinidad-and-tobago/tt-premier-league",
+    # "data/clubs/costa-rica-primera-division": "/costa-rica/primera-division",
+    # "data/clubs/el-salvador-primera-division": "/el-salvador/primera-division",
+    # "data/clubs/guatemala-liga-nacional": "/guatemala/liga-nacional",
+    # "data/clubs/honduras-liga-nacional": "/honduras/liga-nacional",
+    # "data/clubs/panama-lpf": "/panama/lpf",
+    # "data/clubs/nicaragua-liga-primera": "/nicaragua/liga-primera",
+    # "data/clubs/usa-mls": "/usa/mls",
+    # "data/clubs/usa-us-open-cup": "/usa/us-open-cup",
+    # "data/clubs/canada-canadian-championship": "/canada/championship",
+    # "data/clubs/canada-canadian-premier-league": "/canada/canadian-premier-league",
+    # "data/clubs/world-club-friendly": "/world/club-friendly",
+    # "data/clubs/world-fifa-intercontinental-cup": "/world/fifa-intercontinental-cup",
+    # "data/national/world-world-championship": "/world/world-championship",
+    # "data/national/world-friendly-international": "/world/friendly-international",
+    # "data/national/world-fifa-confederations-cup": "/world/fifa-confederations-cup",
+    # "data/national/south-america-copa-america": "/south-america/copa-america",
+    # "data/national/europe-euro": "/europe/euro",
+    # "data/national/europe-uefa-nations-league": "/europe/uefa-nations-league",
+    # "data/national/north-central-america-concacaf-gold-cup": "/north-central-america/gold-cup",
+    # "data/national/north-central-america-concacaf-nations-league": "/north-central-america/concacaf-nations-league",
+    # "data/national/africa-african-nations-championship": "/africa/african-nations-championship",
+    # "data/national/africa-africa-cup-of-nations": "/africa/africa-cup-of-nations",
+    # "data/national/asia-asian-cup": "/asia/asian-cup",
+    # "data/national/asia-saff-championship": "/asia/saff-championship",
+    # "data/national/asia-asean-championship": "/asia/asean-championship",
+    # "data/national/oceania-ofc-nations-cup": "/australia-oceania/ofc-nations-cup",
 }
 
 TIMEZONE = "Europe/Madrid"
@@ -130,10 +138,10 @@ def get_info(date_str):
 
 
 def get_year(date_str):
-    match = re.search(r"\-(\d{4})\-(\d{4})\/", date_str)
+    match = re.search(r"(\d{4})\-(\d{4})", date_str)
     if match:
         return [int(match.group(1)), int(match.group(2))]
-    match = re.search(r"\-(\d{4})\/", date_str)
+    match = re.search(r"(\d{4})", date_str)
     if match:
         return int(match.group(1))
 
@@ -292,7 +300,7 @@ def get_archive(url):
         driver.quit()
 
 
-def extract_results(url, filename):
+def extract_results(url, filename, year_str):
     try:
         print("Setting options...")
         # Set up the Chrome browser
@@ -342,7 +350,7 @@ def extract_results(url, filename):
 
     except NoSuchElementException:
         time.sleep(5)
-        year = get_year(url)
+        year = get_year(year_str)
         div_element = driver.find_element(By.ID, "live-table")
         results = extract_results_from_html(
             div_element.get_attribute("innerHTML"), year, driver
@@ -364,7 +372,7 @@ if __name__ == "__main__":
         for year_str, url in archive[::-1]:
             filename = os.path.join(folder, f"{year_str}.csv")
             if not os.path.exists(filename):
-                print(f"Extracting results for {url}...")
+                print(f"Extracting results for {url} for season {year_str}...")
                 url = f"{MAIN_URL}{url}results/"
-                extract_results(url, filename)
+                extract_results(url, filename, year_str)
                 time.sleep(5)

@@ -54,7 +54,7 @@ timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neu
 1628341200,Delmenhorst (Ger),Altona (Ger),0,0,,,,0
 1628341200,Deinze (Bel),G.A. Eagles (Ned),0,2,,,,0
 1628341200,Burnley (Eng),Cadiz CF (Esp),0,2,,,,0
-1628341200,Alfreton (Eng),King’s Lynn (Eng),4,1,,,,0
+1628341200,Alfreton (Eng), Lynn (Eng),4,1,,,,0
 1628343000,Vlasina (Srb),Sloga Leskovac (Srb),10,0,,,,0
 1628344800,Wingate & Finchley (Eng),Harrow (Eng),2,3,,,,0
 1628344800,Wimborne (Eng),Weymouth (Eng),0,2,,,,0
@@ -139,7 +139,7 @@ timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neu
 1628355600,Ponferradina (Esp),R. Oviedo (Esp),1,0,,,,0
 1628355600,Leganes (Esp),Rayo Vallecano (Esp),1,1,Pen,2,1,0
 1628355600,K. Lierse S.K. (Bel),Dender (Bel),1,0,,,,0
-1628355600,Jove Español (Esp),Aguilas FC (Esp),1,3,,,,0
+1628355600,Jove Espanol (Esp),Aguilas FC (Esp),1,3,,,,0
 1628355600,Izarra (Esp),SD Logrones (Esp),1,1,,,,0
 1628355600,Granada CF (Esp),Linares (Esp),2,1,,,,0
 1628355600,Frosinone (Ita),Benevento (Ita),2,2,,,,0
@@ -495,7 +495,7 @@ timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neu
 1629473400,ASIL Lysi (Cyp),Nea Salamis (Cyp),0,0,,,,0
 1629476100,Real Aviles (Esp),Cultural Leonesa (Esp),0,4,,,,0
 1629477000,R. Union (Esp),Izarra (Esp),0,1,,,,0
-1629478800,Jove Español (Esp),UD Los Garres (Esp),2,0,,,,0
+1629478800,Jove Espanol (Esp),UD Los Garres (Esp),2,0,,,,0
 1629478800,Burgos CF B (Esp),Zamora (Esp),3,1,,,,0
 1629478800,Arenteiro (Esp),Dep. La Coruna (Esp),1,1,,,,0
 1629480600,Bluebell Utd (Irl),Kilnamanagh (Irl),0,1,,,,0
@@ -601,7 +601,7 @@ timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neu
 1630081800,Osasuna B (Esp),Lleida (Esp),1,2,,,,0
 1630081800,Mosta (Mlt),Naxxar (Mlt),2,2,,,,0
 1630081800,Al Fujairah (Uae),Lebanon (Asi),0,2,,,,0
-1630083600,Jove Español (Esp),FC Cartagena SAD B (Esp),1,0,,,,0
+1630083600,Jove Espanol (Esp),FC Cartagena SAD B (Esp),1,0,,,,0
 1630089000,Motril (Esp),Almeria B (Esp),4,3,,,,0
 1630137600,Levante B (Esp),Beniganim (Esp),2,0,,,,0
 1630137600,Hercules (Esp),Eldense (Esp),1,2,,,,0
