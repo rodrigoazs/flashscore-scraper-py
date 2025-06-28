@@ -1,0 +1,865 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1402783200,Montserrat,Belize,2,5,,,,0
+1404028800,Cambodia,Laos,4,2,,,,0
+1404035100,Nepal,East Timor,2,1,,,,0
+1404037800,Sri Lanka,Philippines,1,1,,,,0
+1404037800,Mongolia,Myanmar,1,0,,,,0
+1404039600,Afghanistan,Palestine,0,2,,,,0
+1404043200,Bangladesh,Pakistan,3,0,,,,0
+1404044100,Vietnam,Macau,6,0,,,,0
+1404045900,Malaysia,Chinese Taipei,2,1,,,,0
+1404294300,East Timor,Nepal,0,5,,,,0
+1404334800,Turks and Caicos Islands,Bahamas,0,4,,,,0
+1404372600,Philippines,Sri Lanka,4,0,,,,0
+1404378000,Myanmar,Mongolia,2,0,,,,0
+1404385200,Macau,Vietnam,1,7,,,,0
+1404385200,Laos,Cambodia,6,2,AET,8,2,0
+1404385200,Chinese Taipei,Malaysia,3,2,,,,0
+1404396000,Palestine,Afghanistan,1,1,,,,0
+1404401400,Pakistan,Bangladesh,0,0,,,,0
+1404417600,United States Virgin Islands,British Virgin Islands,2,0,,,,0
+1404847800,Anguilla,Dominican Republic,0,2,,,,0
+1404864000,Aruba,Saint Lucia,4,2,,,,0
+1404936000,Bahamas,Turks and Caicos Islands,6,0,,,,0
+1405018800,British Virgin Islands,United States Virgin Islands,1,2,,,,0
+1405020600,Dominican Republic,Anguilla,4,0,,,,0
+1405195200,Saint Lucia,Aruba,4,2,Pen,5,2,0
+1405634400,Belize,Montserrat,3,1,,,,0
+1406098800,China,Laos,7,2,,,,0
+1406113200,Thailand,Palestine,1,0,,,,0
+1406115000,Singapore,Malaysia,5,3,,,,0
+1406122200,Turkmenistan,Indonesia,1,1,,,,0
+1406124000,Uzbekistan,Kyrgyzstan,4,0,,,,0
+1406124000,Lebanon,Bangladesh,4,0,,,,0
+1406127600,Iran,Maldives,4,0,,,,0
+1406129400,Oman,Myanmar,3,0,Awrd,,,0
+1406131200,United Arab Emirates,India,3,0,,,,0
+1406131200,Syria,Tajikistan,0,3,Awrd,,,0
+1406131200,Jordan,Nepal,9,0,,,,0
+1406131200,Iraq,Yemen,2,0,,,,0
+1406132100,Qatar,Vietnam,3,0,,,,0
+1406133000,Kuwait,Philippines,3,0,,,,0
+1406137500,Saudi Arabia,Hong Kong,3,0,,,,0
+1406538000,Myanmar,Oman,0,2,,,,0
+1406540700,Nepal,Jordan,1,1,,,,0
+1406545200,Tajikistan,Syria,3,0,Awrd,,,0
+1406545200,Philippines,Kuwait,1,2,,,,0
+1406545200,Laos,China,1,6,,,,0
+1406548800,Kyrgyzstan,Uzbekistan,0,3,,,,0
+1406548800,Indonesia,Turkmenistan,4,3,,,,0
+1406548800,Hong Kong,Saudi Arabia,0,5,,,,0
+1406548800,Bangladesh,Lebanon,2,0,,,,0
+1406549700,Vietnam,Qatar,2,1,,,,0
+1406551500,Malaysia,Singapore,1,1,,,,0
+1406554200,India,United Arab Emirates,2,2,,,,0
+1406559600,Palestine,Thailand,2,2,,,,0
+1406563200,Yemen,Iraq,0,0,,,,0
+1406563200,Maldives,Iran,0,1,,,,0
+1409652300,Australia,Thailand,2,1,,,,0
+1409653200,Japan,North Korea,1,0,,,,0
+1409655600,South Korea,Lebanon,6,0,,,,0
+1409657400,Tajikistan,Uzbekistan,0,1,,,,0
+1409659200,China,Singapore,2,1,,,,0
+1409666400,Iraq,Jordan,0,2,,,,0
+1409670000,Oman,Saudi Arabia,0,0,,,,0
+1409671800,United Arab Emirates,Kuwait,2,3,,,,0
+1409671800,Iran,Indonesia,3,0,,,,0
+1409677200,Bahrain,Qatar,0,0,,,,0
+1409686200,Grenada,Belize,0,3,,,,0
+1409688000,Trinidad & Tobago,Bermuda,1,0,,,,0
+1409688000,Haiti,United States Virgin Islands,6,0,,,,0
+1409691600,Suriname,Cayman Islands,1,0,,,,0
+1409695200,Dominica,Nicaragua,0,2,,,,0
+1409698800,Antigua and Barbuda,Curacao,5,2,,,,0
+1409702400,Saint Kitts and Nevis,Puerto Rico,0,0,,,,0
+1409702400,Guyana,Barbados,2,0,,,,0
+1409702400,Canada,Saint Lucia,4,1,,,,0
+1409707800,El Salvador,Dominican Republic,3,2,,,,0
+1409709600,Guatemala,Saint Vincent and the Grenadines,4,0,,,,0
+1409988600,North Korea,Tajikistan,1,0,,,,0
+1410001200,Thailand,Oman,3,0,,,,0
+1410003000,Singapore,Iraq,0,2,,,,0
+1410004800,Indonesia,Bahrain,0,2,,,,0
+1410012000,Uzbekistan,Japan,1,1,,,,0
+1410012000,Lebanon,United Arab Emirates,3,1,,,,0
+1410019200,Jordan,China,2,1,,,,0
+1410021000,Qatar,Iran,1,1,,,,0
+1410022800,Kuwait,South Korea,1,1,,,,0
+1410024600,Saudi Arabia,Australia,1,3,,,,0
+1410031800,United States Virgin Islands,Antigua and Barbuda,1,8,,,,0
+1410031800,Dominican Republic,Suriname,1,1,,,,0
+1410033600,Barbados,Trinidad & Tobago,0,2,,,,0
+1410040800,Saint Lucia,Saint Kitts and Nevis,2,4,,,,0
+1410040800,Belize,Guatemala,1,2,,,,0
+1410048000,Puerto Rico,Canada,0,3,,,,0
+1410048000,Guyana,Bermuda,2,1,,,,0
+1410048000,Curacao,Haiti,2,4,,,,0
+1410049800,Cayman Islands,El Salvador,1,4,,,,0
+1410051600,Nicaragua,Panama,1,2,,,,0
+1411066800,Saint Vincent and the Grenadines,Grenada,2,1,,,,0
+1412708400,Uruguay,Bolivia,4,2,,,,0
+1412708700,Saint Vincent and the Grenadines,Guatemala,0,3,,,,0
+1412708700,Dominican Republic,El Salvador,1,2,,,,0
+1412712000,United States Virgin Islands,Haiti,0,7,,,,0
+1412712000,Barbados,Guyana,0,2,,,,0
+1412715900,Ecuador,Venezuela,2,0,,,,0
+1412717400,Belize,Grenada,1,4,,,,0
+1412719200,Saint Lucia,Canada,0,7,,,,0
+1412719200,Dominica,Panama,0,5,,,,0
+1412722800,Bermuda,Trinidad & Tobago,2,1,,,,0
+1412723400,Argentina,Chile,4,1,,,,0
+1412726400,Puerto Rico,Saint Kitts and Nevis,1,1,,,,0
+1412726400,Curacao,Antigua and Barbuda,0,1,,,,0
+1412728200,Cayman Islands,Suriname,0,1,,,,0
+1412730900,Peru,Paraguay,2,0,,,,0
+1413010800,North Korea,Uzbekistan,0,1,,,,0
+1413016200,Australia,Oman,3,0,,,,0
+1413024300,Japan,Tajikistan,8,0,,,,0
+1413025200,Thailand,Saudi Arabia,0,0,,,,0
+1413025200,South Korea,United Arab Emirates,2,1,,,,0
+1413027000,Singapore,Jordan,0,3,,,,0
+1413028800,Indonesia,Qatar,2,3,,,,0
+1413029700,China,Iraq,0,1,,,,0
+1413036000,Lebanon,Kuwait,2,2,,,,0
+1413043200,Iran,Bahrain,6,0,,,,0
+1413057600,Bolivia,Colombia,1,2,,,,0
+1413057600,Haiti,Curacao,2,2,,,,0
+1413061200,Trinidad & Tobago,Barbados,4,0,,,,0
+1413061200,Suriname,Dominican Republic,1,3,,,,0
+1413067500,Paraguay,Uruguay,1,1,,,,0
+1413067500,Chile,Peru,4,2,,,,0
+1413068400,Canada,Puerto Rico,0,0,,,,0
+1413068400,Bermuda,Guyana,1,1,,,,0
+1413068400,Antigua and Barbuda,United States Virgin Islands,10,0,,,,0
+1413072000,Saint Kitts and Nevis,Saint Lucia,1,1,,,,0
+1413075000,Venezuela,Argentina,1,0,,,,0
+1413075600,Panama,Nicaragua,5,1,,,,0
+1413077400,El Salvador,Cayman Islands,4,0,,,,0
+1413079200,Guatemala,Belize,3,1,,,,0
+1413399600,Grenada,Saint Vincent and the Grenadines,1,1,,,,0
+1415696400,Tajikistan,Japan,0,4,,,,0
+1415707200,Djibouti,Namibia,0,4,,,,0
+1415707200,Comoros,Mozambique,0,1,,,,0
+1415709000,Eritrea,Rwanda,1,1,,,,0
+1415709900,United Arab Emirates,South Korea,0,2,,,,0
+1415710800,Uzbekistan,North Korea,1,0,,,,0
+1415710800,Seychelles,Kenya,0,3,,,,0
+1415714400,Oman,Australia,1,0,,,,0
+1415714400,Eswatini,D.R. Congo,1,3,,,,0
+1415715300,Iraq,China,1,0,,,,0
+1415716200,Kuwait,Lebanon,0,1,,,,0
+1415718000,Sao Tome and Principe,Congo,0,5,,,,0
+1415718000,Equatorial Guinea,Madagascar,2,0,,,,0
+1415718000,Chad,Tanzania,1,2,,,,0
+1415719800,Bahrain,Iran,1,1,,,,0
+1415721600,Qatar,Indonesia,4,0,,,,0
+1415721600,Jordan,Singapore,2,0,,,,0
+1415721600,Mauritius,Liberia,-,-,WO,,,0
+1415721600,Guinea Bissau,Togo,1,1,,,,0
+1415723400,Saudi Arabia,Thailand,3,0,,,,0
+1415728800,Lesotho,Burundi,1,0,,,,0
+1415732400,Dominican Republic,Cayman Islands,4,0,,,,0
+1415732400,Bermuda,Barbados,2,1,,,,0
+1415736000,Argentina,Bolivia,1,1,,,,0
+1415736000,United States Virgin Islands,Curacao,0,3,,,,0
+1415741400,Belize,Saint Vincent and the Grenadines,1,1,,,,0
+1415743200,Uruguay,Chile,4,0,,,,0
+1415746800,Suriname,El Salvador,1,3,,,,0
+1415746800,Antigua and Barbuda,Haiti,1,0,,,,0
+1415750400,Paraguay,Ecuador,2,1,,,,0
+1415750400,Colombia,Venezuela,1,1,,,,0
+1415750400,Saint Lucia,Puerto Rico,0,4,,,,0
+1415750400,Saint Kitts and Nevis,Canada,0,0,,,,0
+1415750400,Guyana,Trinidad & Tobago,2,1,,,,0
+1415754000,Nicaragua,Dominica,1,0,,,,0
+1415757600,Guatemala,Grenada,3,0,,,,0
+1415796300,Somalia,Ethiopia,0,0,,,,0
+1416009600,Puerto Rico,Saint Lucia,3,0,,,,0
+1416009600,Barbados,Bermuda,1,2,,,,0
+1416011400,Cayman Islands,Dominican Republic,1,1,,,,0
+1416034800,North Korea,Japan,1,0,,,,0
+1416049200,Thailand,Australia,0,1,,,,0
+1416051000,Singapore,China,0,4,,,,0
+1416052800,Indonesia,Iran,1,4,,,,0
+1416054600,Lebanon,South Korea,2,1,,,,0
+1416054600,Burundi,Lesotho,2,2,,,,0
+1416055500,Madagascar,Equatorial Guinea,2,1,,,,0
+1416056400,Uzbekistan,Tajikistan,3,0,,,,0
+1416056400,Tanzania,Chad,0,1,,,,0
+1416056400,Kenya,Seychelles,4,0,,,,0
+1416058200,Rwanda,Eritrea,3,1,,,,0
+1416061800,Kuwait,United Arab Emirates,2,1,,,,0
+1416061800,D.R. Congo,Eswatini,5,1,,,,0
+1416061800,Congo,Sao Tome and Principe,1,1,,,,0
+1416065400,Togo,Guinea Bissau,1,0,,,,0
+1416067200,Qatar,Bahrain,0,0,,,,0
+1416067200,Jordan,Iraq,1,3,,,,0
+1416069000,Saudi Arabia,Oman,0,0,,,,0
+1416070800,Mozambique,Comoros,4,1,,,,0
+1416074400,Namibia,Djibouti,4,0,,,,0
+1416078000,Saint Vincent and the Grenadines,Belize,0,2,,,,0
+1416078000,Grenada,Guatemala,1,4,,,,0
+1416081600,Haiti,Antigua and Barbuda,2,1,,,,0
+1416081600,Liberia,Mauritius,-,-,WO,,,0
+1416085200,Ecuador,Peru,2,0,,,,0
+1416085200,Colombia,Argentina,1,2,,,,0
+1416085200,Trinidad & Tobago,Guyana,2,0,,,,0
+1416094200,Chile,Paraguay,2,0,,,,0
+1416096000,Curacao,United States Virgin Islands,6,1,,,,0
+1416096000,Canada,Saint Kitts and Nevis,4,0,,,,0
+1416099600,Venezuela,Bolivia,1,0,,,,0
+1416099600,Panama,Dominica,3,0,,,,0
+1416101400,El Salvador,Suriname,4,0,,,,0
+1416142800,Ethiopia,Somalia,5,0,,,,0
+1393574400,China,Jordan,3,1,,,,0
+1393576200,Tajikistan,North Korea,1,1,,,,0
+1393579800,Oman,Thailand,2,0,,,,0
+1393579800,Australia,Saudi Arabia,4,2,,,,0
+1393583400,Japan,Uzbekistan,0,1,,,,0
+1393588800,United Arab Emirates,Lebanon,4,2,,,,0
+1393588800,South Korea,Kuwait,2,0,,,,0
+1393594200,Iran,Qatar,2,2,,,,0
+1393594200,Bahrain,Indonesia,10,0,,,,0
+1393595100,Iraq,Singapore,7,1,,,,0
+1401642000,Ghana,Lesotho,7,0,,,,0
+1401645600,Egypt,Mozambique,2,0,,,,0
+1401714000,Kenya,Malawi,0,0,,,,0
+1401717600,Central Africa,Botswana,2,0,,,,0
+1401719400,Cameroon,D.R. Congo,1,0,,,,0
+1401726600,Sierra Leone,Cape Verde,2,1,,,,0
+1401726600,Gambia,Morocco,1,1,,,,0
+1401728400,Tunisia,Equatorial Guinea,3,1,,,,0
+1401728400,Sudan,Zambia,0,3,Awrd,,,0
+1401728400,Ivory Coast,Tanzania,2,0,,,,0
+1401732000,Uruguay,Venezuela,1,1,,,,0
+1401732000,Senegal,Liberia,3,1,,,,0
+1401732000,Burkina Faso,Congo,0,3,Awrd,,,0
+1401737400,Algeria,Rwanda,4,0,,,,0
+1401739800,Bolivia,Chile,0,2,,,,0
+1401748200,Argentina,Ecuador,4,0,,,,0
+1401791400,Japan,Oman,3,0,,,,0
+1401800400,Zimbabwe,Guinea,0,1,,,,0
+1401800400,South Africa,Ethiopia,1,1,,,,0
+1401804000,Uzbekistan,Iran,0,1,,,,0
+1401807600,Nigeria,Namibia,1,0,,,,0
+1401807600,Niger,Gabon,3,0,Awrd,,,0
+1401807600,Benin,Mali,1,0,,,,0
+1401807600,Angola,Uganda,1,1,,,,0
+1401809400,Togo,Libya,1,1,,,,0
+1401811200,Jordan,Iraq,1,1,,,,0
+1401816600,Lebanon,Qatar,0,1,,,,0
+1401832800,Peru,Colombia,0,1,,,,0
+1402223400,Japan,Jordan,6,0,,,,0
+1402232400,Oman,Australia,0,0,,,,0
+1402232400,Lebanon,Uzbekistan,1,1,,,,0
+1402244100,Qatar,South Korea,1,4,,,,0
+1402250400,Cuba,Canada,0,1,,,,0
+1402269000,USA,Antigua and Barbuda,3,1,,,,0
+1402272000,Mexico,Guyana,3,1,,,,0
+1402277400,Jamaica,Guatemala,2,1,,,,0
+1402277400,Honduras,Panama,0,2,,,,0
+1402279200,Costa Rica,El Salvador,2,2,,,,0
+1402317000,Malawi,Nigeria,1,1,,,,0
+1402318800,Zambia,Ghana,1,0,,,,0
+1402318800,Uganda,Senegal,1,1,,,,0
+1402318800,Botswana,South Africa,1,1,,,,0
+1402324200,Gabon,Burkina Faso,1,0,,,,0
+1402324200,Congo,Niger,1,0,,,,0
+1402333200,Namibia,Kenya,1,0,,,,0
+1402333200,Equatorial Guinea,Sierra Leone,2,2,,,,0
+1402335000,Cape Verde,Tunisia,1,2,,,,0
+1402344000,Bolivia,Paraguay,3,1,,,,0
+1402344000,Morocco,Ivory Coast,2,2,,,,0
+1402353300,Venezuela,Chile,0,2,,,,0
+1402405200,Tanzania,Gambia,2,1,,,,0
+1402405200,Mozambique,Zimbabwe,0,0,,,,0
+1402405200,Lesotho,Sudan,0,0,,,,0
+1402405200,Ethiopia,Central Africa,2,0,,,,0
+1402407000,Rwanda,Benin,1,1,,,,0
+1402410600,D.R. Congo,Togo,2,0,,,,0
+1402416000,Libya,Cameroon,2,1,,,,0
+1402416000,Liberia,Angola,0,0,,,,0
+1402419600,Guinea,Egypt,2,3,,,,0
+1402425000,Uruguay,Peru,4,2,,,,0
+1402426800,Mali,Algeria,2,1,,,,0
+1402434000,Ecuador,Colombia,1,0,,,,0
+1402567200,Australia,Japan,1,1,,,,0
+1402570800,South Korea,Lebanon,3,0,,,,0
+1402584300,Iraq,Oman,1,1,,,,0
+1402587000,Iran,Qatar,0,0,,,,0
+1402614000,Antigua and Barbuda,Jamaica,0,0,,,,0
+1402616700,Canada,Honduras,0,0,,,,0
+1402617600,Guyana,Costa Rica,0,4,,,,0
+1402621500,Panama,Cuba,1,0,,,,0
+1402623000,El Salvador,Mexico,1,2,,,,0
+1402624800,Guatemala,USA,1,1,,,,0
+1410062400,Solomon Islands,Tahiti,2,0,,,,0
+1410073200,New Caledonia,New Zealand,0,2,,,,0
+1410102000,Russia,Northern Ireland,2,0,,,,0
+1410105600,Kazakhstan,Ireland,1,2,,,,0
+1410105600,Azerbaijan,Israel,1,1,,,,0
+1410109200,Liechtenstein,Bosnia & Herzegovina,1,8,,,,0
+1410109200,Georgia,Belarus,1,0,,,,0
+1410112800,Malta,Armenia,0,1,,,,0
+1410112800,Estonia,Romania,0,2,,,,0
+1410113700,Lithuania,Slovakia,1,1,,,,0
+1410113700,Croatia,North Macedonia,1,0,,,,0
+1410114600,Slovenia,Switzerland,0,2,,,,0
+1410114600,Netherlands,Turkey,2,0,,,,0
+1410114600,Montenegro,Poland,2,2,,,,0
+1410114600,Latvia,Greece,1,2,,,,0
+1410114600,Finland,France,0,1,,,,0
+1410114600,Andorra,Hungary,0,5,,,,0
+1410114600,Albania,Cyprus,3,1,,,,0
+1410115500,Wales,Belgium,0,2,,,,0
+1410115500,Moldova,England,0,5,,,,0
+1410115500,Luxembourg,Portugal,1,2,,,,0
+1410115500,Iceland,Norway,2,0,,,,0
+1410115500,Germany,Faroe Islands,3,0,,,,0
+1410115500,Bulgaria,Italy,2,2,,,,0
+1410116400,Cuba,Honduras,0,3,,,,0
+1410121800,Colombia,Uruguay,4,0,,,,0
+1410123600,Ecuador,Bolivia,1,0,,,,0
+1410131400,Argentina,Paraguay,3,1,,,,0
+1410133500,Canada,Panama,1,0,,,,0
+1410134400,Jamaica,USA,2,1,,,,0
+1410139500,Peru,Venezuela,2,1,,,,0
+1410139800,El Salvador,Guyana,2,2,,,,0
+1410141600,Guatemala,Antigua and Barbuda,3,1,,,,0
+1410141600,Costa Rica,Mexico,0,2,,,,0
+1410184800,Scotland,Serbia,0,0,,,,0
+1410200100,Denmark,Czech Republic,0,0,,,,0
+1410420900,New Zealand,Solomon Islands,6,1,,,,0
+1410431400,Japan,Iraq,1,0,,,,0
+1410440400,Uzbekistan,South Korea,2,2,,,,0
+1410444000,Lebanon,Iran,1,0,,,,0
+1410451200,Jordan,Australia,2,1,,,,0
+1410454800,Israel,Russia,0,4,,,,0
+1410454800,Cyprus,Iceland,1,0,,,,0
+1410456600,Romania,Andorra,4,0,,,,0
+1410456600,Georgia,Spain,0,1,,,,0
+1410458400,Turkey,Estonia,3,0,,,,0
+1410458400,Norway,Slovenia,2,1,,,,0
+1410458400,Bulgaria,Armenia,1,0,,,,0
+1410458400,Bosnia & Herzegovina,Latvia,4,1,,,,0
+1410459300,Slovakia,Liechtenstein,2,0,,,,0
+1410460200,Switzerland,Albania,2,0,,,,0
+1410460200,Sweden,Kazakhstan,2,0,,,,0
+1410460200,Serbia,Wales,6,1,,,,0
+1410460200,San Marino,Montenegro,0,6,,,,0
+1410460200,Hungary,Netherlands,1,4,,,,0
+1410460500,Austria,Germany,1,2,,,,0
+1410461100,Poland,Moldova,2,0,,,,0
+1410461100,Northern Ireland,Luxembourg,1,1,,,,0
+1410461100,Italy,Malta,2,0,,,,0
+1410461100,Greece,Lithuania,2,0,,,,0
+1410461100,Belgium,Croatia,1,1,,,,0
+1410462000,Scotland,North Macedonia,1,1,,,,0
+1410462000,France,Belarus,3,1,,,,0
+1410462000,England,Ukraine,1,1,,,,0
+1410462900,Portugal,Azerbaijan,3,0,,,,0
+1410463800,Chile,Colombia,1,3,,,,0
+1410471000,Uruguay,Ecuador,1,1,,,,0
+1410476400,Antigua and Barbuda,Guatemala,0,1,,,,0
+1410477900,Paraguay,Venezuela,0,2,,,,0
+1410480000,Guyana,El Salvador,2,3,,,,0
+1410480600,USA,Jamaica,1,0,,,,0
+1410483600,Mexico,Costa Rica,1,0,,,,0
+1410483900,Panama,Canada,2,0,,,,0
+1410485100,Peru,Argentina,1,1,,,,0
+1410485400,Honduras,Cuba,1,0,,,,0
+1410501600,Tahiti,New Caledonia,0,4,,,,0
+1413086400,Solomon Islands,New Caledonia,2,6,,,,0
+1413126000,Russia,Portugal,1,0,,,,0
+1413127800,Finland,Georgia,1,1,,,,0
+1413129600,Kazakhstan,Austria,0,0,,,,0
+1413129600,Faroe Islands,Sweden,1,2,,,,0
+1413129600,Czech Republic,Malta,3,1,,,,0
+1413133200,Armenia,Italy,1,3,,,,0
+1413133200,Albania,Iceland,1,2,,,,0
+1413135000,Turkey,Romania,0,1,,,,0
+1413135000,Liechtenstein,Lithuania,0,2,,,,0
+1413136800,Moldova,Ukraine,0,0,,,,0
+1413136800,Bulgaria,Denmark,1,1,,,,0
+1413136800,Belarus,Spain,0,4,,,,0
+1413137700,Slovakia,Latvia,2,1,,,,0
+1413138600,Switzerland,Norway,1,1,,,,0
+1413138600,Serbia,Belgium,0,3,,,,0
+1413138600,North Macedonia,Croatia,1,2,,,,0
+1413138600,Netherlands,Andorra,3,0,,,,0
+1413138600,Estonia,Hungary,0,1,,,,0
+1413139500,Wales,Scotland,2,1,,,,0
+1413139500,Slovenia,Cyprus,2,1,,,,0
+1413139500,Ireland,Germany,1,6,,,,0
+1413139500,Greece,Bosnia & Herzegovina,0,0,,,,0
+1413140400,Luxembourg,Israel,0,6,,,,0
+1413140400,England,San Marino,5,0,,,,0
+1413144000,Bolivia,Peru,1,1,,,,0
+1413145800,Colombia,Paraguay,2,0,,,,0
+1413147600,Ecuador,Chile,3,1,,,,0
+1413154800,Antigua and Barbuda,USA,1,2,,,,0
+1413157500,Canada,Cuba,3,0,,,,0
+1413158400,Argentina,Uruguay,3,0,,,,0
+1413162000,Guyana,Mexico,0,5,,,,0
+1413163800,El Salvador,Costa Rica,0,1,,,,0
+1413165600,Guatemala,Jamaica,2,1,,,,0
+1413165900,Panama,Honduras,0,0,,,,0
+1413180000,Tahiti,New Zealand,0,2,,,,0
+1413441600,New Zealand,Tahiti,3,0,,,,0
+1413448200,New Caledonia,Solomon Islands,5,0,,,,0
+1413462300,Qatar,Uzbekistan,0,1,,,,0
+1413464400,Oman,Jordan,2,1,,,,0
+1413468900,Iraq,Australia,1,2,,,,0
+1413471600,Russia,Azerbaijan,1,0,,,,0
+1413475200,Israel,Luxembourg,3,0,,,,0
+1413475200,Belarus,Georgia,2,0,,,,0
+1413477000,Iran,South Korea,1,0,,,,0
+1413478800,Latvia,Liechtenstein,2,0,,,,0
+1413478800,Andorra,Estonia,0,1,,,,0
+1413482400,Ukraine,Montenegro,0,1,,,,0
+1413482400,Romania,Netherlands,1,4,,,,0
+1413482400,Faroe Islands,Ireland,1,4,,,,0
+1413482400,Czech Republic,Bulgaria,0,0,,,,0
+1413482400,Cyprus,Norway,1,3,,,,0
+1413482400,Croatia,Wales,2,0,,,,0
+1413482400,Bosnia & Herzegovina,Lithuania,3,0,,,,0
+1413484200,Slovakia,Greece,0,1,,,,0
+1413484200,San Marino,Moldova,0,2,,,,0
+1413484200,North Macedonia,Serbia,1,0,,,,0
+1413484200,Iceland,Switzerland,0,2,,,,0
+1413484200,Hungary,Turkey,3,1,,,,0
+1413484500,Austria,Kazakhstan,4,0,,,,0
+1413485100,Italy,Denmark,3,1,,,,0
+1413485100,Germany,Sweden,4,4,,,,0
+1413485100,Belgium,Scotland,2,0,,,,0
+1413485100,Albania,Slovenia,1,0,,,,0
+1413486000,Spain,France,1,1,,,,0
+1413488700,Portugal,Northern Ireland,1,1,,,,0
+1413489600,Bolivia,Uruguay,4,1,,,,0
+1413489600,Honduras,Canada,8,1,,,,0
+1413489600,Cuba,Panama,1,1,,,,0
+1413496800,Venezuela,Ecuador,1,1,,,,0
+1413496800,Paraguay,Peru,1,0,,,,0
+1413501300,USA,Guatemala,3,1,,,,0
+1413501300,Jamaica,Antigua and Barbuda,4,1,,,,0
+1413504300,Chile,Argentina,1,2,,,,0
+1413507600,Mexico,El Salvador,2,0,,,,0
+1413507600,Costa Rica,Guyana,7,0,,,,0
+1413558000,Poland,England,1,1,,,,0
+1415964600,Oman,Japan,1,2,,,,0
+1415970000,Iraq,Jordan,1,0,,,,0
+1415976300,Qatar,Lebanon,1,0,,,,0
+1415982600,Iran,Uzbekistan,0,1,,,,0
+1415984400,Montenegro,San Marino,3,0,,,,0
+1415994300,Northern Ireland,Azerbaijan,1,1,,,,0
+1391720400,Honduras,USA,2,1,,,,0
+1391738400,Panama,Costa Rica,2,2,,,,0
+1391740200,Mexico,Jamaica,0,0,,,,0
+1395470700,New Zealand,New Caledonia,2,1,,,,0
+1395492300,Israel,Portugal,3,3,,,,0
+1395504000,Bulgaria,Malta,6,0,,,,0
+1395507600,Slovenia,Iceland,1,2,,,,0
+1395507600,Croatia,Serbia,2,0,,,,0
+1395511200,Norway,Albania,0,1,,,,0
+1395511200,Kazakhstan,Germany,0,3,,,,0
+1395512100,Andorra,Turkey,0,2,,,,0
+1395513000,Liechtenstein,Latvia,1,1,,,,0
+1395515400,Slovakia,Lithuania,1,1,,,,0
+1395515700,Luxembourg,Azerbaijan,0,0,,,,0
+1395516600,Netherlands,Estonia,3,0,,,,0
+1395516600,Moldova,Montenegro,0,1,,,,0
+1395516600,Hungary,Romania,2,2,,,,0
+1395516600,Czech Republic,Denmark,0,3,,,,0
+1395516600,Austria,Faroe Islands,6,0,,,,0
+1395517500,Sweden,Ireland,0,0,,,,0
+1395517500,Spain,Finland,1,1,,,,0
+1395517500,Poland,Ukraine,1,3,,,,0
+1395517500,North Macedonia,Belgium,0,2,,,,0
+1395517500,Bosnia & Herzegovina,Greece,3,1,,,,0
+1395518400,Colombia,Bolivia,5,0,,,,0
+1395518400,Scotland,Wales,1,2,,,,0
+1395518400,San Marino,England,0,8,,,,0
+1395518400,France,Georgia,3,1,,,,0
+1395522300,Honduras,Mexico,2,2,,,,0
+1395525600,Uruguay,Paraguay,1,1,,,,0
+1395532800,Argentina,Venezuela,3,0,,,,0
+1395538200,Jamaica,Panama,1,1,,,,0
+1395540600,Peru,Chile,1,0,,,,0
+1395540660,USA,Costa Rica,1,0,,,,0
+1395554400,Tahiti,Solomon Islands,2,0,,,,0
+1395585000,Congo,Gabon,1,0,,,,0
+1395585000,Cameroon,Togo,2,1,,,,0
+1395586800,Nigeria,Kenya,1,1,,,,0
+1395586800,Namibia,Malawi,0,1,,,,0
+1395592200,Cyprus,Switzerland,0,0,,,,0
+1395594000,Senegal,Angola,1,1,,,,0
+1395594000,Ivory Coast,Gambia,3,0,,,,0
+1395597600,Burkina Faso,Niger,4,0,,,,0
+1395598200,Tunisia,Sierra Leone,2,1,,,,0
+1395598500,South Africa,Central Africa,2,0,,,,0
+1395662400,Tanzania,Morocco,3,1,,,,0
+1395666000,Mozambique,Guinea,0,0,,,,0
+1395666000,Lesotho,Zambia,1,1,,,,0
+1395666000,Ethiopia,Botswana,1,0,,,,0
+1395667800,Rwanda,Mali,1,2,,,,0
+1395671400,D.R. Congo,Libya,0,0,,,,0
+1395676800,Liberia,Uganda,2,0,,,,0
+1395676800,Ghana,Sudan,4,0,,,,0
+1395676800,Equatorial Guinea,Cape Verde,0,3,Awrd,,,0
+1395806400,Solomon Islands,New Zealand,0,2,,,,0
+1395817200,New Caledonia,Tahiti,1,0,,,,0
+1395822600,Australia,Oman,2,2,,,,0
+1395831600,South Korea,Qatar,2,1,,,,0
+1395838800,Uzbekistan,Lebanon,1,0,,,,0
+1395842400,Jordan,Japan,2,1,,,,0
+1395849600,Armenia,Czech Republic,0,3,,,,0
+1395853200,Estonia,Andorra,2,0,,,,0
+1395853200,Azerbaijan,Portugal,0,2,,,,0
+1395853200,Egypt,Zimbabwe,2,1,,,,0
+1395858600,Turkey,Hungary,1,1,,,,0
+1395860400,Ukraine,Moldova,2,1,,,,0
+1395861300,Denmark,Bulgaria,1,1,,,,0
+1395862200,Serbia,Scotland,2,0,,,,0
+1395862200,Netherlands,Romania,4,0,,,,0
+1395862200,Algeria,Benin,3,1,,,,0
+1395863100,Wales,Croatia,1,2,,,,0
+1395863100,Poland,San Marino,5,0,,,,0
+1395863100,Northern Ireland,Israel,0,2,,,,0
+1395863100,Malta,Italy,0,2,,,,0
+1395863100,Ireland,Austria,2,2,,,,0
+1395863100,Germany,Kazakhstan,4,1,,,,0
+1395863100,Belgium,North Macedonia,1,0,,,,0
+1395864000,Bolivia,Argentina,1,1,,,,0
+1395864000,Montenegro,England,1,1,,,,0
+1395864000,France,Spain,0,1,,,,0
+1395867600,Ecuador,Paraguay,4,1,,,,0
+1395876600,Chile,Uruguay,2,0,,,,0
+1395878400,Venezuela,Colombia,1,0,,,,0
+1395885600,Panama,Honduras,2,0,,,,0
+1395885600,Costa Rica,Jamaica,2,0,,,,0
+1395887400,Mexico,USA,0,0,,,,0
+1401877800,Japan,Australia,1,1,,,,0
+1401886800,Oman,Iraq,1,0,,,,0
+1401898500,Qatar,Iran,0,1,,,,0
+1401903000,Lebanon,South Korea,1,1,,,,0
+1401931800,Jamaica,Mexico,0,1,,,,0
+1401971400,Malawi,Namibia,0,0,,,,0
+1401973200,Kenya,Nigeria,0,1,,,,0
+1402155000,Libya,D.R. Congo,0,0,,,,0
+1402156800,Finland,Belarus,1,0,,,,0
+1402156800,Azerbaijan,Luxembourg,1,1,,,,0
+1402156800,Armenia,Malta,0,1,,,,0
+1402158600,Latvia,Bosnia & Herzegovina,0,5,,,,0
+1402160400,Sudan,Ghana,1,3,,,,0
+1402164000,Liechtenstein,Slovakia,1,1,,,,0
+1402164900,Moldova,Poland,1,1,,,,0
+1402164900,Croatia,Scotland,0,1,,,,0
+1402165800,Montenegro,Ukraine,0,4,,,,0
+1402165800,Albania,Norway,1,1,,,,0
+1402166700,Lithuania,Greece,0,1,,,,0
+1402166700,Ireland,Faroe Islands,3,0,,,,0
+1402166700,Czech Republic,Italy,0,0,,,,0
+1402166700,Belgium,Serbia,2,1,,,,0
+1402166700,Austria,Sweden,2,1,,,,0
+1402167600,Iceland,Slovenia,2,4,,,,0
+1402170300,Portugal,Russia,1,0,,,,0
+1402171200,Bolivia,Venezuela,1,1,,,,0
+1402178700,Argentina,Colombia,0,0,,,,0
+1402186200,Paraguay,Chile,1,2,,,,0
+1402191000,Jamaica,USA,1,2,,,,0
+1402192800,Costa Rica,Honduras,1,0,,,,0
+1402193100,Panama,Mexico,0,0,,,,0
+1402193400,Peru,Ecuador,1,0,,,,0
+1402232400,Zambia,Lesotho,4,0,,,,0
+1402232400,Uganda,Liberia,1,0,,,,0
+1402232400,Botswana,Ethiopia,3,0,Awrd,,,0
+1402236000,Central Africa,South Africa,0,3,,,,0
+1402237800,Gabon,Congo,0,0,,,,0
+1402239600,Angola,Senegal,1,1,,,,0
+1402241400,Switzerland,Cyprus,1,0,,,,0
+1402245000,Sierra Leone,Tunisia,2,2,,,,0
+1402245000,Gambia,Ivory Coast,0,3,,,,0
+1402248600,Cape Verde,Equatorial Guinea,3,0,Awrd,,,0
+1402257600,Morocco,Tanzania,2,1,,,,0
+1402318800,Zimbabwe,Egypt,2,4,,,,0
+1402326000,Niger,Burkina Faso,0,1,,,,0
+1402326000,Benin,Algeria,1,3,,,,0
+1402327800,Togo,Cameroon,0,3,Awrd,,,0
+1402333200,Guinea,Mozambique,6,1,,,,0
+1402336800,Mali,Rwanda,1,1,,,,0
+1402477200,Australia,Jordan,4,0,,,,0
+1402484400,South Korea,Uzbekistan,1,0,,,,0
+1402497000,Iraq,Japan,0,1,,,,0
+1402500600,Iran,Lebanon,4,0,,,,0
+1402506000,Belarus,Finland,1,1,,,,0
+1402506900,Sweden,Faroe Islands,2,0,,,,0
+1402510500,Denmark,Armenia,0,4,,,,0
+1402518600,Colombia,Peru,2,0,,,,0
+1402520400,Ecuador,Argentina,1,1,,,,0
+1402531200,Venezuela,Uruguay,0,1,,,,0
+1402531200,Mexico,Costa Rica,0,0,,,,0
+1402533000,Chile,Bolivia,3,1,,,,0
+1402534800,Honduras,Jamaica,2,0,,,,0
+1402538880,USA,Panama,2,0,,,,0
+1402576200,Malawi,Kenya,2,2,,,,0
+1402599600,Namibia,Nigeria,1,1,,,,0
+1402761600,Libya,Togo,2,0,,,,0
+1402837200,Zambia,Sudan,1,1,,,,0
+1402837200,Uganda,Angola,2,1,,,,0
+1402837200,Botswana,Central Africa,3,2,,,,0
+1402842600,Congo,Burkina Faso,0,1,,,,0
+1402844400,Gabon,Niger,4,1,,,,0
+1402853400,Cape Verde,Sierra Leone,1,0,,,,0
+1402862400,Morocco,Gambia,2,0,,,,0
+1402920000,Tanzania,Ivory Coast,2,4,,,,0
+1402923600,Mozambique,Egypt,0,1,,,,0
+1402923600,Lesotho,Ghana,0,2,,,,0
+1402923600,Ethiopia,South Africa,2,1,,,,0
+1402925400,Rwanda,Algeria,0,1,,,,0
+1402929000,D.R. Congo,Cameroon,0,0,,,,0
+1402934400,Liberia,Senegal,0,2,,,,0
+1402934400,Equatorial Guinea,Tunisia,1,1,,,,0
+1402938000,Guinea,Zimbabwe,1,0,,,,0
+1402941600,Mali,Benin,2,2,,,,0
+1403083800,Australia,Iraq,1,0,,,,0
+1403092800,Uzbekistan,Qatar,5,1,,,,0
+1403092800,South Korea,Iran,0,1,,,,0
+1403107200,Jordan,Oman,1,0,,,,0
+1403139600,USA,Honduras,1,0,,,,0
+1403143200,Costa Rica,Panama,2,0,,,,0
+1408041900,Northern Ireland,Russia,1,0,,,,0
+1410015600,Kazakhstan,Faroe Islands,2,1,,,,0
+1410017400,Russia,Luxembourg,4,1,,,,0
+1410019200,Czech Republic,Armenia,1,2,,,,0
+1410019200,Jordan,Uzbekistan,1,1,,,,0
+1410019200,Ghana,Zambia,2,1,,,,0
+1410022800,Norway,Cyprus,2,0,,,,0
+1410022800,North Macedonia,Wales,2,1,,,,0
+1410026400,Ukraine,San Marino,9,0,,,,0
+1410026400,Turkey,Andorra,5,0,,,,0
+1410026400,Romania,Hungary,3,0,,,,0
+1410026400,Malta,Denmark,1,2,,,,0
+1410027000,Latvia,Lithuania,2,1,,,,0
+1410027300,Georgia,France,0,0,,,,0
+1410027300,Bosnia & Herzegovina,Slovakia,0,1,,,,0
+1410028200,Switzerland,Iceland,4,4,,,,0
+1410028200,Slovenia,Albania,1,0,,,,0
+1410028200,Finland,Spain,0,2,,,,0
+1410028200,Estonia,Netherlands,2,2,,,,0
+1410029100,Serbia,Croatia,1,1,,,,0
+1410029100,Poland,Montenegro,1,1,,,,0
+1410029100,Northern Ireland,Portugal,2,4,,,,0
+1410029100,Liechtenstein,Greece,0,1,,,,0
+1410029100,Italy,Bulgaria,1,0,,,,0
+1410029100,Ireland,Sweden,1,2,,,,0
+1410029100,Germany,Austria,3,0,,,,0
+1410030000,Scotland,Belgium,0,2,,,,0
+1410030000,England,Moldova,4,0,,,,0
+1410040800,Colombia,Ecuador,1,0,,,,0
+1410042600,Paraguay,Bolivia,4,0,,,,0
+1410049800,Chile,Venezuela,3,0,,,,0
+1410053400,Mexico,Honduras,1,2,,,,0
+1410055200,Panama,Jamaica,0,0,,,,0
+1410055200,Costa Rica,USA,3,1,,,,0
+1410057000,Peru,Uruguay,1,2,,,,0
+1410096600,South Africa,Botswana,4,1,,,,0
+1410096600,Central Africa,Ethiopia,1,2,,,,0
+1410102000,Nigeria,Malawi,2,0,,,,0
+1410102000,Angola,Liberia,4,1,,,,0
+1410103800,Niger,Congo,2,2,,,,0
+1410103800,Burkina Faso,Gabon,1,0,,,,0
+1410107400,Sierra Leone,Equatorial Guinea,3,2,,,,0
+1410107400,Gambia,Tanzania,2,0,,,,0
+1410109200,Ivory Coast,Morocco,1,1,,,,0
+1410111900,Israel,Azerbaijan,1,1,,,,0
+1410115500,Tunisia,Cape Verde,3,0,Awrd,,,0
+1410120000,Senegal,Uganda,1,0,,,,0
+1410181200,Zimbabwe,Mozambique,1,1,,,,0
+1410181200,Kenya,Namibia,1,0,,,,0
+1410186600,Cameroon,Libya,1,0,,,,0
+1410188400,Benin,Rwanda,2,0,,,,0
+1410190200,Togo,D.R. Congo,2,1,,,,0
+1410195600,Sudan,Lesotho,2,3,,,,0
+1410357600,Uzbekistan,Jordan,1,1,Pen,1,2,0
+1410357600,Egypt,Guinea,4,2,,,,0
+1410361200,Russia,Israel,3,1,,,,0
+1410363000,Lithuania,Liechtenstein,2,0,,,,0
+1410364800,Kazakhstan,Sweden,0,1,,,,0
+1410364800,Armenia,Denmark,0,1,,,,0
+1410368400,Norway,Switzerland,0,2,,,,0
+1410368400,Georgia,Finland,0,1,,,,0
+1410372000,Romania,Turkey,0,2,,,,0
+1410372000,Malta,Bulgaria,1,2,,,,0
+1410372900,Slovakia,Bosnia & Herzegovina,1,2,,,,0
+1410372900,Luxembourg,Northern Ireland,3,2,,,,0
+1410373800,North Macedonia,Scotland,1,2,,,,0
+1410373800,Hungary,Estonia,5,1,,,,0
+1410373800,Cyprus,Slovenia,0,2,,,,0
+1410373800,Andorra,Netherlands,0,2,,,,0
+1410374700,Wales,Serbia,0,3,,,,0
+1410374700,Ukraine,England,0,0,,,,0
+1410374700,San Marino,Poland,1,5,,,,0
+1410374700,Italy,Czech Republic,2,1,,,,0
+1410374700,Greece,Latvia,1,0,,,,0
+1410374700,Faroe Islands,Germany,0,3,,,,0
+1410374700,Austria,Ireland,1,0,,,,0
+1410375600,Iceland,Albania,2,1,,,,0
+1410375600,Belarus,France,2,4,,,,0
+1410377400,Algeria,Mali,1,0,,,,0
+1410379200,Bolivia,Ecuador,1,1,,,,0
+1410386400,Uruguay,Colombia,2,0,,,,0
+1410393300,Venezuela,Peru,3,2,,,,0
+1410393600,Jamaica,Costa Rica,1,1,,,,0
+1410393960,USA,Mexico,2,0,,,,0
+1410397200,Honduras,Panama,2,2,,,,0
+1410399600,Paraguay,Argentina,2,5,,,,0
+1413039600,Armenia,Bulgaria,2,1,,,,0
+1413041400,Lithuania,Latvia,2,0,,,,0
+1413043200,Moldova,San Marino,3,0,,,,0
+1413043200,Croatia,Belgium,1,2,,,,0
+1413043200,Azerbaijan,Northern Ireland,2,0,,,,0
+1413046800,Faroe Islands,Kazakhstan,1,1,,,,0
+1413048600,Malta,Czech Republic,1,4,,,,0
+1413050400,Ukraine,Poland,1,0,,,,0
+1413050400,Bosnia & Herzegovina,Liechtenstein,4,1,,,,0
+1413051300,Denmark,Italy,2,2,,,,0
+1413052200,Netherlands,Hungary,8,1,,,,0
+1413052200,Luxembourg,Russia,0,4,,,,0
+1413052200,Estonia,Turkey,0,2,,,,0
+1413052200,Andorra,Romania,0,4,,,,0
+1413052200,Albania,Switzerland,1,2,,,,0
+1413053100,Wales,North Macedonia,1,0,,,,0
+1413053100,Sweden,Austria,2,1,,,,0
+1413053100,Slovenia,Norway,3,0,,,,0
+1413053100,Iceland,Cyprus,2,0,,,,0
+1413053100,Greece,Slovakia,1,0,,,,0
+1413053100,Germany,Ireland,3,0,,,,0
+1413054000,England,Montenegro,4,1,,,,0
+1413056700,Portugal,Israel,1,1,,,,0
+1413057600,Spain,Belarus,2,1,,,,0
+1413061200,Venezuela,Paraguay,1,1,,,,0
+1413061200,Ecuador,Uruguay,1,0,,,,0
+1413061200,Colombia,Chile,3,3,,,,0
+1413061200,Honduras,Costa Rica,1,0,,,,0
+1413066600,USA,Jamaica,2,0,,,,0
+1413068400,Argentina,Peru,3,1,,,,0
+1413077400,Mexico,Panama,2,1,,,,0
+1413129600,Burkina Faso,Algeria,3,2,,,,0
+1413133200,Ivory Coast,Senegal,3,1,,,,0
+1413205200,Ethiopia,Nigeria,1,2,,,,0
+1413219600,Tunisia,Cameroon,0,0,,,,0
+1413388800,Cyprus,Albania,0,0,,,,0
+1413388800,Ghana,Egypt,6,1,,,,0
+1413392400,Portugal,Luxembourg,3,0,,,,0
+1413392400,Lithuania,Bosnia & Herzegovina,0,1,,,,0
+1413392400,Israel,Northern Ireland,1,1,,,,0
+1413392400,Greece,Liechtenstein,2,0,,,,0
+1413392400,Azerbaijan,Russia,1,1,,,,0
+1413396000,Turkey,Netherlands,0,2,,,,0
+1413396000,Switzerland,Slovenia,1,0,,,,0
+1413396000,Romania,Estonia,2,0,,,,0
+1413396000,Norway,Iceland,1,1,,,,0
+1413396000,Hungary,Andorra,2,0,,,,0
+1413396600,Latvia,Slovakia,2,2,,,,0
+1413396900,Denmark,Malta,6,0,,,,0
+1413396900,Bulgaria,Czech Republic,0,1,,,,0
+1413397800,Serbia,North Macedonia,5,1,,,,0
+1413398700,Sweden,Germany,3,5,,,,0
+1413398700,Italy,Armenia,2,2,,,,0
+1413398700,Ireland,Kazakhstan,3,1,,,,0
+1413398700,Faroe Islands,Austria,0,3,,,,0
+1413399600,Spain,Georgia,2,0,,,,0
+1413399600,Scotland,Croatia,2,0,,,,0
+1413399600,San Marino,Ukraine,0,8,,,,0
+1413399600,Montenegro,Moldova,2,5,,,,0
+1413399600,France,Finland,3,0,,,,0
+1413399600,England,Poland,2,0,,,,0
+1413399600,Belgium,Wales,1,1,,,,0
+1413415800,Uruguay,Argentina,3,2,,,,0
+1413415800,Paraguay,Colombia,1,2,,,,0
+1413415800,Chile,Ecuador,2,1,,,,0
+1413423000,Panama,USA,2,3,,,,0
+1413423000,Jamaica,Honduras,2,2,,,,0
+1413423000,Costa Rica,Mexico,2,1,,,,0
+1413425700,Peru,Bolivia,1,1,,,,0
+1415890800,Jordan,Uruguay,0,5,,,,0
+1415910600,Mexico,New Zealand,5,1,,,,0
+1416078000,Iceland,Croatia,0,0,,,,0
+1416080700,Ukraine,France,2,0,,,,0
+1416080700,Portugal,Sweden,1,0,,,,0
+1416080700,Greece,Romania,3,1,,,,0
+1416150000,Nigeria,Ethiopia,2,0,,,,0
+1416164400,Senegal,Ivory Coast,1,1,,,,0
+1416232800,Cameroon,Tunisia,4,1,,,,0
+1416412800,Egypt,Ghana,2,1,,,,0
+1416420900,Algeria,Burkina Faso,1,0,,,,0
+1416423600,Romania,Greece,1,1,,,,0
+1416424500,Croatia,Iceland,2,0,,,,0
+1416426300,Sweden,Portugal,2,3,,,,0
+1416427200,France,Ukraine,3,0,,,,0
+1416463200,New Zealand,Mexico,2,4,,,,0
+1416524400,Uruguay,Jordan,0,0,,,,0
+1402603200,Brazil,Croatia,3,1,,,,0
+1402675200,Mexico,Cameroon,1,0,,,,0
+1402686000,Spain,Netherlands,1,5,,,,0
+1402696800,Chile,Australia,3,1,,,,0
+1402761600,Colombia,Greece,3,0,,,,0
+1402772400,Uruguay,Costa Rica,1,3,,,,0
+1402783200,England,Italy,1,2,,,,0
+1402794000,Ivory Coast,Japan,2,1,,,,0
+1402848000,Switzerland,Ecuador,2,1,,,,0
+1402858800,France,Honduras,3,0,,,,0
+1402869600,Argentina,Bosnia & Herzegovina,2,1,,,,0
+1402934400,Germany,Portugal,4,0,,,,0
+1402945200,Iran,Nigeria,0,0,,,,0
+1402956000,Ghana,USA,1,2,,,,0
+1403020800,Belgium,Algeria,2,1,,,,0
+1403031600,Brazil,Mexico,0,0,,,,0
+1403042400,Russia,South Korea,1,1,,,,0
+1403107200,Australia,Netherlands,2,3,,,,0
+1403118000,Spain,Chile,0,2,,,,0
+1403128800,Cameroon,Croatia,0,4,,,,0
+1403193600,Colombia,Ivory Coast,2,1,,,,0
+1403204400,Uruguay,England,2,1,,,,0
+1403215200,Japan,Greece,0,0,,,,0
+1403280000,Italy,Costa Rica,0,1,,,,0
+1403290800,Switzerland,France,2,5,,,,0
+1403301600,Honduras,Ecuador,1,2,,,,0
+1403366400,Argentina,Iran,1,0,,,,0
+1403377200,Germany,Ghana,2,2,,,,0
+1403388000,Nigeria,Bosnia & Herzegovina,1,0,,,,0
+1403452800,Belgium,Russia,1,0,,,,0
+1403463600,South Korea,Algeria,2,4,,,,0
+1403474400,USA,Portugal,2,2,,,,0
+1403539200,Netherlands,Chile,2,0,,,,0
+1403539200,Australia,Spain,0,3,,,,0
+1403553600,Croatia,Mexico,1,3,,,,0
+1403553600,Cameroon,Brazil,1,4,,,,0
+1403625600,Italy,Uruguay,0,1,,,,0
+1403625600,Costa Rica,England,0,0,,,,0
+1403640000,Japan,Colombia,1,4,,,,0
+1403640000,Greece,Ivory Coast,2,1,,,,0
+1403712000,Nigeria,Argentina,2,3,,,,0
+1403712000,Bosnia & Herzegovina,Iran,3,1,,,,0
+1403726400,Honduras,Switzerland,0,3,,,,0
+1403726400,Ecuador,France,0,0,,,,0
+1403798400,USA,Germany,0,1,,,,0
+1403798400,Portugal,Ghana,2,1,,,,0
+1403812800,South Korea,Belgium,0,1,,,,0
+1403812800,Algeria,Russia,1,1,,,,0
+1403971200,Brazil,Chile,1,1,Pen,2,1,0
+1403985600,Colombia,Uruguay,2,0,,,,0
+1404057600,Netherlands,Mexico,2,1,,,,0
+1404072000,Costa Rica,Greece,1,1,Pen,2,1,0
+1404144000,France,Nigeria,2,0,,,,0
+1404158400,Germany,Algeria,0,0,AET,2,1,0
+1404230400,Argentina,Switzerland,0,0,AET,1,0,0
+1404244800,Belgium,USA,0,0,AET,2,1,0
+1404489600,France,Germany,0,1,,,,0
+1404504000,Brazil,Colombia,2,1,,,,0
+1404576000,Argentina,Belgium,1,0,,,,0
+1404590400,Netherlands,Costa Rica,0,0,Pen,1,0,0
+1404849600,Brazil,Germany,1,7,,,,0
+1404936000,Netherlands,Argentina,0,0,Pen,0,1,0
+1405195200,Brazil,Netherlands,0,3,,,,0
+1405278000,Germany,Argentina,0,0,AET,1,0,0

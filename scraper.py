@@ -52,6 +52,14 @@ leagues = {
     "data/clubs/usa-us-open-cup": "/usa/us-open-cup",
     "data/clubs/canada-canadian-championship": "/canada/championship",
     "data/clubs/canada-canadian-premier-league": "/canada/canadian-premier-league",
+    "data/clubs/world-club-friendly": "/world/club-friendly",
+    "data/clubs/world-fifa-intercontinental-cup": "/world/fifa-intercontinental-cup",
+    "data/national/world-world-championship": "/world/world-championship",
+    "data/national/world-friendly-international": "/world/friendly-international",
+    "data/national/world-fifa-confederations-cup": "/world/fifa-confederations-cup",
+    "data/national/south-america-copa-america": "/south-america/copa-america",
+    "data/national/europe-euro": "/europe/euro",
+    "data/national/europe-uefa-nations-league": "/europe/uefa-nations-league",
 }
 
 TIMEZONE = "Europe/Madrid"
@@ -64,7 +72,14 @@ def download_logo(src, team_name):
     folder = "logos"
     os.makedirs(folder, exist_ok=True)
     team_name = re.sub(r"\(\w{3}\)", "", team_name).strip()
-    team_name = team_name.replace("'", "").replace("&", "").replace(" ", "_").lower()
+    team_name = (
+        team_name.replace("'", "")
+        .replace("&", "")
+        .replace(" ", "_")
+        .replace("/", "_")
+        .replace("\\", "_")
+        .lower()
+    )
     filename = os.path.join(folder, f"{team_name}.png")
     if not os.path.exists(filename):
         response = requests.get(src, verify=False)
@@ -78,6 +93,8 @@ def get_timestamp(date_str, year):
     if match:
         date = match.group(1)
         time = match.group(2)
+        if date == "29.02":
+            date = "28.02"
         full_date_str = f"{date}.{year} {time}"
         date_format = "%d.%m.%Y %H:%M"
         naive_dt = datetime.strptime(full_date_str, date_format)
@@ -89,6 +106,8 @@ def get_timestamp(date_str, year):
     match = re.search(r"(\d{2}\.\d{2})\.", date_str)
     if match:
         date = match.group(1)
+        if date == "29.02":
+            date = "28.02"
         full_date_str = f"{date}.{year}"
         date_format = "%d.%m.%Y"
         utc_dt = datetime.strptime(full_date_str, date_format)
@@ -135,6 +154,30 @@ def get_neutral(_id, driver):
     if "Neutral location" in popup.text:
         return "1"
     return "0"
+
+
+def get_url_and_season(html_content):
+    link = html_content.find("a", class_=["archive__text"])
+    pattern = r"(\d{4}\/\d{4}|\d{4}-\d{4}|\d{4})"
+    matches = re.findall(pattern, link.get_text(strip=True))
+    season = matches[0].replace("/", "-")
+    url = link["href"]
+    return (season, url)
+
+
+def get_archive_urls(html_content):
+    soup = BeautifulSoup(html_content, "html.parser")
+    matches = soup.find_all("div", class_=["archive__row"])
+    urls = []
+    for index, match in enumerate(matches):
+        if index == 0:
+            winner = match.find("div", class_=["archive__winner"])
+            text = winner.get_text(strip=True)
+            if text and "No winner" not in text:
+                urls.append(get_url_and_season(match))
+        else:
+            urls.append(get_url_and_season(match))
+    return urls
 
 
 def extract_results_from_html(html_content, year, driver):
@@ -239,9 +282,7 @@ def get_archive(url):
         time.sleep(2)
 
         source = driver.page_source
-        pattern = rf"(\/football{url}\-.*\/)\""
-        matches = re.findall(pattern, source)
-        return matches
+        return get_archive_urls(source)
 
     except TimeoutException:
         print("Not able to parse.")
@@ -320,12 +361,7 @@ if __name__ == "__main__":
     for folder, league_url in leagues.items():
         archive = get_archive(league_url)
         os.makedirs(folder, exist_ok=True)
-        for url in archive[::-1]:
-            pattern = r"-(\d{4}-\d{4}|\d{4})\/"
-            matches = re.findall(pattern, url)
-            if not matches:
-                continue
-            year_str = matches[0]
+        for year_str, url in archive[::-1]:
             filename = os.path.join(folder, f"{year_str}.csv")
             if not os.path.exists(filename):
                 print(f"Extracting results for {url}...")

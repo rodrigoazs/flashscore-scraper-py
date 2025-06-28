@@ -1,0 +1,932 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1654506000,Mongolia,Brunei,2,0,,,,0
+1654515000,Macau,Sri Lanka,1,0,,,,0
+1654515000,Laos,Bangladesh,0,1,,,,0
+1654515000,Cambodia,Pakistan,2,0,,,,0
+1654516800,Bhutan,Guam,1,0,,,,0
+1654605900,Malaysia,East Timor,7,1,,,,0
+1654924500,Guam,Bhutan,5,0,,,,0
+1654941600,Sri Lanka,Macau,3,0,Awrd,,,0
+1654949700,Brunei,Mongolia,2,1,,,,0
+1654951500,East Timor,Malaysia,1,5,,,,0
+1654952400,Bangladesh,Laos,0,0,,,,0
+1654963200,Pakistan,Cambodia,1,2,,,,0
+1662296400,Ethiopia,Lesotho,0,0,,,,0
+1662296400,Eritrea,Namibia,1,2,,,,0
+1662296400,Burundi,Tanzania,1,1,,,,0
+1662300000,South Sudan,Equatorial Guinea,1,1,,,,0
+1662301800,Mauritius,Mozambique,0,1,,,,0
+1662303600,Djibouti,Eswatini,2,1,,,,0
+1662305400,Sao Tome and Principe,Guinea Bissau,0,1,,,,0
+1662314400,Liberia,Sierra Leone,3,1,,,,0
+1662355800,Guam,Maldives,0,1,,,,0
+1662366600,North Korea,Lebanon,2,0,,,,0
+1662368400,Mongolia,Myanmar,1,0,,,,0
+1662376200,Chinese Taipei,Jordan,1,2,,,,0
+1662377400,Philippines,Syria,2,5,,,,0
+1662377400,Cambodia,Hong Kong,1,1,,,,0
+1662378300,Singapore,Yemen,2,2,,,,0
+1662379200,Thailand,Vietnam,0,0,,,,0
+1662379200,Seychelles,Rwanda,0,3,,,,0
+1662381000,Indonesia,Malaysia,2,3,,,,0
+1662386400,Tajikistan,Kyrgyzstan,1,0,,,,0
+1662386400,Sri Lanka,Turkmenistan,0,2,,,,0
+1662386400,Palestine,Uzbekistan,2,0,,,,0
+1662386400,India,Oman,1,2,,,,0
+1662388200,Chad,Sudan,1,3,,,,0
+1662390000,Somalia,Zimbabwe,1,0,,,,0
+1662395400,Qatar,Afghanistan,6,0,,,,0
+1662395400,Bahrain,Iraq,1,1,,,,0
+1662397200,Kuwait,Nepal,7,0,,,,0
+1662465600,Comoros,Togo,1,1,,,,0
+1662483600,Gambia,Angola,0,1,,,,0
+1662559200,Botswana,Malawi,0,0,,,,0
+1662642000,Tanzania,Burundi,1,1,Pen,2,1,0
+1662642000,Lesotho,Ethiopia,1,1,,,,0
+1662652800,Equatorial Guinea,South Sudan,1,0,,,,0
+1662654600,Sierra Leone,Liberia,1,0,,,,0
+1662787800,Guam,Philippines,1,4,,,,0
+1662800400,Mongolia,Tajikistan,0,1,,,,0
+1662808200,Chinese Taipei,Nepal,0,2,,,,0
+1662809400,Cambodia,Bahrain,0,1,,,,0
+1662810300,Singapore,Palestine,2,1,,,,0
+1662811200,Hong Kong,Iran,0,2,,,,0
+1662811200,Malawi,Botswana,1,0,,,,0
+1662812400,Myanmar,Japan,0,2,,,,0
+1662813000,Indonesia,Thailand,0,3,,,,0
+1662813900,Malaysia,United Arab Emirates,1,2,,,,0
+1662814800,Zimbabwe,Somalia,3,1,,,,0
+1662814800,Eswatini,Djibouti,0,0,,,,0
+1662818400,Turkmenistan,South Korea,0,2,,,,0
+1662818400,Sri Lanka,North Korea,0,1,,,,0
+1662818400,Afghanistan,Bangladesh,1,0,,,,0
+1662818400,Mozambique,Mauritius,2,0,,,,0
+1662822000,Maldives,China,0,5,,,,0
+1662822000,Angola,Gambia,2,1,,,,0
+1662823800,Kuwait,Australia,0,3,,,,0
+1662825600,Yemen,Saudi Arabia,2,2,,,,1
+1662825600,Togo,Comoros,2,0,,,,0
+1662825600,Rwanda,Seychelles,7,0,,,,0
+1662827400,Qatar,India,0,0,,,,0
+1662827400,Guinea Bissau,Sao Tome and Principe,2,1,,,,0
+1662829200,Sudan,Chad,0,0,,,,0
+1662829200,Namibia,Eritrea,2,0,,,,0
+1665392400,Australia,Nepal,5,0,,,,0
+1665398100,Japan,Mongolia,6,0,,,,0
+1665399600,South Korea,Sri Lanka,8,0,,,,0
+1665403200,Uzbekistan,Yemen,5,0,,,,0
+1665403200,China,Guam,7,0,,,,0
+1665406800,Vietnam,Malaysia,1,0,,,,0
+1665406800,Bangladesh,Qatar,0,2,,,,0
+1665408600,Iran,Cambodia,14,0,,,,0
+1665410400,Syria,Maldives,2,1,,,,0
+1665412200,Kyrgyzstan,Myanmar,7,0,,,,0
+1665414000,Oman,Afghanistan,3,0,,,,0
+1665417600,United Arab Emirates,Indonesia,5,0,,,,0
+1665417600,Lebanon,Turkmenistan,2,1,,,,0
+1665417600,Jordan,Kuwait,0,0,,,,0
+1665417600,Iraq,Hong Kong,2,0,,,,0
+1665421200,Saudi Arabia,Singapore,3,0,,,,0
+1665820800,Mongolia,Kyrgyzstan,1,2,,,,0
+1665822600,North Korea,South Korea,0,0,,,,0
+1665833400,Indonesia,Vietnam,1,3,,,,0
+1665833400,Cambodia,Iraq,0,4,,,,0
+1665834000,Chinese Taipei,Australia,1,7,,,,0
+1665834300,Singapore,Uzbekistan,1,3,,,,0
+1665835200,Thailand,United Arab Emirates,2,1,,,,0
+1665835200,Philippines,China,0,0,,,,0
+1665836100,Tajikistan,Japan,0,3,,,,0
+1665838800,Palestine,Saudi Arabia,0,0,,,,0
+1665842400,Syria,Guam,4,0,,,,0
+1665842400,Sri Lanka,Lebanon,0,3,,,,0
+1665842400,India,Bangladesh,1,1,,,,0
+1665849600,Jordan,Nepal,3,0,,,,0
+1665851400,Qatar,Oman,2,1,,,,0
+1665851400,Bahrain,Iran,1,0,,,,0
+1668421800,Myanmar,Tajikistan,4,3,,,,0
+1668423600,Turkmenistan,North Korea,3,1,,,,0
+1668423600,Maldives,Philippines,1,2,,,,0
+1668424500,Kyrgyzstan,Japan,0,2,,,,0
+1668427200,Uzbekistan,Saudi Arabia,2,3,,,,0
+1668427200,Hong Kong,Bahrain,0,0,,,,0
+1668429900,Malaysia,Thailand,2,1,,,,0
+1668430800,Vietnam,United Arab Emirates,1,0,,,,0
+1668430800,Lebanon,South Korea,0,0,,,,0
+1668434400,Syria,China,2,1,,,,0
+1668434400,Iraq,Iran,2,1,,,,0
+1668434400,Afghanistan,India,1,1,,,,0
+1668438000,Yemen,Palestine,1,0,,,,0
+1668438000,Oman,Bangladesh,4,1,,,,0
+1668441600,Kuwait,Chinese Taipei,9,0,,,,0
+1668441600,Jordan,Australia,0,1,,,,0
+1668848400,Nepal,Kuwait,0,1,,,,0
+1668853800,Myanmar,Mongolia,1,0,,,,0
+1668855600,Turkmenistan,Sri Lanka,2,0,,,,0
+1668855600,Maldives,Guam,3,1,,,,0
+1668859200,Uzbekistan,Palestine,2,0,,,,0
+1668859200,Hong Kong,Cambodia,2,0,,,,0
+1668861900,Malaysia,Indonesia,2,0,,,,0
+1668862800,Vietnam,Thailand,0,0,,,,0
+1668866400,Syria,Philippines,1,0,,,,0
+1668866400,Kyrgyzstan,Tajikistan,1,1,,,,0
+1668866400,Iraq,Bahrain,0,0,,,,1
+1668866400,Afghanistan,Qatar,0,1,,,,1
+1668870000,Yemen,Singapore,1,2,,,,0
+1668870000,Oman,India,1,0,,,,0
+1668873600,Jordan,Chinese Taipei,5,0,,,,0
+1668877200,Lebanon,North Korea,0,0,,,,0
+1665268200,Paraguay,Peru,2,2,,,,0
+1665269100,Uruguay,Chile,2,1,,,,0
+1665275400,Argentina,Ecuador,1,0,,,,0
+1665358200,Colombia,Venezuela,3,0,,,,0
+1665361800,Brazil,Bolivia,5,0,,,,0
+1665691200,Bolivia,Argentina,1,2,,,,0
+1665694800,Ecuador,Uruguay,4,2,,,,0
+1665698400,Venezuela,Paraguay,0,1,,,,0
+1665705600,Peru,Brazil,2,4,,,,0
+1665707400,Chile,Colombia,2,2,,,,0
+1668283200,Bolivia,Ecuador,2,3,,,,0
+1668297600,Argentina,Paraguay,1,1,,,,0
+1668371400,Colombia,Uruguay,0,3,,,,0
+1668380400,Chile,Peru,2,0,,,,0
+1668385800,Brazil,Venezuela,1,0,,,,0
+1668718800,Venezuela,Chile,2,1,,,,0
+1668718800,Ecuador,Colombia,6,1,,,,0
+1668726000,Uruguay,Brazil,0,2,,,,0
+1668726000,Paraguay,Bolivia,2,2,,,,0
+1668731400,Peru,Argentina,0,2,,,,0
+1670169600,Qatar,Bangladesh,5,0,,,,0
+1648141200,Turkey,Netherlands,4,2,,,,0
+1648151100,Slovenia,Croatia,1,0,,,,0
+1648151100,Serbia,Ireland,3,2,,,,0
+1648151100,Portugal,Azerbaijan,1,0,,,,1
+1648151100,Malta,Russia,1,3,,,,0
+1648151100,Latvia,Montenegro,1,2,,,,0
+1648151100,Gibraltar,Norway,0,3,,,,0
+1648151100,France,Ukraine,1,1,,,,0
+1648151100,Finland,Bosnia & Herzegovina,2,2,,,,0
+1648151100,Estonia,Czech Republic,2,6,,,,1
+1648151100,Cyprus,Slovakia,0,0,,,,0
+1648151100,Belgium,Wales,3,1,,,,0
+1648152000,Saint Kitts and Nevis,Puerto Rico,1,0,,,,0
+1648159200,Suriname,Cayman Islands,3,0,,,,0
+1648159200,Antigua and Barbuda,Montserrat,2,2,,,,0
+1648162800,Dominican Republic,Dominica,1,0,,,,0
+1648166400,Guatemala,Cuba,1,0,,,,0
+1648213200,Tajikistan,Mongolia,3,0,,,,0
+1648227600,Israel,Denmark,0,2,,,,0
+1648227600,Bulgaria,Switzerland,1,3,,,,0
+1648237500,Sweden,Georgia,1,0,,,,0
+1648237500,Spain,Greece,1,1,,,,0
+1648237500,Scotland,Austria,2,2,,,,0
+1648237500,Romania,North Macedonia,3,2,,,,0
+1648237500,Moldova,Faroe Islands,1,1,,,,0
+1648237500,Liechtenstein,Armenia,0,1,,,,0
+1648237500,Italy,Northern Ireland,2,0,,,,0
+1648237500,Hungary,Poland,3,3,,,,0
+1648237500,Germany,Iceland,3,0,,,,0
+1648237500,England,San Marino,5,0,,,,0
+1648237500,Andorra,Albania,0,1,,,,0
+1648242000,Haiti,Belize,2,0,,,,0
+1648245600,Curacao,Saint Vincent and the Grenadines,5,0,,,,0
+1648249200,Trinidad & Tobago,Guyana,3,0,,,,0
+1648252800,Panama,Barbados,1,0,,,,0
+1648252800,Canada,Bermuda,5,1,,,,0
+1648261500,El Salvador,Grenada,2,0,,,,0
+1648386000,Russia,Slovenia,2,1,,,,0
+1648386000,Montenegro,Gibraltar,4,1,,,,0
+1648396800,Norway,Turkey,0,3,,,,1
+1648396800,Netherlands,Latvia,2,0,,,,0
+1648396800,Croatia,Cyprus,1,0,,,,0
+1648396800,Belarus,Estonia,4,2,,,,0
+1648406700,Slovakia,Malta,2,2,,,,0
+1648406700,Serbia,Portugal,2,2,,,,0
+1648406700,Ireland,Luxembourg,0,1,,,,0
+1648406700,Czech Republic,Belgium,1,1,,,,0
+1648409400,Turks and Caicos Islands,Nicaragua,0,7,,,,1
+1648414800,British Virgin Islands,Guatemala,0,3,,,,1
+1648414800,Anguilla,Dominican Republic,0,6,,,,1
+1648418400,United States Virgin Islands,Antigua and Barbuda,0,3,,,,0
+1648418400,Bahamas,Saint Kitts and Nevis,0,4,,,,0
+1648422000,Aruba,Suriname,0,6,,,,1
+1648472400,Kazakhstan,France,0,2,,,,0
+1648483200,Georgia,Spain,1,2,,,,0
+1648483200,Denmark,Moldova,8,0,,,,0
+1648483200,Armenia,Iceland,2,0,,,,0
+1648483200,Albania,England,0,2,,,,0
+1648493100,Ukraine,Finland,1,1,,,,0
+1648493100,Switzerland,Lithuania,1,0,,,,0
+1648493100,San Marino,Hungary,0,3,,,,0
+1648493100,Romania,Germany,0,1,,,,0
+1648493100,Poland,Andorra,3,0,,,,0
+1648493100,North Macedonia,Liechtenstein,5,0,,,,0
+1648493100,Kosovo,Sweden,0,3,,,,0
+1648493100,Israel,Scotland,1,1,,,,0
+1648493100,Bulgaria,Italy,0,2,,,,0
+1648493100,Austria,Faroe Islands,3,1,,,,0
+1648497600,Dominica,Panama,1,2,,,,1
+1648501200,Puerto Rico,Trinidad & Tobago,1,1,,,,0
+1648501200,Cuba,Curacao,1,2,,,,1
+1648504800,Montserrat,El Salvador,1,1,,,,1
+1648591200,Cayman Islands,Canada,0,11,,,,1
+1648636200,Mongolia,Japan,0,14,,,,0
+1648656000,Cyprus,Slovenia,1,0,,,,0
+1648656000,Azerbaijan,Serbia,1,2,,,,0
+1648661400,Saudi Arabia,Palestine,5,0,,,,0
+1648665900,Wales,Czech Republic,1,0,,,,0
+1648665900,Turkey,Latvia,3,3,,,,0
+1648665900,Slovakia,Russia,2,1,,,,0
+1648665900,Montenegro,Norway,0,1,,,,0
+1648665900,Luxembourg,Portugal,1,3,,,,0
+1648665900,Gibraltar,Netherlands,0,7,,,,0
+1648665900,Croatia,Malta,3,0,,,,0
+1648665900,Belgium,Belarus,8,0,,,,0
+1648666800,Guyana,Bahamas,4,0,,,,1
+1648674000,Belize,Turks and Caicos Islands,5,0,,,,1
+1648677600,Saint Vincent and the Grenadines,British Virgin Islands,3,0,,,,1
+1648681200,Grenada,United States Virgin Islands,1,0,,,,0
+1648683000,Barbados,Anguilla,1,0,,,,1
+1648684800,Bermuda,Aruba,5,0,,,,1
+1648742400,Armenia,Romania,3,2,,,,0
+1648752300,Ukraine,Kazakhstan,1,1,,,,0
+1648752300,Spain,Kosovo,3,1,,,,0
+1648752300,Scotland,Faroe Islands,4,0,,,,0
+1648752300,San Marino,Albania,0,2,,,,0
+1648752300,Northern Ireland,Bulgaria,0,0,,,,0
+1648752300,Moldova,Israel,1,4,,,,0
+1648752300,Lithuania,Italy,0,2,,,,0
+1648752300,Liechtenstein,Iceland,1,4,,,,0
+1648752300,Greece,Georgia,1,1,,,,0
+1648752300,Germany,North Macedonia,1,2,,,,0
+1648752300,England,Poland,2,1,,,,0
+1648752300,Bosnia & Herzegovina,France,0,1,,,,0
+1648752300,Austria,Denmark,0,4,,,,0
+1648752300,Andorra,Hungary,1,4,,,,0
+1653733200,Japan,Myanmar,10,0,,,,0
+1653910200,Guam,China,0,7,,,,0
+1654196400,Dominica,Anguilla,3,0,,,,0
+1654203600,Montserrat,United States Virgin Islands,4,0,,,,0
+1654205400,Cuba,British Virgin Islands,5,0,,,,0
+1654207200,Cayman Islands,Aruba,1,3,,,,0
+1654212600,Puerto Rico,Bahamas,7,0,,,,0
+1654264800,Bangladesh,Afghanistan,1,1,,,,0
+1654266600,Iran,Hong Kong,3,1,,,,0
+1654272000,Nepal,Chinese Taipei,2,0,,,,0
+1654273800,Bahrain,Cambodia,8,0,,,,0
+1654274700,United Arab Emirates,Malaysia,4,0,,,,0
+1654274700,Thailand,Indonesia,2,2,,,,0
+1654275600,India,Qatar,0,1,,,,0
+1654279200,Palestine,Singapore,4,0,,,,0
+1654282800,Australia,Kuwait,3,0,,,,0
+1654286400,Bolivia,Venezuela,3,1,,,,0
+1654293600,Uruguay,Paraguay,0,0,,,,0
+1654300800,Argentina,Chile,1,1,,,,0
+1654308000,Peru,Colombia,0,3,,,,0
+1654358400,Maldives,Syria,0,4,,,,0
+1654372800,Saint Kitts and Nevis,Guyana,3,0,,,,0
+1654372800,Antigua and Barbuda,Grenada,1,0,,,,0
+1654380000,Suriname,Bermuda,6,0,,,,0
+1654380000,Guatemala,Saint Vincent and the Grenadines,10,0,,,,0
+1654383600,Dominican Republic,Barbados,1,1,,,,0
+1654389000,Brazil,Ecuador,2,0,,,,0
+1654390800,Nicaragua,Belize,3,0,,,,0
+1654408800,Lebanon,Sri Lanka,3,2,,,,0
+1654426800,South Korea,Turkmenistan,5,0,,,,0
+1654452000,Saudi Arabia,Yemen,3,0,,,,0
+1654455600,Turks and Caicos Islands,Haiti,0,10,,,,0
+1654462800,British Virgin Islands,Curacao,0,8,,,,0
+1654462800,Bahamas,Trinidad & Tobago,0,0,,,,0
+1654470000,United States Virgin Islands,El Salvador,0,7,,,,0
+1654473600,Aruba,Canada,0,7,,,,0
+1654473600,Anguilla,Panama,0,13,,,,0
+1654585200,Kyrgyzstan,Mongolia,0,1,,,,1
+1654597800,Japan,Tajikistan,4,1,,,,0
+1654610400,Guam,Syria,0,3,,,,0
+1654610400,Bangladesh,India,0,2,,,,0
+1654612200,Iraq,Cambodia,4,1,,,,0
+1654617600,Nepal,Jordan,0,3,,,,0
+1654619400,Iran,Bahrain,3,0,,,,0
+1654620300,Vietnam,Indonesia,4,0,,,,0
+1654620300,United Arab Emirates,Thailand,3,1,,,,0
+1654621200,Oman,Qatar,0,1,,,,0
+1654621200,China,Philippines,2,0,,,,0
+1654624800,Uzbekistan,Singapore,5,0,,,,0
+1654628400,Australia,Chinese Taipei,5,1,,,,0
+1654718400,Saint Vincent and the Grenadines,Cuba,0,1,,,,0
+1654718400,Guyana,Puerto Rico,0,2,,,,0
+1654722000,Ecuador,Peru,1,2,,,,0
+1654722000,Trinidad & Tobago,Saint Kitts and Nevis,2,0,,,,0
+1654722000,Haiti,Nicaragua,1,0,,,,0
+1654727400,Venezuela,Uruguay,0,0,,,,0
+1654729200,Colombia,Argentina,2,2,,,,0
+1654729200,Grenada,Montserrat,1,2,,,,0
+1654732800,Curacao,Guatemala,0,0,,,,0
+1654732800,Bermuda,Cayman Islands,1,1,,,,0
+1654734600,Paraguay,Brazil,0,2,,,,0
+1654736400,Barbados,Dominica,1,1,,,,0
+1654736700,Panama,Dominican Republic,3,0,,,,0
+1654736700,El Salvador,Antigua and Barbuda,3,0,,,,0
+1654736700,Canada,Suriname,4,0,,,,0
+1654738200,Chile,Bolivia,1,1,,,,0
+1654754400,Turkmenistan,Lebanon,3,2,,,,0
+1654772400,Sri Lanka,South Korea,0,5,,,,0
+1654930800,Myanmar,Kyrgyzstan,1,8,,,,0
+1654956000,Philippines,Guam,3,0,,,,0
+1654957800,Cambodia,Iran,0,10,,,,0
+1654963200,Nepal,Australia,0,3,,,,0
+1654965000,Hong Kong,Iraq,0,1,,,,0
+1654965900,Malaysia,Vietnam,1,2,,,,0
+1654965900,Indonesia,United Arab Emirates,0,5,,,,0
+1654966800,China,Maldives,5,0,,,,0
+1654967400,Afghanistan,Oman,1,2,,,,0
+1654970400,Yemen,Uzbekistan,0,1,,,,0
+1654970400,Singapore,Saudi Arabia,0,3,,,,0
+1654974000,Kuwait,Jordan,0,0,,,,0
+1655064000,Saint Kitts and Nevis,El Salvador,0,4,,,,0
+1655067600,Haiti,Canada,0,1,,,,0
+1655075100,Panama,Curacao,2,1,,,,0
+1655100000,South Korea,Lebanon,2,1,,,,0
+1655288880,Tajikistan,Myanmar,4,0,,,,0
+1655288880,Japan,Kyrgyzstan,5,1,,,,0
+1655301600,India,Afghanistan,1,1,,,,0
+1655305200,Philippines,Maldives,1,1,,,,0
+1655308800,Australia,Jordan,1,0,,,,0
+1655310600,Iran,Iraq,1,0,,,,0
+1655310600,Bahrain,Hong Kong,4,0,,,,0
+1655311500,United Arab Emirates,Vietnam,3,2,,,,0
+1655311500,Thailand,Malaysia,0,1,,,,0
+1655313000,Bangladesh,Oman,0,3,,,,0
+1655316000,Saudi Arabia,Uzbekistan,3,0,,,,0
+1655316000,Palestine,Yemen,3,0,,,,0
+1655316000,China,Syria,3,1,,,,0
+1655319600,Chinese Taipei,Kuwait,1,2,,,,0
+1655334000,Curacao,Panama,0,0,,,,0
+1655341200,Canada,Haiti,3,0,,,,0
+1655343000,El Salvador,Saint Kitts and Nevis,2,0,,,,0
+1662037200,Central Africa,Cape Verde,1,1,,,,0
+1662040800,Kazakhstan,Ukraine,2,2,,,,0
+1662048000,Senegal,Togo,2,0,,,,0
+1662048000,Guinea Bissau,Guinea,1,1,,,,0
+1662057900,Turkey,Montenegro,2,2,,,,0
+1662057900,Slovenia,Slovakia,1,1,,,,0
+1662057900,Russia,Croatia,0,0,,,,0
+1662057900,Portugal,Ireland,2,1,,,,0
+1662057900,Norway,Netherlands,1,1,,,,0
+1662057900,Moldova,Austria,0,2,,,,0
+1662057900,Malta,Cyprus,3,0,,,,0
+1662057900,Luxembourg,Azerbaijan,2,1,,,,0
+1662057900,Latvia,Gibraltar,3,1,,,,0
+1662057900,France,Bosnia & Herzegovina,1,1,,,,0
+1662057900,Faroe Islands,Israel,0,4,,,,0
+1662057900,Denmark,Scotland,2,0,,,,0
+1662058800,Mali,Rwanda,1,0,,,,0
+1662058800,Libya,Gabon,2,1,,,,0
+1662058800,Egypt,Angola,1,0,,,,0
+1662113640,Japan,Oman,0,1,,,,0
+1662116400,South Korea,Iraq,0,0,,,,0
+1662123600,Kenya,Uganda,0,0,,,,0
+1662123600,D.R. Congo,Tanzania,1,1,,,,0
+1662134400,Georgia,Kosovo,0,1,,,,0
+1662134400,Iran,Syria,1,0,,,,0
+1662134400,Niger,Burkina Faso,0,2,,,,0
+1662134400,Namibia,Congo,1,1,,,,0
+1662134400,Madagascar,Benin,0,1,,,,0
+1662137100,United Arab Emirates,Lebanon,0,0,,,,0
+1662141600,Saudi Arabia,Vietnam,3,1,,,,0
+1662141600,Australia,China,3,0,,,,0
+1662144300,Sweden,Spain,2,1,,,,0
+1662144300,Poland,Albania,4,1,,,,0
+1662144300,North Macedonia,Armenia,0,0,,,,0
+1662144300,Lithuania,Northern Ireland,1,4,,,,0
+1662144300,Liechtenstein,Germany,0,2,,,,0
+1662144300,Italy,Bulgaria,1,1,,,,0
+1662144300,Iceland,Romania,0,2,,,,0
+1662144300,Hungary,England,0,4,,,,0
+1662144300,Estonia,Belgium,2,5,,,,0
+1662144300,Czech Republic,Belarus,1,0,,,,0
+1662144300,Andorra,San Marino,2,0,,,,0
+1662145200,Morocco,Sudan,2,0,,,,0
+1662145200,Algeria,Djibouti,8,0,,,,0
+1662148800,Bolivia,Colombia,1,1,,,,0
+1662152400,Ecuador,Paraguay,2,0,,,,0
+1662163200,Venezuela,Argentina,1,3,,,,0
+1662163500,Canada,Honduras,1,1,,,,0
+1662166800,Peru,Uruguay,1,1,,,,0
+1662166800,Chile,Brazil,0,1,,,,0
+1662167100,Panama,Costa Rica,0,0,,,,0
+1662170400,Mexico,Jamaica,2,1,,,,0
+1662170700,El Salvador,USA,0,0,,,,0
+1662210000,Zimbabwe,South Africa,0,0,,,,0
+1662210000,Mozambique,Ivory Coast,0,0,,,,0
+1662220800,Nigeria,Liberia,2,0,,,,0
+1662220800,Mauritania,Zambia,1,2,,,,0
+1662231600,Tunisia,Equatorial Guinea,3,0,,,,0
+1662231600,Ghana,Ethiopia,1,0,,,,0
+1662231600,Cameroon,Malawi,2,0,,,,0
+1662296400,Finland,Kazakhstan,1,0,,,,0
+1662307200,Slovenia,Malta,1,0,,,,0
+1662307200,Serbia,Luxembourg,4,1,,,,0
+1662307200,Latvia,Norway,0,2,,,,0
+1662307200,Ireland,Azerbaijan,1,1,,,,0
+1662307200,Cyprus,Russia,0,2,,,,0
+1662317100,Ukraine,France,1,1,,,,0
+1662317100,Slovakia,Croatia,0,1,,,,0
+1662317100,Scotland,Moldova,1,0,,,,0
+1662317100,Netherlands,Montenegro,4,0,,,,0
+1662317100,Israel,Austria,5,2,,,,0
+1662317100,Gibraltar,Turkey,0,3,,,,0
+1662317100,Faroe Islands,Denmark,0,1,,,,0
+1662382800,Belarus,Wales,2,3,,,,1
+1662382800,Rwanda,Kenya,1,1,,,,0
+1662393600,Iceland,North Macedonia,2,2,,,,0
+1662393600,England,Andorra,4,0,,,,0
+1662393600,Bulgaria,Lithuania,1,0,,,,0
+1662393600,Albania,Hungary,1,0,,,,0
+1662393600,Togo,Namibia,0,1,,,,0
+1662403500,Switzerland,Italy,0,0,,,,0
+1662403500,Spain,Georgia,4,0,,,,0
+1662403500,San Marino,Poland,1,7,,,,0
+1662403500,Romania,Liechtenstein,2,0,,,,0
+1662403500,Kosovo,Greece,1,1,,,,0
+1662403500,Germany,Armenia,6,0,,,,0
+1662403500,Belgium,Czech Republic,3,0,,,,0
+1662404400,Gabon,Egypt,1,1,,,,0
+1662411600,Ecuador,Chile,0,0,,,,0
+1662415200,Uruguay,Bolivia,4,2,,,,0
+1662415200,Paraguay,Colombia,1,1,,,,0
+1662415200,Jamaica,Panama,0,3,,,,0
+1662418800,El Salvador,Honduras,0,0,,,,0
+1662418800,Costa Rica,Mexico,0,1,,,,0
+1662422400,USA,Canada,1,1,,,,0
+1662426000,Peru,Venezuela,1,0,,,,0
+1662469200,Uganda,Mali,0,0,,,,0
+1662469200,Djibouti,Niger,2,4,,,,0
+1662469200,Benin,D.R. Congo,1,1,,,,0
+1662480000,South Africa,Ghana,1,0,,,,0
+1662480000,Central Africa,Liberia,0,1,,,,1
+1662490800,Ivory Coast,Cameroon,2,1,,,,0
+1662548400,South Korea,Lebanon,1,0,,,,0
+1662552000,Vietnam,Australia,0,1,,,,0
+1662555600,Zambia,Tunisia,0,2,,,,0
+1662555600,Tanzania,Madagascar,3,2,,,,0
+1662555600,Malawi,Mozambique,1,0,,,,0
+1662555600,Ethiopia,Zimbabwe,1,0,,,,0
+1662562800,China,Japan,0,1,,,,0
+1662566400,Azerbaijan,Portugal,0,3,,,,0
+1662566400,Syria,United Arab Emirates,1,1,,,,0
+1662566400,Oman,Saudi Arabia,0,1,,,,0
+1662566400,Equatorial Guinea,Mauritania,1,0,,,,0
+1662566400,Congo,Senegal,1,3,,,,0
+1662566400,Cape Verde,Nigeria,1,2,,,,0
+1662573600,Iraq,Iran,0,3,,,,0
+1662576300,Slovakia,Cyprus,2,0,,,,0
+1662576300,Russia,Malta,2,0,,,,0
+1662576300,Norway,Gibraltar,5,1,,,,0
+1662576300,Netherlands,Turkey,6,1,,,,0
+1662576300,Montenegro,Latvia,0,0,,,,0
+1662576300,Ireland,Serbia,1,1,,,,0
+1662576300,France,Finland,2,0,,,,0
+1662576300,Faroe Islands,Moldova,2,1,,,,0
+1662576300,Denmark,Israel,5,0,,,,0
+1662576300,Croatia,Slovenia,3,0,,,,0
+1662576300,Bosnia & Herzegovina,Kazakhstan,2,2,,,,0
+1662576300,Austria,Scotland,0,1,,,,0
+1662577200,Sudan,Guinea Bissau,2,4,,,,0
+1662577200,Burkina Faso,Algeria,1,1,,,,0
+1662577200,Angola,Libya,0,1,,,,0
+1662652800,Armenia,Liechtenstein,1,1,,,,0
+1662662700,Wales,Estonia,0,0,,,,0
+1662662700,Poland,England,1,1,,,,0
+1662662700,Northern Ireland,Switzerland,0,0,,,,0
+1662662700,North Macedonia,Romania,0,0,,,,0
+1662662700,Kosovo,Spain,0,2,,,,0
+1662662700,Italy,Lithuania,5,0,,,,0
+1662662700,Iceland,Germany,0,4,,,,0
+1662662700,Hungary,Andorra,2,1,,,,0
+1662662700,Greece,Sweden,2,1,,,,0
+1662662700,Belarus,Belgium,0,1,,,,1
+1662662700,Albania,San Marino,5,0,,,,0
+1662679800,Canada,El Salvador,3,0,,,,0
+1662681900,Panama,Mexico,1,1,,,,0
+1662685200,Costa Rica,Jamaica,1,1,,,,0
+1662690600,Honduras,USA,1,4,,,,0
+1662762600,Uruguay,Ecuador,1,0,,,,0
+1662762600,Paraguay,Venezuela,2,1,,,,0
+1662764400,Colombia,Chile,3,1,,,,0
+1662766200,Argentina,Bolivia,3,0,,,,0
+1662769800,Brazil,Peru,2,0,,,,0
+1665072000,Sudan,Guinea,1,1,,,,0
+1665082800,Morocco,Guinea Bissau,5,0,,,,0
+1665140400,South Korea,Syria,2,1,,,,0
+1665147600,Tanzania,Benin,0,1,,,,0
+1665147600,Liberia,Cape Verde,1,2,,,,0
+1665147600,D.R. Congo,Madagascar,2,0,,,,0
+1665153000,Iraq,Lebanon,0,0,,,,1
+1665158400,Rwanda,Uganda,0,1,,,,0
+1665158400,Nigeria,Central Africa,0,1,,,,0
+1665158400,Equatorial Guinea,Zambia,2,0,,,,0
+1665161100,United Arab Emirates,Iran,0,1,,,,0
+1665162000,Saudi Arabia,Japan,1,0,,,,0
+1665162000,China,Vietnam,3,2,,,,1
+1665167400,Australia,Oman,3,1,,,,1
+1665169200,Tunisia,Mauritania,3,0,,,,0
+1665169200,Mali,Kenya,5,0,,,,0
+1665183600,Uruguay,Colombia,0,0,,,,0
+1665183600,Paraguay,Argentina,0,0,,,,0
+1665185400,Venezuela,Brazil,1,3,,,,0
+1665186300,USA,Jamaica,2,0,,,,0
+1665187500,Honduras,Costa Rica,0,0,,,,0
+1665189000,Ecuador,Bolivia,3,0,,,,0
+1665190800,Peru,Chile,2,0,,,,0
+1665193200,Mexico,Canada,1,1,,,,0
+1665194700,El Salvador,Panama,1,0,,,,0
+1665234000,Malawi,Ivory Coast,0,3,,,,0
+1665244800,Cameroon,Mozambique,3,1,,,,0
+1665244800,Angola,Gabon,3,1,,,,0
+1665254700,Turkey,Norway,1,1,,,,0
+1665254700,Russia,Slovakia,1,0,,,,0
+1665254700,Malta,Slovenia,0,4,,,,0
+1665254700,Liechtenstein,North Macedonia,0,4,,,,0
+1665254700,Latvia,Netherlands,0,1,,,,0
+1665254700,Iceland,Armenia,1,1,,,,0
+1665254700,Gibraltar,Montenegro,0,3,,,,0
+1665254700,Germany,Romania,2,1,,,,0
+1665254700,Estonia,Belarus,2,0,,,,0
+1665254700,Czech Republic,Wales,2,2,,,,0
+1665254700,Cyprus,Croatia,0,3,,,,0
+1665255600,Egypt,Libya,1,0,,,,0
+1665255600,Djibouti,Burkina Faso,0,4,,,,0
+1665255600,Algeria,Niger,6,1,,,,0
+1665320400,Lithuania,Bulgaria,3,1,,,,0
+1665320400,Kazakhstan,Bosnia & Herzegovina,0,2,,,,0
+1665320400,Guinea,Sudan,2,2,,,,0
+1665320400,Ethiopia,South Africa,1,3,,,,0
+1665331200,Sweden,Kosovo,3,0,,,,0
+1665331200,Scotland,Israel,3,2,,,,0
+1665331200,Georgia,Greece,0,2,,,,0
+1665331200,Finland,Ukraine,1,2,,,,0
+1665331200,Azerbaijan,Ireland,0,3,,,,0
+1665331200,Togo,Congo,1,1,,,,0
+1665331200,Ghana,Zimbabwe,3,1,,,,0
+1665341100,Switzerland,Northern Ireland,2,0,,,,0
+1665341100,Poland,San Marino,5,0,,,,0
+1665341100,Moldova,Denmark,0,4,,,,0
+1665341100,Luxembourg,Serbia,0,1,,,,0
+1665341100,Hungary,Albania,0,1,,,,0
+1665341100,Faroe Islands,Austria,0,2,,,,0
+1665341100,Andorra,England,0,5,,,,0
+1665342000,Senegal,Namibia,4,1,,,,0
+1665342000,Guinea Bissau,Morocco,0,3,,,,0
+1665406800,Uganda,Rwanda,1,0,,,,0
+1665406800,Kenya,Mali,0,1,,,,0
+1665406800,Central Africa,Nigeria,0,2,,,,0
+1665406800,Benin,Tanzania,0,1,,,,0
+1665417600,Zambia,Equatorial Guinea,1,1,,,,0
+1665417600,Madagascar,D.R. Congo,1,0,,,,0
+1665417600,Cape Verde,Liberia,1,0,,,,0
+1665428400,Mauritania,Tunisia,0,0,,,,0
+1665432000,Bolivia,Peru,1,0,,,,0
+1665433800,Venezuela,Ecuador,2,1,,,,0
+1665435600,Colombia,Brazil,0,0,,,,0
+1665439200,Panama,USA,1,0,,,,0
+1665439200,Jamaica,Canada,0,0,,,,0
+1665439200,Costa Rica,El Salvador,2,1,,,,0
+1665442800,Mexico,Honduras,3,0,,,,0
+1665444600,Argentina,Uruguay,3,0,,,,0
+1665446400,Chile,Paraguay,2,0,,,,0
+1665493200,Mozambique,Cameroon,0,1,,,,0
+1665493200,Gabon,Angola,2,0,,,,0
+1665504000,Cyprus,Malta,2,2,,,,0
+1665504000,Ivory Coast,Malawi,2,1,,,,0
+1665504000,Burkina Faso,Djibouti,2,0,,,,0
+1665513900,Slovenia,Russia,1,2,,,,0
+1665513900,Romania,Armenia,1,0,,,,0
+1665513900,Norway,Montenegro,2,0,,,,0
+1665513900,North Macedonia,Germany,0,4,,,,0
+1665513900,Netherlands,Gibraltar,6,0,,,,0
+1665513900,Latvia,Turkey,1,2,,,,0
+1665513900,Iceland,Liechtenstein,4,0,,,,0
+1665513900,Estonia,Wales,0,1,,,,0
+1665513900,Croatia,Slovakia,2,2,,,,0
+1665513900,Belarus,Czech Republic,0,2,,,,1
+1665514800,Libya,Egypt,0,3,,,,0
+1665569640,Japan,Australia,2,1,,,,0
+1665579600,Zimbabwe,Ghana,0,1,,,,0
+1665579600,Namibia,Senegal,1,3,,,,0
+1665581400,Iran,South Korea,1,1,,,,0
+1665583200,Kazakhstan,Finland,0,2,,,,0
+1665590400,Syria,Lebanon,2,3,,,,0
+1665590400,Oman,Vietnam,3,1,,,,0
+1665590400,South Africa,Ethiopia,1,0,,,,0
+1665590400,Niger,Algeria,0,4,,,,0
+1665590400,Congo,Togo,1,2,,,,0
+1665593100,United Arab Emirates,Iraq,2,2,,,,0
+1665594000,Saudi Arabia,China,3,2,,,,0
+1665600300,Ukraine,Bosnia & Herzegovina,1,1,,,,0
+1665600300,Sweden,Greece,2,0,,,,0
+1665600300,Serbia,Azerbaijan,3,1,,,,0
+1665600300,San Marino,Andorra,0,3,,,,0
+1665600300,Portugal,Luxembourg,5,0,,,,0
+1665600300,Lithuania,Switzerland,0,4,,,,0
+1665600300,Kosovo,Georgia,1,2,,,,0
+1665600300,Israel,Moldova,2,1,,,,0
+1665600300,Faroe Islands,Scotland,0,1,,,,0
+1665600300,England,Hungary,1,1,,,,0
+1665600300,Denmark,Austria,1,0,,,,0
+1665600300,Bulgaria,Northern Ireland,2,1,,,,0
+1665600300,Albania,Poland,0,1,,,,0
+1665601200,Guinea,Morocco,1,4,,,,0
+1665702000,USA,Costa Rica,2,1,,,,0
+1665703800,Canada,Panama,4,1,,,,0
+1665705900,Honduras,Jamaica,0,2,,,,0
+1665713100,El Salvador,Mexico,0,2,,,,0
+1665777600,Bolivia,Paraguay,4,0,,,,0
+1665781200,Colombia,Ecuador,0,0,,,,0
+1665790200,Argentina,Peru,1,0,,,,0
+1665792000,Chile,Venezuela,3,0,,,,0
+1665793800,Brazil,Uruguay,4,1,,,,0
+1668157800,Australia,Saudi Arabia,0,0,,,,0
+1668164400,South Korea,United Arab Emirates,1,0,,,,0
+1668168000,Vietnam,Japan,0,1,,,,0
+1668168000,Lebanon,Iran,1,2,,,,0
+1668171600,Uganda,Kenya,1,1,,,,0
+1668171600,Tanzania,D.R. Congo,0,3,,,,0
+1668171600,Ethiopia,Ghana,1,1,,,,0
+1668178800,China,Oman,1,1,,,,0
+1668182400,Rwanda,Mali,0,3,,,,0
+1668182400,Congo,Namibia,1,1,,,,0
+1668182400,Benin,Madagascar,2,0,,,,0
+1668186000,Russia,Cyprus,6,0,,,,0
+1668186000,Georgia,Sweden,2,0,,,,0
+1668186000,Azerbaijan,Luxembourg,1,3,,,,0
+1668186000,Armenia,North Macedonia,0,5,,,,0
+1668186000,Iraq,Syria,1,1,,,,0
+1668193200,Togo,Senegal,1,1,,,,0
+1668193200,South Africa,Zimbabwe,1,0,,,,0
+1668195900,Slovakia,Slovenia,2,2,,,,0
+1668195900,Romania,Iceland,0,0,,,,0
+1668195900,Malta,Croatia,1,7,,,,0
+1668195900,Ireland,Portugal,0,0,,,,0
+1668195900,Greece,Spain,0,1,,,,0
+1668195900,Germany,Liechtenstein,9,0,,,,0
+1668200400,Ecuador,Venezuela,1,0,,,,0
+1668207600,Paraguay,Chile,0,1,,,,0
+1668213000,Brazil,Colombia,1,0,,,,0
+1668218400,Peru,Bolivia,3,0,,,,0
+1668258000,Djibouti,Algeria,0,4,,,,0
+1668258000,Burkina Faso,Niger,1,1,,,,0
+1668268800,Guinea,Guinea Bissau,0,0,,,,0
+1668268800,Gabon,Libya,1,0,,,,0
+1668272400,Moldova,Scotland,0,2,,,,0
+1668279600,Sudan,Morocco,0,3,,,,0
+1668279600,Angola,Egypt,2,2,,,,0
+1668282300,Northern Ireland,Lithuania,1,0,,,,0
+1668282300,Italy,Switzerland,1,1,,,,0
+1668282300,Hungary,San Marino,4,0,,,,0
+1668282300,England,Albania,5,0,,,,0
+1668282300,Denmark,Faroe Islands,3,1,,,,0
+1668282300,Austria,Israel,4,2,,,,0
+1668282300,Andorra,Poland,1,4,,,,0
+1668294000,Uruguay,Argentina,0,1,,,,0
+1668301500,Honduras,Panama,2,3,,,,0
+1668304800,USA,Mexico,2,0,,,,0
+1668304800,El Salvador,Jamaica,1,1,,,,0
+1668305100,Canada,Costa Rica,1,0,,,,0
+1668344400,Zambia,Mauritania,4,0,,,,0
+1668344400,Malawi,Cameroon,0,4,,,,0
+1668348000,Bosnia & Herzegovina,Finland,1,3,,,,0
+1668355200,Liberia,Nigeria,0,2,,,,0
+1668355200,Equatorial Guinea,Tunisia,1,0,,,,0
+1668355200,Cape Verde,Central Africa,2,1,,,,0
+1668358800,Turkey,Gibraltar,6,0,,,,0
+1668358800,Norway,Latvia,0,0,,,,0
+1668366000,Ivory Coast,Mozambique,3,0,,,,0
+1668368700,Wales,Belarus,5,1,,,,0
+1668368700,Montenegro,Netherlands,2,2,,,,0
+1668368700,France,Kazakhstan,8,0,,,,0
+1668368700,Belgium,Estonia,3,1,,,,0
+1668430800,Zimbabwe,Ethiopia,1,1,,,,0
+1668430800,Madagascar,Tanzania,1,1,,,,0
+1668430800,D.R. Congo,Benin,2,0,,,,0
+1668434400,Slovenia,Cyprus,2,1,,,,0
+1668434400,Malta,Slovakia,0,6,,,,0
+1668434400,Croatia,Russia,1,0,,,,0
+1668441600,Mali,Uganda,1,0,,,,0
+1668445200,North Macedonia,Iceland,3,1,,,,0
+1668445200,Liechtenstein,Romania,0,2,,,,0
+1668445200,Armenia,Germany,1,4,,,,0
+1668452400,Senegal,Congo,2,0,,,,0
+1668452400,Ghana,South Africa,1,0,,,,0
+1668455100,Spain,Sweden,1,0,,,,0
+1668455100,Portugal,Serbia,1,2,,,,0
+1668455100,Luxembourg,Ireland,0,3,,,,0
+1668455100,Greece,Kosovo,1,1,,,,0
+1668517200,Namibia,Togo,0,1,,,,0
+1668517200,Kenya,Rwanda,2,1,,,,0
+1668528000,Niger,Djibouti,7,2,,,,0
+1668528000,Guinea Bissau,Sudan,0,0,,,,0
+1668541500,Switzerland,Bulgaria,4,0,,,,0
+1668541500,Scotland,Denmark,2,0,,,,0
+1668541500,San Marino,England,0,10,,,,0
+1668541500,Poland,Hungary,1,2,,,,0
+1668541500,Northern Ireland,Italy,0,0,,,,0
+1668541500,Israel,Faroe Islands,3,2,,,,0
+1668541500,Austria,Moldova,4,1,,,,0
+1668541500,Albania,Andorra,1,0,,,,0
+1668600000,Vietnam,Saudi Arabia,0,1,,,,0
+1668600000,Lebanon,United Arab Emirates,0,1,,,,0
+1668603600,Mozambique,Malawi,1,0,,,,0
+1668603600,Libya,Angola,1,1,,,,0
+1668603600,Egypt,Gabon,2,1,,,,0
+1668610800,Iraq,South Korea,0,3,,,,0
+1668610800,China,Australia,1,1,,,,0
+1668614400,Syria,Iran,0,3,,,,0
+1668614400,Oman,Japan,0,1,,,,0
+1668614400,Nigeria,Cape Verde,1,1,,,,0
+1668614400,Liberia,Central Africa,3,1,,,,0
+1668614400,Algeria,Burkina Faso,2,2,,,,0
+1668625200,Tunisia,Zambia,3,1,,,,0
+1668625200,Morocco,Guinea,3,0,,,,0
+1668625200,Mauritania,Equatorial Guinea,1,1,,,,0
+1668625200,Cameroon,Ivory Coast,1,0,,,,0
+1668627900,Wales,Belgium,1,1,,,,0
+1668627900,Netherlands,Norway,2,0,,,,0
+1668627900,Montenegro,Turkey,1,2,,,,0
+1668627900,Gibraltar,Latvia,1,3,,,,0
+1668627900,Finland,France,0,2,,,,0
+1668627900,Czech Republic,Estonia,2,0,,,,0
+1668627900,Bosnia & Herzegovina,Ukraine,0,2,,,,0
+1668628800,Bolivia,Uruguay,3,0,,,,0
+1668632400,Venezuela,Peru,1,2,,,,0
+1668636000,Jamaica,USA,1,1,,,,0
+1668639600,Colombia,Paraguay,0,0,,,,0
+1668641400,Argentina,Brazil,0,0,,,,0
+1668644100,Chile,Ecuador,0,2,,,,0
+1668647100,Panama,El Salvador,2,1,,,,0
+1668647100,Costa Rica,Honduras,2,1,,,,0
+1668650700,Canada,Mexico,2,1,,,,0
+1643274600,Australia,Vietnam,4,0,,,,0
+1643277660,Japan,China,2,0,,,,0
+1643284800,Lebanon,South Korea,0,1,,,,0
+1643293800,Iran,Iraq,1,0,,,,0
+1643295600,United Arab Emirates,Syria,2,0,,,,0
+1643303700,Saudi Arabia,Oman,1,0,,,,0
+1643317200,Ecuador,Brazil,1,1,,,,0
+1643324400,Paraguay,Uruguay,0,1,,,,0
+1643328000,USA,El Salvador,1,0,,,,0
+1643328000,Jamaica,Mexico,1,2,,,,0
+1643328900,Chile,Argentina,1,2,,,,0
+1643331900,Honduras,Canada,0,2,,,,0
+1643335500,Costa Rica,Panama,1,0,,,,0
+1643403600,Colombia,Peru,0,1,,,,0
+1643407200,Venezuela,Bolivia,4,1,,,,0
+1643573100,Canada,USA,2,0,,,,0
+1643580300,Panama,Jamaica,3,2,,,,0
+1643583600,Mexico,Costa Rica,0,0,,,,0
+1643587500,Honduras,El Salvador,0,2,,,,0
+1643710200,Japan,Saudi Arabia,2,0,,,,0
+1643716800,Vietnam,China,3,1,,,,0
+1643716800,Lebanon,Iraq,1,1,,,,0
+1643724000,Syria,South Korea,0,2,,,,0
+1643725800,Iran,United Arab Emirates,1,0,,,,0
+1643731200,Oman,Australia,2,2,,,,0
+1643745600,Bolivia,Chile,2,3,,,,0
+1643756400,Uruguay,Venezuela,4,1,,,,0
+1643758200,Argentina,Colombia,1,0,,,,0
+1643761800,Brazil,Paraguay,4,0,,,,0
+1643767200,Peru,Ecuador,1,1,,,,0
+1643846400,Jamaica,Costa Rica,0,1,,,,0
+1643848200,USA,Honduras,3,0,,,,0
+1643853600,El Salvador,Canada,0,2,,,,0
+1643857200,Mexico,Panama,1,0,,,,0
+1647525600,Cook Islands,Solomon Islands,0,2,,,,0
+1647612000,Papua New Guinea,New Zealand,0,1,,,,0
+1647622800,New Caledonia,Fiji,1,2,,,,0
+1647871200,Papua New Guinea,New Caledonia,1,0,,,,0
+1647882000,New Zealand,Fiji,4,0,,,,0
+1648113000,Australia,Japan,0,2,,,,0
+1648119600,South Korea,Iran,2,0,,,,0
+1648123200,Vietnam,Oman,0,1,,,,0
+1648123200,Lebanon,Syria,0,3,,,,0
+1648130400,Solomon Islands,Tahiti,3,1,,,,0
+1648134000,China,Saudi Arabia,1,1,,,,0
+1648141200,New Zealand,New Caledonia,7,1,,,,0
+1648141200,Fiji,Papua New Guinea,1,2,,,,0
+1648141200,Iraq,United Arab Emirates,1,0,,,,0
+1648151100,Wales,Austria,2,1,,,,0
+1648151100,Sweden,Czech Republic,0,0,AET,1,0,0
+1648151100,Russia,Poland,-,-,WO,,,0
+1648151100,Portugal,Turkey,3,1,,,,0
+1648151100,Italy,North Macedonia,0,1,,,,0
+1648163100,Jamaica,El Salvador,1,1,,,,0
+1648164600,Uruguay,Peru,1,0,,,,0
+1648164600,Paraguay,Ecuador,3,1,,,,0
+1648164600,Colombia,Bolivia,3,0,,,,0
+1648164600,Brazil,Chile,4,0,,,,0
+1648170300,Panama,Honduras,1,1,,,,0
+1648173600,Mexico,USA,0,0,,,,0
+1648173900,Costa Rica,Canada,1,0,,,,0
+1648220400,D.R. Congo,Morocco,1,1,,,,0
+1648227600,Mali,Tunisia,0,1,,,,0
+1648227600,Cameroon,Algeria,0,1,,,,0
+1648236600,Ghana,Nigeria,0,0,,,,0
+1648236600,Egypt,Senegal,1,0,,,,0
+1648251000,Argentina,Venezuela,3,0,,,,0
+1648389600,Solomon Islands,Papua New Guinea,3,2,,,,0
+1648402200,New Zealand,Tahiti,1,0,,,,0
+1648411500,Canada,Jamaica,4,0,,,,0
+1648415100,El Salvador,Costa Rica,1,2,,,,0
+1648422000,USA,Panama,5,1,,,,0
+1648422300,Honduras,Mexico,0,1,,,,0
+1648550100,Japan,Vietnam,1,1,,,,0
+1648553400,Iran,Lebanon,2,0,,,,0
+1648561500,United Arab Emirates,South Korea,1,0,,,,0
+1648561500,Syria,Iraq,1,1,,,,0
+1648569600,Oman,China,2,0,,,,0
+1648573200,Senegal,Egypt,1,0,Pen,2,0,0
+1648573200,Nigeria,Ghana,1,1,,,,0
+1648576800,Saudi Arabia,Australia,1,0,,,,0
+1648579500,Portugal,North Macedonia,2,0,,,,0
+1648579500,Poland,Sweden,2,0,,,,0
+1648582200,Tunisia,Mali,0,0,,,,0
+1648582200,Morocco,D.R. Congo,4,1,,,,0
+1648582200,Algeria,Cameroon,0,1,AET,1,2,0
+1648596600,Venezuela,Colombia,0,1,,,,0
+1648596600,Peru,Paraguay,2,0,,,,0
+1648596600,Ecuador,Argentina,1,1,,,,0
+1648596600,Chile,Uruguay,0,2,,,,0
+1648596600,Bolivia,Brazil,0,4,,,,0
+1648659600,Solomon Islands,New Zealand,0,5,,,,0
+1648688700,Panama,Canada,1,0,,,,0
+1648688700,Mexico,El Salvador,2,0,,,,0
+1648688700,Jamaica,Honduras,2,1,,,,0
+1648688700,Costa Rica,USA,2,0,,,,0
+1654109100,Scotland,Ukraine,1,3,,,,0
+1654444800,Wales,Ukraine,1,0,,,,0
+1654624800,United Arab Emirates,Australia,1,2,,,,1
+1655143200,Australia,Peru,0,0,Pen,1,0,1
+1655229600,Costa Rica,New Zealand,1,0,,,,1
+1668960000,Qatar,Ecuador,0,2,,,,0
+1669035600,England,Iran,6,2,,,,0
+1669046400,Senegal,Netherlands,0,2,,,,0
+1669057200,USA,Wales,1,1,,,,0
+1669111200,Argentina,Saudi Arabia,1,2,,,,0
+1669122000,Denmark,Tunisia,0,0,,,,0
+1669132800,Mexico,Poland,0,0,,,,0
+1669143600,France,Australia,4,1,,,,0
+1669197600,Morocco,Croatia,0,0,,,,0
+1669208400,Germany,Japan,1,2,,,,0
+1669219200,Spain,Costa Rica,7,0,,,,0
+1669230000,Belgium,Canada,1,0,,,,0
+1669284000,Switzerland,Cameroon,1,0,,,,0
+1669294800,Uruguay,South Korea,0,0,,,,0
+1669305600,Portugal,Ghana,3,2,,,,0
+1669316400,Brazil,Serbia,2,0,,,,0
+1669370400,Wales,Iran,0,2,,,,0
+1669381200,Qatar,Senegal,1,3,,,,0
+1669392000,Netherlands,Ecuador,1,1,,,,0
+1669402800,England,USA,0,0,,,,0
+1669456800,Tunisia,Australia,0,1,,,,0
+1669467600,Poland,Saudi Arabia,2,0,,,,0
+1669478400,France,Denmark,2,1,,,,0
+1669489200,Argentina,Mexico,2,0,,,,0
+1669543200,Japan,Costa Rica,0,1,,,,0
+1669554000,Belgium,Morocco,0,2,,,,0
+1669564800,Croatia,Canada,4,1,,,,0
+1669575600,Spain,Germany,1,1,,,,0
+1669629600,Cameroon,Serbia,3,3,,,,0
+1669640400,South Korea,Ghana,2,3,,,,0
+1669651200,Brazil,Switzerland,1,0,,,,0
+1669662000,Portugal,Uruguay,2,0,,,,0
+1669734000,Netherlands,Qatar,2,0,,,,0
+1669734000,Ecuador,Senegal,1,2,,,,0
+1669748400,Wales,England,0,3,,,,0
+1669748400,Iran,USA,0,1,,,,0
+1669820400,Tunisia,France,1,0,,,,0
+1669820400,Australia,Denmark,1,0,,,,0
+1669834800,Saudi Arabia,Mexico,1,2,,,,0
+1669834800,Poland,Argentina,0,2,,,,0
+1669906800,Croatia,Belgium,0,0,,,,0
+1669906800,Canada,Morocco,1,2,,,,0
+1669921200,Japan,Spain,2,1,,,,0
+1669921200,Costa Rica,Germany,2,4,,,,0
+1669993200,South Korea,Portugal,2,1,,,,0
+1669993200,Ghana,Uruguay,0,2,,,,0
+1670007600,Serbia,Switzerland,2,3,,,,0
+1670007600,Cameroon,Brazil,1,0,,,,0
+1670079600,Netherlands,USA,3,1,,,,0
+1670094000,Argentina,Australia,2,1,,,,0
+1670166000,France,Poland,3,1,,,,0
+1670180400,England,Senegal,3,0,,,,0
+1670252400,Japan,Croatia,1,1,Pen,1,2,0
+1670266800,Brazil,South Korea,4,1,,,,0
+1670338800,Morocco,Spain,0,0,Pen,1,0,0
+1670353200,Portugal,Switzerland,6,1,,,,0
+1670598000,Croatia,Brazil,0,0,Pen,2,1,0
+1670612400,Netherlands,Argentina,2,2,Pen,2,3,0
+1670684400,Morocco,Portugal,1,0,,,,0
+1670698800,England,France,1,2,,,,0
+1670958000,Argentina,Croatia,3,0,,,,0
+1671044400,France,Morocco,2,0,,,,0
+1671289200,Croatia,Morocco,2,1,,,,0
+1671375600,Argentina,France,2,2,Pen,4,3,0

@@ -1,0 +1,506 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1230818400,Zanzibar,Somalia,2,0,,,,0
+1230827400,Uganda,Rwanda,4,0,,,,0
+1230892200,Burundi,Djibouti,4,0,,,,0
+1230901200,Kenya,Eritrea,0,0,,,,0
+1230978600,Uganda,Zanzibar,0,0,,,,0
+1230978600,Somalia,Tanzania,1,0,,,,0
+1231065000,Djibouti,Sudan,1,1,,,,0
+1231065000,Burundi,Eritrea,1,1,,,,0
+1231151400,Tanzania,Zanzibar,2,1,,,,0
+1231151400,Rwanda,Somalia,3,0,,,,0
+1231237800,Sudan,Burundi,0,1,,,,0
+1231237800,Kenya,Djibouti,5,1,,,,0
+1231324200,Uganda,Somalia,4,0,,,,0
+1231324200,Tanzania,Rwanda,2,0,,,,0
+1231408800,Sudan,Eritrea,2,0,,,,0
+1231410600,Burundi,Kenya,0,1,,,,0
+1231497000,Uganda,Tanzania,2,1,,,,0
+1231497000,Rwanda,Zanzibar,3,0,,,,0
+1231500600,Iran,China,3,1,,,,0
+1231669800,Kenya,Tanzania,2,1,,,,0
+1231678800,Uganda,Burundi,5,0,,,,0
+1231851600,Tanzania,Burundi,3,2,,,,0
+1231862400,Uganda,Kenya,1,0,,,,0
+1231934400,Hong Kong,India,2,1,,,,0
+1232229600,Guatemala,Haiti,1,0,,,,0
+1232294400,Turkmenistan,Syria,1,5,,,,0
+1232323500,Honduras,Chile,2,0,,,,0
+1232463600,Kuwait,Turkmenistan,2,0,,,,0
+1232532900,North Korea,Denmark,0,1,,,,0
+1232535600,Thailand,Lebanon,2,1,,,,0
+1232665200,El Salvador,Nicaragua,1,1,,,,0
+1232674200,Honduras,Belize,2,1,,,,0
+1232712000,Denmark,Thailand,2,2,Pen,7,5,0
+1232722800,Kuwait,Syria,2,3,,,,0
+1232730000,Egypt,Kenya,1,0,,,,0
+1232760600,Costa Rica,Panama,3,0,,,,0
+1232830800,Belize,El Salvador,1,4,,,,0
+1232839800,Honduras,Nicaragua,4,1,,,,0
+1232847000,USA,Sweden,3,2,,,,0
+1232928000,Guatemala,Costa Rica,1,3,,,,0
+1233010800,Nicaragua,Belize,1,1,,,,0
+1233019800,Honduras,El Salvador,2,0,,,,0
+1233081000,South Africa,Zambia,1,0,,,,0
+1233106200,Panama,Guatemala,1,0,,,,0
+1233200400,Mexico,Sweden,0,1,,,,0
+1233279000,Nicaragua,Guatemala,2,0,,,,0
+1233356100,Costa Rica,El Salvador,3,0,,,,0
+1233367200,Honduras,Panama,0,1,,,,0
+1233483600,Ivory Coast,Burkina Faso,3,0,,,,0
+1233493200,Uzbekistan,Azerbaijan,1,1,,,,0
+1233496800,Syria,South Korea,1,1,,,,0
+1233523800,Honduras,El Salvador,1,0,,,,0
+1233532800,Costa Rica,Panama,0,0,Pen,0,1,0
+1233742800,Japan,Finland,5,1,,,,0
+1233756900,Bahrain,South Korea,2,2,,,,0
+1233813600,Saudi Arabia,Thailand,2,1,,,,0
+1233979200,El Salvador,Peru,1,0,,,,0
+1234034400,Lithuania,Poland,1,1,,,,0
+1234260000,Turkey U21,Ukraine U21,2,2,,,,0
+1234285200,Cyprus,Serbia,0,2,,,,0
+1234288800,Malta U21,Denmark U21,0,1,,,,0
+1234290000,Portugal U21,Switzerland U21,3,1,,,,0
+1234290600,Turkey U21,Ukraine U21,1,2,,,,0
+1234293300,Spain U21,Norway U21,1,1,,,,0
+1234294200,Ireland U21,Germany U21,1,1,,,,0
+1234295100,Brazil,Italy,2,0,,,,0
+1234296000,Ecuador,England U21,3,2,,,,0
+1234353600,Finland U21,Estonia U21,2,1,,,,0
+1234357200,Mozambique,Malawi,2,0,,,,0
+1234357200,Latvia,Armenia,0,0,,,,0
+1234357200,Cyprus U21,Serbia U21,0,2,,,,0
+1234359900,Croatia U21,North Macedonia U21,2,1,,,,0
+1234360800,North Macedonia,Moldova,1,1,,,,0
+1234362600,Tanzania,Zanzibar,0,0,,,,0
+1234363200,Libya,Uruguay,2,3,,,,0
+1234364400,Slovenia U21,Romania U21,3,1,,,,0
+1234364400,Israel U21,Moldova U21,4,1,,,,0
+1234364400,Iceland,Liechtenstein,2,0,,,,0
+1234364400,Angola,Mali,0,4,,,,0
+1234369800,Algeria,Benin,2,1,,,,0
+1234370700,Tunisia U21,France U21,1,1,,,,0
+1234371600,Serbia,Ukraine,0,1,,,,0
+1234371600,Kuwait,Azerbaijan,1,1,,,,0
+1234371600,Israel,Hungary,1,0,,,,0
+1234371600,Estonia,Kazakhstan,0,2,,,,0
+1234371600,Cyprus,Slovakia,3,2,,,,0
+1234372200,Egypt,Ghana,2,2,,,,0
+1234372500,Wales,Poland,0,1,,,,0
+1234372500,Lithuania,Andorra,3,1,,,,0
+1234373400,Burkina Faso,Togo,1,1,,,,0
+1234375200,Cameroon,Guinea,3,1,,,,0
+1234377000,Turkey,Ivory Coast,1,1,,,,0
+1234377000,South Africa,Chile,0,2,,,,0
+1234377900,Romania,Croatia,1,2,,,,0
+1234378800,Morocco,Czech Republic,0,0,,,,0
+1234379700,Greece,Denmark,1,1,,,,0
+1234380600,Tunisia,Netherlands,1,1,,,,0
+1234380600,Switzerland,Bulgaria,1,1,,,,0
+1234380600,Germany,Norway,0,1,,,,0
+1234380600,Austria,Sweden,0,2,,,,0
+1234381500,Nigeria,Jamaica,0,0,,,,0
+1234381500,Belgium,Slovenia,2,0,,,,0
+1234382400,Italy U21,Sweden U21,1,1,,,,0
+1234382400,France,Argentina,0,2,,,,0
+1234385100,Portugal,Finland,1,0,,,,0
+1234386000,Spain,England,2,0,,,,0
+1234396800,Peru,Paraguay,0,1,,,,0
+1234399500,Venezuela,Guatemala,2,1,,,,0
+1234400400,Colombia,Haiti,2,0,,,,0
+1234544400,Norway U21,Liechtenstein U21,2,0,,,,0
+1234962000,Libya,Senegal,1,0,,,,0
+1236819600,Mexico,Bolivia,5,1,,,,0
+1236985200,Iran,Kenya,1,0,,,,0
+1237298400,Qatar,Kuwait,1,0,,,,0
+1237417200,Trinidad & Tobago,Panama,1,0,,,,0
+1237633200,Uganda,Malawi,2,1,,,,0
+1237633200,Namibia,Botswana,0,0,,,,0
+1237652100,Syria,Qatar,1,2,,,,0
+1237723200,Uganda,Malawi,2,1,,,,0
+1237730400,Iceland,Faroe Islands,1,2,,,,0
+1237743000,Saudi Arabia,Iraq,0,0,,,,0
+1237820400,Bahrain,Zanzibar,5,2,,,,0
+1237825800,Kuwait,Iran,0,1,,,,0
+1237988700,Angola,Cape Verde,0,1,,,,0
+1238000400,Austria U21,Italy U21,2,2,,,,0
+1238074200,Turkey U21,Denmark U21,2,0,,,,0
+1238158800,Latvia U21,Poland U21,2,2,,,,0
+1238160600,Cyprus U21,Georgia U21,1,1,,,,0
+1238164200,Serbia U21,Ukraine U21,0,0,,,,0
+1238166000,Egypt U21,Czech Republic U21,0,0,,,,0
+1238169600,Croatia U21,Montenegro U21,1,1,,,,0
+1238174100,France U21,Estonia U21,3,0,,,,0
+1238174100,Finland U21,Sweden U21,1,0,,,,0
+1238175000,Norway U21,England U21,0,5,,,,0
+1238182200,Germany U21,Netherlands U21,0,4,,,,0
+1238183100,Ireland U21,Spain U21,2,1,,,,0
+1238234400,South Korea,Iraq,2,1,,,,0
+1238238000,Oman,Senegal,2,0,,,,0
+1238239800,Thailand,New Zealand,3,1,,,,0
+1238245200,South Africa,Norway,2,1,,,,0
+1238248800,Sri Lanka,Maldives,1,1,,,,0
+1238252400,Belarus U21,Lithuania U21,4,1,,,,0
+1238260500,England,Slovakia,4,0,,,,0
+1238515200,Austria U21,Switzerland U21,1,2,,,,0
+1238517900,Spain U21,Sweden U21,0,0,,,,0
+1238518800,Germany U21,Belarus U21,1,1,,,,0
+1238524200,Northern Ireland U21,Ukraine U21,1,1,,,,0
+1238525100,South Africa,Portugal,0,2,,,,0
+1238525100,Netherlands U21,Italy U21,1,1,,,,0
+1238525100,Angola,Morocco,0,2,,,,0
+1238526000,England U21,France U21,0,2,,,,0
+1238549400,Panama,Haiti,4,0,,,,0
+1238583600,Georgia U21,Belarus U21,0,1,,,,0
+1238589000,Iran,Senegal,1,1,,,,0
+1238590800,Lesotho,Botswana,0,0,,,,0
+1238590800,Lebanon,Namibia,1,1,,,,0
+1238592600,Serbia U21,Romania U21,1,1,,,,0
+1238599800,Finland U21,Latvia U21,1,2,,,,0
+1238605200,Norway,Finland,3,2,,,,0
+1238609700,Serbia,Sweden,2,0,,,,0
+1238859000,Angola,Namibia,0,0,,,,0
+1240052400,Turkmenistan,Philippines,5,0,,,,0
+1242226800,Jordan,Zanzibar,2,0,,,,0
+1242261000,Venezuela,Costa Rica,1,1,,,,0
+1242304200,Vietnam,Olympiacos Piraeus,1,0,,,,0
+1242856800,Argentina,Panama,3,1,,,,0
+1243125000,Jamaica,Haiti,2,2,,,,0
+1243159200,Malawi,Lesotho,1,0,,,,0
+1243350000,Iran,Indonesia,5,0,,,,0
+1243353600,Qatar,Saudi Arabia,2,1,,,,0
+1243420500,Japan,Chile,4,0,,,,0
+1243479600,Ecuador,El Salvador,1,3,,,,0
+1243534200,Tunisia,Sudan,4,0,,,,0
+1243591200,Chile,Belgium,1,1,,,,0
+1243598400,China,Germany,1,1,,,,0
+1243621800,Wales,Estonia,1,0,,,,0
+1243623600,Ireland,Nigeria,1,1,,,,0
+1243699200,Oman,Egypt,0,1,,,,0
+1243702800,Cyprus,Canada,0,1,,,,0
+1243725300,Jamaica,El Salvador,0,0,,,,0
+1243765200,Japan,Belgium,4,0,,,,0
+1243782000,Ghana,Uganda,2,0,,,,0
+1243791000,Kuwait,Vietnam,0,1,,,,0
+1243796400,Qatar,Iraq,1,0,,,,0
+1243856100,China,Iran,1,0,,,,0
+1243865100,Uzbekistan,Bosnia & Herzegovina,0,0,,,,0
+1243956600,Oman,South Korea,0,0,,,,0
+1243962000,Turkey,Azerbaijan,2,0,,,,0
+1243965600,United Arab Emirates,Germany,2,7,,,,0
+1243969200,France,Nigeria,0,1,,,,0
+1244034000,Tanzania,New Zealand,2,1,,,,0
+1244041200,Bulgaria U21,Austria U21,0,1,,,,0
+1244044800,Bahrain,Jordan,4,0,,,,0
+1244048400,Turkey U21,Azerbaijan U21,2,0,,,,0
+1244048400,Liechtenstein U21,Bosnia & Herzegovina U21,0,1,,,,0
+1244109900,China,Saudi Arabia,1,4,,,,0
+1244205000,Denmark U21,Iceland U21,3,2,,,,0
+1244208600,Georgia U21,Moldova U21,1,0,,,,0
+1244214000,Syria,Sierra Leone,6,0,,,,0
+1244215200,Czech Republic,Malta,1,0,,,,0
+1244217600,Estonia U21,Norway U21,1,1,,,,0
+1244218500,Sweden U21,Poland U21,2,1,,,,0
+1244228400,France,Turkey,1,0,,,,0
+1244286000,Finland U21,Belarus U21,1,0,,,,0
+1244293200,South Africa,Poland,1,0,,,,0
+1244295000,Botswana,New Zealand,0,0,,,,0
+1244296800,Namibia,D.R. Congo,4,0,,,,0
+1244304000,Georgia,Moldova,1,2,,,,0
+1244304000,Estonia,Equatorial Guinea,3,0,,,,0
+1244314200,Italy,Northern Ireland,3,0,,,,0
+1244415600,Jamaica,Panama,3,2,,,,0
+1244485800,England U21,Azerbaijan U21,7,0,,,,0
+1244559600,Bosnia & Herzegovina,Oman,2,1,,,,0
+1244559600,Belarus U21,Moldova U21,2,2,,,,0
+1244560500,Iraq,Poland,1,1,,,,0
+1244563200,Denmark U21,Italy U21,0,4,,,,0
+1244563200,Azerbaijan,Spain,0,6,,,,0
+1244566800,Sweden U21,Estonia U21,2,1,,,,0
+1244643000,Albania U21,Georgia U21,1,0,,,,0
+1244649600,Belarus,Moldova,2,2,,,,0
+1244653200,Albania,Georgia,1,1,,,,0
+1244658600,Estonia,Portugal,0,0,,,,0
+1244659800,Italy,New Zealand,4,3,,,,0
+1244912400,Ivory Coast,Cameroon,2,1,,,,0
+1245445200,Haiti,Panama,1,1,,,,0
+1245886200,Mexico,Venezuela,4,0,,,,0
+1246131000,Haiti,Syria,1,2,,,,0
+1246154400,Costa Rica,Venezuela,1,0,,,,0
+1246226400,Panama,Honduras,0,2,,,,0
+1246233600,Mexico,Guatemala,0,0,,,,0
+1246401000,Guatemala,Canada,0,3,,,,0
+1247243400,Iraq,Palestine,3,0,,,,0
+1247349600,Malaysia,Zimbabwe,4,0,,,,0
+1247439600,Saint Kitts and Nevis,Trinidad & Tobago,2,3,,,,0
+1247502600,Iraq,Palestine,4,0,,,,0
+1247563800,Malaysia,Zimbabwe,1,0,,,,0
+1247565600,Thailand,Pakistan,2,0,,,,0
+1247915700,Thailand,Pakistan,4,0,,,,0
+1247918400,China,Palestine,3,1,,,,0
+1248451200,Bulgaria U21,Georgia U21,2,1,,,,0
+1248521700,China,Kyrgyzstan,3,0,,,,0
+1248624000,Bulgaria U21,South Africa U21,0,0,,,,0
+1249697700,Colombia,El Salvador,2,1,,,,0
+1249999200,Ukraine U21,Iran U21,2,1,,,,0
+1249999200,Benin,Gabon,1,1,,,,0
+1250002800,Bulgaria U21,Ghana U21,1,2,,,,0
+1250004600,Serbia U21,Israel U21,1,0,,,,0
+1250010000,Slovenia U21,Bosnia & Herzegovina U21,2,0,,,,0
+1250010900,Portugal U21,Northern Ireland U21,2,1,,,,0
+1250011800,Netherlands U21,England U21,0,0,,,,0
+1250011800,Luxembourg U21,Azerbaijan U21,2,1,,,,0
+1250011800,Germany U21,Turkey U21,1,3,,,,0
+1250074800,South Korea,Paraguay,1,0,,,,0
+1250074800,Denmark U21,Sweden U21,2,4,,,,0
+1250076600,Singapore,China,1,1,Pen,1,2,0
+1250078400,Germany U21,Iran U21,1,0,,,,0
+1250082000,Ukraine U21,Turkey U21,1,0,,,,0
+1250082000,Russia U21,Italy U21,3,2,,,,0
+1250084700,Malaysia,Kenya,0,0,,,,0
+1250085600,Belgium U21,Finland U21,0,0,,,,0
+1250089200,Russia,Argentina,2,3,,,,0
+1250089200,Armenia,Moldova,1,4,,,,0
+1250089200,Albania U21,Malta U21,1,2,,,,0
+1250090100,Oman,Saudi Arabia,2,1,,,,0
+1250090400,Czech Republic,Belgium,3,1,,,,0
+1250096400,South Africa,Serbia,1,3,,,,0
+1250096400,Mali,Burkina Faso,3,0,,,,0
+1250096400,Albania,Cyprus,6,1,,,,0
+1250097300,Estonia,Brazil,0,1,,,,0
+1250099100,Bulgaria,Latvia,1,0,,,,0
+1250100000,Ukraine,Turkey,0,3,,,,0
+1250100000,Togo,Angola,0,2,,,,0
+1250100000,Sweden,Finland,1,0,,,,0
+1250100000,Malta,Georgia,2,0,,,,0
+1250100000,Luxembourg,Lithuania,0,1,,,,0
+1250100000,Hungary,Romania,0,1,,,,0
+1250100600,Tunisia,Ivory Coast,0,0,,,,0
+1250100900,Egypt,Guinea,3,3,,,,0
+1250100900,Denmark,Chile,1,2,,,,0
+1250101800,Poland,Greece,2,0,,,,0
+1250101800,Montenegro,Wales,2,1,,,,0
+1250101800,Liechtenstein,Portugal,0,3,,,,0
+1250101800,Ireland,Australia,0,3,,,,0
+1250101800,France U21,Poland U21,2,2,,,,0
+1250101800,D.R. Congo,Senegal,1,2,,,,0
+1250101800,Austria,Cameroon,0,2,,,,0
+1250102700,Switzerland,Italy,0,0,,,,0
+1250102700,Northern Ireland,Israel,1,1,,,,0
+1250102700,Netherlands,England,2,2,,,,0
+1250102700,Ghana,Zambia,4,1,,,,0
+1250102700,Bosnia & Herzegovina,Iran,2,3,,,,0
+1250103600,Morocco,Congo,1,1,,,,0
+1250103600,Iceland,Slovakia,1,1,,,,0
+1250105400,North Macedonia,Spain,2,3,,,,0
+1250105400,Algeria,Uruguay,1,0,,,,0
+1250118000,Colombia,Venezuela,1,2,,,,0
+1250125800,Ecuador,Jamaica,0,0,,,,0
+1250330400,Malaysia,China,0,0,,,,0
+1250686800,India,Lebanon,0,1,,,,0
+1250773200,Kyrgyzstan,Syria,0,2,,,,0
+1250946000,Sri Lanka,Lebanon,4,3,,,,0
+1251032400,India,Kyrgyzstan,2,1,,,,0
+1251118800,Syria,Sri Lanka,4,0,,,,0
+1251205200,Kyrgyzstan,Lebanon,1,1,,,,0
+1251273600,Syria,Lebanon,1,0,,,,0
+1251291600,India,Sri Lanka,3,1,,,,0
+1251313200,Bahrain,Kenya,2,1,,,,0
+1251360000,Sri Lanka,Kyrgyzstan,1,4,,,,0
+1251532800,India,Syria,0,1,,,,0
+1251660600,Saudi Arabia,Malaysia,2,1,,,,0
+1251723600,India,Syria,1,1,Pen,2,1,0
+1251745200,Bahrain,Iran,4,2,,,,0
+1252089000,Malta,Cape Verde,0,2,,,,0
+1252148400,South Korea,Australia,3,1,,,,0
+1252148400,Namibia,Eswatini,1,1,,,,0
+1252152000,Netherlands,Japan,3,0,,,,0
+1252159200,Uzbekistan,Iran,0,0,,,,0
+1252159200,Angola,Senegal,1,1,,,,0
+1252168200,England,Slovenia,2,1,,,,0
+1252176300,Germany,South Africa,2,0,,,,0
+1252177200,Jordan,Malaysia,0,0,,,,0
+1252434600,Ireland,South Africa,1,0,,,,0
+1252490400,Japan,Ghana,4,3,,,,0
+1252504800,China,Senegal,0,0,,,,0
+1252517400,Qatar,Oman,1,1,,,,0
+1252522800,Jordan,New Zealand,1,3,,,,0
+1252524600,Iceland,Georgia,3,1,,,,0
+1252528200,Angola,Cape Verde,1,1,,,,0
+1252677600,Malaysia,Lesotho,5,0,,,,0
+1253367000,South Africa,Madagascar,1,0,,,,0
+1254310200,China,Botswana,4,1,,,,0
+1254355200,Argentina,Ghana,2,0,,,,0
+1254361500,Mexico,Colombia,1,2,,,,0
+1254488400,Egypt,Mauritius,4,0,,,,0
+1254754800,Kuwait,Libya,1,1,,,,0
+1255015800,Croatia,Qatar,3,2,,,,0
+1255112100,Germany U21,Slovenia U21,3,0,,,,0
+1255163400,Australia,Netherlands,0,0,,,,0
+1255170000,Japan,Scotland,2,0,,,,0
+1255183200,Norway,South Africa,1,0,,,,0
+1255186800,United Arab Emirates,Palestine,1,1,,,,0
+1255203000,Angola,Malta,2,1,,,,0
+1255262400,North Macedonia,Qatar,2,1,,,,0
+1255435200,Denmark U21,Georgia U21,3,1,,,,0
+1255449600,Germany U21,Israel U21,0,0,,,,0
+1255456800,Congo,North Korea,0,0,,,,0
+1255457400,Iceland,South Africa,1,0,,,,0
+1255516200,Japan,Togo,5,0,,,,0
+1255518000,South Korea,Senegal,2,0,,,,0
+1255531800,United Arab Emirates,Jordan,3,1,,,,0
+1255532400,D.R. Congo,Qatar,2,2,,,,0
+1255539900,Tunisia,Saudi Arabia,0,1,,,,0
+1255548600,Angola,Cameroon,0,0,,,,0
+1255816800,Eswatini,Seychelles,2,1,,,,0
+1255989600,Seychelles,Comoros,1,2,,,,0
+1256037300,Vietnam,Turkmenistan,1,0,,,,0
+1256038200,Botswana,Eswatini,1,0,,,,0
+1256119200,Mauritius,Lesotho,0,1,,,,0
+1256162400,Seychelles,Botswana,0,2,,,,0
+1256162400,Eswatini,Comoros,3,0,,,,0
+1256202000,Turkmenistan,Singapore,2,4,,,,0
+1256375700,Vietnam,Singapore,2,2,,,,0
+1256473800,Malawi,Mozambique,0,1,,,,0
+1256481000,Namibia,Zambia,0,1,,,,0
+1256560200,South Africa,Angola,2,0,,,,0
+1256567400,Zimbabwe,Botswana,1,0,,,,0
+1256573700,Kuwait,Syria,1,0,,,,0
+1256824500,Mozambique,Zambia,0,2,,,,0
+1256997600,South Africa,Mozambique,0,1,,,,0
+1257252300,Kuwait,Kenya,5,0,,,,0
+1257334200,Singapore,Indonesia,3,1,,,,0
+1257384600,Chile,Paraguay,2,1,,,,0
+1257442200,Egypt,Tanzania,5,1,,,,0
+1257519600,Bahrain,Togo,5,1,,,,0
+1257674400,Thailand,Syria,1,1,,,,0
+1257684300,Yemen,Tanzania,1,1,,,,0
+1257694800,Kuwait,China,2,2,,,,0
+1257863400,Iran,Iceland,1,0,,,,0
+1257933600,Yemen,Tanzania,2,1,,,,0
+1258123200,Saudi Arabia,Belarus,2,1,,,,0
+1258131600,Denmark U21,Poland U21,0,1,,,,0
+1258138800,Paraguay,Qatar,0,2,,,,0
+1258141800,France U21,Tunisia U21,1,1,,,,0
+1258200000,North Macedonia,Canada,3,0,,,,0
+1258205400,South Africa,Japan,0,0,,,,0
+1258207200,Estonia,Albania,0,0,,,,0
+1258209000,Saudi Arabia,Belarus,1,1,,,,0
+1258210800,Wales,Scotland,3,0,,,,0
+1258210800,Slovakia,USA,1,0,,,,0
+1258214400,Poland,Romania,0,1,,,,0
+1258216200,Croatia,Liechtenstein,5,0,,,,0
+1258217100,Switzerland,Norway,0,1,,,,0
+1258218000,Brazil,England,1,0,,,,0
+1258219800,Northern Ireland,Serbia,0,1,,,,0
+1258221600,Luxembourg,Iceland,1,1,,,,0
+1258225200,Denmark,South Korea,0,0,,,,0
+1258227900,Spain,Argentina,2,1,,,,0
+1258227900,Belgium,Hungary,3,0,,,,0
+1258228200,Italy,Netherlands,0,0,,,,0
+1258236000,Argentina,Latvia,2,1,,,,0
+1258241400,Honduras,Latvia,2,1,,,,0
+1258289100,Iraq,Azerbaijan,1,0,,,,0
+1258299000,United Arab Emirates,Czech Republic,0,0,Pen,1,0,0
+1258459200,Romania U21,Poland U21,2,1,,,,0
+1258468200,Oman,Brazil,0,2,,,,0
+1258473600,Slovakia,Chile,1,2,,,,0
+1258480800,Austria U20,Italy U20,1,0,,,,0
+1258482600,South Africa,Jamaica,0,0,,,,0
+1258484400,Belgium,Qatar,2,0,,,,0
+1258545600,Romania U17,Germany U17,1,3,,,,0
+1258547400,Azerbaijan,Czech Republic,2,0,,,,0
+1258549200,Denmark U21,Serbia U21,1,3,,,,0
+1258552800,Palestine,Tunisia,0,3,,,,0
+1258554600,South Korea,Serbia,0,1,,,,0
+1258554600,Iran,North Macedonia,1,1,,,,0
+1258556400,Iraq,United Arab Emirates,1,0,,,,0
+1258558200,Angola,Ghana,0,0,,,,0
+1258559940,Germany U19,Scotland U19,0,0,,,,0
+1258560000,Poland,Canada,1,0,,,,0
+1258560000,Montenegro,Belarus,1,0,,,,0
+1258567200,Malta,Bulgaria,1,4,,,,0
+1258572600,Denmark,USA,3,1,,,,0
+1258573500,Netherlands,Paraguay,0,0,,,,0
+1258573500,Germany,Ivory Coast,2,2,,,,0
+1258573500,Austria,Spain,1,5,,,,0
+1258573800,Italy,Sweden,1,0,,,,0
+1258595100,Honduras,Peru,1,2,,,,0
+1258808400,Zambia,North Korea,4,1,,,,0
+1259227800,Malaysia,Maldives,0,1,,,,0
+1259362800,Kenya,Zambia,0,2,,,,0
+1259449200,Zanzibar,Burundi,4,0,,,,0
+1259449200,Uganda,Tanzania,2,0,,,,0
+1259449200,Somalia,Rwanda,0,1,,,,0
+1259586000,Ethiopia,Djibouti,5,0,,,,0
+1259672400,Tanzania,Zanzibar,1,0,,,,0
+1259672400,Eritrea,Zimbabwe,0,0,,,,0
+1259751600,Zambia,Ethiopia,1,0,,,,0
+1259758800,Kenya,Djibouti,2,0,,,,0
+1259758800,Burundi,Uganda,0,2,,,,0
+1259838000,Rwanda,Eritrea,2,1,,,,0
+1259845200,Zimbabwe,Somalia,2,0,,,,0
+1259917200,Sri Lanka,Pakistan,1,0,,,,0
+1259924400,Zambia,Djibouti,6,0,,,,0
+1259924400,Burundi,Tanzania,0,1,,,,0
+1259928000,Bangladesh,Bhutan,4,1,,,,0
+1259931600,Zanzibar,Uganda,0,0,,,,0
+1259931600,Kenya,Ethiopia,2,0,,,,0
+1260000000,Singapore,Indonesia,2,2,,,,0
+1260003600,Maldives,Nepal,1,1,,,,0
+1260009900,Laos,Myanmar,1,1,,,,0
+1260010800,Eritrea,Somalia,3,1,,,,0
+1260014400,India,Afghanistan,1,0,,,,0
+1260018000,Zimbabwe,Rwanda,0,1,,,,0
+1260086400,Vietnam,Malaysia,3,1,,,,0
+1260090000,Sri Lanka,Bhutan,6,0,,,,0
+1260097200,South Korea,China,3,0,,,,0
+1260097200,Bangladesh,Pakistan,0,0,,,,0
+1260140400,Indonesia,Laos,0,2,,,,0
+1260172800,Myanmar,Singapore,1,2,,,,0
+1260176700,Afghanistan,Maldives,1,3,,,,0
+1260183600,Macau,Japan,0,5,,,,0
+1260183600,Kenya,Uganda,0,1,,,,0
+1260187200,India,Nepal,1,0,,,,0
+1260190800,Zambia,Zanzibar,0,0,Pen,0,1,0
+1260262800,Pakistan,Bhutan,7,0,,,,0
+1260269100,Cambodia,Malaysia,0,4,,,,0
+1260270000,Hong Kong,China,0,1,,,,0
+1260273600,Tanzania,Eritrea,4,0,,,,0
+1260273600,Bangladesh,Sri Lanka,2,1,,,,0
+1260277200,Rwanda,Zimbabwe,4,1,,,,0
+1260349200,Afghanistan,Nepal,0,3,,,,0
+1260360000,Uganda,Zanzibar,2,1,,,,0
+1260360000,Maldives,India,2,0,,,,0
+1260432000,Myanmar,Indonesia,3,1,,,,0
+1260432000,Japan,South Korea,1,1,AET,2,1,0
+1260441900,Laos,Singapore,0,0,,,,0
+1260453600,Rwanda,Tanzania,2,1,,,,0
+1260518400,Malaysia,Thailand,2,1,,,,0
+1260518400,Cambodia,Vietnam,1,6,,,,0
+1260522000,Maldives,Sri Lanka,5,1,,,,0
+1260534600,Bangladesh,India,0,1,,,,0
+1260698400,Tanzania,Zanzibar,0,1,,,,0
+1260705600,India,Maldives,0,0,Pen,1,0,0
+1260712800,Rwanda,Uganda,0,2,,,,0
+1260788400,Vietnam,Singapore,4,1,,,,0
+1260792000,Laos,Malaysia,1,3,,,,0
+1260878400,Nigeria,Argentina,3,2,,,,0
+1260878400,Bulgaria,Bolivia,2,0,,,,0
+1260975000,Kuwait,United Arab Emirates,0,0,,,,0
+1261036800,Singapore,Laos,3,1,,,,0
+1261044000,Vietnam,Malaysia,0,1,,,,0
+1261511400,Catalonia Selection,Argentina,4,2,,,,0
+1261576800,Cyprus,Bolivia,3,3,,,,0
+1261924200,Mali,North Korea,0,1,,,,0
+1261999800,Singapore,Oman,0,0,,,,0
+1262010600,Qatar,Iran,3,2,,,,0
+1262010900,Saudi Arabia,Romania,3,2,,,,0
+1262086200,Thailand,Zimbabwe,3,0,,,,0
+1262106000,Egypt,Malawi,1,1,,,,0
+1262172600,China,Jordan,2,2,,,,0
+1262177100,Malaysia,Syria,4,1,,,,0
+1262178000,Iran,Mali,1,2,,,,0
+1262186100,Qatar,North Korea,0,1,,,,0
+1262199600,Angola,Estonia,0,1,,,,0
+1262255400,Singapore,Oman,1,4,,,,0
