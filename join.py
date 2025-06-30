@@ -40,4 +40,4 @@ if __name__ == "__main__":
 
     df["away_part"] = df["away_part"].astype("Int64")
     df["home_part"] = df["home_part"].astype("Int64")
-    df.to_csv("result.csv", index=False)
+    df.to_csv("matches.csv", index=False)
