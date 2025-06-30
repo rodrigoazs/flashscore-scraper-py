@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 if __name__ == "__main__":
-    folder_path = "data/clubs"
+    folder_path = "data"
     all_files = []
     for root, dirs, files in os.walk(folder_path):
         for file in files:
