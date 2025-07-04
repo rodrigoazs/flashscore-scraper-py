@@ -1,0 +1,381 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1440259200,Verona,AS Roma,1,1,,,,0
+1440269100,Lazio,Bologna,2,1,,,,0
+1440345600,Juventus,Udinese,0,1,,,,0
+1440355500,Sassuolo,Napoli,2,1,,,,0
+1440355500,Sampdoria,Carpi,5,2,,,,0
+1440355500,Palermo,Genoa,1,0,,,,0
+1440355500,Inter,Atalanta,1,0,,,,0
+1440355500,Frosinone,Torino,1,2,,,,0
+1440355500,Fiorentina,AC Milan,2,0,,,,0
+1440355500,Empoli,Chievo,1,3,,,,0
+1440864000,Bologna,Sassuolo,0,1,,,,0
+1440873900,AC Milan,Empoli,2,1,,,,0
+1440950400,AS Roma,Juventus,2,1,,,,0
+1440960300,Udinese,Palermo,0,1,,,,0
+1440960300,Torino,Fiorentina,3,1,,,,0
+1440960300,Napoli,Sampdoria,2,2,,,,0
+1440960300,Genoa,Verona,2,0,,,,0
+1440960300,Chievo,Lazio,4,0,,,,0
+1440960300,Carpi,Inter,1,2,,,,0
+1440960300,Atalanta,Frosinone,2,0,,,,0
+1442073600,Frosinone,AS Roma,0,2,,,,0
+1442073600,Fiorentina,Genoa,1,0,,,,0
+1442083500,Juventus,Chievo,1,1,,,,0
+1442140200,Verona,Torino,2,2,,,,0
+1442149200,Sassuolo,Atalanta,2,2,,,,0
+1442149200,Palermo,Carpi,2,2,,,,0
+1442149200,Empoli,Napoli,2,2,,,,0
+1442160000,Lazio,Udinese,2,0,,,,0
+1442169900,Inter,AC Milan,1,0,,,,0
+1442256300,Sampdoria,Bologna,2,0,,,,0
+1442678400,Udinese,Empoli,1,2,,,,0
+1442688300,AC Milan,Palermo,3,2,,,,0
+1442745000,Chievo,Inter,0,1,,,,0
+1442754000,Torino,Sampdoria,2,0,,,,0
+1442754000,Genoa,Juventus,0,2,,,,0
+1442754000,Bologna,Frosinone,1,0,,,,0
+1442754000,Atalanta,Verona,1,1,,,,0
+1442754000,AS Roma,Sassuolo,2,2,,,,0
+1442764800,Carpi,Fiorentina,0,1,,,,0
+1442774700,Napoli,Lazio,5,0,,,,0
+1442947500,Udinese,AC Milan,2,3,,,,0
+1443033900,Sampdoria,AS Roma,2,1,,,,0
+1443033900,Palermo,Sassuolo,0,1,,,,0
+1443033900,Lazio,Genoa,2,0,,,,0
+1443033900,Juventus,Frosinone,1,1,,,,0
+1443033900,Inter,Verona,1,0,,,,0
+1443033900,Fiorentina,Bologna,2,0,,,,0
+1443033900,Chievo,Torino,1,0,,,,0
+1443033900,Carpi,Napoli,0,0,,,,0
+1443120300,Empoli,Atalanta,0,1,,,,0
+1443283200,AS Roma,Carpi,5,1,,,,0
+1443293100,Napoli,Juventus,2,1,,,,0
+1443349800,Genoa,AC Milan,1,0,,,,0
+1443358800,Verona,Lazio,1,2,,,,0
+1443358800,Torino,Palermo,2,1,,,,0
+1443358800,Sassuolo,Chievo,1,1,,,,0
+1443358800,Bologna,Udinese,1,2,,,,0
+1443379500,Inter,Fiorentina,1,4,,,,0
+1443459600,Frosinone,Empoli,2,0,,,,0
+1443466800,Atalanta,Sampdoria,2,1,,,,0
+1443888000,Carpi,Torino,2,1,,,,0
+1443897900,Chievo,Verona,1,1,,,,0
+1443954600,Empoli,Sassuolo,1,0,,,,0
+1443963600,Udinese,Genoa,1,1,,,,0
+1443963600,Sampdoria,Inter,1,1,,,,0
+1443963600,Palermo,AS Roma,2,4,,,,0
+1443974400,Lazio,Frosinone,2,0,,,,0
+1443974400,Juventus,Bologna,3,1,,,,0
+1443984300,Fiorentina,Atalanta,3,0,,,,0
+1443984300,AC Milan,Napoli,0,4,,,,0
+1445097600,AS Roma,Empoli,3,1,,,,0
+1445107500,Torino,AC Milan,1,1,,,,0
+1445164200,Bologna,Palermo,0,1,,,,0
+1445173200,Verona,Udinese,1,1,,,,0
+1445173200,Sassuolo,Lazio,2,1,,,,0
+1445173200,Napoli,Fiorentina,2,1,,,,0
+1445173200,Genoa,Chievo,3,2,,,,0
+1445173200,Frosinone,Sampdoria,2,0,,,,0
+1445173200,Atalanta,Carpi,3,0,,,,0
+1445193900,Inter,Juventus,0,0,,,,0
+1445691600,Empoli,Genoa,2,0,,,,0
+1445702400,Carpi,Bologna,1,2,,,,0
+1445712300,Palermo,Inter,1,1,,,,0
+1445772600,Sampdoria,Verona,4,1,,,,0
+1445781600,Udinese,Frosinone,1,0,,,,0
+1445781600,Juventus,Atalanta,2,0,,,,0
+1445781600,AC Milan,Sassuolo,2,1,,,,0
+1445792400,Lazio,Torino,3,0,,,,0
+1445792400,Fiorentina,AS Roma,1,2,,,,0
+1445802300,Chievo,Napoli,0,1,,,,0
+1445975100,Bologna,Inter,0,1,,,,0
+1446061500,Verona,Fiorentina,0,2,,,,0
+1446061500,Torino,Genoa,3,3,,,,0
+1446061500,Sassuolo,Juventus,1,0,,,,0
+1446061500,Napoli,Palermo,2,0,,,,0
+1446061500,Frosinone,Carpi,2,1,,,,0
+1446061500,Atalanta,Lazio,2,1,,,,0
+1446061500,AS Roma,Udinese,3,1,,,,0
+1446061500,AC Milan,Chievo,1,0,,,,0
+1446147900,Sampdoria,Empoli,1,1,,,,0
+1446310800,Juventus,Torino,2,1,,,,0
+1446320700,Inter,AS Roma,1,0,,,,0
+1446377400,Fiorentina,Frosinone,4,1,,,,0
+1446386400,Udinese,Sassuolo,0,0,,,,0
+1446386400,Genoa,Napoli,0,0,,,,0
+1446386400,Carpi,Verona,0,0,,,,0
+1446386400,Bologna,Atalanta,3,0,,,,0
+1446407100,Lazio,AC Milan,1,3,,,,0
+1446487200,Chievo,Sampdoria,1,1,,,,0
+1446494400,Palermo,Empoli,0,1,,,,0
+1446915600,Verona,Bologna,0,2,,,,0
+1446925500,AC Milan,Atalanta,0,0,,,,0
+1446982200,Torino,Inter,0,1,,,,0
+1446991200,Sassuolo,Carpi,1,0,,,,0
+1446991200,Palermo,Chievo,1,0,,,,0
+1446991200,Frosinone,Genoa,2,2,,,,0
+1446991200,Empoli,Juventus,1,3,,,,0
+1446991200,AS Roma,Lazio,2,0,,,,0
+1447002000,Napoli,Udinese,1,0,,,,0
+1447011900,Sampdoria,Fiorentina,0,2,,,,0
+1448125200,Bologna,AS Roma,2,2,,,,0
+1448135100,Juventus,AC Milan,1,0,,,,0
+1448191800,Verona,Napoli,0,2,,,,0
+1448200800,Udinese,Sampdoria,1,0,,,,0
+1448200800,Lazio,Palermo,1,1,,,,0
+1448200800,Genoa,Sassuolo,2,1,,,,0
+1448200800,Fiorentina,Empoli,2,2,,,,0
+1448200800,Carpi,Chievo,1,2,,,,0
+1448200800,Atalanta,Torino,0,1,,,,0
+1448221500,Inter,Frosinone,4,0,,,,0
+1448730000,Torino,Bologna,2,0,,,,0
+1448739900,AC Milan,Sampdoria,4,1,,,,0
+1448805600,Genoa,Carpi,1,2,,,,0
+1448805600,Frosinone,Verona,3,2,,,,0
+1448805600,Chievo,Udinese,2,3,,,,0
+1448805600,AS Roma,Atalanta,0,2,,,,0
+1448816400,Empoli,Lazio,1,0,,,,0
+1448826300,Palermo,Juventus,0,3,,,,0
+1448906400,Sassuolo,Fiorentina,1,1,,,,0
+1448913600,Napoli,Inter,2,1,,,,0
+1449258300,Lazio,Juventus,0,2,,,,0
+1449324000,Torino,AS Roma,1,1,,,,0
+1449344700,Inter,Genoa,1,0,,,,0
+1449401400,Bologna,Napoli,3,2,,,,0
+1449410400,Verona,Empoli,0,1,,,,0
+1449410400,Frosinone,Chievo,0,2,,,,0
+1449410400,Fiorentina,Udinese,3,0,,,,0
+1449410400,Atalanta,Palermo,3,0,,,,0
+1449421200,Sampdoria,Sassuolo,1,3,,,,0
+1449431100,Carpi,AC Milan,0,0,,,,0
+1449928800,Genoa,Bologna,0,1,,,,0
+1449939600,Palermo,Frosinone,4,1,,,,0
+1449949500,Udinese,Inter,0,4,,,,0
+1450015200,Empoli,Carpi,3,0,,,,0
+1450015200,Chievo,Atalanta,1,0,,,,0
+1450015200,AC Milan,Verona,1,1,,,,0
+1450026000,Napoli,AS Roma,0,0,,,,0
+1450035900,Juventus,Fiorentina,3,1,,,,0
+1450122300,Lazio,Sampdoria,1,1,,,,0
+1450554300,Bologna,Empoli,2,3,,,,0
+1450611000,Carpi,Juventus,2,3,,,,0
+1450620000,Verona,Sassuolo,1,1,,,,0
+1450620000,Fiorentina,Chievo,2,0,,,,0
+1450620000,Atalanta,Napoli,1,3,,,,0
+1450620000,AS Roma,Genoa,2,0,,,,0
+1450630800,Torino,Udinese,0,1,,,,0
+1450630800,Sampdoria,Palermo,2,0,,,,0
+1450630800,Frosinone,AC Milan,2,4,,,,0
+1450640700,Inter,Lazio,1,2,,,,0
+1452023100,Genoa,Sampdoria,2,3,,,,0
+1452079800,Udinese,Atalanta,2,1,,,,0
+1452088800,Sassuolo,Frosinone,2,2,,,,0
+1452088800,Palermo,Fiorentina,1,3,,,,0
+1452088800,Lazio,Carpi,0,0,,,,0
+1452088800,Juventus,Verona,3,0,,,,0
+1452088800,Chievo,AS Roma,3,3,,,,0
+1452088800,AC Milan,Bologna,0,1,,,,0
+1452099600,Empoli,Inter,0,1,,,,0
+1452109500,Napoli,Torino,2,1,,,,0
+1452348000,Carpi,Udinese,2,1,,,,0
+1452358800,Fiorentina,Lazio,1,3,,,,0
+1452368700,AS Roma,AC Milan,1,1,,,,0
+1452425400,Inter,Sassuolo,0,1,,,,0
+1452434400,Verona,Palermo,0,1,,,,0
+1452434400,Torino,Empoli,0,1,,,,0
+1452434400,Frosinone,Napoli,1,5,,,,0
+1452434400,Bologna,Chievo,0,1,,,,0
+1452434400,Atalanta,Genoa,0,2,,,,0
+1452455100,Sampdoria,Juventus,1,2,,,,0
+1452952800,Atalanta,Inter,1,1,,,,0
+1452963600,Torino,Frosinone,4,2,,,,0
+1452973500,Napoli,Sassuolo,3,1,,,,0
+1453030200,Genoa,Palermo,4,0,,,,0
+1453039200,Udinese,Juventus,0,4,,,,0
+1453039200,Chievo,Empoli,1,1,,,,0
+1453039200,Carpi,Sampdoria,2,1,,,,0
+1453039200,Bologna,Lazio,2,2,,,,0
+1453039200,AS Roma,Verona,1,1,,,,0
+1453059900,AC Milan,Fiorentina,2,0,,,,0
+1453319100,Sassuolo,Torino,1,1,,,,0
+1453568400,Frosinone,Atalanta,0,0,,,,0
+1453578300,Empoli,AC Milan,2,2,,,,0
+1453635000,Fiorentina,Torino,2,0,,,,0
+1453644000,Verona,Genoa,1,1,,,,0
+1453644000,Sassuolo,Bologna,0,2,,,,0
+1453644000,Sampdoria,Napoli,2,4,,,,0
+1453644000,Palermo,Udinese,4,1,,,,0
+1453644000,Lazio,Chievo,4,1,,,,0
+1453644000,Inter,Carpi,1,1,,,,0
+1453664700,Juventus,AS Roma,1,0,,,,0
+1454162400,Carpi,Palermo,1,1,,,,0
+1454173200,Atalanta,Sassuolo,1,1,,,,0
+1454183100,AS Roma,Frosinone,3,1,,,,0
+1454239800,Chievo,Juventus,0,4,,,,0
+1454248800,Udinese,Lazio,0,0,,,,0
+1454248800,Torino,Verona,0,0,,,,0
+1454248800,Napoli,Empoli,5,1,,,,0
+1454248800,Genoa,Fiorentina,0,0,,,,0
+1454248800,Bologna,Sampdoria,3,2,,,,0
+1454269500,AC Milan,Inter,3,0,,,,0
+1454442300,Sassuolo,AS Roma,0,2,,,,0
+1454520600,Frosinone,Bologna,1,0,,,,0
+1454528700,Verona,Atalanta,2,1,,,,0
+1454528700,Sampdoria,Torino,2,2,,,,0
+1454528700,Palermo,AC Milan,0,2,,,,0
+1454528700,Lazio,Napoli,0,2,,,,0
+1454528700,Juventus,Genoa,1,0,,,,0
+1454528700,Inter,Chievo,1,0,,,,0
+1454528700,Fiorentina,Carpi,2,1,,,,0
+1454528700,Empoli,Udinese,1,1,,,,0
+1454778000,Bologna,Fiorentina,1,1,,,,0
+1454787900,Genoa,Lazio,0,0,,,,0
+1454844600,Verona,Inter,3,3,,,,0
+1454853600,Torino,Chievo,1,2,,,,0
+1454853600,Sassuolo,Palermo,2,2,,,,0
+1454853600,Napoli,Carpi,1,0,,,,0
+1454853600,Frosinone,Juventus,0,2,,,,0
+1454853600,AC Milan,Udinese,1,1,,,,0
+1454864400,Atalanta,Empoli,0,0,,,,0
+1454874300,AS Roma,Sampdoria,2,1,,,,0
+1455219900,Lazio,Verona,5,2,,,,0
+1455306300,Carpi,AS Roma,1,3,,,,0
+1455372000,Empoli,Frosinone,1,2,,,,0
+1455382800,Chievo,Sassuolo,1,1,,,,0
+1455392700,Juventus,Napoli,1,0,,,,0
+1455449400,AC Milan,Genoa,2,1,,,,0
+1455458400,Udinese,Bologna,0,1,,,,0
+1455458400,Sampdoria,Atalanta,0,0,,,,0
+1455458400,Palermo,Torino,1,3,,,,0
+1455479100,Fiorentina,Inter,2,1,,,,0
+1455911100,Bologna,Juventus,0,0,,,,0
+1455987600,Verona,Chievo,3,1,,,,0
+1455997500,Inter,Sampdoria,3,1,,,,0
+1456063200,Torino,Carpi,0,0,,,,0
+1456063200,Sassuolo,Empoli,3,2,,,,0
+1456063200,Genoa,Udinese,2,1,,,,0
+1456063200,Atalanta,Fiorentina,2,3,,,,0
+1456074000,Frosinone,Lazio,0,0,,,,0
+1456083900,AS Roma,Palermo,5,0,,,,0
+1456171200,Napoli,AC Milan,1,1,,,,0
+1456592400,Empoli,AS Roma,1,3,,,,0
+1456602300,AC Milan,Torino,1,0,,,,0
+1456659000,Palermo,Bologna,0,0,,,,0
+1456668000,Udinese,Verona,2,0,,,,0
+1456668000,Sampdoria,Frosinone,2,0,,,,0
+1456668000,Chievo,Genoa,1,0,,,,0
+1456668000,Carpi,Atalanta,1,1,,,,0
+1456688700,Juventus,Inter,2,0,,,,0
+1456682400,Lazio,Sassuolo,0,2,,,,0
+1456689600,Fiorentina,Napoli,1,1,,,,0
+1457120700,AS Roma,Fiorentina,4,1,,,,0
+1457197200,Verona,Sampdoria,0,3,,,,0
+1457207100,Napoli,Chievo,3,1,,,,0
+1457263800,Torino,Lazio,1,1,,,,0
+1457272800,Sassuolo,AC Milan,2,0,,,,0
+1457272800,Genoa,Empoli,1,0,,,,0
+1457272800,Frosinone,Udinese,2,0,,,,0
+1457272800,Bologna,Carpi,0,0,,,,0
+1457272800,Atalanta,Juventus,0,2,,,,0
+1457293500,Inter,Palermo,3,1,,,,0
+1457725500,Juventus,Sassuolo,1,0,,,,0
+1457802000,Empoli,Sampdoria,1,1,,,,0
+1457811900,Inter,Bologna,2,1,,,,0
+1457868600,Chievo,AC Milan,0,0,,,,0
+1457877600,Udinese,AS Roma,1,2,,,,0
+1457877600,Genoa,Torino,3,2,,,,0
+1457877600,Fiorentina,Verona,1,1,,,,0
+1457877600,Carpi,Frosinone,2,1,,,,0
+1457898300,Palermo,Napoli,0,1,,,,0
+1457898300,Lazio,Atalanta,2,0,,,,0
+1458406800,Empoli,Palermo,0,0,,,,0
+1458416700,AS Roma,Inter,1,1,,,,0
+1458473400,Atalanta,Bologna,2,0,,,,0
+1458482400,Verona,Carpi,1,2,,,,0
+1458482400,Torino,Juventus,1,4,,,,0
+1458482400,Sassuolo,Udinese,1,1,,,,0
+1458482400,Sampdoria,Chievo,0,1,,,,0
+1458482400,Frosinone,Fiorentina,0,0,,,,0
+1458493200,Napoli,Genoa,3,1,,,,0
+1458503100,AC Milan,Lazio,1,1,,,,0
+1459612800,Carpi,Sassuolo,1,3,,,,0
+1459622700,Juventus,Empoli,1,0,,,,0
+1459679400,Udinese,Napoli,3,1,,,,0
+1459688400,Lazio,AS Roma,1,4,,,,0
+1459688400,Genoa,Frosinone,4,0,,,,0
+1459688400,Fiorentina,Sampdoria,1,1,,,,0
+1459688400,Chievo,Palermo,3,1,,,,0
+1459688400,Atalanta,AC Milan,2,1,,,,0
+1459709100,Inter,Torino,1,2,,,,0
+1459795500,Bologna,Verona,0,1,,,,0
+1460206800,Frosinone,Inter,0,1,,,,0
+1460217600,Sassuolo,Genoa,0,1,,,,0
+1460217600,Chievo,Carpi,1,0,,,,0
+1460227500,AC Milan,Juventus,1,2,,,,0
+1460284200,Empoli,Fiorentina,2,0,,,,0
+1460293200,Torino,Atalanta,2,1,,,,0
+1460293200,Sampdoria,Udinese,2,0,,,,0
+1460293200,Napoli,Verona,3,0,,,,0
+1460313900,Palermo,Lazio,0,3,,,,0
+1460400300,AS Roma,Bologna,1,1,,,,0
+1460811600,Bologna,Torino,0,1,,,,0
+1460822400,Carpi,Genoa,4,1,,,,0
+1460832300,Inter,Napoli,2,0,,,,0
+1460889000,Atalanta,AS Roma,3,3,,,,0
+1460898000,Verona,Frosinone,1,2,,,,0
+1460898000,Udinese,Chievo,0,0,,,,0
+1460898000,Juventus,Palermo,4,0,,,,0
+1460898000,Fiorentina,Sassuolo,3,1,,,,0
+1460908800,Lazio,Empoli,2,0,,,,0
+1460918700,Sampdoria,AC Milan,0,1,,,,0
+1461091500,Napoli,Bologna,6,0,,,,0
+1461169800,Sassuolo,Sampdoria,0,0,,,,0
+1461177900,Udinese,Fiorentina,2,1,,,,0
+1461177900,Palermo,Atalanta,2,2,,,,0
+1461177900,Juventus,Lazio,3,0,,,,0
+1461177900,Genoa,Inter,1,0,,,,0
+1461177900,Empoli,Verona,1,0,,,,0
+1461177900,Chievo,Frosinone,5,1,,,,0
+1461177900,AS Roma,Torino,3,2,,,,0
+1461264300,AC Milan,Carpi,0,0,,,,0
+1461437100,Inter,Udinese,3,1,,,,0
+1461493800,Frosinone,Palermo,0,2,,,,0
+1461502800,Torino,Sassuolo,1,3,,,,0
+1461502800,Sampdoria,Lazio,2,1,,,,0
+1461502800,Bologna,Genoa,2,0,,,,0
+1461502800,Atalanta,Chievo,1,0,,,,0
+1461523500,Fiorentina,Juventus,1,2,,,,0
+1461589200,AS Roma,Napoli,1,0,,,,0
+1461596400,Verona,AC Milan,2,1,,,,0
+1461603600,Carpi,Empoli,1,0,,,,0
+1462032000,Udinese,Torino,1,5,,,,0
+1462041900,Chievo,Fiorentina,0,0,,,,0
+1462098600,Juventus,Carpi,2,0,,,,0
+1462107600,Sassuolo,Verona,1,0,,,,0
+1462107600,Palermo,Sampdoria,2,0,,,,0
+1462107600,Empoli,Bologna,0,0,,,,0
+1462107600,AC Milan,Frosinone,3,3,,,,0
+1462128300,Lazio,Inter,2,0,,,,0
+1462208400,Genoa,AS Roma,2,3,,,,0
+1462215600,Napoli,Atalanta,2,1,,,,0
+1462636800,Inter,Empoli,2,1,,,,0
+1462646700,Bologna,AC Milan,0,1,,,,0
+1462703400,AS Roma,Chievo,3,0,,,,0
+1462712400,Sampdoria,Genoa,0,3,,,,0
+1462712400,Frosinone,Sassuolo,0,1,,,,0
+1462712400,Fiorentina,Palermo,0,0,,,,0
+1462712400,Carpi,Lazio,1,3,,,,0
+1462712400,Atalanta,Udinese,1,1,,,,0
+1462733100,Verona,Juventus,2,1,,,,0
+1462733100,Torino,Napoli,1,2,,,,0
+1463238000,Juventus,Sampdoria,5,0,,,,0
+1463251500,Sassuolo,Inter,3,1,,,,0
+1463251500,Napoli,Frosinone,4,0,,,,0
+1463251500,AC Milan,AS Roma,1,3,,,,0
+1463328000,Genoa,Atalanta,1,2,,,,0
+1463328000,Empoli,Torino,2,1,,,,0
+1463328000,Chievo,Bologna,0,0,,,,0
+1463337900,Udinese,Carpi,1,2,,,,0
+1463337900,Palermo,Verona,3,2,,,,0
+1463337900,Lazio,Fiorentina,2,4,,,,0

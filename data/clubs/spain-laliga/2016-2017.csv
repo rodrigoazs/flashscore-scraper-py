@@ -1,0 +1,381 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1471632300,Malaga,Osasuna,1,1,,,,0
+1471636800,Dep. La Coruna,Eibar,2,1,,,,0
+1471709700,Barcelona,Betis,6,2,,,,0
+1471716900,Granada CF,Villarreal,1,1,,,,0
+1471724100,Sevilla,Espanyol,6,4,,,,0
+1471796100,Gijon,Ath Bilbao,2,1,,,,0
+1471803300,Real Sociedad,Real Madrid,0,3,,,,0
+1471810500,Atl. Madrid,Alaves,1,1,,,,0
+1471888800,Celta Vigo,Leganes,0,1,,,,0
+1471896000,Valencia,Las Palmas,2,4,,,,0
+1472237100,Betis,Dep. La Coruna,0,0,,,,0
+1472241600,Espanyol,Malaga,2,2,,,,0
+1472314500,Osasuna,Real Sociedad,0,2,,,,0
+1472314500,Eibar,Valencia,1,0,,,,0
+1472321700,Real Madrid,Celta Vigo,2,1,,,,0
+1472328900,Leganes,Atl. Madrid,0,0,,,,0
+1472400900,Las Palmas,Granada CF,5,1,,,,0
+1472400900,Alaves,Gijon,0,0,,,,0
+1472408100,Ath Bilbao,Barcelona,0,1,,,,0
+1472415300,Villarreal,Sevilla,0,0,,,,0
+1473446700,Real Sociedad,Espanyol,1,1,,,,0
+1473505200,Celta Vigo,Atl. Madrid,0,4,,,,0
+1473516000,Real Madrid,Osasuna,5,2,,,,0
+1473524100,Sevilla,Las Palmas,2,1,,,,0
+1473524100,Malaga,Villarreal,0,2,,,,0
+1473532200,Barcelona,Alaves,1,2,,,,0
+1473588000,Gijon,Leganes,2,1,,,,0
+1473602400,Valencia,Betis,2,3,,,,0
+1473610500,Granada CF,Eibar,1,2,,,,0
+1473618600,Dep. La Coruna,Ath Bilbao,0,1,,,,0
+1474051500,Betis,Granada CF,2,2,,,,0
+1474110000,Leganes,Barcelona,1,5,,,,0
+1474121700,Atl. Madrid,Gijon,5,0,,,,0
+1474129800,Eibar,Sevilla,1,1,,,,0
+1474137900,Las Palmas,Malaga,1,0,,,,0
+1474192800,Osasuna,Celta Vigo,0,0,,,,0
+1474208100,Ath Bilbao,Valencia,2,1,,,,0
+1474216200,Villarreal,Real Sociedad,2,1,,,,0
+1474224300,Espanyol,Real Madrid,0,2,,,,0
+1474310700,Alaves,Dep. La Coruna,0,0,,,,0
+1474394400,Malaga,Eibar,2,1,,,,0
+1474401600,Sevilla,Betis,1,0,,,,0
+1474480800,Real Madrid,Villarreal,1,1,,,,0
+1474480800,Celta Vigo,Gijon,2,1,,,,0
+1474488000,Real Sociedad,Las Palmas,4,1,,,,0
+1474488000,Granada CF,Ath Bilbao,1,2,,,,0
+1474488000,Barcelona,Atl. Madrid,1,1,,,,0
+1474567200,Osasuna,Espanyol,1,2,,,,0
+1474567200,Dep. La Coruna,Leganes,1,2,,,,0
+1474574400,Valencia,Alaves,2,1,,,,0
+1474656300,Betis,Malaga,1,0,,,,0
+1474714800,Eibar,Real Sociedad,2,0,,,,0
+1474726500,Gijon,Barcelona,0,5,,,,0
+1474734600,Ath Bilbao,Sevilla,3,1,,,,0
+1474742700,Las Palmas,Real Madrid,2,2,,,,0
+1474797600,Leganes,Valencia,1,2,,,,0
+1474812900,Atl. Madrid,Dep. La Coruna,1,0,,,,0
+1474821000,Villarreal,Osasuna,3,1,,,,0
+1474829100,Espanyol,Celta Vigo,0,2,,,,0
+1474915500,Alaves,Granada CF,3,1,,,,0
+1475261100,Real Sociedad,Betis,1,0,,,,0
+1475319600,Granada CF,Leganes,0,1,,,,0
+1475331300,Sevilla,Alaves,2,1,,,,0
+1475339400,Osasuna,Las Palmas,2,2,,,,0
+1475347500,Dep. La Coruna,Gijon,2,1,,,,0
+1475402400,Valencia,Atl. Madrid,0,2,,,,0
+1475417700,Real Madrid,Eibar,1,1,,,,0
+1475425800,Malaga,Ath Bilbao,2,1,,,,0
+1475425800,Espanyol,Villarreal,0,0,,,,0
+1475433900,Celta Vigo,Barcelona,4,3,,,,0
+1476470700,Las Palmas,Espanyol,0,0,,,,0
+1476529200,Leganes,Sevilla,2,3,,,,0
+1476540900,Barcelona,Dep. La Coruna,4,0,,,,0
+1476549000,Atl. Madrid,Granada CF,7,1,,,,0
+1476557100,Betis,Real Madrid,1,6,,,,0
+1476612000,Alaves,Malaga,1,1,,,,0
+1476627300,Ath Bilbao,Real Sociedad,3,2,,,,0
+1476635400,Gijon,Valencia,1,2,,,,0
+1476643500,Villarreal,Celta Vigo,5,0,,,,0
+1476729900,Eibar,Osasuna,2,3,,,,0
+1477075500,Osasuna,Betis,1,2,,,,0
+1477134000,Espanyol,Eibar,3,3,,,,0
+1477145700,Valencia,Barcelona,2,3,,,,0
+1477153800,Real Sociedad,Alaves,3,0,,,,0
+1477161900,Granada CF,Gijon,0,0,,,,0
+1477216800,Celta Vigo,Dep. La Coruna,4,1,,,,0
+1477232100,Sevilla,Atl. Madrid,1,0,,,,0
+1477240200,Villarreal,Las Palmas,2,1,,,,0
+1477240200,Malaga,Leganes,4,0,,,,0
+1477248300,Real Madrid,Ath Bilbao,2,1,,,,0
+1477680300,Leganes,Real Sociedad,0,2,,,,0
+1477738800,Gijon,Sevilla,1,1,,,,0
+1477750500,Alaves,Real Madrid,1,4,,,,0
+1477758600,Atl. Madrid,Malaga,4,2,,,,0
+1477766700,Barcelona,Granada CF,1,0,,,,0
+1477825200,Eibar,Villarreal,2,1,,,,0
+1477840500,Ath Bilbao,Osasuna,1,1,,,,0
+1477848600,Betis,Espanyol,0,1,,,,0
+1477856700,Las Palmas,Celta Vigo,3,3,,,,0
+1477943100,Dep. La Coruna,Valencia,1,1,,,,0
+1478288700,Malaga,Gijon,3,2,,,,0
+1478347200,Granada CF,Dep. La Coruna,1,1,,,,0
+1478358900,Real Sociedad,Atl. Madrid,2,0,,,,0
+1478367000,Osasuna,Alaves,0,1,,,,0
+1478375100,Las Palmas,Eibar,1,0,,,,0
+1478430000,Real Madrid,Leganes,3,0,,,,0
+1478445300,Espanyol,Ath Bilbao,0,0,,,,0
+1478445300,Celta Vigo,Valencia,2,1,,,,0
+1478453400,Villarreal,Betis,2,0,,,,0
+1478461500,Sevilla,Barcelona,1,2,,,,0
+1479498300,Betis,Las Palmas,2,0,,,,0
+1479556800,Dep. La Coruna,Sevilla,2,3,,,,0
+1479568500,Barcelona,Malaga,0,0,,,,0
+1479576600,Eibar,Celta Vigo,1,0,,,,0
+1479584700,Atl. Madrid,Real Madrid,0,3,,,,0
+1479639600,Alaves,Espanyol,0,1,,,,0
+1479654900,Valencia,Granada CF,1,1,,,,0
+1479663000,Gijon,Real Sociedad,1,3,,,,0
+1479671100,Ath Bilbao,Villarreal,1,0,,,,0
+1479757500,Leganes,Osasuna,2,0,,,,0
+1480103100,Eibar,Betis,3,1,,,,0
+1480161600,Malaga,Dep. La Coruna,4,3,,,,0
+1480173300,Real Madrid,Gijon,2,1,,,,0
+1480181400,Espanyol,Leganes,3,0,,,,0
+1480189500,Sevilla,Valencia,2,1,,,,0
+1480244400,Villarreal,Alaves,0,2,,,,0
+1480259700,Osasuna,Atl. Madrid,0,3,,,,0
+1480267800,Celta Vigo,Granada CF,3,1,,,,0
+1480275900,Real Sociedad,Barcelona,1,1,,,,0
+1480362300,Las Palmas,Ath Bilbao,3,1,,,,0
+1480766400,Granada CF,Sevilla,2,1,,,,0
+1480778100,Barcelona,Real Madrid,1,1,,,,0
+1480786200,Leganes,Villarreal,0,0,,,,0
+1480794300,Atl. Madrid,Espanyol,0,0,,,,0
+1480849200,Betis,Celta Vigo,3,3,,,,0
+1480864500,Ath Bilbao,Eibar,3,1,,,,0
+1480872600,Gijon,Osasuna,3,1,,,,0
+1480872600,Alaves,Las Palmas,1,1,,,,0
+1480880700,Valencia,Malaga,2,2,,,,0
+1480967100,Dep. La Coruna,Real Sociedad,5,1,,,,0
+1481312700,Malaga,Granada CF,1,1,,,,0
+1481371200,Osasuna,Barcelona,0,3,,,,0
+1481382900,Real Sociedad,Valencia,3,2,,,,0
+1481391000,Las Palmas,Leganes,1,1,,,,0
+1481399100,Real Madrid,Dep. La Coruna,3,2,,,,0
+1481454000,Eibar,Alaves,0,0,,,,0
+1481469300,Celta Vigo,Sevilla,0,3,,,,0
+1481477400,Espanyol,Gijon,2,1,,,,0
+1481485500,Betis,Ath Bilbao,1,0,,,,0
+1481571900,Villarreal,Atl. Madrid,3,0,,,,0
+1481917500,Alaves,Betis,1,0,,,,0
+1481976000,Gijon,Villarreal,1,3,,,,0
+1481987700,Atl. Madrid,Las Palmas,1,0,,,,0
+1481995800,Granada CF,Real Sociedad,0,2,,,,0
+1482003900,Sevilla,Malaga,4,1,,,,0
+1482074100,Leganes,Eibar,1,1,,,,0
+1482082200,Dep. La Coruna,Osasuna,2,0,,,,0
+1482090300,Barcelona,Espanyol,4,1,,,,0
+1482176700,Ath Bilbao,Celta Vigo,2,1,,,,0
+1483731900,Espanyol,Dep. La Coruna,1,1,,,,0
+1483790400,Real Madrid,Granada CF,5,0,,,,0
+1483802100,Eibar,Atl. Madrid,0,2,,,,0
+1483810200,Las Palmas,Gijon,1,0,,,,0
+1483818300,Real Sociedad,Sevilla,0,4,,,,0
+1483873200,Ath Bilbao,Alaves,0,0,,,,0
+1483888500,Betis,Leganes,2,0,,,,0
+1483896600,Celta Vigo,Malaga,3,1,,,,0
+1483904700,Villarreal,Barcelona,1,1,,,,0
+1483991100,Osasuna,Valencia,3,3,,,,0
+1484395200,Leganes,Ath Bilbao,0,0,,,,0
+1484406900,Barcelona,Las Palmas,5,0,,,,0
+1484415000,Atl. Madrid,Betis,1,0,,,,0
+1484423100,Dep. La Coruna,Villarreal,0,0,,,,0
+1484478000,Valencia,Espanyol,2,1,,,,0
+1484493300,Celta Vigo,Alaves,1,0,,,,0
+1484501400,Granada CF,Osasuna,1,1,,,,0
+1484501400,Gijon,Eibar,2,3,,,,0
+1484509500,Sevilla,Real Madrid,2,1,,,,0
+1484595900,Malaga,Real Sociedad,0,2,,,,0
+1484941500,Las Palmas,Dep. La Coruna,1,1,,,,0
+1485000000,Espanyol,Granada CF,3,1,,,,0
+1485011700,Real Madrid,Malaga,2,1,,,,0
+1485019800,Alaves,Leganes,2,2,,,,0
+1485027900,Villarreal,Valencia,0,2,,,,0
+1485082800,Osasuna,Sevilla,3,4,,,,0
+1485098100,Ath Bilbao,Atl. Madrid,2,2,,,,0
+1485106200,Real Sociedad,Celta Vigo,1,0,,,,0
+1485106200,Betis,Gijon,0,0,,,,0
+1485114300,Eibar,Barcelona,0,4,,,,0
+1485546300,Osasuna,Malaga,1,1,,,,0
+1485604800,Villarreal,Granada CF,2,0,,,,0
+1485616500,Alaves,Atl. Madrid,0,0,,,,0
+1485624600,Eibar,Dep. La Coruna,3,1,,,,0
+1485632700,Leganes,Celta Vigo,0,2,,,,0
+1485687600,Betis,Barcelona,1,1,,,,0
+1485702900,Espanyol,Sevilla,3,1,,,,0
+1485711000,Ath Bilbao,Gijon,2,1,,,,0
+1485719100,Real Madrid,Real Sociedad,3,0,,,,0
+1485805500,Las Palmas,Valencia,3,1,,,,0
+1486209600,Malaga,Espanyol,0,1,,,,0
+1486221300,Barcelona,Ath Bilbao,3,0,,,,0
+1486229400,Atl. Madrid,Leganes,2,0,,,,0
+1486237500,Valencia,Eibar,0,4,,,,0
+1486292400,Sevilla,Villarreal,0,0,,,,0
+1486307700,Gijon,Alaves,2,4,,,,0
+1486315800,Real Sociedad,Osasuna,3,2,,,,0
+1486410300,Granada CF,Las Palmas,1,0,,,,0
+1486755900,Espanyol,Real Sociedad,1,2,,,,0
+1486814400,Betis,Valencia,0,0,,,,0
+1486826100,Alaves,Barcelona,0,6,,,,0
+1486834200,Ath Bilbao,Dep. La Coruna,2,1,,,,0
+1486842300,Osasuna,Real Madrid,1,3,,,,0
+1486897200,Villarreal,Malaga,1,1,,,,0
+1486912500,Leganes,Gijon,0,2,,,,0
+1486920600,Las Palmas,Sevilla,0,1,,,,0
+1486928700,Atl. Madrid,Celta Vigo,3,2,,,,0
+1487015100,Eibar,Granada CF,4,0,,,,0
+1487360700,Granada CF,Betis,4,1,,,,0
+1487419200,Gijon,Atl. Madrid,1,4,,,,0
+1487430900,Real Madrid,Espanyol,2,0,,,,0
+1487439000,Dep. La Coruna,Alaves,0,1,,,,0
+1487447100,Sevilla,Eibar,2,0,,,,0
+1487502000,Real Sociedad,Villarreal,0,1,,,,0
+1487517300,Valencia,Ath Bilbao,2,0,,,,0
+1487525400,Celta Vigo,Osasuna,3,0,,,,0
+1487533500,Barcelona,Leganes,2,1,,,,0
+1487619900,Malaga,Las Palmas,2,1,,,,0
+1487785500,Valencia,Real Madrid,2,1,,,,0
+1487965500,Las Palmas,Real Sociedad,0,1,,,,0
+1488024000,Alaves,Valencia,2,1,,,,0
+1488035700,Betis,Sevilla,1,2,,,,0
+1488043800,Leganes,Dep. La Coruna,4,0,,,,0
+1488051900,Eibar,Malaga,3,0,,,,0
+1488106800,Espanyol,Osasuna,3,0,,,,0
+1488122100,Atl. Madrid,Barcelona,1,2,,,,0
+1488130200,Gijon,Celta Vigo,1,1,,,,0
+1488130200,Ath Bilbao,Granada CF,3,1,,,,0
+1488138300,Villarreal,Real Madrid,2,3,,,,0
+1488306600,Real Sociedad,Eibar,2,2,,,,0
+1488313800,Valencia,Leganes,1,0,,,,0
+1488313800,Malaga,Betis,1,2,,,,0
+1488393000,Osasuna,Villarreal,1,4,,,,0
+1488393000,Barcelona,Gijon,6,1,,,,0
+1488400200,Real Madrid,Las Palmas,3,3,,,,0
+1488400200,Granada CF,Alaves,2,1,,,,0
+1488400200,Celta Vigo,Espanyol,2,2,,,,0
+1488483900,Dep. La Coruna,Atl. Madrid,1,1,,,,0
+1488486600,Sevilla,Ath Bilbao,1,0,,,,0
+1488570300,Betis,Real Sociedad,2,3,,,,0
+1488628800,Leganes,Granada CF,1,0,,,,0
+1488640500,Eibar,Real Madrid,1,4,,,,0
+1488648600,Villarreal,Espanyol,2,0,,,,0
+1488656700,Barcelona,Celta Vigo,5,0,,,,0
+1488711600,Gijon,Dep. La Coruna,0,1,,,,0
+1488726900,Atl. Madrid,Valencia,3,0,,,,0
+1488735000,Las Palmas,Osasuna,5,2,,,,0
+1488743100,Ath Bilbao,Malaga,1,0,,,,0
+1488829500,Alaves,Sevilla,1,1,,,,0
+1488995100,Dep. La Coruna,Betis,1,1,,,,0
+1489175100,Espanyol,Las Palmas,4,3,,,,0
+1489233600,Valencia,Gijon,1,1,,,,0
+1489245300,Sevilla,Leganes,1,1,,,,0
+1489253400,Malaga,Alaves,1,2,,,,0
+1489261500,Granada CF,Atl. Madrid,0,1,,,,0
+1489316400,Real Sociedad,Ath Bilbao,0,2,,,,0
+1489331700,Dep. La Coruna,Barcelona,2,1,,,,0
+1489339800,Celta Vigo,Villarreal,0,1,,,,0
+1489347900,Real Madrid,Betis,2,1,,,,0
+1489434300,Osasuna,Eibar,1,1,,,,0
+1489779900,Las Palmas,Villarreal,1,0,,,,0
+1489838400,Eibar,Espanyol,1,1,,,,0
+1489850100,Ath Bilbao,Real Madrid,1,2,,,,0
+1489858200,Alaves,Real Sociedad,1,0,,,,0
+1489866300,Betis,Osasuna,2,0,,,,0
+1489921200,Leganes,Malaga,0,0,,,,0
+1489936500,Atl. Madrid,Sevilla,3,1,,,,0
+1489944600,Gijon,Granada CF,3,1,,,,0
+1489944600,Dep. La Coruna,Celta Vigo,0,1,,,,0
+1489952700,Barcelona,Valencia,4,2,,,,0
+1490985900,Espanyol,Betis,2,1,,,,0
+1491044400,Villarreal,Eibar,2,3,,,,0
+1491056100,Osasuna,Ath Bilbao,1,2,,,,0
+1491064200,Real Sociedad,Leganes,1,1,,,,0
+1491072300,Malaga,Atl. Madrid,0,2,,,,0
+1491127200,Sevilla,Gijon,0,0,,,,0
+1491142500,Real Madrid,Alaves,3,0,,,,0
+1491150600,Valencia,Dep. La Coruna,3,0,,,,0
+1491158700,Granada CF,Barcelona,1,4,,,,0
+1491245100,Celta Vigo,Las Palmas,3,1,,,,0
+1491327000,Ath Bilbao,Espanyol,2,0,,,,0
+1491334200,Betis,Villarreal,0,1,,,,0
+1491334200,Atl. Madrid,Real Sociedad,1,0,,,,0
+1491413400,Barcelona,Sevilla,3,0,,,,0
+1491417000,Gijon,Malaga,0,1,,,,0
+1491417000,Dep. La Coruna,Granada CF,0,0,,,,0
+1491417000,Alaves,Osasuna,0,1,,,,0
+1491420600,Leganes,Real Madrid,2,4,,,,0
+1491499800,Eibar,Las Palmas,3,1,,,,0
+1491507000,Valencia,Celta Vigo,3,2,,,,0
+1491590700,Villarreal,Ath Bilbao,3,1,,,,0
+1491649200,Espanyol,Alaves,1,0,,,,0
+1491660900,Real Madrid,Atl. Madrid,1,1,,,,0
+1491669000,Sevilla,Dep. La Coruna,4,2,,,,0
+1491677100,Malaga,Barcelona,2,0,,,,0
+1491732000,Granada CF,Valencia,1,3,,,,0
+1491747300,Celta Vigo,Eibar,0,2,,,,0
+1491755400,Osasuna,Leganes,2,1,,,,0
+1491763500,Las Palmas,Betis,4,1,,,,0
+1491849900,Real Sociedad,Gijon,3,1,,,,0
+1492195500,Ath Bilbao,Las Palmas,5,1,,,,0
+1492254000,Dep. La Coruna,Malaga,2,0,,,,0
+1492265700,Gijon,Real Madrid,2,3,,,,0
+1492273800,Atl. Madrid,Osasuna,3,0,,,,0
+1492281900,Barcelona,Real Sociedad,3,2,,,,0
+1492336800,Leganes,Espanyol,0,1,,,,0
+1492352100,Valencia,Sevilla,0,0,,,,0
+1492360200,Betis,Eibar,2,0,,,,0
+1492368300,Granada CF,Celta Vigo,0,3,,,,0
+1492454700,Alaves,Villarreal,2,1,,,,0
+1492801200,Sevilla,Granada CF,2,0,,,,0
+1492858800,Malaga,Valencia,2,0,,,,0
+1492870500,Villarreal,Leganes,2,1,,,,0
+1492878600,Osasuna,Gijon,2,2,,,,0
+1492886700,Espanyol,Atl. Madrid,0,1,,,,0
+1492941600,Real Sociedad,Dep. La Coruna,1,0,,,,0
+1492956900,Celta Vigo,Betis,0,1,,,,0
+1492965000,Las Palmas,Alaves,1,1,,,,0
+1492973100,Real Madrid,Barcelona,2,3,,,,0
+1493059500,Eibar,Ath Bilbao,0,1,,,,0
+1493141400,Gijon,Espanyol,1,1,,,,0
+1493145000,Granada CF,Malaga,0,2,,,,0
+1493148600,Atl. Madrid,Villarreal,0,1,,,,0
+1493227800,Barcelona,Osasuna,7,1,,,,0
+1493231400,Valencia,Real Sociedad,2,3,,,,0
+1493231400,Leganes,Las Palmas,3,0,,,,0
+1493235000,Dep. La Coruna,Real Madrid,2,6,,,,0
+1493314200,Alaves,Eibar,0,0,,,,0
+1493317800,Sevilla,Celta Vigo,2,1,,,,0
+1493321400,Ath Bilbao,Betis,2,1,,,,0
+1493405100,Villarreal,Gijon,3,1,,,,0
+1493463600,Real Sociedad,Granada CF,2,1,,,,0
+1493475300,Real Madrid,Valencia,2,1,,,,0
+1493483400,Las Palmas,Atl. Madrid,0,5,,,,0
+1493491500,Espanyol,Barcelona,0,3,,,,0
+1493546400,Osasuna,Dep. La Coruna,2,2,,,,0
+1493561700,Betis,Alaves,1,4,,,,0
+1493569800,Eibar,Leganes,2,0,,,,0
+1493577900,Celta Vigo,Ath Bilbao,0,3,,,,0
+1493665200,Malaga,Sevilla,4,2,,,,0
+1494010800,Sevilla,Real Sociedad,1,1,,,,0
+1494068400,Gijon,Las Palmas,1,0,,,,0
+1494080100,Atl. Madrid,Eibar,1,0,,,,0
+1494088200,Barcelona,Villarreal,4,1,,,,0
+1494096300,Granada CF,Real Madrid,0,4,,,,0
+1494151200,Alaves,Ath Bilbao,1,0,,,,0
+1494166500,Valencia,Osasuna,4,1,,,,0
+1494174600,Dep. La Coruna,Espanyol,1,2,,,,0
+1494182700,Malaga,Celta Vigo,3,0,,,,0
+1494269100,Leganes,Betis,4,0,,,,0
+1494684000,Espanyol,Valencia,0,1,,,,0
+1494693000,Osasuna,Granada CF,2,1,,,,0
+1494770400,Alaves,Celta Vigo,3,1,,,,0
+1494784800,Villarreal,Dep. La Coruna,0,0,,,,0
+1494784800,Real Sociedad,Malaga,2,2,,,,0
+1494784800,Real Madrid,Sevilla,4,1,,,,0
+1494784800,Las Palmas,Barcelona,1,4,,,,0
+1494784800,Eibar,Gijon,0,1,,,,0
+1494784800,Betis,Atl. Madrid,1,1,,,,0
+1494784800,Ath Bilbao,Leganes,1,1,,,,0
+1495047600,Celta Vigo,Real Madrid,1,4,,,,0
+1495219500,Granada CF,Espanyol,1,2,,,,0
+1495292400,Gijon,Betis,2,2,,,,0
+1495299600,Leganes,Alaves,1,1,,,,0
+1495299600,Dep. La Coruna,Las Palmas,3,0,,,,0
+1495306800,Sevilla,Osasuna,5,0,,,,0
+1495377900,Valencia,Villarreal,1,3,,,,0
+1495377900,Celta Vigo,Real Sociedad,2,2,,,,0
+1495377900,Atl. Madrid,Ath Bilbao,3,1,,,,0
+1495389600,Malaga,Real Madrid,0,2,,,,0
+1495389600,Barcelona,Eibar,4,2,,,,0

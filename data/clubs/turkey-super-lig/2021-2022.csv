@@ -1,0 +1,381 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1628875800,Besiktas,Rizespor,3,0,,,,0
+1628957700,Karagumruk,Gaziantep,3,2,,,,0
+1628966700,Hatayspor,Kasimpasa,1,1,,,,0
+1628966700,Altay,Kayserispor,3,0,,,,0
+1629044100,Basaksehir,Alanyaspor,0,1,,,,0
+1629053100,Antalyaspor,Goztepe,1,1,,,,0
+1629053100,Adana Demirspor,Fenerbahce,0,1,,,,0
+1629130500,Yeni Malatyaspor,Trabzonspor,1,5,,,,0
+1629130500,Sivasspor,Konyaspor,0,1,,,,0
+1629139500,Giresunspor,Galatasaray,0,2,,,,0
+1629480600,Kayserispor,Adana Demirspor,1,1,,,,0
+1629562500,Rizespor,Karagumruk,0,0,,,,0
+1629562500,Kasimpasa,Giresunspor,2,0,,,,0
+1629571500,Gaziantep,Besiktas,0,0,,,,0
+1629571500,Alanyaspor,Altay,1,4,,,,0
+1629648900,Konyaspor,Basaksehir,2,1,,,,0
+1629657900,Goztepe,Yeni Malatyaspor,0,1,,,,0
+1629657900,Fenerbahce,Antalyaspor,2,0,,,,0
+1629735300,Trabzonspor,Sivasspor,2,1,,,,0
+1629744300,Galatasaray,Hatayspor,2,1,,,,0
+1630085400,Antalyaspor,Rizespor,3,2,,,,0
+1630089900,Adana Demirspor,Konyaspor,1,1,,,,0
+1630167300,Yeni Malatyaspor,Gaziantep,2,0,,,,0
+1630167300,Basaksehir,Kayserispor,0,1,,,,0
+1630176300,Hatayspor,Alanyaspor,5,0,,,,0
+1630176300,Besiktas,Karagumruk,1,0,,,,0
+1630253700,Sivasspor,Goztepe,2,2,,,,0
+1630253700,Kasimpasa,Galatasaray,2,2,,,,0
+1630262700,Giresunspor,Trabzonspor,0,1,,,,0
+1630262700,Altay,Fenerbahce,0,2,,,,0
+1631368800,Konyaspor,Altay,3,1,,,,0
+1631368800,Karagumruk,Adana Demirspor,4,0,,,,0
+1631379600,Kayserispor,Kasimpasa,2,0,,,,0
+1631379600,Besiktas,Yeni Malatyaspor,3,0,,,,0
+1631455200,Rizespor,Hatayspor,0,2,,,,0
+1631455200,Fenerbahce,Sivasspor,1,1,,,,0
+1631466000,Trabzonspor,Galatasaray,2,2,,,,0
+1631466000,Goztepe,Basaksehir,2,1,,,,0
+1631552400,Gaziantep,Antalyaspor,2,0,,,,0
+1631552400,Alanyaspor,Giresunspor,1,0,,,,0
+1631898000,Yeni Malatyaspor,Karagumruk,3,4,,,,0
+1631898000,Altay,Goztepe,2,1,,,,0
+1631961000,Sivasspor,Gaziantep,1,1,,,,0
+1631970000,Kasimpasa,Trabzonspor,0,1,,,,0
+1631980800,Antalyaspor,Besiktas,2,3,,,,0
+1631980800,Adana Demirspor,Rizespor,3,1,,,,0
+1632047400,Giresunspor,Konyaspor,0,0,,,,0
+1632056400,Galatasaray,Alanyaspor,0,1,,,,0
+1632067200,Hatayspor,Kayserispor,2,1,,,,0
+1632067200,Basaksehir,Fenerbahce,2,0,,,,0
+1632232800,Rizespor,Altay,1,2,,,,0
+1632232800,Karagumruk,Antalyaspor,0,0,,,,0
+1632243600,Yeni Malatyaspor,Sivasspor,0,1,,,,0
+1632243600,Besiktas,Adana Demirspor,3,3,,,,0
+1632319200,Gaziantep,Basaksehir,1,0,,,,0
+1632330000,Kayserispor,Galatasaray,3,0,,,,0
+1632330000,Goztepe,Hatayspor,0,2,,,,0
+1632405600,Konyaspor,Trabzonspor,2,2,,,,0
+1632416400,Fenerbahce,Giresunspor,2,1,,,,0
+1632416400,Alanyaspor,Kasimpasa,2,0,,,,0
+1632502800,Altay,Besiktas,2,1,,,,0
+1632565800,Sivasspor,Karagumruk,4,0,,,,0
+1632574800,Antalyaspor,Yeni Malatyaspor,1,0,,,,0
+1632585600,Adana Demirspor,Gaziantep,4,0,,,,0
+1632652200,Giresunspor,Kayserispor,1,1,,,,0
+1632661200,Hatayspor,Fenerbahce,1,2,,,,0
+1632661200,Basaksehir,Rizespor,3,0,,,,0
+1632672000,Galatasaray,Goztepe,2,1,,,,0
+1632762000,Trabzonspor,Alanyaspor,1,1,,,,0
+1632762000,Kasimpasa,Konyaspor,2,2,,,,0
+1633107600,Karagumruk,Basaksehir,3,1,,,,0
+1633107600,Antalyaspor,Adana Demirspor,1,2,,,,0
+1633170600,Konyaspor,Alanyaspor,1,1,,,,0
+1633179600,Kayserispor,Trabzonspor,1,2,,,,0
+1633179600,Goztepe,Giresunspor,0,1,,,,0
+1633190400,Besiktas,Sivasspor,2,1,,,,0
+1633257000,Yeni Malatyaspor,Hatayspor,0,2,,,,0
+1633266000,Gaziantep,Altay,4,1,,,,0
+1633266000,Fenerbahce,Kasimpasa,2,1,,,,0
+1633276800,Rizespor,Galatasaray,2,3,,,,0
+1634317200,Basaksehir,Besiktas,3,2,,,,0
+1634380200,Giresunspor,Rizespor,2,0,,,,0
+1634389200,Sivasspor,Antalyaspor,2,2,,,,0
+1634400000,Adana Demirspor,Yeni Malatyaspor,0,2,,,,0
+1634466600,Kasimpasa,Goztepe,1,2,,,,0
+1634475600,Galatasaray,Konyaspor,1,0,,,,0
+1634475600,Altay,Karagumruk,0,1,,,,0
+1634486400,Trabzonspor,Fenerbahce,3,1,,,,0
+1634576400,Hatayspor,Gaziantep,2,1,,,,0
+1634576400,Alanyaspor,Kayserispor,6,3,,,,0
+1634922000,Yeni Malatyaspor,Altay,2,1,,,,0
+1634985000,Rizespor,Kasimpasa,2,1,,,,0
+1634994000,Konyaspor,Kayserispor,2,0,,,,0
+1634994000,Gaziantep,Giresunspor,1,1,,,,0
+1635004800,Goztepe,Trabzonspor,0,1,,,,0
+1635071400,Karagumruk,Hatayspor,1,1,,,,0
+1635080400,Sivasspor,Adana Demirspor,1,1,,,,0
+1635080400,Antalyaspor,Basaksehir,1,2,,,,0
+1635091200,Fenerbahce,Alanyaspor,1,2,,,,0
+1635181200,Besiktas,Galatasaray,2,1,,,,0
+1635526800,Trabzonspor,Rizespor,2,1,,,,0
+1635589800,Kasimpasa,Yeni Malatyaspor,2,0,,,,0
+1635598800,Hatayspor,Besiktas,1,0,,,,0
+1635598800,Altay,Sivasspor,1,1,,,,0
+1635609600,Konyaspor,Fenerbahce,2,1,,,,0
+1635676200,Kayserispor,Karagumruk,2,1,,,,0
+1635685200,Alanyaspor,Goztepe,2,2,,,,0
+1635696000,Galatasaray,Gaziantep,2,0,,,,0
+1635786000,Giresunspor,Antalyaspor,1,2,,,,0
+1635786000,Basaksehir,Adana Demirspor,2,1,,,,0
+1636131600,Rizespor,Alanyaspor,2,0,,,,0
+1636131600,Gaziantep,Kasimpasa,2,0,,,,0
+1636194600,Sivasspor,Giresunspor,0,0,,,,0
+1636203600,Yeni Malatyaspor,Basaksehir,1,3,,,,0
+1636203600,Antalyaspor,Altay,1,0,,,,0
+1636214400,Besiktas,Trabzonspor,1,2,,,,0
+1636281000,Goztepe,Konyaspor,0,2,,,,0
+1636290000,Karagumruk,Galatasaray,1,1,,,,0
+1636290000,Adana Demirspor,Hatayspor,1,0,,,,0
+1636300800,Fenerbahce,Kayserispor,2,2,,,,0
+1637404200,Hatayspor,Antalyaspor,3,1,,,,0
+1637413200,Giresunspor,Yeni Malatyaspor,1,0,,,,0
+1637413200,Basaksehir,Sivasspor,2,1,,,,0
+1637424000,Alanyaspor,Besiktas,2,0,,,,0
+1637490600,Kasimpasa,Karagumruk,1,3,,,,0
+1637499600,Konyaspor,Rizespor,3,0,,,,0
+1637499600,Altay,Adana Demirspor,1,3,,,,0
+1637510400,Galatasaray,Fenerbahce,1,2,,,,0
+1637600400,Trabzonspor,Gaziantep,3,0,,,,0
+1637600400,Kayserispor,Goztepe,1,1,,,,0
+1637946000,Basaksehir,Altay,0,0,,,,0
+1637946000,Adana Demirspor,Kasimpasa,0,0,,,,0
+1638009000,Antalyaspor,Alanyaspor,3,0,,,,0
+1638018000,Rizespor,Kayserispor,1,0,,,,0
+1638028800,Besiktas,Giresunspor,0,4,,,,0
+1638095400,Gaziantep,Konyaspor,3,2,,,,0
+1638104400,Sivasspor,Hatayspor,4,0,,,,0
+1638104400,Karagumruk,Trabzonspor,0,2,,,,0
+1638115200,Yeni Malatyaspor,Galatasaray,0,0,,,,0
+1638205200,Goztepe,Fenerbahce,1,1,,,,0
+1638550800,Kasimpasa,Besiktas,1,1,,,,0
+1638613800,Alanyaspor,Sivasspor,0,1,,,,0
+1638622800,Trabzonspor,Adana Demirspor,2,0,,,,0
+1638633600,Galatasaray,Altay,2,2,,,,0
+1638700200,Kayserispor,Antalyaspor,2,0,,,,0
+1638709200,Hatayspor,Basaksehir,0,3,,,,0
+1638709200,Giresunspor,Karagumruk,3,1,,,,0
+1638720000,Fenerbahce,Rizespor,4,0,,,,0
+1638810000,Konyaspor,Yeni Malatyaspor,0,0,,,,0
+1638810000,Goztepe,Gaziantep,2,1,,,,0
+1639155600,Altay,Hatayspor,1,2,,,,0
+1639218600,Karagumruk,Konyaspor,1,4,,,,0
+1639227600,Rizespor,Goztepe,3,1,,,,0
+1639227600,Basaksehir,Kasimpasa,2,1,,,,0
+1639238400,Antalyaspor,Trabzonspor,2,1,,,,0
+1639305000,Adana Demirspor,Giresunspor,1,0,,,,0
+1639314000,Yeni Malatyaspor,Alanyaspor,2,6,,,,0
+1639324800,Besiktas,Kayserispor,4,2,,,,0
+1639407600,Sivasspor,Galatasaray,1,0,,,,0
+1639416600,Gaziantep,Fenerbahce,3,2,,,,0
+1639760400,Giresunspor,Altay,3,1,,,,0
+1639823400,Kasimpasa,Sivasspor,1,3,,,,0
+1639832400,Trabzonspor,Hatayspor,2,0,,,,0
+1639832400,Konyaspor,Antalyaspor,1,0,,,,0
+1639843200,Galatasaray,Basaksehir,1,1,,,,0
+1639843200,Alanyaspor,Adana Demirspor,1,3,,,,0
+1639909800,Rizespor,Yeni Malatyaspor,1,0,,,,0
+1639918800,Kayserispor,Gaziantep,0,0,,,,0
+1639918800,Goztepe,Karagumruk,0,1,,,,0
+1639929600,Fenerbahce,Besiktas,2,2,,,,0
+1640095200,Basaksehir,Giresunspor,3,1,,,,0
+1640095200,Antalyaspor,Kasimpasa,1,1,,,,0
+1640106000,Altay,Trabzonspor,1,2,,,,0
+1640106000,Adana Demirspor,Galatasaray,2,0,,,,0
+1640181600,Sivasspor,Rizespor,1,1,,,,0
+1640181600,Hatayspor,Konyaspor,1,3,,,,0
+1640192400,Karagumruk,Fenerbahce,1,1,,,,0
+1640192400,Gaziantep,Alanyaspor,2,1,,,,0
+1640268000,Yeni Malatyaspor,Kayserispor,2,2,,,,0
+1640278800,Besiktas,Goztepe,2,1,,,,0
+1640428200,Kasimpasa,Altay,2,0,,,,0
+1640437200,Giresunspor,Hatayspor,0,1,,,,0
+1640437200,Galatasaray,Antalyaspor,2,0,,,,0
+1640448000,Trabzonspor,Basaksehir,0,0,,,,0
+1640514600,Rizespor,Gaziantep,0,1,,,,0
+1640523600,Goztepe,Adana Demirspor,1,1,,,,0
+1640523600,Alanyaspor,Karagumruk,1,1,,,,0
+1640534400,Fenerbahce,Yeni Malatyaspor,2,0,,,,0
+1640624400,Konyaspor,Besiktas,1,0,,,,0
+1640624400,Kayserispor,Sivasspor,3,0,,,,0
+1641574800,Trabzonspor,Yeni Malatyaspor,1,0,,,,0
+1641637800,Gaziantep,Karagumruk,3,1,,,,0
+1641646800,Kasimpasa,Hatayspor,3,1,,,,0
+1641646800,Alanyaspor,Basaksehir,1,1,,,,0
+1641657600,Galatasaray,Giresunspor,0,1,,,,0
+1641724200,Konyaspor,Sivasspor,0,1,,,,0
+1641733200,Kayserispor,Altay,1,0,,,,0
+1641733200,Goztepe,Antalyaspor,4,0,,,,0
+1641744000,Rizespor,Besiktas,2,2,,,,0
+1641834000,Fenerbahce,Adana Demirspor,1,2,,,,0
+1642179600,Yeni Malatyaspor,Goztepe,1,2,,,,0
+1642179600,Besiktas,Gaziantep,1,0,,,,0
+1642242600,Adana Demirspor,Kayserispor,1,1,,,,0
+1642251600,Sivasspor,Trabzonspor,1,1,,,,0
+1642251600,Karagumruk,Rizespor,2,0,,,,0
+1642262400,Antalyaspor,Fenerbahce,1,1,,,,0
+1642329000,Altay,Alanyaspor,0,2,,,,0
+1642338000,Giresunspor,Kasimpasa,0,2,,,,0
+1642348800,Hatayspor,Galatasaray,4,2,,,,0
+1642525200,Konyaspor,Adana Demirspor,1,0,,,,0
+1642525200,Karagumruk,Besiktas,0,1,,,,0
+1642600800,Goztepe,Sivasspor,2,1,,,,0
+1642604400,Kayserispor,Basaksehir,1,0,,,,0
+1642611600,Trabzonspor,Giresunspor,1,1,,,,0
+1642611600,Fenerbahce,Altay,2,1,,,,0
+1642687200,Rizespor,Antalyaspor,2,1,,,,0
+1642687200,Alanyaspor,Hatayspor,6,0,,,,0
+1642698000,Galatasaray,Kasimpasa,1,3,,,,0
+1642847400,Yeni Malatyaspor,Besiktas,1,1,,,,0
+1642856400,Sivasspor,Fenerbahce,1,1,,,,0
+1642856400,Adana Demirspor,Karagumruk,5,0,,,,0
+1642867200,Basaksehir,Goztepe,1,2,,,,0
+1642933800,Kasimpasa,Kayserispor,3,1,,,,0
+1642933800,Hatayspor,Rizespor,0,0,,,,0
+1642942800,Giresunspor,Alanyaspor,1,3,,,,0
+1642942800,Antalyaspor,Gaziantep,0,0,,,,0
+1642942800,Altay,Konyaspor,0,1,,,,0
+1642953600,Galatasaray,Trabzonspor,1,2,,,,0
+1643994000,Konyaspor,Giresunspor,1,0,,,,0
+1643994000,Kayserispor,Hatayspor,4,3,,,,0
+1644057000,Gaziantep,Sivasspor,5,1,,,,0
+1644066000,Trabzonspor,Kasimpasa,1,0,,,,0
+1644066000,Karagumruk,Yeni Malatyaspor,1,0,,,,0
+1644076800,Fenerbahce,Basaksehir,0,1,,,,0
+1644152400,Rizespor,Adana Demirspor,1,3,,,,0
+1644152400,Alanyaspor,Galatasaray,1,1,,,,0
+1644163200,Goztepe,Altay,0,2,,,,0
+1644163200,Besiktas,Antalyaspor,0,0,,,,0
+1644598800,Altay,Rizespor,0,0,,,,0
+1644670800,Giresunspor,Fenerbahce,1,2,,,,0
+1644670800,Basaksehir,Gaziantep,2,0,,,,0
+1644681600,Galatasaray,Kayserispor,1,1,,,,0
+1644748200,Sivasspor,Yeni Malatyaspor,2,1,,,,0
+1644757200,Antalyaspor,Karagumruk,3,0,,,,0
+1644768000,Trabzonspor,Konyaspor,2,1,,,,0
+1644768000,Kasimpasa,Alanyaspor,2,2,,,,0
+1644858000,Hatayspor,Goztepe,2,1,,,,0
+1644858000,Adana Demirspor,Besiktas,1,1,,,,0
+1645203600,Rizespor,Basaksehir,0,2,,,,0
+1645203600,Konyaspor,Kasimpasa,4,4,,,,0
+1645266600,Yeni Malatyaspor,Antalyaspor,1,2,,,,0
+1645275600,Kayserispor,Giresunspor,2,1,,,,0
+1645286400,Besiktas,Altay,1,0,,,,0
+1645353000,Gaziantep,Adana Demirspor,0,3,,,,0
+1645362000,Karagumruk,Sivasspor,1,0,,,,0
+1645362000,Alanyaspor,Trabzonspor,0,4,,,,0
+1645372800,Fenerbahce,Hatayspor,2,0,,,,0
+1645462800,Goztepe,Galatasaray,2,3,,,,0
+1645549200,Basaksehir,Konyaspor,2,1,,,,0
+1645635600,Gaziantep,Yeni Malatyaspor,0,0,,,,0
+1645808400,Trabzonspor,Kayserispor,3,2,,,,0
+1645808400,Adana Demirspor,Antalyaspor,0,0,,,,0
+1645880400,Basaksehir,Karagumruk,1,2,,,,0
+1645891200,Sivasspor,Besiktas,2,3,,,,0
+1645957800,Giresunspor,Goztepe,3,1,,,,0
+1645957800,Altay,Gaziantep,3,2,,,,0
+1645966800,Hatayspor,Yeni Malatyaspor,5,2,,,,0
+1645966800,Alanyaspor,Konyaspor,5,1,,,,0
+1645977600,Galatasaray,Rizespor,4,2,,,,0
+1646067600,Kasimpasa,Fenerbahce,1,2,,,,0
+1646413200,Yeni Malatyaspor,Adana Demirspor,1,0,,,,0
+1646485200,Rizespor,Giresunspor,1,2,,,,0
+1646485200,Goztepe,Kasimpasa,2,3,,,,0
+1646496000,Konyaspor,Galatasaray,2,0,,,,0
+1646571600,Karagumruk,Altay,0,0,,,,0
+1646582400,Fenerbahce,Trabzonspor,1,1,,,,0
+1646582400,Antalyaspor,Sivasspor,1,0,,,,0
+1646672400,Kayserispor,Alanyaspor,1,2,,,,0
+1646672400,Gaziantep,Hatayspor,2,2,,,,0
+1646672400,Besiktas,Basaksehir,2,2,,,,0
+1647081000,Hatayspor,Karagumruk,3,0,,,,0
+1647090000,Kasimpasa,Rizespor,3,1,,,,0
+1647090000,Altay,Yeni Malatyaspor,1,0,,,,0
+1647100800,Trabzonspor,Goztepe,4,2,,,,0
+1647167400,Kayserispor,Konyaspor,2,3,,,,0
+1647176400,Adana Demirspor,Sivasspor,2,3,,,,0
+1647187200,Alanyaspor,Fenerbahce,2,5,,,,0
+1647262800,Basaksehir,Antalyaspor,0,1,,,,0
+1647277200,Giresunspor,Gaziantep,2,1,,,,0
+1647277200,Galatasaray,Besiktas,2,1,,,,0
+1647622800,Rizespor,Trabzonspor,3,2,,,,0
+1647622800,Karagumruk,Kayserispor,3,0,,,,0
+1647685800,Yeni Malatyaspor,Kasimpasa,0,2,,,,0
+1647694800,Goztepe,Alanyaspor,0,2,,,,0
+1647694800,Adana Demirspor,Basaksehir,2,1,,,,0
+1647705600,Besiktas,Hatayspor,1,1,,,,0
+1647772200,Sivasspor,Altay,2,1,,,,0
+1647772200,Antalyaspor,Giresunspor,4,1,,,,0
+1647781200,Gaziantep,Galatasaray,3,1,,,,0
+1647792000,Fenerbahce,Konyaspor,2,1,,,,0
+1648895400,Giresunspor,Sivasspor,2,2,,,,0
+1648904400,Kayserispor,Fenerbahce,0,4,,,,0
+1648904400,Altay,Antalyaspor,1,2,,,,0
+1648920600,Galatasaray,Karagumruk,2,0,,,,0
+1648981800,Kasimpasa,Gaziantep,2,1,,,,0
+1648990800,Konyaspor,Goztepe,3,0,,,,0
+1648990800,Alanyaspor,Rizespor,2,1,,,,0
+1649007000,Trabzonspor,Besiktas,1,1,,,,0
+1649093400,Hatayspor,Adana Demirspor,0,0,,,,0
+1649093400,Basaksehir,Yeni Malatyaspor,1,0,,,,0
+1649500200,Karagumruk,Kasimpasa,3,2,,,,0
+1649509200,Rizespor,Konyaspor,2,1,,,,0
+1649509200,Goztepe,Kayserispor,1,2,,,,0
+1649525400,Gaziantep,Trabzonspor,0,0,,,,0
+1649525400,Besiktas,Alanyaspor,4,1,,,,0
+1649586600,Yeni Malatyaspor,Giresunspor,0,1,,,,0
+1649595600,Sivasspor,Basaksehir,0,2,,,,0
+1649595600,Adana Demirspor,Altay,3,1,,,,0
+1649611800,Fenerbahce,Galatasaray,2,0,,,,0
+1649698200,Antalyaspor,Hatayspor,4,1,,,,0
+1650043800,Trabzonspor,Karagumruk,1,1,,,,0
+1650043800,Kayserispor,Rizespor,1,1,,,,0
+1650105000,Hatayspor,Sivasspor,1,1,,,,0
+1650114000,Altay,Basaksehir,1,1,,,,0
+1650114000,Alanyaspor,Antalyaspor,1,3,,,,0
+1650130200,Fenerbahce,Goztepe,2,0,,,,0
+1650191400,Konyaspor,Gaziantep,4,1,,,,0
+1650200400,Kasimpasa,Adana Demirspor,4,0,,,,0
+1650216600,Giresunspor,Besiktas,0,0,,,,0
+1650303000,Galatasaray,Yeni Malatyaspor,2,0,,,,0
+1650648600,Rizespor,Fenerbahce,0,6,,,,0
+1650718800,Karagumruk,Giresunspor,2,1,,,,0
+1650718800,Gaziantep,Goztepe,1,1,,,,0
+1650735000,Adana Demirspor,Trabzonspor,1,3,,,,0
+1650805200,Yeni Malatyaspor,Konyaspor,2,3,,,,0
+1650805200,Basaksehir,Hatayspor,3,0,,,,0
+1650821400,Antalyaspor,Kayserispor,1,1,,,,0
+1650821400,Altay,Galatasaray,0,1,,,,0
+1650907800,Sivasspor,Alanyaspor,1,0,,,,0
+1650907800,Besiktas,Kasimpasa,0,3,,,,0
+1651253400,Giresunspor,Adana Demirspor,2,0,,,,0
+1651253400,Fenerbahce,Gaziantep,3,2,,,,0
+1651323600,Konyaspor,Karagumruk,1,2,,,,0
+1651323600,Kasimpasa,Basaksehir,2,3,,,,0
+1651339800,Trabzonspor,Antalyaspor,2,2,,,,0
+1651339800,Hatayspor,Altay,0,1,,,,0
+1651410000,Kayserispor,Besiktas,2,3,,,,0
+1651410000,Alanyaspor,Yeni Malatyaspor,2,1,,,,0
+1651426200,Goztepe,Rizespor,1,7,,,,0
+1651426200,Galatasaray,Sivasspor,2,3,,,,0
+1651856400,Hatayspor,Trabzonspor,1,1,,,,0
+1651856400,Gaziantep,Kayserispor,1,1,,,,0
+1651928400,Sivasspor,Kasimpasa,1,3,,,,0
+1651928400,Karagumruk,Goztepe,3,1,,,,0
+1651939200,Basaksehir,Galatasaray,0,0,,,,0
+1651939200,Adana Demirspor,Alanyaspor,1,2,,,,0
+1652014800,Yeni Malatyaspor,Rizespor,1,3,,,,0
+1652014800,Altay,Giresunspor,1,1,,,,0
+1652025600,Besiktas,Fenerbahce,1,1,,,,0
+1652115600,Antalyaspor,Konyaspor,3,2,,,,0
+1652544000,Kayserispor,Yeni Malatyaspor,3,0,,,,0
+1652619600,Trabzonspor,Altay,2,1,,,,1
+1652619600,Goztepe,Besiktas,0,2,,,,0
+1652630400,Konyaspor,Hatayspor,3,1,,,,0
+1652630400,Kasimpasa,Antalyaspor,2,4,,,,0
+1652630400,Giresunspor,Basaksehir,1,1,,,,0
+1652630400,Fenerbahce,Karagumruk,0,0,,,,0
+1652630400,Alanyaspor,Gaziantep,3,0,,,,0
+1652720400,Rizespor,Sivasspor,1,2,,,,0
+1652720400,Galatasaray,Adana Demirspor,3,2,,,,0
+1653066000,Gaziantep,Rizespor,2,0,,,,0
+1653066000,Antalyaspor,Galatasaray,1,1,,,,0
+1653138000,Sivasspor,Kayserispor,2,1,,,,0
+1653138000,Altay,Kasimpasa,2,4,,,,0
+1653148800,Yeni Malatyaspor,Fenerbahce,0,5,,,,0
+1653148800,Besiktas,Konyaspor,1,1,,,,0
+1653224400,Karagumruk,Alanyaspor,0,1,,,,0
+1653224400,Basaksehir,Trabzonspor,3,1,,,,0
+1653235200,Hatayspor,Giresunspor,4,1,,,,0
+1653235200,Adana Demirspor,Goztepe,7,0,,,,0

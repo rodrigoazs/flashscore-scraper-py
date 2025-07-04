@@ -1,0 +1,309 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+970318800,Napoli,Juventus,1,2,,,,0
+970318800,Bari,Verona,1,1,,,,0
+970405200,Udinese,Brescia,4,2,,,,0
+970405200,Reggina,Inter,2,1,,,,0
+970405200,Perugia,Lecce,1,1,,,,0
+970405200,Parma,Fiorentina,2,2,,,,0
+970405200,Atalanta,Lazio,2,2,,,,0
+970405200,AS Roma,Bologna,2,0,,,,0
+970405200,AC Milan,L.R. Vicenza,2,0,,,,0
+971528400,Lazio,Perugia,3,0,,,,0
+971528400,Inter,Napoli,3,1,,,,0
+971614800,Verona,Udinese,1,1,,,,0
+971614800,Lecce,AS Roma,0,4,,,,0
+971614800,L.R. Vicenza,Atalanta,1,2,,,,0
+971614800,Juventus,Bari,2,0,,,,0
+971614800,Fiorentina,Reggina,2,1,,,,0
+971614800,Brescia,Parma,0,0,,,,0
+971614800,Bologna,AC Milan,2,1,,,,0
+972133200,Udinese,Inter,3,0,,,,0
+972133200,AC Milan,Juventus,2,2,,,,0
+972219600,Verona,Lazio,2,0,,,,0
+972219600,Reggina,Lecce,0,1,,,,0
+972219600,Perugia,Parma,3,1,,,,0
+972219600,Napoli,Bologna,1,5,,,,0
+972219600,Brescia,Fiorentina,1,1,,,,0
+972219600,Bari,Atalanta,0,2,,,,0
+972219600,AS Roma,L.R. Vicenza,3,1,,,,0
+973087200,Parma,AC Milan,2,0,,,,0
+973087200,Lecce,Napoli,1,1,,,,0
+973087200,Lazio,Brescia,2,1,,,,0
+973087200,L.R. Vicenza,Perugia,1,0,,,,0
+973087200,Juventus,Udinese,1,2,,,,0
+973087200,Inter,AS Roma,2,0,,,,0
+973087200,Fiorentina,Bari,2,2,,,,0
+973087200,Bologna,Reggina,2,0,,,,0
+973087200,Atalanta,Verona,3,0,,,,0
+973346400,Lazio,Bologna,2,0,,,,0
+973346400,Fiorentina,Perugia,3,4,,,,0
+973432800,Verona,Inter,2,2,,,,0
+973432800,Udinese,Lecce,2,0,,,,0
+973432800,Reggina,Juventus,0,2,,,,0
+973432800,Napoli,L.R. Vicenza,1,2,,,,0
+973432800,Brescia,AS Roma,2,4,,,,0
+973432800,Bari,Parma,0,1,,,,0
+973432800,AC Milan,Atalanta,3,3,,,,0
+973951200,Juventus,Lazio,1,1,,,,0
+973951200,Atalanta,Brescia,2,0,,,,0
+974037600,Perugia,Napoli,1,1,,,,0
+974037600,Parma,Udinese,2,0,,,,0
+974037600,L.R. Vicenza,Verona,2,2,,,,0
+974037600,Inter,Lecce,0,1,,,,0
+974037600,Bologna,Fiorentina,1,1,,,,0
+974037600,Bari,AC Milan,1,3,,,,0
+974037600,AS Roma,Reggina,2,1,,,,0
+974556000,Lazio,AC Milan,1,1,,,,0
+974556000,Inter,Perugia,2,1,,,,0
+974642400,Verona,AS Roma,1,4,,,,0
+974642400,Udinese,Reggina,3,0,,,,0
+974642400,Napoli,Atalanta,0,0,,,,0
+974642400,Lecce,Bari,2,0,,,,0
+974642400,Fiorentina,L.R. Vicenza,3,2,,,,0
+974642400,Brescia,Juventus,0,0,,,,0
+974642400,Bologna,Parma,2,1,,,,0
+975160800,Atalanta,Lecce,1,0,,,,0
+975160800,AC Milan,Napoli,1,0,,,,0
+975247200,Reggina,Brescia,0,3,,,,0
+975247200,Perugia,Bologna,1,3,,,,0
+975247200,Parma,Lazio,2,0,,,,0
+975247200,L.R. Vicenza,Inter,0,0,,,,0
+975247200,Juventus,Verona,2,1,,,,0
+975247200,Bari,Udinese,2,1,,,,0
+975247200,AS Roma,Fiorentina,1,0,,,,0
+975765600,Parma,Atalanta,2,0,,,,0
+975765600,Lazio,Reggina,2,0,,,,0
+975852000,Verona,Brescia,2,1,,,,0
+975852000,Udinese,AC Milan,0,1,,,,0
+975852000,Perugia,AS Roma,0,0,,,,0
+975852000,Napoli,Bari,1,0,,,,0
+975852000,Lecce,Fiorentina,1,1,,,,0
+975852000,Inter,Juventus,2,2,,,,0
+975852000,Bologna,L.R. Vicenza,1,1,,,,0
+976370400,Reggina,Verona,1,1,,,,0
+976370400,Brescia,Napoli,1,1,,,,0
+976456800,L.R. Vicenza,Lazio,1,4,,,,0
+976456800,Juventus,Parma,1,0,,,,0
+976456800,Fiorentina,Inter,2,0,,,,0
+976456800,Bari,Bologna,2,0,,,,0
+976456800,Atalanta,Perugia,0,0,,,,0
+976456800,AS Roma,Udinese,2,1,,,,0
+976456800,AC Milan,Lecce,4,1,,,,0
+976975200,Perugia,Bari,4,1,,,,0
+976975200,Napoli,Reggina,6,2,,,,0
+977061600,Verona,AC Milan,1,1,,,,0
+977061600,Udinese,Fiorentina,1,3,,,,0
+977061600,Parma,L.R. Vicenza,0,2,,,,0
+977061600,Lecce,Juventus,1,4,,,,0
+977061600,Lazio,AS Roma,0,1,,,,0
+977061600,Inter,Brescia,0,0,,,,0
+977061600,Bologna,Atalanta,0,1,,,,0
+977493600,Bari,Lazio,1,2,,,,0
+977493600,AS Roma,Juventus,0,0,,,,0
+977580000,Udinese,Bologna,3,1,,,,0
+977580000,Reggina,L.R. Vicenza,1,0,,,,0
+977580000,Napoli,Parma,2,2,,,,0
+977580000,Fiorentina,Verona,2,0,,,,0
+977580000,Brescia,Lecce,2,2,,,,0
+977580000,Atalanta,Inter,0,1,,,,0
+977580000,AC Milan,Perugia,1,2,,,,0
+978789600,L.R. Vicenza,Bari,1,0,,,,0
+978789600,Juventus,Fiorentina,3,3,,,,0
+978876000,Perugia,Udinese,3,1,,,,0
+978876000,Parma,Reggina,0,2,,,,0
+978876000,Lecce,Verona,4,2,,,,0
+978876000,Lazio,Napoli,1,2,,,,0
+978876000,Bologna,Brescia,1,0,,,,0
+978876000,Atalanta,AS Roma,0,2,,,,0
+978876000,AC Milan,Inter,2,2,,,,0
+979394400,Fiorentina,AC Milan,4,0,,,,0
+979394400,Brescia,Perugia,1,0,,,,0
+979480800,Verona,Napoli,2,1,,,,0
+979480800,Udinese,Lazio,3,4,,,,0
+979480800,Reggina,Atalanta,1,0,,,,0
+979480800,Lecce,L.R. Vicenza,3,1,,,,0
+979480800,Juventus,Bologna,1,0,,,,0
+979480800,Inter,Parma,1,1,,,,0
+979480800,AS Roma,Bari,1,1,,,,0
+979999200,Lazio,Inter,2,0,,,,0
+979999200,Bologna,Verona,1,0,,,,0
+980085600,Perugia,Juventus,0,1,,,,0
+980085600,Parma,Lecce,1,1,,,,0
+980085600,Napoli,Udinese,0,1,,,,0
+980085600,L.R. Vicenza,Brescia,1,1,,,,0
+980085600,Bari,Reggina,2,1,,,,0
+980085600,Atalanta,Fiorentina,0,0,,,,0
+980085600,AC Milan,AS Roma,3,2,,,,0
+980604000,Reggina,Perugia,0,2,,,,0
+980604000,Lecce,Bologna,0,0,,,,0
+980690400,Verona,Parma,0,2,,,,0
+980690400,Udinese,Atalanta,2,4,,,,0
+980690400,Juventus,L.R. Vicenza,4,0,,,,0
+980690400,Inter,Bari,1,0,,,,0
+980690400,Fiorentina,Lazio,1,4,,,,0
+980690400,Brescia,AC Milan,1,1,,,,0
+980690400,AS Roma,Napoli,3,0,,,,0
+981208800,Perugia,Verona,1,0,,,,0
+981208800,Atalanta,Juventus,2,1,,,,0
+981295200,Parma,AS Roma,1,2,,,,0
+981295200,Napoli,Fiorentina,1,0,,,,0
+981295200,Lazio,Lecce,3,2,,,,0
+981295200,L.R. Vicenza,Udinese,1,2,,,,0
+981295200,Bologna,Inter,0,3,,,,0
+981295200,Bari,Brescia,1,3,,,,0
+981295200,AC Milan,Reggina,1,0,,,,0
+981813600,Lazio,Atalanta,0,0,,,,0
+981813600,Inter,Reggina,1,1,,,,0
+981900000,Verona,Bari,3,2,,,,0
+981900000,Lecce,Perugia,2,2,,,,0
+981900000,L.R. Vicenza,AC Milan,2,0,,,,0
+981900000,Juventus,Napoli,3,0,,,,0
+981900000,Fiorentina,Parma,0,1,,,,0
+981900000,Brescia,Udinese,3,1,,,,0
+981900000,Bologna,AS Roma,1,2,,,,0
+982418400,Udinese,Verona,2,1,,,,0
+982418400,AC Milan,Bologna,3,3,,,,0
+982504800,Reggina,Fiorentina,1,1,,,,0
+982504800,Perugia,Lazio,0,1,,,,0
+982504800,Parma,Brescia,3,0,,,,0
+982504800,Napoli,Inter,1,0,,,,0
+982504800,Bari,Juventus,0,1,,,,0
+982504800,Atalanta,L.R. Vicenza,1,1,,,,0
+982504800,AS Roma,Lecce,1,0,,,,0
+983023200,Fiorentina,Brescia,2,2,,,,0
+983023200,Atalanta,Bari,0,0,,,,0
+983109600,Parma,Perugia,5,0,,,,0
+983109600,Lecce,Reggina,2,1,,,,0
+983109600,Lazio,Verona,5,3,,,,0
+983109600,L.R. Vicenza,AS Roma,0,2,,,,0
+983109600,Juventus,AC Milan,3,0,,,,0
+983109600,Inter,Udinese,2,1,,,,0
+983109600,Bologna,Napoli,2,1,,,,0
+983628000,Reggina,Bologna,2,1,,,,0
+983647800,Brescia,Lazio,0,1,,,,0
+983714400,Verona,Atalanta,2,1,,,,0
+983714400,Udinese,Juventus,0,2,,,,0
+983714400,Perugia,L.R. Vicenza,1,0,,,,0
+983714400,Napoli,Lecce,1,1,,,,0
+983714400,Bari,Fiorentina,2,1,,,,0
+983714400,AC Milan,Parma,2,2,,,,0
+983734200,AS Roma,Inter,3,2,,,,0
+984232800,L.R. Vicenza,Napoli,2,0,,,,0
+984252600,Atalanta,AC Milan,1,1,,,,0
+984319200,Perugia,Fiorentina,2,2,,,,0
+984319200,Lecce,Udinese,2,1,,,,0
+984319200,Juventus,Reggina,1,0,,,,0
+984319200,Inter,Verona,2,0,,,,0
+984319200,Bologna,Lazio,2,0,,,,0
+984319200,AS Roma,Brescia,3,1,,,,0
+984339000,Parma,Bari,4,0,,,,0
+984924000,Verona,L.R. Vicenza,1,0,,,,0
+984924000,Udinese,Parma,1,3,,,,0
+984924000,Lecce,Inter,1,2,,,,0
+984924000,Fiorentina,Bologna,1,1,,,,0
+984924000,AC Milan,Bari,4,0,,,,0
+984931200,Napoli,Perugia,0,0,,,,0
+984943800,Reggina,AS Roma,0,0,,,,0
+984943800,Lazio,Juventus,4,1,,,,0
+985030200,Brescia,Atalanta,0,3,,,,0
+986043600,L.R. Vicenza,Fiorentina,1,1,,,,0
+986043600,Bari,Lecce,3,2,,,,0
+986130000,Reggina,Udinese,1,1,,,,0
+986130000,Perugia,Inter,2,3,,,,0
+986130000,Parma,Bologna,0,0,,,,0
+986130000,Juventus,Brescia,1,1,,,,0
+986130000,Atalanta,Napoli,1,1,,,,0
+986130000,AS Roma,Verona,3,1,,,,0
+986130000,AC Milan,Lazio,1,0,,,,0
+986734800,Verona,Juventus,0,1,,,,0
+986734800,Udinese,Bari,2,0,,,,0
+986734800,Napoli,AC Milan,0,0,,,,0
+986734800,Lecce,Atalanta,0,2,,,,0
+986734800,Inter,L.R. Vicenza,1,1,,,,0
+986734800,Brescia,Reggina,4,0,,,,0
+986734800,Bologna,Perugia,3,2,,,,0
+986821200,Fiorentina,AS Roma,3,1,,,,0
+987253200,Reggina,Lazio,0,2,,,,0
+987253200,L.R. Vicenza,Bologna,4,2,,,,0
+987253200,Fiorentina,Lecce,2,0,,,,0
+987253200,Brescia,Verona,1,0,,,,0
+987253200,Bari,Napoli,0,1,,,,0
+987253200,Atalanta,Parma,0,1,,,,0
+987253200,AS Roma,Perugia,2,2,,,,0
+987253200,AC Milan,Udinese,3,0,,,,0
+987273000,Juventus,Inter,3,1,,,,0
+987598800,Lazio,Parma,1,0,,,,0
+987858000,Napoli,Brescia,1,1,,,,0
+987877800,Inter,Fiorentina,4,2,,,,0
+987944400,Verona,Reggina,0,3,,,,0
+987944400,Udinese,AS Roma,1,3,,,,0
+987944400,Perugia,Atalanta,2,2,,,,0
+987944400,Parma,Juventus,0,0,,,,0
+987944400,Lecce,AC Milan,3,3,,,,0
+987944400,Lazio,L.R. Vicenza,2,1,,,,0
+987944400,Bologna,Bari,4,2,,,,0
+988462800,Reggina,Napoli,3,1,,,,0
+988462800,L.R. Vicenza,Parma,0,1,,,,0
+988549200,Juventus,Lecce,1,1,,,,0
+988549200,Fiorentina,Udinese,2,1,,,,0
+988549200,Brescia,Inter,1,0,,,,0
+988549200,Bari,Perugia,3,4,,,,0
+988549200,Atalanta,Bologna,2,2,,,,0
+988549200,AS Roma,Lazio,2,2,,,,0
+988549200,AC Milan,Verona,1,0,,,,0
+989067600,Lecce,Brescia,0,3,,,,0
+989067600,Bologna,Udinese,1,1,,,,0
+989154000,Verona,Fiorentina,2,1,,,,0
+989154000,Perugia,AC Milan,2,1,,,,0
+989154000,Parma,Napoli,4,0,,,,0
+989154000,Lazio,Bari,2,0,,,,0
+989154000,L.R. Vicenza,Reggina,2,1,,,,0
+989154000,Juventus,AS Roma,2,2,,,,0
+989154000,Inter,Atalanta,3,0,,,,0
+989586000,Inter,AC Milan,0,6,,,,0
+989586000,Fiorentina,Juventus,1,3,,,,0
+989758800,Verona,Lecce,0,0,,,,0
+989758800,Udinese,Perugia,3,3,,,,0
+989758800,Reggina,Parma,2,0,,,,0
+989758800,Napoli,Lazio,2,4,,,,0
+989758800,Brescia,Bologna,0,0,,,,0
+989758800,Bari,L.R. Vicenza,2,2,,,,0
+989758800,AS Roma,Atalanta,1,0,,,,0
+990104400,Parma,Inter,3,1,,,,0
+990104400,AC Milan,Fiorentina,1,2,,,,0
+990363600,Perugia,Brescia,2,2,,,,0
+990363600,Napoli,Verona,2,0,,,,0
+990363600,Lazio,Udinese,3,1,,,,0
+990363600,L.R. Vicenza,Lecce,0,0,,,,0
+990363600,Bologna,Juventus,1,4,,,,0
+990363600,Bari,AS Roma,1,4,,,,0
+990363600,Atalanta,Reggina,1,1,,,,0
+990968400,Verona,Bologna,5,4,,,,0
+990968400,Udinese,Napoli,0,0,,,,0
+990968400,Reggina,Bari,1,0,,,,0
+990968400,Lecce,Parma,1,2,,,,0
+990968400,Juventus,Perugia,1,0,,,,0
+990968400,Inter,Lazio,1,1,,,,0
+990968400,Fiorentina,Atalanta,1,1,,,,0
+990968400,Brescia,L.R. Vicenza,2,1,,,,0
+990968400,AS Roma,AC Milan,1,1,,,,0
+992178000,Perugia,Reggina,1,1,,,,0
+992178000,Parma,Verona,1,2,,,,0
+992178000,Napoli,AS Roma,2,2,,,,0
+992178000,Lazio,Fiorentina,3,0,,,,0
+992178000,L.R. Vicenza,Juventus,0,3,,,,0
+992178000,Bologna,Lecce,2,2,,,,0
+992178000,Bari,Inter,1,2,,,,0
+992178000,Atalanta,Udinese,0,1,,,,0
+992178000,AC Milan,Brescia,1,1,,,,0
+992782800,Verona,Perugia,2,1,,,,0
+992782800,Udinese,L.R. Vicenza,2,3,,,,0
+992782800,Reggina,AC Milan,2,1,,,,0
+992782800,Lecce,Lazio,2,1,,,,0
+992782800,Juventus,Atalanta,2,1,,,,0
+992782800,Inter,Bologna,2,1,,,,0
+992782800,Fiorentina,Napoli,1,2,,,,0
+992782800,Brescia,Bari,3,1,,,,0
+992782800,AS Roma,Parma,3,1,,,,0
+993139200,Verona,Reggina,1,0,,,,0
+993398400,Reggina,Verona,2,1,,,,0

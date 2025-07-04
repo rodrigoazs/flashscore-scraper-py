@@ -1,0 +1,381 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1186832700,Sunderland,Tottenham,1,0,,,,0
+1186840800,West Ham,Manchester City,0,2,,,,0
+1186840800,Middlesbrough,Blackburn,1,2,,,,0
+1186840800,Everton,Wigan,2,1,,,,0
+1186840800,Derby,Portsmouth,2,2,,,,0
+1186840800,Bolton,Newcastle,1,3,,,,0
+1186848900,Aston Villa,Liverpool,1,2,,,,0
+1186916400,Arsenal,Fulham,2,1,,,,0
+1186921800,Chelsea,Birmingham,3,2,,,,0
+1186930800,Manchester Utd,Reading,0,0,,,,0
+1187117100,Tottenham,Everton,1,3,,,,0
+1187203500,Portsmouth,Manchester Utd,1,1,,,,0
+1187203500,Manchester City,Derby,1,0,,,,0
+1187203500,Fulham,Bolton,2,1,,,,0
+1187203500,Birmingham,Sunderland,2,2,,,,0
+1187204400,Wigan,Middlesbrough,1,0,,,,0
+1187204400,Reading,Chelsea,1,2,,,,0
+1187437500,Portsmouth,Bolton,3,1,,,,0
+1187445600,Wigan,Sunderland,3,0,,,,0
+1187445600,Tottenham,Derby,4,0,,,,0
+1187445600,Reading,Everton,1,0,,,,0
+1187445600,Fulham,Middlesbrough,1,2,,,,0
+1187445600,Birmingham,West Ham,0,1,,,,0
+1187453700,Newcastle,Aston Villa,0,0,,,,0
+1187526600,Manchester City,Manchester Utd,1,0,,,,0
+1187532000,Blackburn,Arsenal,1,1,,,,0
+1187535600,Liverpool,Chelsea,1,1,,,,0
+1188042300,Sunderland,Liverpool,0,2,,,,0
+1188050400,West Ham,Wigan,1,1,,,,0
+1188050400,Derby,Birmingham,1,2,,,,0
+1188050400,Chelsea,Portsmouth,1,0,,,,0
+1188050400,Bolton,Reading,3,0,,,,0
+1188050400,Aston Villa,Fulham,2,1,,,,0
+1188050400,Arsenal,Manchester City,1,0,,,,0
+1188058500,Everton,Blackburn,1,1,,,,0
+1188131400,Middlesbrough,Newcastle,2,2,,,,0
+1188140400,Manchester Utd,Tottenham,1,0,,,,0
+1188655200,Reading,West Ham,0,3,,,,0
+1188655200,Newcastle,Wigan,1,0,,,,0
+1188655200,Middlesbrough,Birmingham,2,0,,,,0
+1188655200,Liverpool,Derby,6,0,,,,0
+1188655200,Fulham,Tottenham,3,3,,,,0
+1188655200,Bolton,Everton,1,2,,,,0
+1188663300,Manchester Utd,Sunderland,1,0,,,,0
+1188736200,Arsenal,Portsmouth,3,1,,,,0
+1188741600,Blackburn,Manchester City,1,0,,,,0
+1188745200,Aston Villa,Chelsea,2,0,,,,0
+1189854000,Everton,Manchester Utd,0,1,,,,0
+1189856700,Portsmouth,Liverpool,0,0,,,,0
+1189859400,Tottenham,Arsenal,1,3,,,,0
+1189864800,Wigan,Fulham,1,1,,,,0
+1189864800,West Ham,Middlesbrough,3,0,,,,0
+1189864800,Sunderland,Reading,2,1,,,,0
+1189864800,Birmingham,Bolton,1,0,,,,0
+1189872900,Chelsea,Blackburn,0,0,,,,0
+1189954800,Manchester City,Aston Villa,1,0,,,,0
+1190055600,Derby,Newcastle,1,0,,,,0
+1190469600,Reading,Wigan,2,1,,,,0
+1190469600,Middlesbrough,Sunderland,2,2,,,,0
+1190469600,Liverpool,Birmingham,0,0,,,,0
+1190469600,Arsenal,Derby,5,0,,,,0
+1190477700,Fulham,Manchester City,3,3,,,,0
+1190550600,Newcastle,West Ham,3,1,,,,0
+1190552400,Aston Villa,Everton,2,0,,,,0
+1190556000,Bolton,Tottenham,1,1,,,,0
+1190556000,Blackburn,Portsmouth,0,1,,,,0
+1190559600,Manchester Utd,Chelsea,2,0,,,,0
+1191066300,Manchester City,Newcastle,3,1,,,,0
+1191074400,Wigan,Liverpool,0,1,,,,0
+1191074400,West Ham,Arsenal,0,1,,,,0
+1191074400,Sunderland,Blackburn,1,2,,,,0
+1191074400,Portsmouth,Reading,7,4,,,,0
+1191074400,Derby,Bolton,1,1,,,,0
+1191074400,Chelsea,Fulham,0,0,,,,0
+1191082500,Birmingham,Manchester Utd,0,1,,,,0
+1191164400,Everton,Middlesbrough,2,0,,,,0
+1191265200,Tottenham,Aston Villa,4,4,,,,0
+1191671100,Manchester Utd,Wigan,4,0,,,,0
+1191679200,Aston Villa,West Ham,1,0,,,,0
+1191754800,Arsenal,Sunderland,3,2,,,,0
+1191762000,Reading,Derby,1,0,,,,0
+1191765600,Newcastle,Everton,3,2,,,,0
+1191765600,Manchester City,Middlesbrough,3,1,,,,0
+1191765600,Liverpool,Tottenham,2,2,,,,0
+1191765600,Bolton,Chelsea,0,1,,,,0
+1191765600,Blackburn,Birmingham,2,1,,,,0
+1191769800,Fulham,Portsmouth,0,2,,,,0
+1192880700,Everton,Liverpool,1,2,,,,0
+1192888800,Wigan,Portsmouth,0,2,,,,0
+1192888800,Middlesbrough,Chelsea,0,2,,,,0
+1192888800,Manchester City,Birmingham,1,0,,,,0
+1192888800,Fulham,Derby,0,0,,,,0
+1192888800,Blackburn,Reading,4,2,,,,0
+1192888800,Arsenal,Bolton,2,0,,,,0
+1192896900,Aston Villa,Manchester Utd,1,4,,,,0
+1192978800,West Ham,Sunderland,3,1,,,,0
+1193079600,Newcastle,Tottenham,3,1,,,,0
+1193493600,Sunderland,Fulham,1,1,,,,0
+1193493600,Reading,Newcastle,2,1,,,,0
+1193493600,Manchester Utd,Middlesbrough,4,1,,,,0
+1193493600,Chelsea,Manchester City,6,0,,,,0
+1193493600,Birmingham,Wigan,3,2,,,,0
+1193501700,Portsmouth,West Ham,0,0,,,,0
+1193578200,Bolton,Aston Villa,1,1,,,,0
+1193580000,Derby,Everton,0,2,,,,0
+1193583600,Tottenham,Blackburn,1,2,,,,0
+1193587200,Liverpool,Arsenal,1,1,,,,0
+1194093900,Arsenal,Manchester Utd,2,2,,,,0
+1194102000,Wigan,Chelsea,0,2,,,,0
+1194102000,Newcastle,Portsmouth,1,4,,,,0
+1194102000,Middlesbrough,Tottenham,1,1,,,,0
+1194102000,Fulham,Reading,3,1,,,,0
+1194102000,Everton,Birmingham,3,1,,,,0
+1194102000,Aston Villa,Derby,2,0,,,,0
+1194110100,Blackburn,Liverpool,0,0,,,,0
+1194192000,West Ham,Bolton,1,1,,,,0
+1194292800,Manchester City,Sunderland,1,0,,,,0
+1194698700,Sunderland,Newcastle,1,1,,,,0
+1194706800,Derby,West Ham,0,5,,,,0
+1194714900,Liverpool,Fulham,2,0,,,,0
+1194786000,Birmingham,Aston Villa,1,2,,,,0
+1194789600,Chelsea,Everton,1,1,,,,0
+1194793200,Tottenham,Wigan,4,0,,,,0
+1194793200,Manchester Utd,Blackburn,2,0,,,,0
+1194793200,Bolton,Middlesbrough,0,0,,,,0
+1194796800,Portsmouth,Manchester City,0,0,,,,0
+1194897600,Reading,Arsenal,1,3,,,,0
+1195908300,Newcastle,Liverpool,0,3,,,,0
+1195916400,Middlesbrough,Aston Villa,0,3,,,,0
+1195916400,Manchester City,Reading,2,1,,,,0
+1195916400,Everton,Sunderland,7,1,,,,0
+1195916400,Bolton,Manchester Utd,1,0,,,,0
+1195916400,Birmingham,Portsmouth,0,2,,,,0
+1195916400,Arsenal,Wigan,2,0,,,,0
+1195924500,Derby,Chelsea,0,2,,,,0
+1195997400,West Ham,Tottenham,1,1,,,,0
+1196006400,Fulham,Blackburn,2,2,,,,0
+1196280000,Blackburn,Aston Villa,0,4,,,,0
+1196513100,Chelsea,West Ham,1,0,,,,0
+1196521200,Wigan,Manchester City,1,1,,,,0
+1196521200,Sunderland,Derby,1,0,,,,0
+1196521200,Reading,Middlesbrough,1,1,,,,0
+1196521200,Portsmouth,Everton,0,0,,,,0
+1196521200,Blackburn,Newcastle,3,1,,,,0
+1196529300,Aston Villa,Arsenal,1,2,,,,0
+1196607600,Liverpool,Bolton,4,0,,,,0
+1196611200,Tottenham,Birmingham,2,3,,,,0
+1196712000,Manchester Utd,Fulham,2,0,,,,0
+1196883900,Newcastle,Arsenal,1,1,,,,0
+1197117900,Aston Villa,Portsmouth,1,3,,,,0
+1197126000,Newcastle,Birmingham,2,1,,,,0
+1197126000,Manchester Utd,Derby,4,1,,,,0
+1197126000,Everton,Fulham,3,0,,,,0
+1197126000,Chelsea,Sunderland,2,0,,,,0
+1197134100,Reading,Liverpool,3,1,,,,0
+1197207000,Middlesbrough,Arsenal,2,1,,,,0
+1197212400,Tottenham,Manchester City,2,1,,,,0
+1197212400,Bolton,Wigan,4,1,,,,0
+1197216000,Blackburn,West Ham,0,1,,,,0
+1197730800,Wigan,Blackburn,5,3,,,,0
+1197730800,West Ham,Everton,0,2,,,,0
+1197730800,Sunderland,Aston Villa,1,1,,,,0
+1197730800,Portsmouth,Tottenham,0,1,,,,0
+1197730800,Manchester City,Bolton,4,2,,,,0
+1197730800,Derby,Middlesbrough,0,1,,,,0
+1197730800,Birmingham,Reading,1,1,,,,0
+1197738900,Fulham,Newcastle,0,1,,,,0
+1197811800,Liverpool,Manchester Utd,0,1,,,,0
+1197820800,Arsenal,Chelsea,1,0,,,,0
+1198327500,Arsenal,Tottenham,2,1,,,,0
+1198335600,Reading,Sunderland,2,1,,,,0
+1198335600,Middlesbrough,West Ham,1,2,,,,0
+1198335600,Liverpool,Portsmouth,4,1,,,,0
+1198335600,Fulham,Wigan,1,1,,,,0
+1198335600,Bolton,Birmingham,3,0,,,,0
+1198335600,Aston Villa,Manchester City,1,1,,,,0
+1198411200,Manchester Utd,Everton,2,1,,,,0
+1198418400,Newcastle,Derby,2,2,,,,0
+1198426200,Blackburn,Chelsea,0,1,,,,0
+1198674000,West Ham,Reading,1,1,,,,0
+1198674000,Tottenham,Fulham,5,1,,,,0
+1198674000,Chelsea,Aston Villa,4,4,,,,0
+1198681200,Wigan,Newcastle,1,0,,,,0
+1198681200,Sunderland,Manchester Utd,0,4,,,,0
+1198681200,Everton,Bolton,2,0,,,,0
+1198681200,Derby,Liverpool,1,2,,,,0
+1198681200,Birmingham,Middlesbrough,3,0,,,,0
+1198698300,Portsmouth,Arsenal,0,0,,,,0
+1198784700,Manchester City,Blackburn,2,2,,,,0
+1198940400,Wigan,Aston Villa,1,2,,,,0
+1198940400,West Ham,Manchester Utd,2,1,,,,0
+1198940400,Tottenham,Reading,6,4,,,,0
+1198940400,Sunderland,Bolton,3,1,,,,0
+1198940400,Portsmouth,Middlesbrough,0,1,,,,0
+1198940400,Chelsea,Newcastle,2,1,,,,0
+1198940400,Birmingham,Fulham,1,1,,,,0
+1198948500,Everton,Arsenal,1,4,,,,0
+1199021400,Derby,Blackburn,1,2,,,,0
+1199030400,Manchester City,Liverpool,0,0,,,,0
+1199191500,Fulham,Chelsea,1,2,,,,0
+1199199600,Reading,Portsmouth,0,2,,,,0
+1199199600,Middlesbrough,Everton,0,2,,,,0
+1199199600,Manchester Utd,Birmingham,1,0,,,,0
+1199199600,Arsenal,West Ham,2,0,,,,0
+1199208000,Aston Villa,Tottenham,2,1,,,,0
+1199303100,Newcastle,Manchester City,0,2,,,,0
+1199304000,Liverpool,Wigan,1,1,,,,0
+1199304000,Bolton,Derby,1,0,,,,0
+1199304000,Blackburn,Sunderland,1,0,,,,0
+1200150000,West Ham,Fulham,2,1,,,,0
+1200150000,Middlesbrough,Liverpool,1,1,,,,0
+1200150000,Everton,Manchester City,1,0,,,,0
+1200150000,Derby,Wigan,0,1,,,,0
+1200150000,Chelsea,Tottenham,2,0,,,,0
+1200150000,Aston Villa,Reading,3,1,,,,0
+1200150000,Arsenal,Birmingham,1,1,,,,0
+1200158100,Manchester Utd,Newcastle,6,0,,,,0
+1200231000,Sunderland,Portsmouth,2,0,,,,0
+1200240000,Bolton,Blackburn,1,2,,,,0
+1200754800,Tottenham,Sunderland,2,0,,,,0
+1200754800,Reading,Manchester Utd,0,2,,,,0
+1200754800,Portsmouth,Derby,3,1,,,,0
+1200754800,Fulham,Arsenal,0,3,,,,0
+1200754800,Blackburn,Middlesbrough,1,1,,,,0
+1200754800,Birmingham,Chelsea,0,1,,,,0
+1200762900,Newcastle,Bolton,0,0,,,,0
+1200835800,Wigan,Everton,1,2,,,,0
+1200844800,Manchester City,West Ham,1,1,,,,0
+1200945600,Liverpool,Aston Villa,2,2,,,,0
+1201359600,Aston Villa,Blackburn,1,1,,,,0
+1201635900,Middlesbrough,Wigan,1,0,,,,0
+1201635900,Bolton,Fulham,0,0,,,,0
+1201635900,Arsenal,Newcastle,3,0,,,,0
+1201636800,Sunderland,Birmingham,2,0,,,,0
+1201722300,West Ham,Liverpool,1,0,,,,0
+1201722300,Derby,Manchester City,1,1,,,,0
+1201722300,Chelsea,Reading,1,0,,,,0
+1201723200,Manchester Utd,Portsmouth,2,0,,,,0
+1201723200,Everton,Tottenham,0,0,,,,0
+1201956300,Manchester City,Arsenal,1,3,,,,0
+1201964400,Wigan,West Ham,1,0,,,,0
+1201964400,Tottenham,Manchester Utd,1,1,,,,0
+1201964400,Reading,Bolton,0,2,,,,0
+1201964400,Portsmouth,Chelsea,1,1,,,,0
+1201964400,Blackburn,Everton,0,0,,,,0
+1201964400,Birmingham,Derby,1,1,,,,0
+1201972500,Liverpool,Sunderland,3,0,,,,0
+1202045400,Newcastle,Middlesbrough,1,1,,,,0
+1202054400,Fulham,Aston Villa,2,1,,,,0
+1202561100,Aston Villa,Newcastle,4,1,,,,0
+1202569200,West Ham,Birmingham,1,1,,,,0
+1202569200,Sunderland,Wigan,2,0,,,,0
+1202569200,Middlesbrough,Fulham,1,0,,,,0
+1202569200,Everton,Reading,1,0,,,,0
+1202569200,Derby,Tottenham,0,3,,,,0
+1202569200,Bolton,Portsmouth,0,1,,,,0
+1202650200,Manchester Utd,Manchester City,1,2,,,,0
+1202659200,Chelsea,Liverpool,0,0,,,,0
+1202760000,Arsenal,Blackburn,2,0,,,,0
+1203770700,Birmingham,Arsenal,2,2,,,,0
+1203778800,Wigan,Derby,2,0,,,,0
+1203778800,Portsmouth,Sunderland,1,0,,,,0
+1203778800,Liverpool,Middlesbrough,3,2,,,,0
+1203778800,Fulham,West Ham,0,1,,,,0
+1203786900,Newcastle,Manchester Utd,1,5,,,,0
+1203856200,Reading,Aston Villa,1,2,,,,0
+1203865200,Blackburn,Bolton,4,1,,,,0
+1203969600,Manchester City,Everton,0,2,,,,0
+1204383600,West Ham,Chelsea,0,4,,,,0
+1204383600,Newcastle,Blackburn,0,1,,,,0
+1204383600,Middlesbrough,Reading,0,1,,,,0
+1204383600,Fulham,Manchester Utd,0,3,,,,0
+1204383600,Derby,Sunderland,0,0,,,,0
+1204383600,Birmingham,Tottenham,4,1,,,,0
+1204383600,Arsenal,Aston Villa,1,1,,,,0
+1204391700,Manchester City,Wigan,0,0,,,,0
+1204464600,Bolton,Liverpool,1,3,,,,0
+1204473600,Everton,Portsmouth,3,1,,,,0
+1204747200,Liverpool,West Ham,4,0,,,,0
+1204988400,Reading,Manchester City,2,0,,,,0
+1204988400,Liverpool,Newcastle,3,0,,,,0
+1204988400,Blackburn,Fulham,1,1,,,,0
+1205074800,Tottenham,West Ham,4,0,,,,0
+1205074800,Sunderland,Everton,0,1,,,,0
+1205078400,Wigan,Arsenal,0,0,,,,0
+1205351100,Portsmouth,Birmingham,4,2,,,,0
+1205351100,Aston Villa,Middlesbrough,1,1,,,,0
+1205352000,Chelsea,Derby,6,1,,,,0
+1205593200,West Ham,Blackburn,2,1,,,,0
+1205593200,Sunderland,Chelsea,0,1,,,,0
+1205593200,Portsmouth,Aston Villa,2,0,,,,0
+1205593200,Liverpool,Reading,2,1,,,,0
+1205593200,Derby,Manchester Utd,0,1,,,,0
+1205601300,Arsenal,Middlesbrough,1,1,,,,0
+1205674200,Fulham,Everton,1,0,,,,0
+1205679600,Wigan,Bolton,1,0,,,,0
+1205683200,Manchester City,Tottenham,2,1,,,,0
+1205784000,Birmingham,Newcastle,1,1,,,,0
+1205956800,Tottenham,Chelsea,4,4,,,,0
+1205956800,Manchester Utd,Bolton,2,0,,,,0
+1206189900,Tottenham,Portsmouth,2,0,,,,0
+1206198000,Reading,Birmingham,2,1,,,,0
+1206198000,Newcastle,Fulham,2,0,,,,0
+1206198000,Middlesbrough,Derby,1,0,,,,0
+1206198000,Bolton,Manchester City,0,0,,,,0
+1206198000,Blackburn,Wigan,3,1,,,,0
+1206198000,Aston Villa,Sunderland,0,1,,,,0
+1206206100,Everton,West Ham,1,1,,,,0
+1206279000,Manchester Utd,Liverpool,3,0,,,,0
+1206288000,Chelsea,Arsenal,2,1,,,,0
+1206802800,Sunderland,West Ham,2,1,,,,0
+1206802800,Reading,Blackburn,0,0,,,,0
+1206802800,Portsmouth,Wigan,2,0,,,,0
+1206802800,Derby,Fulham,2,2,,,,0
+1206802800,Bolton,Arsenal,2,3,,,,0
+1206802800,Birmingham,Manchester City,3,1,,,,0
+1206810900,Manchester Utd,Aston Villa,4,0,,,,0
+1206880200,Chelsea,Middlesbrough,1,0,,,,0
+1206885600,Tottenham,Newcastle,1,4,,,,0
+1206889200,Liverpool,Everton,1,0,,,,0
+1207395900,Arsenal,Liverpool,1,1,,,,0
+1207404000,Wigan,Birmingham,2,0,,,,0
+1207404000,Newcastle,Reading,3,0,,,,0
+1207404000,Manchester City,Chelsea,0,2,,,,0
+1207404000,Fulham,Sunderland,1,3,,,,0
+1207404000,Blackburn,Tottenham,1,1,,,,0
+1207404000,Aston Villa,Bolton,4,0,,,,0
+1207485000,Middlesbrough,Manchester Utd,2,2,,,,0
+1207490400,Everton,Derby,1,0,,,,0
+1207680300,West Ham,Portsmouth,0,1,,,,0
+1208008800,Tottenham,Middlesbrough,1,1,,,,0
+1208008800,Sunderland,Manchester City,1,2,,,,0
+1208008800,Reading,Fulham,0,2,,,,0
+1208008800,Derby,Aston Villa,0,6,,,,0
+1208008800,Bolton,West Ham,1,0,,,,0
+1208008800,Birmingham,Everton,1,1,,,,0
+1208016900,Portsmouth,Newcastle,0,0,,,,0
+1208089800,Liverpool,Blackburn,3,1,,,,0
+1208098800,Manchester Utd,Arsenal,2,1,,,,0
+1208199600,Chelsea,Wigan,1,1,,,,0
+1208458800,Everton,Chelsea,0,1,,,,0
+1208605500,Arsenal,Reading,2,0,,,,0
+1208613600,Wigan,Tottenham,1,1,,,,0
+1208613600,West Ham,Derby,2,1,,,,0
+1208613600,Middlesbrough,Bolton,0,1,,,,0
+1208613600,Fulham,Liverpool,0,2,,,,0
+1208621700,Blackburn,Manchester Utd,1,1,,,,0
+1208689200,Aston Villa,Birmingham,5,1,,,,0
+1208694600,Newcastle,Sunderland,2,0,,,,0
+1208703600,Manchester City,Portsmouth,3,1,,,,0
+1209210300,Chelsea,Manchester Utd,2,1,,,,0
+1209218400,Wigan,Reading,0,0,,,,0
+1209218400,West Ham,Newcastle,2,2,,,,0
+1209218400,Tottenham,Bolton,1,1,,,,0
+1209218400,Sunderland,Middlesbrough,3,2,,,,0
+1209218400,Manchester City,Fulham,2,3,,,,0
+1209218400,Birmingham,Liverpool,2,2,,,,0
+1209299400,Portsmouth,Blackburn,0,1,,,,0
+1209308400,Everton,Aston Villa,2,2,,,,0
+1209409200,Derby,Arsenal,2,6,,,,0
+1209815100,Manchester Utd,West Ham,4,1,,,,0
+1209823200,Reading,Tottenham,0,1,,,,0
+1209823200,Middlesbrough,Portsmouth,2,0,,,,0
+1209823200,Fulham,Birmingham,2,0,,,,0
+1209823200,Blackburn,Derby,3,1,,,,0
+1209823200,Aston Villa,Wigan,0,2,,,,0
+1209831300,Bolton,Sunderland,2,0,,,,0
+1209904200,Arsenal,Everton,1,0,,,,0
+1209913200,Liverpool,Manchester City,1,0,,,,0
+1209999600,Newcastle,Chelsea,0,2,,,,0
+1210514400,Wigan,Manchester Utd,0,2,,,,0
+1210514400,West Ham,Aston Villa,2,2,,,,0
+1210514400,Tottenham,Liverpool,0,2,,,,0
+1210514400,Sunderland,Arsenal,0,1,,,,0
+1210514400,Portsmouth,Fulham,0,1,,,,0
+1210514400,Middlesbrough,Manchester City,8,1,,,,0
+1210514400,Everton,Newcastle,3,1,,,,0
+1210514400,Derby,Reading,0,4,,,,0
+1210514400,Chelsea,Bolton,1,1,,,,0
+1210514400,Birmingham,Blackburn,4,1,,,,0

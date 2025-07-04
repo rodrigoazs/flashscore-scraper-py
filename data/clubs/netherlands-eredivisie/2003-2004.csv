@@ -1,0 +1,331 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1060970400,Roda,PSV,2,2,,,,0
+1061056800,Willem II,AZ Alkmaar,1,0,,,,0
+1061056800,Waalwijk,Den Haag,1,0,,,,0
+1061056800,Twente,Roosendaal,3,1,,,,0
+1061143200,Vitesse,Ajax,1,2,,,,0
+1061143200,Utrecht,Zwolle,1,0,,,,0
+1061143200,Groningen,NAC Breda,1,0,,,,0
+1061143200,Feyenoord,Nijmegen,2,1,,,,0
+1061143200,FC Volendam,Heerenveen,0,1,,,,0
+1061575200,AZ Alkmaar,Twente,3,0,,,,0
+1061658000,Den Haag,Utrecht,1,1,,,,0
+1061659800,Roosendaal,Ajax,0,1,,,,0
+1061659800,PSV,Willem II,6,1,,,,0
+1061659800,NAC Breda,Vitesse,2,0,,,,0
+1061659800,Heerenveen,Feyenoord,1,0,,,,0
+1061728200,Zwolle,Waalwijk,0,3,,,,0
+1061728200,Nijmegen,Roda,1,3,,,,0
+1061728200,FC Volendam,Groningen,3,0,,,,0
+1062180000,Willem II,Heerenveen,2,0,,,,0
+1062180000,Vitesse,AZ Alkmaar,1,2,,,,0
+1062264600,Twente,PSV,0,2,,,,0
+1062264600,Roda,Roosendaal,0,2,,,,0
+1062325800,Feyenoord,NAC Breda,2,1,,,,0
+1062333000,Waalwijk,FC Volendam,3,0,,,,0
+1062333000,Utrecht,Nijmegen,0,1,,,,0
+1062333000,Groningen,Den Haag,2,0,,,,0
+1062333000,Ajax,Zwolle,1,0,,,,0
+1063389600,Den Haag,FC Volendam,1,1,,,,0
+1063474200,Zwolle,Roda,0,0,,,,0
+1063474200,Roosendaal,Vitesse,1,1,,,,0
+1063474200,PSV,Utrecht,2,1,,,,0
+1063474200,Heerenveen,Groningen,1,0,,,,0
+1063476900,Ajax,Waalwijk,4,1,,,,0
+1063535400,AZ Alkmaar,Feyenoord,2,2,,,,0
+1063542600,Nijmegen,Twente,2,1,,,,0
+1063542600,NAC Breda,Willem II,1,1,,,,0
+1063994400,FC Volendam,Nijmegen,2,3,,,,0
+1064079000,Willem II,Zwolle,2,1,,,,0
+1064079000,Den Haag,Roosendaal,1,2,,,,0
+1064080800,Vitesse,Roda,1,1,,,,0
+1064080800,Twente,Waalwijk,2,1,,,,0
+1064080800,AZ Alkmaar,Heerenveen,3,1,,,,0
+1064140200,Feyenoord,PSV,1,3,,,,0
+1064147400,NAC Breda,Ajax,4,2,,,,0
+1064147400,Groningen,Utrecht,1,1,,,,0
+1064683800,Roosendaal,FC Volendam,1,1,,,,0
+1064683800,PSV,AZ Alkmaar,0,1,,,,0
+1064683800,Heerenveen,Twente,3,0,,,,0
+1064750400,Roda,Groningen,0,0,,,,0
+1064752200,Zwolle,Feyenoord,0,3,,,,0
+1064752200,Waalwijk,NAC Breda,2,0,,,,0
+1064752200,Utrecht,Vitesse,1,3,,,,0
+1064752200,Nijmegen,Den Haag,1,2,,,,0
+1064752200,Ajax,Willem II,6,0,,,,0
+1065204000,Vitesse,Twente,3,5,,,,0
+1065288600,Willem II,Roda,0,2,,,,0
+1065288600,NAC Breda,Utrecht,1,2,,,,0
+1065288600,Heerenveen,Waalwijk,1,0,,,,0
+1065288600,Den Haag,PSV,0,4,,,,0
+1065290400,AZ Alkmaar,Nijmegen,2,0,,,,0
+1065357000,Groningen,Ajax,1,3,,,,0
+1065357000,Feyenoord,Roosendaal,2,0,,,,0
+1065357000,FC Volendam,Zwolle,2,2,,,,0
+1066414500,Ajax,FC Volendam,5,1,,,,0
+1066498200,Roosendaal,Willem II,0,0,,,,0
+1066498200,PSV,Heerenveen,2,0,,,,0
+1066500000,Waalwijk,Vitesse,2,2,,,,0
+1066559400,Roda,Feyenoord,1,1,,,,0
+1066566600,Zwolle,Den Haag,1,2,,,,0
+1066566600,Utrecht,AZ Alkmaar,0,3,,,,0
+1066566600,Twente,Groningen,5,3,,,,0
+1066566600,Nijmegen,NAC Breda,0,3,,,,0
+1067018400,FC Volendam,Roda,2,1,,,,0
+1067103000,Heerenveen,Nijmegen,1,2,,,,0
+1067103000,Groningen,Vitesse,2,1,,,,0
+1067103000,Den Haag,NAC Breda,1,1,,,,0
+1067104800,Waalwijk,Roosendaal,1,2,,,,0
+1067104800,AZ Alkmaar,Zwolle,4,0,,,,0
+1067167800,PSV,Ajax,2,2,,,,0
+1067175000,Twente,Utrecht,2,2,,,,0
+1067175000,Feyenoord,Willem II,2,1,,,,0
+1067626800,Roda,Den Haag,5,1,,,,0
+1067711400,Roosendaal,Nijmegen,1,0,,,,0
+1067711400,NAC Breda,PSV,1,3,,,,0
+1067713200,Vitesse,FC Volendam,2,2,,,,0
+1067714100,Ajax,AZ Alkmaar,3,2,,,,0
+1067779800,Zwolle,Twente,1,0,,,,0
+1067779800,Willem II,Waalwijk,4,1,,,,0
+1067779800,Utrecht,Heerenveen,2,1,,,,0
+1067779800,Groningen,Feyenoord,3,3,,,,0
+1068231600,Vitesse,Willem II,2,2,,,,0
+1068316200,Roda,Twente,2,1,,,,0
+1068316200,PSV,Roosendaal,1,1,,,,0
+1068316200,NAC Breda,AZ Alkmaar,1,2,,,,0
+1068316200,Heerenveen,Zwolle,1,1,,,,0
+1068377400,FC Volendam,Feyenoord,1,3,,,,0
+1068384600,Utrecht,Waalwijk,1,0,,,,0
+1068384600,Nijmegen,Groningen,2,3,,,,0
+1068384600,Den Haag,Ajax,1,4,,,,0
+1069441200,Waalwijk,Groningen,1,1,,,,0
+1069525800,Zwolle,NAC Breda,0,2,,,,0
+1069525800,Willem II,FC Volendam,6,0,,,,0
+1069527600,Nijmegen,PSV,2,3,,,,0
+1069527600,Feyenoord,Vitesse,3,0,,,,0
+1069527600,AZ Alkmaar,Roda,1,5,,,,0
+1069594200,Twente,Den Haag,4,0,,,,0
+1069594200,Roosendaal,Utrecht,1,1,,,,0
+1069594200,Ajax,Heerenveen,3,1,,,,0
+1070044200,Groningen,Roosendaal,2,0,,,,0
+1070130600,Zwolle,PSV,0,4,,,,0
+1070130600,Willem II,Nijmegen,3,0,,,,0
+1070130600,Den Haag,Vitesse,1,1,,,,0
+1070132400,Twente,NAC Breda,2,1,,,,0
+1070191800,Ajax,Feyenoord,2,0,,,,0
+1070199000,Waalwijk,AZ Alkmaar,1,1,,,,0
+1070199000,Utrecht,Roda,3,1,,,,0
+1070478000,Heerenveen,Den Haag,2,0,,,,0
+1070478000,FC Volendam,Twente,2,0,,,,0
+1070478000,AZ Alkmaar,Groningen,2,1,,,,0
+1070735400,Willem II,Utrecht,0,2,,,,0
+1070735400,PSV,FC Volendam,7,0,,,,0
+1070737200,Nijmegen,Waalwijk,1,1,,,,0
+1070803800,Vitesse,Zwolle,5,2,,,,0
+1070803800,Roosendaal,AZ Alkmaar,1,0,,,,0
+1070803800,NAC Breda,Heerenveen,2,3,,,,0
+1070803800,Feyenoord,Den Haag,4,1,,,,0
+1071255600,Roda,NAC Breda,2,2,,,,0
+1071342000,Twente,Feyenoord,4,2,,,,0
+1071342000,Roosendaal,Heerenveen,1,1,,,,0
+1071342000,PSV,Waalwijk,3,1,,,,0
+1071342000,Den Haag,Willem II,0,1,,,,0
+1071401400,FC Volendam,AZ Alkmaar,0,6,,,,0
+1071408600,Zwolle,Groningen,1,1,,,,0
+1071408600,Nijmegen,Vitesse,2,0,,,,0
+1071408600,Ajax,Utrecht,1,0,,,,0
+1071945000,Vitesse,PSV,0,0,,,,0
+1071945000,NAC Breda,Roosendaal,3,2,,,,0
+1071945000,Heerenveen,Roda,2,1,,,,0
+1071946800,Nijmegen,Zwolle,1,0,,,,0
+1072006200,Twente,Ajax,2,0,,,,0
+1072013400,Waalwijk,Feyenoord,0,0,,,,0
+1072013400,Utrecht,FC Volendam,3,0,,,,0
+1072013400,Groningen,Willem II,1,2,,,,0
+1074711600,Roda,Ajax,1,2,,,,0
+1074884400,AZ Alkmaar,Den Haag,0,1,,,,0
+1074969000,Zwolle,Roosendaal,0,3,,,,0
+1074969000,Willem II,Twente,2,3,,,,0
+1074969000,Roda,Waalwijk,2,1,,,,0
+1074969000,NAC Breda,FC Volendam,3,2,,,,0
+1074970800,Vitesse,Heerenveen,0,1,,,,0
+1075030200,Groningen,PSV,0,2,,,,0
+1075037400,Feyenoord,Utrecht,3,2,,,,0
+1075037400,Ajax,Nijmegen,1,0,,,,0
+1075316400,Utrecht,Roosendaal,0,1,,,,0
+1075316400,Twente,Vitesse,0,0,,,,0
+1075316400,PSV,Zwolle,5,1,,,,0
+1075316400,Nijmegen,Feyenoord,1,2,,,,0
+1075316400,FC Volendam,Waalwijk,0,4,,,,0
+1075316400,AZ Alkmaar,Willem II,0,0,,,,0
+1075575600,Waalwijk,Nijmegen,1,2,,,,0
+1075575600,Roda,AZ Alkmaar,3,1,,,,0
+1075575600,PSV,Vitesse,3,0,,,,0
+1075635000,Feyenoord,Twente,3,2,,,,0
+1075642200,Zwolle,Utrecht,1,1,,,,0
+1075642200,Willem II,NAC Breda,1,1,,,,0
+1075642200,Groningen,FC Volendam,0,1,,,,0
+1075642200,Ajax,Den Haag,4,0,,,,0
+1076094000,Roosendaal,Waalwijk,1,3,,,,0
+1076178600,Heerenveen,NAC Breda,3,4,,,,0
+1076180400,Twente,Zwolle,2,0,,,,0
+1076180400,AZ Alkmaar,FC Volendam,3,0,,,,0
+1076239800,Ajax,PSV,2,1,,,,0
+1076247000,Willem II,Den Haag,1,0,,,,0
+1076247000,Vitesse,Feyenoord,0,0,,,,0
+1076247000,Groningen,Nijmegen,2,0,,,,0
+1076526000,Waalwijk,Heerenveen,0,0,,,,0
+1076526000,Utrecht,Willem II,2,2,,,,0
+1076526000,Roosendaal,Roda,1,4,,,,0
+1076526000,Feyenoord,AZ Alkmaar,0,3,,,,0
+1076526000,Den Haag,Groningen,3,1,,,,0
+1076785200,Vitesse,Roosendaal,1,2,,,,0
+1076785200,PSV,Twente,1,0,,,,0
+1076785200,NAC Breda,Roda,0,0,,,,0
+1076785200,Heerenveen,Willem II,1,1,,,,0
+1076851800,Waalwijk,Zwolle,2,0,,,,0
+1076851800,Nijmegen,Utrecht,4,0,,,,0
+1076851800,FC Volendam,Ajax,0,2,,,,0
+1076851800,Den Haag,Feyenoord,2,2,,,,0
+1077303600,Roda,FC Volendam,1,0,,,,0
+1077388200,Zwolle,Nijmegen,2,1,,,,0
+1077388200,Heerenveen,PSV,3,2,,,,0
+1077390000,Vitesse,Groningen,1,2,,,,0
+1077390000,AZ Alkmaar,Roosendaal,2,1,,,,0
+1077456600,Utrecht,NAC Breda,1,2,,,,0
+1077456600,Ajax,Twente,1,0,,,,0
+1077735600,NAC Breda,Groningen,1,1,,,,0
+1077735600,Heerenveen,Ajax,4,1,,,,0
+1077735600,Den Haag,Roda,1,0,,,,0
+1077908400,Zwolle,Vitesse,1,1,,,,0
+1077993000,Roosendaal,NAC Breda,1,1,,,,0
+1077994800,Twente,AZ Alkmaar,4,1,,,,0
+1077994800,Nijmegen,Heerenveen,1,2,,,,0
+1077967800,Utrecht,Ajax,1,0,,,,0
+1077975000,Willem II,Feyenoord,0,3,,,,0
+1077975000,PSV,Roda,1,2,,,,0
+1077975000,Groningen,Waalwijk,1,2,,,,0
+1077975000,FC Volendam,Den Haag,0,2,,,,0
+1078513200,NAC Breda,Twente,0,1,,,,0
+1078597800,Willem II,Groningen,2,0,,,,0
+1078597800,Waalwijk,Ajax,0,1,,,,0
+1078597800,Roda,Zwolle,1,1,,,,0
+1078597800,Den Haag,AZ Alkmaar,2,3,,,,0
+1078599600,Nijmegen,Roosendaal,1,2,,,,0
+1078659000,Utrecht,PSV,0,4,,,,0
+1078666200,Feyenoord,Heerenveen,2,2,,,,0
+1078666200,FC Volendam,Vitesse,0,0,,,,0
+1079118000,Twente,Nijmegen,2,5,,,,0
+1079202600,Roosendaal,Groningen,1,0,,,,0
+1079202600,NAC Breda,Zwolle,3,1,,,,0
+1079202600,Heerenveen,FC Volendam,2,1,,,,0
+1079263800,PSV,Feyenoord,0,1,,,,0
+1079263800,AZ Alkmaar,Utrecht,1,2,,,,0
+1079271000,Waalwijk,Willem II,1,1,,,,0
+1079271000,Vitesse,Den Haag,1,0,,,,0
+1079271000,Ajax,Roda,4,2,,,,0
+1079721000,Groningen,Heerenveen,0,0,,,,0
+1079807400,Zwolle,FC Volendam,3,0,,,,0
+1079807400,Roda,Willem II,6,1,,,,0
+1079807400,PSV,NAC Breda,1,1,,,,0
+1079809200,Nijmegen,AZ Alkmaar,0,2,,,,0
+1079868600,Feyenoord,Waalwijk,1,0,,,,0
+1079875800,Utrecht,Twente,2,0,,,,0
+1079875800,Roosendaal,Den Haag,0,0,,,,0
+1079875800,Ajax,Vitesse,5,0,,,,0
+1080327600,Den Haag,Zwolle,1,1,,,,0
+1080412200,NAC Breda,Nijmegen,5,2,,,,0
+1080412200,Heerenveen,Roosendaal,1,0,,,,0
+1080414000,Vitesse,Waalwijk,3,3,,,,0
+1080469800,FC Volendam,Utrecht,1,2,,,,0
+1080469800,AZ Alkmaar,Ajax,1,1,,,,0
+1080477000,Willem II,PSV,3,1,,,,0
+1080477000,Groningen,Twente,1,0,,,,0
+1080477000,Feyenoord,Roda,3,0,,,,0
+1080928800,Nijmegen,Willem II,4,0,,,,0
+1081013400,Waalwijk,PSV,0,4,,,,0
+1081013400,Roosendaal,Zwolle,1,1,,,,0
+1081013400,Roda,Heerenveen,0,1,,,,0
+1081015200,Twente,FC Volendam,1,2,,,,0
+1081015200,AZ Alkmaar,Vitesse,2,1,,,,0
+1081074600,NAC Breda,Feyenoord,0,3,,,,0
+1081076400,Utrecht,Den Haag,5,3,,,,0
+1081081800,Ajax,Groningen,2,1,,,,0
+1081533600,Roda,Nijmegen,4,0,,,,0
+1081618200,Zwolle,AZ Alkmaar,2,0,,,,0
+1081618200,Heerenveen,Utrecht,4,0,,,,0
+1081618200,Den Haag,Waalwijk,1,3,,,,0
+1081620000,FC Volendam,Willem II,0,1,,,,0
+1081679400,Feyenoord,Ajax,1,1,,,,0
+1081686600,Vitesse,NAC Breda,2,2,,,,0
+1081686600,Roosendaal,Twente,1,2,,,,0
+1081686600,PSV,Groningen,5,0,,,,0
+1082138400,Willem II,Vitesse,1,1,,,,0
+1082223000,Zwolle,Heerenveen,1,0,,,,0
+1082223000,PSV,Nijmegen,3,0,,,,0
+1082223000,Den Haag,Twente,1,0,,,,0
+1082224800,Waalwijk,Roda,1,1,,,,0
+1082284200,Utrecht,Feyenoord,0,3,,,,0
+1082291400,Groningen,AZ Alkmaar,1,1,,,,0
+1082291400,FC Volendam,NAC Breda,4,2,,,,0
+1082291400,Ajax,Roosendaal,1,1,,,,0
+1082743200,Roda,Utrecht,1,1,,,,0
+1082827800,Roosendaal,PSV,0,3,,,,0
+1082827800,Heerenveen,Vitesse,0,0,,,,0
+1082829600,Twente,Willem II,2,0,,,,0
+1082829600,AZ Alkmaar,Waalwijk,7,0,,,,0
+1082896200,Nijmegen,Ajax,0,0,,,,0
+1082896200,NAC Breda,Den Haag,1,0,,,,0
+1082896200,Groningen,Zwolle,2,2,,,,0
+1082896200,Feyenoord,FC Volendam,2,0,,,,0
+1083432600,Willem II,Roosendaal,3,0,,,,0
+1083432600,Den Haag,Heerenveen,1,0,,,,0
+1083434400,Twente,Roda,1,2,,,,0
+1083434400,AZ Alkmaar,NAC Breda,2,2,,,,0
+1083501000,Zwolle,Ajax,0,5,,,,0
+1083501000,Waalwijk,Utrecht,1,0,,,,0
+1083501000,Vitesse,Nijmegen,2,2,,,,0
+1083501000,Feyenoord,Groningen,1,2,,,,0
+1083501000,FC Volendam,PSV,0,5,,,,0
+1084105800,Zwolle,Willem II,0,0,,,,0
+1084105800,Waalwijk,Twente,3,3,,,,0
+1084105800,Utrecht,Groningen,2,0,,,,0
+1084105800,Roosendaal,Feyenoord,1,4,,,,0
+1084105800,Roda,Vitesse,2,0,,,,0
+1084105800,PSV,Den Haag,3,2,,,,0
+1084105800,Nijmegen,FC Volendam,1,1,,,,0
+1084105800,Heerenveen,AZ Alkmaar,1,0,,,,0
+1084105800,Ajax,NAC Breda,2,0,,,,0
+1084710600,Willem II,Ajax,2,5,,,,0
+1084710600,Vitesse,Utrecht,3,0,,,,0
+1084710600,Twente,Heerenveen,2,0,,,,0
+1084710600,NAC Breda,Waalwijk,5,3,,,,0
+1084710600,Groningen,Roda,2,2,,,,0
+1084710600,Feyenoord,Zwolle,7,1,,,,0
+1084710600,FC Volendam,Roosendaal,2,1,,,,0
+1084710600,Den Haag,Nijmegen,4,1,,,,0
+1084710600,AZ Alkmaar,PSV,2,4,,,,0
+1084989600,Venlo,Helmond,6,0,,,,0
+1084989600,Sparta Rotterdam,Vitesse,1,3,,,,0
+1084989600,Heracles,FC Volendam,4,0,,,,0
+1084989600,De Graafschap,Excelsior,0,0,,,,0
+1085247000,Helmond,Sparta Rotterdam,2,2,,,,0
+1085247000,FC Volendam,De Graafschap,0,1,,,,0
+1085247000,Excelsior,Heracles,0,1,,,,0
+1085248800,Vitesse,Venlo,5,0,,,,0
+1085508000,Venlo,Sparta Rotterdam,0,2,,,,0
+1085508000,Heracles,De Graafschap,2,0,,,,0
+1085508000,Helmond,Vitesse,2,2,,,,0
+1085508000,Excelsior,FC Volendam,2,1,,,,0
+1085767200,Vitesse,Helmond,1,0,,,,0
+1085767200,Sparta Rotterdam,Venlo,1,1,,,,0
+1085767200,FC Volendam,Excelsior,1,2,,,,0
+1085767200,De Graafschap,Heracles,2,0,,,,0
+1086006600,Venlo,Vitesse,1,1,,,,0
+1086006600,Sparta Rotterdam,Helmond,2,2,,,,0
+1086019200,Heracles,Excelsior,2,2,,,,0
+1086019200,De Graafschap,FC Volendam,4,0,,,,0
+1086285600,Vitesse,Sparta Rotterdam,2,0,,,,0
+1086285600,Helmond,Venlo,1,3,,,,0
+1086285600,FC Volendam,Heracles,2,2,,,,0
+1086285600,Excelsior,De Graafschap,2,3,,,,0

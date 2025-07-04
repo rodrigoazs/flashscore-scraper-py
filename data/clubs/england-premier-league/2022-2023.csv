@@ -1,0 +1,381 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1659726000,Crystal Palace,Arsenal,0,2,,,,0
+1659785400,Fulham,Liverpool,2,2,,,,0
+1659794400,Tottenham,Southampton,4,1,,,,0
+1659794400,Newcastle,Nottingham,2,0,,,,0
+1659794400,Leeds,Wolves,2,1,,,,0
+1659794400,Bournemouth,Aston Villa,2,0,,,,0
+1659803400,Everton,Chelsea,0,1,,,,0
+1659877200,Manchester Utd,Brighton,1,2,,,,0
+1659877200,Leicester,Brentford,2,2,,,,0
+1659886200,West Ham,Manchester City,0,2,,,,0
+1660390200,Aston Villa,Everton,2,1,,,,0
+1660399200,Wolves,Fulham,0,0,,,,0
+1660399200,Southampton,Leeds,2,2,,,,0
+1660399200,Manchester City,Bournemouth,4,0,,,,0
+1660399200,Brighton,Newcastle,0,0,,,,0
+1660399200,Arsenal,Leicester,4,2,,,,0
+1660408200,Brentford,Manchester Utd,4,0,,,,0
+1660482000,Nottingham,West Ham,1,0,,,,0
+1660491000,Chelsea,Tottenham,2,2,,,,0
+1660590000,Liverpool,Crystal Palace,1,1,,,,0
+1660995000,Tottenham,Wolves,1,0,,,,0
+1661004000,Leicester,Southampton,1,2,,,,0
+1661004000,Fulham,Brentford,3,2,,,,0
+1661004000,Everton,Nottingham,1,1,,,,0
+1661004000,Crystal Palace,Aston Villa,3,1,,,,0
+1661013000,Bournemouth,Arsenal,0,3,,,,0
+1661086800,West Ham,Brighton,0,2,,,,0
+1661086800,Leeds,Chelsea,3,0,,,,0
+1661095800,Newcastle,Manchester City,3,3,,,,0
+1661194800,Manchester Utd,Liverpool,2,1,,,,0
+1661599800,Southampton,Manchester Utd,0,1,,,,0
+1661608800,Manchester City,Crystal Palace,4,2,,,,0
+1661608800,Liverpool,Bournemouth,9,0,,,,0
+1661608800,Chelsea,Leicester,2,1,,,,0
+1661608800,Brighton,Leeds,1,0,,,,0
+1661608800,Brentford,Everton,1,1,,,,0
+1661617800,Arsenal,Fulham,2,1,,,,0
+1661691600,Wolves,Newcastle,1,1,,,,0
+1661691600,Aston Villa,West Ham,0,1,,,,0
+1661700600,Nottingham,Tottenham,0,2,,,,0
+1661884200,Fulham,Brighton,2,1,,,,0
+1661884200,Crystal Palace,Brentford,1,1,,,,0
+1661885100,Southampton,Chelsea,2,1,,,,0
+1661886000,Leeds,Everton,1,1,,,,0
+1661970600,Manchester City,Nottingham,6,0,,,,0
+1661970600,Bournemouth,Wolves,0,0,,,,0
+1661970600,Arsenal,Aston Villa,2,1,,,,0
+1661971500,West Ham,Tottenham,1,1,,,,0
+1661972400,Liverpool,Newcastle,2,1,,,,0
+1662058800,Leicester,Manchester Utd,0,1,,,,0
+1662204600,Everton,Liverpool,0,0,,,,0
+1662213600,Wolves,Southampton,1,0,,,,0
+1662213600,Tottenham,Fulham,2,1,,,,0
+1662213600,Nottingham,Bournemouth,2,3,,,,0
+1662213600,Newcastle,Crystal Palace,0,0,,,,0
+1662213600,Chelsea,West Ham,2,1,,,,0
+1662213600,Brentford,Leeds,5,2,,,,0
+1662222600,Aston Villa,Manchester City,1,1,,,,0
+1662296400,Brighton,Leicester,5,2,,,,0
+1662305400,Manchester Utd,Arsenal,3,1,,,,0
+1663354800,Nottingham,Fulham,2,3,,,,0
+1663354800,Aston Villa,Southampton,1,0,,,,0
+1663414200,Wolves,Manchester City,0,3,,,,0
+1663423200,Newcastle,Bournemouth,1,1,,,,0
+1663432200,Tottenham,Leicester,6,2,,,,0
+1663498800,Brentford,Arsenal,0,3,,,,0
+1663506900,Everton,West Ham,1,0,,,,0
+1664623800,Arsenal,Tottenham,3,1,,,,0
+1664632800,Southampton,Everton,1,2,,,,0
+1664632800,Liverpool,Brighton,3,3,,,,0
+1664632800,Fulham,Newcastle,1,4,,,,0
+1664632800,Crystal Palace,Chelsea,1,2,,,,0
+1664632800,Bournemouth,Brentford,0,0,,,,0
+1664641800,West Ham,Wolves,2,0,,,,0
+1664715600,Manchester City,Manchester Utd,6,3,,,,0
+1664724600,Leeds,Aston Villa,0,0,,,,0
+1664823600,Leicester,Nottingham,4,0,,,,0
+1665237600,Newcastle,Brentford,5,1,,,,0
+1665237600,Manchester City,Southampton,4,0,,,,0
+1665237600,Chelsea,Wolves,3,0,,,,0
+1665237600,Bournemouth,Leicester,2,1,,,,0
+1665246600,Brighton,Tottenham,0,1,,,,0
+1665320400,West Ham,Fulham,3,1,,,,0
+1665320400,Crystal Palace,Leeds,2,1,,,,0
+1665329400,Arsenal,Liverpool,3,2,,,,0
+1665338400,Everton,Manchester Utd,1,2,,,,0
+1665428400,Nottingham,Aston Villa,1,1,,,,0
+1665774000,Brentford,Brighton,2,0,,,,0
+1665833400,Leicester,Crystal Palace,0,0,,,,0
+1665842400,Wolves,Nottingham,1,0,,,,0
+1665842400,Fulham,Bournemouth,2,2,,,,0
+1665851400,Tottenham,Everton,2,0,,,,0
+1665925200,Southampton,West Ham,1,1,,,,0
+1665925200,Manchester Utd,Newcastle,0,0,,,,0
+1665925200,Leeds,Arsenal,0,1,,,,0
+1665925200,Aston Villa,Chelsea,0,2,,,,0
+1665934200,Liverpool,Manchester City,1,0,,,,0
+1666117800,Brighton,Nottingham,0,0,,,,0
+1666120500,Crystal Palace,Wolves,2,1,,,,0
+1666204200,Newcastle,Everton,1,0,,,,0
+1666204200,Liverpool,West Ham,1,0,,,,0
+1666204200,Brentford,Chelsea,0,0,,,,0
+1666204200,Bournemouth,Southampton,0,1,,,,0
+1666206900,Manchester Utd,Tottenham,2,0,,,,0
+1666290600,Fulham,Aston Villa,3,0,,,,0
+1666293300,Leicester,Leeds,2,0,,,,0
+1666438200,Nottingham,Liverpool,1,0,,,,0
+1666447200,Manchester City,Brighton,3,1,,,,0
+1666447200,Everton,Crystal Palace,3,0,,,,0
+1666456200,Chelsea,Manchester Utd,1,1,,,,0
+1666530000,Wolves,Leicester,0,4,,,,0
+1666530000,Southampton,Arsenal,1,1,,,,0
+1666530000,Leeds,Fulham,2,3,,,,0
+1666530000,Aston Villa,Brentford,4,0,,,,0
+1666539000,Tottenham,Newcastle,1,2,,,,0
+1666638000,West Ham,Bournemouth,2,0,,,,0
+1667043000,Leicester,Manchester City,0,1,,,,0
+1667052000,Newcastle,Aston Villa,4,0,,,,0
+1667052000,Crystal Palace,Southampton,1,0,,,,0
+1667052000,Brighton,Chelsea,4,1,,,,0
+1667052000,Brentford,Wolves,1,1,,,,0
+1667052000,Bournemouth,Tottenham,2,3,,,,0
+1667061000,Fulham,Everton,0,0,,,,0
+1667069100,Liverpool,Leeds,1,2,,,,0
+1667138400,Arsenal,Nottingham,5,0,,,,0
+1667146500,Manchester Utd,West Ham,1,0,,,,0
+1667660400,Wolves,Brighton,2,3,,,,0
+1667660400,Nottingham,Brentford,2,2,,,,0
+1667660400,Manchester City,Fulham,2,1,,,,0
+1667660400,Leeds,Bournemouth,4,3,,,,0
+1667669400,Everton,Leicester,0,2,,,,0
+1667736000,Chelsea,Arsenal,0,1,,,,0
+1667743200,West Ham,Crystal Palace,1,2,,,,0
+1667743200,Southampton,Newcastle,1,4,,,,0
+1667743200,Aston Villa,Manchester Utd,3,1,,,,0
+1667752200,Tottenham,Liverpool,1,2,,,,0
+1668256200,Manchester City,Brentford,1,2,,,,0
+1668265200,West Ham,Leicester,0,2,,,,0
+1668265200,Tottenham,Leeds,4,3,,,,0
+1668265200,Nottingham,Crystal Palace,1,0,,,,0
+1668265200,Liverpool,Southampton,3,1,,,,0
+1668265200,Bournemouth,Everton,3,0,,,,0
+1668274200,Newcastle,Chelsea,1,0,,,,0
+1668282300,Wolves,Arsenal,0,2,,,,0
+1668348000,Brighton,Aston Villa,1,2,,,,0
+1668357000,Fulham,Manchester Utd,1,2,,,,0
+1672057800,Brentford,Tottenham,2,2,,,,0
+1672066800,Southampton,Brighton,1,3,,,,0
+1672066800,Leicester,Newcastle,0,3,,,,0
+1672066800,Everton,Wolves,1,2,,,,0
+1672066800,Crystal Palace,Fulham,0,3,,,,0
+1672075800,Aston Villa,Liverpool,1,3,,,,0
+1672084800,Arsenal,West Ham,3,1,,,,0
+1672162200,Chelsea,Bournemouth,2,0,,,,0
+1672171200,Manchester Utd,Nottingham,3,0,,,,0
+1672257600,Leeds,Manchester City,1,3,,,,0
+1672429500,West Ham,Brentford,0,2,,,,0
+1672430400,Liverpool,Leicester,2,1,,,,0
+1672489800,Wolves,Manchester Utd,0,1,,,,0
+1672498800,Newcastle,Leeds,0,0,,,,0
+1672498800,Manchester City,Everton,1,1,,,,0
+1672498800,Fulham,Southampton,2,1,,,,0
+1672498800,Bournemouth,Crystal Palace,0,2,,,,0
+1672507800,Brighton,Arsenal,2,4,,,,0
+1672581600,Tottenham,Aston Villa,0,2,,,,0
+1672590600,Nottingham,Chelsea,1,1,,,,0
+1672680600,Brentford,Liverpool,3,1,,,,0
+1672775100,Leicester,Fulham,0,1,,,,0
+1672775100,Everton,Brighton,1,4,,,,0
+1672775100,Arsenal,Newcastle,0,0,,,,0
+1672776000,Manchester Utd,Bournemouth,3,0,,,,0
+1672860600,Southampton,Nottingham,0,1,,,,0
+1672861500,Leeds,West Ham,2,2,,,,0
+1672862400,Crystal Palace,Tottenham,0,4,,,,0
+1672862400,Aston Villa,Wolves,1,1,,,,0
+1672948800,Chelsea,Manchester City,0,1,,,,0
+1673553600,Fulham,Chelsea,2,1,,,,0
+1673640000,Aston Villa,Leeds,2,1,,,,0
+1673699400,Manchester Utd,Manchester City,2,1,,,,0
+1673708400,Wolves,West Ham,1,0,,,,0
+1673708400,Nottingham,Leicester,2,0,,,,0
+1673708400,Everton,Southampton,1,2,,,,0
+1673708400,Brighton,Liverpool,3,0,,,,0
+1673717400,Brentford,Bournemouth,2,0,,,,0
+1673791200,Newcastle,Fulham,1,0,,,,0
+1673791200,Chelsea,Crystal Palace,1,0,,,,0
+1673800200,Tottenham,Arsenal,0,2,,,,0
+1674072000,Crystal Palace,Manchester Utd,1,1,,,,0
+1674158400,Manchester City,Tottenham,4,2,,,,0
+1674304200,Liverpool,Chelsea,0,0,,,,0
+1674313200,West Ham,Everton,2,0,,,,0
+1674313200,Southampton,Aston Villa,0,1,,,,0
+1674313200,Leicester,Brighton,2,2,,,,0
+1674313200,Bournemouth,Nottingham,1,1,,,,0
+1674322200,Crystal Palace,Newcastle,0,0,,,,0
+1674396000,Manchester City,Wolves,3,0,,,,0
+1674396000,Leeds,Brentford,0,0,,,,0
+1674405000,Arsenal,Manchester Utd,3,2,,,,0
+1674504900,Fulham,Tottenham,0,1,,,,0
+1675454400,Chelsea,Fulham,0,0,,,,0
+1675513800,Everton,Arsenal,1,0,,,,0
+1675522800,Wolves,Liverpool,3,0,,,,0
+1675522800,Manchester Utd,Crystal Palace,2,1,,,,0
+1675522800,Brighton,Bournemouth,1,0,,,,0
+1675522800,Brentford,Southampton,3,0,,,,0
+1675522800,Aston Villa,Leicester,2,4,,,,0
+1675531800,Newcastle,West Ham,1,1,,,,0
+1675605600,Nottingham,Leeds,1,0,,,,0
+1675614600,Tottenham,Manchester City,1,0,,,,0
+1675886400,Manchester Utd,Leeds,2,2,,,,0
+1676118600,West Ham,Chelsea,1,1,,,,0
+1676127600,Southampton,Wolves,1,2,,,,0
+1676127600,Leicester,Tottenham,4,1,,,,0
+1676127600,Fulham,Nottingham,2,0,,,,0
+1676127600,Crystal Palace,Brighton,1,1,,,,0
+1676127600,Arsenal,Brentford,1,1,,,,0
+1676136600,Bournemouth,Newcastle,1,1,,,,0
+1676210400,Leeds,Manchester Utd,0,2,,,,0
+1676219400,Manchester City,Aston Villa,3,1,,,,0
+1676318400,Liverpool,Everton,2,0,,,,0
+1676489400,Arsenal,Manchester City,1,3,,,,0
+1676723400,Aston Villa,Arsenal,2,4,,,,0
+1676732400,Wolves,Bournemouth,0,1,,,,0
+1676732400,Nottingham,Manchester City,1,1,,,,0
+1676732400,Everton,Leeds,1,0,,,,0
+1676732400,Chelsea,Southampton,0,1,,,,0
+1676732400,Brighton,Fulham,0,1,,,,0
+1676732400,Brentford,Crystal Palace,1,1,,,,0
+1676741400,Newcastle,Liverpool,0,2,,,,0
+1676815200,Manchester Utd,Leicester,3,0,,,,0
+1676824200,Tottenham,West Ham,2,0,,,,0
+1677268800,Fulham,Wolves,1,1,,,,0
+1677337200,West Ham,Nottingham,4,0,,,,0
+1677337200,Leicester,Arsenal,0,1,,,,0
+1677337200,Leeds,Southampton,1,0,,,,0
+1677337200,Everton,Aston Villa,0,2,,,,0
+1677346200,Bournemouth,Manchester City,1,4,,,,0
+1677354300,Crystal Palace,Liverpool,0,0,,,,0
+1677418200,Tottenham,Chelsea,2,0,,,,0
+1677699900,Arsenal,Everton,4,0,,,,0
+1677700800,Liverpool,Wolves,2,0,,,,0
+1677933000,Manchester City,Newcastle,2,0,,,,0
+1677942000,Wolves,Tottenham,1,0,,,,0
+1677942000,Chelsea,Leeds,1,0,,,,0
+1677942000,Brighton,West Ham,4,0,,,,0
+1677942000,Aston Villa,Crystal Palace,1,0,,,,0
+1677942000,Arsenal,Bournemouth,3,2,,,,0
+1677951000,Southampton,Leicester,1,0,,,,0
+1678024800,Nottingham,Everton,2,2,,,,0
+1678033800,Liverpool,Manchester Utd,7,0,,,,0
+1678132800,Brentford,Fulham,3,2,,,,0
+1678537800,Bournemouth,Liverpool,1,0,,,,0
+1678546800,Tottenham,Nottingham,3,1,,,,0
+1678546800,Leicester,Chelsea,1,3,,,,0
+1678546800,Leeds,Brighton,2,2,,,,0
+1678546800,Everton,Brentford,1,0,,,,0
+1678555800,Crystal Palace,Manchester City,0,1,,,,0
+1678629600,West Ham,Aston Villa,1,1,,,,0
+1678629600,Manchester Utd,Southampton,0,0,,,,0
+1678629600,Fulham,Arsenal,0,3,,,,0
+1678638600,Newcastle,Wolves,2,1,,,,0
+1678908600,Southampton,Brentford,0,2,,,,0
+1678908600,Brighton,Crystal Palace,1,0,,,,0
+1679083200,Nottingham,Newcastle,1,2,,,,0
+1679151600,Wolves,Leeds,2,4,,,,0
+1679151600,Southampton,Tottenham,3,3,,,,0
+1679151600,Brentford,Leicester,1,1,,,,0
+1679151600,Aston Villa,Bournemouth,3,0,,,,0
+1679160600,Chelsea,Everton,2,2,,,,0
+1679234400,Arsenal,Crystal Palace,4,1,,,,0
+1680348600,Manchester City,Liverpool,4,1,,,,0
+1680357600,Nottingham,Wolves,1,1,,,,0
+1680357600,Crystal Palace,Leicester,2,1,,,,0
+1680357600,Brighton,Brentford,3,3,,,,0
+1680357600,Bournemouth,Fulham,2,1,,,,0
+1680357600,Arsenal,Leeds,4,1,,,,0
+1680366600,Chelsea,Aston Villa,0,2,,,,0
+1680440400,West Ham,Southampton,1,0,,,,0
+1680449400,Newcastle,Manchester Utd,2,0,,,,0
+1680548400,Everton,Tottenham,1,1,,,,0
+1680633900,Leicester,Aston Villa,1,2,,,,0
+1680633900,Leeds,Nottingham,2,1,,,,0
+1680633900,Bournemouth,Brighton,0,2,,,,0
+1680634800,Chelsea,Liverpool,0,0,,,,0
+1680721200,West Ham,Newcastle,1,5,,,,0
+1680721200,Manchester Utd,Brentford,1,0,,,,0
+1680953400,Manchester Utd,Everton,2,0,,,,0
+1680962400,Wolves,Chelsea,1,0,,,,0
+1680962400,Tottenham,Brighton,2,1,,,,0
+1680962400,Leicester,Bournemouth,0,1,,,,0
+1680962400,Fulham,West Ham,0,1,,,,0
+1680962400,Brentford,Newcastle,1,2,,,,0
+1680962400,Aston Villa,Nottingham,2,0,,,,0
+1680971400,Southampton,Manchester City,1,4,,,,0
+1681045200,Leeds,Crystal Palace,1,5,,,,0
+1681054200,Liverpool,Arsenal,2,2,,,,0
+1681558200,Aston Villa,Newcastle,3,0,,,,0
+1681567200,Wolves,Brentford,2,0,,,,0
+1681567200,Tottenham,Bournemouth,2,3,,,,0
+1681567200,Southampton,Crystal Palace,0,2,,,,0
+1681567200,Everton,Fulham,1,3,,,,0
+1681567200,Chelsea,Brighton,1,2,,,,0
+1681576200,Manchester City,Leicester,3,1,,,,0
+1681650000,West Ham,Arsenal,2,2,,,,0
+1681659000,Nottingham,Manchester Utd,0,2,,,,0
+1681758000,Leeds,Liverpool,1,6,,,,0
+1682103600,Arsenal,Southampton,3,3,,,,0
+1682163000,Fulham,Leeds,2,1,,,,0
+1682172000,Liverpool,Nottingham,3,2,,,,0
+1682172000,Leicester,Wolves,2,1,,,,0
+1682172000,Crystal Palace,Everton,0,0,,,,0
+1682172000,Brentford,Aston Villa,1,1,,,,0
+1682254800,Newcastle,Tottenham,6,1,,,,0
+1682254800,Bournemouth,West Ham,0,4,,,,0
+1682447400,Wolves,Crystal Palace,2,0,,,,0
+1682448300,Aston Villa,Fulham,1,0,,,,0
+1682449200,Leeds,Leicester,1,1,,,,0
+1682533800,Nottingham,Brighton,3,1,,,,0
+1682534700,West Ham,Liverpool,1,2,,,,0
+1682534700,Chelsea,Brentford,0,2,,,,0
+1682535600,Manchester City,Arsenal,4,1,,,,0
+1682621100,Southampton,Bournemouth,0,1,,,,0
+1682621100,Everton,Newcastle,1,4,,,,0
+1682622900,Tottenham,Manchester Utd,2,2,,,,0
+1682767800,Crystal Palace,West Ham,4,3,,,,0
+1682776800,Brighton,Wolves,6,0,,,,0
+1682776800,Brentford,Nottingham,2,1,,,,0
+1682859600,Newcastle,Southampton,3,1,,,,0
+1682859600,Manchester Utd,Aston Villa,1,0,,,,0
+1682859600,Fulham,Manchester City,1,2,,,,0
+1682859600,Bournemouth,Leeds,4,1,,,,0
+1682868600,Liverpool,Tottenham,4,3,,,,0
+1682967600,Leicester,Everton,2,2,,,,0
+1683054000,Arsenal,Chelsea,3,1,,,,0
+1683140400,Manchester City,West Ham,3,0,,,,0
+1683140400,Liverpool,Fulham,1,0,,,,0
+1683226800,Brighton,Manchester Utd,1,0,,,,0
+1683381600,Wolves,Aston Villa,1,0,,,,0
+1683381600,Tottenham,Crystal Palace,1,0,,,,0
+1683381600,Manchester City,Leeds,2,1,,,,0
+1683381600,Bournemouth,Chelsea,1,3,,,,0
+1683390600,Liverpool,Brentford,1,0,,,,0
+1683473400,Newcastle,Arsenal,0,2,,,,0
+1683482400,West Ham,Manchester Utd,1,0,,,,0
+1683554400,Fulham,Leicester,5,3,,,,0
+1683563400,Brighton,Everton,1,5,,,,0
+1683572400,Nottingham,Southampton,4,3,,,,0
+1683977400,Leeds,Newcastle,2,2,,,,0
+1683986400,Southampton,Fulham,0,2,,,,0
+1683986400,Manchester Utd,Wolves,2,0,,,,0
+1683986400,Crystal Palace,Bournemouth,2,0,,,,0
+1683986400,Chelsea,Nottingham,2,2,,,,0
+1683986400,Aston Villa,Tottenham,2,1,,,,0
+1684069200,Everton,Manchester City,0,3,,,,0
+1684069200,Brentford,West Ham,2,0,,,,0
+1684078200,Arsenal,Brighton,0,3,,,,0
+1684177200,Leicester,Liverpool,0,3,,,,0
+1684434600,Newcastle,Brighton,4,1,,,,0
+1684582200,Tottenham,Brentford,1,3,,,,0
+1684591200,Wolves,Everton,1,1,,,,0
+1684591200,Liverpool,Aston Villa,1,1,,,,0
+1684591200,Fulham,Crystal Palace,2,2,,,,0
+1684591200,Bournemouth,Manchester Utd,0,1,,,,0
+1684600200,Nottingham,Arsenal,1,0,,,,0
+1684672200,West Ham,Leeds,3,1,,,,0
+1684674000,Brighton,Southampton,3,1,,,,0
+1684681200,Manchester City,Chelsea,1,0,,,,0
+1684782000,Newcastle,Leicester,0,0,,,,0
+1684954800,Brighton,Manchester City,1,1,,,,0
+1685041200,Manchester Utd,Chelsea,4,1,,,,0
+1685287800,Southampton,Liverpool,4,4,,,,0
+1685287800,Manchester Utd,Fulham,2,1,,,,0
+1685287800,Leicester,West Ham,2,1,,,,0
+1685287800,Leeds,Tottenham,1,4,,,,0
+1685287800,Everton,Bournemouth,1,0,,,,0
+1685287800,Crystal Palace,Nottingham,1,1,,,,0
+1685287800,Chelsea,Newcastle,1,1,,,,0
+1685287800,Brentford,Manchester City,1,0,,,,0
+1685287800,Aston Villa,Brighton,2,1,,,,0
+1685287800,Arsenal,Wolves,5,0,,,,0

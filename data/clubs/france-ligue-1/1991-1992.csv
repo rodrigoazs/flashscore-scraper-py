@@ -1,0 +1,387 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+680032800,Toulouse,Caen,0,0,,,,0
+680032800,St Etienne,Toulon,3,1,,,,0
+680032800,Sochaux,Nimes,1,1,,,,0
+680032800,Nantes,PSG,0,0,,,,0
+680032800,Nancy,Cannes,1,0,,,,0
+680032800,Montpellier,Monaco,1,4,,,,0
+680032800,Marseille,Lille,1,0,,,,0
+680032800,Lens,Metz,0,2,,,,0
+680032800,Le Havre,Lyon,1,0,,,,0
+680032800,Auxerre,Rennes,3,1,,,,0
+680551200,Rennes,Nantes,0,1,,,,0
+680551200,Cannes,Montpellier,2,0,,,,0
+680637600,Toulon,Lens,0,1,,,,0
+680637600,PSG,Auxerre,1,1,,,,0
+680637600,Nimes,Toulouse,2,2,,,,0
+680637600,Monaco,Nancy,4,1,,,,0
+680637600,Metz,Sochaux,3,1,,,,0
+680637600,Lyon,Marseille,1,1,,,,0
+680637600,Lille,Le Havre,0,0,,,,0
+680637600,Caen,St Etienne,1,0,,,,0
+680983200,Toulouse,Sochaux,2,1,,,,0
+680983200,St Etienne,Nimes,3,0,,,,0
+680983200,Nantes,Lille,1,2,,,,0
+680983200,Nancy,Lyon,0,0,,,,0
+680983200,Montpellier,PSG,1,1,,,,0
+680983200,Monaco,Rennes,3,1,,,,0
+680983200,Marseille,Metz,2,0,,,,0
+680983200,Lens,Caen,0,0,,,,0
+680983200,Le Havre,Cannes,1,0,,,,0
+680983200,Auxerre,Toulon,1,0,,,,0
+681242400,Toulon,Nantes,0,2,,,,0
+681242400,Sochaux,St Etienne,1,0,,,,0
+681242400,Rennes,Marseille,1,2,,,,0
+681242400,PSG,Le Havre,1,1,,,,0
+681242400,Nimes,Lens,0,2,,,,0
+681242400,Metz,Toulouse,4,0,,,,0
+681242400,Lyon,Montpellier,1,0,,,,0
+681242400,Lille,Nancy,2,1,,,,0
+681242400,Caen,Auxerre,1,0,,,,0
+681328800,Cannes,Monaco,1,2,,,,0
+681760800,Marseille,PSG,0,0,,,,0
+681847200,St Etienne,Toulouse,2,1,,,,0
+681847200,Nantes,Caen,2,1,,,,0
+681847200,Nancy,Metz,1,3,,,,0
+681847200,Montpellier,Toulon,1,0,,,,0
+681847200,Monaco,Lyon,1,0,,,,0
+681847200,Lens,Sochaux,1,1,,,,0
+681847200,Le Havre,Rennes,0,0,,,,0
+681847200,Cannes,Lille,1,1,,,,0
+681847200,Auxerre,Nimes,0,0,,,,0
+682452000,Toulouse,Lens,1,1,,,,0
+682452000,Toulon,Le Havre,4,0,,,,0
+682452000,Sochaux,Auxerre,1,0,,,,0
+682452000,Rennes,Nancy,3,1,,,,0
+682452000,PSG,Monaco,2,0,,,,0
+682452000,Nimes,Nantes,0,0,,,,0
+682452000,Metz,St Etienne,1,0,,,,0
+682452000,Lyon,Cannes,0,0,,,,0
+682452000,Lille,Montpellier,1,0,,,,0
+682538400,Caen,Marseille,1,3,,,,0
+682970400,Lens,St Etienne,1,1,,,,0
+683056800,Nantes,Metz,4,1,,,,0
+683056800,Nancy,Toulon,0,0,,,,0
+683056800,Montpellier,Rennes,0,0,,,,0
+683056800,Monaco,Lille,1,0,,,,0
+683056800,Marseille,Nimes,4,2,,,,0
+683056800,Lyon,Caen,2,2,,,,0
+683056800,Le Havre,Sochaux,1,0,,,,0
+683056800,Cannes,PSG,1,1,,,,0
+683056800,Auxerre,Toulouse,3,0,,,,0
+683402400,Toulouse,Nantes,2,1,,,,0
+683402400,Toulon,Marseille,1,0,,,,0
+683402400,St Etienne,Auxerre,1,1,,,,0
+683402400,Sochaux,Monaco,1,3,,,,0
+683402400,Rennes,Lens,0,0,,,,0
+683402400,PSG,Nancy,1,0,,,,0
+683402400,Nimes,Cannes,2,1,,,,0
+683402400,Lille,Lyon,1,0,,,,0
+683402400,Caen,Le Havre,2,1,,,,0
+683488800,Metz,Montpellier,1,3,,,,0
+684266400,Nantes,St Etienne,1,0,,,,0
+684266400,Nancy,Nimes,2,3,,,,0
+684266400,Montpellier,Caen,3,1,,,,0
+684266400,Monaco,Toulon,3,0,,,,0
+684266400,Lyon,PSG,0,1,,,,0
+684266400,Lille,Sochaux,0,0,,,,0
+684266400,Le Havre,Metz,0,0,,,,0
+684266400,Cannes,Rennes,3,1,,,,0
+684266400,Auxerre,Lens,1,0,,,,0
+684352800,Marseille,Toulouse,2,0,,,,0
+684698400,St Etienne,Monaco,0,1,,,,0
+684698400,Metz,Auxerre,2,1,,,,0
+684784800,PSG,Lille,2,0,,,,0
+684871200,Toulouse,Montpellier,1,1,,,,0
+684871200,Toulon,Cannes,4,3,,,,0
+684871200,Sochaux,Marseille,2,3,,,,0
+684871200,Rennes,Lyon,0,2,,,,0
+684871200,Nimes,Le Havre,1,0,,,,0
+684871200,Lens,Nantes,0,0,,,,0
+684871200,Caen,Nancy,5,1,,,,0
+685476000,PSG,Metz,3,0,,,,0
+685476000,Nantes,Auxerre,2,0,,,,0
+685476000,Nancy,Toulouse,1,1,,,,0
+685476000,Montpellier,Sochaux,3,2,,,,0
+685476000,Monaco,Nimes,1,1,,,,0
+685476000,Marseille,Lens,1,1,,,,0
+685476000,Lyon,Toulon,1,1,,,,0
+685476000,Lille,Rennes,1,1,,,,0
+685476000,Le Havre,St Etienne,2,1,,,,0
+685562400,Cannes,Caen,2,0,,,,0
+685908000,Caen,Monaco,1,0,,,,0
+685994400,Auxerre,Marseille,1,1,,,,0
+686080800,Toulouse,Le Havre,0,0,,,,0
+686080800,Toulon,Lille,1,2,,,,0
+686080800,St Etienne,Nancy,3,0,,,,0
+686080800,Sochaux,Nantes,3,1,,,,0
+686080800,Rennes,PSG,0,0,,,,0
+686080800,Nimes,Lyon,2,1,,,,0
+686080800,Metz,Cannes,1,2,,,,0
+686080800,Lens,Montpellier,1,1,,,,0
+686689200,Rennes,Caen,1,0,,,,0
+686689200,PSG,Toulon,2,3,,,,0
+686689200,Nancy,Lens,3,1,,,,0
+686689200,Montpellier,Nimes,0,0,,,,0
+686689200,Monaco,Toulouse,0,2,,,,0
+686689200,Marseille,Nantes,4,0,,,,0
+686689200,Lille,Metz,0,2,,,,0
+686689200,Le Havre,Auxerre,1,0,,,,0
+686775600,Lyon,St Etienne,0,0,,,,0
+686775600,Cannes,Sochaux,2,1,,,,0
+687726000,Toulouse,Cannes,2,0,,,,0
+687726000,Metz,Monaco,2,0,,,,0
+687812400,Sochaux,Lyon,1,0,,,,0
+687812400,Auxerre,Nancy,3,1,,,,0
+687898800,Nimes,Lille,1,0,,,,0
+687898800,Nantes,Montpellier,0,0,,,,0
+687898800,Lens,Le Havre,0,0,,,,0
+687898800,Caen,PSG,2,0,,,,0
+687985200,Toulon,Rennes,1,0,,,,0
+688503600,Toulon,Sochaux,2,0,,,,0
+688503600,Rennes,Metz,3,1,,,,0
+688503600,PSG,Nimes,2,0,,,,0
+688503600,Nancy,Nantes,3,1,,,,0
+688503600,Montpellier,Auxerre,1,1,,,,0
+688503600,Monaco,Lens,0,0,,,,0
+688503600,Lyon,Toulouse,1,0,,,,0
+688503600,Lille,Caen,1,2,,,,0
+688503600,Le Havre,Marseille,0,2,,,,0
+688503600,Cannes,St Etienne,0,2,,,,0
+688935600,Auxerre,Monaco,1,1,,,,0
+689022000,St Etienne,Montpellier,1,1,,,,0
+689022000,Metz,Lyon,1,1,,,,0
+689022000,Marseille,Nancy,4,0,,,,0
+689022000,Lens,Cannes,1,1,,,,0
+689108400,Toulouse,Lille,1,0,,,,0
+689108400,Sochaux,PSG,0,2,,,,0
+689108400,Nimes,Rennes,1,2,,,,0
+689108400,Nantes,Le Havre,0,0,,,,0
+689108400,Caen,Toulon,4,1,,,,0
+689713200,Toulon,Nimes,5,0,,,,0
+689713200,Rennes,Sochaux,2,0,,,,0
+689713200,PSG,Toulouse,0,0,,,,0
+689713200,Nancy,Le Havre,1,3,,,,0
+689713200,Montpellier,Marseille,0,0,,,,0
+689713200,Monaco,Nantes,1,0,,,,0
+689713200,Lyon,Lens,1,1,,,,0
+689713200,Lille,St Etienne,2,0,,,,0
+689713200,Cannes,Auxerre,1,1,,,,0
+689713200,Caen,Metz,1,0,,,,0
+690145200,Marseille,Monaco,1,1,,,,0
+690318000,Toulouse,Rennes,2,0,,,,0
+690318000,St Etienne,PSG,3,0,,,,0
+690318000,Sochaux,Nancy,2,2,,,,0
+690318000,Nimes,Caen,0,1,,,,0
+690318000,Nantes,Cannes,1,0,,,,0
+690318000,Metz,Toulon,4,1,,,,0
+690318000,Lens,Lille,0,0,,,,0
+690318000,Le Havre,Montpellier,3,1,,,,0
+690318000,Auxerre,Lyon,3,0,,,,0
+690922800,Toulon,Toulouse,1,0,,,,0
+690922800,Rennes,St Etienne,0,0,,,,0
+690922800,PSG,Lens,1,0,,,,0
+690922800,Montpellier,Nancy,2,0,,,,0
+690922800,Monaco,Le Havre,0,2,,,,0
+690922800,Metz,Nimes,4,0,,,,0
+690922800,Lyon,Nantes,0,1,,,,0
+690922800,Lille,Auxerre,1,0,,,,0
+690922800,Cannes,Marseille,1,2,,,,0
+690922800,Caen,Sochaux,1,1,,,,0
+691441200,Nantes,Rennes,1,0,,,,0
+691527600,Toulouse,Nimes,0,1,,,,0
+691527600,Sochaux,Metz,0,0,,,,0
+691527600,Nancy,Monaco,1,4,,,,0
+691527600,Montpellier,Cannes,3,0,,,,0
+691527600,Marseille,Lyon,0,0,,,,0
+691527600,Lens,Toulon,2,1,,,,0
+691527600,Le Havre,Lille,0,0,,,,0
+691527600,Auxerre,PSG,2,2,,,,0
+691614000,St Etienne,Caen,1,1,,,,0
+692046000,Caen,Lens,2,0,,,,0
+692132400,Toulon,Auxerre,0,3,,,,0
+692132400,Sochaux,Toulouse,0,0,,,,0
+692132400,Rennes,Monaco,0,0,,,,0
+692132400,PSG,Montpellier,1,1,,,,0
+692132400,Nimes,St Etienne,1,1,,,,0
+692132400,Metz,Marseille,0,0,,,,0
+692132400,Lyon,Nancy,2,1,,,,0
+692132400,Lille,Nantes,0,0,,,,0
+692132400,Cannes,Le Havre,0,0,,,,0
+692737200,Toulouse,Metz,1,0,,,,0
+692737200,St Etienne,Sochaux,2,1,,,,0
+692737200,Nantes,Toulon,1,2,,,,0
+692737200,Nancy,Lille,1,2,,,,0
+692737200,Montpellier,Lyon,3,0,,,,0
+692737200,Monaco,Cannes,3,1,,,,0
+692737200,Marseille,Rennes,5,1,,,,0
+692737200,Lens,Nimes,0,0,,,,0
+692737200,Le Havre,PSG,1,1,,,,0
+692737200,Auxerre,Caen,5,1,,,,0
+692996400,PSG,Marseille,0,0,,,,0
+693082800,Toulouse,St Etienne,1,1,,,,0
+693082800,Toulon,Montpellier,0,1,,,,0
+693082800,Sochaux,Lens,1,2,,,,0
+693082800,Rennes,Le Havre,0,2,,,,0
+693082800,Nimes,Auxerre,0,0,,,,0
+693082800,Lyon,Monaco,2,0,,,,0
+693082800,Lille,Cannes,0,0,,,,0
+693082800,Caen,Nantes,1,1,,,,0
+693342000,St Etienne,Metz,2,0,,,,0
+693342000,Nantes,Nimes,3,2,,,,0
+693342000,Nancy,Rennes,1,1,,,,0
+693342000,Montpellier,Lille,0,0,,,,0
+693342000,Monaco,PSG,1,0,,,,0
+693342000,Marseille,Caen,5,0,,,,0
+693342000,Lens,Toulouse,4,0,,,,0
+693342000,Le Havre,Toulon,3,0,,,,0
+693342000,Cannes,Lyon,0,0,,,,0
+693342000,Auxerre,Sochaux,4,0,,,,0
+695761200,Toulouse,Auxerre,2,3,,,,0
+695761200,Toulon,Nancy,4,2,,,,0
+695761200,Rennes,Montpellier,0,2,,,,0
+695761200,PSG,Cannes,3,2,,,,0
+695761200,Metz,Nantes,1,1,,,,0
+695761200,Lille,Monaco,1,2,,,,0
+695761200,Caen,Lyon,1,0,,,,0
+695847600,St Etienne,Lens,0,4,,,,0
+695847600,Sochaux,Le Havre,0,0,,,,0
+695847600,Nimes,Marseille,1,2,,,,0
+696279600,Le Havre,Caen,0,1,,,,0
+696366000,Nantes,Toulouse,1,1,,,,0
+696366000,Nancy,PSG,0,0,,,,0
+696366000,Montpellier,Metz,1,0,,,,0
+696366000,Monaco,Sochaux,2,0,,,,0
+696366000,Lyon,Lille,1,0,,,,0
+696366000,Lens,Rennes,0,0,,,,0
+696366000,Cannes,Nimes,0,0,,,,0
+696366000,Auxerre,St Etienne,2,0,,,,0
+696452400,Marseille,Toulon,0,1,,,,0
+696711600,St Etienne,Marseille,1,1,,,,0
+696970800,Toulouse,Marseille,0,2,,,,0
+696970800,Toulon,Monaco,1,1,,,,0
+696970800,Rennes,Cannes,0,0,,,,0
+696970800,PSG,Lyon,3,0,,,,0
+696970800,Metz,Le Havre,1,1,,,,0
+696970800,Lens,Auxerre,0,0,,,,0
+696970800,Caen,Montpellier,0,0,,,,0
+697057200,Sochaux,Lille,2,1,,,,0
+697057200,Nimes,Nancy,1,2,,,,0
+697489200,Auxerre,Metz,3,0,,,,0
+697575600,Nantes,Lens,1,0,,,,0
+697575600,Nancy,Caen,3,0,,,,0
+697575600,Montpellier,Toulouse,0,0,,,,0
+697575600,Monaco,St Etienne,2,0,,,,0
+697575600,Lyon,Rennes,3,1,,,,0
+697575600,Lille,PSG,0,0,,,,0
+697575600,Le Havre,Nimes,1,1,,,,0
+697575600,Cannes,Toulon,0,1,,,,0
+697662000,Marseille,Sochaux,2,2,,,,0
+698094000,Nimes,Monaco,0,1,,,,0
+698180400,Toulouse,Nancy,1,0,,,,0
+698180400,Toulon,Lyon,1,0,,,,0
+698180400,Rennes,Lille,2,3,,,,0
+698180400,Lens,Marseille,2,1,,,,0
+698180400,Caen,Cannes,3,1,,,,0
+698180400,Auxerre,Nantes,2,2,,,,0
+698266800,St Etienne,Le Havre,4,0,,,,0
+698266800,Sochaux,Montpellier,1,1,,,,0
+698266800,Metz,PSG,0,0,,,,0
+699303600,Monaco,Caen,2,1,,,,0
+699303600,PSG,Rennes,1,0,,,,0
+699303600,Nantes,Sochaux,0,0,,,,0
+699303600,Nancy,St Etienne,0,2,,,,0
+699303600,Montpellier,Lens,0,0,,,,0
+699303600,Marseille,Auxerre,2,0,,,,0
+699303600,Lyon,Nimes,1,0,,,,0
+699303600,Lille,Toulon,1,0,,,,0
+699303600,Le Havre,Toulouse,1,1,,,,0
+699303600,Cannes,Metz,1,1,,,,0
+699649200,Metz,Nancy,0,1,,,,0
+699908400,Toulon,PSG,2,5,,,,0
+699994800,Toulouse,Monaco,0,0,,,,0
+699994800,St Etienne,Lyon,1,2,,,,0
+699994800,Sochaux,Cannes,1,0,,,,0
+699994800,Nimes,Montpellier,2,1,,,,0
+699994800,Nantes,Marseille,0,1,,,,0
+699994800,Metz,Lille,1,0,,,,0
+699994800,Lens,Nancy,1,0,,,,0
+699994800,Caen,Rennes,0,0,,,,0
+699994800,Auxerre,Le Havre,3,0,,,,0
+700858800,St Etienne,Nantes,2,1,,,,0
+701031600,PSG,Caen,3,1,,,,0
+701118000,Montpellier,Nantes,2,1,,,,0
+701204400,Rennes,Toulon,0,0,,,,0
+701204400,Nancy,Auxerre,2,1,,,,0
+701204400,Monaco,Metz,3,1,,,,0
+701204400,Marseille,St Etienne,2,0,,,,0
+701204400,Lyon,Sochaux,0,1,,,,0
+701204400,Lille,Nimes,1,1,,,,0
+701204400,Le Havre,Lens,1,0,,,,0
+701204400,Cannes,Toulouse,2,0,,,,0
+701722800,Lens,Monaco,0,1,,,,0
+701809200,Toulouse,Lyon,1,0,,,,0
+701809200,St Etienne,Cannes,2,0,,,,0
+701809200,Sochaux,Toulon,2,0,,,,0
+701809200,Nimes,PSG,0,1,,,,0
+701809200,Nantes,Nancy,0,0,,,,0
+701809200,Metz,Rennes,0,0,,,,0
+701809200,Marseille,Le Havre,2,0,,,,0
+701809200,Caen,Lille,3,3,,,,0
+701809200,Auxerre,Montpellier,1,0,,,,0
+702324000,Nancy,Marseille,1,3,,,,0
+702410400,Toulon,Caen,0,0,,,,0
+702410400,Rennes,Nimes,1,1,,,,0
+702410400,PSG,Sochaux,2,0,,,,0
+702410400,Montpellier,St Etienne,2,0,,,,0
+702410400,Monaco,Auxerre,2,0,,,,0
+702410400,Lyon,Metz,0,0,,,,0
+702410400,Lille,Toulouse,3,1,,,,0
+702410400,Le Havre,Nantes,1,1,,,,0
+702410400,Cannes,Lens,2,1,,,,0
+702928800,Toulouse,PSG,3,0,,,,0
+702928800,Nantes,Monaco,1,4,,,,0
+703015200,St Etienne,Lille,1,1,,,,0
+703015200,Sochaux,Rennes,0,0,,,,0
+703015200,Nimes,Toulon,1,0,,,,0
+703015200,Metz,Caen,1,2,,,,0
+703015200,Marseille,Montpellier,0,0,,,,0
+703015200,Lens,Lyon,4,2,,,,0
+703015200,Le Havre,Nancy,1,2,,,,0
+703015200,Auxerre,Cannes,3,1,,,,0
+703620000,Toulon,Metz,1,1,,,,0
+703620000,Rennes,Toulouse,1,1,,,,0
+703620000,PSG,St Etienne,0,0,,,,0
+703620000,Nancy,Sochaux,3,1,,,,0
+703620000,Montpellier,Le Havre,2,2,,,,0
+703620000,Monaco,Marseille,0,3,,,,0
+703620000,Lyon,Auxerre,1,0,,,,0
+703620000,Lille,Lens,1,2,,,,0
+703620000,Cannes,Nantes,2,0,,,,0
+703620000,Caen,Nimes,2,0,,,,0
+704109600,Strasbourg,Le Mans,3,1,,,,0
+704109600,Angers,Istres,1,0,,,,0
+704224800,Toulouse,Toulon,3,0,,,,0
+704224800,St Etienne,Rennes,0,1,,,,0
+704224800,Sochaux,Caen,2,0,,,,0
+704224800,Nimes,Metz,1,0,,,,0
+704224800,Nantes,Lyon,3,0,,,,0
+704224800,Nancy,Montpellier,3,1,,,,0
+704224800,Marseille,Cannes,2,0,,,,0
+704224800,Lens,PSG,1,0,,,,0
+704224800,Le Havre,Monaco,3,0,,,,0
+704224800,Auxerre,Lille,1,0,,,,0
+704541600,Angers,Strasbourg,1,1,,,,0
+704743200,Toulon,St Etienne,1,2,,,,0
+704743200,Rennes,Auxerre,1,1,,,,0
+704743200,PSG,Nantes,1,1,,,,0
+704743200,Nimes,Sochaux,2,2,,,,0
+704743200,Monaco,Montpellier,1,1,,,,0
+704743200,Metz,Lens,3,2,,,,0
+704743200,Lyon,Le Havre,0,2,,,,0
+704743200,Lille,Marseille,0,1,,,,0
+704743200,Cannes,Nancy,1,1,,,,0
+704743200,Caen,Toulouse,1,0,,,,0
+704800800,Strasbourg,Angers,0,0,,,,0
+705319200,Rennes,Strasbourg,0,0,,,,0
+705781800,Strasbourg,Rennes,4,1,,,,0

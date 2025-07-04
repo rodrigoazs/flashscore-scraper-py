@@ -1,0 +1,329 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1533924000,Zwolle,Heerenveen,2,3,,,,0
+1534005000,Willem II,Venlo,0,1,,,,0
+1534005000,Ajax,Heracles,1,1,,,,0
+1534013100,PSV,Utrecht,4,0,,,,0
+1534013100,Excelsior,Sittard,1,1,,,,0
+1534068900,Den Haag,FC Emmen,1,2,,,,0
+1534077000,Vitesse,Groningen,5,1,,,,0
+1534077000,De Graafschap,Feyenoord,2,0,,,,0
+1534085100,AZ Alkmaar,NAC Breda,5,0,,,,0
+1534528800,Groningen,Willem II,0,1,,,,0
+1534609800,Venlo,Ajax,0,1,,,,0
+1534609800,NAC Breda,De Graafschap,3,0,,,,0
+1534617900,Sittard,PSV,1,2,,,,0
+1534617900,Heracles,Den Haag,4,2,,,,0
+1534673700,Utrecht,Zwolle,2,0,,,,0
+1534681800,Feyenoord,Excelsior,3,0,,,,0
+1534681800,FC Emmen,AZ Alkmaar,1,4,,,,0
+1534689900,Heerenveen,Vitesse,1,1,,,,0
+1535133600,Den Haag,Sittard,3,1,,,,0
+1535214600,De Graafschap,Groningen,0,1,,,,0
+1535214600,Ajax,FC Emmen,5,0,,,,0
+1535222700,Zwolle,PSV,1,2,,,,0
+1535222700,NAC Breda,Excelsior,0,2,,,,0
+1535278500,Willem II,Heracles,5,0,,,,0
+1535286600,Utrecht,Venlo,1,1,,,,0
+1535286600,Heerenveen,Feyenoord,3,5,,,,0
+1535294700,AZ Alkmaar,Vitesse,0,0,,,,0
+1535738400,FC Emmen,De Graafschap,1,1,,,,0
+1535819400,Venlo,Heerenveen,1,1,,,,0
+1535823900,PSV,Willem II,6,1,,,,0
+1535823900,Excelsior,Den Haag,2,4,,,,0
+1535827500,Sittard,Utrecht,1,1,,,,0
+1535883300,Groningen,Zwolle,0,1,,,,0
+1535891400,Vitesse,Ajax,0,4,,,,0
+1535891400,Heracles,AZ Alkmaar,3,2,,,,0
+1535899500,Feyenoord,NAC Breda,4,2,,,,0
+1537029000,Den Haag,PSV,0,7,,,,0
+1537029000,De Graafschap,Venlo,1,2,,,,0
+1537037100,Willem II,Excelsior,2,2,,,,0
+1537037100,Ajax,Groningen,3,0,,,,0
+1537092900,AZ Alkmaar,Feyenoord,1,1,,,,0
+1537101000,Utrecht,FC Emmen,1,2,,,,0
+1537101000,NAC Breda,Sittard,2,3,,,,0
+1537101000,Heerenveen,Heracles,3,5,,,,0
+1537109100,Zwolle,Vitesse,0,2,,,,0
+1537552800,Heracles,De Graafschap,4,0,,,,0
+1537633800,Sittard,Willem II,4,4,,,,0
+1537638300,Venlo,NAC Breda,3,0,,,,0
+1537638300,Excelsior,Heerenveen,3,3,,,,0
+1537641900,Vitesse,Den Haag,1,1,,,,0
+1537697700,Feyenoord,Utrecht,1,0,,,,0
+1537705800,Groningen,AZ Alkmaar,1,3,,,,0
+1537705800,FC Emmen,Zwolle,0,1,,,,0
+1537713900,PSV,Ajax,3,0,,,,0
+1538238600,NAC Breda,PSV,0,2,,,,0
+1538238600,Heerenveen,Den Haag,1,1,,,,0
+1538246700,Sittard,Ajax,0,2,,,,0
+1538246700,Excelsior,Venlo,1,0,,,,0
+1538302500,Heracles,FC Emmen,2,1,,,,0
+1538310600,Groningen,Utrecht,1,1,,,,0
+1538310600,De Graafschap,Willem II,2,1,,,,0
+1538310600,AZ Alkmaar,Zwolle,2,2,,,,0
+1538318700,Feyenoord,Vitesse,2,1,,,,0
+1538762400,Utrecht,NAC Breda,2,1,,,,0
+1538843400,Den Haag,Groningen,1,0,,,,0
+1538847900,Zwolle,Excelsior,2,0,,,,0
+1538847900,PSV,Venlo,4,0,,,,0
+1538851500,De Graafschap,Heerenveen,0,5,,,,0
+1538907300,FC Emmen,Sittard,3,3,,,,0
+1538915400,Willem II,Feyenoord,1,1,,,,0
+1538915400,Vitesse,Heracles,4,0,,,,0
+1538923500,Ajax,AZ Alkmaar,5,0,,,,0
+1540053000,PSV,FC Emmen,6,0,,,,0
+1540053000,Excelsior,Vitesse,2,0,,,,0
+1540061100,Utrecht,AZ Alkmaar,2,1,,,,0
+1540061100,Heerenveen,Ajax,0,4,,,,0
+1540116900,NAC Breda,Willem II,2,2,,,,0
+1540125000,Venlo,Den Haag,2,0,,,,0
+1540125000,Heracles,Groningen,4,1,,,,0
+1540125000,Feyenoord,Zwolle,3,0,,,,0
+1540133100,Sittard,De Graafschap,3,1,,,,0
+1540576800,FC Emmen,Venlo,1,1,,,,0
+1540657800,Den Haag,NAC Breda,1,1,,,,0
+1540662300,Groningen,PSV,1,2,,,,0
+1540662300,De Graafschap,Excelsior,4,1,,,,0
+1540665900,Zwolle,Heracles,1,1,,,,0
+1540725300,Vitesse,Sittard,2,1,,,,0
+1540733400,Willem II,Utrecht,0,1,,,,0
+1540733400,Ajax,Feyenoord,3,0,,,,0
+1540741500,AZ Alkmaar,Heerenveen,2,3,,,,0
+1541185200,Excelsior,Groningen,2,4,,,,0
+1541266200,PSV,Vitesse,1,0,,,,0
+1541266200,NAC Breda,Heracles,2,1,,,,0
+1541274300,AZ Alkmaar,De Graafschap,1,0,,,,0
+1541274300,Ajax,Willem II,2,0,,,,0
+1541330100,Heerenveen,FC Emmen,1,1,,,,0
+1541338200,Utrecht,Den Haag,3,0,,,,0
+1541338200,Sittard,Zwolle,3,0,,,,0
+1541790000,Zwolle,Willem II,2,3,,,,0
+1541871000,FC Emmen,NAC Breda,2,0,,,,0
+1541875500,Vitesse,Utrecht,2,1,,,,0
+1541875500,De Graafschap,PSV,1,4,,,,0
+1541879100,Venlo,Sittard,3,2,,,,0
+1541934900,Groningen,Heerenveen,2,0,,,,0
+1541943000,Excelsior,Ajax,1,7,,,,0
+1541943000,Den Haag,AZ Alkmaar,0,1,,,,0
+1541951100,Heracles,Feyenoord,0,2,,,,0
+1543080600,Zwolle,Den Haag,2,3,,,,0
+1543080600,NAC Breda,Ajax,0,3,,,,0
+1543088700,Sittard,Heracles,3,0,,,,0
+1543088700,PSV,Heerenveen,3,0,,,,0
+1543144500,FC Emmen,Excelsior,1,2,,,,0
+1543152600,Willem II,Vitesse,1,3,,,,0
+1543152600,Utrecht,De Graafschap,5,0,,,,0
+1543152600,Feyenoord,Groningen,1,0,,,,0
+1543160700,Venlo,AZ Alkmaar,2,2,,,,0
+1543604400,Excelsior,Utrecht,3,3,,,,0
+1543685400,Vitesse,FC Emmen,1,1,,,,0
+1543689900,De Graafschap,Zwolle,0,2,,,,0
+1543689900,AZ Alkmaar,Willem II,0,2,,,,0
+1543693500,Heerenveen,Sittard,3,1,,,,0
+1543749300,Ajax,Den Haag,5,1,,,,0
+1543757400,Heracles,Venlo,4,1,,,,0
+1543757400,Feyenoord,PSV,2,1,,,,0
+1543765500,Groningen,NAC Breda,5,2,,,,0
+1544122800,Feyenoord,Venlo,4,1,,,,0
+1544203800,Sittard,AZ Alkmaar,0,3,,,,0
+1544211900,PSV,Excelsior,6,0,,,,0
+1544290200,Willem II,Heerenveen,1,5,,,,0
+1544294700,Zwolle,Ajax,1,4,,,,0
+1544298300,Den Haag,De Graafschap,0,0,,,,0
+1544354100,Utrecht,Heracles,3,1,,,,0
+1544362200,Venlo,Groningen,0,0,,,,0
+1544362200,FC Emmen,Feyenoord,1,4,,,,0
+1544370300,NAC Breda,Vitesse,2,1,,,,0
+1544814000,Willem II,Den Haag,0,3,,,,0
+1544895000,Zwolle,NAC Breda,0,0,,,,0
+1544899500,Heracles,PSV,0,4,,,,0
+1544899500,AZ Alkmaar,Excelsior,2,1,,,,0
+1544903100,Vitesse,Venlo,2,1,,,,0
+1544958900,Heerenveen,Utrecht,2,3,,,,0
+1544967000,Groningen,FC Emmen,1,2,,,,0
+1544967000,Ajax,De Graafschap,8,0,,,,0
+1544975100,Feyenoord,Sittard,0,2,,,,0
+1545418800,Venlo,Zwolle,2,0,,,,0
+1545499800,Sittard,Groningen,0,0,,,,0
+1545504300,PSV,AZ Alkmaar,3,1,,,,0
+1545504300,NAC Breda,Heerenveen,4,2,,,,0
+1545507900,Excelsior,Heracles,0,3,,,,0
+1545563700,Utrecht,Ajax,1,3,,,,0
+1545571800,Den Haag,Feyenoord,2,2,,,,0
+1545571800,De Graafschap,Vitesse,2,2,,,,0
+1545579900,FC Emmen,Willem II,0,2,,,,0
+1547838000,Vitesse,Excelsior,3,2,,,,0
+1547919000,AZ Alkmaar,Utrecht,3,0,,,,0
+1547923500,Zwolle,Feyenoord,3,1,,,,0
+1547923500,Den Haag,Venlo,2,4,,,,0
+1547927100,Groningen,Heracles,3,0,,,,0
+1547982900,Willem II,NAC Breda,2,0,,,,0
+1547991000,FC Emmen,PSV,2,2,,,,0
+1547991000,De Graafschap,Sittard,5,1,,,,0
+1547999100,Ajax,Heerenveen,4,4,,,,0
+1548442800,NAC Breda,Den Haag,1,1,,,,0
+1548523800,Heracles,Zwolle,0,2,,,,0
+1548528300,PSV,Groningen,2,1,,,,0
+1548528300,Excelsior,De Graafschap,2,0,,,,0
+1548531900,Venlo,FC Emmen,2,3,,,,0
+1548587700,Sittard,Vitesse,2,1,,,,0
+1548595800,Utrecht,Willem II,0,1,,,,0
+1548595800,Feyenoord,Ajax,6,2,,,,0
+1548603900,Heerenveen,AZ Alkmaar,0,2,,,,0
+1549047600,De Graafschap,NAC Breda,3,0,,,,0
+1549128600,Vitesse,Heerenveen,2,2,,,,0
+1549133100,Willem II,Groningen,1,2,,,,0
+1549133100,Ajax,Venlo,6,0,,,,0
+1549136700,AZ Alkmaar,FC Emmen,5,0,,,,0
+1549192500,Excelsior,Feyenoord,2,1,,,,0
+1549200600,Zwolle,Utrecht,4,3,,,,0
+1549200600,PSV,Sittard,5,0,,,,0
+1549208700,Den Haag,Heracles,2,0,,,,0
+1549652400,NAC Breda,AZ Alkmaar,0,3,,,,0
+1549733400,Heracles,Ajax,1,0,,,,0
+1549733400,Heerenveen,Zwolle,1,1,,,,0
+1549741500,Venlo,Willem II,2,1,,,,0
+1549741500,Feyenoord,De Graafschap,4,0,,,,0
+1549797300,Sittard,Excelsior,4,1,,,,0
+1549805400,Groningen,Vitesse,2,1,,,,0
+1549805400,FC Emmen,Den Haag,3,2,,,,0
+1549813500,Utrecht,PSV,2,2,,,,0
+1550257200,Den Haag,Zwolle,1,0,,,,0
+1550338200,AZ Alkmaar,Venlo,3,0,,,,0
+1550342700,Heracles,Sittard,6,0,,,,0
+1550342700,Heerenveen,PSV,2,2,,,,0
+1550346300,Vitesse,Willem II,3,2,,,,0
+1550402100,Ajax,NAC Breda,5,0,,,,0
+1550410200,Groningen,Feyenoord,1,0,,,,0
+1550410200,Excelsior,FC Emmen,2,1,,,,0
+1550418300,De Graafschap,Utrecht,0,1,,,,0
+1550862000,Venlo,Heracles,0,1,,,,0
+1550943000,Utrecht,Excelsior,0,0,,,,0
+1550947500,Zwolle,De Graafschap,0,3,,,,0
+1550947500,Sittard,Heerenveen,2,4,,,,0
+1550951100,NAC Breda,Groningen,0,0,,,,0
+1551006900,Den Haag,Ajax,1,5,,,,0
+1551015000,PSV,Feyenoord,1,1,,,,0
+1551015000,FC Emmen,Vitesse,0,3,,,,0
+1551023100,Willem II,AZ Alkmaar,2,1,,,,0
+1551466800,De Graafschap,Den Haag,1,1,,,,0
+1551547800,Heracles,Utrecht,1,5,,,,0
+1551552300,Excelsior,PSV,0,2,,,,0
+1551555900,Vitesse,NAC Breda,4,1,,,,0
+1551619800,Heerenveen,Willem II,4,2,,,,0
+1551619800,Groningen,Venlo,3,2,,,,0
+1551627900,Feyenoord,FC Emmen,4,0,,,,0
+1551627900,AZ Alkmaar,Sittard,4,2,,,,0
+1552071600,Utrecht,Groningen,0,0,,,,0
+1552152600,Venlo,Excelsior,1,0,,,,0
+1552157100,PSV,NAC Breda,2,0,,,,0
+1552157100,Den Haag,Heerenveen,2,3,,,,0
+1552160700,Willem II,De Graafschap,3,2,,,,0
+1552216500,Zwolle,AZ Alkmaar,0,0,,,,0
+1552224600,Vitesse,Feyenoord,1,1,,,,0
+1552224600,FC Emmen,Heracles,1,1,,,,0
+1552232700,Ajax,Sittard,4,0,,,,0
+1552498200,Ajax,Zwolle,2,1,,,,0
+1552676400,Sittard,FC Emmen,3,1,,,,0
+1552757400,Heerenveen,De Graafschap,0,3,,,,0
+1552761900,NAC Breda,Utrecht,0,4,,,,0
+1552761900,Feyenoord,Willem II,2,3,,,,0
+1552765500,Heracles,Vitesse,3,2,,,,0
+1552821300,Venlo,PSV,0,1,,,,0
+1552829400,Groningen,Den Haag,1,0,,,,0
+1552829400,AZ Alkmaar,Ajax,1,0,,,,0
+1552837500,Excelsior,Zwolle,0,2,,,,0
+1553967000,Willem II,Sittard,3,2,,,,0
+1553967000,Den Haag,Vitesse,3,3,,,,0
+1553971500,De Graafschap,Heracles,1,2,,,,0
+1553975100,Heerenveen,Excelsior,1,0,,,,0
+1553975100,AZ Alkmaar,Groningen,1,0,,,,0
+1554027300,NAC Breda,Venlo,1,1,,,,0
+1554035400,Zwolle,FC Emmen,3,0,,,,0
+1554035400,Utrecht,Feyenoord,3,2,,,,0
+1554043500,Ajax,PSV,3,1,,,,0
+1554222600,Vitesse,AZ Alkmaar,2,2,,,,0
+1554227100,Heracles,Willem II,3,4,,,,0
+1554230700,Groningen,De Graafschap,1,0,,,,0
+1554309000,Venlo,Utrecht,2,6,,,,0
+1554313500,Sittard,Den Haag,0,0,,,,0
+1554313500,Excelsior,NAC Breda,1,2,,,,0
+1554317100,FC Emmen,Ajax,2,5,,,,0
+1554395400,PSV,Zwolle,4,0,,,,0
+1554403500,Feyenoord,Heerenveen,3,0,,,,0
+1554568200,Willem II,Ajax,1,4,,,,0
+1554568200,Den Haag,Utrecht,5,0,,,,0
+1554572700,Groningen,Excelsior,1,0,,,,0
+1554576300,Heracles,NAC Breda,1,0,,,,0
+1554576300,De Graafschap,AZ Alkmaar,1,1,,,,0
+1554632100,FC Emmen,Heerenveen,2,0,,,,0
+1554640200,Zwolle,Sittard,5,0,,,,0
+1554640200,Venlo,Feyenoord,0,3,,,,0
+1554648300,Vitesse,PSV,3,3,,,,0
+1555092000,NAC Breda,FC Emmen,1,1,,,,0
+1555173000,AZ Alkmaar,Den Haag,2,3,,,,0
+1555173000,Ajax,Excelsior,6,2,,,,0
+1555181100,Sittard,Venlo,1,1,,,,0
+1555181100,Feyenoord,Heracles,2,1,,,,0
+1555236900,PSV,De Graafschap,2,1,,,,0
+1555245000,Willem II,Zwolle,2,0,,,,0
+1555245000,Heerenveen,Groningen,1,1,,,,0
+1555253100,Utrecht,Vitesse,0,0,,,,0
+1555696800,Heracles,Heerenveen,2,1,,,,0
+1555777800,Groningen,Ajax,0,1,,,,0
+1555777800,FC Emmen,Utrecht,2,0,,,,0
+1555782300,Vitesse,Zwolle,4,1,,,,0
+1555785900,Venlo,De Graafschap,4,1,,,,0
+1555785900,Feyenoord,AZ Alkmaar,2,1,,,,0
+1555841700,Excelsior,Willem II,1,1,,,,0
+1555849800,Sittard,NAC Breda,2,1,,,,0
+1555857900,PSV,Den Haag,3,1,,,,0
+1556037000,De Graafschap,FC Emmen,1,0,,,,0
+1556041500,Heerenveen,Venlo,2,2,,,,0
+1556041500,AZ Alkmaar,Heracles,2,1,,,,0
+1556045100,Ajax,Vitesse,4,2,,,,0
+1556127900,Utrecht,Sittard,2,1,,,,0
+1556131500,NAC Breda,Feyenoord,0,4,,,,0
+1556209800,Den Haag,Excelsior,3,1,,,,0
+1556217900,Willem II,PSV,0,3,,,,0
+1556560800,Zwolle,Groningen,3,2,,,,0
+1557505800,Nijmegen,Waalwijk,2,0,,,,0
+1557513900,Cambuur,Almere City,2,2,,,,0
+1557664200,Zwolle,Venlo,2,4,,,,0
+1557664200,Willem II,FC Emmen,2,3,,,,0
+1557664200,Vitesse,De Graafschap,6,1,,,,0
+1557664200,Heracles,Excelsior,4,5,,,,0
+1557664200,Heerenveen,NAC Breda,2,1,,,,0
+1557664200,Groningen,Sittard,3,0,,,,0
+1557664200,Feyenoord,Den Haag,0,2,,,,0
+1557664200,AZ Alkmaar,PSV,1,0,,,,0
+1557664200,Ajax,Utrecht,4,1,,,,0
+1557851400,Waalwijk,Nijmegen,3,0,,,,0
+1557859500,Almere City,Cambuur,1,2,,,,0
+1557941400,Venlo,Vitesse,1,3,,,,0
+1557941400,Utrecht,Heerenveen,3,1,,,,0
+1557941400,Sittard,Feyenoord,1,4,,,,0
+1557941400,PSV,Heracles,3,1,,,,0
+1557941400,NAC Breda,Zwolle,0,0,,,,0
+1557941400,FC Emmen,Groningen,1,0,,,,0
+1557941400,Excelsior,AZ Alkmaar,4,2,,,,0
+1557941400,Den Haag,Willem II,6,2,,,,0
+1557941400,De Graafschap,Ajax,1,4,,,,0
+1558197000,Heracles,Utrecht,0,2,,,,0
+1558205100,Groningen,Vitesse,2,1,,,,0
+1558260900,G.A. Eagles,Den Bosch,2,2,,,,0
+1558269000,Waalwijk,Excelsior,2,1,,,,0
+1558277100,Oss,Sparta Rotterdam,0,2,,,,0
+1558288800,Cambuur,De Graafschap,1,1,,,,0
+1558456200,Utrecht,Heracles,3,0,,,,0
+1558464300,Vitesse,Groningen,3,1,,,,0
+1558542600,Excelsior,Waalwijk,1,1,,,,0
+1558542600,Den Bosch,G.A. Eagles,0,1,,,,0
+1558550700,Sparta Rotterdam,Oss,3,0,,,,0
+1558550700,De Graafschap,Cambuur,2,0,,,,0
+1558723500,Utrecht,Vitesse,1,1,,,,0
+1558801800,Waalwijk,G.A. Eagles,0,0,,,,0
+1558809900,Sparta Rotterdam,De Graafschap,1,2,,,,0
+1559061000,G.A. Eagles,Waalwijk,4,5,,,,0
+1559069100,De Graafschap,Sparta Rotterdam,0,2,,,,0
+1559069100,Vitesse,Utrecht,0,2,,,,0

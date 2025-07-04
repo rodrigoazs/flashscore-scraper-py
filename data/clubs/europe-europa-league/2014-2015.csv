@@ -1,0 +1,484 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1404229500,Sliema (Mlt),Ferencvaros (Hun),1,1,,,,0
+1404229500,Jeunesse Esch (Lux),Dundalk (Irl),0,2,,,,0
+1404230400,Shkendija (Mkd),Zimbru Chisinau (Mda),2,1,,,,0
+1404396000,Shirak Gyumri (Arm),Shakhter Karagandy (Kaz),1,2,,,,0
+1404396000,Pyunik Yerevan (Arm),FC Astana (Kaz),1,4,,,,0
+1404396000,Kairat Almaty (Kaz),Kukesi (Alb),1,0,,,,0
+1404397800,Veris Chisinau (Mda),Lovech (Bul),0,0,,,,0
+1404399600,Santos Tartu (Est),Tromso (Nor),0,7,,,,0
+1404399600,Gabala (Aze),Siroki Brijeg (Bih),0,2,,,,0
+1404399600,Banga (Ltu),Sligo Rovers (Irl),0,0,,,,0
+1404401400,Sillamae (Est),Honka (Fin),2,1,,,,0
+1404401400,MyPa (Fin),IF Fuglafjordur (Fai),1,0,,,,0
+1404401400,Celik Niksic (Mne),Koper (Slo),0,5,,,,0
+1404403200,VPS (Fin),Brommapojkarna (Swe),2,1,,,,0
+1404403200,UE Santa Coloma (And),Met. Skopje (Mkd),0,3,,,,0
+1404403200,Turnovo (Mkd),Chikhura (Geo),0,1,,,,0
+1404405900,Botev Plovdiv (Bul),Libertas (San),4,0,,,,0
+1404406800,Vaduz (Lie),Europa FC (Gib),3,0,,,,0
+1404406800,Rosenborg (Nor),Jelgava (Lat),4,0,,,,0
+1404406800,Goteborg (Swe),Fola (Lux),0,0,,,,0
+1404406800,FC Tiraspol (Mda),Shamakhi (Aze),2,3,,,,0
+1404406800,Bolnisi (Geo),Flamurtari (Alb),2,3,,,,0
+1404408600,Differdange (Lux),Atlantas (Ltu),1,0,,,,0
+1404409500,Airbus (Wal),Haugesund (Nor),1,1,,,,0
+1404410400,Vikingur (Fai),FC Daugava (Lat),2,1,,,,0
+1404410400,Rudar (Slo),Laci (Alb),1,1,,,,0
+1404410400,RNK Split (Cro),Mika Jerevan (Arm),2,0,,,,0
+1404410400,Hibernians (Mlt),Trnava (Svk),2,4,,,,0
+1404410400,Cukaricki (Srb),Sant Julia (And),4,0,,,,0
+1404410400,B36 Torshavn (Fai),Linfield (Nir),1,2,,,,0
+1404412200,Folgore (San),Buducnost (Mne),1,2,,,,0
+1404412200,DVTK (Hun),Birkirkara (Mlt),2,1,,,,0
+1404413100,Derry City (Nir),Aberystwyth (Wal),4,0,,,,0
+1404413100,Crusaders (Nir),Ekranas (Ltu),3,1,,,,0
+1404413100,Aberdeen (Sco),Daugava Riga (Lat),5,0,,,,0
+1404414900,Zeljeznicar (Bih),Lovcen (Mne),0,0,,,,0
+1404414900,Stjarnan (Ice),Bangor City (Wal),4,0,,,,0
+1404414900,Hafnarfjordur (Ice),Glenavon (Nir),3,0,,,,0
+1404414900,Fram (Ice),Kalju (Est),0,1,,,,0
+1404845100,Linfield (Nir),B36 Torshavn (Fai),1,1,,,,0
+1404995400,Shakhter Karagandy (Kaz),Shirak Gyumri (Arm),4,0,,,,0
+1404997200,FC Astana (Kaz),Pyunik Yerevan (Arm),2,0,,,,0
+1405000800,Mika Jerevan (Arm),RNK Split (Cro),1,1,,,,0
+1405004400,Laci (Alb),Rudar (Slo),1,1,Pen,2,1,0
+1405004400,FC Daugava (Lat),Vikingur (Fai),1,1,,,,0
+1405006200,Lovcen (Mne),Zeljeznicar (Bih),0,1,,,,0
+1405006200,Honka (Fin),Sillamae (Est),2,1,AET,3,2,0
+1405006200,Ekranas (Ltu),Crusaders (Nir),1,2,,,,0
+1405006200,Buducnost (Mne),Folgore (San),3,0,,,,0
+1405008000,Shamakhi (Aze),FC Tiraspol (Mda),3,1,,,,0
+1405008000,Sant Julia (And),Cukaricki (Srb),0,0,,,,0
+1405008000,Kalju (Est),Fram (Ice),2,2,,,,0
+1405008000,Jelgava (Lat),Rosenborg (Nor),0,2,,,,0
+1405008000,Haugesund (Nor),Airbus (Wal),2,1,,,,0
+1405008000,Chikhura (Geo),Turnovo (Mkd),3,1,,,,0
+1405008000,Atlantas (Ltu),Differdange (Lux),3,1,,,,0
+1405009800,Daugava Riga (Lat),Aberdeen (Sco),0,3,,,,0
+1405011600,Zimbru Chisinau (Mda),Shkendija (Mkd),2,0,,,,0
+1405011600,Tromso (Nor),Santos Tartu (Est),6,1,,,,0
+1405011600,Fola (Lux),Goteborg (Swe),0,2,,,,0
+1405011600,Flamurtari (Alb),Bolnisi (Geo),1,2,,,,0
+1405011600,Brommapojkarna (Swe),VPS (Fin),2,0,,,,0
+1405013400,Trnava (Svk),Hibernians (Mlt),5,0,,,,0
+1405013400,Kukesi (Alb),Kairat Almaty (Kaz),0,0,,,,0
+1405013400,Birkirkara (Mlt),DVTK (Hun),1,4,,,,0
+1405014300,Bangor City (Wal),Stjarnan (Ice),0,4,,,,0
+1405014300,Aberystwyth (Wal),Derry City (Nir),0,5,,,,0
+1405015200,Sligo Rovers (Irl),Banga (Ltu),4,0,,,,0
+1405015200,IF Fuglafjordur (Fai),MyPa (Fin),0,0,,,,0
+1405015200,Europa FC (Gib),Vaduz (Lie),0,1,,,,0
+1405017000,Siroki Brijeg (Bih),Gabala (Aze),3,0,,,,0
+1405017000,Libertas (San),Botev Plovdiv (Bul),0,2,,,,0
+1405017000,Koper (Slo),Celik Niksic (Mne),4,0,,,,0
+1405017000,Ferencvaros (Hun),Sliema (Mlt),2,1,,,,0
+1405017900,Met. Skopje (Mkd),UE Santa Coloma (And),2,0,,,,0
+1405017900,Glenavon (Nir),Hafnarfjordur (Ice),2,3,,,,0
+1405017900,Dundalk (Irl),Jeunesse Esch (Lux),3,1,,,,0
+1405100700,Lovech (Bul),Veris Chisinau (Mda),3,0,,,,1
+1405602000,FC Astana (Kaz),Hapoel Tel Aviv (Isr),3,0,,,,0
+1405605600,Kairat Almaty (Kaz),Esbjerg (Den),1,1,,,,0
+1405609200,VSS Kosice (Svk),Liberec (Cze),0,1,,,,0
+1405609200,Neftci Baku (Aze),Koper (Slo),1,2,,,,0
+1405609200,Laci (Alb),FK Zorya Luhansk (Ukr),0,3,,,,0
+1405611000,Trencin (Svk),Vojvodina (Srb),4,0,,,,0
+1405611000,Din. Minsk (Blr),MyPa (Fin),3,0,,,,0
+1405611000,Buducnost (Mne),Omonia (Cyp),0,2,,,,0
+1405612800,Zestafoni (Geo),Trnava (Svk),0,0,,,,0
+1405612800,Ruch Chorzow (Pol),Vaduz (Lie),3,2,,,,0
+1405612800,Rovaniemi (Fin),Asteras Tripolis (Gre),1,1,,,,0
+1405612800,Kalju (Est),Lech Poznan (Pol),1,0,,,,0
+1405612800,Elfsborg (Swe),Shamakhi (Aze),0,1,,,,0
+1405612800,Atlantas (Ltu),Shakhter Karagandy (Kaz),0,0,,,,0
+1405614600,Petrolul (Rou),Flamurtari (Alb),2,0,,,,0
+1405615500,Botev Plovdiv (Bul),St. Polten (Aut),2,1,,,,0
+1405616400,Rosenborg (Nor),Sligo Rovers (Irl),1,2,,,,0
+1405616400,Neman (Blr),Hafnarfjordur (Ice),1,1,,,,0
+1405616400,Mlada Boleslav (Cze),Siroki Brijeg (Bih),2,1,,,,0
+1405616400,Brommapojkarna (Swe),Crusaders (Nir),4,0,,,,0
+1405618200,Luzern (Sui),St Johnstone (Sco),1,1,,,,0
+1405618200,CSKA Sofia (Bul),Zimbru Chisinau (Mda),1,1,,,,0
+1405618200,CFR Cluj (Rou),Jagodina (Srb),0,0,,,,0
+1405619100,Lovech (Bul),DVTK (Hun),0,2,,,,0
+1405620000,Waregem (Bel),Zawisza (Pol),2,1,,,,0
+1405620000,Vikingur (Fai),Tromso (Nor),0,0,,,,0
+1405620000,Gyor (Hun),Goteborg (Swe),0,3,,,,0
+1405621800,Sillamae (Est),Krasnodar (Rus),0,4,,,,0
+1405621800,RNK Split (Cro),H. Beer Sheva (Isr),2,1,,,,0
+1405621800,Rijeka (Cro),Ferencvaros (Hun),1,0,,,,0
+1405621800,Molde (Nor),ND Gorica (Slo),4,1,,,,0
+1405621800,Met. Skopje (Mkd),Zeljeznicar (Bih),0,0,,,,0
+1405621800,Bursaspor (Tur),Chikhura (Geo),0,0,,,,0
+1405622700,Motherwell (Sco),Stjarnan (Ice),2,2,,,,0
+1405622700,Linfield (Nir),AIK (Swe),1,0,,,,0
+1405622700,Dundalk (Irl),Hajduk Split (Cro),0,2,,,,0
+1405622700,Derry City (Nir),Shakhtyor Soligorsk (Blr),0,1,,,,0
+1405622700,Aberdeen (Sco),Groningen (Ned),0,0,,,,0
+1405623600,FK Sarajevo (Bih),Haugesund (Nor),0,1,,,,0
+1405623900,Cukaricki (Srb),Grodig (Aut),0,4,,,,0
+1406055600,Zeljeznicar (Bih),Met. Skopje (Mkd),2,2,,,,0
+1406205000,Shakhter Karagandy (Kaz),Atlantas (Ltu),3,0,,,,0
+1406208600,H. Beer Sheva (Isr),RNK Split (Cro),0,0,,,,0
+1406215800,MyPa (Fin),Din. Minsk (Blr),0,0,,,,0
+1406217600,Shamakhi (Aze),Elfsborg (Swe),0,1,Pen,0,2,0
+1406217600,Omonia (Cyp),Buducnost (Mne),0,0,,,,0
+1406217600,Krasnodar (Rus),Sillamae (Est),5,0,,,,0
+1406217600,Haugesund (Nor),FK Sarajevo (Bih),1,3,,,,0
+1406221200,Zimbru Chisinau (Mda),CSKA Sofia (Bul),0,0,,,,0
+1406221200,Vaduz (Lie),Ruch Chorzow (Pol),0,0,,,,0
+1406221200,Tromso (Nor),Vikingur (Fai),1,2,,,,0
+1406221200,Shakhtyor Soligorsk (Blr),Derry City (Nir),5,1,,,,0
+1406221200,Liberec (Cze),VSS Kosice (Svk),3,0,,,,0
+1406221200,Lech Poznan (Pol),Kalju (Est),3,0,,,,0
+1406221200,Grodig (Aut),Cukaricki (Srb),1,2,,,,0
+1406221200,Goteborg (Swe),Gyor (Hun),0,1,,,,0
+1406221200,Flamurtari (Alb),Petrolul (Rou),1,3,,,,0
+1406221200,Esbjerg (Den),Kairat Almaty (Kaz),1,0,,,,0
+1406221200,Chikhura (Geo),Bursaspor (Tur),0,0,Pen,1,0,0
+1406221200,AIK (Swe),Linfield (Nir),2,0,,,,0
+1406223000,Trnava (Svk),Zestafoni (Geo),3,0,,,,0
+1406223000,Hapoel Tel Aviv (Isr),FC Astana (Kaz),1,0,,,,0
+1406223000,Groningen (Ned),Aberdeen (Sco),1,2,,,,0
+1406223000,FK Zorya Luhansk (Ukr),Laci (Alb),2,1,,,,0
+1406224800,Zawisza (Pol),Waregem (Bel),1,3,,,,0
+1406224800,Vojvodina (Srb),Trencin (Svk),3,0,,,,0
+1406224800,Sligo Rovers (Irl),Rosenborg (Nor),1,3,,,,0
+1406224800,Asteras Tripolis (Gre),Rovaniemi (Fin),4,2,,,,0
+1406225700,Hajduk Split (Cro),Dundalk (Irl),1,2,,,,0
+1406226600,Siroki Brijeg (Bih),Mlada Boleslav (Cze),0,4,,,,0
+1406226600,ND Gorica (Slo),Molde (Nor),1,1,,,,0
+1406226600,Koper (Slo),Neftci Baku (Aze),0,2,,,,0
+1406226600,Jagodina (Srb),CFR Cluj (Rou),0,1,,,,0
+1406226600,Ferencvaros (Hun),Rijeka (Cro),1,2,,,,0
+1406226600,DVTK (Hun),Lovech (Bul),1,2,,,,0
+1406227500,St Johnstone (Sco),Luzern (Sui),1,1,Pen,2,1,0
+1406227500,Crusaders (Nir),Brommapojkarna (Swe),1,1,,,,0
+1406228700,St. Polten (Aut),Botev Plovdiv (Bul),2,0,,,,0
+1406229300,Stjarnan (Ice),Motherwell (Sco),2,2,AET,3,2,0
+1406229300,Hafnarfjordur (Ice),Neman (Blr),2,0,,,,0
+1406809800,Shakhter Karagandy (Kaz),Hajduk Split (Cro),4,2,,,,0
+1406815200,FC Astana (Kaz),AIK (Swe),1,1,,,,0
+1406818800,Neftci Baku (Aze),Chikhura (Geo),0,0,,,,0
+1406822400,Ruch Chorzow (Pol),Esbjerg (Den),0,0,,,,0
+1406822400,Omonia (Cyp),Met. Skopje (Mkd),3,0,,,,0
+1406822400,Elfsborg (Swe),Hafnarfjordur (Ice),4,1,,,,0
+1406822400,Dynamo Moscow (Rus),Kiryat Shmona (Isr),1,1,,,,0
+1406822400,Astra (Rou),Liberec (Cze),3,0,,,,0
+1406826000,Trencin (Svk),Hull (Eng),0,0,,,,0
+1406826000,PSV (Ned),St. Polten (Aut),1,0,,,,0
+1406826000,Mlada Boleslav (Cze),Lyon (Fra),1,4,,,,0
+1406826000,Kardemir Karabuk (Tur),Rosenborg (Nor),0,0,,,,0
+1406826000,Goteborg (Swe),Rio Ave (Por),0,1,,,,0
+1406826000,Din. Minsk (Blr),CFR Cluj (Rou),1,0,,,,0
+1406826000,Brommapojkarna (Swe),Torino (Ita),0,3,,,,0
+1406827800,Young Boys (Sui),Ermis (Cyp),1,0,,,,0
+1406827800,FK Zorya Luhansk (Ukr),Molde (Nor),1,1,,,,0
+1406829600,Waregem (Bel),Shakhtyor Soligorsk (Blr),2,5,,,,0
+1406829600,Vikingur (Fai),Rijeka (Cro),1,5,,,,0
+1406829600,RNK Split (Cro),Ch. Odesa (Ukr),2,0,,,,0
+1406829600,Petrolul (Rou),Plzen (Cze),1,1,,,,0
+1406831400,Stjarnan (Ice),Lech Poznan (Pol),1,0,,,,0
+1406831400,Real Sociedad (Esp),Aberdeen (Sco),2,0,,,,0
+1406831400,Mainz (Ger),Asteras Tripolis (Gre),1,0,,,,0
+1406831400,FK Sarajevo (Bih),Atromitos (Gre),1,2,,,,0
+1406831400,DVTK (Hun),Krasnodar (Rus),1,5,,,,0
+1406831400,Club Brugge KV (Bel),Brondby (Den),3,0,,,,0
+1406832300,St Johnstone (Sco),Trnava (Svk),1,2,,,,0
+1406833500,Grodig (Aut),Zimbru Chisinau (Mda),1,2,,,,0
+1407420000,Ermis (Cyp),Young Boys (Sui),0,2,,,,0
+1407427200,Molde (Nor),FK Zorya Luhansk (Ukr),1,2,,,,0
+1407427200,Liberec (Cze),Astra (Rou),2,3,,,,0
+1407427200,Krasnodar (Rus),DVTK (Hun),3,0,,,,0
+1407427200,Esbjerg (Den),Ruch Chorzow (Pol),2,2,,,,0
+1407427200,Ch. Odesa (Ukr),RNK Split (Cro),0,0,,,,0
+1407430800,St. Polten (Aut),PSV (Ned),2,3,,,,0
+1407430800,Shakhtyor Soligorsk (Blr),Waregem (Bel),2,2,,,,0
+1407430800,Rosenborg (Nor),Kardemir Karabuk (Tur),1,1,,,,0
+1407430800,Lech Poznan (Pol),Stjarnan (Ice),0,0,,,,0
+1407430800,Kiryat Shmona (Isr),Dynamo Moscow (Rus),1,2,,,,0
+1407430800,Chikhura (Geo),Neftci Baku (Aze),2,3,,,,0
+1407430800,AIK (Swe),FC Astana (Kaz),0,3,,,,0
+1407432600,Trnava (Svk),St Johnstone (Sco),1,1,,,,1
+1407432600,Hajduk Split (Cro),Shakhter Karagandy (Kaz),3,0,,,,0
+1407432600,CFR Cluj (Rou),Din. Minsk (Blr),0,2,,,,0
+1407434400,Plzen (Cze),Petrolul (Rou),1,4,,,,0
+1407434400,Brondby (Den),Club Brugge KV (Bel),0,2,,,,0
+1407434400,Atromitos (Gre),FK Sarajevo (Bih),1,2,AET,1,3,0
+1407435300,Asteras Tripolis (Gre),Mainz (Ger),3,1,,,,0
+1407436200,Torino (Ita),Brommapojkarna (Swe),4,0,,,,0
+1407436200,Lyon (Fra),Mlada Boleslav (Cze),2,1,,,,0
+1407436200,Hull (Eng),Trencin (Svk),2,1,,,,0
+1407436200,Hafnarfjordur (Ice),Elfsborg (Swe),2,1,,,,0
+1407437100,Met. Skopje (Mkd),Omonia (Cyp),0,1,,,,0
+1407437100,Aberdeen (Sco),Real Sociedad (Esp),2,3,,,,0
+1407438000,Rio Ave (Por),Goteborg (Swe),0,0,,,,0
+1407438300,Zimbru Chisinau (Mda),Grodig (Aut),0,1,,,,0
+1407438900,Rijeka (Cro),Vikingur (Fai),4,0,,,,0
+1408550400,Dnipro (Ukr),Hajduk Split (Cro),2,1,,,,0
+1408568400,Stjarnan (Ice),Inter (Ita),0,3,,,,0
+1408633200,FC Astana (Kaz),Villarreal (Esp),0,3,,,,0
+1408633200,Aktobe (Kaz),Legia (Pol),0,1,,,,0
+1408635000,Dynamo Moscow (Rus),Omonia (Cyp),2,2,,,,0
+1408636800,Ruch Chorzow (Pol),Metalist Kharkiv (Ukr),0,0,,,,0
+1408636800,Qarabag (Aze),Twente (Ned),0,0,,,,0
+1408636800,HJK (Fin),SK Rapid (Aut),2,1,,,,0
+1408636800,AEL Limassol (Cyp),Tottenham (Eng),1,2,,,,0
+1408639500,PSV (Ned),Shakhtyor Soligorsk (Blr),1,0,,,,0
+1408640400,Kardemir Karabuk (Tur),St Etienne (Fra),1,0,,,,0
+1408640400,Elfsborg (Swe),Rio Ave (Por),2,1,,,,0
+1408640400,Din. Minsk (Blr),Nacional (Por),2,0,,,,0
+1408641300,Petrolul (Rou),D. Zagreb (Cro),1,3,,,,0
+1408642200,Young Boys (Sui),Debrecen (Hun),3,1,,,,0
+1408642200,Apollon (Cyp),Lokomotiv Moscow (Rus),1,1,,,,0
+1408643100,FK Zorya Luhansk (Ukr),Feyenoord (Ned),1,1,,,,0
+1408644000,Zwolle (Ned),Sparta Prague (Cze),1,1,,,,0
+1408644000,Trabzonspor (Tur),FK Rostov (Rus),2,0,,,,0
+1408644000,Panathinaikos (Gre),Midtjylland (Den),4,1,,,,0
+1408644300,Zimbru Chisinau (Mda),PAOK (Gre),1,0,,,,0
+1408644900,Trnava (Svk),Zurich (Sui),1,3,,,,0
+1408644900,Partizan (Srb),Neftci Baku (Aze),3,2,,,,0
+1408644900,Grasshoppers (Sui),Club Brugge KV (Bel),1,2,,,,0
+1408644900,Asteras Tripolis (Gre),Maccabi Tel Aviv (Isr),2,0,,,,0
+1408645800,RNK Split (Cro),Torino (Ita),0,0,,,,0
+1408645800,Real Sociedad (Esp),Krasnodar (Rus),1,0,,,,0
+1408645800,Lyon (Fra),Astra (Rou),1,2,,,,0
+1408645800,Lokeren (Bel),Hull (Eng),1,0,,,,0
+1408646700,FK Sarajevo (Bih),B. Monchengladbach (Ger),2,3,,,,0
+1408648500,Rijeka (Cro),Sheriff Tiraspol (Mda),1,0,,,,0
+1409238000,Lokomotiv Moscow (Rus),Apollon (Cyp),1,4,,,,0
+1409241600,Omonia (Cyp),Dynamo Moscow (Rus),1,2,,,,0
+1409241600,Neftci Baku (Aze),Partizan (Srb),1,2,,,,0
+1409241600,Metalist Kharkiv (Ukr),Ruch Chorzow (Pol),0,0,AET,1,0,0
+1409241600,Krasnodar (Rus),Real Sociedad (Esp),3,0,,,,0
+1409242500,PAOK (Gre),Zimbru Chisinau (Mda),4,0,,,,0
+1409244300,Astra (Rou),Lyon (Fra),0,1,,,,0
+1409245200,Sheriff Tiraspol (Mda),Rijeka (Cro),0,3,,,,0
+1409245200,Shakhtyor Soligorsk (Blr),PSV (Ned),0,2,,,,0
+1409245200,Hajduk Split (Cro),Dnipro (Ukr),0,0,,,,0
+1409245200,FK Rostov (Rus),Trabzonspor (Tur),0,0,,,,0
+1409247000,Twente (Ned),Qarabag (Aze),1,1,,,,0
+1409247000,Maccabi Tel Aviv (Isr),Asteras Tripolis (Gre),3,1,,,,1
+1409248800,Midtjylland (Den),Panathinaikos (Gre),1,2,,,,0
+1409248800,Feyenoord (Ned),FK Zorya Luhansk (Ukr),4,3,,,,0
+1409250600,Zurich (Sui),Trnava (Svk),1,1,,,,0
+1409250600,Torino (Ita),RNK Split (Cro),1,0,,,,0
+1409250600,St Etienne (Fra),Kardemir Karabuk (Tur),1,0,Pen,2,0,0
+1409250600,Sparta Prague (Cze),Zwolle (Ned),3,1,,,,0
+1409250600,SK Rapid (Aut),HJK (Fin),3,3,,,,0
+1409250600,Debrecen (Hun),Young Boys (Sui),0,0,,,,0
+1409251500,Villarreal (Esp),FC Astana (Kaz),4,0,,,,0
+1409251500,Tottenham (Eng),AEL Limassol (Cyp),3,0,,,,0
+1409251500,Nacional (Por),Din. Minsk (Blr),2,3,,,,0
+1409251500,Inter (Ita),Stjarnan (Ice),6,0,,,,0
+1409251500,Hull (Eng),Lokeren (Bel),2,1,,,,0
+1409251500,B. Monchengladbach (Ger),FK Sarajevo (Bih),7,0,,,,0
+1409252400,Legia (Pol),Aktobe (Kaz),2,0,,,,0
+1409252400,D. Zagreb (Cro),Petrolul (Rou),2,1,,,,0
+1409252400,Club Brugge KV (Bel),Grasshoppers (Sui),1,0,,,,0
+1409256900,Rio Ave (Por),Elfsborg (Swe),1,0,,,,0
+1411056000,Qarabag,St Etienne,0,0,,,,0
+1411059600,Salzburg,Celtic,2,2,,,,0
+1411059600,PSV,Estoril,1,0,,,,0
+1411059600,Partizan,Tottenham,0,0,,,,0
+1411059600,Panathinaikos,Dynamo Moscow,1,2,,,,0
+1411059600,FC Copenhagen,HJK,2,0,,,,0
+1411059600,Dnipro,Inter,0,1,,,,1
+1411059600,D. Zagreb,Astra,5,1,,,,0
+1411059600,Club Brugge KV,Torino,0,0,,,,0
+1411059600,Besiktas,Asteras Tripolis,1,1,,,,0
+1411059600,B. Monchengladbach,Villarreal,1,1,,,,0
+1411059600,Apollon,Zurich,3,2,,,,1
+1411067100,Young Boys,Slovan Bratislava,5,0,,,,0
+1411067100,St. Liege,Rijeka,2,0,,,,0
+1411067100,Sevilla,Feyenoord,2,0,,,,0
+1411067100,Rio Ave,Dyn. Kyiv,0,3,,,,0
+1411067100,PAOK,Din. Minsk,6,1,,,,0
+1411067100,Napoli,Sparta Prague,3,1,,,,0
+1411067100,Metalist Kharkiv,Trabzonspor,1,2,,,,0
+1411067100,Lille,Krasnodar,1,1,,,,0
+1411067100,Legia,Lokeren,1,0,,,,0
+1411067100,Fiorentina,Guingamp,3,0,,,,0
+1411067100,FCSB,Aalborg,6,0,,,,0
+1411067100,Everton,Wolfsburg,4,1,,,,0
+1412262000,Dynamo Moscow,PSV,1,0,,,,0
+1412265600,Krasnodar,Everton,1,1,,,,0
+1412269200,Wolfsburg,Lille,1,1,,,,0
+1412269200,Trabzonspor,Legia,0,1,,,,0
+1412269200,Sparta Prague,Young Boys,3,1,,,,0
+1412269200,Slovan Bratislava,Napoli,0,2,,,,0
+1412269200,Rijeka,Sevilla,2,2,,,,0
+1412269200,Lokeren,Metalist Kharkiv,1,0,,,,0
+1412269200,Guingamp,PAOK,2,0,,,,0
+1412269200,Feyenoord,St. Liege,2,1,,,,0
+1412269200,Dyn. Kyiv,FCSB,3,1,,,,0
+1412269200,Din. Minsk,Fiorentina,0,3,,,,0
+1412269200,Aalborg,Rio Ave,1,0,,,,0
+1412276700,Zurich,B. Monchengladbach,1,1,,,,0
+1412276700,Villarreal,Apollon,4,0,,,,0
+1412276700,Tottenham,Besiktas,1,1,,,,0
+1412276700,Torino,FC Copenhagen,1,0,,,,0
+1412276700,St Etienne,Dnipro,0,0,,,,0
+1412276700,Inter,Qarabag,2,0,,,,0
+1412276700,HJK,Club Brugge KV,0,3,,,,0
+1412276700,Estoril,Panathinaikos,2,0,,,,0
+1412276700,Celtic,D. Zagreb,1,0,,,,0
+1412276700,Astra,Salzburg,1,2,,,,0
+1412276700,Asteras Tripolis,Partizan,2,0,,,,0
+1413993600,Metalist Kharkiv,Legia,0,1,,,,1
+1414080000,Krasnodar,Wolfsburg,2,4,,,,0
+1414083600,Young Boys,Napoli,2,0,,,,0
+1414083600,Trabzonspor,Lokeren,2,0,,,,0
+1414083600,St. Liege,Sevilla,0,0,,,,0
+1414083600,Slovan Bratislava,Sparta Prague,0,3,,,,0
+1414083600,Rijeka,Feyenoord,3,1,,,,0
+1414083600,PAOK,Fiorentina,0,1,,,,0
+1414083600,Lille,Everton,0,0,,,,0
+1414083600,FCSB,Rio Ave,2,1,,,,0
+1414083600,Din. Minsk,Guingamp,0,0,,,,0
+1414083600,Aalborg,Dyn. Kyiv,3,0,,,,0
+1414091100,Villarreal,Zurich,4,1,,,,0
+1414091100,Tottenham,Asteras Tripolis,5,1,,,,0
+1414091100,Torino,HJK,2,0,,,,0
+1414091100,Salzburg,D. Zagreb,4,2,,,,0
+1414091100,PSV,Panathinaikos,1,1,,,,0
+1414091100,Partizan,Besiktas,0,4,,,,0
+1414091100,Inter,St Etienne,0,0,,,,0
+1414091100,Estoril,Dynamo Moscow,1,2,,,,0
+1414091100,Dnipro,Qarabag,0,1,,,,1
+1414091100,Club Brugge KV,FC Copenhagen,1,1,,,,0
+1414091100,Celtic,Astra,2,1,,,,0
+1414091100,B. Monchengladbach,Apollon,5,0,,,,0
+1415293200,Qarabag,Dnipro,1,2,,,,0
+1415293200,Dynamo Moscow,Estoril,1,0,,,,0
+1415296800,Zurich,Villarreal,3,2,,,,0
+1415296800,St Etienne,Inter,1,1,,,,0
+1415296800,Panathinaikos,PSV,2,3,,,,0
+1415296800,HJK,Torino,2,1,,,,0
+1415296800,FC Copenhagen,Club Brugge KV,0,4,,,,0
+1415296800,D. Zagreb,Salzburg,1,5,,,,0
+1415296800,Besiktas,Partizan,2,1,,,,0
+1415296800,Astra,Celtic,1,1,,,,0
+1415296800,Asteras Tripolis,Tottenham,1,2,,,,0
+1415296800,Apollon,B. Monchengladbach,0,2,,,,0
+1415304300,Wolfsburg,Krasnodar,5,1,,,,0
+1415304300,Sparta Prague,Slovan Bratislava,4,0,,,,0
+1415304300,Sevilla,St. Liege,3,1,,,,0
+1415304300,Rio Ave,FCSB,2,2,,,,0
+1415304300,Napoli,Young Boys,3,0,,,,0
+1415304300,Lokeren,Trabzonspor,1,1,,,,0
+1415304300,Legia,Metalist Kharkiv,2,1,,,,0
+1415304300,Guingamp,Din. Minsk,2,0,,,,0
+1415304300,Fiorentina,PAOK,1,1,,,,0
+1415304300,Feyenoord,Rijeka,2,0,,,,0
+1415304300,Everton,Lille,3,0,,,,0
+1415304300,Dyn. Kyiv,Aalborg,2,0,,,,0
+1417104000,Dynamo Moscow,Panathinaikos,2,1,,,,0
+1417107600,Krasnodar,Lille,1,1,,,,0
+1417111200,Wolfsburg,Everton,0,2,,,,0
+1417111200,Trabzonspor,Metalist Kharkiv,3,1,,,,0
+1417111200,Sparta Prague,Napoli,0,0,,,,0
+1417111200,Slovan Bratislava,Young Boys,1,3,,,,0
+1417111200,Rijeka,St. Liege,2,0,,,,0
+1417111200,Lokeren,Legia,1,0,,,,0
+1417111200,Guingamp,Fiorentina,1,2,,,,0
+1417111200,Feyenoord,Sevilla,2,0,,,,0
+1417111200,Dyn. Kyiv,Rio Ave,2,0,,,,0
+1417111200,Din. Minsk,PAOK,0,2,,,,0
+1417111200,Aalborg,FCSB,1,0,,,,0
+1417118700,Zurich,Apollon,3,1,,,,0
+1417118700,Villarreal,B. Monchengladbach,2,2,,,,0
+1417118700,Tottenham,Partizan,1,0,,,,0
+1417118700,Torino,Club Brugge KV,0,0,,,,0
+1417118700,St Etienne,Qarabag,1,1,,,,0
+1417118700,Inter,Dnipro,2,1,,,,0
+1417118700,HJK,FC Copenhagen,2,1,,,,0
+1417118700,Celtic,Salzburg,1,3,,,,0
+1417118700,Astra,D. Zagreb,1,0,,,,0
+1417118700,Asteras Tripolis,Besiktas,2,2,,,,0
+1417190400,Estoril,PSV,3,3,,,,0
+1418317200,Qarabag,Inter,0,0,,,,0
+1418317200,Dnipro,St Etienne,1,0,,,,0
+1418320800,Salzburg,Astra,5,1,,,,0
+1418320800,PSV,Dynamo Moscow,0,1,,,,0
+1418320800,Partizan,Asteras Tripolis,0,0,,,,0
+1418320800,Panathinaikos,Estoril,1,1,,,,0
+1418320800,FC Copenhagen,Torino,1,5,,,,0
+1418320800,D. Zagreb,Celtic,4,3,,,,0
+1418320800,Club Brugge KV,HJK,2,1,,,,0
+1418320800,Besiktas,Tottenham,1,0,,,,0
+1418320800,B. Monchengladbach,Zurich,3,0,,,,0
+1418320800,Apollon,Villarreal,0,2,,,,0
+1418328300,Young Boys,Sparta Prague,2,0,,,,0
+1418328300,St. Liege,Feyenoord,0,3,,,,0
+1418328300,Sevilla,Rijeka,1,0,,,,0
+1418328300,Rio Ave,Aalborg,2,0,,,,0
+1418328300,PAOK,Guingamp,1,2,,,,0
+1418328300,Napoli,Slovan Bratislava,3,0,,,,0
+1418328300,Metalist Kharkiv,Lokeren,0,1,,,,0
+1418328300,Lille,Wolfsburg,0,3,,,,0
+1418328300,Legia,Trabzonspor,2,0,,,,0
+1418328300,Fiorentina,Din. Minsk,1,2,,,,0
+1418328300,FCSB,Dyn. Kyiv,0,2,,,,0
+1418328300,Everton,Krasnodar,0,1,,,,0
+1424368800,Young Boys,Everton,1,4,,,,0
+1424368800,Wolfsburg,Sporting CP,2,0,,,,0
+1424368800,Trabzonspor,Napoli,0,4,,,,0
+1424368800,Torino,Ath Bilbao,2,2,,,,0
+1424368800,PSV,Zenit,0,1,,,,0
+1424368800,Dnipro,Olympiacos Piraeus,2,0,,,,0
+1424368800,AS Roma,Feyenoord,1,1,,,,0
+1424368800,Aalborg,Club Brugge KV,1,3,,,,0
+1424376300,Villarreal,Salzburg,2,1,,,,0
+1424376300,Tottenham,Fiorentina,1,1,,,,0
+1424376300,Sevilla,B. Monchengladbach,1,0,,,,0
+1424376300,Liverpool,Besiktas,1,0,,,,0
+1424376300,Guingamp,Dyn. Kyiv,2,1,,,,0
+1424376300,Celtic,Inter,3,3,,,,0
+1424376300,Anderlecht,Dynamo Moscow,0,0,,,,0
+1424376300,Ajax,Legia,1,0,,,,0
+1424970000,Zenit,PSV,3,0,,,,0
+1424970000,Dynamo Moscow,Anderlecht,3,1,,,,0
+1424973600,Salzburg,Villarreal,1,3,,,,0
+1424973600,Legia,Ajax,0,3,,,,0
+1424973600,Inter,Celtic,1,0,,,,0
+1424973600,Fiorentina,Tottenham,2,0,,,,0
+1424973600,Dyn. Kyiv,Guingamp,3,1,,,,0
+1424973600,Besiktas,Liverpool,1,0,Pen,2,0,0
+1424973600,B. Monchengladbach,Sevilla,2,3,,,,0
+1424981100,Sporting CP,Wolfsburg,0,0,,,,0
+1424981100,Olympiacos Piraeus,Dnipro,2,2,,,,0
+1424981100,Napoli,Trabzonspor,1,0,,,,0
+1424981100,Feyenoord,AS Roma,1,2,,,,0
+1424981100,Everton,Young Boys,3,1,,,,0
+1424981100,Club Brugge KV,Aalborg,3,0,,,,0
+1424981100,Ath Bilbao,Torino,2,3,,,,0
+1426179600,Zenit,Torino,2,0,,,,0
+1426183200,Wolfsburg,Inter,3,1,,,,0
+1426183200,Dnipro,Ajax,1,0,,,,0
+1426183200,Club Brugge KV,Besiktas,2,1,,,,0
+1426190700,Villarreal,Sevilla,1,3,,,,0
+1426190700,Napoli,Dynamo Moscow,3,1,,,,0
+1426190700,Fiorentina,AS Roma,1,1,,,,0
+1426190700,Everton,Dyn. Kyiv,2,1,,,,0
+1426784400,Dynamo Moscow,Napoli,0,0,,,,0
+1426788000,Dyn. Kyiv,Everton,5,2,,,,0
+1426788000,AS Roma,Fiorentina,0,3,,,,0
+1426795500,Torino,Zenit,1,0,,,,0
+1426795500,Sevilla,Villarreal,2,1,,,,0
+1426795500,Inter,Wolfsburg,1,2,,,,0
+1426795500,Besiktas,Club Brugge KV,1,3,,,,0
+1426795500,Ajax,Dnipro,1,0,AET,2,1,0
+1429211100,Wolfsburg,Napoli,1,4,,,,0
+1429211100,Sevilla,Zenit,2,1,,,,0
+1429211100,Dyn. Kyiv,Fiorentina,1,1,,,,0
+1429211100,Club Brugge KV,Dnipro,0,0,,,,0
+1429815900,Zenit,Sevilla,2,2,,,,0
+1429815900,Napoli,Wolfsburg,2,2,,,,0
+1429815900,Fiorentina,Dyn. Kyiv,2,0,,,,0
+1429815900,Dnipro,Club Brugge KV,1,0,,,,0
+1431025500,Sevilla,Fiorentina,3,0,,,,0
+1431025500,Napoli,Dnipro,1,1,,,,0
+1431630300,Fiorentina,Sevilla,0,2,,,,0
+1431630300,Dnipro,Napoli,1,0,,,,0
+1432752300,Dnipro,Sevilla,2,3,,,,1

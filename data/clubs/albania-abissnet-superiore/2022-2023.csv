@@ -1,0 +1,185 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1660921200,Kukesi,KF Tirana,1,1,,,,0
+1661007600,Erzeni,Vllaznia,1,0,,,,0
+1661016600,Partizani,Egnatia,2,1,,,,0
+1661094000,Laci,Teuta,3,1,,,,0
+1661094000,Bylis,Kastrioti,2,0,,,,0
+1661612400,Teuta,Bylis,1,1,,,,0
+1661612400,Kastrioti,Erzeni,0,0,,,,0
+1661698800,Egnatia,KF Tirana,0,2,,,,0
+1661707800,Vllaznia,Kukesi,2,1,,,,0
+1661794200,Partizani,Laci,1,0,,,,0
+1662127200,KF Tirana,Vllaznia,1,2,,,,0
+1662210000,Kukesi,Kastrioti,1,2,,,,0
+1662210000,Erzeni,Teuta,0,0,,,,0
+1662296400,Laci,Egnatia,0,1,,,,0
+1662296400,Bylis,Partizani,0,1,,,,0
+1662738300,Teuta,Kukesi,0,0,,,,0
+1662814800,Kastrioti,KF Tirana,0,0,,,,0
+1662814800,Egnatia,Vllaznia,3,0,,,,0
+1662901200,Laci,Bylis,0,1,,,,0
+1662911100,Partizani,Erzeni,0,1,,,,0
+1663336800,KF Tirana,Teuta,4,0,,,,0
+1663419600,Bylis,Egnatia,0,0,,,,0
+1663429500,Erzeni,Laci,1,0,,,,0
+1663515900,Vllaznia,Kastrioti,1,0,,,,0
+1663592400,Kukesi,Partizani,1,2,,,,0
+1664542800,Bylis,Erzeni,4,1,,,,0
+1664552700,Teuta,Vllaznia,0,0,,,,0
+1664629200,Laci,Kukesi,0,1,,,,0
+1664629200,Egnatia,Kastrioti,0,0,,,,0
+1664730000,Partizani,KF Tirana,0,2,,,,0
+1665147600,KF Tirana,Laci,3,3,,,,0
+1665147600,Erzeni,Egnatia,0,0,,,,0
+1665157500,Vllaznia,Partizani,1,2,,,,0
+1665234000,Kukesi,Bylis,2,0,,,,0
+1665234000,Kastrioti,Teuta,2,1,,,,0
+1665838800,Egnatia,Teuta,1,2,,,,0
+1665925200,Laci,Vllaznia,1,1,,,,0
+1665925200,Bylis,KF Tirana,0,1,,,,0
+1665935100,Partizani,Kastrioti,0,0,,,,0
+1666011600,Erzeni,Kukesi,0,2,,,,0
+1666367100,Vllaznia,Bylis,2,1,,,,0
+1666367100,Teuta,Partizani,1,4,,,,0
+1666443600,Kukesi,Egnatia,0,1,,,,0
+1666443600,Kastrioti,Laci,0,1,,,,0
+1666453500,KF Tirana,Erzeni,0,1,,,,0
+1667044800,Kastrioti,Bylis,3,0,,,,0
+1667054700,Vllaznia,Erzeni,2,2,,,,0
+1667054700,Teuta,Laci,0,1,,,,0
+1667134800,KF Tirana,Kukesi,4,1,,,,0
+1667134800,Egnatia,Partizani,3,0,,,,0
+1667390400,Erzeni,Kastrioti,1,1,,,,0
+1667390400,Bylis,Teuta,0,0,,,,0
+1667476800,Laci,Partizani,1,0,,,,0
+1667476800,Kukesi,Vllaznia,0,1,,,,0
+1667476800,KF Tirana,Egnatia,1,0,,,,0
+1668340800,Vllaznia,KF Tirana,0,0,,,,0
+1668340800,Kastrioti,Kukesi,1,1,,,,0
+1668340800,Egnatia,Laci,2,0,,,,0
+1668427200,Teuta,Erzeni,1,2,,,,0
+1668438000,Partizani,Bylis,2,1,,,,0
+1670760000,Kukesi,Teuta,0,1,,,,0
+1670760000,Bylis,Laci,0,1,,,,0
+1670769900,Erzeni,Partizani,3,3,,,,0
+1670859000,Vllaznia,Egnatia,0,1,,,,0
+1670868000,KF Tirana,Kastrioti,4,0,,,,0
+1671105600,Laci,Erzeni,1,0,,,,0
+1671115500,Partizani,Kukesi,2,1,,,,0
+1671192000,Kastrioti,Vllaznia,1,0,,,,0
+1671192000,Egnatia,Bylis,0,1,,,,0
+1671201900,Teuta,KF Tirana,1,0,,,,0
+1671624000,Kukesi,Laci,1,0,,,,0
+1671649200,KF Tirana,Partizani,0,1,,,,0
+1671710400,Kastrioti,Egnatia,2,3,,,,0
+1671710400,Erzeni,Bylis,1,1,,,,0
+1671720300,Vllaznia,Teuta,4,0,,,,0
+1673611200,Laci,KF Tirana,1,2,,,,0
+1673611200,Bylis,Kukesi,0,0,,,,0
+1673622000,Partizani,Vllaznia,1,2,,,,0
+1673697600,Egnatia,Erzeni,1,1,,,,0
+1673708400,Teuta,Kastrioti,2,0,,,,0
+1674302400,Kastrioti,Partizani,1,1,,,,0
+1674313200,Vllaznia,Laci,4,1,,,,0
+1674313200,KF Tirana,Bylis,4,1,,,,0
+1674388800,Kukesi,Erzeni,0,2,,,,0
+1674399600,Teuta,Egnatia,1,1,,,,0
+1674648000,Laci,Kastrioti,4,1,,,,0
+1674648000,Bylis,Vllaznia,1,0,,,,0
+1674734400,Egnatia,Kukesi,1,2,,,,0
+1674745200,Partizani,Teuta,0,2,,,,0
+1674756000,Erzeni,KF Tirana,0,2,,,,0
+1674993600,Kukesi,KF Tirana,2,0,,,,0
+1674993600,Bylis,Kastrioti,1,0,,,,0
+1675080000,Laci,Teuta,4,3,,,,0
+1675101600,Partizani,Egnatia,1,1,,,,0
+1675101600,Erzeni,Vllaznia,3,2,,,,0
+1675684800,Egnatia,KF Tirana,1,2,,,,0
+1675706400,Partizani,Laci,1,2,,,,0
+1675771200,Kastrioti,Erzeni,2,2,,,,0
+1675782000,Vllaznia,Kukesi,2,0,,,,0
+1675782000,Teuta,Bylis,1,0,,,,0
+1676116800,Laci,Egnatia,0,1,,,,0
+1676116800,Kukesi,Kastrioti,1,0,,,,0
+1676214000,KF Tirana,Vllaznia,0,1,,,,0
+1676214000,Erzeni,Teuta,1,1,,,,0
+1676289600,Bylis,Partizani,0,1,,,,0
+1676721600,Laci,Bylis,0,1,,,,0
+1676732400,Teuta,Kukesi,1,0,,,,0
+1676743200,Partizani,Erzeni,3,0,,,,0
+1676808000,Kastrioti,KF Tirana,0,1,,,,0
+1676808000,Egnatia,Vllaznia,0,0,,,,0
+1677240000,Kukesi,Partizani,1,0,,,,0
+1677240000,Bylis,Egnatia,2,3,,,,0
+1677250800,Erzeni,Laci,1,1,,,,0
+1677340800,Vllaznia,Kastrioti,0,1,,,,0
+1677340800,KF Tirana,Teuta,0,2,,,,0
+1678017600,Egnatia,Kastrioti,4,1,,,,0
+1678017600,Bylis,Erzeni,1,1,,,,0
+1678104000,Laci,Kukesi,1,2,,,,0
+1678114800,Teuta,Vllaznia,1,1,,,,0
+1678125600,Partizani,KF Tirana,2,0,,,,0
+1678449600,Kukesi,Bylis,2,0,,,,0
+1678449600,Kastrioti,Teuta,0,0,,,,0
+1678460400,Erzeni,Egnatia,2,1,,,,0
+1678550400,Vllaznia,Partizani,1,1,,,,0
+1678550400,KF Tirana,Laci,3,2,,,,0
+1679144400,Bylis,KF Tirana,1,1,,,,0
+1679155200,Erzeni,Kukesi,1,1,,,,0
+1679227200,Laci,Vllaznia,2,0,,,,0
+1679227200,Egnatia,Teuta,1,1,,,,0
+1679238000,Partizani,Kastrioti,4,1,,,,0
+1680354000,Vllaznia,Bylis,0,0,,,,0
+1680354000,Kukesi,Egnatia,0,3,,,,0
+1680364800,Teuta,Partizani,0,2,,,,0
+1680440400,Kastrioti,Laci,2,1,,,,0
+1680451200,KF Tirana,Erzeni,3,1,,,,0
+1681056000,Vllaznia,Erzeni,3,1,,,,0
+1681056000,Teuta,Laci,1,2,,,,0
+1681131600,Egnatia,Partizani,1,1,,,,0
+1681142400,KF Tirana,Kukesi,2,1,,,,0
+1681563600,Bylis,Teuta,2,2,,,,0
+1681574400,Erzeni,Kastrioti,0,0,,,,0
+1681650000,Laci,Partizani,3,2,,,,0
+1681650000,Kukesi,Vllaznia,0,0,,,,0
+1681660800,KF Tirana,Egnatia,2,1,,,,0
+1681909200,Kastrioti,Bylis,0,2,,,,0
+1682168400,Egnatia,Laci,1,1,,,,0
+1682179200,Vllaznia,KF Tirana,0,1,,,,0
+1682179200,Teuta,Erzeni,2,0,,,,0
+1682254800,Kastrioti,Kukesi,1,0,,,,0
+1682265600,Partizani,Bylis,2,1,,,,0
+1682773200,Bylis,Laci,0,2,,,,0
+1682784000,Erzeni,Partizani,1,2,,,,0
+1682859600,Kukesi,Teuta,0,0,,,,0
+1682870400,Vllaznia,Egnatia,0,4,,,,0
+1682870400,KF Tirana,Kastrioti,1,0,,,,0
+1683374400,Kastrioti,Vllaznia,2,2,,,,0
+1683374400,Egnatia,Bylis,2,0,,,,0
+1683388800,Teuta,KF Tirana,2,1,,,,0
+1683388800,Partizani,Kukesi,3,1,,,,0
+1683464400,Laci,Erzeni,1,1,,,,0
+1684328400,Vllaznia,Teuta,1,0,,,,0
+1684328400,Kukesi,Laci,3,0,,,,0
+1684328400,Kastrioti,Egnatia,1,0,,,,0
+1684328400,Erzeni,Bylis,1,2,,,,0
+1684341000,KF Tirana,Partizani,1,1,,,,0
+1684677600,Teuta,Kastrioti,1,0,,,,0
+1684677600,Partizani,Vllaznia,2,1,,,,0
+1684677600,Laci,KF Tirana,1,3,,,,0
+1684677600,Egnatia,Erzeni,3,2,,,,0
+1684677600,Bylis,Kukesi,1,1,,,,0
+1684850400,Tomori Berat,Korabi Peshkopi,0,1,,,,0
+1684850400,Flamurtari,Apolonia Fier,1,1,,,,0
+1685023200,Vllaznia,Laci,1,1,,,,0
+1685023200,Teuta,Egnatia,1,0,,,,0
+1685023200,Kukesi,Erzeni,0,0,,,,0
+1685023200,KF Tirana,Bylis,2,2,,,,0
+1685023200,Kastrioti,Partizani,1,4,,,,0
+1685286000,Flamurtari,Korabi Peshkopi,1,2,,,,0
+1685368800,Partizani,Teuta,2,0,,,,0
+1685368800,Laci,Kastrioti,3,0,,,,0
+1685368800,Erzeni,KF Tirana,1,2,,,,0
+1685368800,Egnatia,Kukesi,0,1,,,,0
+1685368800,Bylis,Vllaznia,1,2,,,,0
+1685890800,Erzeni,Korabi Peshkopi,1,1,AET,2,1,1

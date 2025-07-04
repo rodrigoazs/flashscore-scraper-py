@@ -1,0 +1,424 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1625586300,Mosta (Mlt),Trnava (Svk),3,2,,,,0
+1625586600,Mons Calpe (Gib),FC Santa Coloma (And),1,1,,,,0
+1625596200,FK Podgorica (Mne),Laci (Alb),1,0,,,,0
+1625752800,Sileks (Mkd),Petrocub (Mda),1,1,,,,0
+1625752800,Noah (Arm),KuPS (Fin),1,0,,,,0
+1625752800,FK Liepaja (Lat),Struga (Mkd),1,1,,,,0
+1625758200,Inter Turku (Fin),Puskas Academy (Hun),1,1,,,,0
+1625760000,Suduva (Ltu),Valmiera (Lat),2,1,,,,0
+1625760000,Sant Julia (And),Gzira (Mlt),0,0,,,,0
+1625760000,RFS (Lat),Klaksvik (Fai),2,3,,,,0
+1625760000,Honka (Fin),NSI Runavik (Fai),0,0,,,,0
+1625761800,Levadia (Est),St Josephs (Gib),3,1,,,,0
+1625762700,Zilina (Svk),Dila Gori (Geo),5,1,,,,0
+1625762700,Dundalk (Irl),Newtown (Wal),4,0,,,,0
+1625763600,Racing Luxembourg (Lux),Breidablik (Ice),2,3,,,,0
+1625763600,Milsami (Mda),FK Sarajevo (Bih),0,0,,,,0
+1625766300,Glentoran (Nir),TNS (Wal),1,1,,,,0
+1625767200,Shkupi (Mkd),KF Llapi (Kos),2,0,,,,0
+1625767200,Partizani (Alb),Sf.Gheorghe (Mda),5,2,,,,0
+1625767200,Paide (Est),Slask Wroclaw (Pol),1,2,,,,0
+1625767200,Hafnarfjordur (Ice),Sligo Rovers (Irl),1,0,,,,0
+1625767200,Fehervar FC (Hun),Ararat Yerevan (Arm),1,1,,,,0
+1625767200,Europa FC (Gib),Kauno Zalgiris (Ltu),0,0,,,,0
+1625767200,Drita (Kos),Decic (Mne),2,1,,,,0
+1625767200,Domzale (Slo),Hesperange (Lux),1,0,,,,0
+1625767200,Birkirkara (Mlt),La Fiorita (San),1,0,,,,0
+1625767200,Bala (Wal),Larne (Nir),0,1,,,,0
+1625769000,Velez Mostar (Bih),Coleraine (Nir),2,1,,,,0
+1625769000,Sutjeska (Mne),Gagra (Geo),1,0,,,,0
+1625769900,Tre Penne (San),Dinamo Batumi (Geo),0,4,,,,0
+1625769900,Maribor (Slo),Urartu (Arm),1,0,,,,0
+1625770800,Siroki Brijeg (Bih),Vllaznia (Alb),3,1,,,,0
+1625773500,Stjarnan (Ice),Bohemians (Irl),1,1,,,,0
+1626194700,Newtown (Wal),Dundalk (Irl),0,1,,,,0
+1626354000,Ararat Yerevan (Arm),Fehervar FC (Hun),2,0,,,,0
+1626361200,Struga (Mkd),FK Liepaja (Lat),1,4,,,,0
+1626364800,Valmiera (Lat),Suduva (Ltu),0,0,,,,0
+1626364800,Urartu (Arm),Maribor (Slo),0,1,,,,0
+1626364800,KuPS (Fin),Noah (Arm),5,0,,,,0
+1626364800,Kauno Zalgiris (Ltu),Europa FC (Gib),2,0,,,,0
+1626364800,Gagra (Geo),Sutjeska (Mne),1,1,,,,0
+1626366600,St Josephs (Gib),Levadia (Est),1,1,,,,0
+1626366600,FC Santa Coloma (And),Mons Calpe (Gib),4,0,,,,0
+1626366600,Dinamo Batumi (Geo),Tre Penne (San),3,0,,,,0
+1626368400,Sligo Rovers (Irl),Hafnarfjordur (Ice),1,2,,,,0
+1626368400,Sf.Gheorghe (Mda),Partizani (Alb),2,3,,,,0
+1626368400,Petrocub (Mda),Sileks (Mkd),1,0,,,,0
+1626368400,NSI Runavik (Fai),Honka (Fin),1,3,,,,0
+1626368400,Dila Gori (Geo),Zilina (Svk),2,1,,,,0
+1626369300,TNS (Wal),Glentoran (Nir),2,0,,,,0
+1626372000,Puskas Academy (Hun),Inter Turku (Fin),2,0,,,,0
+1626372000,Laci (Alb),FK Podgorica (Mne),1,0,AET,3,0,0
+1626372000,KF Llapi (Kos),Shkupi (Mkd),1,1,,,,0
+1626372000,Hesperange (Lux),Domzale (Slo),1,1,,,,0
+1626372000,Gzira (Mlt),Sant Julia (And),1,1,Pen,2,1,0
+1626373800,Larne (Nir),Bala (Wal),1,0,,,,0
+1626374700,Trnava (Svk),Mosta (Mlt),2,0,,,,0
+1626374700,La Fiorita (San),Birkirkara (Mlt),1,1,,,,0
+1626374700,Decic (Mne),Drita (Kos),0,1,,,,0
+1626374700,Bohemians (Irl),Stjarnan (Ice),3,0,,,,0
+1626375600,Vllaznia (Alb),Siroki Brijeg (Bih),3,0,,,,0
+1626375600,Slask Wroclaw (Pol),Paide (Est),2,0,,,,0
+1626375600,Klaksvik (Fai),RFS (Lat),2,3,AET,2,4,0
+1626375600,FK Sarajevo (Bih),Milsami (Mda),0,1,,,,0
+1626375600,Coleraine (Nir),Velez Mostar (Bih),1,2,,,,0
+1626375600,Breidablik (Ice),Racing Luxembourg (Lux),2,0,,,,0
+1626796500,Domzale (Slo),Honka (Fin),1,1,,,,0
+1626796800,Prishtina (Kos),Connahs Q. (Wal),4,1,,,,0
+1626796800,Kauno Zalgiris (Ltu),TNS (Wal),0,5,,,,0
+1626807600,Folgore (San),Hibernians (Mlt),1,3,,,,0
+1626890400,Cukaricki (Srb),Sumqayit (Aze),0,0,,,,0
+1626958800,FC Astana (Kaz),Aris (Gre),2,0,,,,0
+1626958800,Ararat Yerevan (Arm),Slask Wroclaw (Pol),2,4,,,,0
+1626967800,FK Panevezys (Ltu),Vojvodina (Srb),0,1,,,,0
+1626969600,Sochi (Rus),Shamakhi (Aze),3,0,,,,0
+1626969600,RFS (Lat),Puskas Academy (Hun),3,0,,,,0
+1626969600,Qarabag (Aze),SC Ashdod (Isr),0,0,,,,0
+1626969600,O. Ljubljana (Slo),Birkirkara (Mlt),1,0,,,,0
+1626969600,Molde (Nor),Servette (Sui),3,0,,,,0
+1626969600,KuPS (Fin),Vorskla Poltava (Ukr),2,2,,,,0
+1626969600,Austria Vienna (Aut),Breidablik (Ice),1,1,,,,0
+1626971400,Dudelange (Lux),Bohemians (Irl),0,1,,,,0
+1626971400,Dinamo Tbilisi (Geo),Maccabi Haifa (Isr),1,2,,,,0
+1626972300,Hammarby (Swe),Maribor (Slo),3,1,,,,0
+1626972300,Elfsborg (Swe),Milsami (Mda),4,0,,,,0
+1626973200,Trnava (Svk),Sepsi Sf. Gheorghe (Rou),0,0,,,,0
+1626973200,Teuta (Alb),Inter Escaldes (And),0,2,,,,0
+1626973200,Suduva (Ltu),Rakow (Pol),0,0,,,,0
+1626973200,Riga FC (Lat),Shkendija (Mkd),2,0,,,,0
+1626973200,Plzen (Cze),Dynamo Brest (Blr),2,1,,,,0
+1626973200,Petrocub (Mda),Sivasspor (Tur),0,1,,,,0
+1626973200,Lok. Plovdiv (Bul),Slovacko (Cze),1,0,,,,0
+1626973200,Laci (Alb),Univ. Craiova (Rou),1,0,,,,0
+1626973200,Gzira (Mlt),Rijeka (Cro),0,2,,,,0
+1626973200,FC Copenhagen (Den),Zhodino (Blr),4,1,,,,0
+1626973200,Dinamo Batumi (Geo),BATE (Blr),0,1,,,,0
+1626973200,CSKA Sofia (Bul),FK Liepaja (Lat),0,0,,,,0
+1626973200,Apollon (Cyp),Zilina (Svk),1,3,,,,0
+1626973200,AEL Limassol (Cyp),Vllaznia (Alb),1,0,,,,0
+1626976800,Shkupi (Mkd),Santa Clara (Por),0,3,,,,0
+1626976800,HB Torshavn (Fai),Buducnost (Mne),4,0,,,,0
+1626976800,Arda (Bul),H. Beer Sheva (Isr),0,2,,,,0
+1626977700,Basel (Sui),Partizani (Alb),3,0,,,,0
+1626978600,Velez Mostar (Bih),AEK Athens FC (Gre),2,1,,,,0
+1626978600,Sutjeska (Mne),Maccabi Tel Aviv (Isr),0,0,,,,0
+1626978600,Larne (Nir),Aarhus (Den),2,1,,,,0
+1626978600,Gent (Bel),Valerenga (Nor),4,0,,,,0
+1626978600,FCSB (Rou),Shakhter Karagandy (Kaz),1,0,,,,0
+1626979500,Linfield (Nir),Borac Banja Luka (Bih),4,0,,,,0
+1626979500,Hibernian (Sco),FC Santa Coloma (And),3,0,,,,0
+1626979500,Aberdeen (Sco),Hacken (Swe),5,1,,,,0
+1626980400,Valur (Ice),Bodo/Glimt (Nor),0,3,,,,0
+1626980400,Ujpest (Hun),Vaduz (Lie),2,1,,,,0
+1626980400,Pogon Szczecin (Pol),Osijek (Cro),0,0,,,,0
+1626980400,Partizan (Srb),Dun. Streda (Svk),1,0,,,,0
+1626980400,Hajduk Split (Cro),Tobol (Kaz),2,0,,,,0
+1626980400,Hafnarfjordur (Ice),Rosenborg (Nor),0,2,,,,0
+1626980400,Dundalk (Irl),Levadia (Est),2,2,,,,0
+1626980400,Drita (Kos),Feyenoord (Ned),0,0,,,,0
+1626982200,Shakhtyor Soligorsk (Blr),Fola (Lux),1,2,,,,0
+1627400700,Inter Escaldes (And),Teuta (Alb),0,2,AET,0,3,0
+1627408800,Hibernians (Mlt),Folgore (San),4,2,,,,0
+1627408800,Buducnost (Mne),HB Torshavn (Fai),0,2,,,,0
+1627563600,Shakhter Karagandy (Kaz),FCSB (Rou),2,1,Pen,3,1,0
+1627567200,FK Liepaja (Lat),CSKA Sofia (Bul),0,0,Pen,0,1,0
+1627570800,Tobol (Kaz),Hajduk Split (Cro),3,1,AET,4,1,0
+1627574400,Vorskla Poltava (Ukr),KuPS (Fin),2,2,AET,2,3,0
+1627574400,Vaduz (Lie),Ujpest (Hun),1,3,,,,0
+1627574400,Sumqayit (Aze),Cukaricki (Srb),0,2,,,,0
+1627574400,Shamakhi (Aze),Sochi (Rus),2,4,,,,0
+1627574400,Honka (Fin),Domzale (Slo),0,1,,,,0
+1627574400,Dynamo Brest (Blr),Plzen (Cze),1,2,,,,0
+1627574400,Bodo/Glimt (Nor),Valur (Ice),3,0,,,,0
+1627574400,Birkirkara (Mlt),O. Ljubljana (Slo),1,0,Pen,1,1,0
+1627576200,Sepsi Sf. Gheorghe (Rou),Trnava (Svk),1,1,Pen,1,2,0
+1627576200,Levadia (Est),Dundalk (Irl),1,2,,,,0
+1627576200,Hacken (Swe),Aberdeen (Sco),2,0,,,,0
+1627576200,FC Santa Coloma (And),Hibernian (Sco),1,2,,,,0
+1627577100,Zilina (Svk),Apollon (Cyp),2,2,,,,0
+1627578000,Zhodino (Blr),FC Copenhagen (Den),0,5,,,,0
+1627578000,Valerenga (Nor),Gent (Bel),2,0,,,,0
+1627578000,Slovacko (Cze),Lok. Plovdiv (Bul),1,0,Pen,1,1,0
+1627578000,Sivasspor (Tur),Petrocub (Mda),1,0,,,,0
+1627578000,SC Ashdod (Isr),Qarabag (Aze),0,1,,,,0
+1627578000,Rosenborg (Nor),Hafnarfjordur (Ice),4,1,,,,0
+1627578000,Rakow (Pol),Suduva (Ltu),0,0,Pen,1,0,0
+1627578000,Milsami (Mda),Elfsborg (Swe),0,5,,,,0
+1627578000,Maccabi Haifa (Isr),Dinamo Tbilisi (Geo),5,1,,,,0
+1627578000,H. Beer Sheva (Isr),Arda (Bul),4,0,,,,0
+1627578000,BATE (Blr),Dinamo Batumi (Geo),1,4,,,,0
+1627578000,Aarhus (Den),Larne (Nir),1,1,,,,0
+1627578900,TNS (Wal),Kauno Zalgiris (Ltu),5,1,,,,0
+1627579800,Maccabi Tel Aviv (Isr),Sutjeska (Mne),3,1,,,,0
+1627579800,Fola (Lux),Shakhtyor Soligorsk (Blr),1,0,,,,0
+1627579800,Breidablik (Ice),Austria Vienna (Aut),2,1,,,,0
+1627581600,Vojvodina (Srb),FK Panevezys (Ltu),1,0,,,,0
+1627581600,Slask Wroclaw (Pol),Ararat Yerevan (Arm),3,3,,,,0
+1627581600,Shkendija (Mkd),Riga FC (Lat),0,1,,,,0
+1627581600,Rijeka (Cro),Gzira (Mlt),1,0,,,,0
+1627581600,Puskas Academy (Hun),RFS (Lat),0,2,,,,0
+1627581600,Partizani (Alb),Basel (Sui),0,2,,,,0
+1627581600,Feyenoord (Ned),Drita (Kos),3,2,,,,0
+1627581600,Connahs Q. (Wal),Prishtina (Kos),4,2,,,,0
+1627581600,Borac Banja Luka (Bih),Linfield (Nir),0,0,,,,0
+1627581600,AEK Athens FC (Gre),Velez Mostar (Bih),1,0,Pen,1,1,0
+1627583400,Univ. Craiova (Rou),Laci (Alb),0,0,,,,0
+1627583400,Servette (Sui),Molde (Nor),2,0,,,,0
+1627583400,Aris (Gre),FC Astana (Kaz),2,0,AET,2,1,0
+1627584300,Maribor (Slo),Hammarby (Swe),0,1,,,,0
+1627584300,Dun. Streda (Svk),Partizan (Srb),0,2,,,,0
+1627584300,Bohemians (Irl),Dudelange (Lux),3,0,,,,0
+1627585200,Vllaznia (Alb),AEL Limassol (Cyp),0,1,,,,0
+1627585200,Osijek (Cro),Pogon Szczecin (Pol),1,0,,,,0
+1627588800,Santa Clara (Por),Shkupi (Mkd),2,0,,,,0
+1628016300,Linfield (Nir),Fola (Lux),1,2,,,,0
+1628016300,Bohemians (Irl),PAOK (Gre),2,1,,,,0
+1628179200,Tobol (Kaz),Zilina (Svk),0,1,,,,1
+1628179200,Sochi (Rus),Partizan (Srb),1,1,,,,0
+1628179200,Lok. Plovdiv (Bul),FC Copenhagen (Den),1,1,,,,0
+1628179200,KuPS (Fin),FC Astana (Kaz),1,1,,,,1
+1628181900,Elfsborg (Swe),Velez Mostar (Bih),1,1,,,,0
+1628182800,Vojvodina (Srb),LASK (Aut),0,1,,,,0
+1628182800,Vitesse (Ned),Dundalk (Irl),2,2,,,,0
+1628182800,Rosenborg (Nor),Domzale (Slo),6,1,,,,0
+1628182800,Riga FC (Lat),Hibernians (Mlt),0,1,,,,1
+1628182800,Maccabi Haifa (Isr),HB Torshavn (Fai),7,2,,,,0
+1628182800,Laci (Alb),Anderlecht (Bel),0,3,,,,1
+1628182800,Dinamo Batumi (Geo),Sivasspor (Tur),1,2,,,,0
+1628182800,CSKA Sofia (Bul),Osijek (Cro),4,2,,,,1
+1628182800,AEL Limassol (Cyp),Qarabag (Aze),1,1,,,,1
+1628184600,Trabzonspor (Tur),Molde (Nor),3,3,,,,0
+1628186400,Slask Wroclaw (Pol),H. Beer Sheva (Isr),2,1,,,,0
+1628186400,Prishtina (Kos),Bodo/Glimt (Nor),2,1,,,,0
+1628186400,Pacos Ferreira (Por),Larne (Nir),4,0,,,,0
+1628186400,Kolos Kovalivka (Ukr),Shakhter Karagandy (Kaz),0,0,,,,0
+1628187300,Trnava (Svk),Maccabi Tel Aviv (Isr),0,0,,,,0
+1628188200,Luzern (Sui),Feyenoord (Ned),0,3,,,,0
+1628188200,Gent (Bel),RFS (Lat),2,2,,,,0
+1628189100,TNS (Wal),Plzen (Cze),4,2,,,,1
+1628189100,Hibernian (Sco),Rijeka (Cro),1,1,,,,0
+1628190000,Ujpest (Hun),Basel (Sui),1,2,,,,0
+1628190000,Shamrock Rovers (Irl),Teuta (Alb),1,0,,,,0
+1628190000,Rakow (Pol),Rubin Kazan (Rus),0,0,,,,0
+1628190000,Cukaricki (Srb),Hammarby (Swe),3,1,,,,1
+1628190000,Breidablik (Ice),Aberdeen (Sco),2,3,,,,1
+1628195400,Santa Clara (Por),O. Ljubljana (Slo),2,0,,,,0
+1628604000,Shakhter Karagandy (Kaz),Kolos Kovalivka (Ukr),0,0,Pen,1,0,0
+1628618400,Domzale (Slo),Rosenborg (Nor),1,2,,,,1
+1628773200,FC Astana (Kaz),KuPS (Fin),3,4,,,,0
+1628784000,Rubin Kazan (Rus),Rakow (Pol),0,0,AET,0,1,0
+1628784000,Qarabag (Aze),AEL Limassol (Cyp),1,0,,,,1
+1628784000,Molde (Nor),Trabzonspor (Tur),1,1,Pen,1,2,0
+1628784000,Bodo/Glimt (Nor),Prishtina (Kos),2,0,,,,0
+1628786700,Zilina (Svk),Tobol (Kaz),5,0,,,,0
+1628786700,Hammarby (Swe),Cukaricki (Srb),5,1,,,,0
+1628787600,RFS (Lat),Gent (Bel),0,1,,,,1
+1628787600,Plzen (Cze),TNS (Wal),3,1,Pen,4,1,0
+1628787600,PAOK (Gre),Bohemians (Irl),2,0,,,,0
+1628787600,H. Beer Sheva (Isr),Slask Wroclaw (Pol),4,0,,,,1
+1628789400,Maccabi Tel Aviv (Isr),Trnava (Svk),1,0,,,,0
+1628789400,Fola (Lux),Linfield (Nir),2,1,,,,1
+1628789400,Basel (Sui),Ujpest (Hun),4,0,,,,0
+1628791200,Velez Mostar (Bih),Elfsborg (Swe),1,4,,,,1
+1628791200,Teuta (Alb),Shamrock Rovers (Irl),0,2,,,,1
+1628791200,Sivasspor (Tur),Dinamo Batumi (Geo),0,1,AET,1,1,0
+1628791200,Rijeka (Cro),Hibernian (Sco),4,1,,,,0
+1628791200,O. Ljubljana (Slo),Santa Clara (Por),0,1,,,,0
+1628791200,Hibernians (Mlt),Riga FC (Lat),1,2,AET,1,4,1
+1628791200,Feyenoord (Ned),Luzern (Sui),3,0,,,,0
+1628791200,FC Copenhagen (Den),Lok. Plovdiv (Bul),4,2,,,,0
+1628791200,Anderlecht (Bel),Laci (Alb),2,1,,,,0
+1628793000,Larne (Nir),Pacos Ferreira (Por),1,0,,,,0
+1628793900,HB Torshavn (Fai),Maccabi Haifa (Isr),1,0,,,,0
+1628793900,Aberdeen (Sco),Breidablik (Ice),2,1,,,,0
+1628794800,Partizan (Srb),Sochi (Rus),2,2,Pen,3,2,0
+1628794800,LASK (Aut),Vojvodina (Srb),6,1,,,,1
+1628794800,Dundalk (Irl),Vitesse (Ned),1,2,,,,1
+1628795700,Osijek (Cro),CSKA Sofia (Bul),1,1,,,,0
+1629378000,Shakhter Karagandy (Kaz),Maccabi Tel Aviv (Isr),1,2,,,,0
+1629388800,Rakow (Pol),Gent (Bel),1,0,,,,0
+1629388800,Qarabag (Aze),Aberdeen (Sco),1,0,,,,0
+1629388800,KuPS (Fin),Union Berlin (Ger),0,4,,,,0
+1629388800,Flora (Est),Shamrock Rovers (Irl),4,2,,,,0
+1629392400,Zalgiris (Ltu),Bodo/Glimt (Nor),2,2,,,,0
+1629392400,Riga FC (Lat),Lincoln Red Imps (Gib),1,1,,,,0
+1629392400,Plzen (Cze),CSKA Sofia (Bul),2,0,,,,0
+1629392400,Neftci Baku (Aze),Maccabi Haifa (Isr),3,3,,,,0
+1629392400,LASK (Aut),St Johnstone (Sco),1,1,,,,0
+1629392400,H. Beer Sheva (Isr),Anorthosis (Cyp),0,0,,,,0
+1629394200,Trabzonspor (Tur),AS Roma (Ita),1,2,,,,0
+1629394200,Fola (Lux),Kairat Almaty (Kaz),1,4,,,,0
+1629394200,Basel (Sui),Hammarby (Swe),3,1,,,,0
+1629396000,Sivasspor (Tur),FC Copenhagen (Den),1,2,,,,0
+1629396000,Rennes (Fra),Rosenborg (Nor),2,0,,,,0
+1629396000,PAOK (Gre),Rijeka (Cro),1,1,,,,0
+1629396000,Jablonec (Cze),Zilina (Svk),5,1,,,,0
+1629396000,Feyenoord (Ned),Elfsborg (Swe),5,0,,,,0
+1629396000,Anderlecht (Bel),Vitesse (Ned),3,3,,,,0
+1629397800,Pacos Ferreira (Por),Tottenham (Eng),1,0,,,,0
+1629405000,Santa Clara (Por),Partizan (Srb),2,1,,,,0
+1629986400,Kairat Almaty (Kaz),Fola (Lux),3,1,,,,0
+1629993600,Zilina (Svk),Jablonec (Cze),0,3,,,,0
+1629993600,Lincoln Red Imps (Gib),Riga FC (Lat),1,1,AET,3,1,0
+1629993600,Bodo/Glimt (Nor),Zalgiris (Ltu),1,0,,,,0
+1629997200,Vitesse (Ned),Anderlecht (Bel),2,1,,,,0
+1629997200,Rosenborg (Nor),Rennes (Fra),1,3,,,,0
+1629997200,Maccabi Haifa (Isr),Neftci Baku (Aze),4,0,,,,0
+1629997200,Hammarby (Swe),Basel (Sui),2,0,Pen,3,2,0
+1629997200,FC Copenhagen (Den),Sivasspor (Tur),5,0,,,,0
+1629997200,Elfsborg (Swe),Feyenoord (Ned),3,1,,,,0
+1629997200,CSKA Sofia (Bul),Plzen (Cze),2,0,AET,3,0,0
+1629997200,AS Roma (Ita),Trabzonspor (Tur),3,0,,,,0
+1629997200,Anorthosis (Cyp),H. Beer Sheva (Isr),3,1,,,,0
+1629999000,Maccabi Tel Aviv (Isr),Shakhter Karagandy (Kaz),2,0,,,,0
+1630000800,St Johnstone (Sco),LASK (Aut),0,2,,,,0
+1630000800,Rijeka (Cro),PAOK (Gre),0,2,,,,0
+1630000800,Gent (Bel),Rakow (Pol),3,0,,,,0
+1630001700,Union Berlin (Ger),KuPS (Fin),0,0,,,,0
+1630003500,Tottenham (Eng),Pacos Ferreira (Por),3,0,,,,0
+1630003500,Shamrock Rovers (Irl),Flora (Est),0,1,,,,0
+1630003500,Aberdeen (Sco),Qarabag (Aze),1,3,,,,0
+1630004400,Partizan (Srb),Santa Clara (Por),2,0,,,,0
+1631629800,Maccabi Tel Aviv,Alashkert,4,1,,,,0
+1631629800,Maccabi Haifa,Feyenoord,0,0,,,,0
+1631802600,Kairat Almaty,Omonia,0,0,,,,0
+1631810700,Slovan Bratislava,FC Copenhagen,1,3,,,,0
+1631810700,Slavia Prague,Union Berlin,3,1,,,,0
+1631810700,Rennes,Tottenham,2,2,,,,0
+1631810700,Qarabag,Basel,0,0,,,,0
+1631810700,Mura,Vitesse,0,2,,,,0
+1631810700,Lincoln Red Imps,PAOK,0,2,,,,0
+1631810700,HJK,LASK,0,2,,,,0
+1631810700,Flora,Gent,0,1,,,,0
+1631818800,Randers FC,AZ Alkmaar,2,2,,,,0
+1631818800,Jablonec,CFR Cluj,1,0,,,,0
+1631818800,Bodo/Glimt,FK Zorya Luhansk,3,1,,,,0
+1631818800,AS Roma,CSKA Sofia,5,1,,,,0
+1631818800,Anorthosis,Partizan,0,2,,,,0
+1633020300,Partizan,Flora,2,0,,,,0
+1633020300,LASK,Maccabi Tel Aviv,1,1,,,,0
+1633020300,Gent,Anorthosis,2,0,,,,0
+1633020300,FK Zorya Luhansk,AS Roma,0,3,,,,0
+1633020300,CSKA Sofia,Bodo/Glimt,0,0,,,,0
+1633020300,CFR Cluj,Randers FC,1,1,,,,0
+1633020300,AZ Alkmaar,Jablonec,1,0,,,,0
+1633020300,Alashkert,HJK,2,4,,,,0
+1633028400,Vitesse,Rennes,1,2,,,,0
+1633028400,Union Berlin,Maccabi Haifa,3,0,,,,0
+1633028400,Tottenham,Mura,5,1,,,,0
+1633028400,PAOK,Slovan Bratislava,1,1,,,,0
+1633028400,Omonia,Qarabag,1,4,,,,0
+1633028400,Feyenoord,Slavia Prague,2,1,,,,0
+1633028400,FC Copenhagen,Lincoln Red Imps,3,1,,,,0
+1633028400,Basel,Kairat Almaty,4,2,,,,0
+1634826600,HJK,Maccabi Tel Aviv,0,5,,,,0
+1634834700,Vitesse,Tottenham,1,0,,,,0
+1634834700,Qarabag,Kairat Almaty,2,1,,,,0
+1634834700,Mura,Rennes,1,2,,,,0
+1634834700,Maccabi Haifa,Slavia Prague,1,0,,,,0
+1634834700,Feyenoord,Union Berlin,3,1,,,,0
+1634834700,FC Copenhagen,PAOK,1,2,,,,0
+1634834700,Bodo/Glimt,AS Roma,6,1,,,,0
+1634834700,Anorthosis,Flora,2,2,,,,0
+1634834700,Alashkert,LASK,0,3,,,,0
+1634842800,Slovan Bratislava,Lincoln Red Imps,2,0,,,,0
+1634842800,Partizan,Gent,0,1,,,,0
+1634842800,Jablonec,Randers FC,2,2,,,,0
+1634842800,CSKA Sofia,FK Zorya Luhansk,0,1,,,,0
+1634842800,CFR Cluj,AZ Alkmaar,0,1,,,,0
+1634842800,Basel,Omonia,3,1,,,,0
+1636039800,Kairat Almaty,Qarabag,1,2,,,,0
+1636039800,Flora,Anorthosis,2,2,,,,0
+1636047900,Randers FC,Jablonec,2,2,,,,0
+1636047900,Omonia,Basel,1,1,,,,0
+1636047900,Maccabi Tel Aviv,HJK,3,0,,,,0
+1636047900,Lincoln Red Imps,Slovan Bratislava,1,4,,,,0
+1636047900,LASK,Alashkert,2,0,,,,0
+1636047900,Gent,Partizan,1,1,,,,0
+1636047900,FK Zorya Luhansk,CSKA Sofia,2,0,,,,0
+1636047900,AZ Alkmaar,CFR Cluj,2,0,,,,0
+1636056000,Union Berlin,Feyenoord,1,2,,,,0
+1636056000,Tottenham,Vitesse,3,2,,,,0
+1636056000,Slavia Prague,Maccabi Haifa,1,0,,,,0
+1636056000,Rennes,Mura,1,0,,,,0
+1636056000,PAOK,FC Copenhagen,1,2,,,,0
+1636056000,AS Roma,Bodo/Glimt,2,2,,,,0
+1637854200,Kairat Almaty,Basel,2,3,,,,0
+1637854200,Flora,Partizan,1,0,,,,0
+1637862300,Slovan Bratislava,PAOK,0,0,,,,0
+1637862300,Slavia Prague,Feyenoord,2,2,,,,0
+1637862300,Rennes,Vitesse,3,3,,,,0
+1637862300,Qarabag,Omonia,2,2,,,,0
+1637862300,Mura,Tottenham,2,1,,,,0
+1637862300,Maccabi Haifa,Union Berlin,0,1,,,,0
+1637862300,Lincoln Red Imps,FC Copenhagen,0,4,,,,0
+1637862300,HJK,Alashkert,1,0,,,,0
+1637870400,Randers FC,CFR Cluj,2,1,,,,0
+1637870400,Maccabi Tel Aviv,LASK,0,1,,,,0
+1637870400,Jablonec,AZ Alkmaar,1,1,,,,0
+1637870400,Bodo/Glimt,CSKA Sofia,2,0,,,,0
+1637870400,AS Roma,FK Zorya Luhansk,4,0,,,,0
+1637870400,Anorthosis,Gent,1,0,,,,0
+1639071900,Partizan,Anorthosis,1,1,,,,0
+1639071900,LASK,HJK,3,0,,,,0
+1639071900,Gent,Flora,1,0,,,,0
+1639071900,FK Zorya Luhansk,Bodo/Glimt,1,1,,,,0
+1639071900,CSKA Sofia,AS Roma,2,3,,,,0
+1639071900,CFR Cluj,Jablonec,2,0,,,,0
+1639071900,AZ Alkmaar,Randers FC,1,0,,,,0
+1639071900,Alashkert,Maccabi Tel Aviv,1,1,,,,0
+1639080000,Vitesse,Mura,3,1,,,,0
+1639080000,Union Berlin,Slavia Prague,1,1,,,,0
+1639080000,Tottenham,Rennes,0,3,Awrd,,,0
+1639080000,PAOK,Lincoln Red Imps,2,0,,,,0
+1639080000,Omonia,Kairat Almaty,0,0,,,,0
+1639080000,Feyenoord,Maccabi Haifa,2,1,,,,0
+1639080000,FC Copenhagen,Slovan Bratislava,2,0,,,,0
+1639080000,Basel,Qarabag,3,0,,,,0
+1645119900,SK Rapid,Vitesse,2,1,,,,0
+1645119900,PSV,Maccabi Tel Aviv,1,0,,,,0
+1645119900,Midtjylland,PAOK,1,0,,,,0
+1645119900,Fenerbahce,Slavia Prague,2,3,,,,0
+1645128000,Sparta Prague,Partizan,0,1,,,,0
+1645128000,Marseille,Qarabag,3,1,,,,0
+1645128000,Leicester,Randers FC,4,1,,,,0
+1645128000,Celtic,Bodo/Glimt,1,3,,,,0
+1645724700,Randers FC,Leicester,1,3,,,,0
+1645724700,Qarabag,Marseille,0,3,,,,0
+1645724700,Partizan,Sparta Prague,2,1,,,,0
+1645724700,Maccabi Tel Aviv,PSV,1,1,,,,0
+1645724700,Bodo/Glimt,Celtic,2,0,,,,0
+1645732800,Vitesse,SK Rapid,2,0,,,,0
+1645732800,Slavia Prague,Fenerbahce,3,2,,,,0
+1645732800,PAOK,Midtjylland,2,1,Pen,3,1,0
+1646934300,Vitesse,AS Roma,0,1,,,,0
+1646934300,Slavia Prague,LASK,4,1,,,,0
+1646934300,Partizan,Feyenoord,2,5,,,,0
+1646934300,PAOK,Gent,1,0,,,,0
+1646942400,PSV,FC Copenhagen,4,4,,,,0
+1646942400,Marseille,Basel,2,1,,,,0
+1646942400,Leicester,Rennes,2,0,,,,0
+1646942400,Bodo/Glimt,AZ Alkmaar,2,1,,,,0
+1647539100,Rennes,Leicester,2,1,,,,0
+1647539100,FC Copenhagen,PSV,0,4,,,,0
+1647539100,Basel,Marseille,1,2,,,,0
+1647539100,AZ Alkmaar,Bodo/Glimt,2,1,AET,2,2,0
+1647547200,LASK,Slavia Prague,4,3,,,,0
+1647547200,Gent,PAOK,1,2,,,,0
+1647547200,Feyenoord,Partizan,3,1,,,,0
+1647547200,AS Roma,Vitesse,1,1,,,,0
+1649349900,Feyenoord,Slavia Prague,3,3,,,,0
+1649358000,Marseille,PAOK,2,1,,,,0
+1649358000,Leicester,PSV,0,0,,,,0
+1649358000,Bodo/Glimt,AS Roma,2,1,,,,0
+1649954700,PSV,Leicester,1,2,,,,0
+1649962800,Slavia Prague,Feyenoord,1,3,,,,0
+1649962800,PAOK,Marseille,0,1,,,,0
+1649962800,AS Roma,Bodo/Glimt,4,0,,,,0
+1651172400,Leicester,AS Roma,1,1,,,,0
+1651172400,Feyenoord,Marseille,3,2,,,,0
+1651777200,Marseille,Feyenoord,0,0,,,,0
+1651777200,AS Roma,Leicester,1,0,,,,0
+1653505200,AS Roma,Feyenoord,1,0,,,,1

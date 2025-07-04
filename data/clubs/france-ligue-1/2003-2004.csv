@@ -1,0 +1,381 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1059763500,Lille,Lyon,1,0,,,,0
+1059837300,Monaco,Bordeaux,2,0,,,,0
+1059847200,Toulouse,Strasbourg,1,1,,,,0
+1059847200,Sochaux,Nantes,2,1,,,,0
+1059847200,PSG,Bastia,0,0,,,,0
+1059847200,Montpellier,Rennes,1,1,,,,0
+1059847200,Metz,AC Ajaccio,0,1,,,,0
+1059847200,Lens,Le Mans,0,0,,,,0
+1059847200,Guingamp,Marseille,0,1,,,,0
+1059847200,Auxerre,Nice,1,2,,,,0
+1060368300,Marseille,Auxerre,1,0,,,,0
+1060442100,Lille,PSG,1,0,,,,0
+1060452000,Strasbourg,Guingamp,2,0,,,,0
+1060452000,Rennes,Toulouse,1,0,,,,0
+1060452000,Nice,Sochaux,1,0,,,,0
+1060452000,Nantes,Lens,2,0,,,,0
+1060452000,Lyon,Monaco,3,1,,,,0
+1060452000,Le Mans,AC Ajaccio,0,1,,,,0
+1060452000,Bordeaux,Montpellier,0,1,,,,0
+1060452000,Bastia,Metz,0,2,,,,0
+1061046900,Auxerre,Strasbourg,3,2,,,,0
+1061056800,Toulouse,Lille,0,3,,,,0
+1061056800,Sochaux,Rennes,1,1,,,,0
+1061056800,Montpellier,Lyon,0,2,,,,0
+1061056800,Monaco,Bastia,2,0,,,,0
+1061056800,Metz,PSG,0,1,,,,0
+1061056800,Le Mans,Nice,1,1,,,,0
+1061056800,Guingamp,Bordeaux,1,3,,,,0
+1061056800,AC Ajaccio,Nantes,1,3,,,,0
+1061145900,Lens,Marseille,2,1,,,,0
+1061651700,Bordeaux,Auxerre,2,0,,,,0
+1061661600,Strasbourg,Lens,0,1,,,,0
+1061661600,Rennes,Guingamp,0,0,,,,0
+1061661600,Nice,AC Ajaccio,2,2,,,,0
+1061661600,Nantes,Le Mans,1,0,,,,0
+1061661600,Marseille,Sochaux,2,0,,,,0
+1061661600,Lyon,Toulouse,0,0,,,,0
+1061661600,Lille,Metz,1,1,,,,0
+1061661600,Bastia,Montpellier,1,0,,,,0
+1061750700,PSG,Monaco,2,4,,,,0
+1062256500,Guingamp,Lyon,2,0,,,,0
+1062266400,Toulouse,Bastia,0,2,,,,0
+1062266400,Sochaux,Lille,2,1,,,,0
+1062266400,Nantes,Bordeaux,0,0,,,,0
+1062266400,Montpellier,PSG,3,2,,,,0
+1062266400,Le Mans,Strasbourg,0,3,,,,0
+1062266400,Auxerre,Rennes,2,1,,,,0
+1062347400,Monaco,Metz,1,0,,,,0
+1062347400,Lens,Nice,1,0,,,,0
+1062355500,AC Ajaccio,Marseille,0,1,,,,0
+1063466100,Lyon,Auxerre,1,1,,,,0
+1063476000,Strasbourg,AC Ajaccio,3,2,,,,0
+1063476000,Rennes,Lens,2,0,,,,0
+1063476000,Nice,Nantes,1,0,,,,0
+1063476000,Metz,Montpellier,2,1,,,,0
+1063476000,Marseille,Le Mans,5,0,,,,0
+1063476000,Lille,Monaco,1,1,,,,0
+1063476000,Bordeaux,Sochaux,1,3,,,,0
+1063476000,Bastia,Guingamp,4,2,,,,0
+1063565100,PSG,Toulouse,2,1,,,,0
+1064070900,Sochaux,Strasbourg,3,0,,,,0
+1064080800,Toulouse,Metz,1,0,,,,0
+1064080800,Nice,Lille,2,0,,,,0
+1064080800,Lens,Bordeaux,1,0,,,,0
+1064080800,Guingamp,PSG,0,2,,,,0
+1064080800,Auxerre,Bastia,4,1,,,,0
+1064080800,AC Ajaccio,Rennes,1,0,,,,0
+1064161800,Montpellier,Monaco,1,2,,,,0
+1064161800,Le Mans,Lyon,0,2,,,,0
+1064169900,Nantes,Marseille,1,0,,,,0
+1064675700,Lyon,Lens,4,0,,,,0
+1064685600,Rennes,Le Mans,2,0,,,,0
+1064685600,PSG,Auxerre,1,0,,,,0
+1064685600,Monaco,Toulouse,3,0,,,,0
+1064685600,Metz,Guingamp,1,1,,,,0
+1064685600,Marseille,Nice,2,1,,,,0
+1064685600,Lille,Montpellier,1,1,,,,0
+1064685600,Bastia,Sochaux,2,0,,,,0
+1064764800,Bordeaux,AC Ajaccio,1,0,,,,0
+1064774700,Strasbourg,Nantes,1,0,,,,0
+1065280500,Nantes,Rennes,1,0,,,,0
+1065290400,Toulouse,Montpellier,2,2,,,,0
+1065290400,Sochaux,PSG,0,1,,,,0
+1065290400,Nice,Strasbourg,0,0,,,,0
+1065290400,Lens,Metz,0,2,,,,0
+1065290400,Le Mans,Bordeaux,0,0,,,,0
+1065290400,Guingamp,Monaco,1,2,,,,0
+1065290400,Auxerre,Lille,3,0,,,,0
+1065290400,AC Ajaccio,Lyon,2,4,,,,0
+1065379500,Marseille,Bastia,3,1,,,,0
+1066417200,Strasbourg,Marseille,4,1,,,,0
+1066491000,Monaco,Auxerre,1,1,,,,0
+1066500000,Rennes,Nice,0,0,,,,0
+1066500000,PSG,Le Mans,5,1,,,,0
+1066500000,Montpellier,Guingamp,2,0,,,,0
+1066500000,Metz,Nantes,1,3,,,,0
+1066500000,Lyon,Sochaux,1,1,,,,0
+1066500000,Lille,AC Ajaccio,0,0,,,,0
+1066500000,Bordeaux,Toulouse,1,2,,,,0
+1066500000,Bastia,Lens,3,1,,,,0
+1067094900,Nantes,Lyon,0,1,,,,0
+1067104800,Strasbourg,Metz,0,2,,,,0
+1067104800,Nice,Bordeaux,0,0,,,,0
+1067104800,Marseille,Rennes,2,0,,,,0
+1067104800,Lens,Lille,2,1,,,,0
+1067104800,Le Mans,Bastia,1,1,,,,0
+1067104800,Guingamp,Toulouse,1,0,,,,0
+1067104800,Auxerre,Montpellier,0,1,,,,0
+1067104800,AC Ajaccio,PSG,0,0,,,,0
+1067197500,Sochaux,Monaco,1,1,,,,0
+1067703300,Lyon,Nice,5,0,,,,0
+1067713200,Toulouse,Auxerre,0,3,,,,0
+1067713200,Rennes,Strasbourg,1,1,,,,0
+1067713200,Montpellier,Nantes,4,1,,,,0
+1067713200,Monaco,Le Mans,4,2,,,,0
+1067713200,Metz,Sochaux,0,1,,,,0
+1067713200,Lille,Guingamp,1,3,,,,0
+1067713200,Bordeaux,Marseille,1,0,,,,0
+1067713200,Bastia,AC Ajaccio,1,1,,,,0
+1067802300,PSG,Lens,0,1,,,,0
+1068308100,Nice,Bastia,2,0,,,,0
+1068318000,Rennes,Lille,2,2,,,,0
+1068318000,Nantes,PSG,0,1,,,,0
+1068318000,Le Mans,Metz,2,0,,,,0
+1068397200,Strasbourg,Bordeaux,1,1,,,,0
+1068397200,Sochaux,Toulouse,3,1,,,,0
+1068397200,Lens,Montpellier,3,2,,,,0
+1068397200,Auxerre,Guingamp,3,0,,,,0
+1068397200,AC Ajaccio,Monaco,0,1,,,,0
+1068408000,Marseille,Lyon,1,4,,,,0
+1069443000,Lyon,Strasbourg,1,0,,,,0
+1069517700,Monaco,Lens,2,0,,,,0
+1069527600,Toulouse,Le Mans,1,1,,,,0
+1069527600,Montpellier,AC Ajaccio,3,1,,,,0
+1069527600,Metz,Auxerre,0,2,,,,0
+1069527600,Lille,Marseille,0,2,,,,0
+1069527600,Guingamp,Sochaux,1,2,,,,0
+1069527600,Bordeaux,Rennes,2,1,,,,0
+1069527600,Bastia,Nantes,1,3,,,,0
+1069616700,PSG,Nice,0,0,,,,0
+1070122500,Rennes,Lyon,3,1,,,,0
+1070132400,Strasbourg,Lille,2,2,,,,0
+1070132400,Nice,Metz,1,1,,,,0
+1070132400,Nantes,Monaco,0,1,,,,0
+1070132400,Le Mans,Montpellier,4,0,,,,0
+1070132400,AC Ajaccio,Toulouse,2,1,,,,0
+1070211600,Bordeaux,Bastia,1,1,,,,0
+1070218800,Sochaux,Auxerre,3,2,,,,0
+1070218800,Lens,Guingamp,2,1,,,,0
+1070221500,Marseille,PSG,0,1,,,,0
+1070474400,Toulouse,Lens,1,2,,,,0
+1070474400,Lille,Nantes,2,0,,,,0
+1070474400,Guingamp,AC Ajaccio,2,0,,,,0
+1070474400,Bastia,Rennes,3,2,,,,0
+1070474400,Auxerre,Le Mans,1,0,,,,0
+1070481600,PSG,Strasbourg,3,2,,,,0
+1070647200,Lyon,Metz,2,1,,,,0
+1070654400,Marseille,Monaco,1,2,,,,0
+1070727300,Lens,Sochaux,0,3,,,,0
+1070737200,Strasbourg,Bastia,4,2,,,,0
+1070737200,Rennes,PSG,1,1,,,,0
+1070737200,Nantes,Toulouse,1,1,,,,0
+1070737200,Bordeaux,Lille,2,1,,,,0
+1070737200,AC Ajaccio,Auxerre,1,2,,,,0
+1070816400,Nice,Montpellier,2,1,,,,0
+1070818200,Le Mans,Guingamp,2,0,,,,0
+1071342000,Toulouse,Nice,1,1,,,,0
+1071342000,Sochaux,AC Ajaccio,2,0,,,,0
+1071342000,PSG,Bordeaux,2,1,,,,0
+1071342000,Metz,Rennes,1,1,,,,0
+1071342000,Lille,Le Mans,1,1,,,,0
+1071342000,Guingamp,Nantes,1,1,,,,0
+1071342000,Bastia,Lyon,0,0,,,,0
+1071342000,Auxerre,Lens,2,0,,,,0
+1071431100,Monaco,Strasbourg,2,0,,,,0
+1071864000,Lyon,PSG,1,1,,,,0
+1071936900,Marseille,Toulouse,1,0,,,,0
+1071946800,Strasbourg,Montpellier,4,2,,,,0
+1071946800,Rennes,Monaco,1,0,,,,0
+1071946800,Nice,Guingamp,2,0,,,,0
+1071946800,Nantes,Auxerre,1,0,,,,0
+1071946800,Le Mans,Sochaux,2,2,,,,0
+1071946800,Bordeaux,Metz,2,0,,,,0
+1071946800,Bastia,Lille,0,2,,,,0
+1071946800,AC Ajaccio,Lens,2,0,,,,0
+1073678400,Monaco,Lyon,3,0,,,,0
+1073751300,PSG,Lille,1,0,,,,0
+1073761200,Toulouse,Rennes,2,0,,,,0
+1073761200,Sochaux,Nice,0,0,,,,0
+1073761200,Montpellier,Bordeaux,1,2,,,,0
+1073761200,Metz,Bastia,1,0,,,,0
+1073761200,Lens,Nantes,0,0,,,,0
+1073761200,Guingamp,Strasbourg,3,2,,,,0
+1073761200,Auxerre,Marseille,2,0,,,,0
+1073761200,AC Ajaccio,Le Mans,2,0,,,,0
+1074356100,Bastia,Monaco,0,0,,,,0
+1074366000,Strasbourg,Auxerre,0,2,,,,0
+1074366000,Rennes,Sochaux,4,0,,,,0
+1074366000,PSG,Metz,0,0,,,,0
+1074366000,Nice,Le Mans,0,1,,,,0
+1074366000,Nantes,AC Ajaccio,4,0,,,,0
+1074366000,Lyon,Montpellier,3,0,,,,0
+1074366000,Lille,Toulouse,0,1,,,,0
+1074366000,Bordeaux,Guingamp,2,0,,,,0
+1074455100,Marseille,Lens,3,2,,,,0
+1074704400,Monaco,Nice,1,1,,,,0
+1074711600,Montpellier,Sochaux,1,3,,,,0
+1075230000,Metz,Marseille,1,1,,,,0
+1075320000,Lyon,Bordeaux,3,0,,,,0
+1075492800,Monaco,PSG,1,1,,,,0
+1075565700,Auxerre,Bordeaux,5,0,,,,0
+1075575600,Toulouse,Lyon,0,1,,,,0
+1075575600,Sochaux,Marseille,2,1,,,,0
+1075575600,Montpellier,Bastia,1,1,,,,0
+1075575600,Metz,Lille,0,1,,,,0
+1075575600,Lens,Strasbourg,2,1,,,,0
+1075575600,Le Mans,Nantes,0,1,,,,0
+1075575600,Guingamp,Rennes,0,2,,,,0
+1075575600,AC Ajaccio,Nice,1,1,,,,0
+1075921200,Montpellier,Marseille,0,1,,,,0
+1076097600,Bordeaux,Nantes,2,0,,,,0
+1076170500,Marseille,AC Ajaccio,2,1,,,,0
+1076180400,Strasbourg,Le Mans,3,0,,,,0
+1076180400,Rennes,Auxerre,0,2,,,,0
+1076180400,PSG,Montpellier,6,1,,,,0
+1076180400,Nice,Lens,4,0,,,,0
+1076180400,Metz,Monaco,0,2,,,,0
+1076180400,Lyon,Guingamp,0,1,,,,0
+1076180400,Lille,Sochaux,2,0,,,,0
+1076180400,Bastia,Toulouse,1,0,,,,0
+1076775300,Sochaux,Bordeaux,1,1,,,,0
+1076785200,Toulouse,PSG,0,1,,,,0
+1076785200,Nantes,Nice,3,1,,,,0
+1076785200,Montpellier,Metz,0,1,,,,0
+1076785200,Monaco,Lille,0,1,,,,0
+1076785200,Lens,Rennes,2,1,,,,0
+1076785200,Le Mans,Marseille,0,0,,,,0
+1076785200,Guingamp,Bastia,1,0,,,,0
+1076785200,AC Ajaccio,Strasbourg,0,0,,,,0
+1076874300,Auxerre,Lyon,1,2,,,,0
+1077303600,Monaco,Montpellier,4,0,,,,0
+1077380100,Lyon,Le Mans,2,0,,,,0
+1077390000,Strasbourg,Sochaux,0,2,,,,0
+1077390000,Rennes,AC Ajaccio,4,1,,,,0
+1077390000,PSG,Guingamp,2,0,,,,0
+1077390000,Metz,Toulouse,0,2,,,,0
+1077390000,Lille,Nice,1,2,,,,0
+1077390000,Bordeaux,Lens,0,0,,,,0
+1077390000,Bastia,Auxerre,0,0,,,,0
+1077479100,Marseille,Nantes,1,1,,,,0
+1077984900,Nantes,Strasbourg,1,1,,,,0
+1077994800,Toulouse,Monaco,1,1,,,,0
+1077994800,Montpellier,Lille,0,2,,,,0
+1077994800,Lens,Lyon,1,1,,,,0
+1077994800,Le Mans,Rennes,2,2,,,,0
+1077987600,Sochaux,Bastia,2,1,,,,0
+1077987600,Nice,Marseille,0,0,,,,0
+1077987600,AC Ajaccio,Bordeaux,1,0,,,,0
+1077998400,Auxerre,PSG,1,1,,,,0
+1078513200,Monaco,Guingamp,3,1,,,,0
+1078513200,Lyon,AC Ajaccio,4,0,,,,0
+1078589700,Lille,Auxerre,1,0,,,,0
+1078599600,Strasbourg,Nice,2,2,,,,0
+1078599600,Rennes,Nantes,0,3,,,,0
+1078599600,PSG,Sochaux,1,1,,,,0
+1078599600,Montpellier,Toulouse,0,1,,,,0
+1078599600,Metz,Lens,0,2,,,,0
+1078599600,Bordeaux,Le Mans,2,0,,,,0
+1078688700,Bastia,Marseille,4,1,,,,0
+1079194500,Le Mans,PSG,0,1,,,,0
+1079204400,Sochaux,Lyon,1,2,,,,0
+1079204400,Nice,Rennes,3,1,,,,0
+1079204400,Nantes,Metz,2,2,,,,0
+1079204400,Lens,Bastia,0,0,,,,0
+1079204400,Guingamp,Montpellier,4,3,,,,0
+1079204400,AC Ajaccio,Lille,0,3,,,,0
+1079283600,Toulouse,Bordeaux,1,0,,,,0
+1079283600,Marseille,Strasbourg,4,0,,,,0
+1079293500,Auxerre,Monaco,0,0,,,,0
+1079722800,Toulouse,Guingamp,0,0,,,,0
+1079799300,Lyon,Nantes,1,0,,,,0
+1079809200,PSG,AC Ajaccio,1,0,,,,0
+1079809200,Montpellier,Auxerre,1,0,,,,0
+1079809200,Monaco,Sochaux,1,1,,,,0
+1079809200,Metz,Strasbourg,1,0,,,,0
+1079809200,Lille,Lens,1,1,,,,0
+1079809200,Bordeaux,Nice,1,1,,,,0
+1079809200,Bastia,Le Mans,0,0,,,,0
+1079898300,Rennes,Marseille,4,3,,,,0
+1080404100,Sochaux,Metz,2,0,,,,0
+1080414000,Strasbourg,Rennes,0,3,,,,0
+1080414000,Nice,Lyon,0,1,,,,0
+1080414000,Nantes,Montpellier,3,2,,,,0
+1080414000,Le Mans,Monaco,0,1,,,,0
+1080414000,Guingamp,Lille,2,1,,,,0
+1080414000,AC Ajaccio,Bastia,1,0,,,,0
+1080491400,Marseille,Bordeaux,1,1,,,,0
+1080491400,Auxerre,Toulouse,3,2,,,,0
+1080499500,Lens,PSG,1,0,,,,0
+1080928800,Monaco,AC Ajaccio,3,3,,,,0
+1081005300,Lyon,Marseille,1,2,,,,0
+1081015200,Toulouse,Sochaux,0,0,,,,0
+1081015200,PSG,Nantes,3,2,,,,0
+1081015200,Montpellier,Lens,1,0,,,,0
+1081015200,Metz,Le Mans,5,0,,,,0
+1081015200,Lille,Rennes,1,0,,,,0
+1081015200,Bordeaux,Strasbourg,1,1,,,,0
+1081015200,Bastia,Nice,2,1,,,,0
+1081104300,Guingamp,Auxerre,2,2,,,,0
+1081610100,Lens,Monaco,0,0,,,,0
+1081620000,Sochaux,Guingamp,2,0,,,,0
+1081620000,Nice,PSG,1,2,,,,0
+1081620000,Nantes,Bastia,1,1,,,,0
+1081620000,Le Mans,Toulouse,2,1,,,,0
+1081620000,Auxerre,Metz,2,1,,,,0
+1081620000,AC Ajaccio,Montpellier,0,0,,,,0
+1081709100,Strasbourg,Lyon,0,1,,,,0
+1082138400,Guingamp,Metz,1,1,,,,0
+1082304000,Rennes,Bordeaux,3,1,,,,0
+1082304000,Marseille,Lille,2,1,,,,0
+1082819700,Monaco,Nantes,0,1,,,,0
+1082829600,Toulouse,AC Ajaccio,3,1,,,,0
+1082829600,Montpellier,Le Mans,0,3,,,,0
+1082829600,Metz,Nice,1,0,,,,0
+1082829600,Lyon,Rennes,3,0,,,,0
+1082829600,Lille,Strasbourg,0,1,,,,0
+1082829600,Guingamp,Lens,1,0,,,,0
+1082829600,Bastia,Bordeaux,0,2,,,,0
+1082829600,Auxerre,Sochaux,2,1,,,,0
+1082909700,PSG,Marseille,2,1,,,,0
+1083349800,Nice,Monaco,1,2,,,,0
+1083424500,Marseille,Metz,0,1,,,,0
+1083434400,Strasbourg,PSG,0,0,,,,0
+1083434400,Sochaux,Montpellier,3,1,,,,0
+1083434400,Rennes,Bastia,4,0,,,,0
+1083434400,Nantes,Lille,2,0,,,,0
+1083434400,Lens,Toulouse,1,1,,,,0
+1083434400,Le Mans,Auxerre,2,1,,,,0
+1083434400,AC Ajaccio,Guingamp,0,0,,,,0
+1083523500,Bordeaux,Lyon,1,1,,,,0
+1084029300,PSG,Rennes,1,0,,,,0
+1084039200,Toulouse,Nantes,0,1,,,,0
+1084039200,Sochaux,Lens,0,3,,,,0
+1084039200,Montpellier,Nice,2,2,,,,0
+1084039200,Metz,Lyon,1,2,,,,0
+1084039200,Lille,Bordeaux,2,1,,,,0
+1084039200,Guingamp,Le Mans,2,4,,,,0
+1084039200,Bastia,Strasbourg,0,0,,,,0
+1084039200,Auxerre,AC Ajaccio,1,1,,,,0
+1084128300,Monaco,Marseille,1,0,,,,0
+1084292100,Lens,Auxerre,1,3,,,,0
+1084301100,Bordeaux,PSG,3,0,,,,0
+1084386600,Strasbourg,Monaco,0,0,,,,0
+1084386600,Rennes,Metz,0,0,,,,0
+1084386600,Nice,Toulouse,1,1,,,,0
+1084386600,Nantes,Guingamp,0,0,,,,0
+1084386600,Marseille,Montpellier,1,1,,,,0
+1084386600,Lyon,Bastia,1,0,,,,0
+1084386600,Le Mans,Lille,1,1,,,,0
+1084386600,AC Ajaccio,Sochaux,1,0,,,,0
+1084644000,Toulouse,Marseille,2,1,,,,0
+1084644000,Sochaux,Le Mans,3,0,,,,0
+1084644000,PSG,Lyon,1,0,,,,0
+1084644000,Montpellier,Strasbourg,1,2,,,,0
+1084644000,Monaco,Rennes,1,4,,,,0
+1084644000,Metz,Bordeaux,3,1,,,,0
+1084644000,Lille,Bastia,2,0,,,,0
+1084644000,Lens,AC Ajaccio,2,0,,,,0
+1084644000,Guingamp,Nice,1,2,,,,0
+1084644000,Auxerre,Nantes,2,0,,,,0
+1085162400,Bordeaux,Monaco,1,3,,,,0
+1085335200,Strasbourg,Toulouse,0,0,,,,0
+1085335200,Rennes,Montpellier,4,0,,,,0
+1085335200,Nice,Auxerre,1,1,,,,0
+1085335200,Nantes,Sochaux,3,1,,,,0
+1085335200,Marseille,Guingamp,2,1,,,,0
+1085335200,Lyon,Lille,3,0,,,,0
+1085335200,Le Mans,Lens,3,0,,,,0
+1085335200,Bastia,PSG,0,1,,,,0
+1085335200,AC Ajaccio,Metz,3,1,,,,0

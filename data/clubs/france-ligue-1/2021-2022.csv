@@ -1,0 +1,385 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1628276400,Monaco,Nantes,1,1,,,,0
+1628348400,Lyon,Brest,1,1,,,,0
+1628362800,Troyes,PSG,1,2,,,,0
+1628420400,Rennes,Lens,1,1,,,,0
+1628427600,Strasbourg,Angers,0,2,,,,0
+1628427600,St Etienne,Lorient,1,1,,,,0
+1628427600,Nice,Reims,0,0,,,,0
+1628427600,Bordeaux,Clermont,0,2,,,,0
+1628434800,Metz,Lille,3,3,,,,0
+1628448300,Montpellier,Marseille,2,3,,,,0
+1628881200,Lorient,Monaco,1,0,,,,0
+1628953200,Lille,Nice,0,4,,,,0
+1628967600,PSG,Strasbourg,4,2,,,,0
+1629025200,Angers,Lyon,3,0,,,,0
+1629032400,Reims,Montpellier,3,3,,,,0
+1629032400,Nantes,Metz,2,0,,,,0
+1629032400,Clermont,Troyes,2,0,,,,0
+1629032400,Brest,Rennes,1,1,,,,0
+1629039600,Lens,St Etienne,2,2,,,,0
+1629053100,Marseille,Bordeaux,2,2,,,,0
+1629486000,Brest,PSG,2,4,,,,0
+1629558000,Monaco,Lens,0,2,,,,0
+1629572400,St Etienne,Lille,1,1,,,,0
+1629630000,Lyon,Clermont,3,3,,,,0
+1629637200,Strasbourg,Troyes,1,1,,,,0
+1629637200,Montpellier,Lorient,3,1,,,,0
+1629637200,Metz,Reims,1,1,,,,0
+1629637200,Bordeaux,Angers,1,1,,,,0
+1629644400,Rennes,Nantes,1,0,,,,0
+1630090800,Nantes,Lyon,0,1,,,,0
+1630162800,Nice,Bordeaux,4,0,,,,0
+1630177200,Marseille,St Etienne,3,1,,,,0
+1630234800,Troyes,Monaco,1,2,,,,0
+1630242000,Strasbourg,Brest,3,1,,,,0
+1630242000,Lens,Lorient,2,2,,,,0
+1630242000,Clermont,Metz,2,2,,,,0
+1630242000,Angers,Rennes,2,0,,,,0
+1630249200,Lille,Montpellier,2,1,,,,0
+1630262700,Reims,PSG,0,2,,,,0
+1631300400,Lorient,Lille,2,1,,,,0
+1631372400,PSG,Clermont,4,0,,,,0
+1631386800,Monaco,Marseille,0,2,,,,0
+1631444400,Montpellier,St Etienne,2,0,,,,0
+1631451600,Rennes,Reims,0,2,,,,0
+1631451600,Metz,Troyes,0,2,,,,0
+1631451600,Brest,Angers,1,1,,,,0
+1631451600,Bordeaux,Lens,2,3,,,,0
+1631458800,Nantes,Nice,0,2,,,,0
+1631472300,Lyon,Strasbourg,3,1,,,,0
+1631905200,Strasbourg,Metz,3,0,,,,0
+1631977200,Lens,Lille,1,0,,,,0
+1631991600,St Etienne,Bordeaux,1,2,,,,0
+1632049200,Nice,Monaco,2,2,,,,0
+1632056400,Troyes,Montpellier,1,1,,,,0
+1632056400,Reims,Lorient,0,0,,,,0
+1632056400,Clermont,Brest,1,1,,,,0
+1632056400,Angers,Nantes,1,4,,,,0
+1632063600,Marseille,Rennes,2,0,,,,0
+1632077100,PSG,Lyon,2,1,,,,0
+1632330000,Rennes,Clermont,6,0,,,,0
+1632330000,Nantes,Brest,3,1,,,,0
+1632330000,Montpellier,Bordeaux,3,3,,,,0
+1632330000,Monaco,St Etienne,3,1,,,,0
+1632330000,Lille,Reims,2,1,,,,0
+1632337200,Metz,PSG,1,2,,,,0
+1632337200,Lyon,Troyes,3,1,,,,0
+1632337200,Lorient,Nice,1,0,,,,0
+1632337200,Lens,Strasbourg,0,1,,,,0
+1632337200,Angers,Marseille,0,0,,,,0
+1632582000,St Etienne,Nice,0,3,,,,0
+1632589200,Strasbourg,Lille,1,2,,,,0
+1632596400,PSG,Montpellier,2,0,,,,0
+1632596400,Lyon,Lorient,1,1,,,,0
+1632654000,Bordeaux,Rennes,1,1,,,,0
+1632661200,Troyes,Angers,1,1,,,,0
+1632661200,Reims,Nantes,3,1,,,,0
+1632661200,Brest,Metz,1,2,,,,0
+1632668400,Clermont,Monaco,1,3,,,,0
+1632681900,Marseille,Lens,2,3,,,,0
+1633114800,Lens,Reims,2,0,,,,0
+1633186800,Montpellier,Strasbourg,1,1,,,,0
+1633201200,Nice,Brest,2,1,,,,0
+1633258800,Rennes,PSG,2,0,,,,0
+1633266000,Nantes,Troyes,2,0,,,,0
+1633266000,Monaco,Bordeaux,3,0,,,,0
+1633266000,Lorient,Clermont,1,1,,,,0
+1633266000,Angers,Metz,3,2,,,,0
+1633273200,Lille,Marseille,2,0,,,,0
+1633286700,St Etienne,Lyon,1,1,,,,0
+1634324400,PSG,Angers,2,1,,,,0
+1634396400,Clermont,Lille,1,0,,,,0
+1634410800,Lyon,Monaco,2,0,,,,0
+1634468400,Troyes,Nice,1,0,,,,0
+1634475600,Strasbourg,St Etienne,5,1,,,,0
+1634475600,Metz,Rennes,0,3,,,,0
+1634475600,Brest,Reims,1,1,,,,0
+1634475600,Bordeaux,Nantes,1,1,,,,0
+1634482800,Montpellier,Lens,1,0,,,,0
+1634496300,Marseille,Lorient,4,1,,,,0
+1634929200,St Etienne,Angers,2,2,,,,0
+1635001200,Nantes,Clermont,2,1,,,,0
+1635015600,Lille,Brest,1,1,,,,0
+1635073200,Nice,Lyon,3,2,,,,0
+1635080400,Rennes,Strasbourg,1,0,,,,0
+1635080400,Reims,Troyes,1,2,,,,0
+1635080400,Lorient,Bordeaux,1,1,,,,0
+1635080400,Lens,Metz,4,1,,,,0
+1635087600,Monaco,Montpellier,3,1,,,,0
+1635101100,Marseille,PSG,0,0,,,,0
+1635361200,Nice,Marseille,1,1,,,,1
+1635534000,PSG,Lille,2,1,,,,0
+1635606000,Metz,St Etienne,1,1,,,,0
+1635620400,Lyon,Lens,2,1,,,,0
+1635681600,Angers,Nice,1,2,,,,0
+1635688800,Troyes,Rennes,2,2,,,,0
+1635688800,Strasbourg,Lorient,4,0,,,,0
+1635688800,Montpellier,Nantes,2,0,,,,0
+1635688800,Bordeaux,Reims,3,2,,,,0
+1635696000,Brest,Monaco,2,0,,,,0
+1635709500,Clermont,Marseille,0,1,,,,0
+1636142400,Lens,Troyes,4,0,,,,0
+1636214400,Lille,Angers,1,1,,,,0
+1636228800,Bordeaux,PSG,2,3,,,,0
+1636286400,Marseille,Metz,0,0,,,,0
+1636293600,St Etienne,Clermont,3,2,,,,0
+1636293600,Reims,Monaco,0,0,,,,0
+1636293600,Nantes,Strasbourg,2,2,,,,0
+1636293600,Lorient,Brest,1,2,,,,0
+1636300800,Nice,Montpellier,0,1,,,,0
+1636314300,Rennes,Lyon,4,1,,,,0
+1637352000,Monaco,Lille,2,2,,,,0
+1637424000,PSG,Nantes,3,1,,,,0
+1637438400,Rennes,Montpellier,2,0,,,,0
+1637496000,Brest,Lens,4,0,,,,0
+1637503200,Troyes,St Etienne,0,1,,,,0
+1637503200,Strasbourg,Reims,1,1,,,,0
+1637503200,Metz,Bordeaux,3,3,,,,0
+1637503200,Angers,Lorient,1,0,,,,0
+1637510400,Clermont,Nice,1,2,,,,0
+1637956800,Lens,Angers,2,2,,,,0
+1638028800,Lille,Nantes,1,1,,,,0
+1638043200,Nice,Metz,0,1,,,,0
+1638100800,St Etienne,PSG,1,3,,,,0
+1638108000,Reims,Clermont,1,0,,,,0
+1638108000,Monaco,Strasbourg,1,1,,,,0
+1638108000,Lorient,Rennes,0,2,,,,0
+1638108000,Bordeaux,Brest,1,2,,,,0
+1638115200,Montpellier,Lyon,0,1,,,,0
+1638128700,Marseille,Troyes,1,0,,,,0
+1638381600,Troyes,Lorient,2,0,,,,0
+1638381600,Strasbourg,Bordeaux,5,2,,,,0
+1638381600,Metz,Montpellier,1,3,,,,0
+1638381600,Brest,St Etienne,1,0,,,,0
+1638381600,Angers,Monaco,1,3,,,,0
+1638388800,Rennes,Lille,1,2,,,,0
+1638388800,PSG,Nice,0,0,,,,0
+1638388800,Nantes,Marseille,0,1,,,,0
+1638388800,Lyon,Reims,1,2,,,,0
+1638388800,Clermont,Lens,2,2,,,,0
+1638633600,Marseille,Brest,1,2,,,,0
+1638640800,Lille,Troyes,2,1,,,,0
+1638648000,Lens,PSG,1,1,,,,0
+1638705600,St Etienne,Rennes,0,5,,,,0
+1638712800,Reims,Angers,1,2,,,,0
+1638712800,Montpellier,Clermont,1,0,,,,0
+1638712800,Monaco,Metz,4,0,,,,0
+1638712800,Lorient,Nantes,0,1,,,,0
+1638720000,Nice,Strasbourg,0,3,,,,0
+1638733500,Bordeaux,Lyon,2,2,,,,0
+1639166400,Nantes,Lens,3,2,,,,0
+1639238400,Brest,Montpellier,0,4,,,,0
+1639252800,Reims,St Etienne,2,0,,,,0
+1639310400,Lille,Lyon,0,0,,,,0
+1639317600,Troyes,Bordeaux,1,2,,,,0
+1639317600,Rennes,Nice,1,2,,,,0
+1639317600,Metz,Lorient,4,1,,,,0
+1639317600,Angers,Clermont,0,1,,,,0
+1639324800,Strasbourg,Marseille,0,2,,,,0
+1639338300,PSG,Monaco,2,0,,,,0
+1640203200,Troyes,Brest,1,1,,,,0
+1640203200,St Etienne,Nantes,0,1,,,,0
+1640203200,Nice,Lens,2,1,,,,0
+1640203200,Montpellier,Angers,4,1,,,,0
+1640203200,Monaco,Rennes,2,1,,,,0
+1640203200,Marseille,Reims,1,1,,,,0
+1640203200,Lyon,Metz,1,1,,,,0
+1640203200,Lorient,PSG,1,1,,,,0
+1640203200,Bordeaux,Lille,2,3,,,,0
+1641585600,Bordeaux,Marseille,0,1,,,,0
+1641672000,Lens,Rennes,1,0,,,,0
+1641729600,Brest,Nice,0,3,,,,0
+1641736800,Metz,Strasbourg,0,2,,,,0
+1641736800,Clermont,Reims,0,0,,,,0
+1641744000,Nantes,Monaco,0,0,,,,0
+1641757500,Lyon,PSG,1,1,,,,0
+1642190400,Nice,Nantes,2,1,,,,0
+1642262400,St Etienne,Lens,1,2,,,,0
+1642276800,PSG,Brest,2,0,,,,0
+1642334400,Rennes,Bordeaux,6,0,,,,0
+1642341600,Strasbourg,Montpellier,3,1,,,,0
+1642341600,Reims,Metz,0,1,,,,0
+1642341600,Monaco,Clermont,4,0,,,,0
+1642341600,Lorient,Angers,0,0,,,,0
+1642349100,Troyes,Lyon,0,1,,,,0
+1642362300,Marseille,Lille,1,1,,,,0
+1642615200,Montpellier,Troyes,0,1,,,,0
+1642615200,Lille,Lorient,3,1,,,,0
+1642615200,Clermont,Strasbourg,0,2,,,,0
+1642795200,Lyon,St Etienne,1,0,,,,0
+1642867200,Brest,Lille,2,0,,,,0
+1642881600,Lens,Marseille,0,2,,,,0
+1642939200,Metz,Nice,0,2,,,,0
+1642946400,Nantes,Lorient,4,2,,,,0
+1642946400,Clermont,Rennes,2,1,,,,0
+1642946400,Bordeaux,Strasbourg,4,3,,,,0
+1642946400,Angers,Troyes,2,1,,,,0
+1642953900,Montpellier,Monaco,3,2,,,,0
+1642967100,PSG,Reims,4,0,,,,0
+1643220000,Angers,St Etienne,0,1,,,,0
+1643745600,Lyon,Marseille,2,1,,,,0
+1644004800,Marseille,Angers,5,2,,,,0
+1644076800,St Etienne,Montpellier,3,1,,,,0
+1644091200,Monaco,Lyon,2,0,,,,0
+1644148800,Lorient,Lens,2,0,,,,0
+1644156000,Troyes,Metz,0,0,,,,0
+1644156000,Strasbourg,Nantes,1,0,,,,0
+1644156000,Reims,Bordeaux,5,0,,,,0
+1644156000,Nice,Clermont,0,1,,,,0
+1644163200,Rennes,Brest,2,0,,,,0
+1644176700,Lille,PSG,1,5,,,,0
+1644609600,PSG,Rennes,1,0,,,,0
+1644681600,Montpellier,Lille,0,1,,,,0
+1644696000,Lyon,Nice,2,0,,,,0
+1644753600,Monaco,Lorient,0,0,,,,0
+1644760800,Nantes,Reims,1,0,,,,0
+1644760800,Clermont,St Etienne,1,2,,,,0
+1644760800,Brest,Troyes,5,1,,,,0
+1644760800,Angers,Strasbourg,0,1,,,,0
+1644768300,Lens,Bordeaux,3,2,,,,0
+1644781500,Metz,Marseille,1,2,,,,0
+1645214400,Lille,Metz,0,0,,,,0
+1645286400,Lens,Lyon,1,1,,,,0
+1645300800,Nantes,PSG,3,1,,,,0
+1645358400,Nice,Angers,1,0,,,,0
+1645365600,St Etienne,Strasbourg,2,2,,,,0
+1645365600,Rennes,Troyes,4,1,,,,0
+1645365600,Reims,Brest,1,1,,,,0
+1645365600,Lorient,Montpellier,0,1,,,,0
+1645373100,Bordeaux,Monaco,1,1,,,,0
+1645386300,Marseille,Clermont,0,2,,,,0
+1645819200,Montpellier,Rennes,2,4,,,,0
+1645891200,Strasbourg,Nice,0,0,,,,0
+1645905600,PSG,St Etienne,3,1,,,,0
+1645963200,Monaco,Reims,1,2,,,,0
+1645970400,Metz,Nantes,0,0,,,,0
+1645970400,Clermont,Bordeaux,1,1,,,,0
+1645970400,Brest,Lorient,0,1,,,,0
+1645970400,Angers,Lens,1,2,,,,0
+1645977900,Troyes,Marseille,1,1,,,,0
+1645991100,Lyon,Lille,0,1,,,,0
+1646424000,Lorient,Lyon,1,4,,,,0
+1646496000,Lens,Brest,0,1,,,,0
+1646510400,Nice,PSG,1,0,,,,0
+1646568000,St Etienne,Metz,1,0,,,,0
+1646575200,Rennes,Angers,2,0,,,,0
+1646575200,Reims,Strasbourg,1,1,,,,0
+1646575200,Nantes,Montpellier,2,0,,,,0
+1646575200,Bordeaux,Troyes,0,2,,,,0
+1646582700,Lille,Clermont,4,0,,,,0
+1646595900,Marseille,Monaco,0,1,,,,0
+1647028800,Lille,St Etienne,0,0,,,,0
+1647100800,Montpellier,Nice,0,0,,,,0
+1647115200,Troyes,Nantes,1,0,,,,0
+1647172800,PSG,Bordeaux,3,0,,,,0
+1647180000,Strasbourg,Monaco,1,0,,,,0
+1647180000,Metz,Lens,0,0,,,,0
+1647180000,Clermont,Lorient,0,2,,,,0
+1647180000,Angers,Reims,0,1,,,,0
+1647187500,Lyon,Rennes,2,4,,,,0
+1647200700,Brest,Marseille,1,4,,,,0
+1647633600,St Etienne,Troyes,1,1,,,,0
+1647705600,Lens,Clermont,3,1,,,,0
+1647720000,Nantes,Lille,0,1,,,,0
+1647777600,Monaco,PSG,3,0,,,,0
+1647784800,Rennes,Metz,6,1,,,,0
+1647784800,Lorient,Strasbourg,0,0,,,,0
+1647784800,Bordeaux,Montpellier,0,2,,,,0
+1647784800,Angers,Brest,1,0,,,,0
+1647792300,Reims,Lyon,0,0,,,,0
+1647805500,Marseille,Nice,2,1,,,,0
+1648911600,Nice,Rennes,1,1,,,,0
+1648918800,Lille,Bordeaux,0,0,,,,0
+1648983600,Strasbourg,Lens,1,0,,,,0
+1648990800,Troyes,Reims,1,0,,,,0
+1648990800,St Etienne,Marseille,2,4,,,,0
+1648990800,Montpellier,Brest,1,2,,,,0
+1648990800,Metz,Monaco,1,2,,,,0
+1648990800,Clermont,Nantes,2,3,,,,0
+1648998300,Lyon,Angers,3,2,,,,0
+1649011500,PSG,Lorient,5,1,,,,0
+1649444400,Lorient,St Etienne,6,2,,,,0
+1649516400,Reims,Rennes,2,3,,,,0
+1649530800,Clermont,PSG,1,6,,,,0
+1649588400,Bordeaux,Metz,3,1,,,,0
+1649595600,Monaco,Troyes,2,1,,,,0
+1649595600,Brest,Nantes,1,1,,,,0
+1649595600,Angers,Lille,1,1,,,,0
+1649603100,Lens,Nice,3,0,,,,0
+1649610000,Strasbourg,Lyon,1,1,,,,0
+1649617200,Marseille,Montpellier,2,0,,,,0
+1650049200,Rennes,Monaco,2,3,,,,0
+1650121200,St Etienne,Brest,2,1,,,,0
+1650135600,Lille,Lens,1,2,,,,0
+1650193200,Nice,Lorient,2,1,,,,0
+1650200400,Troyes,Strasbourg,1,1,,,,0
+1650200400,Nantes,Angers,1,1,,,,0
+1650200400,Montpellier,Reims,0,0,,,,0
+1650200400,Metz,Clermont,1,1,,,,0
+1650207900,Lyon,Bordeaux,6,1,,,,0
+1650221100,PSG,Marseille,2,1,,,,0
+1650474000,Troyes,Clermont,0,1,,,,0
+1650474000,Reims,Lille,2,1,,,,0
+1650474000,Monaco,Nice,1,0,,,,0
+1650474000,Lorient,Metz,1,0,,,,0
+1650474000,Bordeaux,St Etienne,2,2,,,,0
+1650481200,Strasbourg,Rennes,2,1,,,,0
+1650481200,Marseille,Nantes,3,2,,,,0
+1650481200,Lens,Montpellier,2,0,,,,0
+1650481200,Brest,Lyon,2,1,,,,0
+1650481200,Angers,PSG,0,3,,,,0
+1650726000,Lyon,Montpellier,5,2,,,,0
+1650733200,St Etienne,Monaco,1,4,,,,0
+1650740400,PSG,Lens,1,1,,,,0
+1650798000,Rennes,Lorient,5,0,,,,0
+1650805200,Nice,Troyes,1,0,,,,0
+1650805200,Nantes,Bordeaux,5,3,,,,0
+1650805200,Metz,Brest,0,1,,,,0
+1650805200,Clermont,Angers,2,2,,,,0
+1650812700,Lille,Strasbourg,1,0,,,,0
+1650825900,Reims,Marseille,0,1,,,,0
+1651258800,Strasbourg,PSG,3,3,,,,0
+1651330800,Lens,Nantes,2,2,,,,0
+1651345200,Rennes,St Etienne,2,0,,,,0
+1651402800,Troyes,Lille,3,0,,,,0
+1651410000,Montpellier,Metz,2,2,,,,0
+1651410000,Monaco,Angers,2,0,,,,0
+1651410000,Lorient,Reims,1,2,,,,0
+1651410000,Brest,Clermont,2,0,,,,0
+1651417500,Bordeaux,Nice,0,1,,,,0
+1651430700,Marseille,Lyon,0,3,,,,0
+1651863600,Lille,Monaco,1,2,,,,0
+1651935600,Brest,Strasbourg,0,1,,,,0
+1652007600,Metz,Lyon,3,2,,,,0
+1652014800,Reims,Lens,1,2,,,,0
+1652014800,Clermont,Montpellier,2,1,,,,0
+1652014800,Angers,Bordeaux,4,1,,,,0
+1652022300,Lorient,Marseille,0,3,,,,0
+1652035500,PSG,Troyes,2,2,,,,0
+1652288400,Nice,St Etienne,4,2,,,,0
+1652295600,Nantes,Rennes,2,1,,,,0
+1652554800,Troyes,Lens,1,3,,,,0
+1652554800,Strasbourg,Clermont,1,0,,,,0
+1652554800,St Etienne,Reims,1,2,,,,0
+1652554800,Rennes,Marseille,2,0,,,,0
+1652554800,Nice,Lille,1,3,,,,0
+1652554800,Montpellier,PSG,0,4,,,,0
+1652554800,Monaco,Brest,4,2,,,,0
+1652554800,Metz,Angers,1,0,,,,0
+1652554800,Lyon,Nantes,3,2,,,,0
+1652554800,Bordeaux,Lorient,0,0,,,,0
+1652812200,Paris FC,Sochaux,1,2,,,,0
+1653071400,Auxerre,Sochaux,0,0,Pen,1,0,0
+1653159600,Reims,Nice,2,3,,,,0
+1653159600,PSG,Metz,5,0,,,,0
+1653159600,Nantes,St Etienne,1,1,,,,0
+1653159600,Marseille,Strasbourg,4,0,,,,0
+1653159600,Lorient,Troyes,1,1,,,,0
+1653159600,Lille,Rennes,2,2,,,,0
+1653159600,Lens,Monaco,2,2,,,,0
+1653159600,Clermont,Lyon,1,2,,,,0
+1653159600,Brest,Bordeaux,2,4,,,,0
+1653159600,Angers,Montpellier,2,0,,,,0
+1653584400,Auxerre,St Etienne,1,1,,,,0
+1653843600,St Etienne,Auxerre,1,1,Pen,1,2,0

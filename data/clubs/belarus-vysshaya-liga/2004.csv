@@ -1,0 +1,242 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1081980000,Zhodino,Partizan Minsk,3,0,,,,0
+1081980000,Vitebsk,Torpedo Minsk,0,1,,,,0
+1081980000,Slavia Mozyr,Darida,3,1,,,,0
+1081980000,Shakhtyor Soligorsk,Neman,0,0,,,,0
+1081980000,Energetik-BGU,FC Gomel,3,3,,,,0
+1081980000,Dnepr Mogilev,Dynamo Brest,0,0,,,,0
+1081980000,Belshina,Din. Minsk,1,3,,,,0
+1081980000,BATE,Naftan,1,1,,,,0
+1082325600,Torpedo Minsk,Belshina,3,0,,,,0
+1082325600,Partizan Minsk,Energetik-BGU,0,0,,,,0
+1082325600,Neman,BATE,1,1,,,,0
+1082325600,Naftan,Vitebsk,0,3,,,,0
+1082325600,FC Gomel,Shakhtyor Soligorsk,1,0,,,,0
+1082325600,Dynamo Brest,Slavia Mozyr,0,1,,,,0
+1082325600,Dnepr Mogilev,Zhodino,0,1,,,,0
+1082325600,Din. Minsk,Darida,2,2,,,,0
+1082800800,Zhodino,Dynamo Brest,2,1,,,,0
+1082800800,Slavia Mozyr,Din. Minsk,1,3,,,,0
+1082800800,Shakhtyor Soligorsk,Partizan Minsk,3,3,,,,0
+1082800800,Neman,Vitebsk,1,1,,,,0
+1082800800,Energetik-BGU,Dnepr Mogilev,2,0,,,,0
+1082800800,Darida,Torpedo Minsk,0,1,,,,0
+1082800800,Belshina,Naftan,0,0,,,,0
+1082800800,BATE,FC Gomel,3,1,,,,0
+1083405600,Zhodino,Energetik-BGU,5,2,,,,0
+1083405600,Torpedo Minsk,Slavia Mozyr,1,0,,,,0
+1083405600,Partizan Minsk,BATE,0,3,,,,0
+1083405600,Neman,Belshina,1,1,,,,0
+1083405600,Naftan,Darida,1,2,,,,0
+1083405600,FC Gomel,Vitebsk,2,0,,,,0
+1083405600,Dynamo Brest,Din. Minsk,0,3,,,,0
+1083405600,Dnepr Mogilev,Shakhtyor Soligorsk,1,1,,,,0
+1083848400,Vitebsk,Partizan Minsk,2,2,,,,0
+1083852000,Energetik-BGU,Dynamo Brest,1,1,,,,0
+1083853800,Shakhtyor Soligorsk,Zhodino,2,1,,,,0
+1083855600,Slavia Mozyr,Naftan,2,0,,,,0
+1083855600,Din. Minsk,Torpedo Minsk,0,1,,,,0
+1083855600,Darida,Neman,1,0,,,,0
+1083855600,Belshina,FC Gomel,1,4,,,,0
+1083855600,BATE,Dnepr Mogilev,1,0,,,,0
+1084269600,Zhodino,BATE,0,2,,,,0
+1084269600,Partizan Minsk,Belshina,2,1,,,,0
+1084269600,Neman,Slavia Mozyr,1,0,,,,0
+1084269600,Naftan,Din. Minsk,1,3,,,,0
+1084269600,FC Gomel,Darida,1,1,,,,0
+1084269600,Dynamo Brest,Torpedo Minsk,3,1,,,,0
+1084269600,Dnepr Mogilev,Vitebsk,1,0,,,,0
+1084284000,Energetik-BGU,Shakhtyor Soligorsk,0,0,,,,0
+1084978800,Din. Minsk,Neman,1,0,,,,0
+1084978800,BATE,Energetik-BGU,2,3,,,,0
+1085061600,Torpedo Minsk,Naftan,2,1,,,,0
+1085063400,Shakhtyor Soligorsk,Dynamo Brest,5,2,,,,0
+1085065200,Vitebsk,Zhodino,0,0,,,,0
+1085065200,Darida,Partizan Minsk,2,0,,,,0
+1085065200,Belshina,Dnepr Mogilev,0,1,,,,0
+1085067000,Slavia Mozyr,FC Gomel,1,0,,,,0
+1086530400,Partizan Minsk,Slavia Mozyr,1,4,,,,0
+1086534000,Zhodino,Belshina,3,0,,,,0
+1086534000,Dnepr Mogilev,Darida,0,1,,,,0
+1086618600,Shakhtyor Soligorsk,BATE,5,1,,,,0
+1086620400,Neman,Torpedo Minsk,2,2,,,,0
+1086620400,Energetik-BGU,Vitebsk,1,4,,,,0
+1086620400,Dynamo Brest,Naftan,3,0,,,,0
+1086622200,FC Gomel,Din. Minsk,2,0,,,,0
+1086966000,Darida,Zhodino,1,2,,,,0
+1087045200,Vitebsk,Shakhtyor Soligorsk,0,3,,,,0
+1087045200,BATE,Dynamo Brest,2,1,,,,0
+1087047000,Din. Minsk,Partizan Minsk,1,0,,,,0
+1087048800,Naftan,Neman,3,1,,,,0
+1087048800,Belshina,Energetik-BGU,4,1,,,,0
+1087052400,Torpedo Minsk,FC Gomel,2,4,,,,0
+1087052400,Slavia Mozyr,Dnepr Mogilev,2,0,,,,0
+1087392600,Partizan Minsk,Torpedo Minsk,0,3,,,,0
+1087394400,Energetik-BGU,Darida,1,1,,,,0
+1087396200,Shakhtyor Soligorsk,Belshina,2,0,,,,0
+1087396200,BATE,Vitebsk,3,2,,,,0
+1087398000,Zhodino,Slavia Mozyr,3,1,,,,0
+1087398000,Dynamo Brest,Neman,2,0,,,,0
+1087398000,Dnepr Mogilev,Din. Minsk,0,1,,,,0
+1087399800,FC Gomel,Naftan,2,2,,,,0
+1087984800,Zhodino,Din. Minsk,0,1,,,,0
+1087999200,Belshina,BATE,0,5,,,,0
+1088001000,Vitebsk,Dynamo Brest,2,3,,,,0
+1088002800,Torpedo Minsk,Dnepr Mogilev,5,1,,,,0
+1088002800,Slavia Mozyr,Energetik-BGU,0,0,,,,0
+1088002800,Naftan,Partizan Minsk,2,2,,,,0
+1088004600,Neman,FC Gomel,4,1,,,,0
+1088089200,Darida,Shakhtyor Soligorsk,2,2,,,,0
+1088521200,Partizan Minsk,Neman,0,2,,,,0
+1088604000,Energetik-BGU,Din. Minsk,0,3,,,,0
+1088605800,Vitebsk,Belshina,2,1,,,,0
+1088605800,Shakhtyor Soligorsk,Slavia Mozyr,2,1,,,,0
+1088607600,Dynamo Brest,FC Gomel,0,1,,,,0
+1088607600,Dnepr Mogilev,Naftan,0,3,,,,0
+1088607600,BATE,Darida,4,1,,,,0
+1088611200,Zhodino,Torpedo Minsk,1,0,,,,0
+1089036000,Energetik-BGU,Torpedo Minsk,1,0,,,,0
+1089039600,Slavia Mozyr,BATE,0,1,,,,0
+1089039600,Naftan,Zhodino,2,3,,,,0
+1089039600,Darida,Vitebsk,0,3,,,,0
+1089039600,Belshina,Dynamo Brest,0,0,,,,0
+1089041400,Neman,Dnepr Mogilev,2,1,,,,0
+1089041400,FC Gomel,Partizan Minsk,2,1,,,,0
+1089212400,Din. Minsk,Shakhtyor Soligorsk,1,0,,,,0
+1089367200,Zhodino,Neman,1,0,,,,0
+1089367200,Vitebsk,Slavia Mozyr,2,1,,,,0
+1089367200,Energetik-BGU,Naftan,2,4,,,,0
+1089367200,Dynamo Brest,Partizan Minsk,4,0,,,,0
+1089367200,Belshina,Darida,2,2,,,,0
+1089388800,Dnepr Mogilev,FC Gomel,1,2,,,,0
+1089556200,Shakhtyor Soligorsk,Torpedo Minsk,0,0,,,,0
+1090072800,Neman,Energetik-BGU,2,0,,,,0
+1090072800,Darida,Dynamo Brest,0,1,,,,0
+1090076400,Slavia Mozyr,Belshina,2,1,,,,0
+1090076400,Partizan Minsk,Dnepr Mogilev,0,1,,,,0
+1090144800,Torpedo Minsk,BATE,0,3,,,,0
+1090144800,Naftan,Shakhtyor Soligorsk,0,1,,,,0
+1090422000,Din. Minsk,Vitebsk,2,1,,,,0
+1090767600,FC Gomel,Zhodino,3,0,,,,0
+1091372400,Partizan Minsk,Zhodino,0,5,,,,0
+1091372400,FC Gomel,Energetik-BGU,0,0,,,,0
+1091372400,Dynamo Brest,Dnepr Mogilev,3,1,,,,0
+1091376000,Din. Minsk,Belshina,5,0,,,,0
+1091460600,Torpedo Minsk,Vitebsk,2,1,,,,0
+1091462400,Darida,Slavia Mozyr,3,0,,,,0
+1091545200,Neman,Shakhtyor Soligorsk,1,2,,,,0
+1091545200,Naftan,BATE,0,2,,,,0
+1091887200,Energetik-BGU,Partizan Minsk,3,0,,,,0
+1091890800,Zhodino,Dnepr Mogilev,3,0,,,,0
+1091890800,Slavia Mozyr,Dynamo Brest,1,0,,,,0
+1091890800,Darida,Din. Minsk,0,4,,,,0
+1091890800,Belshina,Torpedo Minsk,0,1,,,,0
+1091975400,Shakhtyor Soligorsk,FC Gomel,2,1,,,,0
+1091977200,Vitebsk,Naftan,1,0,,,,0
+1091977200,BATE,Neman,1,0,,,,0
+1092322800,BATE,Din. Minsk,1,1,,,,0
+1093183200,FC Gomel,BATE,0,1,,,,0
+1093183200,Dynamo Brest,Zhodino,2,2,,,,0
+1093185000,Torpedo Minsk,Darida,1,0,,,,0
+1093186800,Vitebsk,Neman,1,2,,,,0
+1093186800,Partizan Minsk,Shakhtyor Soligorsk,1,4,,,,0
+1093186800,Naftan,Belshina,3,0,,,,0
+1093186800,Dnepr Mogilev,Energetik-BGU,2,1,,,,0
+1093186800,Din. Minsk,Slavia Mozyr,4,2,,,,0
+1093528800,Energetik-BGU,Zhodino,0,2,,,,0
+1093530600,Shakhtyor Soligorsk,Dnepr Mogilev,1,0,,,,0
+1093530600,Darida,Naftan,1,3,,,,0
+1093530600,Belshina,Neman,0,3,,,,0
+1093530600,BATE,Partizan Minsk,3,0,,,,0
+1093532400,Vitebsk,FC Gomel,0,1,,,,0
+1093532400,Slavia Mozyr,Torpedo Minsk,2,2,,,,0
+1093532400,Din. Minsk,Dynamo Brest,3,0,,,,0
+1093874400,Zhodino,Shakhtyor Soligorsk,1,2,,,,0
+1093874400,Torpedo Minsk,Din. Minsk,2,0,,,,0
+1093874400,FC Gomel,Belshina,4,1,,,,0
+1093874400,Dynamo Brest,Energetik-BGU,2,2,,,,0
+1093876200,Neman,Darida,2,2,,,,0
+1093876200,Naftan,Slavia Mozyr,3,1,,,,0
+1093876200,Dnepr Mogilev,BATE,0,1,,,,0
+1093878000,Partizan Minsk,Vitebsk,6,0,,,,0
+1094994000,BATE,Zhodino,2,1,,,,0
+1094995800,Torpedo Minsk,Dynamo Brest,2,3,,,,0
+1094995800,Shakhtyor Soligorsk,Energetik-BGU,1,0,,,,0
+1094995800,Darida,FC Gomel,1,1,,,,0
+1094997600,Vitebsk,Dnepr Mogilev,0,1,,,,0
+1094997600,Slavia Mozyr,Neman,1,3,,,,0
+1094997600,Belshina,Partizan Minsk,1,2,,,,0
+1095001200,Din. Minsk,Naftan,6,1,,,,0
+1095343200,Partizan Minsk,Darida,2,0,,,,0
+1095426000,Naftan,Torpedo Minsk,2,2,,,,0
+1095426000,FC Gomel,Slavia Mozyr,2,1,,,,0
+1095426000,Energetik-BGU,BATE,0,2,,,,0
+1095429600,Zhodino,Vitebsk,4,1,,,,0
+1095429600,Neman,Din. Minsk,0,2,,,,0
+1095429600,Dynamo Brest,Shakhtyor Soligorsk,0,0,,,,0
+1095429600,Dnepr Mogilev,Belshina,2,0,,,,0
+1095771600,Torpedo Minsk,Neman,1,2,,,,0
+1095771600,Naftan,Dynamo Brest,3,1,,,,0
+1095771600,Belshina,Zhodino,0,1,,,,0
+1095771600,BATE,Shakhtyor Soligorsk,0,1,,,,0
+1095773400,Slavia Mozyr,Partizan Minsk,1,1,,,,0
+1095773400,Darida,Dnepr Mogilev,1,1,,,,0
+1095778800,Vitebsk,Energetik-BGU,2,1,,,,0
+1095778800,Din. Minsk,FC Gomel,1,0,,,,0
+1096462800,Zhodino,Darida,2,0,,,,0
+1096462800,Partizan Minsk,Din. Minsk,0,0,,,,0
+1096462800,FC Gomel,Torpedo Minsk,0,0,,,,0
+1096462800,Dynamo Brest,BATE,1,1,,,,0
+1096464600,Shakhtyor Soligorsk,Vitebsk,4,1,,,,0
+1096466400,Neman,Naftan,0,2,,,,0
+1096466400,Dnepr Mogilev,Slavia Mozyr,3,1,,,,0
+1096552800,Energetik-BGU,Belshina,2,1,,,,0
+1096806600,Torpedo Minsk,Partizan Minsk,0,0,,,,0
+1096808400,Slavia Mozyr,Zhodino,0,2,,,,0
+1096808400,Neman,Dynamo Brest,0,1,,,,0
+1096808400,Naftan,FC Gomel,1,0,,,,0
+1096812000,Vitebsk,BATE,0,1,,,,0
+1096815600,Din. Minsk,Dnepr Mogilev,2,1,,,,0
+1096893000,Darida,Energetik-BGU,3,1,,,,0
+1096894800,Belshina,Shakhtyor Soligorsk,1,2,,,,0
+1097928000,Energetik-BGU,Slavia Mozyr,2,0,,,,0
+1098014400,FC Gomel,Neman,1,0,,,,0
+1098014400,Dynamo Brest,Vitebsk,0,1,,,,0
+1098014400,BATE,Belshina,2,1,,,,0
+1098016200,Shakhtyor Soligorsk,Darida,4,1,,,,0
+1098018000,Partizan Minsk,Naftan,2,1,,,,0
+1098021600,Dnepr Mogilev,Torpedo Minsk,1,0,,,,0
+1098025200,Din. Minsk,Zhodino,2,1,,,,0
+1098360000,Torpedo Minsk,Zhodino,1,0,,,,0
+1098360000,Slavia Mozyr,Shakhtyor Soligorsk,0,5,,,,0
+1098360000,Neman,Partizan Minsk,0,0,,,,0
+1098360000,Naftan,Dnepr Mogilev,0,2,,,,0
+1098360000,FC Gomel,Dynamo Brest,1,1,,,,0
+1098360000,Darida,BATE,2,3,,,,0
+1098360000,Belshina,Vitebsk,2,1,,,,0
+1098370800,Din. Minsk,Energetik-BGU,4,0,,,,0
+1098705600,Zhodino,Naftan,3,1,,,,0
+1098705600,Vitebsk,Darida,1,3,,,,0
+1098705600,Torpedo Minsk,Energetik-BGU,0,1,,,,0
+1098705600,Shakhtyor Soligorsk,Din. Minsk,0,1,,,,0
+1098705600,Partizan Minsk,FC Gomel,5,2,,,,0
+1098705600,Dynamo Brest,Belshina,2,2,,,,0
+1098705600,BATE,Slavia Mozyr,4,0,,,,0
+1098709200,Dnepr Mogilev,Neman,3,2,,,,0
+1099229400,Torpedo Minsk,Shakhtyor Soligorsk,0,0,,,,0
+1099229400,Slavia Mozyr,Vitebsk,3,1,,,,0
+1099229400,Partizan Minsk,Dynamo Brest,1,2,,,,0
+1099229400,Neman,Zhodino,2,1,,,,0
+1099229400,Naftan,Energetik-BGU,5,1,,,,0
+1099229400,FC Gomel,Dnepr Mogilev,0,4,,,,0
+1099229400,Din. Minsk,BATE,2,0,,,,0
+1099229400,Darida,Belshina,1,0,,,,0
+1099832400,Zhodino,FC Gomel,4,0,,,,0
+1099832400,Vitebsk,Din. Minsk,1,3,,,,0
+1099832400,Shakhtyor Soligorsk,Naftan,1,0,,,,0
+1099832400,Energetik-BGU,Neman,0,3,,,,0
+1099832400,Dynamo Brest,Darida,0,3,,,,0
+1099832400,Dnepr Mogilev,Partizan Minsk,1,1,,,,0
+1099832400,Belshina,Slavia Mozyr,0,0,,,,0
+1099832400,BATE,Torpedo Minsk,3,1,,,,0
+1100178000,Vitebsk,Partizan Minsk,1,4,,,,0
