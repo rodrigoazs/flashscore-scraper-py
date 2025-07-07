@@ -1,0 +1,233 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1614402000,Jeonbuk,Seoul,2,0,,,,0
+1614411000,Daegu,Suwon FC,1,1,,,,0
+1614488400,Pohang,Incheon,2,1,,,,0
+1614497400,Suwon Bluewings,Gwangju FC,1,0,,,,0
+1614574800,Ulsan HD,Gangwon,5,0,,,,0
+1614583800,Seongnam,Jeju SK,0,0,,,,0
+1615006800,Jeju SK,Jeonbuk,1,1,,,,0
+1615015800,Incheon,Daegu,2,1,,,,0
+1615015800,Gwangju FC,Ulsan HD,0,1,,,,0
+1615024800,Gangwon,Pohang,1,3,,,,0
+1615093200,Suwon Bluewings,Seongnam,1,0,,,,0
+1615102200,Seoul,Suwon FC,3,0,,,,0
+1615284000,Ulsan HD,Incheon,3,1,,,,0
+1615284000,Jeonbuk,Gangwon,2,1,,,,0
+1615285800,Jeju SK,Pohang,1,0,,,,0
+1615370400,Seongnam,Seoul,1,0,,,,0
+1615370400,Daegu,Gwangju FC,1,4,,,,0
+1615372200,Suwon FC,Suwon Bluewings,0,0,,,,0
+1615611600,Gwangju FC,Jeonbuk,0,2,,,,0
+1615611600,Daegu,Jeju SK,1,1,,,,0
+1615620600,Pohang,Ulsan HD,1,1,,,,0
+1615629600,Incheon,Seoul,0,1,,,,0
+1615698000,Suwon FC,Seongnam,1,2,,,,0
+1615707000,Suwon Bluewings,Gangwon,1,1,,,,0
+1615888800,Jeonbuk,Daegu,3,2,,,,0
+1615890600,Ulsan HD,Jeju SK,0,0,,,,0
+1615975200,Pohang,Suwon Bluewings,0,3,,,,0
+1615975200,Gangwon,Seongnam,0,0,,,,0
+1615977000,Seoul,Gwangju FC,2,1,,,,0
+1615977000,Incheon,Suwon FC,4,1,,,,0
+1616216400,Jeju SK,Gwangju FC,1,1,,,,0
+1616225400,Jeonbuk,Suwon FC,1,1,,,,0
+1616302800,Seongnam,Pohang,2,1,,,,0
+1616302800,Gangwon,Incheon,2,0,,,,0
+1616311800,Suwon Bluewings,Seoul,1,2,,,,0
+1616320800,Daegu,Ulsan HD,2,1,,,,0
+1617359400,Pohang,Daegu,0,0,,,,0
+1617426000,Suwon Bluewings,Jeonbuk,1,3,,,,0
+1617435000,Seongnam,Ulsan HD,0,1,,,,0
+1617444000,Seoul,Gangwon,0,1,,,,0
+1617512400,Suwon FC,Jeju SK,2,1,,,,0
+1617521400,Gwangju FC,Incheon,2,1,,,,0
+1617703200,Pohang,Jeonbuk,1,3,,,,0
+1617705000,Daegu,Seongnam,0,0,,,,0
+1617789600,Ulsan HD,Seoul,3,2,,,,0
+1617791400,Jeju SK,Gangwon,1,1,,,,0
+1617791400,Incheon,Suwon Bluewings,0,0,,,,0
+1617791400,Gwangju FC,Suwon FC,2,0,,,,0
+1618030800,Gangwon,Daegu,3,0,,,,0
+1618039800,Seoul,Pohang,1,2,,,,0
+1618048800,Seongnam,Gwangju FC,2,0,,,,0
+1618124400,Jeju SK,Suwon Bluewings,2,1,,,,0
+1618126200,Suwon FC,Ulsan HD,0,1,,,,0
+1618135200,Jeonbuk,Incheon,5,0,,,,0
+1618635600,Suwon FC,Gangwon,2,1,,,,0
+1618644600,Seoul,Daegu,0,1,,,,0
+1618644600,Incheon,Jeju SK,0,3,,,,0
+1618653600,Gwangju FC,Pohang,0,1,,,,0
+1618722000,Suwon Bluewings,Ulsan HD,3,0,,,,0
+1618731000,Jeonbuk,Seongnam,1,0,,,,0
+1618912800,Gangwon,Gwangju FC,0,1,,,,0
+1618914600,Pohang,Suwon FC,1,0,,,,0
+1618999200,Ulsan HD,Jeonbuk,0,0,,,,0
+1619001000,Seongnam,Incheon,1,3,,,,0
+1619001000,Jeju SK,Seoul,2,1,,,,0
+1619001000,Daegu,Suwon Bluewings,1,0,,,,0
+1619240400,Pohang,Jeju SK,0,0,,,,0
+1619249400,Gwangju FC,Daegu,0,1,,,,0
+1619258400,Gangwon,Jeonbuk,1,1,,,,0
+1619326800,Incheon,Ulsan HD,0,0,,,,0
+1619335800,Suwon FC,Seoul,1,1,,,,0
+1619344800,Seongnam,Suwon Bluewings,0,1,,,,0
+1619778600,Seoul,Seongnam,2,2,,,,0
+1619845200,Suwon FC,Daegu,2,4,,,,0
+1619854200,Suwon Bluewings,Pohang,1,1,,,,0
+1619863200,Ulsan HD,Gwangju FC,2,0,,,,0
+1619931600,Jeonbuk,Jeju SK,1,1,,,,0
+1619940600,Incheon,Gangwon,1,0,,,,0
+1620450000,Jeju SK,Suwon FC,1,3,,,,0
+1620450000,Daegu,Incheon,3,0,,,,0
+1620459000,Pohang,Gangwon,1,1,,,,0
+1620545400,Jeonbuk,Suwon Bluewings,1,3,,,,0
+1620729000,Suwon FC,Gwangju FC,2,1,,,,0
+1620729000,Incheon,Pohang,1,1,,,,0
+1620813600,Suwon Bluewings,Jeju SK,3,2,,,,0
+1620815400,Gangwon,Ulsan HD,2,2,,,,0
+1621063800,Gangwon,Suwon FC,0,0,,,,0
+1621072800,Incheon,Gwangju FC,2,1,,,,0
+1621141200,Jeju SK,Daegu,1,2,,,,0
+1621150200,Ulsan HD,Suwon Bluewings,1,1,,,,0
+1621333800,Suwon FC,Pohang,3,4,,,,0
+1621409400,Gwangju FC,Jeju SK,0,0,,,,0
+1621418400,Suwon Bluewings,Daegu,1,1,,,,0
+1621418400,Jeonbuk,Ulsan HD,2,4,,,,0
+1621593000,Suwon FC,Incheon,2,2,,,,0
+1621659600,Jeju SK,Seongnam,2,2,,,,0
+1621662000,Ulsan HD,Pohang,1,0,,,,0
+1621755000,Gwangju FC,Suwon Bluewings,3,4,,,,0
+1621764000,Gangwon,Seoul,0,0,,,,0
+1621764000,Daegu,Jeonbuk,1,0,,,,0
+1622264400,Incheon,Jeonbuk,1,1,,,,0
+1622273400,Jeju SK,Ulsan HD,1,2,,,,0
+1622282400,Seoul,Suwon Bluewings,0,3,,,,0
+1622282400,Seongnam,Suwon FC,2,3,,,,0
+1622359800,Daegu,Gangwon,1,0,,,,0
+1622368800,Pohang,Gwangju FC,1,0,,,,0
+1622962800,Seongnam,Jeonbuk,1,5,,,,0
+1622964600,Daegu,Seoul,1,1,,,,0
+1624087800,Gwangju FC,Seoul,1,1,,,,0
+1624172400,Ulsan HD,Seongnam,2,2,,,,0
+1624690800,Seongnam,Gangwon,1,2,,,,0
+1626258600,Seoul,Incheon,0,1,,,,0
+1626777000,Suwon Bluewings,Suwon FC,1,2,,,,0
+1626865200,Gwangju FC,Gangwon,3,1,,,,0
+1627036200,Suwon Bluewings,Incheon,1,2,,,,0
+1627120800,Pohang,Seoul,0,1,,,,0
+1627207200,Ulsan HD,Suwon FC,2,5,,,,0
+1627210800,Gangwon,Jeju SK,2,2,,,,0
+1627729200,Seoul,Ulsan HD,0,0,,,,0
+1627729200,Jeju SK,Incheon,1,4,,,,0
+1627815600,Gwangju FC,Seongnam,0,0,,,,0
+1627815600,Gangwon,Suwon Bluewings,3,0,,,,0
+1627815600,Daegu,Pohang,1,1,,,,0
+1628071200,Ulsan HD,Daegu,2,1,,,,0
+1628073000,Suwon FC,Jeonbuk,1,0,,,,0
+1628073000,Pohang,Seongnam,1,0,,,,0
+1628330400,Jeonbuk,Daegu,2,1,,,,0
+1628334000,Ulsan HD,Gangwon,2,1,,,,0
+1628334000,Suwon Bluewings,Jeju SK,0,0,,,,0
+1628334000,Seongnam,Pohang,1,0,,,,0
+1628420400,Seoul,Gwangju FC,1,0,,,,0
+1628420400,Incheon,Suwon FC,0,0,,,,0
+1628676000,Jeonbuk,Gwangju FC,3,0,,,,0
+1628931600,Gangwon,Daegu,2,0,,,,0
+1628937000,Jeju SK,Ulsan HD,2,2,,,,0
+1628938800,Suwon Bluewings,Seongnam,1,2,,,,0
+1629018000,Jeonbuk,Seoul,3,2,,,,0
+1629021600,Pohang,Suwon FC,3,1,,,,0
+1629025200,Gwangju FC,Incheon,1,0,,,,0
+1629280800,Incheon,Seongnam,1,0,,,,0
+1629282600,Seoul,Jeju SK,0,1,,,,0
+1629455400,Daegu,Gwangju FC,1,2,,,,0
+1629540000,Seongnam,Jeonbuk,0,0,,,,0
+1629543600,Suwon FC,Jeju SK,1,0,,,,0
+1629622800,Seoul,Pohang,2,2,,,,0
+1629628200,Ulsan HD,Suwon Bluewings,3,1,,,,0
+1629799200,Gwangju FC,Seongnam,2,0,,,,0
+1629885600,Jeonbuk,Pohang,2,0,,,,0
+1629887400,Seoul,Ulsan HD,1,2,,,,0
+1629887400,Incheon,Daegu,2,0,,,,0
+1629889200,Suwon Bluewings,Suwon FC,0,3,,,,0
+1630141200,Pohang,Suwon Bluewings,0,0,,,,0
+1630144800,Jeonbuk,Suwon FC,2,2,,,,0
+1630144800,Daegu,Seongnam,3,1,,,,0
+1630227600,Ulsan HD,Incheon,3,2,,,,0
+1630231200,Jeju SK,Seoul,1,0,,,,0
+1630490400,Jeonbuk,Pohang,0,1,,,,0
+1630749600,Seongnam,Daegu,0,0,,,,0
+1630836000,Seoul,Jeonbuk,3,4,,,,0
+1631269800,Ulsan HD,Jeonbuk,0,0,,,,0
+1631269800,Pohang,Daegu,1,2,,,,0
+1631345400,Incheon,Jeju SK,1,2,,,,0
+1631354400,Suwon Bluewings,Gwangju FC,2,2,,,,0
+1631431800,Seongnam,Seoul,1,1,,,,0
+1631440800,Suwon FC,Gangwon,1,0,,,,0
+1631942400,Jeonbuk,Suwon Bluewings,1,0,,,,0
+1631950200,Gwangju FC,Jeju SK,0,3,Awrd,,,0
+1631959200,Daegu,Ulsan HD,2,1,,,,0
+1632027600,Incheon,Seongnam,0,1,,,,0
+1632036600,Seoul,Suwon FC,2,1,,,,0
+1632200400,Suwon Bluewings,Gangwon,3,2,,,,0
+1632209400,Gwangju FC,Jeonbuk,1,2,,,,0
+1632218400,Pohang,Ulsan HD,1,2,,,,0
+1632286800,Jeju SK,Daegu,0,1,,,,0
+1632295800,Suwon FC,Seongnam,3,1,,,,0
+1632304800,Seoul,Incheon,0,0,,,,0
+1632546000,Pohang,Jeju SK,2,4,,,,0
+1632555000,Ulsan HD,Gwangju FC,1,0,,,,0
+1632564000,Jeonbuk,Incheon,2,0,,,,0
+1632564000,Daegu,Suwon FC,0,0,,,,0
+1632636000,Suwon Bluewings,Seoul,0,2,,,,0
+1632641400,Seongnam,Gangwon,2,0,,,,0
+1632909600,Gangwon,Pohang,1,0,,,,0
+1633150800,Gangwon,Jeonbuk,0,1,,,,0
+1633159800,Suwon FC,Ulsan HD,0,3,,,,0
+1633168800,Incheon,Suwon Bluewings,0,1,,,,0
+1633237200,Jeju SK,Seongnam,2,1,,,,0
+1633246200,Gwangju FC,Pohang,2,3,,,,0
+1633255200,Seoul,Daegu,1,1,,,,0
+1633514400,Incheon,Gangwon,0,1,,,,0
+1633842000,Gangwon,Jeju SK,2,2,,,,0
+1634446800,Gangwon,Gwangju FC,2,1,,,,0
+1635055200,Suwon FC,Gwangju FC,1,3,,,,0
+1635055200,Seongnam,Ulsan HD,2,1,,,,0
+1635055200,Pohang,Incheon,0,1,,,,0
+1635055200,Jeju SK,Jeonbuk,2,2,,,,0
+1635055200,Gangwon,Seoul,1,4,,,,0
+1635055200,Daegu,Suwon Bluewings,0,2,,,,0
+1635570000,Incheon,Seoul,2,0,,,,0
+1635579000,Suwon Bluewings,Jeonbuk,0,4,,,,0
+1635588000,Seongnam,Pohang,1,0,,,,0
+1635656400,Daegu,Jeju SK,0,5,,,,0
+1635665400,Ulsan HD,Suwon FC,3,2,,,,0
+1635674400,Gwangju FC,Gangwon,2,2,,,,0
+1635933600,Pohang,Gangwon,4,0,,,,0
+1635933600,Gwangju FC,Seoul,3,4,,,,0
+1635933600,Daejeon,Jeonnam,0,0,,,,0
+1635935400,Seongnam,Incheon,1,1,,,,0
+1636174800,Jeju SK,Suwon Bluewings,2,0,,,,0
+1636183800,Suwon FC,Daegu,1,2,,,,0
+1636192800,Jeonbuk,Ulsan HD,3,2,,,,0
+1636261200,Pohang,Gwangju FC,1,2,,,,0
+1636261200,Anyang,Daejeon,1,3,,,,0
+1636270200,Gangwon,Incheon,1,1,,,,0
+1636279200,Seoul,Seongnam,3,0,,,,0
+1637470800,Suwon FC,Jeonbuk,3,2,,,,0
+1637479800,Ulsan HD,Jeju SK,3,1,,,,0
+1637479800,Daegu,Suwon Bluewings,2,1,,,,0
+1637989200,Jeju SK,Suwon FC,1,0,,,,0
+1637998200,Seongnam,Gwangju FC,1,0,,,,0
+1638075600,Daegu,Jeonbuk,0,2,,,,0
+1638078000,Suwon Bluewings,Ulsan HD,0,0,,,,0
+1638084600,Seoul,Gangwon,0,0,,,,0
+1638084600,Incheon,Pohang,0,0,,,,0
+1638597600,Pohang,Seoul,1,2,,,,0
+1638597600,Gwangju FC,Incheon,1,1,,,,0
+1638597600,Gangwon,Seongnam,2,1,,,,0
+1638684000,Ulsan HD,Daegu,2,0,,,,0
+1638684000,Suwon FC,Suwon Bluewings,2,0,,,,0
+1638684000,Jeonbuk,Jeju SK,2,0,,,,0
+1638957600,Daejeon,Gangwon,1,0,,,,0
+1639285200,Gangwon,Daejeon,4,1,,,,0

@@ -1,0 +1,95 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+903823200,Ternana,Genoa,1,1,,,,0
+903823200,Padova,Reggiana,2,1,,,,0
+903823200,Nocerina,Verona,2,2,,,,0
+903823200,Monza,Lecce,0,2,,,,0
+903823200,Lumezzane,Cagliari,3,1,,,,0
+903823200,Lucchese,Napoli,2,2,,,,0
+903823200,Livorno,Reggina,1,1,,,,0
+903823200,Gualdo Casacastalda,Fidelis Andria,1,1,,,,0
+903823200,Cremonese,Atalanta,0,2,,,,0
+903823200,Cosenza,Treviso,1,1,,,,0
+903823200,Chievo,Foggia,0,0,,,,0
+903823200,Cesena,Pescara,2,2,,,,0
+903823200,Catania,Brescia,0,1,,,,0
+903823200,Castel di Sangro,Perugia,1,0,,,,0
+903823200,Ancona,Ravenna,0,1,,,,0
+903823200,AlzanoCene,Torino,1,1,,,,0
+904341600,Atalanta,Cremonese,2,1,,,,0
+904428000,Verona,Nocerina,2,1,,,,0
+904428000,Treviso,Cosenza,2,2,AET,2,2,0
+904428000,Torino,AlzanoCene,2,1,,,,0
+904428000,Reggina,Livorno,3,0,,,,0
+904428000,Reggiana,Padova,2,1,,,,0
+904428000,Ravenna,Ancona,4,1,,,,0
+904428000,Pescara,Cesena,0,3,,,,0
+904428000,Napoli,Lucchese,0,2,,,,0
+904428000,Lecce,Monza,0,0,,,,0
+904428000,Genoa,Ternana,3,2,,,,0
+904428000,Foggia,Chievo,1,1,,,,0
+904428000,Fidelis Andria,Gualdo Casacastalda,0,1,,,,0
+904428000,Cagliari,Lumezzane,2,0,,,,0
+904428000,Brescia,Catania,4,0,,,,0
+904514400,Perugia,Castel di Sangro,1,1,,,,0
+905205600,Torino,AC Milan,2,0,,,,0
+905292000,Sampdoria,Verona,2,0,,,,0
+905292000,Reggina,Bologna,1,1,,,,0
+905292000,Parma,Genoa,3,0,,,,0
+905292000,Padova,Fiorentina,0,1,,,,0
+905292000,Lucchese,Bari,1,0,,,,0
+905292000,Lecce,Piacenza,1,2,,,,0
+905292000,Lazio,Cosenza,2,1,,,,0
+905292000,Inter,Cesena,1,0,,,,0
+905292000,Gualdo Casacastalda,Udinese,2,2,,,,0
+905292000,Chievo,AS Roma,2,2,,,,0
+905292000,Castel di Sangro,Salernitana,0,0,,,,0
+905292000,Cagliari,Venezia,0,0,,,,0
+905292000,Brescia,L.R. Vicenza,3,2,,,,0
+905292000,Atalanta,Empoli,2,1,,,,0
+905378400,Ravenna,Juventus,0,2,,,,0
+906415200,AS Roma,Chievo,2,1,,,,0
+906501600,Verona,Sampdoria,1,0,,,,0
+906501600,Venezia,Cagliari,2,1,,,,0
+906501600,Udinese,Gualdo Casacastalda,4,0,,,,0
+906501600,Salernitana,Castel di Sangro,0,2,,,,0
+906501600,Piacenza,Lecce,2,2,AET,2,3,0
+906501600,L.R. Vicenza,Brescia,3,0,,,,0
+906501600,Juventus,Ravenna,4,0,,,,0
+906501600,Genoa,Parma,0,1,,,,0
+906501600,Fiorentina,Padova,2,0,,,,0
+906501600,Empoli,Atalanta,0,0,,,,0
+906501600,Cosenza,Lazio,0,2,,,,0
+906501600,Bologna,Reggina,3,0,,,,0
+906501600,Bari,Lucchese,2,0,,,,0
+906501600,AC Milan,Torino,3,0,,,,0
+906588000,Cesena,Inter,0,0,,,,0
+909442800,Juventus,Venezia,1,1,,,,0
+909529200,Udinese,L.R. Vicenza,0,0,,,,0
+909529200,Sampdoria,Bologna,0,0,,,,0
+909529200,Inter,Castel di Sangro,1,0,,,,0
+909529200,Fiorentina,Lecce,1,0,,,,0
+909529200,Bari,Parma,1,2,,,,0
+909529200,Atalanta,AS Roma,1,1,,,,0
+909615600,Lazio,AC Milan,3,1,,,,0
+910652400,Lecce,Fiorentina,0,4,,,,0
+910738800,Venezia,Juventus,2,2,AET,2,2,0
+910738800,Parma,Bari,0,0,,,,0
+910738800,L.R. Vicenza,Udinese,0,1,,,,0
+910738800,Castel di Sangro,Inter,1,1,,,,0
+910738800,Bologna,Sampdoria,2,1,,,,0
+910738800,AC Milan,Lazio,1,1,,,,0
+910825200,AS Roma,Atalanta,1,1,AET,1,2,0
+912466800,Udinese,Parma,3,2,,,,0
+912553200,Atalanta,Fiorentina,3,2,,,,0
+912639600,Lazio,Inter,2,1,,,,0
+916182000,Juventus,Bologna,1,2,,,,0
+917305200,Bologna,Juventus,0,1,,,,0
+917391600,Parma,Udinese,4,0,,,,0
+917391600,Inter,Lazio,5,2,,,,0
+917478000,Fiorentina,Atalanta,1,0,,,,0
+919206000,Inter,Parma,0,2,,,,0
+919292400,Bologna,Fiorentina,0,2,,,,0
+920934000,Parma,Inter,2,1,,,,0
+921020400,Fiorentina,Bologna,2,2,AET,2,2,0
+924040800,Parma,Fiorentina,1,1,,,,0
+925855200,Fiorentina,Parma,2,2,,,,0

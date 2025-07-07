@@ -1,0 +1,95 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1029609000,Triestina,Verona,2,0,,,,0
+1029682800,AlbinoLeffe,Venezia,2,1,,,,0
+1029695400,Sampdoria,Siena,3,0,,,,0
+1029695400,Salernitana,Ternana,2,2,,,,0
+1029695400,Pistoiese,Empoli,2,1,,,,0
+1029695400,Lucchese,Genoa,1,2,,,,0
+1029695400,Cosenza,Bari,0,1,,,,0
+1029695400,Cittadella,Treviso,3,1,,,,0
+1029695400,Catania,Crotone,0,0,,,,0
+1029695400,Ancona,Ascoli,3,0,,,,0
+1029695400,ACR Messina,Palermo,1,1,,,,0
+1029696300,Taranto,Reggina,0,3,,,,0
+1029696300,Pescara,Lecce,1,1,,,,0
+1029696300,Livorno,Cagliari,2,1,,,,0
+1029696300,Lanciano,Napoli,0,3,,,,0
+1029947400,Spezia,L.R. Vicenza,0,3,,,,0
+1030280400,Lecce,Ancona,1,2,,,,0
+1030285800,Cagliari,Pistoiese,1,0,,,,0
+1030287600,Verona,Cittadella,1,0,,,,0
+1030287600,Venezia,Spezia,2,1,,,,0
+1030287600,Ternana,Lanciano,3,3,,,,0
+1030291200,Ascoli,Pescara,1,0,,,,0
+1030300200,Treviso,Triestina,1,2,,,,0
+1030300200,Reggina,ACR Messina,0,0,,,,0
+1030300200,Palermo,Taranto,4,0,,,,0
+1030300200,L.R. Vicenza,AlbinoLeffe,3,1,,,,0
+1030300200,Empoli,Livorno,2,1,,,,0
+1030300200,Crotone,Cosenza,0,0,,,,0
+1030300200,Bari,Catania,4,0,,,,0
+1030301100,Siena,Lucchese,1,1,,,,0
+1030301100,Napoli,Salernitana,1,1,,,,0
+1031078700,Genoa,Sampdoria,1,2,,,,0
+1031497200,Empoli,Cagliari,3,0,,,,0
+1031497200,Ascoli,Lecce,2,2,,,,0
+1031502600,Palermo,Reggina,0,1,,,,0
+1031509800,Siena,Genoa,1,1,,,,0
+1031509800,Catania,Cosenza,1,3,,,,0
+1031596200,Venezia,L.R. Vicenza,1,2,,,,0
+1031695200,Spezia,AlbinoLeffe,0,0,,,,0
+1031769000,Triestina,Cittadella,0,0,,,,0
+1031769000,Treviso,Verona,1,1,,,,0
+1031769000,Taranto,ACR Messina,1,0,,,,0
+1031769000,Lucchese,Sampdoria,1,1,,,,0
+1031769900,Ternana,Napoli,2,0,,,,0
+1031769900,Pescara,Ancona,0,1,,,,0
+1031769900,Livorno,Pistoiese,3,2,,,,0
+1031769900,Lanciano,Salernitana,2,1,,,,0
+1031769900,Bari,Crotone,4,1,,,,0
+1032960600,L.R. Vicenza,Parma,2,0,,,,0
+1032969600,Sampdoria,Atalanta,1,0,,,,0
+1032969600,Empoli,Torino,1,1,,,,0
+1032969600,Bari,Udinese,4,1,,,,0
+1032976800,Triestina,Como,1,0,,,,0
+1032978600,Ternana,Piacenza,1,1,,,,0
+1032979500,Ancona,Brescia,1,1,,,,0
+1033047000,Reggina,Modena,1,0,,,,0
+1035378000,Udinese,Bari,1,0,,,,0
+1035379800,Atalanta,Sampdoria,1,1,,,,0
+1035387000,Parma,L.R. Vicenza,2,0,,,,0
+1035396000,Como,Triestina,0,2,,,,0
+1035397800,Piacenza,Ternana,2,0,,,,0
+1035397800,Brescia,Ancona,1,3,,,,0
+1035464400,Modena,Reggina,2,1,,,,0
+1035475200,Torino,Empoli,1,2,,,,0
+1038925800,Sampdoria,Perugia,1,1,,,,0
+1038945600,Ancona,AC Milan,1,1,,,,0
+1039010400,Lazio,Empoli,2,0,,,,0
+1039022100,Triestina,AS Roma,1,1,,,,0
+1039032000,Bari,Inter,1,0,,,,0
+1039098600,Piacenza,Chievo,1,1,,,,0
+1039108500,L.R. Vicenza,Bologna,1,1,,,,0
+1039118400,Reggina,Juventus,0,2,,,,0
+1040142600,AS Roma,Triestina,1,1,Pen,2,1,0
+1040220000,Bologna,L.R. Vicenza,0,2,,,,0
+1040229000,Juventus,Reggina,0,1,,,,0
+1040229000,Chievo,Piacenza,0,0,,,,0
+1040241600,AC Milan,Ancona,5,1,,,,0
+1040306400,Perugia,Sampdoria,2,0,,,,0
+1040315400,Empoli,Lazio,1,2,,,,0
+1040328000,Inter,Bari,1,2,,,,0
+1042574400,AC Milan,Chievo,0,0,,,,0
+1042650000,Lazio,Bari,2,1,,,,0
+1042660800,Juventus,Perugia,1,2,,,,0
+1042747200,L.R. Vicenza,AS Roma,1,2,,,,0
+1043179200,Bari,Lazio,0,0,,,,0
+1043253000,AS Roma,L.R. Vicenza,6,3,,,,0
+1043265600,Chievo,AC Milan,2,5,,,,0
+1043352000,Perugia,Juventus,2,0,,,,0
+1044474300,Lazio,AS Roma,1,2,,,,0
+1044561600,Perugia,AC Milan,0,0,,,,0
+1050433200,AC Milan,Perugia,2,1,,,,0
+1050518700,AS Roma,Lazio,1,0,,,,0
+1053456300,AS Roma,AC Milan,1,4,,,,0
+1054406700,AC Milan,AS Roma,2,2,,,,0

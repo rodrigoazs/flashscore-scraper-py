@@ -1,0 +1,558 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+808228800,West Brom,Charlton,1,0,,,,0
+808228800,Watford,Sheffield Utd,2,1,,,,0
+808228800,Tranmere,Wolves,2,2,,,,0
+808228800,Sunderland,Leicester,1,2,,,,0
+808228800,Stoke,Reading,1,1,,,,0
+808228800,Portsmouth,Southend,4,2,,,,0
+808228800,Oldham,Huddersfield,3,0,,,,0
+808228800,Millwall,Grimsby,2,1,,,,0
+808228800,Crystal Palace,Barnsley,4,3,,,,0
+808228800,Birmingham,Ipswich,3,1,,,,0
+808315200,Luton,Norwich,1,3,,,,0
+808315200,Derby,Port Vale,0,0,,,,0
+808833600,Southend,Luton,0,1,,,,0
+808833600,Sheffield Utd,Tranmere,0,2,,,,0
+808833600,Reading,Derby,3,2,,,,0
+808833600,Port Vale,Millwall,0,1,,,,0
+808833600,Norwich,Sunderland,0,0,,,,0
+808833600,Leicester,Stoke,2,3,,,,0
+808833600,Ipswich,Crystal Palace,1,0,,,,0
+808833600,Huddersfield,Watford,1,0,,,,0
+808833600,Grimsby,Portsmouth,2,1,,,,0
+808833600,Charlton,Birmingham,3,1,,,,0
+808833600,Barnsley,Oldham,2,1,,,,0
+808920000,Wolves,West Brom,1,1,,,,0
+809438400,West Brom,Ipswich,0,0,,,,0
+809438400,Watford,Barnsley,2,3,,,,0
+809438400,Tranmere,Huddersfield,3,1,,,,0
+809438400,Sunderland,Wolves,2,0,,,,0
+809438400,Portsmouth,Reading,0,0,,,,0
+809438400,Oldham,Sheffield Utd,2,1,,,,0
+809438400,Millwall,Southend,0,0,,,,0
+809438400,Luton,Leicester,1,1,,,,0
+809438400,Derby,Grimsby,1,1,,,,0
+809438400,Crystal Palace,Charlton,1,1,,,,0
+809438400,Birmingham,Norwich,3,1,,,,0
+809524800,Stoke,Port Vale,0,1,,,,0
+809697600,Southend,West Brom,2,1,,,,0
+809697600,Sheffield Utd,Crystal Palace,2,3,,,,0
+809697600,Reading,Millwall,1,2,,,,0
+809697600,Grimsby,Luton,0,0,,,,0
+809697600,Charlton,Watford,2,1,,,,0
+809697600,Barnsley,Tranmere,2,1,,,,0
+809784000,Wolves,Derby,3,0,,,,0
+809784000,Port Vale,Sunderland,1,1,,,,0
+809784000,Norwich,Oldham,2,1,,,,0
+809784000,Leicester,Portsmouth,4,2,,,,0
+809784000,Ipswich,Stoke,4,1,,,,0
+809784000,Huddersfield,Birmingham,4,2,,,,0
+809956800,Southend,Reading,0,0,,,,0
+810043200,West Brom,Sheffield Utd,3,1,,,,0
+810043200,Stoke,Oldham,0,1,,,,0
+810043200,Portsmouth,Millwall,0,1,,,,0
+810043200,Norwich,Port Vale,2,1,,,,0
+810043200,Luton,Derby,1,2,,,,0
+810043200,Leicester,Wolves,1,0,,,,0
+810043200,Ipswich,Sunderland,3,0,,,,0
+810043200,Grimsby,Watford,0,0,,,,0
+810043200,Charlton,Huddersfield,2,1,,,,0
+810043200,Barnsley,Birmingham,0,5,,,,0
+810648000,Wolves,Grimsby,4,1,,,,0
+810648000,Watford,Stoke,3,0,,,,0
+810648000,Tranmere,Charlton,0,0,,,,0
+810648000,Sunderland,Southend,1,0,,,,0
+810648000,Sheffield Utd,Norwich,2,1,,,,0
+810648000,Reading,Luton,3,1,,,,0
+810648000,Port Vale,Portsmouth,0,2,,,,0
+810648000,Oldham,West Brom,1,2,,,,0
+810648000,Millwall,Barnsley,0,1,,,,0
+810648000,Huddersfield,Ipswich,2,1,,,,0
+810648000,Birmingham,Crystal Palace,0,0,,,,0
+810734400,Derby,Leicester,0,1,,,,0
+810907200,Watford,Crystal Palace,0,0,,,,0
+810907200,Tranmere,West Brom,2,2,,,,0
+810907200,Sunderland,Portsmouth,1,1,,,,0
+810907200,Sheffield Utd,Charlton,2,0,,,,0
+810907200,Reading,Grimsby,0,2,,,,0
+810907200,Port Vale,Leicester,0,2,,,,0
+810907200,Oldham,Ipswich,1,1,,,,0
+810907200,Huddersfield,Barnsley,3,0,,,,0
+810907200,Birmingham,Stoke,1,1,,,,0
+810993600,Wolves,Norwich,0,2,,,,0
+810993600,Millwall,Luton,1,0,,,,0
+810993600,Derby,Southend,1,0,,,,0
+811252800,Stoke,Tranmere,0,0,,,,0
+811252800,Southend,Wolves,2,1,,,,0
+811252800,Portsmouth,Derby,2,2,,,,0
+811252800,Norwich,Millwall,0,0,,,,0
+811252800,Luton,Sunderland,0,2,,,,0
+811252800,Leicester,Reading,1,1,,,,0
+811252800,Ipswich,Watford,4,2,,,,0
+811252800,Grimsby,Port Vale,1,0,,,,0
+811252800,Crystal Palace,Huddersfield,0,0,,,,0
+811252800,Charlton,Oldham,1,1,,,,0
+811339200,West Brom,Birmingham,1,0,,,,0
+811339200,Barnsley,Sheffield Utd,2,2,,,,0
+811857600,Wolves,Luton,0,0,,,,0
+811857600,Watford,Birmingham,1,1,,,,0
+811857600,Reading,Port Vale,2,2,,,,0
+811857600,Portsmouth,Tranmere,0,2,,,,0
+811857600,Oldham,Crystal Palace,3,1,,,,0
+811857600,Millwall,Sunderland,1,2,,,,0
+811857600,Leicester,Southend,1,3,,,,0
+811857600,Ipswich,Charlton,1,5,,,,0
+811857600,Grimsby,Norwich,2,2,,,,0
+811857600,Barnsley,Derby,2,0,,,,0
+811947600,Stoke,West Brom,2,1,,,,0
+811947600,Huddersfield,Sheffield Utd,1,2,,,,0
+812466000,West Brom,Huddersfield,1,2,,,,0
+812466000,Tranmere,Watford,2,3,,,,0
+812466000,Sunderland,Reading,2,2,,,,0
+812466000,Southend,Grimsby,1,0,,,,0
+812466000,Sheffield Utd,Ipswich,2,2,,,,0
+812466000,Port Vale,Wolves,2,2,,,,0
+812466000,Norwich,Leicester,0,1,,,,0
+812466000,Luton,Portsmouth,3,1,,,,0
+812466000,Crystal Palace,Stoke,1,1,,,,0
+812466000,Charlton,Barnsley,1,1,,,,0
+812466000,Birmingham,Oldham,0,0,,,,0
+812552400,Derby,Millwall,2,2,,,,0
+813070800,West Brom,Reading,2,0,,,,0
+813070800,Watford,Millwall,0,1,,,,0
+813070800,Tranmere,Luton,1,0,,,,0
+813070800,Stoke,Norwich,1,1,,,,0
+813070800,Sheffield Utd,Derby,0,2,,,,0
+813070800,Oldham,Portsmouth,1,1,,,,0
+813070800,Ipswich,Wolves,1,2,,,,0
+813070800,Huddersfield,Port Vale,0,2,,,,0
+813070800,Crystal Palace,Sunderland,0,1,,,,0
+813070800,Charlton,Grimsby,0,1,,,,0
+813070800,Barnsley,Leicester,2,2,,,,0
+813157200,Birmingham,Southend,2,0,,,,0
+813675600,Wolves,Stoke,1,4,,,,0
+813675600,Sunderland,Watford,1,1,,,,0
+813675600,Southend,Sheffield Utd,2,1,,,,0
+813675600,Reading,Huddersfield,3,1,,,,0
+813675600,Portsmouth,Birmingham,0,1,,,,0
+813675600,Norwich,Barnsley,3,1,,,,0
+813675600,Millwall,Tranmere,2,2,,,,0
+813675600,Luton,West Brom,1,2,,,,0
+813675600,Leicester,Charlton,1,1,,,,0
+813675600,Grimsby,Oldham,1,1,,,,0
+813675600,Derby,Ipswich,1,1,,,,0
+813762000,Port Vale,Crystal Palace,1,2,,,,0
+814280400,West Brom,Portsmouth,2,1,,,,0
+814280400,Watford,Wolves,1,1,,,,0
+814280400,Tranmere,Southend,3,0,,,,0
+814280400,Sheffield Utd,Leicester,1,3,,,,0
+814280400,Oldham,Reading,2,1,,,,0
+814280400,Huddersfield,Sunderland,1,1,,,,0
+814280400,Charlton,Norwich,1,1,,,,0
+814280400,Birmingham,Grimsby,3,1,,,,0
+814280400,Barnsley,Port Vale,1,1,,,,0
+814366800,Stoke,Derby,1,1,,,,0
+814366800,Ipswich,Luton,0,1,,,,0
+814366800,Crystal Palace,Millwall,1,2,,,,0
+814885200,Wolves,Sheffield Utd,1,0,,,,0
+814885200,Sunderland,Barnsley,2,1,,,,0
+814885200,Southend,Huddersfield,0,0,,,,0
+814885200,Reading,Ipswich,1,4,,,,0
+814885200,Portsmouth,Watford,4,2,,,,0
+814885200,Millwall,West Brom,2,1,,,,0
+814885200,Leicester,Crystal Palace,2,3,,,,0
+814885200,Grimsby,Stoke,1,0,,,,0
+814885200,Derby,Oldham,2,1,,,,0
+814971600,Port Vale,Birmingham,1,2,,,,0
+814971600,Norwich,Tranmere,1,1,,,,0
+814971600,Luton,Charlton,0,1,,,,0
+815490000,Watford,Southend,2,2,,,,0
+815490000,Tranmere,Derby,5,1,,,,0
+815490000,Stoke,Luton,5,0,,,,0
+815490000,Sheffield Utd,Portsmouth,4,1,,,,0
+815490000,Ipswich,Grimsby,2,2,,,,0
+815490000,Huddersfield,Norwich,3,2,,,,0
+815490000,Crystal Palace,Reading,0,2,,,,0
+815490000,Birmingham,Millwall,2,2,,,,0
+815490000,Barnsley,Wolves,1,0,,,,0
+815576400,West Brom,Leicester,2,3,,,,0
+815576400,Oldham,Port Vale,2,2,,,,0
+815576400,Charlton,Sunderland,1,1,,,,0
+816094800,Southend,Stoke,2,4,,,,0
+816094800,Reading,Birmingham,0,1,,,,0
+816094800,Portsmouth,Huddersfield,1,1,,,,0
+816094800,Port Vale,Sheffield Utd,2,3,,,,0
+816094800,Norwich,Crystal Palace,1,0,,,,0
+816094800,Millwall,Ipswich,2,1,,,,0
+816094800,Luton,Oldham,1,1,,,,0
+816094800,Leicester,Watford,1,0,,,,0
+816094800,Grimsby,Barnsley,3,1,,,,0
+816094800,Derby,West Brom,3,0,,,,0
+816181200,Wolves,Charlton,0,0,,,,0
+816699600,Wolves,Oldham,1,3,,,,0
+816699600,Sunderland,Sheffield Utd,2,0,,,,0
+816699600,Reading,Barnsley,0,0,,,,0
+816699600,Portsmouth,Stoke,3,3,,,,0
+816699600,Port Vale,Watford,1,1,,,,0
+816699600,Millwall,Huddersfield,0,0,,,,0
+816699600,Luton,Birmingham,0,0,,,,0
+816699600,Grimsby,West Brom,1,0,,,,0
+816699600,Derby,Charlton,2,0,,,,0
+816786000,Southend,Crystal Palace,1,1,,,,0
+816786000,Norwich,Ipswich,2,1,,,,0
+816786000,Leicester,Tranmere,0,1,,,,0
+816958800,West Brom,Norwich,1,4,,,,0
+816958800,Watford,Luton,1,1,,,,0
+816958800,Sheffield Utd,Grimsby,1,2,,,,0
+816958800,Oldham,Millwall,2,2,,,,0
+816958800,Huddersfield,Leicester,3,1,,,,0
+816958800,Charlton,Reading,2,1,,,,0
+816958800,Birmingham,Derby,1,4,,,,0
+816958800,Barnsley,Portsmouth,0,0,,,,0
+817045200,Tranmere,Port Vale,2,1,,,,0
+817045200,Stoke,Sunderland,1,0,,,,0
+817045200,Ipswich,Southend,1,1,,,,0
+817045200,Crystal Palace,Wolves,3,2,,,,0
+817304400,West Brom,Sunderland,0,1,,,,0
+817304400,Tranmere,Grimsby,0,1,,,,0
+817304400,Stoke,Millwall,1,0,,,,0
+817304400,Sheffield Utd,Reading,0,0,,,,0
+817304400,Oldham,Southend,0,1,,,,0
+817304400,Ipswich,Portsmouth,3,2,,,,0
+817304400,Huddersfield,Wolves,2,1,,,,0
+817304400,Crystal Palace,Derby,0,0,,,,0
+817304400,Charlton,Port Vale,2,2,,,,0
+817304400,Barnsley,Luton,1,0,,,,0
+817390800,Watford,Norwich,0,2,,,,0
+817390800,Birmingham,Leicester,2,2,,,,0
+817909200,Southend,Birmingham,3,1,,,,0
+817909200,Reading,West Brom,3,1,,,,0
+817909200,Portsmouth,Oldham,2,1,,,,0
+817909200,Port Vale,Huddersfield,1,0,,,,0
+817909200,Norwich,Stoke,0,1,,,,0
+817909200,Millwall,Watford,1,2,,,,0
+817909200,Luton,Tranmere,3,2,,,,0
+817909200,Leicester,Barnsley,2,2,,,,0
+817909200,Grimsby,Charlton,1,2,,,,0
+817909200,Derby,Sheffield Utd,4,2,,,,0
+817995600,Wolves,Ipswich,2,2,,,,0
+817995600,Sunderland,Crystal Palace,1,0,,,,0
+818168400,Millwall,Charlton,0,2,,,,0
+818514000,West Brom,Stoke,0,1,,,,0
+818514000,Tranmere,Portsmouth,1,2,,,,0
+818514000,Sunderland,Millwall,6,0,,,,0
+818514000,Southend,Leicester,2,1,,,,0
+818514000,Sheffield Utd,Huddersfield,0,2,,,,0
+818514000,Port Vale,Reading,3,2,,,,0
+818514000,Norwich,Grimsby,2,2,,,,0
+818514000,Derby,Barnsley,4,1,,,,0
+818514000,Crystal Palace,Oldham,2,2,,,,0
+818514000,Charlton,Ipswich,0,2,,,,0
+818514000,Birmingham,Watford,1,0,,,,0
+818600400,Luton,Wolves,2,3,,,,0
+819118800,Wolves,Port Vale,0,1,,,,0
+819118800,Watford,Tranmere,3,0,,,,0
+819118800,Stoke,Crystal Palace,1,2,,,,0
+819118800,Reading,Sunderland,1,1,,,,0
+819118800,Portsmouth,Luton,4,0,,,,0
+819118800,Oldham,Birmingham,4,0,,,,0
+819118800,Millwall,Derby,0,1,,,,0
+819118800,Ipswich,Sheffield Utd,1,1,,,,0
+819118800,Huddersfield,West Brom,4,1,,,,0
+819118800,Grimsby,Southend,1,1,,,,0
+819118800,Barnsley,Charlton,1,2,,,,0
+819205200,Leicester,Norwich,3,2,,,,0
+819464400,Southend,Port Vale,2,1,,,,0
+819637200,Ipswich,Barnsley,2,2,,,,0
+819723600,West Brom,Crystal Palace,2,3,,,,0
+819723600,Stoke,Sheffield Utd,2,2,,,,0
+819723600,Portsmouth,Norwich,1,0,,,,0
+819723600,Oldham,Watford,0,0,,,,0
+819723600,Luton,Huddersfield,2,2,,,,0
+819723600,Grimsby,Leicester,2,2,,,,0
+819723600,Derby,Sunderland,3,1,,,,0
+819723600,Birmingham,Tranmere,1,0,,,,0
+819982800,Wolves,Millwall,1,1,,,,0
+819982800,Tranmere,Oldham,2,0,,,,0
+819982800,Sheffield Utd,Birmingham,1,1,,,,0
+819982800,Port Vale,West Brom,3,1,,,,0
+819982800,Norwich,Southend,0,1,,,,0
+819982800,Huddersfield,Derby,0,1,,,,0
+819982800,Charlton,Portsmouth,2,1,,,,0
+819982800,Barnsley,Stoke,3,1,,,,0
+820328400,Wolves,Portsmouth,2,2,,,,0
+820328400,Norwich,Reading,3,3,,,,0
+820328400,Huddersfield,Stoke,1,1,,,,0
+820501200,Southend,Barnsley,0,0,,,,0
+820501200,Reading,Tranmere,1,0,,,,0
+820501200,Portsmouth,Crystal Palace,2,3,,,,0
+820501200,Millwall,Leicester,1,1,,,,0
+820501200,Ipswich,Port Vale,5,1,,,,0
+820501200,Grimsby,Huddersfield,1,1,,,,0
+820501200,Derby,Norwich,2,1,,,,0
+821538000,West Brom,Wolves,0,0,,,,0
+821538000,Watford,Huddersfield,0,1,,,,0
+821538000,Tranmere,Sheffield Utd,1,1,,,,0
+821538000,Stoke,Leicester,1,0,,,,0
+821538000,Portsmouth,Grimsby,3,1,,,,0
+821538000,Oldham,Barnsley,0,1,,,,0
+821538000,Millwall,Port Vale,1,2,,,,0
+821538000,Luton,Southend,3,1,,,,0
+821538000,Derby,Reading,3,0,,,,0
+821538000,Crystal Palace,Ipswich,1,1,,,,0
+821624400,Sunderland,Norwich,0,1,,,,0
+821624400,Birmingham,Charlton,3,4,,,,0
+822142800,Wolves,Tranmere,2,1,,,,0
+822142800,Southend,Portsmouth,2,1,,,,0
+822142800,Sheffield Utd,Watford,1,1,,,,0
+822142800,Reading,Stoke,1,0,,,,0
+822142800,Port Vale,Derby,1,1,,,,0
+822142800,Norwich,Luton,0,1,,,,0
+822142800,Ipswich,Birmingham,2,0,,,,0
+822142800,Huddersfield,Oldham,0,0,,,,0
+822142800,Grimsby,Millwall,1,2,,,,0
+822142800,Charlton,West Brom,4,1,,,,0
+822142800,Barnsley,Crystal Palace,1,1,,,,0
+822229200,Leicester,Sunderland,0,0,,,,0
+822488400,Sunderland,Grimsby,1,0,,,,0
+822747600,Millwall,Portsmouth,1,1,,,,0
+823006800,Sunderland,Tranmere,0,0,,,,0
+823093200,Luton,Sheffield Utd,1,0,,,,0
+823352400,Wolves,Sunderland,3,0,,,,0
+823352400,Southend,Millwall,2,0,,,,0
+823352400,Sheffield Utd,Oldham,2,1,,,,0
+823352400,Leicester,Luton,1,1,,,,0
+823352400,Ipswich,West Brom,2,1,,,,0
+823352400,Huddersfield,Tranmere,1,0,,,,0
+823352400,Grimsby,Derby,1,1,,,,0
+823352400,Barnsley,Watford,2,1,,,,0
+823438800,Reading,Portsmouth,0,1,,,,0
+823438800,Norwich,Birmingham,1,1,,,,0
+823438800,Charlton,Crystal Palace,0,0,,,,0
+823957200,West Brom,Southend,3,1,,,,0
+823957200,Watford,Charlton,1,2,,,,0
+823957200,Tranmere,Barnsley,1,3,,,,0
+823957200,Sunderland,Port Vale,0,0,,,,0
+823957200,Stoke,Ipswich,3,1,,,,0
+823957200,Portsmouth,Leicester,2,1,,,,0
+823957200,Oldham,Norwich,2,0,,,,0
+823957200,Millwall,Reading,1,1,,,,0
+823957200,Luton,Grimsby,3,2,,,,0
+823957200,Derby,Wolves,0,0,,,,0
+823957200,Crystal Palace,Sheffield Utd,0,0,,,,0
+824216400,Sheffield Utd,Millwall,2,0,,,,0
+824562000,West Brom,Tranmere,1,1,,,,0
+824562000,Stoke,Birmingham,1,0,,,,0
+824562000,Southend,Derby,1,2,,,,0
+824562000,Portsmouth,Sunderland,2,2,,,,0
+824562000,Norwich,Wolves,2,3,,,,0
+824562000,Luton,Millwall,1,0,,,,0
+824562000,Leicester,Port Vale,1,1,,,,0
+824562000,Grimsby,Reading,0,0,,,,0
+824562000,Crystal Palace,Watford,4,0,,,,0
+824562000,Charlton,Sheffield Utd,1,1,,,,0
+824821200,Tranmere,Crystal Palace,2,3,,,,0
+824821200,Sunderland,Ipswich,1,0,,,,0
+824821200,Sheffield Utd,West Brom,1,2,,,,0
+824821200,Huddersfield,Charlton,2,2,,,,0
+824821200,Birmingham,Barnsley,0,0,,,,0
+824907600,Wolves,Leicester,2,3,,,,0
+824907600,Derby,Luton,1,1,,,,0
+825166800,Wolves,Southend,2,0,,,,0
+825166800,Watford,Ipswich,2,3,,,,0
+825166800,Tranmere,Stoke,0,0,,,,0
+825166800,Sunderland,Luton,1,0,,,,0
+825166800,Sheffield Utd,Barnsley,1,0,,,,0
+825166800,Reading,Leicester,1,1,,,,0
+825166800,Oldham,Charlton,1,1,,,,0
+825166800,Millwall,Norwich,2,1,,,,0
+825166800,Huddersfield,Crystal Palace,3,0,,,,0
+825166800,Derby,Portsmouth,3,2,,,,0
+825426000,West Brom,Oldham,1,0,,,,0
+825426000,Southend,Sunderland,0,2,,,,0
+825426000,Luton,Reading,1,2,,,,0
+825426000,Crystal Palace,Birmingham,3,2,,,,0
+825426000,Barnsley,Millwall,3,1,,,,0
+825512400,Stoke,Watford,2,0,,,,0
+825512400,Norwich,Sheffield Utd,0,0,,,,0
+825512400,Leicester,Derby,0,0,,,,0
+825771600,West Brom,Port Vale,1,1,,,,0
+825771600,Stoke,Barnsley,2,0,,,,0
+825771600,Southend,Norwich,1,1,,,,0
+825771600,Reading,Watford,0,0,,,,0
+825771600,Portsmouth,Charlton,2,1,,,,0
+825771600,Millwall,Wolves,0,1,,,,0
+825771600,Luton,Crystal Palace,0,0,,,,0
+825771600,Derby,Huddersfield,3,2,,,,0
+825771600,Birmingham,Sheffield Utd,0,1,,,,0
+825858000,Oldham,Tranmere,1,2,,,,0
+825858000,Ipswich,Leicester,4,2,,,,0
+825858000,Grimsby,Sunderland,0,4,,,,0
+826030800,Watford,Derby,0,0,,,,0
+826030800,Crystal Palace,Grimsby,5,0,,,,0
+826030800,Charlton,Southend,0,3,,,,0
+826030800,Birmingham,Wolves,2,0,,,,0
+826376400,Wolves,Reading,1,1,,,,0
+826376400,Watford,Oldham,2,1,,,,0
+826376400,Tranmere,Birmingham,2,2,,,,0
+826376400,Sunderland,Derby,3,0,,,,0
+826376400,Sheffield Utd,Stoke,0,0,,,,0
+826376400,Port Vale,Southend,2,1,,,,0
+826376400,Norwich,Portsmouth,1,1,,,,0
+826376400,Leicester,Grimsby,2,1,,,,0
+826376400,Huddersfield,Luton,1,0,,,,0
+826376400,Crystal Palace,West Brom,1,0,,,,0
+826376400,Charlton,Millwall,2,0,,,,0
+826376400,Barnsley,Ipswich,3,3,,,,0
+826635600,West Brom,Watford,4,4,,,,0
+826635600,Port Vale,Stoke,1,0,,,,0
+826635600,Oldham,Sunderland,1,2,,,,0
+826635600,Grimsby,Wolves,3,0,,,,0
+826635600,Crystal Palace,Tranmere,2,1,,,,0
+826635600,Birmingham,Huddersfield,2,0,,,,0
+826722000,Leicester,Ipswich,0,2,,,,0
+826981200,West Brom,Barnsley,2,1,,,,0
+826981200,Stoke,Huddersfield,1,1,,,,0
+826981200,Southend,Charlton,1,1,,,,0
+826981200,Reading,Norwich,0,3,,,,0
+826981200,Portsmouth,Wolves,0,2,,,,0
+826981200,Oldham,Leicester,3,1,,,,0
+826981200,Millwall,Sheffield Utd,1,0,,,,0
+826981200,Ipswich,Tranmere,1,2,,,,0
+826981200,Grimsby,Crystal Palace,0,2,,,,0
+826981200,Derby,Watford,1,1,,,,0
+827067600,Birmingham,Sunderland,0,2,,,,0
+827240400,Reading,Southend,3,3,,,,0
+827240400,Ipswich,Oldham,2,1,,,,0
+827240400,Crystal Palace,Luton,2,0,,,,0
+827240400,Barnsley,Huddersfield,3,0,,,,0
+827326800,Port Vale,Norwich,1,0,,,,0
+827326800,Birmingham,West Brom,1,1,,,,0
+827586000,Wolves,Birmingham,3,2,,,,0
+827586000,Watford,West Brom,1,1,,,,0
+827586000,Tranmere,Reading,2,1,,,,0
+827586000,Sunderland,Oldham,1,0,,,,0
+827586000,Sheffield Utd,Luton,1,0,,,,0
+827586000,Port Vale,Ipswich,2,1,,,,0
+827586000,Norwich,Derby,1,0,,,,0
+827586000,Leicester,Millwall,2,1,,,,0
+827586000,Crystal Palace,Portsmouth,0,0,,,,0
+827586000,Charlton,Stoke,2,1,,,,0
+827586000,Barnsley,Southend,1,1,,,,0
+827672400,Huddersfield,Grimsby,1,3,,,,0
+827931600,Portsmouth,Port Vale,1,2,,,,0
+828190800,Wolves,Watford,3,0,,,,0
+828190800,Sunderland,Huddersfield,3,2,,,,0
+828190800,Southend,Tranmere,2,0,,,,0
+828190800,Reading,Oldham,2,0,,,,0
+828190800,Portsmouth,West Brom,0,2,,,,0
+828190800,Port Vale,Barnsley,3,0,,,,0
+828190800,Norwich,Charlton,0,1,,,,0
+828190800,Millwall,Crystal Palace,1,4,,,,0
+828190800,Luton,Ipswich,1,2,,,,0
+828190800,Leicester,Sheffield Utd,0,2,,,,0
+828190800,Grimsby,Birmingham,2,1,,,,0
+828190800,Derby,Stoke,3,1,,,,0
+828446400,West Brom,Luton,0,2,,,,0
+828446400,Watford,Sunderland,3,3,,,,0
+828446400,Tranmere,Millwall,2,2,,,,0
+828446400,Sheffield Utd,Southend,3,0,,,,0
+828446400,Oldham,Grimsby,1,0,,,,0
+828446400,Ipswich,Derby,1,0,,,,0
+828446400,Huddersfield,Reading,3,1,,,,0
+828446400,Crystal Palace,Port Vale,2,2,,,,0
+828446400,Charlton,Leicester,0,1,,,,0
+828446400,Birmingham,Portsmouth,2,0,,,,0
+828446400,Barnsley,Norwich,2,2,,,,0
+828532800,Stoke,Wolves,2,0,,,,0
+828705600,Charlton,Luton,1,1,,,,0
+828792000,West Brom,Millwall,1,0,,,,0
+828792000,Watford,Portsmouth,1,2,,,,0
+828792000,Tranmere,Norwich,1,1,,,,0
+828792000,Stoke,Grimsby,1,2,,,,0
+828792000,Sheffield Utd,Wolves,2,1,,,,0
+828792000,Oldham,Derby,0,1,,,,0
+828792000,Ipswich,Reading,1,2,,,,0
+828792000,Huddersfield,Southend,3,1,,,,0
+828792000,Crystal Palace,Leicester,0,1,,,,0
+828792000,Birmingham,Port Vale,3,1,,,,0
+828792000,Barnsley,Sunderland,0,1,,,,0
+828964800,Wolves,Barnsley,2,2,,,,0
+828964800,Sunderland,Charlton,0,0,,,,0
+828964800,Southend,Watford,1,1,,,,0
+828964800,Reading,Crystal Palace,0,2,,,,0
+828964800,Portsmouth,Sheffield Utd,1,2,,,,0
+828964800,Port Vale,Oldham,1,3,,,,0
+828964800,Norwich,Huddersfield,2,0,,,,0
+828964800,Grimsby,Ipswich,3,1,,,,0
+828964800,Derby,Tranmere,6,2,,,,0
+829051200,Luton,Stoke,1,2,,,,0
+829051200,Leicester,West Brom,1,2,,,,0
+829137600,Millwall,Birmingham,2,0,,,,0
+829396800,West Brom,Grimsby,3,1,,,,0
+829396800,Watford,Port Vale,5,2,,,,0
+829396800,Tranmere,Leicester,1,1,,,,0
+829396800,Stoke,Portsmouth,2,1,,,,0
+829396800,Sheffield Utd,Sunderland,0,0,,,,0
+829396800,Oldham,Wolves,0,0,,,,0
+829396800,Huddersfield,Millwall,3,0,,,,0
+829396800,Crystal Palace,Southend,2,0,,,,0
+829396800,Birmingham,Luton,4,0,,,,0
+829396800,Barnsley,Reading,0,1,,,,0
+829483200,Ipswich,Norwich,2,1,,,,0
+829483200,Charlton,Derby,0,0,,,,0
+829656000,Watford,Reading,4,2,,,,0
+829656000,Sunderland,Birmingham,3,0,,,,0
+829656000,Port Vale,Grimsby,1,0,,,,0
+829742400,Tranmere,Ipswich,5,2,,,,0
+829742400,Stoke,Charlton,1,0,,,,0
+829742400,Leicester,Oldham,2,0,,,,0
+830001600,Wolves,Crystal Palace,0,2,,,,0
+830001600,Southend,Ipswich,2,1,,,,0
+830001600,Reading,Charlton,0,0,,,,0
+830001600,Portsmouth,Barnsley,0,0,,,,0
+830001600,Port Vale,Tranmere,1,1,,,,0
+830001600,Norwich,West Brom,2,2,,,,0
+830001600,Millwall,Oldham,0,1,,,,0
+830001600,Luton,Watford,0,0,,,,0
+830001600,Leicester,Huddersfield,2,1,,,,0
+830001600,Grimsby,Sheffield Utd,0,2,,,,0
+830001600,Derby,Birmingham,1,1,,,,0
+830088000,Sunderland,Stoke,0,0,,,,0
+830260800,Watford,Grimsby,6,3,,,,0
+830260800,Port Vale,Luton,1,0,,,,0
+830606400,Wolves,Huddersfield,0,0,,,,0
+830606400,Sunderland,West Brom,0,0,,,,0
+830606400,Southend,Oldham,1,1,,,,0
+830606400,Reading,Sheffield Utd,0,3,,,,0
+830606400,Portsmouth,Ipswich,0,1,,,,0
+830606400,Port Vale,Charlton,1,3,,,,0
+830606400,Norwich,Watford,1,2,,,,0
+830606400,Millwall,Stoke,2,3,,,,0
+830606400,Luton,Barnsley,1,3,,,,0
+830606400,Leicester,Birmingham,3,0,,,,0
+830606400,Grimsby,Tranmere,1,1,,,,0
+830692800,Derby,Crystal Palace,2,1,,,,0
+830865600,Reading,Wolves,3,0,,,,0
+830865600,Oldham,Stoke,2,0,,,,0
+830865600,Luton,Port Vale,3,2,,,,0
+830865600,Charlton,Tranmere,0,0,,,,0
+830865600,Barnsley,West Brom,1,1,,,,0
+830952000,Ipswich,Huddersfield,2,1,,,,0
+831211200,Sheffield Utd,Port Vale,1,1,,,,0
+831211200,Barnsley,Grimsby,1,1,,,,0
+831297600,West Brom,Derby,3,2,,,,0
+831297600,Watford,Leicester,0,1,,,,0
+831297600,Tranmere,Sunderland,2,0,,,,0
+831297600,Stoke,Southend,1,0,,,,0
+831297600,Oldham,Luton,1,0,,,,0
+831297600,Ipswich,Millwall,0,0,,,,0
+831297600,Huddersfield,Portsmouth,0,1,,,,0
+831297600,Crystal Palace,Norwich,0,1,,,,0
+831297600,Charlton,Wolves,1,1,,,,0
+831297600,Birmingham,Reading,1,2,,,,0
+831909600,Leicester,Stoke,0,0,,,,0
+831909600,Charlton,Crystal Palace,1,2,,,,0
+832185900,Stoke,Leicester,0,1,,,,0
+832185900,Crystal Palace,Charlton,1,0,,,,0
+833205600,Crystal Palace,Leicester,1,1,AET,1,2,0

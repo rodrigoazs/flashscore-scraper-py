@@ -1,0 +1,558 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+840196800,Manchester City,Ipswich,1,0,,,,0
+840283200,West Brom,Barnsley,1,2,,,,0
+840283200,Southend,Tranmere,1,1,,,,0
+840283200,Reading,Sheffield Utd,1,0,,,,0
+840283200,QPR,Oxford Utd,2,1,,,,0
+840283200,Port Vale,Bolton,1,1,,,,0
+840283200,Oldham,Stoke,1,2,,,,0
+840283200,Norwich,Swindon,2,0,,,,0
+840283200,Huddersfield,Charlton,2,0,,,,0
+840283200,Grimsby,Wolves,1,3,,,,0
+840283200,Bradford City,Portsmouth,3,1,,,,0
+840369600,Birmingham,Crystal Palace,1,0,,,,0
+840542400,Bolton,Manchester City,1,0,,,,0
+840801600,Tranmere,Grimsby,3,2,,,,0
+840801600,Portsmouth,QPR,1,2,,,,0
+840888000,Wolves,Bradford City,1,0,,,,0
+840888000,Swindon,Port Vale,1,1,,,,0
+840888000,Stoke,Manchester City,2,1,,,,0
+840888000,Sheffield Utd,Birmingham,4,4,,,,0
+840888000,Oxford Utd,Southend,5,0,,,,0
+840888000,Ipswich,Reading,5,2,,,,0
+840888000,Crystal Palace,Oldham,3,1,,,,0
+840888000,Charlton,West Brom,1,1,,,,0
+840888000,Bolton,Norwich,3,1,,,,0
+840974400,Barnsley,Huddersfield,3,1,,,,0
+841147200,Tranmere,Port Vale,2,0,,,,0
+841147200,Portsmouth,Southend,1,0,,,,0
+841147200,Oxford Utd,Norwich,0,1,,,,0
+841147200,Ipswich,Grimsby,1,1,,,,0
+841147200,Crystal Palace,West Brom,0,0,,,,0
+841233600,Wolves,QPR,1,1,,,,0
+841233600,Swindon,Oldham,1,0,,,,0
+841233600,Stoke,Bradford City,1,0,,,,0
+841233600,Barnsley,Reading,3,0,,,,0
+841492800,Southend,Swindon,1,3,,,,0
+841492800,Reading,Stoke,2,2,,,,0
+841492800,Port Vale,Oxford Utd,2,0,,,,0
+841492800,Oldham,Ipswich,3,3,,,,0
+841492800,Norwich,Wolves,1,0,,,,0
+841492800,Huddersfield,Crystal Palace,1,1,,,,0
+841492800,Grimsby,Portsmouth,0,1,,,,0
+841492800,Bradford City,Tranmere,1,0,,,,0
+841579200,QPR,Bolton,1,2,,,,0
+841752000,Manchester City,Charlton,2,1,,,,0
+842011200,Wolves,Charlton,1,0,,,,0
+842097600,Tranmere,Birmingham,1,0,,,,0
+842097600,Stoke,Crystal Palace,2,2,,,,0
+842097600,Southend,Bolton,5,2,,,,0
+842097600,QPR,West Brom,0,2,,,,0
+842097600,Portsmouth,Port Vale,1,1,,,,0
+842097600,Oldham,Sheffield Utd,0,2,,,,0
+842097600,Manchester City,Barnsley,1,2,,,,0
+842097600,Ipswich,Huddersfield,1,3,,,,0
+842097600,Grimsby,Swindon,2,1,,,,0
+842097600,Bradford City,Norwich,0,2,,,,0
+842184000,Reading,Oxford Utd,2,0,,,,0
+842356800,West Brom,Reading,3,2,,,,0
+842356800,Sheffield Utd,Bradford City,3,0,,,,0
+842356800,Port Vale,Manchester City,0,2,,,,0
+842356800,Oxford Utd,Wolves,1,1,,,,0
+842356800,Huddersfield,Tranmere,0,1,,,,0
+842356800,Crystal Palace,Ipswich,0,0,,,,0
+842356800,Charlton,Southend,2,0,,,,0
+842356800,Bolton,Grimsby,6,1,,,,0
+842356800,Birmingham,Oldham,0,0,,,,0
+842356800,Barnsley,Stoke,3,0,,,,0
+842443200,Swindon,Portsmouth,0,1,,,,0
+842443200,Norwich,QPR,1,1,,,,0
+842616000,Huddersfield,Oldham,3,2,,,,0
+842702400,Swindon,Tranmere,2,1,,,,0
+842702400,Sheffield Utd,Ipswich,1,3,,,,0
+842702400,Port Vale,Grimsby,1,1,,,,0
+842702400,Oxford Utd,Bradford City,2,0,,,,0
+842702400,Norwich,Southend,0,0,,,,0
+842702400,Crystal Palace,Manchester City,3,1,,,,0
+842702400,Charlton,Reading,1,0,,,,0
+842702400,Bolton,Portsmouth,2,0,,,,0
+842702400,Birmingham,Stoke,3,1,,,,0
+842702400,Barnsley,QPR,1,3,,,,0
+842788800,West Brom,Wolves,2,4,,,,0
+843220800,Ipswich,Charlton,2,1,,,,0
+843307200,Wolves,Sheffield Utd,1,2,,,,0
+843307200,Tranmere,West Brom,2,3,,,,0
+843307200,Southend,Port Vale,0,0,,,,0
+843307200,Reading,Crystal Palace,1,6,,,,0
+843307200,QPR,Swindon,1,1,,,,0
+843307200,Portsmouth,Norwich,0,1,,,,0
+843307200,Oldham,Barnsley,0,1,,,,0
+843307200,Manchester City,Birmingham,1,0,,,,0
+843307200,Grimsby,Oxford Utd,0,2,,,,0
+843307200,Bradford City,Bolton,2,4,,,,0
+843393600,Stoke,Huddersfield,3,2,,,,0
+843825600,Swindon,Wolves,1,2,,,,0
+843912000,West Brom,Ipswich,0,0,,,,0
+843912000,Sheffield Utd,Manchester City,2,0,,,,0
+843912000,Oxford Utd,Portsmouth,2,0,,,,0
+843912000,Norwich,Tranmere,1,1,,,,0
+843912000,Huddersfield,Reading,1,0,,,,0
+843912000,Crystal Palace,Southend,6,1,,,,0
+843912000,Charlton,Oldham,1,0,,,,0
+843912000,Bolton,Stoke,1,1,,,,0
+843912000,Birmingham,QPR,0,0,,,,0
+843912000,Barnsley,Grimsby,1,3,,,,0
+843998400,Port Vale,Bradford City,1,1,,,,0
+844171200,Tranmere,Oxford Utd,0,0,,,,0
+844171200,Southend,Sheffield Utd,3,2,,,,0
+844171200,Portsmouth,Crystal Palace,2,2,,,,0
+844171200,Oldham,West Brom,1,1,,,,0
+844171200,Ipswich,Barnsley,1,1,,,,0
+844171200,Grimsby,Norwich,1,4,,,,0
+844257600,Wolves,Bolton,1,2,,,,0
+844257600,QPR,Port Vale,1,2,,,,0
+844257600,Bradford City,Swindon,2,1,,,,0
+844430400,Tranmere,Portsmouth,4,3,,,,0
+844516800,Wolves,Reading,0,1,,,,0
+844516800,Oldham,Port Vale,3,0,,,,0
+844516800,Grimsby,QPR,2,0,,,,0
+844516800,Bradford City,Southend,0,0,,,,0
+844776000,Huddersfield,Birmingham,3,0,,,,0
+845035200,Norwich,Ipswich,3,1,,,,0
+845121600,West Brom,Huddersfield,1,1,,,,0
+845121600,Swindon,Oxford Utd,1,0,,,,0
+845121600,Sheffield Utd,Tranmere,0,0,,,,0
+845121600,Reading,Grimsby,1,1,,,,0
+845121600,QPR,Manchester City,2,2,,,,0
+845121600,Portsmouth,Charlton,2,0,,,,0
+845121600,Bolton,Oldham,3,1,,,,0
+845121600,Birmingham,Bradford City,3,0,,,,0
+845121600,Barnsley,Crystal Palace,0,0,,,,0
+845208000,Southend,Wolves,1,1,,,,0
+845208000,Port Vale,Stoke,1,1,,,,0
+845380800,Sheffield Utd,Charlton,3,0,,,,0
+845380800,Reading,Manchester City,2,0,,,,0
+845380800,Portsmouth,Wolves,0,2,,,,0
+845380800,Bolton,Tranmere,1,0,,,,0
+845380800,Birmingham,Ipswich,1,0,,,,0
+845380800,Barnsley,Oxford Utd,0,0,,,,0
+845467200,West Brom,Stoke,0,2,,,,0
+845467200,Swindon,Huddersfield,6,0,,,,0
+845467200,Southend,Grimsby,1,0,,,,0
+845467200,QPR,Bradford City,1,0,,,,0
+845467200,Port Vale,Crystal Palace,0,2,,,,0
+845467200,Norwich,Oldham,2,0,,,,0
+845640000,Oxford Utd,Birmingham,0,0,,,,0
+845726400,Wolves,Port Vale,0,1,,,,0
+845726400,Stoke,Sheffield Utd,0,4,,,,0
+845726400,Oldham,Reading,1,1,,,,0
+845726400,Manchester City,Norwich,2,1,,,,0
+845726400,Ipswich,Portsmouth,1,1,,,,0
+845726400,Huddersfield,Southend,0,0,,,,0
+845726400,Grimsby,West Brom,1,1,,,,0
+845726400,Crystal Palace,Swindon,1,2,,,,0
+845726400,Charlton,Bolton,3,3,,,,0
+845726400,Bradford City,Barnsley,2,2,,,,0
+845812800,Tranmere,QPR,2,3,,,,0
+846244800,Barnsley,Bolton,2,2,,,,0
+846331200,West Brom,Bradford City,0,0,,,,0
+846331200,Stoke,Portsmouth,3,1,,,,0
+846331200,Sheffield Utd,QPR,1,1,,,,0
+846331200,Reading,Swindon,2,0,,,,0
+846331200,Oldham,Southend,0,0,,,,0
+846331200,Ipswich,Tranmere,0,2,,,,0
+846331200,Huddersfield,Port Vale,0,1,,,,0
+846331200,Crystal Palace,Grimsby,3,0,,,,0
+846331200,Charlton,Oxford Utd,2,0,,,,0
+846331200,Birmingham,Norwich,2,3,,,,0
+846421200,Manchester City,Wolves,0,1,,,,0
+846594000,Tranmere,Charlton,4,0,,,,0
+846594000,Southend,Manchester City,2,3,,,,0
+846594000,Portsmouth,Birmingham,1,1,,,,0
+846594000,Port Vale,Barnsley,1,3,,,,0
+846594000,Oxford Utd,Stoke,4,1,,,,0
+846594000,Grimsby,Oldham,0,3,,,,0
+846594000,Bradford City,Crystal Palace,0,4,,,,0
+846594000,Bolton,Reading,2,1,,,,0
+846680400,Wolves,Huddersfield,0,0,,,,0
+846680400,Swindon,West Brom,2,3,,,,0
+846680400,QPR,Ipswich,0,1,,,,0
+846680400,Norwich,Sheffield Utd,1,1,,,,0
+846939600,Wolves,Barnsley,3,3,,,,0
+846939600,Tranmere,Crystal Palace,1,3,,,,0
+846939600,Swindon,Manchester City,2,0,,,,0
+846939600,Southend,Reading,2,1,,,,0
+846939600,QPR,Stoke,1,1,,,,0
+846939600,Portsmouth,West Brom,4,0,,,,0
+846939600,Port Vale,Birmingham,3,0,,,,0
+846939600,Oxford Utd,Ipswich,3,1,,,,0
+846939600,Norwich,Charlton,1,2,,,,0
+846939600,Bradford City,Oldham,0,3,,,,0
+846939600,Bolton,Huddersfield,2,0,,,,0
+847026000,Grimsby,Sheffield Utd,2,4,,,,0
+847458000,Huddersfield,Bradford City,3,3,,,,0
+847544400,West Brom,Port Vale,1,1,,,,0
+847544400,Oldham,Portsmouth,0,0,,,,0
+847544400,Ipswich,Southend,1,1,,,,0
+847630800,Crystal Palace,QPR,3,0,,,,0
+847803600,Barnsley,Norwich,3,1,,,,0
+847890000,West Brom,Sheffield Utd,1,2,,,,0
+847890000,Manchester City,Oxford Utd,2,3,,,,0
+847890000,Birmingham,Bolton,3,1,,,,0
+848062800,Tranmere,Oldham,1,1,,,,0
+848149200,Swindon,Barnsley,3,0,,,,0
+848149200,Southend,West Brom,2,3,,,,0
+848149200,QPR,Charlton,1,2,,,,0
+848149200,Portsmouth,Manchester City,2,1,,,,0
+848149200,Port Vale,Sheffield Utd,0,0,,,,0
+848149200,Oxford Utd,Huddersfield,1,0,,,,0
+848149200,Norwich,Reading,1,1,,,,0
+848149200,Grimsby,Stoke,1,1,,,,0
+848149200,Bradford City,Ipswich,2,1,,,,0
+848149200,Bolton,Crystal Palace,2,2,,,,0
+848235600,Wolves,Birmingham,1,2,,,,0
+848408400,Oxford Utd,Bolton,0,0,,,,0
+848408400,Manchester City,Huddersfield,0,0,,,,0
+848408400,Ipswich,Swindon,3,2,,,,0
+848494800,Charlton,Birmingham,2,1,,,,0
+848667600,Sheffield Utd,Bolton,1,1,,,,0
+848754000,Stoke,Southend,1,2,,,,0
+848754000,Reading,QPR,2,1,,,,0
+848754000,Oldham,Oxford Utd,2,1,,,,0
+848754000,Manchester City,Tranmere,1,2,,,,0
+848754000,Ipswich,Port Vale,2,1,,,,0
+848754000,Huddersfield,Grimsby,2,0,,,,0
+848754000,Crystal Palace,Wolves,2,3,,,,0
+848754000,Charlton,Bradford City,0,2,,,,0
+848754000,Birmingham,Swindon,1,0,,,,0
+848754000,Barnsley,Portsmouth,3,2,,,,0
+849013200,Sheffield Utd,Swindon,2,0,,,,0
+849013200,Reading,Birmingham,0,0,,,,0
+849013200,Charlton,Grimsby,1,3,,,,0
+849099600,Manchester City,West Brom,3,2,,,,0
+849358800,Tranmere,Ipswich,3,0,,,,0
+849358800,Swindon,Reading,3,1,,,,0
+849358800,Southend,Oldham,1,1,,,,0
+849358800,QPR,Sheffield Utd,1,0,,,,0
+849358800,Portsmouth,Stoke,1,0,,,,0
+849358800,Port Vale,Huddersfield,0,0,,,,0
+849358800,Oxford Utd,Charlton,0,2,,,,0
+849358800,Norwich,Birmingham,0,1,,,,0
+849358800,Grimsby,Crystal Palace,2,1,,,,0
+849358800,Bradford City,West Brom,1,1,,,,0
+849358800,Bolton,Barnsley,2,2,,,,0
+849445200,Wolves,Manchester City,3,0,,,,0
+849618000,Sheffield Utd,Huddersfield,3,1,,,,0
+849618000,Reading,Tranmere,2,0,,,,0
+849618000,Birmingham,Barnsley,0,0,,,,0
+849704400,Stoke,Charlton,1,0,,,,0
+849963600,Stoke,Tranmere,2,0,,,,0
+849963600,Sheffield Utd,Portsmouth,1,0,,,,0
+849963600,Reading,Port Vale,0,1,,,,0
+849963600,Oldham,QPR,0,2,,,,0
+849963600,Manchester City,Bradford City,3,2,,,,0
+849963600,Ipswich,Wolves,0,0,,,,0
+849963600,Huddersfield,Norwich,2,0,,,,0
+849963600,Crystal Palace,Oxford Utd,2,2,,,,0
+849963600,Charlton,Swindon,2,0,,,,0
+849963600,Birmingham,Grimsby,0,0,,,,0
+849963600,Barnsley,Southend,3,0,,,,0
+850050000,West Brom,Bolton,2,2,,,,0
+850568400,Wolves,Oldham,0,1,,,,0
+850568400,Stoke,Swindon,2,0,,,,0
+850568400,QPR,Southend,4,0,,,,0
+850568400,Portsmouth,Huddersfield,3,1,,,,0
+850568400,Oxford Utd,Sheffield Utd,4,1,,,,0
+850568400,Norwich,Crystal Palace,1,1,,,,0
+850568400,Charlton,Port Vale,1,3,,,,0
+850568400,Bolton,Ipswich,1,2,,,,0
+850568400,Barnsley,Tranmere,3,0,,,,0
+850827600,Crystal Palace,Sheffield Utd,0,1,,,,0
+850827600,Bradford City,Reading,0,0,,,,0
+850914000,West Brom,Norwich,5,1,,,,0
+851086800,Southend,Birmingham,1,1,,,,0
+851173200,West Brom,Oxford Utd,3,3,,,,0
+851173200,Tranmere,Wolves,0,2,,,,0
+851173200,Sheffield Utd,Barnsley,0,1,,,,0
+851173200,Reading,Portsmouth,0,0,,,,0
+851173200,Port Vale,Norwich,6,1,,,,0
+851173200,Oldham,Manchester City,2,1,,,,0
+851173200,Ipswich,Stoke,1,1,,,,0
+851173200,Huddersfield,QPR,1,2,,,,0
+851173200,Grimsby,Bradford City,1,1,,,,0
+851173200,Crystal Palace,Charlton,1,0,,,,0
+851259600,Swindon,Bolton,2,2,,,,0
+851605200,Wolves,Oxford Utd,3,1,,,,0
+851605200,Tranmere,Huddersfield,1,1,,,,0
+851605200,Stoke,Barnsley,1,0,,,,0
+851605200,Southend,Charlton,0,2,,,,0
+851605200,Reading,West Brom,2,2,,,,0
+851605200,QPR,Norwich,3,2,,,,0
+851605200,Portsmouth,Swindon,0,1,,,,0
+851605200,Manchester City,Port Vale,0,1,,,,0
+851605200,Ipswich,Crystal Palace,3,1,,,,0
+851605200,Grimsby,Bolton,1,2,,,,0
+851605200,Bradford City,Sheffield Utd,1,2,,,,0
+851778000,West Brom,QPR,4,1,,,,0
+851778000,Sheffield Utd,Oldham,2,2,,,,0
+851778000,Port Vale,Portsmouth,0,2,,,,0
+851778000,Oxford Utd,Reading,2,1,,,,0
+851778000,Norwich,Bradford City,2,0,,,,0
+851778000,Huddersfield,Ipswich,2,0,,,,0
+851778000,Charlton,Wolves,0,0,,,,0
+851778000,Bolton,Southend,3,1,,,,0
+851778000,Barnsley,Manchester City,2,0,,,,0
+852123600,West Brom,Tranmere,1,2,,,,0
+852123600,Norwich,Portsmouth,1,0,,,,0
+852123600,Huddersfield,Stoke,2,1,,,,0
+852123600,Charlton,Ipswich,1,1,,,,0
+852123600,Bolton,Bradford City,2,1,,,,0
+852901200,Tranmere,Swindon,2,1,,,,0
+852901200,Stoke,Birmingham,1,0,,,,0
+852987600,Reading,Charlton,2,2,,,,0
+852987600,QPR,Barnsley,3,1,,,,0
+852987600,Portsmouth,Bolton,0,3,,,,0
+852987600,Manchester City,Crystal Palace,1,1,,,,0
+852987600,Grimsby,Port Vale,1,1,,,,0
+852987600,Bradford City,Oxford Utd,2,0,,,,0
+853074000,Wolves,West Brom,2,0,,,,0
+853592400,West Brom,Oldham,1,1,,,,0
+853592400,Swindon,Bradford City,1,1,,,,0
+853592400,Sheffield Utd,Southend,3,0,,,,0
+853592400,Oxford Utd,Tranmere,2,1,,,,0
+853592400,Norwich,Grimsby,2,1,,,,0
+853592400,Huddersfield,Manchester City,1,1,,,,0
+853592400,Crystal Palace,Portsmouth,1,2,,,,0
+853592400,Charlton,Stoke,1,2,,,,0
+853592400,Bolton,Wolves,3,0,,,,0
+853592400,Birmingham,Reading,4,1,,,,0
+853592400,Barnsley,Ipswich,1,2,,,,0
+853678800,Port Vale,QPR,4,4,,,,0
+853938000,Stoke,Norwich,1,2,,,,0
+854110800,Sheffield Utd,Wolves,2,3,,,,0
+854197200,Swindon,Grimsby,3,3,,,,0
+854197200,Port Vale,Southend,2,1,,,,0
+854197200,Oldham,Huddersfield,1,2,,,,0
+854197200,Ipswich,West Brom,5,0,,,,0
+854456400,Tranmere,Norwich,3,1,,,,0
+854456400,Southend,Crystal Palace,2,1,,,,0
+854456400,Reading,Huddersfield,4,1,,,,0
+854456400,Portsmouth,Oxford Utd,2,1,,,,0
+854456400,Grimsby,Barnsley,2,3,,,,0
+854456400,Bradford City,Port Vale,1,0,,,,0
+854542800,Wolves,Swindon,1,0,,,,0
+854542800,Stoke,Bolton,1,2,,,,0
+854542800,QPR,Birmingham,1,1,,,,0
+854542800,Manchester City,Sheffield Utd,0,0,,,,0
+854802000,Wolves,Stoke,2,0,,,,0
+854802000,Tranmere,Reading,2,2,,,,0
+854802000,Swindon,Sheffield Utd,2,1,,,,0
+854802000,Southend,Ipswich,0,0,,,,0
+854802000,QPR,Crystal Palace,0,1,,,,0
+854802000,Portsmouth,Oldham,1,0,,,,0
+854802000,Port Vale,West Brom,2,2,,,,0
+854802000,Norwich,Barnsley,1,1,,,,0
+854802000,Grimsby,Charlton,2,0,,,,0
+854802000,Bradford City,Huddersfield,1,1,,,,0
+854802000,Bolton,Birmingham,2,1,,,,0
+854888400,Oxford Utd,Manchester City,1,4,,,,0
+855061200,Birmingham,West Brom,2,3,,,,0
+855147600,Swindon,QPR,1,1,,,,0
+855320400,Stoke,Oxford Utd,2,1,,,,0
+855320400,Charlton,Tranmere,3,1,,,,0
+855406800,West Brom,Swindon,1,2,,,,0
+855406800,Reading,Bolton,3,2,,,,0
+855406800,Oldham,Grimsby,0,3,,,,0
+855406800,Manchester City,Southend,3,0,,,,0
+855406800,Ipswich,QPR,2,0,,,,0
+855406800,Huddersfield,Wolves,0,2,,,,0
+855406800,Crystal Palace,Bradford City,3,1,,,,0
+855406800,Birmingham,Portsmouth,0,3,,,,0
+855406800,Barnsley,Port Vale,1,0,,,,0
+855493200,Sheffield Utd,Norwich,2,3,,,,0
+856011600,Wolves,Crystal Palace,0,3,,,,0
+856011600,Southend,Stoke,2,1,,,,0
+856011600,Port Vale,Ipswich,2,2,,,,0
+856011600,Oxford Utd,Oldham,3,1,,,,0
+856011600,Norwich,West Brom,2,4,,,,0
+856011600,Grimsby,Huddersfield,2,2,,,,0
+856011600,Charlton,Barnsley,2,2,,,,0
+856011600,Bolton,Sheffield Utd,2,2,,,,0
+856616400,West Brom,Portsmouth,0,2,,,,0
+856616400,Stoke,QPR,0,0,,,,0
+856616400,Sheffield Utd,Grimsby,3,1,,,,0
+856616400,Reading,Southend,3,2,,,,0
+856616400,Oldham,Bradford City,1,2,,,,0
+856616400,Manchester City,Swindon,3,0,,,,0
+856616400,Ipswich,Oxford Utd,2,1,,,,0
+856616400,Huddersfield,Bolton,1,2,,,,0
+856616400,Crystal Palace,Tranmere,0,1,,,,0
+856616400,Charlton,Norwich,4,4,,,,0
+856616400,Barnsley,Wolves,1,3,,,,0
+856702800,Birmingham,Port Vale,1,2,,,,0
+856875600,Southend,Norwich,1,1,,,,0
+856962000,Swindon,Birmingham,3,1,,,,0
+857134800,Tranmere,Stoke,0,0,,,,0
+857221200,Wolves,Ipswich,0,0,,,,0
+857221200,Swindon,Charlton,1,0,,,,0
+857221200,Southend,Barnsley,1,2,,,,0
+857221200,QPR,Oldham,0,1,,,,0
+857221200,Portsmouth,Sheffield Utd,1,1,,,,0
+857221200,Port Vale,Reading,1,0,,,,0
+857221200,Oxford Utd,Crystal Palace,1,4,,,,0
+857221200,Norwich,Huddersfield,2,0,,,,0
+857221200,Grimsby,Birmingham,1,2,,,,0
+857221200,Bradford City,Manchester City,1,3,,,,0
+857307600,Bolton,West Brom,1,0,,,,0
+857480400,Sheffield Utd,Port Vale,3,0,,,,0
+857480400,Reading,Norwich,2,1,,,,0
+857480400,Oldham,Tranmere,1,2,,,,0
+857480400,Ipswich,Bradford City,3,2,,,,0
+857480400,Huddersfield,Oxford Utd,1,0,,,,0
+857480400,Crystal Palace,Bolton,1,1,,,,0
+857480400,Charlton,QPR,2,1,,,,0
+857480400,Birmingham,Wolves,1,2,,,,0
+857480400,Barnsley,Swindon,1,1,,,,0
+857566800,West Brom,Southend,4,0,,,,0
+857566800,Stoke,Grimsby,3,1,,,,0
+857566800,Manchester City,Portsmouth,1,1,,,,0
+857739600,Barnsley,Sheffield Utd,2,0,,,,0
+857826000,Wolves,Tranmere,3,2,,,,0
+857826000,Stoke,Ipswich,0,1,,,,0
+857826000,QPR,Huddersfield,2,0,,,,0
+857826000,Oxford Utd,West Brom,1,0,,,,0
+857826000,Norwich,Port Vale,1,1,,,,0
+857826000,Manchester City,Oldham,1,0,,,,0
+857826000,Charlton,Crystal Palace,2,1,,,,0
+857826000,Bradford City,Grimsby,3,4,,,,0
+857826000,Bolton,Swindon,7,0,,,,0
+857826000,Birmingham,Southend,2,1,,,,0
+858085200,Birmingham,Manchester City,2,0,,,,0
+858171600,QPR,Reading,0,2,,,,0
+858430800,Tranmere,Barnsley,1,1,,,,0
+858430800,Swindon,Stoke,1,0,,,,0
+858430800,Southend,QPR,0,1,,,,0
+858430800,Sheffield Utd,Oxford Utd,3,1,,,,0
+858430800,Reading,Bradford City,0,0,,,,0
+858430800,Port Vale,Charlton,2,0,,,,0
+858430800,Oldham,Wolves,3,2,,,,0
+858430800,Ipswich,Bolton,0,1,,,,0
+858430800,Huddersfield,Portsmouth,1,3,,,,0
+858430800,Grimsby,Manchester City,1,1,,,,0
+858430800,Crystal Palace,Norwich,2,0,,,,0
+858517200,West Brom,Birmingham,2,0,,,,0
+858690000,Tranmere,Manchester City,1,1,,,,0
+858690000,Stoke,Wolves,1,0,,,,0
+858690000,Oxford Utd,Grimsby,3,2,,,,0
+858690000,Oldham,Charlton,1,1,,,,0
+858690000,Ipswich,Sheffield Utd,3,1,,,,0
+858690000,Bolton,Port Vale,4,2,,,,0
+859035600,West Brom,Charlton,1,2,,,,0
+859035600,Southend,Oxford Utd,2,2,,,,0
+859035600,Reading,Ipswich,1,0,,,,0
+859035600,QPR,Portsmouth,2,1,,,,0
+859035600,Port Vale,Swindon,1,0,,,,0
+859035600,Norwich,Bolton,0,1,,,,0
+859035600,Manchester City,Stoke,2,0,,,,0
+859035600,Huddersfield,Barnsley,0,0,,,,0
+859035600,Grimsby,Tranmere,0,0,,,,0
+859035600,Bradford City,Wolves,2,1,,,,0
+859035600,Birmingham,Sheffield Utd,1,1,,,,0
+859122000,Oldham,Crystal Palace,0,1,,,,0
+859294800,Portsmouth,Reading,1,0,,,,0
+859554000,Tranmere,Southend,3,0,,,,0
+859554000,Barnsley,West Brom,2,0,,,,0
+859640400,Swindon,Norwich,0,3,,,,0
+859640400,Stoke,Oldham,2,1,,,,0
+859640400,Sheffield Utd,Reading,2,0,,,,0
+859640400,Portsmouth,Bradford City,3,1,,,,0
+859640400,Oxford Utd,QPR,2,3,,,,0
+859640400,Crystal Palace,Birmingham,0,1,,,,0
+859809600,Southend,Portsmouth,2,1,,,,0
+859809600,Reading,Barnsley,1,2,,,,0
+859809600,QPR,Wolves,2,2,,,,0
+859809600,Port Vale,Tranmere,2,1,,,,0
+859809600,Oldham,Swindon,5,1,,,,0
+859809600,Norwich,Oxford Utd,1,1,,,,0
+859809600,Huddersfield,Sheffield Utd,2,1,,,,0
+859809600,Grimsby,Ipswich,2,1,,,,0
+859809600,Bradford City,Stoke,1,0,,,,0
+859809600,Birmingham,Charlton,0,0,,,,0
+860155200,Tranmere,Bradford City,3,0,,,,0
+860241600,Wolves,Norwich,3,2,,,,0
+860241600,Swindon,Southend,0,0,,,,0
+860241600,Stoke,Reading,1,1,,,,0
+860241600,Sheffield Utd,West Brom,1,2,,,,0
+860241600,Portsmouth,Grimsby,1,0,,,,0
+860241600,Oxford Utd,Port Vale,0,2,,,,0
+860241600,Ipswich,Oldham,4,0,,,,0
+860241600,Crystal Palace,Huddersfield,1,1,,,,0
+860241600,Charlton,Manchester City,1,1,,,,0
+860241600,Bolton,QPR,2,1,,,,0
+860241600,Barnsley,Birmingham,0,1,,,,0
+860500800,Oldham,Birmingham,2,2,,,,0
+860587200,West Brom,Crystal Palace,1,0,,,,0
+860587200,Manchester City,Bolton,1,2,,,,0
+860587200,Charlton,Huddersfield,2,1,,,,0
+860846400,West Brom,Manchester City,1,3,,,,0
+860846400,Swindon,Ipswich,0,4,,,,0
+860846400,Southend,Bradford City,1,1,,,,0
+860846400,Sheffield Utd,Crystal Palace,3,0,,,,0
+860846400,Reading,Wolves,2,1,,,,0
+860846400,QPR,Grimsby,3,0,,,,0
+860846400,Portsmouth,Tranmere,1,3,,,,0
+860846400,Port Vale,Oldham,3,2,,,,0
+860846400,Norwich,Stoke,2,0,,,,0
+860846400,Bolton,Oxford Utd,4,0,,,,0
+860846400,Birmingham,Huddersfield,1,0,,,,0
+860846400,Barnsley,Charlton,4,0,,,,0
+861105600,Crystal Palace,Stoke,2,0,,,,0
+861105600,Birmingham,Tranmere,0,0,,,,0
+861105600,Barnsley,Oldham,2,0,,,,0
+861192000,Manchester City,Grimsby,3,1,,,,0
+861364800,Ipswich,Norwich,2,0,,,,0
+861451200,Wolves,Southend,4,1,,,,0
+861451200,Tranmere,Sheffield Utd,1,1,,,,0
+861451200,Oxford Utd,Swindon,2,0,,,,0
+861451200,Oldham,Bolton,0,0,,,,0
+861451200,Manchester City,QPR,0,3,,,,0
+861451200,Huddersfield,West Brom,0,0,,,,0
+861451200,Grimsby,Reading,2,0,,,,0
+861451200,Crystal Palace,Barnsley,1,1,,,,0
+861451200,Charlton,Portsmouth,2,1,,,,0
+861451200,Bradford City,Birmingham,0,2,,,,0
+861537600,Stoke,Port Vale,2,0,,,,0
+861710400,Portsmouth,Barnsley,4,2,,,,0
+861710400,Ipswich,Manchester City,1,0,,,,0
+861796800,Wolves,Grimsby,1,1,,,,0
+861796800,Crystal Palace,Reading,3,2,,,,0
+861969600,Sheffield Utd,Stoke,1,0,,,,0
+861969600,Portsmouth,Ipswich,0,1,,,,0
+861969600,Norwich,Manchester City,0,0,,,,0
+861969600,Bolton,Charlton,4,1,,,,0
+862056000,West Brom,Grimsby,2,0,,,,0
+862056000,Swindon,Crystal Palace,0,2,,,,0
+862056000,Southend,Huddersfield,1,2,,,,0
+862056000,Reading,Oldham,2,0,,,,0
+862056000,QPR,Tranmere,2,0,,,,0
+862056000,Birmingham,Oxford Utd,2,0,,,,0
+862056000,Barnsley,Bradford City,2,0,,,,0
+862142400,Port Vale,Wolves,1,2,,,,0
+862488000,Bradford City,Charlton,1,0,,,,0
+862660800,Manchester City,Reading,3,2,,,,0
+862747200,Wolves,Portsmouth,0,1,,,,0
+862747200,Tranmere,Bolton,2,2,,,,0
+862747200,Stoke,West Brom,2,1,,,,0
+862747200,Oxford Utd,Barnsley,5,1,,,,0
+862747200,Oldham,Norwich,3,0,,,,0
+862747200,Ipswich,Birmingham,1,1,,,,0
+862747200,Huddersfield,Swindon,0,0,,,,0
+862747200,Grimsby,Southend,4,0,,,,0
+862747200,Crystal Palace,Port Vale,1,1,,,,0
+862747200,Charlton,Sheffield Utd,0,0,,,,0
+862747200,Bradford City,QPR,3,0,,,,0
+863272800,Sheffield Utd,Ipswich,1,1,,,,0
+863272800,Crystal Palace,Wolves,3,1,,,,0
+863635500,Wolves,Crystal Palace,2,1,,,,0
+863635500,Ipswich,Sheffield Utd,2,2,AET,2,2,0
+864655200,Crystal Palace,Sheffield Utd,1,0,,,,0

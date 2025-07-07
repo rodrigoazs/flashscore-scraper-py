@@ -1,0 +1,558 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1312569900,Hull,Blackpool,0,1,,,,0
+1312630200,Coventry,Leicester,0,1,,,,0
+1312639200,Reading,Millwall,2,2,,,,0
+1312639200,Peterborough,Crystal Palace,2,1,,,,0
+1312639200,Nottingham,Barnsley,0,0,,,,0
+1312639200,Middlesbrough,Portsmouth,2,2,,,,0
+1312639200,Derby,Birmingham,2,1,,,,0
+1312639200,Burnley,Watford,2,2,,,,0
+1312639200,Bristol City,Ipswich,0,3,,,,0
+1312639200,Brighton,Doncaster,2,1,,,,0
+1312647600,Southampton,Leeds,3,1,,,,0
+1312718400,West Ham,Cardiff,0,1,,,,0
+1313244000,Watford,Derby,0,1,,,,0
+1313244000,Portsmouth,Brighton,0,1,,,,0
+1313244000,Millwall,Nottingham,2,0,,,,0
+1313244000,Leicester,Reading,0,2,,,,0
+1313244000,Leeds,Middlesbrough,0,1,,,,0
+1313244000,Ipswich,Hull,0,1,,,,0
+1313244000,Doncaster,West Ham,0,1,,,,0
+1313244000,Crystal Palace,Burnley,2,0,,,,0
+1313244000,Birmingham,Coventry,1,0,,,,0
+1313244000,Barnsley,Southampton,0,1,,,,0
+1313330400,Cardiff,Bristol City,3,1,,,,0
+1313330400,Blackpool,Peterborough,2,1,,,,0
+1313520300,Watford,West Ham,0,4,,,,0
+1313520300,Portsmouth,Reading,1,0,,,,0
+1313520300,Leeds,Hull,4,1,,,,0
+1313520300,Ipswich,Southampton,2,5,,,,0
+1313520300,Doncaster,Nottingham,0,1,,,,0
+1313520300,Barnsley,Middlesbrough,1,3,,,,0
+1313521200,Crystal Palace,Coventry,2,1,,,,0
+1313606700,Millwall,Peterborough,2,2,,,,0
+1313606700,Leicester,Bristol City,1,2,,,,0
+1313606700,Cardiff,Brighton,1,3,,,,0
+1313607600,Blackpool,Derby,0,1,,,,0
+1313848800,Southampton,Millwall,1,0,,,,0
+1313848800,Reading,Barnsley,1,2,,,,0
+1313848800,Nottingham,Leicester,2,2,,,,0
+1313848800,Hull,Crystal Palace,0,1,,,,0
+1313848800,Derby,Doncaster,3,0,,,,0
+1313848800,Coventry,Watford,0,0,,,,0
+1313848800,Burnley,Cardiff,1,1,,,,0
+1313848800,Bristol City,Portsmouth,0,0,,,,0
+1313848800,Brighton,Blackpool,2,2,,,,0
+1313857200,Peterborough,Ipswich,7,1,,,,0
+1313928900,West Ham,Leeds,2,2,,,,0
+1313935200,Middlesbrough,Birmingham,3,1,,,,0
+1314453600,Portsmouth,Cardiff,1,1,,,,0
+1314453600,Millwall,Barnsley,0,0,,,,0
+1314453600,Middlesbrough,Coventry,1,1,,,,0
+1314453600,Leicester,Southampton,3,2,,,,0
+1314453600,Ipswich,Leeds,2,1,,,,0
+1314453600,Hull,Reading,1,0,,,,0
+1314453600,Doncaster,Bristol City,1,1,,,,0
+1314453600,Derby,Burnley,1,2,,,,0
+1314453600,Crystal Palace,Blackpool,1,1,,,,0
+1314453600,Brighton,Peterborough,2,0,,,,0
+1314533700,Nottingham,West Ham,1,4,,,,0
+1314540000,Watford,Birmingham,2,2,,,,0
+1315663200,West Ham,Portsmouth,4,3,,,,0
+1315663200,Southampton,Nottingham,3,2,,,,0
+1315663200,Reading,Watford,0,2,,,,0
+1315663200,Peterborough,Hull,0,1,,,,0
+1315663200,Leeds,Crystal Palace,3,2,,,,0
+1315663200,Cardiff,Doncaster,2,0,,,,0
+1315663200,Burnley,Middlesbrough,0,2,,,,0
+1315663200,Bristol City,Brighton,0,1,,,,0
+1315663200,Blackpool,Ipswich,2,0,,,,0
+1315663200,Barnsley,Leicester,1,1,,,,0
+1315671600,Coventry,Derby,2,0,,,,0
+1315740600,Birmingham,Millwall,3,0,,,,0
+1316259000,Millwall,West Ham,0,0,,,,0
+1316260800,Nottingham,Derby,1,2,,,,0
+1316268000,Reading,Doncaster,2,0,,,,0
+1316268000,Peterborough,Burnley,2,1,,,,0
+1316268000,Leicester,Brighton,1,0,,,,0
+1316268000,Leeds,Bristol City,2,1,,,,0
+1316268000,Hull,Portsmouth,1,0,,,,0
+1316268000,Crystal Palace,Middlesbrough,0,1,,,,0
+1316268000,Blackpool,Cardiff,1,1,,,,0
+1316268000,Barnsley,Watford,1,1,,,,0
+1316354400,Southampton,Birmingham,4,1,,,,0
+1316457900,Ipswich,Coventry,3,0,,,,0
+1316803500,Brighton,Leeds,3,3,,,,0
+1316872800,West Ham,Peterborough,1,0,,,,0
+1316872800,Portsmouth,Blackpool,1,0,,,,0
+1316872800,Middlesbrough,Ipswich,0,0,,,,0
+1316872800,Doncaster,Crystal Palace,1,0,,,,0
+1316872800,Derby,Millwall,3,0,,,,0
+1316872800,Coventry,Reading,1,1,,,,0
+1316872800,Burnley,Southampton,1,1,,,,0
+1316872800,Bristol City,Hull,1,1,,,,0
+1316872800,Birmingham,Barnsley,1,1,,,,0
+1316880900,Watford,Nottingham,0,1,,,,0
+1316952900,Cardiff,Leicester,0,0,,,,0
+1317149100,West Ham,Ipswich,0,1,,,,0
+1317149100,Watford,Millwall,2,1,,,,0
+1317149100,Portsmouth,Peterborough,2,3,,,,0
+1317149100,Doncaster,Hull,1,1,,,,0
+1317149100,Derby,Barnsley,1,1,,,,0
+1317149100,Coventry,Blackpool,2,2,,,,0
+1317149100,Burnley,Nottingham,5,1,,,,0
+1317149100,Bristol City,Reading,2,3,,,,0
+1317149100,Brighton,Crystal Palace,1,3,,,,0
+1317235500,Middlesbrough,Leicester,0,0,,,,0
+1317235500,Cardiff,Southampton,2,1,,,,0
+1317477600,Southampton,Watford,4,0,,,,0
+1317477600,Reading,Middlesbrough,0,0,,,,0
+1317477600,Peterborough,Doncaster,1,2,,,,0
+1317477600,Millwall,Burnley,0,1,,,,0
+1317477600,Leeds,Portsmouth,1,0,,,,0
+1317477600,Ipswich,Brighton,3,1,,,,0
+1317477600,Hull,Cardiff,2,1,,,,0
+1317477600,Crystal Palace,West Ham,2,2,,,,0
+1317477600,Blackpool,Bristol City,5,0,,,,0
+1317477600,Barnsley,Coventry,2,0,,,,0
+1317486000,Leicester,Derby,4,0,,,,0
+1317564000,Nottingham,Birmingham,1,3,,,,0
+1318617900,Doncaster,Leeds,0,3,,,,0
+1318687200,West Ham,Blackpool,4,0,,,,0
+1318687200,Watford,Crystal Palace,0,2,,,,0
+1318687200,Middlesbrough,Millwall,1,1,,,,0
+1318687200,Derby,Southampton,1,1,,,,0
+1318687200,Coventry,Nottingham,1,0,,,,0
+1318687200,Cardiff,Ipswich,2,2,,,,0
+1318687200,Burnley,Reading,0,1,,,,0
+1318687200,Bristol City,Peterborough,1,2,,,,0
+1318695600,Portsmouth,Barnsley,2,0,,,,0
+1318696200,Brighton,Hull,0,0,,,,0
+1318766400,Birmingham,Leicester,2,0,,,,0
+1318963500,Southampton,West Ham,1,0,,,,0
+1318963500,Peterborough,Cardiff,4,3,,,,0
+1318963500,Nottingham,Middlesbrough,2,0,,,,0
+1318963500,Millwall,Brighton,1,1,,,,0
+1318963500,Leeds,Coventry,1,1,,,,0
+1318963500,Ipswich,Portsmouth,1,0,,,,0
+1318963500,Barnsley,Burnley,2,0,,,,0
+1318964400,Reading,Derby,2,2,,,,0
+1318964400,Crystal Palace,Bristol City,1,0,,,,0
+1318964400,Blackpool,Doncaster,2,1,,,,0
+1319049900,Leicester,Watford,2,0,,,,0
+1319281200,Peterborough,Leeds,2,3,,,,0
+1319292000,Portsmouth,Doncaster,3,1,,,,0
+1319292000,Middlesbrough,Derby,2,0,,,,0
+1319292000,Leicester,Millwall,0,3,,,,0
+1319292000,Ipswich,Crystal Palace,0,1,,,,0
+1319292000,Hull,Watford,3,2,,,,0
+1319292000,Coventry,Burnley,1,2,,,,0
+1319292000,Cardiff,Barnsley,5,3,,,,0
+1319292000,Blackpool,Nottingham,1,2,,,,0
+1319300400,Reading,Southampton,1,1,,,,0
+1319378400,Bristol City,Birmingham,0,2,,,,0
+1319481900,Brighton,West Ham,0,1,,,,0
+1319654700,Birmingham,Leeds,1,0,,,,0
+1319896800,West Ham,Leicester,3,2,,,,0
+1319896800,Watford,Peterborough,3,2,,,,0
+1319896800,Southampton,Middlesbrough,3,0,,,,0
+1319896800,Nottingham,Hull,0,1,,,,0
+1319896800,Millwall,Ipswich,4,1,,,,0
+1319896800,Doncaster,Coventry,1,1,,,,0
+1319896800,Derby,Portsmouth,3,1,,,,0
+1319896800,Crystal Palace,Reading,0,0,,,,0
+1319896800,Birmingham,Brighton,0,0,,,,0
+1319896800,Barnsley,Bristol City,1,2,,,,0
+1319905200,Burnley,Blackpool,3,1,,,,0
+1319980500,Leeds,Cardiff,1,1,,,,0
+1320176700,West Ham,Bristol City,0,0,,,,0
+1320176700,Watford,Brighton,1,0,,,,0
+1320176700,Southampton,Peterborough,2,1,,,,0
+1320176700,Nottingham,Reading,1,0,,,,0
+1320176700,Millwall,Coventry,3,0,,,,0
+1320176700,Doncaster,Middlesbrough,1,3,,,,0
+1320176700,Burnley,Leicester,1,3,,,,0
+1320176700,Barnsley,Hull,2,1,,,,0
+1320177600,Crystal Palace,Portsmouth,0,0,,,,0
+1320263100,Leeds,Blackpool,0,5,,,,0
+1320263100,Derby,Cardiff,0,3,,,,0
+1320505200,Portsmouth,Nottingham,3,0,,,,0
+1320505200,Peterborough,Derby,3,2,,,,0
+1320505200,Ipswich,Doncaster,2,3,,,,0
+1320505200,Hull,West Ham,0,2,,,,0
+1320505200,Coventry,Southampton,2,4,,,,0
+1320505200,Cardiff,Crystal Palace,2,0,,,,0
+1320505200,Bristol City,Burnley,3,1,,,,0
+1320505200,Blackpool,Millwall,1,0,,,,0
+1320513600,Middlesbrough,Watford,1,0,,,,0
+1320591600,Reading,Birmingham,1,0,,,,0
+1320591600,Leicester,Leeds,0,1,,,,0
+1320591600,Brighton,Barnsley,2,0,,,,0
+1321706700,Burnley,Leeds,1,2,,,,0
+1321714800,Watford,Portsmouth,2,0,,,,0
+1321714800,Southampton,Brighton,3,0,,,,0
+1321714800,Reading,Cardiff,1,2,,,,0
+1321714800,Nottingham,Ipswich,3,2,,,,0
+1321714800,Middlesbrough,Blackpool,2,2,,,,0
+1321714800,Derby,Hull,0,2,,,,0
+1321714800,Coventry,West Ham,1,2,,,,0
+1321714800,Birmingham,Peterborough,1,1,,,,0
+1321714800,Barnsley,Doncaster,2,0,,,,0
+1321794900,Millwall,Bristol City,1,2,,,,0
+1321801200,Leicester,Crystal Palace,3,0,,,,0
+1321991100,Coventry,Cardiff,1,1,,,,0
+1321991100,Birmingham,Burnley,2,1,,,,0
+1322319600,Portsmouth,Leicester,1,1,,,,0
+1322319600,Peterborough,Middlesbrough,1,1,,,,0
+1322319600,Leeds,Barnsley,1,2,,,,0
+1322319600,Ipswich,Reading,2,3,,,,0
+1322319600,Hull,Burnley,2,3,,,,0
+1322319600,Doncaster,Watford,0,0,,,,0
+1322319600,Crystal Palace,Millwall,0,0,,,,0
+1322319600,Cardiff,Nottingham,1,0,,,,0
+1322319600,Bristol City,Southampton,2,0,,,,0
+1322319600,Brighton,Coventry,2,1,,,,0
+1322319600,Blackpool,Birmingham,2,2,,,,0
+1322328000,West Ham,Derby,3,1,,,,0
+1322595900,Watford,Bristol City,2,2,,,,0
+1322595900,Southampton,Hull,2,1,,,,0
+1322595900,Nottingham,Leeds,0,4,,,,0
+1322595900,Millwall,Doncaster,3,2,,,,0
+1322595900,Middlesbrough,West Ham,0,2,,,,0
+1322595900,Leicester,Blackpool,2,0,,,,0
+1322595900,Derby,Brighton,0,1,,,,0
+1322595900,Burnley,Ipswich,4,0,,,,0
+1322596800,Reading,Peterborough,3,2,,,,0
+1322855100,Crystal Palace,Derby,1,1,,,,0
+1322915400,Leeds,Millwall,2,0,,,,0
+1322924400,West Ham,Burnley,1,2,,,,0
+1322924400,Portsmouth,Coventry,2,1,,,,0
+1322924400,Peterborough,Barnsley,3,4,,,,0
+1322924400,Ipswich,Watford,1,2,,,,0
+1322924400,Hull,Leicester,2,1,,,,0
+1322924400,Doncaster,Southampton,1,0,,,,0
+1322924400,Brighton,Nottingham,1,0,,,,0
+1322924400,Blackpool,Reading,1,0,,,,0
+1322932800,Bristol City,Middlesbrough,0,1,,,,0
+1323001800,Cardiff,Birmingham,1,0,,,,0
+1323200700,Barnsley,Crystal Palace,2,1,,,,0
+1323287100,Hull,Birmingham,2,1,,,,0
+1323521100,Southampton,Blackpool,2,2,,,,0
+1323529200,Watford,Leeds,1,1,,,,0
+1323529200,Reading,West Ham,3,0,,,,0
+1323529200,Nottingham,Crystal Palace,0,1,,,,0
+1323529200,Millwall,Cardiff,0,0,,,,0
+1323529200,Middlesbrough,Brighton,1,0,,,,0
+1323529200,Leicester,Peterborough,1,1,,,,0
+1323529200,Derby,Bristol City,2,1,,,,0
+1323529200,Coventry,Hull,0,1,,,,0
+1323529200,Burnley,Portsmouth,0,1,,,,0
+1323529200,Birmingham,Doncaster,2,1,,,,0
+1323537600,Barnsley,Ipswich,3,5,,,,0
+1324134000,West Ham,Barnsley,1,0,,,,0
+1324134000,Peterborough,Coventry,1,0,,,,0
+1324134000,Leeds,Reading,0,1,,,,0
+1324134000,Ipswich,Derby,1,0,,,,0
+1324134000,Hull,Millwall,2,0,,,,0
+1324134000,Doncaster,Leicester,2,1,,,,0
+1324134000,Cardiff,Middlesbrough,2,3,,,,0
+1324134000,Bristol City,Nottingham,0,0,,,,0
+1324134000,Brighton,Burnley,0,1,,,,0
+1324134000,Blackpool,Watford,0,0,,,,0
+1324213200,Portsmouth,Southampton,1,1,,,,0
+1324323900,Crystal Palace,Birmingham,1,0,,,,0
+1324900800,Watford,Cardiff,1,1,,,,0
+1324904400,Southampton,Crystal Palace,2,0,,,,0
+1324904400,Millwall,Portsmouth,1,0,,,,0
+1324904400,Derby,Leeds,1,0,,,,0
+1324911600,Reading,Brighton,3,0,,,,0
+1324911600,Nottingham,Peterborough,0,1,,,,0
+1324911600,Middlesbrough,Hull,1,0,,,,0
+1324911600,Leicester,Ipswich,1,1,,,,0
+1324911600,Coventry,Bristol City,1,0,,,,0
+1324911600,Burnley,Doncaster,3,0,,,,0
+1324911600,Barnsley,Blackpool,1,3,,,,0
+1324920600,Birmingham,West Ham,1,1,,,,0
+1325274300,Southampton,Bristol City,0,1,,,,0
+1325333700,Leicester,Portsmouth,1,1,,,,0
+1325336400,Watford,Doncaster,4,1,,,,0
+1325336400,Millwall,Crystal Palace,0,1,,,,0
+1325336400,Derby,West Ham,2,1,,,,0
+1325336400,Barnsley,Leeds,4,1,,,,0
+1325343600,Reading,Ipswich,1,0,,,,0
+1325343600,Nottingham,Cardiff,0,1,,,,0
+1325343600,Middlesbrough,Peterborough,1,1,,,,0
+1325343600,Coventry,Brighton,2,0,,,,0
+1325343600,Burnley,Hull,1,0,,,,0
+1325343600,Birmingham,Blackpool,3,0,,,,0
+1325509200,Crystal Palace,Leicester,1,2,,,,0
+1325516400,West Ham,Coventry,1,0,,,,0
+1325516400,Portsmouth,Watford,2,0,,,,0
+1325516400,Peterborough,Birmingham,1,1,,,,0
+1325516400,Leeds,Burnley,2,1,,,,0
+1325516400,Ipswich,Nottingham,1,3,,,,0
+1325516400,Hull,Derby,0,1,,,,0
+1325516400,Doncaster,Barnsley,2,0,,,,0
+1325516400,Cardiff,Reading,3,1,,,,0
+1325516400,Brighton,Southampton,3,0,,,,0
+1325516400,Blackpool,Middlesbrough,3,0,,,,0
+1325619900,Bristol City,Millwall,1,0,,,,0
+1326311100,Birmingham,Ipswich,2,1,,,,0
+1326553200,Portsmouth,West Ham,0,1,,,,0
+1326553200,Nottingham,Southampton,0,3,,,,0
+1326553200,Millwall,Birmingham,0,6,,,,0
+1326553200,Middlesbrough,Burnley,0,2,,,,0
+1326553200,Leicester,Barnsley,1,2,,,,0
+1326553200,Ipswich,Blackpool,2,2,,,,0
+1326553200,Hull,Peterborough,1,0,,,,0
+1326553200,Doncaster,Cardiff,0,0,,,,0
+1326553200,Derby,Coventry,1,0,,,,0
+1326553200,Crystal Palace,Leeds,1,1,,,,0
+1326553200,Brighton,Bristol City,2,0,,,,0
+1326561600,Watford,Reading,1,2,,,,0
+1327158000,West Ham,Nottingham,2,1,,,,0
+1327158000,Reading,Hull,0,1,,,,0
+1327158000,Peterborough,Brighton,1,2,,,,0
+1327158000,Leeds,Ipswich,3,1,,,,0
+1327158000,Coventry,Middlesbrough,3,1,,,,0
+1327158000,Cardiff,Portsmouth,3,2,,,,0
+1327158000,Burnley,Derby,0,0,,,,0
+1327158000,Bristol City,Doncaster,2,1,,,,0
+1327158000,Blackpool,Crystal Palace,2,1,,,,0
+1327158000,Birmingham,Watford,3,0,,,,0
+1327158000,Barnsley,Millwall,1,3,,,,0
+1327347900,Southampton,Leicester,0,2,,,,0
+1327762800,Reading,Bristol City,1,0,,,,0
+1327762800,Peterborough,Portsmouth,0,3,,,,0
+1328039100,Southampton,Cardiff,1,1,,,,0
+1328039100,Nottingham,Burnley,0,2,,,,0
+1328039100,Millwall,Watford,0,2,,,,0
+1328039100,Leeds,Birmingham,1,4,,,,0
+1328039100,Ipswich,West Ham,5,1,,,,0
+1328039100,Hull,Doncaster,0,0,,,,0
+1328039100,Barnsley,Derby,3,2,,,,0
+1328040000,Crystal Palace,Brighton,1,1,,,,0
+1328040000,Blackpool,Coventry,2,1,,,,0
+1328125500,Leicester,Middlesbrough,2,2,,,,0
+1328358600,West Ham,Millwall,2,1,,,,0
+1328367600,Watford,Barnsley,2,1,,,,0
+1328367600,Middlesbrough,Crystal Palace,0,0,,,,0
+1328367600,Coventry,Ipswich,2,3,,,,0
+1328367600,Cardiff,Blackpool,1,3,,,,0
+1328367600,Burnley,Peterborough,1,1,,,,0
+1328367600,Bristol City,Leeds,0,3,,,,0
+1328367600,Brighton,Leicester,1,0,,,,0
+1328376000,Birmingham,Southampton,0,0,,,,0
+1328643900,Birmingham,Portsmouth,1,0,,,,0
+1328972400,Southampton,Burnley,2,0,,,,0
+1328972400,Reading,Coventry,2,0,,,,0
+1328972400,Nottingham,Watford,1,1,,,,0
+1328972400,Millwall,Derby,0,0,,,,0
+1328972400,Leicester,Cardiff,2,1,,,,0
+1328972400,Leeds,Brighton,1,2,,,,0
+1328972400,Hull,Bristol City,3,0,,,,0
+1328980800,Blackpool,Portsmouth,1,1,,,,0
+1329248700,West Ham,Southampton,1,1,,,,0
+1329248700,Watford,Leicester,3,2,,,,0
+1329248700,Portsmouth,Ipswich,0,1,,,,0
+1329248700,Middlesbrough,Nottingham,2,1,,,,0
+1329248700,Doncaster,Blackpool,1,3,,,,0
+1329248700,Derby,Reading,0,1,,,,0
+1329248700,Coventry,Leeds,2,1,,,,0
+1329248700,Cardiff,Peterborough,3,1,,,,0
+1329248700,Burnley,Barnsley,2,0,,,,0
+1329248700,Bristol City,Crystal Palace,2,2,,,,0
+1329248700,Brighton,Millwall,2,2,,,,0
+1329248700,Birmingham,Hull,0,0,,,,0
+1329508800,Reading,Burnley,1,0,,,,0
+1329577200,Southampton,Derby,4,0,,,,0
+1329577200,Peterborough,Bristol City,3,0,,,,0
+1329577200,Nottingham,Coventry,2,0,,,,0
+1329577200,Leeds,Doncaster,3,2,,,,0
+1329577200,Ipswich,Cardiff,3,0,,,,0
+1329577200,Crystal Palace,Watford,4,0,,,,0
+1329577200,Barnsley,Portsmouth,2,0,,,,0
+1329853500,Millwall,Middlesbrough,1,3,,,,0
+1329853500,Barnsley,Birmingham,1,3,,,,0
+1329854400,Blackpool,West Ham,1,4,,,,0
+1329939900,Hull,Brighton,0,0,,,,0
+1330026300,Derby,Leicester,0,1,,,,0
+1330173900,West Ham,Crystal Palace,0,0,,,,0
+1330182000,Watford,Southampton,0,3,,,,0
+1330182000,Portsmouth,Leeds,0,0,,,,0
+1330182000,Middlesbrough,Reading,0,2,,,,0
+1330182000,Doncaster,Peterborough,1,1,,,,0
+1330182000,Coventry,Barnsley,1,0,,,,0
+1330182000,Burnley,Millwall,1,3,,,,0
+1330182000,Bristol City,Blackpool,1,3,,,,0
+1330182000,Brighton,Ipswich,3,0,,,,0
+1330182000,Birmingham,Nottingham,1,2,,,,0
+1330717500,Blackpool,Hull,1,1,,,,0
+1330786800,Watford,Burnley,3,2,,,,0
+1330786800,Portsmouth,Middlesbrough,1,3,,,,0
+1330786800,Millwall,Reading,1,2,,,,0
+1330786800,Leicester,Coventry,2,0,,,,0
+1330786800,Ipswich,Bristol City,3,0,,,,0
+1330786800,Doncaster,Brighton,1,1,,,,0
+1330786800,Crystal Palace,Peterborough,1,0,,,,0
+1330786800,Birmingham,Derby,2,2,,,,0
+1330786800,Barnsley,Nottingham,1,1,,,,0
+1330795200,Leeds,Southampton,0,1,,,,0
+1330865100,Cardiff,West Ham,0,2,,,,0
+1331063100,Southampton,Ipswich,1,1,,,,0
+1331063100,Peterborough,Millwall,0,3,,,,0
+1331063100,Nottingham,Doncaster,1,2,,,,0
+1331063100,Middlesbrough,Barnsley,2,0,,,,0
+1331063100,Hull,Leeds,0,0,,,,0
+1331063100,Derby,Blackpool,2,1,,,,0
+1331063100,Coventry,Crystal Palace,1,1,,,,0
+1331063100,Bristol City,Leicester,3,2,,,,0
+1331064000,Reading,Portsmouth,1,0,,,,0
+1331149500,West Ham,Watford,1,1,,,,0
+1331149500,Brighton,Cardiff,2,2,,,,0
+1331382600,Coventry,Birmingham,1,1,,,,0
+1331391600,West Ham,Doncaster,1,1,,,,0
+1331391600,Southampton,Barnsley,2,0,,,,0
+1331391600,Reading,Leicester,3,1,,,,0
+1331391600,Peterborough,Blackpool,3,1,,,,0
+1331391600,Nottingham,Millwall,3,1,,,,0
+1331391600,Hull,Ipswich,2,2,,,,0
+1331391600,Derby,Watford,1,2,,,,0
+1331391600,Burnley,Crystal Palace,1,1,,,,0
+1331391600,Brighton,Portsmouth,2,0,,,,0
+1331400000,Bristol City,Cardiff,1,2,,,,0
+1331468100,Middlesbrough,Leeds,0,2,,,,0
+1331667900,Leicester,Birmingham,3,1,,,,0
+1331667900,Doncaster,Reading,1,1,,,,0
+1331667900,Derby,Nottingham,1,0,,,,0
+1331667900,Cardiff,Hull,0,3,,,,0
+1331996400,Watford,Coventry,0,0,,,,0
+1331996400,Portsmouth,Bristol City,0,0,,,,0
+1331996400,Millwall,Southampton,2,3,,,,0
+1331996400,Leeds,West Ham,1,1,,,,0
+1331996400,Ipswich,Peterborough,3,2,,,,0
+1331996400,Doncaster,Derby,1,2,,,,0
+1331996400,Crystal Palace,Hull,0,0,,,,0
+1331996400,Blackpool,Brighton,3,1,,,,0
+1331996400,Birmingham,Middlesbrough,3,0,,,,0
+1331996400,Barnsley,Reading,0,4,,,,0
+1332082800,Cardiff,Burnley,0,0,,,,0
+1332272700,West Ham,Middlesbrough,1,1,,,,0
+1332272700,Portsmouth,Birmingham,4,1,,,,0
+1332272700,Peterborough,Reading,3,1,,,,0
+1332272700,Leeds,Nottingham,3,7,,,,0
+1332272700,Hull,Southampton,0,2,,,,0
+1332272700,Doncaster,Millwall,0,3,,,,0
+1332272700,Bristol City,Watford,0,2,,,,0
+1332272700,Brighton,Derby,2,0,,,,0
+1332273600,Crystal Palace,Barnsley,1,0,,,,0
+1332359100,Ipswich,Burnley,1,0,,,,0
+1332359100,Cardiff,Coventry,2,2,,,,0
+1332360000,Blackpool,Leicester,3,3,,,,0
+1332601200,Watford,Ipswich,2,1,,,,0
+1332601200,Southampton,Doncaster,2,0,,,,0
+1332601200,Reading,Blackpool,3,1,,,,0
+1332601200,Nottingham,Brighton,1,1,,,,0
+1332601200,Millwall,Leeds,0,1,,,,0
+1332601200,Middlesbrough,Bristol City,1,1,,,,0
+1332601200,Leicester,Hull,2,1,,,,0
+1332601200,Derby,Crystal Palace,3,2,,,,0
+1332601200,Coventry,Portsmouth,2,0,,,,0
+1332601200,Burnley,West Ham,2,2,,,,0
+1332601200,Barnsley,Peterborough,1,0,,,,0
+1332673200,Birmingham,Cardiff,1,1,,,,0
+1332873900,Portsmouth,Hull,2,0,,,,0
+1332873900,Peterborough,West Ham,0,2,,,,0
+1332873900,Leicester,Nottingham,0,0,,,,0
+1332873900,Ipswich,Middlesbrough,1,1,,,,0
+1332874800,Crystal Palace,Doncaster,1,1,,,,0
+1333133100,Doncaster,Birmingham,1,3,,,,0
+1333193400,Cardiff,Millwall,0,0,,,,0
+1333202400,West Ham,Reading,2,4,,,,0
+1333202400,Portsmouth,Burnley,1,5,,,,0
+1333202400,Peterborough,Leicester,1,0,,,,0
+1333202400,Leeds,Watford,0,2,,,,0
+1333202400,Ipswich,Barnsley,1,0,,,,0
+1333202400,Hull,Coventry,0,2,,,,0
+1333202400,Crystal Palace,Nottingham,0,3,,,,0
+1333202400,Bristol City,Derby,1,1,,,,0
+1333202400,Brighton,Middlesbrough,1,1,,,,0
+1333211100,Blackpool,Southampton,3,0,,,,0
+1333478700,Burnley,Birmingham,1,3,,,,0
+1333717200,Reading,Leeds,2,0,,,,0
+1333720800,Watford,Blackpool,0,2,,,,0
+1333720800,Burnley,Brighton,1,0,,,,0
+1333728900,Barnsley,West Ham,0,4,,,,0
+1333800000,Southampton,Portsmouth,2,2,,,,0
+1333807200,Millwall,Hull,2,0,,,,0
+1333807200,Middlesbrough,Cardiff,0,2,,,,0
+1333807200,Leicester,Doncaster,4,0,,,,0
+1333807200,Derby,Ipswich,0,0,,,,0
+1333807200,Coventry,Peterborough,2,2,,,,0
+1333807200,Birmingham,Crystal Palace,3,1,,,,0
+1333815600,Nottingham,Bristol City,0,1,,,,0
+1333980000,Peterborough,Nottingham,0,1,,,,0
+1333980000,Leeds,Derby,0,2,,,,0
+1333980000,Ipswich,Leicester,1,2,,,,0
+1333980000,Hull,Middlesbrough,2,1,,,,0
+1333980000,Doncaster,Burnley,1,2,,,,0
+1333980000,Crystal Palace,Southampton,0,2,,,,0
+1333980000,Cardiff,Watford,1,1,,,,0
+1333980000,Bristol City,Coventry,3,1,,,,0
+1333980000,Blackpool,Barnsley,1,1,,,,0
+1333988400,West Ham,Birmingham,3,3,,,,0
+1334083500,Portsmouth,Millwall,0,1,,,,0
+1334083500,Brighton,Reading,0,1,,,,0
+1334342700,Southampton,Reading,1,3,,,,0
+1334412000,West Ham,Brighton,6,0,,,,0
+1334412000,Watford,Hull,1,1,,,,0
+1334412000,Nottingham,Blackpool,0,0,,,,0
+1334412000,Millwall,Leicester,2,1,,,,0
+1334412000,Leeds,Peterborough,4,1,,,,0
+1334412000,Doncaster,Portsmouth,3,4,,,,0
+1334412000,Derby,Middlesbrough,0,1,,,,0
+1334412000,Crystal Palace,Ipswich,1,1,,,,0
+1334412000,Burnley,Coventry,1,1,,,,0
+1334412000,Birmingham,Bristol City,2,2,,,,0
+1334412000,Barnsley,Cardiff,0,1,,,,0
+1334688300,Portsmouth,Crystal Palace,2,1,,,,0
+1334688300,Peterborough,Southampton,1,3,,,,0
+1334688300,Middlesbrough,Doncaster,0,0,,,,0
+1334688300,Leicester,Burnley,0,0,,,,0
+1334688300,Ipswich,Birmingham,1,1,,,,0
+1334688300,Hull,Barnsley,3,1,,,,0
+1334688300,Coventry,Millwall,0,1,,,,0
+1334688300,Cardiff,Derby,2,0,,,,0
+1334688300,Bristol City,West Ham,1,1,,,,0
+1334688300,Brighton,Watford,2,2,,,,0
+1334689200,Reading,Nottingham,1,0,,,,0
+1334689200,Blackpool,Leeds,1,0,,,,0
+1335007800,Cardiff,Leeds,1,1,,,,0
+1335016800,Reading,Crystal Palace,2,2,,,,0
+1335016800,Portsmouth,Derby,1,2,,,,0
+1335016800,Peterborough,Watford,2,2,,,,0
+1335016800,Ipswich,Millwall,0,3,,,,0
+1335016800,Hull,Nottingham,2,1,,,,0
+1335016800,Coventry,Doncaster,0,2,,,,0
+1335016800,Bristol City,Barnsley,2,0,,,,0
+1335016800,Brighton,Birmingham,1,1,,,,0
+1335016800,Blackpool,Burnley,4,0,,,,0
+1335025200,Middlesbrough,Southampton,2,1,,,,0
+1335206700,Leicester,West Ham,1,2,,,,0
+1335612600,West Ham,Hull,2,1,,,,0
+1335612600,Watford,Middlesbrough,2,1,,,,0
+1335612600,Southampton,Coventry,4,0,,,,0
+1335612600,Nottingham,Portsmouth,2,0,,,,0
+1335612600,Millwall,Blackpool,2,2,,,,0
+1335612600,Leeds,Leicester,1,2,,,,0
+1335612600,Doncaster,Ipswich,2,3,,,,0
+1335612600,Derby,Peterborough,1,1,,,,0
+1335612600,Crystal Palace,Cardiff,1,2,,,,0
+1335612600,Burnley,Bristol City,1,1,,,,0
+1335612600,Birmingham,Reading,2,0,,,,0
+1335612600,Barnsley,Brighton,0,0,,,,0
+1336070700,Cardiff,West Ham,0,2,,,,0
+1336157100,Blackpool,Birmingham,1,0,,,,0
+1336404600,West Ham,Cardiff,3,0,,,,0
+1336589100,Birmingham,Blackpool,2,2,,,,0
+1337436000,Blackpool,West Ham,1,2,,,,0

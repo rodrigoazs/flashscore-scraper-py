@@ -1,0 +1,661 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1635692400,Requins,Coton FC,2,3,,,,0
+1636210800,Police,AS Cotonou,0,5,,,,0
+1636210800,JS Pobe,Ayema,1,2,,,,0
+1636210800,FC Loto,Dynamo Abomey,2,1,,,,0
+1636210800,Dynamique Djougou,Damissa,0,0,,,,0
+1636210800,Dadje,Energie Sports,0,0,,,,0
+1636210800,Buffles du Borgou,Dynamo Parakou,2,0,,,,0
+1636210800,ASOS,ASVO,0,1,,,,0
+1636297200,Tonnerre,Hodio,1,0,,,,0
+1636297200,Soleil,Espoir,0,2,,,,0
+1636297200,Real Sport,Takunnin,0,1,,,,0
+1636297200,Pantheres,Cavaliers,2,2,,,,0
+1636297200,Dragons,AS Sobemap,0,1,,,,0
+1636297200,Djeffa,JAK,1,1,,,,0
+1636297200,Ainonvi,Sitatunga,2,0,,,,0
+1636383600,ASPAC,Aziza,3,1,,,,0
+1636815600,Energie Sports,Tonnerre,1,0,,,,0
+1636815600,Cavaliers,Buffles du Borgou,1,2,,,,0
+1636815600,Bembereke,Damissa,2,1,,,,0
+1636815600,Baboni,Dynamo Abomey,0,1,,,,0
+1636815600,Aziza,Police,0,1,,,,0
+1636815600,ASVO,Djeffa,1,1,,,,0
+1636815600,AS Sobemap,JS Pobe,0,2,,,,0
+1636815600,AS Cotonou,ASPAC,0,0,,,,0
+1636902000,Takunnin,Dynamique Djougou,2,1,,,,0
+1636902000,Sitatunga,Coton FC,1,4,,,,0
+1636902000,JAK,ASOS,0,1,,,,0
+1636902000,Hodio,Dadje,1,0,,,,0
+1636902000,Espoir,FC Loto,0,3,,,,0
+1636902000,Dynamo Parakou,Pantheres,0,0,,,,0
+1636902000,Avrankou Omnisport,Ayema,0,1,,,,0
+1636902000,Adjidja,Requins,2,0,,,,0
+1637161200,Requins,Police,2,1,,,,0
+1637161200,FC Loto,Hodio,1,0,,,,0
+1637161200,Dynamo Abomey,Tonnerre,0,1,,,,0
+1637161200,Damissa,Pantheres,0,0,,,,0
+1637161200,Dadje,Soleil,3,0,,,,0
+1637161200,Coton FC,AS Cotonou,1,0,,,,0
+1637161200,Buffles du Borgou,Real Sport,3,1,,,,0
+1637161200,Bembereke,Dynamo Parakou,2,0,,,,0
+1637161200,Ayema,Djeffa,3,0,,,,0
+1637161200,Avrankou Omnisport,ASVO,0,0,,,,0
+1637161200,ASPAC,Ainonvi,1,0,,,,0
+1637161200,ASOS,Dragons,0,1,,,,0
+1637161200,Adjidja,Aziza,0,1,,,,0
+1637247600,JS Pobe,JAK,0,1,,,,0
+1637247600,Dynamique Djougou,Cavaliers,1,1,,,,0
+1637247600,Baboni,Energie Sports,1,0,,,,0
+1637420400,Pantheres,Bembereke,1,2,,,,0
+1637420400,Hodio,Soleil,0,2,,,,0
+1637420400,Dynamo Parakou,Damissa,3,1,,,,0
+1637420400,Djeffa,Avrankou Omnisport,3,0,Awrd,,,0
+1637420400,Dadje,Espoir,1,1,,,,0
+1637420400,ASVO,Ayema,0,0,,,,0
+1637420400,ASPAC,Sitatunga,0,0,,,,0
+1637420400,AS Cotonou,Ainonvi,0,0,,,,0
+1637506800,Tonnerre,Baboni,1,0,,,,0
+1637506800,Police,Adjidja,1,0,,,,0
+1637506800,JAK,Dragons,2,0,,,,0
+1637506800,Energie Sports,Dynamo Abomey,1,1,,,,0
+1637506800,Cavaliers,Real Sport,2,0,,,,0
+1637506800,Buffles du Borgou,Takunnin,3,0,,,,0
+1637506800,Aziza,Requins,0,0,,,,0
+1637506800,ASOS,AS Sobemap,1,0,,,,0
+1638025200,Soleil,Energie Sports,3,0,,,,0
+1638025200,Requins,AS Cotonou,2,3,,,,0
+1638025200,Real Sport,Dynamo Parakou,1,0,,,,0
+1638025200,Dynamo Abomey,Hodio,2,0,,,,0
+1638025200,Dragons,ASVO,0,1,,,,0
+1638025200,Damissa,Cavaliers,1,2,,,,0
+1638025200,Ayema,JAK,2,1,,,,0
+1638025200,Ainonvi,Aziza,0,1,,,,0
+1638111600,Takunnin,Bembereke,0,2,,,,0
+1638111600,Sitatunga,Adjidja,1,1,,,,0
+1638111600,JS Pobe,Djeffa,2,0,,,,0
+1638111600,FC Loto,Tonnerre,0,1,,,,0
+1638111600,Espoir,Baboni,0,0,,,,0
+1638111600,Dynamique Djougou,Pantheres,0,1,,,,0
+1638111600,Coton FC,Police,4,1,,,,0
+1638111600,AS Sobemap,Avrankou Omnisport,1,1,,,,0
+1638370800,Tonnerre,Dadje,0,2,,,,0
+1638370800,Requins,Ainonvi,1,1,,,,0
+1638370800,Police,ASPAC,0,0,,,,0
+1638370800,Pantheres,Buffles du Borgou,1,2,,,,0
+1638370800,Energie Sports,Espoir,0,1,,,,0
+1638370800,Dynamo Parakou,Takunnin,2,4,,,,0
+1638370800,Dynamo Abomey,Soleil,2,1,,,,0
+1638370800,Damissa,Real Sport,0,0,,,,0
+1638370800,Bembereke,Dynamique Djougou,1,0,,,,0
+1638370800,Ayema,Dragons,1,0,,,,0
+1638370800,Avrankou Omnisport,JS Pobe,0,0,,,,0
+1638370800,ASVO,AS Sobemap,1,0,,,,0
+1638370800,Adjidja,Coton FC,1,3,,,,0
+1638457200,Djeffa,ASOS,0,0,,,,0
+1638457200,Baboni,FC Loto,0,0,,,,0
+1638457200,Aziza,Sitatunga,1,1,,,,0
+1638630000,Soleil,Tonnerre,0,1,,,,0
+1638630000,JAK,Avrankou Omnisport,1,0,,,,0
+1638630000,Espoir,Dynamo Abomey,1,0,,,,0
+1638630000,Dynamique Djougou,Buffles du Borgou,0,4,,,,0
+1638630000,Coton FC,ASPAC,3,1,,,,0
+1638630000,Cavaliers,Bembereke,1,1,,,,0
+1638630000,AS Sobemap,Ayema,2,0,,,,0
+1638630000,AS Cotonou,Adjidja,1,0,,,,0
+1638716400,Takunnin,Damissa,1,0,,,,0
+1638716400,Sitatunga,Requins,0,1,,,,0
+1638716400,Real Sport,Pantheres,1,2,,,,0
+1638716400,JS Pobe,ASOS,0,0,,,,0
+1638716400,Hodio,Baboni,0,1,,,,0
+1638716400,FC Loto,Dadje,1,2,,,,0
+1638716400,Dragons,Djeffa,1,0,,,,0
+1638716400,Ainonvi,Police,1,0,,,,0
+1639148400,Police,Sitatunga,1,1,,,,0
+1639234800,Tonnerre,Espoir,1,2,,,,0
+1639234800,Real Sport,Dynamique Djougou,0,0,,,,0
+1639234800,Pantheres,Takunnin,0,0,,,,0
+1639234800,JAK,ASVO,1,1,,,,0
+1639234800,Hodio,Energie Sports,0,2,,,,0
+1639234800,Djeffa,AS Sobemap,0,0,,,,0
+1639234800,AS Cotonou,Aziza,4,0,,,,0
+1639321200,Soleil,FC Loto,2,2,,,,0
+1639321200,Dragons,JS Pobe,0,1,,,,0
+1639321200,Dadje,Baboni,1,0,,,,0
+1639321200,Cavaliers,Dynamo Parakou,2,1,,,,0
+1639321200,Buffles du Borgou,Bembereke,1,0,,,,0
+1639321200,ASPAC,Adjidja,1,2,,,,0
+1639321200,ASOS,Avrankou Omnisport,3,1,,,,0
+1639321200,Ainonvi,Coton FC,1,0,,,,0
+1639753200,Sitatunga,AS Cotonou,0,0,,,,0
+1639839600,Takunnin,Cavaliers,1,2,,,,0
+1639839600,Requins,ASPAC,0,1,,,,0
+1639839600,Espoir,Hodio,2,0,,,,0
+1639839600,Damissa,Buffles du Borgou,1,0,,,,0
+1639839600,Baboni,Soleil,0,1,,,,0
+1639839600,Ayema,ASOS,4,1,,,,0
+1639839600,AS Sobemap,JAK,2,1,,,,0
+1639839600,Adjidja,Ainonvi,1,1,,,,0
+1639926000,Energie Sports,FC Loto,1,2,,,,0
+1639926000,Dynamo Parakou,Dynamique Djougou,2,0,,,,0
+1639926000,Dynamo Abomey,Dadje,0,1,,,,0
+1639926000,Bembereke,Real Sport,3,0,Awrd,,,0
+1639926000,Aziza,Coton FC,0,0,,,,0
+1639926000,Avrankou Omnisport,Dragons,1,3,,,,0
+1639926000,ASVO,JS Pobe,2,1,,,,0
+1640185200,Takunnin,Real Sport,1,1,,,,0
+1640185200,JAK,Djeffa,1,1,,,,0
+1640185200,Hodio,Tonnerre,3,0,,,,0
+1640185200,Espoir,Soleil,2,0,,,,0
+1640185200,Energie Sports,Dadje,1,2,,,,0
+1640185200,Dynamo Parakou,Buffles du Borgou,1,1,,,,0
+1640185200,Dynamo Abomey,FC Loto,2,0,,,,0
+1640185200,Damissa,Dynamique Djougou,1,0,,,,0
+1640185200,Coton FC,Requins,1,0,,,,0
+1640185200,Aziza,ASPAC,2,1,,,,0
+1640185200,Ayema,JS Pobe,3,1,,,,0
+1640185200,ASVO,ASOS,0,0,,,,0
+1640185200,AS Sobemap,Dragons,0,1,,,,0
+1640185200,AS Cotonou,Police,1,0,,,,0
+1640271600,Sitatunga,Ainonvi,0,0,,,,0
+1640271600,Cavaliers,Pantheres,1,2,,,,0
+1640790000,Tonnerre,Energie Sports,0,0,,,,0
+1640790000,Requins,Adjidja,0,1,,,,0
+1640790000,FC Loto,Espoir,1,0,,,,0
+1640790000,Dynamo Abomey,Baboni,1,0,,,,0
+1640790000,Dynamique Djougou,Takunnin,0,1,,,,0
+1640790000,Djeffa,ASVO,0,0,,,,0
+1640790000,Damissa,Bembereke,1,0,,,,0
+1640790000,Dadje,Hodio,0,1,,,,0
+1640790000,Coton FC,Sitatunga,1,0,,,,0
+1640790000,Buffles du Borgou,Cavaliers,1,0,,,,0
+1640790000,Ayema,Avrankou Omnisport,1,0,,,,0
+1640790000,ASPAC,AS Cotonou,0,0,,,,0
+1640790000,ASOS,JAK,1,1,,,,0
+1640876400,Police,Aziza,1,2,,,,0
+1640876400,Pantheres,Dynamo Parakou,2,1,,,,0
+1640876400,JS Pobe,AS Sobemap,0,0,,,,0
+1641308400,Police,Requins,1,2,,,,0
+1641394800,Tonnerre,Dynamo Abomey,2,2,,,,0
+1641394800,Soleil,Dadje,2,3,,,,0
+1641394800,Pantheres,Damissa,0,0,,,,0
+1641394800,JAK,JS Pobe,3,1,,,,0
+1641394800,Hodio,FC Loto,2,2,,,,0
+1641394800,Energie Sports,Baboni,1,0,,,,0
+1641394800,Dynamo Parakou,Bembereke,1,1,,,,0
+1641394800,Dragons,ASOS,2,0,,,,0
+1641394800,Djeffa,Ayema,0,0,,,,0
+1641394800,Cavaliers,Dynamique Djougou,1,0,,,,0
+1641394800,Aziza,Adjidja,0,0,,,,0
+1641394800,ASVO,Avrankou Omnisport,1,0,,,,0
+1641394800,AS Cotonou,Coton FC,2,1,,,,0
+1641481200,Real Sport,Buffles du Borgou,2,2,,,,0
+1641481200,Ainonvi,ASPAC,1,1,,,,0
+1641654000,Soleil,Hodio,1,1,,,,0
+1641654000,Requins,Aziza,0,0,,,,0
+1641654000,Dragons,JAK,2,0,,,,0
+1641654000,Damissa,Dynamo Parakou,1,0,,,,0
+1641654000,Bembereke,Pantheres,0,1,,,,0
+1641654000,Baboni,Tonnerre,2,1,,,,0
+1641654000,Avrankou Omnisport,Djeffa,2,4,,,,0
+1641740400,Takunnin,Buffles du Borgou,1,3,,,,0
+1641740400,Sitatunga,ASPAC,1,1,,,,0
+1641740400,Real Sport,Cavaliers,0,1,,,,0
+1641740400,Espoir,Dadje,4,1,,,,0
+1641740400,Dynamo Abomey,Energie Sports,4,1,,,,0
+1641740400,Ayema,ASVO,1,1,,,,0
+1641740400,AS Sobemap,ASOS,3,1,,,,0
+1641740400,Ainonvi,AS Cotonou,1,0,,,,0
+1641740400,Adjidja,Police,1,2,,,,0
+1642258800,Pantheres,Dynamique Djougou,3,1,,,,0
+1642258800,Energie Sports,Soleil,2,0,,,,0
+1642258800,Djeffa,JS Pobe,1,0,,,,0
+1642258800,Cavaliers,Damissa,0,1,,,,0
+1642258800,Baboni,Espoir,0,1,,,,0
+1642258800,Aziza,Ainonvi,1,3,,,,0
+1642258800,Avrankou Omnisport,AS Sobemap,1,4,,,,0
+1642258800,AS Cotonou,Requins,0,1,,,,0
+1642345200,Tonnerre,FC Loto,1,1,,,,0
+1642345200,Police,Coton FC,0,2,,,,0
+1642345200,JAK,Ayema,1,1,,,,0
+1642345200,Hodio,Dynamo Abomey,0,2,,,,0
+1642345200,Dynamo Parakou,Real Sport,0,1,,,,0
+1642345200,Bembereke,Takunnin,1,1,,,,0
+1642345200,ASVO,Dragons,2,0,,,,0
+1642345200,Adjidja,Sitatunga,1,1,,,,0
+1642604400,Takunnin,Dynamo Parakou,2,1,,,,0
+1642604400,Soleil,Dynamo Abomey,0,0,,,,0
+1642604400,Sitatunga,Aziza,1,1,,,,0
+1642604400,JS Pobe,Avrankou Omnisport,1,0,,,,0
+1642604400,FC Loto,Baboni,2,0,,,,0
+1642604400,Espoir,Energie Sports,2,1,,,,0
+1642604400,Dynamique Djougou,Bembereke,2,4,,,,0
+1642604400,Dragons,Ayema,1,1,,,,0
+1642604400,Dadje,Tonnerre,3,1,,,,0
+1642604400,Coton FC,Adjidja,3,2,,,,0
+1642604400,Buffles du Borgou,Pantheres,0,0,,,,0
+1642604400,ASPAC,Police,2,1,,,,0
+1642604400,ASOS,Djeffa,0,1,,,,0
+1642604400,AS Sobemap,ASVO,0,0,,,,0
+1642604400,Ainonvi,Requins,0,2,,,,0
+1642690800,Real Sport,Damissa,1,2,,,,0
+1642863600,Tonnerre,Soleil,1,1,,,,0
+1642863600,Dadje,FC Loto,1,0,,,,0
+1642863600,Buffles du Borgou,Dynamique Djougou,0,0,,,,0
+1642863600,Bembereke,Cavaliers,1,2,,,,0
+1642863600,Avrankou Omnisport,JAK,1,2,,,,0
+1642863600,ASPAC,Coton FC,1,2,,,,0
+1642863600,ASOS,JS Pobe,1,3,,,,0
+1642863600,Adjidja,AS Cotonou,2,0,,,,0
+1642950000,Requins,Sitatunga,0,1,,,,0
+1642950000,Police,Ainonvi,0,3,,,,0
+1642950000,Pantheres,Real Sport,1,0,,,,0
+1642950000,Dynamo Abomey,Espoir,2,1,,,,0
+1642950000,Djeffa,Dragons,1,0,,,,0
+1642950000,Damissa,Takunnin,2,1,,,,0
+1642950000,Baboni,Hodio,0,2,,,,0
+1642950000,Ayema,AS Sobemap,2,2,,,,0
+1643209200,Takunnin,Pantheres,0,1,,,,0
+1643209200,JS Pobe,Dragons,1,0,,,,0
+1643209200,FC Loto,Soleil,1,0,,,,0
+1643209200,Espoir,Tonnerre,0,0,,,,0
+1643209200,Energie Sports,Hodio,0,1,,,,0
+1643209200,Dynamo Parakou,Cavaliers,1,2,,,,0
+1643209200,Dynamique Djougou,Real Sport,0,2,,,,0
+1643209200,Coton FC,Ainonvi,1,0,,,,0
+1643209200,Bembereke,Buffles du Borgou,1,0,,,,0
+1643209200,Aziza,AS Cotonou,1,2,,,,0
+1643209200,ASVO,JAK,2,0,,,,0
+1643209200,AS Sobemap,Djeffa,1,2,,,,0
+1643209200,Adjidja,ASPAC,1,0,,,,0
+1643295600,Sitatunga,Police,2,1,,,,0
+1643295600,Baboni,Dadje,0,2,,,,0
+1643295600,Avrankou Omnisport,ASOS,0,1,,,,0
+1643468400,Dynamique Djougou,Dynamo Parakou,3,1,,,,0
+1643468400,Cavaliers,Takunnin,2,1,,,,0
+1643554800,Soleil,Baboni,2,0,,,,0
+1643554800,Real Sport,Bembereke,0,1,,,,0
+1643554800,JS Pobe,ASVO,2,1,,,,0
+1643554800,JAK,AS Sobemap,2,4,,,,0
+1643554800,Hodio,Espoir,1,1,,,,0
+1643554800,FC Loto,Energie Sports,5,1,,,,0
+1643554800,Dragons,Avrankou Omnisport,4,0,,,,0
+1643554800,Dadje,Dynamo Abomey,1,3,,,,0
+1643554800,Coton FC,Aziza,2,2,,,,0
+1643554800,Buffles du Borgou,Damissa,0,2,,,,0
+1643554800,ASPAC,Requins,2,1,,,,0
+1643554800,ASOS,Ayema,0,3,,,,0
+1643554800,AS Cotonou,Sitatunga,0,1,,,,0
+1643554800,Ainonvi,Adjidja,0,1,,,,0
+1646492400,Pantheres,Coton FC,0,2,,,,0
+1646492400,FC Loto,Ayema,2,1,,,,0
+1646492400,Dadje,Djeffa,1,1,,,,0
+1646492400,Buffles du Borgou,Adjidja,4,0,,,,0
+1646578800,JS Pobe,Espoir,1,1,,,,0
+1646578800,Dynamo Abomey,ASVO,2,1,,,,0
+1646578800,Bembereke,AS Cotonou,0,3,,,,0
+1646578800,Ainonvi,Cavaliers,1,0,,,,0
+1646838000,JS Pobe,Bembereke,1,0,,,,0
+1646838000,Espoir,AS Cotonou,2,1,,,,0
+1646838000,Djeffa,Pantheres,2,0,,,,0
+1646838000,Dadje,Coton FC,0,1,,,,0
+1646838000,Ayema,Cavaliers,5,2,,,,0
+1646838000,ASVO,Buffles du Borgou,1,1,,,,0
+1646838000,Ainonvi,FC Loto,1,0,,,,0
+1646924400,Adjidja,Dynamo Abomey,1,2,,,,0
+1647097200,Tonnerre,Dynamique Djougou,2,0,,,,0
+1647097200,Takunnin,Soleil,2,0,,,,0
+1647097200,Sitatunga,Requins,1,0,,,,0
+1647097200,Dragons,Police,1,0,,,,0
+1647097200,Damissa,Energie Sports,1,2,,,,0
+1647097200,Pantheres,FC Loto,1,0,,,,0
+1647097200,Coton FC,JS Pobe,1,1,,,,0
+1647097200,Buffles du Borgou,Espoir,1,2,,,,0
+1647097200,Adjidja,Ayema,0,1,,,,0
+1647183600,Hodio,Real Sport,0,1,,,,0
+1647183600,Dynamo Parakou,Baboni,3,3,,,,0
+1647183600,Aziza,JAK,1,2,,,,0
+1647183600,Avrankou Omnisport,AS Sobemap,1,0,,,,0
+1647183600,ASPAC,ASOS,0,0,,,,0
+1647183600,Djeffa,Ainonvi,1,0,,,,0
+1647183600,Cavaliers,Dynamo Abomey,2,1,,,,0
+1647183600,Bembereke,Dadje,1,1,,,,0
+1647183600,AS Cotonou,ASVO,1,0,,,,0
+1647615600,Baboni,Damissa,0,0,,,,0
+1647702000,Soleil,Dynamo Parakou,1,1,,,,0
+1647702000,Requins,Avrankou Omnisport,0,1,,,,0
+1647702000,JAK,ASPAC,0,0,,,,0
+1647702000,Dynamique Djougou,Hodio,1,3,,,,0
+1647702000,AS Sobemap,Dragons,1,0,,,,0
+1647702000,Espoir,Djeffa,3,3,,,,0
+1647702000,Buffles du Borgou,Ainonvi,2,0,,,,0
+1647702000,Ayema,Dadje,1,0,,,,0
+1647702000,AS Cotonou,Pantheres,1,2,,,,0
+1647788400,Real Sport,Takunnin,2,1,,,,0
+1647788400,Police,Aziza,2,1,,,,0
+1647788400,Energie Sports,Tonnerre,0,2,,,,0
+1647788400,ASOS,Sitatunga,0,1,,,,0
+1647788400,FC Loto,ASVO,1,2,,,,0
+1647788400,Dynamo Abomey,JS Pobe,2,1,,,,0
+1647788400,Coton FC,Cavaliers,2,1,,,,0
+1647788400,Bembereke,Adjidja,1,0,,,,0
+1648047600,JS Pobe,Pantheres,2,2,,,,0
+1648047600,FC Loto,Coton FC,1,0,,,,0
+1648047600,Djeffa,Cavaliers,1,0,,,,0
+1648047600,Dadje,AS Cotonou,1,0,,,,0
+1648047600,Ayema,Buffles du Borgou,0,0,,,,0
+1648047600,ASVO,Bembereke,2,0,,,,0
+1648047600,Ainonvi,Dynamo Abomey,1,2,,,,0
+1648134000,Adjidja,Espoir,1,1,,,,0
+1648306800,Real Sport,Soleil,0,0,,,,0
+1648306800,Hodio,Energie Sports,1,0,,,,0
+1648306800,Pantheres,Dynamo Abomey,1,1,,,,0
+1648306800,AS Cotonou,Ayema,1,1,,,,0
+1648393200,Tonnerre,Baboni,3,0,,,,0
+1648393200,Takunnin,Dynamique Djougou,2,0,,,,0
+1648393200,Sitatunga,JAK,1,0,,,,0
+1648393200,Dragons,Avrankou Omnisport,3,2,,,,0
+1648393200,Damissa,Dynamo Parakou,1,1,,,,0
+1648393200,Aziza,AS Sobemap,1,2,,,,0
+1648393200,ASPAC,Police,0,0,,,,0
+1648393200,ASOS,Requins,0,1,,,,0
+1648393200,Djeffa,Adjidja,1,1,,,,0
+1648393200,Dadje,Buffles du Borgou,1,1,,,,0
+1648393200,Coton FC,ASVO,2,1,,,,0
+1648393200,Cavaliers,Espoir,0,1,,,,0
+1648393200,Bembereke,FC Loto,0,1,,,,0
+1648393200,Ainonvi,JS Pobe,2,2,,,,0
+1648652400,Police,Sitatunga,0,4,,,,0
+1648652400,JAK,Requins,0,1,,,,0
+1648652400,Energie Sports,Takunnin,0,1,,,,0
+1648652400,Dynamo Parakou,Real Sport,0,1,,,,0
+1648652400,Dynamique Djougou,Soleil,1,0,,,,0
+1648652400,Dragons,Aziza,3,1,,,,0
+1648652400,Damissa,Tonnerre,0,0,,,,0
+1648652400,Avrankou Omnisport,ASOS,0,0,,,,0
+1648738800,Baboni,Hodio,1,1,,,,0
+1648738800,AS Sobemap,ASPAC,0,2,,,,0
+1648911600,Soleil,Energie Sports,0,1,,,,0
+1648911600,Requins,Police,4,1,,,,0
+1648911600,Real Sport,Dynamique Djougou,1,2,,,,0
+1648911600,ASOS,JAK,0,0,,,,0
+1648911600,FC Loto,JS Pobe,1,1,,,,0
+1648911600,Dynamo Abomey,Djeffa,3,2,,,,0
+1648911600,Cavaliers,AS Cotonou,0,3,,,,0
+1648911600,Bembereke,Ainonvi,1,0,,,,0
+1648998000,Tonnerre,Dynamo Parakou,1,0,,,,0
+1648998000,Takunnin,Baboni,1,1,,,,0
+1648998000,Hodio,Damissa,0,0,,,,0
+1648998000,Aziza,Avrankou Omnisport,2,1,,,,0
+1648998000,ASPAC,Dragons,4,0,,,,0
+1648998000,Espoir,Ayema,2,2,,,,0
+1648998000,Buffles du Borgou,Coton FC,3,1,,,,0
+1648998000,ASVO,Dadje,2,2,,,,0
+1648998000,Adjidja,Pantheres,0,0,,,,0
+1649084400,Sitatunga,AS Sobemap,0,0,,,,0
+1649430000,Police,ASOS,0,2,,,,0
+1649430000,Dynamo Parakou,Dynamique Djougou,4,1,,,,0
+1649516400,Tonnerre,Hodio,0,0,,,,0
+1649516400,Energie Sports,Real Sport,0,0,,,,0
+1649516400,Aziza,ASPAC,0,0,,,,0
+1649516400,Avrankou Omnisport,JAK,2,1,,,,0
+1649516400,Pantheres,ASVO,0,2,,,,0
+1649516400,Dadje,Adjidja,2,1,,,,0
+1649516400,Buffles du Borgou,Djeffa,0,1,,,,0
+1649516400,Ayema,Bembereke,2,1,,,,0
+1649516400,AS Cotonou,FC Loto,1,0,,,,0
+1649602800,Dragons,Sitatunga,3,0,,,,0
+1649602800,Damissa,Takunnin,1,2,,,,0
+1649602800,Baboni,Soleil,2,0,,,,0
+1649602800,AS Sobemap,Requins,1,1,,,,0
+1649602800,JS Pobe,Cavaliers,2,4,,,,0
+1649602800,Coton FC,Dynamo Abomey,2,0,,,,0
+1649602800,Ainonvi,Espoir,1,0,,,,0
+1649862000,FC Loto,Buffles du Borgou,0,0,,,,0
+1649862000,Espoir,Pantheres,0,1,,,,0
+1649862000,Dynamo Abomey,Bembereke,1,0,,,,0
+1649862000,Djeffa,AS Cotonou,1,0,,,,0
+1649862000,Cavaliers,Dadje,1,1,,,,0
+1649862000,Ayema,Coton FC,0,0,,,,0
+1649862000,ASVO,Ainonvi,0,0,,,,0
+1649862000,Adjidja,JS Pobe,0,1,,,,0
+1650121200,Takunnin,Tonnerre,2,1,,,,0
+1650121200,Soleil,Damissa,2,2,,,,0
+1650121200,Sitatunga,Aziza,3,3,,,,0
+1650121200,Real Sport,Baboni,2,0,,,,0
+1650121200,ASOS,AS Sobemap,0,1,,,,0
+1650121200,JS Pobe,Dadje,0,1,,,,0
+1650121200,FC Loto,Djeffa,1,0,,,,0
+1650121200,Dynamo Abomey,Ayema,1,0,,,,0
+1650121200,Cavaliers,Adjidja,2,2,,,,0
+1650207600,Requins,Dragons,0,3,,,,0
+1650207600,JAK,Police,3,0,,,,0
+1650207600,Hodio,Dynamo Parakou,2,1,,,,0
+1650207600,Dynamique Djougou,Energie Sports,0,1,,,,0
+1650207600,ASPAC,Avrankou Omnisport,2,0,,,,0
+1650207600,Espoir,ASVO,0,2,,,,0
+1650207600,Buffles du Borgou,AS Cotonou,1,0,,,,0
+1650207600,Bembereke,Coton FC,1,1,,,,0
+1650207600,Ainonvi,Pantheres,1,1,,,,0
+1650466800,Tonnerre,Soleil,1,0,,,,0
+1650466800,Hodio,Takunnin,1,2,,,,0
+1650466800,Dynamo Parakou,Energie Sports,0,0,,,,0
+1650466800,Dragons,ASOS,2,1,,,,0
+1650466800,Damissa,Real Sport,1,0,,,,0
+1650466800,Aziza,Requins,1,3,,,,0
+1650466800,Avrankou Omnisport,Police,1,1,,,,0
+1650466800,ASPAC,Sitatunga,1,0,,,,0
+1650466800,Pantheres,Dadje,1,0,,,,0
+1650466800,Espoir,Bembereke,1,0,,,,0
+1650466800,Dynamo Abomey,Buffles du Borgou,0,1,,,,0
+1650466800,Coton FC,Djeffa,4,0,,,,0
+1650466800,Cavaliers,FC Loto,0,1,,,,0
+1650466800,Ayema,Ainonvi,1,0,,,,0
+1650466800,ASVO,Adjidja,4,1,,,,0
+1650466800,AS Cotonou,JS Pobe,3,1,,,,0
+1650553200,Baboni,Dynamique Djougou,0,0,,,,0
+1650553200,AS Sobemap,JAK,1,0,,,,0
+1650726000,Pantheres,Ayema,1,1,,,,0
+1650726000,Dadje,Ainonvi,3,1,,,,0
+1650726000,ASVO,Cavaliers,0,0,,,,0
+1650726000,AS Cotonou,Dynamo Abomey,1,0,,,,0
+1650812400,Takunnin,Dynamo Parakou,1,2,,,,0
+1650812400,Soleil,Hodio,1,0,,,,0
+1650812400,Sitatunga,Avrankou Omnisport,1,1,,,,0
+1650812400,Requins,ASPAC,1,1,,,,0
+1650812400,Real Sport,Tonnerre,1,1,,,,0
+1650812400,Police,AS Sobemap,1,1,,,,0
+1650812400,JAK,Dragons,2,1,,,,0
+1650812400,Energie Sports,Baboni,1,3,,,,0
+1650812400,Dynamique Djougou,Damissa,0,2,,,,0
+1650812400,ASOS,Aziza,1,1,,,,0
+1650812400,JS Pobe,Buffles du Borgou,1,2,,,,0
+1650812400,Djeffa,Bembereke,0,1,,,,0
+1650812400,Coton FC,Espoir,2,1,,,,0
+1650812400,Adjidja,FC Loto,0,2,,,,0
+1651330800,Soleil,Takunnin,0,0,,,,0
+1651330800,Requins,Sitatunga,4,1,,,,0
+1651330800,Police,Dragons,1,2,,,,0
+1651330800,Energie Sports,Damissa,0,1,,,,0
+1651330800,Baboni,Dynamo Parakou,0,2,,,,0
+1651330800,AS Sobemap,Avrankou Omnisport,1,2,,,,0
+1651417200,Real Sport,Hodio,0,1,,,,0
+1651417200,JAK,Aziza,1,0,,,,0
+1651417200,Dynamique Djougou,Tonnerre,1,1,,,,0
+1651417200,ASOS,ASPAC,0,1,,,,0
+1651935600,Tonnerre,Energie Sports,0,0,,,,0
+1651935600,Takunnin,Real Sport,0,0,,,,0
+1651935600,Sitatunga,ASOS,1,0,,,,0
+1651935600,Dragons,AS Sobemap,0,1,,,,0
+1651935600,Damissa,Baboni,0,0,,,,0
+1651935600,JS Pobe,AS Cotonou,0,3,,,,0
+1651935600,FC Loto,Cavaliers,2,0,,,,0
+1651935600,Buffles du Borgou,Dynamo Abomey,0,0,,,,0
+1651935600,Adjidja,ASVO,0,3,,,,0
+1652022000,Hodio,Dynamique Djougou,1,1,,,,0
+1652022000,Dynamo Parakou,Soleil,2,1,,,,0
+1652022000,Aziza,Police,2,2,,,,0
+1652022000,Avrankou Omnisport,Requins,1,1,,,,0
+1652022000,ASPAC,JAK,2,1,,,,0
+1652022000,Djeffa,Coton FC,1,2,,,,0
+1652022000,Dadje,Pantheres,1,1,,,,0
+1652022000,Bembereke,Espoir,0,3,,,,0
+1652022000,Ainonvi,Ayema,0,1,,,,0
+1652281200,Espoir,JS Pobe,3,0,,,,0
+1652281200,Djeffa,Dadje,1,0,,,,0
+1652281200,Coton FC,Pantheres,1,0,,,,0
+1652281200,Cavaliers,Ainonvi,1,2,,,,0
+1652281200,Ayema,FC Loto,2,2,,,,0
+1652281200,ASVO,Dynamo Abomey,1,0,,,,0
+1652281200,Adjidja,Buffles du Borgou,0,1,,,,0
+1652367600,AS Cotonou,Bembereke,1,1,,,,0
+1652454000,Dynamo Parakou,Damissa,1,1,,,,0
+1652540400,Soleil,Real Sport,2,0,,,,0
+1652540400,Requins,ASOS,3,0,,,,0
+1652540400,Police,ASPAC,2,1,,,,0
+1652540400,JAK,Sitatunga,1,2,,,,0
+1652540400,Energie Sports,Hodio,1,0,,,,0
+1652540400,Dynamique Djougou,Takunnin,1,3,,,,0
+1652540400,Baboni,Tonnerre,2,1,,,,0
+1652540400,Avrankou Omnisport,Dragons,0,1,,,,0
+1652540400,FC Loto,Ainonvi,0,0,,,,0
+1652540400,Dynamo Abomey,Adjidja,4,1,,,,0
+1652540400,Coton FC,Dadje,2,1,,,,0
+1652626800,AS Sobemap,Aziza,2,2,,,,0
+1652626800,Pantheres,Djeffa,1,0,,,,0
+1652626800,Cavaliers,Ayema,0,2,,,,0
+1652626800,Buffles du Borgou,ASVO,2,0,,,,0
+1652626800,Bembereke,JS Pobe,3,1,,,,0
+1652626800,AS Cotonou,Espoir,3,0,,,,0
+1652799600,Sitatunga,Police,3,2,,,,0
+1652886000,Tonnerre,Damissa,0,1,,,,0
+1652886000,Takunnin,Energie Sports,1,1,,,,0
+1652886000,Soleil,Dynamique Djougou,2,2,,,,0
+1652886000,Requins,JAK,2,0,,,,0
+1652886000,Real Sport,Dynamo Parakou,0,0,,,,0
+1652886000,Hodio,Baboni,2,2,,,,0
+1652886000,ASPAC,AS Sobemap,0,0,,,,0
+1652886000,ASOS,Avrankou Omnisport,1,0,,,,0
+1652886000,JS Pobe,Coton FC,1,2,,,,0
+1652886000,FC Loto,Pantheres,2,0,,,,0
+1652886000,Espoir,Buffles du Borgou,1,0,,,,0
+1652886000,Dynamo Abomey,Cavaliers,2,0,,,,0
+1652886000,Dadje,Bembereke,1,0,,,,0
+1652886000,Ayema,Adjidja,1,1,,,,0
+1652886000,ASVO,AS Cotonou,2,0,,,,0
+1652886000,Ainonvi,Djeffa,0,1,,,,0
+1652972400,Aziza,Dragons,1,1,,,,0
+1653145200,Police,Requins,0,2,,,,0
+1653145200,JAK,ASOS,2,1,,,,0
+1653145200,Energie Sports,Soleil,1,1,,,,0
+1653145200,Dynamique Djougou,Real Sport,1,0,,,,0
+1653145200,Damissa,Hodio,1,1,,,,0
+1653145200,Baboni,Takunnin,0,0,,,,0
+1653145200,AS Sobemap,Sitatunga,1,2,,,,0
+1653145200,Dadje,Ayema,2,0,,,,0
+1653145200,ASVO,FC Loto,0,0,,,,0
+1653231600,Dynamo Parakou,Tonnerre,2,0,,,,0
+1653231600,Dragons,ASPAC,0,1,,,,0
+1653231600,Avrankou Omnisport,Aziza,1,0,,,,0
+1653231600,Pantheres,AS Cotonou,1,1,,,,0
+1653231600,JS Pobe,Dynamo Abomey,5,0,,,,0
+1653231600,Djeffa,Espoir,0,1,,,,0
+1653231600,Cavaliers,Coton FC,0,2,,,,0
+1653231600,Ainonvi,Buffles du Borgou,0,0,,,,0
+1653231600,Adjidja,Bembereke,1,1,,,,0
+1653490800,Pantheres,JS Pobe,2,2,,,,0
+1653490800,Espoir,Adjidja,2,0,,,,0
+1653490800,Dynamo Abomey,Ainonvi,1,0,,,,0
+1653490800,Coton FC,FC Loto,0,1,,,,0
+1653490800,Cavaliers,Djeffa,1,0,,,,0
+1653490800,Buffles du Borgou,Ayema,2,0,,,,0
+1653490800,Bembereke,ASVO,0,1,,,,0
+1653490800,AS Cotonou,Dadje,0,0,,,,0
+1653750000,Takunnin,Damissa,0,3,Awrd,,,0
+1653750000,Soleil,Baboni,2,1,,,,0
+1653750000,Requins,AS Sobemap,0,1,,,,0
+1653750000,Real Sport,Energie Sports,3,1,,,,0
+1653750000,JAK,Avrankou Omnisport,2,1,,,,0
+1653750000,Espoir,Cavaliers,2,0,,,,0
+1653750000,Dynamo Abomey,Pantheres,5,1,,,,0
+1653750000,Ayema,AS Cotonou,2,2,,,,0
+1653836400,Sitatunga,Dragons,0,0,,,,0
+1653836400,Dynamique Djougou,Dynamo Parakou,3,0,Awrd,,,0
+1653836400,ASPAC,Aziza,1,1,,,,0
+1653836400,ASOS,Police,2,0,,,,0
+1653836400,JS Pobe,Ainonvi,2,1,,,,0
+1653836400,FC Loto,Bembereke,2,0,,,,0
+1653836400,Buffles du Borgou,Dadje,2,1,,,,0
+1653836400,ASVO,Coton FC,1,0,,,,0
+1653836400,Adjidja,Djeffa,3,0,,,,0
+1653922800,Hodio,Tonnerre,1,0,,,,0
+1654095600,Pantheres,Adjidja,2,0,,,,0
+1654095600,JS Pobe,FC Loto,0,2,,,,0
+1654095600,Djeffa,Dynamo Abomey,0,1,,,,0
+1654095600,Dadje,ASVO,0,0,,,,0
+1654095600,Coton FC,Buffles du Borgou,0,0,,,,0
+1654095600,Ayema,Espoir,0,1,,,,0
+1654095600,AS Cotonou,Cavaliers,2,0,,,,0
+1654182000,Ainonvi,Bembereke,0,1,,,,0
+1654354800,Tonnerre,Takunnin,2,3,,,,0
+1654354800,Police,JAK,0,0,,,,0
+1654354800,Energie Sports,Dynamique Djougou,0,1,,,,0
+1654354800,Dynamo Parakou,Hodio,0,0,,,,0
+1654354800,Dragons,Requins,0,0,,,,0
+1654354800,Damissa,Soleil,1,0,,,,0
+1654354800,Aziza,Sitatunga,2,0,,,,0
+1654354800,Avrankou Omnisport,ASPAC,1,1,,,,0
+1654354800,ASVO,Pantheres,1,1,,,,0
+1654354800,Adjidja,Dadje,0,1,,,,0
+1654441200,Baboni,Real Sport,1,1,,,,0
+1654441200,AS Sobemap,ASOS,3,2,,,,0
+1654441200,FC Loto,AS Cotonou,3,0,,,,0
+1654441200,Espoir,Ainonvi,3,1,,,,0
+1654441200,Dynamo Abomey,Coton FC,1,2,,,,0
+1654441200,Djeffa,Buffles du Borgou,0,1,,,,0
+1654441200,Cavaliers,JS Pobe,3,1,,,,0
+1654441200,Bembereke,Ayema,0,0,,,,0
+1654693200,Sitatunga,ASPAC,1,2,,,,0
+1654700400,Takunnin,Hodio,2,4,,,,0
+1654700400,Soleil,Tonnerre,1,0,,,,0
+1654700400,Requins,Aziza,1,1,,,,0
+1654700400,Police,Avrankou Omnisport,2,0,,,,0
+1654700400,JAK,AS Sobemap,0,0,,,,0
+1654700400,Energie Sports,Dynamo Parakou,2,0,,,,0
+1654700400,Dynamique Djougou,Baboni,1,1,,,,0
+1654700400,ASOS,Dragons,1,1,,,,0
+1654700400,Pantheres,Espoir,1,3,,,,0
+1654700400,JS Pobe,Adjidja,2,0,,,,0
+1654700400,Dadje,Cavaliers,2,3,,,,0
+1654700400,Coton FC,Ayema,2,0,,,,0
+1654700400,Buffles du Borgou,FC Loto,3,1,,,,0
+1654700400,Bembereke,Dynamo Abomey,1,1,,,,0
+1654700400,AS Cotonou,Djeffa,0,1,,,,0
+1654786800,Real Sport,Damissa,1,0,,,,0
+1654786800,Ainonvi,ASVO,1,2,,,,0
+1654959600,Dragons,JAK,1,0,,,,0
+1654959600,Aziza,ASOS,2,1,Awrd,,,0
+1654959600,ASPAC,Requins,2,2,,,,0
+1654959600,AS Sobemap,Police,0,3,,,,0
+1654959600,Adjidja,Cavaliers,1,0,,,,0
+1655046000,Tonnerre,Real Sport,0,0,,,,0
+1655046000,Hodio,Soleil,2,3,,,,0
+1655046000,Dynamo Parakou,Takunnin,1,3,,,,0
+1655046000,Damissa,Dynamique Djougou,0,1,,,,0
+1655046000,Baboni,Energie Sports,0,0,,,,0
+1655046000,Avrankou Omnisport,Sitatunga,2,1,,,,0
+1655046000,Pantheres,Ainonvi,2,0,,,,0
+1655046000,Djeffa,FC Loto,0,1,,,,0
+1655046000,Dadje,JS Pobe,3,0,,,,0
+1655046000,Coton FC,Bembereke,2,1,,,,0
+1655046000,Ayema,Dynamo Abomey,3,2,,,,0
+1655046000,ASVO,Espoir,1,0,,,,0
+1655046000,AS Cotonou,Buffles du Borgou,2,2,,,,0
+1655305200,FC Loto,Adjidja,1,0,,,,0
+1655305200,Espoir,Coton FC,1,0,,,,0
+1655305200,Dynamo Abomey,AS Cotonou,1,0,,,,0
+1655305200,Cavaliers,ASVO,3,2,,,,0
+1655305200,Buffles du Borgou,JS Pobe,2,0,,,,0
+1655305200,Bembereke,Djeffa,1,0,,,,0
+1655305200,Ayema,Pantheres,1,0,,,,0
+1655305200,Ainonvi,Dadje,1,0,,,,0

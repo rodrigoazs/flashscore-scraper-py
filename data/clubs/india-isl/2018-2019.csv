@@ -1,0 +1,96 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1538229600,ATK,Kerala Blasters,0,2,,,,0
+1538316000,Bengaluru FC,Chennaiyin,1,0,,,,0
+1538402400,North East Utd,Goa,2,2,,,,0
+1538488800,Mumbai City,Jamshedpur,0,2,,,,0
+1538575200,Odisha FC,Pune City,1,1,,,,0
+1538661600,ATK,North East Utd,0,1,,,,0
+1538748000,Kerala Blasters,Mumbai City,1,1,,,,0
+1538834400,Chennaiyin,Goa,1,3,,,,0
+1538920800,Bengaluru FC,Jamshedpur,2,2,,,,0
+1539784800,Odisha FC,ATK,1,2,,,,0
+1539871200,Chennaiyin,North East Utd,3,4,,,,0
+1539957600,Mumbai City,Pune City,2,0,,,,0
+1540044000,Kerala Blasters,Odisha FC,1,1,,,,0
+1540130400,Jamshedpur,ATK,1,1,,,,0
+1540216800,Pune City,Bengaluru FC,0,3,,,,0
+1540303200,Odisha FC,Chennaiyin,0,0,,,,0
+1540389600,Goa,Mumbai City,5,0,,,,0
+1540476000,North East Utd,Jamshedpur,1,1,,,,0
+1540562400,ATK,Chennaiyin,2,1,,,,0
+1540648800,Mumbai City,Odisha FC,2,0,,,,0
+1540735200,Goa,Pune City,4,2,,,,0
+1540821600,Jamshedpur,Kerala Blasters,2,2,,,,0
+1540908000,Odisha FC,North East Utd,0,2,,,,0
+1540994400,ATK,Bengaluru FC,1,2,,,,0
+1541080800,Jamshedpur,Goa,4,1,,,,0
+1541167200,Pune City,Kerala Blasters,1,1,,,,0
+1541253600,Chennaiyin,Mumbai City,0,1,,,,0
+1541340000,Odisha FC,Jamshedpur,2,2,,,,0
+1541426400,Kerala Blasters,Bengaluru FC,1,2,,,,0
+1541512800,Pune City,Chennaiyin,2,4,,,,0
+1541685600,Goa,Odisha FC,3,2,,,,0
+1541772000,North East Utd,Mumbai City,0,1,,,,0
+1541858400,ATK,Pune City,1,0,,,,0
+1541944800,Kerala Blasters,Goa,1,3,,,,0
+1542808800,Pune City,Jamshedpur,2,1,,,,0
+1542895200,Goa,Bengaluru FC,1,2,,,,0
+1542981600,North East Utd,Kerala Blasters,2,1,,,,0
+1543068000,Mumbai City,ATK,0,0,,,,0
+1543154400,Jamshedpur,Chennaiyin,3,1,,,,0
+1543240800,Bengaluru FC,Odisha FC,1,0,,,,0
+1543327200,Pune City,North East Utd,0,2,,,,0
+1543413600,ATK,Goa,0,0,,,,0
+1543500000,Chennaiyin,Kerala Blasters,0,0,,,,0
+1543586400,Bengaluru FC,Pune City,2,1,,,,0
+1543672800,Jamshedpur,North East Utd,0,0,,,,0
+1543759200,Chennaiyin,ATK,2,3,,,,0
+1543845600,Odisha FC,Mumbai City,2,4,,,,0
+1543932000,Kerala Blasters,Jamshedpur,1,1,,,,0
+1544018400,North East Utd,Bengaluru FC,1,1,,,,0
+1544104800,Mumbai City,Chennaiyin,2,0,,,,0
+1544191200,Kerala Blasters,Pune City,0,1,,,,0
+1544277600,North East Utd,ATK,0,0,,,,0
+1544364000,Bengaluru FC,Mumbai City,1,1,,,,0
+1544536800,Pune City,Goa,2,0,,,,0
+1544623200,Jamshedpur,Odisha FC,2,1,,,,0
+1544709600,Bengaluru FC,ATK,1,0,,,,0
+1544796000,Goa,North East Utd,5,1,,,,0
+1544882400,Chennaiyin,Odisha FC,1,3,,,,0
+1544968800,Mumbai City,Kerala Blasters,6,1,,,,0
+1548424800,Kerala Blasters,ATK,1,1,,,,0
+1548511200,North East Utd,Chennaiyin,1,0,,,,0
+1548597600,Mumbai City,Bengaluru FC,1,0,,,,0
+1548684000,Goa,Jamshedpur,0,0,,,,0
+1548856800,Bengaluru FC,North East Utd,2,1,,,,0
+1548943200,Odisha FC,Kerala Blasters,2,0,,,,0
+1549029600,Mumbai City,Goa,0,2,,,,0
+1549116000,Chennaiyin,Pune City,1,2,,,,0
+1549202400,ATK,Jamshedpur,2,1,,,,0
+1549288800,Odisha FC,Goa,0,0,,,,0
+1549461600,Bengaluru FC,Kerala Blasters,2,2,,,,0
+1549548000,North East Utd,Odisha FC,1,1,,,,0
+1549634400,Jamshedpur,Mumbai City,1,0,,,,0
+1549720800,Chennaiyin,Bengaluru FC,2,1,,,,0
+1549807200,Pune City,ATK,2,2,,,,0
+1550066400,Mumbai City,North East Utd,0,2,,,,0
+1550152800,Goa,ATK,3,0,,,,0
+1550239200,Kerala Blasters,Chennaiyin,3,0,,,,0
+1550325600,Jamshedpur,Pune City,1,4,,,,0
+1550412000,Odisha FC,Bengaluru FC,3,2,,,,0
+1550498400,Goa,Kerala Blasters,3,0,,,,0
+1550671200,North East Utd,Pune City,1,1,,,,0
+1550757600,Bengaluru FC,Goa,3,0,,,,0
+1550844000,ATK,Mumbai City,1,3,,,,0
+1550930400,Chennaiyin,Jamshedpur,0,0,,,,0
+1551016800,Pune City,Odisha FC,1,3,,,,0
+1551276000,Jamshedpur,Bengaluru FC,5,1,,,,0
+1551362400,Goa,Chennaiyin,1,0,,,,0
+1551448800,Kerala Blasters,North East Utd,0,0,,,,0
+1551535200,Pune City,Mumbai City,2,1,,,,0
+1551621600,ATK,Odisha FC,2,1,,,,0
+1551967200,North East Utd,Bengaluru FC,2,1,,,,0
+1552140000,Mumbai City,Goa,1,5,,,,0
+1552312800,Bengaluru FC,North East Utd,3,0,,,,0
+1552399200,Goa,Mumbai City,0,1,,,,0
+1552831200,Bengaluru FC,Goa,0,0,AET,1,0,0

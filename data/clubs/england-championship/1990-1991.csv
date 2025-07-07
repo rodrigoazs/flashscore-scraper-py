@@ -1,0 +1,558 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+651585600,Wolves,Oldham,2,3,,,,0
+651585600,Watford,Millwall,1,2,,,,0
+651585600,Portsmouth,West Brom,1,1,,,,0
+651585600,Oxford Utd,Port Vale,5,2,,,,0
+651585600,Newcastle,Plymouth,2,0,,,,0
+651585600,Middlesbrough,West Ham,0,0,,,,0
+651585600,Leicester,Bristol Rovers,3,2,,,,0
+651585600,Ipswich,Sheffield Wed,0,2,,,,0
+651585600,Hull,Notts Co,1,2,,,,0
+651585600,Charlton,Swindon,1,2,,,,0
+651585600,Bristol City,Blackburn,4,2,,,,0
+651585600,Barnsley,Brighton,2,1,,,,0
+651844800,Swindon,Ipswich,1,0,,,,0
+651844800,Port Vale,Wolves,1,2,,,,0
+651844800,Plymouth,Watford,1,1,,,,0
+651844800,Oldham,Leicester,2,0,,,,0
+651844800,Blackburn,Hull,2,1,,,,0
+651931200,West Ham,Portsmouth,1,1,,,,0
+652190400,West Ham,Watford,1,0,,,,0
+652190400,West Brom,Ipswich,1,2,,,,0
+652190400,Sheffield Wed,Hull,5,1,,,,0
+652190400,Port Vale,Leicester,2,0,,,,0
+652190400,Plymouth,Middlesbrough,1,1,,,,0
+652190400,Oldham,Portsmouth,3,1,,,,0
+652190400,Notts Co,Oxford Utd,3,1,,,,0
+652190400,Millwall,Barnsley,4,1,,,,0
+652190400,Bristol Rovers,Charlton,2,1,,,,0
+652190400,Brighton,Wolves,1,1,,,,0
+652190400,Blackburn,Newcastle,0,1,,,,0
+652276800,Swindon,Bristol City,0,1,,,,0
+652795200,Wolves,Bristol Rovers,1,1,,,,0
+652795200,Watford,Brighton,0,1,,,,0
+652795200,Portsmouth,Port Vale,2,4,,,,0
+652795200,Oxford Utd,West Brom,1,3,,,,0
+652795200,Newcastle,Millwall,1,2,,,,0
+652795200,Middlesbrough,Notts Co,1,0,,,,0
+652795200,Leicester,West Ham,1,2,,,,0
+652795200,Ipswich,Blackburn,2,1,,,,0
+652795200,Hull,Swindon,1,1,,,,0
+652795200,Charlton,Sheffield Wed,0,1,,,,0
+652795200,Bristol City,Plymouth,1,1,,,,0
+652795200,Barnsley,Oldham,0,1,,,,0
+653400000,West Ham,Wolves,1,1,,,,0
+653400000,West Brom,Bristol City,2,1,,,,0
+653400000,Swindon,Middlesbrough,1,3,,,,0
+653400000,Sheffield Wed,Watford,2,0,,,,0
+653400000,Port Vale,Newcastle,0,1,,,,0
+653400000,Plymouth,Leicester,2,0,,,,0
+653400000,Oldham,Oxford Utd,3,0,,,,0
+653400000,Notts Co,Portsmouth,2,1,,,,0
+653400000,Millwall,Ipswich,1,1,,,,0
+653400000,Bristol Rovers,Hull,1,1,,,,0
+653400000,Brighton,Charlton,3,2,,,,0
+653400000,Blackburn,Barnsley,1,2,,,,0
+653572800,Port Vale,Middlesbrough,3,1,,,,0
+653659200,Swindon,Wolves,1,0,,,,0
+653659200,Sheffield Wed,Newcastle,2,2,,,,0
+653659200,Plymouth,Oxford Utd,2,2,,,,0
+653659200,Oldham,Charlton,1,1,,,,0
+653659200,Notts Co,Barnsley,2,3,,,,0
+653659200,Blackburn,Leicester,4,1,,,,0
+653745600,West Ham,Ipswich,3,1,,,,0
+653745600,Millwall,Hull,3,3,,,,0
+653745600,Brighton,Portsmouth,3,2,,,,0
+654004800,Wolves,Plymouth,3,1,,,,0
+654004800,Watford,Notts Co,1,3,,,,0
+654004800,Portsmouth,Blackburn,3,2,,,,0
+654004800,Oxford Utd,Swindon,2,4,,,,0
+654004800,Newcastle,West Ham,1,1,,,,0
+654004800,Middlesbrough,Oldham,0,1,,,,0
+654004800,Leicester,Sheffield Wed,2,4,,,,0
+654004800,Ipswich,Bristol Rovers,2,1,,,,0
+654004800,Hull,West Brom,1,1,,,,0
+654004800,Charlton,Millwall,0,0,,,,0
+654004800,Bristol City,Brighton,3,1,,,,0
+654004800,Barnsley,Port Vale,1,1,,,,0
+654609600,West Brom,Oldham,0,0,,,,0
+654609600,Sheffield Wed,West Ham,1,1,,,,0
+654609600,Portsmouth,Plymouth,3,1,,,,0
+654609600,Oxford Utd,Wolves,1,1,,,,0
+654609600,Notts Co,Bristol Rovers,3,2,,,,0
+654609600,Middlesbrough,Leicester,6,0,,,,0
+654609600,Ipswich,Watford,1,1,,,,0
+654609600,Hull,Port Vale,3,2,,,,0
+654609600,Charlton,Barnsley,2,1,,,,0
+654609600,Bristol City,Newcastle,1,0,,,,0
+654609600,Blackburn,Brighton,1,2,,,,0
+654699600,Swindon,Millwall,0,0,,,,0
+654786000,Port Vale,Notts Co,0,1,,,,0
+654872400,Wolves,Charlton,3,0,,,,0
+654872400,Watford,Hull,0,1,,,,0
+654872400,Plymouth,West Brom,2,0,,,,0
+654872400,Oldham,Swindon,3,2,,,,0
+654872400,Barnsley,Ipswich,5,1,,,,0
+654958800,West Ham,Oxford Utd,2,0,,,,0
+654958800,Newcastle,Middlesbrough,0,0,,,,0
+654958800,Millwall,Portsmouth,2,0,,,,0
+654958800,Leicester,Bristol City,3,0,,,,0
+654958800,Bristol Rovers,Blackburn,1,2,,,,0
+654958800,Brighton,Sheffield Wed,0,4,,,,0
+655218000,Wolves,Bristol City,4,0,,,,0
+655218000,West Ham,Hull,7,1,,,,0
+655218000,Watford,Middlesbrough,0,3,,,,0
+655218000,Port Vale,Charlton,1,1,,,,0
+655218000,Plymouth,Ipswich,0,0,,,,0
+655218000,Oldham,Blackburn,1,1,,,,0
+655218000,Newcastle,Portsmouth,2,1,,,,0
+655218000,Millwall,West Brom,4,1,,,,0
+655218000,Leicester,Notts Co,2,1,,,,0
+655218000,Bristol Rovers,Sheffield Wed,0,1,,,,0
+655218000,Brighton,Swindon,3,3,,,,0
+655218000,Barnsley,Oxford Utd,3,0,,,,0
+655822800,West Brom,Brighton,1,1,,,,0
+655822800,Swindon,Bristol Rovers,0,2,,,,0
+655822800,Sheffield Wed,Plymouth,3,0,,,,0
+655822800,Portsmouth,Barnsley,0,0,,,,0
+655822800,Oxford Utd,Newcastle,0,0,,,,0
+655822800,Notts Co,Wolves,1,1,,,,0
+655822800,Middlesbrough,Millwall,2,1,,,,0
+655822800,Ipswich,Port Vale,3,0,,,,0
+655822800,Hull,Oldham,2,2,,,,0
+655822800,Charlton,Leicester,1,2,,,,0
+655822800,Bristol City,West Ham,1,1,,,,0
+655822800,Blackburn,Watford,0,2,,,,0
+656427600,West Brom,Barnsley,1,1,,,,0
+656427600,Swindon,West Ham,0,1,,,,0
+656427600,Sheffield Wed,Port Vale,1,1,,,,0
+656427600,Portsmouth,Leicester,3,1,,,,0
+656427600,Oxford Utd,Brighton,3,0,,,,0
+656427600,Notts Co,Millwall,0,1,,,,0
+656427600,Middlesbrough,Bristol Rovers,1,2,,,,0
+656427600,Ipswich,Newcastle,2,1,,,,0
+656427600,Hull,Wolves,1,2,,,,0
+656427600,Charlton,Watford,1,2,,,,0
+656427600,Bristol City,Oldham,1,2,,,,0
+656427600,Blackburn,Plymouth,0,0,,,,0
+656600400,Port Vale,West Brom,1,2,,,,0
+656686800,Wolves,Middlesbrough,1,0,,,,0
+656686800,Watford,Portsmouth,0,1,,,,0
+656686800,Plymouth,Notts Co,0,0,,,,0
+656686800,Oldham,Ipswich,2,0,,,,0
+656686800,Barnsley,Sheffield Wed,1,1,,,,0
+656773200,West Ham,Blackburn,1,0,,,,0
+656773200,Newcastle,Charlton,1,3,,,,0
+656773200,Millwall,Bristol City,1,2,,,,0
+656773200,Leicester,Swindon,2,2,,,,0
+656773200,Bristol Rovers,Oxford Utd,1,0,,,,0
+656773200,Brighton,Hull,3,1,,,,0
+657032400,Wolves,Blackburn,2,3,,,,0
+657032400,West Ham,Charlton,2,1,,,,0
+657032400,Watford,Oxford Utd,1,1,,,,0
+657032400,Port Vale,Bristol City,3,2,,,,0
+657032400,Plymouth,Hull,4,1,,,,0
+657032400,Oldham,Notts Co,2,1,,,,0
+657032400,Newcastle,West Brom,1,1,,,,0
+657032400,Millwall,Sheffield Wed,4,2,,,,0
+657032400,Leicester,Ipswich,1,2,,,,0
+657032400,Bristol Rovers,Portsmouth,1,2,,,,0
+657032400,Brighton,Middlesbrough,2,4,,,,0
+657032400,Barnsley,Swindon,5,1,,,,0
+657291600,Notts Co,Charlton,2,2,,,,0
+657637200,West Brom,Bristol Rovers,3,1,,,,0
+657637200,Swindon,Port Vale,1,2,,,,0
+657637200,Sheffield Wed,Oldham,2,2,,,,0
+657637200,Portsmouth,Wolves,0,0,,,,0
+657637200,Oxford Utd,Leicester,2,2,,,,0
+657637200,Notts Co,West Ham,0,1,,,,0
+657637200,Middlesbrough,Barnsley,1,0,,,,0
+657637200,Ipswich,Brighton,1,3,,,,0
+657637200,Hull,Newcastle,2,1,,,,0
+657637200,Charlton,Plymouth,0,1,,,,0
+657637200,Bristol City,Watford,3,2,,,,0
+657637200,Blackburn,Millwall,1,0,,,,0
+657896400,West Brom,Middlesbrough,0,1,,,,0
+657982800,Millwall,Oxford Utd,1,2,,,,0
+657982800,Bristol Rovers,Barnsley,2,1,,,,0
+658242000,Wolves,Newcastle,2,1,,,,0
+658242000,Swindon,Portsmouth,3,0,,,,0
+658242000,Oxford Utd,Bristol City,3,1,,,,0
+658242000,Oldham,Watford,4,1,,,,0
+658242000,Notts Co,West Brom,4,3,,,,0
+658242000,Millwall,West Ham,1,1,,,,0
+658242000,Middlesbrough,Charlton,1,2,,,,0
+658242000,Hull,Ipswich,3,3,,,,0
+658242000,Bristol Rovers,Port Vale,2,0,,,,0
+658242000,Brighton,Plymouth,3,2,,,,0
+658242000,Blackburn,Sheffield Wed,1,0,,,,0
+658242000,Barnsley,Leicester,1,1,,,,0
+658846800,West Ham,Brighton,2,1,,,,0
+658846800,West Brom,Blackburn,2,0,,,,0
+658846800,Watford,Bristol Rovers,1,1,,,,0
+658846800,Sheffield Wed,Swindon,2,1,,,,0
+658846800,Portsmouth,Middlesbrough,0,3,,,,0
+658846800,Port Vale,Oldham,1,0,,,,0
+658846800,Plymouth,Millwall,3,2,,,,0
+658846800,Newcastle,Barnsley,0,0,,,,0
+658846800,Leicester,Wolves,1,0,,,,0
+658846800,Ipswich,Notts Co,0,0,,,,0
+658846800,Charlton,Oxford Utd,3,3,,,,0
+658846800,Bristol City,Hull,4,1,,,,0
+659365200,Hull,Leicester,5,2,,,,0
+659365200,Blackburn,Port Vale,1,1,,,,0
+659451600,West Brom,Sheffield Wed,1,2,,,,0
+659451600,Plymouth,West Ham,0,1,,,,0
+659451600,Oxford Utd,Middlesbrough,2,5,,,,0
+659451600,Notts Co,Swindon,0,0,,,,0
+659451600,Newcastle,Watford,1,0,,,,0
+659451600,Ipswich,Bristol City,1,1,,,,0
+659451600,Charlton,Portsmouth,2,1,,,,0
+659451600,Bristol Rovers,Oldham,2,0,,,,0
+659451600,Brighton,Millwall,0,0,,,,0
+659451600,Barnsley,Wolves,1,1,,,,0
+660056400,Wolves,Ipswich,2,2,,,,0
+660056400,West Ham,West Brom,3,1,,,,0
+660056400,Watford,Barnsley,0,0,,,,0
+660056400,Swindon,Blackburn,1,1,,,,0
+660056400,Sheffield Wed,Notts Co,2,2,,,,0
+660056400,Portsmouth,Oxford Utd,1,1,,,,0
+660056400,Port Vale,Plymouth,5,1,,,,0
+660056400,Oldham,Brighton,6,1,,,,0
+660056400,Millwall,Bristol Rovers,1,1,,,,0
+660056400,Middlesbrough,Hull,3,0,,,,0
+660056400,Leicester,Newcastle,5,4,,,,0
+660056400,Bristol City,Charlton,0,1,,,,0
+660402000,West Brom,Watford,1,1,,,,0
+660661200,Watford,Plymouth,2,0,,,,0
+660661200,Portsmouth,West Ham,0,1,,,,0
+660661200,Ipswich,Swindon,1,1,,,,0
+660661200,Hull,Blackburn,3,1,,,,0
+660661200,Bristol City,Sheffield Wed,1,1,,,,0
+661266000,West Ham,Middlesbrough,0,0,,,,0
+661266000,West Brom,Portsmouth,0,0,,,,0
+661266000,Swindon,Charlton,1,1,,,,0
+661266000,Sheffield Wed,Ipswich,2,2,,,,0
+661266000,Port Vale,Oxford Utd,1,0,,,,0
+661266000,Oldham,Wolves,4,1,,,,0
+661266000,Notts Co,Hull,2,1,,,,0
+661266000,Millwall,Watford,0,2,,,,0
+661266000,Bristol Rovers,Leicester,0,0,,,,0
+661266000,Brighton,Barnsley,1,0,,,,0
+661266000,Blackburn,Bristol City,0,1,,,,0
+661352400,Plymouth,Newcastle,0,1,,,,0
+661784400,Portsmouth,Ipswich,1,1,,,,0
+661784400,Oldham,Plymouth,5,3,,,,0
+661870800,Wolves,Millwall,4,1,,,,0
+661870800,Swindon,West Brom,2,1,,,,0
+661870800,Port Vale,Brighton,0,1,,,,0
+661870800,Oxford Utd,Sheffield Wed,2,2,,,,0
+661870800,Notts Co,Bristol City,3,2,,,,0
+661870800,Middlesbrough,Blackburn,0,1,,,,0
+661870800,Charlton,Hull,2,1,,,,0
+661870800,Bristol Rovers,Newcastle,1,1,,,,0
+661870800,Barnsley,West Ham,1,0,,,,0
+661957200,Leicester,Watford,0,0,,,,0
+662216400,West Ham,Oldham,2,0,,,,0
+662216400,West Brom,Charlton,1,0,,,,0
+662216400,Watford,Port Vale,2,1,,,,0
+662216400,Sheffield Wed,Wolves,2,2,,,,0
+662216400,Plymouth,Barnsley,1,1,,,,0
+662216400,Newcastle,Swindon,1,1,,,,0
+662216400,Millwall,Leicester,2,1,,,,0
+662216400,Ipswich,Middlesbrough,0,1,,,,0
+662216400,Hull,Oxford Utd,3,3,,,,0
+662216400,Bristol City,Portsmouth,4,1,,,,0
+662216400,Brighton,Bristol Rovers,0,1,,,,0
+662216400,Blackburn,Notts Co,0,1,,,,0
+662475600,West Ham,Port Vale,0,0,,,,0
+662475600,West Brom,Wolves,1,1,,,,0
+662475600,Watford,Swindon,2,2,,,,0
+662475600,Sheffield Wed,Portsmouth,2,1,,,,0
+662475600,Plymouth,Bristol Rovers,2,2,,,,0
+662475600,Newcastle,Notts Co,0,2,,,,0
+662475600,Millwall,Oldham,0,0,,,,0
+662475600,Ipswich,Charlton,4,4,,,,0
+662475600,Hull,Barnsley,1,2,,,,0
+662475600,Bristol City,Middlesbrough,3,0,,,,0
+662475600,Blackburn,Oxford Utd,1,3,,,,0
+662734800,Wolves,Watford,0,0,,,,0
+662734800,Swindon,Plymouth,1,1,,,,0
+662734800,Portsmouth,Hull,5,1,,,,0
+662734800,Port Vale,Millwall,0,2,,,,0
+662734800,Oxford Utd,Ipswich,2,1,,,,0
+662734800,Oldham,Newcastle,1,1,,,,0
+662734800,Notts Co,Brighton,2,1,,,,0
+662734800,Middlesbrough,Sheffield Wed,0,2,,,,0
+662734800,Leicester,West Brom,2,1,,,,0
+662734800,Charlton,Blackburn,0,0,,,,0
+662734800,Bristol Rovers,West Ham,0,1,,,,0
+662734800,Barnsley,Bristol City,2,0,,,,0
+663685200,Wolves,Brighton,2,3,,,,0
+663685200,Watford,West Ham,0,1,,,,0
+663685200,Portsmouth,Oldham,1,4,,,,0
+663685200,Oxford Utd,Notts Co,3,3,,,,0
+663685200,Newcastle,Blackburn,1,0,,,,0
+663685200,Middlesbrough,Plymouth,0,0,,,,0
+663685200,Leicester,Port Vale,1,1,,,,0
+663685200,Ipswich,West Brom,1,0,,,,0
+663685200,Hull,Sheffield Wed,0,1,,,,0
+663685200,Charlton,Bristol Rovers,2,2,,,,0
+663685200,Bristol City,Swindon,0,4,,,,0
+663685200,Barnsley,Millwall,1,2,,,,0
+664030800,Brighton,Newcastle,4,2,,,,0
+664290000,West Ham,Leicester,1,0,,,,0
+664290000,West Brom,Oxford Utd,2,0,,,,0
+664290000,Swindon,Hull,3,1,,,,0
+664290000,Sheffield Wed,Charlton,0,0,,,,0
+664290000,Port Vale,Portsmouth,3,2,,,,0
+664290000,Plymouth,Bristol City,1,0,,,,0
+664290000,Oldham,Barnsley,2,0,,,,0
+664290000,Notts Co,Middlesbrough,3,2,,,,0
+664290000,Millwall,Newcastle,0,1,,,,0
+664290000,Bristol Rovers,Wolves,1,1,,,,0
+664290000,Brighton,Watford,3,0,,,,0
+664290000,Blackburn,Ipswich,0,1,,,,0
+664549200,Charlton,Notts Co,3,1,,,,0
+664894800,Leicester,Blackburn,1,3,,,,0
+664894800,Bristol Rovers,Bristol City,3,2,,,,0
+665499600,Wolves,West Ham,2,1,,,,0
+665499600,Watford,Sheffield Wed,2,2,,,,0
+665499600,Portsmouth,Notts Co,2,1,,,,0
+665499600,Oxford Utd,Oldham,5,1,,,,0
+665499600,Newcastle,Port Vale,2,0,,,,0
+665499600,Middlesbrough,Swindon,2,0,,,,0
+665499600,Leicester,Plymouth,3,1,,,,0
+665499600,Ipswich,Millwall,0,3,,,,0
+665499600,Hull,Bristol Rovers,2,0,,,,0
+665499600,Charlton,Brighton,1,2,,,,0
+665499600,Bristol City,West Brom,2,0,,,,0
+666104400,Blackburn,Portsmouth,1,1,,,,0
+666709200,Oxford Utd,Charlton,1,1,,,,0
+666709200,Oldham,Port Vale,2,0,,,,0
+666709200,Millwall,Plymouth,4,1,,,,0
+666709200,Hull,Bristol City,1,2,,,,0
+666709200,Bristol Rovers,Watford,3,1,,,,0
+666709200,Blackburn,West Brom,0,3,,,,0
+666968400,Swindon,Sheffield Wed,2,1,,,,0
+666968400,Middlesbrough,West Brom,3,2,,,,0
+667054800,Brighton,Leicester,3,0,,,,0
+667314000,West Brom,Notts Co,2,2,,,,0
+667314000,Watford,Oldham,1,1,,,,0
+667314000,Portsmouth,Swindon,2,1,,,,0
+667314000,Port Vale,Bristol Rovers,3,2,,,,0
+667314000,Plymouth,Brighton,2,0,,,,0
+667314000,Newcastle,Wolves,0,0,,,,0
+667314000,Leicester,Barnsley,2,1,,,,0
+667314000,Ipswich,Hull,2,0,,,,0
+667314000,Charlton,Middlesbrough,0,1,,,,0
+667314000,Bristol City,Oxford Utd,3,1,,,,0
+667400400,West Ham,Millwall,3,1,,,,0
+667573200,Wolves,Port Vale,3,1,,,,0
+667573200,Middlesbrough,Portsmouth,1,2,,,,0
+667573200,Barnsley,Bristol Rovers,1,0,,,,0
+667659600,Oxford Utd,Millwall,0,0,,,,0
+667659600,Newcastle,Brighton,0,0,,,,0
+667918800,West Brom,West Ham,0,0,,,,0
+667918800,Plymouth,Port Vale,2,0,,,,0
+667918800,Oxford Utd,Portsmouth,1,0,,,,0
+667918800,Notts Co,Sheffield Wed,0,2,,,,0
+667918800,Newcastle,Leicester,2,1,,,,0
+667918800,Ipswich,Wolves,0,0,,,,0
+667918800,Hull,Middlesbrough,0,0,,,,0
+667918800,Charlton,Bristol City,2,1,,,,0
+667918800,Bristol Rovers,Millwall,1,0,,,,0
+667918800,Brighton,Oldham,1,2,,,,0
+667918800,Blackburn,Swindon,2,1,,,,0
+667918800,Barnsley,Watford,2,1,,,,0
+668178000,Wolves,Leicester,2,1,,,,0
+668178000,West Ham,Plymouth,2,2,,,,0
+668178000,Swindon,Oxford Utd,0,0,,,,0
+668178000,Bristol City,Bristol Rovers,1,0,,,,0
+668523600,Wolves,Barnsley,0,5,,,,0
+668523600,Watford,Newcastle,1,2,,,,0
+668523600,Sheffield Wed,West Brom,1,0,,,,0
+668523600,Portsmouth,Charlton,0,1,,,,0
+668523600,Port Vale,Blackburn,3,0,,,,0
+668523600,Oldham,Bristol Rovers,2,0,,,,0
+668523600,Millwall,Brighton,3,0,,,,0
+668523600,Middlesbrough,Oxford Utd,0,0,,,,0
+668523600,Leicester,Hull,0,1,,,,0
+668523600,Bristol City,Ipswich,4,2,,,,0
+668782800,Swindon,Oldham,2,2,,,,0
+668782800,Portsmouth,Millwall,0,0,,,,0
+668782800,Notts Co,Port Vale,1,1,,,,0
+668782800,Middlesbrough,Newcastle,3,0,,,,0
+668782800,Hull,Watford,1,1,,,,0
+668782800,Charlton,Wolves,1,0,,,,0
+668782800,Bristol City,Leicester,1,0,,,,0
+668782800,Blackburn,Bristol Rovers,2,2,,,,0
+668869200,West Brom,Plymouth,1,2,,,,0
+668869200,Sheffield Wed,Brighton,1,1,,,,0
+668869200,Oxford Utd,West Ham,2,1,,,,0
+669128400,Wolves,Oxford Utd,3,3,,,,0
+669128400,West Ham,Sheffield Wed,1,3,,,,0
+669128400,Watford,Ipswich,1,1,,,,0
+669128400,Port Vale,Hull,0,0,,,,0
+669128400,Plymouth,Portsmouth,1,1,,,,0
+669128400,Oldham,West Brom,2,1,,,,0
+669128400,Newcastle,Bristol City,0,0,,,,0
+669128400,Millwall,Swindon,1,0,,,,0
+669128400,Leicester,Middlesbrough,4,3,,,,0
+669128400,Bristol Rovers,Notts Co,1,1,,,,0
+669128400,Brighton,Blackburn,1,0,,,,0
+669128400,Barnsley,Charlton,1,1,,,,0
+669301200,Port Vale,Ipswich,1,2,,,,0
+669387600,Wolves,Notts Co,0,2,,,,0
+669387600,Watford,Blackburn,0,3,,,,0
+669387600,Plymouth,Sheffield Wed,1,1,,,,0
+669387600,Barnsley,Portsmouth,4,0,,,,0
+669474000,West Ham,Bristol City,1,0,,,,0
+669474000,Oldham,Hull,1,2,,,,0
+669474000,Millwall,Middlesbrough,2,2,,,,0
+669474000,Leicester,Charlton,1,2,,,,0
+669474000,Bristol Rovers,Swindon,2,1,,,,0
+669474000,Brighton,West Brom,2,0,,,,0
+669646800,Ipswich,Plymouth,3,1,,,,0
+669733200,West Brom,Millwall,0,1,,,,0
+669733200,Swindon,Brighton,1,3,,,,0
+669733200,Sheffield Wed,Bristol Rovers,2,1,,,,0
+669733200,Portsmouth,Newcastle,0,1,,,,0
+669733200,Oxford Utd,Barnsley,2,0,,,,0
+669733200,Notts Co,Leicester,0,2,,,,0
+669733200,Middlesbrough,Watford,1,2,,,,0
+669733200,Hull,West Ham,0,0,,,,0
+669733200,Charlton,Port Vale,0,1,,,,0
+669733200,Bristol City,Wolves,1,1,,,,0
+669733200,Blackburn,Oldham,2,0,,,,0
+670251600,Oldham,West Ham,1,1,,,,0
+670338000,Wolves,Sheffield Wed,3,2,,,,0
+670338000,Swindon,Newcastle,3,2,,,,0
+670338000,Portsmouth,Bristol City,4,1,,,,0
+670338000,Port Vale,Watford,0,0,,,,0
+670338000,Oxford Utd,Hull,1,0,,,,0
+670338000,Notts Co,Blackburn,4,1,,,,0
+670338000,Middlesbrough,Ipswich,1,1,,,,0
+670338000,Leicester,Millwall,1,2,,,,0
+670338000,Charlton,West Brom,2,0,,,,0
+670338000,Bristol Rovers,Brighton,1,3,,,,0
+670338000,Barnsley,Plymouth,1,0,,,,0
+670507200,West Ham,Barnsley,3,2,,,,0
+670507200,West Brom,Swindon,2,1,,,,0
+670507200,Watford,Leicester,1,0,,,,0
+670507200,Sheffield Wed,Oxford Utd,0,2,,,,0
+670507200,Plymouth,Oldham,1,2,,,,0
+670507200,Newcastle,Bristol Rovers,0,2,,,,0
+670507200,Hull,Charlton,2,2,,,,0
+670507200,Bristol City,Notts Co,3,2,,,,0
+670507200,Blackburn,Middlesbrough,1,0,,,,0
+670593600,Ipswich,Portsmouth,2,2,,,,0
+670680000,Millwall,Wolves,2,1,,,,0
+670680000,Brighton,Port Vale,1,2,,,,0
+670939200,Wolves,West Brom,2,2,,,,0
+670939200,Swindon,Watford,1,2,,,,0
+670939200,Portsmouth,Sheffield Wed,2,0,,,,0
+670939200,Port Vale,West Ham,0,1,,,,0
+670939200,Oxford Utd,Blackburn,0,0,,,,0
+670939200,Oldham,Millwall,1,1,,,,0
+670939200,Notts Co,Newcastle,3,0,,,,0
+670939200,Middlesbrough,Bristol City,2,1,,,,0
+670939200,Leicester,Brighton,3,0,,,,0
+670939200,Charlton,Ipswich,1,1,,,,0
+670939200,Bristol Rovers,Plymouth,0,0,,,,0
+670939200,Barnsley,Hull,3,1,,,,0
+671198400,Plymouth,Wolves,1,0,,,,0
+671198400,Middlesbrough,Port Vale,4,0,,,,0
+671198400,Barnsley,Notts Co,1,0,,,,0
+671284800,West Brom,Hull,1,1,,,,0
+671284800,Sheffield Wed,Blackburn,3,1,,,,0
+671284800,Newcastle,Oxford Utd,2,2,,,,0
+671284800,Millwall,Charlton,3,1,,,,0
+671284800,Leicester,Oldham,0,0,,,,0
+671284800,Bristol Rovers,Ipswich,1,0,,,,0
+671284800,Brighton,West Ham,1,0,,,,0
+671544000,West Brom,Leicester,2,1,,,,0
+671544000,Watford,Wolves,3,1,,,,0
+671544000,Sheffield Wed,Middlesbrough,2,0,,,,0
+671544000,Plymouth,Swindon,3,3,,,,0
+671544000,Newcastle,Oldham,3,2,,,,0
+671544000,Millwall,Port Vale,1,2,,,,0
+671544000,Ipswich,Oxford Utd,1,1,,,,0
+671544000,Hull,Portsmouth,0,2,,,,0
+671544000,Bristol City,Barnsley,1,0,,,,0
+671544000,Brighton,Notts Co,0,0,,,,0
+671544000,Blackburn,Charlton,2,2,,,,0
+671716800,Port Vale,Barnsley,0,1,,,,0
+671803200,Wolves,Swindon,1,2,,,,0
+671803200,Portsmouth,Brighton,1,0,,,,0
+671803200,Notts Co,Watford,1,0,,,,0
+671803200,Hull,Millwall,1,1,,,,0
+671803200,Charlton,Oldham,1,1,,,,0
+671889600,Oxford Utd,Plymouth,0,0,,,,0
+671889600,Newcastle,Sheffield Wed,1,0,,,,0
+671889600,Ipswich,West Ham,0,1,,,,0
+672148800,Wolves,Hull,0,0,,,,0
+672148800,West Ham,Swindon,2,0,,,,0
+672148800,Watford,Charlton,2,1,,,,0
+672148800,Plymouth,Blackburn,4,1,,,,0
+672148800,Oldham,Bristol City,2,1,,,,0
+672148800,Newcastle,Ipswich,2,2,,,,0
+672148800,Millwall,Notts Co,1,2,,,,0
+672148800,Leicester,Portsmouth,2,1,,,,0
+672148800,Bristol Rovers,Middlesbrough,2,0,,,,0
+672148800,Brighton,Oxford Utd,0,3,,,,0
+672148800,Barnsley,West Brom,1,1,,,,0
+672408000,Watford,West Brom,1,1,,,,0
+672408000,Swindon,Notts Co,1,2,,,,0
+672408000,Brighton,Bristol City,0,1,,,,0
+672408000,Barnsley,Blackburn,0,1,,,,0
+672494400,West Ham,Newcastle,1,1,,,,0
+672494400,Sheffield Wed,Leicester,0,0,,,,0
+672580800,Ipswich,Barnsley,2,0,,,,0
+672753600,West Brom,Port Vale,1,1,,,,0
+672753600,Swindon,Leicester,5,2,,,,0
+672753600,Sheffield Wed,Barnsley,3,1,,,,0
+672753600,Portsmouth,Watford,0,1,,,,0
+672753600,Oxford Utd,Bristol Rovers,3,1,,,,0
+672753600,Notts Co,Plymouth,4,0,,,,0
+672753600,Middlesbrough,Wolves,2,0,,,,0
+672753600,Ipswich,Oldham,1,2,,,,0
+672753600,Hull,Brighton,0,1,,,,0
+672753600,Charlton,Newcastle,1,0,,,,0
+672753600,Bristol City,Millwall,1,4,,,,0
+672753600,Blackburn,West Ham,3,1,,,,0
+673358400,West Brom,Newcastle,1,1,,,,0
+673358400,Swindon,Barnsley,1,2,,,,0
+673358400,Sheffield Wed,Millwall,2,1,,,,0
+673358400,Portsmouth,Bristol Rovers,3,1,,,,0
+673358400,Oxford Utd,Watford,0,1,,,,0
+673358400,Notts Co,Oldham,2,0,,,,0
+673358400,Middlesbrough,Brighton,2,0,,,,0
+673358400,Ipswich,Leicester,3,2,,,,0
+673358400,Hull,Plymouth,2,0,,,,0
+673358400,Charlton,West Ham,1,1,,,,0
+673358400,Bristol City,Port Vale,1,1,,,,0
+673358400,Blackburn,Wolves,1,1,,,,0
+673531200,Port Vale,Sheffield Wed,1,1,,,,0
+673617600,Oldham,Middlesbrough,2,0,,,,0
+673617600,Notts Co,Ipswich,3,1,,,,0
+673617600,Barnsley,Newcastle,1,1,,,,0
+673704000,West Ham,Bristol Rovers,1,0,,,,0
+673704000,Sheffield Wed,Bristol City,3,1,,,,0
+673963200,Wolves,Portsmouth,3,1,,,,0
+673963200,West Ham,Notts Co,1,2,,,,0
+673963200,Watford,Bristol City,2,3,,,,0
+673963200,Port Vale,Swindon,3,1,,,,0
+673963200,Plymouth,Charlton,2,0,,,,0
+673963200,Oldham,Sheffield Wed,3,2,,,,0
+673963200,Newcastle,Hull,1,2,,,,0
+673963200,Millwall,Blackburn,2,1,,,,0
+673963200,Leicester,Oxford Utd,1,0,,,,0
+673963200,Bristol Rovers,West Brom,1,1,,,,0
+673963200,Brighton,Ipswich,2,1,,,,0
+673963200,Barnsley,Middlesbrough,1,0,,,,0
+674650800,Middlesbrough,Notts Co,1,1,,,,0
+674650800,Brighton,Millwall,4,1,,,,0
+674937900,Notts Co,Middlesbrough,1,0,,,,0
+674937900,Millwall,Brighton,1,2,,,,0
+675871200,Brighton,Notts Co,1,3,,,,0

@@ -1,0 +1,381 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1319889600,Erbil,Al Talaba,2,1,,,,0
+1320321600,Karbala,Al Taji,3,0,,,,0
+1320321600,Al Sinaah,Al Shorta,0,0,,,,0
+1320321600,Al Najaf,Baghdad,2,1,,,,0
+1320321600,Al Naft,Al Masafi,0,0,,,,0
+1320328800,Erbil,Duhok,2,2,,,,0
+1320408000,Zakho,Al Sharqat,1,2,,,,0
+1320408000,Al Zawraa,Al-Hudod,1,0,,,,0
+1320408000,Al Quwa Al Jawiya,Karkuk,4,0,,,,0
+1320494400,Al Talaba,Al Kahraba,3,2,,,,0
+1320494400,Al Karkh,Al Minaa,1,1,,,,0
+1320840000,Karkuk,Al Zawraa,1,0,,,,0
+1320840000,Duhok,Al Quwa Al Jawiya,0,0,,,,0
+1320840000,Baghdad,Al Sinaah,2,2,,,,0
+1320840000,Al Shorta,Al Naft,3,0,,,,0
+1320840000,Al Sharqat,Al Najaf,1,1,,,,0
+1320840000,Al Masafi,Al Karkh,0,1,,,,0
+1320926400,Al-Hudod,Karbala,2,2,,,,0
+1320926400,Al Taji,Al Minaa,0,0,,,,0
+1320926400,Al Kahraba,Zakho,1,3,,,,0
+1321443000,Karbala,Karkuk,3,0,,,,0
+1321529400,Al Sinaah,Al Sharqat,2,1,,,,0
+1321529400,Al Minaa,Al-Hudod,3,0,,,,0
+1321529400,Al Karkh,Al Taji,2,0,,,,0
+1321536600,Al Quwa Al Jawiya,Al Talaba,0,2,,,,0
+1321615800,Al Zawraa,Duhok,0,0,,,,0
+1321615800,Al Shorta,Al Masafi,1,0,,,,0
+1321615800,Al Najaf,Al Kahraba,2,1,,,,0
+1321615800,Al Naft,Baghdad,0,0,,,,0
+1322047800,Karkuk,Al Minaa,1,0,,,,0
+1322047800,Al Taji,Al-Hudod,3,3,,,,0
+1322047800,Al Quwa Al Jawiya,Zakho,3,0,,,,0
+1322047800,Al Karkh,Al Shorta,0,0,,,,0
+1322047800,Al Kahraba,Al Sinaah,0,2,,,,0
+1322134200,Al Sharqat,Al Naft,0,1,,,,0
+1322134200,Al Masafi,Baghdad,0,0,,,,0
+1322134500,Duhok,Karbala,1,0,,,,0
+1322143200,Al Talaba,Al Zawraa,2,1,,,,0
+1322566200,Karkuk,Al Taji,1,0,,,,0
+1322566200,Al-Hudod,Al Karkh,1,1,,,,0
+1322566200,Al Zawraa,Zakho,1,2,,,,0
+1322566200,Al Najaf,Al Quwa Al Jawiya,0,0,,,,0
+1322566200,Al Naft,Al Kahraba,1,1,,,,0
+1322566200,Al Masafi,Al Sharqat,2,1,,,,0
+1322652600,Karbala,Al Talaba,0,3,,,,0
+1322652600,Al Sinaah,Erbil,0,1,,,,0
+1322652600,Al Minaa,Duhok,0,3,,,,0
+1322739000,Baghdad,Al Shorta,0,0,,,,0
+1322911800,Al Zawraa,Al Najaf,1,1,,,,0
+1322998200,Zakho,Karbala,3,0,,,,0
+1322998200,Erbil,Al Naft,2,1,,,,0
+1322998200,Al-Hudod,Karkuk,0,1,,,,0
+1322998200,Al Quwa Al Jawiya,Al Sinaah,1,0,,,,0
+1322998200,Al Kahraba,Al Masafi,0,1,,,,0
+1323005400,Al Talaba,Al Minaa,1,2,,,,0
+1323084600,Duhok,Al Taji,1,0,,,,0
+1323084600,Al Shorta,Al Sharqat,1,0,,,,0
+1323084600,Al Karkh,Baghdad,0,1,,,,0
+1323774000,Al Sharqat,Baghdad,1,1,,,,0
+1323775800,Karkuk,Al Karkh,1,1,,,,0
+1323775800,Duhok,Al-Hudod,4,0,,,,0
+1323775800,Al Shorta,Al Kahraba,3,1,,,,0
+1323862200,Al Taji,Al Talaba,1,2,,,,0
+1323862200,Al Najaf,Karbala,2,1,,,,0
+1323862200,Al Minaa,Zakho,0,0,,,,0
+1323949800,Al Sinaah,Al Zawraa,2,3,,,,0
+1324207800,Karkuk,Duhok,0,2,,,,0
+1324207800,Baghdad,Al Kahraba,3,2,,,,0
+1324207800,Al Karkh,Al Sharqat,1,0,,,,0
+1324294200,Al Talaba,Al-Hudod,2,0,,,,0
+1324294200,Al Taji,Zakho,1,3,,,,0
+1324294200,Al Quwa Al Jawiya,Al Masafi,3,0,,,,0
+1324380600,Karbala,Al Sinaah,1,1,,,,0
+1324380600,Al Zawraa,Al Naft,1,0,,,,0
+1324380600,Al Minaa,Al Najaf,1,1,,,,0
+1324467000,Al Shorta,Erbil,0,0,,,,0
+1324639800,Duhok,Al Karkh,1,0,,,,0
+1324639800,Al Kahraba,Al Sharqat,1,0,,,,0
+1324722600,Al-Hudod,Zakho,1,2,,,,0
+1324726200,Al Talaba,Karkuk,2,0,,,,0
+1324726200,Al Naft,Karbala,1,2,,,,0
+1324812600,Al Taji,Al Najaf,0,0,,,,0
+1324812600,Al Sinaah,Al Minaa,0,0,,,,0
+1324812600,Al Masafi,Al Zawraa,1,1,,,,0
+1324899000,Baghdad,Erbil,0,0,,,,0
+1324908000,Al Shorta,Al Quwa Al Jawiya,0,0,,,,0
+1325158200,Al Karkh,Al Kahraba,1,1,,,,0
+1325242800,Al Sharqat,Erbil,0,1,,,,0
+1325244600,Karbala,Al Masafi,2,0,,,,0
+1325244600,Al Taji,Al Sinaah,0,0,,,,0
+1325244600,Al Najaf,Al-Hudod,0,0,,,,0
+1325244600,Al Minaa,Al Naft,0,0,,,,0
+1325245200,Duhok,Al Talaba,0,1,,,,0
+1325331000,Zakho,Karkuk,2,0,,,,0
+1325331000,Al Quwa Al Jawiya,Baghdad,1,0,,,,0
+1325419200,Al Zawraa,Al Shorta,2,1,,,,0
+1325676600,Erbil,Al Kahraba,3,2,,,,0
+1325676600,Al Talaba,Al Karkh,0,2,,,,0
+1325676600,Al Masafi,Al Minaa,2,0,,,,0
+1325763000,Zakho,Duhok,1,2,,,,0
+1325763000,Karkuk,Al Najaf,1,1,,,,0
+1325763000,Al-Hudod,Al Sinaah,0,1,,,,0
+1325763000,Al Sharqat,Al Quwa Al Jawiya,0,2,,,,0
+1325763000,Al Naft,Al Taji,3,1,,,,0
+1325849400,Al Shorta,Karbala,2,1,,,,0
+1325935800,Baghdad,Al Zawraa,1,1,,,,0
+1326109800,Erbil,Al Najaf,3,1,,,,0
+1326117600,Al Naft,Al Quwa Al Jawiya,1,2,,,,0
+1326540600,Zakho,Erbil,0,0,,,,0
+1326886200,Al Sinaah,Karkuk,1,0,,,,0
+1326886200,Al Minaa,Al Shorta,1,2,,,,0
+1326886200,Al Kahraba,Al Quwa Al Jawiya,0,1,,,,0
+1326972600,Al-Hudod,Al Naft,2,1,,,,0
+1326972600,Al Zawraa,Al Sharqat,2,0,,,,0
+1326972600,Al Talaba,Zakho,2,1,,,,0
+1326972600,Al Najaf,Duhok,1,0,,,,0
+1326972600,Al Karkh,Erbil,1,1,,,,0
+1327059000,Al Taji,Al Masafi,2,0,,,,0
+1327145400,Karbala,Baghdad,1,0,,,,0
+1327404600,Karkuk,Al Naft,0,1,,,,0
+1327491000,Al Masafi,Al-Hudod,1,0,,,,0
+1327577400,Duhok,Al Sinaah,2,0,,,,0
+1327577400,Baghdad,Al Minaa,0,1,,,,0
+1327577400,Al Kahraba,Al Zawraa,2,1,,,,0
+1327663800,Zakho,Al Karkh,1,1,,,,0
+1327663800,Al Shorta,Al Taji,1,1,,,,0
+1327663800,Al Sharqat,Karbala,3,1,,,,0
+1327663800,Al Quwa Al Jawiya,Erbil,0,0,,,,0
+1327663800,Al Najaf,Al Talaba,3,1,,,,0
+1327923000,Karkuk,Al Masafi,1,0,,,,0
+1328095800,Karbala,Al Kahraba,1,1,,,,0
+1328095800,Al Taji,Baghdad,0,0,,,,0
+1328182200,Zakho,Al Najaf,2,1,,,,0
+1328182200,Al Sinaah,Al Talaba,0,1,,,,0
+1328182200,Al Quwa Al Jawiya,Al Karkh,4,0,,,,0
+1328182200,Al Naft,Duhok,1,1,,,,0
+1328182200,Al Minaa,Al Sharqat,2,0,,,,0
+1328189400,Erbil,Al Zawraa,1,0,,,,0
+1328614200,Baghdad,Al-Hudod,2,0,,,,0
+1328614200,Al Kahraba,Al Minaa,1,2,,,,0
+1328698800,Al Sharqat,Al Taji,2,1,,,,0
+1328700600,Duhok,Al Masafi,0,0,,,,0
+1328700600,Al Talaba,Al Naft,0,1,,,,0
+1328700600,Al Sinaah,Zakho,1,1,,,,0
+1328707800,Erbil,Karbala,1,0,,,,0
+1328787000,Al Shorta,Karkuk,0,0,,,,0
+1328787000,Al Najaf,Al Karkh,2,1,,,,0
+1328877000,Al Zawraa,Al Quwa Al Jawiya,1,1,,,,0
+1329046200,Al Minaa,Erbil,1,4,,,,0
+1329132600,Al Taji,Al Kahraba,2,1,,,,0
+1329132600,Al Naft,Zakho,1,1,,,,0
+1329132600,Al Masafi,Al Talaba,0,1,,,,0
+1329219000,Karkuk,Baghdad,0,2,,,,0
+1329219000,Duhok,Al Shorta,1,1,,,,0
+1329219000,Al-Hudod,Al Sharqat,1,2,,,,0
+1329219000,Al Najaf,Al Sinaah,0,0,,,,0
+1329305400,Al Karkh,Al Zawraa,3,1,,,,0
+1329478200,Al Masafi,Erbil,0,4,,,,0
+1329912300,Erbil,Al Taji,5,0,,,,0
+1330083000,Al-Hudod,Al Kahraba,1,2,,,,0
+1330083000,Al Quwa Al Jawiya,Al Minaa,2,1,,,,0
+1330169400,Zakho,Al Masafi,3,0,,,,0
+1330169400,Al Naft,Al Najaf,1,2,,,,0
+1330176600,Al Talaba,Al Shorta,2,1,,,,0
+1330254000,Al Sharqat,Karkuk,2,1,,,,0
+1330255800,Baghdad,Duhok,0,1,,,,0
+1330255800,Al Sinaah,Al Karkh,1,0,,,,0
+1330428900,Al Zawraa,Al Minaa,2,1,,,,0
+1330435800,Erbil,Al-Hudod,1,0,,,,0
+1330687800,Duhok,Al Sharqat,5,0,,,,0
+1330687800,Al Sinaah,Al Naft,1,0,,,,0
+1330774200,Karbala,Al Karkh,3,1,,,,0
+1330774200,Baghdad,Al Talaba,0,0,,,,0
+1330774200,Al Taji,Al Quwa Al Jawiya,0,0,,,,0
+1330774200,Al Shorta,Zakho,2,0,,,,0
+1330774200,Al Masafi,Al Najaf,1,1,,,,0
+1330774200,Al Kahraba,Karkuk,1,0,,,,0
+1331204400,Al Sharqat,Al Talaba,0,2,,,,0
+1331206200,Al Quwa Al Jawiya,Al-Hudod,3,1,,,,0
+1331206200,Al Najaf,Al Shorta,0,0,,,,0
+1331206200,Al Minaa,Karbala,1,0,,,,0
+1331206200,Al Karkh,Al Naft,0,0,,,,0
+1331292600,Al Masafi,Al Sinaah,0,1,,,,0
+1331292600,Al Kahraba,Duhok,2,0,,,,0
+1331379000,Zakho,Baghdad,1,0,,,,0
+1331551800,Karkuk,Erbil,1,2,,,,0
+1331638200,Al Quwa Al Jawiya,Karbala,3,2,,,,0
+1331724600,Al Zawraa,Al Taji,5,2,,,,0
+1332156600,Al Shorta,Al-Hudod,2,0,,,,0
+1333454400,Baghdad,Al Najaf,2,0,,,,0
+1333454400,Al Sharqat,Zakho,0,2,,,,0
+1333454400,Al Kahraba,Al Talaba,1,1,,,,0
+1333540800,Karkuk,Al Quwa Al Jawiya,1,0,,,,0
+1333540800,Al Taji,Karbala,0,0,,,,0
+1333540800,Al Masafi,Al Naft,1,3,,,,0
+1333627200,Al Shorta,Al Sinaah,2,1,,,,0
+1333800000,Al Zawraa,Al-Hudod,6,0,,,,0
+1333972800,Zakho,Al Kahraba,4,1,,,,0
+1333972800,Al Quwa Al Jawiya,Duhok,0,1,,,,0
+1333972800,Al Najaf,Al Sharqat,3,1,,,,0
+1333972800,Al Minaa,Al Taji,3,0,,,,0
+1333972800,Al Karkh,Al Masafi,1,2,,,,0
+1334059200,Al Sinaah,Baghdad,0,3,,,,0
+1334061000,Al Naft,Al Shorta,1,2,,,,0
+1334404800,Duhok,Erbil,1,1,,,,0
+1334404800,Al Minaa,Al Karkh,2,0,,,,0
+1334579400,Karbala,Al Zawraa,0,3,,,,0
+1334752200,Al Sharqat,Al Sinaah,1,0,,,,0
+1334838600,Al Kahraba,Al Najaf,1,1,,,,0
+1334925000,Erbil,Zakho,2,1,,,,0
+1334925000,Baghdad,Al Naft,2,1,,,,0
+1334925000,Al-Hudod,Al Minaa,0,2,,,,0
+1334925000,Al Taji,Al Karkh,2,1,,,,0
+1334925000,Al Masafi,Al Shorta,0,0,,,,0
+1335011400,Karkuk,Karbala,1,1,,,,0
+1335011400,Duhok,Al Zawraa,2,1,,,,0
+1335018600,Al Talaba,Al Quwa Al Jawiya,0,0,,,,0
+1335357000,Baghdad,Al Masafi,1,0,,,,0
+1335357000,Al-Hudod,Al Taji,4,4,,,,0
+1335357000,Al Sinaah,Al Kahraba,0,0,,,,0
+1335357000,Al Shorta,Al Karkh,1,0,,,,0
+1335357000,Al Naft,Al Sharqat,3,0,,,,0
+1335443400,Karbala,Duhok,1,1,,,,0
+1335443400,Al Minaa,Karkuk,3,3,,,,0
+1335529800,Zakho,Al Quwa Al Jawiya,1,1,,,,0
+1335792600,Al Zawraa,Karkuk,4,0,,,,0
+1335792600,Al Talaba,Erbil,1,1,,,,0
+1335879000,Karbala,Al-Hudod,2,1,,,,0
+1335879000,Al Shorta,Baghdad,0,1,,,,0
+1335879000,Al Kahraba,Al Naft,1,1,,,,0
+1335965400,Duhok,Al Minaa,3,1,,,,0
+1335965400,Al Sharqat,Al Masafi,0,0,,,,0
+1336051800,Al Quwa Al Jawiya,Al Najaf,3,0,,,,0
+1336142100,Erbil,Al Sinaah,2,0,,,,0
+1336224600,Zakho,Al Zawraa,0,0,,,,0
+1336224600,Al Taji,Karkuk,2,1,,,,0
+1336311000,Al Karkh,Al-Hudod,1,0,,,,0
+1336397400,Al Talaba,Karbala,0,0,,,,0
+1336482000,Al Sharqat,Al Shorta,0,2,,,,0
+1336483800,Al Masafi,Al Kahraba,0,3,,,,0
+1336654800,Karkuk,Al-Hudod,4,1,,,,0
+1336743000,Baghdad,Al Karkh,0,0,,,,0
+1336743000,Al Taji,Duhok,2,2,,,,0
+1336827600,Karbala,Zakho,1,1,,,,0
+1336827600,Al Minaa,Al Talaba,2,1,,,,0
+1337002200,Al Zawraa,Al Sinaah,1,0,,,,0
+1337002200,Al Kahraba,Al Shorta,2,1,,,,0
+1337009400,Erbil,Al Masafi,2,1,,,,0
+1337088600,Al-Hudod,Duhok,1,3,,,,0
+1337175000,Baghdad,Al Sharqat,2,0,,,,0
+1337259600,Zakho,Al Minaa,1,0,,,,0
+1337259600,Karbala,Al Najaf,1,2,,,,0
+1337261400,Al Talaba,Al Taji,1,1,,,,0
+1337691600,Al Sharqat,Al Karkh,1,2,,,,0
+1337693400,Al Kahraba,Baghdad,3,2,,,,0
+1337779800,Al Taji,Zakho,1,1,,,,0
+1337864400,Al Najaf,Al Minaa,1,1,,,,0
+1337866200,Al-Hudod,Al Talaba,0,2,,,,0
+1337866200,Al Sinaah,Karbala,0,0,,,,0
+1338298200,Al Karkh,Karkuk,0,1,,,,0
+1338305400,Al Zawraa,Al Talaba,0,1,,,,0
+1338555600,Zakho,Al-Hudod,2,0,,,,0
+1338555600,Karbala,Al Naft,1,2,,,,0
+1338555600,Al Sharqat,Al Kahraba,1,2,,,,0
+1338555600,Al Minaa,Al Sinaah,0,0,,,,0
+1338642000,Al Najaf,Al Taji,4,1,,,,0
+1338643800,Al Karkh,Duhok,1,2,,,,0
+1338651000,Erbil,Baghdad,3,3,,,,0
+1338728400,Karkuk,Al Talaba,1,1,,,,0
+1338730200,Al Zawraa,Al Masafi,0,0,,,,0
+1338989400,Al Naft,Al Minaa,1,1,,,,0
+1339075800,Al Sinaah,Al Taji,1,1,,,,0
+1339155000,Al-Hudod,Al Najaf,2,2,,,,0
+1339162200,Al Masafi,Karbala,0,0,,,,0
+1339162200,Al Kahraba,Al Karkh,4,0,,,,0
+1339250400,Al Shorta,Al Zawraa,3,2,,,,0
+1339592400,Karkuk,Zakho,2,1,,,,0
+1339596000,Al Talaba,Duhok,0,0,,,,0
+1339686000,Erbil,Al Sharqat,1,0,,,,0
+1339941600,Baghdad,Al Quwa Al Jawiya,1,0,,,,0
+1340114400,Karbala,Al Shorta,2,2,,,,0
+1340114400,Al Sinaah,Al-Hudod,4,2,,,,0
+1340114400,Al Quwa Al Jawiya,Al Sharqat,5,0,,,,0
+1340114400,Al Minaa,Al Masafi,0,1,,,,0
+1340114400,Al Kahraba,Erbil,0,3,,,,0
+1340121600,Duhok,Zakho,1,1,,,,0
+1340197200,Al Najaf,Karkuk,1,2,,,,0
+1340200800,Al Taji,Al Naft,2,2,,,,0
+1340200800,Al Karkh,Al Talaba,0,1,,,,0
+1340208000,Al Zawraa,Baghdad,1,0,,,,0
+1340546400,Al Shorta,Al Minaa,3,0,,,,0
+1340632800,Karkuk,Al Sinaah,1,1,,,,0
+1340632800,Baghdad,Karbala,2,0,,,,0
+1340632800,Al Sharqat,Al Zawraa,0,0,,,,0
+1340632800,Al Naft,Al-Hudod,2,0,,,,0
+1340632800,Al Masafi,Al Taji,2,0,,,,0
+1340640000,Duhok,Al Najaf,2,1,,,,0
+1340719200,Zakho,Al Talaba,0,0,,,,0
+1340726400,Erbil,Al Karkh,1,0,,,,0
+1341064800,Karbala,Al Sharqat,2,0,,,,0
+1341064800,Al-Hudod,Al Masafi,1,1,,,,0
+1341064800,Al Taji,Al Shorta,1,0,,,,0
+1341064800,Al Sinaah,Duhok,0,0,,,,0
+1341064800,Al Naft,Karkuk,3,1,,,,0
+1341151200,Al Zawraa,Al Kahraba,2,1,,,,0
+1341151200,Al Talaba,Al Najaf,0,0,,,,0
+1341151200,Al Minaa,Baghdad,1,0,,,,0
+1341151200,Al Karkh,Zakho,1,1,,,,0
+1341410400,Al Masafi,Karkuk,1,3,,,,0
+1341496800,Al Talaba,Al Sinaah,1,0,,,,0
+1341496800,Al Shorta,Al-Hudod,1,0,,,,0
+1341504000,Duhok,Al Naft,1,1,,,,0
+1341583200,Baghdad,Al Taji,1,0,,,,0
+1341583200,Al Sharqat,Al Minaa,1,1,,,,0
+1341583200,Al Najaf,Zakho,0,0,,,,0
+1341583200,Al Kahraba,Karbala,1,1,,,,0
+1341842400,Al Quwa Al Jawiya,Al Karkh,4,2,,,,0
+1341849600,Al Zawraa,Erbil,0,0,,,,0
+1341936000,Duhok,Karkuk,1,0,,,,0
+1342099800,Al Sinaah,Al Quwa Al Jawiya,2,1,,,,0
+1342099800,Al Naft,Al Zawraa,1,0,,,,0
+1342101600,Al-Hudod,Baghdad,0,2,,,,0
+1342101600,Al Najaf,Erbil,0,4,,,,0
+1342188000,Al Taji,Al Sharqat,3,2,,,,0
+1342274400,Al Minaa,Al Kahraba,2,3,,,,0
+1342360800,Karkuk,Al Shorta,4,1,,,,0
+1342360800,Karbala,Erbil,1,0,,,,0
+1342360800,Al Masafi,Duhok,1,0,,,,0
+1342447200,Zakho,Al Sinaah,2,2,,,,0
+1342447200,Al Naft,Al Talaba,1,0,,,,0
+1342447200,Al Karkh,Al Najaf,0,2,,,,0
+1342454400,Al Quwa Al Jawiya,Al Zawraa,1,1,,,,0
+1342533600,Al Sharqat,Al-Hudod,2,0,,,,0
+1342620000,Al Kahraba,Al Taji,2,2,,,,0
+1342706400,Baghdad,Karkuk,1,0,,,,0
+1342724400,Erbil,Al Minaa,3,0,,,,0
+1342792800,Zakho,Al Naft,0,0,,,,0
+1342792800,Karbala,Al Quwa Al Jawiya,0,0,,,,0
+1342792800,Al Zawraa,Al Karkh,2,1,,,,0
+1342792800,Al Talaba,Al Masafi,2,2,,,,0
+1342792800,Al Sinaah,Al Najaf,0,0,,,,0
+1342792800,Al Shorta,Duhok,0,1,,,,0
+1343138400,Al Najaf,Al Zawraa,1,0,,,,0
+1343138400,Al Naft,Erbil,1,1,,,,0
+1343138400,Al Masafi,Al Quwa Al Jawiya,2,3,,,,0
+1343224800,Karkuk,Al Sharqat,1,0,,,,0
+1343397600,Al Kahraba,Al-Hudod,2,0,,,,0
+1343484000,Al Shorta,Erbil,1,5,,,,0
+1343484000,Al Quwa Al Jawiya,Al Naft,3,0,,,,0
+1343484000,Al Masafi,Zakho,1,3,,,,0
+1343484000,Al Karkh,Al Sinaah,2,3,,,,0
+1343570400,Al Zawraa,Karbala,0,0,,,,0
+1343673000,Duhok,Baghdad,2,0,,,,0
+1343829000,Al Minaa,Al Quwa Al Jawiya,2,0,,,,0
+1343829600,Al Taji,Erbil,0,0,,,,0
+1343829600,Al Najaf,Al Naft,0,1,,,,0
+1343845800,Al Shorta,Al Talaba,1,2,,,,0
+1343991600,Al-Hudod,Erbil,1,2,,,,0
+1344191400,Al Quwa Al Jawiya,Al Shorta,2,0,,,,0
+1344434400,Al Quwa Al Jawiya,Al Kahraba,2,1,,,,0
+1344607200,Zakho,Al Shorta,3,2,,,,0
+1344607200,Al Talaba,Baghdad,0,3,,,,0
+1344607200,Al Sharqat,Duhok,0,6,,,,0
+1344607200,Al Naft,Al Sinaah,0,0,,,,0
+1344607200,Al Minaa,Al Zawraa,2,1,,,,0
+1344693600,Al Quwa Al Jawiya,Al Taji,1,0,,,,0
+1344693600,Al Najaf,Al Masafi,0,1,,,,0
+1344693600,Al Karkh,Karbala,3,0,,,,0
+1345039200,Karkuk,Al Kahraba,0,0,,,,0
+1345039200,Al Shorta,Al Najaf,3,1,,,,0
+1345125600,Karbala,Al Minaa,2,0,,,,0
+1345125600,Al Karkh,Al Naft,0,1,,,,0
+1345132800,Erbil,Al Quwa Al Jawiya,1,1,,,,0
+1345212000,Al Talaba,Al Sharqat,3,0,,,,0
+1345212000,Al Taji,Al Zawraa,1,6,,,,0
+1345212000,Al Sinaah,Al Masafi,0,0,,,,0
+1345296600,Erbil,Karkuk,0,0,,,,0
+1345296600,Baghdad,Zakho,2,2,,,,0
+1345469400,Duhok,Al Kahraba,1,0,,,,0
+1345469400,Al-Hudod,Al Quwa Al Jawiya,0,4,,,,0

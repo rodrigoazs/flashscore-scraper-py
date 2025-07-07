@@ -1,0 +1,91 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1248879600,Zielona Gora,Victoria Koronowo,3,1,,,,0
+1248879600,Wolbrom,Gornik Wieliczka,4,2,,,,0
+1248879600,Wisla Pulawy,Suwalki,2,0,,,,0
+1248879600,Unia Tarnow,Tychy,0,2,,,,0
+1248879600,Swiebodzin,Kotwica Kolobrzeg,1,2,,,,0
+1248879600,Stal Poniatowa,Otwock,3,3,,,,0
+1248879600,Ruch Zdzieszowice,Unia Janikowo,0,0,AET,1,0,0
+1248879600,Radzionkow,Ostrowiec Swietokrzyski,1,0,,,,0
+1248879600,R. Rzeszow,Rakow,3,1,,,,0
+1248879600,Polonia Slubice,Chemik Police,5,0,,,,0
+1248879600,Piotrkow Trybunalski,Sandecja Nowy S.,2,4,,,,0
+1248879600,Piast Kobylin,Czarni Zagan,3,1,,,,0
+1248879600,Omega Kleszczow,Jarocin,1,1,AET,2,1,0
+1248879600,Olimpia Elblag,Pogon Szczecin,1,2,AET,1,2,0
+1248879600,Ol. Grudziadz,Elana Torun,2,1,,,,0
+1248879600,Nida Pinczow,Kolejarz,1,1,Pen,1,2,0
+1248879600,Mazur Karczew,LKS Lomza,3,0,,,,0
+1248879600,Legnica,Zaglebie Sosnowiec,0,1,,,,0
+1248879600,Korona Kielce II,Polar Wroclaw,3,0,,,,0
+1248879600,Katy Wroclawskie,Kluczbork,0,2,,,,0
+1248879600,Ilawa,W. Mazowieckie,2,1,,,,0
+1248879600,Hetman Zamosc,Sokol Aleksandrow L.,5,1,,,,0
+1248879600,Gryf Wejherowo,Nielba Wagrowiec,0,2,,,,0
+1248879600,Grajewo,Zawisza,1,0,,,,0
+1248879600,Bytovia Bytow II,Stomil Olsztyn,2,1,,,,0
+1248879600,Brzesko,Pelikan,1,0,,,,0
+1249995600,Kotwica Kolobrzeg,Pogon Szczecin,5,5,AET,5,7,0
+1250002800,Ol. Grudziadz,Ilawa,1,0,,,,0
+1250089200,Tychy,Sandecja Nowy S.,1,1,,,,0
+1250089200,Ruch Zdzieszowice,Omega Kleszczow,2,1,,,,0
+1250089200,Radzionkow,Kolejarz,5,0,,,,0
+1250089200,R. Rzeszow,Brzesko,0,2,,,,0
+1250089200,Piast Kobylin,Zielona Gora,1,1,,,,0
+1250089200,Mazur Karczew,Otwock,0,1,,,,0
+1250089200,Korona Kielce II,Kluczbork,0,2,,,,0
+1250089200,Grajewo,Polonia Slubice,1,2,,,,0
+1250089200,Bytovia Bytow II,Wisla Pulawy,3,3,,,,0
+1250092800,Zaglebie Sosnowiec,Wolbrom,4,1,,,,0
+1251212400,Ruch Zdzieszowice,Zabki,0,3,,,,0
+1251212400,Radzionkow,Korona Kielce,0,1,,,,0
+1251212400,Polonia Slubice,GKS Katowice,3,1,,,,0
+1251212400,Nielba Wagrowiec,Pruszkow,3,1,,,,0
+1251212400,Kluczbork,Stilon Gorzow,0,0,Pen,0,1,0
+1251212400,Bytovia Bytow II,Turek,1,0,,,,0
+1251219600,Pogon Szczecin,Motor Lublin,2,0,,,,0
+1251223200,Zaglebie Sosnowiec,Swinoujscie,2,0,,,,0
+1251298800,Tychy,Leczna,1,1,Pen,2,1,0
+1251298800,S. Wola,Wisla Plock,2,1,,,,0
+1251298800,Piast Kobylin,Zaglebie,3,1,,,,0
+1251298800,Otwock,Podbeskidzie,2,1,,,,0
+1251298800,Ol. Grudziadz,Kmita Zabierzow,3,0,Awrd,,,0
+1251298800,Hetman Zamosc,Warta Poznan,1,1,Pen,2,1,0
+1251298800,GKS Jastrzebie,Widzew Lodz,3,4,,,,0
+1253712600,Otwock,LKS Lodz,3,2,,,,0
+1253713500,Brzesko,Arka Gdynia,1,2,,,,0
+1253714400,Zabki,Slask Wroclaw,1,1,Pen,2,1,0
+1253714400,Tychy,Jagiellonia,0,0,AET,0,1,0
+1253714400,Polonia Slubice,Piast Gliwice,1,2,,,,0
+1253714400,Piast Kobylin,Cracovia,1,1,Pen,1,2,0
+1253714400,Ol. Grudziadz,Odra Wodzislaw,1,2,,,,0
+1253714400,Hetman Zamosc,Wisla,0,3,,,,0
+1253715300,Bytovia Bytow II,Polonia Bytom,2,1,,,,0
+1253721900,Widzew Lodz,Ruch Chorzow,0,1,,,,0
+1253729700,Zaglebie Sosnowiec,Gornik Zabrze,2,0,,,,0
+1253729700,Korona Kielce,GKS Belchatow,3,1,,,,0
+1254229200,Stilon Gorzow,Legia,0,2,,,,0
+1254231000,S. Wola,Lech Poznan,0,0,Pen,1,0,0
+1254231000,Nielba Wagrowiec,Lechia Gdansk,1,3,,,,0
+1254931200,Pogon Szczecin,Polonia Warszawa,2,0,,,,0
+1256644800,Zabki,Korona Kielce,3,3,AET,3,4,0
+1256644800,Bytovia Bytow II,Wisla,0,2,,,,0
+1256662800,Zaglebie Sosnowiec,S. Wola,3,0,,,,0
+1256670900,Pogon Szczecin,Piast Gliwice,2,0,,,,0
+1256731200,Otwock,Ruch Chorzow,0,1,,,,0
+1257275700,Arka Gdynia,Jagiellonia,0,0,AET,0,2,0
+1257948000,Lechia Gdansk,Odra Wodzislaw,1,0,,,,0
+1259176500,Legia,Cracovia,0,0,AET,2,0,0
+1268758800,Ruch Chorzow,Legia,1,0,,,,0
+1268761500,Zaglebie Sosnowiec,Pogon Szczecin,0,3,,,,0
+1268842500,Lechia Gdansk,Wisla,0,0,,,,0
+1268845200,Korona Kielce,Jagiellonia,3,1,,,,0
+1269349200,Legia,Ruch Chorzow,1,0,AET,2,1,0
+1269370800,Wisla,Lechia Gdansk,1,3,,,,0
+1269450000,Jagiellonia,Korona Kielce,3,0,,,,0
+1269457200,Pogon Szczecin,Zaglebie Sosnowiec,1,1,,,,0
+1270576800,Ruch Chorzow,Pogon Szczecin,1,1,,,,0
+1270577700,Lechia Gdansk,Jagiellonia,1,2,,,,0
+1272987900,Pogon Szczecin,Ruch Chorzow,0,0,,,,0
+1272996900,Jagiellonia,Lechia Gdansk,1,1,,,,0
+1274535000,Pogon Szczecin,Jagiellonia,0,1,,,,0

@@ -11,7 +11,12 @@ def get_place(path):
         if path.split("-")[1] == "macedonia":
             return "north macedonia"
     if place == "south":
-        return "south america"
+        if path.split("-")[1] == "america":
+            return "south america"
+        if path.split("-")[1] == "africa":
+            return "south africa"
+        if path.split("-")[1] == "korea":
+            return "south korea"
     if place == "dominican":
         return "dominican republic"
     if place == "trinidad":
@@ -32,6 +37,28 @@ def get_place(path):
         return "san marino"
     if place == "usa":
         return "united states"
+    if place == "burkina":
+        return "burkina faso"
+    if place == "cape":
+        return "cape verde"
+    if place == "ivory":
+        return "ivory coast"
+    if place == "sierra":
+        return "sierra leone"
+    if place == "dr":
+        return "dr congo"
+    if place == "sao":
+        return "sao tome and principe"
+    if place == "new":
+        return "new zealand"
+    if place == "hong":
+        return "hong kong"
+    if place == "sri":
+        return "sri lanka"
+    if place == "saudi":
+        return "saudi arabia"
+    if place == "united":
+        return "united arab emirates"
     return place
 
 

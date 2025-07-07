@@ -1,0 +1,133 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1733489400,Raadsan,Heegan,1,5,,,,0
+1733574600,Badbaado,Dekedda,0,1,,,,0
+1733661000,Mogadishu City,Gasco,6,0,,,,0
+1733747400,Gaadiidka,Horseed,0,2,,,,0
+1733833800,Madbacadda,Elman,0,0,,,,0
+1733920200,Jazeera,Jeenyo,1,3,,,,0
+1734006600,Dekedda,Raadsan,1,1,,,,0
+1734093000,Heegan,Gasco,2,0,,,,0
+1734179400,Badbaado,Horseed,0,7,,,,0
+1734265800,Elman,Mogadishu City,0,1,,,,0
+1734352200,Gaadiidka,Jeenyo,2,0,,,,0
+1734438600,Jazeera,Madbacadda,2,1,,,,0
+1734525000,Raadsan,Gasco,0,2,,,,0
+1734611400,Horseed,Dekedda,2,1,,,,0
+1734697800,Elman,Heegan,1,2,,,,0
+1734784200,Jeenyo,Badbaado,1,2,,,,0
+1734870600,Mogadishu City,Jazeera,3,1,,,,0
+1734957000,Gaadiidka,Madbacadda,2,0,,,,0
+1735043400,Raadsan,Horseed,0,8,,,,0
+1735475400,Gasco,Elman,0,3,,,,0
+1735561800,Dekedda,Jeenyo,2,1,,,,0
+1735648200,Heegan,Jazeera,5,0,,,,0
+1735734600,Badbaado,Madbacadda,2,2,,,,0
+1735821000,Mogadishu City,Gaadiidka,1,0,,,,0
+1735907400,Elman,Raadsan,3,1,,,,0
+1735993800,Horseed,Jeenyo,4,2,,,,0
+1736080200,Jazeera,Gasco,3,2,,,,0
+1736166600,Madbacadda,Dekedda,1,8,,,,0
+1736253000,Gaadiidka,Heegan,0,1,,,,0
+1736339400,Badbaado,Mogadishu City,0,2,,,,0
+1736425800,Jeenyo,Raadsan,3,2,,,,0
+1736512200,Elman,Jazeera,2,1,,,,0
+1736598600,Horseed,Madbacadda,4,0,,,,0
+1736685000,Gasco,Gaadiidka,0,2,,,,0
+1736771400,Dekedda,Mogadishu City,1,2,,,,0
+1736857800,Heegan,Badbaado,3,0,,,,0
+1736944200,Jazeera,Raadsan,1,0,,,,0
+1737030600,Jeenyo,Madbacadda,5,0,,,,0
+1737117000,Gaadiidka,Elman,0,1,,,,0
+1737203400,Mogadishu City,Horseed,2,2,,,,0
+1737289800,Badbaado,Gasco,2,2,,,,0
+1737376200,Dekedda,Heegan,1,0,,,,0
+1737462600,Madbacadda,Raadsan,0,4,,,,0
+1737549000,Jazeera,Gaadiidka,3,2,,,,0
+1737635400,Jeenyo,Mogadishu City,0,2,,,,0
+1737721800,Elman,Badbaado,1,1,,,,0
+1737808200,Heegan,Horseed,1,0,,,,0
+1737894600,Gasco,Dekedda,0,5,,,,0
+1737981000,Raadsan,Gaadiidka,1,1,,,,0
+1738065600,Mogadishu City,Madbacadda,5,0,,,,0
+1738153800,Badbaado,Jazeera,0,3,,,,0
+1738240200,Heegan,Jeenyo,0,1,,,,0
+1738324800,Elman,Dekedda,2,2,,,,0
+1738411200,Horseed,Gasco,2,1,,,,0
+1738499400,Raadsan,Mogadishu City,1,2,,,,0
+1738584000,Gaadiidka,Badbaado,3,0,,,,0
+1738672200,Heegan,Madbacadda,3,0,,,,0
+1738758600,Dekedda,Jazeera,0,0,,,,0
+1738845000,Gasco,Jeenyo,1,2,,,,0
+1738931400,Horseed,Elman,2,1,,,,0
+1739017800,Badbaado,Raadsan,3,2,,,,0
+1739104200,Mogadishu City,Heegan,0,1,,,,0
+1739190600,Dekedda,Gaadiidka,4,0,,,,0
+1739277000,Gasco,Madbacadda,5,2,,,,0
+1739363400,Jazeera,Horseed,0,4,,,,0
+1739449800,Jeenyo,Elman,0,2,,,,0
+1739881800,Heegan,Raadsan,8,0,,,,0
+1739968200,Dekedda,Badbaado,2,1,,,,0
+1740054600,Gasco,Mogadishu City,0,4,,,,0
+1740141000,Horseed,Gaadiidka,3,0,,,,0
+1740227400,Elman,Madbacadda,2,0,,,,0
+1740313800,Jeenyo,Jazeera,2,0,,,,0
+1740400200,Raadsan,Dekedda,2,5,,,,0
+1740486600,Gasco,Heegan,1,2,,,,0
+1740573000,Horseed,Badbaado,2,2,,,,0
+1740659400,Mogadishu City,Elman,1,0,,,,0
+1740745800,Madbacadda,Jazeera,2,2,,,,0
+1740745800,Jeenyo,Gaadiidka,0,2,,,,0
+1743856200,Gasco,Raadsan,1,2,,,,0
+1743942600,Dekedda,Horseed,1,1,,,,0
+1744029000,Heegan,Elman,0,1,,,,0
+1744115400,Badbaado,Jeenyo,2,3,,,,0
+1744201800,Jazeera,Mogadishu City,3,6,,,,0
+1744288200,Madbacadda,Gaadiidka,0,5,,,,0
+1744374600,Horseed,Raadsan,1,0,,,,0
+1744461900,Elman,Gasco,5,0,,,,0
+1744548300,Jeenyo,Dekedda,0,3,,,,0
+1744634700,Jazeera,Heegan,0,4,,,,0
+1744721100,Madbacadda,Badbaado,2,5,,,,0
+1744806600,Gaadiidka,Mogadishu City,1,1,,,,0
+1744893000,Raadsan,Elman,1,0,,,,0
+1744979400,Jeenyo,Horseed,0,1,,,,0
+1745066700,Gasco,Jazeera,4,3,,,,0
+1745152200,Dekedda,Madbacadda,4,2,,,,0
+1745239500,Heegan,Gaadiidka,2,1,,,,0
+1745325900,Mogadishu City,Badbaado,4,1,,,,0
+1745411400,Raadsan,Jeenyo,3,0,,,,0
+1745497800,Jazeera,Elman,0,0,,,,0
+1745584200,Madbacadda,Horseed,1,2,,,,0
+1745671500,Gaadiidka,Gasco,2,0,,,,0
+1745757900,Mogadishu City,Dekedda,1,0,,,,0
+1745844300,Badbaado,Heegan,0,4,,,,0
+1745930700,Raadsan,Jazeera,2,2,,,,0
+1746016200,Madbacadda,Jeenyo,1,6,,,,0
+1746103500,Elman,Gaadiidka,0,1,,,,0
+1746189000,Horseed,Mogadishu City,1,2,,,,0
+1746276300,Gasco,Badbaado,3,3,,,,0
+1746361800,Heegan,Dekedda,2,1,,,,0
+1746449100,Raadsan,Madbacadda,8,2,,,,0
+1746534600,Gaadiidka,Jazeera,2,1,,,,0
+1746621000,Mogadishu City,Jeenyo,2,1,,,,0
+1746708300,Badbaado,Elman,1,0,,,,0
+1746793800,Horseed,Heegan,0,0,,,,0
+1746881100,Dekedda,Gasco,3,1,,,,0
+1746967500,Gaadiidka,Raadsan,0,0,,,,0
+1747053000,Madbacadda,Mogadishu City,0,10,,,,0
+1747140300,Jazeera,Badbaado,1,0,,,,0
+1747226700,Jeenyo,Heegan,2,2,,,,0
+1747313100,Dekedda,Elman,1,3,,,,0
+1747399500,Gasco,Horseed,0,5,,,,0
+1747485000,Mogadishu City,Raadsan,3,1,,,,0
+1747571400,Badbaado,Gaadiidka,1,0,,,,0
+1747658700,Heegan,Madbacadda,4,1,,,,0
+1747745100,Jazeera,Dekedda,2,3,,,,0
+1747831500,Jeenyo,Gasco,1,1,,,,0
+1747917000,Elman,Horseed,3,2,,,,0
+1748004300,Raadsan,Badbaado,1,1,,,,0
+1748089800,Heegan,Mogadishu City,2,2,,,,0
+1748176200,Gaadiidka,Dekedda,2,3,,,,0
+1748263500,Madbacadda,Gasco,2,6,,,,0
+1748608200,Horseed,Jazeera,4,1,,,,0
+1748694600,Elman,Jeenyo,2,0,,,,0

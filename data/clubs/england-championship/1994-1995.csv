@@ -1,0 +1,558 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+776779200,Wolves,Reading,1,0,,,,0
+776779200,Stoke,Tranmere,1,0,,,,0
+776779200,Sheffield Utd,Watford,3,0,,,,0
+776779200,Portsmouth,Notts Co,2,1,,,,0
+776779200,Oldham,Charlton,5,2,,,,0
+776779200,Millwall,Southend,3,1,,,,0
+776779200,Middlesbrough,Burnley,2,0,,,,0
+776779200,Luton,West Brom,1,1,,,,0
+776779200,Grimsby,Bolton,3,3,,,,0
+776779200,Bristol City,Sunderland,0,0,,,,0
+776779200,Barnsley,Derby,2,1,,,,0
+776865600,Swindon,Port Vale,2,0,,,,0
+777384000,Watford,Grimsby,0,0,,,,0
+777384000,Tranmere,Swindon,3,2,,,,0
+777384000,Sunderland,Millwall,1,1,,,,0
+777384000,Southend,Middlesbrough,0,2,,,,0
+777384000,Reading,Portsmouth,0,0,,,,0
+777384000,Port Vale,Oldham,3,1,,,,0
+777384000,Derby,Luton,0,0,,,,0
+777384000,Charlton,Barnsley,2,2,,,,0
+777384000,Burnley,Stoke,1,1,,,,0
+777384000,Bolton,Bristol City,0,2,,,,0
+777470400,Notts Co,Wolves,1,1,,,,0
+777988800,Swindon,Watford,1,0,,,,0
+777988800,Stoke,Sunderland,0,1,,,,0
+777988800,Sheffield Utd,Notts Co,1,3,,,,0
+777988800,Portsmouth,Charlton,1,1,,,,0
+777988800,Oldham,Burnley,3,0,,,,0
+777988800,Millwall,Derby,4,1,,,,0
+777988800,Middlesbrough,Bolton,1,0,,,,0
+777988800,Luton,Southend,2,2,,,,0
+777988800,Grimsby,Tranmere,3,1,,,,0
+777988800,Bristol City,Port Vale,0,0,,,,0
+777988800,Barnsley,Reading,0,2,,,,0
+778075200,Wolves,West Brom,2,0,,,,0
+778248000,Watford,Wolves,2,1,,,,0
+778248000,Tranmere,Luton,4,2,,,,0
+778248000,Sunderland,Grimsby,2,2,,,,0
+778248000,Southend,Portsmouth,1,2,,,,0
+778248000,Reading,Stoke,4,0,,,,0
+778248000,Port Vale,Barnsley,2,1,,,,0
+778248000,Notts Co,Oldham,1,3,,,,0
+778248000,Charlton,Sheffield Utd,1,1,,,,0
+778248000,Burnley,Bristol City,1,1,,,,0
+778248000,Bolton,Millwall,1,0,,,,0
+778334400,West Brom,Swindon,2,5,,,,0
+778334400,Derby,Middlesbrough,0,1,,,,0
+778593600,Watford,Middlesbrough,1,1,,,,0
+778593600,Tranmere,Sheffield Utd,2,1,,,,0
+778593600,Sunderland,Wolves,1,1,,,,0
+778593600,Southend,Oldham,1,0,,,,0
+778593600,Reading,Millwall,0,0,,,,0
+778593600,Port Vale,Luton,0,1,,,,0
+778593600,Notts Co,Swindon,0,1,,,,0
+778593600,Derby,Grimsby,2,1,,,,0
+778593600,Charlton,Bristol City,3,2,,,,0
+778593600,Burnley,Barnsley,0,1,,,,0
+778593600,Bolton,Stoke,4,0,,,,0
+779198400,Wolves,Tranmere,2,0,,,,0
+779198400,Stoke,Southend,4,1,,,,0
+779198400,Sheffield Utd,Bolton,3,1,,,,0
+779198400,Portsmouth,Port Vale,0,2,,,,0
+779198400,Oldham,Reading,1,3,,,,0
+779198400,Millwall,West Brom,2,2,,,,0
+779198400,Luton,Burnley,0,1,,,,0
+779198400,Grimsby,Charlton,0,1,,,,0
+779198400,Bristol City,Notts Co,2,1,,,,0
+779198400,Barnsley,Watford,0,0,,,,0
+779284800,Swindon,Derby,1,1,,,,0
+779284800,Middlesbrough,Sunderland,2,2,,,,0
+779457600,Wolves,Southend,5,0,,,,0
+779457600,Sheffield Utd,Sunderland,0,0,,,,0
+779457600,Oldham,Watford,0,2,,,,0
+779457600,Luton,Bolton,0,3,,,,0
+779457600,Grimsby,Port Vale,4,1,,,,0
+779457600,Bristol City,Derby,0,2,,,,0
+779457600,Barnsley,Notts Co,1,1,,,,0
+779544000,Swindon,Reading,1,0,,,,0
+779544000,Stoke,Charlton,3,2,,,,0
+779544000,Portsmouth,Tranmere,1,1,,,,0
+779544000,Millwall,Burnley,2,3,,,,0
+779544000,Middlesbrough,West Brom,2,1,,,,0
+779803200,West Brom,Grimsby,1,1,,,,0
+779803200,Watford,Luton,2,4,,,,0
+779803200,Tranmere,Millwall,3,1,,,,0
+779803200,Sunderland,Barnsley,2,0,,,,0
+779803200,Southend,Bristol City,2,1,,,,0
+779803200,Reading,Sheffield Utd,1,0,,,,0
+779803200,Port Vale,Middlesbrough,2,1,,,,0
+779803200,Notts Co,Stoke,0,2,,,,0
+779803200,Derby,Oldham,2,1,,,,0
+779803200,Charlton,Swindon,1,0,,,,0
+779803200,Burnley,Wolves,0,1,,,,0
+779803200,Bolton,Portsmouth,1,1,,,,0
+780408000,West Brom,Burnley,1,0,,,,0
+780408000,Watford,Reading,2,2,,,,0
+780408000,Tranmere,Sunderland,1,0,,,,0
+780408000,Swindon,Grimsby,3,2,,,,0
+780408000,Southend,Bolton,2,1,,,,0
+780408000,Portsmouth,Wolves,1,2,,,,0
+780408000,Port Vale,Sheffield Utd,0,2,,,,0
+780408000,Oldham,Barnsley,1,0,,,,0
+780408000,Notts Co,Charlton,3,3,,,,0
+780408000,Millwall,Luton,0,0,,,,0
+780408000,Bristol City,Middlesbrough,0,1,,,,0
+780498000,Derby,Stoke,3,0,,,,0
+780757200,West Brom,Portsmouth,0,2,,,,0
+781016400,Wolves,Port Vale,2,1,,,,0
+781016400,Sunderland,Southend,0,1,,,,0
+781016400,Sheffield Utd,Oldham,2,0,,,,0
+781016400,Reading,Notts Co,2,0,,,,0
+781016400,Middlesbrough,Millwall,3,0,,,,0
+781016400,Luton,Bristol City,0,1,,,,0
+781016400,Grimsby,Portsmouth,2,0,,,,0
+781016400,Charlton,Watford,3,0,,,,0
+781016400,Burnley,Tranmere,1,1,,,,0
+781016400,Bolton,Derby,1,0,,,,0
+781016400,Barnsley,Swindon,2,1,,,,0
+781102800,Stoke,West Brom,4,1,,,,0
+781621200,West Brom,Sunderland,1,3,,,,0
+781621200,Swindon,Wolves,3,2,,,,0
+781621200,Oldham,Portsmouth,3,2,,,,0
+781621200,Notts Co,Port Vale,2,2,,,,0
+781621200,Middlesbrough,Tranmere,0,1,,,,0
+781621200,Grimsby,Sheffield Utd,0,0,,,,0
+781621200,Derby,Watford,1,1,,,,0
+781621200,Charlton,Reading,1,2,,,,0
+781621200,Burnley,Bolton,2,2,,,,0
+781621200,Bristol City,Millwall,1,0,,,,0
+781621200,Barnsley,Southend,0,0,,,,0
+781707600,Stoke,Luton,1,2,,,,0
+782226000,Wolves,Grimsby,2,1,,,,0
+782226000,Watford,Notts Co,3,1,,,,0
+782226000,Tranmere,West Brom,3,1,,,,0
+782226000,Sunderland,Burnley,0,0,,,,0
+782226000,Reading,Bristol City,1,0,,,,0
+782226000,Portsmouth,Swindon,4,3,,,,0
+782226000,Port Vale,Charlton,0,2,,,,0
+782226000,Millwall,Stoke,1,1,,,,0
+782226000,Luton,Middlesbrough,5,1,,,,0
+782312400,Southend,Derby,1,0,,,,0
+782312400,Sheffield Utd,Barnsley,0,0,,,,0
+782312400,Bolton,Oldham,2,2,,,,0
+782485200,West Brom,Sheffield Utd,1,0,,,,0
+782830800,Wolves,Millwall,3,3,,,,0
+782830800,Watford,Tranmere,2,0,,,,0
+782830800,Swindon,Southend,2,2,,,,0
+782830800,Sheffield Utd,Luton,1,3,,,,0
+782830800,Reading,Sunderland,0,2,,,,0
+782830800,Port Vale,Bolton,1,1,,,,0
+782830800,Oldham,Stoke,0,0,,,,0
+782830800,Grimsby,Bristol City,1,0,,,,0
+782830800,Charlton,Burnley,1,2,,,,0
+782830800,Barnsley,West Brom,2,0,,,,0
+782917200,Portsmouth,Middlesbrough,0,0,,,,0
+782917200,Notts Co,Derby,0,0,,,,0
+783435600,West Brom,Reading,2,0,,,,0
+783435600,Tranmere,Port Vale,1,1,,,,0
+783435600,Sunderland,Oldham,0,0,,,,0
+783435600,Southend,Grimsby,0,0,,,,0
+783435600,Millwall,Sheffield Utd,2,1,,,,0
+783435600,Middlesbrough,Swindon,3,1,,,,0
+783435600,Luton,Barnsley,0,1,,,,0
+783435600,Derby,Charlton,2,2,,,,0
+783435600,Burnley,Notts Co,2,1,,,,0
+783435600,Bristol City,Portsmouth,1,1,,,,0
+783435600,Bolton,Watford,3,0,,,,0
+783522000,Stoke,Wolves,1,1,,,,0
+783694800,Tranmere,Barnsley,6,1,,,,0
+783694800,Sunderland,Charlton,1,1,,,,0
+783694800,Southend,Notts Co,1,0,,,,0
+783694800,Middlesbrough,Oldham,2,1,,,,0
+783694800,Luton,Grimsby,1,2,,,,0
+783694800,Burnley,Watford,1,1,,,,0
+783694800,Bristol City,Wolves,1,5,,,,0
+783694800,Bolton,Swindon,3,0,,,,0
+783781200,West Brom,Port Vale,0,0,,,,0
+783781200,Stoke,Sheffield Utd,1,1,,,,0
+783781200,Millwall,Portsmouth,2,2,,,,0
+783781200,Derby,Reading,1,2,,,,0
+784040400,Wolves,Luton,2,3,,,,0
+784040400,Watford,West Brom,1,0,,,,0
+784040400,Swindon,Millwall,1,2,,,,0
+784040400,Sheffield Utd,Bristol City,3,0,,,,0
+784040400,Reading,Burnley,0,0,,,,0
+784040400,Port Vale,Southend,5,0,,,,0
+784040400,Notts Co,Sunderland,3,2,,,,0
+784040400,Grimsby,Middlesbrough,2,1,,,,0
+784040400,Charlton,Bolton,1,2,,,,0
+784040400,Barnsley,Stoke,2,0,,,,0
+784126800,Portsmouth,Derby,0,1,,,,0
+784126800,Oldham,Tranmere,0,0,,,,0
+784645200,Watford,Southend,1,0,,,,0
+784645200,Sheffield Utd,Derby,2,1,,,,0
+784645200,Oldham,Luton,0,0,,,,0
+784645200,Grimsby,Millwall,1,0,,,,0
+784731600,Charlton,West Brom,1,1,,,,0
+785250000,West Brom,Oldham,3,1,,,,0
+785250000,Tranmere,Charlton,1,1,,,,0
+785250000,Sunderland,Watford,1,3,,,,0
+785250000,Stoke,Grimsby,3,0,,,,0
+785250000,Southend,Reading,4,1,,,,0
+785250000,Millwall,Barnsley,0,1,,,,0
+785250000,Luton,Portsmouth,2,0,,,,0
+785250000,Derby,Port Vale,2,0,,,,0
+785250000,Bolton,Notts Co,2,0,,,,0
+785336400,Middlesbrough,Wolves,1,0,,,,0
+785336400,Burnley,Sheffield Utd,4,2,,,,0
+785336400,Bristol City,Swindon,3,2,,,,0
+785595600,Wolves,Bolton,3,1,,,,0
+785595600,Swindon,Burnley,1,1,,,,0
+785854800,Watford,Stoke,0,0,,,,0
+785854800,Swindon,Luton,1,2,,,,0
+785854800,Sheffield Utd,Southend,2,0,,,,0
+785854800,Reading,Tranmere,1,3,,,,0
+785854800,Portsmouth,Sunderland,1,4,,,,0
+785854800,Port Vale,Millwall,2,1,,,,0
+785854800,Oldham,Bristol City,2,0,,,,0
+785854800,Notts Co,West Brom,2,0,,,,0
+785854800,Grimsby,Burnley,2,2,,,,0
+785854800,Charlton,Middlesbrough,0,2,,,,0
+785854800,Barnsley,Bolton,3,0,,,,0
+785941200,Wolves,Derby,0,2,,,,0
+786459600,West Brom,Barnsley,2,1,,,,0
+786459600,Tranmere,Watford,2,1,,,,0
+786459600,Sunderland,Reading,0,1,,,,0
+786459600,Southend,Swindon,2,0,,,,0
+786459600,Middlesbrough,Portsmouth,4,0,,,,0
+786459600,Luton,Sheffield Utd,3,6,,,,0
+786459600,Derby,Notts Co,0,0,,,,0
+786459600,Bristol City,Grimsby,1,2,,,,0
+786546000,Stoke,Oldham,0,1,,,,0
+786546000,Millwall,Wolves,1,0,,,,0
+786546000,Bolton,Port Vale,1,0,,,,0
+786718800,Reading,Middlesbrough,1,1,,,,0
+786718800,Notts Co,Tranmere,1,0,,,,0
+786805200,Portsmouth,Stoke,0,1,,,,0
+786805200,Port Vale,Sunderland,0,0,,,,0
+786805200,Barnsley,Bristol City,2,1,,,,0
+787064400,Wolves,Notts Co,1,0,,,,0
+787064400,Swindon,Tranmere,2,2,,,,0
+787064400,Stoke,Burnley,2,0,,,,0
+787064400,Sheffield Utd,West Brom,2,0,,,,0
+787064400,Portsmouth,Reading,1,1,,,,0
+787064400,Oldham,Port Vale,3,2,,,,0
+787064400,Millwall,Sunderland,2,0,,,,0
+787064400,Middlesbrough,Southend,1,2,,,,0
+787064400,Grimsby,Watford,0,0,,,,0
+787064400,Bristol City,Bolton,0,1,,,,0
+787064400,Barnsley,Charlton,2,1,,,,0
+787150800,Luton,Derby,0,0,,,,0
+787669200,Watford,Sheffield Utd,0,0,,,,0
+787669200,Tranmere,Stoke,0,1,,,,0
+787669200,Sunderland,Bristol City,2,0,,,,0
+787669200,Southend,Millwall,0,1,,,,0
+787669200,Port Vale,Swindon,2,2,,,,0
+787669200,Notts Co,Portsmouth,0,1,,,,0
+787669200,Derby,Barnsley,1,0,,,,0
+787669200,Charlton,Oldham,2,0,,,,0
+787669200,Bolton,Grimsby,3,3,,,,0
+787755600,West Brom,Luton,1,0,,,,0
+787755600,Reading,Wolves,4,2,,,,0
+787755600,Burnley,Middlesbrough,0,3,,,,0
+788446800,West Brom,Bristol City,1,0,,,,0
+788446800,Watford,Portsmouth,2,0,,,,0
+788446800,Tranmere,Derby,3,1,,,,0
+788446800,Sunderland,Bolton,1,1,,,,0
+788446800,Stoke,Swindon,0,0,,,,0
+788446800,Sheffield Utd,Middlesbrough,1,1,,,,0
+788446800,Reading,Luton,0,0,,,,0
+788446800,Oldham,Wolves,4,1,,,,0
+788446800,Notts Co,Millwall,0,1,,,,0
+788446800,Charlton,Southend,3,1,,,,0
+788446800,Barnsley,Grimsby,4,1,,,,0
+788533200,Swindon,Sheffield Utd,1,3,,,,0
+788533200,Southend,West Brom,2,1,,,,0
+788533200,Portsmouth,Barnsley,3,0,,,,0
+788533200,Millwall,Watford,2,1,,,,0
+788533200,Luton,Sunderland,3,0,,,,0
+788533200,Bristol City,Stoke,3,1,,,,0
+788533200,Bolton,Tranmere,1,0,,,,0
+788619600,Wolves,Charlton,2,0,,,,0
+788619600,Port Vale,Reading,0,2,,,,0
+788619600,Middlesbrough,Notts Co,2,1,,,,0
+788619600,Grimsby,Oldham,1,3,,,,0
+788878800,West Brom,Bolton,1,0,,,,0
+788878800,Watford,Port Vale,3,2,,,,0
+788878800,Tranmere,Bristol City,2,0,,,,0
+788878800,Sunderland,Derby,1,1,,,,0
+788878800,Stoke,Middlesbrough,1,1,,,,0
+788878800,Sheffield Utd,Portsmouth,3,1,,,,0
+788878800,Reading,Grimsby,1,1,,,,0
+788878800,Oldham,Swindon,1,1,,,,0
+788878800,Notts Co,Luton,0,1,,,,0
+788878800,Burnley,Southend,5,1,,,,0
+788878800,Barnsley,Wolves,1,3,,,,0
+788965200,Charlton,Millwall,1,1,,,,0
+789051600,Wolves,Sheffield Utd,2,2,,,,0
+789051600,Southend,Tranmere,0,0,,,,0
+789051600,Portsmouth,Burnley,2,0,,,,0
+789051600,Luton,Charlton,0,1,,,,0
+789051600,Derby,West Brom,1,1,,,,0
+789051600,Bristol City,Watford,0,0,,,,0
+789051600,Bolton,Reading,1,0,,,,0
+789138000,Millwall,Oldham,1,1,,,,0
+790088400,Wolves,Stoke,2,0,,,,0
+790088400,Watford,Bolton,0,0,,,,0
+790088400,Sheffield Utd,Millwall,1,1,,,,0
+790088400,Reading,West Brom,0,2,,,,0
+790088400,Portsmouth,Bristol City,0,0,,,,0
+790088400,Oldham,Sunderland,0,0,,,,0
+790088400,Notts Co,Burnley,3,0,,,,0
+790088400,Grimsby,Southend,4,1,,,,0
+790088400,Charlton,Derby,3,4,,,,0
+790088400,Barnsley,Luton,3,1,,,,0
+790174800,Swindon,Middlesbrough,2,1,,,,0
+790174800,Port Vale,Tranmere,2,0,,,,0
+790693200,Sunderland,Notts Co,1,2,,,,0
+790693200,Middlesbrough,Grimsby,1,1,,,,0
+790693200,Burnley,Reading,1,2,,,,0
+790693200,Bristol City,Sheffield Utd,2,1,,,,0
+790693200,Bolton,Charlton,5,1,,,,0
+790779600,Tranmere,Oldham,3,1,,,,0
+790779600,Derby,Portsmouth,3,0,,,,0
+791298000,West Brom,Watford,0,1,,,,0
+791298000,Southend,Port Vale,1,2,,,,0
+791298000,Grimsby,Notts Co,2,1,,,,0
+791902800,Tranmere,Notts Co,3,2,,,,0
+791902800,Sunderland,Port Vale,1,1,,,,0
+791902800,Stoke,Portsmouth,0,2,,,,0
+791902800,Southend,Watford,0,4,,,,0
+791902800,Millwall,Grimsby,2,0,,,,0
+791902800,Middlesbrough,Reading,0,1,,,,0
+791902800,Luton,Oldham,2,1,,,,0
+791902800,Derby,Sheffield Utd,2,3,,,,0
+791902800,Burnley,Swindon,1,2,,,,0
+791902800,Bristol City,Barnsley,3,2,,,,0
+791902800,Bolton,Wolves,5,1,,,,0
+791989200,West Brom,Charlton,0,1,,,,0
+792248400,Notts Co,Bolton,1,1,,,,0
+792507600,Wolves,Bristol City,2,0,,,,0
+792507600,Watford,Burnley,2,0,,,,0
+792507600,Sheffield Utd,Stoke,1,1,,,,0
+792507600,Reading,Derby,1,0,,,,0
+792507600,Port Vale,West Brom,1,0,,,,0
+792507600,Notts Co,Southend,2,2,,,,0
+792507600,Grimsby,Luton,5,0,,,,0
+792507600,Charlton,Sunderland,1,0,,,,0
+792507600,Barnsley,Tranmere,2,2,,,,0
+792853200,Swindon,Bristol City,0,3,,,,0
+793112400,West Brom,Notts Co,3,2,,,,0
+793112400,Tranmere,Reading,1,0,,,,0
+793112400,Sunderland,Portsmouth,2,2,,,,0
+793112400,Southend,Sheffield Utd,1,3,,,,0
+793112400,Middlesbrough,Charlton,1,0,,,,0
+793112400,Luton,Swindon,3,0,,,,0
+793112400,Burnley,Grimsby,0,2,,,,0
+793112400,Bristol City,Oldham,2,2,,,,0
+793112400,Bolton,Barnsley,2,1,,,,0
+793371600,Wolves,Middlesbrough,0,2,,,,0
+793371600,Watford,Sunderland,0,1,,,,0
+793371600,Sheffield Utd,Burnley,2,0,,,,0
+793371600,Reading,Southend,2,0,,,,0
+793371600,Portsmouth,Luton,3,2,,,,0
+793371600,Port Vale,Derby,1,0,,,,0
+793371600,Oldham,West Brom,1,0,,,,0
+793371600,Grimsby,Stoke,0,0,,,,0
+793371600,Charlton,Tranmere,0,1,,,,0
+793371600,Barnsley,Millwall,4,1,,,,0
+793717200,West Brom,Stoke,1,3,,,,0
+793717200,Tranmere,Burnley,4,1,,,,0
+793717200,Swindon,Barnsley,0,0,,,,0
+793717200,Southend,Sunderland,0,1,,,,0
+793717200,Portsmouth,Grimsby,2,1,,,,0
+793717200,Port Vale,Wolves,2,4,,,,0
+793717200,Oldham,Sheffield Utd,3,3,,,,0
+793717200,Notts Co,Reading,1,0,,,,0
+793717200,Bristol City,Luton,2,2,,,,0
+793803600,Millwall,Middlesbrough,0,0,,,,0
+793803600,Derby,Bolton,2,1,,,,0
+794062800,Millwall,Swindon,3,1,,,,0
+794322000,Stoke,Derby,0,0,,,,0
+794322000,Sheffield Utd,Port Vale,1,1,,,,0
+794322000,Reading,Watford,4,1,,,,0
+794322000,Middlesbrough,Bristol City,3,0,,,,0
+794322000,Luton,Millwall,1,1,,,,0
+794322000,Grimsby,Swindon,1,1,,,,0
+794322000,Charlton,Notts Co,1,0,,,,0
+794322000,Burnley,West Brom,1,1,,,,0
+794322000,Bolton,Southend,3,0,,,,0
+794408400,Wolves,Portsmouth,1,0,,,,0
+794408400,Sunderland,Tranmere,0,1,,,,0
+794581200,Sheffield Utd,Tranmere,2,0,,,,0
+794581200,Oldham,Southend,0,2,,,,0
+794581200,Middlesbrough,Watford,2,0,,,,0
+794581200,Luton,Port Vale,2,1,,,,0
+794581200,Grimsby,Derby,0,1,,,,0
+794581200,Bristol City,Charlton,2,1,,,,0
+794581200,Barnsley,Burnley,2,0,,,,0
+794667600,Wolves,Sunderland,1,0,,,,0
+794667600,Portsmouth,West Brom,1,2,,,,0
+794667600,Millwall,Reading,2,0,,,,0
+794926800,Watford,Swindon,2,0,,,,0
+794926800,Tranmere,Grimsby,2,0,,,,0
+794926800,Sunderland,Stoke,1,0,,,,0
+794926800,Southend,Luton,3,0,,,,0
+794926800,Reading,Barnsley,0,3,,,,0
+794926800,Port Vale,Bristol City,2,1,,,,0
+794926800,Notts Co,Sheffield Utd,2,1,,,,0
+794926800,Derby,Millwall,3,2,,,,0
+794926800,Charlton,Portsmouth,1,0,,,,0
+794926800,Burnley,Oldham,2,1,,,,0
+794926800,Bolton,Middlesbrough,1,0,,,,0
+795272400,West Brom,Wolves,2,0,,,,0
+795272400,Swindon,Sunderland,1,0,,,,0
+795272400,Portsmouth,Millwall,3,2,,,,0
+795272400,Derby,Burnley,4,0,,,,0
+795358800,Port Vale,Stoke,1,1,,,,0
+795358800,Oldham,Notts Co,1,1,,,,0
+795358800,Middlesbrough,Barnsley,1,1,,,,0
+795531600,Wolves,Watford,1,1,,,,0
+795531600,Stoke,Reading,0,1,,,,0
+795531600,Sheffield Utd,Charlton,2,1,,,,0
+795531600,Portsmouth,Southend,1,1,,,,0
+795531600,Middlesbrough,Derby,2,4,,,,0
+795531600,Luton,Tranmere,2,0,,,,0
+795531600,Bristol City,Burnley,1,1,,,,0
+795531600,Barnsley,Port Vale,3,1,,,,0
+795618000,Swindon,West Brom,0,0,,,,0
+795618000,Millwall,Bolton,0,1,,,,0
+795618000,Grimsby,Sunderland,3,1,,,,0
+795790800,Watford,Barnsley,3,2,,,,0
+795790800,Sunderland,Middlesbrough,0,1,,,,0
+795790800,Southend,Stoke,4,2,,,,0
+795790800,Reading,Oldham,2,1,,,,0
+795790800,Port Vale,Portsmouth,1,0,,,,0
+795790800,Notts Co,Bristol City,1,1,,,,0
+795790800,Charlton,Grimsby,2,1,,,,0
+795790800,Burnley,Luton,2,1,,,,0
+795877200,West Brom,Millwall,3,0,,,,0
+795877200,Derby,Swindon,3,1,,,,0
+795877200,Bolton,Sheffield Utd,1,1,,,,0
+796050000,Wolves,Burnley,2,0,,,,0
+796050000,Barnsley,Sunderland,2,0,,,,0
+796136400,Swindon,Charlton,0,1,,,,0
+796136400,Stoke,Notts Co,2,1,,,,0
+796136400,Sheffield Utd,Reading,1,1,,,,0
+796136400,Portsmouth,Bolton,1,1,,,,0
+796136400,Oldham,Derby,1,0,,,,0
+796136400,Millwall,Tranmere,2,1,,,,0
+796136400,Grimsby,West Brom,0,2,,,,0
+796136400,Bristol City,Southend,0,0,,,,0
+796219200,Middlesbrough,Port Vale,3,0,,,,0
+796219200,Luton,Watford,1,1,,,,0
+796392000,Burnley,Port Vale,4,3,,,,0
+796737600,West Brom,Middlesbrough,1,3,,,,0
+796737600,Watford,Oldham,1,2,,,,0
+796737600,Tranmere,Portsmouth,4,2,,,,0
+796737600,Sunderland,Sheffield Utd,1,0,,,,0
+796737600,Southend,Wolves,0,1,,,,0
+796737600,Reading,Swindon,3,0,,,,0
+796737600,Port Vale,Grimsby,1,2,,,,0
+796737600,Notts Co,Barnsley,1,3,,,,0
+796737600,Derby,Bristol City,3,1,,,,0
+796737600,Charlton,Stoke,0,0,,,,0
+796737600,Burnley,Millwall,1,2,,,,0
+796996800,Stoke,Watford,1,0,,,,0
+796996800,Luton,Wolves,3,3,,,,0
+796996800,Burnley,Charlton,2,0,,,,0
+797083200,Swindon,Bolton,0,1,,,,0
+797083200,Oldham,Middlesbrough,1,0,,,,0
+797083200,Millwall,Port Vale,1,3,,,,0
+797342400,Wolves,Barnsley,0,0,,,,0
+797342400,Swindon,Oldham,3,1,,,,0
+797342400,Southend,Burnley,3,1,,,,0
+797342400,Portsmouth,Sheffield Utd,1,0,,,,0
+797342400,Port Vale,Watford,0,1,,,,0
+797342400,Millwall,Charlton,3,1,,,,0
+797342400,Middlesbrough,Stoke,2,1,,,,0
+797342400,Luton,Notts Co,2,0,,,,0
+797342400,Grimsby,Reading,1,0,,,,0
+797342400,Derby,Sunderland,0,1,,,,0
+797342400,Bristol City,Tranmere,0,1,,,,0
+797342400,Bolton,West Brom,1,0,,,,0
+797601600,Bolton,Luton,0,0,,,,0
+797688000,Stoke,Barnsley,0,0,,,,0
+797688000,Derby,Wolves,3,3,,,,0
+797860800,Watford,Millwall,1,0,,,,0
+797860800,Tranmere,Bolton,1,0,,,,0
+797947200,West Brom,Southend,2,0,,,,0
+797947200,Sunderland,Luton,1,1,,,,0
+797947200,Stoke,Bristol City,2,1,,,,0
+797947200,Sheffield Utd,Swindon,2,2,,,,0
+797947200,Reading,Port Vale,3,3,,,,0
+797947200,Oldham,Grimsby,1,0,,,,0
+797947200,Notts Co,Middlesbrough,1,1,,,,0
+797947200,Charlton,Wolves,3,2,,,,0
+797947200,Burnley,Derby,3,1,,,,0
+797947200,Barnsley,Portsmouth,1,0,,,,0
+798120000,Wolves,Oldham,2,1,,,,0
+798120000,Swindon,Stoke,0,1,,,,0
+798120000,Portsmouth,Watford,2,1,,,,0
+798120000,Port Vale,Burnley,1,0,,,,0
+798120000,Middlesbrough,Sheffield Utd,1,1,,,,0
+798120000,Luton,Reading,0,1,,,,0
+798120000,Grimsby,Barnsley,1,0,,,,0
+798120000,Derby,Tranmere,5,0,,,,0
+798120000,Bristol City,West Brom,1,0,,,,0
+798120000,Bolton,Sunderland,1,0,,,,0
+798206400,Southend,Charlton,2,1,,,,0
+798292800,Millwall,Notts Co,0,0,,,,0
+798465600,Tranmere,Southend,0,2,,,,0
+798465600,Reading,Bolton,2,1,,,,0
+798552000,West Brom,Derby,0,0,,,,0
+798552000,Watford,Bristol City,1,0,,,,0
+798552000,Sunderland,Swindon,1,0,,,,0
+798552000,Stoke,Port Vale,0,1,,,,0
+798552000,Sheffield Utd,Wolves,3,3,,,,0
+798552000,Oldham,Millwall,0,1,,,,0
+798552000,Notts Co,Grimsby,0,2,,,,0
+798552000,Charlton,Luton,1,0,,,,0
+798552000,Burnley,Portsmouth,1,2,,,,0
+798552000,Barnsley,Middlesbrough,1,1,,,,0
+799156800,Swindon,Portsmouth,0,2,,,,0
+799156800,Stoke,Millwall,4,3,,,,0
+799156800,Oldham,Bolton,3,1,,,,0
+799156800,Notts Co,Watford,1,0,,,,0
+799156800,Grimsby,Wolves,0,0,,,,0
+799156800,Derby,Southend,1,2,,,,0
+799156800,Charlton,Port Vale,1,1,,,,0
+799156800,Burnley,Sunderland,1,1,,,,0
+799156800,Bristol City,Reading,1,2,,,,0
+799156800,Barnsley,Sheffield Utd,2,1,,,,0
+799243200,West Brom,Tranmere,5,1,,,,0
+799243200,Middlesbrough,Luton,2,1,,,,0
+799416000,Watford,Charlton,2,0,,,,0
+799416000,Barnsley,Oldham,1,1,,,,0
+799502400,Tranmere,Wolves,1,1,,,,0
+799502400,Swindon,Notts Co,3,0,,,,0
+799502400,Stoke,Bolton,1,1,,,,0
+799761600,Sheffield Utd,Grimsby,3,1,,,,0
+799848000,Wolves,Swindon,1,1,,,,0
+799848000,Watford,Derby,2,1,,,,0
+799848000,Tranmere,Middlesbrough,1,1,,,,0
+799848000,Sunderland,West Brom,2,2,,,,0
+799848000,Southend,Barnsley,3,1,,,,0
+799848000,Reading,Charlton,2,1,,,,0
+799848000,Portsmouth,Oldham,1,1,,,,0
+799848000,Port Vale,Notts Co,1,1,,,,0
+799848000,Millwall,Bristol City,1,1,,,,0
+799848000,Luton,Stoke,2,3,,,,0
+799848000,Bolton,Burnley,1,1,,,,0
+800459700,Wolves,Bolton,2,1,,,,0
+800459700,Tranmere,Reading,1,3,,,,0
+800735400,Bolton,Wolves,1,0,AET,2,0,0
+800736300,Reading,Tranmere,0,0,,,,0
+801750600,Bolton,Reading,2,2,AET,4,3,0

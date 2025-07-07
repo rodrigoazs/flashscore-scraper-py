@@ -1,0 +1,558 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1470422700,Fulham,Newcastle,1,0,,,,0
+1470492000,Rotherham,Wolves,2,2,,,,0
+1470492000,Reading,Preston,1,0,,,,0
+1470492000,Nottingham,Burton,4,3,,,,0
+1470492000,Ipswich,Barnsley,4,2,,,,0
+1470492000,Huddersfield,Brentford,2,1,,,,0
+1470492000,Derby,Brighton,0,0,,,,0
+1470492000,Bristol City,Wigan,2,1,,,,0
+1470492000,Blackburn,Norwich,1,4,,,,0
+1470492000,Birmingham,Cardiff,0,0,,,,0
+1470567600,QPR,Leeds,3,0,,,,0
+1470583800,Sheffield Wed,Aston Villa,1,0,,,,0
+1471027500,Brighton,Nottingham,3,0,,,,0
+1471096800,Wolves,Reading,2,0,,,,0
+1471096800,Wigan,Blackburn,3,0,,,,0
+1471096800,Preston,Fulham,1,2,,,,0
+1471096800,Newcastle,Huddersfield,1,2,,,,0
+1471096800,Leeds,Birmingham,1,2,,,,0
+1471096800,Burton,Bristol City,1,2,,,,0
+1471096800,Brentford,Ipswich,2,0,,,,0
+1471096800,Barnsley,Derby,2,0,,,,0
+1471096800,Aston Villa,Rotherham,3,0,,,,0
+1471105800,Norwich,Sheffield Wed,0,0,,,,0
+1471183200,Cardiff,QPR,0,2,,,,0
+1471373100,Wolves,Ipswich,0,0,,,,0
+1471373100,Wigan,Birmingham,1,1,,,,0
+1471373100,Preston,Derby,0,1,,,,0
+1471373100,Norwich,Bristol City,1,0,,,,0
+1471373100,Leeds,Fulham,1,1,,,,0
+1471373100,Burton,Sheffield Wed,3,1,,,,0
+1471373100,Brighton,Rotherham,3,0,,,,0
+1471373100,Brentford,Nottingham,1,0,,,,0
+1471373100,Aston Villa,Huddersfield,1,1,,,,0
+1471459500,Newcastle,Reading,4,1,,,,0
+1471459500,Cardiff,Blackburn,2,1,,,,0
+1471459500,Barnsley,QPR,3,2,,,,0
+1471692600,Sheffield Wed,Leeds,0,2,,,,0
+1471701600,Rotherham,Brentford,1,0,,,,0
+1471701600,Reading,Brighton,2,2,,,,0
+1471701600,QPR,Preston,0,2,,,,0
+1471701600,Nottingham,Wigan,4,3,,,,0
+1471701600,Huddersfield,Barnsley,2,1,,,,0
+1471701600,Fulham,Cardiff,2,2,,,,0
+1471701600,Bristol City,Newcastle,0,1,,,,0
+1471701600,Blackburn,Burton,2,2,,,,0
+1471701600,Birmingham,Wolves,1,3,,,,0
+1471710600,Derby,Aston Villa,0,0,,,,0
+1471777200,Ipswich,Norwich,1,1,,,,0
+1472237100,Burton,Derby,1,0,,,,0
+1472306400,Wigan,QPR,0,1,,,,0
+1472306400,Nottingham,Leeds,3,1,,,,0
+1472306400,Ipswich,Preston,1,0,,,,0
+1472306400,Huddersfield,Wolves,1,0,,,,0
+1472306400,Cardiff,Reading,0,1,,,,0
+1472306400,Bristol City,Aston Villa,3,1,,,,0
+1472306400,Brentford,Sheffield Wed,1,1,,,,0
+1472306400,Blackburn,Fulham,0,1,,,,0
+1472306400,Birmingham,Norwich,3,0,,,,0
+1472306400,Barnsley,Rotherham,4,0,,,,0
+1472315400,Newcastle,Brighton,2,0,,,,0
+1473447600,Reading,Ipswich,2,1,,,,0
+1473516000,Wolves,Burton,1,1,,,,0
+1473516000,Sheffield Wed,Wigan,2,1,,,,0
+1473516000,Rotherham,Bristol City,2,2,,,,0
+1473516000,QPR,Blackburn,1,1,,,,0
+1473516000,Preston,Barnsley,1,2,,,,0
+1473516000,Norwich,Cardiff,3,2,,,,0
+1473516000,Leeds,Huddersfield,0,1,,,,0
+1473516000,Fulham,Birmingham,0,1,,,,0
+1473516000,Brighton,Brentford,0,2,,,,0
+1473525000,Derby,Newcastle,0,2,,,,0
+1473596100,Aston Villa,Nottingham,2,2,,,,0
+1473792300,Wolves,Barnsley,0,4,,,,0
+1473792300,Sheffield Wed,Bristol City,3,2,,,,0
+1473792300,QPR,Newcastle,0,6,,,,0
+1473792300,Preston,Cardiff,3,0,,,,0
+1473792300,Norwich,Wigan,2,1,,,,0
+1473792300,Leeds,Blackburn,2,1,,,,0
+1473792300,Fulham,Burton,1,1,,,,0
+1473792300,Derby,Ipswich,0,1,,,,0
+1473792300,Brighton,Huddersfield,1,0,,,,0
+1473793200,Reading,Birmingham,0,0,,,,0
+1473878700,Rotherham,Nottingham,2,2,,,,0
+1473878700,Aston Villa,Brentford,1,1,,,,0
+1474111800,Cardiff,Leeds,0,2,,,,0
+1474120800,Wigan,Fulham,0,0,,,,0
+1474120800,Nottingham,Norwich,1,2,,,,0
+1474120800,Newcastle,Wolves,0,2,,,,0
+1474120800,Ipswich,Aston Villa,0,0,,,,0
+1474120800,Huddersfield,QPR,2,1,,,,0
+1474120800,Burton,Brighton,0,1,,,,0
+1474120800,Bristol City,Derby,1,1,,,,0
+1474120800,Brentford,Preston,5,0,,,,0
+1474120800,Blackburn,Rotherham,4,2,,,,0
+1474120800,Barnsley,Reading,1,2,,,,0
+1474129800,Birmingham,Sheffield Wed,2,1,,,,0
+1474656300,Preston,Wigan,1,0,,,,0
+1474725600,Wolves,Brentford,3,1,,,,0
+1474725600,Sheffield Wed,Nottingham,2,1,,,,0
+1474725600,Rotherham,Cardiff,1,2,,,,0
+1474725600,Reading,Huddersfield,1,0,,,,0
+1474725600,QPR,Birmingham,1,1,,,,0
+1474725600,Norwich,Burton,3,1,,,,0
+1474725600,Leeds,Ipswich,1,0,,,,0
+1474725600,Fulham,Bristol City,0,4,,,,0
+1474725600,Derby,Blackburn,1,2,,,,0
+1474725600,Brighton,Barnsley,2,0,,,,0
+1474734600,Aston Villa,Newcastle,1,1,,,,0
+1475001900,Wigan,Wolves,2,1,,,,0
+1475001900,Nottingham,Fulham,1,1,,,,0
+1475001900,Ipswich,Brighton,0,0,,,,0
+1475001900,Huddersfield,Rotherham,2,1,,,,0
+1475001900,Cardiff,Derby,0,2,,,,0
+1475001900,Burton,QPR,1,1,,,,0
+1475001900,Bristol City,Leeds,1,0,,,,0
+1475001900,Brentford,Reading,4,1,,,,0
+1475001900,Blackburn,Sheffield Wed,0,1,,,,0
+1475001900,Birmingham,Preston,2,2,,,,0
+1475001900,Barnsley,Aston Villa,1,1,,,,0
+1475088300,Newcastle,Norwich,4,3,,,,0
+1475322300,Fulham,QPR,1,2,,,,0
+1475330400,Sheffield Wed,Brighton,1,2,,,,0
+1475330400,Rotherham,Newcastle,0,1,,,,0
+1475330400,Reading,Derby,1,1,,,,0
+1475330400,Preston,Aston Villa,2,0,,,,0
+1475330400,Leeds,Barnsley,2,1,,,,0
+1475330400,Ipswich,Huddersfield,0,1,,,,0
+1475330400,Burton,Cardiff,2,0,,,,0
+1475330400,Bristol City,Nottingham,2,1,,,,0
+1475330400,Brentford,Wigan,0,0,,,,0
+1475330400,Birmingham,Blackburn,1,0,,,,0
+1475339400,Wolves,Norwich,1,2,,,,0
+1476470700,Nottingham,Birmingham,3,1,,,,0
+1476470700,Cardiff,Bristol City,2,1,,,,0
+1476540000,Wigan,Burton,0,0,,,,0
+1476540000,QPR,Reading,1,1,,,,0
+1476540000,Norwich,Rotherham,3,1,,,,0
+1476540000,Newcastle,Brentford,3,1,,,,0
+1476540000,Derby,Leeds,1,0,,,,0
+1476540000,Brighton,Preston,2,2,,,,0
+1476540000,Blackburn,Ipswich,0,0,,,,0
+1476540000,Barnsley,Fulham,2,4,,,,0
+1476549000,Aston Villa,Wolves,1,1,,,,0
+1476615600,Huddersfield,Sheffield Wed,0,1,,,,0
+1476816300,QPR,Bristol City,1,0,,,,0
+1476816300,Leeds,Wigan,1,1,,,,0
+1476816300,Ipswich,Burton,2,0,,,,0
+1476816300,Fulham,Norwich,2,2,,,,0
+1476816300,Derby,Brentford,0,0,,,,0
+1476816300,Brighton,Wolves,1,0,,,,0
+1476816300,Blackburn,Nottingham,2,1,,,,0
+1476816300,Birmingham,Rotherham,4,2,,,,0
+1476816300,Barnsley,Newcastle,0,2,,,,0
+1476817200,Reading,Aston Villa,1,2,,,,0
+1476902700,Preston,Huddersfield,3,1,,,,0
+1476902700,Cardiff,Sheffield Wed,1,1,,,,0
+1477075500,Burton,Birmingham,2,0,,,,0
+1477144800,Wolves,Leeds,0,1,,,,0
+1477144800,Wigan,Brighton,0,1,,,,0
+1477144800,Sheffield Wed,QPR,1,0,,,,0
+1477144800,Rotherham,Reading,0,1,,,,0
+1477144800,Norwich,Preston,0,1,,,,0
+1477144800,Newcastle,Ipswich,3,0,,,,0
+1477144800,Huddersfield,Derby,1,0,,,,0
+1477144800,Bristol City,Blackburn,1,0,,,,0
+1477144800,Brentford,Barnsley,0,2,,,,0
+1477144800,Aston Villa,Fulham,1,0,,,,0
+1477153800,Nottingham,Cardiff,1,2,,,,0
+1477680300,QPR,Brentford,0,2,,,,0
+1477749600,Reading,Nottingham,2,0,,,,0
+1477749600,Preston,Newcastle,1,2,,,,0
+1477749600,Leeds,Burton,2,0,,,,0
+1477749600,Ipswich,Rotherham,2,2,,,,0
+1477749600,Fulham,Huddersfield,5,0,,,,0
+1477749600,Derby,Sheffield Wed,2,0,,,,0
+1477749600,Cardiff,Wigan,0,1,,,,0
+1477749600,Brighton,Norwich,5,0,,,,0
+1477749600,Barnsley,Bristol City,2,2,,,,0
+1477758600,Blackburn,Wolves,1,1,,,,0
+1477828800,Birmingham,Aston Villa,1,1,,,,0
+1478288700,Brentford,Fulham,0,2,,,,0
+1478349000,Wolves,Derby,2,3,,,,0
+1478358000,Wigan,Reading,0,3,,,,0
+1478358000,Sheffield Wed,Ipswich,1,2,,,,0
+1478358000,Rotherham,Preston,1,3,,,,0
+1478358000,Nottingham,QPR,1,1,,,,0
+1478358000,Norwich,Leeds,2,3,,,,0
+1478358000,Newcastle,Cardiff,2,1,,,,0
+1478358000,Huddersfield,Birmingham,1,1,,,,0
+1478358000,Burton,Barnsley,0,0,,,,0
+1478358000,Aston Villa,Blackburn,2,1,,,,0
+1478367000,Bristol City,Brighton,0,2,,,,0
+1479498300,Brighton,Aston Villa,1,1,,,,0
+1479567600,Reading,Burton,3,0,,,,0
+1479567600,QPR,Norwich,2,1,,,,0
+1479567600,Preston,Wolves,0,0,,,,0
+1479567600,Fulham,Sheffield Wed,1,1,,,,0
+1479567600,Derby,Rotherham,3,0,,,,0
+1479567600,Cardiff,Huddersfield,3,2,,,,0
+1479567600,Blackburn,Brentford,3,2,,,,0
+1479567600,Birmingham,Bristol City,1,0,,,,0
+1479567600,Barnsley,Wigan,0,0,,,,0
+1479576600,Ipswich,Nottingham,0,2,,,,0
+1479647700,Leeds,Newcastle,0,2,,,,0
+1480103100,Barnsley,Nottingham,2,5,,,,0
+1480172400,Wolves,Sheffield Wed,0,2,,,,0
+1480172400,Reading,Bristol City,2,1,,,,0
+1480172400,Preston,Burton,1,1,,,,0
+1480172400,Newcastle,Blackburn,0,1,,,,0
+1480172400,Ipswich,QPR,3,0,,,,0
+1480172400,Derby,Norwich,1,0,,,,0
+1480172400,Brighton,Fulham,2,1,,,,0
+1480172400,Brentford,Birmingham,1,2,,,,0
+1480172400,Aston Villa,Cardiff,3,1,,,,0
+1480181400,Rotherham,Leeds,1,2,,,,0
+1480362300,Huddersfield,Wigan,1,2,,,,0
+1480621500,QPR,Wolves,1,2,,,,0
+1480707900,Nottingham,Newcastle,2,1,,,,0
+1480777200,Wigan,Derby,0,1,,,,0
+1480777200,Sheffield Wed,Preston,2,1,,,,0
+1480777200,Norwich,Brentford,5,0,,,,0
+1480777200,Fulham,Reading,5,0,,,,0
+1480777200,Cardiff,Brighton,0,0,,,,0
+1480777200,Burton,Rotherham,2,1,,,,0
+1480777200,Bristol City,Ipswich,2,0,,,,0
+1480777200,Blackburn,Huddersfield,1,1,,,,0
+1480777200,Birmingham,Barnsley,0,3,,,,0
+1480786200,Leeds,Aston Villa,2,0,,,,0
+1481312700,Brighton,Leeds,2,0,,,,0
+1481382000,Wolves,Fulham,4,4,,,,0
+1481382000,Rotherham,QPR,1,0,,,,0
+1481382000,Reading,Sheffield Wed,2,1,,,,0
+1481382000,Newcastle,Birmingham,4,0,,,,0
+1481382000,Ipswich,Cardiff,1,1,,,,0
+1481382000,Huddersfield,Bristol City,2,1,,,,0
+1481382000,Brentford,Burton,2,1,,,,0
+1481382000,Barnsley,Norwich,2,1,,,,0
+1481382000,Aston Villa,Wigan,1,0,,,,0
+1481391000,Preston,Blackburn,3,2,,,,0
+1481457600,Derby,Nottingham,3,0,,,,0
+1481658300,Sheffield Wed,Barnsley,2,0,,,,0
+1481658300,Norwich,Aston Villa,1,0,,,,0
+1481658300,Leeds,Reading,2,0,,,,0
+1481658300,Fulham,Rotherham,2,1,,,,0
+1481658300,Cardiff,Wolves,2,1,,,,0
+1481658300,Burton,Huddersfield,0,1,,,,0
+1481658300,Bristol City,Brentford,0,1,,,,0
+1481658300,Blackburn,Brighton,2,3,,,,0
+1481658300,Birmingham,Ipswich,2,1,,,,0
+1481744700,Wigan,Newcastle,0,2,,,,0
+1481744700,QPR,Derby,0,1,,,,0
+1481744700,Nottingham,Preston,1,1,,,,0
+1481917500,Norwich,Huddersfield,1,2,,,,0
+1481986800,Wigan,Ipswich,2,3,,,,0
+1481986800,Sheffield Wed,Rotherham,1,0,,,,0
+1481986800,Nottingham,Wolves,0,2,,,,0
+1481986800,Leeds,Brentford,1,0,,,,0
+1481986800,Fulham,Derby,2,2,,,,0
+1481986800,Cardiff,Barnsley,3,4,,,,0
+1481986800,Burton,Newcastle,1,2,,,,0
+1481986800,Bristol City,Preston,1,2,,,,0
+1481986800,Blackburn,Reading,2,3,,,,0
+1481995800,Birmingham,Brighton,1,2,,,,0
+1482062400,QPR,Aston Villa,0,1,,,,0
+1482757200,Brentford,Cardiff,2,2,,,,0
+1482764400,Wolves,Bristol City,3,2,,,,0
+1482764400,Rotherham,Wigan,3,2,,,,0
+1482764400,Reading,Norwich,3,1,,,,0
+1482764400,Preston,Leeds,1,4,,,,0
+1482764400,Ipswich,Fulham,0,2,,,,0
+1482764400,Huddersfield,Nottingham,2,1,,,,0
+1482764400,Barnsley,Blackburn,2,0,,,,0
+1482764400,Aston Villa,Burton,2,1,,,,0
+1482781500,Newcastle,Sheffield Wed,0,1,,,,0
+1482841800,Brighton,QPR,3,0,,,,0
+1482850800,Derby,Birmingham,1,0,,,,0
+1483040700,Rotherham,Burton,1,2,,,,0
+1483040700,Aston Villa,Leeds,1,1,,,,0
+1483127100,Newcastle,Nottingham,3,1,,,,0
+1483127100,Ipswich,Bristol City,2,1,,,,0
+1483187400,Huddersfield,Blackburn,1,1,,,,0
+1483196400,Wolves,QPR,1,2,,,,0
+1483196400,Preston,Sheffield Wed,1,1,,,,0
+1483196400,Derby,Wigan,0,0,,,,0
+1483196400,Barnsley,Birmingham,2,2,,,,0
+1483205400,Brentford,Norwich,0,0,,,,0
+1483369200,Wigan,Huddersfield,0,1,,,,0
+1483369200,Sheffield Wed,Wolves,0,0,,,,0
+1483369200,QPR,Ipswich,2,1,,,,0
+1483369200,Nottingham,Barnsley,0,1,,,,0
+1483369200,Norwich,Derby,3,0,,,,0
+1483369200,Leeds,Rotherham,3,0,,,,0
+1483369200,Fulham,Brighton,1,2,,,,0
+1483369200,Cardiff,Aston Villa,1,0,,,,0
+1483369200,Burton,Preston,0,1,,,,0
+1483369200,Bristol City,Reading,2,3,,,,0
+1483369200,Blackburn,Newcastle,1,0,,,,0
+1483369200,Birmingham,Brentford,1,3,,,,0
+1484251200,Reading,QPR,0,1,,,,0
+1484336700,Leeds,Derby,1,0,,,,0
+1484395200,Bristol City,Cardiff,2,3,,,,0
+1484406000,Sheffield Wed,Huddersfield,2,0,,,,0
+1484406000,Rotherham,Norwich,2,1,,,,0
+1484406000,Preston,Brighton,2,0,,,,0
+1484406000,Ipswich,Blackburn,3,2,,,,0
+1484406000,Fulham,Barnsley,2,0,,,,0
+1484406000,Burton,Wigan,0,2,,,,0
+1484406000,Brentford,Newcastle,1,2,,,,0
+1484406000,Birmingham,Nottingham,0,0,,,,0
+1484415000,Wolves,Aston Villa,1,0,,,,0
+1484941500,Brighton,Sheffield Wed,2,1,,,,0
+1485001800,QPR,Fulham,1,1,,,,0
+1485010800,Wigan,Brentford,2,1,,,,0
+1485010800,Nottingham,Bristol City,1,0,,,,0
+1485010800,Norwich,Wolves,3,1,,,,0
+1485010800,Newcastle,Rotherham,4,0,,,,0
+1485010800,Huddersfield,Ipswich,2,0,,,,0
+1485010800,Derby,Reading,3,2,,,,0
+1485010800,Cardiff,Burton,1,0,,,,0
+1485010800,Blackburn,Birmingham,1,1,,,,0
+1485010800,Aston Villa,Preston,2,2,,,,0
+1485019800,Barnsley,Leeds,3,2,,,,0
+1485287100,Brighton,Cardiff,1,0,,,,0
+1485288000,Reading,Fulham,1,0,,,,0
+1485373500,Leeds,Nottingham,2,0,,,,0
+1485615600,Rotherham,Barnsley,0,1,,,,0
+1485615600,Reading,Cardiff,2,1,,,,0
+1485615600,QPR,Burton,1,2,,,,0
+1485615600,Preston,Ipswich,1,1,,,,0
+1485615600,Norwich,Birmingham,2,0,,,,0
+1485891900,Nottingham,Rotherham,2,0,,,,0
+1485891900,Ipswich,Derby,0,3,,,,0
+1485891900,Cardiff,Preston,2,0,,,,0
+1485891900,Bristol City,Sheffield Wed,2,2,,,,0
+1485891900,Brentford,Aston Villa,3,0,,,,0
+1485891900,Birmingham,Reading,0,1,,,,0
+1485891900,Barnsley,Wolves,1,3,,,,0
+1485978300,Newcastle,QPR,2,2,,,,0
+1485978300,Burton,Fulham,0,2,,,,0
+1485978300,Blackburn,Leeds,1,2,,,,0
+1486064700,Huddersfield,Brighton,3,1,,,,0
+1486151100,Wigan,Sheffield Wed,0,1,,,,0
+1486220400,Newcastle,Derby,1,0,,,,0
+1486220400,Ipswich,Reading,2,2,,,,0
+1486220400,Cardiff,Norwich,0,1,,,,0
+1486220400,Burton,Wolves,2,1,,,,0
+1486220400,Bristol City,Rotherham,1,0,,,,0
+1486220400,Blackburn,QPR,1,0,,,,0
+1486220400,Birmingham,Fulham,1,0,,,,0
+1486220400,Barnsley,Preston,0,0,,,,0
+1486229400,Nottingham,Aston Villa,2,1,,,,0
+1486296000,Huddersfield,Leeds,2,1,,,,0
+1486306800,Brentford,Brighton,3,3,,,,0
+1486496700,Wigan,Norwich,2,2,,,,0
+1486755900,Sheffield Wed,Birmingham,3,0,,,,0
+1486825200,Rotherham,Blackburn,1,1,,,,0
+1486825200,Reading,Barnsley,0,0,,,,0
+1486825200,QPR,Huddersfield,1,2,,,,0
+1486825200,Preston,Brentford,4,2,,,,0
+1486825200,Norwich,Nottingham,5,1,,,,0
+1486825200,Leeds,Cardiff,0,2,,,,0
+1486825200,Fulham,Wigan,3,2,,,,0
+1486825200,Derby,Bristol City,3,3,,,,0
+1486825200,Brighton,Burton,4,1,,,,0
+1486825200,Aston Villa,Ipswich,0,1,,,,0
+1486834200,Wolves,Newcastle,0,1,,,,0
+1487101500,Wolves,Wigan,0,1,,,,0
+1487101500,Sheffield Wed,Blackburn,2,1,,,,0
+1487101500,Rotherham,Huddersfield,2,3,,,,0
+1487101500,Preston,Birmingham,2,1,,,,0
+1487101500,Norwich,Newcastle,2,2,,,,0
+1487101500,Leeds,Bristol City,2,1,,,,0
+1487101500,Fulham,Nottingham,3,2,,,,0
+1487101500,Derby,Cardiff,3,4,,,,0
+1487101500,Brighton,Ipswich,1,1,,,,0
+1487101500,Aston Villa,Barnsley,1,3,,,,0
+1487102400,Reading,Brentford,3,2,,,,0
+1487430000,Wigan,Preston,0,0,,,,0
+1487430000,Nottingham,Sheffield Wed,1,2,,,,0
+1487430000,Ipswich,Leeds,1,1,,,,0
+1487430000,Cardiff,Rotherham,5,0,,,,0
+1487430000,Burton,Norwich,2,1,,,,0
+1487430000,Birmingham,QPR,1,4,,,,0
+1487430000,Barnsley,Brighton,0,2,,,,0
+1487620800,Newcastle,Aston Villa,2,0,,,,0
+1487706300,Sheffield Wed,Brentford,1,2,,,,0
+1487706300,QPR,Wigan,2,1,,,,0
+1487706300,Huddersfield,Reading,1,0,,,,0
+1487706300,Derby,Burton,0,0,,,,0
+1487793600,Bristol City,Fulham,0,2,,,,0
+1487965500,Wolves,Birmingham,1,2,,,,0
+1487965500,Burton,Blackburn,1,1,,,,0
+1488025800,Leeds,Sheffield Wed,1,0,,,,0
+1488034800,Wigan,Nottingham,0,0,,,,0
+1488034800,Preston,QPR,2,1,,,,0
+1488034800,Newcastle,Bristol City,2,2,,,,0
+1488034800,Cardiff,Fulham,2,2,,,,0
+1488034800,Brentford,Rotherham,4,2,,,,0
+1488034800,Barnsley,Huddersfield,1,1,,,,0
+1488034800,Aston Villa,Derby,1,0,,,,0
+1488043800,Brighton,Reading,3,0,,,,0
+1488110400,Norwich,Ipswich,1,1,,,,0
+1488311100,Brighton,Newcastle,1,2,,,,0
+1488311100,Blackburn,Derby,1,0,,,,0
+1488311100,Aston Villa,Bristol City,2,0,,,,0
+1488570300,Birmingham,Leeds,1,3,,,,0
+1488639600,Sheffield Wed,Norwich,5,1,,,,0
+1488639600,Rotherham,Aston Villa,0,2,,,,0
+1488639600,Reading,Wolves,2,1,,,,0
+1488639600,QPR,Cardiff,2,1,,,,0
+1488639600,Nottingham,Brighton,3,0,,,,0
+1488639600,Ipswich,Brentford,1,1,,,,0
+1488639600,Fulham,Preston,3,1,,,,0
+1488639600,Derby,Barnsley,2,1,,,,0
+1488639600,Bristol City,Burton,0,0,,,,0
+1488639600,Blackburn,Wigan,1,0,,,,0
+1488648600,Huddersfield,Newcastle,1,3,,,,0
+1488915900,Sheffield Wed,Burton,1,1,,,,0
+1488915900,Rotherham,Brighton,0,2,,,,0
+1488915900,QPR,Barnsley,2,1,,,,0
+1488915900,Nottingham,Brentford,2,3,,,,0
+1488915900,Ipswich,Wolves,0,0,,,,0
+1488915900,Huddersfield,Aston Villa,1,0,,,,0
+1488915900,Fulham,Leeds,1,1,,,,0
+1488915900,Derby,Preston,1,1,,,,0
+1488915900,Bristol City,Norwich,1,1,,,,0
+1488915900,Blackburn,Cardiff,1,1,,,,0
+1488915900,Birmingham,Wigan,0,1,,,,0
+1488916800,Reading,Newcastle,0,0,,,,0
+1489175100,Brighton,Derby,3,0,,,,0
+1489244400,Wolves,Rotherham,1,0,,,,0
+1489244400,Wigan,Bristol City,0,1,,,,0
+1489244400,Preston,Reading,3,0,,,,0
+1489244400,Norwich,Blackburn,2,2,,,,0
+1489244400,Newcastle,Fulham,1,3,,,,0
+1489244400,Leeds,QPR,0,0,,,,0
+1489244400,Cardiff,Birmingham,1,1,,,,0
+1489244400,Burton,Nottingham,1,0,,,,0
+1489244400,Brentford,Huddersfield,0,1,,,,0
+1489244400,Barnsley,Ipswich,1,1,,,,0
+1489244400,Aston Villa,Sheffield Wed,2,0,,,,0
+1489520700,Fulham,Blackburn,2,2,,,,0
+1489520700,Brentford,Wolves,1,2,,,,0
+1489779900,Sheffield Wed,Reading,0,2,,,,0
+1489779900,Bristol City,Huddersfield,4,0,,,,0
+1489842000,Nottingham,Derby,2,2,,,,0
+1489842000,Blackburn,Preston,2,2,,,,0
+1489849200,Wigan,Aston Villa,0,2,,,,0
+1489849200,QPR,Rotherham,5,1,,,,0
+1489849200,Norwich,Barnsley,2,0,,,,0
+1489849200,Fulham,Wolves,1,3,,,,0
+1489849200,Cardiff,Ipswich,3,1,,,,0
+1489849200,Burton,Brentford,3,5,,,,0
+1489849200,Birmingham,Newcastle,0,0,,,,0
+1489858200,Leeds,Brighton,2,0,,,,0
+1490985900,Derby,QPR,1,0,,,,0
+1491046200,Barnsley,Sheffield Wed,1,1,,,,0
+1491055200,Wolves,Cardiff,3,1,,,,0
+1491055200,Rotherham,Fulham,0,1,,,,0
+1491055200,Preston,Nottingham,1,1,,,,0
+1491055200,Newcastle,Wigan,2,1,,,,0
+1491055200,Ipswich,Birmingham,1,1,,,,0
+1491055200,Huddersfield,Burton,0,1,,,,0
+1491055200,Brighton,Blackburn,1,0,,,,0
+1491055200,Brentford,Bristol City,2,0,,,,0
+1491055200,Aston Villa,Norwich,2,0,,,,0
+1491064200,Reading,Leeds,1,0,,,,0
+1491331500,Wolves,Nottingham,1,0,,,,0
+1491331500,Rotherham,Sheffield Wed,0,2,,,,0
+1491331500,Preston,Bristol City,5,0,,,,0
+1491331500,Ipswich,Wigan,3,0,,,,0
+1491331500,Derby,Fulham,4,2,,,,0
+1491331500,Brighton,Birmingham,3,1,,,,0
+1491331500,Brentford,Leeds,2,0,,,,0
+1491331500,Barnsley,Cardiff,0,0,,,,0
+1491331500,Aston Villa,QPR,1,0,,,,0
+1491332400,Reading,Blackburn,3,1,,,,0
+1491417900,Newcastle,Burton,1,0,,,,0
+1491417900,Huddersfield,Norwich,3,0,,,,0
+1491590700,QPR,Brighton,1,2,,,,0
+1491660000,Wigan,Rotherham,3,2,,,,0
+1491660000,Nottingham,Huddersfield,2,0,,,,0
+1491660000,Norwich,Reading,7,1,,,,0
+1491660000,Leeds,Preston,3,0,,,,0
+1491660000,Fulham,Ipswich,3,1,,,,0
+1491660000,Cardiff,Brentford,2,1,,,,0
+1491660000,Burton,Aston Villa,1,1,,,,0
+1491660000,Bristol City,Wolves,3,1,,,,0
+1491660000,Blackburn,Barnsley,0,2,,,,0
+1491660000,Birmingham,Derby,1,2,,,,0
+1491669000,Sheffield Wed,Newcastle,2,1,,,,0
+1492109100,Wigan,Barnsley,3,2,,,,0
+1492178400,Sheffield Wed,Cardiff,1,0,,,,0
+1492178400,Rotherham,Birmingham,1,1,,,,0
+1492178400,Nottingham,Blackburn,0,1,,,,0
+1492178400,Norwich,Fulham,1,3,,,,0
+1492178400,Huddersfield,Preston,3,2,,,,0
+1492178400,Bristol City,QPR,2,1,,,,0
+1492178400,Brentford,Derby,4,0,,,,0
+1492185600,Wolves,Brighton,0,2,,,,0
+1492195500,Newcastle,Leeds,1,1,,,,0
+1492195500,Burton,Ipswich,1,2,,,,0
+1492264800,Aston Villa,Reading,1,3,,,,0
+1492436700,Fulham,Aston Villa,3,1,,,,0
+1492437600,Reading,Rotherham,2,1,,,,0
+1492437600,QPR,Sheffield Wed,1,2,,,,0
+1492437600,Preston,Norwich,1,3,,,,0
+1492437600,Leeds,Wolves,0,1,,,,0
+1492437600,Ipswich,Newcastle,3,1,,,,0
+1492437600,Cardiff,Nottingham,1,0,,,,0
+1492437600,Brighton,Wigan,2,1,,,,0
+1492437600,Blackburn,Bristol City,1,1,,,,0
+1492437600,Birmingham,Burton,0,2,,,,0
+1492437600,Barnsley,Brentford,1,1,,,,0
+1492444800,Derby,Huddersfield,1,1,,,,0
+1492800300,Norwich,Brighton,2,0,,,,0
+1492869600,Wolves,Blackburn,0,0,,,,0
+1492869600,Wigan,Cardiff,0,0,,,,0
+1492869600,Sheffield Wed,Derby,2,1,,,,0
+1492869600,Rotherham,Ipswich,1,0,,,,0
+1492869600,Nottingham,Reading,3,2,,,,0
+1492869600,Huddersfield,Fulham,1,4,,,,0
+1492869600,Burton,Leeds,2,1,,,,0
+1492869600,Bristol City,Barnsley,3,2,,,,0
+1492869600,Brentford,QPR,3,1,,,,0
+1492945200,Aston Villa,Birmingham,1,0,,,,0
+1493059500,Newcastle,Preston,4,1,,,,0
+1493145900,Wolves,Huddersfield,0,1,,,,0
+1493405100,Cardiff,Newcastle,0,2,,,,0
+1493474400,Reading,Wigan,1,0,,,,0
+1493474400,QPR,Nottingham,2,0,,,,0
+1493474400,Preston,Rotherham,1,1,,,,0
+1493474400,Leeds,Norwich,3,3,,,,0
+1493474400,Ipswich,Sheffield Wed,0,1,,,,0
+1493474400,Fulham,Brentford,1,1,,,,0
+1493474400,Derby,Wolves,3,1,,,,0
+1493474400,Blackburn,Aston Villa,1,0,,,,0
+1493474400,Birmingham,Huddersfield,2,0,,,,0
+1493474400,Barnsley,Burton,1,1,,,,0
+1493483400,Brighton,Bristol City,0,1,,,,0
+1494154800,Wolves,Preston,1,0,,,,0
+1494154800,Wigan,Leeds,1,1,,,,0
+1494154800,Sheffield Wed,Fulham,1,2,,,,0
+1494154800,Rotherham,Derby,1,1,,,,0
+1494154800,Nottingham,Ipswich,3,0,,,,0
+1494154800,Norwich,QPR,4,0,,,,0
+1494154800,Newcastle,Barnsley,3,0,,,,0
+1494154800,Huddersfield,Cardiff,0,3,,,,0
+1494154800,Burton,Reading,2,4,,,,0
+1494154800,Bristol City,Birmingham,0,1,,,,0
+1494154800,Brentford,Blackburn,1,3,,,,0
+1494154800,Aston Villa,Brighton,1,1,,,,0
+1494693000,Fulham,Reading,1,1,,,,0
+1494759600,Huddersfield,Sheffield Wed,0,0,,,,0
+1494960300,Reading,Fulham,1,0,,,,0
+1495046700,Sheffield Wed,Huddersfield,1,1,Pen,1,2,0
+1496066400,Huddersfield,Reading,0,0,Pen,1,0,1

@@ -1,0 +1,307 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1666098000,Aswan SC,Al Ittihad,0,1,,,,0
+1666105200,National Bank Egypt,Pharco,1,1,,,,0
+1666112400,Al Masry,Ceramica Cleopatra,0,3,,,,0
+1666191600,Enppi,Pyramids,1,1,,,,0
+1666191600,El Ismaily,Al Ahly,0,1,,,,0
+1666198800,Zamalek,Smouha,2,0,,,,0
+1666270800,Arab Contractors,Ghazl El Mahallah,1,1,,,,0
+1666278000,Haras El Hodood,Modern Sport,0,2,,,,0
+1666285200,El Daklyeh,El Gaish,0,0,,,,0
+1666530000,Pyramids,Al Masry,0,0,,,,0
+1666537200,Ceramica Cleopatra,Zamalek,0,2,,,,0
+1666544400,Al Ahly,Aswan SC,1,0,,,,0
+1666616400,Ghazl El Mahallah,El Ismaily,2,1,,,,0
+1666623600,Al Ittihad,El Daklyeh,2,0,,,,0
+1666630800,Modern Sport,Arab Contractors,0,0,,,,0
+1666710000,Smouha,National Bank Egypt,1,1,,,,0
+1666717200,El Gaish,Enppi,2,1,,,,0
+1666796400,Pharco,Haras El Hodood,1,0,,,,0
+1667048400,Aswan SC,Ghazl El Mahallah,0,1,,,,0
+1667055600,Al Masry,Enppi,2,0,,,,0
+1667228400,Al Ittihad,El Gaish,3,1,,,,0
+1667235600,Arab Contractors,Pharco,0,0,,,,0
+1667314800,Haras El Hodood,Smouha,0,0,,,,0
+1667322000,National Bank Egypt,Ceramica Cleopatra,3,1,,,,0
+1667401200,El Daklyeh,Al Ahly,1,4,,,,0
+1667408400,Enppi,Zamalek,1,1,,,,0
+1669215600,Pyramids,National Bank Egypt,2,0,,,,0
+1669215600,Pharco,El Ismaily,1,1,,,,0
+1669215600,Modern Sport,Aswan SC,2,1,,,,0
+1669812300,National Bank Egypt,Enppi,2,3,,,,0
+1669812300,Haras El Hodood,Pyramids,0,1,,,,0
+1669827600,Al Ittihad,Ghazl El Mahallah,0,2,,,,0
+1669898700,El Daklyeh,Modern Sport,0,1,,,,0
+1669898700,Aswan SC,Pharco,1,0,,,,0
+1669914000,Zamalek,Al Masry,2,2,,,,0
+1669985100,El Ismaily,Smouha,0,1,,,,0
+1669985100,Arab Contractors,Ceramica Cleopatra,2,1,,,,0
+1670000400,Al Ahly,El Gaish,2,1,,,,0
+1670330700,Al Masry,National Bank Egypt,0,0,,,,0
+1670417100,Pyramids,Arab Contractors,2,0,,,,0
+1670417100,Pharco,El Daklyeh,1,1,,,,0
+1670425200,Ghazl El Mahallah,Al Ahly,0,2,,,,0
+1670432400,El Gaish,Zamalek,0,4,,,,0
+1670503500,Smouha,Aswan SC,1,2,,,,0
+1670503500,Enppi,Haras El Hodood,0,0,,,,0
+1670511600,Modern Sport,Al Ittihad,1,0,,,,0
+1670518800,Ceramica Cleopatra,El Ismaily,1,1,,,,0
+1670762700,Ghazl El Mahallah,El Daklyeh,2,1,,,,0
+1670770800,Smouha,Arab Contractors,0,0,,,,0
+1670770800,El Gaish,Al Masry,3,1,,,,0
+1670778000,Zamalek,Pyramids,1,0,,,,0
+1670849100,Ceramica Cleopatra,Haras El Hodood,2,1,,,,0
+1670857200,El Ismaily,Modern Sport,0,0,,,,0
+1670864400,Al Ahly,Al Ittihad,3,0,,,,0
+1671021900,Ghazl El Mahallah,El Gaish,3,2,,,,0
+1671108300,Aswan SC,Ceramica Cleopatra,2,3,,,,0
+1671116400,El Daklyeh,Smouha,0,0,,,,0
+1671116400,Al Ittihad,Pharco,1,0,,,,0
+1671123600,Arab Contractors,Enppi,3,2,,,,0
+1671194700,Haras El Hodood,Al Masry,0,0,,,,0
+1671194700,El Ismaily,Pyramids,1,2,,,,0
+1671202800,National Bank Egypt,Zamalek,0,1,,,,0
+1671210000,Al Ahly,Modern Sport,1,1,,,,0
+1671453900,Ceramica Cleopatra,El Daklyeh,0,0,,,,0
+1671462000,Smouha,Al Ittihad,0,2,,,,0
+1671462000,Modern Sport,Ghazl El Mahallah,1,0,,,,0
+1671469200,Pyramids,Aswan SC,2,1,,,,0
+1671540300,Enppi,El Ismaily,1,2,,,,0
+1671548400,Pharco,Al Ahly,1,2,,,,0
+1671548400,El Gaish,National Bank Egypt,1,0,,,,0
+1671555600,Zamalek,Haras El Hodood,4,0,,,,0
+1671634800,Al Masry,Arab Contractors,2,2,,,,0
+1671807600,Al Ittihad,Ceramica Cleopatra,1,0,,,,0
+1671814800,El Daklyeh,Pyramids,2,1,,,,0
+1671885900,Aswan SC,Enppi,2,0,,,,0
+1671894000,Haras El Hodood,National Bank Egypt,2,1,,,,0
+1671894000,Ghazl El Mahallah,Pharco,0,0,,,,0
+1671901200,Modern Sport,El Gaish,0,0,,,,0
+1671972300,El Ismaily,Al Masry,0,1,,,,0
+1671980400,Arab Contractors,Zamalek,0,0,,,,0
+1671987600,Al Ahly,Smouha,0,0,,,,0
+1672153200,Pyramids,Al Ittihad,3,0,,,,0
+1672231500,Enppi,El Daklyeh,0,0,,,,0
+1672239600,Pharco,Modern Sport,2,3,,,,0
+1672239600,El Gaish,Haras El Hodood,2,2,,,,0
+1672246800,Ceramica Cleopatra,Al Ahly,1,1,,,,0
+1672326000,Al Masry,Aswan SC,1,2,,,,0
+1672333200,Zamalek,El Ismaily,3,1,,,,0
+1672412400,Smouha,Ghazl El Mahallah,0,0,,,,0
+1672419600,National Bank Egypt,Arab Contractors,2,1,,,,0
+1672663500,El Daklyeh,Al Masry,0,1,,,,0
+1672663500,Aswan SC,Zamalek,2,1,,,,0
+1672671600,Al Ittihad,Enppi,1,2,,,,0
+1672678800,Al Ahly,Pyramids,3,0,,,,0
+1672749900,Ghazl El Mahallah,Ceramica Cleopatra,0,3,,,,0
+1672749900,Arab Contractors,Haras El Hodood,3,2,,,,0
+1672765200,El Ismaily,National Bank Egypt,0,0,,,,0
+1672768800,Modern Sport,Smouha,1,1,,,,0
+1672844400,Pharco,El Gaish,1,1,,,,0
+1672930800,Enppi,Al Ahly,0,2,,,,0
+1672938000,Zamalek,El Daklyeh,1,1,,,,0
+1673095500,Pyramids,Ghazl El Mahallah,4,0,,,,0
+1673110800,Ceramica Cleopatra,Modern Sport,2,3,,,,0
+1673110800,Al Masry,Al Ittihad,2,1,,,,0
+1673181900,National Bank Egypt,Aswan SC,0,0,,,,0
+1673181900,Haras El Hodood,El Ismaily,2,0,,,,0
+1673197200,Smouha,Pharco,0,2,,,,0
+1673197200,El Gaish,Arab Contractors,1,2,,,,0
+1673441100,Smouha,El Gaish,2,1,,,,0
+1673441100,El Daklyeh,National Bank Egypt,3,3,,,,0
+1673456400,Modern Sport,Pyramids,1,1,,,,0
+1673456400,Al Ittihad,Zamalek,0,0,,,,0
+1673535600,Ghazl El Mahallah,Enppi,1,0,,,,0
+1673542800,Al Ahly,Al Masry,0,0,,,,0
+1673613900,Aswan SC,Haras El Hodood,1,1,,,,0
+1673622000,Pharco,Ceramica Cleopatra,1,1,,,,0
+1673629200,El Ismaily,Arab Contractors,1,3,,,,0
+1674045900,Haras El Hodood,El Daklyeh,0,1,,,,0
+1674054000,El Gaish,El Ismaily,1,1,,,,0
+1674061200,Enppi,Modern Sport,2,3,,,,0
+1674132300,Arab Contractors,Aswan SC,1,0,,,,0
+1674139500,National Bank Egypt,Al Ittihad,2,3,,,,0
+1674147600,Pyramids,Pharco,3,0,,,,0
+1674226800,Al Masry,Ghazl El Mahallah,1,1,,,,0
+1674234000,Ceramica Cleopatra,Smouha,0,2,,,,0
+1674325800,Zamalek,Al Ahly,0,3,,,,0
+1674399600,El Daklyeh,Arab Contractors,1,2,,,,0
+1674477900,Pharco,Enppi,0,1,,,,0
+1674477900,Aswan SC,El Ismaily,0,0,,,,0
+1674493200,Ceramica Cleopatra,El Gaish,0,0,,,,0
+1674493200,Al Ittihad,Haras El Hodood,1,0,,,,0
+1674564300,Modern Sport,Al Masry,1,1,,,,0
+1674572400,Ghazl El Mahallah,Zamalek,2,1,,,,0
+1674579600,Smouha,Pyramids,1,2,,,,0
+1674579600,Al Ahly,National Bank Egypt,1,0,,,,0
+1674823500,Aswan SC,El Gaish,2,2,,,,0
+1674831600,El Ismaily,El Daklyeh,3,1,,,,0
+1674838800,Arab Contractors,Al Ittihad,0,0,,,,0
+1674918000,Al Masry,Pharco,1,2,,,,0
+1674996300,Enppi,Smouha,0,2,,,,0
+1675011600,Zamalek,Modern Sport,2,1,,,,0
+1675011600,Pyramids,Ceramica Cleopatra,2,2,,,,0
+1675090800,National Bank Egypt,Ghazl El Mahallah,2,2,,,,0
+1675601100,Ghazl El Mahallah,Haras El Hodood,1,2,,,,0
+1675601100,El Daklyeh,Aswan SC,1,2,,,,0
+1675616400,Ceramica Cleopatra,Enppi,0,1,,,,0
+1675616400,Al Ittihad,El Ismaily,1,1,,,,0
+1675695600,Pharco,Zamalek,3,0,,,,0
+1675773900,Smouha,Al Masry,1,1,,,,0
+1675782000,El Gaish,Pyramids,0,1,,,,0
+1675789200,Modern Sport,National Bank Egypt,3,0,,,,0
+1675946700,Al Ittihad,Aswan SC,2,0,,,,0
+1676044800,Ghazl El Mahallah,Arab Contractors,0,3,,,,0
+1676127600,Pharco,National Bank Egypt,1,0,,,,0
+1676134800,El Gaish,El Daklyeh,0,1,,,,0
+1676217600,Ceramica Cleopatra,Al Masry,3,0,,,,0
+1676307600,Smouha,Zamalek,1,3,,,,0
+1676559600,Modern Sport,Haras El Hodood,1,0,,,,0
+1676566800,Pyramids,Enppi,2,1,,,,0
+1676818800,National Bank Egypt,Smouha,2,2,,,,0
+1676905200,El Daklyeh,Al Ittihad,1,2,,,,0
+1676912400,Enppi,El Gaish,0,0,,,,0
+1676983500,Aswan SC,Al Ahly,0,3,,,,0
+1676991600,El Ismaily,Ghazl El Mahallah,1,1,,,,0
+1676998800,Haras El Hodood,Pharco,0,0,,,,0
+1677078000,Arab Contractors,Modern Sport,0,0,,,,0
+1677085200,Al Masry,Pyramids,0,0,,,,0
+1677423600,Smouha,Haras El Hodood,3,0,,,,0
+1677502800,Ghazl El Mahallah,Aswan SC,1,2,,,,0
+1677517200,El Gaish,Al Ittihad,3,4,,,,0
+1677596400,Enppi,Al Masry,1,2,,,,0
+1677596400,Ceramica Cleopatra,National Bank Egypt,2,1,,,,0
+1677603600,Al Ahly,El Daklyeh,1,1,,,,0
+1677686400,Pharco,Arab Contractors,2,1,,,,0
+1677855600,Modern Sport,El Ismaily,0,0,,,,0
+1677862800,Pyramids,Zamalek,0,0,,,,0
+1678032000,Haras El Hodood,Ceramica Cleopatra,0,0,,,,0
+1678107600,El Daklyeh,Ghazl El Mahallah,2,1,,,,0
+1678114800,Al Masry,El Gaish,1,0,,,,0
+1678201200,Al Ahly,Arab Contractors,2,1,,,,0
+1678291200,El Ismaily,Pharco,0,0,,,,0
+1678554000,Arab Contractors,Smouha,0,1,,,,0
+1678626000,Aswan SC,Modern Sport,1,2,,,,0
+1678640400,Zamalek,Enppi,0,2,,,,0
+1678723200,National Bank Egypt,Pyramids,2,1,,,,0
+1680203700,Smouha,El Ismaily,1,3,,,,0
+1680203700,Enppi,National Bank Egypt,2,1,,,,0
+1680203700,Ceramica Cleopatra,Arab Contractors,0,0,,,,0
+1680290100,Pharco,Aswan SC,0,0,,,,0
+1680290100,Ghazl El Mahallah,Al Ittihad,2,0,,,,0
+1680549300,Haras El Hodood,Enppi,0,1,,,,0
+1680549300,El Ismaily,Ceramica Cleopatra,1,1,,,,0
+1680635700,El Daklyeh,Pharco,0,0,,,,0
+1680635700,Aswan SC,Smouha,1,1,,,,0
+1680635700,Al Masry,Zamalek,3,2,,,,0
+1680722100,Arab Contractors,Pyramids,0,0,,,,0
+1680722100,Al Ahly,Ghazl El Mahallah,3,0,,,,0
+1680808500,Al Ittihad,Modern Sport,0,1,,,,0
+1680894900,Aswan SC,Ceramica Cleopatra,1,1,,,,0
+1680894900,Al Masry,Haras El Hodood,1,0,,,,0
+1681067700,Zamalek,National Bank Egypt,1,0,,,,0
+1681067700,Smouha,El Daklyeh,4,3,,,,0
+1681067700,Enppi,Arab Contractors,2,1,,,,0
+1681154100,Pharco,Al Ittihad,3,2,,,,0
+1681326900,Ghazl El Mahallah,Modern Sport,0,1,,,,0
+1681326900,El Daklyeh,Ceramica Cleopatra,0,0,,,,0
+1681413300,Haras El Hodood,Zamalek,0,3,,,,0
+1681413300,El Ismaily,Enppi,3,1,,,,0
+1681413300,Arab Contractors,Al Masry,0,0,,,,0
+1681499700,Aswan SC,Pyramids,0,3,,,,0
+1681499700,Al Ittihad,Smouha,3,1,,,,0
+1681499700,Al Ahly,Pharco,3,0,,,,0
+1681586100,National Bank Egypt,El Gaish,2,0,,,,0
+1681758900,Zamalek,Arab Contractors,2,2,,,,0
+1681758900,Smouha,Al Ahly,0,2,,,,0
+1681845300,Pyramids,El Daklyeh,2,0,,,,0
+1681845300,Enppi,Aswan SC,2,0,,,,0
+1681931700,Pharco,Ghazl El Mahallah,3,1,,,,0
+1681931700,National Bank Egypt,Haras El Hodood,1,0,,,,0
+1681931700,El Gaish,Modern Sport,0,0,,,,0
+1682018100,Ceramica Cleopatra,Al Ittihad,0,0,,,,0
+1682018100,Al Masry,El Ismaily,1,2,,,,0
+1682438400,National Bank Egypt,Al Masry,0,0,,,,0
+1682447400,Modern Sport,El Daklyeh,0,1,,,,0
+1682521200,El Gaish,Ghazl El Mahallah,1,0,,,,0
+1682533800,Zamalek,Ceramica Cleopatra,1,0,,,,0
+1683043200,Ghazl El Mahallah,Smouha,0,2,,,,0
+1683052200,El Daklyeh,Enppi,1,1,,,,0
+1683133200,Aswan SC,Al Masry,3,1,,,,0
+1683216000,Haras El Hodood,El Gaish,2,3,,,,0
+1683216000,Arab Contractors,National Bank Egypt,1,1,,,,0
+1683225000,Modern Sport,Pharco,0,0,,,,0
+1683648000,Pyramids,El Ismaily,3,1,,,,0
+1683993600,El Ismaily,Zamalek,2,1,,,,0
+1684083600,Ceramica Cleopatra,Ghazl El Mahallah,0,0,,,,0
+1684166400,Al Masry,El Daklyeh,1,1,,,,0
+1684175400,Enppi,Al Ittihad,1,0,,,,0
+1684245600,Haras El Hodood,Arab Contractors,0,2,,,,0
+1684252800,Smouha,Modern Sport,1,1,,,,0
+1684261800,El Gaish,Pharco,2,2,,,,0
+1684342800,National Bank Egypt,El Ismaily,2,0,,,,0
+1684429200,Zamalek,Aswan SC,1,0,,,,0
+1684684800,El Ismaily,Haras El Hodood,1,0,,,,0
+1684693800,Ghazl El Mahallah,Pyramids,0,2,,,,0
+1684771200,Al Ittihad,Al Masry,1,2,,,,0
+1684780200,El Daklyeh,Zamalek,1,1,,,,0
+1684780200,Arab Contractors,El Gaish,0,0,,,,0
+1684857600,Aswan SC,National Bank Egypt,1,2,,,,0
+1684866600,Pharco,Smouha,1,0,,,,0
+1684866600,Al Ahly,Enppi,2,0,,,,0
+1684953000,Pyramids,Haras El Hodood,1,0,,,,0
+1684953000,Modern Sport,Ceramica Cleopatra,1,0,,,,0
+1685120400,El Gaish,Al Ahly,0,2,,,,0
+1685376000,Al Ittihad,Pyramids,1,2,,,,0
+1685385000,Al Ahly,Ceramica Cleopatra,1,0,,,,0
+1685466000,Zamalek,El Gaish,2,0,,,,0
+1685548800,National Bank Egypt,El Daklyeh,3,1,,,,0
+1685557800,Arab Contractors,El Ismaily,2,2,,,,0
+1685635200,Haras El Hodood,Aswan SC,1,0,,,,0
+1685644200,Enppi,Ghazl El Mahallah,1,0,,,,0
+1685721600,Ceramica Cleopatra,Pharco,0,0,,,,0
+1685730600,Pyramids,Modern Sport,1,0,,,,0
+1685811600,El Gaish,Smouha,2,0,,,,0
+1685984400,Zamalek,Al Ittihad,2,1,,,,0
+1686067200,Pharco,Pyramids,0,1,,,,0
+1686067200,El Daklyeh,Haras El Hodood,1,1,,,,0
+1686076200,Modern Sport,Enppi,1,0,,,,0
+1686153600,Ghazl El Mahallah,Al Masry,1,1,,,,0
+1686162600,Smouha,Ceramica Cleopatra,2,2,,,,0
+1686240000,El Ismaily,El Gaish,0,1,,,,0
+1686249000,Aswan SC,Arab Contractors,1,1,,,,0
+1686330000,Al Ittihad,National Bank Egypt,0,0,,,,0
+1687458600,Haras El Hodood,Al Ahly,0,3,,,,0
+1687890600,Zamalek,Ghazl El Mahallah,2,0,,,,0
+1687968000,Al Masry,Modern Sport,2,0,,,,0
+1687977000,Pyramids,Smouha,5,2,,,,0
+1688054400,El Ismaily,Aswan SC,1,1,,,,0
+1688063400,National Bank Egypt,Al Ahly,0,3,,,,0
+1688140800,Enppi,Pharco,2,1,,,,0
+1688149800,El Gaish,Ceramica Cleopatra,0,0,,,,0
+1688149800,Arab Contractors,El Daklyeh,0,1,,,,0
+1688232600,Haras El Hodood,Al Ittihad,2,2,,,,0
+1688319000,Modern Sport,Al Ahly,0,0,,,,0
+1688578200,Al Ahly,El Ismaily,1,0,,,,0
+1688832000,Al Ittihad,Al Ahly,0,2,,,,0
+1688839200,Modern Sport,Zamalek,2,3,,,,0
+1688923800,Pharco,Al Masry,0,3,,,,0
+1689010200,Ghazl El Mahallah,National Bank Egypt,0,0,,,,0
+1689010200,El Gaish,Aswan SC,1,0,,,,0
+1689010200,El Daklyeh,El Ismaily,0,1,,,,0
+1689010200,Ceramica Cleopatra,Pyramids,2,1,,,,0
+1689096600,Smouha,Enppi,2,1,,,,0
+1689183000,Al Ittihad,Arab Contractors,0,0,,,,0
+1689269400,Al Ahly,Zamalek,4,1,,,,0
+1689355800,Pyramids,El Gaish,4,2,,,,0
+1689355800,National Bank Egypt,Modern Sport,1,0,,,,0
+1689355800,Haras El Hodood,Ghazl El Mahallah,2,1,,,,0
+1689355800,Aswan SC,El Daklyeh,2,4,,,,0
+1689436800,Enppi,Ceramica Cleopatra,1,0,,,,0
+1689436800,Al Masry,Smouha,0,1,,,,0
+1689445800,El Ismaily,Al Ittihad,4,1,,,,0
+1689523200,Arab Contractors,Al Ahly,1,4,,,,0
+1689532200,Zamalek,Pharco,2,2,,,,0
+1689787800,Al Ahly,Haras El Hodood,1,1,,,,0
+1690133400,Pyramids,Al Ahly,3,0,,,,0
+1690392600,Al Masry,Al Ahly,0,0,,,,0

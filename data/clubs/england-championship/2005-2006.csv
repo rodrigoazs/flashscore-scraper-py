@@ -1,0 +1,558 @@
+timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
+1123328700,Sheffield Utd,Leicester,4,1,,,,0
+1123336800,Watford,Preston,1,2,,,,0
+1123336800,Stoke,Sheffield Wed,0,0,,,,0
+1123336800,Reading,Plymouth,1,2,,,,0
+1123336800,Norwich,Coventry,1,1,,,,0
+1123336800,Ipswich,Cardiff,1,0,,,,0
+1123336800,Hull,QPR,0,0,,,,0
+1123336800,Derby,Brighton,1,1,,,,0
+1123336800,Crystal Palace,Luton,1,2,,,,0
+1123336800,Crewe,Burnley,2,1,,,,0
+1123344900,Southampton,Wolves,0,0,,,,0
+1123413300,Leeds,Millwall,2,1,,,,0
+1123526700,Preston,Derby,1,1,,,,0
+1123613100,Wolves,Crystal Palace,2,1,,,,0
+1123613100,Sheffield Wed,Hull,1,1,,,,0
+1123613100,QPR,Ipswich,2,1,,,,0
+1123613100,Plymouth,Watford,3,3,,,,0
+1123613100,Norwich,Crewe,1,1,,,,0
+1123613100,Millwall,Coventry,0,0,,,,0
+1123613100,Luton,Southampton,3,2,,,,0
+1123613100,Leicester,Stoke,4,2,,,,0
+1123613100,Cardiff,Leeds,2,1,,,,0
+1123613100,Burnley,Sheffield Utd,1,2,,,,0
+1123613100,Brighton,Reading,0,2,,,,0
+1123872300,Cardiff,Watford,1,3,,,,0
+1123941600,Wolves,Hull,1,0,,,,0
+1123941600,Sheffield Wed,Southampton,0,1,,,,0
+1123941600,QPR,Sheffield Utd,2,1,,,,0
+1123941600,Preston,Reading,0,3,,,,0
+1123941600,Plymouth,Derby,0,2,,,,0
+1123941600,Norwich,Crystal Palace,1,1,,,,0
+1123941600,Millwall,Stoke,0,1,,,,0
+1123941600,Luton,Leeds,0,0,,,,0
+1123941600,Leicester,Ipswich,0,0,,,,0
+1123941600,Burnley,Coventry,4,0,,,,0
+1123941600,Brighton,Crewe,2,2,,,,0
+1124546400,Watford,Burnley,3,1,,,,0
+1124546400,Stoke,Luton,2,1,,,,0
+1124546400,Southampton,Norwich,1,0,,,,0
+1124546400,Sheffield Utd,Preston,2,1,,,,0
+1124546400,Reading,Millwall,5,0,,,,0
+1124546400,Leeds,Wolves,2,0,,,,0
+1124546400,Ipswich,Sheffield Wed,2,1,,,,0
+1124546400,Hull,Brighton,2,0,,,,0
+1124546400,Derby,Cardiff,2,1,,,,0
+1124546400,Crystal Palace,Plymouth,1,0,,,,0
+1124546400,Crewe,Leicester,2,2,,,,0
+1124546400,Coventry,QPR,3,0,,,,0
+1125081900,QPR,Sheffield Wed,0,0,,,,0
+1125151200,Southampton,Crewe,2,0,,,,0
+1125151200,Sheffield Utd,Coventry,2,1,,,,0
+1125151200,Preston,Brighton,0,0,,,,0
+1125151200,Plymouth,Hull,0,1,,,,0
+1125151200,Norwich,Leeds,0,1,,,,0
+1125151200,Millwall,Ipswich,1,2,,,,0
+1125151200,Leicester,Luton,0,2,,,,0
+1125151200,Crystal Palace,Stoke,2,0,,,,0
+1125151200,Cardiff,Wolves,2,2,,,,0
+1125151200,Burnley,Derby,2,2,,,,0
+1125159300,Watford,Reading,0,0,,,,0
+1125313200,Luton,Millwall,2,1,,,,0
+1125315900,Ipswich,Preston,0,4,,,,0
+1125324000,Reading,Burnley,2,1,,,,0
+1125324000,Hull,Leicester,1,1,,,,0
+1125324000,Derby,Watford,1,2,,,,0
+1125324000,Crewe,Sheffield Utd,1,3,,,,0
+1125324000,Brighton,Plymouth,2,0,,,,0
+1125341100,Stoke,Norwich,3,1,,,,0
+1125342000,Coventry,Southampton,1,1,,,,0
+1125427500,Wolves,QPR,3,1,,,,0
+1126352700,Norwich,Plymouth,2,0,,,,0
+1126360800,Stoke,Watford,0,3,,,,0
+1126360800,Southampton,QPR,1,1,,,,0
+1126360800,Sheffield Utd,Ipswich,2,0,,,,0
+1126360800,Millwall,Preston,1,2,,,,0
+1126360800,Luton,Wolves,1,1,,,,0
+1126360800,Leicester,Sheffield Wed,2,0,,,,0
+1126360800,Leeds,Brighton,3,3,,,,0
+1126360800,Crystal Palace,Hull,2,0,,,,0
+1126360800,Coventry,Reading,1,1,,,,0
+1126360800,Burnley,Cardiff,3,3,,,,0
+1126441800,Crewe,Derby,1,1,,,,0
+1126637100,Wolves,Millwall,1,2,,,,0
+1126637100,Watford,Norwich,2,1,,,,0
+1126637100,QPR,Luton,1,0,,,,0
+1126637100,Preston,Burnley,0,0,,,,0
+1126637100,Plymouth,Crewe,1,1,,,,0
+1126637100,Hull,Stoke,0,1,,,,0
+1126637100,Cardiff,Leicester,1,0,,,,0
+1126637100,Brighton,Sheffield Utd,0,1,,,,0
+1126638000,Sheffield Wed,Leeds,1,0,,,,0
+1126638000,Reading,Crystal Palace,3,2,,,,0
+1126638900,Ipswich,Southampton,2,2,,,,0
+1126723500,Derby,Coventry,1,1,,,,0
+1126896300,Preston,Stoke,0,1,,,,0
+1126957500,Hull,Luton,0,1,,,,0
+1126965600,Wolves,Leicester,0,0,,,,0
+1126965600,Watford,Sheffield Utd,2,3,,,,0
+1126965600,Sheffield Wed,Millwall,1,2,,,,0
+1126965600,Reading,Crewe,1,0,,,,0
+1126965600,QPR,Leeds,0,1,,,,0
+1126965600,Plymouth,Burnley,1,0,,,,0
+1126965600,Cardiff,Crystal Palace,1,0,,,,0
+1126965600,Brighton,Coventry,2,2,,,,0
+1127041200,Ipswich,Norwich,0,1,,,,0
+1127055600,Derby,Southampton,2,2,,,,0
+1127501100,Luton,Sheffield Wed,2,2,,,,0
+1127570400,Stoke,Wolves,1,3,,,,0
+1127570400,Southampton,Plymouth,0,0,,,,0
+1127570400,Sheffield Utd,Derby,2,1,,,,0
+1127570400,Norwich,Reading,0,1,,,,0
+1127570400,Millwall,Cardiff,0,0,,,,0
+1127570400,Leicester,QPR,1,2,,,,0
+1127570400,Leeds,Ipswich,0,2,,,,0
+1127570400,Crystal Palace,Preston,1,1,,,,0
+1127570400,Crewe,Watford,0,0,,,,0
+1127570400,Coventry,Hull,0,2,,,,0
+1127570400,Burnley,Brighton,1,1,,,,0
+1127846700,Stoke,Cardiff,0,3,,,,0
+1127846700,Sheffield Utd,Plymouth,2,0,,,,0
+1127846700,Norwich,Hull,2,1,,,,0
+1127846700,Millwall,QPR,1,1,,,,0
+1127846700,Luton,Preston,3,0,,,,0
+1127846700,Leicester,Brighton,0,0,,,,0
+1127846700,Crewe,Wolves,0,4,,,,0
+1127846700,Burnley,Ipswich,3,0,,,,0
+1127847600,Crystal Palace,Sheffield Wed,2,0,,,,0
+1127933100,Southampton,Reading,0,0,,,,0
+1127933100,Leeds,Derby,3,1,,,,0
+1127933100,Coventry,Watford,3,1,,,,0
+1128105900,Wolves,Burnley,0,1,,,,0
+1128105900,Hull,Millwall,1,1,,,,0
+1128175200,Watford,Leeds,0,0,,,,0
+1128175200,Sheffield Wed,Coventry,3,2,,,,0
+1128175200,Reading,Sheffield Utd,2,1,,,,0
+1128175200,Preston,Southampton,1,1,,,,0
+1128175200,Plymouth,Stoke,2,1,,,,0
+1128175200,Ipswich,Crewe,2,1,,,,0
+1128175200,Derby,Leicester,1,1,,,,0
+1128175200,Cardiff,Luton,1,2,,,,0
+1128175200,Brighton,Norwich,1,3,,,,0
+1128365100,QPR,Crystal Palace,1,3,,,,0
+1129375800,Burnley,Leeds,1,2,,,,0
+1129384800,Watford,Leicester,1,2,,,,0
+1129384800,Southampton,Hull,1,1,,,,0
+1129384800,Sheffield Utd,Wolves,1,0,,,,0
+1129384800,Preston,QPR,1,1,,,,0
+1129384800,Plymouth,Sheffield Wed,1,1,,,,0
+1129384800,Norwich,Millwall,1,1,,,,0
+1129384800,Derby,Stoke,2,1,,,,0
+1129384800,Crewe,Luton,3,1,,,,0
+1129384800,Coventry,Crystal Palace,1,4,,,,0
+1129384800,Brighton,Cardiff,1,2,,,,0
+1129465800,Reading,Ipswich,2,0,,,,0
+1129661100,Wolves,Derby,1,1,,,,0
+1129661100,Stoke,Crewe,2,0,,,,0
+1129661100,Sheffield Wed,Watford,1,1,,,,0
+1129661100,QPR,Plymouth,1,1,,,,0
+1129661100,Millwall,Sheffield Utd,0,4,,,,0
+1129661100,Luton,Norwich,4,2,,,,0
+1129661100,Leicester,Burnley,0,1,,,,0
+1129661100,Leeds,Southampton,2,1,,,,0
+1129661100,Ipswich,Coventry,2,2,,,,0
+1129661100,Hull,Reading,1,1,,,,0
+1129661100,Cardiff,Preston,2,2,,,,0
+1129662000,Crystal Palace,Brighton,0,1,,,,0
+1129920300,Leeds,Sheffield Utd,1,1,,,,0
+1129989600,Wolves,Preston,1,1,,,,0
+1129989600,Stoke,Reading,0,1,,,,0
+1129989600,QPR,Norwich,3,0,,,,0
+1129989600,Millwall,Southampton,0,2,,,,0
+1129989600,Luton,Plymouth,1,1,,,,0
+1129989600,Ipswich,Watford,0,1,,,,0
+1129989600,Hull,Derby,2,1,,,,0
+1129989600,Crystal Palace,Burnley,2,0,,,,0
+1129989600,Cardiff,Crewe,6,1,,,,0
+1130076000,Leicester,Coventry,2,1,,,,0
+1130179500,Sheffield Wed,Brighton,1,1,,,,0
+1130525100,Burnley,Hull,1,0,,,,0
+1130594400,Watford,Wolves,3,1,,,,0
+1130594400,Southampton,Stoke,2,0,,,,0
+1130594400,Sheffield Utd,Cardiff,0,0,,,,0
+1130594400,Reading,Leeds,1,1,,,,0
+1130594400,Preston,Leicester,0,0,,,,0
+1130594400,Norwich,Sheffield Wed,0,1,,,,0
+1130594400,Derby,QPR,1,2,,,,0
+1130594400,Crewe,Crystal Palace,2,2,,,,0
+1130594400,Coventry,Luton,1,0,,,,0
+1130594400,Brighton,Ipswich,1,1,,,,0
+1130679000,Plymouth,Millwall,0,0,,,,0
+1130874300,Watford,QPR,3,1,,,,0
+1130874300,Sheffield Utd,Luton,4,0,,,,0
+1130874300,Preston,Hull,3,0,,,,0
+1130874300,Norwich,Cardiff,1,0,,,,0
+1130874300,Crewe,Leeds,1,0,,,,0
+1130874300,Burnley,Millwall,2,1,,,,0
+1130874300,Brighton,Wolves,1,1,,,,0
+1130875200,Reading,Sheffield Wed,2,0,,,,0
+1130960700,Derby,Ipswich,3,3,,,,0
+1130960700,Coventry,Stoke,1,2,,,,0
+1131202800,Wolves,Norwich,2,0,,,,0
+1131202800,Stoke,Brighton,3,0,,,,0
+1131202800,Sheffield Wed,Derby,2,1,,,,0
+1131202800,QPR,Reading,1,2,,,,0
+1131202800,Millwall,Crewe,1,3,,,,0
+1131202800,Luton,Burnley,2,3,,,,0
+1131202800,Leicester,Southampton,0,0,,,,0
+1131202800,Leeds,Preston,0,0,,,,0
+1131202800,Ipswich,Plymouth,3,1,,,,0
+1131202800,Hull,Watford,1,2,,,,0
+1131202800,Crystal Palace,Sheffield Utd,2,3,,,,0
+1131289200,Cardiff,Coventry,0,0,,,,0
+1131565500,Sheffield Wed,Cardiff,1,3,,,,0
+1132343100,Derby,Wolves,0,3,,,,0
+1132412400,Watford,Sheffield Wed,2,1,,,,0
+1132412400,Southampton,Leeds,3,4,,,,0
+1132412400,Sheffield Utd,Millwall,2,2,,,,0
+1132412400,Reading,Hull,3,1,,,,0
+1132412400,Preston,Cardiff,2,1,,,,0
+1132412400,Plymouth,QPR,3,1,,,,0
+1132412400,Norwich,Luton,2,0,,,,0
+1132412400,Crewe,Stoke,1,2,,,,0
+1132412400,Coventry,Ipswich,1,1,,,,0
+1132412400,Burnley,Leicester,1,0,,,,0
+1132493400,Brighton,Crystal Palace,2,3,,,,0
+1132688700,Wolves,Sheffield Utd,0,0,,,,0
+1132688700,Stoke,Derby,1,2,,,,0
+1132688700,Sheffield Wed,Plymouth,0,0,,,,0
+1132688700,QPR,Preston,0,2,,,,0
+1132688700,Millwall,Norwich,1,0,,,,0
+1132688700,Luton,Crewe,4,1,,,,0
+1132688700,Leicester,Watford,2,2,,,,0
+1132688700,Leeds,Burnley,2,0,,,,0
+1132688700,Ipswich,Reading,0,3,,,,0
+1132688700,Hull,Southampton,1,1,,,,0
+1132688700,Cardiff,Brighton,1,1,,,,0
+1132689600,Crystal Palace,Coventry,2,0,,,,0
+1133008200,Wolves,Southampton,0,0,,,,0
+1133017200,Sheffield Wed,Stoke,0,2,,,,0
+1133017200,QPR,Hull,2,2,,,,0
+1133017200,Preston,Watford,1,1,,,,0
+1133017200,Plymouth,Reading,0,2,,,,0
+1133017200,Millwall,Leeds,0,1,,,,0
+1133017200,Luton,Crystal Palace,2,0,,,,0
+1133017200,Leicester,Sheffield Utd,4,2,,,,0
+1133017200,Coventry,Norwich,2,2,,,,0
+1133017200,Burnley,Crewe,3,0,,,,0
+1133017200,Brighton,Derby,0,0,,,,0
+1133207100,Cardiff,Ipswich,2,1,,,,0
+1133622000,Watford,Brighton,1,1,,,,0
+1133622000,Stoke,QPR,1,2,,,,0
+1133622000,Southampton,Burnley,1,1,,,,0
+1133622000,Sheffield Utd,Sheffield Wed,1,0,,,,0
+1133622000,Reading,Luton,3,0,,,,0
+1133622000,Leeds,Leicester,2,1,,,,0
+1133622000,Ipswich,Wolves,1,1,,,,0
+1133622000,Hull,Cardiff,2,0,,,,0
+1133622000,Derby,Norwich,2,0,,,,0
+1133622000,Crystal Palace,Millwall,1,1,,,,0
+1133622000,Crewe,Preston,0,2,,,,0
+1133622000,Coventry,Plymouth,3,1,,,,0
+1134157500,Stoke,Leicester,3,2,,,,0
+1134226800,Watford,Plymouth,1,1,,,,0
+1134226800,Sheffield Utd,Burnley,3,0,,,,0
+1134226800,Reading,Brighton,5,1,,,,0
+1134226800,Leeds,Cardiff,0,1,,,,0
+1134226800,Ipswich,QPR,2,2,,,,0
+1134226800,Hull,Sheffield Wed,1,0,,,,0
+1134226800,Derby,Preston,1,1,,,,0
+1134226800,Crystal Palace,Wolves,1,1,,,,0
+1134226800,Crewe,Norwich,1,2,,,,0
+1134226800,Coventry,Millwall,1,0,,,,0
+1134307800,Southampton,Luton,1,0,,,,0
+1134762300,Preston,Sheffield Utd,0,0,,,,0
+1134762300,Brighton,Hull,2,1,,,,0
+1134831600,Wolves,Leeds,1,0,,,,0
+1134831600,Sheffield Wed,Ipswich,0,1,,,,0
+1134831600,Plymouth,Crystal Palace,2,0,,,,0
+1134831600,Norwich,Southampton,3,1,,,,0
+1134831600,Millwall,Reading,0,2,,,,0
+1134831600,Luton,Stoke,2,3,,,,0
+1134831600,Leicester,Crewe,1,1,,,,0
+1134831600,Cardiff,Derby,0,0,,,,0
+1134831600,Burnley,Watford,4,1,,,,0
+1135021500,QPR,Coventry,0,1,,,,0
+1135598400,Watford,Southampton,3,0,,,,0
+1135602000,Cardiff,Plymouth,0,2,,,,0
+1135602000,Brighton,QPR,1,0,,,,0
+1135603800,Preston,Sheffield Wed,0,0,,,,0
+1135609200,Wolves,Reading,0,2,,,,0
+1135609200,Sheffield Utd,Norwich,1,3,,,,0
+1135609200,Leicester,Millwall,1,1,,,,0
+1135609200,Leeds,Coventry,3,1,,,,0
+1135609200,Ipswich,Crystal Palace,0,2,,,,0
+1135609200,Derby,Luton,1,1,,,,0
+1135609200,Crewe,Hull,2,2,,,,0
+1135609200,Burnley,Stoke,1,0,,,,0
+1135799100,Stoke,Leeds,0,1,,,,0
+1135799100,Southampton,Sheffield Utd,0,1,,,,0
+1135799100,Sheffield Wed,Wolves,0,2,,,,0
+1135799100,QPR,Cardiff,1,0,,,,0
+1135799100,Norwich,Burnley,2,1,,,,0
+1135799100,Millwall,Watford,0,0,,,,0
+1135799100,Luton,Brighton,3,0,,,,0
+1135799100,Hull,Ipswich,2,0,,,,0
+1135799100,Coventry,Crewe,1,1,,,,0
+1135800000,Reading,Leicester,2,0,,,,0
+1135800000,Crystal Palace,Derby,2,0,,,,0
+1136030400,Leeds,Hull,2,0,,,,0
+1136034000,Watford,Crystal Palace,1,2,,,,0
+1136034000,Preston,Coventry,3,1,,,,0
+1136034000,Ipswich,Luton,1,0,,,,0
+1136034000,Cardiff,Southampton,2,1,,,,0
+1136034000,Burnley,Sheffield Wed,1,2,,,,0
+1136034000,Brighton,Millwall,1,2,,,,0
+1136041200,Wolves,Plymouth,1,1,,,,0
+1136041200,Sheffield Utd,Stoke,2,1,,,,0
+1136041200,Leicester,Norwich,0,1,,,,0
+1136041200,Crewe,QPR,3,4,,,,0
+1136049300,Derby,Reading,2,2,,,,0
+1136203200,Luton,Watford,1,2,,,,0
+1136214000,Stoke,Ipswich,2,2,,,,0
+1136214000,Southampton,Brighton,2,1,,,,0
+1136214000,Sheffield Wed,Crewe,3,0,,,,0
+1136214000,Reading,Cardiff,5,1,,,,0
+1136214000,QPR,Burnley,1,1,,,,0
+1136214000,Norwich,Preston,0,3,,,,0
+1136214000,Millwall,Derby,2,1,,,,0
+1136214000,Crystal Palace,Leicester,2,0,,,,0
+1136214000,Coventry,Wolves,2,0,,,,0
+1136222100,Plymouth,Leeds,0,3,,,,0
+1136317500,Hull,Sheffield Utd,1,3,,,,0
+1137181500,Wolves,Luton,2,1,,,,0
+1137250800,Watford,Stoke,1,0,,,,0
+1137250800,Sheffield Wed,Leicester,2,1,,,,0
+1137250800,Reading,Coventry,2,0,,,,0
+1137250800,QPR,Southampton,1,0,,,,0
+1137250800,Preston,Millwall,2,0,,,,0
+1137250800,Plymouth,Norwich,1,1,,,,0
+1137250800,Ipswich,Sheffield Utd,1,1,,,,0
+1137250800,Hull,Crystal Palace,1,2,,,,0
+1137250800,Derby,Crewe,5,1,,,,0
+1137250800,Cardiff,Burnley,3,0,,,,0
+1137250800,Brighton,Leeds,2,1,,,,0
+1137786300,Crystal Palace,Reading,1,1,,,,0
+1137855600,Stoke,Hull,0,3,,,,0
+1137855600,Southampton,Ipswich,0,2,,,,0
+1137855600,Sheffield Utd,Brighton,3,1,,,,0
+1137855600,Norwich,Watford,2,3,,,,0
+1137855600,Millwall,Wolves,0,0,,,,0
+1137855600,Luton,QPR,2,0,,,,0
+1137855600,Leicester,Cardiff,1,2,,,,0
+1137855600,Leeds,Sheffield Wed,3,0,,,,0
+1137855600,Crewe,Plymouth,1,2,,,,0
+1137855600,Coventry,Derby,6,1,,,,0
+1137855600,Burnley,Preston,0,2,,,,0
+1138131900,Plymouth,Leicester,1,0,,,,0
+1138218300,Southampton,Crystal Palace,0,0,,,,0
+1138460400,Watford,Crewe,4,1,,,,0
+1138736700,Sheffield Wed,Luton,0,2,,,,0
+1138736700,QPR,Leicester,2,3,,,,0
+1138736700,Preston,Crystal Palace,2,0,,,,0
+1138736700,Plymouth,Southampton,2,1,,,,0
+1138736700,Ipswich,Leeds,1,1,,,,0
+1138736700,Hull,Coventry,1,2,,,,0
+1138736700,Cardiff,Millwall,1,1,,,,0
+1138736700,Brighton,Burnley,0,0,,,,0
+1138737600,Reading,Norwich,4,0,,,,0
+1138823100,Derby,Sheffield Utd,0,1,,,,0
+1139065200,Stoke,Preston,0,0,,,,0
+1139065200,Southampton,Derby,0,0,,,,0
+1139065200,Millwall,Sheffield Wed,0,1,,,,0
+1139065200,Luton,Hull,2,3,,,,0
+1139065200,Leicester,Wolves,1,0,,,,0
+1139065200,Leeds,QPR,2,0,,,,0
+1139065200,Crystal Palace,Cardiff,1,0,,,,0
+1139065200,Crewe,Reading,3,4,,,,0
+1139065200,Coventry,Brighton,2,0,,,,0
+1139065200,Burnley,Plymouth,1,0,,,,0
+1139138100,Norwich,Ipswich,1,2,,,,0
+1139255100,Sheffield Utd,Watford,1,4,,,,0
+1139600700,Reading,Southampton,2,0,,,,0
+1139670000,Wolves,Crewe,1,1,,,,0
+1139670000,Watford,Coventry,4,0,,,,0
+1139670000,Sheffield Wed,Crystal Palace,0,0,,,,0
+1139670000,QPR,Millwall,1,0,,,,0
+1139670000,Preston,Luton,5,1,,,,0
+1139670000,Plymouth,Sheffield Utd,0,0,,,,0
+1139670000,Ipswich,Burnley,2,1,,,,0
+1139670000,Hull,Norwich,1,1,,,,0
+1139670000,Derby,Leeds,0,0,,,,0
+1139670000,Cardiff,Stoke,3,0,,,,0
+1139670000,Brighton,Leicester,1,2,,,,0
+1139946300,Stoke,Plymouth,0,0,,,,0
+1139946300,Sheffield Utd,Reading,1,1,,,,0
+1139946300,Norwich,Brighton,3,0,,,,0
+1139946300,Millwall,Hull,1,1,,,,0
+1139946300,Luton,Cardiff,3,3,,,,0
+1139946300,Leicester,Derby,2,2,,,,0
+1139946300,Leeds,Watford,2,1,,,,0
+1139946300,Crewe,Ipswich,1,2,,,,0
+1139946300,Burnley,Wolves,0,1,,,,0
+1139947200,Crystal Palace,QPR,2,1,,,,0
+1140032700,Southampton,Preston,0,0,,,,0
+1140032700,Coventry,Sheffield Wed,2,1,,,,0
+1140205500,Luton,Reading,3,2,,,,0
+1140274800,Wolves,Ipswich,1,0,,,,0
+1140274800,Sheffield Wed,Sheffield Utd,1,2,,,,0
+1140274800,Plymouth,Coventry,3,1,,,,0
+1140274800,Norwich,Derby,2,0,,,,0
+1140274800,Millwall,Crystal Palace,1,1,,,,0
+1140274800,Leicester,Leeds,1,1,,,,0
+1140274800,Cardiff,Hull,1,0,,,,0
+1140274800,Brighton,Watford,0,1,,,,0
+1140879600,Watford,Cardiff,2,1,,,,0
+1140879600,Stoke,Millwall,2,1,,,,0
+1140879600,Southampton,Sheffield Wed,3,0,,,,0
+1140879600,Sheffield Utd,QPR,2,3,,,,0
+1140879600,Reading,Preston,2,1,,,,0
+1140879600,Leeds,Luton,2,1,,,,0
+1140879600,Ipswich,Leicester,2,0,,,,0
+1140879600,Hull,Wolves,2,3,,,,0
+1140879600,Derby,Plymouth,1,0,,,,0
+1140879600,Crystal Palace,Norwich,4,1,,,,0
+1140879600,Crewe,Brighton,2,1,,,,0
+1140879600,Coventry,Burnley,1,0,,,,0
+1141415100,Sheffield Utd,Crewe,0,0,,,,0
+1141484400,Watford,Derby,2,2,,,,0
+1141484400,Southampton,Coventry,1,1,,,,0
+1141484400,QPR,Wolves,0,0,,,,0
+1141484400,Plymouth,Brighton,1,0,,,,0
+1141484400,Norwich,Stoke,2,1,,,,0
+1141484400,Millwall,Luton,2,1,,,,0
+1141484400,Leicester,Hull,3,2,,,,0
+1141484400,Crystal Palace,Leeds,1,2,,,,0
+1141484400,Cardiff,Sheffield Wed,1,0,,,,0
+1141484400,Burnley,Reading,0,3,,,,0
+1141760700,Wolves,Stoke,0,0,,,,0
+1141760700,Plymouth,Preston,0,0,,,,0
+1142089200,Wolves,Cardiff,2,0,,,,0
+1142089200,Sheffield Wed,QPR,1,1,,,,0
+1142089200,Reading,Watford,0,0,,,,0
+1142089200,Luton,Leicester,1,2,,,,0
+1142089200,Leeds,Norwich,2,2,,,,0
+1142089200,Ipswich,Millwall,1,1,,,,0
+1142089200,Hull,Plymouth,1,0,,,,0
+1142089200,Derby,Burnley,3,0,,,,0
+1142089200,Crewe,Southampton,1,1,,,,0
+1142089200,Coventry,Sheffield Utd,2,0,,,,0
+1142089200,Brighton,Preston,0,0,,,,0
+1142279100,Stoke,Crystal Palace,1,3,,,,0
+1142365500,Preston,Ipswich,3,1,,,,0
+1142694000,Stoke,Burnley,1,0,,,,0
+1142694000,Sheffield Wed,Preston,2,0,,,,0
+1142694000,Reading,Wolves,1,1,,,,0
+1142694000,QPR,Brighton,1,1,,,,0
+1142694000,Plymouth,Cardiff,0,1,,,,0
+1142694000,Norwich,Sheffield Utd,2,1,,,,0
+1142694000,Millwall,Leicester,0,1,,,,0
+1142694000,Luton,Derby,1,0,,,,0
+1142694000,Hull,Crewe,1,0,,,,0
+1142694000,Crystal Palace,Ipswich,2,2,,,,0
+1142694000,Coventry,Leeds,1,1,,,,0
+1142883900,Southampton,Watford,1,3,,,,0
+1142970300,Leeds,Crystal Palace,0,1,,,,0
+1143229500,Burnley,Norwich,2,0,,,,0
+1143298800,Wolves,Sheffield Wed,1,3,,,,0
+1143298800,Watford,Millwall,0,2,,,,0
+1143298800,Sheffield Utd,Southampton,3,0,,,,0
+1143298800,Preston,Plymouth,0,0,,,,0
+1143298800,Leicester,Reading,1,1,,,,0
+1143298800,Leeds,Stoke,0,0,,,,0
+1143298800,Ipswich,Hull,1,1,,,,0
+1143298800,Derby,Crystal Palace,2,1,,,,0
+1143298800,Crewe,Coventry,4,1,,,,0
+1143298800,Cardiff,QPR,0,0,,,,0
+1143298800,Brighton,Luton,1,1,,,,0
+1143571500,Preston,Crewe,1,0,,,,0
+1143571500,Burnley,Southampton,1,1,,,,0
+1143657900,QPR,Stoke,1,2,,,,0
+1143830700,Crystal Palace,Watford,3,1,,,,0
+1143889200,Hull,Leeds,1,0,,,,0
+1143900000,Stoke,Sheffield Utd,1,1,,,,0
+1143900000,Southampton,Cardiff,3,2,,,,0
+1143900000,Sheffield Wed,Burnley,0,0,,,,0
+1143900000,Reading,Derby,5,0,,,,0
+1143900000,QPR,Crewe,1,2,,,,0
+1143900000,Plymouth,Wolves,2,0,,,,0
+1143900000,Norwich,Leicester,2,1,,,,0
+1143900000,Millwall,Brighton,0,2,,,,0
+1143900000,Luton,Ipswich,1,0,,,,0
+1143900000,Coventry,Preston,0,1,,,,0
+1144435500,Leicester,Crystal Palace,2,0,,,,0
+1144504800,Wolves,Coventry,2,2,,,,0
+1144504800,Sheffield Utd,Hull,3,2,,,,0
+1144504800,Preston,Norwich,2,0,,,,0
+1144504800,Leeds,Plymouth,0,0,,,,0
+1144504800,Ipswich,Stoke,1,4,,,,0
+1144504800,Derby,Millwall,1,0,,,,0
+1144504800,Crewe,Sheffield Wed,2,0,,,,0
+1144504800,Cardiff,Reading,2,5,,,,0
+1144504800,Burnley,QPR,1,0,,,,0
+1144504800,Brighton,Southampton,0,2,,,,0
+1144580400,Watford,Luton,1,1,,,,0
+1145023200,Cardiff,Sheffield Utd,0,1,,,,0
+1145031300,Wolves,Watford,1,1,,,,0
+1145109600,Stoke,Southampton,1,2,,,,0
+1145109600,QPR,Derby,1,1,,,,0
+1145109600,Millwall,Plymouth,1,1,,,,0
+1145109600,Luton,Coventry,1,2,,,,0
+1145109600,Leicester,Preston,1,2,,,,0
+1145109600,Leeds,Reading,1,1,,,,0
+1145109600,Ipswich,Brighton,1,2,,,,0
+1145109600,Hull,Burnley,0,0,,,,0
+1145109600,Crystal Palace,Crewe,2,2,,,,0
+1145110500,Sheffield Wed,Norwich,1,0,,,,0
+1145282400,Watford,Ipswich,2,1,,,,0
+1145282400,Southampton,Millwall,2,0,,,,0
+1145282400,Reading,Stoke,3,1,,,,0
+1145282400,Preston,Wolves,2,0,,,,0
+1145282400,Plymouth,Luton,1,2,,,,0
+1145282400,Norwich,QPR,3,2,,,,0
+1145282400,Derby,Hull,1,1,,,,0
+1145282400,Crewe,Cardiff,1,1,,,,0
+1145282400,Coventry,Leicester,1,1,,,,0
+1145282400,Burnley,Crystal Palace,0,0,,,,0
+1145282400,Brighton,Sheffield Wed,0,2,,,,0
+1145385900,Sheffield Utd,Leeds,1,1,,,,0
+1145714400,Wolves,Brighton,1,0,,,,0
+1145714400,Stoke,Coventry,0,1,,,,0
+1145714400,Sheffield Wed,Reading,1,1,,,,0
+1145714400,QPR,Watford,1,2,,,,0
+1145714400,Millwall,Burnley,1,0,,,,0
+1145714400,Luton,Sheffield Utd,1,1,,,,0
+1145714400,Leicester,Plymouth,1,0,,,,0
+1145714400,Leeds,Crewe,1,0,,,,0
+1145714400,Ipswich,Derby,2,0,,,,0
+1145714400,Hull,Preston,1,1,,,,0
+1145714400,Crystal Palace,Southampton,2,1,,,,0
+1145714400,Cardiff,Norwich,0,1,,,,0
+1146400200,Watford,Hull,0,0,,,,0
+1146400200,Southampton,Leicester,2,0,,,,0
+1146400200,Sheffield Utd,Crystal Palace,1,0,,,,0
+1146400200,Reading,QPR,2,1,,,,0
+1146400200,Preston,Leeds,2,0,,,,0
+1146400200,Plymouth,Ipswich,2,1,,,,0
+1146400200,Norwich,Wolves,1,2,,,,0
+1146400200,Derby,Sheffield Wed,0,2,,,,0
+1146400200,Crewe,Millwall,4,2,,,,0
+1146400200,Coventry,Cardiff,3,1,,,,0
+1146400200,Burnley,Luton,1,1,,,,0
+1146400200,Brighton,Stoke,1,5,,,,0
+1146854700,Leeds,Preston,1,1,,,,0
+1146914100,Crystal Palace,Watford,0,3,,,,0
+1147113900,Preston,Leeds,0,2,,,,0
+1147200300,Watford,Crystal Palace,0,0,,,,0
+1148220000,Leeds,Watford,0,3,,,,0
