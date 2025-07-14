@@ -1,27 +1,27 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1287799200,Auckland City,Magenta,3,0,,,,0
-1287806400,Koloale,Lautoka,1,2,,,,0
-1287810000,Hekari Utd,Amicale,1,2,,,,0
-1287882000,Waitakere United,Tefana,3,1,,,,0
-1289620800,Lautoka,Amicale,1,0,,,,0
-1289624400,Magenta,Tefana,1,0,,,,0
-1289624400,Hekari Utd,Koloale,4,0,,,,0
-1289696400,Waitakere United,Auckland City,1,1,,,,0
-1291435200,Magenta,Waitakere United,1,1,,,,0
-1291435200,Amicale,Koloale,2,0,,,,0
-1291439700,Tefana,Auckland City,1,1,,,,0
-1295056800,Lautoka,Hekari Utd,0,0,,,,0
-1296871200,Lautoka,Koloale,1,6,,,,0
-1296878400,Amicale,Hekari Utd,3,3,,,,0
-1296882900,Tefana,Waitakere United,3,1,,,,0
-1298276100,Magenta,Auckland City,0,1,,,,0
-1298692800,Koloale,Hekari Utd,2,1,,,,0
-1298692800,Amicale,Lautoka,5,1,,,,0
-1298698200,Tefana,Magenta,0,3,,,,0
-1298772000,Auckland City,Waitakere United,1,0,,,,0
-1300496400,Waitakere United,Magenta,2,1,,,,0
-1300507200,Koloale,Amicale,1,0,,,,0
-1300510800,Hekari Utd,Lautoka,1,1,,,,0
-1300510800,Auckland City,Tefana,5,0,,,,0
-1301716800,Amicale,Auckland City,1,2,,,,0
-1303005600,Auckland City,Amicale,4,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1287799200,Auckland City,Magenta,E7VNOejE,QsL6ehoB,3,0,,,,0
+1287806400,Koloale,Lautoka,CIcJSoci,YajMy4UH,1,2,,,,0
+1287810000,Hekari Utd,Amicale,EFVWv0e5,CKIZa2JN,1,2,,,,0
+1287882000,Waitakere United,Tefana,bTzLAEkQ,23Iqqnkk,3,1,,,,0
+1289620800,Lautoka,Amicale,YajMy4UH,CKIZa2JN,1,0,,,,0
+1289624400,Magenta,Tefana,QsL6ehoB,23Iqqnkk,1,0,,,,0
+1289624400,Hekari Utd,Koloale,EFVWv0e5,CIcJSoci,4,0,,,,0
+1289696400,Waitakere United,Auckland City,bTzLAEkQ,E7VNOejE,1,1,,,,0
+1291435200,Magenta,Waitakere United,QsL6ehoB,bTzLAEkQ,1,1,,,,0
+1291435200,Amicale,Koloale,CKIZa2JN,CIcJSoci,2,0,,,,0
+1291439700,Tefana,Auckland City,23Iqqnkk,E7VNOejE,1,1,,,,0
+1295056800,Lautoka,Hekari Utd,YajMy4UH,EFVWv0e5,0,0,,,,0
+1296871200,Lautoka,Koloale,YajMy4UH,CIcJSoci,1,6,,,,0
+1296878400,Amicale,Hekari Utd,CKIZa2JN,EFVWv0e5,3,3,,,,0
+1296882900,Tefana,Waitakere United,23Iqqnkk,bTzLAEkQ,3,1,,,,0
+1298276100,Magenta,Auckland City,QsL6ehoB,E7VNOejE,0,1,,,,0
+1298692800,Koloale,Hekari Utd,CIcJSoci,EFVWv0e5,2,1,,,,0
+1298692800,Amicale,Lautoka,CKIZa2JN,YajMy4UH,5,1,,,,0
+1298698200,Tefana,Magenta,23Iqqnkk,QsL6ehoB,0,3,,,,0
+1298772000,Auckland City,Waitakere United,E7VNOejE,bTzLAEkQ,1,0,,,,0
+1300496400,Waitakere United,Magenta,bTzLAEkQ,QsL6ehoB,2,1,,,,0
+1300507200,Koloale,Amicale,CIcJSoci,CKIZa2JN,1,0,,,,0
+1300510800,Hekari Utd,Lautoka,EFVWv0e5,YajMy4UH,1,1,,,,0
+1300510800,Auckland City,Tefana,E7VNOejE,23Iqqnkk,5,0,,,,0
+1301716800,Amicale,Auckland City,CKIZa2JN,E7VNOejE,1,2,,,,0
+1303005600,Auckland City,Amicale,E7VNOejE,CKIZa2JN,4,0,,,,0

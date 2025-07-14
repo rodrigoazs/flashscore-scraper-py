@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-930607200,Throttur,Vikingur Reykjavik,0,1,,,,0
-930607200,Keflavik,Vestmannaeyjar,1,3,,,,0
-930607200,Hafnarfjordur,Stjarnan,0,4,,,,0
-930607200,Breidablik,IR Reykjavik,1,0,,,,0
-930693600,Valur,Vidir,3,1,,,,0
-930693600,Sindri,Haukar,2,0,,,,0
-930693600,KR Reykjavik,Fylkir,4,3,,,,0
-930693600,Fram,Akranes,0,3,,,,0
-931298400,Vikingur Reykjavik,Akranes,0,5,,,,0
-931298400,Sindri,Vestmannaeyjar,0,3,,,,0
-931384800,Stjarnan,KR Reykjavik,1,3,,,,0
-931384800,Breidablik,Valur,2,0,,,,0
-933717600,KR Reykjavik,Breidablik,3,0,,,,0
-934322400,Akranes,Vestmannaeyjar,3,0,,,,0
-938296800,KR Reykjavik,Akranes,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+930607200,Throttur,Vikingur Reykjavik,zw0oiUbh,ATBUwpjA,0,1,,,,0
+930607200,Keflavik,Vestmannaeyjar,OhPjY7JU,GhaBLUZO,1,3,,,,0
+930607200,Hafnarfjordur,Stjarnan,K4lZsY9J,juoTB6Rh,0,4,,,,0
+930607200,Breidablik,IR Reykjavik,UPMdbcD9,rgYuXGKm,1,0,,,,0
+930693600,Valur,Vidir,juoTB6Rh,2H9ZyTVd,3,1,,,,0
+930693600,Sindri,Haukar,0EjcWZNN,AZnOPGmc,2,0,,,,0
+930693600,KR Reykjavik,Fylkir,GYYKuYKt,YFWSwCkg,4,3,,,,0
+930693600,Fram,Akranes,fL3dmxxd,4hhcealo,0,3,,,,0
+931298400,Vikingur Reykjavik,Akranes,ATBUwpjA,4hhcealo,0,5,,,,0
+931298400,Sindri,Vestmannaeyjar,0EjcWZNN,GhaBLUZO,0,3,,,,0
+931384800,Stjarnan,KR Reykjavik,juoTB6Rh,GYYKuYKt,1,3,,,,0
+931384800,Breidablik,Valur,UPMdbcD9,juoTB6Rh,2,0,,,,0
+933717600,KR Reykjavik,Breidablik,GYYKuYKt,UPMdbcD9,3,0,,,,0
+934322400,Akranes,Vestmannaeyjar,4hhcealo,GhaBLUZO,3,0,,,,0
+938296800,KR Reykjavik,Akranes,GYYKuYKt,4hhcealo,3,1,,,,0

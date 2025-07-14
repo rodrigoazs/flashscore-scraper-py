@@ -1,381 +1,381 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1438972200,Lille,PSG,0,1,,,,0
-1439060400,Troyes,GFC Ajaccio,0,0,,,,0
-1439060400,Nice,Monaco,1,2,,,,0
-1439060400,Nantes,Guingamp,1,0,,,,0
-1439060400,Montpellier,Angers,0,2,,,,0
-1439060400,Marseille,Caen,0,1,,,,0
-1439060400,Bastia,Rennes,2,1,,,,0
-1439132400,Toulouse,St Etienne,2,1,,,,0
-1439132400,Bordeaux,Reims,1,2,,,,0
-1439146800,Lyon,Lorient,0,0,,,,0
-1439577000,Monaco,Lille,0,0,,,,0
-1439650800,St Etienne,Bordeaux,1,1,,,,0
-1439661600,Troyes,Nice,3,3,,,,0
-1439661600,Rennes,Montpellier,1,0,,,,0
-1439661600,Guingamp,Lyon,0,1,,,,0
-1439661600,Caen,Toulouse,1,0,,,,0
-1439661600,Angers,Nantes,0,0,,,,0
-1439726400,Reims,Marseille,1,0,,,,0
-1439737200,Lorient,Bastia,1,1,,,,0
-1439751600,PSG,GFC Ajaccio,2,0,,,,0
-1440181800,Montpellier,PSG,0,1,,,,0
-1440255600,Lyon,Rennes,1,2,,,,0
-1440266400,Toulouse,Monaco,1,1,,,,0
-1440266400,Nice,Caen,2,1,,,,0
-1440266400,Nantes,Reims,1,0,,,,0
-1440266400,GFC Ajaccio,Angers,0,2,,,,0
-1440266400,Bastia,Guingamp,3,0,,,,0
-1440331200,Lille,Bordeaux,0,0,,,,0
-1440342000,Lorient,St Etienne,0,1,,,,0
-1440356400,Marseille,Troyes,6,0,,,,0
-1440786600,Guingamp,Marseille,2,0,,,,0
-1440860400,Caen,Lyon,0,4,,,,0
-1440871200,Troyes,Montpellier,0,0,,,,0
-1440871200,Rennes,Toulouse,3,1,,,,0
-1440871200,Reims,Lorient,4,1,,,,0
-1440871200,Lille,GFC Ajaccio,1,0,,,,0
-1440871200,Angers,Nice,1,1,,,,0
-1440936000,St Etienne,Bastia,2,1,,,,0
-1440946800,Bordeaux,Nantes,2,0,,,,0
-1440961200,Monaco,PSG,0,3,,,,0
-1441996200,PSG,Bordeaux,2,2,,,,0
-1442070000,Lyon,Lille,0,0,,,,0
-1442080800,Troyes,Caen,1,3,,,,0
-1442080800,Toulouse,Reims,2,2,,,,0
-1442080800,Nice,Guingamp,0,1,,,,0
-1442080800,Montpellier,St Etienne,1,2,,,,0
-1442080800,Lorient,Angers,3,1,,,,0
-1442145600,GFC Ajaccio,Monaco,0,1,,,,0
-1442156400,Nantes,Rennes,0,2,,,,0
-1442170800,Marseille,Bastia,4,1,,,,0
-1442601000,Rennes,Lille,1,1,,,,0
-1442676600,Reims,PSG,1,1,,,,0
-1442685600,Guingamp,GFC Ajaccio,2,1,,,,0
-1442685600,Caen,Montpellier,2,1,,,,0
-1442685600,Bastia,Nice,1,3,,,,0
-1442685600,Angers,Troyes,1,0,,,,0
-1442750400,Bordeaux,Toulouse,1,1,,,,0
-1442761200,St Etienne,Nantes,2,0,,,,0
-1442761200,Monaco,Lorient,2,3,,,,0
-1442775600,Marseille,Lyon,1,1,,,,0
-1442941200,Angers,Reims,0,0,,,,0
-1442948400,PSG,Guingamp,3,0,,,,0
-1443027600,Troyes,St Etienne,0,1,,,,0
-1443027600,Nice,Bordeaux,6,1,,,,0
-1443027600,Lyon,Bastia,2,0,,,,0
-1443027600,Lorient,Caen,2,0,,,,0
-1443027600,GFC Ajaccio,Rennes,1,1,,,,0
-1443034800,Toulouse,Marseille,1,1,,,,0
-1443113700,Montpellier,Monaco,2,3,,,,0
-1443205800,Reims,Lille,1,0,,,,0
-1443281400,Nantes,PSG,1,4,,,,0
-1443290400,Rennes,Troyes,1,1,,,,0
-1443290400,Caen,GFC Ajaccio,2,0,,,,0
-1443290400,Bordeaux,Lyon,3,1,,,,0
-1443290400,Bastia,Toulouse,3,0,,,,0
-1443355200,Marseille,Angers,1,2,,,,0
-1443366000,Montpellier,Lorient,2,1,,,,0
-1443366000,Guingamp,Monaco,3,3,,,,0
-1443380400,St Etienne,Nice,1,4,,,,0
-1443544200,Lille,Nantes,0,1,,,,0
-1443810600,Lille,Montpellier,2,0,,,,0
-1443886200,Lyon,Reims,1,0,,,,0
-1443895200,Troyes,Guingamp,0,1,,,,0
-1443895200,GFC Ajaccio,Toulouse,2,2,,,,0
-1443895200,Angers,Bastia,1,0,,,,0
-1443960000,Monaco,Rennes,1,1,,,,0
-1443970800,Lorient,Bordeaux,3,2,,,,0
-1443970800,Caen,St Etienne,1,0,,,,0
-1443985200,PSG,Marseille,2,1,,,,0
-1445020200,Monaco,Lyon,1,1,,,,0
-1445094000,Bastia,PSG,0,2,,,,0
-1445104800,Toulouse,Angers,1,2,,,,0
-1445104800,St Etienne,GFC Ajaccio,2,0,,,,0
-1445104800,Reims,Caen,0,1,,,,0
-1445104800,Nantes,Troyes,3,0,,,,0
-1445104800,Guingamp,Lille,1,1,,,,0
-1445169600,Marseille,Lorient,1,1,,,,0
-1445180400,Bordeaux,Montpellier,0,0,,,,0
-1445194800,Rennes,Nice,1,4,,,,0
-1445617800,Caen,Nantes,0,2,,,,0
-1445625000,Lyon,Toulouse,3,0,,,,0
-1445698800,Lorient,Rennes,1,1,,,,0
-1445709600,Montpellier,Bastia,2,0,,,,0
-1445709600,GFC Ajaccio,Nice,3,1,,,,0
-1445709600,Angers,Guingamp,0,0,,,,0
-1445778000,Reims,Monaco,0,1,,,,0
-1445788800,Lille,Marseille,1,2,,,,0
-1445788800,Bordeaux,Troyes,1,0,,,,0
-1445803200,PSG,St Etienne,4,1,,,,0
-1446233400,Rennes,PSG,0,1,,,,0
-1446307200,St Etienne,Reims,3,0,,,,0
-1446318000,Troyes,Lyon,0,1,,,,0
-1446318000,Toulouse,Montpellier,1,1,,,,0
-1446318000,Guingamp,Lorient,2,2,,,,0
-1446318000,GFC Ajaccio,Bordeaux,2,0,,,,0
-1446318000,Bastia,Caen,1,0,,,,0
-1446382800,Nice,Lille,0,0,,,,0
-1446393600,Monaco,Angers,1,0,,,,0
-1446408000,Nantes,Marseille,0,1,,,,0
-1446658200,Nice,Nantes,1,2,,,,0
-1446838200,Angers,Rennes,0,2,,,,0
-1446912000,PSG,Toulouse,5,0,,,,0
-1446922800,Reims,GFC Ajaccio,1,2,,,,0
-1446922800,Montpellier,Nantes,2,1,,,,0
-1446922800,Lorient,Troyes,4,1,,,,0
-1446922800,Lille,Bastia,1,1,,,,0
-1446922800,Caen,Guingamp,2,1,,,,0
-1446998400,Marseille,Nice,0,1,,,,0
-1447012800,Lyon,St Etienne,3,0,,,,0
-1447012800,Bordeaux,Monaco,3,1,,,,0
-1448047800,Nice,Lyon,3,0,,,,0
-1448121600,Lorient,PSG,1,2,,,,0
-1448132400,Troyes,Lille,1,1,,,,0
-1448132400,Montpellier,Reims,3,1,,,,0
-1448132400,Monaco,Nantes,1,0,,,,0
-1448132400,Guingamp,Toulouse,2,0,,,,0
-1448197200,Caen,Angers,0,0,,,,0
-1448197200,Bastia,GFC Ajaccio,1,2,,,,0
-1448208000,Rennes,Bordeaux,2,2,,,,0
-1448222400,St Etienne,Marseille,0,2,,,,0
-1448652600,Lyon,Montpellier,2,4,,,,0
-1448726400,PSG,Troyes,4,1,,,,0
-1448737200,Toulouse,Nice,2,0,,,,0
-1448737200,Reims,Rennes,2,2,,,,0
-1448737200,Nantes,Bastia,0,0,,,,0
-1448737200,GFC Ajaccio,Lorient,1,1,,,,0
-1448737200,Angers,Lille,2,0,,,,0
-1448802000,St Etienne,Guingamp,3,0,,,,0
-1448812800,Bordeaux,Caen,1,4,,,,0
-1448827200,Marseille,Monaco,3,3,,,,0
-1448992800,Lorient,Nice,0,0,,,,0
-1448992800,Angers,PSG,0,0,,,,0
-1449000000,Nantes,Lyon,0,0,,,,0
-1449079200,Troyes,Toulouse,0,3,,,,0
-1449079200,Montpellier,GFC Ajaccio,0,2,,,,0
-1449079200,Monaco,Caen,1,1,,,,0
-1449079200,Guingamp,Reims,1,2,,,,0
-1449079200,Bastia,Bordeaux,1,0,,,,0
-1449086400,Lille,St Etienne,1,0,,,,0
-1449172800,Rennes,Marseille,0,1,,,,0
-1449257400,Nice,PSG,0,3,,,,0
-1449331200,Lyon,Angers,0,2,,,,0
-1449342000,Toulouse,Lorient,2,3,,,,0
-1449342000,Reims,Troyes,1,1,,,,0
-1449342000,GFC Ajaccio,Nantes,1,1,,,,0
-1449342000,Caen,Lille,1,2,,,,0
-1449342000,Bastia,Monaco,1,2,,,,0
-1449406800,Marseille,Montpellier,2,2,,,,0
-1449417600,Bordeaux,Guingamp,1,0,,,,0
-1449432000,St Etienne,Rennes,1,1,,,,0
-1449862200,Rennes,Caen,1,1,,,,0
-1449932400,Reims,Nice,1,1,,,,0
-1449946800,Troyes,Bastia,1,1,,,,0
-1449946800,Nantes,Toulouse,1,1,,,,0
-1449946800,Montpellier,Guingamp,2,1,,,,0
-1449946800,Lille,Lorient,3,0,,,,0
-1450011600,Monaco,St Etienne,1,0,,,,0
-1450022400,Marseille,GFC Ajaccio,1,1,,,,0
-1450022400,Angers,Bordeaux,1,1,,,,0
-1450036800,PSG,Lyon,5,1,,,,0
-1450467000,Nice,Montpellier,1,0,,,,0
-1450540800,Caen,PSG,0,3,,,,0
-1450551600,Troyes,Monaco,0,0,,,,0
-1450551600,Toulouse,Lille,1,1,,,,0
-1450551600,Lorient,Nantes,0,0,,,,0
-1450551600,Guingamp,Rennes,0,2,,,,0
-1450551600,Bastia,Reims,2,0,,,,0
-1450616400,St Etienne,Angers,1,0,,,,0
-1450627200,GFC Ajaccio,Lyon,2,1,,,,0
-1450641600,Bordeaux,Marseille,1,1,,,,0
-1452281400,PSG,Bastia,2,0,,,,0
-1452355200,Lyon,Troyes,4,1,,,,0
-1452366000,Rennes,Lorient,2,2,,,,0
-1452366000,Reims,Toulouse,1,3,,,,0
-1452366000,Montpellier,Bordeaux,0,1,,,,0
-1452366000,Monaco,GFC Ajaccio,2,2,,,,0
-1452366000,Angers,Caen,2,0,,,,0
-1452430800,Nantes,St Etienne,2,1,,,,0
-1452441600,Lille,Nice,1,1,,,,0
-1452456000,Marseille,Guingamp,0,0,,,,0
-1452886200,Nice,Angers,2,1,,,,0
-1452960000,Toulouse,PSG,0,1,,,,0
-1452970800,Troyes,Rennes,2,4,,,,0
-1452970800,Guingamp,Nantes,2,2,,,,0
-1452970800,GFC Ajaccio,Reims,2,2,,,,0
-1452970800,Bordeaux,Lille,1,0,,,,0
-1452970800,Bastia,Montpellier,1,0,,,,0
-1453035600,Lorient,Monaco,0,2,,,,0
-1453046400,Caen,Marseille,1,3,,,,0
-1453060800,St Etienne,Lyon,1,0,,,,0
-1453491000,Rennes,GFC Ajaccio,1,0,,,,0
-1453564800,PSG,Angers,5,1,,,,0
-1453575600,Nice,Lorient,2,1,,,,0
-1453575600,Nantes,Bordeaux,2,2,,,,0
-1453575600,Montpellier,Caen,1,2,,,,0
-1453575600,Lille,Troyes,1,3,,,,0
-1453575600,Guingamp,Bastia,1,0,,,,0
-1453640400,Monaco,Toulouse,4,0,,,,0
-1453651200,Reims,St Etienne,1,1,,,,0
-1453665600,Lyon,Marseille,1,1,,,,0
-1454095800,Marseille,Lille,1,1,,,,0
-1454169600,Angers,Monaco,3,0,,,,0
-1454180400,Troyes,Nantes,0,1,,,,0
-1454180400,Toulouse,Guingamp,1,2,,,,0
-1454180400,Lorient,Reims,2,0,,,,0
-1454180400,GFC Ajaccio,Montpellier,0,4,,,,0
-1454180400,Bastia,Lyon,1,0,,,,0
-1454245200,Caen,Nice,2,0,,,,0
-1454256000,Bordeaux,Rennes,4,0,,,,0
-1454270400,St Etienne,PSG,0,2,,,,0
-1454436000,Monaco,Bastia,2,0,,,,0
-1454443200,Montpellier,Marseille,0,1,,,,0
-1454522400,Reims,Angers,2,1,,,,0
-1454522400,Nice,Toulouse,1,0,,,,0
-1454522400,Nantes,GFC Ajaccio,3,1,,,,0
-1454522400,Lyon,Bordeaux,3,0,,,,0
-1454522400,Lille,Caen,1,0,,,,0
-1454522400,Guingamp,Troyes,4,0,,,,0
-1454529600,PSG,Lorient,3,1,,,,0
-1454616000,Rennes,St Etienne,0,1,,,,0
-1454763600,Monaco,Nice,1,0,,,,0
-1454774400,Angers,Lyon,0,3,,,,0
-1454785200,Toulouse,Nantes,0,0,,,,0
-1454785200,Lorient,Montpellier,1,1,,,,0
-1454785200,GFC Ajaccio,Guingamp,0,0,,,,0
-1454785200,Caen,Reims,0,2,,,,0
-1454785200,Bastia,Troyes,2,0,,,,0
-1454850000,Lille,Rennes,1,1,,,,0
-1454860800,Bordeaux,St Etienne,1,4,,,,0
-1454875200,Marseille,PSG,1,2,,,,0
-1455305400,Rennes,Angers,1,0,,,,0
-1455379200,PSG,Lille,0,0,,,,0
-1455390000,Reims,Bastia,0,1,,,,0
-1455390000,Nantes,Lorient,2,1,,,,0
-1455390000,Montpellier,Toulouse,2,0,,,,0
-1455390000,Guingamp,Bordeaux,2,4,,,,0
-1455390000,GFC Ajaccio,Troyes,2,3,,,,0
-1455454800,Lyon,Caen,4,1,,,,0
-1455465600,St Etienne,Monaco,1,1,,,,0
-1455480000,Nice,Marseille,1,1,,,,0
-1455910200,Bordeaux,Nice,0,0,,,,0
-1455984000,PSG,Reims,4,1,,,,0
-1455994800,Toulouse,GFC Ajaccio,1,1,,,,0
-1455994800,Monaco,Troyes,3,1,,,,0
-1455994800,Lorient,Guingamp,4,3,,,,0
-1455994800,Angers,Montpellier,2,3,,,,0
-1456059600,Marseille,St Etienne,1,1,,,,0
-1456070400,Caen,Rennes,1,0,,,,0
-1456084800,Lille,Lyon,1,0,,,,0
-1456515000,Nice,Bastia,0,2,,,,0
-1456588800,Montpellier,Lille,3,0,,,,0
-1456599600,Troyes,Lorient,0,1,,,,0
-1456599600,Toulouse,Rennes,1,2,,,,0
-1456599600,Reims,Bordeaux,4,1,,,,0
-1456599600,Guingamp,Angers,2,2,,,,0
-1456664400,Nantes,Monaco,0,0,,,,0
-1456675200,St Etienne,Caen,1,2,,,,0
-1456689600,Lyon,PSG,2,1,,,,0
-1457119800,Caen,Monaco,2,2,,,,0
-1457193600,PSG,Montpellier,0,0,,,,0
-1457204400,Nice,Troyes,2,1,,,,0
-1457204400,Lille,Reims,2,0,,,,0
-1457204400,Bordeaux,GFC Ajaccio,1,1,,,,0
-1457204400,Bastia,Lorient,0,0,,,,0
-1457204400,Angers,St Etienne,0,0,,,,0
-1457269200,Marseille,Toulouse,1,1,,,,0
-1457280000,Rennes,Nantes,4,1,,,,0
-1457294400,Lyon,Guingamp,5,1,,,,0
-1457544600,GFC Ajaccio,Marseille,1,1,,,,0
-1457544600,Bastia,Nantes,0,0,,,,0
-1457724600,Monaco,Reims,2,2,,,,0
-1457798400,Lorient,Marseille,1,1,,,,0
-1457809200,Toulouse,Bordeaux,4,0,,,,0
-1457809200,Montpellier,Nice,0,2,,,,0
-1457809200,Guingamp,St Etienne,2,0,,,,0
-1457809200,GFC Ajaccio,Caen,1,0,,,,0
-1457809200,Bastia,Lille,1,2,,,,0
-1457874000,Troyes,PSG,0,9,,,,0
-1457884800,Nantes,Angers,2,0,,,,0
-1457899200,Rennes,Lyon,2,2,,,,0
-1458329400,Marseille,Rennes,2,5,,,,0
-1458403200,St Etienne,Montpellier,3,0,,,,0
-1458414000,Reims,Guingamp,0,1,,,,0
-1458414000,Lille,Toulouse,1,0,,,,0
-1458414000,Caen,Troyes,2,1,,,,0
-1458414000,Angers,Lorient,5,1,,,,0
-1458417600,Lyon,Nantes,2,0,,,,0
-1458478800,Bordeaux,Bastia,1,1,,,,0
-1458489600,Nice,GFC Ajaccio,3,0,,,,0
-1458504000,PSG,Monaco,0,2,,,,0
-1459535400,Monaco,Bordeaux,1,2,,,,0
-1459609200,PSG,Nice,4,1,,,,0
-1459620000,Troyes,Angers,0,1,,,,0
-1459620000,Toulouse,Caen,2,0,,,,0
-1459620000,Rennes,Reims,3,1,,,,0
-1459620000,Guingamp,Montpellier,2,2,,,,0
-1459620000,GFC Ajaccio,St Etienne,0,2,,,,0
-1459684800,Nantes,Lille,0,3,,,,0
-1459695600,Bastia,Marseille,2,1,,,,0
-1459710000,Lorient,Lyon,1,3,,,,0
-1460140200,Montpellier,Lyon,0,2,,,,0
-1460214000,Guingamp,PSG,0,2,,,,0
-1460224800,Toulouse,Bastia,4,0,,,,0
-1460224800,St Etienne,Troyes,1,0,,,,0
-1460224800,Reims,Nantes,2,1,,,,0
-1460224800,Caen,Lorient,1,2,,,,0
-1460224800,Angers,GFC Ajaccio,0,0,,,,0
-1460289600,Lille,Monaco,4,1,,,,0
-1460300400,Nice,Rennes,3,0,,,,0
-1460314800,Marseille,Bordeaux,0,0,,,,0
-1460745000,Lyon,Nice,1,1,,,,0
-1460818800,PSG,Caen,6,0,,,,0
-1460829600,Troyes,Reims,2,1,,,,0
-1460829600,Lorient,Toulouse,1,1,,,,0
-1460829600,GFC Ajaccio,Lille,2,4,,,,0
-1460829600,Bordeaux,Angers,1,3,,,,0
-1460829600,Bastia,St Etienne,0,1,,,,0
-1460894400,Nantes,Montpellier,0,2,,,,0
-1460905200,Rennes,Guingamp,0,3,,,,0
-1460919600,Monaco,Marseille,2,1,,,,0
-1461349800,Nice,Reims,2,0,,,,0
-1461425400,Toulouse,Lyon,2,3,,,,0
-1461499200,Marseille,Nantes,1,1,,,,0
-1461510000,St Etienne,Lorient,2,0,,,,0
-1461510000,Montpellier,Troyes,4,1,,,,0
-1461510000,Guingamp,Caen,1,1,,,,0
-1461510000,GFC Ajaccio,Bastia,3,2,,,,0
-1461524400,Rennes,Monaco,1,1,,,,0
-1461774600,Lille,Angers,0,0,,,,0
-1461954600,PSG,Rennes,4,0,,,,0
-1462017600,Nantes,Nice,1,0,,,,0
-1462028400,St Etienne,Toulouse,0,0,,,,0
-1462035600,Troyes,Bordeaux,2,4,,,,0
-1462035600,Reims,Montpellier,2,3,,,,0
-1462035600,Monaco,Guingamp,3,2,,,,0
-1462035600,Lorient,Lille,0,1,,,,0
-1462035600,Caen,Bastia,0,0,,,,0
-1462042800,Lyon,GFC Ajaccio,2,1,,,,0
-1462114800,Angers,Marseille,0,1,,,,0
-1462647600,Toulouse,Troyes,1,0,,,,0
-1462647600,Nice,St Etienne,2,0,,,,0
-1462647600,Nantes,Caen,1,2,,,,0
-1462647600,Montpellier,Rennes,2,0,,,,0
-1462647600,Marseille,Reims,1,0,,,,0
-1462647600,Lyon,Monaco,6,1,,,,0
-1462647600,Lille,Guingamp,0,0,,,,0
-1462647600,GFC Ajaccio,PSG,0,4,,,,0
-1462647600,Bordeaux,Lorient,3,0,,,,0
-1462647600,Bastia,Angers,1,0,,,,0
-1462991400,Bordeaux,PSG,1,1,,,,0
-1463252400,Troyes,Marseille,1,1,,,,0
-1463252400,St Etienne,Lille,0,1,,,,0
-1463252400,Rennes,Bastia,1,2,,,,0
-1463252400,Reims,Lyon,4,1,,,,0
-1463252400,PSG,Nantes,4,0,,,,0
-1463252400,Monaco,Montpellier,2,0,,,,0
-1463252400,Lorient,GFC Ajaccio,1,0,,,,0
-1463252400,Guingamp,Nice,2,3,,,,0
-1463252400,Caen,Bordeaux,1,0,,,,0
-1463252400,Angers,Toulouse,2,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1438972200,Lille,PSG,UDticXKP,A7UDDuOO,0,1,,,,0
+1439060400,Troyes,GFC Ajaccio,McvX4bye,EaoTv9Hl,0,0,,,,0
+1439060400,Nice,Monaco,00sqJmg8,44KQTmnj,1,2,,,,0
+1439060400,Nantes,Guingamp,YBWLmubi,nDL04Hmj,1,0,,,,0
+1439060400,Montpellier,Angers,n3xBmVJB,z9nPuk2r,0,2,,,,0
+1439060400,Marseille,Caen,voNnDKJK,GUflEdQm,0,1,,,,0
+1439060400,Bastia,Rennes,h6Qq9yDN,Y5eozcI6,2,1,,,,0
+1439132400,Toulouse,St Etienne,COxgbCEm,8Ca53MKO,2,1,,,,0
+1439132400,Bordeaux,Reims,6BghNX0a,x6KhF69U,1,2,,,,0
+1439146800,Lyon,Lorient,GU4hlIMk,GU4hlIMk,0,0,,,,0
+1439577000,Monaco,Lille,44KQTmnj,UDticXKP,0,0,,,,0
+1439650800,St Etienne,Bordeaux,8Ca53MKO,6BghNX0a,1,1,,,,0
+1439661600,Troyes,Nice,McvX4bye,00sqJmg8,3,3,,,,0
+1439661600,Rennes,Montpellier,Y5eozcI6,n3xBmVJB,1,0,,,,0
+1439661600,Guingamp,Lyon,nDL04Hmj,GU4hlIMk,0,1,,,,0
+1439661600,Caen,Toulouse,GUflEdQm,COxgbCEm,1,0,,,,0
+1439661600,Angers,Nantes,z9nPuk2r,YBWLmubi,0,0,,,,0
+1439726400,Reims,Marseille,x6KhF69U,voNnDKJK,1,0,,,,0
+1439737200,Lorient,Bastia,GU4hlIMk,h6Qq9yDN,1,1,,,,0
+1439751600,PSG,GFC Ajaccio,A7UDDuOO,EaoTv9Hl,2,0,,,,0
+1440181800,Montpellier,PSG,n3xBmVJB,A7UDDuOO,0,1,,,,0
+1440255600,Lyon,Rennes,GU4hlIMk,Y5eozcI6,1,2,,,,0
+1440266400,Toulouse,Monaco,COxgbCEm,44KQTmnj,1,1,,,,0
+1440266400,Nice,Caen,00sqJmg8,GUflEdQm,2,1,,,,0
+1440266400,Nantes,Reims,YBWLmubi,x6KhF69U,1,0,,,,0
+1440266400,GFC Ajaccio,Angers,EaoTv9Hl,z9nPuk2r,0,2,,,,0
+1440266400,Bastia,Guingamp,h6Qq9yDN,nDL04Hmj,3,0,,,,0
+1440331200,Lille,Bordeaux,UDticXKP,6BghNX0a,0,0,,,,0
+1440342000,Lorient,St Etienne,GU4hlIMk,8Ca53MKO,0,1,,,,0
+1440356400,Marseille,Troyes,voNnDKJK,McvX4bye,6,0,,,,0
+1440786600,Guingamp,Marseille,nDL04Hmj,voNnDKJK,2,0,,,,0
+1440860400,Caen,Lyon,GUflEdQm,GU4hlIMk,0,4,,,,0
+1440871200,Troyes,Montpellier,McvX4bye,n3xBmVJB,0,0,,,,0
+1440871200,Rennes,Toulouse,Y5eozcI6,COxgbCEm,3,1,,,,0
+1440871200,Reims,Lorient,x6KhF69U,GU4hlIMk,4,1,,,,0
+1440871200,Lille,GFC Ajaccio,UDticXKP,EaoTv9Hl,1,0,,,,0
+1440871200,Angers,Nice,z9nPuk2r,00sqJmg8,1,1,,,,0
+1440936000,St Etienne,Bastia,8Ca53MKO,h6Qq9yDN,2,1,,,,0
+1440946800,Bordeaux,Nantes,6BghNX0a,YBWLmubi,2,0,,,,0
+1440961200,Monaco,PSG,44KQTmnj,A7UDDuOO,0,3,,,,0
+1441996200,PSG,Bordeaux,A7UDDuOO,6BghNX0a,2,2,,,,0
+1442070000,Lyon,Lille,GU4hlIMk,UDticXKP,0,0,,,,0
+1442080800,Troyes,Caen,McvX4bye,GUflEdQm,1,3,,,,0
+1442080800,Toulouse,Reims,COxgbCEm,x6KhF69U,2,2,,,,0
+1442080800,Nice,Guingamp,00sqJmg8,nDL04Hmj,0,1,,,,0
+1442080800,Montpellier,St Etienne,n3xBmVJB,8Ca53MKO,1,2,,,,0
+1442080800,Lorient,Angers,GU4hlIMk,z9nPuk2r,3,1,,,,0
+1442145600,GFC Ajaccio,Monaco,EaoTv9Hl,44KQTmnj,0,1,,,,0
+1442156400,Nantes,Rennes,YBWLmubi,Y5eozcI6,0,2,,,,0
+1442170800,Marseille,Bastia,voNnDKJK,h6Qq9yDN,4,1,,,,0
+1442601000,Rennes,Lille,Y5eozcI6,UDticXKP,1,1,,,,0
+1442676600,Reims,PSG,x6KhF69U,A7UDDuOO,1,1,,,,0
+1442685600,Guingamp,GFC Ajaccio,nDL04Hmj,EaoTv9Hl,2,1,,,,0
+1442685600,Caen,Montpellier,GUflEdQm,n3xBmVJB,2,1,,,,0
+1442685600,Bastia,Nice,h6Qq9yDN,00sqJmg8,1,3,,,,0
+1442685600,Angers,Troyes,z9nPuk2r,McvX4bye,1,0,,,,0
+1442750400,Bordeaux,Toulouse,6BghNX0a,COxgbCEm,1,1,,,,0
+1442761200,St Etienne,Nantes,8Ca53MKO,YBWLmubi,2,0,,,,0
+1442761200,Monaco,Lorient,44KQTmnj,GU4hlIMk,2,3,,,,0
+1442775600,Marseille,Lyon,voNnDKJK,GU4hlIMk,1,1,,,,0
+1442941200,Angers,Reims,z9nPuk2r,x6KhF69U,0,0,,,,0
+1442948400,PSG,Guingamp,A7UDDuOO,nDL04Hmj,3,0,,,,0
+1443027600,Troyes,St Etienne,McvX4bye,8Ca53MKO,0,1,,,,0
+1443027600,Nice,Bordeaux,00sqJmg8,6BghNX0a,6,1,,,,0
+1443027600,Lyon,Bastia,GU4hlIMk,h6Qq9yDN,2,0,,,,0
+1443027600,Lorient,Caen,GU4hlIMk,GUflEdQm,2,0,,,,0
+1443027600,GFC Ajaccio,Rennes,EaoTv9Hl,Y5eozcI6,1,1,,,,0
+1443034800,Toulouse,Marseille,COxgbCEm,voNnDKJK,1,1,,,,0
+1443113700,Montpellier,Monaco,n3xBmVJB,44KQTmnj,2,3,,,,0
+1443205800,Reims,Lille,x6KhF69U,UDticXKP,1,0,,,,0
+1443281400,Nantes,PSG,YBWLmubi,A7UDDuOO,1,4,,,,0
+1443290400,Rennes,Troyes,Y5eozcI6,McvX4bye,1,1,,,,0
+1443290400,Caen,GFC Ajaccio,GUflEdQm,EaoTv9Hl,2,0,,,,0
+1443290400,Bordeaux,Lyon,6BghNX0a,GU4hlIMk,3,1,,,,0
+1443290400,Bastia,Toulouse,h6Qq9yDN,COxgbCEm,3,0,,,,0
+1443355200,Marseille,Angers,voNnDKJK,z9nPuk2r,1,2,,,,0
+1443366000,Montpellier,Lorient,n3xBmVJB,GU4hlIMk,2,1,,,,0
+1443366000,Guingamp,Monaco,nDL04Hmj,44KQTmnj,3,3,,,,0
+1443380400,St Etienne,Nice,8Ca53MKO,00sqJmg8,1,4,,,,0
+1443544200,Lille,Nantes,UDticXKP,YBWLmubi,0,1,,,,0
+1443810600,Lille,Montpellier,UDticXKP,n3xBmVJB,2,0,,,,0
+1443886200,Lyon,Reims,GU4hlIMk,x6KhF69U,1,0,,,,0
+1443895200,Troyes,Guingamp,McvX4bye,nDL04Hmj,0,1,,,,0
+1443895200,GFC Ajaccio,Toulouse,EaoTv9Hl,COxgbCEm,2,2,,,,0
+1443895200,Angers,Bastia,z9nPuk2r,h6Qq9yDN,1,0,,,,0
+1443960000,Monaco,Rennes,44KQTmnj,Y5eozcI6,1,1,,,,0
+1443970800,Lorient,Bordeaux,GU4hlIMk,6BghNX0a,3,2,,,,0
+1443970800,Caen,St Etienne,GUflEdQm,8Ca53MKO,1,0,,,,0
+1443985200,PSG,Marseille,A7UDDuOO,voNnDKJK,2,1,,,,0
+1445020200,Monaco,Lyon,44KQTmnj,GU4hlIMk,1,1,,,,0
+1445094000,Bastia,PSG,h6Qq9yDN,A7UDDuOO,0,2,,,,0
+1445104800,Toulouse,Angers,COxgbCEm,z9nPuk2r,1,2,,,,0
+1445104800,St Etienne,GFC Ajaccio,8Ca53MKO,EaoTv9Hl,2,0,,,,0
+1445104800,Reims,Caen,x6KhF69U,GUflEdQm,0,1,,,,0
+1445104800,Nantes,Troyes,YBWLmubi,McvX4bye,3,0,,,,0
+1445104800,Guingamp,Lille,nDL04Hmj,UDticXKP,1,1,,,,0
+1445169600,Marseille,Lorient,voNnDKJK,GU4hlIMk,1,1,,,,0
+1445180400,Bordeaux,Montpellier,6BghNX0a,n3xBmVJB,0,0,,,,0
+1445194800,Rennes,Nice,Y5eozcI6,00sqJmg8,1,4,,,,0
+1445617800,Caen,Nantes,GUflEdQm,YBWLmubi,0,2,,,,0
+1445625000,Lyon,Toulouse,GU4hlIMk,COxgbCEm,3,0,,,,0
+1445698800,Lorient,Rennes,GU4hlIMk,Y5eozcI6,1,1,,,,0
+1445709600,Montpellier,Bastia,n3xBmVJB,h6Qq9yDN,2,0,,,,0
+1445709600,GFC Ajaccio,Nice,EaoTv9Hl,00sqJmg8,3,1,,,,0
+1445709600,Angers,Guingamp,z9nPuk2r,nDL04Hmj,0,0,,,,0
+1445778000,Reims,Monaco,x6KhF69U,44KQTmnj,0,1,,,,0
+1445788800,Lille,Marseille,UDticXKP,voNnDKJK,1,2,,,,0
+1445788800,Bordeaux,Troyes,6BghNX0a,McvX4bye,1,0,,,,0
+1445803200,PSG,St Etienne,A7UDDuOO,8Ca53MKO,4,1,,,,0
+1446233400,Rennes,PSG,Y5eozcI6,A7UDDuOO,0,1,,,,0
+1446307200,St Etienne,Reims,8Ca53MKO,x6KhF69U,3,0,,,,0
+1446318000,Troyes,Lyon,McvX4bye,GU4hlIMk,0,1,,,,0
+1446318000,Toulouse,Montpellier,COxgbCEm,n3xBmVJB,1,1,,,,0
+1446318000,Guingamp,Lorient,nDL04Hmj,GU4hlIMk,2,2,,,,0
+1446318000,GFC Ajaccio,Bordeaux,EaoTv9Hl,6BghNX0a,2,0,,,,0
+1446318000,Bastia,Caen,h6Qq9yDN,GUflEdQm,1,0,,,,0
+1446382800,Nice,Lille,00sqJmg8,UDticXKP,0,0,,,,0
+1446393600,Monaco,Angers,44KQTmnj,z9nPuk2r,1,0,,,,0
+1446408000,Nantes,Marseille,YBWLmubi,voNnDKJK,0,1,,,,0
+1446658200,Nice,Nantes,00sqJmg8,YBWLmubi,1,2,,,,0
+1446838200,Angers,Rennes,z9nPuk2r,Y5eozcI6,0,2,,,,0
+1446912000,PSG,Toulouse,A7UDDuOO,COxgbCEm,5,0,,,,0
+1446922800,Reims,GFC Ajaccio,x6KhF69U,EaoTv9Hl,1,2,,,,0
+1446922800,Montpellier,Nantes,n3xBmVJB,YBWLmubi,2,1,,,,0
+1446922800,Lorient,Troyes,GU4hlIMk,McvX4bye,4,1,,,,0
+1446922800,Lille,Bastia,UDticXKP,h6Qq9yDN,1,1,,,,0
+1446922800,Caen,Guingamp,GUflEdQm,nDL04Hmj,2,1,,,,0
+1446998400,Marseille,Nice,voNnDKJK,00sqJmg8,0,1,,,,0
+1447012800,Lyon,St Etienne,GU4hlIMk,8Ca53MKO,3,0,,,,0
+1447012800,Bordeaux,Monaco,6BghNX0a,44KQTmnj,3,1,,,,0
+1448047800,Nice,Lyon,00sqJmg8,GU4hlIMk,3,0,,,,0
+1448121600,Lorient,PSG,GU4hlIMk,A7UDDuOO,1,2,,,,0
+1448132400,Troyes,Lille,McvX4bye,UDticXKP,1,1,,,,0
+1448132400,Montpellier,Reims,n3xBmVJB,x6KhF69U,3,1,,,,0
+1448132400,Monaco,Nantes,44KQTmnj,YBWLmubi,1,0,,,,0
+1448132400,Guingamp,Toulouse,nDL04Hmj,COxgbCEm,2,0,,,,0
+1448197200,Caen,Angers,GUflEdQm,z9nPuk2r,0,0,,,,0
+1448197200,Bastia,GFC Ajaccio,h6Qq9yDN,EaoTv9Hl,1,2,,,,0
+1448208000,Rennes,Bordeaux,Y5eozcI6,6BghNX0a,2,2,,,,0
+1448222400,St Etienne,Marseille,8Ca53MKO,voNnDKJK,0,2,,,,0
+1448652600,Lyon,Montpellier,GU4hlIMk,n3xBmVJB,2,4,,,,0
+1448726400,PSG,Troyes,A7UDDuOO,McvX4bye,4,1,,,,0
+1448737200,Toulouse,Nice,COxgbCEm,00sqJmg8,2,0,,,,0
+1448737200,Reims,Rennes,x6KhF69U,Y5eozcI6,2,2,,,,0
+1448737200,Nantes,Bastia,YBWLmubi,h6Qq9yDN,0,0,,,,0
+1448737200,GFC Ajaccio,Lorient,EaoTv9Hl,GU4hlIMk,1,1,,,,0
+1448737200,Angers,Lille,z9nPuk2r,UDticXKP,2,0,,,,0
+1448802000,St Etienne,Guingamp,8Ca53MKO,nDL04Hmj,3,0,,,,0
+1448812800,Bordeaux,Caen,6BghNX0a,GUflEdQm,1,4,,,,0
+1448827200,Marseille,Monaco,voNnDKJK,44KQTmnj,3,3,,,,0
+1448992800,Lorient,Nice,GU4hlIMk,00sqJmg8,0,0,,,,0
+1448992800,Angers,PSG,z9nPuk2r,A7UDDuOO,0,0,,,,0
+1449000000,Nantes,Lyon,YBWLmubi,GU4hlIMk,0,0,,,,0
+1449079200,Troyes,Toulouse,McvX4bye,COxgbCEm,0,3,,,,0
+1449079200,Montpellier,GFC Ajaccio,n3xBmVJB,EaoTv9Hl,0,2,,,,0
+1449079200,Monaco,Caen,44KQTmnj,GUflEdQm,1,1,,,,0
+1449079200,Guingamp,Reims,nDL04Hmj,x6KhF69U,1,2,,,,0
+1449079200,Bastia,Bordeaux,h6Qq9yDN,6BghNX0a,1,0,,,,0
+1449086400,Lille,St Etienne,UDticXKP,8Ca53MKO,1,0,,,,0
+1449172800,Rennes,Marseille,Y5eozcI6,voNnDKJK,0,1,,,,0
+1449257400,Nice,PSG,00sqJmg8,A7UDDuOO,0,3,,,,0
+1449331200,Lyon,Angers,GU4hlIMk,z9nPuk2r,0,2,,,,0
+1449342000,Toulouse,Lorient,COxgbCEm,GU4hlIMk,2,3,,,,0
+1449342000,Reims,Troyes,x6KhF69U,McvX4bye,1,1,,,,0
+1449342000,GFC Ajaccio,Nantes,EaoTv9Hl,YBWLmubi,1,1,,,,0
+1449342000,Caen,Lille,GUflEdQm,UDticXKP,1,2,,,,0
+1449342000,Bastia,Monaco,h6Qq9yDN,44KQTmnj,1,2,,,,0
+1449406800,Marseille,Montpellier,voNnDKJK,n3xBmVJB,2,2,,,,0
+1449417600,Bordeaux,Guingamp,6BghNX0a,nDL04Hmj,1,0,,,,0
+1449432000,St Etienne,Rennes,8Ca53MKO,Y5eozcI6,1,1,,,,0
+1449862200,Rennes,Caen,Y5eozcI6,GUflEdQm,1,1,,,,0
+1449932400,Reims,Nice,x6KhF69U,00sqJmg8,1,1,,,,0
+1449946800,Troyes,Bastia,McvX4bye,h6Qq9yDN,1,1,,,,0
+1449946800,Nantes,Toulouse,YBWLmubi,COxgbCEm,1,1,,,,0
+1449946800,Montpellier,Guingamp,n3xBmVJB,nDL04Hmj,2,1,,,,0
+1449946800,Lille,Lorient,UDticXKP,GU4hlIMk,3,0,,,,0
+1450011600,Monaco,St Etienne,44KQTmnj,8Ca53MKO,1,0,,,,0
+1450022400,Marseille,GFC Ajaccio,voNnDKJK,EaoTv9Hl,1,1,,,,0
+1450022400,Angers,Bordeaux,z9nPuk2r,6BghNX0a,1,1,,,,0
+1450036800,PSG,Lyon,A7UDDuOO,GU4hlIMk,5,1,,,,0
+1450467000,Nice,Montpellier,00sqJmg8,n3xBmVJB,1,0,,,,0
+1450540800,Caen,PSG,GUflEdQm,A7UDDuOO,0,3,,,,0
+1450551600,Troyes,Monaco,McvX4bye,44KQTmnj,0,0,,,,0
+1450551600,Toulouse,Lille,COxgbCEm,UDticXKP,1,1,,,,0
+1450551600,Lorient,Nantes,GU4hlIMk,YBWLmubi,0,0,,,,0
+1450551600,Guingamp,Rennes,nDL04Hmj,Y5eozcI6,0,2,,,,0
+1450551600,Bastia,Reims,h6Qq9yDN,x6KhF69U,2,0,,,,0
+1450616400,St Etienne,Angers,8Ca53MKO,z9nPuk2r,1,0,,,,0
+1450627200,GFC Ajaccio,Lyon,EaoTv9Hl,GU4hlIMk,2,1,,,,0
+1450641600,Bordeaux,Marseille,6BghNX0a,voNnDKJK,1,1,,,,0
+1452281400,PSG,Bastia,A7UDDuOO,h6Qq9yDN,2,0,,,,0
+1452355200,Lyon,Troyes,GU4hlIMk,McvX4bye,4,1,,,,0
+1452366000,Rennes,Lorient,Y5eozcI6,GU4hlIMk,2,2,,,,0
+1452366000,Reims,Toulouse,x6KhF69U,COxgbCEm,1,3,,,,0
+1452366000,Montpellier,Bordeaux,n3xBmVJB,6BghNX0a,0,1,,,,0
+1452366000,Monaco,GFC Ajaccio,44KQTmnj,EaoTv9Hl,2,2,,,,0
+1452366000,Angers,Caen,z9nPuk2r,GUflEdQm,2,0,,,,0
+1452430800,Nantes,St Etienne,YBWLmubi,8Ca53MKO,2,1,,,,0
+1452441600,Lille,Nice,UDticXKP,00sqJmg8,1,1,,,,0
+1452456000,Marseille,Guingamp,voNnDKJK,nDL04Hmj,0,0,,,,0
+1452886200,Nice,Angers,00sqJmg8,z9nPuk2r,2,1,,,,0
+1452960000,Toulouse,PSG,COxgbCEm,A7UDDuOO,0,1,,,,0
+1452970800,Troyes,Rennes,McvX4bye,Y5eozcI6,2,4,,,,0
+1452970800,Guingamp,Nantes,nDL04Hmj,YBWLmubi,2,2,,,,0
+1452970800,GFC Ajaccio,Reims,EaoTv9Hl,x6KhF69U,2,2,,,,0
+1452970800,Bordeaux,Lille,6BghNX0a,UDticXKP,1,0,,,,0
+1452970800,Bastia,Montpellier,h6Qq9yDN,n3xBmVJB,1,0,,,,0
+1453035600,Lorient,Monaco,GU4hlIMk,44KQTmnj,0,2,,,,0
+1453046400,Caen,Marseille,GUflEdQm,voNnDKJK,1,3,,,,0
+1453060800,St Etienne,Lyon,8Ca53MKO,GU4hlIMk,1,0,,,,0
+1453491000,Rennes,GFC Ajaccio,Y5eozcI6,EaoTv9Hl,1,0,,,,0
+1453564800,PSG,Angers,A7UDDuOO,z9nPuk2r,5,1,,,,0
+1453575600,Nice,Lorient,00sqJmg8,GU4hlIMk,2,1,,,,0
+1453575600,Nantes,Bordeaux,YBWLmubi,6BghNX0a,2,2,,,,0
+1453575600,Montpellier,Caen,n3xBmVJB,GUflEdQm,1,2,,,,0
+1453575600,Lille,Troyes,UDticXKP,McvX4bye,1,3,,,,0
+1453575600,Guingamp,Bastia,nDL04Hmj,h6Qq9yDN,1,0,,,,0
+1453640400,Monaco,Toulouse,44KQTmnj,COxgbCEm,4,0,,,,0
+1453651200,Reims,St Etienne,x6KhF69U,8Ca53MKO,1,1,,,,0
+1453665600,Lyon,Marseille,GU4hlIMk,voNnDKJK,1,1,,,,0
+1454095800,Marseille,Lille,voNnDKJK,UDticXKP,1,1,,,,0
+1454169600,Angers,Monaco,z9nPuk2r,44KQTmnj,3,0,,,,0
+1454180400,Troyes,Nantes,McvX4bye,YBWLmubi,0,1,,,,0
+1454180400,Toulouse,Guingamp,COxgbCEm,nDL04Hmj,1,2,,,,0
+1454180400,Lorient,Reims,GU4hlIMk,x6KhF69U,2,0,,,,0
+1454180400,GFC Ajaccio,Montpellier,EaoTv9Hl,n3xBmVJB,0,4,,,,0
+1454180400,Bastia,Lyon,h6Qq9yDN,GU4hlIMk,1,0,,,,0
+1454245200,Caen,Nice,GUflEdQm,00sqJmg8,2,0,,,,0
+1454256000,Bordeaux,Rennes,6BghNX0a,Y5eozcI6,4,0,,,,0
+1454270400,St Etienne,PSG,8Ca53MKO,A7UDDuOO,0,2,,,,0
+1454436000,Monaco,Bastia,44KQTmnj,h6Qq9yDN,2,0,,,,0
+1454443200,Montpellier,Marseille,n3xBmVJB,voNnDKJK,0,1,,,,0
+1454522400,Reims,Angers,x6KhF69U,z9nPuk2r,2,1,,,,0
+1454522400,Nice,Toulouse,00sqJmg8,COxgbCEm,1,0,,,,0
+1454522400,Nantes,GFC Ajaccio,YBWLmubi,EaoTv9Hl,3,1,,,,0
+1454522400,Lyon,Bordeaux,GU4hlIMk,6BghNX0a,3,0,,,,0
+1454522400,Lille,Caen,UDticXKP,GUflEdQm,1,0,,,,0
+1454522400,Guingamp,Troyes,nDL04Hmj,McvX4bye,4,0,,,,0
+1454529600,PSG,Lorient,A7UDDuOO,GU4hlIMk,3,1,,,,0
+1454616000,Rennes,St Etienne,Y5eozcI6,8Ca53MKO,0,1,,,,0
+1454763600,Monaco,Nice,44KQTmnj,00sqJmg8,1,0,,,,0
+1454774400,Angers,Lyon,z9nPuk2r,GU4hlIMk,0,3,,,,0
+1454785200,Toulouse,Nantes,COxgbCEm,YBWLmubi,0,0,,,,0
+1454785200,Lorient,Montpellier,GU4hlIMk,n3xBmVJB,1,1,,,,0
+1454785200,GFC Ajaccio,Guingamp,EaoTv9Hl,nDL04Hmj,0,0,,,,0
+1454785200,Caen,Reims,GUflEdQm,x6KhF69U,0,2,,,,0
+1454785200,Bastia,Troyes,h6Qq9yDN,McvX4bye,2,0,,,,0
+1454850000,Lille,Rennes,UDticXKP,Y5eozcI6,1,1,,,,0
+1454860800,Bordeaux,St Etienne,6BghNX0a,8Ca53MKO,1,4,,,,0
+1454875200,Marseille,PSG,voNnDKJK,A7UDDuOO,1,2,,,,0
+1455305400,Rennes,Angers,Y5eozcI6,z9nPuk2r,1,0,,,,0
+1455379200,PSG,Lille,A7UDDuOO,UDticXKP,0,0,,,,0
+1455390000,Reims,Bastia,x6KhF69U,h6Qq9yDN,0,1,,,,0
+1455390000,Nantes,Lorient,YBWLmubi,GU4hlIMk,2,1,,,,0
+1455390000,Montpellier,Toulouse,n3xBmVJB,COxgbCEm,2,0,,,,0
+1455390000,Guingamp,Bordeaux,nDL04Hmj,6BghNX0a,2,4,,,,0
+1455390000,GFC Ajaccio,Troyes,EaoTv9Hl,McvX4bye,2,3,,,,0
+1455454800,Lyon,Caen,GU4hlIMk,GUflEdQm,4,1,,,,0
+1455465600,St Etienne,Monaco,8Ca53MKO,44KQTmnj,1,1,,,,0
+1455480000,Nice,Marseille,00sqJmg8,voNnDKJK,1,1,,,,0
+1455910200,Bordeaux,Nice,6BghNX0a,00sqJmg8,0,0,,,,0
+1455984000,PSG,Reims,A7UDDuOO,x6KhF69U,4,1,,,,0
+1455994800,Toulouse,GFC Ajaccio,COxgbCEm,EaoTv9Hl,1,1,,,,0
+1455994800,Monaco,Troyes,44KQTmnj,McvX4bye,3,1,,,,0
+1455994800,Lorient,Guingamp,GU4hlIMk,nDL04Hmj,4,3,,,,0
+1455994800,Angers,Montpellier,z9nPuk2r,n3xBmVJB,2,3,,,,0
+1456059600,Marseille,St Etienne,voNnDKJK,8Ca53MKO,1,1,,,,0
+1456070400,Caen,Rennes,GUflEdQm,Y5eozcI6,1,0,,,,0
+1456084800,Lille,Lyon,UDticXKP,GU4hlIMk,1,0,,,,0
+1456515000,Nice,Bastia,00sqJmg8,h6Qq9yDN,0,2,,,,0
+1456588800,Montpellier,Lille,n3xBmVJB,UDticXKP,3,0,,,,0
+1456599600,Troyes,Lorient,McvX4bye,GU4hlIMk,0,1,,,,0
+1456599600,Toulouse,Rennes,COxgbCEm,Y5eozcI6,1,2,,,,0
+1456599600,Reims,Bordeaux,x6KhF69U,6BghNX0a,4,1,,,,0
+1456599600,Guingamp,Angers,nDL04Hmj,z9nPuk2r,2,2,,,,0
+1456664400,Nantes,Monaco,YBWLmubi,44KQTmnj,0,0,,,,0
+1456675200,St Etienne,Caen,8Ca53MKO,GUflEdQm,1,2,,,,0
+1456689600,Lyon,PSG,GU4hlIMk,A7UDDuOO,2,1,,,,0
+1457119800,Caen,Monaco,GUflEdQm,44KQTmnj,2,2,,,,0
+1457193600,PSG,Montpellier,A7UDDuOO,n3xBmVJB,0,0,,,,0
+1457204400,Nice,Troyes,00sqJmg8,McvX4bye,2,1,,,,0
+1457204400,Lille,Reims,UDticXKP,x6KhF69U,2,0,,,,0
+1457204400,Bordeaux,GFC Ajaccio,6BghNX0a,EaoTv9Hl,1,1,,,,0
+1457204400,Bastia,Lorient,h6Qq9yDN,GU4hlIMk,0,0,,,,0
+1457204400,Angers,St Etienne,z9nPuk2r,8Ca53MKO,0,0,,,,0
+1457269200,Marseille,Toulouse,voNnDKJK,COxgbCEm,1,1,,,,0
+1457280000,Rennes,Nantes,Y5eozcI6,YBWLmubi,4,1,,,,0
+1457294400,Lyon,Guingamp,GU4hlIMk,nDL04Hmj,5,1,,,,0
+1457544600,GFC Ajaccio,Marseille,EaoTv9Hl,voNnDKJK,1,1,,,,0
+1457544600,Bastia,Nantes,h6Qq9yDN,YBWLmubi,0,0,,,,0
+1457724600,Monaco,Reims,44KQTmnj,x6KhF69U,2,2,,,,0
+1457798400,Lorient,Marseille,GU4hlIMk,voNnDKJK,1,1,,,,0
+1457809200,Toulouse,Bordeaux,COxgbCEm,6BghNX0a,4,0,,,,0
+1457809200,Montpellier,Nice,n3xBmVJB,00sqJmg8,0,2,,,,0
+1457809200,Guingamp,St Etienne,nDL04Hmj,8Ca53MKO,2,0,,,,0
+1457809200,GFC Ajaccio,Caen,EaoTv9Hl,GUflEdQm,1,0,,,,0
+1457809200,Bastia,Lille,h6Qq9yDN,UDticXKP,1,2,,,,0
+1457874000,Troyes,PSG,McvX4bye,A7UDDuOO,0,9,,,,0
+1457884800,Nantes,Angers,YBWLmubi,z9nPuk2r,2,0,,,,0
+1457899200,Rennes,Lyon,Y5eozcI6,GU4hlIMk,2,2,,,,0
+1458329400,Marseille,Rennes,voNnDKJK,Y5eozcI6,2,5,,,,0
+1458403200,St Etienne,Montpellier,8Ca53MKO,n3xBmVJB,3,0,,,,0
+1458414000,Reims,Guingamp,x6KhF69U,nDL04Hmj,0,1,,,,0
+1458414000,Lille,Toulouse,UDticXKP,COxgbCEm,1,0,,,,0
+1458414000,Caen,Troyes,GUflEdQm,McvX4bye,2,1,,,,0
+1458414000,Angers,Lorient,z9nPuk2r,GU4hlIMk,5,1,,,,0
+1458417600,Lyon,Nantes,GU4hlIMk,YBWLmubi,2,0,,,,0
+1458478800,Bordeaux,Bastia,6BghNX0a,h6Qq9yDN,1,1,,,,0
+1458489600,Nice,GFC Ajaccio,00sqJmg8,EaoTv9Hl,3,0,,,,0
+1458504000,PSG,Monaco,A7UDDuOO,44KQTmnj,0,2,,,,0
+1459535400,Monaco,Bordeaux,44KQTmnj,6BghNX0a,1,2,,,,0
+1459609200,PSG,Nice,A7UDDuOO,00sqJmg8,4,1,,,,0
+1459620000,Troyes,Angers,McvX4bye,z9nPuk2r,0,1,,,,0
+1459620000,Toulouse,Caen,COxgbCEm,GUflEdQm,2,0,,,,0
+1459620000,Rennes,Reims,Y5eozcI6,x6KhF69U,3,1,,,,0
+1459620000,Guingamp,Montpellier,nDL04Hmj,n3xBmVJB,2,2,,,,0
+1459620000,GFC Ajaccio,St Etienne,EaoTv9Hl,8Ca53MKO,0,2,,,,0
+1459684800,Nantes,Lille,YBWLmubi,UDticXKP,0,3,,,,0
+1459695600,Bastia,Marseille,h6Qq9yDN,voNnDKJK,2,1,,,,0
+1459710000,Lorient,Lyon,GU4hlIMk,GU4hlIMk,1,3,,,,0
+1460140200,Montpellier,Lyon,n3xBmVJB,GU4hlIMk,0,2,,,,0
+1460214000,Guingamp,PSG,nDL04Hmj,A7UDDuOO,0,2,,,,0
+1460224800,Toulouse,Bastia,COxgbCEm,h6Qq9yDN,4,0,,,,0
+1460224800,St Etienne,Troyes,8Ca53MKO,McvX4bye,1,0,,,,0
+1460224800,Reims,Nantes,x6KhF69U,YBWLmubi,2,1,,,,0
+1460224800,Caen,Lorient,GUflEdQm,GU4hlIMk,1,2,,,,0
+1460224800,Angers,GFC Ajaccio,z9nPuk2r,EaoTv9Hl,0,0,,,,0
+1460289600,Lille,Monaco,UDticXKP,44KQTmnj,4,1,,,,0
+1460300400,Nice,Rennes,00sqJmg8,Y5eozcI6,3,0,,,,0
+1460314800,Marseille,Bordeaux,voNnDKJK,6BghNX0a,0,0,,,,0
+1460745000,Lyon,Nice,GU4hlIMk,00sqJmg8,1,1,,,,0
+1460818800,PSG,Caen,A7UDDuOO,GUflEdQm,6,0,,,,0
+1460829600,Troyes,Reims,McvX4bye,x6KhF69U,2,1,,,,0
+1460829600,Lorient,Toulouse,GU4hlIMk,COxgbCEm,1,1,,,,0
+1460829600,GFC Ajaccio,Lille,EaoTv9Hl,UDticXKP,2,4,,,,0
+1460829600,Bordeaux,Angers,6BghNX0a,z9nPuk2r,1,3,,,,0
+1460829600,Bastia,St Etienne,h6Qq9yDN,8Ca53MKO,0,1,,,,0
+1460894400,Nantes,Montpellier,YBWLmubi,n3xBmVJB,0,2,,,,0
+1460905200,Rennes,Guingamp,Y5eozcI6,nDL04Hmj,0,3,,,,0
+1460919600,Monaco,Marseille,44KQTmnj,voNnDKJK,2,1,,,,0
+1461349800,Nice,Reims,00sqJmg8,x6KhF69U,2,0,,,,0
+1461425400,Toulouse,Lyon,COxgbCEm,GU4hlIMk,2,3,,,,0
+1461499200,Marseille,Nantes,voNnDKJK,YBWLmubi,1,1,,,,0
+1461510000,St Etienne,Lorient,8Ca53MKO,GU4hlIMk,2,0,,,,0
+1461510000,Montpellier,Troyes,n3xBmVJB,McvX4bye,4,1,,,,0
+1461510000,Guingamp,Caen,nDL04Hmj,GUflEdQm,1,1,,,,0
+1461510000,GFC Ajaccio,Bastia,EaoTv9Hl,h6Qq9yDN,3,2,,,,0
+1461524400,Rennes,Monaco,Y5eozcI6,44KQTmnj,1,1,,,,0
+1461774600,Lille,Angers,UDticXKP,z9nPuk2r,0,0,,,,0
+1461954600,PSG,Rennes,A7UDDuOO,Y5eozcI6,4,0,,,,0
+1462017600,Nantes,Nice,YBWLmubi,00sqJmg8,1,0,,,,0
+1462028400,St Etienne,Toulouse,8Ca53MKO,COxgbCEm,0,0,,,,0
+1462035600,Troyes,Bordeaux,McvX4bye,6BghNX0a,2,4,,,,0
+1462035600,Reims,Montpellier,x6KhF69U,n3xBmVJB,2,3,,,,0
+1462035600,Monaco,Guingamp,44KQTmnj,nDL04Hmj,3,2,,,,0
+1462035600,Lorient,Lille,GU4hlIMk,UDticXKP,0,1,,,,0
+1462035600,Caen,Bastia,GUflEdQm,h6Qq9yDN,0,0,,,,0
+1462042800,Lyon,GFC Ajaccio,GU4hlIMk,EaoTv9Hl,2,1,,,,0
+1462114800,Angers,Marseille,z9nPuk2r,voNnDKJK,0,1,,,,0
+1462647600,Toulouse,Troyes,COxgbCEm,McvX4bye,1,0,,,,0
+1462647600,Nice,St Etienne,00sqJmg8,8Ca53MKO,2,0,,,,0
+1462647600,Nantes,Caen,YBWLmubi,GUflEdQm,1,2,,,,0
+1462647600,Montpellier,Rennes,n3xBmVJB,Y5eozcI6,2,0,,,,0
+1462647600,Marseille,Reims,voNnDKJK,x6KhF69U,1,0,,,,0
+1462647600,Lyon,Monaco,GU4hlIMk,44KQTmnj,6,1,,,,0
+1462647600,Lille,Guingamp,UDticXKP,nDL04Hmj,0,0,,,,0
+1462647600,GFC Ajaccio,PSG,EaoTv9Hl,A7UDDuOO,0,4,,,,0
+1462647600,Bordeaux,Lorient,6BghNX0a,GU4hlIMk,3,0,,,,0
+1462647600,Bastia,Angers,h6Qq9yDN,z9nPuk2r,1,0,,,,0
+1462991400,Bordeaux,PSG,6BghNX0a,A7UDDuOO,1,1,,,,0
+1463252400,Troyes,Marseille,McvX4bye,voNnDKJK,1,1,,,,0
+1463252400,St Etienne,Lille,8Ca53MKO,UDticXKP,0,1,,,,0
+1463252400,Rennes,Bastia,Y5eozcI6,h6Qq9yDN,1,2,,,,0
+1463252400,Reims,Lyon,x6KhF69U,GU4hlIMk,4,1,,,,0
+1463252400,PSG,Nantes,A7UDDuOO,YBWLmubi,4,0,,,,0
+1463252400,Monaco,Montpellier,44KQTmnj,n3xBmVJB,2,0,,,,0
+1463252400,Lorient,GFC Ajaccio,GU4hlIMk,EaoTv9Hl,1,0,,,,0
+1463252400,Guingamp,Nice,nDL04Hmj,00sqJmg8,2,3,,,,0
+1463252400,Caen,Bordeaux,GUflEdQm,6BghNX0a,1,0,,,,0
+1463252400,Angers,Toulouse,z9nPuk2r,COxgbCEm,2,3,,,,0

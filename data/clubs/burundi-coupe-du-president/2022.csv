@@ -1,14 +1,14 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1648904400,Les Crocos,Bujumbura C.,1,1,,,,0
-1648904400,Aigle Noir,Rukinzo,5,0,,,,0
-1648990800,Flambeau du Centre,Musongati,1,1,,,,0
-1648990800,Bumamuru,Dynamik,3,0,,,,0
-1650632400,Bujumbura C.,Les Crocos,2,1,,,,0
-1650718800,Rukinzo,Aigle Noir,2,1,,,,0
-1650718800,Dynamik,Bumamuru,2,0,,,,0
-1650805200,Musongati,Flambeau du Centre,0,2,,,,0
-1652878800,Bumamuru,Bujumbura C.,1,0,,,,0
-1652878800,Aigle Noir,Flambeau du Centre,1,2,,,,0
-1653224400,Flambeau du Centre,Aigle Noir,2,2,,,,0
-1653224400,Bujumbura C.,Bumamuru,0,3,,,,0
-1654952400,Bumamuru,Flambeau du Centre,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1648904400,Les Crocos,Bujumbura C.,Q1R2BVUa,2PXHjwMP,1,1,,,,0
+1648904400,Aigle Noir,Rukinzo,r3aaqYj0,6ozUJqCk,5,0,,,,0
+1648990800,Flambeau du Centre,Musongati,x2nFClZ5,MLhiODrg,1,1,,,,0
+1648990800,Bumamuru,Dynamik,6obZXPrB,M9bYMMdi,3,0,,,,0
+1650632400,Bujumbura C.,Les Crocos,2PXHjwMP,Q1R2BVUa,2,1,,,,0
+1650718800,Rukinzo,Aigle Noir,6ozUJqCk,r3aaqYj0,2,1,,,,0
+1650718800,Dynamik,Bumamuru,M9bYMMdi,6obZXPrB,2,0,,,,0
+1650805200,Musongati,Flambeau du Centre,MLhiODrg,x2nFClZ5,0,2,,,,0
+1652878800,Bumamuru,Bujumbura C.,6obZXPrB,2PXHjwMP,1,0,,,,0
+1652878800,Aigle Noir,Flambeau du Centre,r3aaqYj0,x2nFClZ5,1,2,,,,0
+1653224400,Flambeau du Centre,Aigle Noir,x2nFClZ5,r3aaqYj0,2,2,,,,0
+1653224400,Bujumbura C.,Bumamuru,2PXHjwMP,6obZXPrB,0,3,,,,0
+1654952400,Bumamuru,Flambeau du Centre,6obZXPrB,x2nFClZ5,3,1,,,,0

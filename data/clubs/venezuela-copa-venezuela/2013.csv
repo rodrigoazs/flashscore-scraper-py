@@ -1,67 +1,67 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1376508600,Universidad Central,Arroceros de Calabozo,0,0,,,,0
-1376510400,Falcon,Los Andes,1,0,,,,0
-1376523000,Loteria del Tachira,San Antonio,2,2,,,,0
-1376523000,Angostura,Caroni,0,1,,,,0
-1377113400,Los Andes,Falcon,1,2,,,,0
-1377113400,Caroni,Angostura,0,0,,,,0
-1377113400,Arroceros de Calabozo,Universidad Central,1,2,,,,0
-1377127800,San Antonio,Loteria del Tachira,0,0,,,,0
-1377720000,Urena,Dep. Tachira,1,2,,,,0
-1377720000,Universidad Central,Caracas,0,0,,,,0
-1377720000,Guatire F.,Tucanes,1,0,,,,0
-1377720000,Guarani,Aragua,0,3,,,,0
-1377726300,Policia de Lara,Llaneros,2,0,,,,0
-1377732600,Yaracuyanos,Zulia,1,1,,,,0
-1378323000,Portuguesa,Lara,2,1,,,,0
-1378323000,Caroni,Mineros,1,3,,,,0
-1378324800,Metropolitanos,La Guaira,1,0,,,,0
-1378324800,Falcon,Trujillanos,3,1,,,,0
-1378326600,Real Anzoategui,Atl. Venezuela,1,0,,,,0
-1378326600,Monagas,Miranda,2,3,,,,0
-1378326600,Carabobo,Estudiantes Merida,0,0,,,,0
-1378338300,San Antonio,El Vigia,1,3,,,,0
-1378564200,Atl. Venezuela,Real Anzoategui,3,1,,,,0
-1378584000,La Guaira,Metropolitanos,2,0,,,,0
-1378584000,Caracas,Universidad Central,2,0,,,,0
-1378589400,Lara,Portuguesa,1,1,,,,0
-1378589400,Dep. Tachira,Urena,4,0,,,,0
-1378668600,Tucanes,Guatire F.,1,1,,,,0
-1378670400,Miranda,Monagas,0,1,,,,0
-1378672200,Zulia,Yaracuyanos,0,1,,,,0
-1378672200,Trujillanos,Falcon,3,0,,,,0
-1378672200,Llaneros,Policia de Lara,4,2,,,,0
-1378672200,El Vigia,San Antonio,5,0,,,,0
-1378675800,Mineros,Caroni,1,1,,,,0
-1378675800,Estudiantes Merida,Carabobo,5,0,,,,0
-1378679400,Aragua,Guarani,3,1,,,,0
-1379532600,Portuguesa,Yaracuyanos,2,3,,,,0
-1379534400,Caracas,Atl. Venezuela,2,0,,,,0
-1379536200,Trujillanos,Estudiantes Merida,1,1,,,,0
-1379536200,El Vigia,Dep. Tachira,1,1,,,,0
-1379539800,Policia de Lara,Zamora,0,3,,,,0
-1379547000,Mineros,Dep. Anzoategui,2,0,,,,0
-1379547000,Guatire F.,Miranda,0,3,,,,0
-1379547000,Aragua,La Guaira,1,0,,,,0
-1380670200,Zamora,Policia de Lara,6,4,,,,0
-1380744000,Miranda,Guatire F.,2,2,,,,0
-1380756600,Yaracuyanos,Portuguesa,2,1,,,,0
-1380756600,Estudiantes Merida,Trujillanos,1,2,,,,0
-1380756600,Dep. Anzoategui,Mineros,2,0,Pen,3,0,0
-1380756600,Atl. Venezuela,Caracas,1,1,,,,0
-1380758400,Dep. Tachira,El Vigia,2,0,,,,0
-1380843000,La Guaira,Aragua,1,1,,,,0
-1381696200,Caracas,Miranda,1,0,,,,0
-1381699800,Dep. Tachira,Yaracuyanos,0,2,,,,0
-1381699800,Dep. Anzoategui,Aragua,1,1,,,,0
-1381703400,Zamora,Trujillanos,2,0,,,,0
-1382558400,Miranda,Caracas,2,3,,,,0
-1382571000,Yaracuyanos,Dep. Tachira,0,2,Pen,0,3,0
-1382571000,Trujillanos,Zamora,1,0,,,,0
-1382571000,Aragua,Dep. Anzoategui,3,1,,,,0
-1383175800,Dep. Tachira,Zamora,1,0,,,,0
-1383175800,Aragua,Caracas,0,1,,,,0
-1383768000,Caracas,Aragua,2,1,,,,0
-1383782400,Zamora,Dep. Tachira,0,2,,,,0
-1385596800,Dep. Tachira,Caracas,2,1,,,,0
-1386273600,Caracas,Dep. Tachira,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1376508600,Universidad Central,Arroceros de Calabozo,IVEtsHRQ,jPK81JiP,0,0,,,,0
+1376510400,Falcon,Los Andes,A9sVDVQB,6VuCmSO6,1,0,,,,0
+1376523000,Loteria del Tachira,San Antonio,6VuCmSO6,,2,2,,,,0
+1376523000,Angostura,Caroni,2DgfzFb3,MBHm0mye,0,1,,,,0
+1377113400,Los Andes,Falcon,6VuCmSO6,A9sVDVQB,1,2,,,,0
+1377113400,Caroni,Angostura,MBHm0mye,2DgfzFb3,0,0,,,,0
+1377113400,Arroceros de Calabozo,Universidad Central,jPK81JiP,IVEtsHRQ,1,2,,,,0
+1377127800,San Antonio,Loteria del Tachira,,6VuCmSO6,0,0,,,,0
+1377720000,Urena,Dep. Tachira,2i892GfD,OxmaT1W4,1,2,,,,0
+1377720000,Universidad Central,Caracas,IVEtsHRQ,0nhENufQ,0,0,,,,0
+1377720000,Guatire F.,Tucanes,IFpqbv9b,hCFsixCJ,1,0,,,,0
+1377720000,Guarani,Aragua,WWZ6dlT0,W2EojdRP,0,3,,,,0
+1377726300,Policia de Lara,Llaneros,nckyjIXG,hCFsixCJ,2,0,,,,0
+1377732600,Yaracuyanos,Zulia,xEhZwyEE,C6NgKdLM,1,1,,,,0
+1378323000,Portuguesa,Lara,6LjVpO9s,ERX7lx6a,2,1,,,,0
+1378323000,Caroni,Mineros,MBHm0mye,dUNUO9mq,1,3,,,,0
+1378324800,Metropolitanos,La Guaira,tAwcOibj,hCFsixCJ,1,0,,,,0
+1378324800,Falcon,Trujillanos,A9sVDVQB,lfuQn2PJ,3,1,,,,0
+1378326600,Real Anzoategui,Atl. Venezuela,,44SATReo,1,0,,,,0
+1378326600,Monagas,Miranda,2gmAxwcQ,K86NrQ27,2,3,,,,0
+1378326600,Carabobo,Estudiantes Merida,CtnfXRKE,Kt2RJAvf,0,0,,,,0
+1378338300,San Antonio,El Vigia,,IkB687z2,1,3,,,,0
+1378564200,Atl. Venezuela,Real Anzoategui,44SATReo,,3,1,,,,0
+1378584000,La Guaira,Metropolitanos,hCFsixCJ,tAwcOibj,2,0,,,,0
+1378584000,Caracas,Universidad Central,0nhENufQ,IVEtsHRQ,2,0,,,,0
+1378589400,Lara,Portuguesa,ERX7lx6a,6LjVpO9s,1,1,,,,0
+1378589400,Dep. Tachira,Urena,OxmaT1W4,2i892GfD,4,0,,,,0
+1378668600,Tucanes,Guatire F.,hCFsixCJ,IFpqbv9b,1,1,,,,0
+1378670400,Miranda,Monagas,K86NrQ27,2gmAxwcQ,0,1,,,,0
+1378672200,Zulia,Yaracuyanos,C6NgKdLM,xEhZwyEE,0,1,,,,0
+1378672200,Trujillanos,Falcon,lfuQn2PJ,A9sVDVQB,3,0,,,,0
+1378672200,Llaneros,Policia de Lara,hCFsixCJ,nckyjIXG,4,2,,,,0
+1378672200,El Vigia,San Antonio,IkB687z2,,5,0,,,,0
+1378675800,Mineros,Caroni,dUNUO9mq,MBHm0mye,1,1,,,,0
+1378675800,Estudiantes Merida,Carabobo,Kt2RJAvf,CtnfXRKE,5,0,,,,0
+1378679400,Aragua,Guarani,W2EojdRP,WWZ6dlT0,3,1,,,,0
+1379532600,Portuguesa,Yaracuyanos,6LjVpO9s,xEhZwyEE,2,3,,,,0
+1379534400,Caracas,Atl. Venezuela,0nhENufQ,44SATReo,2,0,,,,0
+1379536200,Trujillanos,Estudiantes Merida,lfuQn2PJ,Kt2RJAvf,1,1,,,,0
+1379536200,El Vigia,Dep. Tachira,IkB687z2,OxmaT1W4,1,1,,,,0
+1379539800,Policia de Lara,Zamora,nckyjIXG,0A6WRcTt,0,3,,,,0
+1379547000,Mineros,Dep. Anzoategui,dUNUO9mq,v7Ysf0vj,2,0,,,,0
+1379547000,Guatire F.,Miranda,IFpqbv9b,K86NrQ27,0,3,,,,0
+1379547000,Aragua,La Guaira,W2EojdRP,hCFsixCJ,1,0,,,,0
+1380670200,Zamora,Policia de Lara,0A6WRcTt,nckyjIXG,6,4,,,,0
+1380744000,Miranda,Guatire F.,K86NrQ27,IFpqbv9b,2,2,,,,0
+1380756600,Yaracuyanos,Portuguesa,xEhZwyEE,6LjVpO9s,2,1,,,,0
+1380756600,Estudiantes Merida,Trujillanos,Kt2RJAvf,lfuQn2PJ,1,2,,,,0
+1380756600,Dep. Anzoategui,Mineros,v7Ysf0vj,dUNUO9mq,2,0,Pen,3,0,0
+1380756600,Atl. Venezuela,Caracas,44SATReo,0nhENufQ,1,1,,,,0
+1380758400,Dep. Tachira,El Vigia,OxmaT1W4,IkB687z2,2,0,,,,0
+1380843000,La Guaira,Aragua,hCFsixCJ,W2EojdRP,1,1,,,,0
+1381696200,Caracas,Miranda,0nhENufQ,K86NrQ27,1,0,,,,0
+1381699800,Dep. Tachira,Yaracuyanos,OxmaT1W4,xEhZwyEE,0,2,,,,0
+1381699800,Dep. Anzoategui,Aragua,v7Ysf0vj,W2EojdRP,1,1,,,,0
+1381703400,Zamora,Trujillanos,0A6WRcTt,lfuQn2PJ,2,0,,,,0
+1382558400,Miranda,Caracas,K86NrQ27,0nhENufQ,2,3,,,,0
+1382571000,Yaracuyanos,Dep. Tachira,xEhZwyEE,OxmaT1W4,0,2,Pen,0,3,0
+1382571000,Trujillanos,Zamora,lfuQn2PJ,0A6WRcTt,1,0,,,,0
+1382571000,Aragua,Dep. Anzoategui,W2EojdRP,v7Ysf0vj,3,1,,,,0
+1383175800,Dep. Tachira,Zamora,OxmaT1W4,0A6WRcTt,1,0,,,,0
+1383175800,Aragua,Caracas,W2EojdRP,0nhENufQ,0,1,,,,0
+1383768000,Caracas,Aragua,0nhENufQ,W2EojdRP,2,1,,,,0
+1383782400,Zamora,Dep. Tachira,0A6WRcTt,OxmaT1W4,0,2,,,,0
+1385596800,Dep. Tachira,Caracas,OxmaT1W4,0nhENufQ,2,1,,,,0
+1386273600,Caracas,Dep. Tachira,0nhENufQ,OxmaT1W4,2,0,,,,0

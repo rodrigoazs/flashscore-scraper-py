@@ -1,34 +1,34 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1601474400,Zvijezda 09,Modrica,2,1,,,,0
-1601474400,Zenica,Kakanj,0,1,,,,0
-1601474400,Travnik,Borac Banja Luka,0,4,,,,0
-1601474400,Tekstilac,Zrinjski,1,7,,,,0
-1601474400,Slavija,Mladost DK,2,2,Pen,3,2,0
-1601474400,Prijedor,Olimpik Sarajevo,4,0,,,,0
-1601474400,Novi Grad,Tuzla City,0,2,,,,0
-1601474400,Nevesinje,Igman K.,2,1,,,,0
-1601474400,Klis Buturovic Polje,UNIS Vogosca,6,2,,,,0
-1601474400,Gradacac,Radnik Bijeljina,0,1,,,,0
-1601474400,GOSK Gabela,Siroki Brijeg,0,1,,,,0
-1601474400,Gorazde,Sloboda,2,2,Pen,3,2,0
-1601474400,Brcko,Velez Mostar,0,3,,,,0
-1601474400,Banovici,Zeljeznicar,1,2,,,,0
-1602594000,Leotar,Krupa,0,4,,,,0
-1602595800,Radnicki Lukavac,FK Sarajevo,0,4,,,,0
-1603285200,Zrinjski,Slavija,4,0,,,,0
-1603285200,Zeljeznicar,Gorazde,3,0,,,,0
-1603285200,Tuzla City,Radnik Bijeljina,3,1,,,,0
-1603285200,Prijedor,Zvijezda 09,0,0,Pen,0,1,0
-1603285200,Nevesinje,Klis Buturovic Polje,0,2,,,,0
-1603285200,Krupa,FK Sarajevo,2,4,,,,0
-1603285200,Kakanj,Borac Banja Luka,1,6,,,,0
-1605369600,Velez Mostar,Siroki Brijeg,0,1,,,,0
-1615381200,Tuzla City,Zeljeznicar,1,1,Pen,2,1,0
-1615381200,Klis Buturovic Polje,Zvijezda 09,1,0,,,,0
-1615388400,Siroki Brijeg,Borac Banja Luka,0,2,,,,0
-1615397400,FK Sarajevo,Zrinjski,1,0,,,,0
-1617796800,Tuzla City,FK Sarajevo,0,1,,,,0
-1617804000,Borac Banja Luka,Klis Buturovic Polje,4,1,,,,0
-1619010000,Klis Buturovic Polje,Borac Banja Luka,1,2,,,,1
-1619017200,FK Sarajevo,Tuzla City,3,1,,,,0
-1622041200,Borac Banja Luka,FK Sarajevo,0,0,Pen,0,1,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1601474400,Zvijezda 09,Modrica,riRZh95F,6HOCmD6G,2,1,,,,0
+1601474400,Zenica,Kakanj,hj438caa,dlvT7jOn,0,1,,,,0
+1601474400,Travnik,Borac Banja Luka,xCPMRLr8,pYGu6ZOp,0,4,,,,0
+1601474400,Tekstilac,Zrinjski,lOYbSjrt,zg80Kwyr,1,7,,,,0
+1601474400,Slavija,Mladost DK,hpcz0A3F,pp3jr4IC,2,2,Pen,3,2,0
+1601474400,Prijedor,Olimpik Sarajevo,t6ohxKMt,82fcjrKD,4,0,,,,0
+1601474400,Novi Grad,Tuzla City,nPF1j3fc,QHNTWbrf,0,2,,,,0
+1601474400,Nevesinje,Igman K.,bobNARI9,nwkn8fi1,2,1,,,,0
+1601474400,Klis Buturovic Polje,UNIS Vogosca,ITByprbJ,nXi66K6d,6,2,,,,0
+1601474400,Gradacac,Radnik Bijeljina,CjDpjwhb,rkMd9kXu,0,1,,,,0
+1601474400,GOSK Gabela,Siroki Brijeg,8KcAgdAM,AyQfPETk,0,1,,,,0
+1601474400,Gorazde,Sloboda,zXvOwGUl,xCPMRLr8,2,2,Pen,3,2,0
+1601474400,Brcko,Velez Mostar,C2egob5m,6XE3AtXB,0,3,,,,0
+1601474400,Banovici,Zeljeznicar,WMQHzkf1,YqMYOJSQ,1,2,,,,0
+1602594000,Leotar,Krupa,KU7AlyK2,KEePLQOe,0,4,,,,0
+1602595800,Radnicki Lukavac,FK Sarajevo,IZtit8B2,0E8MOvRd,0,4,,,,0
+1603285200,Zrinjski,Slavija,zg80Kwyr,hpcz0A3F,4,0,,,,0
+1603285200,Zeljeznicar,Gorazde,YqMYOJSQ,zXvOwGUl,3,0,,,,0
+1603285200,Tuzla City,Radnik Bijeljina,QHNTWbrf,rkMd9kXu,3,1,,,,0
+1603285200,Prijedor,Zvijezda 09,t6ohxKMt,riRZh95F,0,0,Pen,0,1,0
+1603285200,Nevesinje,Klis Buturovic Polje,bobNARI9,ITByprbJ,0,2,,,,0
+1603285200,Krupa,FK Sarajevo,KEePLQOe,0E8MOvRd,2,4,,,,0
+1603285200,Kakanj,Borac Banja Luka,dlvT7jOn,pYGu6ZOp,1,6,,,,0
+1605369600,Velez Mostar,Siroki Brijeg,6XE3AtXB,AyQfPETk,0,1,,,,0
+1615381200,Tuzla City,Zeljeznicar,QHNTWbrf,YqMYOJSQ,1,1,Pen,2,1,0
+1615381200,Klis Buturovic Polje,Zvijezda 09,ITByprbJ,riRZh95F,1,0,,,,0
+1615388400,Siroki Brijeg,Borac Banja Luka,AyQfPETk,pYGu6ZOp,0,2,,,,0
+1615397400,FK Sarajevo,Zrinjski,0E8MOvRd,zg80Kwyr,1,0,,,,0
+1617796800,Tuzla City,FK Sarajevo,QHNTWbrf,0E8MOvRd,0,1,,,,0
+1617804000,Borac Banja Luka,Klis Buturovic Polje,pYGu6ZOp,ITByprbJ,4,1,,,,0
+1619010000,Klis Buturovic Polje,Borac Banja Luka,ITByprbJ,pYGu6ZOp,1,2,,,,1
+1619017200,FK Sarajevo,Tuzla City,0E8MOvRd,QHNTWbrf,3,1,,,,0
+1622041200,Borac Banja Luka,FK Sarajevo,pYGu6ZOp,0E8MOvRd,0,0,Pen,0,1,1

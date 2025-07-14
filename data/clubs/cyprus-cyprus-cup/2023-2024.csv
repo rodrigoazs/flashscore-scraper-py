@@ -1,28 +1,28 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1698249600,Ol. Nicosia,Karmiotissa,4,1,,,,0
-1698249600,APOEL,Peyia 2014 FC,2,0,,,,0
-1698850800,AEK Larnaca,Achyronas-Onisilos,3,2,,,,0
-1699462800,Nea Salamis,Paralimni,6,0,,,,0
-1699462800,Doxa,Omonia 29th May,0,1,,,,0
-1699462800,Chloraka,Zakakiou,3,3,AET,3,4,0
-1701882000,Omonia Aradippou,Achnas,0,2,,,,0
-1702479600,Ayia Napa,Apollon,0,6,,,,0
-1702486800,Othellos Athienou,Digenis Akritas,4,1,,,,0
-1702486800,Anorthosis,ENAD,3,1,,,,0
-1705424400,Omonia 29th May,Anorthosis,0,2,,,,0
-1705424400,Nea Salamis,APOEL,0,0,Awrd,,,0
-1705510800,AEK Larnaca,Othellos Athienou,4,2,,,,0
-1705597200,Zakakiou,PAEEK,4,2,,,,0
-1705597200,Omonia,Ypsonas,3,0,,,,0
-1705597200,Ol. Nicosia,Pafos,0,1,,,,0
-1706202000,Achnas,Aris,1,2,,,,0
-1708534800,Apollon,AEL Limassol,3,1,,,,0
-1709139600,Omonia,Zakakiou,3,1,,,,0
-1709139600,Nea Salamis,Pafos,0,5,,,,0
-1709139600,Apollon,AEK Larnaca,2,1,,,,0
-1709139600,Anorthosis,Aris,2,3,,,,0
-1712761200,Pafos,Apollon,2,1,,,,0
-1712768400,Aris,Omonia,0,3,,,,0
-1713369600,Omonia,Aris,0,0,,,,0
-1713373200,Apollon,Pafos,1,1,,,,0
-1716051600,Omonia,Pafos,0,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1698249600,Ol. Nicosia,Karmiotissa,l2Xtf5Mh,lb9Frd2K,4,1,,,,0
+1698249600,APOEL,Peyia 2014 FC,dM5j1Xkq,zXIKE1O1,2,0,,,,0
+1698850800,AEK Larnaca,Achyronas-Onisilos,rgYuXGKm,KO2YAkbg,3,2,,,,0
+1699462800,Nea Salamis,Paralimni,AoqqSdQE,p2SoLYBg,6,0,,,,0
+1699462800,Doxa,Omonia 29th May,nsVKnzpo,SfRWUwLb,0,1,,,,0
+1699462800,Chloraka,Zakakiou,EoODef3s,fevv2dQD,3,3,AET,3,4,0
+1701882000,Omonia Aradippou,Achnas,lULddU19,zFems01k,0,2,,,,0
+1702479600,Ayia Napa,Apollon,AoqqSdQE,x4Xh4Pu0,0,6,,,,0
+1702486800,Othellos Athienou,Digenis Akritas,6sbsCvif,WnOlbjXd,4,1,,,,0
+1702486800,Anorthosis,ENAD,pEI2BJMo,4ljzTv36,3,1,,,,0
+1705424400,Omonia 29th May,Anorthosis,SfRWUwLb,pEI2BJMo,0,2,,,,0
+1705424400,Nea Salamis,APOEL,AoqqSdQE,dM5j1Xkq,0,0,Awrd,,,0
+1705510800,AEK Larnaca,Othellos Athienou,rgYuXGKm,6sbsCvif,4,2,,,,0
+1705597200,Zakakiou,PAEEK,fevv2dQD,tb3xYV24,4,2,,,,0
+1705597200,Omonia,Ypsonas,8GeT5Kmk,zwjwOleQ,3,0,,,,0
+1705597200,Ol. Nicosia,Pafos,l2Xtf5Mh,dOOzPK2E,0,1,,,,0
+1706202000,Achnas,Aris,zFems01k,GxoBo0zo,1,2,,,,0
+1708534800,Apollon,AEL Limassol,x4Xh4Pu0,jZcv4JNH,3,1,,,,0
+1709139600,Omonia,Zakakiou,8GeT5Kmk,fevv2dQD,3,1,,,,0
+1709139600,Nea Salamis,Pafos,AoqqSdQE,dOOzPK2E,0,5,,,,0
+1709139600,Apollon,AEK Larnaca,x4Xh4Pu0,rgYuXGKm,2,1,,,,0
+1709139600,Anorthosis,Aris,pEI2BJMo,GxoBo0zo,2,3,,,,0
+1712761200,Pafos,Apollon,dOOzPK2E,x4Xh4Pu0,2,1,,,,0
+1712768400,Aris,Omonia,GxoBo0zo,8GeT5Kmk,0,3,,,,0
+1713369600,Omonia,Aris,8GeT5Kmk,GxoBo0zo,0,0,,,,0
+1713373200,Apollon,Pafos,x4Xh4Pu0,dOOzPK2E,1,1,,,,0
+1716051600,Omonia,Pafos,8GeT5Kmk,dOOzPK2E,0,3,,,,0

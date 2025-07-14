@@ -1,15 +1,15 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1079485200,Saprissa,Pachuca,2,0,,,,0
-1079485200,San Juan Jabloteh,Chicago Fire,5,2,,,,0
-1079485200,FAS,Monterrey,0,0,,,,0
-1079485200,Alajuelense,San Jose Earthquakes,3,0,,,,0
-1080090000,San Jose Earthquakes,Alajuelense,1,0,,,,0
-1080090000,Pachuca,Saprissa,2,0,AET,2,1,0
-1080090000,Monterrey,FAS,4,1,,,,0
-1080090000,Chicago Fire,San Juan Jabloteh,4,0,,,,0
-1081900800,Saprissa,Chicago Fire,2,0,,,,0
-1081900800,Alajuelense,Monterrey,1,0,,,,0
-1082505600,Monterrey,Alajuelense,1,1,,,,0
-1082505600,Chicago Fire,Saprissa,2,1,,,,0
-1083715200,Saprissa,Alajuelense,1,1,,,,0
-1084320000,Alajuelense,Saprissa,4,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1079485200,Saprissa,Pachuca,tnwDCzLD,zFZbB1JF,2,0,,,,0
+1079485200,San Juan Jabloteh,Chicago Fire,fmULZ56k,0lw00xPr,5,2,,,,0
+1079485200,FAS,Monterrey,IJKf4CSg,MVPKYVvK,0,0,,,,0
+1079485200,Alajuelense,San Jose Earthquakes,4v3Y4ReF,GpqxHjf5,3,0,,,,0
+1080090000,San Jose Earthquakes,Alajuelense,GpqxHjf5,4v3Y4ReF,1,0,,,,0
+1080090000,Pachuca,Saprissa,zFZbB1JF,tnwDCzLD,2,0,AET,2,1,0
+1080090000,Monterrey,FAS,MVPKYVvK,IJKf4CSg,4,1,,,,0
+1080090000,Chicago Fire,San Juan Jabloteh,0lw00xPr,fmULZ56k,4,0,,,,0
+1081900800,Saprissa,Chicago Fire,tnwDCzLD,0lw00xPr,2,0,,,,0
+1081900800,Alajuelense,Monterrey,4v3Y4ReF,MVPKYVvK,1,0,,,,0
+1082505600,Monterrey,Alajuelense,MVPKYVvK,4v3Y4ReF,1,1,,,,0
+1082505600,Chicago Fire,Saprissa,0lw00xPr,tnwDCzLD,2,1,,,,0
+1083715200,Saprissa,Alajuelense,tnwDCzLD,4v3Y4ReF,1,1,,,,0
+1084320000,Alajuelense,Saprissa,4v3Y4ReF,tnwDCzLD,4,0,,,,0

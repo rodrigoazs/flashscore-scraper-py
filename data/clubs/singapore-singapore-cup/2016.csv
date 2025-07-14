@@ -1,19 +1,19 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1464262200,Lion City,Hougang,2,1,,,,0
-1464349500,Geylang,Warriors,2,1,,,,0
-1464435000,NagaWorld,Global FC,0,5,,,,0
-1464521400,United City,Young Lions,1,1,AET,3,1,0
-1467028800,Balestier Khalsa,Lion City,2,1,,,,0
-1467115200,Albirex Niigata,Geylang,2,0,,,,0
-1467201600,Tampines,Global FC,3,1,,,,0
-1467288000,Lion City,Balestier Khalsa,2,2,,,,0
-1467288000,DPMM,United City,0,3,,,,0
-1467374400,Geylang,Albirex Niigata,2,2,,,,0
-1467460800,Global FC,Tampines,1,2,,,,0
-1467547200,United City,DPMM,2,3,,,,0
-1471779000,Tampines,United City,2,1,,,,0
-1472039100,United City,Tampines,2,1,AET,2,3,0
-1473420600,Albirex Niigata,Balestier Khalsa,1,0,,,,0
-1473767100,Balestier Khalsa,Albirex Niigata,0,1,,,,0
-1477731600,Balestier Khalsa,United City,1,2,,,,0
-1477742400,Albirex Niigata,Tampines,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1464262200,Lion City,Hougang,pW3pRTln,4fcEsivK,2,1,,,,0
+1464349500,Geylang,Warriors,df9tRVup,nNKuYSHo,2,1,,,,0
+1464435000,NagaWorld,Global FC,6VXkf3Mu,EcEATQWg,0,5,,,,0
+1464521400,United City,Young Lions,hjIcXIDC,jqXAnX3e,1,1,AET,3,1,0
+1467028800,Balestier Khalsa,Lion City,MZaTAD0m,pW3pRTln,2,1,,,,0
+1467115200,Albirex Niigata,Geylang,MkSbZgY3,df9tRVup,2,0,,,,0
+1467201600,Tampines,Global FC,d0hl69s2,EcEATQWg,3,1,,,,0
+1467288000,Lion City,Balestier Khalsa,pW3pRTln,MZaTAD0m,2,2,,,,0
+1467288000,DPMM,United City,nP3yiII0,hjIcXIDC,0,3,,,,0
+1467374400,Geylang,Albirex Niigata,df9tRVup,MkSbZgY3,2,2,,,,0
+1467460800,Global FC,Tampines,EcEATQWg,d0hl69s2,1,2,,,,0
+1467547200,United City,DPMM,hjIcXIDC,nP3yiII0,2,3,,,,0
+1471779000,Tampines,United City,d0hl69s2,hjIcXIDC,2,1,,,,0
+1472039100,United City,Tampines,hjIcXIDC,d0hl69s2,2,1,AET,2,3,0
+1473420600,Albirex Niigata,Balestier Khalsa,MkSbZgY3,MZaTAD0m,1,0,,,,0
+1473767100,Balestier Khalsa,Albirex Niigata,MZaTAD0m,MkSbZgY3,0,1,,,,0
+1477731600,Balestier Khalsa,United City,MZaTAD0m,hjIcXIDC,1,2,,,,0
+1477742400,Albirex Niigata,Tampines,MkSbZgY3,d0hl69s2,2,0,,,,0

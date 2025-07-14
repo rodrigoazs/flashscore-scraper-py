@@ -1,40 +1,40 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1629813600,Visoca,Inter Soroca,0,3,Awrd,,,0
-1629813600,Vasieni,Sparta Selemet,0,3,,,,0
-1629813600,Stauceni,Real Succes,1,3,,,,0
-1629813600,Slobozia,Cahul,2,3,,,,0
-1629813600,Singerei,Falesti,3,0,,,,0
-1629813600,Saksan,Sucleia,4,2,,,,0
-1629813600,Riscani,Drochia,0,5,,,,0
-1629813600,Pepeni,Victoria,1,6,,,,0
-1629813600,Olimpia,Granicerul,2,1,,,,0
-1629813600,Maiak Chirsova,Socol Copceac,5,0,,,,0
-1629813600,Locomotiva Ocnita,Edinet,4,1,,,,0
-1629813600,Cruiz Plus,Iskra Ribnita,1,0,,,,0
-1629813600,Cricova,Dacia Buiucani,1,2,,,,0
-1629813600,Congaz,Olimp Comrat,0,6,,,,0
-1629813600,Codru Calarasi,FCM Ungheni,2,3,,,,0
-1629813600,Cimislia,Speranis,0,1,,,,0
-1631624400,Sparta Selemet,Dacia Buiucani,0,0,AET,2,0,0
-1631624400,Saksan,Speranis,2,2,AET,3,2,0
-1631624400,Real Succes,Olimp Comrat,1,8,,,,0
-1631624400,Olimpia,Singerei,1,3,,,,0
-1631624400,Maiak Chirsova,Cahul,2,4,,,,0
-1631624400,Locomotiva Ocnita,Drochia,0,4,,,,0
-1631624400,Inter Soroca,Victoria,0,1,,,,0
-1631624400,Cruiz Plus,FCM Ungheni,1,4,,,,0
-1635242400,Sparta Selemet,Dinamo-Auto,1,3,,,,0
-1635242400,Sf.Gheorghe,Victoria,1,0,,,,0
-1635242400,Petrocub,Olimp Comrat,6,0,,,,0
-1635249600,Balti,Cahul,-,-,WO,,,0
-1635328800,Floresti,Singerei,3,1,,,,0
-1635328800,Drochia,Zimbru Chisinau,1,4,,,,0
-1635336000,Sheriff Tiraspol,Saksan,6,0,,,,0
-1635336000,Milsami,FCM Ungheni,5,1,,,,0
-1649768400,Sf.Gheorghe,Floresti,3,0,Awrd,,,0
-1649775600,Sheriff Tiraspol,Petrocub,4,0,,,,0
-1649854800,Zimbru Chisinau,Milsami,0,3,,,,0
-1649862000,Balti,Dinamo-Auto,1,1,Pen,3,4,0
-1650978000,Dinamo-Auto,Sheriff Tiraspol,2,3,,,,0
-1650988800,Milsami,Sf.Gheorghe,0,2,,,,0
-1653152400,Sf.Gheorghe,Sheriff Tiraspol,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1629813600,Visoca,Inter Soroca,pCqeyvGJ,fBhvPlaa,0,3,Awrd,,,0
+1629813600,Vasieni,Sparta Selemet,MN77Zwsf,nHw4XhBH,0,3,,,,0
+1629813600,Stauceni,Real Succes,ChjnNSTB,lvTfNEmR,1,3,,,,0
+1629813600,Slobozia,Cahul,02A1xhNG,StxbsfGB,2,3,,,,0
+1629813600,Singerei,Falesti,Iq89zWiT,GKgzQUqg,3,0,,,,0
+1629813600,Saksan,Sucleia,xtLCk61r,MN77Zwsf,4,2,,,,0
+1629813600,Riscani,Drochia,vg95yCxN,0xHu3Dom,0,5,,,,0
+1629813600,Pepeni,Victoria,GIhTcNKT,GKgzQUqg,1,6,,,,0
+1629813600,Olimpia,Granicerul,GKgzQUqg,vg95yCxN,2,1,,,,0
+1629813600,Maiak Chirsova,Socol Copceac,vg95yCxN,jqkjMnqI,5,0,,,,0
+1629813600,Locomotiva Ocnita,Edinet,KjXmaB6S,ddlFUp3p,4,1,,,,0
+1629813600,Cruiz Plus,Iskra Ribnita,fBhvPlaa,Iq89zWiT,1,0,,,,0
+1629813600,Cricova,Dacia Buiucani,jDSW8vGo,jDSW8vGo,1,2,,,,0
+1629813600,Congaz,Olimp Comrat,Y1irO8E5,ChjnNSTB,0,6,,,,0
+1629813600,Codru Calarasi,FCM Ungheni,Y1irO8E5,6LUIdcYb,2,3,,,,0
+1629813600,Cimislia,Speranis,pCqeyvGJ,jqkjMnqI,0,1,,,,0
+1631624400,Sparta Selemet,Dacia Buiucani,nHw4XhBH,jDSW8vGo,0,0,AET,2,0,0
+1631624400,Saksan,Speranis,xtLCk61r,jqkjMnqI,2,2,AET,3,2,0
+1631624400,Real Succes,Olimp Comrat,lvTfNEmR,ChjnNSTB,1,8,,,,0
+1631624400,Olimpia,Singerei,GKgzQUqg,Iq89zWiT,1,3,,,,0
+1631624400,Maiak Chirsova,Cahul,vg95yCxN,StxbsfGB,2,4,,,,0
+1631624400,Locomotiva Ocnita,Drochia,KjXmaB6S,0xHu3Dom,0,4,,,,0
+1631624400,Inter Soroca,Victoria,fBhvPlaa,GKgzQUqg,0,1,,,,0
+1631624400,Cruiz Plus,FCM Ungheni,fBhvPlaa,6LUIdcYb,1,4,,,,0
+1635242400,Sparta Selemet,Dinamo-Auto,nHw4XhBH,GKJk5gu7,1,3,,,,0
+1635242400,Sf.Gheorghe,Victoria,E5dQHTcd,GKgzQUqg,1,0,,,,0
+1635242400,Petrocub,Olimp Comrat,0KH3wM5q,ChjnNSTB,6,0,,,,0
+1635249600,Balti,Cahul,pCqeyvGJ,StxbsfGB,-,-,WO,,,0
+1635328800,Floresti,Singerei,CSpFv788,Iq89zWiT,3,1,,,,0
+1635328800,Drochia,Zimbru Chisinau,0xHu3Dom,QcBOsqL0,1,4,,,,0
+1635336000,Sheriff Tiraspol,Saksan,zVD8QVhN,xtLCk61r,6,0,,,,0
+1635336000,Milsami,FCM Ungheni,G6lyZe2l,6LUIdcYb,5,1,,,,0
+1649768400,Sf.Gheorghe,Floresti,E5dQHTcd,CSpFv788,3,0,Awrd,,,0
+1649775600,Sheriff Tiraspol,Petrocub,zVD8QVhN,0KH3wM5q,4,0,,,,0
+1649854800,Zimbru Chisinau,Milsami,QcBOsqL0,G6lyZe2l,0,3,,,,0
+1649862000,Balti,Dinamo-Auto,pCqeyvGJ,GKJk5gu7,1,1,Pen,3,4,0
+1650978000,Dinamo-Auto,Sheriff Tiraspol,GKJk5gu7,zVD8QVhN,2,3,,,,0
+1650988800,Milsami,Sf.Gheorghe,G6lyZe2l,E5dQHTcd,0,2,,,,0
+1653152400,Sf.Gheorghe,Sheriff Tiraspol,E5dQHTcd,zVD8QVhN,0,1,,,,0

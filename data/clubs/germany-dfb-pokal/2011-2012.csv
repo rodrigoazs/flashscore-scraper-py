@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1311964200,Wehen,Stuttgart,1,2,,,,0
-1311964200,VfL Osnabruck,Munich 1860,2,2,AET,2,3,0
-1311964200,Saarbrucken,Aue,1,1,AET,1,3,0
-1311964200,RW Essen,Union Berlin,2,2,Pen,3,2,0
-1311964200,Regensburg,B. Monchengladbach,1,3,,,,0
-1311964200,RB Leipzig,Wolfsburg,3,2,,,,0
-1312032600,VfB Oldenburg,Hamburger SV,1,2,,,,0
-1312032600,SG Dynamo Dresden,Bayer Leverkusen,3,3,AET,4,3,0
-1312032600,Heidenheim,Werder Bremen,2,1,,,,0
-1312032600,Hallescher,Eintracht Frankfurt,0,2,,,,0
-1312032600,Eintracht Trier,St. Pauli,2,1,,,,0
-1312032600,BFC Dynamo,Kaiserslautern,0,3,,,,0
-1312032600,Babelsberg,Duisburg,0,2,,,,0
-1312032600,Arminia Bielefeld,Nurnberg,1,5,,,,0
-1312032600,Ahlen,Paderborn,0,10,,,,0
-1312047000,Sandhausen,Dortmund,0,3,,,,0
-1312047000,Oberhausen,Augsburg,1,1,AET,1,2,0
-1312047000,Holstein Kiel,Cottbus,3,0,,,,0
-1312047000,Hansa Rostock,Bochum,2,2,Pen,2,3,0
-1312047000,Emden,FSV Frankfurt,1,1,AET,1,5,0
-1312115400,Wismar,Hannover,0,6,,,,0
-1312115400,Unterhaching,Freiburg,3,2,,,,0
-1312115400,Oberneuland,Ingolstadt,1,4,,,,0
-1312115400,Karlsruher SC,Alemannia Aachen,3,1,,,,0
-1312115400,Eimsbutteler,Greuther Furth,0,10,,,,0
-1312120800,Meuselwitz,Hertha Berlin,0,4,,,,0
-1312120800,Germania Windeck,Hoffenheim,1,1,AET,1,3,0
-1312126200,Zweibrucken,Mainz,0,0,AET,1,2,0
-1312126200,Wiedenbruck,FC Koln,0,3,,,,0
-1312126200,Teningen,Schalke,1,11,,,,0
-1312126200,Kassel,Dusseldorf,0,3,,,,0
-1312223400,Braunschweig,Bayern Munich,0,3,,,,0
-1319562000,Unterhaching,Bochum,1,4,,,,0
-1319562000,RB Leipzig,Augsburg,0,1,,,,0
-1319562000,Heidenheim,B. Monchengladbach,0,0,Pen,0,1,0
-1319562000,Dusseldorf,Munich 1860,3,0,,,,0
-1319567400,Hoffenheim,FC Koln,2,1,,,,0
-1319567400,Greuther Furth,Paderborn,4,0,,,,0
-1319567400,Eintracht Trier,Hamburger SV,1,1,AET,1,2,0
-1319567400,Dortmund,SG Dynamo Dresden,2,0,,,,0
-1319648400,RW Essen,Hertha Berlin,0,3,,,,0
-1319648400,Karlsruher SC,Schalke,0,2,,,,0
-1319648400,Holstein Kiel,Duisburg,2,0,,,,0
-1319648400,Hannover,Mainz,0,0,AET,0,1,0
-1319653800,Stuttgart,FSV Frankfurt,3,0,,,,0
-1319653800,Eintracht Frankfurt,Kaiserslautern,0,0,AET,0,1,0
-1319653800,Bayern Munich,Ingolstadt,6,0,,,,0
-1319653800,Aue,Nurnberg,1,2,,,,0
-1324404000,Nurnberg,Greuther Furth,0,1,,,,0
-1324404000,Bochum,Bayern Munich,1,2,,,,0
-1324409400,Hoffenheim,Augsburg,2,1,,,,0
-1324409400,Dusseldorf,Dortmund,0,0,Pen,0,1,0
-1324490400,Holstein Kiel,Mainz,2,0,,,,0
-1324490400,Hertha Berlin,Kaiserslautern,3,1,,,,0
-1324495800,Stuttgart,Hamburger SV,2,1,,,,0
-1324495800,B. Monchengladbach,Schalke,3,1,,,,0
-1328643000,Holstein Kiel,Dortmund,0,4,,,,0
-1328724000,Hoffenheim,Greuther Furth,0,1,,,,0
-1328724000,Hertha Berlin,B. Monchengladbach,0,0,AET,0,2,0
-1328729400,Stuttgart,Bayern Munich,0,2,,,,0
-1332271800,Greuther Furth,Dortmund,0,0,AET,0,1,0
-1332358200,B. Monchengladbach,Bayern Munich,0,0,Pen,0,1,0
-1336845600,Dortmund,Bayern Munich,5,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1311964200,Wehen,Stuttgart,QmM3Kdme,f1Z3XxZa,1,2,,,,0
+1311964200,VfL Osnabruck,Munich 1860,8f6ISvUl,86lnAaq9,2,2,AET,2,3,0
+1311964200,Saarbrucken,Aue,rcKPySRa,hWRlo72J,1,1,AET,1,3,0
+1311964200,RW Essen,Union Berlin,YFzpTQGt,ncmj9JbF,2,2,Pen,3,2,0
+1311964200,Regensburg,B. Monchengladbach,ncNaLxYl,ncmj9JbF,1,3,,,,0
+1311964200,RB Leipzig,Wolfsburg,WvvSE8Dm,KjF1j4v3,3,2,,,,0
+1312032600,VfB Oldenburg,Hamburger SV,lrRNKE7p,86lnAaq9,1,2,,,,0
+1312032600,SG Dynamo Dresden,Bayer Leverkusen,YP5eX03i,WrjrBuU2,3,3,AET,4,3,0
+1312032600,Heidenheim,Werder Bremen,ncNaLxYl,EVomMG4o,2,1,,,,0
+1312032600,Hallescher,Eintracht Frankfurt,h4sLpjpo,86lnAaq9,0,2,,,,0
+1312032600,Eintracht Trier,St. Pauli,QPmyi0mg,ncmj9JbF,2,1,,,,0
+1312032600,BFC Dynamo,Kaiserslautern,KlQEi9GE,xW7EDdNP,0,3,,,,0
+1312032600,Babelsberg,Duisburg,86OeMIIr,llQ95ECr,0,2,,,,0
+1312032600,Arminia Bielefeld,Nurnberg,GOBDm2OL,ncmj9JbF,1,5,,,,0
+1312032600,Ahlen,Paderborn,WdVRHDCa,Qmnf8wEL,0,10,,,,0
+1312047000,Sandhausen,Dortmund,WxLb2GDg,WrjrBuU2,0,3,,,,0
+1312047000,Oberhausen,Augsburg,Qmnf8wEL,Qmnf8wEL,1,1,AET,1,2,0
+1312047000,Holstein Kiel,Cottbus,EcK7yLm6,KGl8021M,3,0,,,,0
+1312047000,Hansa Rostock,Bochum,McvX4bye,86lnAaq9,2,2,Pen,2,3,0
+1312047000,Emden,FSV Frankfurt,vos6XnL6,hvd9EEze,1,1,AET,1,5,0
+1312115400,Wismar,Hannover,2mAb2zBB,n7lWn9DL,0,6,,,,0
+1312115400,Unterhaching,Freiburg,v9581eMG,86lnAaq9,3,2,,,,0
+1312115400,Oberneuland,Ingolstadt,vos6XnL6,Qmnf8wEL,1,4,,,,0
+1312115400,Karlsruher SC,Alemannia Aachen,Qmnf8wEL,4hz8si14,3,1,,,,0
+1312115400,Eimsbutteler,Greuther Furth,vos6XnL6,KfqGWN71,0,10,,,,0
+1312120800,Meuselwitz,Hertha Berlin,baDaGjjh,WrjrBuU2,0,4,,,,0
+1312120800,Germania Windeck,Hoffenheim,vos6XnL6,n7lWn9DL,1,1,AET,1,3,0
+1312126200,Zweibrucken,Mainz,0fr2YS50,bsE5kOg9,0,0,AET,1,2,0
+1312126200,Wiedenbruck,FC Koln,t2JBIzI7,86lnAaq9,0,3,,,,0
+1312126200,Teningen,Schalke,dOMo4SHT,I7p2Damb,1,11,,,,0
+1312126200,Kassel,Dusseldorf,EykG4git,Qmnf8wEL,0,3,,,,0
+1312223400,Braunschweig,Bayern Munich,rBP4Wuhs,SvLFaVNH,0,3,,,,0
+1319562000,Unterhaching,Bochum,v9581eMG,86lnAaq9,1,4,,,,0
+1319562000,RB Leipzig,Augsburg,WvvSE8Dm,Qmnf8wEL,0,1,,,,0
+1319562000,Heidenheim,B. Monchengladbach,ncNaLxYl,ncmj9JbF,0,0,Pen,0,1,0
+1319562000,Dusseldorf,Munich 1860,Qmnf8wEL,86lnAaq9,3,0,,,,0
+1319567400,Hoffenheim,FC Koln,n7lWn9DL,86lnAaq9,2,1,,,,0
+1319567400,Greuther Furth,Paderborn,KfqGWN71,Qmnf8wEL,4,0,,,,0
+1319567400,Eintracht Trier,Hamburger SV,QPmyi0mg,86lnAaq9,1,1,AET,1,2,0
+1319567400,Dortmund,SG Dynamo Dresden,WrjrBuU2,YP5eX03i,2,0,,,,0
+1319648400,RW Essen,Hertha Berlin,YFzpTQGt,WrjrBuU2,0,3,,,,0
+1319648400,Karlsruher SC,Schalke,Qmnf8wEL,I7p2Damb,0,2,,,,0
+1319648400,Holstein Kiel,Duisburg,EcK7yLm6,llQ95ECr,2,0,,,,0
+1319648400,Hannover,Mainz,n7lWn9DL,bsE5kOg9,0,0,AET,0,1,0
+1319653800,Stuttgart,FSV Frankfurt,f1Z3XxZa,hvd9EEze,3,0,,,,0
+1319653800,Eintracht Frankfurt,Kaiserslautern,86lnAaq9,xW7EDdNP,0,0,AET,0,1,0
+1319653800,Bayern Munich,Ingolstadt,SvLFaVNH,Qmnf8wEL,6,0,,,,0
+1319653800,Aue,Nurnberg,hWRlo72J,ncmj9JbF,1,2,,,,0
+1324404000,Nurnberg,Greuther Furth,ncmj9JbF,KfqGWN71,0,1,,,,0
+1324404000,Bochum,Bayern Munich,86lnAaq9,SvLFaVNH,1,2,,,,0
+1324409400,Hoffenheim,Augsburg,n7lWn9DL,Qmnf8wEL,2,1,,,,0
+1324409400,Dusseldorf,Dortmund,Qmnf8wEL,WrjrBuU2,0,0,Pen,0,1,0
+1324490400,Holstein Kiel,Mainz,EcK7yLm6,bsE5kOg9,2,0,,,,0
+1324490400,Hertha Berlin,Kaiserslautern,WrjrBuU2,xW7EDdNP,3,1,,,,0
+1324495800,Stuttgart,Hamburger SV,f1Z3XxZa,86lnAaq9,2,1,,,,0
+1324495800,B. Monchengladbach,Schalke,ncmj9JbF,I7p2Damb,3,1,,,,0
+1328643000,Holstein Kiel,Dortmund,EcK7yLm6,WrjrBuU2,0,4,,,,0
+1328724000,Hoffenheim,Greuther Furth,n7lWn9DL,KfqGWN71,0,1,,,,0
+1328724000,Hertha Berlin,B. Monchengladbach,WrjrBuU2,ncmj9JbF,0,0,AET,0,2,0
+1328729400,Stuttgart,Bayern Munich,f1Z3XxZa,SvLFaVNH,0,2,,,,0
+1332271800,Greuther Furth,Dortmund,KfqGWN71,WrjrBuU2,0,0,AET,0,1,0
+1332358200,B. Monchengladbach,Bayern Munich,ncmj9JbF,SvLFaVNH,0,0,Pen,0,1,0
+1336845600,Dortmund,Bayern Munich,WrjrBuU2,SvLFaVNH,5,2,,,,0

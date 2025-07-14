@@ -1,48 +1,48 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1246435200,SKA Khabarovsk,Chita,1,0,,,,0
-1246435200,Amur,Luch,1,4,,,,0
-1246447800,Dynamo Barnaul,Sibir Novosibirsk,0,2,,,,0
-1246451400,Chelyabinsk,Kamaz,2,1,,,,0
-1246453200,Nosta,Ural,1,2,,,,0
-1246456800,Saturn Ramenskoye 2,FC N. Novgorod,2,3,,,,0
-1246456800,Mordovia Saransk,Volga N. Novgorod,2,1,,,,0
-1246456800,Avangard Podolsk,Lipetsk,1,0,,,,0
-1246458600,Zhemchuzhina,Volgar-Astrakhan,1,2,,,,0
-1246458600,Volga Tver,MVD Russii,1,0,,,,0
-1246458600,Kursk,Vityaz,2,0,,,,0
-1246458600,FK Volgograd,Energomash Belgorod,0,1,,,,0
-1246460400,Vladimir,Shinnik Yaroslavl,1,0,,,,0
-1246460400,Torpedo-ZIL,Baltika,0,3,,,,0
-1246460400,Alania Vladikavkaz,FK Anzi Makhackala,3,0,,,,0
-1246464000,Krasnodar,Chernomorets Novorossijsk,0,0,AET,1,0,0
-1247644800,SKA Khabarovsk,Lokomotiv Moscow,2,1,,,,0
-1247644800,Luch,Saturn Ramenskoye,3,0,,,,0
-1247659200,Sibir Novosibirsk,Kuban,1,0,,,,0
-1247661000,Chelyabinsk,Krylya Sovetov,2,1,,,,0
-1247662800,Ural,CSKA Moscow,1,0,,,,0
-1247666400,Mordovia Saransk,Akhmat Grozny,2,1,,,,0
-1247668200,Volgar-Astrakhan,Dynamo Moscow,2,0,,,,0
-1247668200,Volga Tver,Rubin Kazan,2,2,AET,4,3,0
-1247668200,Kursk,Amkar,1,2,,,,0
-1247668200,Avangard Podolsk,FK Rostov,4,2,,,,0
-1247670000,Vladimir,Zenit,0,2,,,,0
-1247670000,FC N. Novgorod,Spartak Nalchik,0,0,AET,2,0,0
-1247670000,Alania Vladikavkaz,Tomsk,1,0,,,,0
-1247673600,Krasnodar,Spartak Moscow,1,2,,,,0
-1247673600,Energomash Belgorod,FC Moscow,0,2,,,,0
-1247675400,Baltika,Khimki,2,1,,,,0
-1249459200,Luch,SKA Khabarovsk,1,1,AET,2,1,0
-1249475400,Chelyabinsk,Mordovia Saransk,0,2,,,,0
-1249477200,Ural,Sibir Novosibirsk,1,2,,,,0
-1249477200,Amkar,Avangard Podolsk,2,1,,,,0
-1249482600,Volga Tver,Baltika,2,2,Pen,3,2,0
-1249484400,Spartak Moscow,FC Moscow,1,2,,,,0
-1249484400,Alania Vladikavkaz,Volgar-Astrakhan,1,1,AET,2,1,0
-1249486200,Zenit,FC N. Novgorod,1,1,AET,2,1,0
-1270641600,Sibir Novosibirsk,Luch,3,0,,,,0
-1270648800,Mordovia Saransk,Alania Vladikavkaz,0,3,,,,0
-1270652400,FC Moscow,Amkar,0,3,Awrd,,,0
-1270654200,Zenit,Volga Tver,2,0,,,,0
-1271851200,Sibir Novosibirsk,Alania Vladikavkaz,3,0,,,,0
-1271854800,Amkar,Zenit,0,0,Pen,0,1,0
-1274004000,Zenit,Sibir Novosibirsk,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1246435200,SKA Khabarovsk,Chita,MFyKmVnp,WYzdsnvi,1,0,,,,0
+1246435200,Amur,Luch,WU8OnKL2,2LTy0FL1,1,4,,,,0
+1246447800,Dynamo Barnaul,Sibir Novosibirsk,AL7Sovy9,hKXB7z2J,0,2,,,,0
+1246451400,Chelyabinsk,Kamaz,pK9TA6Ui,vD9TzUeh,2,1,,,,0
+1246453200,Nosta,Ural,tCSuaZz8,WCLHJNjM,1,2,,,,0
+1246456800,Saturn Ramenskoye 2,FC N. Novgorod,S2Br18u9,lWfT87D1,2,3,,,,0
+1246456800,Mordovia Saransk,Volga N. Novgorod,8zvP2TEi,AHypjFA7,2,1,,,,0
+1246456800,Avangard Podolsk,Lipetsk,,OGmExzbe,1,0,,,,0
+1246458600,Zhemchuzhina,Volgar-Astrakhan,fazrR153,GzvdgzS5,1,2,,,,0
+1246458600,Volga Tver,MVD Russii,WCisW4wH,,1,0,,,,0
+1246458600,Kursk,Vityaz,tboMzES7,QwZzmpJl,2,0,,,,0
+1246458600,FK Volgograd,Energomash Belgorod,nuCzEgxb,A594wNGf,0,1,,,,0
+1246460400,Vladimir,Shinnik Yaroslavl,bi3CgRMq,rB3ucgaU,1,0,,,,0
+1246460400,Torpedo-ZIL,Baltika,AVKKahmg,xzIYVtuE,0,3,,,,0
+1246460400,Alania Vladikavkaz,FK Anzi Makhackala,OCHmDtlK,UZNHUPL0,3,0,,,,0
+1246464000,Krasnodar,Chernomorets Novorossijsk,vTLj5hDm,YaM6mDZH,0,0,AET,1,0,0
+1247644800,SKA Khabarovsk,Lokomotiv Moscow,MFyKmVnp,8QMLTqy7,2,1,,,,0
+1247644800,Luch,Saturn Ramenskoye,2LTy0FL1,f340SjwF,3,0,,,,0
+1247659200,Sibir Novosibirsk,Kuban,hKXB7z2J,UB7Gfweh,1,0,,,,0
+1247661000,Chelyabinsk,Krylya Sovetov,pK9TA6Ui,OUUX0e6e,2,1,,,,0
+1247662800,Ural,CSKA Moscow,WCLHJNjM,nHLPS3jD,1,0,,,,0
+1247666400,Mordovia Saransk,Akhmat Grozny,8zvP2TEi,pGHenz7m,2,1,,,,0
+1247668200,Volgar-Astrakhan,Dynamo Moscow,GzvdgzS5,WrST4g30,2,0,,,,0
+1247668200,Volga Tver,Rubin Kazan,WCisW4wH,Cj3YnyW9,2,2,AET,4,3,0
+1247668200,Kursk,Amkar,tboMzES7,8GkSmkbF,1,2,,,,0
+1247668200,Avangard Podolsk,FK Rostov,,CpEF1IjD,4,2,,,,0
+1247670000,Vladimir,Zenit,bi3CgRMq,QPqvtC2B,0,2,,,,0
+1247670000,FC N. Novgorod,Spartak Nalchik,lWfT87D1,2LTy0FL1,0,0,AET,2,0,0
+1247670000,Alania Vladikavkaz,Tomsk,OCHmDtlK,OUUX0e6e,1,0,,,,0
+1247673600,Krasnodar,Spartak Moscow,vTLj5hDm,jqo4GJye,1,2,,,,0
+1247673600,Energomash Belgorod,FC Moscow,A594wNGf,OUUX0e6e,0,2,,,,0
+1247675400,Baltika,Khimki,xzIYVtuE,2LTy0FL1,2,1,,,,0
+1249459200,Luch,SKA Khabarovsk,2LTy0FL1,MFyKmVnp,1,1,AET,2,1,0
+1249475400,Chelyabinsk,Mordovia Saransk,pK9TA6Ui,8zvP2TEi,0,2,,,,0
+1249477200,Ural,Sibir Novosibirsk,WCLHJNjM,hKXB7z2J,1,2,,,,0
+1249477200,Amkar,Avangard Podolsk,8GkSmkbF,,2,1,,,,0
+1249482600,Volga Tver,Baltika,WCisW4wH,xzIYVtuE,2,2,Pen,3,2,0
+1249484400,Spartak Moscow,FC Moscow,jqo4GJye,OUUX0e6e,1,2,,,,0
+1249484400,Alania Vladikavkaz,Volgar-Astrakhan,OCHmDtlK,GzvdgzS5,1,1,AET,2,1,0
+1249486200,Zenit,FC N. Novgorod,QPqvtC2B,lWfT87D1,1,1,AET,2,1,0
+1270641600,Sibir Novosibirsk,Luch,hKXB7z2J,2LTy0FL1,3,0,,,,0
+1270648800,Mordovia Saransk,Alania Vladikavkaz,8zvP2TEi,OCHmDtlK,0,3,,,,0
+1270652400,FC Moscow,Amkar,OUUX0e6e,8GkSmkbF,0,3,Awrd,,,0
+1270654200,Zenit,Volga Tver,QPqvtC2B,WCisW4wH,2,0,,,,0
+1271851200,Sibir Novosibirsk,Alania Vladikavkaz,hKXB7z2J,OCHmDtlK,3,0,,,,0
+1271854800,Amkar,Zenit,8GkSmkbF,QPqvtC2B,0,0,Pen,0,1,0
+1274004000,Zenit,Sibir Novosibirsk,QPqvtC2B,hKXB7z2J,1,0,,,,0

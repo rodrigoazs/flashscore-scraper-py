@@ -1,34 +1,34 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1701774000,Malisheva,Kika,3,2,,,,0
-1701774000,KF Llapi,Phoenix Banje,4,1,,,,0
-1701860400,Vllaznia Pozheran,Trepca 89,2,4,,,,0
-1701860400,Vellaznimi,Ferizaj,2,1,,,,0
-1701860400,Ramiz Sadiku,Gjilani,1,3,,,,0
-1701860400,Rahoveci,Prishtina,0,2,,,,0
-1701860400,Liria,Rilindja,2,2,Pen,2,3,0
-1701860400,Fushe Kosova,2 Korriku,1,3,,,,0
-1701860400,Flamurtari,Dukagjini,0,3,,,,0
-1701860400,Feronikeli,Istogu,2,0,,,,0
-1701860400,Drenica,FC Ballkani,0,2,,,,0
-1701860400,Dardania,Drita,0,9,,,,0
-1701946800,Suhareka,Trepca Mitrovice,2,0,,,,0
-1701946800,Prishtina e Re,Behari,7,1,,,,0
-1701946800,KF Ulpiana,Vjosa,1,2,,,,0
-1702033200,Dinamo Ferizaj,Vushtrria,1,0,,,,0
-1706961600,Vjosa,2 Korriku,4,1,,,,0
-1706961600,Suhareka,Prishtina e Re,3,1,,,,0
-1706961600,Gjilani,Prishtina,0,0,Pen,0,1,0
-1706961600,Feronikeli,Malisheva,1,3,,,,0
-1707048000,Trepca 89,KF Llapi,2,2,AET,4,3,0
-1707048000,FC Ballkani,Vellaznimi,1,0,,,,0
-1707048000,Dukagjini,Dinamo Ferizaj,1,0,,,,0
-1707048000,Drita,Rilindja,3,0,,,,0
-1709726400,Prishtina,Trepca 89,5,1,,,,0
-1709726400,Dukagjini,Drita,0,0,Pen,0,1,0
-1709812800,Vjosa,Suhareka,0,1,,,,0
-1709812800,Malisheva,FC Ballkani,0,3,,,,0
-1712149200,Suhareka,FC Ballkani,0,1,,,,0
-1712149200,Prishtina,Drita,0,0,,,,0
-1713963600,FC Ballkani,Suhareka,2,2,,,,0
-1713963600,Drita,Prishtina,0,0,AET,0,1,0
-1716382800,FC Ballkani,Prishtina,2,2,Pen,3,2,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1701774000,Malisheva,Kika,GlZoDEhC,Qy0aDFAm,3,2,,,,0
+1701774000,KF Llapi,Phoenix Banje,0nUxLTUs,jmw2pjT8,4,1,,,,0
+1701860400,Vllaznia Pozheran,Trepca 89,vZMusU51,UTS9Qru3,2,4,,,,0
+1701860400,Vellaznimi,Ferizaj,KtWhArAg,614g3exf,2,1,,,,0
+1701860400,Ramiz Sadiku,Gjilani,hIAbDzBo,bTGS2SK0,1,3,,,,0
+1701860400,Rahoveci,Prishtina,06Y4RDSk,WYS0PwEj,0,2,,,,0
+1701860400,Liria,Rilindja,pbSUCRoq,SK4bIiZg,2,2,Pen,2,3,0
+1701860400,Fushe Kosova,2 Korriku,pvIKZGji,2TgamYuE,1,3,,,,0
+1701860400,Flamurtari,Dukagjini,jo6FMO7U,xYhfP1f5,0,3,,,,0
+1701860400,Feronikeli,Istogu,Shb6oJcl,rcGIhuMU,2,0,,,,0
+1701860400,Drenica,FC Ballkani,0End9Hsj,8Ce4Unrd,0,2,,,,0
+1701860400,Dardania,Drita,GU8ySbKA,pQYARHdo,0,9,,,,0
+1701946800,Suhareka,Trepca Mitrovice,OSDHDuZB,dA9Dhnsn,2,0,,,,0
+1701946800,Prishtina e Re,Behari,ILJxbLre,0jnSJeW9,7,1,,,,0
+1701946800,KF Ulpiana,Vjosa,WrUSA5rl,2qhVVn7E,1,2,,,,0
+1702033200,Dinamo Ferizaj,Vushtrria,OnWo0DoT,WE4tuyNt,1,0,,,,0
+1706961600,Vjosa,2 Korriku,2qhVVn7E,2TgamYuE,4,1,,,,0
+1706961600,Suhareka,Prishtina e Re,OSDHDuZB,ILJxbLre,3,1,,,,0
+1706961600,Gjilani,Prishtina,bTGS2SK0,WYS0PwEj,0,0,Pen,0,1,0
+1706961600,Feronikeli,Malisheva,Shb6oJcl,GlZoDEhC,1,3,,,,0
+1707048000,Trepca 89,KF Llapi,UTS9Qru3,0nUxLTUs,2,2,AET,4,3,0
+1707048000,FC Ballkani,Vellaznimi,8Ce4Unrd,KtWhArAg,1,0,,,,0
+1707048000,Dukagjini,Dinamo Ferizaj,xYhfP1f5,OnWo0DoT,1,0,,,,0
+1707048000,Drita,Rilindja,pQYARHdo,SK4bIiZg,3,0,,,,0
+1709726400,Prishtina,Trepca 89,WYS0PwEj,UTS9Qru3,5,1,,,,0
+1709726400,Dukagjini,Drita,xYhfP1f5,pQYARHdo,0,0,Pen,0,1,0
+1709812800,Vjosa,Suhareka,2qhVVn7E,OSDHDuZB,0,1,,,,0
+1709812800,Malisheva,FC Ballkani,GlZoDEhC,8Ce4Unrd,0,3,,,,0
+1712149200,Suhareka,FC Ballkani,OSDHDuZB,8Ce4Unrd,0,1,,,,0
+1712149200,Prishtina,Drita,WYS0PwEj,pQYARHdo,0,0,,,,0
+1713963600,FC Ballkani,Suhareka,8Ce4Unrd,OSDHDuZB,2,2,,,,0
+1713963600,Drita,Prishtina,pQYARHdo,WYS0PwEj,0,0,AET,0,1,0
+1716382800,FC Ballkani,Prishtina,8Ce4Unrd,WYS0PwEj,2,2,Pen,3,2,1

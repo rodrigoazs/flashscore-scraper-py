@@ -1,23 +1,23 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1695549600,Tampines,Young Lions,5,0,,,,0
-1695549600,DPMM,Albirex Niigata,1,1,,,,1
-1695642300,Tanjong Pagar,Hougang,2,1,,,,0
-1695642300,Balestier Khalsa,Lion City,0,7,,,,0
-1695987900,DPMM,Tampines,1,0,,,,1
-1695987900,Albirex Niigata,Geylang,1,2,,,,0
-1697882400,Lion City,Tanjong Pagar,4,1,,,,0
-1697882400,Hougang,Balestier Khalsa,3,2,,,,0
-1697968800,Geylang,DPMM,1,4,,,,0
-1697968800,Albirex Niigata,Young Lions,2,0,,,,0
-1699092000,Young Lions,DPMM,0,1,,,,0
-1699092000,Tampines,Geylang,3,1,,,,0
-1700906400,Hougang,Lion City,1,1,,,,0
-1700906400,Balestier Khalsa,Tanjong Pagar,7,2,,,,0
-1700992800,Geylang,Young Lions,2,4,,,,0
-1700992800,Albirex Niigata,Tampines,1,1,,,,0
-1701597600,Tampines,Lion City,3,3,,,,0
-1701597600,Hougang,DPMM,1,0,,,,0
-1701863100,Lion City,Tampines,3,0,,,,0
-1701863100,DPMM,Hougang,0,2,,,,0
-1702112400,Tampines,DPMM,2,0,,,,0
-1702123200,Lion City,Hougang,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1695549600,Tampines,Young Lions,d0hl69s2,jqXAnX3e,5,0,,,,0
+1695549600,DPMM,Albirex Niigata,nP3yiII0,MkSbZgY3,1,1,,,,1
+1695642300,Tanjong Pagar,Hougang,bwrRv2m2,4fcEsivK,2,1,,,,0
+1695642300,Balestier Khalsa,Lion City,MZaTAD0m,pW3pRTln,0,7,,,,0
+1695987900,DPMM,Tampines,nP3yiII0,d0hl69s2,1,0,,,,1
+1695987900,Albirex Niigata,Geylang,MkSbZgY3,df9tRVup,1,2,,,,0
+1697882400,Lion City,Tanjong Pagar,pW3pRTln,bwrRv2m2,4,1,,,,0
+1697882400,Hougang,Balestier Khalsa,4fcEsivK,MZaTAD0m,3,2,,,,0
+1697968800,Geylang,DPMM,df9tRVup,nP3yiII0,1,4,,,,0
+1697968800,Albirex Niigata,Young Lions,MkSbZgY3,jqXAnX3e,2,0,,,,0
+1699092000,Young Lions,DPMM,jqXAnX3e,nP3yiII0,0,1,,,,0
+1699092000,Tampines,Geylang,d0hl69s2,df9tRVup,3,1,,,,0
+1700906400,Hougang,Lion City,4fcEsivK,pW3pRTln,1,1,,,,0
+1700906400,Balestier Khalsa,Tanjong Pagar,MZaTAD0m,bwrRv2m2,7,2,,,,0
+1700992800,Geylang,Young Lions,df9tRVup,jqXAnX3e,2,4,,,,0
+1700992800,Albirex Niigata,Tampines,MkSbZgY3,d0hl69s2,1,1,,,,0
+1701597600,Tampines,Lion City,d0hl69s2,pW3pRTln,3,3,,,,0
+1701597600,Hougang,DPMM,4fcEsivK,nP3yiII0,1,0,,,,0
+1701863100,Lion City,Tampines,pW3pRTln,d0hl69s2,3,0,,,,0
+1701863100,DPMM,Hougang,nP3yiII0,4fcEsivK,0,2,,,,0
+1702112400,Tampines,DPMM,d0hl69s2,nP3yiII0,2,0,,,,0
+1702123200,Lion City,Hougang,pW3pRTln,4fcEsivK,3,1,,,,0

@@ -1,30 +1,30 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1373140800,AD Santos,Limon,2,0,,,,0
-1373227200,San Jose FC,Cartagines,1,3,,,,0
-1373227200,Puntarenas FC,CS Uruguay,1,1,,,,0
-1373227200,Puma Generalena,Zeledon,2,3,,,,0
-1373227200,Limon Black Star,Alajuelense,2,1,,,,0
-1373227200,Jaco Rays,Herediano,1,0,,,,0
-1373227200,Guanacasteca,Saprissa,0,1,,,,0
-1373227200,Belen,Carmelita,1,2,,,,0
-1373572800,Zeledon,Puma Generalena,0,4,,,,0
-1373572800,Saprissa,Guanacasteca,3,0,,,,0
-1373572800,Herediano,Jaco Rays,3,2,Pen,3,3,0
-1373572800,CS Uruguay,Puntarenas FC,2,2,Pen,3,2,0
-1373572800,Carmelita,Belen,1,2,Pen,2,2,0
-1373659200,Limon,AD Santos,2,1,,,,0
-1373659200,Cartagines,San Jose FC,2,2,,,,0
-1373659200,Alajuelense,Limon Black Star,3,1,,,,0
-1373832000,Jaco Rays,Puma Generalena,1,1,,,,0
-1373832000,CS Uruguay,Saprissa,1,4,,,,0
-1373832000,Carmelita,Alajuelense,1,1,,,,0
-1374177600,Saprissa,CS Uruguay,2,1,,,,0
-1374177600,AD Santos,Cartagines,1,1,,,,0
-1374436800,Puma Generalena,Jaco Rays,0,2,,,,0
-1374436800,Cartagines,AD Santos,4,2,,,,0
-1374436800,Alajuelense,Carmelita,1,2,,,,0
-1374782400,Jaco Rays,Carmelita,1,2,,,,0
-1374782400,Cartagines,Saprissa,1,1,,,,0
-1375041600,Carmelita,Jaco Rays,1,1,,,,0
-1375387200,Saprissa,Cartagines,2,2,Pen,3,2,0
-1375646400,Carmelita,Saprissa,0,0,Pen,0,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1373140800,AD Santos,Limon,zPYfw7JB,AkmfvgCf,2,0,,,,0
+1373227200,San Jose FC,Cartagines,ILyjq9ip,YB0DoGZt,1,3,,,,0
+1373227200,Puntarenas FC,CS Uruguay,z1YXka2H,Y9L9uDAq,1,1,,,,0
+1373227200,Puma Generalena,Zeledon,z5lWWNk2,YB0DoGZt,2,3,,,,0
+1373227200,Limon Black Star,Alajuelense,ltnbwDR0,4v3Y4ReF,2,1,,,,0
+1373227200,Jaco Rays,Herediano,0GHGAd9r,zJ9gvDHG,1,0,,,,0
+1373227200,Guanacasteca,Saprissa,W2jaDLZ8,tnwDCzLD,0,1,,,,0
+1373227200,Belen,Carmelita,86CUQIrb,pM8Qrp2m,1,2,,,,0
+1373572800,Zeledon,Puma Generalena,YB0DoGZt,z5lWWNk2,0,4,,,,0
+1373572800,Saprissa,Guanacasteca,tnwDCzLD,W2jaDLZ8,3,0,,,,0
+1373572800,Herediano,Jaco Rays,zJ9gvDHG,0GHGAd9r,3,2,Pen,3,3,0
+1373572800,CS Uruguay,Puntarenas FC,Y9L9uDAq,z1YXka2H,2,2,Pen,3,2,0
+1373572800,Carmelita,Belen,pM8Qrp2m,86CUQIrb,1,2,Pen,2,2,0
+1373659200,Limon,AD Santos,AkmfvgCf,zPYfw7JB,2,1,,,,0
+1373659200,Cartagines,San Jose FC,YB0DoGZt,ILyjq9ip,2,2,,,,0
+1373659200,Alajuelense,Limon Black Star,4v3Y4ReF,ltnbwDR0,3,1,,,,0
+1373832000,Jaco Rays,Puma Generalena,0GHGAd9r,z5lWWNk2,1,1,,,,0
+1373832000,CS Uruguay,Saprissa,Y9L9uDAq,tnwDCzLD,1,4,,,,0
+1373832000,Carmelita,Alajuelense,pM8Qrp2m,4v3Y4ReF,1,1,,,,0
+1374177600,Saprissa,CS Uruguay,tnwDCzLD,Y9L9uDAq,2,1,,,,0
+1374177600,AD Santos,Cartagines,zPYfw7JB,YB0DoGZt,1,1,,,,0
+1374436800,Puma Generalena,Jaco Rays,z5lWWNk2,0GHGAd9r,0,2,,,,0
+1374436800,Cartagines,AD Santos,YB0DoGZt,zPYfw7JB,4,2,,,,0
+1374436800,Alajuelense,Carmelita,4v3Y4ReF,pM8Qrp2m,1,2,,,,0
+1374782400,Jaco Rays,Carmelita,0GHGAd9r,pM8Qrp2m,1,2,,,,0
+1374782400,Cartagines,Saprissa,YB0DoGZt,tnwDCzLD,1,1,,,,0
+1375041600,Carmelita,Jaco Rays,pM8Qrp2m,0GHGAd9r,1,1,,,,0
+1375387200,Saprissa,Cartagines,tnwDCzLD,YB0DoGZt,2,2,Pen,3,2,0
+1375646400,Carmelita,Saprissa,pM8Qrp2m,tnwDCzLD,0,0,Pen,0,1,0

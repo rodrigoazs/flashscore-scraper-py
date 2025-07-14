@@ -1,28 +1,28 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1036450800,Tapioszentmarton,Ujpest,1,0,,,,0
-1036450800,Szolnoki MAV,Nyiregyhaza,2,1,,,,0
-1036450800,Szekszardi,Videoton,1,2,,,,0
-1036450800,Sumeg,Haladas,1,2,,,,0
-1036450800,Sarvari,Zalaegerszegi,1,1,AET,1,2,0
-1036450800,Oroshaza,BKV Elore,0,1,,,,0
-1036450800,Marcali,Dunaujvaros FC,0,4,,,,0
-1036450800,Lombard Papa,Ferencvaros,2,2,AET,2,3,0
-1036450800,Foti,Sopron,1,2,,,,0
-1036450800,DVTK,Siofok,0,0,AET,0,1,0
-1036450800,Bodajk,Debrecen,0,3,,,,0
-1036450800,Balatonlelle,Gyor,2,3,,,,0
-1038310200,Kaposvar,Ferencvaros,1,1,Pen,1,2,0
-1038319200,Sopron,Bekescsaba 1912,1,0,,,,0
-1038396600,Zalaegerszegi,Gyor,5,2,,,,0
-1038396600,Tapioszentmarton,MTK Budapest,0,2,,,,0
-1038396600,Szolnoki MAV,Debrecen,0,1,,,,0
-1038396600,BKV Elore,Videoton,2,1,,,,0
-1038412800,Honved,Dunaujvaros FC,1,2,,,,0
-1038412800,Haladas,Siofok,1,2,,,,0
-1046790000,MTK Budapest,Dunaujvaros FC,3,2,,,,0
-1046797200,Ferencvaros,Zalaegerszegi,2,0,,,,0
-1046869200,Debrecen,Sopron,2,0,,,,0
-1046869200,BKV Elore,Siofok,1,1,Pen,2,1,0
-1050422400,Debrecen,MTK Budapest,6,1,,,,0
-1050508800,BKV Elore,Ferencvaros,1,2,,,,0
-1052235000,Ferencvaros,Debrecen,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1036450800,Tapioszentmarton,Ujpest,,fRhD1w4R,1,0,,,,0
+1036450800,Szolnoki MAV,Nyiregyhaza,hEhfZQIn,pxcIObkB,2,1,,,,0
+1036450800,Szekszardi,Videoton,86SIp0t9,r9YXWu9h,1,2,,,,0
+1036450800,Sumeg,Haladas,,Gxgti1jl,1,2,,,,0
+1036450800,Sarvari,Zalaegerszegi,WfOXlfgl,K6VrDp5l,1,1,AET,1,2,0
+1036450800,Oroshaza,BKV Elore,j1A6VkgC,dY9d4gsj,0,1,,,,0
+1036450800,Marcali,Dunaujvaros FC,rLM731BF,xnMFZ4MP,0,4,,,,0
+1036450800,Lombard Papa,Ferencvaros,IP5ctvAE,U3aHptUA,2,2,AET,2,3,0
+1036450800,Foti,Sopron,,QHmm1BRu,1,2,,,,0
+1036450800,DVTK,Siofok,QwVphY9e,jNsOhlxL,0,0,AET,0,1,0
+1036450800,Bodajk,Debrecen,GjAiJaeR,CMHdHsML,0,3,,,,0
+1036450800,Balatonlelle,Gyor,hrj9DTGD,E54OB8CP,2,3,,,,0
+1038310200,Kaposvar,Ferencvaros,vZ6gsKf8,U3aHptUA,1,1,Pen,1,2,0
+1038319200,Sopron,Bekescsaba 1912,QHmm1BRu,EwC2WVw6,1,0,,,,0
+1038396600,Zalaegerszegi,Gyor,K6VrDp5l,E54OB8CP,5,2,,,,0
+1038396600,Tapioszentmarton,MTK Budapest,,06r6gWo9,0,2,,,,0
+1038396600,Szolnoki MAV,Debrecen,hEhfZQIn,CMHdHsML,0,1,,,,0
+1038396600,BKV Elore,Videoton,dY9d4gsj,r9YXWu9h,2,1,,,,0
+1038412800,Honved,Dunaujvaros FC,0bbECxUd,xnMFZ4MP,1,2,,,,0
+1038412800,Haladas,Siofok,Gxgti1jl,jNsOhlxL,1,2,,,,0
+1046790000,MTK Budapest,Dunaujvaros FC,06r6gWo9,xnMFZ4MP,3,2,,,,0
+1046797200,Ferencvaros,Zalaegerszegi,U3aHptUA,K6VrDp5l,2,0,,,,0
+1046869200,Debrecen,Sopron,CMHdHsML,QHmm1BRu,2,0,,,,0
+1046869200,BKV Elore,Siofok,dY9d4gsj,jNsOhlxL,1,1,Pen,2,1,0
+1050422400,Debrecen,MTK Budapest,CMHdHsML,06r6gWo9,6,1,,,,0
+1050508800,BKV Elore,Ferencvaros,dY9d4gsj,U3aHptUA,1,2,,,,0
+1052235000,Ferencvaros,Debrecen,U3aHptUA,CMHdHsML,2,1,,,,0

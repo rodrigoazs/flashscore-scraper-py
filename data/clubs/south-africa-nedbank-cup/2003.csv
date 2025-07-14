@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1048354200,Rysderdal Aces,Blackburn,2,0,,,,0
-1048354200,Kaizer Chiefs,Ikapa Sporting,5,0,,,,0
-1048354200,Golden Arrows,Jomo Cosmos,0,2,,,,0
-1048354200,Ennerdale Arcadia,Alexandra United,1,4,,,,0
-1048354200,Cape Town Spurs,Dynamos,3,1,,,,0
-1048354200,Black Leopards,Moroka Swallows,3,0,,,,0
-1048354200,African Wanderers,FC Fortune,5,2,,,,0
-1048440600,Winners Park,Platinum Stars,2,0,,,,0
-1048440600,Santos,Bidvest Wits,2,1,,,,0
-1048440600,Royal AM,AmaZulu,2,1,,,,0
-1048440600,Roses United,Maholosiane,1,3,,,,0
-1048440600,Orlando Pirates,Province,2,1,,,,0
-1048440600,Mamelodi Sundowns,Young Pirates,5,0,,,,0
-1048440600,Leicester City,William Pescod,3,1,,,,0
-1048440600,Hellenic FC,Park United,2,0,,,,0
-1048699800,Manning Rangers,Supersport Utd,0,1,,,,0
-1049301000,Mamelodi Sundowns,Supersport Utd,2,1,,,,0
-1049560200,Royal AM,Rysderdal Aces,4,0,,,,0
-1049560200,Platinum Stars,Orlando Pirates,2,0,,,,0
-1049560200,Hellenic FC,Black Leopards,2,1,,,,0
-1049646600,Maholosiane,Alexandra United,1,1,Pen,1,2,0
-1049646600,Leicester City,Jomo Cosmos,1,4,,,,0
-1049646600,Cape Town Spurs,Kaizer Chiefs,0,0,Pen,1,0,0
-1049905800,Santos,African Wanderers,1,0,,,,0
-1050769800,Platinum Stars,Jomo Cosmos,1,2,,,,0
-1050769800,Hellenic FC,Santos,0,2,,,,0
-1050856200,Royal AM,Mamelodi Sundowns,2,1,,,,0
-1050856200,Alexandra United,Cape Town Spurs,1,3,,,,0
-1052584200,Royal AM,Santos,0,3,,,,0
-1052670600,Cape Town Spurs,Jomo Cosmos,2,0,,,,0
-1054398600,Santos,Cape Town Spurs,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1048354200,Rysderdal Aces,Blackburn,,dp0XifTb,2,0,,,,0
+1048354200,Kaizer Chiefs,Ikapa Sporting,MeBJ238q,,5,0,,,,0
+1048354200,Golden Arrows,Jomo Cosmos,8l3GGez7,8l3GGez7,0,2,,,,0
+1048354200,Ennerdale Arcadia,Alexandra United,,,1,4,,,,0
+1048354200,Cape Town Spurs,Dynamos,QJM4feF8,nuAqtRls,3,1,,,,0
+1048354200,Black Leopards,Moroka Swallows,8l3GGez7,tWjTbMwC,3,0,,,,0
+1048354200,African Wanderers,FC Fortune,,,5,2,,,,0
+1048440600,Winners Park,Platinum Stars,,p6867egJ,2,0,,,,0
+1048440600,Santos,Bidvest Wits,nu2KFFkD,8hmaPcYe,2,1,,,,0
+1048440600,Royal AM,AmaZulu,nu2KFFkD,6Fg6xWE0,2,1,,,,0
+1048440600,Roses United,Maholosiane,2i2z6GTq,,1,3,,,,0
+1048440600,Orlando Pirates,Province,KAV9ypMU,,2,1,,,,0
+1048440600,Mamelodi Sundowns,Young Pirates,x2G2Q2c3,,5,0,,,,0
+1048440600,Leicester City,William Pescod,,,3,1,,,,0
+1048440600,Hellenic FC,Park United,AXR6QNOu,,2,0,,,,0
+1048699800,Manning Rangers,Supersport Utd,,4UX5t7jk,0,1,,,,0
+1049301000,Mamelodi Sundowns,Supersport Utd,x2G2Q2c3,4UX5t7jk,2,1,,,,0
+1049560200,Royal AM,Rysderdal Aces,nu2KFFkD,,4,0,,,,0
+1049560200,Platinum Stars,Orlando Pirates,p6867egJ,KAV9ypMU,2,0,,,,0
+1049560200,Hellenic FC,Black Leopards,AXR6QNOu,8l3GGez7,2,1,,,,0
+1049646600,Maholosiane,Alexandra United,,,1,1,Pen,1,2,0
+1049646600,Leicester City,Jomo Cosmos,,8l3GGez7,1,4,,,,0
+1049646600,Cape Town Spurs,Kaizer Chiefs,QJM4feF8,MeBJ238q,0,0,Pen,1,0,0
+1049905800,Santos,African Wanderers,nu2KFFkD,,1,0,,,,0
+1050769800,Platinum Stars,Jomo Cosmos,p6867egJ,8l3GGez7,1,2,,,,0
+1050769800,Hellenic FC,Santos,AXR6QNOu,nu2KFFkD,0,2,,,,0
+1050856200,Royal AM,Mamelodi Sundowns,nu2KFFkD,x2G2Q2c3,2,1,,,,0
+1050856200,Alexandra United,Cape Town Spurs,,QJM4feF8,1,3,,,,0
+1052584200,Royal AM,Santos,nu2KFFkD,nu2KFFkD,0,3,,,,0
+1052670600,Cape Town Spurs,Jomo Cosmos,QJM4feF8,8l3GGez7,2,0,,,,0
+1054398600,Santos,Cape Town Spurs,nu2KFFkD,QJM4feF8,2,0,,,,0

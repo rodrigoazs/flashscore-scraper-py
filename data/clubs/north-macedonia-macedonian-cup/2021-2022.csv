@@ -1,30 +1,30 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1631710800,Voska Sport,Bregalnica Stip,0,1,,,,0
-1631710800,Sloga Vinica,Rabotnicki,0,3,,,,0
-1631710800,Sasa,Struga,0,2,,,,0
-1631710800,Pobeda,Vardar,1,1,Pen,1,2,0
-1631710800,Novaci,Tikves,0,2,,,,0
-1631710800,Lok. Gradsko,Ohrid,0,2,,,,0
-1631710800,Ljuboten,Pelister,0,9,,,,0
-1631710800,Gostivar,Renova,0,4,,,,0
-1631710800,FK Korab,Belasica,1,2,,,,0
-1631710800,Detonit Plackovica,Makedonija GP,0,3,,,,0
-1631710800,Besa 1976,FK Skopje,1,1,Pen,1,2,0
-1632315600,Veleshta,Shkupi,0,1,,,,0
-1632315600,New Stars,Borec,1,4,,,,0
-1632315600,FK Pehchevo,Shkendija,0,2,,,,0
-1634731200,Vardar,FK Skopje,0,0,Pen,1,0,0
-1634731200,Struga,Borec,1,1,Pen,2,1,0
-1634731200,Shkupi,Tikves,1,0,,,,0
-1634731200,Shkendija,Renova,5,0,,,,0
-1634731200,Pelister,Rabotnicki,0,0,Pen,1,0,0
-1634731200,Brera Strumica,Makedonija GP,1,1,Pen,1,2,0
-1634731200,Bregalnica Stip,Ohrid,4,0,,,,0
-1634731200,Belasica,Sileks,2,4,,,,0
-1638360000,Sileks,Bregalnica Stip,1,1,Pen,2,1,0
-1638360000,Shkendija,Struga,0,0,Pen,0,1,0
-1638360000,Makedonija GP,Shkupi,0,0,Pen,1,0,0
-1639569600,Pelister,Vardar,0,0,Pen,1,0,0
-1650463200,Struga,Makedonija GP,0,0,Pen,0,1,0
-1650463200,Pelister,Sileks,0,1,,,,0
-1653062400,Makedonija GP,Sileks,0,0,Pen,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1631710800,Voska Sport,Bregalnica Stip,UBq7SsrN,86OeMIIr,0,1,,,,0
+1631710800,Sloga Vinica,Rabotnicki,SIuckohI,Cdxq7Y31,0,3,,,,0
+1631710800,Sasa,Struga,8xXXQdJT,b7VCRENs,0,2,,,,0
+1631710800,Pobeda,Vardar,8lHNgCuQ,86OeMIIr,1,1,Pen,1,2,0
+1631710800,Novaci,Tikves,GErSfHt1,pzWJOM6s,0,2,,,,0
+1631710800,Lok. Gradsko,Ohrid,z1rugXZT,UuidxQyg,0,2,,,,0
+1631710800,Ljuboten,Pelister,hCeuVAIr,2JKzUeUK,0,9,,,,0
+1631710800,Gostivar,Renova,E3JIMV6l,WrjrBuU2,0,4,,,,0
+1631710800,FK Korab,Belasica,bPpzQK5j,fFzddrH7,1,2,,,,0
+1631710800,Detonit Plackovica,Makedonija GP,zHYvR1li,n5NSVHa8,0,3,,,,0
+1631710800,Besa 1976,FK Skopje,CYs2VvIL,pCTkNqKp,1,1,Pen,1,2,0
+1632315600,Veleshta,Shkupi,l6ej9Mcm,CIHFv9fg,0,1,,,,0
+1632315600,New Stars,Borec,IkRoFtnD,6DWdsjIR,1,4,,,,0
+1632315600,FK Pehchevo,Shkendija,4I79f3m8,f3OURrqn,0,2,,,,0
+1634731200,Vardar,FK Skopje,86OeMIIr,pCTkNqKp,0,0,Pen,1,0,0
+1634731200,Struga,Borec,b7VCRENs,6DWdsjIR,1,1,Pen,2,1,0
+1634731200,Shkupi,Tikves,CIHFv9fg,pzWJOM6s,1,0,,,,0
+1634731200,Shkendija,Renova,f3OURrqn,WrjrBuU2,5,0,,,,0
+1634731200,Pelister,Rabotnicki,2JKzUeUK,Cdxq7Y31,0,0,Pen,1,0,0
+1634731200,Brera Strumica,Makedonija GP,l2cVHkio,n5NSVHa8,1,1,Pen,1,2,0
+1634731200,Bregalnica Stip,Ohrid,86OeMIIr,UuidxQyg,4,0,,,,0
+1634731200,Belasica,Sileks,fFzddrH7,Ys5PBeU0,2,4,,,,0
+1638360000,Sileks,Bregalnica Stip,Ys5PBeU0,86OeMIIr,1,1,Pen,2,1,0
+1638360000,Shkendija,Struga,f3OURrqn,b7VCRENs,0,0,Pen,0,1,0
+1638360000,Makedonija GP,Shkupi,n5NSVHa8,CIHFv9fg,0,0,Pen,1,0,0
+1639569600,Pelister,Vardar,2JKzUeUK,86OeMIIr,0,0,Pen,1,0,0
+1650463200,Struga,Makedonija GP,b7VCRENs,n5NSVHa8,0,0,Pen,0,1,0
+1650463200,Pelister,Sileks,2JKzUeUK,Ys5PBeU0,0,1,,,,0
+1653062400,Makedonija GP,Sileks,n5NSVHa8,Ys5PBeU0,0,0,Pen,1,0,0

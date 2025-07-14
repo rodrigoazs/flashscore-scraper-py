@@ -1,76 +1,76 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1379165400,Psachna,Panegialios FC,1,1,AET,2,1,0
-1379165400,Kalamaria,Zakynthos,3,0,Awrd,,,0
-1379174400,O. Volos,Panachaiki,2,0,,,,0
-1379250000,Vyzas FC,AO Chania,1,2,,,,0
-1379250000,Tyrnavos,Iraklis 1908,1,1,Pen,1,2,0
-1379250000,Serres,Niki Volos,1,2,,,,0
-1379250000,Pierikos,Vataniakos,3,0,,,,0
-1379250000,Magoulas,Episkopi,2,1,,,,0
-1379250000,Karditsa,Kavala,3,2,,,,0
-1379250000,Fokikos FC,Acharnaikos,1,1,AET,2,1,0
-1379250000,AS Giannitsa,Aiginiakos,2,2,AET,2,3,0
-1379259000,Glyfada,Athens Kallithea,0,1,,,,0
-1379509200,Kerkyra,Doxa Dramas,1,1,Pen,3,2,0
-1379509200,AO Paniliakos,Fostiras,1,2,,,,0
-1380112200,Psachna,Veria,3,1,,,,0
-1380112200,Niki Volos,Panthrakikos,2,1,,,,0
-1380112200,Magoulas,Levadiakos,2,1,,,,0
-1380112200,Giannina,Aiginiakos,0,0,,,,0
-1380121200,Olympiacos Piraeus,Fokikos FC,5,1,,,,0
-1380121200,Asteras Tripolis,AO Chania,0,0,,,,0
-1380130200,Panionios,Kalamaria,3,1,,,,0
-1380130200,Panathinaikos,Ergotelis,2,1,,,,0
-1380198600,Pierikos,Kalloni,1,2,,,,0
-1380198600,Kerkyra,Panetolikos,0,1,,,,0
-1380198600,Iraklis 1908,Xanthi FC,1,0,,,,0
-1380198600,Athens Kallithea,OFI Crete,0,1,,,,0
-1380207600,O. Volos,Aris,1,0,,,,0
-1380207600,Fostiras,Atromitos,0,1,,,,0
-1380216600,Platanias FC,Apollon Smyrnis,1,1,,,,0
-1380216600,PAOK,Karditsa,3,0,,,,0
-1383138000,Aiginiakos,Giannina,1,0,,,,0
-1383139800,Panthrakikos,Niki Volos,2,1,Pen,2,2,0
-1383139800,Levadiakos,Magoulas,3,2,,,,0
-1383139800,Kalamaria,Panionios,0,0,,,,0
-1383148800,Ergotelis,Panathinaikos,0,1,,,,0
-1383148800,Apollon Smyrnis,Platanias FC,2,1,,,,0
-1383157800,Karditsa,PAOK,0,1,,,,0
-1383157800,Fokikos FC,Olympiacos Piraeus,3,5,,,,0
-1383222600,Kalloni,Pierikos,2,2,,,,0
-1383226200,Veria,Psachna,2,1,,,,0
-1383226200,Panetolikos,Kerkyra,1,0,,,,0
-1383226200,AO Chania,Asteras Tripolis,0,1,,,,0
-1383235200,Xanthi FC,Iraklis 1908,2,2,,,,0
-1383235200,OFI Crete,Athens Kallithea,1,1,,,,0
-1383244200,Atromitos,Fostiras,7,0,,,,0
-1383244200,Aris,O. Volos,0,0,,,,0
-1386171000,OFI Crete,Kalloni,0,1,,,,0
-1386180000,Panetolikos,Atromitos,0,2,,,,0
-1386257400,Apollon Smyrnis,Niki Volos,3,1,,,,0
-1386266400,Panathinaikos,Psachna,3,0,,,,0
-1389195000,Aiginiakos,Panionios,1,0,,,,0
-1389204000,Olympiacos Piraeus,Asteras Tripolis,4,0,,,,0
-1389281400,O. Volos,Magoulas,2,0,,,,0
-1389290400,Iraklis 1908,PAOK,0,1,,,,0
-1389798000,Psachna,Panathinaikos,0,1,,,,0
-1389808800,Atromitos,Panetolikos,2,0,,,,0
-1389884400,Kalloni,OFI Crete,0,1,AET,0,2,0
-1389895200,Niki Volos,Apollon Smyrnis,1,0,,,,0
-1390402800,PAOK,Iraklis 1908,5,1,,,,0
-1390413600,Asteras Tripolis,Olympiacos Piraeus,0,1,,,,0
-1390489200,Magoulas,O. Volos,1,2,,,,0
-1390500000,Panionios,Aiginiakos,3,0,,,,0
-1391004000,OFI Crete,Panionios,2,0,,,,0
-1391011200,Panathinaikos,O. Volos,4,0,,,,0
-1391018400,Olympiacos Piraeus,Atromitos,0,0,,,,0
-1391104800,PAOK,Apollon Smyrnis,3,0,,,,0
-1392217200,O. Volos,Panathinaikos,1,0,,,,0
-1392228000,Atromitos,Olympiacos Piraeus,1,1,,,,0
-1392303600,Panionios,OFI Crete,1,2,,,,0
-1392314400,Apollon Smyrnis,PAOK,0,3,,,,0
-1395248400,OFI Crete,Panathinaikos,1,0,,,,0
-1396454400,Olympiacos Piraeus,PAOK,2,1,,,,0
-1397656800,Panathinaikos,OFI Crete,1,0,AET,3,0,0
-1397667600,PAOK,Olympiacos Piraeus,1,0,,,,0
-1398531600,PAOK,Panathinaikos,1,4,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1379165400,Psachna,Panegialios FC,4CAL99Ed,SxpC5zp7,1,1,AET,2,1,0
+1379165400,Kalamaria,Zakynthos,pdaFZERg,QJ68Rrzi,3,0,Awrd,,,0
+1379174400,O. Volos,Panachaiki,4pIxMs1T,MqaurgnI,2,0,,,,0
+1379250000,Vyzas FC,AO Chania,tIulntIi,UmBRZVYK,1,2,,,,0
+1379250000,Tyrnavos,Iraklis 1908,ph79Lnbg,2V0U0cEB,1,1,Pen,1,2,0
+1379250000,Serres,Niki Volos,CWj0Zioq,CCM3rL5o,1,2,,,,0
+1379250000,Pierikos,Vataniakos,nPFCDTyl,KnPL1cbF,3,0,,,,0
+1379250000,Magoulas,Episkopi,zNea7BiT,hxNHfEIm,2,1,,,,0
+1379250000,Karditsa,Kavala,ENPn0NrK,8EvGGttj,3,2,,,,0
+1379250000,Fokikos FC,Acharnaikos,bNRfpIwF,nP9CrNRQ,1,1,AET,2,1,0
+1379250000,AS Giannitsa,Aiginiakos,d4MWL4iC,xzM95emj,2,2,AET,2,3,0
+1379259000,Glyfada,Athens Kallithea,hO3TQ5Zp,pv20TE28,0,1,,,,0
+1379509200,Kerkyra,Doxa Dramas,xdDwEC0B,QgTiyJG8,1,1,Pen,3,2,0
+1379509200,AO Paniliakos,Fostiras,EuZLJyTp,KU9NSqCt,1,2,,,,0
+1380112200,Psachna,Veria,4CAL99Ed,fBhYYDfj,3,1,,,,0
+1380112200,Niki Volos,Panthrakikos,CCM3rL5o,MeBb6502,2,1,,,,0
+1380112200,Magoulas,Levadiakos,zNea7BiT,x4qSHSA3,2,1,,,,0
+1380112200,Giannina,Aiginiakos,Ct0X2apU,xzM95emj,0,0,,,,0
+1380121200,Olympiacos Piraeus,Fokikos FC,lzmp9FUJ,bNRfpIwF,5,1,,,,0
+1380121200,Asteras Tripolis,AO Chania,SKrEYwI8,UmBRZVYK,0,0,,,,0
+1380130200,Panionios,Kalamaria,rJD60RuT,pdaFZERg,3,1,,,,0
+1380130200,Panathinaikos,Ergotelis,GM4Cu0wi,63P4RnDE,2,1,,,,0
+1380198600,Pierikos,Kalloni,nPFCDTyl,Aipk5JL5,1,2,,,,0
+1380198600,Kerkyra,Panetolikos,xdDwEC0B,n3f8T6c2,0,1,,,,0
+1380198600,Iraklis 1908,Xanthi FC,2V0U0cEB,KOjUYEZE,1,0,,,,0
+1380198600,Athens Kallithea,OFI Crete,pv20TE28,hOZ2RkTP,0,1,,,,0
+1380207600,O. Volos,Aris,4pIxMs1T,0E6BYcd0,1,0,,,,0
+1380207600,Fostiras,Atromitos,KU9NSqCt,2ahZzWpF,0,1,,,,0
+1380216600,Platanias FC,Apollon Smyrnis,G2rer9h7,r98VPCRj,1,1,,,,0
+1380216600,PAOK,Karditsa,pvWT1yik,ENPn0NrK,3,0,,,,0
+1383138000,Aiginiakos,Giannina,xzM95emj,Ct0X2apU,1,0,,,,0
+1383139800,Panthrakikos,Niki Volos,MeBb6502,CCM3rL5o,2,1,Pen,2,2,0
+1383139800,Levadiakos,Magoulas,x4qSHSA3,zNea7BiT,3,2,,,,0
+1383139800,Kalamaria,Panionios,pdaFZERg,rJD60RuT,0,0,,,,0
+1383148800,Ergotelis,Panathinaikos,63P4RnDE,GM4Cu0wi,0,1,,,,0
+1383148800,Apollon Smyrnis,Platanias FC,r98VPCRj,G2rer9h7,2,1,,,,0
+1383157800,Karditsa,PAOK,ENPn0NrK,pvWT1yik,0,1,,,,0
+1383157800,Fokikos FC,Olympiacos Piraeus,bNRfpIwF,lzmp9FUJ,3,5,,,,0
+1383222600,Kalloni,Pierikos,Aipk5JL5,nPFCDTyl,2,2,,,,0
+1383226200,Veria,Psachna,fBhYYDfj,4CAL99Ed,2,1,,,,0
+1383226200,Panetolikos,Kerkyra,n3f8T6c2,xdDwEC0B,1,0,,,,0
+1383226200,AO Chania,Asteras Tripolis,UmBRZVYK,SKrEYwI8,0,1,,,,0
+1383235200,Xanthi FC,Iraklis 1908,KOjUYEZE,2V0U0cEB,2,2,,,,0
+1383235200,OFI Crete,Athens Kallithea,hOZ2RkTP,pv20TE28,1,1,,,,0
+1383244200,Atromitos,Fostiras,2ahZzWpF,KU9NSqCt,7,0,,,,0
+1383244200,Aris,O. Volos,0E6BYcd0,4pIxMs1T,0,0,,,,0
+1386171000,OFI Crete,Kalloni,hOZ2RkTP,Aipk5JL5,0,1,,,,0
+1386180000,Panetolikos,Atromitos,n3f8T6c2,2ahZzWpF,0,2,,,,0
+1386257400,Apollon Smyrnis,Niki Volos,r98VPCRj,CCM3rL5o,3,1,,,,0
+1386266400,Panathinaikos,Psachna,GM4Cu0wi,4CAL99Ed,3,0,,,,0
+1389195000,Aiginiakos,Panionios,xzM95emj,rJD60RuT,1,0,,,,0
+1389204000,Olympiacos Piraeus,Asteras Tripolis,lzmp9FUJ,SKrEYwI8,4,0,,,,0
+1389281400,O. Volos,Magoulas,4pIxMs1T,zNea7BiT,2,0,,,,0
+1389290400,Iraklis 1908,PAOK,2V0U0cEB,pvWT1yik,0,1,,,,0
+1389798000,Psachna,Panathinaikos,4CAL99Ed,GM4Cu0wi,0,1,,,,0
+1389808800,Atromitos,Panetolikos,2ahZzWpF,n3f8T6c2,2,0,,,,0
+1389884400,Kalloni,OFI Crete,Aipk5JL5,hOZ2RkTP,0,1,AET,0,2,0
+1389895200,Niki Volos,Apollon Smyrnis,CCM3rL5o,r98VPCRj,1,0,,,,0
+1390402800,PAOK,Iraklis 1908,pvWT1yik,2V0U0cEB,5,1,,,,0
+1390413600,Asteras Tripolis,Olympiacos Piraeus,SKrEYwI8,lzmp9FUJ,0,1,,,,0
+1390489200,Magoulas,O. Volos,zNea7BiT,4pIxMs1T,1,2,,,,0
+1390500000,Panionios,Aiginiakos,rJD60RuT,xzM95emj,3,0,,,,0
+1391004000,OFI Crete,Panionios,hOZ2RkTP,rJD60RuT,2,0,,,,0
+1391011200,Panathinaikos,O. Volos,GM4Cu0wi,4pIxMs1T,4,0,,,,0
+1391018400,Olympiacos Piraeus,Atromitos,lzmp9FUJ,2ahZzWpF,0,0,,,,0
+1391104800,PAOK,Apollon Smyrnis,pvWT1yik,r98VPCRj,3,0,,,,0
+1392217200,O. Volos,Panathinaikos,4pIxMs1T,GM4Cu0wi,1,0,,,,0
+1392228000,Atromitos,Olympiacos Piraeus,2ahZzWpF,lzmp9FUJ,1,1,,,,0
+1392303600,Panionios,OFI Crete,rJD60RuT,hOZ2RkTP,1,2,,,,0
+1392314400,Apollon Smyrnis,PAOK,r98VPCRj,pvWT1yik,0,3,,,,0
+1395248400,OFI Crete,Panathinaikos,hOZ2RkTP,GM4Cu0wi,1,0,,,,0
+1396454400,Olympiacos Piraeus,PAOK,lzmp9FUJ,pvWT1yik,2,1,,,,0
+1397656800,Panathinaikos,OFI Crete,GM4Cu0wi,hOZ2RkTP,1,0,AET,3,0,0
+1397667600,PAOK,Olympiacos Piraeus,pvWT1yik,lzmp9FUJ,1,0,,,,0
+1398531600,PAOK,Panathinaikos,pvWT1yik,GM4Cu0wi,1,4,,,,1

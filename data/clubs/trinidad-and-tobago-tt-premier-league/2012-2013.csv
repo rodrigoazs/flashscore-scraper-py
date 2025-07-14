@@ -1,85 +1,85 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1347660000,La Horquetta,Defence Force,1,2,,,,0
-1347667200,Morvant Caledonia Utd,Port Of Spain,1,3,,,,0
-1347742800,Police,T&TEC,2,0,,,,0
-1350684000,T&TEC,La Horquetta,3,2,,,,0
-1350691200,W Connection,Morvant Caledonia Utd,1,1,,,,0
-1350766800,Central FC,Police,1,0,,,,0
-1350774000,Defence Force,Port Of Spain,3,3,,,,0
-1351292400,La Horquetta,W Connection,1,2,,,,0
-1351299600,Morvant Caledonia Utd,Defence Force,4,2,,,,0
-1351360800,Central FC,T&TEC,2,1,,,,0
-1351368000,Port Of Spain,Police,1,1,,,,0
-1351893600,Police,Defence Force,0,1,,,,0
-1351900800,W Connection,Port Of Spain,0,0,,,,0
-1351976400,Central FC,La Horquetta,3,2,,,,0
-1351983600,T&TEC,Morvant Caledonia Utd,6,0,,,,0
-1352498400,Police,Morvant Caledonia Utd,1,5,,,,0
-1352505600,Defence Force,Central FC,3,0,,,,0
-1352577600,Port Of Spain,La Horquetta,2,2,,,,0
-1352581200,T&TEC,W Connection,0,7,,,,0
-1355526000,W Connection,Police,1,1,,,,0
-1355616000,Defence Force,T&TEC,3,2,,,,0
-1356127200,Morvant Caledonia Utd,Central FC,5,2,,,,0
-1356138000,Defence Force,W Connection,5,1,,,,0
-1356210000,Police,La Horquetta,2,2,,,,0
-1356217200,T&TEC,Port Of Spain,0,1,,,,0
-1357336800,T&TEC,Police,0,2,,,,0
-1357344000,Defence Force,La Horquetta,8,0,,,,0
-1357423200,Port Of Spain,Morvant Caledonia Utd,0,1,,,,0
-1357430400,Central FC,W Connection,0,3,,,,0
-1357941600,Port Of Spain,Defence Force,0,1,,,,0
-1357948800,Morvant Caledonia Utd,W Connection,0,0,,,,0
-1358024400,T&TEC,La Horquetta,0,1,,,,0
-1358031600,Police,Central FC,0,0,,,,0
-1358546400,W Connection,La Horquetta,2,0,,,,0
-1358553600,Defence Force,Morvant Caledonia Utd,5,1,,,,0
-1358629200,Police,Port Of Spain,1,2,,,,0
-1358636400,T&TEC,Central FC,1,1,,,,0
-1359151200,Defence Force,Police,2,1,,,,0
-1359234000,La Horquetta,Central FC,1,3,,,,0
-1359410400,T&TEC,Morvant Caledonia Utd,0,6,,,,0
-1359417600,Port Of Spain,W Connection,2,0,,,,0
-1359756000,Morvant Caledonia Utd,Police,3,1,,,,0
-1359763200,Central FC,Defence Force,1,1,,,,0
-1359838800,La Horquetta,Port Of Spain,0,0,,,,0
-1359846000,W Connection,T&TEC,3,1,,,,0
-1360972800,W Connection,Defence Force,1,2,,,,0
-1361048400,T&TEC,Port Of Spain,1,3,,,,0
-1361055600,Central FC,Morvant Caledonia Utd,3,2,,,,0
-1361397600,Morvant Caledonia Utd,La Horquetta,2,1,,,,0
-1361404800,W Connection,Central FC,1,0,,,,0
-1361570400,T&TEC,Defence Force,1,1,,,,0
-1361577600,Police,W Connection,2,5,,,,0
-1361653200,La Horquetta,Morvant Caledonia Utd,2,4,,,,0
-1361660400,Central FC,Port Of Spain,2,1,,,,0
-1362002400,La Horquetta,Police,3,3,,,,0
-1362261600,T&TEC,Police,0,3,,,,0
-1362265200,La Horquetta,Defence Force,0,3,,,,0
-1362610800,Port Of Spain,Central FC,0,0,,,,0
-1362780000,T&TEC,La Horquetta,2,0,,,,0
-1362780000,Central FC,Police,4,2,,,,0
-1362787200,W Connection,Morvant Caledonia Utd,0,1,,,,0
-1362787200,Defence Force,Port Of Spain,0,1,,,,0
-1363212000,Morvant Caledonia Utd,Port Of Spain,1,3,,,,0
-1363219200,W Connection,Central FC,1,0,,,,0
-1363384800,W Connection,La Horquetta,3,0,,,,0
-1363392000,Morvant Caledonia Utd,Defence Force,0,0,,,,0
-1363467600,Port Of Spain,Police,2,2,,,,0
-1363467600,Central FC,T&TEC,5,0,,,,0
-1364936400,W Connection,Port Of Spain,0,1,,,,0
-1364936400,La Horquetta,Central FC,1,1,,,,0
-1364940000,Police,Defence Force,0,2,,,,0
-1364947200,Morvant Caledonia Utd,T&TEC,4,1,,,,0
-1365199200,Police,Morvant Caledonia Utd,0,2,,,,0
-1365206400,Defence Force,Central FC,3,0,,,,0
-1365274800,T&TEC,W Connection,0,4,,,,0
-1365274800,Port Of Spain,La Horquetta,1,1,,,,0
-1367877600,W Connection,Defence Force,4,0,,,,0
-1367877600,T&TEC,Port Of Spain,0,5,,,,0
-1367884800,La Horquetta,Police,1,1,,,,0
-1367884800,Central FC,Morvant Caledonia Utd,2,1,,,,0
-1368223200,Port Of Spain,Central FC,1,0,,,,0
-1368223200,Police,W Connection,0,5,,,,0
-1368230400,Morvant Caledonia Utd,La Horquetta,3,0,,,,0
-1368230400,Defence Force,T&TEC,4,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1347660000,La Horquetta,Defence Force,Mc20XpUk,S6Z92CmM,1,2,,,,0
+1347667200,Morvant Caledonia Utd,Port Of Spain,zFs1klv8,Y1V24SLk,1,3,,,,0
+1347742800,Police,T&TEC,0Uj6Ns0S,6LY6vsBh,2,0,,,,0
+1350684000,T&TEC,La Horquetta,6LY6vsBh,Mc20XpUk,3,2,,,,0
+1350691200,W Connection,Morvant Caledonia Utd,zePXmSvq,zFs1klv8,1,1,,,,0
+1350766800,Central FC,Police,6stL8agi,0Uj6Ns0S,1,0,,,,0
+1350774000,Defence Force,Port Of Spain,S6Z92CmM,Y1V24SLk,3,3,,,,0
+1351292400,La Horquetta,W Connection,Mc20XpUk,zePXmSvq,1,2,,,,0
+1351299600,Morvant Caledonia Utd,Defence Force,zFs1klv8,S6Z92CmM,4,2,,,,0
+1351360800,Central FC,T&TEC,6stL8agi,6LY6vsBh,2,1,,,,0
+1351368000,Port Of Spain,Police,Y1V24SLk,0Uj6Ns0S,1,1,,,,0
+1351893600,Police,Defence Force,0Uj6Ns0S,S6Z92CmM,0,1,,,,0
+1351900800,W Connection,Port Of Spain,zePXmSvq,Y1V24SLk,0,0,,,,0
+1351976400,Central FC,La Horquetta,6stL8agi,Mc20XpUk,3,2,,,,0
+1351983600,T&TEC,Morvant Caledonia Utd,6LY6vsBh,zFs1klv8,6,0,,,,0
+1352498400,Police,Morvant Caledonia Utd,0Uj6Ns0S,zFs1klv8,1,5,,,,0
+1352505600,Defence Force,Central FC,S6Z92CmM,6stL8agi,3,0,,,,0
+1352577600,Port Of Spain,La Horquetta,Y1V24SLk,Mc20XpUk,2,2,,,,0
+1352581200,T&TEC,W Connection,6LY6vsBh,zePXmSvq,0,7,,,,0
+1355526000,W Connection,Police,zePXmSvq,0Uj6Ns0S,1,1,,,,0
+1355616000,Defence Force,T&TEC,S6Z92CmM,6LY6vsBh,3,2,,,,0
+1356127200,Morvant Caledonia Utd,Central FC,zFs1klv8,6stL8agi,5,2,,,,0
+1356138000,Defence Force,W Connection,S6Z92CmM,zePXmSvq,5,1,,,,0
+1356210000,Police,La Horquetta,0Uj6Ns0S,Mc20XpUk,2,2,,,,0
+1356217200,T&TEC,Port Of Spain,6LY6vsBh,Y1V24SLk,0,1,,,,0
+1357336800,T&TEC,Police,6LY6vsBh,0Uj6Ns0S,0,2,,,,0
+1357344000,Defence Force,La Horquetta,S6Z92CmM,Mc20XpUk,8,0,,,,0
+1357423200,Port Of Spain,Morvant Caledonia Utd,Y1V24SLk,zFs1klv8,0,1,,,,0
+1357430400,Central FC,W Connection,6stL8agi,zePXmSvq,0,3,,,,0
+1357941600,Port Of Spain,Defence Force,Y1V24SLk,S6Z92CmM,0,1,,,,0
+1357948800,Morvant Caledonia Utd,W Connection,zFs1klv8,zePXmSvq,0,0,,,,0
+1358024400,T&TEC,La Horquetta,6LY6vsBh,Mc20XpUk,0,1,,,,0
+1358031600,Police,Central FC,0Uj6Ns0S,6stL8agi,0,0,,,,0
+1358546400,W Connection,La Horquetta,zePXmSvq,Mc20XpUk,2,0,,,,0
+1358553600,Defence Force,Morvant Caledonia Utd,S6Z92CmM,zFs1klv8,5,1,,,,0
+1358629200,Police,Port Of Spain,0Uj6Ns0S,Y1V24SLk,1,2,,,,0
+1358636400,T&TEC,Central FC,6LY6vsBh,6stL8agi,1,1,,,,0
+1359151200,Defence Force,Police,S6Z92CmM,0Uj6Ns0S,2,1,,,,0
+1359234000,La Horquetta,Central FC,Mc20XpUk,6stL8agi,1,3,,,,0
+1359410400,T&TEC,Morvant Caledonia Utd,6LY6vsBh,zFs1klv8,0,6,,,,0
+1359417600,Port Of Spain,W Connection,Y1V24SLk,zePXmSvq,2,0,,,,0
+1359756000,Morvant Caledonia Utd,Police,zFs1klv8,0Uj6Ns0S,3,1,,,,0
+1359763200,Central FC,Defence Force,6stL8agi,S6Z92CmM,1,1,,,,0
+1359838800,La Horquetta,Port Of Spain,Mc20XpUk,Y1V24SLk,0,0,,,,0
+1359846000,W Connection,T&TEC,zePXmSvq,6LY6vsBh,3,1,,,,0
+1360972800,W Connection,Defence Force,zePXmSvq,S6Z92CmM,1,2,,,,0
+1361048400,T&TEC,Port Of Spain,6LY6vsBh,Y1V24SLk,1,3,,,,0
+1361055600,Central FC,Morvant Caledonia Utd,6stL8agi,zFs1klv8,3,2,,,,0
+1361397600,Morvant Caledonia Utd,La Horquetta,zFs1klv8,Mc20XpUk,2,1,,,,0
+1361404800,W Connection,Central FC,zePXmSvq,6stL8agi,1,0,,,,0
+1361570400,T&TEC,Defence Force,6LY6vsBh,S6Z92CmM,1,1,,,,0
+1361577600,Police,W Connection,0Uj6Ns0S,zePXmSvq,2,5,,,,0
+1361653200,La Horquetta,Morvant Caledonia Utd,Mc20XpUk,zFs1klv8,2,4,,,,0
+1361660400,Central FC,Port Of Spain,6stL8agi,Y1V24SLk,2,1,,,,0
+1362002400,La Horquetta,Police,Mc20XpUk,0Uj6Ns0S,3,3,,,,0
+1362261600,T&TEC,Police,6LY6vsBh,0Uj6Ns0S,0,3,,,,0
+1362265200,La Horquetta,Defence Force,Mc20XpUk,S6Z92CmM,0,3,,,,0
+1362610800,Port Of Spain,Central FC,Y1V24SLk,6stL8agi,0,0,,,,0
+1362780000,T&TEC,La Horquetta,6LY6vsBh,Mc20XpUk,2,0,,,,0
+1362780000,Central FC,Police,6stL8agi,0Uj6Ns0S,4,2,,,,0
+1362787200,W Connection,Morvant Caledonia Utd,zePXmSvq,zFs1klv8,0,1,,,,0
+1362787200,Defence Force,Port Of Spain,S6Z92CmM,Y1V24SLk,0,1,,,,0
+1363212000,Morvant Caledonia Utd,Port Of Spain,zFs1klv8,Y1V24SLk,1,3,,,,0
+1363219200,W Connection,Central FC,zePXmSvq,6stL8agi,1,0,,,,0
+1363384800,W Connection,La Horquetta,zePXmSvq,Mc20XpUk,3,0,,,,0
+1363392000,Morvant Caledonia Utd,Defence Force,zFs1klv8,S6Z92CmM,0,0,,,,0
+1363467600,Port Of Spain,Police,Y1V24SLk,0Uj6Ns0S,2,2,,,,0
+1363467600,Central FC,T&TEC,6stL8agi,6LY6vsBh,5,0,,,,0
+1364936400,W Connection,Port Of Spain,zePXmSvq,Y1V24SLk,0,1,,,,0
+1364936400,La Horquetta,Central FC,Mc20XpUk,6stL8agi,1,1,,,,0
+1364940000,Police,Defence Force,0Uj6Ns0S,S6Z92CmM,0,2,,,,0
+1364947200,Morvant Caledonia Utd,T&TEC,zFs1klv8,6LY6vsBh,4,1,,,,0
+1365199200,Police,Morvant Caledonia Utd,0Uj6Ns0S,zFs1klv8,0,2,,,,0
+1365206400,Defence Force,Central FC,S6Z92CmM,6stL8agi,3,0,,,,0
+1365274800,T&TEC,W Connection,6LY6vsBh,zePXmSvq,0,4,,,,0
+1365274800,Port Of Spain,La Horquetta,Y1V24SLk,Mc20XpUk,1,1,,,,0
+1367877600,W Connection,Defence Force,zePXmSvq,S6Z92CmM,4,0,,,,0
+1367877600,T&TEC,Port Of Spain,6LY6vsBh,Y1V24SLk,0,5,,,,0
+1367884800,La Horquetta,Police,Mc20XpUk,0Uj6Ns0S,1,1,,,,0
+1367884800,Central FC,Morvant Caledonia Utd,6stL8agi,zFs1klv8,2,1,,,,0
+1368223200,Port Of Spain,Central FC,Y1V24SLk,6stL8agi,1,0,,,,0
+1368223200,Police,W Connection,0Uj6Ns0S,zePXmSvq,0,5,,,,0
+1368230400,Morvant Caledonia Utd,La Horquetta,zFs1klv8,Mc20XpUk,3,0,,,,0
+1368230400,Defence Force,T&TEC,S6Z92CmM,6LY6vsBh,4,0,,,,0

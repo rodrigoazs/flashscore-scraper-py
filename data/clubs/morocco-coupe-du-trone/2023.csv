@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1679608800,Taza,Union Touarga,0,2,,,,0
-1679608800,Dcheira,Ittihad Fkih Ben Salah,3,1,,,,0
-1679695200,Widad Temara,RAC Casablanca,0,1,,,,0
-1679781600,USM Oujda,FUS Rabat,1,1,AET,3,1,0
-1679950800,Stade Marocain,Moghreb Tetouan,0,4,,,,0
-1679950800,Mouloudia Oujda,KAC Kenitra,1,1,Pen,2,1,0
-1679950800,FATH Casablanca,Wydad Fes,2,0,,,,0
-1679950800,Amal Tiznit,Adrar Souss,1,0,,,,0
-1680037200,Maghreb Fez,IR Tanger,2,2,Pen,3,2,0
-1680037200,Kawkab Marrakech,Hassania Agadir,1,2,,,,0
-1680123600,Olympique Khouribga,Difaa El Jadidi,2,1,,,,0
-1680123600,Chabab Mohammedia,Youssoufia Berrechid,4,1,,,,0
-1680210000,Renaissance Zemamra,Chabab Benguerir,1,0,,,,0
-1680210000,Raja Casablanca,Olympique de Safi,2,0,,,,0
-1680300000,Wydad,Jeunesse Sportive Soualem,0,1,,,,0
-1680559200,Mouloudia Oujda,RAC Casablanca,1,1,Pen,3,2,0
-1680559200,Amal Tiznit,Dcheira,0,3,,,,0
-1680645600,Hassania Agadir,USM Oujda,2,0,,,,0
-1680645600,FATH Casablanca,Maghreb Fez,0,1,,,,0
-1680732000,Olympique Khouribga,Union Touarga,1,1,Pen,3,2,0
-1680904800,Moghreb Tetouan,Jeunesse Sportive Soualem,1,1,AET,2,1,0
-1680904800,Chabab Mohammedia,Raja Casablanca,0,1,,,,0
-1683054000,Berkane,FAR Rabat,2,2,Pen,2,3,0
-1683565200,FAR Rabat,Renaissance Zemamra,2,1,,,,0
-1683820800,Hassania Agadir,Raja Casablanca,2,4,,,,0
-1683831600,Moghreb Tetouan,Maghreb Fez,2,2,AET,2,4,0
-1684166400,Dcheira,FAR Rabat,1,2,,,,0
-1684177200,Olympique Khouribga,Mouloudia Oujda,0,1,,,,0
-1687546800,Maghreb Fez,FAR Rabat,0,2,,,,0
-1687719600,Raja Casablanca,Mouloudia Oujda,2,2,AET,4,3,0
-1688227200,Raja Casablanca,FAR Rabat,2,1,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1679608800,Taza,Union Touarga,xIUMzPN1,Q1R9dE24,0,2,,,,0
+1679608800,Dcheira,Ittihad Fkih Ben Salah,GpN4dMsj,ruB5gHQJ,3,1,,,,0
+1679695200,Widad Temara,RAC Casablanca,Gtyfdpte,2elNqyL9,0,1,,,,0
+1679781600,USM Oujda,FUS Rabat,Emg2d7aA,W6bUbbPE,1,1,AET,3,1,0
+1679950800,Stade Marocain,Moghreb Tetouan,Cx2k6G6m,bZmYBGs9,0,4,,,,0
+1679950800,Mouloudia Oujda,KAC Kenitra,Cf1jDPLm,fipfTfz0,1,1,Pen,2,1,0
+1679950800,FATH Casablanca,Wydad Fes,2Hua8yLc,ENXum5X8,2,0,,,,0
+1679950800,Amal Tiznit,Adrar Souss,8ExDw68E,lIoZ8ZCO,1,0,,,,0
+1680037200,Maghreb Fez,IR Tanger,KrkUCdS2,bqNV2HgA,2,2,Pen,3,2,0
+1680037200,Kawkab Marrakech,Hassania Agadir,vmWBtCrO,63LcsWgs,1,2,,,,0
+1680123600,Olympique Khouribga,Difaa El Jadidi,j7JNl0QM,W6bUbbPE,2,1,,,,0
+1680123600,Chabab Mohammedia,Youssoufia Berrechid,QgRSIkyp,W6bUbbPE,4,1,,,,0
+1680210000,Renaissance Zemamra,Chabab Benguerir,63LcsWgs,jm50C98H,1,0,,,,0
+1680210000,Raja Casablanca,Olympique de Safi,fLPkADxb,63LcsWgs,2,0,,,,0
+1680300000,Wydad,Jeunesse Sportive Soualem,GSoKqW7o,8WZfae8O,0,1,,,,0
+1680559200,Mouloudia Oujda,RAC Casablanca,Cf1jDPLm,2elNqyL9,1,1,Pen,3,2,0
+1680559200,Amal Tiznit,Dcheira,8ExDw68E,GpN4dMsj,0,3,,,,0
+1680645600,Hassania Agadir,USM Oujda,63LcsWgs,Emg2d7aA,2,0,,,,0
+1680645600,FATH Casablanca,Maghreb Fez,2Hua8yLc,KrkUCdS2,0,1,,,,0
+1680732000,Olympique Khouribga,Union Touarga,j7JNl0QM,Q1R9dE24,1,1,Pen,3,2,0
+1680904800,Moghreb Tetouan,Jeunesse Sportive Soualem,bZmYBGs9,8WZfae8O,1,1,AET,2,1,0
+1680904800,Chabab Mohammedia,Raja Casablanca,QgRSIkyp,fLPkADxb,0,1,,,,0
+1683054000,Berkane,FAR Rabat,xExOnmQQ,EyoH1qCf,2,2,Pen,2,3,0
+1683565200,FAR Rabat,Renaissance Zemamra,EyoH1qCf,63LcsWgs,2,1,,,,0
+1683820800,Hassania Agadir,Raja Casablanca,63LcsWgs,fLPkADxb,2,4,,,,0
+1683831600,Moghreb Tetouan,Maghreb Fez,bZmYBGs9,KrkUCdS2,2,2,AET,2,4,0
+1684166400,Dcheira,FAR Rabat,GpN4dMsj,EyoH1qCf,1,2,,,,0
+1684177200,Olympique Khouribga,Mouloudia Oujda,j7JNl0QM,Cf1jDPLm,0,1,,,,0
+1687546800,Maghreb Fez,FAR Rabat,KrkUCdS2,EyoH1qCf,0,2,,,,0
+1687719600,Raja Casablanca,Mouloudia Oujda,fLPkADxb,Cf1jDPLm,2,2,AET,4,3,0
+1688227200,Raja Casablanca,FAR Rabat,fLPkADxb,EyoH1qCf,2,1,,,,1

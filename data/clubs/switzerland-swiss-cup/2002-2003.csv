@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1036845000,Young Boys II,Delemont,0,2,,,,0
-1036854000,Zurich II,Luzern,0,2,,,,0
-1036859400,Bellinzona,Grasshoppers,1,6,,,,0
-1036859400,Basel II,Xamax,0,2,,,,0
-1036882800,Oberwallis Naters,Munsingen,3,1,,,,0
-1036935000,Solothurn,Young Boys,1,2,,,,0
-1036935000,Schaffhausen,Zurich,2,1,,,,0
-1036935000,Concordia,Servette,0,4,,,,0
-1036935000,Chur,St. Gallen,0,2,,,,0
-1036935000,Baden,Aarau,2,0,,,,0
-1036936800,Chiasso,Lugano,1,3,,,,0
-1036936800,Chenois,Thun,0,1,,,,0
-1036936800,Buochs,Wil,0,0,AET,0,1,0
-1036940400,Grasshopper II,Kriens,2,3,,,,0
-1039026600,La Chaux-De-Fonds,Sion,1,0,,,,0
-1045926000,Yverdon,Basel,0,3,,,,0
-1046005200,Oberwallis Naters,St. Gallen,0,4,,,,0
-1046007000,Young Boys,Delemont,1,0,,,,0
-1046007000,Schaffhausen,Thun,1,1,AET,3,1,0
-1046007000,Lugano,Grasshoppers,0,2,,,,0
-1046007000,La Chaux-De-Fonds,Xamax,0,2,,,,0
-1046007000,Kriens,Wil,1,1,AET,1,2,0
-1046007000,Baden,Luzern,0,2,,,,0
-1046802600,Basel,Servette,2,0,,,,0
-1048701600,Wil,Xamax,0,2,,,,0
-1048703400,Young Boys,Basel,3,3,AET,3,4,0
-1048703400,Luzern,Grasshoppers,1,2,,,,0
-1049029200,Schaffhausen,St. Gallen,1,0,,,,0
-1050430500,Basel,Schaffhausen,3,0,,,,0
-1050516900,Xamax,Grasshoppers,3,2,,,,0
-1052658000,Basel,Xamax,6,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1036845000,Young Boys II,Delemont,GUKTH3Wd,nLy4dj0C,0,2,,,,0
+1036854000,Zurich II,Luzern,zePcViRr,n7K4dyrM,0,2,,,,0
+1036859400,Bellinzona,Grasshoppers,llYv6bVJ,WdBesfPo,1,6,,,,0
+1036859400,Basel II,Xamax,4CKJMz73,ln9wF1MU,0,2,,,,0
+1036882800,Oberwallis Naters,Munsingen,SIqnkxof,OnUEO8s5,3,1,,,,0
+1036935000,Solothurn,Young Boys,Uy18dKhK,KGWqWzzf,1,2,,,,0
+1036935000,Schaffhausen,Zurich,EiyYrUhb,zFgN5luK,2,1,,,,0
+1036935000,Concordia,Servette,beXtRf2l,vJvKsfHT,0,4,,,,0
+1036935000,Chur,St. Gallen,4zq5jCMc,fubIDuh0,0,2,,,,0
+1036935000,Baden,Aarau,63TN1CJD,nLy4dj0C,2,0,,,,0
+1036936800,Chiasso,Lugano,GEbwH8OC,0IhGjVDm,1,3,,,,0
+1036936800,Chenois,Thun,IiIEIWGp,xbUiUE46,0,1,,,,0
+1036936800,Buochs,Wil,Is1MKii7,lCjwt4LE,0,0,AET,0,1,0
+1036940400,Grasshopper II,Kriens,lAiYjsGO,n7K4dyrM,2,3,,,,0
+1039026600,La Chaux-De-Fonds,Sion,OvYZsi0d,QsLBSppP,1,0,,,,0
+1045926000,Yverdon,Basel,S8tGctos,fPZDBkJI,0,3,,,,0
+1046005200,Oberwallis Naters,St. Gallen,SIqnkxof,fubIDuh0,0,4,,,,0
+1046007000,Young Boys,Delemont,KGWqWzzf,nLy4dj0C,1,0,,,,0
+1046007000,Schaffhausen,Thun,EiyYrUhb,xbUiUE46,1,1,AET,3,1,0
+1046007000,Lugano,Grasshoppers,0IhGjVDm,WdBesfPo,0,2,,,,0
+1046007000,La Chaux-De-Fonds,Xamax,OvYZsi0d,ln9wF1MU,0,2,,,,0
+1046007000,Kriens,Wil,n7K4dyrM,lCjwt4LE,1,1,AET,1,2,0
+1046007000,Baden,Luzern,63TN1CJD,n7K4dyrM,0,2,,,,0
+1046802600,Basel,Servette,fPZDBkJI,vJvKsfHT,2,0,,,,0
+1048701600,Wil,Xamax,lCjwt4LE,ln9wF1MU,0,2,,,,0
+1048703400,Young Boys,Basel,KGWqWzzf,fPZDBkJI,3,3,AET,3,4,0
+1048703400,Luzern,Grasshoppers,n7K4dyrM,WdBesfPo,1,2,,,,0
+1049029200,Schaffhausen,St. Gallen,EiyYrUhb,fubIDuh0,1,0,,,,0
+1050430500,Basel,Schaffhausen,fPZDBkJI,EiyYrUhb,3,0,,,,0
+1050516900,Xamax,Grasshoppers,ln9wF1MU,WdBesfPo,3,2,,,,0
+1052658000,Basel,Xamax,fPZDBkJI,ln9wF1MU,6,0,,,,0

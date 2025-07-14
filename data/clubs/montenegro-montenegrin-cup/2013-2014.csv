@@ -1,44 +1,44 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1379426400,Radovici,Stijena,0,1,,,,0
-1379426400,Petrovac,Cijevna,2,0,,,,0
-1379426400,FK Tekstilac,Titograd,0,2,,,,0
-1379426400,FK Cetinje,Grbalj,0,2,,,,0
-1379512800,Lovcen,Spuz,1,0,,,,0
-1379512800,Konik,Igalo,3,1,,,,0
-1379512800,Kom Podgorica,Decic,1,1,Pen,1,2,0
-1379512800,Jezero,Sutjeska,1,2,,,,0
-1379512800,Jedinstvo,Zabjelo,1,1,Pen,1,2,0
-1379512800,Hajduk Bar,Rudar,0,7,,,,0
-1379512800,Brskovo,Mornar Bar,0,3,,,,0
-1379512800,Bokelj,Ibar,3,0,,,,0
-1379512800,Berane,Zeta,3,3,Pen,4,3,0
-1379512800,Arsenal Tivat,Mogren,0,4,,,,0
-1380718800,Zeta,Jezero,2,0,,,,0
-1380718800,Zabjelo,Petrovac,1,2,,,,0
-1380718800,Stijena,Lovcen,2,1,,,,0
-1380718800,Rudar,Celik Niksic,0,0,,,,0
-1380718800,Mornar Bar,Titograd,2,1,,,,0
-1380718800,Konik,Grbalj,1,3,,,,0
-1380718800,Buducnost,Decic,3,2,,,,0
-1380718800,Bokelj,Mogren,0,0,,,,0
-1382529600,Titograd,Mornar Bar,4,0,,,,0
-1382529600,Petrovac,Zabjelo,1,1,,,,0
-1382529600,Mogren,Bokelj,4,0,,,,0
-1382529600,Lovcen,Stijena,8,0,,,,0
-1382529600,Jezero,Zeta,2,1,,,,0
-1382529600,Grbalj,Konik,3,1,,,,0
-1382529600,Decic,Buducnost,3,0,,,,0
-1382529600,Celik Niksic,Rudar,0,0,Pen,1,0,0
-1383741000,Titograd,Celik Niksic,1,1,,,,0
-1383741000,Petrovac,Decic,2,0,,,,0
-1383741000,Mogren,Grbalj,2,3,,,,0
-1383741000,Lovcen,Zeta,1,0,,,,0
-1386158400,Zeta,Lovcen,2,1,,,,0
-1386158400,Grbalj,Mogren,2,3,Pen,2,4,0
-1386158400,Decic,Petrovac,1,0,,,,0
-1386158400,Celik Niksic,Titograd,1,1,Pen,1,2,0
-1397044800,Petrovac,Lovcen,0,0,,,,0
-1397050200,Titograd,Mogren,2,0,,,,0
-1398868200,Mogren,Titograd,0,0,,,,0
-1398868200,Lovcen,Petrovac,3,0,,,,0
-1400691600,Lovcen,Titograd,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1379426400,Radovici,Stijena,Ui9ohC3h,b9UDeHRe,0,1,,,,0
+1379426400,Petrovac,Cijevna,ABpmWgn7,Aaf9ZSca,2,0,,,,0
+1379426400,FK Tekstilac,Titograd,lOYbSjrt,ABpmWgn7,0,2,,,,0
+1379426400,FK Cetinje,Grbalj,AyvhK6wb,YmnqXZW0,0,2,,,,0
+1379512800,Lovcen,Spuz,ABpmWgn7,GKZKJ8Sb,1,0,,,,0
+1379512800,Konik,Igalo,jwn94jk4,8xsLFjVh,3,1,,,,0
+1379512800,Kom Podgorica,Decic,4Uy7FtTH,UstD1joU,1,1,Pen,1,2,0
+1379512800,Jezero,Sutjeska,ljgDYnD5,zVJMgvaS,1,2,,,,0
+1379512800,Jedinstvo,Zabjelo,2JKzUeUK,E7RYvl1h,1,1,Pen,1,2,0
+1379512800,Hajduk Bar,Rudar,4bmQHUa1,KfNVySaO,0,7,,,,0
+1379512800,Brskovo,Mornar Bar,d8Wqlvyg,2JKzUeUK,0,3,,,,0
+1379512800,Bokelj,Ibar,ABpmWgn7,Aaf9ZSca,3,0,,,,0
+1379512800,Berane,Zeta,YmnqXZW0,vLDFhvIU,3,3,Pen,4,3,0
+1379512800,Arsenal Tivat,Mogren,25w9qSfP,zVJMgvaS,0,4,,,,0
+1380718800,Zeta,Jezero,vLDFhvIU,ljgDYnD5,2,0,,,,0
+1380718800,Zabjelo,Petrovac,E7RYvl1h,ABpmWgn7,1,2,,,,0
+1380718800,Stijena,Lovcen,b9UDeHRe,ABpmWgn7,2,1,,,,0
+1380718800,Rudar,Celik Niksic,KfNVySaO,bRJp42Nu,0,0,,,,0
+1380718800,Mornar Bar,Titograd,2JKzUeUK,ABpmWgn7,2,1,,,,0
+1380718800,Konik,Grbalj,jwn94jk4,YmnqXZW0,1,3,,,,0
+1380718800,Buducnost,Decic,zVJMgvaS,UstD1joU,3,2,,,,0
+1380718800,Bokelj,Mogren,ABpmWgn7,zVJMgvaS,0,0,,,,0
+1382529600,Titograd,Mornar Bar,ABpmWgn7,2JKzUeUK,4,0,,,,0
+1382529600,Petrovac,Zabjelo,ABpmWgn7,E7RYvl1h,1,1,,,,0
+1382529600,Mogren,Bokelj,zVJMgvaS,ABpmWgn7,4,0,,,,0
+1382529600,Lovcen,Stijena,ABpmWgn7,b9UDeHRe,8,0,,,,0
+1382529600,Jezero,Zeta,ljgDYnD5,vLDFhvIU,2,1,,,,0
+1382529600,Grbalj,Konik,YmnqXZW0,jwn94jk4,3,1,,,,0
+1382529600,Decic,Buducnost,UstD1joU,zVJMgvaS,3,0,,,,0
+1382529600,Celik Niksic,Rudar,bRJp42Nu,KfNVySaO,0,0,Pen,1,0,0
+1383741000,Titograd,Celik Niksic,ABpmWgn7,bRJp42Nu,1,1,,,,0
+1383741000,Petrovac,Decic,ABpmWgn7,UstD1joU,2,0,,,,0
+1383741000,Mogren,Grbalj,zVJMgvaS,YmnqXZW0,2,3,,,,0
+1383741000,Lovcen,Zeta,ABpmWgn7,vLDFhvIU,1,0,,,,0
+1386158400,Zeta,Lovcen,vLDFhvIU,ABpmWgn7,2,1,,,,0
+1386158400,Grbalj,Mogren,YmnqXZW0,zVJMgvaS,2,3,Pen,2,4,0
+1386158400,Decic,Petrovac,UstD1joU,ABpmWgn7,1,0,,,,0
+1386158400,Celik Niksic,Titograd,bRJp42Nu,ABpmWgn7,1,1,Pen,1,2,0
+1397044800,Petrovac,Lovcen,ABpmWgn7,ABpmWgn7,0,0,,,,0
+1397050200,Titograd,Mogren,ABpmWgn7,zVJMgvaS,2,0,,,,0
+1398868200,Mogren,Titograd,zVJMgvaS,ABpmWgn7,0,0,,,,0
+1398868200,Lovcen,Petrovac,ABpmWgn7,ABpmWgn7,3,0,,,,0
+1400691600,Lovcen,Titograd,ABpmWgn7,ABpmWgn7,1,0,,,,0

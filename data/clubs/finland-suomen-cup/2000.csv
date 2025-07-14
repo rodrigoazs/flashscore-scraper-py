@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-964216800,VJS,VPS,0,4,,,,0
-964216800,Vantaa,Kontu,5,1,,,,0
-964216800,RiPS,TPS,1,0,,,,0
-964216800,Jokerit FC,KooTeePee,1,2,,,,0
-964216800,Jaro,MyPa,0,0,AET,1,0,0
-964216800,HJK,Tampere Utd,3,0,,,,0
-964216800,Hameenlinna,Lahti,2,3,,,,0
-964216800,Haka,Inter Turku,1,1,AET,1,2,0
-972252000,VPS,Inter Turku,1,3,,,,0
-972252000,Lahti,Vantaa,3,0,,,,0
-972252000,KooTeePee,RiPS,5,0,,,,0
-972252000,HJK,Jaro,4,0,,,,0
-973033200,KooTeePee,Lahti,3,0,,,,0
-973033200,HJK,Inter Turku,2,1,,,,0
-973810800,HJK,KooTeePee,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+964216800,VJS,VPS,CjsZWFij,WYtEUtB2,0,4,,,,0
+964216800,Vantaa,Kontu,Ol7y6MS9,fgyMTB8n,5,1,,,,0
+964216800,RiPS,TPS,W2zs7Bti,GlTeTYJC,1,0,,,,0
+964216800,Jokerit FC,KooTeePee,MXxDlJVc,6cxUQbAR,1,2,,,,0
+964216800,Jaro,MyPa,hGuhahGg,hGuhahGg,0,0,AET,1,0,0
+964216800,HJK,Tampere Utd,xO7wlFSD,IFb9tqla,3,0,,,,0
+964216800,Hameenlinna,Lahti,0GLVocmM,tGlVXFkM,2,3,,,,0
+964216800,Haka,Inter Turku,KtjRAU38,lGvMSKuF,1,1,AET,1,2,0
+972252000,VPS,Inter Turku,WYtEUtB2,lGvMSKuF,1,3,,,,0
+972252000,Lahti,Vantaa,tGlVXFkM,Ol7y6MS9,3,0,,,,0
+972252000,KooTeePee,RiPS,6cxUQbAR,W2zs7Bti,5,0,,,,0
+972252000,HJK,Jaro,xO7wlFSD,hGuhahGg,4,0,,,,0
+973033200,KooTeePee,Lahti,6cxUQbAR,tGlVXFkM,3,0,,,,0
+973033200,HJK,Inter Turku,xO7wlFSD,lGvMSKuF,2,1,,,,0
+973810800,HJK,KooTeePee,xO7wlFSD,6cxUQbAR,1,0,,,,0

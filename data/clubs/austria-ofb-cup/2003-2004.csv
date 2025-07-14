@@ -1,52 +1,52 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1061848800,SV Donau,Markt St. Martin,1,0,,,,0
-1061848800,St. Polten,Kufstein,3,1,,,,0
-1061848800,Schwanenstadt,Langenrohr,5,0,,,,0
-1061848800,Kremser,Reichenau,4,0,,,,0
-1061848800,Kottingbrunn,Klingenbach,2,0,,,,0
-1061848800,BW Linz,BSV Juniors,4,0,,,,0
-1061848800,Blumenland Hard,ASK Voitsberg,1,3,,,,0
-1061848800,Arnfels,Schwechat,2,1,,,,0
-1061848800,Altach,Hartberg,1,3,,,,0
-1061909100,Treibach,A. Lustenau,0,0,AET,0,1,0
-1061909100,Stadlau,Sturm Graz,2,9,,,,0
-1061909100,Grazer AK (Am),Admira,1,2,,,,0
-1061909100,Fortuna 05,Bregenz,0,2,,,,0
-1061909100,Bleiburg,Leoben,1,0,,,,0
-1061917200,Puch,Kapfenberg,2,4,,,,0
-1061917200,Pettenbach,Wacker Innsbruck,0,3,,,,0
-1061917200,Mistelbach,LASK,0,1,,,,0
-1061917200,Harreither,SC Untersiebenbrunn,1,2,,,,0
-1061917200,Gratkorn,FC Lustenau,1,3,,,,0
-1061917200,Gmunden,SV Worgl,2,1,AET,2,1,0
-1061917200,Florian,Ried,1,2,,,,0
-1062003600,SV Spittal,Mattersburg,0,1,,,,0
-1062003600,Admira (Am),SK Rapid,0,3,,,,0
-1064325600,SV Donau,Sturm Graz,0,3,,,,0
-1064325600,Bleiburg,Ried,0,4,,,,0
-1064331000,SAK 1914,ASKO Pasching,0,4,,,,0
-1064336400,Schwanenstadt,Wacker Innsbruck,2,4,AET,2,4,0
-1064336400,Kottingbrunn,Mattersburg,1,3,,,,0
-1064336400,Hartberg,Kapfenberg,1,0,,,,0
-1064336400,Gmunden,Bregenz,0,6,,,,0
-1064336400,BW Linz,Admira,2,2,Pen,2,3,0
-1064336400,ASK Voitsberg,SC Untersiebenbrunn,0,3,,,,0
-1064336400,Arnfels,A. Lustenau,3,1,,,,0
-1064424600,Kremser,SK Rapid,2,3,,,,0
-1064941200,LASK,FC Lustenau,0,2,,,,0
-1068660000,St. Polten,ASKO Pasching,0,2,,,,0
-1080064800,Sturm Graz,ASKO Pasching,2,0,,,,0
-1080064800,Ried,SC Untersiebenbrunn,3,1,,,,0
-1080064800,FC Lustenau,Bregenz,0,0,Pen,1,2,0
-1080064800,Admira,Mattersburg,0,2,,,,0
-1080066600,Wacker Innsbruck,Grazer AK,1,2,,,,0
-1080151200,Hartberg,Austria Vienna,0,2,,,,0
-1081602000,Arnfels,SK Rapid,0,1,,,,0
-1081603800,Sturm Graz,Bregenz,4,0,,,,0
-1081603800,Mattersburg,Austria Vienna,0,0,AET,0,1,0
-1081603800,FC Karnten,Salzburg,4,0,,,,0
-1082480400,Ried,FC Karnten,1,1,AET,2,1,0
-1082566800,SK Rapid,Grazer AK,1,3,,,,0
-1083690000,Grazer AK,Ried,3,2,,,,0
-1083772800,Sturm Graz,Austria Vienna,1,1,AET,1,2,0
-1085322600,Grazer AK,Austria Vienna,2,2,Pen,4,3,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1061848800,SV Donau,Markt St. Martin,ddEfYi9g,KUJEajm9,1,0,,,,0
+1061848800,St. Polten,Kufstein,6LImwhxm,GjMtKimn,3,1,,,,0
+1061848800,Schwanenstadt,Langenrohr,8zSgn0K3,4phBSYT4,5,0,,,,0
+1061848800,Kremser,Reichenau,KzBAaN8n,nwmXzMRb,4,0,,,,0
+1061848800,Kottingbrunn,Klingenbach,EsUu7zLA,QwHr43RA,2,0,,,,0
+1061848800,BW Linz,BSV Juniors,6ovmkrPK,ARE7HqH5,4,0,,,,0
+1061848800,Blumenland Hard,ASK Voitsberg,r12bGaGL,truxH6xc,1,3,,,,0
+1061848800,Arnfels,Schwechat,GUvkU8ao,EXKhHhDL,2,1,,,,0
+1061848800,Altach,Hartberg,pvWT1yik,0QjFNZnd,1,3,,,,0
+1061909100,Treibach,A. Lustenau,4WlmtIeP,pvWT1yik,0,0,AET,0,1,0
+1061909100,Stadlau,Sturm Graz,KGfMDpWS,ATNrh1YR,2,9,,,,0
+1061909100,Grazer AK (Am),Admira,j9Yrq8JJ,IeGa2GZS,1,2,,,,0
+1061909100,Fortuna 05,Bregenz,0xNoPPe6,fuS6i9Ng,0,2,,,,0
+1061909100,Bleiburg,Leoben,2DsKOLPq,n1a1DvMn,1,0,,,,0
+1061917200,Puch,Kapfenberg,WYGtI5Pt,pvWT1yik,2,4,,,,0
+1061917200,Pettenbach,Wacker Innsbruck,dWC6tAat,UsfS2kBR,0,3,,,,0
+1061917200,Mistelbach,LASK,buHPeAN2,CbaUQRYa,0,1,,,,0
+1061917200,Harreither,SC Untersiebenbrunn,raJcgKge,zH6zs5F4,1,2,,,,0
+1061917200,Gratkorn,FC Lustenau,pvWT1yik,pvWT1yik,1,3,,,,0
+1061917200,Gmunden,SV Worgl,AR2UY5mi,z18FMthg,2,1,AET,2,1,0
+1061917200,Florian,Ried,nFSsiY1d,baDxm2ON,1,2,,,,0
+1062003600,SV Spittal,Mattersburg,bTGIlmdk,6mXP2Hyq,0,1,,,,0
+1062003600,Admira (Am),SK Rapid,f112msXA,QNSj0PU1,0,3,,,,0
+1064325600,SV Donau,Sturm Graz,ddEfYi9g,ATNrh1YR,0,3,,,,0
+1064325600,Bleiburg,Ried,2DsKOLPq,baDxm2ON,0,4,,,,0
+1064331000,SAK 1914,ASKO Pasching,h60TMFNJ,f1RS4uQs,0,4,,,,0
+1064336400,Schwanenstadt,Wacker Innsbruck,8zSgn0K3,UsfS2kBR,2,4,AET,2,4,0
+1064336400,Kottingbrunn,Mattersburg,EsUu7zLA,6mXP2Hyq,1,3,,,,0
+1064336400,Hartberg,Kapfenberg,0QjFNZnd,pvWT1yik,1,0,,,,0
+1064336400,Gmunden,Bregenz,AR2UY5mi,fuS6i9Ng,0,6,,,,0
+1064336400,BW Linz,Admira,6ovmkrPK,IeGa2GZS,2,2,Pen,2,3,0
+1064336400,ASK Voitsberg,SC Untersiebenbrunn,truxH6xc,zH6zs5F4,0,3,,,,0
+1064336400,Arnfels,A. Lustenau,GUvkU8ao,pvWT1yik,3,1,,,,0
+1064424600,Kremser,SK Rapid,KzBAaN8n,QNSj0PU1,2,3,,,,0
+1064941200,LASK,FC Lustenau,CbaUQRYa,pvWT1yik,0,2,,,,0
+1068660000,St. Polten,ASKO Pasching,6LImwhxm,f1RS4uQs,0,2,,,,0
+1080064800,Sturm Graz,ASKO Pasching,ATNrh1YR,f1RS4uQs,2,0,,,,0
+1080064800,Ried,SC Untersiebenbrunn,baDxm2ON,zH6zs5F4,3,1,,,,0
+1080064800,FC Lustenau,Bregenz,pvWT1yik,fuS6i9Ng,0,0,Pen,1,2,0
+1080064800,Admira,Mattersburg,IeGa2GZS,6mXP2Hyq,0,2,,,,0
+1080066600,Wacker Innsbruck,Grazer AK,UsfS2kBR,6ThU2T3B,1,2,,,,0
+1080151200,Hartberg,Austria Vienna,0QjFNZnd,lUkqx2Vt,0,2,,,,0
+1081602000,Arnfels,SK Rapid,GUvkU8ao,QNSj0PU1,0,1,,,,0
+1081603800,Sturm Graz,Bregenz,ATNrh1YR,fuS6i9Ng,4,0,,,,0
+1081603800,Mattersburg,Austria Vienna,6mXP2Hyq,lUkqx2Vt,0,0,AET,0,1,0
+1081603800,FC Karnten,Salzburg,6mXP2Hyq,McAr23w3,4,0,,,,0
+1082480400,Ried,FC Karnten,baDxm2ON,6mXP2Hyq,1,1,AET,2,1,0
+1082566800,SK Rapid,Grazer AK,QNSj0PU1,6ThU2T3B,1,3,,,,0
+1083690000,Grazer AK,Ried,6ThU2T3B,baDxm2ON,3,2,,,,0
+1083772800,Sturm Graz,Austria Vienna,ATNrh1YR,lUkqx2Vt,1,1,AET,1,2,0
+1085322600,Grazer AK,Austria Vienna,6ThU2T3B,lUkqx2Vt,2,2,Pen,4,3,0

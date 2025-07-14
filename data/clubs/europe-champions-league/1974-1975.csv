@@ -1,56 +1,56 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-148744800,Valletta,HJK,1,0,,,,0
-148744800,Universitatea Craiova,Atvidaberg,2,1,,,,0
-148744800,Hvidovre IF,Ruch Chorzow,0,0,,,,0
-148746600,Levski Sofia,Ujpest,0,3,,,,0
-148759200,Viking,Ararat Yerevan,0,2,,,,0
-148761000,VOEST Linz,Barcelona,0,0,,,,0
-148761000,Leeds,Zurich,4,1,,,,0
-148761000,Jeunesse Esch,Fenerbahce,2,3,,,,0
-148762800,Slovan Bratislava,Anderlecht,4,2,,,,0
-148762800,Celtic,Olympiacos Piraeus,1,1,,,,0
-148764600,St Etienne,Sporting CP,2,0,,,,0
-148764600,Feyenoord,Coleraine,7,0,,,,0
-148845600,Hajduk Split,Keflavik,7,1,,,,0
-149277600,Keflavik,Hajduk Split,0,2,,,,0
-149952600,Ujpest,Levski Sofia,4,1,,,,0
-149958000,Ararat Yerevan,Viking,4,2,,,,0
-149963400,Sporting CP,St Etienne,1,1,,,,0
-149963400,Ruch Chorzow,Hvidovre IF,2,1,,,,0
-149963400,HJK,Valletta,4,1,,,,0
-149963400,Coleraine,Feyenoord,1,4,,,,0
-149970600,Fenerbahce,Jeunesse Esch,2,0,,,,0
-149972400,Zurich,Leeds,2,1,,,,0
-149972400,Olympiacos Piraeus,Celtic,2,0,,,,0
-149972400,Anderlecht,Slovan Bratislava,3,1,,,,0
-149981400,Barcelona,VOEST Linz,5,0,,,,0
-150057000,Atvidaberg,Universitatea Craiova,3,1,,,,0
-151702200,Feyenoord,Barcelona,0,0,,,,0
-151774200,Cork Celtic,Ararat Yerevan,1,2,,,,0
-151776000,Hajduk Split,St Etienne,4,1,,,,0
-151776900,Ujpest,Leeds,1,2,,,,0
-151777800,Ruch Chorzow,Fenerbahce,2,1,,,,0
-151781400,HJK,Atvidaberg,0,3,,,,0
-151786800,Bayern Munich,Magdeburg,3,2,,,,0
-151786800,Anderlecht,Olympiacos Piraeus,5,1,,,,0
-152912700,Barcelona,Feyenoord,3,0,,,,0
-152973000,Olympiacos Piraeus,Anderlecht,3,0,,,,0
-152983800,Ararat Yerevan,Cork Celtic,5,0,,,,0
-152987400,Fenerbahce,Ruch Chorzow,0,2,,,,0
-152994600,Leeds,Ujpest,3,0,,,,0
-152994600,Atvidaberg,HJK,1,0,,,,0
-152996400,Magdeburg,Bayern Munich,1,2,,,,0
-152998200,St Etienne,Hajduk Split,4,1,AET,5,1,0
-163196100,Barcelona,Atvidaberg,2,0,,,,0
-163269000,Ruch Chorzow,St Etienne,3,2,,,,0
-163276200,Leeds,Anderlecht,3,0,,,,0
-163278000,Bayern Munich,Ararat Yerevan,2,0,,,,0
-163800900,Atvidaberg,Barcelona,0,3,,,,0
-164471400,Ararat Yerevan,Bayern Munich,1,0,,,,0
-164478600,St Etienne,Ruch Chorzow,2,0,,,,0
-164487600,Anderlecht,Leeds,0,1,,,,0
-166300200,Leeds,Barcelona,2,1,,,,0
-166303800,St Etienne,Bayern Munich,0,0,,,,0
-167511600,Bayern Munich,St Etienne,2,0,,,,0
-167514300,Barcelona,Leeds,1,1,,,,0
-170536500,Bayern Munich,Leeds,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+148744800,Valletta,HJK,WrjrBuU2,xO7wlFSD,1,0,,,,0
+148744800,Universitatea Craiova,Atvidaberg,0bWyIK0K,nLy4dj0C,2,1,,,,0
+148744800,Hvidovre IF,Ruch Chorzow,UusW87Jh,2FYvdV3F,0,0,,,,0
+148746600,Levski Sofia,Ujpest,OvIM8T6I,fRhD1w4R,0,3,,,,0
+148759200,Viking,Ararat Yerevan,xvniPjZd,dUsGVqCN,0,2,,,,0
+148761000,VOEST Linz,Barcelona,Ukfb8txp,fcDVLdrL,0,0,,,,0
+148761000,Leeds,Zurich,O4P6Zhap,zFgN5luK,4,1,,,,0
+148761000,Jeunesse Esch,Fenerbahce,IqhLeVal,dENdyFfa,2,3,,,,0
+148762800,Slovan Bratislava,Anderlecht,pEAU6ugI,YVlGNJGc,4,2,,,,0
+148762800,Celtic,Olympiacos Piraeus,xGFNNID8,lzmp9FUJ,1,1,,,,0
+148764600,St Etienne,Sporting CP,8Ca53MKO,Ys9o4HYr,2,0,,,,0
+148764600,Feyenoord,Coleraine,Wz6bfhxO,l2RHTltM,7,0,,,,0
+148845600,Hajduk Split,Keflavik,Mc6FcsjL,OhPjY7JU,7,1,,,,0
+149277600,Keflavik,Hajduk Split,OhPjY7JU,Mc6FcsjL,0,2,,,,0
+149952600,Ujpest,Levski Sofia,fRhD1w4R,OvIM8T6I,4,1,,,,0
+149958000,Ararat Yerevan,Viking,dUsGVqCN,xvniPjZd,4,2,,,,0
+149963400,Sporting CP,St Etienne,Ys9o4HYr,8Ca53MKO,1,1,,,,0
+149963400,Ruch Chorzow,Hvidovre IF,2FYvdV3F,UusW87Jh,2,1,,,,0
+149963400,HJK,Valletta,xO7wlFSD,WrjrBuU2,4,1,,,,0
+149963400,Coleraine,Feyenoord,l2RHTltM,Wz6bfhxO,1,4,,,,0
+149970600,Fenerbahce,Jeunesse Esch,dENdyFfa,IqhLeVal,2,0,,,,0
+149972400,Zurich,Leeds,zFgN5luK,O4P6Zhap,2,1,,,,0
+149972400,Olympiacos Piraeus,Celtic,lzmp9FUJ,xGFNNID8,2,0,,,,0
+149972400,Anderlecht,Slovan Bratislava,YVlGNJGc,pEAU6ugI,3,1,,,,0
+149981400,Barcelona,VOEST Linz,fcDVLdrL,Ukfb8txp,5,0,,,,0
+150057000,Atvidaberg,Universitatea Craiova,nLy4dj0C,0bWyIK0K,3,1,,,,0
+151702200,Feyenoord,Barcelona,Wz6bfhxO,fcDVLdrL,0,0,,,,0
+151774200,Cork Celtic,Ararat Yerevan,AXR6QNOu,dUsGVqCN,1,2,,,,0
+151776000,Hajduk Split,St Etienne,Mc6FcsjL,8Ca53MKO,4,1,,,,0
+151776900,Ujpest,Leeds,fRhD1w4R,O4P6Zhap,1,2,,,,0
+151777800,Ruch Chorzow,Fenerbahce,2FYvdV3F,dENdyFfa,2,1,,,,0
+151781400,HJK,Atvidaberg,xO7wlFSD,nLy4dj0C,0,3,,,,0
+151786800,Bayern Munich,Magdeburg,SvLFaVNH,r5trb9zO,3,2,,,,0
+151786800,Anderlecht,Olympiacos Piraeus,YVlGNJGc,lzmp9FUJ,5,1,,,,0
+152912700,Barcelona,Feyenoord,fcDVLdrL,Wz6bfhxO,3,0,,,,0
+152973000,Olympiacos Piraeus,Anderlecht,lzmp9FUJ,YVlGNJGc,3,0,,,,0
+152983800,Ararat Yerevan,Cork Celtic,dUsGVqCN,AXR6QNOu,5,0,,,,0
+152987400,Fenerbahce,Ruch Chorzow,dENdyFfa,2FYvdV3F,0,2,,,,0
+152994600,Leeds,Ujpest,O4P6Zhap,fRhD1w4R,3,0,,,,0
+152994600,Atvidaberg,HJK,nLy4dj0C,xO7wlFSD,1,0,,,,0
+152996400,Magdeburg,Bayern Munich,r5trb9zO,SvLFaVNH,1,2,,,,0
+152998200,St Etienne,Hajduk Split,8Ca53MKO,Mc6FcsjL,4,1,AET,5,1,0
+163196100,Barcelona,Atvidaberg,fcDVLdrL,nLy4dj0C,2,0,,,,0
+163269000,Ruch Chorzow,St Etienne,2FYvdV3F,8Ca53MKO,3,2,,,,0
+163276200,Leeds,Anderlecht,O4P6Zhap,YVlGNJGc,3,0,,,,0
+163278000,Bayern Munich,Ararat Yerevan,SvLFaVNH,dUsGVqCN,2,0,,,,0
+163800900,Atvidaberg,Barcelona,nLy4dj0C,fcDVLdrL,0,3,,,,0
+164471400,Ararat Yerevan,Bayern Munich,dUsGVqCN,SvLFaVNH,1,0,,,,0
+164478600,St Etienne,Ruch Chorzow,8Ca53MKO,2FYvdV3F,2,0,,,,0
+164487600,Anderlecht,Leeds,YVlGNJGc,O4P6Zhap,0,1,,,,0
+166300200,Leeds,Barcelona,O4P6Zhap,fcDVLdrL,2,1,,,,0
+166303800,St Etienne,Bayern Munich,8Ca53MKO,SvLFaVNH,0,0,,,,0
+167511600,Bayern Munich,St Etienne,SvLFaVNH,8Ca53MKO,2,0,,,,0
+167514300,Barcelona,Leeds,fcDVLdrL,O4P6Zhap,1,1,,,,0
+170536500,Bayern Munich,Leeds,SvLFaVNH,O4P6Zhap,2,0,,,,0

@@ -1,54 +1,54 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1689408000,Don Bosco Garelli,Philippine Air Force,0,1,,,,0
-1689417000,Tuloy,Philippine Army,3,2,,,,0
-1689494400,Davao Aguilas,Adamson University,2,0,,,,0
-1689503400,Loyola,CF Manila,0,2,,,,0
-1690012800,Loyola,FEU Tamaraws,2,2,,,,0
-1690021800,University Of The Philippines,Manila Digger,4,1,,,,0
-1690099200,CF Manila,Don Bosco Garelli,3,2,,,,0
-1690108200,Tuloy,Davao Aguilas,0,5,,,,0
-1690617600,Philippine Army,Davao Aguilas,3,4,,,,0
-1690623000,Adamson University,Tuloy,0,3,,,,0
-1690794000,Philippine Air Force,Loyola,3,0,,,,0
-1691222400,Don Bosco Garelli,Loyola,1,6,,,,0
-1691231400,Philippine Army,Adamson University,3,1,,,,0
-1691308800,Manila Digger,Pilipinas Dragons,0,1,,,,0
-1691317800,CF Manila,Philippine Air Force,3,1,,,,0
-1691571600,University Of The Philippines,Pilipinas Dragons,2,1,,,,0
-1691582400,FEU Tamaraws,CF Manila,1,1,,,,0
-1691823600,Maharlika,Manila Digger,1,1,,,,0
-1691832600,Loyola,Kaya,0,7,,,,0
-1691841600,Davao Aguilas,Mendiola FC 1991,3,3,,,,0
-1691913600,Stallion,Philippine Army,6,1,,,,0
-1691922600,FEU Tamaraws,Don Bosco Garelli,4,0,,,,0
-1692432000,Adamson University,Mendiola FC 1991,1,1,,,,0
-1692441000,Kaya,Don Bosco Garelli,11,0,,,,0
-1692514800,Cebu FC,University Of The Philippines,2,0,,,,0
-1692522000,Pilipinas Dragons,Maharlika,0,2,,,,0
-1693033200,Mendiola FC 1991,Philippine Army,1,0,,,,0
-1693042200,Kaya,Philippine Air Force,9,1,,,,0
-1693051200,Davao Aguilas,Stallion,0,4,,,,0
-1693123200,Manila Digger,Cebu FC,1,4,,,,0
-1693132200,Maharlika,University Of The Philippines,1,0,,,,0
-1693386000,Stallion,Tuloy,9,1,,,,0
-1693638000,Philippine Air Force,FEU Tamaraws,2,2,,,,0
-1693647000,Mendiola FC 1991,Tuloy,4,4,,,,0
-1693728000,Pilipinas Dragons,Cebu FC,1,8,,,,0
-1693737000,Kaya,CF Manila,8,0,,,,0
-1694246400,Cebu FC,Maharlika,2,1,,,,0
-1694255400,Stallion,Mendiola FC 1991,0,1,,,,0
-1695538800,Adamson University,Stallion,1,9,,,,0
-1695628800,FEU Tamaraws,Kaya,1,5,,,,0
-1695974400,Kaya,University Of The Philippines,3,0,,,,0
-1695985200,Stallion,Maharlika,5,0,,,,0
-1696060800,Cebu FC,Mendiola FC 1991,2,0,,,,0
-1696071600,CF Manila,Davao Aguilas,0,1,,,,0
-1696752000,University Of The Philippines,Kaya,0,8,,,,0
-1696762800,Davao Aguilas,CF Manila,1,0,,,,0
-1696838400,Mendiola FC 1991,Cebu FC,1,4,,,,0
-1696849200,Maharlika,Stallion,0,4,,,,0
-1697875200,Kaya,Stallion,2,1,,,,0
-1697886000,Cebu FC,Davao Aguilas,0,1,,,,0
-1698998400,Stallion,Kaya,1,2,,,,0
-1699009200,Davao Aguilas,Cebu FC,1,1,,,,0
-1702119600,Kaya,Davao Aguilas,1,1,Pen,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1689408000,Don Bosco Garelli,Philippine Air Force,U3HXHJ8f,UFgDzzLj,0,1,,,,0
+1689417000,Tuloy,Philippine Army,6N76cNOA,d8YaLjT0,3,2,,,,0
+1689494400,Davao Aguilas,Adamson University,joSKJXz3,GvdndwWt,2,0,,,,0
+1689503400,Loyola,CF Manila,vkw5In9f,QLDoxzkp,0,2,,,,0
+1690012800,Loyola,FEU Tamaraws,vkw5In9f,W0Dewpho,2,2,,,,0
+1690021800,University Of The Philippines,Manila Digger,8IrvLVZi,GjMnLEuj,4,1,,,,0
+1690099200,CF Manila,Don Bosco Garelli,QLDoxzkp,U3HXHJ8f,3,2,,,,0
+1690108200,Tuloy,Davao Aguilas,6N76cNOA,joSKJXz3,0,5,,,,0
+1690617600,Philippine Army,Davao Aguilas,d8YaLjT0,joSKJXz3,3,4,,,,0
+1690623000,Adamson University,Tuloy,GvdndwWt,6N76cNOA,0,3,,,,0
+1690794000,Philippine Air Force,Loyola,UFgDzzLj,vkw5In9f,3,0,,,,0
+1691222400,Don Bosco Garelli,Loyola,U3HXHJ8f,vkw5In9f,1,6,,,,0
+1691231400,Philippine Army,Adamson University,d8YaLjT0,GvdndwWt,3,1,,,,0
+1691308800,Manila Digger,Pilipinas Dragons,GjMnLEuj,Ee7hj7a8,0,1,,,,0
+1691317800,CF Manila,Philippine Air Force,QLDoxzkp,UFgDzzLj,3,1,,,,0
+1691571600,University Of The Philippines,Pilipinas Dragons,8IrvLVZi,Ee7hj7a8,2,1,,,,0
+1691582400,FEU Tamaraws,CF Manila,W0Dewpho,QLDoxzkp,1,1,,,,0
+1691823600,Maharlika,Manila Digger,t27gfr1S,GjMnLEuj,1,1,,,,0
+1691832600,Loyola,Kaya,vkw5In9f,WKgeQBsR,0,7,,,,0
+1691841600,Davao Aguilas,Mendiola FC 1991,joSKJXz3,YebDX3ys,3,3,,,,0
+1691913600,Stallion,Philippine Army,KAuUVZn2,d8YaLjT0,6,1,,,,0
+1691922600,FEU Tamaraws,Don Bosco Garelli,W0Dewpho,U3HXHJ8f,4,0,,,,0
+1692432000,Adamson University,Mendiola FC 1991,GvdndwWt,YebDX3ys,1,1,,,,0
+1692441000,Kaya,Don Bosco Garelli,WKgeQBsR,U3HXHJ8f,11,0,,,,0
+1692514800,Cebu FC,University Of The Philippines,xnYd7uI6,8IrvLVZi,2,0,,,,0
+1692522000,Pilipinas Dragons,Maharlika,Ee7hj7a8,t27gfr1S,0,2,,,,0
+1693033200,Mendiola FC 1991,Philippine Army,YebDX3ys,d8YaLjT0,1,0,,,,0
+1693042200,Kaya,Philippine Air Force,WKgeQBsR,UFgDzzLj,9,1,,,,0
+1693051200,Davao Aguilas,Stallion,joSKJXz3,KAuUVZn2,0,4,,,,0
+1693123200,Manila Digger,Cebu FC,GjMnLEuj,xnYd7uI6,1,4,,,,0
+1693132200,Maharlika,University Of The Philippines,t27gfr1S,8IrvLVZi,1,0,,,,0
+1693386000,Stallion,Tuloy,KAuUVZn2,6N76cNOA,9,1,,,,0
+1693638000,Philippine Air Force,FEU Tamaraws,UFgDzzLj,W0Dewpho,2,2,,,,0
+1693647000,Mendiola FC 1991,Tuloy,YebDX3ys,6N76cNOA,4,4,,,,0
+1693728000,Pilipinas Dragons,Cebu FC,Ee7hj7a8,xnYd7uI6,1,8,,,,0
+1693737000,Kaya,CF Manila,WKgeQBsR,QLDoxzkp,8,0,,,,0
+1694246400,Cebu FC,Maharlika,xnYd7uI6,t27gfr1S,2,1,,,,0
+1694255400,Stallion,Mendiola FC 1991,KAuUVZn2,YebDX3ys,0,1,,,,0
+1695538800,Adamson University,Stallion,GvdndwWt,KAuUVZn2,1,9,,,,0
+1695628800,FEU Tamaraws,Kaya,W0Dewpho,WKgeQBsR,1,5,,,,0
+1695974400,Kaya,University Of The Philippines,WKgeQBsR,8IrvLVZi,3,0,,,,0
+1695985200,Stallion,Maharlika,KAuUVZn2,t27gfr1S,5,0,,,,0
+1696060800,Cebu FC,Mendiola FC 1991,xnYd7uI6,YebDX3ys,2,0,,,,0
+1696071600,CF Manila,Davao Aguilas,QLDoxzkp,joSKJXz3,0,1,,,,0
+1696752000,University Of The Philippines,Kaya,8IrvLVZi,WKgeQBsR,0,8,,,,0
+1696762800,Davao Aguilas,CF Manila,joSKJXz3,QLDoxzkp,1,0,,,,0
+1696838400,Mendiola FC 1991,Cebu FC,YebDX3ys,xnYd7uI6,1,4,,,,0
+1696849200,Maharlika,Stallion,t27gfr1S,KAuUVZn2,0,4,,,,0
+1697875200,Kaya,Stallion,WKgeQBsR,KAuUVZn2,2,1,,,,0
+1697886000,Cebu FC,Davao Aguilas,xnYd7uI6,joSKJXz3,0,1,,,,0
+1698998400,Stallion,Kaya,KAuUVZn2,WKgeQBsR,1,2,,,,0
+1699009200,Davao Aguilas,Cebu FC,joSKJXz3,xnYd7uI6,1,1,,,,0
+1702119600,Kaya,Davao Aguilas,WKgeQBsR,joSKJXz3,1,1,Pen,2,1,0

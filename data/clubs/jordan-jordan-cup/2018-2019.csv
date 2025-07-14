@@ -1,48 +1,48 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1519129800,Al Arabi Irbid,Ittihad Jerash,0,0,Pen,1,0,0
-1519216200,Shabab Al Hussein,Al Khaledeya,1,2,,,,0
-1519216200,Sama,Al Hashemeya,2,3,,,,0
-1519216200,Maan,Moghayer Al Sarhan,6,1,,,,0
-1519216200,Al Jalil,Al Hamra,2,2,Pen,2,3,0
-1519302600,Sama Al Sarhan,Karem,5,2,,,,0
-1519302600,Al Khaleej,Al Badeya,2,2,Pen,3,2,0
-1519389000,Kfarsoum,Al Asalah,3,0,,,,0
-1519389000,Dar Al Dawaa,Ader,1,0,,,,0
-1519389000,Al Wehda,Ittihad Jerash,2,3,,,,0
-1520773200,Aqaba,Al Hamra,5,0,,,,0
-1520773200,Al-Faisaly Amman,Ittihad Al Ramtha,4,2,,,,0
-1520776800,Al Hussein,Umm Al Qotain,1,2,,,,0
-1520863200,Shabab Al Ordon,Al Khaleej,6,0,,,,0
-1520872200,That Ras,Al Khaledeya,1,1,Pen,1,2,0
-1520949600,Mansheyat,Ittihad Jerash,1,1,Pen,2,1,0
-1520949600,Al Yarmouk,Al Hashemeya,4,1,,,,0
-1520949600,Al Buqaa,Sama Al Sarhan,3,0,,,,0
-1520958600,Al Ramtha,Hartha,8,1,,,,0
-1521045000,Al Ahli,Al Tora,2,0,,,,0
-1521122400,Balama,Dar Al Dawaa,1,0,,,,0
-1521122400,Al Sareeh,Al Arabi Irbid,1,0,,,,0
-1521122400,Al Jazeera Amman,Maan,1,0,,,,0
-1521131400,Al Wehdat,Al Taibah,8,0,,,,0
-1521208800,Sahab,Al Karmal,0,1,,,,0
-1521808200,Al Salt,Kfarsoum,3,0,,,,0
-1524056400,Al Salt,Al Karmal,1,1,Pen,1,2,0
-1524069000,Al Sareeh,Umm Al Qotain,1,3,,,,0
-1524146400,Balama,Aqaba,0,0,Pen,0,1,0
-1524146400,Al Jazeera Amman,Al Ahli,0,1,,,,0
-1524155400,Al Yarmouk,Al Wehdat,1,2,,,,0
-1524232800,Mansheyat,Shabab Al Ordon,2,0,,,,0
-1524232800,Al Buqaa,Al Ramtha,1,1,Pen,1,2,0
-1524241800,Al Khaledeya,Al-Faisaly Amman,0,4,,,,0
-1526328000,Al Karmal,Umm Al Qotain,1,1,,,,0
-1526414400,Al Ramtha,Mansheyat,2,1,,,,0
-1526500800,Al-Faisaly Amman,Aqaba,3,1,,,,0
-1526587200,Al Ahli,Al Wehdat,1,5,,,,0
-1526846400,Umm Al Qotain,Al Karmal,2,2,,,,0
-1526846400,Mansheyat,Al Ramtha,0,3,,,,0
-1526846400,Aqaba,Al-Faisaly Amman,1,0,,,,0
-1526846400,Al Wehdat,Al Ahli,0,0,,,,0
-1527192000,Al Wehdat,Al Ramtha,1,3,,,,0
-1527192000,Al Karmal,Al-Faisaly Amman,0,1,,,,0
-1527451200,Al-Faisaly Amman,Al Karmal,1,0,,,,0
-1527451200,Al Ramtha,Al Wehdat,1,1,,,,0
-1527883200,Al-Faisaly Amman,Al Ramtha,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1519129800,Al Arabi Irbid,Ittihad Jerash,phHdbrII,M3k9v3e9,0,0,Pen,1,0,0
+1519216200,Shabab Al Hussein,Al Khaledeya,MiZySpmS,M3k9v3e9,1,2,,,,0
+1519216200,Sama,Al Hashemeya,p2GX9RZd,M3k9v3e9,2,3,,,,0
+1519216200,Maan,Moghayer Al Sarhan,2mAkbiJd,rothtI2e,6,1,,,,0
+1519216200,Al Jalil,Al Hamra,O0L3N4eq,8hR9FSmh,2,2,Pen,2,3,0
+1519302600,Sama Al Sarhan,Karem,M3k9v3e9,,5,2,,,,0
+1519302600,Al Khaleej,Al Badeya,ObKhLZVC,GnWxvLG3,2,2,Pen,3,2,0
+1519389000,Kfarsoum,Al Asalah,GG7llnuC,IRbJLHEj,3,0,,,,0
+1519389000,Dar Al Dawaa,Ader,zeXlR4V6,25FxKVli,1,0,,,,0
+1519389000,Al Wehda,Ittihad Jerash,EHnQZYp6,M3k9v3e9,2,3,,,,0
+1520773200,Aqaba,Al Hamra,480NxCMF,8hR9FSmh,5,0,,,,0
+1520773200,Al-Faisaly Amman,Ittihad Al Ramtha,K8APFB8k,pbO35pzs,4,2,,,,0
+1520776800,Al Hussein,Umm Al Qotain,WnrX0gmJ,M3k9v3e9,1,2,,,,0
+1520863200,Shabab Al Ordon,Al Khaleej,dvq5wjeM,ObKhLZVC,6,0,,,,0
+1520872200,That Ras,Al Khaledeya,Kbahu3Cr,M3k9v3e9,1,1,Pen,1,2,0
+1520949600,Mansheyat,Ittihad Jerash,f3xNbTKG,M3k9v3e9,1,1,Pen,2,1,0
+1520949600,Al Yarmouk,Al Hashemeya,h8oUYh0C,M3k9v3e9,4,1,,,,0
+1520949600,Al Buqaa,Sama Al Sarhan,SUoVDTGC,M3k9v3e9,3,0,,,,0
+1520958600,Al Ramtha,Hartha,riw7cLfq,M3k9v3e9,8,1,,,,0
+1521045000,Al Ahli,Al Tora,6ucmGLnJ,fwVtwuW9,2,0,,,,0
+1521122400,Balama,Dar Al Dawaa,M3k9v3e9,zeXlR4V6,1,0,,,,0
+1521122400,Al Sareeh,Al Arabi Irbid,Qgg1NV7E,phHdbrII,1,0,,,,0
+1521122400,Al Jazeera Amman,Maan,WdX72eig,2mAkbiJd,1,0,,,,0
+1521131400,Al Wehdat,Al Taibah,hWTOO0Lo,fwVtwuW9,8,0,,,,0
+1521208800,Sahab,Al Karmal,nijksXCp,fwVtwuW9,0,1,,,,0
+1521808200,Al Salt,Kfarsoum,8WZfae8O,GG7llnuC,3,0,,,,0
+1524056400,Al Salt,Al Karmal,8WZfae8O,fwVtwuW9,1,1,Pen,1,2,0
+1524069000,Al Sareeh,Umm Al Qotain,Qgg1NV7E,M3k9v3e9,1,3,,,,0
+1524146400,Balama,Aqaba,M3k9v3e9,480NxCMF,0,0,Pen,0,1,0
+1524146400,Al Jazeera Amman,Al Ahli,WdX72eig,6ucmGLnJ,0,1,,,,0
+1524155400,Al Yarmouk,Al Wehdat,h8oUYh0C,hWTOO0Lo,1,2,,,,0
+1524232800,Mansheyat,Shabab Al Ordon,f3xNbTKG,dvq5wjeM,2,0,,,,0
+1524232800,Al Buqaa,Al Ramtha,SUoVDTGC,riw7cLfq,1,1,Pen,1,2,0
+1524241800,Al Khaledeya,Al-Faisaly Amman,M3k9v3e9,K8APFB8k,0,4,,,,0
+1526328000,Al Karmal,Umm Al Qotain,fwVtwuW9,M3k9v3e9,1,1,,,,0
+1526414400,Al Ramtha,Mansheyat,riw7cLfq,f3xNbTKG,2,1,,,,0
+1526500800,Al-Faisaly Amman,Aqaba,K8APFB8k,480NxCMF,3,1,,,,0
+1526587200,Al Ahli,Al Wehdat,6ucmGLnJ,hWTOO0Lo,1,5,,,,0
+1526846400,Umm Al Qotain,Al Karmal,M3k9v3e9,fwVtwuW9,2,2,,,,0
+1526846400,Mansheyat,Al Ramtha,f3xNbTKG,riw7cLfq,0,3,,,,0
+1526846400,Aqaba,Al-Faisaly Amman,480NxCMF,K8APFB8k,1,0,,,,0
+1526846400,Al Wehdat,Al Ahli,hWTOO0Lo,6ucmGLnJ,0,0,,,,0
+1527192000,Al Wehdat,Al Ramtha,hWTOO0Lo,riw7cLfq,1,3,,,,0
+1527192000,Al Karmal,Al-Faisaly Amman,fwVtwuW9,K8APFB8k,0,1,,,,0
+1527451200,Al-Faisaly Amman,Al Karmal,K8APFB8k,fwVtwuW9,1,0,,,,0
+1527451200,Al Ramtha,Al Wehdat,riw7cLfq,hWTOO0Lo,1,1,,,,0
+1527883200,Al-Faisaly Amman,Al Ramtha,K8APFB8k,riw7cLfq,2,0,,,,0

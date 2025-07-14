@@ -1,52 +1,52 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1707267600,Comunicaciones,Monterrey,1,4,,,,0
-1707274800,Esteli,Club America,2,1,,,,0
-1707346800,Herediano,Toluca,1,2,,,,0
-1707354000,Forge,Guadalajara Chivas,1,3,,,,0
-1707361200,Vancouver Whitecaps,Tigres UANL,1,1,,,,0
-1707879600,Guadalajara Chivas,Forge,2,1,,,,0
-1707958800,Tigres UANL,Vancouver Whitecaps,3,0,,,,0
-1707966900,Club America,Esteli,2,0,,,,0
-1708045200,Toluca,Herediano,2,3,,,,0
-1708053300,Monterrey,Comunicaciones,3,0,,,,0
-1708477200,St. Louis City,Houston Dynamo,2,1,,,,0
-1708484400,Saprissa,Philadelphia Union,2,3,,,,0
-1708563600,Independiente,New England Revolution,0,1,,,,0
-1708570800,Cavalry,Orlando City,0,3,,,,0
-1708646400,Moca,Nashville SC,0,3,,,,0
-1708653600,Cavalier,FC Cincinnati,0,2,,,,0
-1709074800,Orlando City,Cavalry,3,1,,,,0
-1709082900,Philadelphia Union,Saprissa,2,3,AET,3,3,0
-1709091000,Houston Dynamo,St. Louis City,1,0,,,,0
-1709164800,FC Cincinnati,Cavalier,4,0,,,,0
-1709172900,Nashville SC,Moca,4,0,,,,0
-1709255700,New England Revolution,Independiente,3,0,,,,0
-1709676000,Herediano,Robinhood,2,0,,,,0
-1709683200,Philadelphia Union,Pachuca,0,0,,,,0
-1709690400,Orlando City,Tigres UANL,0,0,,,,0
-1709766000,New England Revolution,Alajuelense,4,0,,,,0
-1709773200,Houston Dynamo,Columbus Crew,0,1,,,,0
-1709780400,Guadalajara Chivas,Club America,0,3,,,,0
-1709856000,FC Cincinnati,Monterrey,0,1,,,,0
-1709863200,Nashville SC,Inter Miami,2,2,,,,0
-1710280800,Columbus Crew,Houston Dynamo,1,1,,,,0
-1710288900,Pachuca,Philadelphia Union,6,0,,,,0
-1710297000,Tigres UANL,Orlando City,4,2,,,,0
-1710367200,Robinhood,Herediano,1,1,,,,0
-1710375300,Inter Miami,Nashville SC,3,1,,,,0
-1710383400,Club America,Guadalajara Chivas,2,3,,,,0
-1710460800,Alajuelense,New England Revolution,1,1,,,,0
-1710468900,Monterrey,FC Cincinnati,2,1,,,,0
-1712098800,Columbus Crew,Tigres UANL,1,1,,,,0
-1712106000,New England Revolution,Club America,0,4,,,,0
-1712188800,Inter Miami,Monterrey,1,2,,,,0
-1712196000,Herediano,Pachuca,0,5,,,,0
-1712709900,Tigres UANL,Columbus Crew,1,1,Pen,1,2,0
-1712716200,Club America,New England Revolution,5,2,,,,0
-1712794500,Pachuca,Herediano,2,1,,,,0
-1712802600,Monterrey,Inter Miami,3,1,,,,0
-1713924900,Club America,Pachuca,1,1,,,,0
-1714004100,Columbus Crew,Monterrey,2,1,,,,0
-1714526100,Pachuca,Club America,2,1,,,,0
-1714616100,Monterrey,Columbus Crew,1,3,,,,0
-1717290900,Pachuca,Columbus Crew,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1707267600,Comunicaciones,Monterrey,O2l6wJsK,MVPKYVvK,1,4,,,,0
+1707274800,Esteli,Club America,8vfD2YGb,OGkmEu0T,2,1,,,,0
+1707346800,Herediano,Toluca,zJ9gvDHG,0pHVJYjM,1,2,,,,0
+1707354000,Forge,Guadalajara Chivas,hxk14kfC,lEs0thDm,1,3,,,,0
+1707361200,Vancouver Whitecaps,Tigres UANL,nJrkMuTE,zgtUoENa,1,1,,,,0
+1707879600,Guadalajara Chivas,Forge,lEs0thDm,hxk14kfC,2,1,,,,0
+1707958800,Tigres UANL,Vancouver Whitecaps,zgtUoENa,nJrkMuTE,3,0,,,,0
+1707966900,Club America,Esteli,OGkmEu0T,8vfD2YGb,2,0,,,,0
+1708045200,Toluca,Herediano,0pHVJYjM,zJ9gvDHG,2,3,,,,0
+1708053300,Monterrey,Comunicaciones,MVPKYVvK,O2l6wJsK,3,0,,,,0
+1708477200,St. Louis City,Houston Dynamo,jmLPWdtA,YLT3ZeZm,2,1,,,,0
+1708484400,Saprissa,Philadelphia Union,tnwDCzLD,juuH5vx4,2,3,,,,0
+1708563600,Independiente,New England Revolution,nXJKIqpI,KI53uaQC,0,1,,,,0
+1708570800,Cavalry,Orlando City,WSm5399I,AFpqya1j,0,3,,,,0
+1708646400,Moca,Nashville SC,4xEHelxl,6JqXhTSA,0,3,,,,0
+1708653600,Cavalier,FC Cincinnati,KCGGnOpC,rFeme8rt,0,2,,,,0
+1709074800,Orlando City,Cavalry,AFpqya1j,WSm5399I,3,1,,,,0
+1709082900,Philadelphia Union,Saprissa,juuH5vx4,tnwDCzLD,2,3,AET,3,3,0
+1709091000,Houston Dynamo,St. Louis City,YLT3ZeZm,jmLPWdtA,1,0,,,,0
+1709078400,FC Cincinnati,Cavalier,rFeme8rt,KCGGnOpC,4,0,,,,0
+1709086500,Nashville SC,Moca,6JqXhTSA,4xEHelxl,4,0,,,,0
+1709255700,New England Revolution,Independiente,KI53uaQC,nXJKIqpI,3,0,,,,0
+1709676000,Herediano,Robinhood,zJ9gvDHG,QBSRqXVB,2,0,,,,0
+1709683200,Philadelphia Union,Pachuca,juuH5vx4,zFZbB1JF,0,0,,,,0
+1709690400,Orlando City,Tigres UANL,AFpqya1j,zgtUoENa,0,0,,,,0
+1709766000,New England Revolution,Alajuelense,KI53uaQC,4v3Y4ReF,4,0,,,,0
+1709773200,Houston Dynamo,Columbus Crew,YLT3ZeZm,OrE2LMh8,0,1,,,,0
+1709780400,Guadalajara Chivas,Club America,lEs0thDm,OGkmEu0T,0,3,,,,0
+1709856000,FC Cincinnati,Monterrey,rFeme8rt,MVPKYVvK,0,1,,,,0
+1709863200,Nashville SC,Inter Miami,6JqXhTSA,UwKTVGeG,2,2,,,,0
+1710280800,Columbus Crew,Houston Dynamo,OrE2LMh8,YLT3ZeZm,1,1,,,,0
+1710288900,Pachuca,Philadelphia Union,zFZbB1JF,juuH5vx4,6,0,,,,0
+1710297000,Tigres UANL,Orlando City,zgtUoENa,AFpqya1j,4,2,,,,0
+1710367200,Robinhood,Herediano,QBSRqXVB,zJ9gvDHG,1,1,,,,0
+1710375300,Inter Miami,Nashville SC,UwKTVGeG,6JqXhTSA,3,1,,,,0
+1710383400,Club America,Guadalajara Chivas,OGkmEu0T,lEs0thDm,2,3,,,,0
+1710460800,Alajuelense,New England Revolution,4v3Y4ReF,KI53uaQC,1,1,,,,0
+1710468900,Monterrey,FC Cincinnati,MVPKYVvK,rFeme8rt,2,1,,,,0
+1712098800,Columbus Crew,Tigres UANL,OrE2LMh8,zgtUoENa,1,1,,,,0
+1712106000,New England Revolution,Club America,KI53uaQC,OGkmEu0T,0,4,,,,0
+1712188800,Inter Miami,Monterrey,UwKTVGeG,MVPKYVvK,1,2,,,,0
+1712196000,Herediano,Pachuca,zJ9gvDHG,zFZbB1JF,0,5,,,,0
+1712709900,Tigres UANL,Columbus Crew,zgtUoENa,OrE2LMh8,1,1,Pen,1,2,0
+1712716200,Club America,New England Revolution,OGkmEu0T,KI53uaQC,5,2,,,,0
+1712794500,Pachuca,Herediano,zFZbB1JF,zJ9gvDHG,2,1,,,,0
+1712802600,Monterrey,Inter Miami,MVPKYVvK,UwKTVGeG,3,1,,,,0
+1713924900,Club America,Pachuca,OGkmEu0T,zFZbB1JF,1,1,,,,0
+1714004100,Columbus Crew,Monterrey,OrE2LMh8,MVPKYVvK,2,1,,,,0
+1714526100,Pachuca,Club America,zFZbB1JF,OGkmEu0T,2,1,,,,0
+1714616100,Monterrey,Columbus Crew,MVPKYVvK,OrE2LMh8,1,3,,,,0
+1717290900,Pachuca,Columbus Crew,zFZbB1JF,OrE2LMh8,3,0,,,,0

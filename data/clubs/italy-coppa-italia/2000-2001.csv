@@ -1,95 +1,95 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-966117600,Viterbese,Chievo,2,3,,,,0
-966117600,Varese,Torino,0,3,,,,0
-966117600,Savoia,Siena,1,0,,,,0
-966117600,Salernitana,Cagliari,2,1,,,,0
-966117600,Ravenna,Pistoiese,1,2,,,,0
-966117600,Pisa,Cosenza,0,0,,,,0
-966117600,Pescara,Venezia,1,1,,,,0
-966117600,Monza,Piacenza,0,1,,,,0
-966117600,Genoa,Ancona,2,3,,,,0
-966117600,Fermana,Sampdoria,0,2,,,,0
-966117600,Crotone,Empoli,1,3,,,,0
-966117600,Cesena,Ternana,1,1,,,,0
-966117600,Brescia,Treviso,1,0,,,,0
-966117600,Avellino,Atalanta,1,3,,,,0
-966117600,Ascoli,Cittadella,1,1,,,,0
-966117600,AlzanoCene,Brescello,1,1,,,,0
-966376800,Atalanta,Ravenna,1,0,,,,0
-966463200,Venezia,Savoia,2,1,,,,0
-966463200,Treviso,AlzanoCene,2,1,,,,0
-966463200,Torino,Cesena,2,1,,,,0
-966463200,Ternana,Varese,1,0,,,,0
-966463200,Siena,Pescara,2,2,,,,0
-966463200,Sampdoria,Crotone,2,1,,,,0
-966463200,Pistoiese,Avellino,1,4,,,,0
-966463200,Piacenza,Viterbese,3,0,,,,0
-966463200,Empoli,Fermana,2,2,,,,0
-966463200,Cosenza,Genoa,2,0,,,,0
-966463200,Cittadella,Salernitana,0,1,,,,0
-966463200,Chievo,Monza,2,1,,,,0
-966463200,Cagliari,Ascoli,2,2,,,,0
-966463200,Brescello,Brescia,0,1,,,,0
-966463200,Ancona,Pisa,2,1,,,,0
-966722400,Venezia,Siena,1,0,,,,0
-966722400,Torino,Ternana,3,3,,,,0
-966722400,Savoia,Pescara,3,4,,,,0
-966722400,Sampdoria,Empoli,4,3,,,,0
-966722400,Salernitana,Ascoli,1,0,,,,0
-966722400,Ravenna,Avellino,4,2,,,,0
-966722400,Pisa,Genoa,2,2,,,,0
-966722400,Monza,Viterbese,1,1,,,,0
-966722400,Crotone,Fermana,0,1,,,,0
-966722400,Cittadella,Cagliari,0,3,,,,0
-966722400,Chievo,Piacenza,1,3,,,,0
-966722400,Cesena,Varese,1,2,,,,0
-966722400,Brescia,AlzanoCene,1,2,,,,0
-966722400,Brescello,Treviso,1,0,,,,0
-966722400,Atalanta,Pistoiese,1,1,,,,0
-966722400,Ancona,Cosenza,0,1,,,,0
-967240800,Venezia,Bologna,2,2,,,,0
-967240800,Salernitana,Perugia,1,0,,,,0
-967240800,Cosenza,Lecce,0,2,,,,0
-967240800,Brescia,L.R. Vicenza,2,1,,,,0
-967327200,Torino,Bari,2,1,,,,0
-967327200,Sampdoria,Napoli,1,0,,,,0
-967327200,Piacenza,Verona,2,1,,,,0
-967327200,Atalanta,Reggina,2,0,,,,0
-968191200,Verona,Piacenza,2,2,AET,2,2,0
-968191200,Reggina,Atalanta,0,1,,,,0
-968191200,Perugia,Salernitana,2,1,,,,0
-968191200,Lecce,Cosenza,1,1,,,,0
-968191200,L.R. Vicenza,Brescia,2,1,,,,0
-968191200,Bologna,Venezia,0,1,,,,0
-968191200,Bari,Torino,0,0,,,,0
-968277600,Napoli,Sampdoria,0,0,,,,0
-969055200,Torino,AC Milan,1,3,,,,0
-969055200,Sampdoria,Lazio,1,1,,,,0
-969055200,Brescia,Juventus,0,0,,,,0
-969141600,Venezia,Parma,1,1,,,,0
-969141600,Salernitana,Fiorentina,0,5,,,,0
-969141600,Piacenza,Udinese,1,1,,,,0
-969141600,AS Roma,Atalanta,1,1,,,,0
-969228000,Inter,Lecce,1,1,,,,0
-969573600,Atalanta,AS Roma,4,2,,,,0
-969660000,Udinese,Piacenza,2,1,,,,0
-969660000,Juventus,Brescia,1,2,,,,0
-969660000,Fiorentina,Salernitana,3,1,,,,0
-969660000,AC Milan,Torino,0,1,,,,0
-969746400,Parma,Venezia,5,1,,,,0
-969746400,Lecce,Inter,1,3,,,,0
-969746400,Lazio,Sampdoria,5,2,,,,0
-975366000,AC Milan,Atalanta,4,2,,,,0
-975452400,Parma,Inter,6,1,,,,0
-975452400,Lazio,Udinese,2,1,,,,0
-975538800,Fiorentina,Brescia,6,0,,,,0
-976575600,Udinese,Lazio,4,1,,,,0
-976662000,Brescia,Fiorentina,3,1,,,,0
-976662000,Atalanta,AC Milan,2,1,,,,0
-976748400,Inter,Parma,0,0,,,,0
-980895600,AC Milan,Fiorentina,2,2,,,,0
-980982000,Udinese,Parma,2,1,,,,0
-981500400,Fiorentina,AC Milan,2,0,,,,0
-981586800,Parma,Udinese,1,0,,,,0
-990655200,Parma,Fiorentina,0,1,,,,0
-992383200,Fiorentina,Parma,1,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+966117600,Viterbese,Chievo,tbc6YjIS,fkHZWuUa,2,3,,,,0
+966117600,Varese,Torino,hjEdbqyp,0lwy4Ij1,0,3,,,,0
+966117600,Savoia,Siena,vqt2IkuP,8vr2UJt2,1,0,,,,0
+966117600,Salernitana,Cagliari,dvgFSUQH,McvX4bye,2,1,,,,0
+966117600,Ravenna,Pistoiese,SEDyoIQg,8GThtFyj,1,2,,,,0
+966117600,Pisa,Cosenza,GMOw3SI3,j5ryYBSC,0,0,,,,0
+966117600,Pescara,Venezia,0YEZEho5,AX567M6G,1,1,,,,0
+966117600,Monza,Piacenza,nedmW6cD,KfFUyYyC,0,1,,,,0
+966117600,Genoa,Ancona,hCD6m1R3,hEOjasbQ,2,3,,,,0
+966117600,Fermana,Sampdoria,lGjDNrNg,WdmUvPiG,0,2,,,,0
+966117600,Crotone,Empoli,Ma1dQfp5,KbH8aCLf,1,3,,,,0
+966117600,Cesena,Ternana,YB20ndi2,4h8hml0s,1,1,,,,0
+966117600,Brescia,Treviso,QuOACKLH,K8pmulQ5,1,0,,,,0
+966117600,Avellino,Atalanta,dp0XifTb,rg6usZns,1,3,,,,0
+966117600,Ascoli,Cittadella,CEqXYiD6,x89Kdsb3,1,1,,,,0
+966117600,AlzanoCene,Brescello,KvsCxZKU,,1,1,,,,0
+966376800,Atalanta,Ravenna,rg6usZns,SEDyoIQg,1,0,,,,0
+966463200,Venezia,Savoia,AX567M6G,vqt2IkuP,2,1,,,,0
+966463200,Treviso,AlzanoCene,K8pmulQ5,KvsCxZKU,2,1,,,,0
+966463200,Torino,Cesena,0lwy4Ij1,YB20ndi2,2,1,,,,0
+966463200,Ternana,Varese,4h8hml0s,hjEdbqyp,1,0,,,,0
+966463200,Siena,Pescara,8vr2UJt2,0YEZEho5,2,2,,,,0
+966463200,Sampdoria,Crotone,WdmUvPiG,Ma1dQfp5,2,1,,,,0
+966463200,Pistoiese,Avellino,8GThtFyj,dp0XifTb,1,4,,,,0
+966463200,Piacenza,Viterbese,KfFUyYyC,tbc6YjIS,3,0,,,,0
+966463200,Empoli,Fermana,KbH8aCLf,lGjDNrNg,2,2,,,,0
+966463200,Cosenza,Genoa,j5ryYBSC,hCD6m1R3,2,0,,,,0
+966463200,Cittadella,Salernitana,x89Kdsb3,dvgFSUQH,0,1,,,,0
+966463200,Chievo,Monza,fkHZWuUa,nedmW6cD,2,1,,,,0
+966463200,Cagliari,Ascoli,McvX4bye,CEqXYiD6,2,2,,,,0
+966463200,Brescello,Brescia,,QuOACKLH,0,1,,,,0
+966463200,Ancona,Pisa,hEOjasbQ,GMOw3SI3,2,1,,,,0
+966722400,Venezia,Siena,AX567M6G,8vr2UJt2,1,0,,,,0
+966722400,Torino,Ternana,0lwy4Ij1,4h8hml0s,3,3,,,,0
+966722400,Savoia,Pescara,vqt2IkuP,0YEZEho5,3,4,,,,0
+966722400,Sampdoria,Empoli,WdmUvPiG,KbH8aCLf,4,3,,,,0
+966722400,Salernitana,Ascoli,dvgFSUQH,CEqXYiD6,1,0,,,,0
+966722400,Ravenna,Avellino,SEDyoIQg,dp0XifTb,4,2,,,,0
+966722400,Pisa,Genoa,GMOw3SI3,hCD6m1R3,2,2,,,,0
+966722400,Monza,Viterbese,nedmW6cD,tbc6YjIS,1,1,,,,0
+966722400,Crotone,Fermana,Ma1dQfp5,lGjDNrNg,0,1,,,,0
+966722400,Cittadella,Cagliari,x89Kdsb3,McvX4bye,0,3,,,,0
+966722400,Chievo,Piacenza,fkHZWuUa,KfFUyYyC,1,3,,,,0
+966722400,Cesena,Varese,YB20ndi2,hjEdbqyp,1,2,,,,0
+966722400,Brescia,AlzanoCene,QuOACKLH,KvsCxZKU,1,2,,,,0
+966722400,Brescello,Treviso,,K8pmulQ5,1,0,,,,0
+966722400,Atalanta,Pistoiese,rg6usZns,8GThtFyj,1,1,,,,0
+966722400,Ancona,Cosenza,hEOjasbQ,j5ryYBSC,0,1,,,,0
+967240800,Venezia,Bologna,AX567M6G,McvX4bye,2,2,,,,0
+967240800,Salernitana,Perugia,dvgFSUQH,zBy2JPLp,1,0,,,,0
+967240800,Cosenza,Lecce,j5ryYBSC,McvX4bye,0,2,,,,0
+967240800,Brescia,L.R. Vicenza,QuOACKLH,nPPuzM9e,2,1,,,,0
+967327200,Torino,Bari,0lwy4Ij1,dYPMS6QG,2,1,,,,0
+967327200,Sampdoria,Napoli,WdmUvPiG,Qcs4tGVj,1,0,,,,0
+967327200,Piacenza,Verona,KfFUyYyC,Kxh373f3,2,1,,,,0
+967327200,Atalanta,Reggina,rg6usZns,fNvfBbuo,2,0,,,,0
+968191200,Verona,Piacenza,Kxh373f3,KfFUyYyC,2,2,AET,2,2,0
+968191200,Reggina,Atalanta,fNvfBbuo,rg6usZns,0,1,,,,0
+968191200,Perugia,Salernitana,zBy2JPLp,dvgFSUQH,2,1,,,,0
+968191200,Lecce,Cosenza,McvX4bye,j5ryYBSC,1,1,,,,0
+968191200,L.R. Vicenza,Brescia,nPPuzM9e,QuOACKLH,2,1,,,,0
+968191200,Bologna,Venezia,McvX4bye,AX567M6G,0,1,,,,0
+968191200,Bari,Torino,dYPMS6QG,0lwy4Ij1,0,0,,,,0
+968277600,Napoli,Sampdoria,Qcs4tGVj,WdmUvPiG,0,0,,,,0
+969055200,Torino,AC Milan,0lwy4Ij1,fL3dmxxd,1,3,,,,0
+969055200,Sampdoria,Lazio,WdmUvPiG,fL3dmxxd,1,1,,,,0
+969055200,Brescia,Juventus,QuOACKLH,EXzXDYgS,0,0,,,,0
+969141600,Venezia,Parma,AX567M6G,fydXzLY6,1,1,,,,0
+969141600,Salernitana,Fiorentina,dvgFSUQH,6XKdgOM6,0,5,,,,0
+969141600,Piacenza,Udinese,KfFUyYyC,SYw7EcY6,1,1,,,,0
+969141600,AS Roma,Atalanta,GtNb9h2q,rg6usZns,1,1,,,,0
+969228000,Inter,Lecce,jDrBQiMS,McvX4bye,1,1,,,,0
+969573600,Atalanta,AS Roma,rg6usZns,GtNb9h2q,4,2,,,,0
+969660000,Udinese,Piacenza,SYw7EcY6,KfFUyYyC,2,1,,,,0
+969660000,Juventus,Brescia,EXzXDYgS,QuOACKLH,1,2,,,,0
+969660000,Fiorentina,Salernitana,6XKdgOM6,dvgFSUQH,3,1,,,,0
+969660000,AC Milan,Torino,fL3dmxxd,0lwy4Ij1,0,1,,,,0
+969746400,Parma,Venezia,fydXzLY6,AX567M6G,5,1,,,,0
+969746400,Lecce,Inter,McvX4bye,jDrBQiMS,1,3,,,,0
+969746400,Lazio,Sampdoria,fL3dmxxd,WdmUvPiG,5,2,,,,0
+975366000,AC Milan,Atalanta,fL3dmxxd,rg6usZns,4,2,,,,0
+975452400,Parma,Inter,fydXzLY6,jDrBQiMS,6,1,,,,0
+975452400,Lazio,Udinese,fL3dmxxd,SYw7EcY6,2,1,,,,0
+975538800,Fiorentina,Brescia,6XKdgOM6,QuOACKLH,6,0,,,,0
+976575600,Udinese,Lazio,SYw7EcY6,fL3dmxxd,4,1,,,,0
+976662000,Brescia,Fiorentina,QuOACKLH,6XKdgOM6,3,1,,,,0
+976662000,Atalanta,AC Milan,rg6usZns,fL3dmxxd,2,1,,,,0
+976748400,Inter,Parma,jDrBQiMS,fydXzLY6,0,0,,,,0
+980895600,AC Milan,Fiorentina,fL3dmxxd,6XKdgOM6,2,2,,,,0
+980982000,Udinese,Parma,SYw7EcY6,fydXzLY6,2,1,,,,0
+981500400,Fiorentina,AC Milan,6XKdgOM6,fL3dmxxd,2,0,,,,0
+981586800,Parma,Udinese,fydXzLY6,SYw7EcY6,1,0,,,,0
+990655200,Parma,Fiorentina,fydXzLY6,6XKdgOM6,0,1,,,,0
+992383200,Fiorentina,Parma,6XKdgOM6,fydXzLY6,1,1,,,,0

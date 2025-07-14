@@ -1,30 +1,30 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1623337200,Juan Aurich,Alianza Atl.,0,1,,,,0
-1623347100,Union Comercio,Alianza Huanuco,4,1,,,,0
-1623357000,Carlos Stein,Ayacucho,0,1,,,,0
-1623367800,Dep. Municipal,AD Cantolao,1,0,,,,0
-1623423600,Binacional,Cusco,1,1,Pen,1,2,0
-1623433500,Union Huaral,Cesar Vallejo,1,2,,,,0
-1623443400,Santos,Sport Boys,1,3,,,,0
-1623454200,Los Chankas,Alianza Lima,2,2,Pen,3,2,0
-1623518100,Comerciantes Unidos,Cajamarca,0,1,,,,0
-1623528000,Pirata,Cienciano,0,0,Pen,1,0,0
-1623544200,Deportivo Coopsol,U. de Deportes,1,0,,,,0
-1623604500,Llacuabamba,U. San Martin,2,2,Pen,3,2,0
-1623614400,FBC Melgar,Carlos Mannucci,1,2,,,,0
-1623630600,Chavelines,Sport Huancayo,0,0,Pen,1,0,0
-1623855600,Ayacucho,Alianza Atl.,0,0,Pen,1,0,0
-1623873600,Grau,Dep. Municipal,0,0,Pen,1,0,0
-1623952800,Cesar Vallejo,Sport Boys,1,2,,,,0
-1624039200,Cajamarca,Pirata,1,0,,,,0
-1624114800,Union Comercio,Los Chankas,1,0,,,,0
-1624132800,Sporting Cristal,Cusco,3,2,,,,0
-1624147200,Carlos Mannucci,Llacuabamba,3,0,,,,0
-1624215600,Chavelines,Deportivo Coopsol,3,2,,,,0
-1624471200,Union Comercio,Sport Boys,0,0,Pen,1,0,0
-1624548600,Chavelines,Grau,1,2,,,,0
-1624564800,Cajamarca,Carlos Mannucci,0,0,Pen,0,1,0
-1624651200,Ayacucho,Sporting Cristal,0,2,,,,0
-1625418000,Carlos Mannucci,Grau,2,2,Pen,3,2,0
-1625428800,Sporting Cristal,Union Comercio,2,0,,,,0
-1627432200,Carlos Mannucci,Sporting Cristal,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1623337200,Juan Aurich,Alianza Atl.,z942qmGf,z942qmGf,0,1,,,,0
+1623347100,Union Comercio,Alianza Huanuco,hj2AsRp7,E5fjRD3k,4,1,,,,0
+1623357000,Carlos Stein,Ayacucho,02pXIKyP,4GUthy9Q,0,1,,,,0
+1623367800,Dep. Municipal,AD Cantolao,zRF5pj7O,lld3ci33,1,0,,,,0
+1623423600,Binacional,Cusco,EDbytE92,06OeOzI0,1,1,Pen,1,2,0
+1623433500,Union Huaral,Cesar Vallejo,hj2AsRp7,SthHX6SB,1,2,,,,0
+1623443400,Santos,Sport Boys,lld3ci33,fFhdpXur,1,3,,,,0
+1623454200,Los Chankas,Alianza Lima,v9LWknvd,tE1csI3A,2,2,Pen,3,2,0
+1623518100,Comerciantes Unidos,Cajamarca,8dieWfgh,hj2AsRp7,0,1,,,,0
+1623528000,Pirata,Cienciano,jNi7RAJG,z942qmGf,0,0,Pen,1,0,0
+1623544200,Deportivo Coopsol,U. de Deportes,lld3ci33,pzbJPTLS,1,0,,,,0
+1623604500,Llacuabamba,U. San Martin,GdPMFPFs,COxGnSy6,2,2,Pen,3,2,0
+1623614400,FBC Melgar,Carlos Mannucci,AccabXmc,rw6NQFcl,1,2,,,,0
+1623630600,Chavelines,Sport Huancayo,Ea36r7V0,6ayjGGhJ,0,0,Pen,1,0,0
+1623855600,Ayacucho,Alianza Atl.,4GUthy9Q,z942qmGf,0,0,Pen,1,0,0
+1623873600,Grau,Dep. Municipal,IaKc0OzC,zRF5pj7O,0,0,Pen,1,0,0
+1623952800,Cesar Vallejo,Sport Boys,SthHX6SB,fFhdpXur,1,2,,,,0
+1624039200,Cajamarca,Pirata,hj2AsRp7,jNi7RAJG,1,0,,,,0
+1624114800,Union Comercio,Los Chankas,hj2AsRp7,v9LWknvd,1,0,,,,0
+1624132800,Sporting Cristal,Cusco,Em9Gxj8O,06OeOzI0,3,2,,,,0
+1624147200,Carlos Mannucci,Llacuabamba,rw6NQFcl,GdPMFPFs,3,0,,,,0
+1624215600,Chavelines,Deportivo Coopsol,Ea36r7V0,lld3ci33,3,2,,,,0
+1624471200,Union Comercio,Sport Boys,hj2AsRp7,fFhdpXur,0,0,Pen,1,0,0
+1624548600,Chavelines,Grau,Ea36r7V0,IaKc0OzC,1,2,,,,0
+1624564800,Cajamarca,Carlos Mannucci,hj2AsRp7,rw6NQFcl,0,0,Pen,0,1,0
+1624651200,Ayacucho,Sporting Cristal,4GUthy9Q,Em9Gxj8O,0,2,,,,0
+1625418000,Carlos Mannucci,Grau,rw6NQFcl,IaKc0OzC,2,2,Pen,3,2,0
+1625428800,Sporting Cristal,Union Comercio,Em9Gxj8O,hj2AsRp7,2,0,,,,0
+1627432200,Carlos Mannucci,Sporting Cristal,rw6NQFcl,Em9Gxj8O,1,2,,,,0

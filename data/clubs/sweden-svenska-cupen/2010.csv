@@ -1,72 +1,72 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1268931600,Helsingborgs IF Akademi,Rosengard,4,6,,,,0
-1269687600,Skovde AIK,Degerfors,1,1,Pen,1,2,0
-1269687600,Grondals,AFC Eskilstuna,1,1,AET,1,3,0
-1269691200,Umedalen,Boden,4,0,,,,0
-1269691200,Norrby,Jonkoping,1,3,,,,0
-1269691200,Klagshamn,Bunkeflo IF,1,3,,,,0
-1269693000,Nykopings,Forward,2,2,AET,2,5,0
-1269694800,Halmia,Lunds,0,0,AET,0,1,0
-1269694800,Akropolis,Hammarby TFF,2,3,,,,0
-1269696600,Solvesborgs,Oster,0,2,,,,0
-1269698400,Mariedals,Utsikten,0,4,,,,0
-1269698400,IFK Hassleholm,Varnamo,0,1,,,,0
-1269774000,Myresjo,Norrkoping,1,3,,,,0
-1269774000,Hudiksvall,Sirius,0,2,,,,0
-1269774900,Varmbols,Carlstad,2,0,,,,0
-1269777600,Gunnilse,Ljungskile,1,2,,,,0
-1269784800,Sandviken,Dalkurd,1,1,Pen,2,3,0
-1269788400,Oskarshamn,Tenhults,1,1,AET,2,1,0
-1269788400,Friska Viljor,Ostersund,1,6,,,,0
-1269797400,Varmdo,Vasalund,3,2,,,,0
-1269965700,Torslanda,Qviding,1,2,,,,0
-1269968400,Frej,Vasteras SK,0,4,,,,0
-1270054800,Enskede,V. Syrianska,0,2,,,,0
-1270055700,Holmalunds IF,Trollhattan,0,1,,,,0
-1270659600,Oskarshamn,Oster,1,4,,,,0
-1270830600,Sirius,Sundsvall,2,3,,,,0
-1270832400,Rosengard,Angelholm,1,1,AET,2,3,0
-1270990800,Umedalen,Ostersund,1,7,,,,0
-1271264400,Hammarby TFF,Assyriska FF,1,0,,,,0
-1271509200,Varmdo,Hammarby,2,2,AET,2,3,0
-1271602800,Varmbols,Jonkoping,2,2,AET,2,3,0
-1271865600,Bunkeflo IF,Landskrona,1,0,,,,0
-1271867400,V. Syrianska,Syrianska,1,2,,,,0
-1271869200,Varnamo,Orgryte,1,1,AET,1,2,0
-1271869200,Utsikten,Trollhattan,2,3,,,,0
-1271869200,Qviding,Ljungskile,1,2,,,,0
-1271869200,Forward,Degerfors,1,4,,,,0
-1271869200,Dalkurd,AFC Eskilstuna,1,1,AET,1,2,0
-1271870100,Lunds,Falkenberg,1,5,,,,0
-1271955600,Vasteras SK,Norrkoping,1,2,,,,0
-1274200200,Bunkeflo IF,Mjallby,0,1,,,,0
-1274202000,Syrianska,Malmo FF,0,0,AET,0,1,0
-1274202000,Ljungskile,Djurgarden,2,0,,,,0
-1274202000,Angelholm,Halmstad,1,0,,,,0
-1274284800,Hammarby TFF,Helsingborg,1,3,,,,0
-1274288400,Trollhattan,Kalmar,0,3,,,,0
-1274288400,Ostersund,Hacken,0,5,,,,0
-1274288400,Jonkoping,Atvidaberg,1,1,AET,2,1,0
-1274288400,Falkenberg,Brommapojkarna,0,2,,,,0
-1274288400,Degerfors,Elfsborg,0,2,,,,0
-1274288400,AFC Eskilstuna,Goteborg,0,2,,,,0
-1274806800,Sundsvall,GAIS,1,1,AET,1,2,0
-1274806800,Oster,AIK,1,1,AET,1,3,0
-1274806800,Orgryte,Gefle,0,1,,,,0
-1274806800,Norrkoping,Orebro,0,0,AET,0,2,0
-1275584400,Hammarby,Trelleborg,3,1,,,,0
-1277654400,Goteborg,Kalmar,3,3,AET,3,4,0
-1277656200,Ljungskile,Gefle,0,1,,,,0
-1278003600,Hammarby,Elfsborg,3,1,,,,0
-1278088200,Jonkoping,Orebro,0,2,,,,0
-1278252000,Mjallby,Malmo FF,4,1,,,,0
-1278255600,GAIS,Brommapojkarna,0,0,Pen,0,1,0
-1278349200,Helsingborg,Hacken,2,1,,,,0
-1278349200,Angelholm,AIK,1,1,AET,1,2,0
-1278687600,AIK,Helsingborg,1,1,Pen,1,2,0
-1278774000,Orebro,Mjallby,0,3,,,,0
-1278860400,Kalmar,Gefle,1,1,AET,3,1,0
-1279731600,Hammarby,Brommapojkarna,2,2,Pen,3,2,0
-1288198800,Hammarby,Kalmar,2,2,Pen,3,2,0
-1288285200,Helsingborg,Mjallby,2,0,,,,0
-1289660400,Hammarby,Helsingborg,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1268931600,Helsingborgs IF Akademi,Rosengard,fgcWmlVr,QcJ8eecS,4,6,,,,0
+1269687600,Skovde AIK,Degerfors,MeoZXSyR,byiRP7dH,1,1,Pen,1,2,0
+1269687600,Grondals,AFC Eskilstuna,UsxkAd2I,dU39vFud,1,1,AET,1,3,0
+1269691200,Umedalen,Boden,YmUOXpOj,bBonCJxo,4,0,,,,0
+1269691200,Norrby,Jonkoping,tl2CILaH,W2EojdRP,1,3,,,,0
+1269691200,Klagshamn,Bunkeflo IF,ObO9Alc0,29ebI4SF,1,3,,,,0
+1269693000,Nykopings,Forward,Yi2v6Aff,bo4M90zT,2,2,AET,2,5,0
+1269694800,Halmia,Lunds,0tVbG58r,tl2CILaH,0,0,AET,0,1,0
+1269694800,Akropolis,Hammarby TFF,QcJ8eecS,fouVST7P,2,3,,,,0
+1269696600,Solvesborgs,Oster,KYBKrQk0,OhPYORgk,0,2,,,,0
+1269698400,Mariedals,Utsikten,dn5CqD0I,j7PloxIt,0,4,,,,0
+1269698400,IFK Hassleholm,Varnamo,SthHX6SB,hdwWI4JT,0,1,,,,0
+1269774000,Myresjo,Norrkoping,OfEmUdKC,W2EojdRP,1,3,,,,0
+1269774000,Hudiksvall,Sirius,dlUMEYZk,KrZP8Bjn,0,2,,,,0
+1269774900,Varmbols,Carlstad,vZG58BBc,0C9HLsbH,2,0,,,,0
+1269777600,Gunnilse,Ljungskile,MmVqFGT5,W4XOBkpi,1,2,,,,0
+1269784800,Sandviken,Dalkurd,8t1QRKO8,bBonCJxo,1,1,Pen,2,3,0
+1269788400,Oskarshamn,Tenhults,WCsAlEhL,0tVbG58r,1,1,AET,2,1,0
+1269788400,Friska Viljor,Ostersund,j7XJywqn,WnKsn5Ti,1,6,,,,0
+1269797400,Varmdo,Vasalund,MmVqFGT5,EPWyZtpb,3,2,,,,0
+1269965700,Torslanda,Qviding,Y7EtaRe0,tbRpZFMs,1,2,,,,0
+1269968400,Frej,Vasteras SK,drZTz3Fo,hIhPvFFi,0,4,,,,0
+1270054800,Enskede,V. Syrianska,0ASINSdB,6yedjYSi,0,2,,,,0
+1270055700,Holmalunds IF,Trollhattan,Eeq8qKJi,Kdx2cvm8,0,1,,,,0
+1270659600,Oskarshamn,Oster,WCsAlEhL,OhPYORgk,1,4,,,,0
+1270830600,Sirius,Sundsvall,KrZP8Bjn,rFwxlpm5,2,3,,,,0
+1270832400,Rosengard,Angelholm,QcJ8eecS,8Ux0cWp6,1,1,AET,2,3,0
+1270990800,Umedalen,Ostersund,YmUOXpOj,WnKsn5Ti,1,7,,,,0
+1271264400,Hammarby TFF,Assyriska FF,fouVST7P,xOaZHl96,1,0,,,,0
+1271509200,Varmdo,Hammarby,MmVqFGT5,EamQtThn,2,2,AET,2,3,0
+1271602800,Varmbols,Jonkoping,vZG58BBc,W2EojdRP,2,2,AET,2,3,0
+1271865600,Bunkeflo IF,Landskrona,29ebI4SF,8MQIUsm4,1,0,,,,0
+1271867400,V. Syrianska,Syrianska,6yedjYSi,z5zW6ZEb,1,2,,,,0
+1271869200,Varnamo,Orgryte,hdwWI4JT,KQTvUQwK,1,1,AET,1,2,0
+1271869200,Utsikten,Trollhattan,j7PloxIt,Kdx2cvm8,2,3,,,,0
+1271869200,Qviding,Ljungskile,tbRpZFMs,W4XOBkpi,1,2,,,,0
+1271869200,Forward,Degerfors,bo4M90zT,byiRP7dH,1,4,,,,0
+1271869200,Dalkurd,AFC Eskilstuna,bBonCJxo,dU39vFud,1,1,AET,1,2,0
+1271870100,Lunds,Falkenberg,tl2CILaH,8CTmUesg,1,5,,,,0
+1271955600,Vasteras SK,Norrkoping,hIhPvFFi,W2EojdRP,1,2,,,,0
+1274200200,Bunkeflo IF,Mjallby,29ebI4SF,tl2CILaH,0,1,,,,0
+1274202000,Syrianska,Malmo FF,z5zW6ZEb,YmCZKGcR,0,0,AET,0,1,0
+1274202000,Ljungskile,Djurgarden,W4XOBkpi,lvoaqOtj,2,0,,,,0
+1274202000,Angelholm,Halmstad,8Ux0cWp6,Qw5ziF5q,1,0,,,,0
+1274284800,Hammarby TFF,Helsingborg,fouVST7P,2TRrus0k,1,3,,,,0
+1274288400,Trollhattan,Kalmar,Kdx2cvm8,CSvriyX1,0,3,,,,0
+1274288400,Ostersund,Hacken,WnKsn5Ti,Ew0jDlyt,0,5,,,,0
+1274288400,Jonkoping,Atvidaberg,W2EojdRP,nLy4dj0C,1,1,AET,2,1,0
+1274288400,Falkenberg,Brommapojkarna,8CTmUesg,Mc459BFI,0,2,,,,0
+1274288400,Degerfors,Elfsborg,byiRP7dH,tl2CILaH,0,2,,,,0
+1274288400,AFC Eskilstuna,Goteborg,dU39vFud,jqs0yJHC,0,2,,,,0
+1274806800,Sundsvall,GAIS,rFwxlpm5,2c38J1pB,1,1,AET,1,2,0
+1274806800,Oster,AIK,OhPYORgk,2c38J1pB,1,1,AET,1,3,0
+1274806800,Orgryte,Gefle,KQTvUQwK,2c38J1pB,0,1,,,,0
+1274806800,Norrkoping,Orebro,W2EojdRP,Kv1GHuFN,0,0,AET,0,2,0
+1275584400,Hammarby,Trelleborg,EamQtThn,Y551C19F,3,1,,,,0
+1277654400,Goteborg,Kalmar,jqs0yJHC,CSvriyX1,3,3,AET,3,4,0
+1277656200,Ljungskile,Gefle,W4XOBkpi,2c38J1pB,0,1,,,,0
+1278003600,Hammarby,Elfsborg,EamQtThn,tl2CILaH,3,1,,,,0
+1278088200,Jonkoping,Orebro,W2EojdRP,Kv1GHuFN,0,2,,,,0
+1278252000,Mjallby,Malmo FF,tl2CILaH,YmCZKGcR,4,1,,,,0
+1278255600,GAIS,Brommapojkarna,2c38J1pB,Mc459BFI,0,0,Pen,0,1,0
+1278349200,Helsingborg,Hacken,2TRrus0k,Ew0jDlyt,2,1,,,,0
+1278349200,Angelholm,AIK,8Ux0cWp6,2c38J1pB,1,1,AET,1,2,0
+1278687600,AIK,Helsingborg,2c38J1pB,2TRrus0k,1,1,Pen,1,2,0
+1278774000,Orebro,Mjallby,Kv1GHuFN,tl2CILaH,0,3,,,,0
+1278860400,Kalmar,Gefle,CSvriyX1,2c38J1pB,1,1,AET,3,1,0
+1279731600,Hammarby,Brommapojkarna,EamQtThn,Mc459BFI,2,2,Pen,3,2,0
+1288198800,Hammarby,Kalmar,EamQtThn,CSvriyX1,2,2,Pen,3,2,0
+1288285200,Helsingborg,Mjallby,2TRrus0k,tl2CILaH,2,0,,,,0
+1289660400,Hammarby,Helsingborg,EamQtThn,2TRrus0k,0,1,,,,0

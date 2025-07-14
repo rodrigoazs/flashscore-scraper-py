@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1734008400,Al Jalil,Al Salt,1,4,,,,0
-1734018300,Al Wehdat,Maan,5,1,,,,0
-1734094800,Al Ramtha,Al Jazeera Amman,1,0,,,,0
-1734104700,Aqaba,Al-Faisaly Amman,0,5,,,,0
-1734177600,Moghayer Al Sarhan,Sahab,4,2,,,,0
-1734181200,Al Ahli,Shabab Al Ordon,2,1,,,,0
-1734192000,Al Arabi Irbid,Al Hussein,0,2,,,,0
-1734267600,Sama Al Sarhan,Al Sareeh,1,1,Pen,2,1,0
-1734706800,Al Ramtha,Al Ahli,1,2,,,,0
-1734962400,Al Salt,Al Hussein,1,1,Pen,1,2,0
-1734972300,Al Wehdat,Sama Al Sarhan,3,0,,,,0
-1735052400,Moghayer Al Sarhan,Al-Faisaly Amman,1,3,,,,0
-1746720000,Al-Faisaly Amman,Al Hussein,0,1,,,,0
-1746720000,Al Ahli,Al Wehdat,0,0,Pen,0,1,0
-1747069200,Al Hussein,Al Wehdat,0,0,Pen,0,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1734008400,Al Jalil,Al Salt,O0L3N4eq,8WZfae8O,1,4,,,,0
+1734018300,Al Wehdat,Maan,hWTOO0Lo,2mAkbiJd,5,1,,,,0
+1734094800,Al Ramtha,Al Jazeera Amman,riw7cLfq,WdX72eig,1,0,,,,0
+1734104700,Aqaba,Al-Faisaly Amman,480NxCMF,K8APFB8k,0,5,,,,0
+1734177600,Moghayer Al Sarhan,Sahab,rothtI2e,nijksXCp,4,2,,,,0
+1734181200,Al Ahli,Shabab Al Ordon,6ucmGLnJ,dvq5wjeM,2,1,,,,0
+1734192000,Al Arabi Irbid,Al Hussein,phHdbrII,WnrX0gmJ,0,2,,,,0
+1734267600,Sama Al Sarhan,Al Sareeh,M3k9v3e9,Qgg1NV7E,1,1,Pen,2,1,0
+1734706800,Al Ramtha,Al Ahli,riw7cLfq,6ucmGLnJ,1,2,,,,0
+1734962400,Al Salt,Al Hussein,8WZfae8O,WnrX0gmJ,1,1,Pen,1,2,0
+1734972300,Al Wehdat,Sama Al Sarhan,hWTOO0Lo,M3k9v3e9,3,0,,,,0
+1735052400,Moghayer Al Sarhan,Al-Faisaly Amman,rothtI2e,K8APFB8k,1,3,,,,0
+1746720000,Al-Faisaly Amman,Al Hussein,K8APFB8k,WnrX0gmJ,0,1,,,,0
+1746720000,Al Ahli,Al Wehdat,6ucmGLnJ,hWTOO0Lo,0,0,Pen,0,1,0
+1747069200,Al Hussein,Al Wehdat,WnrX0gmJ,hWTOO0Lo,0,0,Pen,0,1,0

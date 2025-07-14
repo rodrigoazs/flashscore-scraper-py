@@ -1,23 +1,23 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-967113000,Lion City,Hougang,2,0,,,,0
-967113000,Gombak,Clementi Khalsa,0,0,Pen,1,0,0
-967199400,Woodlands Wellington,Sembawang Rangers,3,0,,,,0
-967199400,Police S. A.,Tessensohn Khalsa,5,1,,,,0
-967199400,Balestier Khalsa,Tampines,1,2,,,,0
-967285800,Warriors,Sembawang SC,3,0,,,,0
-967285800,Tanjong Pagar,Jurong,3,2,,,,0
-967285800,Andrews Avenue,Geylang,0,2,,,,0
-967717800,Gombak,Lion City,2,2,,,,0
-967804200,Tampines,Geylang,0,2,,,,0
-967804200,Police S. A.,Woodlands Wellington,0,7,,,,0
-967890600,Tanjong Pagar,Warriors,1,1,,,,0
-968322600,Warriors,Tanjong Pagar,3,1,,,,0
-968409000,Woodlands Wellington,Police S. A.,5,0,,,,0
-968409000,Geylang,Tampines,5,0,,,,0
-968668200,Lion City,Gombak,4,0,,,,0
-969013800,Geylang,Warriors,0,1,,,,0
-969100200,Lion City,Woodlands Wellington,4,2,,,,0
-969618600,Warriors,Geylang,1,1,,,,0
-969705000,Woodlands Wellington,Lion City,2,2,,,,0
-970396200,Lion City,Warriors,1,0,,,,0
-970396200,Geylang,Woodlands Wellington,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+967113000,Lion City,Hougang,pW3pRTln,4fcEsivK,2,0,,,,0
+967113000,Gombak,Clementi Khalsa,I19RPt17,,0,0,Pen,1,0,0
+967199400,Woodlands Wellington,Sembawang Rangers,CKls4Q5g,,3,0,,,,0
+967199400,Police S. A.,Tessensohn Khalsa,CnXbvZRm,,5,1,,,,0
+967199400,Balestier Khalsa,Tampines,MZaTAD0m,d0hl69s2,1,2,,,,0
+967285800,Warriors,Sembawang SC,nNKuYSHo,,3,0,,,,0
+967285800,Tanjong Pagar,Jurong,bwrRv2m2,,3,2,,,,0
+967285800,Andrews Avenue,Geylang,,df9tRVup,0,2,,,,0
+967717800,Gombak,Lion City,I19RPt17,pW3pRTln,2,2,,,,0
+967804200,Tampines,Geylang,d0hl69s2,df9tRVup,0,2,,,,0
+967804200,Police S. A.,Woodlands Wellington,CnXbvZRm,CKls4Q5g,0,7,,,,0
+967890600,Tanjong Pagar,Warriors,bwrRv2m2,nNKuYSHo,1,1,,,,0
+968322600,Warriors,Tanjong Pagar,nNKuYSHo,bwrRv2m2,3,1,,,,0
+968409000,Woodlands Wellington,Police S. A.,CKls4Q5g,CnXbvZRm,5,0,,,,0
+968409000,Geylang,Tampines,df9tRVup,d0hl69s2,5,0,,,,0
+968668200,Lion City,Gombak,pW3pRTln,I19RPt17,4,0,,,,0
+969013800,Geylang,Warriors,df9tRVup,nNKuYSHo,0,1,,,,0
+969100200,Lion City,Woodlands Wellington,pW3pRTln,CKls4Q5g,4,2,,,,0
+969618600,Warriors,Geylang,nNKuYSHo,df9tRVup,1,1,,,,0
+969705000,Woodlands Wellington,Lion City,CKls4Q5g,pW3pRTln,2,2,,,,0
+970396200,Lion City,Warriors,pW3pRTln,nNKuYSHo,1,0,,,,0
+970396200,Geylang,Woodlands Wellington,df9tRVup,CKls4Q5g,3,0,,,,0

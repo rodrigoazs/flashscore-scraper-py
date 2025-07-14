@@ -1,24 +1,24 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1246442400,Jeonnam,Gangwon,1,0,,,,0
-1246442400,Jeonbuk,Seoul,3,1,,,,0
-1246442400,Jeju SK,Gimcheon Sangmu,1,1,Pen,2,1,0
-1246442400,Goyang,Pohang,0,4,,,,0
-1246444200,Seongnam,Chung-Ang Univ.,1,0,,,,0
-1246444200,Daejeon,Kyung Hee Univ.,1,1,AET,2,1,0
-1246446000,Gyeongnam,Daegu,0,0,Pen,0,1,0
-1246446000,Busan,Suwon Bluewings,0,1,,,,0
-1247047200,Jeju SK,Ulsan HD,0,1,,,,0
-1247049000,Pohang,Suwon Bluewings,3,0,,,,0
-1247050800,Seoul,Incheon,0,0,,,,0
-1247050800,Busan,Seongnam,3,2,,,,0
-1247652000,Jeju SK,Jeonbuk,2,2,AET,2,5,0
-1247652000,Daegu,Daejeon,1,1,Pen,1,2,0
-1247653800,Suwon Bluewings,Jeonnam,3,0,,,,0
-1247653800,Seongnam,Pohang,2,1,,,,0
-1248256800,Ulsan HD,Jeju SK,4,1,,,,0
-1248258600,Suwon Bluewings,Pohang,0,1,,,,0
-1248260400,Seongnam,Busan,1,0,Pen,1,1,0
-1248260400,Incheon,Seoul,1,1,Pen,1,2,0
-1254911400,Suwon Bluewings,Jeonbuk,3,0,,,,0
-1254911400,Seongnam,Daejeon,1,0,,,,0
-1257742800,Seongnam,Suwon Bluewings,1,1,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1246442400,Jeonnam,Gangwon,0fjMSYzR,tjoPM7VE,1,0,,,,0
+1246442400,Jeonbuk,Seoul,fm8Q2TnU,8rKfsneA,3,1,,,,0
+1246442400,Jeju SK,Gimcheon Sangmu,nFQt27sT,UNadZKxs,1,1,Pen,2,1,0
+1246442400,Goyang,Pohang,,lG6iYHm8,0,4,,,,0
+1246444200,Seongnam,Chung-Ang Univ.,l04KlBA6,z5bSfb6i,1,0,,,,0
+1246444200,Daejeon,Kyung Hee Univ.,l6HzCrRi,GI2kniPE,1,1,AET,2,1,0
+1246446000,Gyeongnam,Daegu,OlLDanjn,AkeugwZe,0,0,Pen,0,1,0
+1246446000,Busan,Suwon Bluewings,23xlOhqr,nuOc3CG5,0,1,,,,0
+1247047200,Jeju SK,Ulsan HD,nFQt27sT,0hHJPkl1,0,1,,,,0
+1247049000,Pohang,Suwon Bluewings,lG6iYHm8,nuOc3CG5,3,0,,,,0
+1247050800,Seoul,Incheon,8rKfsneA,U904kONG,0,0,,,,0
+1247050800,Busan,Seongnam,23xlOhqr,l04KlBA6,3,2,,,,0
+1247652000,Jeju SK,Jeonbuk,nFQt27sT,fm8Q2TnU,2,2,AET,2,5,0
+1247652000,Daegu,Daejeon,AkeugwZe,l6HzCrRi,1,1,Pen,1,2,0
+1247653800,Suwon Bluewings,Jeonnam,nuOc3CG5,0fjMSYzR,3,0,,,,0
+1247653800,Seongnam,Pohang,l04KlBA6,lG6iYHm8,2,1,,,,0
+1248256800,Ulsan HD,Jeju SK,0hHJPkl1,nFQt27sT,4,1,,,,0
+1248258600,Suwon Bluewings,Pohang,nuOc3CG5,lG6iYHm8,0,1,,,,0
+1248260400,Seongnam,Busan,l04KlBA6,23xlOhqr,1,0,Pen,1,1,0
+1248260400,Incheon,Seoul,U904kONG,8rKfsneA,1,1,Pen,1,2,0
+1254911400,Suwon Bluewings,Jeonbuk,nuOc3CG5,fm8Q2TnU,3,0,,,,0
+1254911400,Seongnam,Daejeon,l04KlBA6,l6HzCrRi,1,0,,,,0
+1257742800,Seongnam,Suwon Bluewings,l04KlBA6,nuOc3CG5,1,1,Pen,1,2,0

@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1282163400,Junior,America De Cali,1,0,,,,0
-1282163400,Huila,La Equidad,2,1,,,,0
-1282163400,Aguilas,Deportes Tolima,1,0,,,,0
-1282177800,Chico,Atl. Nacional,2,2,,,,0
-1282177800,Atl. La Sabana,Cucuta,1,0,,,,0
-1282179600,Dep. Pasto,Pereira,1,2,,,,0
-1282181400,Bucaramanga,Millonarios,1,2,,,,0
-1282264200,Santa Fe,Cartagena,2,0,,,,0
-1282768200,Pereira,Dep. Pasto,3,0,,,,0
-1282768200,Deportes Tolima,Aguilas,2,2,,,,0
-1282768200,Dep. Cali,Junior,3,2,Pen,4,2,0
-1282768200,Cartagena,Santa Fe,3,1,Pen,3,2,0
-1282782600,La Equidad,Huila,2,0,,,,0
-1282782600,Cucuta,Atl. La Sabana,4,0,,,,0
-1282782600,Atl. Nacional,Chico,2,1,,,,0
-1282784400,Millonarios,Bucaramanga,1,2,Pen,2,2,0
-1283994600,Santa Fe,Dep. Cali,0,1,,,,0
-1284597000,La Equidad,Pereira,2,0,,,,0
-1284598800,Aguilas,Atl. Nacional,4,0,,,,0
-1284685200,Millonarios,Cucuta,1,1,,,,0
-1285187400,Pereira,La Equidad,1,2,,,,0
-1285203600,Atl. Nacional,Aguilas,5,1,Pen,5,2,0
-1285250400,Cucuta,Millonarios,0,1,,,,0
-1285808400,Dep. Cali,Santa Fe,3,1,,,,0
-1286413200,Millonarios,Aguilas,2,3,,,,0
-1286413200,Dep. Cali,La Equidad,2,0,,,,0
-1287001800,Aguilas,Millonarios,2,3,Pen,3,3,0
-1287018000,La Equidad,Dep. Cali,3,5,,,,0
-1288211400,Aguilas,Dep. Cali,0,1,,,,0
-1288827000,Dep. Cali,Aguilas,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1282163400,Junior,America De Cali,G2820wU0,hSZHTo4B,1,0,,,,0
+1282163400,Huila,La Equidad,W6vdbCVa,tGWvEQkr,2,1,,,,0
+1282163400,Aguilas,Deportes Tolima,2eGA9cib,bXlV9lJE,1,0,,,,0
+1282177800,Chico,Atl. Nacional,faYW5YDs,tnwDCzLD,2,2,,,,0
+1282177800,Atl. La Sabana,Cucuta,foXhKjWf,hCmseTFa,1,0,,,,0
+1282179600,Dep. Pasto,Pereira,hjn5AE5Q,rysGeGXN,1,2,,,,0
+1282181400,Bucaramanga,Millonarios,0xyt4W2g,6kduDy6P,1,2,,,,0
+1282264200,Santa Fe,Cartagena,AaS9a4Ho,zVgW5cY1,2,0,,,,0
+1282768200,Pereira,Dep. Pasto,rysGeGXN,hjn5AE5Q,3,0,,,,0
+1282768200,Deportes Tolima,Aguilas,bXlV9lJE,2eGA9cib,2,2,,,,0
+1282768200,Dep. Cali,Junior,IHPA1GDt,G2820wU0,3,2,Pen,4,2,0
+1282768200,Cartagena,Santa Fe,zVgW5cY1,AaS9a4Ho,3,1,Pen,3,2,0
+1282782600,La Equidad,Huila,tGWvEQkr,W6vdbCVa,2,0,,,,0
+1282782600,Cucuta,Atl. La Sabana,hCmseTFa,foXhKjWf,4,0,,,,0
+1282782600,Atl. Nacional,Chico,tnwDCzLD,faYW5YDs,2,1,,,,0
+1282784400,Millonarios,Bucaramanga,6kduDy6P,0xyt4W2g,1,2,Pen,2,2,0
+1283994600,Santa Fe,Dep. Cali,AaS9a4Ho,IHPA1GDt,0,1,,,,0
+1284597000,La Equidad,Pereira,tGWvEQkr,rysGeGXN,2,0,,,,0
+1284598800,Aguilas,Atl. Nacional,2eGA9cib,tnwDCzLD,4,0,,,,0
+1284685200,Millonarios,Cucuta,6kduDy6P,hCmseTFa,1,1,,,,0
+1285187400,Pereira,La Equidad,rysGeGXN,tGWvEQkr,1,2,,,,0
+1285203600,Atl. Nacional,Aguilas,tnwDCzLD,2eGA9cib,5,1,Pen,5,2,0
+1285250400,Cucuta,Millonarios,hCmseTFa,6kduDy6P,0,1,,,,0
+1285808400,Dep. Cali,Santa Fe,IHPA1GDt,AaS9a4Ho,3,1,,,,0
+1286413200,Millonarios,Aguilas,6kduDy6P,2eGA9cib,2,3,,,,0
+1286413200,Dep. Cali,La Equidad,IHPA1GDt,tGWvEQkr,2,0,,,,0
+1287001800,Aguilas,Millonarios,2eGA9cib,6kduDy6P,2,3,Pen,3,3,0
+1287018000,La Equidad,Dep. Cali,tGWvEQkr,IHPA1GDt,3,5,,,,0
+1288211400,Aguilas,Dep. Cali,2eGA9cib,IHPA1GDt,0,1,,,,0
+1288827000,Dep. Cali,Aguilas,IHPA1GDt,2eGA9cib,2,0,,,,0

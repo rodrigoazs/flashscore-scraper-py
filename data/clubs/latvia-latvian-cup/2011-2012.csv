@@ -1,42 +1,42 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1306684800,FK Olaine,Iecava,0,1,,,,0
-1306944000,Sigulda,Auda,0,1,,,,0
-1306944000,FK Ergli,Avantis,0,3,,,,0
-1307178000,Plavinas,Madona Kvarcs,3,1,,,,0
-1307181600,FK Aluksne,Bebri,2,0,,,,0
-1307199600,Aizkraukle,FK Smiltene,0,3,,,,0
-1307268000,Kekava,Grobina,0,1,,,,0
-1307271600,Upesciems,Austrumi,2,1,,,,0
-1307278800,Jelgava/Jauniesi,Brali,3,4,,,,0
-1307376000,FK Dobele,Marupe,0,1,,,,0
-1307379600,Ozolnieki,Mersrags,4,0,,,,0
-1308070800,Auda,Ozolnieki,2,2,AET,6,2,0
-1308412800,Brali,Madona Kvarcs,1,6,,,,0
-1308492000,FK Aluksne,Upesciems,0,3,,,,0
-1308495600,Marupe,Zelis Gulbene,1,3,,,,0
-1308585600,Avantis,Iecava,0,3,,,,0
-1308650400,Grobina,FK Smiltene,-,-,Awrd,,,0
-1309514400,Zelis Gulbene,RFS,0,12,,,,0
-1309946400,Tukums 2000,Auda,2,0,,,,0
-1310032800,Ozolnieki,Upesciems,4,1,,,,0
-1310569200,Metta,BFC Daugavpils,3,1,,,,0
-1310662800,Spartaks,Iecava,5,0,,,,0
-1310745600,Ogre,Valmiera,0,4,,,,0
-1310826600,Grobina,Madona Kvarcs,0,0,Pen,0,1,0
-1310907600,1625 Liepaja,Rezekne,2,0,,,,0
-1310914800,Ozolnieki,Tukums 2000,0,3,,,,0
-1312038000,RFS,Skonto,0,2,,,,0
-1312038000,Metta,Jurmala,0,3,,,,0
-1312113600,Madona Kvarcs,FC Daugava,0,11,,,,0
-1312124400,Spartaks,Ventspils,1,2,,,,0
-1312124400,1625 Liepaja,FK Liepaja,1,3,,,,0
-1312125300,Valmiera,Gulbene,1,1,AET,1,3,0
-1312126200,Tukums 2000,Daugava Riga,0,4,,,,0
-1312128000,Jelgava,Olimps Riga,3,1,,,,0
-1331985600,FK Liepaja,FC Daugava,1,0,,,,0
-1332072000,Daugava Riga,Gulbene,1,3,,,,0
-1332075600,Jelgava,Ventspils,1,1,AET,2,1,0
-1332079200,Jurmala,Skonto,0,1,,,,0
-1334154600,Jelgava,FK Liepaja,1,4,,,,0
-1334156400,Gulbene,Skonto,0,1,,,,0
-1336831200,Skonto,FK Liepaja,1,1,Pen,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1306684800,FK Olaine,Iecava,,tChIBPcE,0,1,,,,0
+1306944000,Sigulda,Auda,A5XbRBS5,hftqBi79,0,1,,,,0
+1306944000,FK Ergli,Avantis,,,0,3,,,,0
+1307178000,Plavinas,Madona Kvarcs,40Sv87qG,raiLOv2O,3,1,,,,0
+1307181600,FK Aluksne,Bebri,,z5MwDX5A,2,0,,,,0
+1307199600,Aizkraukle,FK Smiltene,,tAwvWAcU,0,3,,,,0
+1307268000,Kekava,Grobina,,02zeHdqh,0,1,,,,0
+1307271600,Upesciems,Austrumi,bRZ6YZnb,,2,1,,,,0
+1307278800,Jelgava/Jauniesi,Brali,,,3,4,,,,0
+1307376000,FK Dobele,Marupe,fFzddrH7,AH5Iepr6,0,1,,,,0
+1307379600,Ozolnieki,Mersrags,,,4,0,,,,0
+1308070800,Auda,Ozolnieki,hftqBi79,,2,2,AET,6,2,0
+1308412800,Brali,Madona Kvarcs,,raiLOv2O,1,6,,,,0
+1308492000,FK Aluksne,Upesciems,,bRZ6YZnb,0,3,,,,0
+1308495600,Marupe,Zelis Gulbene,AH5Iepr6,,1,3,,,,0
+1308585600,Avantis,Iecava,,tChIBPcE,0,3,,,,0
+1308650400,Grobina,FK Smiltene,02zeHdqh,tAwvWAcU,-,-,Awrd,,,0
+1309514400,Zelis Gulbene,RFS,,Uye1gatQ,0,12,,,,0
+1309946400,Tukums 2000,Auda,tC6rU9Br,hftqBi79,2,0,,,,0
+1310032800,Ozolnieki,Upesciems,,bRZ6YZnb,4,1,,,,0
+1310569200,Metta,BFC Daugavpils,xICJ1EZ7,0Si1Ct09,3,1,,,,0
+1310662800,Spartaks,Iecava,xKNcwgvn,tChIBPcE,5,0,,,,0
+1310745600,Ogre,Valmiera,nybdOQVC,63LcsWgs,0,4,,,,0
+1310826600,Grobina,Madona Kvarcs,02zeHdqh,raiLOv2O,0,0,Pen,0,1,0
+1310907600,1625 Liepaja,Rezekne,fTmPiYlr,YunHGuYA,2,0,,,,0
+1310914800,Ozolnieki,Tukums 2000,,tC6rU9Br,0,3,,,,0
+1312038000,RFS,Skonto,Uye1gatQ,MaoY8XU2,0,2,,,,0
+1312038000,Metta,Jurmala,xICJ1EZ7,xGkXZymr,0,3,,,,0
+1312113600,Madona Kvarcs,FC Daugava,raiLOv2O,v3b841Xb,0,11,,,,0
+1312124400,Spartaks,Ventspils,xKNcwgvn,IROavVX5,1,2,,,,0
+1312124400,1625 Liepaja,FK Liepaja,fTmPiYlr,tfJgPT4F,1,3,,,,0
+1312125300,Valmiera,Gulbene,63LcsWgs,z735vIvR,1,1,AET,1,3,0
+1312126200,Tukums 2000,Daugava Riga,tC6rU9Br,zZsp1Eos,0,4,,,,0
+1312128000,Jelgava,Olimps Riga,finrn2xp,zZsp1Eos,3,1,,,,0
+1331985600,FK Liepaja,FC Daugava,tfJgPT4F,v3b841Xb,1,0,,,,0
+1332072000,Daugava Riga,Gulbene,zZsp1Eos,z735vIvR,1,3,,,,0
+1332075600,Jelgava,Ventspils,finrn2xp,IROavVX5,1,1,AET,2,1,0
+1332079200,Jurmala,Skonto,xGkXZymr,MaoY8XU2,0,1,,,,0
+1334154600,Jelgava,FK Liepaja,finrn2xp,tfJgPT4F,1,4,,,,0
+1334156400,Gulbene,Skonto,z735vIvR,MaoY8XU2,0,1,,,,0
+1336831200,Skonto,FK Liepaja,MaoY8XU2,tfJgPT4F,1,1,Pen,2,1,0

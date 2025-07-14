@@ -1,59 +1,59 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1690927200,Esteli,Xelaju,1,0,,,,0
-1690934400,Jocoro,Coban Imperial,1,4,,,,0
-1690941600,Alajuelense,Olancho,1,0,,,,0
-1691013600,Verdes,Motagua,0,5,,,,0
-1691020800,Comunicaciones,Real Espana,3,1,,,,0
-1691028000,Olimpia,Independiente,1,1,,,,0
-1691107200,Diriangen,Herediano,1,1,,,,0
-1691114400,Saprissa,Cartagines,1,0,,,,0
-1691532000,Verdes,Alajuelense,0,3,,,,0
-1691539200,Coban Imperial,Deportivo Universitario,0,0,,,,0
-1691546400,Esteli,Olimpia,1,0,,,,0
-1691618400,Herediano,Aguila,2,0,,,,0
-1691625600,Xelaju,FAS,2,1,,,,0
-1691632800,Motagua,Miguelito,2,0,,,,0
-1691712000,Jocoro,Saprissa,0,4,,,,0
-1691719200,Diriangen,Comunicaciones,0,1,,,,0
-1692136800,Deportivo Universitario,Jocoro,4,1,,,,0
-1692144000,Coban Imperial,Cartagines,0,1,,,,0
-1692151200,FAS,Esteli,0,2,,,,0
-1692223200,Miguelito,Verdes,4,0,,,,0
-1692230400,Herediano,Real Espana,3,2,,,,0
-1692237600,Xelaju,Independiente,1,3,,,,0
-1692316800,Aguila,Diriangen,1,0,,,,0
-1692324000,Motagua,Olancho,1,0,,,,0
-1692741600,Independiente,Esteli,2,1,,,,0
-1692748800,Cartagines,Jocoro,5,0,,,,0
-1692756000,FAS,Olimpia,2,4,,,,0
-1692828000,Olancho,Verdes,3,2,,,,0
-1692835200,Deportivo Universitario,Saprissa,0,0,,,,0
-1692842400,Aguila,Comunicaciones,1,4,,,,0
-1692921600,Miguelito,Alajuelense,0,1,,,,0
-1692928800,Real Espana,Diriangen,0,0,,,,0
-1693353600,Saprissa,Coban Imperial,5,0,,,,0
-1693353600,Cartagines,Deportivo Universitario,2,2,,,,0
-1693360800,Olimpia,Xelaju,2,0,,,,0
-1693360800,Independiente,FAS,5,0,,,,0
-1693440000,Real Espana,Aguila,3,0,,,,0
-1693447200,Comunicaciones,Herediano,1,2,,,,0
-1693526400,Olancho,Miguelito,0,2,,,,0
-1693533600,Alajuelense,Motagua,5,1,,,,0
-1695780000,Motagua,Independiente,1,1,,,,0
-1695859200,Esteli,Saprissa,1,0,,,,0
-1695866400,Comunicaciones,Herediano,0,0,,,,0
-1695952800,Cartagines,Alajuelense,1,3,,,,0
-1696384800,Independiente,Motagua,2,0,,,,0
-1696464000,Saprissa,Esteli,2,2,,,,0
-1696472100,Herediano,Comunicaciones,3,2,,,,0
-1696557600,Alajuelense,Cartagines,3,0,,,,0
-1698199200,Cartagines,Comunicaciones,1,1,,,,0
-1698278400,Motagua,Saprissa,2,2,,,,0
-1698285600,Herediano,Alajuelense,2,2,,,,0
-1698372000,Esteli,Independiente,1,0,,,,0
-1698804900,Comunicaciones,Cartagines,1,1,Pen,2,1,0
-1698883200,Saprissa,Motagua,4,0,,,,0
-1698891300,Alajuelense,Herediano,2,2,Pen,3,2,0
-1698977700,Independiente,Esteli,2,2,,,,0
-1701226800,Esteli,Alajuelense,0,3,,,,0
-1701831600,Alajuelense,Esteli,1,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1690927200,Esteli,Xelaju,8vfD2YGb,COG61ACC,1,0,,,,0
+1690934400,Jocoro,Coban Imperial,xpicnvrs,v1e8VYOd,1,4,,,,0
+1690941600,Alajuelense,Olancho,4v3Y4ReF,plBTveXM,1,0,,,,0
+1691013600,Verdes,Motagua,Or6uEiR8,dtCxYreO,0,5,,,,0
+1691020800,Comunicaciones,Real Espana,O2l6wJsK,dQeZ4aH3,3,1,,,,0
+1691028000,Olimpia,Independiente,WvziCH8E,nXJKIqpI,1,1,,,,0
+1691107200,Diriangen,Herediano,AmtsPj9l,zJ9gvDHG,1,1,,,,0
+1691114400,Saprissa,Cartagines,tnwDCzLD,YB0DoGZt,1,0,,,,0
+1691532000,Verdes,Alajuelense,Or6uEiR8,4v3Y4ReF,0,3,,,,0
+1691539200,Coban Imperial,Deportivo Universitario,v1e8VYOd,zFs1klv8,0,0,,,,0
+1691546400,Esteli,Olimpia,8vfD2YGb,WvziCH8E,1,0,,,,0
+1691618400,Herediano,Aguila,zJ9gvDHG,SnR4yA7q,2,0,,,,0
+1691625600,Xelaju,FAS,COG61ACC,IJKf4CSg,2,1,,,,0
+1691632800,Motagua,Miguelito,dtCxYreO,xlqSvAq8,2,0,,,,0
+1691712000,Jocoro,Saprissa,xpicnvrs,tnwDCzLD,0,4,,,,0
+1691719200,Diriangen,Comunicaciones,AmtsPj9l,O2l6wJsK,0,1,,,,0
+1692136800,Deportivo Universitario,Jocoro,zFs1klv8,xpicnvrs,4,1,,,,0
+1692144000,Coban Imperial,Cartagines,v1e8VYOd,YB0DoGZt,0,1,,,,0
+1692151200,FAS,Esteli,IJKf4CSg,8vfD2YGb,0,2,,,,0
+1692223200,Miguelito,Verdes,xlqSvAq8,Or6uEiR8,4,0,,,,0
+1692230400,Herediano,Real Espana,zJ9gvDHG,dQeZ4aH3,3,2,,,,0
+1692237600,Xelaju,Independiente,COG61ACC,nXJKIqpI,1,3,,,,0
+1692316800,Aguila,Diriangen,SnR4yA7q,AmtsPj9l,1,0,,,,0
+1692324000,Motagua,Olancho,dtCxYreO,plBTveXM,1,0,,,,0
+1692741600,Independiente,Esteli,nXJKIqpI,8vfD2YGb,2,1,,,,0
+1692748800,Cartagines,Jocoro,YB0DoGZt,xpicnvrs,5,0,,,,0
+1692756000,FAS,Olimpia,IJKf4CSg,WvziCH8E,2,4,,,,0
+1692828000,Olancho,Verdes,plBTveXM,Or6uEiR8,3,2,,,,0
+1692835200,Deportivo Universitario,Saprissa,zFs1klv8,tnwDCzLD,0,0,,,,0
+1692842400,Aguila,Comunicaciones,SnR4yA7q,O2l6wJsK,1,4,,,,0
+1692921600,Miguelito,Alajuelense,xlqSvAq8,4v3Y4ReF,0,1,,,,0
+1692928800,Real Espana,Diriangen,dQeZ4aH3,AmtsPj9l,0,0,,,,0
+1693353600,Saprissa,Coban Imperial,tnwDCzLD,v1e8VYOd,5,0,,,,0
+1693353600,Cartagines,Deportivo Universitario,YB0DoGZt,zFs1klv8,2,2,,,,0
+1693360800,Olimpia,Xelaju,WvziCH8E,COG61ACC,2,0,,,,0
+1693360800,Independiente,FAS,nXJKIqpI,IJKf4CSg,5,0,,,,0
+1693440000,Real Espana,Aguila,dQeZ4aH3,SnR4yA7q,3,0,,,,0
+1693447200,Comunicaciones,Herediano,O2l6wJsK,zJ9gvDHG,1,2,,,,0
+1693526400,Olancho,Miguelito,plBTveXM,xlqSvAq8,0,2,,,,0
+1693533600,Alajuelense,Motagua,4v3Y4ReF,dtCxYreO,5,1,,,,0
+1695780000,Motagua,Independiente,dtCxYreO,nXJKIqpI,1,1,,,,0
+1695859200,Esteli,Saprissa,8vfD2YGb,tnwDCzLD,1,0,,,,0
+1695866400,Comunicaciones,Herediano,O2l6wJsK,zJ9gvDHG,0,0,,,,0
+1695952800,Cartagines,Alajuelense,YB0DoGZt,4v3Y4ReF,1,3,,,,0
+1696384800,Independiente,Motagua,nXJKIqpI,dtCxYreO,2,0,,,,0
+1696464000,Saprissa,Esteli,tnwDCzLD,8vfD2YGb,2,2,,,,0
+1696472100,Herediano,Comunicaciones,zJ9gvDHG,O2l6wJsK,3,2,,,,0
+1696557600,Alajuelense,Cartagines,4v3Y4ReF,YB0DoGZt,3,0,,,,0
+1698199200,Cartagines,Comunicaciones,YB0DoGZt,O2l6wJsK,1,1,,,,0
+1698278400,Motagua,Saprissa,dtCxYreO,tnwDCzLD,2,2,,,,0
+1698285600,Herediano,Alajuelense,zJ9gvDHG,4v3Y4ReF,2,2,,,,0
+1698372000,Esteli,Independiente,8vfD2YGb,nXJKIqpI,1,0,,,,0
+1698804900,Comunicaciones,Cartagines,O2l6wJsK,YB0DoGZt,1,1,Pen,2,1,0
+1698883200,Saprissa,Motagua,tnwDCzLD,dtCxYreO,4,0,,,,0
+1698891300,Alajuelense,Herediano,4v3Y4ReF,zJ9gvDHG,2,2,Pen,3,2,0
+1698977700,Independiente,Esteli,nXJKIqpI,8vfD2YGb,2,2,,,,0
+1701226800,Esteli,Alajuelense,8vfD2YGb,4v3Y4ReF,0,3,,,,0
+1701831600,Alajuelense,Esteli,4v3Y4ReF,8vfD2YGb,1,1,,,,0

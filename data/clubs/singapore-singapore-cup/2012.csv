@@ -1,23 +1,23 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1336995900,Warriors,Balestier Khalsa,1,1,Pen,2,1,0
-1337168700,Tampines,Phnom Penh Crown,4,3,,,,0
-1337255100,DPMM,Lion City,0,1,,,,0
-1337341500,Loyola,Geylang,1,1,AET,2,1,0
-1337427900,Kanbawza,Woodlands Wellington,2,1,,,,0
-1337514300,Tanjong Pagar,Hougang,1,1,Pen,1,2,0
-1337514300,Gombak,Harimau Muda B,3,0,,,,0
-1338032700,Albirex Niigata,Yotha,1,0,,,,0
-1341229500,Albirex Niigata,Tampines,1,2,,,,0
-1341315900,Gombak,Hougang,1,2,,,,0
-1341402300,Lion City,Warriors,1,2,,,,0
-1341488700,Loyola,Kanbawza,3,1,,,,0
-1341575100,Tampines,Albirex Niigata,2,0,,,,0
-1341661500,Hougang,Gombak,0,2,,,,0
-1341747900,Kanbawza,Loyola,2,2,,,,0
-1341834300,Warriors,Lion City,3,3,,,,0
-1349264700,Warriors,Gombak,1,0,,,,0
-1349351100,Tampines,Loyola,2,0,,,,0
-1349523900,Gombak,Warriors,0,1,,,,0
-1349610300,Loyola,Tampines,0,3,,,,0
-1351415700,Gombak,Loyola,4,0,,,,0
-1351424700,Warriors,Tampines,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1336995900,Warriors,Balestier Khalsa,nNKuYSHo,MZaTAD0m,1,1,Pen,2,1,0
+1337168700,Tampines,Phnom Penh Crown,d0hl69s2,CnwIgY1c,4,3,,,,0
+1337255100,DPMM,Lion City,nP3yiII0,pW3pRTln,0,1,,,,0
+1337341500,Loyola,Geylang,vkw5In9f,df9tRVup,1,1,AET,2,1,0
+1337427900,Kanbawza,Woodlands Wellington,,CKls4Q5g,2,1,,,,0
+1337514300,Tanjong Pagar,Hougang,bwrRv2m2,4fcEsivK,1,1,Pen,1,2,0
+1337514300,Gombak,Harimau Muda B,I19RPt17,2JxZRvOg,3,0,,,,0
+1338032700,Albirex Niigata,Yotha,MkSbZgY3,,1,0,,,,0
+1341229500,Albirex Niigata,Tampines,MkSbZgY3,d0hl69s2,1,2,,,,0
+1341315900,Gombak,Hougang,I19RPt17,4fcEsivK,1,2,,,,0
+1341402300,Lion City,Warriors,pW3pRTln,nNKuYSHo,1,2,,,,0
+1341488700,Loyola,Kanbawza,vkw5In9f,,3,1,,,,0
+1341575100,Tampines,Albirex Niigata,d0hl69s2,MkSbZgY3,2,0,,,,0
+1341661500,Hougang,Gombak,4fcEsivK,I19RPt17,0,2,,,,0
+1341747900,Kanbawza,Loyola,,vkw5In9f,2,2,,,,0
+1341834300,Warriors,Lion City,nNKuYSHo,pW3pRTln,3,3,,,,0
+1349264700,Warriors,Gombak,nNKuYSHo,I19RPt17,1,0,,,,0
+1349351100,Tampines,Loyola,d0hl69s2,vkw5In9f,2,0,,,,0
+1349523900,Gombak,Warriors,I19RPt17,nNKuYSHo,0,1,,,,0
+1349610300,Loyola,Tampines,vkw5In9f,d0hl69s2,0,3,,,,0
+1351415700,Gombak,Loyola,I19RPt17,vkw5In9f,4,0,,,,0
+1351424700,Warriors,Tampines,nNKuYSHo,d0hl69s2,2,1,,,,0

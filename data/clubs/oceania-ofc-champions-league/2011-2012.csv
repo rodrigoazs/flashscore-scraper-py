@@ -1,27 +1,27 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1319850000,Waitakere United,Tefana,10,0,,,,0
-1319860800,Koloale,Auckland City,1,4,,,,0
-1319860800,Amicale,Hekari Utd,1,1,,,,0
-1319940000,Ba,Mont Dore,2,1,,,,0
-1321070400,Mont Dore,Tefana,1,1,,,,0
-1321668000,Auckland City,Hekari Utd,2,0,,,,0
-1321675200,Amicale,Koloale,2,0,,,,0
-1321754400,Waitakere United,Ba,4,0,,,,0
-1322884800,Mont Dore,Waitakere United,0,1,,,,0
-1322890200,Tefana,Ba,4,1,,,,0
-1323493200,Hekari Utd,Koloale,3,1,,,,0
-1326861900,Auckland City,Amicale,3,2,,,,0
-1329530400,Auckland City,Koloale,7,3,,,,0
-1329537600,Mont Dore,Ba,0,1,,,,0
-1329541200,Hekari Utd,Amicale,2,0,,,,0
-1329543000,Tefana,Waitakere United,3,0,,,,0
-1330747200,Koloale,Amicale,1,0,,,,0
-1330750800,Hekari Utd,Auckland City,1,1,,,,0
-1330752600,Tefana,Mont Dore,2,0,,,,0
-1330830000,Ba,Waitakere United,3,2,,,,0
-1333159200,Waitakere United,Mont Dore,4,0,,,,0
-1333166400,Koloale,Hekari Utd,1,2,,,,0
-1333166400,Amicale,Auckland City,1,0,,,,0
-1334464200,Ba,Tefana,0,5,,,,0
-1335664800,Auckland City,Tefana,2,1,,,,0
-1336874400,Tefana,Auckland City,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1319850000,Waitakere United,Tefana,bTzLAEkQ,23Iqqnkk,10,0,,,,0
+1319860800,Koloale,Auckland City,CIcJSoci,E7VNOejE,1,4,,,,0
+1319860800,Amicale,Hekari Utd,CKIZa2JN,EFVWv0e5,1,1,,,,0
+1319940000,Ba,Mont Dore,tE1csI3A,vF6z9MNi,2,1,,,,0
+1321070400,Mont Dore,Tefana,vF6z9MNi,23Iqqnkk,1,1,,,,0
+1321668000,Auckland City,Hekari Utd,E7VNOejE,EFVWv0e5,2,0,,,,0
+1321675200,Amicale,Koloale,CKIZa2JN,CIcJSoci,2,0,,,,0
+1321754400,Waitakere United,Ba,bTzLAEkQ,tE1csI3A,4,0,,,,0
+1322884800,Mont Dore,Waitakere United,vF6z9MNi,bTzLAEkQ,0,1,,,,0
+1322890200,Tefana,Ba,23Iqqnkk,tE1csI3A,4,1,,,,0
+1323493200,Hekari Utd,Koloale,EFVWv0e5,CIcJSoci,3,1,,,,0
+1326861900,Auckland City,Amicale,E7VNOejE,CKIZa2JN,3,2,,,,0
+1329530400,Auckland City,Koloale,E7VNOejE,CIcJSoci,7,3,,,,0
+1329537600,Mont Dore,Ba,vF6z9MNi,tE1csI3A,0,1,,,,0
+1329541200,Hekari Utd,Amicale,EFVWv0e5,CKIZa2JN,2,0,,,,0
+1329543000,Tefana,Waitakere United,23Iqqnkk,bTzLAEkQ,3,0,,,,0
+1330747200,Koloale,Amicale,CIcJSoci,CKIZa2JN,1,0,,,,0
+1330750800,Hekari Utd,Auckland City,EFVWv0e5,E7VNOejE,1,1,,,,0
+1330752600,Tefana,Mont Dore,23Iqqnkk,vF6z9MNi,2,0,,,,0
+1330830000,Ba,Waitakere United,tE1csI3A,bTzLAEkQ,3,2,,,,0
+1333159200,Waitakere United,Mont Dore,bTzLAEkQ,vF6z9MNi,4,0,,,,0
+1333166400,Koloale,Hekari Utd,CIcJSoci,EFVWv0e5,1,2,,,,0
+1333166400,Amicale,Auckland City,CKIZa2JN,E7VNOejE,1,0,,,,0
+1334464200,Ba,Tefana,tE1csI3A,23Iqqnkk,0,5,,,,0
+1335664800,Auckland City,Tefana,E7VNOejE,23Iqqnkk,2,1,,,,0
+1336874400,Tefana,Auckland City,23Iqqnkk,E7VNOejE,0,1,,,,0

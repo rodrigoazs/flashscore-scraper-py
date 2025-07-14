@@ -1,28 +1,28 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1403524800,Umayya,Al Khabour,3,0,Awrd,,,0
-1403524800,Tishreen,Daria Club,3,0,Awrd,,,0
-1403524800,Al Karamah,Jawlan,10,0,,,,0
-1403697600,Al Majd,Al-Sahel,3,0,Awrd,,,0
-1403784000,Al Taliya,Bariqa,6,1,,,,0
-1403956800,Wathbah,Al Arabi,2,1,,,,0
-1403956800,Foutoua,Al Neddal,0,3,Awrd,,,0
-1404302400,Al-Ittihad Aleppo,Al Mohafaza,1,0,,,,0
-1404302400,Al Wahda,Al Shahba,4,1,,,,0
-1404302400,Al Shorta,Al-Jazeera,3,0,,,,0
-1404302400,Al Misfat,Kiswah,3,0,Awrd,,,0
-1404302400,Al Jaish,Jableh,3,2,,,,0
-1404734400,Maleeha,Al Nawaeir,1,2,,,,0
-1404734400,Horriya,Umayya,4,1,,,,0
-1404734400,Al Wahda,Al Shorta,3,0,,,,0
-1404734400,Al Misfat,Al Neddal,2,1,,,,0
-1404734400,Al Majd,Al Jaish,0,4,,,,0
-1404820800,Wathbah,Hottin,1,1,Pen,1,2,0
-1404820800,Al Taliya,Al Karamah,0,3,Awrd,,,0
-1404907200,Al-Ittihad Aleppo,Tishreen,3,0,,,,0
-1405252800,Hottin,Al-Ittihad Aleppo,0,1,,,,0
-1405252800,Al Wahda,Al Nawaeir,4,1,,,,0
-1405252800,Al Misfat,Horriya,3,0,,,,0
-1405339200,Al Karamah,Al Jaish,0,0,Pen,0,1,0
-1405857600,Al Wahda,Al Jaish,0,2,,,,0
-1405857600,Al Misfat,Al-Ittihad Aleppo,2,0,,,,0
-1406289600,Al Jaish,Al Misfat,0,0,Pen,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1403524800,Umayya,Al Khabour,pf2RcIoL,,3,0,Awrd,,,0
+1403524800,Tishreen,Daria Club,0dNGO5kF,,3,0,Awrd,,,0
+1403524800,Al Karamah,Jawlan,zgpeJZUE,,10,0,,,,0
+1403697600,Al Majd,Al-Sahel,MH0Vdx1R,zgpeJZUE,3,0,Awrd,,,0
+1403784000,Al Taliya,Bariqa,pf2RcIoL,,6,1,,,,0
+1403956800,Wathbah,Al Arabi,0b0qm28q,,2,1,,,,0
+1403956800,Foutoua,Al Neddal,SjuCZONf,,0,3,Awrd,,,0
+1404302400,Al-Ittihad Aleppo,Al Mohafaza,MH0Vdx1R,xMpp7wKs,1,0,,,,0
+1404302400,Al Wahda,Al Shahba,ID9vdxZP,,4,1,,,,0
+1404302400,Al Shorta,Al-Jazeera,pf2RcIoL,MH0Vdx1R,3,0,,,,0
+1404302400,Al Misfat,Kiswah,MH0Vdx1R,,3,0,Awrd,,,0
+1404302400,Al Jaish,Jableh,AwNhcAn3,xMpp7wKs,3,2,,,,0
+1404734400,Maleeha,Al Nawaeir,,MH0Vdx1R,1,2,,,,0
+1404734400,Horriya,Umayya,pf2RcIoL,pf2RcIoL,4,1,,,,0
+1404734400,Al Wahda,Al Shorta,ID9vdxZP,pf2RcIoL,3,0,,,,0
+1404734400,Al Misfat,Al Neddal,MH0Vdx1R,,2,1,,,,0
+1404734400,Al Majd,Al Jaish,MH0Vdx1R,AwNhcAn3,0,4,,,,0
+1404820800,Wathbah,Hottin,0b0qm28q,pf2RcIoL,1,1,Pen,1,2,0
+1404820800,Al Taliya,Al Karamah,pf2RcIoL,zgpeJZUE,0,3,Awrd,,,0
+1404907200,Al-Ittihad Aleppo,Tishreen,MH0Vdx1R,0dNGO5kF,3,0,,,,0
+1405252800,Hottin,Al-Ittihad Aleppo,pf2RcIoL,MH0Vdx1R,0,1,,,,0
+1405252800,Al Wahda,Al Nawaeir,ID9vdxZP,MH0Vdx1R,4,1,,,,0
+1405252800,Al Misfat,Horriya,MH0Vdx1R,pf2RcIoL,3,0,,,,0
+1405339200,Al Karamah,Al Jaish,zgpeJZUE,AwNhcAn3,0,0,Pen,0,1,0
+1405857600,Al Wahda,Al Jaish,ID9vdxZP,AwNhcAn3,0,2,,,,0
+1405857600,Al Misfat,Al-Ittihad Aleppo,MH0Vdx1R,MH0Vdx1R,2,0,,,,0
+1406289600,Al Jaish,Al Misfat,AwNhcAn3,MH0Vdx1R,0,0,Pen,1,0,0

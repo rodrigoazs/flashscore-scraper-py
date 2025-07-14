@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1668564000,Herediano,Santa Ana,3,0,,,,0
-1668632400,AD Sarchi,Grecia,0,0,,,,0
-1668650400,Alajuelense,Guanacasteca,2,1,,,,0
-1668736800,Guadalupe,Puntarenas FC,1,1,,,,0
-1668823200,Sporting San Jose,Zeledon,1,0,,,,0
-1668906000,CS Uruguay,Saprissa,0,4,,,,0
-1668906000,AD Santos,San Carlos,4,1,,,,0
-1668978000,Municipal Turrialba,Cartagines,0,1,,,,0
-1669161600,Zeledon,Sporting San Jose,1,4,,,,0
-1669248000,Saprissa,CS Uruguay,2,0,,,,0
-1669334400,Cartagines,Municipal Turrialba,1,0,,,,0
-1669341600,San Carlos,AD Santos,4,1,Pen,4,2,0
-1669428900,Puntarenas FC,Guadalupe,1,1,Pen,2,1,0
-1669496400,Guanacasteca,Alajuelense,0,1,,,,0
-1669510800,Santa Ana,Herediano,0,0,,,,0
-1669582800,Grecia,AD Sarchi,3,1,,,,0
-1669770000,Sporting San Jose,Cartagines,1,1,,,,0
-1669770900,Saprissa,AD Santos,3,0,,,,0
-1669827600,Grecia,Alajuelense,2,1,,,,0
-1669852800,Herediano,Puntarenas FC,1,0,,,,0
-1670108400,Cartagines,Sporting San Jose,2,1,,,,0
-1670115600,AD Santos,Saprissa,1,1,,,,0
-1670191200,Alajuelense,Grecia,5,0,,,,0
-1670192100,Puntarenas FC,Herediano,0,2,,,,0
-1670464800,Saprissa,Cartagines,0,2,,,,0
-1670551200,Herediano,Alajuelense,1,1,,,,0
-1670778000,Cartagines,Saprissa,2,1,,,,0
-1670796000,Alajuelense,Herediano,0,1,,,,0
-1671148800,Herediano,Cartagines,2,1,,,,0
-1671674400,Cartagines,Herediano,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1668564000,Herediano,Santa Ana,zJ9gvDHG,KIJhuIZ3,3,0,,,,0
+1668632400,AD Sarchi,Grecia,n3f9oEDp,8dyaziOQ,0,0,,,,0
+1668650400,Alajuelense,Guanacasteca,4v3Y4ReF,W2jaDLZ8,2,1,,,,0
+1668736800,Guadalupe,Puntarenas FC,YJGpKxlj,z1YXka2H,1,1,,,,0
+1668823200,Sporting San Jose,Zeledon,2w5L1UBi,YB0DoGZt,1,0,,,,0
+1668906000,CS Uruguay,Saprissa,Y9L9uDAq,tnwDCzLD,0,4,,,,0
+1668906000,AD Santos,San Carlos,zPYfw7JB,6XjLWQsI,4,1,,,,0
+1668978000,Municipal Turrialba,Cartagines,hA6ihApF,YB0DoGZt,0,1,,,,0
+1669161600,Zeledon,Sporting San Jose,YB0DoGZt,2w5L1UBi,1,4,,,,0
+1669248000,Saprissa,CS Uruguay,tnwDCzLD,Y9L9uDAq,2,0,,,,0
+1669334400,Cartagines,Municipal Turrialba,YB0DoGZt,hA6ihApF,1,0,,,,0
+1669341600,San Carlos,AD Santos,6XjLWQsI,zPYfw7JB,4,1,Pen,4,2,0
+1669428900,Puntarenas FC,Guadalupe,z1YXka2H,YJGpKxlj,1,1,Pen,2,1,0
+1669496400,Guanacasteca,Alajuelense,W2jaDLZ8,4v3Y4ReF,0,1,,,,0
+1669510800,Santa Ana,Herediano,KIJhuIZ3,zJ9gvDHG,0,0,,,,0
+1669582800,Grecia,AD Sarchi,8dyaziOQ,n3f9oEDp,3,1,,,,0
+1669770000,Sporting San Jose,Cartagines,2w5L1UBi,YB0DoGZt,1,1,,,,0
+1669770900,Saprissa,AD Santos,tnwDCzLD,zPYfw7JB,3,0,,,,0
+1669827600,Grecia,Alajuelense,8dyaziOQ,4v3Y4ReF,2,1,,,,0
+1669852800,Herediano,Puntarenas FC,zJ9gvDHG,z1YXka2H,1,0,,,,0
+1670108400,Cartagines,Sporting San Jose,YB0DoGZt,2w5L1UBi,2,1,,,,0
+1670115600,AD Santos,Saprissa,zPYfw7JB,tnwDCzLD,1,1,,,,0
+1670191200,Alajuelense,Grecia,4v3Y4ReF,8dyaziOQ,5,0,,,,0
+1670192100,Puntarenas FC,Herediano,z1YXka2H,zJ9gvDHG,0,2,,,,0
+1670464800,Saprissa,Cartagines,tnwDCzLD,YB0DoGZt,0,2,,,,0
+1670551200,Herediano,Alajuelense,zJ9gvDHG,4v3Y4ReF,1,1,,,,0
+1670778000,Cartagines,Saprissa,YB0DoGZt,tnwDCzLD,2,1,,,,0
+1670796000,Alajuelense,Herediano,4v3Y4ReF,zJ9gvDHG,0,1,,,,0
+1671148800,Herediano,Cartagines,zJ9gvDHG,YB0DoGZt,2,1,,,,0
+1671674400,Cartagines,Herediano,YB0DoGZt,zJ9gvDHG,2,0,,,,0

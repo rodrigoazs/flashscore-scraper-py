@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1580716800,Udon United,Bangkok Utd,0,2,,,,0
-1580716800,Songkhla,Ratchaburi,1,1,AET,1,2,0
-1580716800,Muangkan Utd,Nong Bua Pitchaya,1,0,,,,0
-1580716800,Muang Loei,Chiangrai Utd,2,5,,,,0
-1580727600,Trat FC,Chiangmai FC,1,0,,,,0
-1580727600,Port MTI FC,Buriram,0,0,Pen,0,1,0
-1580731200,Muang Thong Utd,Samut Prakan City,1,0,,,,0
-1580731200,Chonburi,Suphanburi,3,0,,,,0
-1585911600,Chiangrai Utd,Muangkan Utd,2,1,,,,0
-1585911600,Buriram,Muang Thong Utd,2,0,,,,0
-1585915200,Chonburi,Trat FC,5,1,,,,0
-1585915200,Bangkok Utd,Ratchaburi,2,1,,,,0
-1586260800,Chonburi,Buriram,2,1,,,,0
-1586260800,Bangkok Utd,Chiangrai Utd,1,2,,,,0
-1586602800,Chiangrai Utd,Chonburi,1,1,Pen,2,1,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1580716800,Udon United,Bangkok Utd,8b4t3FBj,WGasveDI,0,2,,,,0
+1580716800,Songkhla,Ratchaburi,OztBDrj5,EqcBTBE3,1,1,AET,1,2,0
+1580716800,Muangkan Utd,Nong Bua Pitchaya,h20D43Yr,YFzpTQGt,1,0,,,,0
+1580716800,Muang Loei,Chiangrai Utd,WQMIi69a,8Wk0ypia,2,5,,,,0
+1580727600,Trat FC,Chiangmai FC,4pfHzuv8,8jziRC1P,1,0,,,,0
+1580727600,Port MTI FC,Buriram,b379xgI8,AHLMjQO5,0,0,Pen,0,1,0
+1580731200,Muang Thong Utd,Samut Prakan City,nu0GdC2O,jes3ohYg,1,0,,,,0
+1580731200,Chonburi,Suphanburi,l8KQkpvC,dzBDJGKS,3,0,,,,0
+1585911600,Chiangrai Utd,Muangkan Utd,8Wk0ypia,h20D43Yr,2,1,,,,0
+1585911600,Buriram,Muang Thong Utd,AHLMjQO5,nu0GdC2O,2,0,,,,0
+1585915200,Chonburi,Trat FC,l8KQkpvC,4pfHzuv8,5,1,,,,0
+1585915200,Bangkok Utd,Ratchaburi,WGasveDI,EqcBTBE3,2,1,,,,0
+1586260800,Chonburi,Buriram,l8KQkpvC,AHLMjQO5,2,1,,,,0
+1586260800,Bangkok Utd,Chiangrai Utd,WGasveDI,8Wk0ypia,1,2,,,,0
+1586602800,Chiangrai Utd,Chonburi,8Wk0ypia,l8KQkpvC,1,1,Pen,2,1,1

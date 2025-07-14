@@ -1,14 +1,14 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1379505600,Syunik,Ulisses Yerevan,0,0,,,,0
-1379516400,Alashkert,Mika Jerevan,1,0,,,,0
-1380711600,Shirak Gyumri,Urartu,1,2,,,,0
-1380722400,Pyunik Yerevan,Ararat Yerevan,1,1,,,,0
-1382526000,Urartu,Shirak Gyumri,0,1,,,,0
-1382526000,Mika Jerevan,Alashkert,3,0,,,,0
-1383739200,Ulisses Yerevan,Syunik,1,3,,,,0
-1383739200,Ararat Yerevan,Pyunik Yerevan,1,2,,,,0
-1395140400,Syunik,Urartu,2,1,,,,0
-1395226800,Mika Jerevan,Pyunik Yerevan,0,1,,,,0
-1397570400,Pyunik Yerevan,Mika Jerevan,2,0,,,,0
-1397649600,Urartu,Syunik,1,1,,,,0
-1399474800,Syunik,Pyunik Yerevan,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1379505600,Syunik,Ulisses Yerevan,ji1LkT8q,lhEWp1km,0,0,,,,0
+1379516400,Alashkert,Mika Jerevan,Y1ZCBtLt,dvLIfKqM,1,0,,,,0
+1380711600,Shirak Gyumri,Urartu,2ajBCmYJ,bi5W0N3n,1,2,,,,0
+1380722400,Pyunik Yerevan,Ararat Yerevan,zkO8QgRo,dUsGVqCN,1,1,,,,0
+1382526000,Urartu,Shirak Gyumri,bi5W0N3n,2ajBCmYJ,0,1,,,,0
+1382526000,Mika Jerevan,Alashkert,dvLIfKqM,Y1ZCBtLt,3,0,,,,0
+1383739200,Ulisses Yerevan,Syunik,lhEWp1km,ji1LkT8q,1,3,,,,0
+1383739200,Ararat Yerevan,Pyunik Yerevan,dUsGVqCN,zkO8QgRo,1,2,,,,0
+1395140400,Syunik,Urartu,ji1LkT8q,bi5W0N3n,2,1,,,,0
+1395226800,Mika Jerevan,Pyunik Yerevan,dvLIfKqM,zkO8QgRo,0,1,,,,0
+1397570400,Pyunik Yerevan,Mika Jerevan,zkO8QgRo,dvLIfKqM,2,0,,,,0
+1397649600,Urartu,Syunik,bi5W0N3n,ji1LkT8q,1,1,,,,0
+1399474800,Syunik,Pyunik Yerevan,ji1LkT8q,zkO8QgRo,1,2,,,,0

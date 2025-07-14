@@ -1,91 +1,91 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1637336400,Kazma SC,Al-Fahaheel,1,0,,,,0
-1637418000,Al Arabi,Al Tadamon,4,1,,,,0
-1637426100,Al Naser,Al Salmiya,3,2,,,,0
-1637504400,Al Kuwait,Yarmouk,4,2,,,,0
-1637512500,Al Shabab,Al Qadisiya,0,2,,,,0
-1637854800,Al-Fahaheel,Al Naser,0,0,,,,0
-1637936400,Yarmouk,Kazma SC,1,3,,,,0
-1637944500,Al Tadamon,Al Kuwait,0,1,,,,0
-1638022800,Al Salmiya,Al Shabab,2,0,,,,0
-1638030900,Al Qadisiya,Al Arabi,1,0,,,,0
-1638454800,Al Shabab,Al-Fahaheel,1,1,,,,0
-1638462900,Al Naser,Kazma SC,1,1,,,,0
-1638541200,Al Tadamon,Yarmouk,2,1,,,,0
-1638549300,Al Arabi,Al Salmiya,2,2,,,,0
-1638632400,Al Kuwait,Al Qadisiya,3,0,,,,0
-1638973200,Kazma SC,Al Shabab,1,0,,,,0
-1638984000,Al-Fahaheel,Al Arabi,1,2,,,,0
-1639064400,Yarmouk,Al Naser,0,1,,,,0
-1639146000,Al Qadisiya,Al Tadamon,3,2,,,,0
-1639154100,Al Salmiya,Al Kuwait,1,0,,,,0
-1639578300,Al Kuwait,Al-Fahaheel,2,0,,,,0
-1639586400,Al Qadisiya,Yarmouk,3,1,,,,0
-1639751100,Al Shabab,Al Naser,2,1,,,,0
-1639759200,Al Tadamon,Al Salmiya,2,2,,,,0
-1639842000,Al Arabi,Kazma SC,0,1,,,,0
-1640351100,Al Naser,Al Arabi,1,1,,,,0
-1640360700,Yarmouk,Al Shabab,1,0,,,,0
-1640447100,Al-Fahaheel,Al Tadamon,3,1,,,,0
-1640529000,Al Salmiya,Al Qadisiya,3,2,,,,0
-1640537100,Kazma SC,Al Kuwait,0,0,,,,0
-1640788200,Al Arabi,Al Shabab,3,0,,,,0
-1640874600,Al Qadisiya,Al-Fahaheel,1,1,,,,0
-1640882700,Al Tadamon,Kazma SC,2,4,,,,0
-1640956200,Al Kuwait,Al Naser,1,0,,,,0
-1640965500,Al Salmiya,Yarmouk,1,0,,,,0
-1641306900,Kazma SC,Al Qadisiya,0,3,,,,0
-1641393300,Al-Fahaheel,Al Salmiya,0,2,,,,0
-1641401400,Al Naser,Al Tadamon,1,4,,,,0
-1641479700,Yarmouk,Al Arabi,1,2,,,,0
-1641487800,Al Shabab,Al Kuwait,0,2,,,,0
-1641825600,Al Shabab,Al Tadamon,1,0,,,,0
-1641833700,Al Qadisiya,Al Naser,1,0,,,,0
-1641912000,Al Salmiya,Kazma SC,1,3,,,,0
-1641920100,Al Kuwait,Al Arabi,0,1,,,,0
-1641998400,Al-Fahaheel,Yarmouk,1,0,,,,0
-1644414300,Al Tadamon,Al Arabi,1,3,,,,0
-1644423300,Yarmouk,Al Kuwait,1,1,,,,0
-1644505200,Al Salmiya,Al Naser,1,0,,,,0
-1644587100,Al-Fahaheel,Kazma SC,0,0,,,,0
-1644596100,Al Qadisiya,Al Shabab,1,1,,,,0
-1645019400,Al Shabab,Al Salmiya,1,0,,,,0
-1645028400,Al Naser,Al-Fahaheel,4,0,,,,0
-1645110300,Kazma SC,Yarmouk,0,0,,,,0
-1645192200,Al Kuwait,Al Tadamon,5,1,,,,0
-1645201200,Al Qadisiya,Al Arabi,0,1,,,,0
-1646320500,Yarmouk,Al Tadamon,3,3,,,,0
-1646402400,Al-Fahaheel,Al Shabab,2,2,,,,0
-1646411400,Al Qadisiya,Al Kuwait,0,3,,,,0
-1646488800,Kazma SC,Al Naser,2,1,,,,0
-1646497800,Al Salmiya,Al Arabi,3,2,,,,0
-1646752500,Al Tadamon,Al Qadisiya,1,3,,,,0
-1646834400,Al Shabab,Kazma SC,0,1,,,,0
-1646843400,Yarmouk,Al Naser,0,4,,,,0
-1646920800,Al Arabi,Al-Fahaheel,2,1,,,,0
-1646929800,Al Kuwait,Al Salmiya,1,1,,,,0
-1647526200,Al Naser,Al Shabab,2,0,,,,0
-1647535500,Yarmouk,Al Qadisiya,1,2,,,,0
-1647616800,Al Salmiya,Al Tadamon,2,2,,,,0
-1647699000,Al-Fahaheel,Al Kuwait,1,3,,,,0
-1647708300,Kazma SC,Al Arabi,3,1,,,,0
-1649442600,Al Tadamon,Al-Fahaheel,1,1,,,,0
-1649442600,Al Shabab,Yarmouk,0,3,,,,0
-1649529000,Al Kuwait,Kazma SC,2,0,,,,0
-1649615400,Al Qadisiya,Al Salmiya,0,3,,,,0
-1649615400,Al Arabi,Al Naser,0,2,,,,0
-1649874600,Kazma SC,Al Tadamon,2,1,,,,0
-1649961000,Yarmouk,Al Salmiya,3,2,,,,0
-1649961000,Al Naser,Al Kuwait,2,3,,,,0
-1650047400,Al-Fahaheel,Al Qadisiya,0,2,,,,0
-1650047400,Al Shabab,Al Arabi,1,4,,,,0
-1650393000,Al Kuwait,Al Shabab,2,0,,,,0
-1650393000,Al Arabi,Yarmouk,3,0,,,,0
-1650481200,Al Salmiya,Al-Fahaheel,0,1,,,,0
-1650481200,Al Qadisiya,Kazma SC,0,0,,,,0
-1650567600,Al Tadamon,Al Naser,5,2,,,,0
-1650911400,Yarmouk,Al-Fahaheel,2,3,,,,0
-1650911400,Kazma SC,Al Salmiya,2,4,,,,0
-1650911400,Al Tadamon,Al Shabab,1,0,,,,0
-1650911400,Al Naser,Al Qadisiya,3,1,,,,0
-1650911400,Al Arabi,Al Kuwait,1,4,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1637336400,Kazma SC,Al-Fahaheel,rFudGJm8,25qRGqb6,1,0,,,,0
+1637418000,Al Arabi,Al Tadamon,xfISJPfp,xGLGTwx0,4,1,,,,0
+1637426100,Al Naser,Al Salmiya,xAEjX4rm,nBhEizB7,3,2,,,,0
+1637504400,Al Kuwait,Yarmouk,EoKvKrMO,ncRCR6Oi,4,2,,,,0
+1637512500,Al Shabab,Al Qadisiya,t04gyghd,A5kBMfAs,0,2,,,,0
+1637854800,Al-Fahaheel,Al Naser,25qRGqb6,xAEjX4rm,0,0,,,,0
+1637936400,Yarmouk,Kazma SC,ncRCR6Oi,rFudGJm8,1,3,,,,0
+1637944500,Al Tadamon,Al Kuwait,xGLGTwx0,EoKvKrMO,0,1,,,,0
+1638022800,Al Salmiya,Al Shabab,nBhEizB7,t04gyghd,2,0,,,,0
+1638030900,Al Qadisiya,Al Arabi,A5kBMfAs,xfISJPfp,1,0,,,,0
+1638454800,Al Shabab,Al-Fahaheel,t04gyghd,25qRGqb6,1,1,,,,0
+1638462900,Al Naser,Kazma SC,xAEjX4rm,rFudGJm8,1,1,,,,0
+1638541200,Al Tadamon,Yarmouk,xGLGTwx0,ncRCR6Oi,2,1,,,,0
+1638549300,Al Arabi,Al Salmiya,xfISJPfp,nBhEizB7,2,2,,,,0
+1638632400,Al Kuwait,Al Qadisiya,EoKvKrMO,A5kBMfAs,3,0,,,,0
+1638973200,Kazma SC,Al Shabab,rFudGJm8,t04gyghd,1,0,,,,0
+1638984000,Al-Fahaheel,Al Arabi,25qRGqb6,xfISJPfp,1,2,,,,0
+1639064400,Yarmouk,Al Naser,ncRCR6Oi,xAEjX4rm,0,1,,,,0
+1639146000,Al Qadisiya,Al Tadamon,A5kBMfAs,xGLGTwx0,3,2,,,,0
+1639154100,Al Salmiya,Al Kuwait,nBhEizB7,EoKvKrMO,1,0,,,,0
+1639578300,Al Kuwait,Al-Fahaheel,EoKvKrMO,25qRGqb6,2,0,,,,0
+1639586400,Al Qadisiya,Yarmouk,A5kBMfAs,ncRCR6Oi,3,1,,,,0
+1639751100,Al Shabab,Al Naser,t04gyghd,xAEjX4rm,2,1,,,,0
+1639759200,Al Tadamon,Al Salmiya,xGLGTwx0,nBhEizB7,2,2,,,,0
+1639842000,Al Arabi,Kazma SC,xfISJPfp,rFudGJm8,0,1,,,,0
+1640351100,Al Naser,Al Arabi,xAEjX4rm,xfISJPfp,1,1,,,,0
+1640360700,Yarmouk,Al Shabab,ncRCR6Oi,t04gyghd,1,0,,,,0
+1640447100,Al-Fahaheel,Al Tadamon,25qRGqb6,xGLGTwx0,3,1,,,,0
+1640529000,Al Salmiya,Al Qadisiya,nBhEizB7,A5kBMfAs,3,2,,,,0
+1640537100,Kazma SC,Al Kuwait,rFudGJm8,EoKvKrMO,0,0,,,,0
+1640788200,Al Arabi,Al Shabab,xfISJPfp,t04gyghd,3,0,,,,0
+1640874600,Al Qadisiya,Al-Fahaheel,A5kBMfAs,25qRGqb6,1,1,,,,0
+1640882700,Al Tadamon,Kazma SC,xGLGTwx0,rFudGJm8,2,4,,,,0
+1640956200,Al Kuwait,Al Naser,EoKvKrMO,xAEjX4rm,1,0,,,,0
+1640965500,Al Salmiya,Yarmouk,nBhEizB7,ncRCR6Oi,1,0,,,,0
+1641306900,Kazma SC,Al Qadisiya,rFudGJm8,A5kBMfAs,0,3,,,,0
+1641393300,Al-Fahaheel,Al Salmiya,25qRGqb6,nBhEizB7,0,2,,,,0
+1641401400,Al Naser,Al Tadamon,xAEjX4rm,xGLGTwx0,1,4,,,,0
+1641479700,Yarmouk,Al Arabi,ncRCR6Oi,xfISJPfp,1,2,,,,0
+1641487800,Al Shabab,Al Kuwait,t04gyghd,EoKvKrMO,0,2,,,,0
+1641825600,Al Shabab,Al Tadamon,t04gyghd,xGLGTwx0,1,0,,,,0
+1641833700,Al Qadisiya,Al Naser,A5kBMfAs,xAEjX4rm,1,0,,,,0
+1641912000,Al Salmiya,Kazma SC,nBhEizB7,rFudGJm8,1,3,,,,0
+1641920100,Al Kuwait,Al Arabi,EoKvKrMO,xfISJPfp,0,1,,,,0
+1641998400,Al-Fahaheel,Yarmouk,25qRGqb6,ncRCR6Oi,1,0,,,,0
+1644414300,Al Tadamon,Al Arabi,xGLGTwx0,xfISJPfp,1,3,,,,0
+1644423300,Yarmouk,Al Kuwait,ncRCR6Oi,EoKvKrMO,1,1,,,,0
+1644505200,Al Salmiya,Al Naser,nBhEizB7,xAEjX4rm,1,0,,,,0
+1644587100,Al-Fahaheel,Kazma SC,25qRGqb6,rFudGJm8,0,0,,,,0
+1644596100,Al Qadisiya,Al Shabab,A5kBMfAs,t04gyghd,1,1,,,,0
+1645019400,Al Shabab,Al Salmiya,t04gyghd,nBhEizB7,1,0,,,,0
+1645028400,Al Naser,Al-Fahaheel,xAEjX4rm,25qRGqb6,4,0,,,,0
+1645110300,Kazma SC,Yarmouk,rFudGJm8,ncRCR6Oi,0,0,,,,0
+1645192200,Al Kuwait,Al Tadamon,EoKvKrMO,xGLGTwx0,5,1,,,,0
+1645201200,Al Qadisiya,Al Arabi,A5kBMfAs,xfISJPfp,0,1,,,,0
+1646320500,Yarmouk,Al Tadamon,ncRCR6Oi,xGLGTwx0,3,3,,,,0
+1646402400,Al-Fahaheel,Al Shabab,25qRGqb6,t04gyghd,2,2,,,,0
+1646411400,Al Qadisiya,Al Kuwait,A5kBMfAs,EoKvKrMO,0,3,,,,0
+1646488800,Kazma SC,Al Naser,rFudGJm8,xAEjX4rm,2,1,,,,0
+1646497800,Al Salmiya,Al Arabi,nBhEizB7,xfISJPfp,3,2,,,,0
+1646752500,Al Tadamon,Al Qadisiya,xGLGTwx0,A5kBMfAs,1,3,,,,0
+1646834400,Al Shabab,Kazma SC,t04gyghd,rFudGJm8,0,1,,,,0
+1646843400,Yarmouk,Al Naser,ncRCR6Oi,xAEjX4rm,0,4,,,,0
+1646920800,Al Arabi,Al-Fahaheel,xfISJPfp,25qRGqb6,2,1,,,,0
+1646929800,Al Kuwait,Al Salmiya,EoKvKrMO,nBhEizB7,1,1,,,,0
+1647526200,Al Naser,Al Shabab,xAEjX4rm,t04gyghd,2,0,,,,0
+1647535500,Yarmouk,Al Qadisiya,ncRCR6Oi,A5kBMfAs,1,2,,,,0
+1647616800,Al Salmiya,Al Tadamon,nBhEizB7,xGLGTwx0,2,2,,,,0
+1647699000,Al-Fahaheel,Al Kuwait,25qRGqb6,EoKvKrMO,1,3,,,,0
+1647708300,Kazma SC,Al Arabi,rFudGJm8,xfISJPfp,3,1,,,,0
+1649442600,Al Tadamon,Al-Fahaheel,xGLGTwx0,25qRGqb6,1,1,,,,0
+1649442600,Al Shabab,Yarmouk,t04gyghd,ncRCR6Oi,0,3,,,,0
+1649529000,Al Kuwait,Kazma SC,EoKvKrMO,rFudGJm8,2,0,,,,0
+1649615400,Al Qadisiya,Al Salmiya,A5kBMfAs,nBhEizB7,0,3,,,,0
+1649615400,Al Arabi,Al Naser,xfISJPfp,xAEjX4rm,0,2,,,,0
+1649874600,Kazma SC,Al Tadamon,rFudGJm8,xGLGTwx0,2,1,,,,0
+1649961000,Yarmouk,Al Salmiya,ncRCR6Oi,nBhEizB7,3,2,,,,0
+1649961000,Al Naser,Al Kuwait,xAEjX4rm,EoKvKrMO,2,3,,,,0
+1650047400,Al-Fahaheel,Al Qadisiya,25qRGqb6,A5kBMfAs,0,2,,,,0
+1650047400,Al Shabab,Al Arabi,t04gyghd,xfISJPfp,1,4,,,,0
+1650393000,Al Kuwait,Al Shabab,EoKvKrMO,t04gyghd,2,0,,,,0
+1650393000,Al Arabi,Yarmouk,xfISJPfp,ncRCR6Oi,3,0,,,,0
+1650481200,Al Salmiya,Al-Fahaheel,nBhEizB7,25qRGqb6,0,1,,,,0
+1650481200,Al Qadisiya,Kazma SC,A5kBMfAs,rFudGJm8,0,0,,,,0
+1650567600,Al Tadamon,Al Naser,xGLGTwx0,xAEjX4rm,5,2,,,,0
+1650911400,Yarmouk,Al-Fahaheel,ncRCR6Oi,25qRGqb6,2,3,,,,0
+1650911400,Kazma SC,Al Salmiya,rFudGJm8,nBhEizB7,2,4,,,,0
+1650911400,Al Tadamon,Al Shabab,xGLGTwx0,t04gyghd,1,0,,,,0
+1650911400,Al Naser,Al Qadisiya,xAEjX4rm,A5kBMfAs,3,1,,,,0
+1650911400,Al Arabi,Al Kuwait,xfISJPfp,EoKvKrMO,1,4,,,,0

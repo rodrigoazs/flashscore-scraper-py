@@ -1,60 +1,60 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-243093600,Omonia,Juventus,0,3,,,,0
-243093600,Levski Sofia,Slask Wroclaw,3,0,,,,0
-243095400,Trabzonspor,Boldklubben 1903,1,0,,,,0
-243099000,KuPS,Club Brugge KV,0,4,,,,0
-243100800,Floriana,Panathinaikos,1,1,,,,0
-243102600,Crvena zvezda,Sligo Rovers,3,0,,,,0
-243106200,Celtic,Jeunesse Esch,5,0,,,,0
-243108000,Lillestrom,Ajax,2,0,,,,0
-243109800,Dukla Prague,Nantes,1,1,,,,0
-243110700,Vasas,B. Monchengladbach,0,3,,,,0
-243111600,SG Dynamo Dresden,Halmstad,2,0,,,,0
-243111600,Basel,Wacker Innsbruck,1,3,,,,0
-243117000,Benfica,Torpedo Moscow,0,0,,,,0
-243190800,Valur,Glentoran,1,0,,,,0
-243190800,Din. Bucuresti,Atl. Madrid,2,1,,,,0
-244299600,Slask Wroclaw,Levski Sofia,2,2,,,,0
-244299600,Boldklubben 1903,Trabzonspor,2,0,,,,0
-244299600,Atl. Madrid,Din. Bucuresti,2,0,,,,0
-244308600,Sligo Rovers,Crvena zvezda,0,3,,,,0
-244312200,Torpedo Moscow,Benfica,0,0,Pen,0,1,0
-244317600,Wacker Innsbruck,Basel,0,1,,,,0
-244317600,Halmstad,SG Dynamo Dresden,2,1,,,,0
-244319400,Panathinaikos,Floriana,4,0,,,,0
-244319400,Nantes,Dukla Prague,0,0,,,,0
-244319400,Jeunesse Esch,Celtic,1,6,,,,0
-244319400,B. Monchengladbach,Vasas,1,1,,,,0
-244321200,Club Brugge KV,KuPS,5,2,,,,0
-244322100,Ajax,Lillestrom,4,0,,,,0
-244323000,Juventus,Omonia,2,0,,,,0
-244409400,Glentoran,Valur,2,0,,,,0
-246126600,Levski Sofia,Ajax,1,2,,,,0
-246126600,Crvena zvezda,B. Monchengladbach,0,3,,,,0
-246133800,Liverpool,SG Dynamo Dresden,5,1,,,,0
-246135600,Club Brugge KV,Panathinaikos,2,0,,,,0
-246137400,Nantes,Atl. Madrid,1,1,,,,0
-246137400,Glentoran,Juventus,0,1,,,,0
-246137400,Celtic,Wacker Innsbruck,2,1,,,,0
-246141000,Benfica,Boldklubben 1903,1,0,,,,0
-247323600,Panathinaikos,Club Brugge KV,1,0,,,,0
-247334400,SG Dynamo Dresden,Liverpool,2,1,,,,0
-247341600,Wacker Innsbruck,Celtic,3,0,,,,0
-247341600,Boldklubben 1903,Benfica,0,1,,,,0
-247343400,B. Monchengladbach,Crvena zvezda,5,1,,,,0
-247346100,Ajax,Levski Sofia,2,1,,,,0
-247347000,Juventus,Glentoran,5,0,,,,0
-247348800,Atl. Madrid,Nantes,2,1,,,,0
-257625000,Wacker Innsbruck,B. Monchengladbach,3,1,,,,0
-257626800,Club Brugge KV,Atl. Madrid,2,0,,,,0
-257627700,Ajax,Juventus,1,1,,,,0
-257632200,Benfica,Liverpool,1,2,,,,0
-258834600,B. Monchengladbach,Wacker Innsbruck,2,0,,,,0
-258838200,Liverpool,Benfica,4,1,,,,0
-258838200,Juventus,Ajax,1,1,Pen,2,1,0
-258840000,Atl. Madrid,Club Brugge KV,3,2,,,,0
-260046000,B. Monchengladbach,Liverpool,2,1,,,,0
-260047800,Juventus,Club Brugge KV,1,0,,,,0
-261253800,Liverpool,B. Monchengladbach,3,0,,,,0
-261255600,Club Brugge KV,Juventus,1,0,AET,2,0,0
-263672100,Liverpool,Club Brugge KV,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+243093600,Omonia,Juventus,8GeT5Kmk,EXzXDYgS,0,3,,,,0
+243093600,Levski Sofia,Slask Wroclaw,OvIM8T6I,CrPl0Jrc,3,0,,,,0
+243095400,Trabzonspor,Boldklubben 1903,MobtE80i,b9d2LIDp,1,0,,,,0
+243099000,KuPS,Club Brugge KV,tE5VOoRI,44lq3LsP,0,4,,,,0
+243100800,Floriana,Panathinaikos,xGkXZymr,GM4Cu0wi,1,1,,,,0
+243102600,Crvena zvezda,Sligo Rovers,4OAEfiPE,4zJqyaPk,3,0,,,,0
+243106200,Celtic,Jeunesse Esch,xGFNNID8,IqhLeVal,5,0,,,,0
+243108000,Lillestrom,Ajax,zTAC7Vhk,bZZPiwAI,2,0,,,,0
+243109800,Dukla Prague,Nantes,jFFA0URI,YBWLmubi,1,1,,,,0
+243110700,Vasas,B. Monchengladbach,vZxvDf2E,ncmj9JbF,0,3,,,,0
+243111600,SG Dynamo Dresden,Halmstad,YP5eX03i,Qw5ziF5q,2,0,,,,0
+243111600,Basel,Wacker Innsbruck,fPZDBkJI,UsfS2kBR,1,3,,,,0
+243117000,Benfica,Torpedo Moscow,GEKimEim,UsdRiD7F,0,0,,,,0
+243190800,Valur,Glentoran,juoTB6Rh,l2qiVD1D,1,0,,,,0
+243190800,Din. Bucuresti,Atl. Madrid,EyedO184,nLBjwR1F,2,1,,,,0
+244299600,Slask Wroclaw,Levski Sofia,CrPl0Jrc,OvIM8T6I,2,2,,,,0
+244299600,Boldklubben 1903,Trabzonspor,b9d2LIDp,MobtE80i,2,0,,,,0
+244299600,Atl. Madrid,Din. Bucuresti,nLBjwR1F,EyedO184,2,0,,,,0
+244308600,Sligo Rovers,Crvena zvezda,4zJqyaPk,4OAEfiPE,0,3,,,,0
+244312200,Torpedo Moscow,Benfica,UsdRiD7F,GEKimEim,0,0,Pen,0,1,0
+244317600,Wacker Innsbruck,Basel,UsfS2kBR,fPZDBkJI,0,1,,,,0
+244317600,Halmstad,SG Dynamo Dresden,Qw5ziF5q,YP5eX03i,2,1,,,,0
+244319400,Panathinaikos,Floriana,GM4Cu0wi,xGkXZymr,4,0,,,,0
+244319400,Nantes,Dukla Prague,YBWLmubi,jFFA0URI,0,0,,,,0
+244319400,Jeunesse Esch,Celtic,IqhLeVal,xGFNNID8,1,6,,,,0
+244319400,B. Monchengladbach,Vasas,ncmj9JbF,vZxvDf2E,1,1,,,,0
+244321200,Club Brugge KV,KuPS,44lq3LsP,tE5VOoRI,5,2,,,,0
+244322100,Ajax,Lillestrom,bZZPiwAI,zTAC7Vhk,4,0,,,,0
+244323000,Juventus,Omonia,EXzXDYgS,8GeT5Kmk,2,0,,,,0
+244409400,Glentoran,Valur,l2qiVD1D,juoTB6Rh,2,0,,,,0
+246126600,Levski Sofia,Ajax,OvIM8T6I,bZZPiwAI,1,2,,,,0
+246126600,Crvena zvezda,B. Monchengladbach,4OAEfiPE,ncmj9JbF,0,3,,,,0
+246133800,Liverpool,SG Dynamo Dresden,KCp4zq5F,YP5eX03i,5,1,,,,0
+246135600,Club Brugge KV,Panathinaikos,44lq3LsP,GM4Cu0wi,2,0,,,,0
+246137400,Nantes,Atl. Madrid,YBWLmubi,nLBjwR1F,1,1,,,,0
+246137400,Glentoran,Juventus,l2qiVD1D,EXzXDYgS,0,1,,,,0
+246137400,Celtic,Wacker Innsbruck,xGFNNID8,UsfS2kBR,2,1,,,,0
+246141000,Benfica,Boldklubben 1903,GEKimEim,b9d2LIDp,1,0,,,,0
+247323600,Panathinaikos,Club Brugge KV,GM4Cu0wi,44lq3LsP,1,0,,,,0
+247334400,SG Dynamo Dresden,Liverpool,YP5eX03i,KCp4zq5F,2,1,,,,0
+247341600,Wacker Innsbruck,Celtic,UsfS2kBR,xGFNNID8,3,0,,,,0
+247341600,Boldklubben 1903,Benfica,b9d2LIDp,GEKimEim,0,1,,,,0
+247343400,B. Monchengladbach,Crvena zvezda,ncmj9JbF,4OAEfiPE,5,1,,,,0
+247346100,Ajax,Levski Sofia,bZZPiwAI,OvIM8T6I,2,1,,,,0
+247347000,Juventus,Glentoran,EXzXDYgS,l2qiVD1D,5,0,,,,0
+247348800,Atl. Madrid,Nantes,nLBjwR1F,YBWLmubi,2,1,,,,0
+257625000,Wacker Innsbruck,B. Monchengladbach,UsfS2kBR,ncmj9JbF,3,1,,,,0
+257626800,Club Brugge KV,Atl. Madrid,44lq3LsP,nLBjwR1F,2,0,,,,0
+257627700,Ajax,Juventus,bZZPiwAI,EXzXDYgS,1,1,,,,0
+257632200,Benfica,Liverpool,GEKimEim,KCp4zq5F,1,2,,,,0
+258834600,B. Monchengladbach,Wacker Innsbruck,ncmj9JbF,UsfS2kBR,2,0,,,,0
+258838200,Liverpool,Benfica,KCp4zq5F,GEKimEim,4,1,,,,0
+258838200,Juventus,Ajax,EXzXDYgS,bZZPiwAI,1,1,Pen,2,1,0
+258840000,Atl. Madrid,Club Brugge KV,nLBjwR1F,44lq3LsP,3,2,,,,0
+260046000,B. Monchengladbach,Liverpool,ncmj9JbF,KCp4zq5F,2,1,,,,0
+260047800,Juventus,Club Brugge KV,EXzXDYgS,44lq3LsP,1,0,,,,0
+261253800,Liverpool,B. Monchengladbach,KCp4zq5F,ncmj9JbF,3,0,,,,0
+261255600,Club Brugge KV,Juventus,44lq3LsP,EXzXDYgS,1,0,AET,2,0,0
+263672100,Liverpool,Club Brugge KV,KCp4zq5F,44lq3LsP,1,0,,,,0

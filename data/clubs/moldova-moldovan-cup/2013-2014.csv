@@ -1,29 +1,29 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1379163600,Singerei,Edinet,4,2,,,,0
-1379163600,Ialoveni,Victoria,0,1,,,,0
-1379163600,Granicerul,Riscani,4,4,AET,5,4,0
-1379250000,Unirea Ungheni,Sf.Gheorghe,1,2,,,,0
-1379250000,Tighina,Real Succes,1,1,Pen,1,2,0
-1379250000,Comrat Chirsova,Slobozia,2,2,AET,4,2,0
-1379422800,Cahul,Univer Comrat,2,6,,,,0
-1383044400,Zaria Balti,Intersport,4,1,,,,0
-1383130800,Veris Chisinau,Comrat Chirsova,4,0,,,,0
-1383130800,Univer Comrat,Real Succes,1,2,,,,0
-1383130800,Speranta,Saksan,1,1,AET,2,3,0
-1383130800,Dinamo-Auto,Granicerul,4,0,,,,0
-1395748800,Victoria,Rapid Ghidighici,3,0,,,,0
-1395748800,Dacia Chisinau,Singerei,8,0,,,,0
-1395756000,Dacia Chisinau,Singerei,8,0,,,,0
-1395759600,Sheriff Tiraspol,Zaria Balti,4,0,,,,0
-1395835200,Sf.Gheorghe,Academia Chisinau,0,3,,,,0
-1395835200,Milsami,Real Succes,2,0,,,,0
-1395835200,FC Tiraspol,Saksan,1,0,,,,0
-1395835200,Costuleni,Veris Chisinau,0,3,,,,0
-1395849600,Zimbru Chisinau,Dinamo-Auto,1,0,,,,0
-1397559600,Victoria,Milsami,2,2,AET,2,5,0
-1397566800,Dacia Chisinau,Academia Chisinau,3,0,,,,0
-1397570400,Sheriff Tiraspol,Veris Chisinau,2,1,,,,0
-1397574000,Zimbru Chisinau,FC Tiraspol,1,1,Pen,2,1,0
-1399395600,Zimbru Chisinau,Dacia Chisinau,2,0,,,,0
-1399471200,Milsami,Sheriff Tiraspol,0,2,,,,0
-1401037200,Sheriff Tiraspol,Zimbru Chisinau,1,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1379163600,Singerei,Edinet,Iq89zWiT,ddlFUp3p,4,2,,,,0
+1379163600,Ialoveni,Victoria,rX83zKRm,GKgzQUqg,0,1,,,,0
+1379163600,Granicerul,Riscani,vg95yCxN,vg95yCxN,4,4,AET,5,4,0
+1379250000,Unirea Ungheni,Sf.Gheorghe,htukpewo,E5dQHTcd,1,2,,,,0
+1379250000,Tighina,Real Succes,bThpLBvc,lvTfNEmR,1,1,Pen,1,2,0
+1379250000,Comrat Chirsova,Slobozia,,02A1xhNG,2,2,AET,4,2,0
+1379422800,Cahul,Univer Comrat,StxbsfGB,nyAR0wsT,2,6,,,,0
+1383044400,Zaria Balti,Intersport,hEC4Vnse,fm2mZQfT,4,1,,,,0
+1383130800,Veris Chisinau,Comrat Chirsova,YXFj0GNG,,4,0,,,,0
+1383130800,Univer Comrat,Real Succes,nyAR0wsT,lvTfNEmR,1,2,,,,0
+1383130800,Speranta,Saksan,IXiuiz49,xtLCk61r,1,1,AET,2,3,0
+1383130800,Dinamo-Auto,Granicerul,GKJk5gu7,vg95yCxN,4,0,,,,0
+1395748800,Victoria,Rapid Ghidighici,GKgzQUqg,YN0lXg6t,3,0,,,,0
+1395748800,Dacia Chisinau,Singerei,G6lyZe2l,Iq89zWiT,8,0,,,,0
+1395756000,Dacia Chisinau,Singerei,G6lyZe2l,Iq89zWiT,8,0,,,,0
+1395759600,Sheriff Tiraspol,Zaria Balti,zVD8QVhN,hEC4Vnse,4,0,,,,0
+1395835200,Sf.Gheorghe,Academia Chisinau,E5dQHTcd,G6lyZe2l,0,3,,,,0
+1395835200,Milsami,Real Succes,G6lyZe2l,lvTfNEmR,2,0,,,,0
+1395835200,FC Tiraspol,Saksan,G6lyZe2l,xtLCk61r,1,0,,,,0
+1395835200,Costuleni,Veris Chisinau,G6lyZe2l,YXFj0GNG,0,3,,,,0
+1395849600,Zimbru Chisinau,Dinamo-Auto,QcBOsqL0,GKJk5gu7,1,0,,,,0
+1397559600,Victoria,Milsami,GKgzQUqg,G6lyZe2l,2,2,AET,2,5,0
+1397566800,Dacia Chisinau,Academia Chisinau,G6lyZe2l,G6lyZe2l,3,0,,,,0
+1397570400,Sheriff Tiraspol,Veris Chisinau,zVD8QVhN,YXFj0GNG,2,1,,,,0
+1397574000,Zimbru Chisinau,FC Tiraspol,QcBOsqL0,G6lyZe2l,1,1,Pen,2,1,0
+1399395600,Zimbru Chisinau,Dacia Chisinau,QcBOsqL0,G6lyZe2l,2,0,,,,0
+1399471200,Milsami,Sheriff Tiraspol,G6lyZe2l,zVD8QVhN,0,2,,,,0
+1401037200,Sheriff Tiraspol,Zimbru Chisinau,zVD8QVhN,QcBOsqL0,1,3,,,,0

@@ -1,22 +1,22 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1094853600,Stal Alchevsk,Dnipro,1,2,,,,0
-1094853600,Naftovik-Ukrnafta,Met. Donetsk,2,1,,,,0
-1094853600,Karpaty,Dyn. Kyiv,0,1,,,,0
-1094853600,Arsenal Kiev,Shakhtar Donetsk,1,2,,,,0
-1094990400,Mariupol,Volyn Lutsk,1,1,AET,1,2,0
-1094994000,Nyva Vinnytsya,Met. Zaporizhya,1,0,,,,0
-1094994000,Dnipro Cherkasy,Tavriya,0,0,Pen,0,1,0
-1094994000,Desna,Kryvbas Krivoy Rog,1,4,,,,0
-1097928000,Naftovik-Ukrnafta,Dnipro,0,2,,,,0
-1097937000,Volyn Lutsk,Dyn. Kyiv,1,2,,,,0
-1097938800,Shakhtar Donetsk,Tavriya,3,0,,,,0
-1098014400,Nyva Vinnytsya,Kryvbas Krivoy Rog,2,1,,,,0
-1100876400,Dyn. Kyiv,Volyn Lutsk,4,0,,,,0
-1100952000,Dnipro,Naftovik-Ukrnafta,2,2,,,,0
-1100959200,Tavriya,Shakhtar Donetsk,0,4,,,,0
-1100959200,Kryvbas Krivoy Rog,Nyva Vinnytsya,2,0,,,,0
-1114095600,Shakhtar Donetsk,Dnipro,2,1,,,,0
-1114099200,Kryvbas Krivoy Rog,Dyn. Kyiv,1,1,,,,0
-1115218800,Dnipro,Shakhtar Donetsk,0,0,,,,0
-1115222400,Dyn. Kyiv,Kryvbas Krivoy Rog,2,0,,,,0
-1117368000,Shakhtar Donetsk,Dyn. Kyiv,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1094853600,Stal Alchevsk,Dnipro,tMsKdV02,xbUiUE46,1,2,,,,0
+1094853600,Naftovik-Ukrnafta,Met. Donetsk,jBRZbXzO,f5csGSwJ,2,1,,,,0
+1094853600,Karpaty,Dyn. Kyiv,va8daTel,M1Cjh44S,0,1,,,,0
+1094853600,Arsenal Kiev,Shakhtar Donetsk,tneUjJf7,YmCZKGcR,1,2,,,,0
+1094990400,Mariupol,Volyn Lutsk,GzrDrkgg,f5csGSwJ,1,1,AET,1,2,0
+1094994000,Nyva Vinnytsya,Met. Zaporizhya,AgPpKjQF,YVQtLWA9,1,0,,,,0
+1094994000,Dnipro Cherkasy,Tavriya,lvNpaTpm,4GQ6kuAf,0,0,Pen,0,1,0
+1094994000,Desna,Kryvbas Krivoy Rog,GQ8Y1iOh,ncFcQ5qn,1,4,,,,0
+1097928000,Naftovik-Ukrnafta,Dnipro,jBRZbXzO,xbUiUE46,0,2,,,,0
+1097937000,Volyn Lutsk,Dyn. Kyiv,f5csGSwJ,M1Cjh44S,1,2,,,,0
+1097938800,Shakhtar Donetsk,Tavriya,YmCZKGcR,4GQ6kuAf,3,0,,,,0
+1098014400,Nyva Vinnytsya,Kryvbas Krivoy Rog,AgPpKjQF,ncFcQ5qn,2,1,,,,0
+1100876400,Dyn. Kyiv,Volyn Lutsk,M1Cjh44S,f5csGSwJ,4,0,,,,0
+1100952000,Dnipro,Naftovik-Ukrnafta,xbUiUE46,jBRZbXzO,2,2,,,,0
+1100959200,Tavriya,Shakhtar Donetsk,4GQ6kuAf,YmCZKGcR,0,4,,,,0
+1100959200,Kryvbas Krivoy Rog,Nyva Vinnytsya,ncFcQ5qn,AgPpKjQF,2,0,,,,0
+1114095600,Shakhtar Donetsk,Dnipro,YmCZKGcR,xbUiUE46,2,1,,,,0
+1114099200,Kryvbas Krivoy Rog,Dyn. Kyiv,ncFcQ5qn,M1Cjh44S,1,1,,,,0
+1115218800,Dnipro,Shakhtar Donetsk,xbUiUE46,YmCZKGcR,0,0,,,,0
+1115222400,Dyn. Kyiv,Kryvbas Krivoy Rog,M1Cjh44S,ncFcQ5qn,2,0,,,,0
+1117368000,Shakhtar Donetsk,Dyn. Kyiv,YmCZKGcR,M1Cjh44S,0,1,,,,0

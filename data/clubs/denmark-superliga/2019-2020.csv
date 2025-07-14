@@ -1,244 +1,244 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1562950800,Midtjylland,Esbjerg,1,0,,,,0
-1563098400,Sonderjyske,Randers FC,2,1,,,,0
-1563105600,Lyngby,Aalborg,2,0,,,,0
-1563105600,Horsens,Nordsjaelland,0,3,,,,0
-1563112800,Odense,FC Copenhagen,2,3,,,,0
-1563120000,Brondby,Silkeborg,3,0,,,,0
-1563210000,Hobro,Aarhus,1,1,,,,0
-1563555600,FC Copenhagen,Aarhus,2,1,,,,0
-1563703200,Silkeborg,Horsens,0,3,,,,0
-1563710400,Esbjerg,Hobro,1,1,,,,0
-1563710400,Aalborg,Sonderjyske,1,1,,,,0
-1563717600,Randers FC,Brondby,2,2,,,,0
-1563724800,Midtjylland,Nordsjaelland,2,1,,,,0
-1563814800,Odense,Lyngby,4,1,,,,0
-1564160400,Lyngby,Sonderjyske,0,3,,,,0
-1564241400,Horsens,FC Copenhagen,0,2,,,,0
-1564308000,Hobro,Randers FC,2,2,,,,0
-1564315200,Nordsjaelland,Esbjerg,2,0,,,,0
-1564322400,Aarhus,Midtjylland,0,1,,,,0
-1564329600,Brondby,Odense,3,2,,,,0
-1564419600,Aalborg,Silkeborg,3,1,,,,0
-1564765200,Silkeborg,Hobro,2,3,,,,0
-1564840800,Sonderjyske,FC Copenhagen,1,2,,,,0
-1564912800,Randers FC,Nordsjaelland,3,1,,,,0
-1564920000,Esbjerg,Odense,0,1,,,,0
-1564927200,Brondby,Horsens,1,2,,,,0
-1564934400,Midtjylland,Aalborg,1,0,,,,0
-1565024400,Lyngby,Aarhus,2,1,,,,0
-1565366400,FC Copenhagen,Lyngby,2,0,,,,0
-1565373600,Odense,Randers FC,1,0,,,,0
-1565517600,Nordsjaelland,Silkeborg,2,2,,,,0
-1565524800,Aalborg,Esbjerg,4,0,,,,0
-1565532000,Horsens,Midtjylland,0,2,,,,0
-1565539200,Hobro,Brondby,0,2,,,,0
-1565629200,Sonderjyske,Aarhus,0,0,,,,0
-1565971200,Randers FC,FC Copenhagen,0,1,,,,0
-1565978400,Nordsjaelland,Odense,2,0,,,,0
-1566122400,Silkeborg,Sonderjyske,3,3,,,,0
-1566129600,Esbjerg,Lyngby,1,0,,,,0
-1566136800,Midtjylland,Hobro,1,1,,,,0
-1566144000,Brondby,Aalborg,2,1,,,,0
-1566234000,Aarhus,Horsens,2,0,,,,0
-1566579600,Hobro,Odense,0,0,,,,0
-1566727200,Lyngby,Randers FC,2,0,,,,0
-1566734400,Esbjerg,Silkeborg,2,2,,,,0
-1566741600,Sonderjyske,Midtjylland,0,2,,,,0
-1566748800,Brondby,Aarhus,0,3,,,,0
-1566756000,FC Copenhagen,Nordsjaelland,3,1,,,,0
-1566838800,Horsens,Aalborg,0,5,,,,0
-1567184400,Odense,Sonderjyske,0,0,,,,0
-1567260000,Nordsjaelland,Hobro,2,1,,,,0
-1567332000,Aarhus,Esbjerg,1,0,,,,0
-1567339200,Randers FC,Silkeborg,2,0,,,,0
-1567339200,Horsens,Lyngby,2,1,,,,0
-1567346400,Aalborg,FC Copenhagen,1,0,,,,0
-1567353600,Midtjylland,Brondby,1,0,,,,0
-1568394000,Sonderjyske,Horsens,0,0,,,,0
-1568541600,Aarhus,Aalborg,3,0,,,,0
-1568548800,Lyngby,Midtjylland,0,3,,,,0
-1568548800,Esbjerg,Randers FC,0,3,,,,0
-1568556000,Hobro,FC Copenhagen,2,1,,,,0
-1568563200,Brondby,Nordsjaelland,4,2,,,,0
-1568653200,Silkeborg,Odense,0,3,,,,0
-1568998800,Odense,Aarhus,1,2,,,,0
-1569146400,Hobro,Sonderjyske,1,1,,,,0
-1569153600,Silkeborg,Lyngby,2,3,,,,0
-1569153600,Nordsjaelland,Aalborg,2,1,,,,0
-1569160800,Esbjerg,Brondby,3,1,,,,0
-1569168000,FC Copenhagen,Midtjylland,0,0,,,,0
-1569258000,Randers FC,Horsens,2,1,,,,0
-1569603600,Lyngby,Hobro,2,1,,,,0
-1569682800,FC Copenhagen,Silkeborg,4,2,,,,0
-1569751200,Aarhus,Nordsjaelland,3,1,,,,0
-1569758400,Aalborg,Randers FC,0,3,,,,0
-1569765600,Midtjylland,Odense,0,1,,,,0
-1569772800,Sonderjyske,Brondby,2,1,,,,0
-1569862800,Horsens,Esbjerg,1,1,,,,0
-1570208400,Nordsjaelland,Lyngby,1,1,,,,0
-1570284000,Hobro,Aalborg,0,2,,,,0
-1570356000,Esbjerg,Sonderjyske,1,2,,,,0
-1570363200,Odense,Horsens,3,0,,,,0
-1570363200,Brondby,FC Copenhagen,3,1,,,,0
-1570370400,Randers FC,Aarhus,2,0,,,,0
-1570377600,Silkeborg,Midtjylland,1,2,,,,0
-1571418000,Aalborg,Odense,1,0,,,,0
-1571565600,Horsens,Hobro,1,0,,,,0
-1571572800,Sonderjyske,Nordsjaelland,1,4,,,,0
-1571572800,Aarhus,Silkeborg,3,4,,,,0
-1571580000,FC Copenhagen,Esbjerg,3,1,,,,0
-1571587200,Lyngby,Brondby,0,3,,,,0
-1571677200,Midtjylland,Randers FC,2,1,,,,0
-1572022800,Esbjerg,Midtjylland,1,2,,,,0
-1572174000,Hobro,Silkeborg,1,1,,,,0
-1572181200,Odense,Nordsjaelland,3,1,,,,0
-1572181200,Lyngby,Horsens,2,1,,,,0
-1572188400,Brondby,Randers FC,5,2,,,,0
-1572195600,Sonderjyske,Aalborg,1,3,,,,0
-1572285600,Aarhus,FC Copenhagen,1,2,,,,0
-1572631200,Esbjerg,Horsens,1,1,,,,0
-1572778800,Randers FC,Lyngby,2,1,,,,0
-1572786000,Odense,Hobro,2,1,,,,0
-1572786000,Nordsjaelland,Aarhus,0,1,,,,0
-1572793200,Aalborg,Midtjylland,0,1,,,,0
-1572800400,FC Copenhagen,Sonderjyske,3,0,,,,0
-1572890400,Silkeborg,Brondby,0,1,,,,0
-1573236000,Randers FC,Aalborg,3,3,,,,0
-1573311600,Horsens,Silkeborg,2,1,,,,0
-1573383600,Hobro,Nordsjaelland,2,2,,,,0
-1573390800,Lyngby,Odense,4,3,,,,0
-1573390800,Aarhus,Sonderjyske,4,2,,,,0
-1573398000,Brondby,Esbjerg,2,1,,,,0
-1573405200,Midtjylland,FC Copenhagen,4,1,,,,0
-1574445600,Nordsjaelland,Randers FC,3,0,,,,0
-1574593200,Sonderjyske,Lyngby,2,2,,,,0
-1574600400,Silkeborg,Esbjerg,1,2,,,,0
-1574600400,Aalborg,Horsens,4,0,,,,0
-1574607600,FC Copenhagen,Hobro,2,1,,,,0
-1574614800,Aarhus,Brondby,2,1,,,,0
-1574704800,Odense,Midtjylland,1,2,,,,0
-1575050400,Lyngby,Nordsjaelland,1,1,,,,0
-1575197100,FC Copenhagen,Brondby,2,1,,,,0
-1575198000,Randers FC,Sonderjyske,3,0,,,,0
-1575205200,Horsens,Odense,2,1,,,,0
-1575212400,Esbjerg,Aarhus,1,2,,,,0
-1575219600,Aalborg,Hobro,1,1,,,,0
-1575309600,Midtjylland,Silkeborg,2,1,,,,0
-1575655200,Hobro,Horsens,0,0,,,,0
-1575802800,Silkeborg,Randers FC,2,1,,,,0
-1575810000,Sonderjyske,Esbjerg,2,1,,,,0
-1575810000,Aarhus,Lyngby,1,1,,,,0
-1575817200,Nordsjaelland,FC Copenhagen,0,1,,,,0
-1575824400,Brondby,Midtjylland,1,2,,,,0
-1575914400,Odense,Aalborg,0,0,,,,0
-1576260000,Aalborg,Nordsjaelland,1,3,,,,0
-1576407600,Horsens,Sonderjyske,2,1,,,,0
-1576414800,Randers FC,Esbjerg,3,0,,,,0
-1576414800,Lyngby,Silkeborg,1,0,,,,0
-1576422000,Brondby,Hobro,1,1,,,,0
-1576429200,Midtjylland,Aarhus,1,3,,,,0
-1576519200,FC Copenhagen,Odense,2,1,,,,0
-1581703200,Esbjerg,FC Copenhagen,1,0,,,,0
-1581850800,Sonderjyske,Hobro,3,1,,,,0
-1581858000,Silkeborg,Aalborg,0,2,,,,0
-1581872400,Odense,Brondby,0,2,,,,0
-1581962400,Midtjylland,Lyngby,2,0,,,,0
-1582133400,Nordsjaelland,Horsens,6,0,,,,0
-1582308000,Hobro,Midtjylland,0,2,,,,0
-1582455600,Nordsjaelland,Sonderjyske,2,1,,,,0
-1582462800,Randers FC,Odense,0,0,,,,0
-1582462800,Lyngby,Esbjerg,2,0,,,,0
-1582470000,Silkeborg,FC Copenhagen,1,1,,,,0
-1582477200,Aalborg,Brondby,3,2,,,,0
-1582567200,Horsens,Aarhus,1,2,,,,0
-1582912800,Aarhus,Hobro,0,0,,,,0
-1582902000,Esbjerg,Nordsjaelland,1,2,,,,0
-1583060400,Horsens,Randers FC,1,2,,,,0
-1583067600,Odense,Silkeborg,1,1,,,,0
-1583074800,Brondby,Lyngby,1,0,,,,0
-1583082000,FC Copenhagen,Aalborg,3,2,,,,0
-1583172000,Midtjylland,Sonderjyske,3,0,,,,0
-1583665200,Hobro,Esbjerg,1,1,,,,0
-1583672400,Sonderjyske,Odense,1,1,,,,0
-1583672400,Aalborg,Lyngby,3,0,,,,0
-1583679600,FC Copenhagen,Horsens,0,1,,,,0
-1583686800,Nordsjaelland,Brondby,2,2,,,,0
-1583694000,Randers FC,Midtjylland,0,2,,,,0
-1583776800,Silkeborg,Aarhus,2,1,,,,0
-1590685200,Aarhus,Randers FC,1,1,,,,0
-1590771600,Silkeborg,Nordsjaelland,0,2,,,,0
-1590940800,Esbjerg,Aalborg,1,1,,,,0
-1591012800,Randers FC,Hobro,0,1,,,,0
-1591020000,Midtjylland,Horsens,0,1,,,,0
-1591027200,Lyngby,FC Copenhagen,1,4,,,,0
-1591034400,Aarhus,Odense,1,0,,,,0
-1591117200,Brondby,Sonderjyske,1,0,,,,0
-1591542000,Sonderjyske,Silkeborg,2,2,,,,0
-1591542000,Odense,Esbjerg,3,1,,,,0
-1591542000,Nordsjaelland,Midtjylland,0,1,,,,0
-1591542000,Horsens,Brondby,3,2,,,,0
-1591542000,Hobro,Lyngby,2,2,,,,0
-1591542000,FC Copenhagen,Randers FC,2,1,,,,0
-1591542000,Aalborg,Aarhus,2,3,,,,0
-1591981200,Esbjerg,Randers FC,4,2,,,,0
-1592060400,Hobro,Horsens,1,1,,,,0
-1592136000,Aalborg,Midtjylland,0,2,,,,0
-1592143200,Sonderjyske,Lyngby,1,0,,,,0
-1592150400,Nordsjaelland,FC Copenhagen,1,1,,,,0
-1592157600,Brondby,Aarhus,0,0,,,,0
-1592240400,Silkeborg,Odense,6,0,,,,0
-1592323200,Horsens,Esbjerg,2,2,,,,0
-1592330400,Randers FC,Hobro,4,0,,,,0
-1592409600,Aarhus,Nordsjaelland,2,1,,,,0
-1592416800,FC Copenhagen,Aalborg,2,0,,,,0
-1592496000,Odense,Sonderjyske,2,0,,,,0
-1592496000,Lyngby,Silkeborg,0,0,,,,0
-1592503200,Midtjylland,Brondby,0,0,,,,0
-1592650800,Horsens,Randers FC,0,0,,,,0
-1592668800,Aalborg,Nordsjaelland,0,4,,,,0
-1592740800,Silkeborg,Sonderjyske,1,2,,,,0
-1592748000,Esbjerg,Hobro,1,3,,,,0
-1592755200,Brondby,FC Copenhagen,1,1,,,,0
-1592762400,Midtjylland,Aarhus,3,4,,,,0
-1592845200,Lyngby,Odense,1,2,,,,0
-1593190800,Aarhus,Aalborg,1,4,,,,0
-1593273600,Sonderjyske,Silkeborg,1,0,,,,0
-1593345600,Randers FC,Horsens,0,3,,,,0
-1593352800,Hobro,Esbjerg,2,1,,,,0
-1593360000,Nordsjaelland,Brondby,0,2,,,,0
-1593367200,FC Copenhagen,Midtjylland,1,2,,,,0
-1593450000,Odense,Lyngby,3,1,,,,0
-1593795600,Esbjerg,Horsens,1,2,,,,0
-1593865800,Silkeborg,Lyngby,2,0,,,,0
-1593878400,Sonderjyske,Odense,1,1,,,,0
-1593950400,Nordsjaelland,Midtjylland,0,1,,,,0
-1593957600,Hobro,Randers FC,2,3,,,,0
-1593964800,Aalborg,Brondby,2,0,,,,0
-1593972000,Aarhus,FC Copenhagen,1,0,,,,0
-1594224000,Randers FC,Esbjerg,3,1,,,,0
-1594224000,Horsens,Hobro,3,2,,,,0
-1594231200,Odense,Silkeborg,1,3,,,,0
-1594231200,Lyngby,Sonderjyske,1,1,,,,0
-1594310400,Brondby,Nordsjaelland,4,0,,,,0
-1594310400,Aalborg,Aarhus,1,0,,,,0
-1594317600,Midtjylland,FC Copenhagen,3,1,,,,0
-1594483200,Randers FC,Odense,2,1,,,,0
-1594555200,Nordsjaelland,Aalborg,0,0,,,,0
-1594569600,FC Copenhagen,Brondby,0,0,,,,0
-1594576800,Aarhus,Midtjylland,3,0,,,,0
-1594659600,Hobro,Lyngby,1,2,,,,0
-1595005200,Midtjylland,Nordsjaelland,6,3,,,,0
-1595167200,Odense,Randers FC,2,0,,,,0
-1595174400,Brondby,Aalborg,0,1,,,,0
-1595181600,FC Copenhagen,Aarhus,2,4,,,,0
-1595264400,Lyngby,Hobro,2,2,,,,0
-1595433600,Nordsjaelland,Aarhus,1,1,,,,0
-1595440800,Brondby,Midtjylland,1,1,,,,0
-1595520000,Odense,Horsens,3,1,,,,0
-1595527200,Aalborg,FC Copenhagen,0,1,,,,0
-1595764800,Horsens,Odense,1,1,,,,0
-1595782800,Midtjylland,Aalborg,1,2,,,,0
-1595782800,FC Copenhagen,Nordsjaelland,2,1,,,,0
-1595782800,Aarhus,Brondby,0,1,,,,0
-1596045600,Aarhus,Odense,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1562950800,Midtjylland,Esbjerg,nw9UOsY3,82YZVz8L,1,0,,,,0
+1563098400,Sonderjyske,Randers FC,jTh33WB7,SOY3p1Si,2,1,,,,0
+1563105600,Lyngby,Aalborg,j9C0y7Tm,jDG0G1yS,2,0,,,,0
+1563105600,Horsens,Nordsjaelland,hGuhahGg,2g7AFAbb,0,3,,,,0
+1563112800,Odense,FC Copenhagen,xv6lkb7q,xv6lkb7q,2,3,,,,0
+1563120000,Brondby,Silkeborg,YPeI5fwQ,Wrzf6bGu,3,0,,,,0
+1563210000,Hobro,Aarhus,YyU41NPI,hGuhahGg,1,1,,,,0
+1563555600,FC Copenhagen,Aarhus,xv6lkb7q,hGuhahGg,2,1,,,,0
+1563703200,Silkeborg,Horsens,Wrzf6bGu,hGuhahGg,0,3,,,,0
+1563710400,Esbjerg,Hobro,82YZVz8L,YyU41NPI,1,1,,,,0
+1563710400,Aalborg,Sonderjyske,jDG0G1yS,jTh33WB7,1,1,,,,0
+1563717600,Randers FC,Brondby,SOY3p1Si,YPeI5fwQ,2,2,,,,0
+1563724800,Midtjylland,Nordsjaelland,nw9UOsY3,2g7AFAbb,2,1,,,,0
+1563814800,Odense,Lyngby,xv6lkb7q,j9C0y7Tm,4,1,,,,0
+1564160400,Lyngby,Sonderjyske,j9C0y7Tm,jTh33WB7,0,3,,,,0
+1564241400,Horsens,FC Copenhagen,hGuhahGg,xv6lkb7q,0,2,,,,0
+1564308000,Hobro,Randers FC,YyU41NPI,SOY3p1Si,2,2,,,,0
+1564315200,Nordsjaelland,Esbjerg,2g7AFAbb,82YZVz8L,2,0,,,,0
+1564322400,Aarhus,Midtjylland,hGuhahGg,nw9UOsY3,0,1,,,,0
+1564329600,Brondby,Odense,YPeI5fwQ,xv6lkb7q,3,2,,,,0
+1564419600,Aalborg,Silkeborg,jDG0G1yS,Wrzf6bGu,3,1,,,,0
+1564765200,Silkeborg,Hobro,Wrzf6bGu,YyU41NPI,2,3,,,,0
+1564840800,Sonderjyske,FC Copenhagen,jTh33WB7,xv6lkb7q,1,2,,,,0
+1564912800,Randers FC,Nordsjaelland,SOY3p1Si,2g7AFAbb,3,1,,,,0
+1564920000,Esbjerg,Odense,82YZVz8L,xv6lkb7q,0,1,,,,0
+1564927200,Brondby,Horsens,YPeI5fwQ,hGuhahGg,1,2,,,,0
+1564934400,Midtjylland,Aalborg,nw9UOsY3,jDG0G1yS,1,0,,,,0
+1565024400,Lyngby,Aarhus,j9C0y7Tm,hGuhahGg,2,1,,,,0
+1565366400,FC Copenhagen,Lyngby,xv6lkb7q,j9C0y7Tm,2,0,,,,0
+1565373600,Odense,Randers FC,xv6lkb7q,SOY3p1Si,1,0,,,,0
+1565517600,Nordsjaelland,Silkeborg,2g7AFAbb,Wrzf6bGu,2,2,,,,0
+1565524800,Aalborg,Esbjerg,jDG0G1yS,82YZVz8L,4,0,,,,0
+1565532000,Horsens,Midtjylland,hGuhahGg,nw9UOsY3,0,2,,,,0
+1565539200,Hobro,Brondby,YyU41NPI,YPeI5fwQ,0,2,,,,0
+1565629200,Sonderjyske,Aarhus,jTh33WB7,hGuhahGg,0,0,,,,0
+1565971200,Randers FC,FC Copenhagen,SOY3p1Si,xv6lkb7q,0,1,,,,0
+1565978400,Nordsjaelland,Odense,2g7AFAbb,xv6lkb7q,2,0,,,,0
+1566122400,Silkeborg,Sonderjyske,Wrzf6bGu,jTh33WB7,3,3,,,,0
+1566129600,Esbjerg,Lyngby,82YZVz8L,j9C0y7Tm,1,0,,,,0
+1566136800,Midtjylland,Hobro,nw9UOsY3,YyU41NPI,1,1,,,,0
+1566144000,Brondby,Aalborg,YPeI5fwQ,jDG0G1yS,2,1,,,,0
+1566234000,Aarhus,Horsens,hGuhahGg,hGuhahGg,2,0,,,,0
+1566579600,Hobro,Odense,YyU41NPI,xv6lkb7q,0,0,,,,0
+1566727200,Lyngby,Randers FC,j9C0y7Tm,SOY3p1Si,2,0,,,,0
+1566734400,Esbjerg,Silkeborg,82YZVz8L,Wrzf6bGu,2,2,,,,0
+1566741600,Sonderjyske,Midtjylland,jTh33WB7,nw9UOsY3,0,2,,,,0
+1566748800,Brondby,Aarhus,YPeI5fwQ,hGuhahGg,0,3,,,,0
+1566756000,FC Copenhagen,Nordsjaelland,xv6lkb7q,2g7AFAbb,3,1,,,,0
+1566838800,Horsens,Aalborg,hGuhahGg,jDG0G1yS,0,5,,,,0
+1567184400,Odense,Sonderjyske,xv6lkb7q,jTh33WB7,0,0,,,,0
+1567260000,Nordsjaelland,Hobro,2g7AFAbb,YyU41NPI,2,1,,,,0
+1567332000,Aarhus,Esbjerg,hGuhahGg,82YZVz8L,1,0,,,,0
+1567339200,Randers FC,Silkeborg,SOY3p1Si,Wrzf6bGu,2,0,,,,0
+1567339200,Horsens,Lyngby,hGuhahGg,j9C0y7Tm,2,1,,,,0
+1567346400,Aalborg,FC Copenhagen,jDG0G1yS,xv6lkb7q,1,0,,,,0
+1567353600,Midtjylland,Brondby,nw9UOsY3,YPeI5fwQ,1,0,,,,0
+1568394000,Sonderjyske,Horsens,jTh33WB7,hGuhahGg,0,0,,,,0
+1568541600,Aarhus,Aalborg,hGuhahGg,jDG0G1yS,3,0,,,,0
+1568548800,Lyngby,Midtjylland,j9C0y7Tm,nw9UOsY3,0,3,,,,0
+1568548800,Esbjerg,Randers FC,82YZVz8L,SOY3p1Si,0,3,,,,0
+1568556000,Hobro,FC Copenhagen,YyU41NPI,xv6lkb7q,2,1,,,,0
+1568563200,Brondby,Nordsjaelland,YPeI5fwQ,2g7AFAbb,4,2,,,,0
+1568653200,Silkeborg,Odense,Wrzf6bGu,xv6lkb7q,0,3,,,,0
+1568998800,Odense,Aarhus,xv6lkb7q,hGuhahGg,1,2,,,,0
+1569146400,Hobro,Sonderjyske,YyU41NPI,jTh33WB7,1,1,,,,0
+1569153600,Silkeborg,Lyngby,Wrzf6bGu,j9C0y7Tm,2,3,,,,0
+1569153600,Nordsjaelland,Aalborg,2g7AFAbb,jDG0G1yS,2,1,,,,0
+1569160800,Esbjerg,Brondby,82YZVz8L,YPeI5fwQ,3,1,,,,0
+1569168000,FC Copenhagen,Midtjylland,xv6lkb7q,nw9UOsY3,0,0,,,,0
+1569258000,Randers FC,Horsens,SOY3p1Si,hGuhahGg,2,1,,,,0
+1569603600,Lyngby,Hobro,j9C0y7Tm,YyU41NPI,2,1,,,,0
+1569682800,FC Copenhagen,Silkeborg,xv6lkb7q,Wrzf6bGu,4,2,,,,0
+1569751200,Aarhus,Nordsjaelland,hGuhahGg,2g7AFAbb,3,1,,,,0
+1569758400,Aalborg,Randers FC,jDG0G1yS,SOY3p1Si,0,3,,,,0
+1569765600,Midtjylland,Odense,nw9UOsY3,xv6lkb7q,0,1,,,,0
+1569772800,Sonderjyske,Brondby,jTh33WB7,YPeI5fwQ,2,1,,,,0
+1569862800,Horsens,Esbjerg,hGuhahGg,82YZVz8L,1,1,,,,0
+1570208400,Nordsjaelland,Lyngby,2g7AFAbb,j9C0y7Tm,1,1,,,,0
+1570284000,Hobro,Aalborg,YyU41NPI,jDG0G1yS,0,2,,,,0
+1570356000,Esbjerg,Sonderjyske,82YZVz8L,jTh33WB7,1,2,,,,0
+1570363200,Odense,Horsens,xv6lkb7q,hGuhahGg,3,0,,,,0
+1570363200,Brondby,FC Copenhagen,YPeI5fwQ,xv6lkb7q,3,1,,,,0
+1570370400,Randers FC,Aarhus,SOY3p1Si,hGuhahGg,2,0,,,,0
+1570377600,Silkeborg,Midtjylland,Wrzf6bGu,nw9UOsY3,1,2,,,,0
+1571418000,Aalborg,Odense,jDG0G1yS,xv6lkb7q,1,0,,,,0
+1571565600,Horsens,Hobro,hGuhahGg,YyU41NPI,1,0,,,,0
+1571572800,Sonderjyske,Nordsjaelland,jTh33WB7,2g7AFAbb,1,4,,,,0
+1571572800,Aarhus,Silkeborg,hGuhahGg,Wrzf6bGu,3,4,,,,0
+1571580000,FC Copenhagen,Esbjerg,xv6lkb7q,82YZVz8L,3,1,,,,0
+1571587200,Lyngby,Brondby,j9C0y7Tm,YPeI5fwQ,0,3,,,,0
+1571677200,Midtjylland,Randers FC,nw9UOsY3,SOY3p1Si,2,1,,,,0
+1572022800,Esbjerg,Midtjylland,82YZVz8L,nw9UOsY3,1,2,,,,0
+1572174000,Hobro,Silkeborg,YyU41NPI,Wrzf6bGu,1,1,,,,0
+1572181200,Odense,Nordsjaelland,xv6lkb7q,2g7AFAbb,3,1,,,,0
+1572181200,Lyngby,Horsens,j9C0y7Tm,hGuhahGg,2,1,,,,0
+1572188400,Brondby,Randers FC,YPeI5fwQ,SOY3p1Si,5,2,,,,0
+1572195600,Sonderjyske,Aalborg,jTh33WB7,jDG0G1yS,1,3,,,,0
+1572285600,Aarhus,FC Copenhagen,hGuhahGg,xv6lkb7q,1,2,,,,0
+1572631200,Esbjerg,Horsens,82YZVz8L,hGuhahGg,1,1,,,,0
+1572778800,Randers FC,Lyngby,SOY3p1Si,j9C0y7Tm,2,1,,,,0
+1572786000,Odense,Hobro,xv6lkb7q,YyU41NPI,2,1,,,,0
+1572786000,Nordsjaelland,Aarhus,2g7AFAbb,hGuhahGg,0,1,,,,0
+1572793200,Aalborg,Midtjylland,jDG0G1yS,nw9UOsY3,0,1,,,,0
+1572800400,FC Copenhagen,Sonderjyske,xv6lkb7q,jTh33WB7,3,0,,,,0
+1572890400,Silkeborg,Brondby,Wrzf6bGu,YPeI5fwQ,0,1,,,,0
+1573236000,Randers FC,Aalborg,SOY3p1Si,jDG0G1yS,3,3,,,,0
+1573311600,Horsens,Silkeborg,hGuhahGg,Wrzf6bGu,2,1,,,,0
+1573383600,Hobro,Nordsjaelland,YyU41NPI,2g7AFAbb,2,2,,,,0
+1573390800,Lyngby,Odense,j9C0y7Tm,xv6lkb7q,4,3,,,,0
+1573390800,Aarhus,Sonderjyske,hGuhahGg,jTh33WB7,4,2,,,,0
+1573398000,Brondby,Esbjerg,YPeI5fwQ,82YZVz8L,2,1,,,,0
+1573405200,Midtjylland,FC Copenhagen,nw9UOsY3,xv6lkb7q,4,1,,,,0
+1574445600,Nordsjaelland,Randers FC,2g7AFAbb,SOY3p1Si,3,0,,,,0
+1574593200,Sonderjyske,Lyngby,jTh33WB7,j9C0y7Tm,2,2,,,,0
+1574600400,Silkeborg,Esbjerg,Wrzf6bGu,82YZVz8L,1,2,,,,0
+1574600400,Aalborg,Horsens,jDG0G1yS,hGuhahGg,4,0,,,,0
+1574607600,FC Copenhagen,Hobro,xv6lkb7q,YyU41NPI,2,1,,,,0
+1574614800,Aarhus,Brondby,hGuhahGg,YPeI5fwQ,2,1,,,,0
+1574704800,Odense,Midtjylland,xv6lkb7q,nw9UOsY3,1,2,,,,0
+1575050400,Lyngby,Nordsjaelland,j9C0y7Tm,2g7AFAbb,1,1,,,,0
+1575197100,FC Copenhagen,Brondby,xv6lkb7q,YPeI5fwQ,2,1,,,,0
+1575198000,Randers FC,Sonderjyske,SOY3p1Si,jTh33WB7,3,0,,,,0
+1575205200,Horsens,Odense,hGuhahGg,xv6lkb7q,2,1,,,,0
+1575212400,Esbjerg,Aarhus,82YZVz8L,hGuhahGg,1,2,,,,0
+1575219600,Aalborg,Hobro,jDG0G1yS,YyU41NPI,1,1,,,,0
+1575309600,Midtjylland,Silkeborg,nw9UOsY3,Wrzf6bGu,2,1,,,,0
+1575655200,Hobro,Horsens,YyU41NPI,hGuhahGg,0,0,,,,0
+1575802800,Silkeborg,Randers FC,Wrzf6bGu,SOY3p1Si,2,1,,,,0
+1575810000,Sonderjyske,Esbjerg,jTh33WB7,82YZVz8L,2,1,,,,0
+1575810000,Aarhus,Lyngby,hGuhahGg,j9C0y7Tm,1,1,,,,0
+1575817200,Nordsjaelland,FC Copenhagen,2g7AFAbb,xv6lkb7q,0,1,,,,0
+1575824400,Brondby,Midtjylland,YPeI5fwQ,nw9UOsY3,1,2,,,,0
+1575914400,Odense,Aalborg,xv6lkb7q,jDG0G1yS,0,0,,,,0
+1576260000,Aalborg,Nordsjaelland,jDG0G1yS,2g7AFAbb,1,3,,,,0
+1576407600,Horsens,Sonderjyske,hGuhahGg,jTh33WB7,2,1,,,,0
+1576414800,Randers FC,Esbjerg,SOY3p1Si,82YZVz8L,3,0,,,,0
+1576414800,Lyngby,Silkeborg,j9C0y7Tm,Wrzf6bGu,1,0,,,,0
+1576422000,Brondby,Hobro,YPeI5fwQ,YyU41NPI,1,1,,,,0
+1576429200,Midtjylland,Aarhus,nw9UOsY3,hGuhahGg,1,3,,,,0
+1576519200,FC Copenhagen,Odense,xv6lkb7q,xv6lkb7q,2,1,,,,0
+1581703200,Esbjerg,FC Copenhagen,82YZVz8L,xv6lkb7q,1,0,,,,0
+1581850800,Sonderjyske,Hobro,jTh33WB7,YyU41NPI,3,1,,,,0
+1581858000,Silkeborg,Aalborg,Wrzf6bGu,jDG0G1yS,0,2,,,,0
+1581872400,Odense,Brondby,xv6lkb7q,YPeI5fwQ,0,2,,,,0
+1581962400,Midtjylland,Lyngby,nw9UOsY3,j9C0y7Tm,2,0,,,,0
+1582133400,Nordsjaelland,Horsens,2g7AFAbb,hGuhahGg,6,0,,,,0
+1582308000,Hobro,Midtjylland,YyU41NPI,nw9UOsY3,0,2,,,,0
+1582455600,Nordsjaelland,Sonderjyske,2g7AFAbb,jTh33WB7,2,1,,,,0
+1582462800,Randers FC,Odense,SOY3p1Si,xv6lkb7q,0,0,,,,0
+1582462800,Lyngby,Esbjerg,j9C0y7Tm,82YZVz8L,2,0,,,,0
+1582470000,Silkeborg,FC Copenhagen,Wrzf6bGu,xv6lkb7q,1,1,,,,0
+1582477200,Aalborg,Brondby,jDG0G1yS,YPeI5fwQ,3,2,,,,0
+1582567200,Horsens,Aarhus,hGuhahGg,hGuhahGg,1,2,,,,0
+1582912800,Aarhus,Hobro,hGuhahGg,YyU41NPI,0,0,,,,0
+1582902000,Esbjerg,Nordsjaelland,82YZVz8L,2g7AFAbb,1,2,,,,0
+1583060400,Horsens,Randers FC,hGuhahGg,SOY3p1Si,1,2,,,,0
+1583067600,Odense,Silkeborg,xv6lkb7q,Wrzf6bGu,1,1,,,,0
+1583074800,Brondby,Lyngby,YPeI5fwQ,j9C0y7Tm,1,0,,,,0
+1583082000,FC Copenhagen,Aalborg,xv6lkb7q,jDG0G1yS,3,2,,,,0
+1583172000,Midtjylland,Sonderjyske,nw9UOsY3,jTh33WB7,3,0,,,,0
+1583665200,Hobro,Esbjerg,YyU41NPI,82YZVz8L,1,1,,,,0
+1583672400,Sonderjyske,Odense,jTh33WB7,xv6lkb7q,1,1,,,,0
+1583672400,Aalborg,Lyngby,jDG0G1yS,j9C0y7Tm,3,0,,,,0
+1583679600,FC Copenhagen,Horsens,xv6lkb7q,hGuhahGg,0,1,,,,0
+1583686800,Nordsjaelland,Brondby,2g7AFAbb,YPeI5fwQ,2,2,,,,0
+1583694000,Randers FC,Midtjylland,SOY3p1Si,nw9UOsY3,0,2,,,,0
+1583776800,Silkeborg,Aarhus,Wrzf6bGu,hGuhahGg,2,1,,,,0
+1590685200,Aarhus,Randers FC,hGuhahGg,SOY3p1Si,1,1,,,,0
+1590771600,Silkeborg,Nordsjaelland,Wrzf6bGu,2g7AFAbb,0,2,,,,0
+1590940800,Esbjerg,Aalborg,82YZVz8L,jDG0G1yS,1,1,,,,0
+1591012800,Randers FC,Hobro,SOY3p1Si,YyU41NPI,0,1,,,,0
+1591020000,Midtjylland,Horsens,nw9UOsY3,hGuhahGg,0,1,,,,0
+1591027200,Lyngby,FC Copenhagen,j9C0y7Tm,xv6lkb7q,1,4,,,,0
+1591034400,Aarhus,Odense,hGuhahGg,xv6lkb7q,1,0,,,,0
+1591117200,Brondby,Sonderjyske,YPeI5fwQ,jTh33WB7,1,0,,,,0
+1591542000,Sonderjyske,Silkeborg,jTh33WB7,Wrzf6bGu,2,2,,,,0
+1591542000,Odense,Esbjerg,xv6lkb7q,82YZVz8L,3,1,,,,0
+1591542000,Nordsjaelland,Midtjylland,2g7AFAbb,nw9UOsY3,0,1,,,,0
+1591542000,Horsens,Brondby,hGuhahGg,YPeI5fwQ,3,2,,,,0
+1591542000,Hobro,Lyngby,YyU41NPI,j9C0y7Tm,2,2,,,,0
+1591542000,FC Copenhagen,Randers FC,xv6lkb7q,SOY3p1Si,2,1,,,,0
+1591542000,Aalborg,Aarhus,jDG0G1yS,hGuhahGg,2,3,,,,0
+1591981200,Esbjerg,Randers FC,82YZVz8L,SOY3p1Si,4,2,,,,0
+1592060400,Hobro,Horsens,YyU41NPI,hGuhahGg,1,1,,,,0
+1592136000,Aalborg,Midtjylland,jDG0G1yS,nw9UOsY3,0,2,,,,0
+1592143200,Sonderjyske,Lyngby,jTh33WB7,j9C0y7Tm,1,0,,,,0
+1592150400,Nordsjaelland,FC Copenhagen,2g7AFAbb,xv6lkb7q,1,1,,,,0
+1592157600,Brondby,Aarhus,YPeI5fwQ,hGuhahGg,0,0,,,,0
+1592240400,Silkeborg,Odense,Wrzf6bGu,xv6lkb7q,6,0,,,,0
+1592323200,Horsens,Esbjerg,hGuhahGg,82YZVz8L,2,2,,,,0
+1592330400,Randers FC,Hobro,SOY3p1Si,YyU41NPI,4,0,,,,0
+1592409600,Aarhus,Nordsjaelland,hGuhahGg,2g7AFAbb,2,1,,,,0
+1592416800,FC Copenhagen,Aalborg,xv6lkb7q,jDG0G1yS,2,0,,,,0
+1592496000,Odense,Sonderjyske,xv6lkb7q,jTh33WB7,2,0,,,,0
+1592496000,Lyngby,Silkeborg,j9C0y7Tm,Wrzf6bGu,0,0,,,,0
+1592503200,Midtjylland,Brondby,nw9UOsY3,YPeI5fwQ,0,0,,,,0
+1592650800,Horsens,Randers FC,hGuhahGg,SOY3p1Si,0,0,,,,0
+1592668800,Aalborg,Nordsjaelland,jDG0G1yS,2g7AFAbb,0,4,,,,0
+1592740800,Silkeborg,Sonderjyske,Wrzf6bGu,jTh33WB7,1,2,,,,0
+1592748000,Esbjerg,Hobro,82YZVz8L,YyU41NPI,1,3,,,,0
+1592755200,Brondby,FC Copenhagen,YPeI5fwQ,xv6lkb7q,1,1,,,,0
+1592762400,Midtjylland,Aarhus,nw9UOsY3,hGuhahGg,3,4,,,,0
+1592845200,Lyngby,Odense,j9C0y7Tm,xv6lkb7q,1,2,,,,0
+1593190800,Aarhus,Aalborg,hGuhahGg,jDG0G1yS,1,4,,,,0
+1593273600,Sonderjyske,Silkeborg,jTh33WB7,Wrzf6bGu,1,0,,,,0
+1593345600,Randers FC,Horsens,SOY3p1Si,hGuhahGg,0,3,,,,0
+1593352800,Hobro,Esbjerg,YyU41NPI,82YZVz8L,2,1,,,,0
+1593360000,Nordsjaelland,Brondby,2g7AFAbb,YPeI5fwQ,0,2,,,,0
+1593367200,FC Copenhagen,Midtjylland,xv6lkb7q,nw9UOsY3,1,2,,,,0
+1593450000,Odense,Lyngby,xv6lkb7q,j9C0y7Tm,3,1,,,,0
+1593795600,Esbjerg,Horsens,82YZVz8L,hGuhahGg,1,2,,,,0
+1593865800,Silkeborg,Lyngby,Wrzf6bGu,j9C0y7Tm,2,0,,,,0
+1593878400,Sonderjyske,Odense,jTh33WB7,xv6lkb7q,1,1,,,,0
+1593950400,Nordsjaelland,Midtjylland,2g7AFAbb,nw9UOsY3,0,1,,,,0
+1593957600,Hobro,Randers FC,YyU41NPI,SOY3p1Si,2,3,,,,0
+1593964800,Aalborg,Brondby,jDG0G1yS,YPeI5fwQ,2,0,,,,0
+1593972000,Aarhus,FC Copenhagen,hGuhahGg,xv6lkb7q,1,0,,,,0
+1594224000,Randers FC,Esbjerg,SOY3p1Si,82YZVz8L,3,1,,,,0
+1594224000,Horsens,Hobro,hGuhahGg,YyU41NPI,3,2,,,,0
+1594231200,Odense,Silkeborg,xv6lkb7q,Wrzf6bGu,1,3,,,,0
+1594231200,Lyngby,Sonderjyske,j9C0y7Tm,jTh33WB7,1,1,,,,0
+1594310400,Brondby,Nordsjaelland,YPeI5fwQ,2g7AFAbb,4,0,,,,0
+1594310400,Aalborg,Aarhus,jDG0G1yS,hGuhahGg,1,0,,,,0
+1594317600,Midtjylland,FC Copenhagen,nw9UOsY3,xv6lkb7q,3,1,,,,0
+1594483200,Randers FC,Odense,SOY3p1Si,xv6lkb7q,2,1,,,,0
+1594555200,Nordsjaelland,Aalborg,2g7AFAbb,jDG0G1yS,0,0,,,,0
+1594569600,FC Copenhagen,Brondby,xv6lkb7q,YPeI5fwQ,0,0,,,,0
+1594576800,Aarhus,Midtjylland,hGuhahGg,nw9UOsY3,3,0,,,,0
+1594659600,Hobro,Lyngby,YyU41NPI,j9C0y7Tm,1,2,,,,0
+1595005200,Midtjylland,Nordsjaelland,nw9UOsY3,2g7AFAbb,6,3,,,,0
+1595167200,Odense,Randers FC,xv6lkb7q,SOY3p1Si,2,0,,,,0
+1595174400,Brondby,Aalborg,YPeI5fwQ,jDG0G1yS,0,1,,,,0
+1595181600,FC Copenhagen,Aarhus,xv6lkb7q,hGuhahGg,2,4,,,,0
+1595264400,Lyngby,Hobro,j9C0y7Tm,YyU41NPI,2,2,,,,0
+1595433600,Nordsjaelland,Aarhus,2g7AFAbb,hGuhahGg,1,1,,,,0
+1595440800,Brondby,Midtjylland,YPeI5fwQ,nw9UOsY3,1,1,,,,0
+1595520000,Odense,Horsens,xv6lkb7q,hGuhahGg,3,1,,,,0
+1595527200,Aalborg,FC Copenhagen,jDG0G1yS,xv6lkb7q,0,1,,,,0
+1595764800,Horsens,Odense,hGuhahGg,xv6lkb7q,1,1,,,,0
+1595782800,Midtjylland,Aalborg,nw9UOsY3,jDG0G1yS,1,2,,,,0
+1595782800,FC Copenhagen,Nordsjaelland,xv6lkb7q,2g7AFAbb,2,1,,,,0
+1595782800,Aarhus,Brondby,hGuhahGg,YPeI5fwQ,0,1,,,,0
+1596045600,Aarhus,Odense,hGuhahGg,xv6lkb7q,2,1,,,,0

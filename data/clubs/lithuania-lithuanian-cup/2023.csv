@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1683139200,Trivartis Vilnius,Navigatoriai Vilnius,0,8,,,,0
-1683311400,Granitas Vilnius,Viltis Vilnius,1,2,,,,0
-1683367200,Garliava,BE1 NFA,1,2,,,,0
-1683374400,Transinvest,Nevezis Kedainiai,5,1,,,,0
-1683385200,Klaipedos FM,Jonava,3,0,,,,0
-1683464400,Siauliai FA,Dainava Alytus,2,1,,,,0
-1683468000,Babrungas,Banga,0,3,,,,0
-1683471600,Neptunas,FK Panevezys,1,1,Pen,2,1,0
-1683471600,Ataka Vilnius,Riteriai,0,9,,,,0
-1683473400,AFK Vilnius,Zalgiris,0,6,,,,0
-1683478800,Vova Vilnius,Marijampole City,0,3,Awrd,,,0
-1683558000,FK Dembava,Kauno Zalgiris,0,6,,,,0
-1683644400,Silute,Dziugas Telsiai,0,5,,,,0
-1683644400,Atmosfera,Hegelmann,0,4,,,,0
-1683647100,Ukmerge,Suduva,0,3,,,,0
-1683734400,Fortuna Kaunas,BFA Vilnius,0,6,,,,0
-1684850400,Marijampole City,Banga,1,4,,,,0
-1684942200,Kauno Zalgiris,Zalgiris,3,0,,,,0
-1684944000,Hegelmann,Riteriai,0,3,,,,0
-1685455200,BE1 NFA,Siauliai FA,0,2,,,,0
-1685458800,Viltis Vilnius,Dziugas Telsiai,1,6,,,,0
-1685462400,Neptunas,Suduva,0,2,,,,0
-1685548800,Klaipedos FM,BFA Vilnius,0,0,AET,1,2,0
-1685552400,Navigatoriai Vilnius,Transinvest,0,3,,,,0
-1692111600,Dziugas Telsiai,Suduva,0,0,Pen,1,0,0
-1692198000,Transinvest,Banga,1,1,AET,2,1,0
-1692198000,BFA Vilnius,Kauno Zalgiris,0,5,,,,0
-1693324800,Siauliai FA,Riteriai,2,0,,,,0
-1694264400,Transinvest,Dziugas Telsiai,1,0,,,,0
-1694955600,Siauliai FA,Kauno Zalgiris,1,1,AET,3,1,0
-1696170600,Transinvest,Siauliai FA,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1683139200,Trivartis Vilnius,Navigatoriai Vilnius,pjtzDJx2,hIbfcqvo,0,8,,,,0
+1683311400,Granitas Vilnius,Viltis Vilnius,p4P6t4tD,zJTyhWme,1,2,,,,0
+1683367200,Garliava,BE1 NFA,AkoReUjd,hIbfcqvo,1,2,,,,0
+1683374400,Transinvest,Nevezis Kedainiai,QsHXIQQ6,xlaz5QOI,5,1,,,,0
+1683385200,Klaipedos FM,Jonava,zZeYxaok,2PkRYezG,3,0,,,,0
+1683464400,Siauliai FA,Dainava Alytus,8j4GrWnF,x28DBGvr,2,1,,,,0
+1683468000,Babrungas,Banga,AkoReUjd,tGWvEQkr,0,3,,,,0
+1683471600,Neptunas,FK Panevezys,hlwzEwBT,OlLDanjn,1,1,Pen,2,1,0
+1683471600,Ataka Vilnius,Riteriai,69zDYNJa,jJXyKvW1,0,9,,,,0
+1683473400,AFK Vilnius,Zalgiris,YRtfpbWS,CK4bnx4C,0,6,,,,0
+1683478800,Vova Vilnius,Marijampole City,thp5XGq5,OU4xNqTS,0,3,Awrd,,,0
+1683558000,FK Dembava,Kauno Zalgiris,WhqeDlSs,hjhLeNs8,0,6,,,,0
+1683644400,Silute,Dziugas Telsiai,xt573lo2,YZpdiAPs,0,5,,,,0
+1683644400,Atmosfera,Hegelmann,rTGcipPd,x6Y6RKeG,0,4,,,,0
+1683647100,Ukmerge,Suduva,WM0ELvph,zeD1tvmN,0,3,,,,0
+1683734400,Fortuna Kaunas,BFA Vilnius,YZQOw2mL,nLTNpDG5,0,6,,,,0
+1684850400,Marijampole City,Banga,OU4xNqTS,tGWvEQkr,1,4,,,,0
+1684942200,Kauno Zalgiris,Zalgiris,hjhLeNs8,CK4bnx4C,3,0,,,,0
+1684944000,Hegelmann,Riteriai,x6Y6RKeG,jJXyKvW1,0,3,,,,0
+1685455200,BE1 NFA,Siauliai FA,hIbfcqvo,8j4GrWnF,0,2,,,,0
+1685458800,Viltis Vilnius,Dziugas Telsiai,zJTyhWme,YZpdiAPs,1,6,,,,0
+1685462400,Neptunas,Suduva,hlwzEwBT,zeD1tvmN,0,2,,,,0
+1685548800,Klaipedos FM,BFA Vilnius,zZeYxaok,nLTNpDG5,0,0,AET,1,2,0
+1685552400,Navigatoriai Vilnius,Transinvest,hIbfcqvo,QsHXIQQ6,0,3,,,,0
+1692111600,Dziugas Telsiai,Suduva,YZpdiAPs,zeD1tvmN,0,0,Pen,1,0,0
+1692198000,Transinvest,Banga,QsHXIQQ6,tGWvEQkr,1,1,AET,2,1,0
+1692198000,BFA Vilnius,Kauno Zalgiris,nLTNpDG5,hjhLeNs8,0,5,,,,0
+1693324800,Siauliai FA,Riteriai,8j4GrWnF,jJXyKvW1,2,0,,,,0
+1694264400,Transinvest,Dziugas Telsiai,QsHXIQQ6,YZpdiAPs,1,0,,,,0
+1694955600,Siauliai FA,Kauno Zalgiris,8j4GrWnF,hjhLeNs8,1,1,AET,3,1,0
+1696170600,Transinvest,Siauliai FA,QsHXIQQ6,8j4GrWnF,2,1,,,,0

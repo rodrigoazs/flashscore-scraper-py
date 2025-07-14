@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1371988800,Umayya,Al Mohafaza,0,3,Awrd,,,0
-1371988800,Tishreen,Hottin,2,0,,,,0
-1371988800,Al-Ittihad Aleppo,Al Shorta,0,3,Awrd,,,0
-1371988800,Al Nawaeir,Al Wahda,0,6,,,,0
-1371988800,Al Misfat,Horriya,3,0,Awrd,,,0
-1371988800,Al Majd,Wathbah,4,1,,,,0
-1371988800,Al Karamah,Al Taliya,2,2,Pen,2,3,0
-1371988800,Al Jaish,Al-Jazeera,1,0,,,,0
-1372507200,Al Wahda,Al Taliya,4,0,,,,0
-1372507200,Al Shorta,Al Misfat,0,0,Pen,1,0,0
-1372507200,Al Mohafaza,Al Majd,1,0,,,,0
-1372507200,Al Jaish,Tishreen,2,1,,,,0
-1372680000,Al Wahda,Al Mohafaza,1,0,,,,0
-1372766400,Al Jaish,Al Shorta,2,1,,,,0
-1378814400,Al Wahda,Al Jaish,0,0,AET,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1371988800,Umayya,Al Mohafaza,pf2RcIoL,xMpp7wKs,0,3,Awrd,,,0
+1371988800,Tishreen,Hottin,0dNGO5kF,pf2RcIoL,2,0,,,,0
+1371988800,Al-Ittihad Aleppo,Al Shorta,MH0Vdx1R,pf2RcIoL,0,3,Awrd,,,0
+1371988800,Al Nawaeir,Al Wahda,MH0Vdx1R,ID9vdxZP,0,6,,,,0
+1371988800,Al Misfat,Horriya,MH0Vdx1R,pf2RcIoL,3,0,Awrd,,,0
+1371988800,Al Majd,Wathbah,MH0Vdx1R,0b0qm28q,4,1,,,,0
+1371988800,Al Karamah,Al Taliya,zgpeJZUE,pf2RcIoL,2,2,Pen,2,3,0
+1371988800,Al Jaish,Al-Jazeera,AwNhcAn3,MH0Vdx1R,1,0,,,,0
+1372507200,Al Wahda,Al Taliya,ID9vdxZP,pf2RcIoL,4,0,,,,0
+1372507200,Al Shorta,Al Misfat,pf2RcIoL,MH0Vdx1R,0,0,Pen,1,0,0
+1372507200,Al Mohafaza,Al Majd,xMpp7wKs,MH0Vdx1R,1,0,,,,0
+1372507200,Al Jaish,Tishreen,AwNhcAn3,0dNGO5kF,2,1,,,,0
+1372680000,Al Wahda,Al Mohafaza,ID9vdxZP,xMpp7wKs,1,0,,,,0
+1372766400,Al Jaish,Al Shorta,AwNhcAn3,pf2RcIoL,2,1,,,,0
+1378814400,Al Wahda,Al Jaish,ID9vdxZP,AwNhcAn3,0,0,AET,1,0,0

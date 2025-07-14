@@ -1,62 +1,62 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-274546800,Partizan,SG Dynamo Dresden,2,0,,,,0
-274546800,Odense,Lok. Sofia,2,2,,,,0
-274546800,Brno,Ujpest,2,2,,,,0
-274548600,Vllaznia,Austria Vienna,2,0,,,,0
-274555800,Linfield,Lillestrom,0,0,,,,0
-274557600,Malmo FF,Monaco,0,0,,,,0
-274557600,Haka,Dyn. Kyiv,0,1,,,,0
-274559400,Omonia,Bohemians,2,1,,,,0
-274559400,Nottingham,Liverpool,2,0,,,,0
-274561200,Grasshoppers,Valletta,8,0,,,,0
-274561200,FC Koln,Akranes,4,1,,,,0
-274561200,Club Brugge KV,Wisla,2,1,,,,0
-274563000,Juventus,Rangers,1,0,,,,0
-274563000,Fenerbahce,PSV,2,1,,,,0
-274564800,Real Madrid,Niedercorn,5,0,,,,0
-274564800,AEK Athens FC,FC Porto,6,1,,,,0
-275754600,Valletta,Grasshoppers,3,5,,,,0
-275754600,Monaco,Malmo FF,0,1,,,,0
-275754600,Lok. Sofia,Odense,2,1,,,,0
-275756400,Bohemians,Omonia,1,0,,,,0
-275760000,Wisla,Club Brugge KV,3,1,,,,0
-275760000,SG Dynamo Dresden,Partizan,2,0,Pen,3,0,0
-275762700,Ujpest,Brno,0,2,,,,0
-275763600,Dyn. Kyiv,Haka,3,1,,,,0
-275763600,Austria Vienna,Vllaznia,4,1,,,,0
-275763600,Akranes,FC Koln,1,1,,,,0
-275767200,Lillestrom,Linfield,1,0,,,,0
-275769000,Rangers,Juventus,2,0,,,,0
-275770800,PSV,Fenerbahce,6,1,,,,0
-275770800,Niedercorn,Real Madrid,0,7,,,,0
-275772600,Liverpool,Nottingham,0,0,,,,0
-275780700,FC Porto,AEK Athens FC,4,1,,,,0
-277572600,Brno,Wisla,2,2,,,,0
-277574400,Lok. Sofia,FC Koln,0,1,,,,0
-277578000,Dyn. Kyiv,Malmo FF,0,0,,,,0
-277583400,Rangers,PSV,0,0,,,,0
-277583400,AEK Athens FC,Nottingham,1,2,,,,0
-277585200,Austria Vienna,Lillestrom,4,1,,,,0
-277588800,Real Madrid,Grasshoppers,3,1,,,,0
-277595100,Bohemians,SG Dynamo Dresden,0,0,,,,0
-278782200,Wisla,Brno,1,1,,,,0
-278784000,SG Dynamo Dresden,Bohemians,6,0,,,,0
-278787600,FC Koln,Lok. Sofia,4,0,,,,0
-278791200,Malmo FF,Dyn. Kyiv,2,0,,,,0
-278791200,Lillestrom,Austria Vienna,0,0,,,,0
-278793000,Nottingham,AEK Athens FC,5,1,,,,0
-278794800,PSV,Rangers,2,3,,,,0
-278794800,Grasshoppers,Real Madrid,2,0,,,,0
-289594800,FC Koln,Rangers,1,0,,,,0
-289668600,Wisla,Malmo FF,2,1,,,,0
-289679400,Nottingham,Grasshoppers,4,1,,,,0
-289679400,Austria Vienna,SG Dynamo Dresden,3,1,,,,0
-290880000,SG Dynamo Dresden,Austria Vienna,1,0,,,,0
-290887200,Malmo FF,Wisla,4,1,,,,0
-290890800,Grasshoppers,Nottingham,1,1,,,,0
-290975400,Rangers,FC Koln,1,1,,,,0
-292699800,Nottingham,FC Koln,3,3,,,,0
-292699800,Austria Vienna,Malmo FF,0,0,,,,0
-293907600,Malmo FF,Austria Vienna,1,0,,,,0
-293911200,FC Koln,Nottingham,0,1,,,,0
-296936100,Nottingham,Malmo FF,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+274546800,Partizan,SG Dynamo Dresden,prjDOVbf,YP5eX03i,2,0,,,,0
+274546800,Odense,Lok. Sofia,xv6lkb7q,fZdE6zOJ,2,2,,,,0
+274546800,Brno,Ujpest,SKfnYPfP,fRhD1w4R,2,2,,,,0
+274548600,Vllaznia,Austria Vienna,v5LfxjB6,lUkqx2Vt,2,0,,,,0
+274555800,Linfield,Lillestrom,GUrKqyjt,zTAC7Vhk,0,0,,,,0
+274557600,Malmo FF,Monaco,YmCZKGcR,44KQTmnj,0,0,,,,0
+274557600,Haka,Dyn. Kyiv,KtjRAU38,M1Cjh44S,0,1,,,,0
+274559400,Omonia,Bohemians,8GeT5Kmk,CncX9yM3,2,1,,,,0
+274559400,Nottingham,Liverpool,ImKwLTtA,KCp4zq5F,2,0,,,,0
+274561200,Grasshoppers,Valletta,WdBesfPo,WrjrBuU2,8,0,,,,0
+274561200,FC Koln,Akranes,86lnAaq9,4hhcealo,4,1,,,,0
+274561200,Club Brugge KV,Wisla,44lq3LsP,Wdonsod0,2,1,,,,0
+274563000,Juventus,Rangers,EXzXDYgS,fFCBVa82,1,0,,,,0
+274563000,Fenerbahce,PSV,dENdyFfa,j5zA1baQ,2,1,,,,0
+274564800,Real Madrid,Niedercorn,fcDVLdrL,2qE2OlaR,5,0,,,,0
+274564800,AEK Athens FC,FC Porto,Aq4Rjd2q,Kth3Rz1C,6,1,,,,0
+275754600,Valletta,Grasshoppers,WrjrBuU2,WdBesfPo,3,5,,,,0
+275754600,Monaco,Malmo FF,44KQTmnj,YmCZKGcR,0,1,,,,0
+275754600,Lok. Sofia,Odense,fZdE6zOJ,xv6lkb7q,2,1,,,,0
+275756400,Bohemians,Omonia,CncX9yM3,8GeT5Kmk,1,0,,,,0
+275760000,Wisla,Club Brugge KV,Wdonsod0,44lq3LsP,3,1,,,,0
+275760000,SG Dynamo Dresden,Partizan,YP5eX03i,prjDOVbf,2,0,Pen,3,0,0
+275762700,Ujpest,Brno,fRhD1w4R,SKfnYPfP,0,2,,,,0
+275763600,Dyn. Kyiv,Haka,M1Cjh44S,KtjRAU38,3,1,,,,0
+275763600,Austria Vienna,Vllaznia,lUkqx2Vt,v5LfxjB6,4,1,,,,0
+275763600,Akranes,FC Koln,4hhcealo,86lnAaq9,1,1,,,,0
+275767200,Lillestrom,Linfield,zTAC7Vhk,GUrKqyjt,1,0,,,,0
+275769000,Rangers,Juventus,fFCBVa82,EXzXDYgS,2,0,,,,0
+275770800,PSV,Fenerbahce,j5zA1baQ,dENdyFfa,6,1,,,,0
+275770800,Niedercorn,Real Madrid,2qE2OlaR,fcDVLdrL,0,7,,,,0
+275772600,Liverpool,Nottingham,KCp4zq5F,ImKwLTtA,0,0,,,,0
+275780700,FC Porto,AEK Athens FC,Kth3Rz1C,Aq4Rjd2q,4,1,,,,0
+277572600,Brno,Wisla,SKfnYPfP,Wdonsod0,2,2,,,,0
+277574400,Lok. Sofia,FC Koln,fZdE6zOJ,86lnAaq9,0,1,,,,0
+277578000,Dyn. Kyiv,Malmo FF,M1Cjh44S,YmCZKGcR,0,0,,,,0
+277583400,Rangers,PSV,fFCBVa82,j5zA1baQ,0,0,,,,0
+277583400,AEK Athens FC,Nottingham,Aq4Rjd2q,ImKwLTtA,1,2,,,,0
+277585200,Austria Vienna,Lillestrom,lUkqx2Vt,zTAC7Vhk,4,1,,,,0
+277588800,Real Madrid,Grasshoppers,fcDVLdrL,WdBesfPo,3,1,,,,0
+277595100,Bohemians,SG Dynamo Dresden,CncX9yM3,YP5eX03i,0,0,,,,0
+278782200,Wisla,Brno,Wdonsod0,SKfnYPfP,1,1,,,,0
+278784000,SG Dynamo Dresden,Bohemians,YP5eX03i,CncX9yM3,6,0,,,,0
+278787600,FC Koln,Lok. Sofia,86lnAaq9,fZdE6zOJ,4,0,,,,0
+278791200,Malmo FF,Dyn. Kyiv,YmCZKGcR,M1Cjh44S,2,0,,,,0
+278791200,Lillestrom,Austria Vienna,zTAC7Vhk,lUkqx2Vt,0,0,,,,0
+278793000,Nottingham,AEK Athens FC,ImKwLTtA,Aq4Rjd2q,5,1,,,,0
+278794800,PSV,Rangers,j5zA1baQ,fFCBVa82,2,3,,,,0
+278794800,Grasshoppers,Real Madrid,WdBesfPo,fcDVLdrL,2,0,,,,0
+289594800,FC Koln,Rangers,86lnAaq9,fFCBVa82,1,0,,,,0
+289668600,Wisla,Malmo FF,Wdonsod0,YmCZKGcR,2,1,,,,0
+289679400,Nottingham,Grasshoppers,ImKwLTtA,WdBesfPo,4,1,,,,0
+289679400,Austria Vienna,SG Dynamo Dresden,lUkqx2Vt,YP5eX03i,3,1,,,,0
+290880000,SG Dynamo Dresden,Austria Vienna,YP5eX03i,lUkqx2Vt,1,0,,,,0
+290887200,Malmo FF,Wisla,YmCZKGcR,Wdonsod0,4,1,,,,0
+290890800,Grasshoppers,Nottingham,WdBesfPo,ImKwLTtA,1,1,,,,0
+290975400,Rangers,FC Koln,fFCBVa82,86lnAaq9,1,1,,,,0
+292699800,Nottingham,FC Koln,ImKwLTtA,86lnAaq9,3,3,,,,0
+292699800,Austria Vienna,Malmo FF,lUkqx2Vt,YmCZKGcR,0,0,,,,0
+293907600,Malmo FF,Austria Vienna,YmCZKGcR,lUkqx2Vt,1,0,,,,0
+293911200,FC Koln,Nottingham,86lnAaq9,ImKwLTtA,0,1,,,,0
+296936100,Nottingham,Malmo FF,ImKwLTtA,YmCZKGcR,1,0,,,,0

@@ -1,41 +1,41 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1486195200,PSS Sleman,Persipura Jayapura,0,0,,,,0
-1486195200,Mitra Kukar,Gresik,1,0,,,,0
-1486281600,Persija Jakarta,Persikabo 1973,1,0,,,,0
-1486281600,Arema FC,FC Bhayangkara,2,0,,,,0
-1486368000,Persib Bandung,PSM Makassar,1,0,,,,0
-1486368000,Balikpapan,Persela Lamongan,1,0,,,,0
-1486454400,Borneo,Barito Putera,0,0,,,,0
-1486467000,Bali United,Sriwijaya,2,2,,,,0
-1486540800,Badak Lampung,PSCS Cilacap,0,1,,,,0
-1486553400,Madura United,Semen Padang,0,1,,,,0
-1486627200,PSS Sleman,Mitra Kukar,3,3,,,,0
-1486639800,Persipura Jayapura,Gresik,1,2,,,,0
-1486800000,FC Bhayangkara,Persikabo 1973,2,1,,,,0
-1486812600,Arema FC,Persija Jakarta,1,1,,,,0
-1486886400,PSM Makassar,Persela Lamongan,1,2,,,,0
-1486899000,Persib Bandung,Balikpapan,3,1,,,,0
-1486972800,Sriwijaya,Barito Putera,2,1,,,,0
-1486985400,Bali United,Borneo,0,0,,,,0
-1487059200,Semen Padang,PSCS Cilacap,5,0,,,,0
-1487071800,Madura United,Badak Lampung,3,2,,,,0
-1487145600,Gresik,PSS Sleman,0,0,,,,0
-1487158200,Mitra Kukar,Persipura Jayapura,0,1,,,,0
-1487232000,Persikabo 1973,Arema FC,0,4,,,,0
-1487244600,Persija Jakarta,FC Bhayangkara,0,1,,,,0
-1487318400,Balikpapan,PSM Makassar,1,3,,,,0
-1487331000,Persela Lamongan,Persib Bandung,0,2,,,,0
-1487404800,Barito Putera,Bali United,2,1,,,,0
-1487417400,Borneo,Sriwijaya,1,0,,,,0
-1487491200,Badak Lampung,Semen Padang,0,6,,,,0
-1487503800,PSCS Cilacap,Madura United,0,1,,,,0
-1488020400,Persib Bandung,Mitra Kukar,3,2,,,,0
-1488031200,Borneo,Madura United,0,0,Pen,1,0,0
-1488106800,Arema FC,Sriwijaya,1,0,,,,0
-1488117600,Semen Padang,FC Bhayangkara,1,0,,,,0
-1488452400,Borneo,Persib Bandung,2,1,,,,0
-1488463200,Semen Padang,Arema FC,1,0,,,,0
-1488711600,Persib Bandung,Borneo,2,1,Pen,2,2,0
-1488722400,Arema FC,Semen Padang,5,2,,,,0
-1489233600,Persib Bandung,Semen Padang,1,0,,,,0
-1489320000,Borneo,Arema FC,1,5,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1486195200,PSS Sleman,Persipura Jayapura,SlfZ6qG2,l4Qyy5IA,0,0,,,,0
+1486195200,Mitra Kukar,Gresik,OlLDanjn,UZ3dH86U,1,0,,,,0
+1486281600,Persija Jakarta,Persikabo 1973,65biHEjh,MwO4PyNh,1,0,,,,0
+1486281600,Arema FC,FC Bhayangkara,nm2W7Uxp,UBTLvuxH,2,0,,,,0
+1486368000,Persib Bandung,PSM Makassar,vXPj9hic,KMc81nfp,1,0,,,,0
+1486368000,Balikpapan,Persela Lamongan,pdceGY5b,pUG7DZrE,1,0,,,,0
+1486454400,Borneo,Barito Putera,lSvymcJg,2sRnFBPj,0,0,,,,0
+1486467000,Bali United,Sriwijaya,pdceGY5b,GUSxeymd,2,2,,,,0
+1486540800,Badak Lampung,PSCS Cilacap,SCC5WVgh,GjxQ3DIG,0,1,,,,0
+1486553400,Madura United,Semen Padang,dEkqbGa9,K4Cn0tro,0,1,,,,0
+1486627200,PSS Sleman,Mitra Kukar,SlfZ6qG2,OlLDanjn,3,3,,,,0
+1486639800,Persipura Jayapura,Gresik,l4Qyy5IA,UZ3dH86U,1,2,,,,0
+1486800000,FC Bhayangkara,Persikabo 1973,UBTLvuxH,MwO4PyNh,2,1,,,,0
+1486812600,Arema FC,Persija Jakarta,nm2W7Uxp,65biHEjh,1,1,,,,0
+1486886400,PSM Makassar,Persela Lamongan,KMc81nfp,pUG7DZrE,1,2,,,,0
+1486899000,Persib Bandung,Balikpapan,vXPj9hic,pdceGY5b,3,1,,,,0
+1486972800,Sriwijaya,Barito Putera,GUSxeymd,2sRnFBPj,2,1,,,,0
+1486985400,Bali United,Borneo,pdceGY5b,lSvymcJg,0,0,,,,0
+1487059200,Semen Padang,PSCS Cilacap,K4Cn0tro,GjxQ3DIG,5,0,,,,0
+1487071800,Madura United,Badak Lampung,dEkqbGa9,SCC5WVgh,3,2,,,,0
+1487145600,Gresik,PSS Sleman,UZ3dH86U,SlfZ6qG2,0,0,,,,0
+1487158200,Mitra Kukar,Persipura Jayapura,OlLDanjn,l4Qyy5IA,0,1,,,,0
+1487232000,Persikabo 1973,Arema FC,MwO4PyNh,nm2W7Uxp,0,4,,,,0
+1487244600,Persija Jakarta,FC Bhayangkara,65biHEjh,UBTLvuxH,0,1,,,,0
+1487318400,Balikpapan,PSM Makassar,pdceGY5b,KMc81nfp,1,3,,,,0
+1487331000,Persela Lamongan,Persib Bandung,pUG7DZrE,vXPj9hic,0,2,,,,0
+1487404800,Barito Putera,Bali United,2sRnFBPj,pdceGY5b,2,1,,,,0
+1487417400,Borneo,Sriwijaya,lSvymcJg,GUSxeymd,1,0,,,,0
+1487491200,Badak Lampung,Semen Padang,SCC5WVgh,K4Cn0tro,0,6,,,,0
+1487503800,PSCS Cilacap,Madura United,GjxQ3DIG,dEkqbGa9,0,1,,,,0
+1488020400,Persib Bandung,Mitra Kukar,vXPj9hic,OlLDanjn,3,2,,,,0
+1488031200,Borneo,Madura United,lSvymcJg,dEkqbGa9,0,0,Pen,1,0,0
+1488106800,Arema FC,Sriwijaya,nm2W7Uxp,GUSxeymd,1,0,,,,0
+1488117600,Semen Padang,FC Bhayangkara,K4Cn0tro,UBTLvuxH,1,0,,,,0
+1488452400,Borneo,Persib Bandung,lSvymcJg,vXPj9hic,2,1,,,,0
+1488463200,Semen Padang,Arema FC,K4Cn0tro,nm2W7Uxp,1,0,,,,0
+1488711600,Persib Bandung,Borneo,vXPj9hic,lSvymcJg,2,1,Pen,2,2,0
+1488722400,Arema FC,Semen Padang,nm2W7Uxp,K4Cn0tro,5,2,,,,0
+1489233600,Persib Bandung,Semen Padang,vXPj9hic,K4Cn0tro,1,0,,,,0
+1489320000,Borneo,Arema FC,lSvymcJg,nm2W7Uxp,1,5,,,,0

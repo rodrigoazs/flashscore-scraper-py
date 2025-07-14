@@ -1,9 +1,9 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1463014800,Edmonton,Ottawa Fury,0,3,,,,0
-1463614200,Ottawa Fury,Edmonton,0,2,,,,0
-1464823800,Toronto FC,CF Montreal,4,2,,,,0
-1464823800,Ottawa Fury,Vancouver Whitecaps,2,0,,,,0
-1465428600,CF Montreal,Toronto FC,0,0,,,,0
-1465437600,Vancouver Whitecaps,Ottawa Fury,3,0,,,,0
-1466551800,Toronto FC,Vancouver Whitecaps,1,0,,,,0
-1467252000,Vancouver Whitecaps,Toronto FC,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1463014800,Edmonton,Ottawa Fury,O644KsV4,6JFBOjFc,0,3,,,,0
+1463614200,Ottawa Fury,Edmonton,6JFBOjFc,O644KsV4,0,2,,,,0
+1464823800,Toronto FC,CF Montreal,tnwDCzLD,APghxIAJ,4,2,,,,0
+1464823800,Ottawa Fury,Vancouver Whitecaps,6JFBOjFc,nJrkMuTE,2,0,,,,0
+1465428600,CF Montreal,Toronto FC,APghxIAJ,tnwDCzLD,0,0,,,,0
+1465437600,Vancouver Whitecaps,Ottawa Fury,nJrkMuTE,6JFBOjFc,3,0,,,,0
+1466551800,Toronto FC,Vancouver Whitecaps,tnwDCzLD,nJrkMuTE,1,0,,,,0
+1467252000,Vancouver Whitecaps,Toronto FC,nJrkMuTE,tnwDCzLD,2,1,,,,0

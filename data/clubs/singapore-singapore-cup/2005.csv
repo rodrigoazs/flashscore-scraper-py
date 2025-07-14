@@ -1,20 +1,20 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1114857000,Sinchi,DPMM,2,0,,,,0
-1115461800,Woodlands Wellington,Tampines,2,0,,,,0
-1115634600,Balestier Khalsa,Warriors,0,1,,,,0
-1116066600,Hougang,Indonesia U-23,1,2,,,,0
-1116671400,Albirex Niigata,Buriram,1,0,,,,0
-1119090600,Young Lions,Geylang,1,0,,,,0
-1120300200,Tampines,Young Lions,3,1,,,,0
-1120905000,Young Lions,Tampines,2,2,,,,0
-1121769000,Warriors,Indonesia U-23,3,0,,,,0
-1121855400,Sinchi,Lion City,1,3,,,,0
-1122028200,Indonesia U-23,Warriors,1,6,,,,0
-1122114600,Lion City,Sinchi,1,0,,,,0
-1122373800,Woodlands Wellington,Albirex Niigata,5,3,,,,0
-1122633000,Albirex Niigata,Woodlands Wellington,2,1,,,,0
-1124188200,Lion City,Tampines,2,3,,,,0
-1124447400,Tampines,Lion City,0,2,,,,0
-1125916200,Woodlands Wellington,Warriors,2,2,,,,0
-1126261800,Warriors,Woodlands Wellington,0,1,,,,0
-1131276600,Lion City,Woodlands Wellington,3,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1114857000,Sinchi,DPMM,,nP3yiII0,2,0,,,,0
+1115461800,Woodlands Wellington,Tampines,CKls4Q5g,d0hl69s2,2,0,,,,0
+1115634600,Balestier Khalsa,Warriors,MZaTAD0m,nNKuYSHo,0,1,,,,0
+1116066600,Hougang,Indonesia U-23,4fcEsivK,,1,2,,,,0
+1116671400,Albirex Niigata,Buriram,MkSbZgY3,AHLMjQO5,1,0,,,,0
+1119090600,Young Lions,Geylang,jqXAnX3e,df9tRVup,1,0,,,,0
+1120300200,Tampines,Young Lions,d0hl69s2,jqXAnX3e,3,1,,,,0
+1120905000,Young Lions,Tampines,jqXAnX3e,d0hl69s2,2,2,,,,0
+1121769000,Warriors,Indonesia U-23,nNKuYSHo,,3,0,,,,0
+1121855400,Sinchi,Lion City,,pW3pRTln,1,3,,,,0
+1122028200,Indonesia U-23,Warriors,,nNKuYSHo,1,6,,,,0
+1122114600,Lion City,Sinchi,pW3pRTln,,1,0,,,,0
+1122373800,Woodlands Wellington,Albirex Niigata,CKls4Q5g,MkSbZgY3,5,3,,,,0
+1122633000,Albirex Niigata,Woodlands Wellington,MkSbZgY3,CKls4Q5g,2,1,,,,0
+1124188200,Lion City,Tampines,pW3pRTln,d0hl69s2,2,3,,,,0
+1124447400,Tampines,Lion City,d0hl69s2,pW3pRTln,0,2,,,,0
+1125916200,Woodlands Wellington,Warriors,CKls4Q5g,nNKuYSHo,2,2,,,,0
+1126261800,Warriors,Woodlands Wellington,nNKuYSHo,CKls4Q5g,0,1,,,,0
+1131276600,Lion City,Woodlands Wellington,pW3pRTln,CKls4Q5g,3,2,,,,0

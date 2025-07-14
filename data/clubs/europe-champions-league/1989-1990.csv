@@ -1,62 +1,62 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-621715500,Wacker Innsbruck,Omonia,6,0,,,,0
-621715500,Spora Luxembourg,Real Madrid,0,3,,,,0
-621715500,Sparta Prague,Fenerbahce,3,1,,,,0
-621715500,Sliema,KF Tirana,1,0,,,,0
-621715500,SG Dynamo Dresden,AEK Athens FC,1,0,,,,0
-621715500,Ruch Chorzow,CSKA Sofia,1,1,,,,0
-621715500,Rosenborg,KV Mechelen,0,0,,,,0
-621715500,Rangers,Bayern Munich,1,3,,,,0
-621715500,PSV,Luzern,3,0,,,,0
-621715500,Marseille,Brondby,3,0,,,,0
-621715500,Malmo FF,Inter,1,0,,,,0
-621715500,Linfield,Dnipro,1,2,,,,0
-621715500,Honved,Vojvodina,1,0,,,,0
-621715500,FCSB,Fram,4,0,,,,0
-621715500,Derry City,Benfica,1,2,,,,0
-621715500,AC Milan,HJK,4,0,,,,0
-622928700,Vojvodina,Honved,2,1,,,,0
-622928700,Real Madrid,Spora Luxembourg,6,0,,,,0
-622928700,Omonia,Wacker Innsbruck,2,3,,,,0
-622928700,Luzern,PSV,0,2,,,,0
-622928700,KV Mechelen,Rosenborg,5,0,,,,0
-622928700,KF Tirana,Sliema,5,0,,,,0
-622928700,Inter,Malmo FF,1,1,,,,0
-622928700,HJK,AC Milan,0,1,,,,0
-622928700,Fram,FCSB,0,1,,,,0
-622928700,Fenerbahce,Sparta Prague,1,2,,,,0
-622928700,Dnipro,Linfield,1,0,,,,0
-622928700,CSKA Sofia,Ruch Chorzow,5,1,,,,0
-622928700,Brondby,Marseille,1,1,,,,0
-622928700,Benfica,Derry City,4,0,,,,0
-622928700,Bayern Munich,Rangers,0,0,,,,0
-622928700,AEK Athens FC,SG Dynamo Dresden,5,3,,,,0
-624743100,Sparta Prague,CSKA Sofia,2,2,,,,0
-624743100,Marseille,AEK Athens FC,2,0,,,,0
-624743100,Malmo FF,KV Mechelen,0,0,,,,0
-624743100,Honved,Benfica,0,2,,,,0
-624743100,FCSB,PSV,1,0,,,,0
-624743100,Dnipro,Wacker Innsbruck,2,0,,,,0
-624743100,Bayern Munich,KF Tirana,3,1,,,,0
-624743100,AC Milan,Real Madrid,2,0,,,,0
-625952700,Wacker Innsbruck,Dnipro,2,2,,,,0
-625952700,Real Madrid,AC Milan,1,0,,,,0
-625952700,PSV,FCSB,5,1,,,,0
-625952700,KV Mechelen,Malmo FF,4,1,,,,0
-625952700,KF Tirana,Bayern Munich,0,3,,,,0
-625952700,CSKA Sofia,Sparta Prague,3,0,,,,0
-625952700,Benfica,Honved,7,0,,,,0
-625952700,AEK Athens FC,Marseille,1,1,,,,0
-636839100,KV Mechelen,AC Milan,0,0,,,,0
-636839100,CSKA Sofia,Marseille,0,1,,,,0
-636839100,Benfica,Dnipro,1,0,,,,0
-636839100,Bayern Munich,PSV,2,1,,,,0
-638048700,PSV,Bayern Munich,0,1,,,,0
-638048700,Marseille,CSKA Sofia,3,1,,,,0
-638048700,Dnipro,Benfica,0,3,,,,0
-638048700,AC Milan,KV Mechelen,0,0,AET,2,0,0
-639254700,Marseille,Benfica,2,1,,,,0
-639254700,AC Milan,Bayern Munich,1,0,,,,0
-640464300,Benfica,Marseille,1,0,,,,0
-640464300,Bayern Munich,AC Milan,1,0,AET,2,1,0
-643486500,AC Milan,Benfica,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+621715500,Wacker Innsbruck,Omonia,UsfS2kBR,8GeT5Kmk,6,0,,,,0
+621715500,Spora Luxembourg,Real Madrid,SGOqGijb,fcDVLdrL,0,3,,,,0
+621715500,Sparta Prague,Fenerbahce,lWOFh0RD,dENdyFfa,3,1,,,,0
+621715500,Sliema,KF Tirana,YFbDUeTh,4n770DLk,1,0,,,,0
+621715500,SG Dynamo Dresden,AEK Athens FC,YP5eX03i,Aq4Rjd2q,1,0,,,,0
+621715500,Ruch Chorzow,CSKA Sofia,2FYvdV3F,fRtHs98a,1,1,,,,0
+621715500,Rosenborg,KV Mechelen,nq6bPf0N,zVJMgvaS,0,0,,,,0
+621715500,Rangers,Bayern Munich,fFCBVa82,SvLFaVNH,1,3,,,,0
+621715500,PSV,Luzern,j5zA1baQ,n7K4dyrM,3,0,,,,0
+621715500,Marseille,Brondby,voNnDKJK,YPeI5fwQ,3,0,,,,0
+621715500,Malmo FF,Inter,YmCZKGcR,jDrBQiMS,1,0,,,,0
+621715500,Linfield,Dnipro,GUrKqyjt,xbUiUE46,1,2,,,,0
+621715500,Honved,Vojvodina,0bbECxUd,W6nj7k39,1,0,,,,0
+621715500,FCSB,Fram,SCh1iPaa,fL3dmxxd,4,0,,,,0
+621715500,Derry City,Benfica,IL54TYSm,GEKimEim,1,2,,,,0
+621715500,AC Milan,HJK,fL3dmxxd,xO7wlFSD,4,0,,,,0
+622928700,Vojvodina,Honved,W6nj7k39,0bbECxUd,2,1,,,,0
+622928700,Real Madrid,Spora Luxembourg,fcDVLdrL,SGOqGijb,6,0,,,,0
+622928700,Omonia,Wacker Innsbruck,8GeT5Kmk,UsfS2kBR,2,3,,,,0
+622928700,Luzern,PSV,n7K4dyrM,j5zA1baQ,0,2,,,,0
+622928700,KV Mechelen,Rosenborg,zVJMgvaS,nq6bPf0N,5,0,,,,0
+622928700,KF Tirana,Sliema,4n770DLk,YFbDUeTh,5,0,,,,0
+622928700,Inter,Malmo FF,jDrBQiMS,YmCZKGcR,1,1,,,,0
+622928700,HJK,AC Milan,xO7wlFSD,fL3dmxxd,0,1,,,,0
+622928700,Fram,FCSB,fL3dmxxd,SCh1iPaa,0,1,,,,0
+622928700,Fenerbahce,Sparta Prague,dENdyFfa,lWOFh0RD,1,2,,,,0
+622928700,Dnipro,Linfield,xbUiUE46,GUrKqyjt,1,0,,,,0
+622928700,CSKA Sofia,Ruch Chorzow,fRtHs98a,2FYvdV3F,5,1,,,,0
+622928700,Brondby,Marseille,YPeI5fwQ,voNnDKJK,1,1,,,,0
+622928700,Benfica,Derry City,GEKimEim,IL54TYSm,4,0,,,,0
+622928700,Bayern Munich,Rangers,SvLFaVNH,fFCBVa82,0,0,,,,0
+622928700,AEK Athens FC,SG Dynamo Dresden,Aq4Rjd2q,YP5eX03i,5,3,,,,0
+624743100,Sparta Prague,CSKA Sofia,lWOFh0RD,fRtHs98a,2,2,,,,0
+624743100,Marseille,AEK Athens FC,voNnDKJK,Aq4Rjd2q,2,0,,,,0
+624743100,Malmo FF,KV Mechelen,YmCZKGcR,zVJMgvaS,0,0,,,,0
+624743100,Honved,Benfica,0bbECxUd,GEKimEim,0,2,,,,0
+624743100,FCSB,PSV,SCh1iPaa,j5zA1baQ,1,0,,,,0
+624743100,Dnipro,Wacker Innsbruck,xbUiUE46,UsfS2kBR,2,0,,,,0
+624743100,Bayern Munich,KF Tirana,SvLFaVNH,4n770DLk,3,1,,,,0
+624743100,AC Milan,Real Madrid,fL3dmxxd,fcDVLdrL,2,0,,,,0
+625952700,Wacker Innsbruck,Dnipro,UsfS2kBR,xbUiUE46,2,2,,,,0
+625952700,Real Madrid,AC Milan,fcDVLdrL,fL3dmxxd,1,0,,,,0
+625952700,PSV,FCSB,j5zA1baQ,SCh1iPaa,5,1,,,,0
+625952700,KV Mechelen,Malmo FF,zVJMgvaS,YmCZKGcR,4,1,,,,0
+625952700,KF Tirana,Bayern Munich,4n770DLk,SvLFaVNH,0,3,,,,0
+625952700,CSKA Sofia,Sparta Prague,fRtHs98a,lWOFh0RD,3,0,,,,0
+625952700,Benfica,Honved,GEKimEim,0bbECxUd,7,0,,,,0
+625952700,AEK Athens FC,Marseille,Aq4Rjd2q,voNnDKJK,1,1,,,,0
+636839100,KV Mechelen,AC Milan,zVJMgvaS,fL3dmxxd,0,0,,,,0
+636839100,CSKA Sofia,Marseille,fRtHs98a,voNnDKJK,0,1,,,,0
+636839100,Benfica,Dnipro,GEKimEim,xbUiUE46,1,0,,,,0
+636839100,Bayern Munich,PSV,SvLFaVNH,j5zA1baQ,2,1,,,,0
+638048700,PSV,Bayern Munich,j5zA1baQ,SvLFaVNH,0,1,,,,0
+638048700,Marseille,CSKA Sofia,voNnDKJK,fRtHs98a,3,1,,,,0
+638048700,Dnipro,Benfica,xbUiUE46,GEKimEim,0,3,,,,0
+638048700,AC Milan,KV Mechelen,fL3dmxxd,zVJMgvaS,0,0,AET,2,0,0
+639254700,Marseille,Benfica,voNnDKJK,GEKimEim,2,1,,,,0
+639254700,AC Milan,Bayern Munich,fL3dmxxd,SvLFaVNH,1,0,,,,0
+640464300,Benfica,Marseille,GEKimEim,voNnDKJK,1,0,,,,0
+640464300,Bayern Munich,AC Milan,SvLFaVNH,fL3dmxxd,1,0,AET,2,1,0
+643486500,AC Milan,Benfica,fL3dmxxd,GEKimEim,1,0,,,,0

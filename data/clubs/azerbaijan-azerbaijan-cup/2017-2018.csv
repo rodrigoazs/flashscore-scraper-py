@@ -1,24 +1,24 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1507716000,MOIK Baku,Turan,2,1,,,,0
-1507716000,Agsu,Imisli FK,0,1,,,,0
-1511870400,Qarabag,Lokbatan,2,0,,,,0
-1511874000,Neftci Baku,Zaqatala,5,0,,,,0
-1511947800,Shuvalan,Sabail,1,2,,,,0
-1511947800,MOIK Baku,Shamakhi,0,3,,,,0
-1511947800,Kapaz,Bina,3,0,,,,0
-1511949600,Gabala,Imisli FK,8,0,,,,0
-1511956800,Zira,Khazar Baku,3,0,,,,0
-1511956800,Sumqayit,Sabah Baku,3,0,,,,0
-1512900000,Shamakhi,Kapaz,2,0,,,,0
-1512907200,Zira,Neftci Baku,1,0,,,,0
-1512993600,Gabala,Sabail,1,0,,,,0
-1513004400,Qarabag,Sumqayit,2,1,,,,0
-1513242000,Kapaz,Shamakhi,2,3,,,,0
-1513263600,Neftci Baku,Zira,2,0,,,,0
-1513339200,Sabail,Gabala,2,4,,,,0
-1513350000,Sumqayit,Qarabag,2,0,,,,0
-1523534400,Shamakhi,Sumqayit,1,0,,,,0
-1523541600,Gabala,Neftci Baku,1,2,,,,0
-1524056400,Sumqayit,Shamakhi,1,1,,,,0
-1524067200,Neftci Baku,Gabala,1,3,,,,0
-1527523200,Shamakhi,Gabala,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1507716000,MOIK Baku,Turan,OvMLJ256,6q5JXBKQ,2,1,,,,0
+1507716000,Agsu,Imisli FK,fuWDWqMk,xluvcQ6E,0,1,,,,0
+1511870400,Qarabag,Lokbatan,W0XY6C3I,GbduZDiN,2,0,,,,0
+1511874000,Neftci Baku,Zaqatala,C4C6wm62,GSwuEtYe,5,0,,,,0
+1511947800,Shuvalan,Sabail,OOatBJ62,pxLJhy1b,1,2,,,,0
+1511947800,MOIK Baku,Shamakhi,OvMLJ256,M9hXKgAI,0,3,,,,0
+1511947800,Kapaz,Bina,82dkiD1Q,,3,0,,,,0
+1511949600,Gabala,Imisli FK,Kt8HTC4e,xluvcQ6E,8,0,,,,0
+1511956800,Zira,Khazar Baku,nalsMvvG,40v9xTJN,3,0,,,,0
+1511956800,Sumqayit,Sabah Baku,bTtBKGFR,O8TAkqbq,3,0,,,,0
+1512900000,Shamakhi,Kapaz,M9hXKgAI,82dkiD1Q,2,0,,,,0
+1512907200,Zira,Neftci Baku,nalsMvvG,C4C6wm62,1,0,,,,0
+1512993600,Gabala,Sabail,Kt8HTC4e,pxLJhy1b,1,0,,,,0
+1513004400,Qarabag,Sumqayit,W0XY6C3I,bTtBKGFR,2,1,,,,0
+1513242000,Kapaz,Shamakhi,82dkiD1Q,M9hXKgAI,2,3,,,,0
+1513263600,Neftci Baku,Zira,C4C6wm62,nalsMvvG,2,0,,,,0
+1513339200,Sabail,Gabala,pxLJhy1b,Kt8HTC4e,2,4,,,,0
+1513350000,Sumqayit,Qarabag,bTtBKGFR,W0XY6C3I,2,0,,,,0
+1523534400,Shamakhi,Sumqayit,M9hXKgAI,bTtBKGFR,1,0,,,,0
+1523541600,Gabala,Neftci Baku,Kt8HTC4e,C4C6wm62,1,2,,,,0
+1524056400,Sumqayit,Shamakhi,bTtBKGFR,M9hXKgAI,1,1,,,,0
+1524067200,Neftci Baku,Gabala,C4C6wm62,Kt8HTC4e,1,3,,,,0
+1527523200,Shamakhi,Gabala,M9hXKgAI,Kt8HTC4e,1,0,,,,0

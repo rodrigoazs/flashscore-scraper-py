@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1675769400,Paykan,Setaregan Bahman,1,0,,,,0
-1675852200,Niroye Zamini,Fajr Sepasi,1,1,Pen,1,2,0
-1675852200,Mes Soongoun,Shenavarsazi Qeshm,1,1,AET,3,1,0
-1675852200,Heydarieh,Mes Kerman,0,6,,,,0
-1675852200,Chooka Talesh,Tractor,0,3,Awrd,,,0
-1675854000,Saipa,Pars Janoobi Jam,1,0,,,,0
-1675855800,Zob Ahan,KIA FA,3,0,,,,0
-1675855800,Sanat Naft,Esteghlal Molasani,0,0,Pen,1,2,0
-1675855800,Gol Gohar,Nikapars,0,0,AET,2,0,0
-1675859400,Foolad,Chadormalu,0,1,,,,0
-1675942200,Nassaji Mazandaran,Aluminium Arak,0,1,,,,0
-1675942200,Malavan,Shahre Raz,1,0,,,,0
-1675942200,Havadar SC,Esteghlal Khuzestan,1,0,,,,0
-1677936600,Mes Rafsanjan,Esteghlal F.C.,2,0,,,,0
-1677938400,Sepahan,Shams Azar Qazvin,3,0,,,,0
-1677947400,Persepolis,Naft Gachsaran,3,0,,,,0
-1682432100,Mes Rafsanjan,Paykan,1,1,Pen,2,1,0
-1682518500,Mes Kerman,Chadormalu,1,1,Pen,1,2,0
-1682519400,Fajr Sepasi,Gol Gohar,0,3,,,,0
-1682520300,Havadar SC,Mes Soongoun,3,1,,,,0
-1682520300,Aluminium Arak,Persepolis,2,2,Pen,5,4,0
-1682521200,Tractor,Zob Ahan,1,1,Pen,2,1,0
-1682521200,Malavan,Saipa,1,1,AET,2,1,0
-1682524800,Esteghlal Molasani,Sepahan,1,1,AET,1,2,0
-1684248300,Chadormalu,Aluminium Arak,0,0,AET,0,1,0
-1684251000,Tractor,Mes Rafsanjan,0,0,AET,0,1,0
-1684251000,Gol Gohar,Havadar SC,5,0,,,,0
-1684252800,Sepahan,Malavan,1,0,,,,0
-1686845700,Sepahan,Gol Gohar,2,1,,,,0
-1686846600,Aluminium Arak,Mes Rafsanjan,1,1,Pen,1,2,0
-1687270500,Mes Rafsanjan,Sepahan,0,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1675769400,Paykan,Setaregan Bahman,O0JEb7ZB,8fUjkpxo,1,0,,,,0
+1675852200,Niroye Zamini,Fajr Sepasi,Kb3sC1m8,WfOmb7K6,1,1,Pen,1,2,0
+1675852200,Mes Soongoun,Shenavarsazi Qeshm,CbiH5qe6,xSwJHDL1,1,1,AET,3,1,0
+1675852200,Heydarieh,Mes Kerman,YyxuQRv5,l4dyMVd3,0,6,,,,0
+1675852200,Chooka Talesh,Tractor,63cajk6Q,YLLRGqLF,0,3,Awrd,,,0
+1675854000,Saipa,Pars Janoobi Jam,KjyPABje,zuNMbFy3,1,0,,,,0
+1675855800,Zob Ahan,KIA FA,WCTWdLSD,0IWY3SH3,3,0,,,,0
+1675855800,Sanat Naft,Esteghlal Molasani,21HUsCsM,QTDQ4VB6,0,0,Pen,1,2,0
+1675855800,Gol Gohar,Nikapars,C4xHnkgm,WtJu0XFM,0,0,AET,2,0,0
+1675859400,Foolad,Chadormalu,0YznNYwc,2eYJcfcq,0,1,,,,0
+1675942200,Nassaji Mazandaran,Aluminium Arak,pnfsJZrF,Ag1cN3MS,0,1,,,,0
+1675942200,Malavan,Shahre Raz,EJBKv3VB,hnflw3Fo,1,0,,,,0
+1675942200,Havadar SC,Esteghlal Khuzestan,r35h4bos,dKYCxVEK,1,0,,,,0
+1677936600,Mes Rafsanjan,Esteghlal F.C.,ptFFGDID,Sdd6AGnq,2,0,,,,0
+1677938400,Sepahan,Shams Azar Qazvin,bTzLAEkQ,QXHjUEhh,3,0,,,,0
+1677947400,Persepolis,Naft Gachsaran,Oli0orYQ,UD4xtNqD,3,0,,,,0
+1682432100,Mes Rafsanjan,Paykan,ptFFGDID,O0JEb7ZB,1,1,Pen,2,1,0
+1682518500,Mes Kerman,Chadormalu,l4dyMVd3,2eYJcfcq,1,1,Pen,1,2,0
+1682519400,Fajr Sepasi,Gol Gohar,WfOmb7K6,C4xHnkgm,0,3,,,,0
+1682520300,Havadar SC,Mes Soongoun,r35h4bos,CbiH5qe6,3,1,,,,0
+1682520300,Aluminium Arak,Persepolis,Ag1cN3MS,Oli0orYQ,2,2,Pen,5,4,0
+1682521200,Tractor,Zob Ahan,YLLRGqLF,WCTWdLSD,1,1,Pen,2,1,0
+1682521200,Malavan,Saipa,EJBKv3VB,KjyPABje,1,1,AET,2,1,0
+1682524800,Esteghlal Molasani,Sepahan,QTDQ4VB6,bTzLAEkQ,1,1,AET,1,2,0
+1684248300,Chadormalu,Aluminium Arak,2eYJcfcq,Ag1cN3MS,0,0,AET,0,1,0
+1684251000,Tractor,Mes Rafsanjan,YLLRGqLF,ptFFGDID,0,0,AET,0,1,0
+1684251000,Gol Gohar,Havadar SC,C4xHnkgm,r35h4bos,5,0,,,,0
+1684252800,Sepahan,Malavan,bTzLAEkQ,EJBKv3VB,1,0,,,,0
+1686845700,Sepahan,Gol Gohar,bTzLAEkQ,C4xHnkgm,2,1,,,,0
+1686846600,Aluminium Arak,Mes Rafsanjan,Ag1cN3MS,ptFFGDID,1,1,Pen,1,2,0
+1687270500,Mes Rafsanjan,Sepahan,ptFFGDID,bTzLAEkQ,0,2,,,,0

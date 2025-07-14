@@ -1,47 +1,47 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1664582400,Cashmere Technical,Miramar,4,0,,,,0
-1664586000,Napier City,Wellington Phoenix 2,1,0,,,,0
-1664589600,Wellington Olympic,Auckland City,1,2,,,,0
-1664668800,Birkenhead,Christchurch,3,1,,,,0
-1664676000,Auckland United,Melville,1,0,,,,0
-1665185400,Christchurch,Napier City,1,1,,,,0
-1665187200,Miramar,Birkenhead,2,4,,,,0
-1665196200,Auckland City,Cashmere Technical,2,0,,,,0
-1665270000,Wellington Phoenix 2,Auckland United,2,2,,,,0
-1665277200,Melville,Wellington Olympic,0,4,,,,0
-1665795600,Birkenhead,Auckland City,2,2,,,,0
-1665799200,Napier City,Miramar,2,2,,,,0
-1665802800,Auckland United,Christchurch,1,1,,,,0
-1665874800,Wellington Phoenix 2,Melville,1,1,,,,0
-1665883800,Cashmere Technical,Wellington Olympic,0,3,,,,0
-1666396800,Melville,Cashmere Technical,1,3,,,,0
-1666400400,Wellington Olympic,Birkenhead,2,0,,,,0
-1666404000,Christchurch,Wellington Phoenix 2,1,3,,,,0
-1666483200,Miramar,Auckland United,0,1,,,,0
-1666490400,Auckland City,Napier City,3,0,,,,0
-1667001600,Napier City,Wellington Olympic,2,5,,,,0
-1667005200,Wellington Phoenix 2,Miramar,2,3,,,,0
-1667008800,Auckland United,Auckland City,3,2,,,,0
-1667091600,Birkenhead,Cashmere Technical,5,3,,,,0
-1667093400,Christchurch,Melville,2,5,,,,0
-1667602800,Cashmere Technical,Napier City,4,2,,,,0
-1667606400,Auckland City,Wellington Phoenix 2,2,0,,,,0
-1667613600,Wellington Olympic,Auckland United,3,1,,,,0
-1667692800,Miramar,Christchurch,0,3,,,,0
-1667700000,Melville,Birkenhead,2,0,,,,0
-1668213000,Christchurch,Auckland City,2,3,,,,0
-1668218400,Auckland United,Cashmere Technical,2,1,,,,0
-1668220200,Miramar,Melville,2,3,,,,0
-1668294000,Wellington Phoenix 2,Wellington Olympic,1,1,,,,0
-1668301200,Napier City,Birkenhead,1,1,,,,0
-1668819600,Wellington Olympic,Christchurch,7,1,,,,0
-1668823200,Birkenhead,Auckland United,2,0,,,,0
-1668826800,Melville,Napier City,4,3,,,,0
-1668909600,Auckland City,Miramar,2,1,,,,0
-1668913200,Cashmere Technical,Wellington Phoenix 2,1,3,,,,0
-1669356000,Christchurch,Cashmere Technical,4,1,,,,0
-1669420800,Auckland United,Napier City,3,2,,,,0
-1669428000,Auckland City,Melville,2,0,,,,0
-1669507200,Wellington Phoenix 2,Birkenhead,4,2,,,,0
-1669514400,Miramar,Wellington Olympic,1,4,,,,0
-1670115600,Auckland City,Wellington Olympic,3,2,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1664582400,Cashmere Technical,Miramar,nm249rnA,fcc2PHA2,4,0,,,,0
+1664586000,Napier City,Wellington Phoenix 2,fcc2PHA2,nXRv0Dlj,1,0,,,,0
+1664589600,Wellington Olympic,Auckland City,SQPHwrbB,E7VNOejE,1,2,,,,0
+1664668800,Birkenhead,Christchurch,fcc2PHA2,fcc2PHA2,3,1,,,,0
+1664676000,Auckland United,Melville,2cNsxef8,Ymd6OyQ8,1,0,,,,0
+1665185400,Christchurch,Napier City,fcc2PHA2,fcc2PHA2,1,1,,,,0
+1665187200,Miramar,Birkenhead,fcc2PHA2,fcc2PHA2,2,4,,,,0
+1665196200,Auckland City,Cashmere Technical,E7VNOejE,nm249rnA,2,0,,,,0
+1665270000,Wellington Phoenix 2,Auckland United,nXRv0Dlj,2cNsxef8,2,2,,,,0
+1665277200,Melville,Wellington Olympic,Ymd6OyQ8,SQPHwrbB,0,4,,,,0
+1665795600,Birkenhead,Auckland City,fcc2PHA2,E7VNOejE,2,2,,,,0
+1665799200,Napier City,Miramar,fcc2PHA2,fcc2PHA2,2,2,,,,0
+1665802800,Auckland United,Christchurch,2cNsxef8,fcc2PHA2,1,1,,,,0
+1665874800,Wellington Phoenix 2,Melville,nXRv0Dlj,Ymd6OyQ8,1,1,,,,0
+1665883800,Cashmere Technical,Wellington Olympic,nm249rnA,SQPHwrbB,0,3,,,,0
+1666396800,Melville,Cashmere Technical,Ymd6OyQ8,nm249rnA,1,3,,,,0
+1666400400,Wellington Olympic,Birkenhead,SQPHwrbB,fcc2PHA2,2,0,,,,0
+1666404000,Christchurch,Wellington Phoenix 2,fcc2PHA2,nXRv0Dlj,1,3,,,,0
+1666483200,Miramar,Auckland United,fcc2PHA2,2cNsxef8,0,1,,,,0
+1666490400,Auckland City,Napier City,E7VNOejE,fcc2PHA2,3,0,,,,0
+1667001600,Napier City,Wellington Olympic,fcc2PHA2,SQPHwrbB,2,5,,,,0
+1667005200,Wellington Phoenix 2,Miramar,nXRv0Dlj,fcc2PHA2,2,3,,,,0
+1667008800,Auckland United,Auckland City,2cNsxef8,E7VNOejE,3,2,,,,0
+1667091600,Birkenhead,Cashmere Technical,fcc2PHA2,nm249rnA,5,3,,,,0
+1667093400,Christchurch,Melville,fcc2PHA2,Ymd6OyQ8,2,5,,,,0
+1667602800,Cashmere Technical,Napier City,nm249rnA,fcc2PHA2,4,2,,,,0
+1667606400,Auckland City,Wellington Phoenix 2,E7VNOejE,nXRv0Dlj,2,0,,,,0
+1667613600,Wellington Olympic,Auckland United,SQPHwrbB,2cNsxef8,3,1,,,,0
+1667692800,Miramar,Christchurch,fcc2PHA2,fcc2PHA2,0,3,,,,0
+1667700000,Melville,Birkenhead,Ymd6OyQ8,fcc2PHA2,2,0,,,,0
+1668213000,Christchurch,Auckland City,fcc2PHA2,E7VNOejE,2,3,,,,0
+1668218400,Auckland United,Cashmere Technical,2cNsxef8,nm249rnA,2,1,,,,0
+1668220200,Miramar,Melville,fcc2PHA2,Ymd6OyQ8,2,3,,,,0
+1668294000,Wellington Phoenix 2,Wellington Olympic,nXRv0Dlj,SQPHwrbB,1,1,,,,0
+1668301200,Napier City,Birkenhead,fcc2PHA2,fcc2PHA2,1,1,,,,0
+1668819600,Wellington Olympic,Christchurch,SQPHwrbB,fcc2PHA2,7,1,,,,0
+1668823200,Birkenhead,Auckland United,fcc2PHA2,2cNsxef8,2,0,,,,0
+1668826800,Melville,Napier City,Ymd6OyQ8,fcc2PHA2,4,3,,,,0
+1668909600,Auckland City,Miramar,E7VNOejE,fcc2PHA2,2,1,,,,0
+1668913200,Cashmere Technical,Wellington Phoenix 2,nm249rnA,nXRv0Dlj,1,3,,,,0
+1669356000,Christchurch,Cashmere Technical,fcc2PHA2,nm249rnA,4,1,,,,0
+1669420800,Auckland United,Napier City,2cNsxef8,fcc2PHA2,3,2,,,,0
+1669428000,Auckland City,Melville,E7VNOejE,Ymd6OyQ8,2,0,,,,0
+1669507200,Wellington Phoenix 2,Birkenhead,nXRv0Dlj,fcc2PHA2,4,2,,,,0
+1669514400,Miramar,Wellington Olympic,fcc2PHA2,SQPHwrbB,1,4,,,,0
+1670115600,Auckland City,Wellington Olympic,E7VNOejE,SQPHwrbB,3,2,,,,1

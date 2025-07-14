@@ -1,66 +1,66 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1061136000,Venezia,Atalanta,2,0,,,,0
-1061136000,Ternana,Sambenedettese,1,2,,,,0
-1061144100,ACR Messina,Pescara,2,0,,,,0
-1061145000,Verona,Treviso,1,0,,,,0
-1061145000,Triestina,L.R. Vicenza,1,1,,,,0
-1061145000,Salernitana,Napoli,0,0,,,,0
-1061145000,Pro Patria,Cagliari,0,2,,,,0
-1061145000,Piacenza,Como,2,0,,,,0
-1061145000,Palermo,AlbinoLeffe,2,0,,,,0
-1061145000,Martina Calcio,Bari,1,2,,,,0
-1061145000,Genoa,Torino,0,1,,,,0
-1061145000,Cesena,Livorno,1,1,,,,0
-1061145000,Brindisi,Catania,1,1,,,,0
-1061145000,Avellino,Lecce,0,1,,,,0
-1061145000,Ascoli,Teramo,2,2,,,,0
-1061145000,Ancona,Pisa,0,2,,,,0
-1062540000,Pisa,Sambenedettese,1,1,,,,0
-1062540000,Cesena,Genoa,1,1,,,,0
-1062626400,Ternana,Ancona,0,0,,,,0
-1064946600,Salernitana,Reggina,0,2,,,,0
-1065033000,Venezia,Empoli,2,0,,,,0
-1065033000,Teramo,Siena,0,1,,,,0
-1065033000,Sambenedettese,Modena,2,1,,,,0
-1065033000,Palermo,Brescia,1,1,,,,0
-1065033900,Pro Patria,Sampdoria,0,1,,,,0
-1065033900,Cesena,Perugia,1,2,,,,0
-1065119400,Brindisi,Bologna,3,2,,,,0
-1067369400,Empoli,Venezia,1,1,,,,0
-1067436000,Perugia,Cesena,3,2,,,,0
-1067455800,Siena,Teramo,3,0,,,,0
-1067455800,Sampdoria,Pro Patria,3,0,,,,0
-1067455800,Reggina,Salernitana,3,0,,,,0
-1067455800,Modena,Sambenedettese,2,0,,,,0
-1067455800,Bologna,Brindisi,3,0,,,,0
-1067542200,Brescia,Palermo,2,3,,,,0
-1069781400,Siena,Juventus,1,2,,,,0
-1070456400,Bologna,Udinese,0,1,,,,0
-1070463600,Venezia,Parma,0,2,,,,0
-1070470800,Modena,Lazio,0,2,,,,0
-1070482200,Sampdoria,AC Milan,0,1,,,,0
-1070548200,Chievo,Perugia,2,1,,,,0
-1070557200,AS Roma,Palermo,1,0,,,,0
-1070568000,Inter,Reggina,2,1,,,,0
-1071583200,Perugia,Chievo,3,0,,,,0
-1071666000,Parma,Venezia,0,1,,,,0
-1071673200,Lazio,Modena,1,0,,,,0
-1071678600,Palermo,AS Roma,1,2,,,,0
-1071691200,Reggina,Inter,1,1,,,,0
-1071753300,Juventus,Siena,2,1,,,,0
-1071765000,Udinese,Bologna,3,0,,,,0
-1071776700,AC Milan,Sampdoria,1,0,,,,0
-1074024000,Udinese,Inter,0,0,,,,0
-1074099600,Lazio,Parma,2,0,,,,0
-1074109500,AC Milan,AS Roma,2,1,,,,0
-1074196800,Perugia,Juventus,1,2,,,,0
-1074616200,Parma,Lazio,1,1,,,,0
-1074702600,Inter,Udinese,3,1,,,,0
-1074715200,Juventus,Perugia,1,0,,,,0
-1074800700,AS Roma,AC Milan,1,2,,,,0
-1075924800,Juventus,Inter,2,2,,,,0
-1076011200,AC Milan,Lazio,1,2,,,,0
-1076529600,Lazio,AC Milan,4,0,,,,0
-1076616000,Inter,Juventus,2,2,AET,2,3,0
-1079553600,Lazio,Juventus,2,0,,,,0
-1084388400,Juventus,Lazio,2,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1061136000,Venezia,Atalanta,AX567M6G,rg6usZns,2,0,,,,0
+1061136000,Ternana,Sambenedettese,4h8hml0s,8EtKyaF6,1,2,,,,0
+1061144100,ACR Messina,Pescara,vce7Ujd5,0YEZEho5,2,0,,,,0
+1061145000,Verona,Treviso,Kxh373f3,K8pmulQ5,1,0,,,,0
+1061145000,Triestina,L.R. Vicenza,KfFUyYyC,nPPuzM9e,1,1,,,,0
+1061145000,Salernitana,Napoli,dvgFSUQH,Qcs4tGVj,0,0,,,,0
+1061145000,Pro Patria,Cagliari,Aipk5JL5,McvX4bye,0,2,,,,0
+1061145000,Piacenza,Como,KfFUyYyC,hpmw8K1h,2,0,,,,0
+1061145000,Palermo,AlbinoLeffe,fL3dmxxd,dxYsidUO,2,0,,,,0
+1061145000,Martina Calcio,Bari,xQYeFysI,dYPMS6QG,1,2,,,,0
+1061145000,Genoa,Torino,hCD6m1R3,0lwy4Ij1,0,1,,,,0
+1061145000,Cesena,Livorno,YB20ndi2,pYGW7C9s,1,1,,,,0
+1061145000,Brindisi,Catania,vLRmnG3L,hnnCjjcF,1,1,,,,0
+1061145000,Avellino,Lecce,dp0XifTb,McvX4bye,0,1,,,,0
+1061145000,Ascoli,Teramo,CEqXYiD6,0G50HD7l,2,2,,,,0
+1061145000,Ancona,Pisa,hEOjasbQ,GMOw3SI3,0,2,,,,0
+1062540000,Pisa,Sambenedettese,GMOw3SI3,8EtKyaF6,1,1,,,,0
+1062540000,Cesena,Genoa,YB20ndi2,hCD6m1R3,1,1,,,,0
+1062626400,Ternana,Ancona,4h8hml0s,hEOjasbQ,0,0,,,,0
+1064946600,Salernitana,Reggina,dvgFSUQH,fNvfBbuo,0,2,,,,0
+1065033000,Venezia,Empoli,AX567M6G,KbH8aCLf,2,0,,,,0
+1065033000,Teramo,Siena,0G50HD7l,8vr2UJt2,0,1,,,,0
+1065033000,Sambenedettese,Modena,8EtKyaF6,OY47DkeT,2,1,,,,0
+1065033000,Palermo,Brescia,fL3dmxxd,QuOACKLH,1,1,,,,0
+1065033900,Pro Patria,Sampdoria,Aipk5JL5,WdmUvPiG,0,1,,,,0
+1065033900,Cesena,Perugia,YB20ndi2,zBy2JPLp,1,2,,,,0
+1065119400,Brindisi,Bologna,vLRmnG3L,McvX4bye,3,2,,,,0
+1067369400,Empoli,Venezia,KbH8aCLf,AX567M6G,1,1,,,,0
+1067436000,Perugia,Cesena,zBy2JPLp,YB20ndi2,3,2,,,,0
+1067455800,Siena,Teramo,8vr2UJt2,0G50HD7l,3,0,,,,0
+1067455800,Sampdoria,Pro Patria,WdmUvPiG,Aipk5JL5,3,0,,,,0
+1067455800,Reggina,Salernitana,fNvfBbuo,dvgFSUQH,3,0,,,,0
+1067455800,Modena,Sambenedettese,OY47DkeT,8EtKyaF6,2,0,,,,0
+1067455800,Bologna,Brindisi,McvX4bye,vLRmnG3L,3,0,,,,0
+1067542200,Brescia,Palermo,QuOACKLH,fL3dmxxd,2,3,,,,0
+1069781400,Siena,Juventus,8vr2UJt2,EXzXDYgS,1,2,,,,0
+1070456400,Bologna,Udinese,McvX4bye,SYw7EcY6,0,1,,,,0
+1070463600,Venezia,Parma,AX567M6G,fydXzLY6,0,2,,,,0
+1070470800,Modena,Lazio,OY47DkeT,fL3dmxxd,0,2,,,,0
+1070482200,Sampdoria,AC Milan,WdmUvPiG,fL3dmxxd,0,1,,,,0
+1070548200,Chievo,Perugia,fkHZWuUa,zBy2JPLp,2,1,,,,0
+1070557200,AS Roma,Palermo,GtNb9h2q,fL3dmxxd,1,0,,,,0
+1070568000,Inter,Reggina,jDrBQiMS,fNvfBbuo,2,1,,,,0
+1071583200,Perugia,Chievo,zBy2JPLp,fkHZWuUa,3,0,,,,0
+1071666000,Parma,Venezia,fydXzLY6,AX567M6G,0,1,,,,0
+1071673200,Lazio,Modena,fL3dmxxd,OY47DkeT,1,0,,,,0
+1071678600,Palermo,AS Roma,fL3dmxxd,GtNb9h2q,1,2,,,,0
+1071691200,Reggina,Inter,fNvfBbuo,jDrBQiMS,1,1,,,,0
+1071753300,Juventus,Siena,EXzXDYgS,8vr2UJt2,2,1,,,,0
+1071765000,Udinese,Bologna,SYw7EcY6,McvX4bye,3,0,,,,0
+1071776700,AC Milan,Sampdoria,fL3dmxxd,WdmUvPiG,1,0,,,,0
+1074024000,Udinese,Inter,SYw7EcY6,jDrBQiMS,0,0,,,,0
+1074099600,Lazio,Parma,fL3dmxxd,fydXzLY6,2,0,,,,0
+1074109500,AC Milan,AS Roma,fL3dmxxd,GtNb9h2q,2,1,,,,0
+1074196800,Perugia,Juventus,zBy2JPLp,EXzXDYgS,1,2,,,,0
+1074616200,Parma,Lazio,fydXzLY6,fL3dmxxd,1,1,,,,0
+1074702600,Inter,Udinese,jDrBQiMS,SYw7EcY6,3,1,,,,0
+1074715200,Juventus,Perugia,EXzXDYgS,zBy2JPLp,1,0,,,,0
+1074800700,AS Roma,AC Milan,GtNb9h2q,fL3dmxxd,1,2,,,,0
+1075924800,Juventus,Inter,EXzXDYgS,jDrBQiMS,2,2,,,,0
+1076011200,AC Milan,Lazio,fL3dmxxd,fL3dmxxd,1,2,,,,0
+1076529600,Lazio,AC Milan,fL3dmxxd,fL3dmxxd,4,0,,,,0
+1076616000,Inter,Juventus,jDrBQiMS,EXzXDYgS,2,2,AET,2,3,0
+1079553600,Lazio,Juventus,fL3dmxxd,EXzXDYgS,2,0,,,,0
+1084388400,Juventus,Lazio,EXzXDYgS,fL3dmxxd,2,2,,,,0

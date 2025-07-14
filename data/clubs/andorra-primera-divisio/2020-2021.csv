@@ -1,83 +1,83 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1606644000,FC Santa Coloma,UE Engordany,2,2,,,,0
-1606656600,Inter Escaldes,Sant Julia,3,1,,,,0
-1606669200,Carroi,Penya,0,3,Awrd,,,0
-1607250600,Penya,Inter Escaldes,0,1,,,,0
-1607268600,UE Santa Coloma,Carroi,1,0,,,,0
-1607542200,Atletic Escaldes,UE Santa Coloma,0,0,,,,0
-1607855400,FC Santa Coloma,Penya,3,0,,,,0
-1607855400,Atletic Escaldes,Carroi,2,1,,,,0
-1607873400,Inter Escaldes,UE Santa Coloma,0,0,,,,0
-1608147000,Sant Julia,Atletic Escaldes,2,1,,,,0
-1608147000,Penya,UE Engordany,1,1,,,,0
-1608233400,UE Santa Coloma,FC Santa Coloma,0,1,,,,0
-1608233400,Carroi,Inter Escaldes,2,0,,,,0
-1608460200,UE Engordany,UE Santa Coloma,2,0,,,,0
-1608460200,FC Santa Coloma,Carroi,1,2,,,,0
-1608478200,Sant Julia,Penya,6,2,,,,0
-1608478200,Atletic Escaldes,Inter Escaldes,2,1,,,,0
-1610879400,UE Engordany,Atletic Escaldes,1,1,,,,0
-1610897400,Sant Julia,FC Santa Coloma,1,1,,,,0
-1611257400,UE Engordany,Sant Julia,3,0,,,,0
-1611484200,UE Santa Coloma,Sant Julia,1,2,,,,0
-1611484200,Atletic Escaldes,Penya,3,0,,,,0
-1611502200,Inter Escaldes,FC Santa Coloma,1,1,,,,0
-1611502200,Carroi,UE Engordany,0,2,,,,0
-1612089000,Sant Julia,Carroi,2,1,,,,0
-1612089000,Penya,UE Santa Coloma,1,2,,,,0
-1612107000,UE Engordany,Inter Escaldes,0,2,,,,0
-1612107000,FC Santa Coloma,Atletic Escaldes,0,2,,,,0
-1612693800,UE Engordany,FC Santa Coloma,2,2,,,,0
-1612693800,Sant Julia,Inter Escaldes,0,2,,,,0
-1612711800,UE Santa Coloma,Atletic Escaldes,1,0,,,,0
-1612711800,Penya,Carroi,3,0,,,,0
-1613298600,Inter Escaldes,Penya,6,0,,,,0
-1613298600,Atletic Escaldes,UE Engordany,3,3,,,,0
-1613316600,FC Santa Coloma,Sant Julia,2,2,,,,0
-1613316600,Carroi,UE Santa Coloma,1,3,,,,0
-1613903400,UE Santa Coloma,Inter Escaldes,0,3,,,,0
-1613903400,Carroi,Atletic Escaldes,0,2,,,,0
-1613921400,Sant Julia,UE Engordany,1,2,,,,0
-1613921400,Penya,FC Santa Coloma,0,2,,,,0
-1614508200,UE Engordany,Penya,5,0,,,,0
-1614508200,Inter Escaldes,Carroi,2,0,,,,0
-1614526200,FC Santa Coloma,UE Santa Coloma,1,0,,,,0
-1614526200,Atletic Escaldes,Sant Julia,1,1,,,,0
-1615113000,UE Santa Coloma,UE Engordany,3,1,,,,0
-1615113000,Penya,Sant Julia,0,3,,,,0
-1615131000,Inter Escaldes,Atletic Escaldes,0,0,,,,0
-1615131000,Carroi,FC Santa Coloma,0,3,,,,0
-1615717800,Sant Julia,UE Santa Coloma,3,1,,,,0
-1615717800,FC Santa Coloma,Inter Escaldes,1,1,,,,0
-1615735800,UE Engordany,Carroi,1,1,,,,0
-1615735800,Penya,Atletic Escaldes,0,8,,,,0
-1618133400,Inter Escaldes,UE Engordany,0,0,,,,0
-1618133400,Carroi,Sant Julia,0,3,,,,0
-1618133400,Atletic Escaldes,FC Santa Coloma,0,2,,,,0
-1618738200,Sant Julia,Atletic Escaldes,2,2,,,,0
-1618738200,UE Santa Coloma,Penya,7,0,,,,0
-1618756200,FC Santa Coloma,Inter Escaldes,1,2,,,,0
-1619029800,Penya,UE Engordany,0,4,,,,0
-1619116200,UE Santa Coloma,Carroi,1,1,,,,0
-1619343000,UE Santa Coloma,Penya,9,0,,,,0
-1619343000,Carroi,UE Engordany,1,1,,,,0
-1619361000,Sant Julia,FC Santa Coloma,2,0,,,,0
-1619361000,Atletic Escaldes,Inter Escaldes,1,4,,,,0
-1619947800,UE Engordany,UE Santa Coloma,2,5,,,,0
-1619947800,Penya,Carroi,0,3,Awrd,,,0
-1619965800,FC Santa Coloma,Atletic Escaldes,0,0,,,,0
-1620552600,UE Engordany,Penya,4,3,,,,0
-1620552600,Carroi,UE Santa Coloma,3,2,,,,0
-1620570600,Inter Escaldes,FC Santa Coloma,1,1,,,,0
-1620570600,Atletic Escaldes,Sant Julia,0,1,,,,0
-1620844200,Inter Escaldes,Sant Julia,1,0,,,,0
-1621157400,UE Engordany,Carroi,1,1,,,,0
-1621157400,Penya,UE Santa Coloma,0,4,,,,0
-1621175400,Inter Escaldes,Atletic Escaldes,4,0,,,,0
-1621175400,FC Santa Coloma,Sant Julia,1,0,,,,0
-1621621800,Carroi,Penya,3,0,,,,0
-1621709100,UE Santa Coloma,UE Engordany,4,6,,,,0
-1621780200,Sant Julia,Inter Escaldes,1,0,,,,0
-1621780200,Atletic Escaldes,FC Santa Coloma,1,3,,,,0
-1622313000,La Massana,Carroi,0,2,,,,0
-1622658600,Carroi,La Massana,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1606644000,FC Santa Coloma,UE Engordany,Uik4ihaC,MHnvH5pK,2,2,,,,0
+1606656600,Inter Escaldes,Sant Julia,tKbrPWjF,McUMVQPk,3,1,,,,0
+1606669200,Carroi,Penya,Kd6FFBdj,xScRTKBn,0,3,Awrd,,,0
+1607250600,Penya,Inter Escaldes,xScRTKBn,tKbrPWjF,0,1,,,,0
+1607268600,UE Santa Coloma,Carroi,2aQZ1RRP,Kd6FFBdj,1,0,,,,0
+1607542200,Atletic Escaldes,UE Santa Coloma,WnxS8ZvA,2aQZ1RRP,0,0,,,,0
+1607855400,FC Santa Coloma,Penya,Uik4ihaC,xScRTKBn,3,0,,,,0
+1607855400,Atletic Escaldes,Carroi,WnxS8ZvA,Kd6FFBdj,2,1,,,,0
+1607873400,Inter Escaldes,UE Santa Coloma,tKbrPWjF,2aQZ1RRP,0,0,,,,0
+1608147000,Sant Julia,Atletic Escaldes,McUMVQPk,WnxS8ZvA,2,1,,,,0
+1608147000,Penya,UE Engordany,xScRTKBn,MHnvH5pK,1,1,,,,0
+1608233400,UE Santa Coloma,FC Santa Coloma,2aQZ1RRP,Uik4ihaC,0,1,,,,0
+1608233400,Carroi,Inter Escaldes,Kd6FFBdj,tKbrPWjF,2,0,,,,0
+1608460200,UE Engordany,UE Santa Coloma,MHnvH5pK,2aQZ1RRP,2,0,,,,0
+1608460200,FC Santa Coloma,Carroi,Uik4ihaC,Kd6FFBdj,1,2,,,,0
+1608478200,Sant Julia,Penya,McUMVQPk,xScRTKBn,6,2,,,,0
+1608478200,Atletic Escaldes,Inter Escaldes,WnxS8ZvA,tKbrPWjF,2,1,,,,0
+1610879400,UE Engordany,Atletic Escaldes,MHnvH5pK,WnxS8ZvA,1,1,,,,0
+1610897400,Sant Julia,FC Santa Coloma,McUMVQPk,Uik4ihaC,1,1,,,,0
+1611257400,UE Engordany,Sant Julia,MHnvH5pK,McUMVQPk,3,0,,,,0
+1611484200,UE Santa Coloma,Sant Julia,2aQZ1RRP,McUMVQPk,1,2,,,,0
+1611484200,Atletic Escaldes,Penya,WnxS8ZvA,xScRTKBn,3,0,,,,0
+1611502200,Inter Escaldes,FC Santa Coloma,tKbrPWjF,Uik4ihaC,1,1,,,,0
+1611502200,Carroi,UE Engordany,Kd6FFBdj,MHnvH5pK,0,2,,,,0
+1612089000,Sant Julia,Carroi,McUMVQPk,Kd6FFBdj,2,1,,,,0
+1612089000,Penya,UE Santa Coloma,xScRTKBn,2aQZ1RRP,1,2,,,,0
+1612107000,UE Engordany,Inter Escaldes,MHnvH5pK,tKbrPWjF,0,2,,,,0
+1612107000,FC Santa Coloma,Atletic Escaldes,Uik4ihaC,WnxS8ZvA,0,2,,,,0
+1612693800,UE Engordany,FC Santa Coloma,MHnvH5pK,Uik4ihaC,2,2,,,,0
+1612693800,Sant Julia,Inter Escaldes,McUMVQPk,tKbrPWjF,0,2,,,,0
+1612711800,UE Santa Coloma,Atletic Escaldes,2aQZ1RRP,WnxS8ZvA,1,0,,,,0
+1612711800,Penya,Carroi,xScRTKBn,Kd6FFBdj,3,0,,,,0
+1613298600,Inter Escaldes,Penya,tKbrPWjF,xScRTKBn,6,0,,,,0
+1613298600,Atletic Escaldes,UE Engordany,WnxS8ZvA,MHnvH5pK,3,3,,,,0
+1613316600,FC Santa Coloma,Sant Julia,Uik4ihaC,McUMVQPk,2,2,,,,0
+1613316600,Carroi,UE Santa Coloma,Kd6FFBdj,2aQZ1RRP,1,3,,,,0
+1613903400,UE Santa Coloma,Inter Escaldes,2aQZ1RRP,tKbrPWjF,0,3,,,,0
+1613903400,Carroi,Atletic Escaldes,Kd6FFBdj,WnxS8ZvA,0,2,,,,0
+1613921400,Sant Julia,UE Engordany,McUMVQPk,MHnvH5pK,1,2,,,,0
+1613921400,Penya,FC Santa Coloma,xScRTKBn,Uik4ihaC,0,2,,,,0
+1614508200,UE Engordany,Penya,MHnvH5pK,xScRTKBn,5,0,,,,0
+1614508200,Inter Escaldes,Carroi,tKbrPWjF,Kd6FFBdj,2,0,,,,0
+1614526200,FC Santa Coloma,UE Santa Coloma,Uik4ihaC,2aQZ1RRP,1,0,,,,0
+1614526200,Atletic Escaldes,Sant Julia,WnxS8ZvA,McUMVQPk,1,1,,,,0
+1615113000,UE Santa Coloma,UE Engordany,2aQZ1RRP,MHnvH5pK,3,1,,,,0
+1615113000,Penya,Sant Julia,xScRTKBn,McUMVQPk,0,3,,,,0
+1615131000,Inter Escaldes,Atletic Escaldes,tKbrPWjF,WnxS8ZvA,0,0,,,,0
+1615131000,Carroi,FC Santa Coloma,Kd6FFBdj,Uik4ihaC,0,3,,,,0
+1615717800,Sant Julia,UE Santa Coloma,McUMVQPk,2aQZ1RRP,3,1,,,,0
+1615717800,FC Santa Coloma,Inter Escaldes,Uik4ihaC,tKbrPWjF,1,1,,,,0
+1615735800,UE Engordany,Carroi,MHnvH5pK,Kd6FFBdj,1,1,,,,0
+1615735800,Penya,Atletic Escaldes,xScRTKBn,WnxS8ZvA,0,8,,,,0
+1618133400,Inter Escaldes,UE Engordany,tKbrPWjF,MHnvH5pK,0,0,,,,0
+1618133400,Carroi,Sant Julia,Kd6FFBdj,McUMVQPk,0,3,,,,0
+1618133400,Atletic Escaldes,FC Santa Coloma,WnxS8ZvA,Uik4ihaC,0,2,,,,0
+1618738200,Sant Julia,Atletic Escaldes,McUMVQPk,WnxS8ZvA,2,2,,,,0
+1618738200,UE Santa Coloma,Penya,2aQZ1RRP,xScRTKBn,7,0,,,,0
+1618756200,FC Santa Coloma,Inter Escaldes,Uik4ihaC,tKbrPWjF,1,2,,,,0
+1619029800,Penya,UE Engordany,xScRTKBn,MHnvH5pK,0,4,,,,0
+1619116200,UE Santa Coloma,Carroi,2aQZ1RRP,Kd6FFBdj,1,1,,,,0
+1619343000,UE Santa Coloma,Penya,2aQZ1RRP,xScRTKBn,9,0,,,,0
+1619343000,Carroi,UE Engordany,Kd6FFBdj,MHnvH5pK,1,1,,,,0
+1619361000,Sant Julia,FC Santa Coloma,McUMVQPk,Uik4ihaC,2,0,,,,0
+1619361000,Atletic Escaldes,Inter Escaldes,WnxS8ZvA,tKbrPWjF,1,4,,,,0
+1619947800,UE Engordany,UE Santa Coloma,MHnvH5pK,2aQZ1RRP,2,5,,,,0
+1619947800,Penya,Carroi,xScRTKBn,Kd6FFBdj,0,3,Awrd,,,0
+1619965800,FC Santa Coloma,Atletic Escaldes,Uik4ihaC,WnxS8ZvA,0,0,,,,0
+1620552600,UE Engordany,Penya,MHnvH5pK,xScRTKBn,4,3,,,,0
+1620552600,Carroi,UE Santa Coloma,Kd6FFBdj,2aQZ1RRP,3,2,,,,0
+1620570600,Inter Escaldes,FC Santa Coloma,tKbrPWjF,Uik4ihaC,1,1,,,,0
+1620570600,Atletic Escaldes,Sant Julia,WnxS8ZvA,McUMVQPk,0,1,,,,0
+1620844200,Inter Escaldes,Sant Julia,tKbrPWjF,McUMVQPk,1,0,,,,0
+1621157400,UE Engordany,Carroi,MHnvH5pK,Kd6FFBdj,1,1,,,,0
+1621157400,Penya,UE Santa Coloma,xScRTKBn,2aQZ1RRP,0,4,,,,0
+1621175400,Inter Escaldes,Atletic Escaldes,tKbrPWjF,WnxS8ZvA,4,0,,,,0
+1621175400,FC Santa Coloma,Sant Julia,Uik4ihaC,McUMVQPk,1,0,,,,0
+1621621800,Carroi,Penya,Kd6FFBdj,xScRTKBn,3,0,,,,0
+1621709100,UE Santa Coloma,UE Engordany,2aQZ1RRP,MHnvH5pK,4,6,,,,0
+1621780200,Sant Julia,Inter Escaldes,McUMVQPk,tKbrPWjF,1,0,,,,0
+1621780200,Atletic Escaldes,FC Santa Coloma,WnxS8ZvA,Uik4ihaC,1,3,,,,0
+1622313000,La Massana,Carroi,byaNU0dt,Kd6FFBdj,0,2,,,,0
+1622658600,Carroi,La Massana,Kd6FFBdj,byaNU0dt,3,1,,,,0

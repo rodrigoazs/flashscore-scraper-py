@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1563960600,Olympic FC,Bayswater,5,2,,,,0
-1563960600,Mt Druitt Town,Manly Utd,1,1,Pen,2,3,0
-1563960600,Magpies Crusaders,Coomera Colts,2,1,,,,0
-1563960600,Darwin Olympic,Edgeworth E.,0,3,,,,0
-1563960600,Bulleen,Brunswick Juventus,0,0,Pen,1,2,0
-1563960600,Adelaide Olympic,Floreat Athena,4,3,,,,0
-1564565400,Tigers FC,Hume City,0,2,,,,0
-1564565400,St George Saints,Sydney Utd,3,3,AET,3,5,0
-1564565400,South Hobart,Marconi Stallions,0,3,,,,0
-1564565400,Maitland,Central Coast Mariners,0,2,,,,0
-1564565400,Campbelltown City,Melbourne City,1,3,,,,0
-1565170200,Sydney FC,Brisbane Roar,0,2,,,,0
-1565170200,Melbourne Victory,Newcastle Jets,2,2,AET,2,3,0
-1565170200,Melbourne Knights,Adelaide United,2,5,,,,0
-1565170200,Brisbane Strikers,Wellington Phoenix,2,2,Pen,3,2,0
-1565173800,Perth Glory,WS Wanderers,0,0,AET,1,2,0
-1566379800,Olympic FC,Adelaide United,2,3,,,,0
-1566379800,Marconi Stallions,Melbourne City,1,2,,,,0
-1566379800,Edgeworth E.,Newcastle Jets,1,5,,,,0
-1566379800,Brunswick Juventus,Magpies Crusaders,4,0,,,,0
-1566984600,Sydney Utd,WS Wanderers,1,7,,,,0
-1566984600,Brisbane Strikers,Manly Utd,1,0,,,,0
-1566984600,Brisbane Roar,Central Coast Mariners,2,2,Pen,2,3,0
-1566984600,Adelaide Olympic,Hume City,1,3,,,,0
-1568712600,Hume City,Central Coast Mariners,0,1,,,,0
-1568712600,Adelaide United,Newcastle Jets,1,0,,,,0
-1568799000,Melbourne City,WS Wanderers,3,0,,,,0
-1568799000,Brisbane Strikers,Brunswick Juventus,3,2,,,,0
-1569922200,Brisbane Strikers,Melbourne City,1,5,,,,0
-1570008600,Central Coast Mariners,Adelaide United,1,2,,,,0
-1571819400,Adelaide United,Melbourne City,4,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1563960600,Olympic FC,Bayswater,bFVGuzHJ,bgl0NExH,5,2,,,,0
+1563960600,Mt Druitt Town,Manly Utd,4lESQTm0,ClpsWkIB,1,1,Pen,2,3,0
+1563960600,Magpies Crusaders,Coomera Colts,plstAnv3,QH3Pihl1,2,1,,,,0
+1563960600,Darwin Olympic,Edgeworth E.,MghUdD46,2JY3p2Cc,0,3,,,,0
+1563960600,Bulleen,Brunswick Juventus,4lfNl3on,bH6s7IOl,0,0,Pen,1,2,0
+1563960600,Adelaide Olympic,Floreat Athena,YeS5WjwH,URDUuhRK,4,3,,,,0
+1564565400,Tigers FC,Hume City,tAX7qMR3,QkynLpK7,0,2,,,,0
+1564565400,St George Saints,Sydney Utd,hYrQg51l,v59iEWvF,3,3,AET,3,5,0
+1564565400,South Hobart,Marconi Stallions,ObnEXDBG,MBZARsdo,0,3,,,,0
+1564565400,Maitland,Central Coast Mariners,jcd54fnn,WloyQSJM,0,2,,,,0
+1564565400,Campbelltown City,Melbourne City,Umce5aUE,rL2rkgzd,1,3,,,,0
+1565170200,Sydney FC,Brisbane Roar,WU4sOyqK,OlyE5V4J,0,2,,,,0
+1565170200,Melbourne Victory,Newcastle Jets,jm1g2SD5,AowXufJO,2,2,AET,2,3,0
+1565170200,Melbourne Knights,Adelaide United,MDQDlb6B,j7XSkexg,2,5,,,,0
+1565170200,Brisbane Strikers,Wellington Phoenix,fZ2M152P,rL2rkgzd,2,2,Pen,3,2,0
+1565173800,Perth Glory,WS Wanderers,8p3P7cak,ELjhZ8l9,0,0,AET,1,2,0
+1566379800,Olympic FC,Adelaide United,bFVGuzHJ,j7XSkexg,2,3,,,,0
+1566379800,Marconi Stallions,Melbourne City,MBZARsdo,rL2rkgzd,1,2,,,,0
+1566379800,Edgeworth E.,Newcastle Jets,2JY3p2Cc,AowXufJO,1,5,,,,0
+1566379800,Brunswick Juventus,Magpies Crusaders,bH6s7IOl,plstAnv3,4,0,,,,0
+1566984600,Sydney Utd,WS Wanderers,v59iEWvF,ELjhZ8l9,1,7,,,,0
+1566984600,Brisbane Strikers,Manly Utd,fZ2M152P,ClpsWkIB,1,0,,,,0
+1566984600,Brisbane Roar,Central Coast Mariners,OlyE5V4J,WloyQSJM,2,2,Pen,2,3,0
+1566984600,Adelaide Olympic,Hume City,YeS5WjwH,QkynLpK7,1,3,,,,0
+1568712600,Hume City,Central Coast Mariners,QkynLpK7,WloyQSJM,0,1,,,,0
+1568712600,Adelaide United,Newcastle Jets,j7XSkexg,AowXufJO,1,0,,,,0
+1568799000,Melbourne City,WS Wanderers,rL2rkgzd,ELjhZ8l9,3,0,,,,0
+1568799000,Brisbane Strikers,Brunswick Juventus,fZ2M152P,bH6s7IOl,3,2,,,,0
+1569922200,Brisbane Strikers,Melbourne City,fZ2M152P,rL2rkgzd,1,5,,,,0
+1570008600,Central Coast Mariners,Adelaide United,WloyQSJM,j7XSkexg,1,2,,,,0
+1571819400,Adelaide United,Melbourne City,j7XSkexg,rL2rkgzd,4,0,,,,0

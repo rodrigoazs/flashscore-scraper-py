@@ -1,44 +1,44 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1471359600,Sateska Volino,Met. Skopje,0,3,,,,0
-1471446000,Vlaznimi,Teteks,0,1,,,,0
-1471446000,Vardar Negotino,Shkupi,0,2,,,,0
-1471446000,Novaci,FK Skopje,2,1,,,,0
-1471446000,Miravci,Vellazerimi,0,3,Awrd,,,0
-1471446000,Males,Sileks,0,1,,,,0
-1471446000,Ljuboten,Turnovo,0,6,,,,0
-1471446000,Gorno Lisice,Renova,1,3,,,,0
-1471446000,Fortuna Skopje,Pobeda,0,3,Awrd,,,0
-1471446000,Caklani,Rabotnicki,1,6,,,,0
-1471446000,Brera Strumica,Makedonija GP,5,0,,,,0
-1471446000,Belasica,Pelister,2,2,Pen,2,3,0
-1472049000,Skenderbeu Poroj,Vardar,0,9,,,,0
-1472652000,Golemo Konjari,Shkendija,0,11,,,,0
-1474464600,Vellazerimi,Vardar,1,3,,,,0
-1474464600,Sileks,Turnovo,2,1,,,,0
-1474464600,Rabotnicki,Shkendija,0,2,,,,0
-1474464600,Pelister,Renova,2,0,,,,0
-1474464600,Novaci,Pobeda,1,2,,,,0
-1474464600,Met. Skopje,Carev Dvor,-,-,WO,,,0
-1474464600,Brera Strumica,Shkupi,0,1,,,,0
-1474464600,Bregalnica Stip,Teteks,4,0,,,,0
-1476273600,Carev Dvor,Met. Skopje,-,-,WO,,,0
-1476275400,Turnovo,Sileks,3,3,,,,0
-1476275400,Teteks,Bregalnica Stip,1,2,,,,0
-1476275400,Shkupi,Brera Strumica,3,1,,,,0
-1476275400,Pobeda,Novaci,5,0,,,,0
-1476880200,Vardar,Vellazerimi,2,0,,,,0
-1476880200,Shkendija,Rabotnicki,0,0,,,,0
-1476880200,Renova,Pelister,3,1,,,,0
-1479904200,Shkupi,Shkendija,0,0,,,,0
-1479904200,Pobeda,Bregalnica Stip,2,2,,,,0
-1479904200,Pelister,Sileks,1,0,,,,0
-1479904200,Met. Skopje,Vardar,1,4,,,,0
-1481112000,Vardar,Met. Skopje,4,1,,,,0
-1481112000,Sileks,Pelister,1,2,,,,0
-1481112000,Shkendija,Shkupi,4,0,,,,0
-1481112000,Bregalnica Stip,Pobeda,3,0,,,,0
-1488373200,Vardar,Shkendija,1,3,,,,0
-1488384000,Bregalnica Stip,Pelister,2,2,,,,0
-1492610400,Shkendija,Vardar,0,1,,,,0
-1492610400,Pelister,Bregalnica Stip,1,0,,,,0
-1495033200,Shkendija,Pelister,0,0,Pen,0,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1471359600,Sateska Volino,Met. Skopje,lh0IYFzR,QTF8oS5s,0,3,,,,0
+1471446000,Vlaznimi,Teteks,O2t4ZCwt,tOvmJnVr,0,1,,,,0
+1471446000,Vardar Negotino,Shkupi,t8p5jzve,CIHFv9fg,0,2,,,,0
+1471446000,Novaci,FK Skopje,GErSfHt1,pCTkNqKp,2,1,,,,0
+1471446000,Miravci,Vellazerimi,Opio8Wie,EVFY8njN,0,3,Awrd,,,0
+1471446000,Males,Sileks,I9mSJfep,Ys5PBeU0,0,1,,,,0
+1471446000,Ljuboten,Turnovo,hCeuVAIr,ILReCEDO,0,6,,,,0
+1471446000,Gorno Lisice,Renova,pWXGCQdh,WrjrBuU2,1,3,,,,0
+1471446000,Fortuna Skopje,Pobeda,8hFLbQW3,8lHNgCuQ,0,3,Awrd,,,0
+1471446000,Caklani,Rabotnicki,IybQTOA9,Cdxq7Y31,1,6,,,,0
+1471446000,Brera Strumica,Makedonija GP,l2cVHkio,n5NSVHa8,5,0,,,,0
+1471446000,Belasica,Pelister,fFzddrH7,2JKzUeUK,2,2,Pen,2,3,0
+1472049000,Skenderbeu Poroj,Vardar,Am6XCEDd,86OeMIIr,0,9,,,,0
+1472652000,Golemo Konjari,Shkendija,Sz78nZ9E,f3OURrqn,0,11,,,,0
+1474464600,Vellazerimi,Vardar,EVFY8njN,86OeMIIr,1,3,,,,0
+1474464600,Sileks,Turnovo,Ys5PBeU0,ILReCEDO,2,1,,,,0
+1474464600,Rabotnicki,Shkendija,Cdxq7Y31,f3OURrqn,0,2,,,,0
+1474464600,Pelister,Renova,2JKzUeUK,WrjrBuU2,2,0,,,,0
+1474464600,Novaci,Pobeda,GErSfHt1,8lHNgCuQ,1,2,,,,0
+1474464600,Met. Skopje,Carev Dvor,QTF8oS5s,UmB6KvN1,-,-,WO,,,0
+1474464600,Brera Strumica,Shkupi,l2cVHkio,CIHFv9fg,0,1,,,,0
+1474464600,Bregalnica Stip,Teteks,86OeMIIr,tOvmJnVr,4,0,,,,0
+1476273600,Carev Dvor,Met. Skopje,UmB6KvN1,QTF8oS5s,-,-,WO,,,0
+1476275400,Turnovo,Sileks,ILReCEDO,Ys5PBeU0,3,3,,,,0
+1476275400,Teteks,Bregalnica Stip,tOvmJnVr,86OeMIIr,1,2,,,,0
+1476275400,Shkupi,Brera Strumica,CIHFv9fg,l2cVHkio,3,1,,,,0
+1476275400,Pobeda,Novaci,8lHNgCuQ,GErSfHt1,5,0,,,,0
+1476880200,Vardar,Vellazerimi,86OeMIIr,EVFY8njN,2,0,,,,0
+1476880200,Shkendija,Rabotnicki,f3OURrqn,Cdxq7Y31,0,0,,,,0
+1476880200,Renova,Pelister,WrjrBuU2,2JKzUeUK,3,1,,,,0
+1479904200,Shkupi,Shkendija,CIHFv9fg,f3OURrqn,0,0,,,,0
+1479904200,Pobeda,Bregalnica Stip,8lHNgCuQ,86OeMIIr,2,2,,,,0
+1479904200,Pelister,Sileks,2JKzUeUK,Ys5PBeU0,1,0,,,,0
+1479904200,Met. Skopje,Vardar,QTF8oS5s,86OeMIIr,1,4,,,,0
+1481112000,Vardar,Met. Skopje,86OeMIIr,QTF8oS5s,4,1,,,,0
+1481112000,Sileks,Pelister,Ys5PBeU0,2JKzUeUK,1,2,,,,0
+1481112000,Shkendija,Shkupi,f3OURrqn,CIHFv9fg,4,0,,,,0
+1481112000,Bregalnica Stip,Pobeda,86OeMIIr,8lHNgCuQ,3,0,,,,0
+1488373200,Vardar,Shkendija,86OeMIIr,f3OURrqn,1,3,,,,0
+1488384000,Bregalnica Stip,Pelister,86OeMIIr,2JKzUeUK,2,2,,,,0
+1492610400,Shkendija,Vardar,f3OURrqn,86OeMIIr,0,1,,,,0
+1492610400,Pelister,Bregalnica Stip,2JKzUeUK,86OeMIIr,1,0,,,,0
+1495033200,Shkendija,Pelister,f3OURrqn,2JKzUeUK,0,0,Pen,0,1,0

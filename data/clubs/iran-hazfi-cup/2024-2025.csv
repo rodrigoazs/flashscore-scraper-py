@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1732193100,Persepolis,Mes Soongoun,3,0,,,,0
-1732275000,Tractor,Gol Gohar,1,2,,,,0
-1732279500,Fard,Kheybar Khorramabad,0,1,,,,0
-1732284000,Shenavarsazi Qeshm,Mes Rafsanjan,0,1,,,,0
-1732284900,Pars Janoobi Jam,Sepahan,0,2,,,,0
-1732360500,Besat Kermanshah,Shahrdari Abbas,0,0,AET,1,0,0
-1732365900,Shams Azar Qazvin,Shahin Tehran,2,1,,,,0
-1732367700,Esteghlal Khuzestan,Paykan,0,1,,,,0
-1732374000,Sanat Naft,Aluminium Arak,1,0,,,,0
-1732452300,Zob Ahan,Havadar SC,0,0,AET,1,0,0
-1732452300,Nassaji Mazandaran,Mes Shahr Babak,1,0,,,,0
-1732452300,Chadormalu,Malavan,2,2,Pen,2,3,0
-1732456800,Naft Bandar Abbas,Yasa,0,0,AET,2,0,0
-1732457700,Foolad,Foolad Hormozgan,1,1,Pen,2,1,0
-1732529400,Shahrdari Noshahr,Astara,3,0,,,,0
-1734007500,Esteghlal F.C.,Mes Kerman,1,0,,,,0
-1739356200,Naft Bandar Abbas,Shahrdari Noshahr,0,0,AET,0,1,0
-1739361600,Sepahan,Persepolis,2,2,AET,3,2,0
-1739446200,Mes Rafsanjan,Nassaji Mazandaran,0,1,,,,0
-1739448000,Shams Azar Qazvin,Esteghlal F.C.,1,1,AET,1,2,0
-1739448000,Paykan,Foolad,2,2,AET,3,2,0
-1739449800,Sanat Naft,Besat Kermanshah,2,0,,,,0
-1739532600,Malavan,Zob Ahan,0,0,AET,1,0,0
-1739532600,Gol Gohar,Kheybar Khorramabad,0,0,Pen,1,0,0
-1745591400,Nassaji Mazandaran,Gol Gohar,1,3,,,,0
-1745672400,Malavan,Sepahan,0,0,Pen,1,0,0
-1745677800,Esteghlal F.C.,Paykan,1,0,,,,0
-1745683200,Sanat Naft,Shahrdari Noshahr,1,0,,,,0
-1748016000,Gol Gohar,Malavan,0,1,,,,0
-1748103300,Esteghlal F.C.,Sanat Naft,2,0,,,,0
-1748535300,Esteghlal F.C.,Malavan,0,0,AET,1,0,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1732193100,Persepolis,Mes Soongoun,Oli0orYQ,CbiH5qe6,3,0,,,,0
+1732275000,Tractor,Gol Gohar,YLLRGqLF,C4xHnkgm,1,2,,,,0
+1732279500,Fard,Kheybar Khorramabad,vcyiozFl,U1EpdSBC,0,1,,,,0
+1732284000,Shenavarsazi Qeshm,Mes Rafsanjan,xSwJHDL1,ptFFGDID,0,1,,,,0
+1732284900,Pars Janoobi Jam,Sepahan,zuNMbFy3,bTzLAEkQ,0,2,,,,0
+1732360500,Besat Kermanshah,Shahrdari Abbas,rmciwEe5,E3PTRPB3,0,0,AET,1,0,0
+1732365900,Shams Azar Qazvin,Shahin Tehran,QXHjUEhh,tAiPdGwa,2,1,,,,0
+1732367700,Esteghlal Khuzestan,Paykan,dKYCxVEK,O0JEb7ZB,0,1,,,,0
+1732374000,Sanat Naft,Aluminium Arak,21HUsCsM,Ag1cN3MS,1,0,,,,0
+1732452300,Zob Ahan,Havadar SC,WCTWdLSD,r35h4bos,0,0,AET,1,0,0
+1732452300,Nassaji Mazandaran,Mes Shahr Babak,pnfsJZrF,WnCoxpTP,1,0,,,,0
+1732452300,Chadormalu,Malavan,2eYJcfcq,EJBKv3VB,2,2,Pen,2,3,0
+1732456800,Naft Bandar Abbas,Yasa,tbDBhVur,lWjVHW0m,0,0,AET,2,0,0
+1732457700,Foolad,Foolad Hormozgan,0YznNYwc,fXXdWlaL,1,1,Pen,2,1,0
+1732529400,Shahrdari Noshahr,Astara,fBIlQ73B,0AIlvV8b,3,0,,,,0
+1734007500,Esteghlal F.C.,Mes Kerman,Sdd6AGnq,l4dyMVd3,1,0,,,,0
+1739356200,Naft Bandar Abbas,Shahrdari Noshahr,tbDBhVur,fBIlQ73B,0,0,AET,0,1,0
+1739361600,Sepahan,Persepolis,bTzLAEkQ,Oli0orYQ,2,2,AET,3,2,0
+1739446200,Mes Rafsanjan,Nassaji Mazandaran,ptFFGDID,pnfsJZrF,0,1,,,,0
+1739448000,Shams Azar Qazvin,Esteghlal F.C.,QXHjUEhh,Sdd6AGnq,1,1,AET,1,2,0
+1739448000,Paykan,Foolad,O0JEb7ZB,0YznNYwc,2,2,AET,3,2,0
+1739449800,Sanat Naft,Besat Kermanshah,21HUsCsM,rmciwEe5,2,0,,,,0
+1739532600,Malavan,Zob Ahan,EJBKv3VB,WCTWdLSD,0,0,AET,1,0,0
+1739532600,Gol Gohar,Kheybar Khorramabad,C4xHnkgm,U1EpdSBC,0,0,Pen,1,0,0
+1745591400,Nassaji Mazandaran,Gol Gohar,pnfsJZrF,C4xHnkgm,1,3,,,,0
+1745672400,Malavan,Sepahan,EJBKv3VB,bTzLAEkQ,0,0,Pen,1,0,0
+1745677800,Esteghlal F.C.,Paykan,Sdd6AGnq,O0JEb7ZB,1,0,,,,0
+1745683200,Sanat Naft,Shahrdari Noshahr,21HUsCsM,fBIlQ73B,1,0,,,,0
+1748016000,Gol Gohar,Malavan,C4xHnkgm,EJBKv3VB,0,1,,,,0
+1748103300,Esteghlal F.C.,Sanat Naft,Sdd6AGnq,21HUsCsM,2,0,,,,0
+1748535300,Esteghlal F.C.,Malavan,Sdd6AGnq,EJBKv3VB,0,0,AET,1,0,1

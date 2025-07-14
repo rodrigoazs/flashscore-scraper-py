@@ -1,53 +1,53 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1314111600,SK Senec,Myjava,2,2,Pen,2,3,0
-1314111600,Poprad,Rakytovce,1,0,,,,0
-1314111600,Podbrezova,Moldava,0,0,Pen,1,0,0
-1314111600,L. Mikulas,Michalovce,0,1,,,,0
-1314111600,Kremnicka,Rimavska Sobota,1,0,,,,0
-1314111600,Kalinkovo,Moravany,0,4,,,,0
-1314111600,FKM Nove Zamky,Samorin,0,3,,,,0
-1314111600,Dubnica,Vrbove,1,2,,,,0
-1314111600,D. Kubin,Lubovna,7,0,,,,0
-1314111600,Bardejov,Lucenec,1,1,Pen,1,2,0
-1314111600,AFC Nove Mesto,Dolna Zdana,0,2,,,,0
-1314198000,Spisska Nova Ves,Lok. Kosice,1,1,Pen,2,1,0
-1314198000,Pezinok,Sala,1,0,,,,0
-1314198000,Petrzalka,Sered,5,0,,,,0
-1314198000,MFK Topolcany,Puchov,0,1,,,,0
-1314198000,D. Luzna,Povazska Bystrica,2,3,,,,0
-1315924200,Zvolen,Poprad,1,2,,,,0
-1315924200,VSS Kosice,D. Kubin,4,1,,,,0
-1315924200,Spisska Nova Ves,Zilina,0,5,,,,0
-1315924200,Puchov,Trnava,0,3,,,,0
-1315924200,Presov,Podbrezova,2,0,,,,0
-1315924200,Moravany,Z. Moravce-Vrable,1,4,,,,0
-1315924200,Michalovce,Banska Bystrica,1,1,Pen,1,2,0
-1315924200,Dolna Zdana,Ruzomberok,2,2,Pen,3,2,0
-1316010600,Povazska Bystrica,Senica,1,2,,,,0
-1316010600,Petrzalka,Trencin,0,3,,,,0
-1316010600,Nemsova,Samorin,2,0,,,,0
-1316010600,Lucenec,Kremnicka,4,0,,,,0
-1316010600,Dun. Streda,Myjava,0,1,,,,0
-1316529000,Vrbove,Nitra,0,3,,,,0
-1316615400,Pezinok,Slovan Bratislava,0,1,,,,0
-1317130200,Poprad,Zilina,0,0,Pen,0,1,0
-1317132000,VSS Kosice,Nitra,2,1,,,,0
-1317132000,Ruzina,Senica,0,3,,,,0
-1317132000,Dolna Zdana,Banska Bystrica,0,2,,,,0
-1317137400,Z. Moravce-Vrable,Myjava,3,0,,,,0
-1317218400,Presov,Lucenec,4,0,,,,0
-1317821400,Nemsova,Trnava,0,2,,,,0
-1318944600,VSS Kosice,Z. Moravce-Vrable,2,2,,,,0
-1318951800,Zilina,Presov,2,1,,,,0
-1318951800,Trnava,Banska Bystrica,1,2,,,,0
-1319551200,Z. Moravce-Vrable,VSS Kosice,1,0,,,,0
-1319643000,Trencin,Slovan Bratislava,1,1,Pen,1,2,0
-1320152400,Presov,Zilina,2,1,Pen,2,2,0
-1320163200,Banska Bystrica,Trnava,1,1,,,,0
-1331137800,Senica,Slovan Bratislava,2,0,,,,0
-1332347400,Slovan Bratislava,Senica,2,0,Pen,2,1,0
-1334676600,Zilina,Banska Bystrica,1,0,,,,0
-1334676600,Z. Moravce-Vrable,Senica,1,1,,,,0
-1335281400,Senica,Z. Moravce-Vrable,3,0,,,,0
-1335281400,Banska Bystrica,Zilina,0,0,,,,0
-1336473000,Senica,Zilina,2,2,AET,2,3,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1314111600,SK Senec,Myjava,Y7SXb0Br,dAJb3Ws0,2,2,Pen,2,3,0
+1314111600,Poprad,Rakytovce,rekk9DXt,Kz1kxzzL,1,0,,,,0
+1314111600,Podbrezova,Moldava,G6ERMxTE,dAJb3Ws0,0,0,Pen,1,0,0
+1314111600,L. Mikulas,Michalovce,WUfDDYk1,feESJUJQ,0,1,,,,0
+1314111600,Kremnicka,Rimavska Sobota,2yjk7j71,G6ERMxTE,1,0,,,,0
+1314111600,Kalinkovo,Moravany,EyNhKkid,bPrs4Qfh,0,4,,,,0
+1314111600,FKM Nove Zamky,Samorin,G4HIn8MR,xtVmNEr4,0,3,,,,0
+1314111600,Dubnica,Vrbove,rX83zKRm,KYqw56un,1,2,,,,0
+1314111600,D. Kubin,Lubovna,WUfDDYk1,SWESPnrA,7,0,,,,0
+1314111600,Bardejov,Lucenec,fgqxMRDg,WOB6DvQk,1,1,Pen,1,2,0
+1314111600,AFC Nove Mesto,Dolna Zdana,Molg8Xnm,Molg8Xnm,0,2,,,,0
+1314198000,Spisska Nova Ves,Lok. Kosice,Sb5FILYk,hGgFVrJ0,1,1,Pen,2,1,0
+1314198000,Pezinok,Sala,bPrs4Qfh,E9YhAqDo,1,0,,,,0
+1314198000,Petrzalka,Sered,xGFNNID8,pl5bIxys,5,0,,,,0
+1314198000,MFK Topolcany,Puchov,WM8exufq,j7FwfQYj,0,1,,,,0
+1314198000,D. Luzna,Povazska Bystrica,Molg8Xnm,YRODgXx2,2,3,,,,0
+1315924200,Zvolen,Poprad,SjJKK6Ac,rekk9DXt,1,2,,,,0
+1315924200,VSS Kosice,D. Kubin,AsRGXczr,WUfDDYk1,4,1,,,,0
+1315924200,Spisska Nova Ves,Zilina,Sb5FILYk,xGFNNID8,0,5,,,,0
+1315924200,Puchov,Trnava,j7FwfQYj,M5OsNcYB,0,3,,,,0
+1315924200,Presov,Podbrezova,E3yWsMR6,G6ERMxTE,2,0,,,,0
+1315924200,Moravany,Z. Moravce-Vrable,bPrs4Qfh,G6ERMxTE,1,4,,,,0
+1315924200,Michalovce,Banska Bystrica,feESJUJQ,juego3yl,1,1,Pen,1,2,0
+1315924200,Dolna Zdana,Ruzomberok,Molg8Xnm,xGFNNID8,2,2,Pen,3,2,0
+1316010600,Povazska Bystrica,Senica,YRODgXx2,G6ERMxTE,1,2,,,,0
+1316010600,Petrzalka,Trencin,xGFNNID8,pj0lIqgn,0,3,,,,0
+1316010600,Nemsova,Samorin,2yjk7j71,xtVmNEr4,2,0,,,,0
+1316010600,Lucenec,Kremnicka,WOB6DvQk,2yjk7j71,4,0,,,,0
+1316010600,Dun. Streda,Myjava,IoNBgY5L,dAJb3Ws0,0,1,,,,0
+1316529000,Vrbove,Nitra,KYqw56un,G6ERMxTE,0,3,,,,0
+1316615400,Pezinok,Slovan Bratislava,bPrs4Qfh,pEAU6ugI,0,1,,,,0
+1317130200,Poprad,Zilina,rekk9DXt,xGFNNID8,0,0,Pen,0,1,0
+1317132000,VSS Kosice,Nitra,AsRGXczr,G6ERMxTE,2,1,,,,0
+1317132000,Ruzina,Senica,A9531xkR,G6ERMxTE,0,3,,,,0
+1317132000,Dolna Zdana,Banska Bystrica,Molg8Xnm,juego3yl,0,2,,,,0
+1317137400,Z. Moravce-Vrable,Myjava,G6ERMxTE,dAJb3Ws0,3,0,,,,0
+1317218400,Presov,Lucenec,E3yWsMR6,WOB6DvQk,4,0,,,,0
+1317821400,Nemsova,Trnava,2yjk7j71,M5OsNcYB,0,2,,,,0
+1318944600,VSS Kosice,Z. Moravce-Vrable,AsRGXczr,G6ERMxTE,2,2,,,,0
+1318951800,Zilina,Presov,xGFNNID8,E3yWsMR6,2,1,,,,0
+1318951800,Trnava,Banska Bystrica,M5OsNcYB,juego3yl,1,2,,,,0
+1319551200,Z. Moravce-Vrable,VSS Kosice,G6ERMxTE,AsRGXczr,1,0,,,,0
+1319643000,Trencin,Slovan Bratislava,pj0lIqgn,pEAU6ugI,1,1,Pen,1,2,0
+1320152400,Presov,Zilina,E3yWsMR6,xGFNNID8,2,1,Pen,2,2,0
+1320163200,Banska Bystrica,Trnava,juego3yl,M5OsNcYB,1,1,,,,0
+1331137800,Senica,Slovan Bratislava,G6ERMxTE,pEAU6ugI,2,0,,,,0
+1332347400,Slovan Bratislava,Senica,pEAU6ugI,G6ERMxTE,2,0,Pen,2,1,0
+1334676600,Zilina,Banska Bystrica,xGFNNID8,juego3yl,1,0,,,,0
+1334676600,Z. Moravce-Vrable,Senica,G6ERMxTE,G6ERMxTE,1,1,,,,0
+1335281400,Senica,Z. Moravce-Vrable,G6ERMxTE,G6ERMxTE,3,0,,,,0
+1335281400,Banska Bystrica,Zilina,juego3yl,xGFNNID8,0,0,,,,0
+1336473000,Senica,Zilina,G6ERMxTE,xGFNNID8,2,2,AET,2,3,0

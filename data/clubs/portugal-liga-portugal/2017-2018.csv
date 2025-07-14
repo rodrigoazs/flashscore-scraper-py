@@ -1,307 +1,307 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1502038800,Aves,Sporting CP,0,2,,,,0
-1502046900,Vitoria Setubal,Moreirense,1,1,,,,0
-1502121600,Portimonense,Boavista,2,1,,,,0
-1502128800,Feirense,Tondela,1,1,,,,0
-1502136000,Rio Ave,BSAD,1,0,,,,0
-1502204400,Maritimo,Pacos Ferreira,1,0,,,,0
-1502301600,FC Porto,Estoril,4,0,,,,0
-1502308800,Benfica,Braga,3,1,,,,0
-1502395200,Vitoria Guimaraes,Chaves,3,2,,,,0
-1502479800,Sporting CP,Vitoria Setubal,1,0,,,,0
-1502550000,Moreirense,Feirense,0,0,,,,0
-1502558100,BSAD,Maritimo,1,0,,,,0
-1502566200,Boavista,Rio Ave,1,2,,,,0
-1502636400,Pacos Ferreira,Aves,2,2,,,,0
-1502643600,Braga,Portimonense,2,1,,,,0
-1502651700,Tondela,FC Porto,0,1,,,,0
-1502733600,Estoril,Vitoria Guimaraes,3,0,,,,0
-1502740800,Chaves,Benfica,0,1,,,,0
-1503084600,Rio Ave,Portimonense,2,0,,,,0
-1503154800,Tondela,Estoril,2,3,,,,0
-1503162900,Vitoria Guimaraes,Sporting CP,0,5,,,,0
-1503171000,Benfica,BSAD,5,0,,,,0
-1503241200,Vitoria Setubal,Chaves,1,1,,,,0
-1503248400,FC Porto,Moreirense,3,0,,,,0
-1503255600,Aves,Braga,0,2,,,,0
-1503256500,Maritimo,Boavista,1,0,,,,0
-1503342000,Feirense,Pacos Ferreira,2,1,,,,0
-1503689400,BSAD,Vitoria Setubal,1,1,,,,0
-1503759600,Pacos Ferreira,Vitoria Guimaraes,0,0,,,,0
-1503759600,Moreirense,Tondela,0,3,,,,0
-1503767700,Chaves,Feirense,0,2,,,,0
-1503775800,Rio Ave,Benfica,1,1,,,,0
-1503846000,Boavista,Aves,1,0,,,,0
-1503853200,Sporting CP,Estoril,2,1,,,,0
-1503861300,Braga,FC Porto,0,1,,,,0
-1503946800,Portimonense,Maritimo,1,2,,,,0
-1504893600,Feirense,Sporting CP,2,3,,,,0
-1504900800,Benfica,Portimonense,2,1,,,,0
-1504969200,Tondela,Pacos Ferreira,2,2,,,,0
-1504977300,Maritimo,Rio Ave,1,0,,,,0
-1504985400,FC Porto,Chaves,3,0,,,,0
-1505055600,Vitoria Setubal,Braga,2,0,,,,0
-1505062800,Vitoria Guimaraes,Boavista,1,0,,,,0
-1505070900,Estoril,Moreirense,0,2,,,,0
-1505156400,Aves,BSAD,2,1,,,,0
-1505503800,Pacos Ferreira,Vitoria Setubal,1,0,,,,0
-1505574000,Maritimo,Aves,2,1,,,,0
-1505582100,Boavista,Benfica,2,1,,,,0
-1505590200,Sporting CP,Tondela,2,0,,,,0
-1505660400,BSAD,Estoril,2,1,,,,0
-1505667600,Rio Ave,FC Porto,1,2,,,,0
-1505675700,Braga,Vitoria Guimaraes,2,1,,,,0
-1505757600,Portimonense,Feirense,2,1,,,,0
-1505764800,Chaves,Moreirense,3,0,,,,0
-1506108600,FC Porto,Portimonense,5,2,,,,0
-1506178800,Estoril,Chaves,0,2,,,,0
-1506186900,Moreirense,Sporting CP,1,1,,,,0
-1506195000,Benfica,Pacos Ferreira,2,0,,,,0
-1506265200,Vitoria Guimaraes,Maritimo,2,1,,,,0
-1506265200,Feirense,BSAD,1,4,,,,0
-1506272400,Tondela,Braga,1,2,,,,0
-1506280500,Aves,Rio Ave,0,0,,,,0
-1506366000,Vitoria Setubal,Boavista,1,1,,,,0
-1506713400,Chaves,Tondela,1,1,,,,0
-1506783600,Portimonense,Aves,2,2,,,,0
-1506783600,Pacos Ferreira,Moreirense,3,2,,,,0
-1506791700,Boavista,Feirense,1,0,,,,0
-1506799800,Rio Ave,Vitoria Setubal,2,1,,,,0
-1506874500,Braga,Estoril,6,0,,,,0
-1506881700,Sporting CP,FC Porto,0,0,,,,0
-1506889800,Maritimo,Benfica,1,1,,,,0
-1506889800,BSAD,Vitoria Guimaraes,1,0,,,,0
-1508527800,Estoril,Boavista,0,3,,,,0
-1508598000,Feirense,Rio Ave,1,0,,,,0
-1508606100,Vitoria Setubal,Maritimo,3,1,,,,0
-1508614200,FC Porto,Pacos Ferreira,6,1,,,,0
-1508684400,Tondela,BSAD,2,0,,,,0
-1508691600,Aves,Benfica,1,3,,,,0
-1508699700,Sporting CP,Chaves,5,1,,,,0
-1508781600,Moreirense,Braga,0,1,,,,0
-1508788800,Vitoria Guimaraes,Portimonense,3,3,,,,0
-1509127200,Benfica,Feirense,1,0,,,,0
-1509134400,Rio Ave,Sporting CP,0,1,,,,0
-1509202800,Maritimo,Tondela,2,0,,,,0
-1509210900,BSAD,Moreirense,3,0,,,,0
-1509219000,Boavista,FC Porto,0,3,,,,0
-1509292800,Braga,Chaves,1,0,,,,0
-1509300000,Pacos Ferreira,Estoril,1,0,,,,0
-1509308100,Aves,Vitoria Guimaraes,1,3,,,,0
-1509393600,Portimonense,Vitoria Setubal,5,2,,,,0
-1509741000,Vitoria Setubal,Aves,0,1,,,,0
-1509811200,Tondela,Boavista,3,2,,,,0
-1509811200,Moreirense,Portimonense,1,1,,,,0
-1509819300,Estoril,Rio Ave,0,2,,,,0
-1509827400,FC Porto,BSAD,2,0,,,,0
-1509897600,Feirense,Maritimo,0,1,,,,0
-1509897600,Chaves,Pacos Ferreira,4,2,,,,0
-1509904800,Vitoria Guimaraes,Benfica,1,3,,,,0
-1509912900,Sporting CP,Braga,2,2,,,,0
-1511555400,BSAD,Chaves,0,1,,,,0
-1511625600,Portimonense,Tondela,2,0,,,,0
-1511633700,Boavista,Moreirense,1,0,,,,0
-1511641800,Aves,FC Porto,1,1,,,,0
-1511712000,Maritimo,Estoril,0,0,,,,0
-1511719200,Pacos Ferreira,Sporting CP,1,2,,,,0
-1511727300,Benfica,Vitoria Setubal,6,0,,,,0
-1511809200,Braga,Feirense,3,1,,,,0
-1511816400,Rio Ave,Vitoria Guimaraes,0,1,,,,0
-1512152100,Sporting CP,BSAD,1,0,,,,0
-1512160200,FC Porto,Benfica,0,0,,,,0
-1512230400,Moreirense,Maritimo,1,1,,,,0
-1512238500,Tondela,Rio Ave,1,3,,,,0
-1512246600,Chaves,Boavista,0,0,,,,0
-1512316800,Feirense,Aves,0,1,,,,0
-1512324000,Braga,Pacos Ferreira,3,0,,,,0
-1512332100,Vitoria Setubal,Vitoria Guimaraes,1,2,,,,0
-1512417600,Estoril,Portimonense,0,0,,,,0
-1512765000,Rio Ave,Moreirense,2,1,,,,0
-1512835200,Aves,Tondela,0,1,,,,0
-1512843300,Benfica,Estoril,3,1,,,,0
-1512851400,Boavista,Sporting CP,1,3,,,,0
-1512921600,Portimonense,Chaves,0,1,,,,0
-1512928800,BSAD,Pacos Ferreira,1,1,,,,0
-1512936900,Vitoria Setubal,FC Porto,0,5,,,,0
-1513018800,Vitoria Guimaraes,Feirense,1,0,,,,0
-1513026000,Maritimo,Braga,1,0,,,,0
-1513369800,Pacos Ferreira,Boavista,1,2,,,,0
-1513448100,Estoril,Aves,3,2,,,,0
-1513456200,Braga,BSAD,4,0,,,,0
-1513526400,Feirense,Vitoria Setubal,1,0,,,,0
-1513526400,Chaves,Rio Ave,1,1,,,,0
-1513533600,Sporting CP,Portimonense,2,0,,,,0
-1513541700,Tondela,Benfica,1,5,,,,0
-1513623600,Moreirense,Vitoria Guimaraes,2,1,,,,0
-1513630800,FC Porto,Maritimo,3,1,,,,0
-1514052900,Vitoria Guimaraes,Tondela,0,1,,,,0
-1515003300,Maritimo,Chaves,1,2,,,,0
-1515003300,Boavista,Braga,1,3,,,,0
-1515003300,Aves,Moreirense,1,2,,,,0
-1515010500,Rio Ave,Pacos Ferreira,4,2,,,,0
-1515010500,Feirense,FC Porto,1,2,,,,0
-1515015000,Benfica,Sporting CP,1,1,,,,0
-1515089700,Vitoria Setubal,Estoril,2,2,,,,0
-1515096900,Portimonense,BSAD,0,0,,,,0
-1515270600,Braga,Rio Ave,2,1,,,,0
-1515325500,Chaves,Aves,1,1,,,,0
-1515340800,Moreirense,Benfica,0,2,,,,0
-1515348000,Sporting CP,Maritimo,5,0,,,,0
-1515356100,FC Porto,Vitoria Guimaraes,4,2,,,,0
-1515438000,Pacos Ferreira,Portimonense,1,1,,,,0
-1515445200,Estoril,Feirense,0,2,,,,0
-1515524400,Tondela,Vitoria Setubal,1,1,,,,0
-1515531600,BSAD,Boavista,1,1,,,,0
-1515789000,Chaves,Vitoria Guimaraes,4,3,,,,0
-1515867300,Pacos Ferreira,Maritimo,0,0,,,,0
-1515875400,Braga,Benfica,1,3,,,,0
-1515945600,Tondela,Feirense,3,1,,,,0
-1515945600,Boavista,Portimonense,2,0,,,,0
-1515952800,BSAD,Rio Ave,1,2,,,,0
-1515960900,Sporting CP,Aves,3,0,,,,0
-1516042800,Moreirense,Vitoria Setubal,2,2,,,,0
-1516388400,Vitoria Setubal,Sporting CP,1,1,,,,0
-1516395600,FC Porto,Tondela,1,0,,,,0
-1516464000,Maritimo,BSAD,0,0,,,,0
-1516472100,Benfica,Chaves,3,0,,,,0
-1516480200,Portimonense,Braga,1,2,,,,0
-1516550400,Feirense,Moreirense,1,0,,,,0
-1516550400,Aves,Pacos Ferreira,0,2,,,,0
-1516557600,Rio Ave,Boavista,2,0,,,,0
-1516565700,Vitoria Guimaraes,Estoril,3,1,,,,0
-1517252400,Portimonense,Rio Ave,4,1,,,,0
-1517252400,Pacos Ferreira,Feirense,2,1,,,,0
-1517259600,BSAD,Benfica,1,1,,,,0
-1517338800,Estoril,Tondela,3,0,,,,0
-1517338800,Braga,Aves,2,0,,,,0
-1517346000,Moreirense,FC Porto,0,0,,,,0
-1517425200,Chaves,Vitoria Setubal,2,2,,,,0
-1517425200,Boavista,Maritimo,2,1,,,,0
-1517432400,Sporting CP,Vitoria Guimaraes,1,0,,,,0
-1517681700,Benfica,Rio Ave,5,1,,,,0
-1517689800,FC Porto,Braga,3,1,,,,0
-1517760000,Tondela,Moreirense,1,2,,,,0
-1517760000,Feirense,Chaves,1,2,,,,0
-1517767200,Estoril,Sporting CP,2,0,,,,0
-1517775300,Vitoria Guimaraes,Pacos Ferreira,3,2,,,,0
-1517857200,Maritimo,Portimonense,0,3,,,,0
-1517864400,Vitoria Setubal,BSAD,3,0,,,,0
-1517947200,Aves,Boavista,3,0,,,,0
-1518208200,Pacos Ferreira,Tondela,0,2,,,,0
-1518278400,Rio Ave,Maritimo,3,0,,,,0
-1518286500,Braga,Vitoria Setubal,3,1,,,,0
-1518294600,Portimonense,Benfica,1,3,,,,0
-1518364800,Chaves,FC Porto,0,4,,,,0
-1518364800,BSAD,Aves,2,5,,,,0
-1518372000,Sporting CP,Feirense,2,0,,,,0
-1518380100,Boavista,Vitoria Guimaraes,1,0,,,,0
-1518465600,Moreirense,Estoril,1,2,,,,0
-1518813000,Feirense,Portimonense,1,3,,,,0
-1518883200,Aves,Maritimo,0,0,,,,0
-1518891300,Benfica,Boavista,4,0,,,,0
-1518899400,Estoril,BSAD,0,2,,,,0
-1518969600,Vitoria Setubal,Pacos Ferreira,1,0,,,,0
-1518969600,Moreirense,Chaves,0,1,,,,0
-1518976800,FC Porto,Rio Ave,5,0,,,,0
-1518984900,Vitoria Guimaraes,Braga,0,5,,,,0
-1519070400,Tondela,Sporting CP,1,2,,,,0
-1519236000,Estoril,FC Porto,1,3,,,,0
-1519417800,Rio Ave,Aves,0,0,,,,0
-1519488000,BSAD,Feirense,1,0,,,,0
-1519496100,Maritimo,Vitoria Guimaraes,3,2,,,,0
-1519504200,Pacos Ferreira,Benfica,1,3,,,,0
-1519574400,Chaves,Estoril,2,0,,,,0
-1519581600,Boavista,Vitoria Setubal,4,0,,,,0
-1519589700,Portimonense,FC Porto,1,5,,,,0
-1519671600,Braga,Tondela,1,0,,,,0
-1519678800,Sporting CP,Moreirense,1,0,,,,0
-1520022600,FC Porto,Sporting CP,2,1,,,,0
-1520092800,Feirense,Boavista,3,0,,,,0
-1520100900,Benfica,Maritimo,5,0,,,,0
-1520109000,Estoril,Braga,0,6,,,,0
-1520163900,Tondela,Chaves,2,0,,,,0
-1520179200,Moreirense,Pacos Ferreira,2,0,,,,0
-1520186400,Vitoria Setubal,Rio Ave,1,0,,,,0
-1520194500,Vitoria Guimaraes,BSAD,0,0,,,,0
-1520280000,Aves,Portimonense,3,0,,,,0
-1520627400,Braga,Moreirense,3,0,,,,0
-1520697600,Rio Ave,Feirense,2,1,,,,0
-1520705700,Benfica,Aves,2,0,,,,0
-1520713800,Boavista,Estoril,1,0,,,,0
-1520768700,Portimonense,Vitoria Guimaraes,2,1,,,,0
-1520784000,Maritimo,Vitoria Setubal,4,2,,,,0
-1520791200,BSAD,Tondela,0,0,,,,0
-1520799300,Pacos Ferreira,FC Porto,1,0,,,,0
-1520881200,Chaves,Sporting CP,1,2,,,,0
-1521232200,Vitoria Setubal,Portimonense,1,1,,,,0
-1521302400,Tondela,Maritimo,1,2,,,,0
-1521302400,Estoril,Pacos Ferreira,1,1,,,,0
-1521310500,Feirense,Benfica,0,2,,,,0
-1521318600,FC Porto,Boavista,2,0,,,,0
-1521388800,Vitoria Guimaraes,Aves,2,1,,,,0
-1521388800,Moreirense,BSAD,2,1,,,,0
-1521396000,Chaves,Braga,1,4,,,,0
-1521404100,Sporting CP,Rio Ave,2,0,,,,0
-1522350000,Aves,Vitoria Setubal,1,4,,,,0
-1522422000,Maritimo,Feirense,4,1,,,,0
-1522430100,Rio Ave,Estoril,2,0,,,,0
-1522438200,Boavista,Tondela,1,1,,,,0
-1522508400,Portimonense,Moreirense,4,3,,,,0
-1522508400,Pacos Ferreira,Chaves,2,0,,,,0
-1522516500,Benfica,Vitoria Guimaraes,2,0,,,,0
-1522524600,Braga,Sporting CP,1,0,,,,0
-1522695600,BSAD,FC Porto,2,0,,,,0
-1523043000,Vitoria Guimaraes,Rio Ave,3,0,,,,0
-1523113200,Tondela,Portimonense,2,2,,,,0
-1523113200,Estoril,Maritimo,1,1,,,,0
-1523121300,Feirense,Braga,2,2,,,,0
-1523129400,Vitoria Setubal,Benfica,1,2,,,,0
-1523199600,Chaves,BSAD,1,1,,,,0
-1523206800,FC Porto,Aves,2,0,,,,0
-1523214900,Sporting CP,Pacos Ferreira,2,0,,,,0
-1523300400,Moreirense,Boavista,1,0,,,,0
-1523647800,Pacos Ferreira,Braga,1,5,,,,0
-1523718000,Portimonense,Estoril,0,1,,,,0
-1523718000,Aves,Feirense,1,0,,,,0
-1523726100,Boavista,Chaves,3,3,,,,0
-1523734200,Vitoria Guimaraes,Vitoria Setubal,1,1,,,,0
-1523804400,Maritimo,Moreirense,1,1,,,,0
-1523811600,Benfica,FC Porto,0,1,,,,0
-1523819700,BSAD,Sporting CP,3,4,,,,0
-1523905200,Rio Ave,Tondela,1,1,,,,0
-1524252600,Braga,Maritimo,2,0,,,,0
-1524322800,Pacos Ferreira,BSAD,1,1,,,,0
-1524330900,Feirense,Vitoria Guimaraes,2,1,,,,0
-1524339000,Estoril,Benfica,1,2,,,,0
-1524409200,Tondela,Aves,3,0,,,,0
-1524409200,Chaves,Portimonense,2,1,,,,0
-1524416400,Moreirense,Rio Ave,2,1,,,,0
-1524424500,Sporting CP,Boavista,1,0,,,,0
-1524510000,FC Porto,Vitoria Setubal,5,1,,,,0
-1524857400,Vitoria Guimaraes,Moreirense,1,0,,,,0
-1524927600,Vitoria Setubal,Feirense,0,2,,,,0
-1524935700,Benfica,Tondela,2,3,,,,0
-1524943800,Portimonense,Sporting CP,1,2,,,,0
-1525014000,Rio Ave,Chaves,2,1,,,,0
-1525014000,Boavista,Pacos Ferreira,1,0,,,,0
-1525021200,Maritimo,FC Porto,0,1,,,,0
-1525029300,BSAD,Braga,0,1,,,,0
-1525114800,Aves,Estoril,1,0,,,,0
-1525462200,Braga,Boavista,1,1,,,,0
-1525532400,BSAD,Portimonense,3,2,,,,0
-1525540500,Tondela,Vitoria Guimaraes,1,4,,,,0
-1525548600,Sporting CP,Benfica,0,0,,,,0
-1525618800,Moreirense,Aves,0,3,,,,0
-1525618800,Estoril,Vitoria Setubal,2,1,,,,0
-1525626000,Chaves,Maritimo,4,1,,,,0
-1525634100,FC Porto,Feirense,2,1,,,,0
-1525719600,Pacos Ferreira,Rio Ave,0,0,,,,0
-1526067000,Aves,Chaves,2,3,,,,0
-1526137200,Vitoria Guimaraes,FC Porto,0,1,,,,0
-1526151600,Boavista,BSAD,1,0,,,,0
-1526230800,Vitoria Setubal,Tondela,1,0,,,,0
-1526230800,Rio Ave,Braga,1,0,,,,0
-1526230800,Portimonense,Pacos Ferreira,3,1,,,,0
-1526230800,Maritimo,Sporting CP,2,1,,,,0
-1526230800,Feirense,Estoril,0,0,,,,0
-1526230800,Benfica,Moreirense,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1502038800,Aves,Sporting CP,dxYsidUO,Ys9o4HYr,0,2,,,,0
+1502046900,Vitoria Setubal,Moreirense,8Ux0cWp6,xjC3FA5b,1,1,,,,0
+1502121600,Portimonense,Boavista,O6EGoZof,jaVfhwwq,2,1,,,,0
+1502128800,Feirense,Tondela,8GL0cHSF,tz55u9dQ,1,1,,,,0
+1502136000,Rio Ave,BSAD,pjxqSmk4,pjU2GA5c,1,0,,,,0
+1502204400,Maritimo,Pacos Ferreira,MyFeHWzn,8GL0cHSF,1,0,,,,0
+1502301600,FC Porto,Estoril,Kth3Rz1C,8GL0cHSF,4,0,,,,0
+1502308800,Benfica,Braga,GEKimEim,6JDIcK05,3,1,,,,0
+1502395200,Vitoria Guimaraes,Chaves,rDfht7Ta,2kigctW8,3,2,,,,0
+1502479800,Sporting CP,Vitoria Setubal,Ys9o4HYr,8Ux0cWp6,1,0,,,,0
+1502550000,Moreirense,Feirense,xjC3FA5b,8GL0cHSF,0,0,,,,0
+1502558100,BSAD,Maritimo,pjU2GA5c,MyFeHWzn,1,0,,,,0
+1502566200,Boavista,Rio Ave,jaVfhwwq,pjxqSmk4,1,2,,,,0
+1502636400,Pacos Ferreira,Aves,8GL0cHSF,dxYsidUO,2,2,,,,0
+1502643600,Braga,Portimonense,6JDIcK05,O6EGoZof,2,1,,,,0
+1502651700,Tondela,FC Porto,tz55u9dQ,Kth3Rz1C,0,1,,,,0
+1502733600,Estoril,Vitoria Guimaraes,8GL0cHSF,rDfht7Ta,3,0,,,,0
+1502740800,Chaves,Benfica,2kigctW8,GEKimEim,0,1,,,,0
+1503084600,Rio Ave,Portimonense,pjxqSmk4,O6EGoZof,2,0,,,,0
+1503154800,Tondela,Estoril,tz55u9dQ,8GL0cHSF,2,3,,,,0
+1503162900,Vitoria Guimaraes,Sporting CP,rDfht7Ta,Ys9o4HYr,0,5,,,,0
+1503171000,Benfica,BSAD,GEKimEim,pjU2GA5c,5,0,,,,0
+1503241200,Vitoria Setubal,Chaves,8Ux0cWp6,2kigctW8,1,1,,,,0
+1503248400,FC Porto,Moreirense,Kth3Rz1C,xjC3FA5b,3,0,,,,0
+1503255600,Aves,Braga,dxYsidUO,6JDIcK05,0,2,,,,0
+1503256500,Maritimo,Boavista,MyFeHWzn,jaVfhwwq,1,0,,,,0
+1503342000,Feirense,Pacos Ferreira,8GL0cHSF,8GL0cHSF,2,1,,,,0
+1503689400,BSAD,Vitoria Setubal,pjU2GA5c,8Ux0cWp6,1,1,,,,0
+1503759600,Pacos Ferreira,Vitoria Guimaraes,8GL0cHSF,rDfht7Ta,0,0,,,,0
+1503759600,Moreirense,Tondela,xjC3FA5b,tz55u9dQ,0,3,,,,0
+1503767700,Chaves,Feirense,2kigctW8,8GL0cHSF,0,2,,,,0
+1503775800,Rio Ave,Benfica,pjxqSmk4,GEKimEim,1,1,,,,0
+1503846000,Boavista,Aves,jaVfhwwq,dxYsidUO,1,0,,,,0
+1503853200,Sporting CP,Estoril,Ys9o4HYr,8GL0cHSF,2,1,,,,0
+1503861300,Braga,FC Porto,6JDIcK05,Kth3Rz1C,0,1,,,,0
+1503946800,Portimonense,Maritimo,O6EGoZof,MyFeHWzn,1,2,,,,0
+1504893600,Feirense,Sporting CP,8GL0cHSF,Ys9o4HYr,2,3,,,,0
+1504900800,Benfica,Portimonense,GEKimEim,O6EGoZof,2,1,,,,0
+1504969200,Tondela,Pacos Ferreira,tz55u9dQ,8GL0cHSF,2,2,,,,0
+1504977300,Maritimo,Rio Ave,MyFeHWzn,pjxqSmk4,1,0,,,,0
+1504985400,FC Porto,Chaves,Kth3Rz1C,2kigctW8,3,0,,,,0
+1505055600,Vitoria Setubal,Braga,8Ux0cWp6,6JDIcK05,2,0,,,,0
+1505062800,Vitoria Guimaraes,Boavista,rDfht7Ta,jaVfhwwq,1,0,,,,0
+1505070900,Estoril,Moreirense,8GL0cHSF,xjC3FA5b,0,2,,,,0
+1505156400,Aves,BSAD,dxYsidUO,pjU2GA5c,2,1,,,,0
+1505503800,Pacos Ferreira,Vitoria Setubal,8GL0cHSF,8Ux0cWp6,1,0,,,,0
+1505574000,Maritimo,Aves,MyFeHWzn,dxYsidUO,2,1,,,,0
+1505582100,Boavista,Benfica,jaVfhwwq,GEKimEim,2,1,,,,0
+1505590200,Sporting CP,Tondela,Ys9o4HYr,tz55u9dQ,2,0,,,,0
+1505660400,BSAD,Estoril,pjU2GA5c,8GL0cHSF,2,1,,,,0
+1505667600,Rio Ave,FC Porto,pjxqSmk4,Kth3Rz1C,1,2,,,,0
+1505675700,Braga,Vitoria Guimaraes,6JDIcK05,rDfht7Ta,2,1,,,,0
+1505757600,Portimonense,Feirense,O6EGoZof,8GL0cHSF,2,1,,,,0
+1505764800,Chaves,Moreirense,2kigctW8,xjC3FA5b,3,0,,,,0
+1506108600,FC Porto,Portimonense,Kth3Rz1C,O6EGoZof,5,2,,,,0
+1506178800,Estoril,Chaves,8GL0cHSF,2kigctW8,0,2,,,,0
+1506186900,Moreirense,Sporting CP,xjC3FA5b,Ys9o4HYr,1,1,,,,0
+1506195000,Benfica,Pacos Ferreira,GEKimEim,8GL0cHSF,2,0,,,,0
+1506265200,Vitoria Guimaraes,Maritimo,rDfht7Ta,MyFeHWzn,2,1,,,,0
+1506265200,Feirense,BSAD,8GL0cHSF,pjU2GA5c,1,4,,,,0
+1506272400,Tondela,Braga,tz55u9dQ,6JDIcK05,1,2,,,,0
+1506280500,Aves,Rio Ave,dxYsidUO,pjxqSmk4,0,0,,,,0
+1506366000,Vitoria Setubal,Boavista,8Ux0cWp6,jaVfhwwq,1,1,,,,0
+1506713400,Chaves,Tondela,2kigctW8,tz55u9dQ,1,1,,,,0
+1506783600,Portimonense,Aves,O6EGoZof,dxYsidUO,2,2,,,,0
+1506783600,Pacos Ferreira,Moreirense,8GL0cHSF,xjC3FA5b,3,2,,,,0
+1506791700,Boavista,Feirense,jaVfhwwq,8GL0cHSF,1,0,,,,0
+1506799800,Rio Ave,Vitoria Setubal,pjxqSmk4,8Ux0cWp6,2,1,,,,0
+1506874500,Braga,Estoril,6JDIcK05,8GL0cHSF,6,0,,,,0
+1506881700,Sporting CP,FC Porto,Ys9o4HYr,Kth3Rz1C,0,0,,,,0
+1506889800,Maritimo,Benfica,MyFeHWzn,GEKimEim,1,1,,,,0
+1506889800,BSAD,Vitoria Guimaraes,pjU2GA5c,rDfht7Ta,1,0,,,,0
+1508527800,Estoril,Boavista,8GL0cHSF,jaVfhwwq,0,3,,,,0
+1508598000,Feirense,Rio Ave,8GL0cHSF,pjxqSmk4,1,0,,,,0
+1508606100,Vitoria Setubal,Maritimo,8Ux0cWp6,MyFeHWzn,3,1,,,,0
+1508614200,FC Porto,Pacos Ferreira,Kth3Rz1C,8GL0cHSF,6,1,,,,0
+1508684400,Tondela,BSAD,tz55u9dQ,pjU2GA5c,2,0,,,,0
+1508691600,Aves,Benfica,dxYsidUO,GEKimEim,1,3,,,,0
+1508699700,Sporting CP,Chaves,Ys9o4HYr,2kigctW8,5,1,,,,0
+1508781600,Moreirense,Braga,xjC3FA5b,6JDIcK05,0,1,,,,0
+1508788800,Vitoria Guimaraes,Portimonense,rDfht7Ta,O6EGoZof,3,3,,,,0
+1509127200,Benfica,Feirense,GEKimEim,8GL0cHSF,1,0,,,,0
+1509134400,Rio Ave,Sporting CP,pjxqSmk4,Ys9o4HYr,0,1,,,,0
+1509202800,Maritimo,Tondela,MyFeHWzn,tz55u9dQ,2,0,,,,0
+1509210900,BSAD,Moreirense,pjU2GA5c,xjC3FA5b,3,0,,,,0
+1509219000,Boavista,FC Porto,jaVfhwwq,Kth3Rz1C,0,3,,,,0
+1509292800,Braga,Chaves,6JDIcK05,2kigctW8,1,0,,,,0
+1509300000,Pacos Ferreira,Estoril,8GL0cHSF,8GL0cHSF,1,0,,,,0
+1509308100,Aves,Vitoria Guimaraes,dxYsidUO,rDfht7Ta,1,3,,,,0
+1509393600,Portimonense,Vitoria Setubal,O6EGoZof,8Ux0cWp6,5,2,,,,0
+1509741000,Vitoria Setubal,Aves,8Ux0cWp6,dxYsidUO,0,1,,,,0
+1509811200,Tondela,Boavista,tz55u9dQ,jaVfhwwq,3,2,,,,0
+1509811200,Moreirense,Portimonense,xjC3FA5b,O6EGoZof,1,1,,,,0
+1509819300,Estoril,Rio Ave,8GL0cHSF,pjxqSmk4,0,2,,,,0
+1509827400,FC Porto,BSAD,Kth3Rz1C,pjU2GA5c,2,0,,,,0
+1509897600,Feirense,Maritimo,8GL0cHSF,MyFeHWzn,0,1,,,,0
+1509897600,Chaves,Pacos Ferreira,2kigctW8,8GL0cHSF,4,2,,,,0
+1509904800,Vitoria Guimaraes,Benfica,rDfht7Ta,GEKimEim,1,3,,,,0
+1509912900,Sporting CP,Braga,Ys9o4HYr,6JDIcK05,2,2,,,,0
+1511555400,BSAD,Chaves,pjU2GA5c,2kigctW8,0,1,,,,0
+1511625600,Portimonense,Tondela,O6EGoZof,tz55u9dQ,2,0,,,,0
+1511633700,Boavista,Moreirense,jaVfhwwq,xjC3FA5b,1,0,,,,0
+1511641800,Aves,FC Porto,dxYsidUO,Kth3Rz1C,1,1,,,,0
+1511712000,Maritimo,Estoril,MyFeHWzn,8GL0cHSF,0,0,,,,0
+1511719200,Pacos Ferreira,Sporting CP,8GL0cHSF,Ys9o4HYr,1,2,,,,0
+1511727300,Benfica,Vitoria Setubal,GEKimEim,8Ux0cWp6,6,0,,,,0
+1511809200,Braga,Feirense,6JDIcK05,8GL0cHSF,3,1,,,,0
+1511816400,Rio Ave,Vitoria Guimaraes,pjxqSmk4,rDfht7Ta,0,1,,,,0
+1512152100,Sporting CP,BSAD,Ys9o4HYr,pjU2GA5c,1,0,,,,0
+1512160200,FC Porto,Benfica,Kth3Rz1C,GEKimEim,0,0,,,,0
+1512230400,Moreirense,Maritimo,xjC3FA5b,MyFeHWzn,1,1,,,,0
+1512238500,Tondela,Rio Ave,tz55u9dQ,pjxqSmk4,1,3,,,,0
+1512246600,Chaves,Boavista,2kigctW8,jaVfhwwq,0,0,,,,0
+1512316800,Feirense,Aves,8GL0cHSF,dxYsidUO,0,1,,,,0
+1512324000,Braga,Pacos Ferreira,6JDIcK05,8GL0cHSF,3,0,,,,0
+1512332100,Vitoria Setubal,Vitoria Guimaraes,8Ux0cWp6,rDfht7Ta,1,2,,,,0
+1512417600,Estoril,Portimonense,8GL0cHSF,O6EGoZof,0,0,,,,0
+1512765000,Rio Ave,Moreirense,pjxqSmk4,xjC3FA5b,2,1,,,,0
+1512835200,Aves,Tondela,dxYsidUO,tz55u9dQ,0,1,,,,0
+1512843300,Benfica,Estoril,GEKimEim,8GL0cHSF,3,1,,,,0
+1512851400,Boavista,Sporting CP,jaVfhwwq,Ys9o4HYr,1,3,,,,0
+1512921600,Portimonense,Chaves,O6EGoZof,2kigctW8,0,1,,,,0
+1512928800,BSAD,Pacos Ferreira,pjU2GA5c,8GL0cHSF,1,1,,,,0
+1512936900,Vitoria Setubal,FC Porto,8Ux0cWp6,Kth3Rz1C,0,5,,,,0
+1513018800,Vitoria Guimaraes,Feirense,rDfht7Ta,8GL0cHSF,1,0,,,,0
+1513026000,Maritimo,Braga,MyFeHWzn,6JDIcK05,1,0,,,,0
+1513369800,Pacos Ferreira,Boavista,8GL0cHSF,jaVfhwwq,1,2,,,,0
+1513448100,Estoril,Aves,8GL0cHSF,dxYsidUO,3,2,,,,0
+1513456200,Braga,BSAD,6JDIcK05,pjU2GA5c,4,0,,,,0
+1513526400,Feirense,Vitoria Setubal,8GL0cHSF,8Ux0cWp6,1,0,,,,0
+1513526400,Chaves,Rio Ave,2kigctW8,pjxqSmk4,1,1,,,,0
+1513533600,Sporting CP,Portimonense,Ys9o4HYr,O6EGoZof,2,0,,,,0
+1513541700,Tondela,Benfica,tz55u9dQ,GEKimEim,1,5,,,,0
+1513623600,Moreirense,Vitoria Guimaraes,xjC3FA5b,rDfht7Ta,2,1,,,,0
+1513630800,FC Porto,Maritimo,Kth3Rz1C,MyFeHWzn,3,1,,,,0
+1514052900,Vitoria Guimaraes,Tondela,rDfht7Ta,tz55u9dQ,0,1,,,,0
+1515003300,Maritimo,Chaves,MyFeHWzn,2kigctW8,1,2,,,,0
+1515003300,Boavista,Braga,jaVfhwwq,6JDIcK05,1,3,,,,0
+1515003300,Aves,Moreirense,dxYsidUO,xjC3FA5b,1,2,,,,0
+1515010500,Rio Ave,Pacos Ferreira,pjxqSmk4,8GL0cHSF,4,2,,,,0
+1515010500,Feirense,FC Porto,8GL0cHSF,Kth3Rz1C,1,2,,,,0
+1515015000,Benfica,Sporting CP,GEKimEim,Ys9o4HYr,1,1,,,,0
+1515089700,Vitoria Setubal,Estoril,8Ux0cWp6,8GL0cHSF,2,2,,,,0
+1515096900,Portimonense,BSAD,O6EGoZof,pjU2GA5c,0,0,,,,0
+1515270600,Braga,Rio Ave,6JDIcK05,pjxqSmk4,2,1,,,,0
+1515325500,Chaves,Aves,2kigctW8,dxYsidUO,1,1,,,,0
+1515340800,Moreirense,Benfica,xjC3FA5b,GEKimEim,0,2,,,,0
+1515348000,Sporting CP,Maritimo,Ys9o4HYr,MyFeHWzn,5,0,,,,0
+1515356100,FC Porto,Vitoria Guimaraes,Kth3Rz1C,rDfht7Ta,4,2,,,,0
+1515438000,Pacos Ferreira,Portimonense,8GL0cHSF,O6EGoZof,1,1,,,,0
+1515445200,Estoril,Feirense,8GL0cHSF,8GL0cHSF,0,2,,,,0
+1515524400,Tondela,Vitoria Setubal,tz55u9dQ,8Ux0cWp6,1,1,,,,0
+1515531600,BSAD,Boavista,pjU2GA5c,jaVfhwwq,1,1,,,,0
+1515789000,Chaves,Vitoria Guimaraes,2kigctW8,rDfht7Ta,4,3,,,,0
+1515867300,Pacos Ferreira,Maritimo,8GL0cHSF,MyFeHWzn,0,0,,,,0
+1515875400,Braga,Benfica,6JDIcK05,GEKimEim,1,3,,,,0
+1515945600,Tondela,Feirense,tz55u9dQ,8GL0cHSF,3,1,,,,0
+1515945600,Boavista,Portimonense,jaVfhwwq,O6EGoZof,2,0,,,,0
+1515952800,BSAD,Rio Ave,pjU2GA5c,pjxqSmk4,1,2,,,,0
+1515960900,Sporting CP,Aves,Ys9o4HYr,dxYsidUO,3,0,,,,0
+1516042800,Moreirense,Vitoria Setubal,xjC3FA5b,8Ux0cWp6,2,2,,,,0
+1516388400,Vitoria Setubal,Sporting CP,8Ux0cWp6,Ys9o4HYr,1,1,,,,0
+1516395600,FC Porto,Tondela,Kth3Rz1C,tz55u9dQ,1,0,,,,0
+1516464000,Maritimo,BSAD,MyFeHWzn,pjU2GA5c,0,0,,,,0
+1516472100,Benfica,Chaves,GEKimEim,2kigctW8,3,0,,,,0
+1516480200,Portimonense,Braga,O6EGoZof,6JDIcK05,1,2,,,,0
+1516550400,Feirense,Moreirense,8GL0cHSF,xjC3FA5b,1,0,,,,0
+1516550400,Aves,Pacos Ferreira,dxYsidUO,8GL0cHSF,0,2,,,,0
+1516557600,Rio Ave,Boavista,pjxqSmk4,jaVfhwwq,2,0,,,,0
+1516565700,Vitoria Guimaraes,Estoril,rDfht7Ta,8GL0cHSF,3,1,,,,0
+1517252400,Portimonense,Rio Ave,O6EGoZof,pjxqSmk4,4,1,,,,0
+1517252400,Pacos Ferreira,Feirense,8GL0cHSF,8GL0cHSF,2,1,,,,0
+1517259600,BSAD,Benfica,pjU2GA5c,GEKimEim,1,1,,,,0
+1517338800,Estoril,Tondela,8GL0cHSF,tz55u9dQ,3,0,,,,0
+1517338800,Braga,Aves,6JDIcK05,dxYsidUO,2,0,,,,0
+1517346000,Moreirense,FC Porto,xjC3FA5b,Kth3Rz1C,0,0,,,,0
+1517425200,Chaves,Vitoria Setubal,2kigctW8,8Ux0cWp6,2,2,,,,0
+1517425200,Boavista,Maritimo,jaVfhwwq,MyFeHWzn,2,1,,,,0
+1517432400,Sporting CP,Vitoria Guimaraes,Ys9o4HYr,rDfht7Ta,1,0,,,,0
+1517681700,Benfica,Rio Ave,GEKimEim,pjxqSmk4,5,1,,,,0
+1517689800,FC Porto,Braga,Kth3Rz1C,6JDIcK05,3,1,,,,0
+1517760000,Tondela,Moreirense,tz55u9dQ,xjC3FA5b,1,2,,,,0
+1517760000,Feirense,Chaves,8GL0cHSF,2kigctW8,1,2,,,,0
+1517767200,Estoril,Sporting CP,8GL0cHSF,Ys9o4HYr,2,0,,,,0
+1517775300,Vitoria Guimaraes,Pacos Ferreira,rDfht7Ta,8GL0cHSF,3,2,,,,0
+1517857200,Maritimo,Portimonense,MyFeHWzn,O6EGoZof,0,3,,,,0
+1517864400,Vitoria Setubal,BSAD,8Ux0cWp6,pjU2GA5c,3,0,,,,0
+1517947200,Aves,Boavista,dxYsidUO,jaVfhwwq,3,0,,,,0
+1518208200,Pacos Ferreira,Tondela,8GL0cHSF,tz55u9dQ,0,2,,,,0
+1518278400,Rio Ave,Maritimo,pjxqSmk4,MyFeHWzn,3,0,,,,0
+1518286500,Braga,Vitoria Setubal,6JDIcK05,8Ux0cWp6,3,1,,,,0
+1518294600,Portimonense,Benfica,O6EGoZof,GEKimEim,1,3,,,,0
+1518364800,Chaves,FC Porto,2kigctW8,Kth3Rz1C,0,4,,,,0
+1518364800,BSAD,Aves,pjU2GA5c,dxYsidUO,2,5,,,,0
+1518372000,Sporting CP,Feirense,Ys9o4HYr,8GL0cHSF,2,0,,,,0
+1518380100,Boavista,Vitoria Guimaraes,jaVfhwwq,rDfht7Ta,1,0,,,,0
+1518465600,Moreirense,Estoril,xjC3FA5b,8GL0cHSF,1,2,,,,0
+1518813000,Feirense,Portimonense,8GL0cHSF,O6EGoZof,1,3,,,,0
+1518883200,Aves,Maritimo,dxYsidUO,MyFeHWzn,0,0,,,,0
+1518891300,Benfica,Boavista,GEKimEim,jaVfhwwq,4,0,,,,0
+1518899400,Estoril,BSAD,8GL0cHSF,pjU2GA5c,0,2,,,,0
+1518969600,Vitoria Setubal,Pacos Ferreira,8Ux0cWp6,8GL0cHSF,1,0,,,,0
+1518969600,Moreirense,Chaves,xjC3FA5b,2kigctW8,0,1,,,,0
+1518976800,FC Porto,Rio Ave,Kth3Rz1C,pjxqSmk4,5,0,,,,0
+1518984900,Vitoria Guimaraes,Braga,rDfht7Ta,6JDIcK05,0,5,,,,0
+1519070400,Tondela,Sporting CP,tz55u9dQ,Ys9o4HYr,1,2,,,,0
+1519236000,Estoril,FC Porto,8GL0cHSF,Kth3Rz1C,1,3,,,,0
+1519417800,Rio Ave,Aves,pjxqSmk4,dxYsidUO,0,0,,,,0
+1519488000,BSAD,Feirense,pjU2GA5c,8GL0cHSF,1,0,,,,0
+1519496100,Maritimo,Vitoria Guimaraes,MyFeHWzn,rDfht7Ta,3,2,,,,0
+1519504200,Pacos Ferreira,Benfica,8GL0cHSF,GEKimEim,1,3,,,,0
+1519574400,Chaves,Estoril,2kigctW8,8GL0cHSF,2,0,,,,0
+1519581600,Boavista,Vitoria Setubal,jaVfhwwq,8Ux0cWp6,4,0,,,,0
+1519589700,Portimonense,FC Porto,O6EGoZof,Kth3Rz1C,1,5,,,,0
+1519671600,Braga,Tondela,6JDIcK05,tz55u9dQ,1,0,,,,0
+1519678800,Sporting CP,Moreirense,Ys9o4HYr,xjC3FA5b,1,0,,,,0
+1520022600,FC Porto,Sporting CP,Kth3Rz1C,Ys9o4HYr,2,1,,,,0
+1520092800,Feirense,Boavista,8GL0cHSF,jaVfhwwq,3,0,,,,0
+1520100900,Benfica,Maritimo,GEKimEim,MyFeHWzn,5,0,,,,0
+1520109000,Estoril,Braga,8GL0cHSF,6JDIcK05,0,6,,,,0
+1520163900,Tondela,Chaves,tz55u9dQ,2kigctW8,2,0,,,,0
+1520179200,Moreirense,Pacos Ferreira,xjC3FA5b,8GL0cHSF,2,0,,,,0
+1520186400,Vitoria Setubal,Rio Ave,8Ux0cWp6,pjxqSmk4,1,0,,,,0
+1520194500,Vitoria Guimaraes,BSAD,rDfht7Ta,pjU2GA5c,0,0,,,,0
+1520280000,Aves,Portimonense,dxYsidUO,O6EGoZof,3,0,,,,0
+1520627400,Braga,Moreirense,6JDIcK05,xjC3FA5b,3,0,,,,0
+1520697600,Rio Ave,Feirense,pjxqSmk4,8GL0cHSF,2,1,,,,0
+1520705700,Benfica,Aves,GEKimEim,dxYsidUO,2,0,,,,0
+1520713800,Boavista,Estoril,jaVfhwwq,8GL0cHSF,1,0,,,,0
+1520768700,Portimonense,Vitoria Guimaraes,O6EGoZof,rDfht7Ta,2,1,,,,0
+1520784000,Maritimo,Vitoria Setubal,MyFeHWzn,8Ux0cWp6,4,2,,,,0
+1520791200,BSAD,Tondela,pjU2GA5c,tz55u9dQ,0,0,,,,0
+1520799300,Pacos Ferreira,FC Porto,8GL0cHSF,Kth3Rz1C,1,0,,,,0
+1520881200,Chaves,Sporting CP,2kigctW8,Ys9o4HYr,1,2,,,,0
+1521232200,Vitoria Setubal,Portimonense,8Ux0cWp6,O6EGoZof,1,1,,,,0
+1521302400,Tondela,Maritimo,tz55u9dQ,MyFeHWzn,1,2,,,,0
+1521302400,Estoril,Pacos Ferreira,8GL0cHSF,8GL0cHSF,1,1,,,,0
+1521310500,Feirense,Benfica,8GL0cHSF,GEKimEim,0,2,,,,0
+1521318600,FC Porto,Boavista,Kth3Rz1C,jaVfhwwq,2,0,,,,0
+1521388800,Vitoria Guimaraes,Aves,rDfht7Ta,dxYsidUO,2,1,,,,0
+1521388800,Moreirense,BSAD,xjC3FA5b,pjU2GA5c,2,1,,,,0
+1521396000,Chaves,Braga,2kigctW8,6JDIcK05,1,4,,,,0
+1521404100,Sporting CP,Rio Ave,Ys9o4HYr,pjxqSmk4,2,0,,,,0
+1522350000,Aves,Vitoria Setubal,dxYsidUO,8Ux0cWp6,1,4,,,,0
+1522422000,Maritimo,Feirense,MyFeHWzn,8GL0cHSF,4,1,,,,0
+1522430100,Rio Ave,Estoril,pjxqSmk4,8GL0cHSF,2,0,,,,0
+1522438200,Boavista,Tondela,jaVfhwwq,tz55u9dQ,1,1,,,,0
+1522508400,Portimonense,Moreirense,O6EGoZof,xjC3FA5b,4,3,,,,0
+1522508400,Pacos Ferreira,Chaves,8GL0cHSF,2kigctW8,2,0,,,,0
+1522516500,Benfica,Vitoria Guimaraes,GEKimEim,rDfht7Ta,2,0,,,,0
+1522524600,Braga,Sporting CP,6JDIcK05,Ys9o4HYr,1,0,,,,0
+1522695600,BSAD,FC Porto,pjU2GA5c,Kth3Rz1C,2,0,,,,0
+1523043000,Vitoria Guimaraes,Rio Ave,rDfht7Ta,pjxqSmk4,3,0,,,,0
+1523113200,Tondela,Portimonense,tz55u9dQ,O6EGoZof,2,2,,,,0
+1523113200,Estoril,Maritimo,8GL0cHSF,MyFeHWzn,1,1,,,,0
+1523121300,Feirense,Braga,8GL0cHSF,6JDIcK05,2,2,,,,0
+1523129400,Vitoria Setubal,Benfica,8Ux0cWp6,GEKimEim,1,2,,,,0
+1523199600,Chaves,BSAD,2kigctW8,pjU2GA5c,1,1,,,,0
+1523206800,FC Porto,Aves,Kth3Rz1C,dxYsidUO,2,0,,,,0
+1523214900,Sporting CP,Pacos Ferreira,Ys9o4HYr,8GL0cHSF,2,0,,,,0
+1523300400,Moreirense,Boavista,xjC3FA5b,jaVfhwwq,1,0,,,,0
+1523647800,Pacos Ferreira,Braga,8GL0cHSF,6JDIcK05,1,5,,,,0
+1523718000,Portimonense,Estoril,O6EGoZof,8GL0cHSF,0,1,,,,0
+1523718000,Aves,Feirense,dxYsidUO,8GL0cHSF,1,0,,,,0
+1523726100,Boavista,Chaves,jaVfhwwq,2kigctW8,3,3,,,,0
+1523734200,Vitoria Guimaraes,Vitoria Setubal,rDfht7Ta,8Ux0cWp6,1,1,,,,0
+1523804400,Maritimo,Moreirense,MyFeHWzn,xjC3FA5b,1,1,,,,0
+1523811600,Benfica,FC Porto,GEKimEim,Kth3Rz1C,0,1,,,,0
+1523819700,BSAD,Sporting CP,pjU2GA5c,Ys9o4HYr,3,4,,,,0
+1523905200,Rio Ave,Tondela,pjxqSmk4,tz55u9dQ,1,1,,,,0
+1524252600,Braga,Maritimo,6JDIcK05,MyFeHWzn,2,0,,,,0
+1524322800,Pacos Ferreira,BSAD,8GL0cHSF,pjU2GA5c,1,1,,,,0
+1524330900,Feirense,Vitoria Guimaraes,8GL0cHSF,rDfht7Ta,2,1,,,,0
+1524339000,Estoril,Benfica,8GL0cHSF,GEKimEim,1,2,,,,0
+1524409200,Tondela,Aves,tz55u9dQ,dxYsidUO,3,0,,,,0
+1524409200,Chaves,Portimonense,2kigctW8,O6EGoZof,2,1,,,,0
+1524416400,Moreirense,Rio Ave,xjC3FA5b,pjxqSmk4,2,1,,,,0
+1524424500,Sporting CP,Boavista,Ys9o4HYr,jaVfhwwq,1,0,,,,0
+1524510000,FC Porto,Vitoria Setubal,Kth3Rz1C,8Ux0cWp6,5,1,,,,0
+1524857400,Vitoria Guimaraes,Moreirense,rDfht7Ta,xjC3FA5b,1,0,,,,0
+1524927600,Vitoria Setubal,Feirense,8Ux0cWp6,8GL0cHSF,0,2,,,,0
+1524935700,Benfica,Tondela,GEKimEim,tz55u9dQ,2,3,,,,0
+1524943800,Portimonense,Sporting CP,O6EGoZof,Ys9o4HYr,1,2,,,,0
+1525014000,Rio Ave,Chaves,pjxqSmk4,2kigctW8,2,1,,,,0
+1525014000,Boavista,Pacos Ferreira,jaVfhwwq,8GL0cHSF,1,0,,,,0
+1525021200,Maritimo,FC Porto,MyFeHWzn,Kth3Rz1C,0,1,,,,0
+1525029300,BSAD,Braga,pjU2GA5c,6JDIcK05,0,1,,,,0
+1525114800,Aves,Estoril,dxYsidUO,8GL0cHSF,1,0,,,,0
+1525462200,Braga,Boavista,6JDIcK05,jaVfhwwq,1,1,,,,0
+1525532400,BSAD,Portimonense,pjU2GA5c,O6EGoZof,3,2,,,,0
+1525540500,Tondela,Vitoria Guimaraes,tz55u9dQ,rDfht7Ta,1,4,,,,0
+1525548600,Sporting CP,Benfica,Ys9o4HYr,GEKimEim,0,0,,,,0
+1525618800,Moreirense,Aves,xjC3FA5b,dxYsidUO,0,3,,,,0
+1525618800,Estoril,Vitoria Setubal,8GL0cHSF,8Ux0cWp6,2,1,,,,0
+1525626000,Chaves,Maritimo,2kigctW8,MyFeHWzn,4,1,,,,0
+1525634100,FC Porto,Feirense,Kth3Rz1C,8GL0cHSF,2,1,,,,0
+1525719600,Pacos Ferreira,Rio Ave,8GL0cHSF,pjxqSmk4,0,0,,,,0
+1526067000,Aves,Chaves,dxYsidUO,2kigctW8,2,3,,,,0
+1526137200,Vitoria Guimaraes,FC Porto,rDfht7Ta,Kth3Rz1C,0,1,,,,0
+1526151600,Boavista,BSAD,jaVfhwwq,pjU2GA5c,1,0,,,,0
+1526230800,Vitoria Setubal,Tondela,8Ux0cWp6,tz55u9dQ,1,0,,,,0
+1526230800,Rio Ave,Braga,pjxqSmk4,6JDIcK05,1,0,,,,0
+1526230800,Portimonense,Pacos Ferreira,O6EGoZof,8GL0cHSF,3,1,,,,0
+1526230800,Maritimo,Sporting CP,MyFeHWzn,Ys9o4HYr,2,1,,,,0
+1526230800,Feirense,Estoril,8GL0cHSF,8GL0cHSF,0,0,,,,0
+1526230800,Benfica,Moreirense,GEKimEim,xjC3FA5b,1,0,,,,0

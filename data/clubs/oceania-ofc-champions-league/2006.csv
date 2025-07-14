@@ -1,23 +1,23 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1147750200,Sobou,Marist,1,7,,,,0
-1147750200,Pirae,Auckland City,0,1,,,,0
-1139200200,Nikao,Tuanaimato,1,2,,,,0
-1139200200,Lotohaapai,Nokia Eagles,1,5,,,,0
-1139373000,Nokia Eagles,Tuanaimato,2,1,,,,0
-1139373000,Nikao,Lotohaapai,1,3,,,,0
-1139545800,Nokia Eagles,Nikao,0,0,,,,0
-1139545800,Lotohaapai,Tuanaimato,1,1,,,,0
-1147231800,Marist,Pirae,1,10,,,,0
-1147231800,Auckland City,Sobou,7,0,,,,0
-1147318200,Nokia Eagles,Manawatu,2,2,,,,0
-1147318200,Magenta,Tafea,0,1,,,,0
-1147491000,Magenta,Manawatu,0,3,,,,0
-1147491000,Auckland City,Marist,3,1,,,,0
-1147577400,Tafea,Nokia Eagles,0,4,,,,0
-1147577400,Pirae,Sobou,7,0,,,,0
-1147750200,Tafea,Manawatu,3,3,,,,0
-1147750200,Nokia Eagles,Magenta,0,1,,,,0
-1148009400,Manawatu,Pirae,1,2,,,,0
-1148009400,Auckland City,Nokia Eagles,9,1,,,,0
-1148182200,Nokia Eagles,Manawatu,0,4,,,,0
-1148182200,Auckland City,Pirae,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1147750200,Sobou,Marist,,nsoNOzQS,1,7,,,,0
+1147750200,Pirae,Auckland City,QsL6ehoB,E7VNOejE,0,1,,,,0
+1139200200,Nikao,Tuanaimato,UFuh4tWG,,1,2,,,,0
+1139200200,Lotohaapai,Nokia Eagles,6Ld0aIU5,,1,5,,,,0
+1139373000,Nokia Eagles,Tuanaimato,,,2,1,,,,0
+1139373000,Nikao,Lotohaapai,UFuh4tWG,6Ld0aIU5,1,3,,,,0
+1139545800,Nokia Eagles,Nikao,,UFuh4tWG,0,0,,,,0
+1139545800,Lotohaapai,Tuanaimato,6Ld0aIU5,,1,1,,,,0
+1147231800,Marist,Pirae,nsoNOzQS,QsL6ehoB,1,10,,,,0
+1147231800,Auckland City,Sobou,E7VNOejE,,7,0,,,,0
+1147318200,Nokia Eagles,Manawatu,,jRV1V0Hu,2,2,,,,0
+1147318200,Magenta,Tafea,QsL6ehoB,hp3nk3Ne,0,1,,,,0
+1147491000,Magenta,Manawatu,QsL6ehoB,jRV1V0Hu,0,3,,,,0
+1147491000,Auckland City,Marist,E7VNOejE,nsoNOzQS,3,1,,,,0
+1147577400,Tafea,Nokia Eagles,hp3nk3Ne,,0,4,,,,0
+1147577400,Pirae,Sobou,QsL6ehoB,,7,0,,,,0
+1147750200,Tafea,Manawatu,hp3nk3Ne,jRV1V0Hu,3,3,,,,0
+1147750200,Nokia Eagles,Magenta,,QsL6ehoB,0,1,,,,0
+1148009400,Manawatu,Pirae,jRV1V0Hu,QsL6ehoB,1,2,,,,0
+1148009400,Auckland City,Nokia Eagles,E7VNOejE,,9,1,,,,0
+1148182200,Nokia Eagles,Manawatu,,jRV1V0Hu,0,4,,,,0
+1148182200,Auckland City,Pirae,E7VNOejE,QsL6ehoB,3,1,,,,0

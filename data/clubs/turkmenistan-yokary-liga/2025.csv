@@ -1,57 +1,57 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1741082400,Ahal,Nebitci,2,0,,,,0
-1741168800,Sagadam,Merw,1,0,,,,0
-1741168800,Altyn Asyr,FC Asgabat,1,0,,,,0
-1741600800,Nebitci,Altyn Asyr,1,0,,,,0
-1741600800,FC Asgabat,Sagadam,2,3,,,,0
-1741687200,Kopetdag Asgabat,Merw,0,3,,,,0
-1741935600,FC Asgabat,Merw,0,0,,,,0
-1741948200,Ahal,Kopetdag Asgabat,4,0,,,,0
-1741951800,Nebitci,Sagadam,0,0,,,,0
-1743247800,Nebitci,Merw,3,0,Awrd,,,0
-1743318000,Kopetdag Asgabat,FC Asgabat,2,3,,,,0
-1743332400,Arkadag,Sagadam,4,0,,,,0
-1743332400,Ahal,Altyn Asyr,0,1,,,,0
-1743584400,FC Asgabat,Nebitci,2,1,,,,0
-1743596100,Arkadag,Merw,7,0,,,,0
-1743678000,Altyn Asyr,Kopetdag Asgabat,3,0,,,,0
-1743681600,Sagadam,Ahal,1,2,,,,0
-1744371000,Ahal,Merw,3,0,,,,0
-1744459200,Altyn Asyr,Sagadam,1,1,,,,0
-1744543800,Kopetdag Asgabat,Nebitci,0,0,,,,0
-1745060400,FC Asgabat,Ahal,1,4,,,,0
-1745062200,Merw,Altyn Asyr,0,1,,,,0
-1745064000,Sagadam,Kopetdag Asgabat,4,1,,,,0
-1745151300,Nebitci,Arkadag,0,1,,,,0
-1745409600,Arkadag,Kopetdag Asgabat,6,1,,,,0
-1745667000,Merw,Sagadam,1,1,,,,0
-1745668800,Kopetdag Asgabat,Arkadag,1,3,,,,0
-1745668800,FC Asgabat,Altyn Asyr,3,1,,,,0
-1745670600,Nebitci,Ahal,0,1,,,,0
-1746014400,Arkadag,Ahal,3,1,,,,0
-1746189000,Altyn Asyr,Nebitci,1,0,,,,0
-1746273600,Merw,Kopetdag Asgabat,0,1,,,,0
-1746275400,Sagadam,FC Asgabat,1,0,,,,0
-1746792000,Kopetdag Asgabat,Ahal,0,3,,,,0
-1746793800,Sagadam,Nebitci,1,0,,,,0
-1746795600,Merw,FC Asgabat,2,0,,,,0
-1747140300,Altyn Asyr,Merw,2,0,,,,0
-1747140300,Ahal,FC Asgabat,4,0,,,,0
-1747224000,Kopetdag Asgabat,Sagadam,0,1,,,,0
-1747231200,Arkadag,Nebitci,3,0,,,,0
-1747483200,Sagadam,Arkadag,1,4,,,,0
-1747485000,FC Asgabat,Kopetdag Asgabat,0,0,,,,0
-1747486800,Merw,Nebitci,0,0,,,,0
-1747572300,Altyn Asyr,Ahal,3,1,,,,0
-1748263500,Altyn Asyr,Arkadag,0,3,,,,0
-1748608200,Merw,Arkadag,0,2,,,,0
-1748609100,Ahal,Sagadam,1,1,,,,0
-1748694600,Nebitci,FC Asgabat,2,0,,,,0
-1748695500,Kopetdag Asgabat,Altyn Asyr,1,3,,,,0
-1749130200,Nebitci,Kopetdag Asgabat,1,0,,,,0
-1749904200,Sagadam,Altyn Asyr,2,1,,,,0
-1749904200,FC Asgabat,Arkadag,0,2,,,,0
-1749906000,Merw,Ahal,1,3,,,,0
-1750514400,Arkadag,FC Asgabat,7,0,,,,0
-1750774500,Ahal,Arkadag,0,3,,,,0
-1751033700,Arkadag,Altyn Asyr,7,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1741082400,Ahal,Nebitci,QgF8RxCg,0nOwUcX4,2,0,,,,0
+1741168800,Sagadam,Merw,MePZUwIb,MePZUwIb,1,0,,,,0
+1741168800,Altyn Asyr,FC Asgabat,raL6XQE3,MePZUwIb,1,0,,,,0
+1741600800,Nebitci,Altyn Asyr,0nOwUcX4,raL6XQE3,1,0,,,,0
+1741600800,FC Asgabat,Sagadam,MePZUwIb,MePZUwIb,2,3,,,,0
+1741687200,Kopetdag Asgabat,Merw,fTgrUyoT,MePZUwIb,0,3,,,,0
+1741935600,FC Asgabat,Merw,MePZUwIb,MePZUwIb,0,0,,,,0
+1741948200,Ahal,Kopetdag Asgabat,QgF8RxCg,fTgrUyoT,4,0,,,,0
+1741951800,Nebitci,Sagadam,0nOwUcX4,MePZUwIb,0,0,,,,0
+1743247800,Nebitci,Merw,0nOwUcX4,MePZUwIb,3,0,Awrd,,,0
+1743318000,Kopetdag Asgabat,FC Asgabat,fTgrUyoT,MePZUwIb,2,3,,,,0
+1743332400,Arkadag,Sagadam,Iafo3jHI,MePZUwIb,4,0,,,,0
+1743332400,Ahal,Altyn Asyr,QgF8RxCg,raL6XQE3,0,1,,,,0
+1743584400,FC Asgabat,Nebitci,MePZUwIb,0nOwUcX4,2,1,,,,0
+1743596100,Arkadag,Merw,Iafo3jHI,MePZUwIb,7,0,,,,0
+1743678000,Altyn Asyr,Kopetdag Asgabat,raL6XQE3,fTgrUyoT,3,0,,,,0
+1743681600,Sagadam,Ahal,MePZUwIb,QgF8RxCg,1,2,,,,0
+1744371000,Ahal,Merw,QgF8RxCg,MePZUwIb,3,0,,,,0
+1744459200,Altyn Asyr,Sagadam,raL6XQE3,MePZUwIb,1,1,,,,0
+1744543800,Kopetdag Asgabat,Nebitci,fTgrUyoT,0nOwUcX4,0,0,,,,0
+1745060400,FC Asgabat,Ahal,MePZUwIb,QgF8RxCg,1,4,,,,0
+1745062200,Merw,Altyn Asyr,MePZUwIb,raL6XQE3,0,1,,,,0
+1745064000,Sagadam,Kopetdag Asgabat,MePZUwIb,fTgrUyoT,4,1,,,,0
+1745151300,Nebitci,Arkadag,0nOwUcX4,Iafo3jHI,0,1,,,,0
+1745409600,Arkadag,Kopetdag Asgabat,Iafo3jHI,fTgrUyoT,6,1,,,,0
+1745667000,Merw,Sagadam,MePZUwIb,MePZUwIb,1,1,,,,0
+1745668800,Kopetdag Asgabat,Arkadag,fTgrUyoT,Iafo3jHI,1,3,,,,0
+1745668800,FC Asgabat,Altyn Asyr,MePZUwIb,raL6XQE3,3,1,,,,0
+1745670600,Nebitci,Ahal,0nOwUcX4,QgF8RxCg,0,1,,,,0
+1746014400,Arkadag,Ahal,Iafo3jHI,QgF8RxCg,3,1,,,,0
+1746189000,Altyn Asyr,Nebitci,raL6XQE3,0nOwUcX4,1,0,,,,0
+1746273600,Merw,Kopetdag Asgabat,MePZUwIb,fTgrUyoT,0,1,,,,0
+1746275400,Sagadam,FC Asgabat,MePZUwIb,MePZUwIb,1,0,,,,0
+1746792000,Kopetdag Asgabat,Ahal,fTgrUyoT,QgF8RxCg,0,3,,,,0
+1746793800,Sagadam,Nebitci,MePZUwIb,0nOwUcX4,1,0,,,,0
+1746795600,Merw,FC Asgabat,MePZUwIb,MePZUwIb,2,0,,,,0
+1747140300,Altyn Asyr,Merw,raL6XQE3,MePZUwIb,2,0,,,,0
+1747140300,Ahal,FC Asgabat,QgF8RxCg,MePZUwIb,4,0,,,,0
+1747224000,Kopetdag Asgabat,Sagadam,fTgrUyoT,MePZUwIb,0,1,,,,0
+1747231200,Arkadag,Nebitci,Iafo3jHI,0nOwUcX4,3,0,,,,0
+1747483200,Sagadam,Arkadag,MePZUwIb,Iafo3jHI,1,4,,,,0
+1747485000,FC Asgabat,Kopetdag Asgabat,MePZUwIb,fTgrUyoT,0,0,,,,0
+1747486800,Merw,Nebitci,MePZUwIb,0nOwUcX4,0,0,,,,0
+1747572300,Altyn Asyr,Ahal,raL6XQE3,QgF8RxCg,3,1,,,,0
+1748263500,Altyn Asyr,Arkadag,raL6XQE3,Iafo3jHI,0,3,,,,0
+1748608200,Merw,Arkadag,MePZUwIb,Iafo3jHI,0,2,,,,0
+1748609100,Ahal,Sagadam,QgF8RxCg,MePZUwIb,1,1,,,,0
+1748694600,Nebitci,FC Asgabat,0nOwUcX4,MePZUwIb,2,0,,,,0
+1748695500,Kopetdag Asgabat,Altyn Asyr,fTgrUyoT,raL6XQE3,1,3,,,,0
+1749130200,Nebitci,Kopetdag Asgabat,0nOwUcX4,fTgrUyoT,1,0,,,,0
+1749904200,Sagadam,Altyn Asyr,MePZUwIb,raL6XQE3,2,1,,,,0
+1749904200,FC Asgabat,Arkadag,MePZUwIb,Iafo3jHI,0,2,,,,0
+1749906000,Merw,Ahal,MePZUwIb,QgF8RxCg,1,3,,,,0
+1750514400,Arkadag,FC Asgabat,Iafo3jHI,MePZUwIb,7,0,,,,0
+1750774500,Ahal,Arkadag,QgF8RxCg,Iafo3jHI,0,3,,,,0
+1751033700,Arkadag,Altyn Asyr,Iafo3jHI,raL6XQE3,7,3,,,,0

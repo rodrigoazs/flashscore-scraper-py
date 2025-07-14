@@ -1,14 +1,14 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1100041200,U Craiova 1948,FC Arges,1,0,,,,0
-1100041200,Sp. Studentesc,Progresul Bucuresti,2,0,,,,0
-1100041200,Otelul,Farul Constanta,1,2,,,,0
-1100041200,Din. Bucuresti,Braila,1,0,,,,0
-1101855600,Progresul Bucuresti,Sp. Studentesc,3,0,,,,0
-1101855600,FC Arges,U Craiova 1948,1,1,,,,0
-1101855600,Farul Constanta,Otelul,2,0,,,,0
-1101855600,Braila,Din. Bucuresti,0,2,,,,0
-1110981600,Progresul Bucuresti,Din. Bucuresti,2,1,,,,0
-1110987900,Farul Constanta,U Craiova 1948,1,0,,,,0
-1113400800,U Craiova 1948,Farul Constanta,2,1,,,,0
-1113408000,Din. Bucuresti,Progresul Bucuresti,4,0,,,,0
-1115831700,Din. Bucuresti,Farul Constanta,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1100041200,U Craiova 1948,FC Arges,AB4EluEP,O6EGoZof,1,0,,,,0
+1100041200,Sp. Studentesc,Progresul Bucuresti,MBgQjOAe,j9pqhlf5,2,0,,,,0
+1100041200,Otelul,Farul Constanta,lAmyV7fK,8r67AZON,1,2,,,,0
+1100041200,Din. Bucuresti,Braila,EyedO184,SpYhnLfe,1,0,,,,0
+1101855600,Progresul Bucuresti,Sp. Studentesc,j9pqhlf5,MBgQjOAe,3,0,,,,0
+1101855600,FC Arges,U Craiova 1948,O6EGoZof,AB4EluEP,1,1,,,,0
+1101855600,Farul Constanta,Otelul,8r67AZON,lAmyV7fK,2,0,,,,0
+1101855600,Braila,Din. Bucuresti,SpYhnLfe,EyedO184,0,2,,,,0
+1110981600,Progresul Bucuresti,Din. Bucuresti,j9pqhlf5,EyedO184,2,1,,,,0
+1110987900,Farul Constanta,U Craiova 1948,8r67AZON,AB4EluEP,1,0,,,,0
+1113400800,U Craiova 1948,Farul Constanta,AB4EluEP,8r67AZON,2,1,,,,0
+1113408000,Din. Bucuresti,Progresul Bucuresti,EyedO184,j9pqhlf5,4,0,,,,0
+1115831700,Din. Bucuresti,Farul Constanta,EyedO184,8r67AZON,1,0,,,,0

@@ -1,18 +1,18 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-973638000,Viborg,Odense,2,0,,,,0
-973638000,Vejle,AB Copenhagen,0,2,,,,0
-973638000,Midtjylland,Herfolge,3,0,,,,0
-973638000,Horsens,B.93,3,4,,,,0
-973638000,Holstebro,Esbjerg,2,0,,,,0
-973638000,Brondby,FC Copenhagen,2,0,,,,0
-973638000,Ballerup,Aarhus Fremad,0,5,,,,0
-973638000,Aalborg,Silkeborg,3,4,,,,0
-987631200,Viborg,Brondby,2,0,,,,0
-987631200,Holstebro,AB Copenhagen,1,1,AET,1,2,0
-987631200,B.93,Midtjylland,2,3,,,,0
-987631200,Aarhus Fremad,Silkeborg,0,1,,,,0
-988754400,AB Copenhagen,Viborg,2,0,,,,0
-988840800,Midtjylland,Silkeborg,1,1,,,,0
-989445600,Viborg,AB Copenhagen,0,0,,,,0
-989445600,Silkeborg,Midtjylland,3,0,,,,0
-990655200,AB Copenhagen,Silkeborg,1,4,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+973638000,Viborg,Odense,fevSzE3L,xv6lkb7q,2,0,,,,0
+973638000,Vejle,AB Copenhagen,lvRNDH7M,KYJ6FHSq,0,2,,,,0
+973638000,Midtjylland,Herfolge,nw9UOsY3,SrqG8pyg,3,0,,,,0
+973638000,Horsens,B.93,hGuhahGg,ShWpgPya,3,4,,,,0
+973638000,Holstebro,Esbjerg,MkSbZgY3,82YZVz8L,2,0,,,,0
+973638000,Brondby,FC Copenhagen,YPeI5fwQ,xv6lkb7q,2,0,,,,0
+973638000,Ballerup,Aarhus Fremad,IsRBnwZC,IDqsYBbo,0,5,,,,0
+973638000,Aalborg,Silkeborg,jDG0G1yS,Wrzf6bGu,3,4,,,,0
+987631200,Viborg,Brondby,fevSzE3L,YPeI5fwQ,2,0,,,,0
+987631200,Holstebro,AB Copenhagen,MkSbZgY3,KYJ6FHSq,1,1,AET,1,2,0
+987631200,B.93,Midtjylland,ShWpgPya,nw9UOsY3,2,3,,,,0
+987631200,Aarhus Fremad,Silkeborg,IDqsYBbo,Wrzf6bGu,0,1,,,,0
+988754400,AB Copenhagen,Viborg,KYJ6FHSq,fevSzE3L,2,0,,,,0
+988840800,Midtjylland,Silkeborg,nw9UOsY3,Wrzf6bGu,1,1,,,,0
+989445600,Viborg,AB Copenhagen,fevSzE3L,KYJ6FHSq,0,0,,,,0
+989445600,Silkeborg,Midtjylland,Wrzf6bGu,nw9UOsY3,3,0,,,,0
+990655200,AB Copenhagen,Silkeborg,KYJ6FHSq,Wrzf6bGu,1,4,,,,0

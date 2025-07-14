@@ -1,558 +1,558 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1154777400,Luton,Leicester,2,0,,,,0
-1154786400,West Brom,Hull,2,0,,,,0
-1154786400,Southend,Stoke,1,0,,,,0
-1154786400,Preston,Sheffield Wed,0,0,,,,0
-1154786400,Plymouth,Wolves,1,1,,,,0
-1154786400,Leeds,Norwich,1,0,,,,0
-1154786400,Ipswich,Crystal Palace,1,2,,,,0
-1154786400,Burnley,QPR,2,0,,,,0
-1154786400,Birmingham,Colchester,2,1,,,,0
-1154786400,Barnsley,Cardiff,1,3,,,,0
-1154867400,Coventry,Sunderland,2,1,,,,0
-1154876400,Derby,Southampton,2,2,,,,0
-1155062700,Wolves,Ipswich,1,0,,,,0
-1155062700,Stoke,Derby,2,0,,,,0
-1155062700,Sheffield Wed,Luton,0,1,,,,0
-1155062700,Norwich,Preston,2,0,,,,0
-1155062700,Leicester,Burnley,0,1,,,,0
-1155062700,Hull,Barnsley,2,3,,,,0
-1155062700,Colchester,Plymouth,0,1,,,,0
-1155062700,Cardiff,West Brom,1,1,,,,0
-1155063600,QPR,Leeds,2,2,,,,0
-1155063600,Crystal Palace,Southend,3,1,,,,0
-1155149100,Sunderland,Birmingham,0,1,,,,0
-1155149100,Southampton,Coventry,2,0,,,,0
-1155321900,Wolves,Preston,1,3,,,,0
-1155382200,Stoke,Birmingham,0,0,,,,0
-1155391200,Sunderland,Plymouth,2,3,,,,0
-1155391200,Southampton,West Brom,0,0,,,,0
-1155391200,Sheffield Wed,Burnley,1,1,,,,0
-1155391200,QPR,Southend,2,0,,,,0
-1155391200,Norwich,Luton,3,2,,,,0
-1155391200,Leicester,Ipswich,3,1,,,,0
-1155391200,Colchester,Barnsley,1,2,,,,0
-1155391200,Cardiff,Coventry,1,0,,,,0
-1155400200,Hull,Derby,1,2,,,,0
-1155466800,Crystal Palace,Leeds,1,0,,,,0
-1155926700,Coventry,Leicester,0,0,,,,0
-1155996000,West Brom,Colchester,2,1,,,,0
-1155996000,Southend,Sunderland,3,1,,,,0
-1155996000,Preston,QPR,1,1,,,,0
-1155996000,Plymouth,Sheffield Wed,1,2,,,,0
-1155996000,Luton,Stoke,2,2,,,,0
-1155996000,Leeds,Cardiff,0,1,,,,0
-1155996000,Ipswich,Hull,0,0,,,,0
-1155996000,Derby,Norwich,0,0,,,,0
-1155996000,Burnley,Wolves,0,1,,,,0
-1155996000,Birmingham,Crystal Palace,2,1,,,,0
-1155996000,Barnsley,Southampton,2,2,,,,0
-1156531500,QPR,Ipswich,1,3,,,,0
-1156593600,Cardiff,Birmingham,2,0,,,,0
-1156600800,Wolves,Luton,1,0,,,,0
-1156600800,Stoke,Plymouth,1,1,,,,0
-1156600800,Southampton,Preston,1,1,,,,0
-1156600800,Norwich,Barnsley,5,1,,,,0
-1156600800,Leicester,Southend,1,0,,,,0
-1156600800,Hull,Coventry,0,1,,,,0
-1156600800,Crystal Palace,Burnley,2,2,,,,0
-1156600800,Colchester,Derby,4,3,,,,0
-1156680900,Sheffield Wed,Leeds,0,1,,,,0
-1156773600,Sunderland,West Brom,2,0,,,,0
-1157810400,West Brom,Leicester,2,0,,,,0
-1157810400,Southend,Sheffield Wed,0,0,,,,0
-1157810400,Preston,Cardiff,2,1,,,,0
-1157810400,Plymouth,QPR,1,1,,,,0
-1157810400,Luton,Crystal Palace,2,1,,,,0
-1157810400,Ipswich,Southampton,2,1,,,,0
-1157810400,Derby,Sunderland,1,2,,,,0
-1157810400,Coventry,Norwich,3,0,,,,0
-1157810400,Burnley,Colchester,1,2,,,,0
-1157810400,Birmingham,Hull,2,1,,,,0
-1157810400,Barnsley,Stoke,2,2,,,,0
-1157890500,Leeds,Wolves,0,1,,,,0
-1158086700,Wolves,Derby,0,1,,,,0
-1158086700,Southend,Norwich,3,3,,,,0
-1158086700,Sheffield Wed,Stoke,1,1,,,,0
-1158086700,Preston,West Brom,1,0,,,,0
-1158086700,Plymouth,Cardiff,3,3,,,,0
-1158086700,Luton,Colchester,2,1,,,,0
-1158086700,Leicester,Hull,0,1,,,,0
-1158086700,Ipswich,Coventry,2,1,,,,0
-1158086700,Burnley,Barnsley,4,2,,,,0
-1158087600,QPR,Birmingham,0,2,,,,0
-1158087600,Crystal Palace,Southampton,0,2,,,,0
-1158173100,Leeds,Sunderland,0,3,,,,0
-1158345900,Hull,Sheffield Wed,2,1,,,,0
-1158415200,West Brom,Southend,1,1,,,,0
-1158415200,Sunderland,Leicester,1,1,,,,0
-1158415200,Stoke,Burnley,0,1,,,,0
-1158415200,Southampton,Plymouth,1,0,,,,0
-1158415200,Norwich,Crystal Palace,0,1,,,,0
-1158415200,Derby,Preston,1,1,,,,0
-1158415200,Coventry,Leeds,1,0,,,,0
-1158415200,Colchester,QPR,2,1,,,,0
-1158415200,Cardiff,Luton,4,1,,,,0
-1158415200,Birmingham,Ipswich,2,2,,,,0
-1158415200,Barnsley,Wolves,1,0,,,,0
-1158950700,Preston,Barnsley,1,0,,,,0
-1159020000,Wolves,Stoke,2,0,,,,0
-1159020000,Sheffield Wed,Derby,1,2,,,,0
-1159020000,QPR,Hull,2,0,,,,0
-1159020000,Plymouth,Norwich,3,1,,,,0
-1159020000,Luton,West Brom,2,2,,,,0
-1159020000,Leicester,Colchester,0,0,,,,0
-1159020000,Leeds,Birmingham,3,2,,,,0
-1159020000,Ipswich,Sunderland,3,1,,,,0
-1159020000,Crystal Palace,Coventry,1,0,,,,0
-1159020000,Burnley,Southampton,2,3,,,,0
-1159100100,Southend,Cardiff,0,3,,,,0
-1159555500,Colchester,Ipswich,1,0,,,,0
-1159624800,West Brom,Leeds,4,2,,,,0
-1159624800,Sunderland,Sheffield Wed,1,0,,,,0
-1159624800,Stoke,Preston,1,1,,,,0
-1159624800,Southampton,QPR,1,2,,,,0
-1159624800,Hull,Crystal Palace,1,1,,,,0
-1159624800,Derby,Southend,3,0,,,,0
-1159624800,Coventry,Plymouth,0,1,,,,0
-1159624800,Cardiff,Wolves,4,0,,,,0
-1159624800,Birmingham,Leicester,1,1,,,,0
-1159624800,Barnsley,Luton,1,2,,,,0
-1159704900,Norwich,Burnley,1,4,,,,0
-1160765100,Southend,Coventry,2,3,,,,0
-1160834400,Wolves,Colchester,1,0,,,,0
-1160834400,Sheffield Wed,Barnsley,2,1,,,,0
-1160834400,QPR,Norwich,3,3,,,,0
-1160834400,Preston,Sunderland,4,1,,,,0
-1160834400,Luton,Birmingham,3,2,,,,0
-1160834400,Leicester,Southampton,3,2,,,,0
-1160834400,Leeds,Stoke,0,4,,,,0
-1160834400,Ipswich,West Brom,1,5,,,,0
-1160834400,Crystal Palace,Cardiff,1,2,,,,0
-1160834400,Burnley,Hull,2,0,,,,0
-1160914500,Plymouth,Derby,3,1,,,,0
-1161110700,Wolves,Coventry,1,0,,,,0
-1161110700,Stoke,Sunderland,2,1,,,,0
-1161110700,Leeds,Leicester,1,2,,,,0
-1161110700,Ipswich,Preston,2,3,,,,0
-1161110700,Hull,Luton,0,0,,,,0
-1161110700,Cardiff,Southampton,1,0,,,,0
-1161110700,Burnley,Southend,0,0,,,,0
-1161110700,Birmingham,Norwich,0,1,,,,0
-1161110700,Barnsley,Plymouth,2,2,,,,0
-1161111600,QPR,Derby,1,2,,,,0
-1161111600,Crystal Palace,West Brom,0,2,,,,0
-1161197100,Colchester,Sheffield Wed,4,0,,,,0
-1161439200,Sunderland,Barnsley,2,0,,,,0
-1161439200,Southend,Ipswich,1,3,,,,0
-1161439200,Southampton,Stoke,1,0,,,,0
-1161439200,Sheffield Wed,QPR,3,2,,,,0
-1161439200,Preston,Hull,2,1,,,,0
-1161439200,Plymouth,Burnley,0,0,,,,0
-1161439200,Norwich,Cardiff,1,0,,,,0
-1161439200,Luton,Leeds,5,1,,,,0
-1161439200,Leicester,Crystal Palace,1,1,,,,0
-1161439200,Derby,Birmingham,0,1,,,,0
-1161514800,West Brom,Wolves,3,0,,,,0
-1161630000,Coventry,Colchester,2,1,,,,0
-1161974700,Burnley,Preston,3,2,,,,0
-1162033200,Birmingham,West Brom,2,0,,,,0
-1162044000,Wolves,Sheffield Wed,2,2,,,,0
-1162044000,Stoke,Norwich,5,0,,,,0
-1162044000,QPR,Leicester,1,1,,,,0
-1162044000,Leeds,Southend,2,0,,,,0
-1162044000,Hull,Sunderland,0,1,,,,0
-1162044000,Crystal Palace,Plymouth,0,1,,,,0
-1162044000,Colchester,Southampton,2,0,,,,0
-1162044000,Cardiff,Derby,2,2,,,,0
-1162044000,Barnsley,Coventry,0,1,,,,0
-1162127700,Ipswich,Luton,5,0,,,,0
-1162323900,West Brom,QPR,3,3,,,,0
-1162323900,Sunderland,Cardiff,1,2,,,,0
-1162323900,Southend,Hull,2,3,,,,0
-1162323900,Sheffield Wed,Crystal Palace,3,2,,,,0
-1162323900,Plymouth,Ipswich,1,1,,,,0
-1162323900,Norwich,Colchester,1,1,,,,0
-1162323900,Luton,Burnley,0,2,,,,0
-1162323900,Leicester,Stoke,2,1,,,,0
-1162323900,Coventry,Birmingham,0,1,,,,0
-1162324800,Preston,Leeds,4,1,,,,0
-1162410300,Southampton,Wolves,2,0,,,,0
-1162410300,Derby,Barnsley,2,1,,,,0
-1162652400,Wolves,Southend,3,1,,,,0
-1162652400,Southampton,Hull,0,0,,,,0
-1162652400,Sheffield Wed,Leicester,2,1,,,,0
-1162652400,QPR,Crystal Palace,4,2,,,,0
-1162652400,Preston,Luton,3,0,,,,0
-1162652400,Plymouth,Birmingham,0,1,,,,0
-1162652400,Norwich,Sunderland,1,0,,,,0
-1162652400,Derby,West Brom,2,1,,,,0
-1162652400,Colchester,Cardiff,3,1,,,,0
-1162652400,Burnley,Ipswich,1,0,,,,0
-1162652400,Barnsley,Leeds,3,2,,,,0
-1162843200,Stoke,Coventry,1,0,,,,0
-1163257200,West Brom,Norwich,0,1,,,,0
-1163257200,Sunderland,Southampton,1,1,,,,0
-1163257200,Southend,Preston,0,0,,,,0
-1163257200,Luton,QPR,2,3,,,,0
-1163257200,Leicester,Plymouth,2,2,,,,0
-1163257200,Leeds,Colchester,3,0,,,,0
-1163257200,Ipswich,Sheffield Wed,0,2,,,,0
-1163257200,Hull,Wolves,2,0,,,,0
-1163257200,Crystal Palace,Stoke,0,1,,,,0
-1163257200,Coventry,Derby,1,2,,,,0
-1163257200,Cardiff,Burnley,1,0,,,,0
-1163257200,Birmingham,Barnsley,2,0,,,,0
-1163792700,Cardiff,QPR,0,1,,,,0
-1163851200,Birmingham,Wolves,1,1,,,,0
-1163862000,West Brom,Burnley,3,0,,,,0
-1163862000,Sunderland,Colchester,3,1,,,,0
-1163862000,Southend,Plymouth,1,1,,,,0
-1163862000,Luton,Derby,0,2,,,,0
-1163862000,Leicester,Preston,0,1,,,,0
-1163862000,Leeds,Southampton,0,3,,,,0
-1163862000,Hull,Stoke,0,2,,,,0
-1163862000,Crystal Palace,Barnsley,2,0,,,,0
-1163862000,Coventry,Sheffield Wed,3,1,,,,0
-1163935800,Ipswich,Norwich,3,1,,,,0
-1164398400,Wolves,Sunderland,1,1,,,,0
-1164466800,Stoke,West Brom,1,0,,,,0
-1164466800,Southampton,Luton,2,1,,,,0
-1164466800,Sheffield Wed,Cardiff,0,0,,,,0
-1164466800,QPR,Coventry,0,1,,,,0
-1164466800,Preston,Crystal Palace,0,0,,,,0
-1164466800,Plymouth,Leeds,1,2,,,,0
-1164466800,Norwich,Hull,1,1,,,,0
-1164466800,Derby,Leicester,1,0,,,,0
-1164466800,Colchester,Southend,3,0,,,,0
-1164466800,Burnley,Birmingham,1,2,,,,0
-1164466800,Barnsley,Ipswich,1,0,,,,0
-1164743100,Wolves,Crystal Palace,1,1,,,,0
-1164743100,Stoke,Cardiff,3,0,,,,0
-1164743100,Sheffield Wed,West Brom,3,1,,,,0
-1164743100,Preston,Coventry,1,1,,,,0
-1164743100,Plymouth,Luton,1,0,,,,0
-1164743100,Norwich,Leicester,3,1,,,,0
-1164743100,Colchester,Hull,5,1,,,,0
-1164743100,Burnley,Leeds,2,1,,,,0
-1164743100,Barnsley,Southend,2,0,,,,0
-1164744000,QPR,Sunderland,1,2,,,,0
-1164829500,Southampton,Birmingham,4,3,,,,0
-1164829500,Derby,Ipswich,2,1,,,,0
-1165060800,Leeds,Barnsley,2,2,,,,0
-1165071600,West Brom,Derby,1,0,,,,0
-1165071600,Sunderland,Norwich,1,0,,,,0
-1165071600,Southend,Wolves,0,1,,,,0
-1165071600,Luton,Preston,2,0,,,,0
-1165071600,Leicester,Sheffield Wed,1,4,,,,0
-1165071600,Ipswich,Burnley,1,1,,,,0
-1165071600,Hull,Southampton,2,4,,,,0
-1165071600,Crystal Palace,QPR,3,0,,,,0
-1165071600,Coventry,Stoke,0,0,,,,0
-1165071600,Cardiff,Colchester,0,0,,,,0
-1165071600,Birmingham,Plymouth,3,0,,,,0
-1165676400,Wolves,Leicester,1,2,,,,0
-1165676400,Sunderland,Luton,2,1,,,,0
-1165676400,Stoke,QPR,1,0,,,,0
-1165676400,Southend,Southampton,2,1,,,,0
-1165676400,Plymouth,Hull,1,0,,,,0
-1165676400,Norwich,Sheffield Wed,1,2,,,,0
-1165676400,Leeds,Derby,0,1,,,,0
-1165676400,Crystal Palace,Colchester,1,3,,,,0
-1165676400,Coventry,Burnley,1,0,,,,0
-1165676400,Cardiff,Ipswich,2,2,,,,0
-1165676400,Birmingham,Preston,3,1,,,,0
-1165756500,Barnsley,West Brom,1,1,,,,0
-1166211900,Luton,Southend,0,0,,,,0
-1166281200,West Brom,Coventry,5,0,,,,0
-1166281200,Southampton,Norwich,2,1,,,,0
-1166281200,Sheffield Wed,Birmingham,0,3,,,,0
-1166281200,QPR,Wolves,0,1,,,,0
-1166281200,Preston,Plymouth,3,0,,,,0
-1166281200,Leicester,Barnsley,2,0,,,,0
-1166281200,Ipswich,Leeds,1,0,,,,0
-1166281200,Hull,Cardiff,4,1,,,,0
-1166281200,Derby,Crystal Palace,1,0,,,,0
-1166281200,Colchester,Stoke,3,0,,,,0
-1166281200,Burnley,Sunderland,2,2,,,,0
-1166817600,Crystal Palace,Sunderland,1,0,,,,0
-1166875200,Leeds,Hull,0,0,,,,0
-1166886000,Wolves,Norwich,2,2,,,,0
-1166886000,Southend,Birmingham,0,4,,,,0
-1166886000,Sheffield Wed,Southampton,3,3,,,,0
-1166886000,QPR,Barnsley,1,0,,,,0
-1166886000,Preston,Colchester,1,0,,,,0
-1166886000,Plymouth,West Brom,2,2,,,,0
-1166886000,Luton,Coventry,3,1,,,,0
-1166886000,Leicester,Cardiff,0,0,,,,0
-1166886000,Ipswich,Stoke,0,1,,,,0
-1166886000,Burnley,Derby,0,0,,,,0
-1167134400,Southampton,Crystal Palace,1,1,,,,0
-1167138000,Cardiff,Plymouth,2,2,,,,0
-1167145200,West Brom,Preston,4,2,,,,0
-1167145200,Sunderland,Leeds,2,0,,,,0
-1167145200,Stoke,Sheffield Wed,1,2,,,,0
-1167145200,Norwich,Southend,0,0,,,,0
-1167145200,Hull,Leicester,1,2,,,,0
-1167145200,Derby,Wolves,0,2,,,,0
-1167145200,Coventry,Ipswich,1,2,,,,0
-1167145200,Colchester,Luton,4,1,,,,0
-1167145200,Birmingham,QPR,2,1,,,,0
-1167145200,Barnsley,Burnley,1,0,,,,0
-1167421500,Birmingham,Luton,2,2,,,,0
-1167483600,Barnsley,Sheffield Wed,0,3,,,,0
-1167490800,West Brom,Ipswich,2,0,,,,0
-1167490800,Sunderland,Preston,0,1,,,,0
-1167490800,Stoke,Leeds,3,1,,,,0
-1167490800,Southampton,Leicester,2,0,,,,0
-1167490800,Norwich,QPR,1,0,,,,0
-1167490800,Hull,Burnley,2,0,,,,0
-1167490800,Derby,Plymouth,1,0,,,,0
-1167490800,Coventry,Southend,1,1,,,,0
-1167490800,Colchester,Wolves,2,1,,,,0
-1167490800,Cardiff,Crystal Palace,0,0,,,,0
-1167663600,Wolves,Barnsley,2,0,,,,0
-1167663600,Southend,West Brom,3,1,,,,0
-1167663600,Sheffield Wed,Hull,1,2,,,,0
-1167663600,QPR,Colchester,1,0,,,,0
-1167663600,Preston,Derby,1,2,,,,0
-1167663600,Plymouth,Southampton,1,1,,,,0
-1167663600,Luton,Cardiff,0,0,,,,0
-1167663600,Leicester,Sunderland,0,2,,,,0
-1167663600,Leeds,Coventry,2,1,,,,0
-1167663600,Ipswich,Birmingham,1,0,,,,0
-1167663600,Crystal Palace,Norwich,3,1,,,,0
-1168631100,West Brom,Luton,3,2,,,,0
-1168700400,Sunderland,Ipswich,1,0,,,,0
-1168700400,Stoke,Wolves,1,1,,,,0
-1168700400,Southampton,Burnley,0,0,,,,0
-1168700400,Norwich,Plymouth,1,3,,,,0
-1168700400,Hull,QPR,2,1,,,,0
-1168700400,Derby,Sheffield Wed,1,0,,,,0
-1168700400,Coventry,Crystal Palace,2,4,,,,0
-1168700400,Colchester,Leicester,1,1,,,,0
-1168700400,Cardiff,Southend,0,1,,,,0
-1168700400,Barnsley,Preston,0,1,,,,0
-1169298000,Wolves,Cardiff,1,2,,,,0
-1169305200,Southend,Derby,0,1,,,,0
-1169305200,Sheffield Wed,Sunderland,2,4,,,,0
-1169305200,QPR,Southampton,0,2,,,,0
-1169305200,Preston,Stoke,3,2,,,,0
-1169305200,Luton,Barnsley,0,2,,,,0
-1169305200,Leeds,West Brom,2,3,,,,0
-1169305200,Ipswich,Colchester,3,2,,,,0
-1169305200,Crystal Palace,Hull,1,1,,,,0
-1169495100,Plymouth,Coventry,3,2,,,,0
-1169581500,Burnley,Stoke,0,1,,,,0
-1169910000,Cardiff,Leicester,3,2,,,,0
-1170186300,Sunderland,Crystal Palace,0,0,,,,0
-1170186300,Stoke,Ipswich,0,0,,,,0
-1170186300,Norwich,Wolves,0,1,,,,0
-1170186300,Hull,Leeds,1,2,,,,0
-1170186300,Derby,Burnley,1,0,,,,0
-1170186300,Coventry,Luton,1,0,,,,0
-1170186300,Colchester,Preston,1,0,,,,0
-1170186300,Birmingham,Southend,1,3,,,,0
-1170186300,Barnsley,QPR,2,0,,,,0
-1170272700,West Brom,Plymouth,2,1,,,,0
-1170272700,Southampton,Sheffield Wed,2,1,,,,0
-1170445500,Cardiff,Barnsley,2,0,,,,0
-1170514800,Wolves,Plymouth,2,2,,,,0
-1170514800,Sunderland,Coventry,2,0,,,,0
-1170514800,Stoke,Southend,1,1,,,,0
-1170514800,Southampton,Derby,0,1,,,,0
-1170514800,Sheffield Wed,Preston,1,3,,,,0
-1170514800,QPR,Burnley,3,1,,,,0
-1170514800,Norwich,Leeds,2,1,,,,0
-1170514800,Leicester,Luton,1,1,,,,0
-1170514800,Hull,West Brom,0,1,,,,0
-1170514800,Crystal Palace,Ipswich,2,0,,,,0
-1170514800,Colchester,Birmingham,1,1,,,,0
-1171050300,Southend,QPR,5,0,,,,0
-1171119600,West Brom,Southampton,1,1,,,,0
-1171119600,Preston,Wolves,0,1,,,,0
-1171119600,Plymouth,Sunderland,0,2,,,,0
-1171119600,Leeds,Crystal Palace,2,1,,,,0
-1171119600,Ipswich,Leicester,0,2,,,,0
-1171119600,Derby,Hull,2,2,,,,0
-1171119600,Coventry,Cardiff,2,2,,,,0
-1171119600,Burnley,Sheffield Wed,1,1,,,,0
-1171119600,Barnsley,Colchester,0,3,,,,0
-1171193400,Birmingham,Stoke,1,0,,,,0
-1171395900,Colchester,West Brom,1,2,,,,0
-1171724400,Wolves,Burnley,2,1,,,,0
-1171724400,Sunderland,Southend,4,0,,,,0
-1171724400,Stoke,Luton,0,0,,,,0
-1171724400,Southampton,Barnsley,5,2,,,,0
-1171724400,Leicester,Coventry,3,0,,,,0
-1171724400,Crystal Palace,Birmingham,0,1,,,,0
-1171724400,Cardiff,Leeds,2,0,,,,0
-1172000700,West Brom,Cardiff,1,0,,,,0
-1172000700,Southend,Crystal Palace,0,1,,,,0
-1172000700,Preston,Norwich,2,1,,,,0
-1172000700,Plymouth,Colchester,3,0,,,,0
-1172000700,Luton,Sheffield Wed,3,2,,,,0
-1172000700,Leeds,QPR,0,0,,,,0
-1172000700,Ipswich,Wolves,0,1,,,,0
-1172000700,Coventry,Southampton,2,1,,,,0
-1172000700,Burnley,Leicester,0,1,,,,0
-1172000700,Birmingham,Sunderland,1,1,,,,0
-1172000700,Barnsley,Hull,3,0,,,,0
-1172087100,Derby,Stoke,0,2,,,,0
-1172259900,Cardiff,Preston,4,1,,,,0
-1172329200,Wolves,Leeds,1,0,,,,0
-1172329200,Sunderland,Derby,2,1,,,,0
-1172329200,Southampton,Ipswich,1,0,,,,0
-1172329200,Sheffield Wed,Southend,3,2,,,,0
-1172329200,QPR,Plymouth,1,1,,,,0
-1172329200,Norwich,Coventry,1,1,,,,0
-1172329200,Leicester,West Brom,1,1,,,,0
-1172329200,Hull,Birmingham,2,0,,,,0
-1172329200,Crystal Palace,Luton,2,1,,,,0
-1172329200,Colchester,Burnley,0,0,,,,0
-1172519100,Stoke,Barnsley,0,1,,,,0
-1172605500,Luton,Norwich,2,3,,,,0
-1172605500,Birmingham,Leeds,1,0,,,,0
-1172864700,Derby,Colchester,5,1,,,,0
-1172934000,West Brom,Sunderland,1,2,,,,0
-1172934000,Southend,Leicester,2,2,,,,0
-1172934000,Plymouth,Stoke,1,1,,,,0
-1172934000,Luton,Wolves,2,3,,,,0
-1172934000,Leeds,Sheffield Wed,2,3,,,,0
-1172934000,Ipswich,QPR,2,1,,,,0
-1172934000,Coventry,Hull,2,0,,,,0
-1172934000,Burnley,Crystal Palace,1,1,,,,0
-1172934000,Barnsley,Norwich,1,3,,,,0
-1173007800,Birmingham,Cardiff,1,0,,,,0
-1173124800,Preston,Southampton,3,1,,,,0
-1173210300,Sheffield Wed,Plymouth,1,1,,,,0
-1173210300,Norwich,Derby,1,2,,,,0
-1173210300,Hull,Ipswich,2,5,,,,0
-1173469500,Birmingham,Derby,1,0,,,,0
-1173533400,Barnsley,Sunderland,0,2,,,,0
-1173538800,Stoke,Southampton,2,1,,,,0
-1173538800,QPR,Sheffield Wed,1,1,,,,0
-1173538800,Leeds,Luton,1,0,,,,0
-1173538800,Ipswich,Southend,0,2,,,,0
-1173538800,Hull,Preston,2,0,,,,0
-1173538800,Crystal Palace,Leicester,2,0,,,,0
-1173538800,Colchester,Coventry,0,0,,,,0
-1173538800,Cardiff,Norwich,1,0,,,,0
-1173614400,Wolves,West Brom,1,0,,,,0
-1173815100,Southend,Burnley,1,0,,,,0
-1173815100,Southampton,Cardiff,2,2,,,,0
-1173815100,Sheffield Wed,Colchester,2,0,,,,0
-1173815100,Preston,Ipswich,1,0,,,,0
-1173815100,Norwich,Birmingham,1,0,,,,0
-1173815100,Luton,Hull,1,2,,,,0
-1173815100,Leicester,Leeds,1,1,,,,0
-1173815100,Derby,QPR,1,1,,,,0
-1173816000,Sunderland,Stoke,2,2,,,,0
-1173816000,Coventry,Wolves,2,1,,,,0
-1173901500,West Brom,Crystal Palace,2,3,,,,0
-1173901500,Plymouth,Barnsley,2,4,,,,0
-1174074300,Southampton,Colchester,1,2,,,,0
-1174136400,Preston,Burnley,2,0,,,,0
-1174143600,Sunderland,Hull,2,0,,,,0
-1174143600,Southend,Leeds,1,1,,,,0
-1174143600,Sheffield Wed,Wolves,2,2,,,,0
-1174143600,Plymouth,Crystal Palace,1,0,,,,0
-1174143600,Norwich,Stoke,1,0,,,,0
-1174143600,Luton,Ipswich,0,2,,,,0
-1174143600,Leicester,QPR,1,3,,,,0
-1174143600,Derby,Cardiff,3,1,,,,0
-1174143600,Coventry,Barnsley,4,1,,,,0
-1174217400,West Brom,Birmingham,1,1,,,,0
-1175280300,Leeds,Preston,2,1,,,,0
-1175349600,Wolves,Southampton,0,6,,,,0
-1175349600,Stoke,Leicester,4,2,,,,0
-1175349600,QPR,West Brom,1,2,,,,0
-1175349600,Ipswich,Plymouth,3,0,,,,0
-1175349600,Hull,Southend,4,0,,,,0
-1175349600,Crystal Palace,Sheffield Wed,1,2,,,,0
-1175349600,Colchester,Norwich,3,0,,,,0
-1175349600,Cardiff,Sunderland,0,1,,,,0
-1175349600,Burnley,Luton,0,0,,,,0
-1175349600,Barnsley,Derby,1,2,,,,0
-1175432400,Birmingham,Coventry,3,0,,,,0
-1175625900,QPR,Preston,1,0,,,,0
-1175625900,Burnley,Plymouth,4,0,,,,0
-1175859000,Southend,Colchester,0,3,,,,0
-1175867100,Leicester,Derby,1,1,,,,0
-1175868000,Hull,Norwich,1,2,,,,0
-1175954400,West Brom,Stoke,1,3,,,,0
-1175954400,Sunderland,Wolves,2,1,,,,0
-1175954400,Luton,Southampton,0,2,,,,0
-1175954400,Leeds,Plymouth,2,1,,,,0
-1175954400,Ipswich,Barnsley,5,1,,,,0
-1175954400,Crystal Palace,Preston,3,0,,,,0
-1175954400,Coventry,QPR,0,1,,,,0
-1175954400,Cardiff,Sheffield Wed,1,2,,,,0
-1175954400,Birmingham,Burnley,0,1,,,,0
-1176127200,Wolves,Hull,3,1,,,,0
-1176127200,Stoke,Crystal Palace,2,1,,,,0
-1176127200,Sheffield Wed,Ipswich,2,0,,,,0
-1176127200,QPR,Luton,3,2,,,,0
-1176127200,Preston,Southend,2,3,,,,0
-1176127200,Plymouth,Leicester,3,0,,,,0
-1176127200,Norwich,West Brom,1,2,,,,0
-1176127200,Derby,Coventry,1,1,,,,0
-1176127200,Colchester,Leeds,2,1,,,,0
-1176127200,Burnley,Cardiff,2,0,,,,0
-1176127200,Barnsley,Birmingham,1,0,,,,0
-1176135300,Southampton,Sunderland,1,2,,,,0
-1176489900,West Brom,Sheffield Wed,0,1,,,,0
-1176559200,Sunderland,QPR,2,1,,,,0
-1176559200,Southend,Barnsley,1,3,,,,0
-1176559200,Luton,Plymouth,1,2,,,,0
-1176559200,Leicester,Norwich,1,2,,,,0
-1176559200,Leeds,Burnley,1,0,,,,0
-1176559200,Ipswich,Derby,2,1,,,,0
-1176559200,Hull,Colchester,1,1,,,,0
-1176559200,Crystal Palace,Wolves,2,2,,,,0
-1176559200,Coventry,Preston,0,4,,,,0
-1176559200,Cardiff,Stoke,1,1,,,,0
-1176559200,Birmingham,Southampton,2,1,,,,0
-1176835500,Leicester,Birmingham,1,2,,,,0
-1176835500,Burnley,Norwich,3,0,,,,0
-1177094700,Derby,Luton,1,0,,,,0
-1177164000,Stoke,Hull,1,1,,,,0
-1177164000,Southampton,Leeds,1,0,,,,0
-1177164000,Sheffield Wed,Coventry,2,1,,,,0
-1177164000,QPR,Cardiff,1,0,,,,0
-1177164000,Preston,Leicester,0,1,,,,0
-1177164000,Plymouth,Southend,2,1,,,,0
-1177164000,Colchester,Sunderland,3,1,,,,0
-1177164000,Barnsley,Crystal Palace,2,0,,,,0
-1177239600,Wolves,Birmingham,2,3,,,,0
-1177239600,Norwich,Ipswich,1,1,,,,0
-1177353900,Burnley,West Brom,1,3,,,,0
-1177699500,Sunderland,Burnley,3,2,,,,0
-1177768800,Wolves,QPR,2,0,,,,0
-1177768800,Stoke,Colchester,3,1,,,,0
-1177768800,Southend,Luton,1,3,,,,0
-1177768800,Plymouth,Preston,2,0,,,,0
-1177768800,Norwich,Southampton,0,1,,,,0
-1177768800,Leeds,Ipswich,1,1,,,,0
-1177768800,Coventry,West Brom,0,1,,,,0
-1177768800,Cardiff,Hull,0,1,,,,0
-1177768800,Birmingham,Sheffield Wed,2,0,,,,0
-1177768800,Barnsley,Leicester,0,1,,,,0
-1177849800,Crystal Palace,Derby,2,0,,,,0
-1178452800,West Brom,Barnsley,7,0,,,,0
-1178452800,Southampton,Southend,4,1,,,,0
-1178452800,Sheffield Wed,Norwich,3,2,,,,0
-1178452800,QPR,Stoke,1,1,,,,0
-1178452800,Preston,Birmingham,1,0,,,,0
-1178452800,Luton,Sunderland,0,5,,,,0
-1178452800,Leicester,Wolves,1,4,,,,0
-1178452800,Ipswich,Cardiff,3,1,,,,0
-1178452800,Hull,Plymouth,1,2,,,,0
-1178452800,Derby,Leeds,2,0,,,,0
-1178452800,Colchester,Crystal Palace,0,2,,,,0
-1178452800,Burnley,Coventry,1,2,,,,0
-1178967600,Southampton,Derby,1,2,,,,0
-1179054000,Wolves,West Brom,2,3,,,,0
-1179254700,Derby,Southampton,2,3,Pen,3,3,0
-1179341100,West Brom,Wolves,1,0,,,,0
-1180360800,Derby,West Brom,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1154777400,Luton,Leicester,dATKxRKP,UNZg5BP0,2,0,,,,0
+1154786400,West Brom,Hull,ImMEe0UF,bJFnYpTt,2,0,,,,0
+1154786400,Southend,Stoke,6qsP6K6r,8nx1AWvN,1,0,,,,0
+1154786400,Preston,Sheffield Wed,4UX5t7jk,fNIX23Pi,0,0,,,,0
+1154786400,Plymouth,Wolves,6qsP6K6r,CjV6Eptm,1,1,,,,0
+1154786400,Leeds,Norwich,O4P6Zhap,tCGtX12c,1,0,,,,0
+1154786400,Ipswich,Crystal Palace,jXzj6iAf,pzMOQXRe,1,2,,,,0
+1154786400,Burnley,QPR,6PhTI7J6,z9YsXKZd,2,0,,,,0
+1154786400,Birmingham,Colchester,fuIfr9AH,K2FpWLH3,2,1,,,,0
+1154786400,Barnsley,Cardiff,WdTjExSq,Iytof9Vn,1,3,,,,0
+1154867400,Coventry,Sunderland,UuasdTpt,0d34NJCO,2,1,,,,0
+1154876400,Derby,Southampton,Ykwr8Dur,raLYxovi,2,2,,,,0
+1155062700,Wolves,Ipswich,CjV6Eptm,jXzj6iAf,1,0,,,,0
+1155062700,Stoke,Derby,8nx1AWvN,Ykwr8Dur,2,0,,,,0
+1155062700,Sheffield Wed,Luton,fNIX23Pi,dATKxRKP,0,1,,,,0
+1155062700,Norwich,Preston,tCGtX12c,4UX5t7jk,2,0,,,,0
+1155062700,Leicester,Burnley,UNZg5BP0,6PhTI7J6,0,1,,,,0
+1155062700,Hull,Barnsley,bJFnYpTt,WdTjExSq,2,3,,,,0
+1155062700,Colchester,Plymouth,K2FpWLH3,6qsP6K6r,0,1,,,,0
+1155062700,Cardiff,West Brom,Iytof9Vn,ImMEe0UF,1,1,,,,0
+1155063600,QPR,Leeds,z9YsXKZd,O4P6Zhap,2,2,,,,0
+1155063600,Crystal Palace,Southend,pzMOQXRe,6qsP6K6r,3,1,,,,0
+1155149100,Sunderland,Birmingham,0d34NJCO,fuIfr9AH,0,1,,,,0
+1155149100,Southampton,Coventry,raLYxovi,UuasdTpt,2,0,,,,0
+1155321900,Wolves,Preston,CjV6Eptm,4UX5t7jk,1,3,,,,0
+1155382200,Stoke,Birmingham,8nx1AWvN,fuIfr9AH,0,0,,,,0
+1155391200,Sunderland,Plymouth,0d34NJCO,6qsP6K6r,2,3,,,,0
+1155391200,Southampton,West Brom,raLYxovi,ImMEe0UF,0,0,,,,0
+1155391200,Sheffield Wed,Burnley,fNIX23Pi,6PhTI7J6,1,1,,,,0
+1155391200,QPR,Southend,z9YsXKZd,6qsP6K6r,2,0,,,,0
+1155391200,Norwich,Luton,tCGtX12c,dATKxRKP,3,2,,,,0
+1155391200,Leicester,Ipswich,UNZg5BP0,jXzj6iAf,3,1,,,,0
+1155391200,Colchester,Barnsley,K2FpWLH3,WdTjExSq,1,2,,,,0
+1155391200,Cardiff,Coventry,Iytof9Vn,UuasdTpt,1,0,,,,0
+1155400200,Hull,Derby,bJFnYpTt,Ykwr8Dur,1,2,,,,0
+1155466800,Crystal Palace,Leeds,pzMOQXRe,O4P6Zhap,1,0,,,,0
+1155926700,Coventry,Leicester,UuasdTpt,UNZg5BP0,0,0,,,,0
+1155996000,West Brom,Colchester,ImMEe0UF,K2FpWLH3,2,1,,,,0
+1155996000,Southend,Sunderland,6qsP6K6r,0d34NJCO,3,1,,,,0
+1155996000,Preston,QPR,4UX5t7jk,z9YsXKZd,1,1,,,,0
+1155996000,Plymouth,Sheffield Wed,6qsP6K6r,fNIX23Pi,1,2,,,,0
+1155996000,Luton,Stoke,dATKxRKP,8nx1AWvN,2,2,,,,0
+1155996000,Leeds,Cardiff,O4P6Zhap,Iytof9Vn,0,1,,,,0
+1155996000,Ipswich,Hull,jXzj6iAf,bJFnYpTt,0,0,,,,0
+1155996000,Derby,Norwich,Ykwr8Dur,tCGtX12c,0,0,,,,0
+1155996000,Burnley,Wolves,6PhTI7J6,CjV6Eptm,0,1,,,,0
+1155996000,Birmingham,Crystal Palace,fuIfr9AH,pzMOQXRe,2,1,,,,0
+1155996000,Barnsley,Southampton,WdTjExSq,raLYxovi,2,2,,,,0
+1156531500,QPR,Ipswich,z9YsXKZd,jXzj6iAf,1,3,,,,0
+1156593600,Cardiff,Birmingham,Iytof9Vn,fuIfr9AH,2,0,,,,0
+1156600800,Wolves,Luton,CjV6Eptm,dATKxRKP,1,0,,,,0
+1156600800,Stoke,Plymouth,8nx1AWvN,6qsP6K6r,1,1,,,,0
+1156600800,Southampton,Preston,raLYxovi,4UX5t7jk,1,1,,,,0
+1156600800,Norwich,Barnsley,tCGtX12c,WdTjExSq,5,1,,,,0
+1156600800,Leicester,Southend,UNZg5BP0,6qsP6K6r,1,0,,,,0
+1156600800,Hull,Coventry,bJFnYpTt,UuasdTpt,0,1,,,,0
+1156600800,Crystal Palace,Burnley,pzMOQXRe,6PhTI7J6,2,2,,,,0
+1156600800,Colchester,Derby,K2FpWLH3,Ykwr8Dur,4,3,,,,0
+1156680900,Sheffield Wed,Leeds,fNIX23Pi,O4P6Zhap,0,1,,,,0
+1156773600,Sunderland,West Brom,0d34NJCO,ImMEe0UF,2,0,,,,0
+1157810400,West Brom,Leicester,ImMEe0UF,UNZg5BP0,2,0,,,,0
+1157810400,Southend,Sheffield Wed,6qsP6K6r,fNIX23Pi,0,0,,,,0
+1157810400,Preston,Cardiff,4UX5t7jk,Iytof9Vn,2,1,,,,0
+1157810400,Plymouth,QPR,6qsP6K6r,z9YsXKZd,1,1,,,,0
+1157810400,Luton,Crystal Palace,dATKxRKP,pzMOQXRe,2,1,,,,0
+1157810400,Ipswich,Southampton,jXzj6iAf,raLYxovi,2,1,,,,0
+1157810400,Derby,Sunderland,Ykwr8Dur,0d34NJCO,1,2,,,,0
+1157810400,Coventry,Norwich,UuasdTpt,tCGtX12c,3,0,,,,0
+1157810400,Burnley,Colchester,6PhTI7J6,K2FpWLH3,1,2,,,,0
+1157810400,Birmingham,Hull,fuIfr9AH,bJFnYpTt,2,1,,,,0
+1157810400,Barnsley,Stoke,WdTjExSq,8nx1AWvN,2,2,,,,0
+1157890500,Leeds,Wolves,O4P6Zhap,CjV6Eptm,0,1,,,,0
+1158086700,Wolves,Derby,CjV6Eptm,Ykwr8Dur,0,1,,,,0
+1158086700,Southend,Norwich,6qsP6K6r,tCGtX12c,3,3,,,,0
+1158086700,Sheffield Wed,Stoke,fNIX23Pi,8nx1AWvN,1,1,,,,0
+1158086700,Preston,West Brom,4UX5t7jk,ImMEe0UF,1,0,,,,0
+1158086700,Plymouth,Cardiff,6qsP6K6r,Iytof9Vn,3,3,,,,0
+1158086700,Luton,Colchester,dATKxRKP,K2FpWLH3,2,1,,,,0
+1158086700,Leicester,Hull,UNZg5BP0,bJFnYpTt,0,1,,,,0
+1158086700,Ipswich,Coventry,jXzj6iAf,UuasdTpt,2,1,,,,0
+1158086700,Burnley,Barnsley,6PhTI7J6,WdTjExSq,4,2,,,,0
+1158087600,QPR,Birmingham,z9YsXKZd,fuIfr9AH,0,2,,,,0
+1158087600,Crystal Palace,Southampton,pzMOQXRe,raLYxovi,0,2,,,,0
+1158173100,Leeds,Sunderland,O4P6Zhap,0d34NJCO,0,3,,,,0
+1158345900,Hull,Sheffield Wed,bJFnYpTt,fNIX23Pi,2,1,,,,0
+1158415200,West Brom,Southend,ImMEe0UF,6qsP6K6r,1,1,,,,0
+1158415200,Sunderland,Leicester,0d34NJCO,UNZg5BP0,1,1,,,,0
+1158415200,Stoke,Burnley,8nx1AWvN,6PhTI7J6,0,1,,,,0
+1158415200,Southampton,Plymouth,raLYxovi,6qsP6K6r,1,0,,,,0
+1158415200,Norwich,Crystal Palace,tCGtX12c,pzMOQXRe,0,1,,,,0
+1158415200,Derby,Preston,Ykwr8Dur,4UX5t7jk,1,1,,,,0
+1158415200,Coventry,Leeds,UuasdTpt,O4P6Zhap,1,0,,,,0
+1158415200,Colchester,QPR,K2FpWLH3,z9YsXKZd,2,1,,,,0
+1158415200,Cardiff,Luton,Iytof9Vn,dATKxRKP,4,1,,,,0
+1158415200,Birmingham,Ipswich,fuIfr9AH,jXzj6iAf,2,2,,,,0
+1158415200,Barnsley,Wolves,WdTjExSq,CjV6Eptm,1,0,,,,0
+1158950700,Preston,Barnsley,4UX5t7jk,WdTjExSq,1,0,,,,0
+1159020000,Wolves,Stoke,CjV6Eptm,8nx1AWvN,2,0,,,,0
+1159020000,Sheffield Wed,Derby,fNIX23Pi,Ykwr8Dur,1,2,,,,0
+1159020000,QPR,Hull,z9YsXKZd,bJFnYpTt,2,0,,,,0
+1159020000,Plymouth,Norwich,6qsP6K6r,tCGtX12c,3,1,,,,0
+1159020000,Luton,West Brom,dATKxRKP,ImMEe0UF,2,2,,,,0
+1159020000,Leicester,Colchester,UNZg5BP0,K2FpWLH3,0,0,,,,0
+1159020000,Leeds,Birmingham,O4P6Zhap,fuIfr9AH,3,2,,,,0
+1159020000,Ipswich,Sunderland,jXzj6iAf,0d34NJCO,3,1,,,,0
+1159020000,Crystal Palace,Coventry,pzMOQXRe,UuasdTpt,1,0,,,,0
+1159020000,Burnley,Southampton,6PhTI7J6,raLYxovi,2,3,,,,0
+1159100100,Southend,Cardiff,6qsP6K6r,Iytof9Vn,0,3,,,,0
+1159555500,Colchester,Ipswich,K2FpWLH3,jXzj6iAf,1,0,,,,0
+1159624800,West Brom,Leeds,ImMEe0UF,O4P6Zhap,4,2,,,,0
+1159624800,Sunderland,Sheffield Wed,0d34NJCO,fNIX23Pi,1,0,,,,0
+1159624800,Stoke,Preston,8nx1AWvN,4UX5t7jk,1,1,,,,0
+1159624800,Southampton,QPR,raLYxovi,z9YsXKZd,1,2,,,,0
+1159624800,Hull,Crystal Palace,bJFnYpTt,pzMOQXRe,1,1,,,,0
+1159624800,Derby,Southend,Ykwr8Dur,6qsP6K6r,3,0,,,,0
+1159624800,Coventry,Plymouth,UuasdTpt,6qsP6K6r,0,1,,,,0
+1159624800,Cardiff,Wolves,Iytof9Vn,CjV6Eptm,4,0,,,,0
+1159624800,Birmingham,Leicester,fuIfr9AH,UNZg5BP0,1,1,,,,0
+1159624800,Barnsley,Luton,WdTjExSq,dATKxRKP,1,2,,,,0
+1159704900,Norwich,Burnley,tCGtX12c,6PhTI7J6,1,4,,,,0
+1160765100,Southend,Coventry,6qsP6K6r,UuasdTpt,2,3,,,,0
+1160834400,Wolves,Colchester,CjV6Eptm,K2FpWLH3,1,0,,,,0
+1160834400,Sheffield Wed,Barnsley,fNIX23Pi,WdTjExSq,2,1,,,,0
+1160834400,QPR,Norwich,z9YsXKZd,tCGtX12c,3,3,,,,0
+1160834400,Preston,Sunderland,4UX5t7jk,0d34NJCO,4,1,,,,0
+1160834400,Luton,Birmingham,dATKxRKP,fuIfr9AH,3,2,,,,0
+1160834400,Leicester,Southampton,UNZg5BP0,raLYxovi,3,2,,,,0
+1160834400,Leeds,Stoke,O4P6Zhap,8nx1AWvN,0,4,,,,0
+1160834400,Ipswich,West Brom,jXzj6iAf,ImMEe0UF,1,5,,,,0
+1160834400,Crystal Palace,Cardiff,pzMOQXRe,Iytof9Vn,1,2,,,,0
+1160834400,Burnley,Hull,6PhTI7J6,bJFnYpTt,2,0,,,,0
+1160914500,Plymouth,Derby,6qsP6K6r,Ykwr8Dur,3,1,,,,0
+1161110700,Wolves,Coventry,CjV6Eptm,UuasdTpt,1,0,,,,0
+1161110700,Stoke,Sunderland,8nx1AWvN,0d34NJCO,2,1,,,,0
+1161110700,Leeds,Leicester,O4P6Zhap,UNZg5BP0,1,2,,,,0
+1161110700,Ipswich,Preston,jXzj6iAf,4UX5t7jk,2,3,,,,0
+1161110700,Hull,Luton,bJFnYpTt,dATKxRKP,0,0,,,,0
+1161110700,Cardiff,Southampton,Iytof9Vn,raLYxovi,1,0,,,,0
+1161110700,Burnley,Southend,6PhTI7J6,6qsP6K6r,0,0,,,,0
+1161110700,Birmingham,Norwich,fuIfr9AH,tCGtX12c,0,1,,,,0
+1161110700,Barnsley,Plymouth,WdTjExSq,6qsP6K6r,2,2,,,,0
+1161111600,QPR,Derby,z9YsXKZd,Ykwr8Dur,1,2,,,,0
+1161111600,Crystal Palace,West Brom,pzMOQXRe,ImMEe0UF,0,2,,,,0
+1161197100,Colchester,Sheffield Wed,K2FpWLH3,fNIX23Pi,4,0,,,,0
+1161439200,Sunderland,Barnsley,0d34NJCO,WdTjExSq,2,0,,,,0
+1161439200,Southend,Ipswich,6qsP6K6r,jXzj6iAf,1,3,,,,0
+1161439200,Southampton,Stoke,raLYxovi,8nx1AWvN,1,0,,,,0
+1161439200,Sheffield Wed,QPR,fNIX23Pi,z9YsXKZd,3,2,,,,0
+1161439200,Preston,Hull,4UX5t7jk,bJFnYpTt,2,1,,,,0
+1161439200,Plymouth,Burnley,6qsP6K6r,6PhTI7J6,0,0,,,,0
+1161439200,Norwich,Cardiff,tCGtX12c,Iytof9Vn,1,0,,,,0
+1161439200,Luton,Leeds,dATKxRKP,O4P6Zhap,5,1,,,,0
+1161439200,Leicester,Crystal Palace,UNZg5BP0,pzMOQXRe,1,1,,,,0
+1161439200,Derby,Birmingham,Ykwr8Dur,fuIfr9AH,0,1,,,,0
+1161514800,West Brom,Wolves,ImMEe0UF,CjV6Eptm,3,0,,,,0
+1161630000,Coventry,Colchester,UuasdTpt,K2FpWLH3,2,1,,,,0
+1161974700,Burnley,Preston,6PhTI7J6,4UX5t7jk,3,2,,,,0
+1162033200,Birmingham,West Brom,fuIfr9AH,ImMEe0UF,2,0,,,,0
+1162044000,Wolves,Sheffield Wed,CjV6Eptm,fNIX23Pi,2,2,,,,0
+1162044000,Stoke,Norwich,8nx1AWvN,tCGtX12c,5,0,,,,0
+1162044000,QPR,Leicester,z9YsXKZd,UNZg5BP0,1,1,,,,0
+1162044000,Leeds,Southend,O4P6Zhap,6qsP6K6r,2,0,,,,0
+1162044000,Hull,Sunderland,bJFnYpTt,0d34NJCO,0,1,,,,0
+1162044000,Crystal Palace,Plymouth,pzMOQXRe,6qsP6K6r,0,1,,,,0
+1162044000,Colchester,Southampton,K2FpWLH3,raLYxovi,2,0,,,,0
+1162044000,Cardiff,Derby,Iytof9Vn,Ykwr8Dur,2,2,,,,0
+1162044000,Barnsley,Coventry,WdTjExSq,UuasdTpt,0,1,,,,0
+1162127700,Ipswich,Luton,jXzj6iAf,dATKxRKP,5,0,,,,0
+1162323900,West Brom,QPR,ImMEe0UF,z9YsXKZd,3,3,,,,0
+1162323900,Sunderland,Cardiff,0d34NJCO,Iytof9Vn,1,2,,,,0
+1162323900,Southend,Hull,6qsP6K6r,bJFnYpTt,2,3,,,,0
+1162323900,Sheffield Wed,Crystal Palace,fNIX23Pi,pzMOQXRe,3,2,,,,0
+1162323900,Plymouth,Ipswich,6qsP6K6r,jXzj6iAf,1,1,,,,0
+1162323900,Norwich,Colchester,tCGtX12c,K2FpWLH3,1,1,,,,0
+1162323900,Luton,Burnley,dATKxRKP,6PhTI7J6,0,2,,,,0
+1162323900,Leicester,Stoke,UNZg5BP0,8nx1AWvN,2,1,,,,0
+1162323900,Coventry,Birmingham,UuasdTpt,fuIfr9AH,0,1,,,,0
+1162324800,Preston,Leeds,4UX5t7jk,O4P6Zhap,4,1,,,,0
+1162410300,Southampton,Wolves,raLYxovi,CjV6Eptm,2,0,,,,0
+1162410300,Derby,Barnsley,Ykwr8Dur,WdTjExSq,2,1,,,,0
+1162652400,Wolves,Southend,CjV6Eptm,6qsP6K6r,3,1,,,,0
+1162652400,Southampton,Hull,raLYxovi,bJFnYpTt,0,0,,,,0
+1162652400,Sheffield Wed,Leicester,fNIX23Pi,UNZg5BP0,2,1,,,,0
+1162652400,QPR,Crystal Palace,z9YsXKZd,pzMOQXRe,4,2,,,,0
+1162652400,Preston,Luton,4UX5t7jk,dATKxRKP,3,0,,,,0
+1162652400,Plymouth,Birmingham,6qsP6K6r,fuIfr9AH,0,1,,,,0
+1162652400,Norwich,Sunderland,tCGtX12c,0d34NJCO,1,0,,,,0
+1162652400,Derby,West Brom,Ykwr8Dur,ImMEe0UF,2,1,,,,0
+1162652400,Colchester,Cardiff,K2FpWLH3,Iytof9Vn,3,1,,,,0
+1162652400,Burnley,Ipswich,6PhTI7J6,jXzj6iAf,1,0,,,,0
+1162652400,Barnsley,Leeds,WdTjExSq,O4P6Zhap,3,2,,,,0
+1162843200,Stoke,Coventry,8nx1AWvN,UuasdTpt,1,0,,,,0
+1163257200,West Brom,Norwich,ImMEe0UF,tCGtX12c,0,1,,,,0
+1163257200,Sunderland,Southampton,0d34NJCO,raLYxovi,1,1,,,,0
+1163257200,Southend,Preston,6qsP6K6r,4UX5t7jk,0,0,,,,0
+1163257200,Luton,QPR,dATKxRKP,z9YsXKZd,2,3,,,,0
+1163257200,Leicester,Plymouth,UNZg5BP0,6qsP6K6r,2,2,,,,0
+1163257200,Leeds,Colchester,O4P6Zhap,K2FpWLH3,3,0,,,,0
+1163257200,Ipswich,Sheffield Wed,jXzj6iAf,fNIX23Pi,0,2,,,,0
+1163257200,Hull,Wolves,bJFnYpTt,CjV6Eptm,2,0,,,,0
+1163257200,Crystal Palace,Stoke,pzMOQXRe,8nx1AWvN,0,1,,,,0
+1163257200,Coventry,Derby,UuasdTpt,Ykwr8Dur,1,2,,,,0
+1163257200,Cardiff,Burnley,Iytof9Vn,6PhTI7J6,1,0,,,,0
+1163257200,Birmingham,Barnsley,fuIfr9AH,WdTjExSq,2,0,,,,0
+1163792700,Cardiff,QPR,Iytof9Vn,z9YsXKZd,0,1,,,,0
+1163851200,Birmingham,Wolves,fuIfr9AH,CjV6Eptm,1,1,,,,0
+1163862000,West Brom,Burnley,ImMEe0UF,6PhTI7J6,3,0,,,,0
+1163862000,Sunderland,Colchester,0d34NJCO,K2FpWLH3,3,1,,,,0
+1163862000,Southend,Plymouth,6qsP6K6r,6qsP6K6r,1,1,,,,0
+1163862000,Luton,Derby,dATKxRKP,Ykwr8Dur,0,2,,,,0
+1163862000,Leicester,Preston,UNZg5BP0,4UX5t7jk,0,1,,,,0
+1163862000,Leeds,Southampton,O4P6Zhap,raLYxovi,0,3,,,,0
+1163862000,Hull,Stoke,bJFnYpTt,8nx1AWvN,0,2,,,,0
+1163862000,Crystal Palace,Barnsley,pzMOQXRe,WdTjExSq,2,0,,,,0
+1163862000,Coventry,Sheffield Wed,UuasdTpt,fNIX23Pi,3,1,,,,0
+1163935800,Ipswich,Norwich,jXzj6iAf,tCGtX12c,3,1,,,,0
+1164398400,Wolves,Sunderland,CjV6Eptm,0d34NJCO,1,1,,,,0
+1164466800,Stoke,West Brom,8nx1AWvN,ImMEe0UF,1,0,,,,0
+1164466800,Southampton,Luton,raLYxovi,dATKxRKP,2,1,,,,0
+1164466800,Sheffield Wed,Cardiff,fNIX23Pi,Iytof9Vn,0,0,,,,0
+1164466800,QPR,Coventry,z9YsXKZd,UuasdTpt,0,1,,,,0
+1164466800,Preston,Crystal Palace,4UX5t7jk,pzMOQXRe,0,0,,,,0
+1164466800,Plymouth,Leeds,6qsP6K6r,O4P6Zhap,1,2,,,,0
+1164466800,Norwich,Hull,tCGtX12c,bJFnYpTt,1,1,,,,0
+1164466800,Derby,Leicester,Ykwr8Dur,UNZg5BP0,1,0,,,,0
+1164466800,Colchester,Southend,K2FpWLH3,6qsP6K6r,3,0,,,,0
+1164466800,Burnley,Birmingham,6PhTI7J6,fuIfr9AH,1,2,,,,0
+1164466800,Barnsley,Ipswich,WdTjExSq,jXzj6iAf,1,0,,,,0
+1164743100,Wolves,Crystal Palace,CjV6Eptm,pzMOQXRe,1,1,,,,0
+1164743100,Stoke,Cardiff,8nx1AWvN,Iytof9Vn,3,0,,,,0
+1164743100,Sheffield Wed,West Brom,fNIX23Pi,ImMEe0UF,3,1,,,,0
+1164743100,Preston,Coventry,4UX5t7jk,UuasdTpt,1,1,,,,0
+1164743100,Plymouth,Luton,6qsP6K6r,dATKxRKP,1,0,,,,0
+1164743100,Norwich,Leicester,tCGtX12c,UNZg5BP0,3,1,,,,0
+1164743100,Colchester,Hull,K2FpWLH3,bJFnYpTt,5,1,,,,0
+1164743100,Burnley,Leeds,6PhTI7J6,O4P6Zhap,2,1,,,,0
+1164743100,Barnsley,Southend,WdTjExSq,6qsP6K6r,2,0,,,,0
+1164744000,QPR,Sunderland,z9YsXKZd,0d34NJCO,1,2,,,,0
+1164829500,Southampton,Birmingham,raLYxovi,fuIfr9AH,4,3,,,,0
+1164829500,Derby,Ipswich,Ykwr8Dur,jXzj6iAf,2,1,,,,0
+1165060800,Leeds,Barnsley,O4P6Zhap,WdTjExSq,2,2,,,,0
+1165071600,West Brom,Derby,ImMEe0UF,Ykwr8Dur,1,0,,,,0
+1165071600,Sunderland,Norwich,0d34NJCO,tCGtX12c,1,0,,,,0
+1165071600,Southend,Wolves,6qsP6K6r,CjV6Eptm,0,1,,,,0
+1165071600,Luton,Preston,dATKxRKP,4UX5t7jk,2,0,,,,0
+1165071600,Leicester,Sheffield Wed,UNZg5BP0,fNIX23Pi,1,4,,,,0
+1165071600,Ipswich,Burnley,jXzj6iAf,6PhTI7J6,1,1,,,,0
+1165071600,Hull,Southampton,bJFnYpTt,raLYxovi,2,4,,,,0
+1165071600,Crystal Palace,QPR,pzMOQXRe,z9YsXKZd,3,0,,,,0
+1165071600,Coventry,Stoke,UuasdTpt,8nx1AWvN,0,0,,,,0
+1165071600,Cardiff,Colchester,Iytof9Vn,K2FpWLH3,0,0,,,,0
+1165071600,Birmingham,Plymouth,fuIfr9AH,6qsP6K6r,3,0,,,,0
+1165676400,Wolves,Leicester,CjV6Eptm,UNZg5BP0,1,2,,,,0
+1165676400,Sunderland,Luton,0d34NJCO,dATKxRKP,2,1,,,,0
+1165676400,Stoke,QPR,8nx1AWvN,z9YsXKZd,1,0,,,,0
+1165676400,Southend,Southampton,6qsP6K6r,raLYxovi,2,1,,,,0
+1165676400,Plymouth,Hull,6qsP6K6r,bJFnYpTt,1,0,,,,0
+1165676400,Norwich,Sheffield Wed,tCGtX12c,fNIX23Pi,1,2,,,,0
+1165676400,Leeds,Derby,O4P6Zhap,Ykwr8Dur,0,1,,,,0
+1165676400,Crystal Palace,Colchester,pzMOQXRe,K2FpWLH3,1,3,,,,0
+1165676400,Coventry,Burnley,UuasdTpt,6PhTI7J6,1,0,,,,0
+1165676400,Cardiff,Ipswich,Iytof9Vn,jXzj6iAf,2,2,,,,0
+1165676400,Birmingham,Preston,fuIfr9AH,4UX5t7jk,3,1,,,,0
+1165756500,Barnsley,West Brom,WdTjExSq,ImMEe0UF,1,1,,,,0
+1166211900,Luton,Southend,dATKxRKP,6qsP6K6r,0,0,,,,0
+1166281200,West Brom,Coventry,ImMEe0UF,UuasdTpt,5,0,,,,0
+1166281200,Southampton,Norwich,raLYxovi,tCGtX12c,2,1,,,,0
+1166281200,Sheffield Wed,Birmingham,fNIX23Pi,fuIfr9AH,0,3,,,,0
+1166281200,QPR,Wolves,z9YsXKZd,CjV6Eptm,0,1,,,,0
+1166281200,Preston,Plymouth,4UX5t7jk,6qsP6K6r,3,0,,,,0
+1166281200,Leicester,Barnsley,UNZg5BP0,WdTjExSq,2,0,,,,0
+1166281200,Ipswich,Leeds,jXzj6iAf,O4P6Zhap,1,0,,,,0
+1166281200,Hull,Cardiff,bJFnYpTt,Iytof9Vn,4,1,,,,0
+1166281200,Derby,Crystal Palace,Ykwr8Dur,pzMOQXRe,1,0,,,,0
+1166281200,Colchester,Stoke,K2FpWLH3,8nx1AWvN,3,0,,,,0
+1166281200,Burnley,Sunderland,6PhTI7J6,0d34NJCO,2,2,,,,0
+1166817600,Crystal Palace,Sunderland,pzMOQXRe,0d34NJCO,1,0,,,,0
+1166875200,Leeds,Hull,O4P6Zhap,bJFnYpTt,0,0,,,,0
+1166886000,Wolves,Norwich,CjV6Eptm,tCGtX12c,2,2,,,,0
+1166886000,Southend,Birmingham,6qsP6K6r,fuIfr9AH,0,4,,,,0
+1166886000,Sheffield Wed,Southampton,fNIX23Pi,raLYxovi,3,3,,,,0
+1166886000,QPR,Barnsley,z9YsXKZd,WdTjExSq,1,0,,,,0
+1166886000,Preston,Colchester,4UX5t7jk,K2FpWLH3,1,0,,,,0
+1166886000,Plymouth,West Brom,6qsP6K6r,ImMEe0UF,2,2,,,,0
+1166886000,Luton,Coventry,dATKxRKP,UuasdTpt,3,1,,,,0
+1166886000,Leicester,Cardiff,UNZg5BP0,Iytof9Vn,0,0,,,,0
+1166886000,Ipswich,Stoke,jXzj6iAf,8nx1AWvN,0,1,,,,0
+1166886000,Burnley,Derby,6PhTI7J6,Ykwr8Dur,0,0,,,,0
+1167134400,Southampton,Crystal Palace,raLYxovi,pzMOQXRe,1,1,,,,0
+1167138000,Cardiff,Plymouth,Iytof9Vn,6qsP6K6r,2,2,,,,0
+1167145200,West Brom,Preston,ImMEe0UF,4UX5t7jk,4,2,,,,0
+1167145200,Sunderland,Leeds,0d34NJCO,O4P6Zhap,2,0,,,,0
+1167145200,Stoke,Sheffield Wed,8nx1AWvN,fNIX23Pi,1,2,,,,0
+1167145200,Norwich,Southend,tCGtX12c,6qsP6K6r,0,0,,,,0
+1167145200,Hull,Leicester,bJFnYpTt,UNZg5BP0,1,2,,,,0
+1167145200,Derby,Wolves,Ykwr8Dur,CjV6Eptm,0,2,,,,0
+1167145200,Coventry,Ipswich,UuasdTpt,jXzj6iAf,1,2,,,,0
+1167145200,Colchester,Luton,K2FpWLH3,dATKxRKP,4,1,,,,0
+1167145200,Birmingham,QPR,fuIfr9AH,z9YsXKZd,2,1,,,,0
+1167145200,Barnsley,Burnley,WdTjExSq,6PhTI7J6,1,0,,,,0
+1167421500,Birmingham,Luton,fuIfr9AH,dATKxRKP,2,2,,,,0
+1167483600,Barnsley,Sheffield Wed,WdTjExSq,fNIX23Pi,0,3,,,,0
+1167490800,West Brom,Ipswich,ImMEe0UF,jXzj6iAf,2,0,,,,0
+1167490800,Sunderland,Preston,0d34NJCO,4UX5t7jk,0,1,,,,0
+1167490800,Stoke,Leeds,8nx1AWvN,O4P6Zhap,3,1,,,,0
+1167490800,Southampton,Leicester,raLYxovi,UNZg5BP0,2,0,,,,0
+1167490800,Norwich,QPR,tCGtX12c,z9YsXKZd,1,0,,,,0
+1167490800,Hull,Burnley,bJFnYpTt,6PhTI7J6,2,0,,,,0
+1167490800,Derby,Plymouth,Ykwr8Dur,6qsP6K6r,1,0,,,,0
+1167490800,Coventry,Southend,UuasdTpt,6qsP6K6r,1,1,,,,0
+1167490800,Colchester,Wolves,K2FpWLH3,CjV6Eptm,2,1,,,,0
+1167490800,Cardiff,Crystal Palace,Iytof9Vn,pzMOQXRe,0,0,,,,0
+1167663600,Wolves,Barnsley,CjV6Eptm,WdTjExSq,2,0,,,,0
+1167663600,Southend,West Brom,6qsP6K6r,ImMEe0UF,3,1,,,,0
+1167663600,Sheffield Wed,Hull,fNIX23Pi,bJFnYpTt,1,2,,,,0
+1167663600,QPR,Colchester,z9YsXKZd,K2FpWLH3,1,0,,,,0
+1167663600,Preston,Derby,4UX5t7jk,Ykwr8Dur,1,2,,,,0
+1167663600,Plymouth,Southampton,6qsP6K6r,raLYxovi,1,1,,,,0
+1167663600,Luton,Cardiff,dATKxRKP,Iytof9Vn,0,0,,,,0
+1167663600,Leicester,Sunderland,UNZg5BP0,0d34NJCO,0,2,,,,0
+1167663600,Leeds,Coventry,O4P6Zhap,UuasdTpt,2,1,,,,0
+1167663600,Ipswich,Birmingham,jXzj6iAf,fuIfr9AH,1,0,,,,0
+1167663600,Crystal Palace,Norwich,pzMOQXRe,tCGtX12c,3,1,,,,0
+1168631100,West Brom,Luton,ImMEe0UF,dATKxRKP,3,2,,,,0
+1168700400,Sunderland,Ipswich,0d34NJCO,jXzj6iAf,1,0,,,,0
+1168700400,Stoke,Wolves,8nx1AWvN,CjV6Eptm,1,1,,,,0
+1168700400,Southampton,Burnley,raLYxovi,6PhTI7J6,0,0,,,,0
+1168700400,Norwich,Plymouth,tCGtX12c,6qsP6K6r,1,3,,,,0
+1168700400,Hull,QPR,bJFnYpTt,z9YsXKZd,2,1,,,,0
+1168700400,Derby,Sheffield Wed,Ykwr8Dur,fNIX23Pi,1,0,,,,0
+1168700400,Coventry,Crystal Palace,UuasdTpt,pzMOQXRe,2,4,,,,0
+1168700400,Colchester,Leicester,K2FpWLH3,UNZg5BP0,1,1,,,,0
+1168700400,Cardiff,Southend,Iytof9Vn,6qsP6K6r,0,1,,,,0
+1168700400,Barnsley,Preston,WdTjExSq,4UX5t7jk,0,1,,,,0
+1169298000,Wolves,Cardiff,CjV6Eptm,Iytof9Vn,1,2,,,,0
+1169305200,Southend,Derby,6qsP6K6r,Ykwr8Dur,0,1,,,,0
+1169305200,Sheffield Wed,Sunderland,fNIX23Pi,0d34NJCO,2,4,,,,0
+1169305200,QPR,Southampton,z9YsXKZd,raLYxovi,0,2,,,,0
+1169305200,Preston,Stoke,4UX5t7jk,8nx1AWvN,3,2,,,,0
+1169305200,Luton,Barnsley,dATKxRKP,WdTjExSq,0,2,,,,0
+1169305200,Leeds,West Brom,O4P6Zhap,ImMEe0UF,2,3,,,,0
+1169305200,Ipswich,Colchester,jXzj6iAf,K2FpWLH3,3,2,,,,0
+1169305200,Crystal Palace,Hull,pzMOQXRe,bJFnYpTt,1,1,,,,0
+1169495100,Plymouth,Coventry,6qsP6K6r,UuasdTpt,3,2,,,,0
+1169581500,Burnley,Stoke,6PhTI7J6,8nx1AWvN,0,1,,,,0
+1169910000,Cardiff,Leicester,Iytof9Vn,UNZg5BP0,3,2,,,,0
+1170186300,Sunderland,Crystal Palace,0d34NJCO,pzMOQXRe,0,0,,,,0
+1170186300,Stoke,Ipswich,8nx1AWvN,jXzj6iAf,0,0,,,,0
+1170186300,Norwich,Wolves,tCGtX12c,CjV6Eptm,0,1,,,,0
+1170186300,Hull,Leeds,bJFnYpTt,O4P6Zhap,1,2,,,,0
+1170186300,Derby,Burnley,Ykwr8Dur,6PhTI7J6,1,0,,,,0
+1170186300,Coventry,Luton,UuasdTpt,dATKxRKP,1,0,,,,0
+1170186300,Colchester,Preston,K2FpWLH3,4UX5t7jk,1,0,,,,0
+1170186300,Birmingham,Southend,fuIfr9AH,6qsP6K6r,1,3,,,,0
+1170186300,Barnsley,QPR,WdTjExSq,z9YsXKZd,2,0,,,,0
+1170272700,West Brom,Plymouth,ImMEe0UF,6qsP6K6r,2,1,,,,0
+1170272700,Southampton,Sheffield Wed,raLYxovi,fNIX23Pi,2,1,,,,0
+1170445500,Cardiff,Barnsley,Iytof9Vn,WdTjExSq,2,0,,,,0
+1170514800,Wolves,Plymouth,CjV6Eptm,6qsP6K6r,2,2,,,,0
+1170514800,Sunderland,Coventry,0d34NJCO,UuasdTpt,2,0,,,,0
+1170514800,Stoke,Southend,8nx1AWvN,6qsP6K6r,1,1,,,,0
+1170514800,Southampton,Derby,raLYxovi,Ykwr8Dur,0,1,,,,0
+1170514800,Sheffield Wed,Preston,fNIX23Pi,4UX5t7jk,1,3,,,,0
+1170514800,QPR,Burnley,z9YsXKZd,6PhTI7J6,3,1,,,,0
+1170514800,Norwich,Leeds,tCGtX12c,O4P6Zhap,2,1,,,,0
+1170514800,Leicester,Luton,UNZg5BP0,dATKxRKP,1,1,,,,0
+1170514800,Hull,West Brom,bJFnYpTt,ImMEe0UF,0,1,,,,0
+1170514800,Crystal Palace,Ipswich,pzMOQXRe,jXzj6iAf,2,0,,,,0
+1170514800,Colchester,Birmingham,K2FpWLH3,fuIfr9AH,1,1,,,,0
+1171050300,Southend,QPR,6qsP6K6r,z9YsXKZd,5,0,,,,0
+1171119600,West Brom,Southampton,ImMEe0UF,raLYxovi,1,1,,,,0
+1171119600,Preston,Wolves,4UX5t7jk,CjV6Eptm,0,1,,,,0
+1171119600,Plymouth,Sunderland,6qsP6K6r,0d34NJCO,0,2,,,,0
+1171119600,Leeds,Crystal Palace,O4P6Zhap,pzMOQXRe,2,1,,,,0
+1171119600,Ipswich,Leicester,jXzj6iAf,UNZg5BP0,0,2,,,,0
+1171119600,Derby,Hull,Ykwr8Dur,bJFnYpTt,2,2,,,,0
+1171119600,Coventry,Cardiff,UuasdTpt,Iytof9Vn,2,2,,,,0
+1171119600,Burnley,Sheffield Wed,6PhTI7J6,fNIX23Pi,1,1,,,,0
+1171119600,Barnsley,Colchester,WdTjExSq,K2FpWLH3,0,3,,,,0
+1171193400,Birmingham,Stoke,fuIfr9AH,8nx1AWvN,1,0,,,,0
+1171395900,Colchester,West Brom,K2FpWLH3,ImMEe0UF,1,2,,,,0
+1171724400,Wolves,Burnley,CjV6Eptm,6PhTI7J6,2,1,,,,0
+1171724400,Sunderland,Southend,0d34NJCO,6qsP6K6r,4,0,,,,0
+1171724400,Stoke,Luton,8nx1AWvN,dATKxRKP,0,0,,,,0
+1171724400,Southampton,Barnsley,raLYxovi,WdTjExSq,5,2,,,,0
+1171724400,Leicester,Coventry,UNZg5BP0,UuasdTpt,3,0,,,,0
+1171724400,Crystal Palace,Birmingham,pzMOQXRe,fuIfr9AH,0,1,,,,0
+1171724400,Cardiff,Leeds,Iytof9Vn,O4P6Zhap,2,0,,,,0
+1172000700,West Brom,Cardiff,ImMEe0UF,Iytof9Vn,1,0,,,,0
+1172000700,Southend,Crystal Palace,6qsP6K6r,pzMOQXRe,0,1,,,,0
+1172000700,Preston,Norwich,4UX5t7jk,tCGtX12c,2,1,,,,0
+1172000700,Plymouth,Colchester,6qsP6K6r,K2FpWLH3,3,0,,,,0
+1172000700,Luton,Sheffield Wed,dATKxRKP,fNIX23Pi,3,2,,,,0
+1172000700,Leeds,QPR,O4P6Zhap,z9YsXKZd,0,0,,,,0
+1172000700,Ipswich,Wolves,jXzj6iAf,CjV6Eptm,0,1,,,,0
+1172000700,Coventry,Southampton,UuasdTpt,raLYxovi,2,1,,,,0
+1172000700,Burnley,Leicester,6PhTI7J6,UNZg5BP0,0,1,,,,0
+1172000700,Birmingham,Sunderland,fuIfr9AH,0d34NJCO,1,1,,,,0
+1172000700,Barnsley,Hull,WdTjExSq,bJFnYpTt,3,0,,,,0
+1172087100,Derby,Stoke,Ykwr8Dur,8nx1AWvN,0,2,,,,0
+1172259900,Cardiff,Preston,Iytof9Vn,4UX5t7jk,4,1,,,,0
+1172329200,Wolves,Leeds,CjV6Eptm,O4P6Zhap,1,0,,,,0
+1172329200,Sunderland,Derby,0d34NJCO,Ykwr8Dur,2,1,,,,0
+1172329200,Southampton,Ipswich,raLYxovi,jXzj6iAf,1,0,,,,0
+1172329200,Sheffield Wed,Southend,fNIX23Pi,6qsP6K6r,3,2,,,,0
+1172329200,QPR,Plymouth,z9YsXKZd,6qsP6K6r,1,1,,,,0
+1172329200,Norwich,Coventry,tCGtX12c,UuasdTpt,1,1,,,,0
+1172329200,Leicester,West Brom,UNZg5BP0,ImMEe0UF,1,1,,,,0
+1172329200,Hull,Birmingham,bJFnYpTt,fuIfr9AH,2,0,,,,0
+1172329200,Crystal Palace,Luton,pzMOQXRe,dATKxRKP,2,1,,,,0
+1172329200,Colchester,Burnley,K2FpWLH3,6PhTI7J6,0,0,,,,0
+1172519100,Stoke,Barnsley,8nx1AWvN,WdTjExSq,0,1,,,,0
+1172605500,Luton,Norwich,dATKxRKP,tCGtX12c,2,3,,,,0
+1172605500,Birmingham,Leeds,fuIfr9AH,O4P6Zhap,1,0,,,,0
+1172864700,Derby,Colchester,Ykwr8Dur,K2FpWLH3,5,1,,,,0
+1172934000,West Brom,Sunderland,ImMEe0UF,0d34NJCO,1,2,,,,0
+1172934000,Southend,Leicester,6qsP6K6r,UNZg5BP0,2,2,,,,0
+1172934000,Plymouth,Stoke,6qsP6K6r,8nx1AWvN,1,1,,,,0
+1172934000,Luton,Wolves,dATKxRKP,CjV6Eptm,2,3,,,,0
+1172934000,Leeds,Sheffield Wed,O4P6Zhap,fNIX23Pi,2,3,,,,0
+1172934000,Ipswich,QPR,jXzj6iAf,z9YsXKZd,2,1,,,,0
+1172934000,Coventry,Hull,UuasdTpt,bJFnYpTt,2,0,,,,0
+1172934000,Burnley,Crystal Palace,6PhTI7J6,pzMOQXRe,1,1,,,,0
+1172934000,Barnsley,Norwich,WdTjExSq,tCGtX12c,1,3,,,,0
+1173007800,Birmingham,Cardiff,fuIfr9AH,Iytof9Vn,1,0,,,,0
+1173124800,Preston,Southampton,4UX5t7jk,raLYxovi,3,1,,,,0
+1173210300,Sheffield Wed,Plymouth,fNIX23Pi,6qsP6K6r,1,1,,,,0
+1173210300,Norwich,Derby,tCGtX12c,Ykwr8Dur,1,2,,,,0
+1173210300,Hull,Ipswich,bJFnYpTt,jXzj6iAf,2,5,,,,0
+1173469500,Birmingham,Derby,fuIfr9AH,Ykwr8Dur,1,0,,,,0
+1173533400,Barnsley,Sunderland,WdTjExSq,0d34NJCO,0,2,,,,0
+1173538800,Stoke,Southampton,8nx1AWvN,raLYxovi,2,1,,,,0
+1173538800,QPR,Sheffield Wed,z9YsXKZd,fNIX23Pi,1,1,,,,0
+1173538800,Leeds,Luton,O4P6Zhap,dATKxRKP,1,0,,,,0
+1173538800,Ipswich,Southend,jXzj6iAf,6qsP6K6r,0,2,,,,0
+1173538800,Hull,Preston,bJFnYpTt,4UX5t7jk,2,0,,,,0
+1173538800,Crystal Palace,Leicester,pzMOQXRe,UNZg5BP0,2,0,,,,0
+1173538800,Colchester,Coventry,K2FpWLH3,UuasdTpt,0,0,,,,0
+1173538800,Cardiff,Norwich,Iytof9Vn,tCGtX12c,1,0,,,,0
+1173614400,Wolves,West Brom,CjV6Eptm,ImMEe0UF,1,0,,,,0
+1173815100,Southend,Burnley,6qsP6K6r,6PhTI7J6,1,0,,,,0
+1173815100,Southampton,Cardiff,raLYxovi,Iytof9Vn,2,2,,,,0
+1173815100,Sheffield Wed,Colchester,fNIX23Pi,K2FpWLH3,2,0,,,,0
+1173815100,Preston,Ipswich,4UX5t7jk,jXzj6iAf,1,0,,,,0
+1173815100,Norwich,Birmingham,tCGtX12c,fuIfr9AH,1,0,,,,0
+1173815100,Luton,Hull,dATKxRKP,bJFnYpTt,1,2,,,,0
+1173815100,Leicester,Leeds,UNZg5BP0,O4P6Zhap,1,1,,,,0
+1173815100,Derby,QPR,Ykwr8Dur,z9YsXKZd,1,1,,,,0
+1173816000,Sunderland,Stoke,0d34NJCO,8nx1AWvN,2,2,,,,0
+1173816000,Coventry,Wolves,UuasdTpt,CjV6Eptm,2,1,,,,0
+1173901500,West Brom,Crystal Palace,ImMEe0UF,pzMOQXRe,2,3,,,,0
+1173901500,Plymouth,Barnsley,6qsP6K6r,WdTjExSq,2,4,,,,0
+1174074300,Southampton,Colchester,raLYxovi,K2FpWLH3,1,2,,,,0
+1174136400,Preston,Burnley,4UX5t7jk,6PhTI7J6,2,0,,,,0
+1174143600,Sunderland,Hull,0d34NJCO,bJFnYpTt,2,0,,,,0
+1174143600,Southend,Leeds,6qsP6K6r,O4P6Zhap,1,1,,,,0
+1174143600,Sheffield Wed,Wolves,fNIX23Pi,CjV6Eptm,2,2,,,,0
+1174143600,Plymouth,Crystal Palace,6qsP6K6r,pzMOQXRe,1,0,,,,0
+1174143600,Norwich,Stoke,tCGtX12c,8nx1AWvN,1,0,,,,0
+1174143600,Luton,Ipswich,dATKxRKP,jXzj6iAf,0,2,,,,0
+1174143600,Leicester,QPR,UNZg5BP0,z9YsXKZd,1,3,,,,0
+1174143600,Derby,Cardiff,Ykwr8Dur,Iytof9Vn,3,1,,,,0
+1174143600,Coventry,Barnsley,UuasdTpt,WdTjExSq,4,1,,,,0
+1174217400,West Brom,Birmingham,ImMEe0UF,fuIfr9AH,1,1,,,,0
+1175280300,Leeds,Preston,O4P6Zhap,4UX5t7jk,2,1,,,,0
+1175349600,Wolves,Southampton,CjV6Eptm,raLYxovi,0,6,,,,0
+1175349600,Stoke,Leicester,8nx1AWvN,UNZg5BP0,4,2,,,,0
+1175349600,QPR,West Brom,z9YsXKZd,ImMEe0UF,1,2,,,,0
+1175349600,Ipswich,Plymouth,jXzj6iAf,6qsP6K6r,3,0,,,,0
+1175349600,Hull,Southend,bJFnYpTt,6qsP6K6r,4,0,,,,0
+1175349600,Crystal Palace,Sheffield Wed,pzMOQXRe,fNIX23Pi,1,2,,,,0
+1175349600,Colchester,Norwich,K2FpWLH3,tCGtX12c,3,0,,,,0
+1175349600,Cardiff,Sunderland,Iytof9Vn,0d34NJCO,0,1,,,,0
+1175349600,Burnley,Luton,6PhTI7J6,dATKxRKP,0,0,,,,0
+1175349600,Barnsley,Derby,WdTjExSq,Ykwr8Dur,1,2,,,,0
+1175432400,Birmingham,Coventry,fuIfr9AH,UuasdTpt,3,0,,,,0
+1175625900,QPR,Preston,z9YsXKZd,4UX5t7jk,1,0,,,,0
+1175625900,Burnley,Plymouth,6PhTI7J6,6qsP6K6r,4,0,,,,0
+1175859000,Southend,Colchester,6qsP6K6r,K2FpWLH3,0,3,,,,0
+1175867100,Leicester,Derby,UNZg5BP0,Ykwr8Dur,1,1,,,,0
+1175868000,Hull,Norwich,bJFnYpTt,tCGtX12c,1,2,,,,0
+1175954400,West Brom,Stoke,ImMEe0UF,8nx1AWvN,1,3,,,,0
+1175954400,Sunderland,Wolves,0d34NJCO,CjV6Eptm,2,1,,,,0
+1175954400,Luton,Southampton,dATKxRKP,raLYxovi,0,2,,,,0
+1175954400,Leeds,Plymouth,O4P6Zhap,6qsP6K6r,2,1,,,,0
+1175954400,Ipswich,Barnsley,jXzj6iAf,WdTjExSq,5,1,,,,0
+1175954400,Crystal Palace,Preston,pzMOQXRe,4UX5t7jk,3,0,,,,0
+1175954400,Coventry,QPR,UuasdTpt,z9YsXKZd,0,1,,,,0
+1175954400,Cardiff,Sheffield Wed,Iytof9Vn,fNIX23Pi,1,2,,,,0
+1175954400,Birmingham,Burnley,fuIfr9AH,6PhTI7J6,0,1,,,,0
+1176127200,Wolves,Hull,CjV6Eptm,bJFnYpTt,3,1,,,,0
+1176127200,Stoke,Crystal Palace,8nx1AWvN,pzMOQXRe,2,1,,,,0
+1176127200,Sheffield Wed,Ipswich,fNIX23Pi,jXzj6iAf,2,0,,,,0
+1176127200,QPR,Luton,z9YsXKZd,dATKxRKP,3,2,,,,0
+1176127200,Preston,Southend,4UX5t7jk,6qsP6K6r,2,3,,,,0
+1176127200,Plymouth,Leicester,6qsP6K6r,UNZg5BP0,3,0,,,,0
+1176127200,Norwich,West Brom,tCGtX12c,ImMEe0UF,1,2,,,,0
+1176127200,Derby,Coventry,Ykwr8Dur,UuasdTpt,1,1,,,,0
+1176127200,Colchester,Leeds,K2FpWLH3,O4P6Zhap,2,1,,,,0
+1176127200,Burnley,Cardiff,6PhTI7J6,Iytof9Vn,2,0,,,,0
+1176127200,Barnsley,Birmingham,WdTjExSq,fuIfr9AH,1,0,,,,0
+1176135300,Southampton,Sunderland,raLYxovi,0d34NJCO,1,2,,,,0
+1176489900,West Brom,Sheffield Wed,ImMEe0UF,fNIX23Pi,0,1,,,,0
+1176559200,Sunderland,QPR,0d34NJCO,z9YsXKZd,2,1,,,,0
+1176559200,Southend,Barnsley,6qsP6K6r,WdTjExSq,1,3,,,,0
+1176559200,Luton,Plymouth,dATKxRKP,6qsP6K6r,1,2,,,,0
+1176559200,Leicester,Norwich,UNZg5BP0,tCGtX12c,1,2,,,,0
+1176559200,Leeds,Burnley,O4P6Zhap,6PhTI7J6,1,0,,,,0
+1176559200,Ipswich,Derby,jXzj6iAf,Ykwr8Dur,2,1,,,,0
+1176559200,Hull,Colchester,bJFnYpTt,K2FpWLH3,1,1,,,,0
+1176559200,Crystal Palace,Wolves,pzMOQXRe,CjV6Eptm,2,2,,,,0
+1176559200,Coventry,Preston,UuasdTpt,4UX5t7jk,0,4,,,,0
+1176559200,Cardiff,Stoke,Iytof9Vn,8nx1AWvN,1,1,,,,0
+1176559200,Birmingham,Southampton,fuIfr9AH,raLYxovi,2,1,,,,0
+1176835500,Leicester,Birmingham,UNZg5BP0,fuIfr9AH,1,2,,,,0
+1176835500,Burnley,Norwich,6PhTI7J6,tCGtX12c,3,0,,,,0
+1177094700,Derby,Luton,Ykwr8Dur,dATKxRKP,1,0,,,,0
+1177164000,Stoke,Hull,8nx1AWvN,bJFnYpTt,1,1,,,,0
+1177164000,Southampton,Leeds,raLYxovi,O4P6Zhap,1,0,,,,0
+1177164000,Sheffield Wed,Coventry,fNIX23Pi,UuasdTpt,2,1,,,,0
+1177164000,QPR,Cardiff,z9YsXKZd,Iytof9Vn,1,0,,,,0
+1177164000,Preston,Leicester,4UX5t7jk,UNZg5BP0,0,1,,,,0
+1177164000,Plymouth,Southend,6qsP6K6r,6qsP6K6r,2,1,,,,0
+1177164000,Colchester,Sunderland,K2FpWLH3,0d34NJCO,3,1,,,,0
+1177164000,Barnsley,Crystal Palace,WdTjExSq,pzMOQXRe,2,0,,,,0
+1177239600,Wolves,Birmingham,CjV6Eptm,fuIfr9AH,2,3,,,,0
+1177239600,Norwich,Ipswich,tCGtX12c,jXzj6iAf,1,1,,,,0
+1177353900,Burnley,West Brom,6PhTI7J6,ImMEe0UF,1,3,,,,0
+1177699500,Sunderland,Burnley,0d34NJCO,6PhTI7J6,3,2,,,,0
+1177768800,Wolves,QPR,CjV6Eptm,z9YsXKZd,2,0,,,,0
+1177768800,Stoke,Colchester,8nx1AWvN,K2FpWLH3,3,1,,,,0
+1177768800,Southend,Luton,6qsP6K6r,dATKxRKP,1,3,,,,0
+1177768800,Plymouth,Preston,6qsP6K6r,4UX5t7jk,2,0,,,,0
+1177768800,Norwich,Southampton,tCGtX12c,raLYxovi,0,1,,,,0
+1177768800,Leeds,Ipswich,O4P6Zhap,jXzj6iAf,1,1,,,,0
+1177768800,Coventry,West Brom,UuasdTpt,ImMEe0UF,0,1,,,,0
+1177768800,Cardiff,Hull,Iytof9Vn,bJFnYpTt,0,1,,,,0
+1177768800,Birmingham,Sheffield Wed,fuIfr9AH,fNIX23Pi,2,0,,,,0
+1177768800,Barnsley,Leicester,WdTjExSq,UNZg5BP0,0,1,,,,0
+1177849800,Crystal Palace,Derby,pzMOQXRe,Ykwr8Dur,2,0,,,,0
+1178452800,West Brom,Barnsley,ImMEe0UF,WdTjExSq,7,0,,,,0
+1178452800,Southampton,Southend,raLYxovi,6qsP6K6r,4,1,,,,0
+1178452800,Sheffield Wed,Norwich,fNIX23Pi,tCGtX12c,3,2,,,,0
+1178452800,QPR,Stoke,z9YsXKZd,8nx1AWvN,1,1,,,,0
+1178452800,Preston,Birmingham,4UX5t7jk,fuIfr9AH,1,0,,,,0
+1178452800,Luton,Sunderland,dATKxRKP,0d34NJCO,0,5,,,,0
+1178452800,Leicester,Wolves,UNZg5BP0,CjV6Eptm,1,4,,,,0
+1178452800,Ipswich,Cardiff,jXzj6iAf,Iytof9Vn,3,1,,,,0
+1178452800,Hull,Plymouth,bJFnYpTt,6qsP6K6r,1,2,,,,0
+1178452800,Derby,Leeds,Ykwr8Dur,O4P6Zhap,2,0,,,,0
+1178452800,Colchester,Crystal Palace,K2FpWLH3,pzMOQXRe,0,2,,,,0
+1178452800,Burnley,Coventry,6PhTI7J6,UuasdTpt,1,2,,,,0
+1178967600,Southampton,Derby,raLYxovi,Ykwr8Dur,1,2,,,,0
+1179054000,Wolves,West Brom,CjV6Eptm,ImMEe0UF,2,3,,,,0
+1179254700,Derby,Southampton,Ykwr8Dur,raLYxovi,2,3,Pen,3,3,0
+1179341100,West Brom,Wolves,ImMEe0UF,CjV6Eptm,1,0,,,,0
+1180360800,Derby,West Brom,Ykwr8Dur,ImMEe0UF,1,0,,,,0

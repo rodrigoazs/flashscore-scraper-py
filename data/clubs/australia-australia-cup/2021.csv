@@ -1,34 +1,34 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1629797400,Avondale FC,Devonport,-,-,WO,,,0
-1631611800,Peninsula,Brisbane Roar,0,3,,,,0
-1631698200,Edge Hill,Gold Coast Knights,0,2,,,,0
-1632216600,Queensland Lions,Casuarina,6,0,,,,0
-1632632400,Floreat Athena,Adelaide United,1,1,AET,1,3,0
-1632909600,Perth RedStar,Adelaide Olympic,0,3,,,,0
-1634445000,Adelaide Olympic,Adelaide United,0,1,,,,0
-1635053400,Queensland Lions,Brisbane Roar,0,4,,,,0
-1636185600,Mt Druitt Town,Wollongong Wolves,0,3,,,,0
-1636533000,Hume City,Port Melbourne Sharks,3,1,,,,0
-1636533000,Broadmeadow,WS Wanderers,0,3,,,,0
-1636705800,South Melbourne,Melbourne City,0,3,,,,0
-1636783200,Blacktown City,Central Coast Mariners,0,1,,,,0
-1636786800,Newcastle Olympic,Macarthur FC,0,3,,,,0
-1636793100,Western United,Newcastle Jets,2,1,,,,0
-1637742600,Sydney Olympic,Sydney FC,2,4,,,,0
-1637744400,Perth Glory,Melbourne Victory,1,1,Pen,1,2,0
-1638347400,Wollongong Wolves,Central Coast Mariners,1,2,,,,0
-1638349200,Hume City,Melbourne City,0,1,,,,0
-1638349200,Adelaide City,Melbourne Victory,0,1,,,,0
-1638433800,Tigers FC,APIA Leichhardt,0,0,AET,0,3,0
-1638865800,Western United,Wellington Phoenix,0,1,,,,0
-1638865800,APIA Leichhardt,WS Wanderers,2,1,,,,0
-1638954000,Sydney FC,Macarthur FC,0,0,AET,2,0,0
-1639470600,Avondale FC,Wellington Phoenix,1,4,,,,0
-1640075400,APIA Leichhardt,Central Coast Mariners,0,6,,,,0
-1640856600,Gold Coast Knights,Melbourne Victory,1,1,AET,1,2,0
-1609835400,Melbourne City,Wellington Phoenix,0,0,Pen,0,1,0
-1609836300,Adelaide United,Melbourne Victory,1,2,,,,0
-1610434800,Sydney FC,Brisbane Roar,1,0,,,,0
-1610956800,Sydney FC,Central Coast Mariners,0,1,,,,0
-1611902100,Melbourne Victory,Wellington Phoenix,4,1,,,,0
-1612515600,Melbourne Victory,Central Coast Mariners,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1629797400,Avondale FC,Devonport,GhHvM1Vf,IVIHHed1,-,-,WO,,,0
+1631611800,Peninsula,Brisbane Roar,2DNXrlCE,OlyE5V4J,0,3,,,,0
+1631698200,Edge Hill,Gold Coast Knights,tpbe9X7D,SYcg77CU,0,2,,,,0
+1632216600,Queensland Lions,Casuarina,GnWJ2Fya,t0K8G8gD,6,0,,,,0
+1632632400,Floreat Athena,Adelaide United,URDUuhRK,j7XSkexg,1,1,AET,1,3,0
+1632909600,Perth RedStar,Adelaide Olympic,rc2sXgXg,YeS5WjwH,0,3,,,,0
+1634445000,Adelaide Olympic,Adelaide United,YeS5WjwH,j7XSkexg,0,1,,,,0
+1635053400,Queensland Lions,Brisbane Roar,GnWJ2Fya,OlyE5V4J,0,4,,,,0
+1636185600,Mt Druitt Town,Wollongong Wolves,4lESQTm0,nuKJ7qCF,0,3,,,,0
+1636533000,Hume City,Port Melbourne Sharks,QkynLpK7,EBkIALyb,3,1,,,,0
+1636533000,Broadmeadow,WS Wanderers,CQwpIV87,ELjhZ8l9,0,3,,,,0
+1636705800,South Melbourne,Melbourne City,bTzLAEkQ,rL2rkgzd,0,3,,,,0
+1636783200,Blacktown City,Central Coast Mariners,dn5fFKUf,WloyQSJM,0,1,,,,0
+1636786800,Newcastle Olympic,Macarthur FC,2DNXrlCE,YLT3ZeZm,0,3,,,,0
+1636793100,Western United,Newcastle Jets,G689Zsd3,AowXufJO,2,1,,,,0
+1637742600,Sydney Olympic,Sydney FC,4j5y4ezi,WU4sOyqK,2,4,,,,0
+1637744400,Perth Glory,Melbourne Victory,8p3P7cak,jm1g2SD5,1,1,Pen,1,2,0
+1638347400,Wollongong Wolves,Central Coast Mariners,nuKJ7qCF,WloyQSJM,1,2,,,,0
+1638349200,Hume City,Melbourne City,QkynLpK7,rL2rkgzd,0,1,,,,0
+1638349200,Adelaide City,Melbourne Victory,xI4FzQJf,jm1g2SD5,0,1,,,,0
+1638433800,Tigers FC,APIA Leichhardt,tAX7qMR3,t4Myr8RK,0,0,AET,0,3,0
+1638865800,Western United,Wellington Phoenix,G689Zsd3,rL2rkgzd,0,1,,,,0
+1638865800,APIA Leichhardt,WS Wanderers,t4Myr8RK,ELjhZ8l9,2,1,,,,0
+1638954000,Sydney FC,Macarthur FC,WU4sOyqK,YLT3ZeZm,0,0,AET,2,0,0
+1639470600,Avondale FC,Wellington Phoenix,GhHvM1Vf,rL2rkgzd,1,4,,,,0
+1640075400,APIA Leichhardt,Central Coast Mariners,t4Myr8RK,WloyQSJM,0,6,,,,0
+1640856600,Gold Coast Knights,Melbourne Victory,SYcg77CU,jm1g2SD5,1,1,AET,1,2,0
+1609835400,Melbourne City,Wellington Phoenix,rL2rkgzd,rL2rkgzd,0,0,Pen,0,1,0
+1609836300,Adelaide United,Melbourne Victory,j7XSkexg,jm1g2SD5,1,2,,,,0
+1610434800,Sydney FC,Brisbane Roar,WU4sOyqK,OlyE5V4J,1,0,,,,0
+1610956800,Sydney FC,Central Coast Mariners,WU4sOyqK,WloyQSJM,0,1,,,,0
+1611902100,Melbourne Victory,Wellington Phoenix,jm1g2SD5,rL2rkgzd,4,1,,,,0
+1612515600,Melbourne Victory,Central Coast Mariners,jm1g2SD5,WloyQSJM,2,1,,,,0

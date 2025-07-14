@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1447003800,Sport Ancash,Los Chankas,2,0,,,,0
-1447012800,Tarapoto,Club La Colina Majes F.C.,2,1,,,,0
-1447012800,Alfredo Salinas,CLUB Deportivo Municipal De Kimbiri,3,0,,,,0
-1447014600,Defensor La Bocana,Coronel,5,1,,,,0
-1447015500,Juventud Barrio Nuevo,Club Sport La Vid,1,0,,,,0
-1447015500,Jose Chiroque Cielo,AD Cantolao,1,1,,,,0
-1447015800,Racing Club Huamachuco,Deportivo Independiente Miraflores,3,1,,,,0
-1447084800,Hualgayoc,Cristal Tumbes,2,0,,,,0
-1447533000,Deportivo Independiente Miraflores,Racing Club Huamachuco,2,0,,,,0
-1447533000,Club La Colina Majes F.C.,Tarapoto,1,1,,,,0
-1447533000,AD Cantolao,Jose Chiroque Cielo,4,0,,,,0
-1447610400,CLUB Deportivo Municipal De Kimbiri,Alfredo Salinas,1,1,,,,0
-1447617600,Cristal Tumbes,Hualgayoc,5,1,,,,0
-1447619400,Los Chankas,Sport Ancash,2,1,,,,0
-1447619400,Coronel,Defensor La Bocana,2,1,,,,0
-1447619400,Club Sport La Vid,Juventud Barrio Nuevo,4,1,,,,0
-1448215200,Sport Ancash,Cristal Tumbes,1,1,,,,0
-1448222400,Tarapoto,Alfredo Salinas,0,1,,,,0
-1448224200,Defensor La Bocana,Deportivo Independiente Miraflores,2,0,,,,0
-1448224200,AD Cantolao,Club Sport La Vid,5,1,,,,0
-1448742600,Deportivo Independiente Miraflores,Defensor La Bocana,2,2,,,,0
-1448820000,Club Sport La Vid,AD Cantolao,1,0,,,,0
-1448827200,Cristal Tumbes,Sport Ancash,3,1,,,,0
-1448827200,Alfredo Salinas,Tarapoto,1,1,,,,0
-1449347400,Defensor La Bocana,Alfredo Salinas,9,0,,,,0
-1449347400,AD Cantolao,Cristal Tumbes,2,1,,,,0
-1449606600,Cristal Tumbes,AD Cantolao,2,2,,,,0
-1449606600,Alfredo Salinas,Defensor La Bocana,6,0,,,,0
-1450027800,Defensor La Bocana,AD Cantolao,2,0,,,,0
-1450641600,AD Cantolao,Defensor La Bocana,3,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1447003800,Sport Ancash,Los Chankas,fq6L9f9f,v9LWknvd,2,0,,,,0
+1447012800,Tarapoto,Club La Colina Majes F.C.,xnn7ajoK,YiA7VlXR,2,1,,,,0
+1447012800,Alfredo Salinas,CLUB Deportivo Municipal De Kimbiri,AZxmoWSH,SpQXjSR3,3,0,,,,0
+1447014600,Defensor La Bocana,Coronel,S2D1qklJ,Y5NXdbNG,5,1,,,,0
+1447015500,Juventud Barrio Nuevo,Club Sport La Vid,,Y5NXdbNG,1,0,,,,0
+1447015500,Jose Chiroque Cielo,AD Cantolao,0b0LN08d,lld3ci33,1,1,,,,0
+1447015800,Racing Club Huamachuco,Deportivo Independiente Miraflores,dx4dCUkO,rX23k2gJ,3,1,,,,0
+1447084800,Hualgayoc,Cristal Tumbes,MZJOv7j5,tzNgj2st,2,0,,,,0
+1447533000,Deportivo Independiente Miraflores,Racing Club Huamachuco,rX23k2gJ,dx4dCUkO,2,0,,,,0
+1447533000,Club La Colina Majes F.C.,Tarapoto,YiA7VlXR,xnn7ajoK,1,1,,,,0
+1447533000,AD Cantolao,Jose Chiroque Cielo,lld3ci33,0b0LN08d,4,0,,,,0
+1447610400,CLUB Deportivo Municipal De Kimbiri,Alfredo Salinas,SpQXjSR3,AZxmoWSH,1,1,,,,0
+1447617600,Cristal Tumbes,Hualgayoc,tzNgj2st,MZJOv7j5,5,1,,,,0
+1447619400,Los Chankas,Sport Ancash,v9LWknvd,fq6L9f9f,2,1,,,,0
+1447619400,Coronel,Defensor La Bocana,Y5NXdbNG,S2D1qklJ,2,1,,,,0
+1447619400,Club Sport La Vid,Juventud Barrio Nuevo,Y5NXdbNG,,4,1,,,,0
+1448215200,Sport Ancash,Cristal Tumbes,fq6L9f9f,tzNgj2st,1,1,,,,0
+1448222400,Tarapoto,Alfredo Salinas,xnn7ajoK,AZxmoWSH,0,1,,,,0
+1448224200,Defensor La Bocana,Deportivo Independiente Miraflores,S2D1qklJ,rX23k2gJ,2,0,,,,0
+1448224200,AD Cantolao,Club Sport La Vid,lld3ci33,Y5NXdbNG,5,1,,,,0
+1448742600,Deportivo Independiente Miraflores,Defensor La Bocana,rX23k2gJ,S2D1qklJ,2,2,,,,0
+1448820000,Club Sport La Vid,AD Cantolao,Y5NXdbNG,lld3ci33,1,0,,,,0
+1448827200,Cristal Tumbes,Sport Ancash,tzNgj2st,fq6L9f9f,3,1,,,,0
+1448827200,Alfredo Salinas,Tarapoto,AZxmoWSH,xnn7ajoK,1,1,,,,0
+1449347400,Defensor La Bocana,Alfredo Salinas,S2D1qklJ,AZxmoWSH,9,0,,,,0
+1449347400,AD Cantolao,Cristal Tumbes,lld3ci33,tzNgj2st,2,1,,,,0
+1449606600,Cristal Tumbes,AD Cantolao,tzNgj2st,lld3ci33,2,2,,,,0
+1449606600,Alfredo Salinas,Defensor La Bocana,AZxmoWSH,S2D1qklJ,6,0,,,,0
+1450027800,Defensor La Bocana,AD Cantolao,S2D1qklJ,lld3ci33,2,0,,,,0
+1450641600,AD Cantolao,Defensor La Bocana,lld3ci33,S2D1qklJ,3,2,,,,0

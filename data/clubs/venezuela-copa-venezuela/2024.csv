@@ -1,76 +1,76 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1717700400,Nueva Esparta,Anzoategui FC,0,1,,,,0
-1717702200,Miranda,Caracas,2,1,,,,0
-1717702200,Heroes de Falcon,Trujillanos,1,0,,,,0
-1717702200,Carabobo,Yaracuyanos,0,2,,,,0
-1717702200,Atletico La Cruz,Dynamo Puerto,4,0,,,,0
-1717704000,Urena,Frontera,3,1,,,,0
-1717707600,Bolivar,Fundacion AIFI,0,0,,,,0
-1717711200,Zamora,Barquisimeto,1,0,,,,0
-1717711200,La Guaira,Aragua,3,0,,,,0
-1717711200,Estudiantes Merida,El Vigia,4,2,,,,0
-1718220600,Yaracuyanos,Puerto Cabello,0,1,,,,0
-1718307000,Portuguesa,Zamora,1,2,,,,0
-1718307000,El Vigia,Inter de Barinas,1,2,,,,0
-1718307000,Anzoategui FC,Universidad Central,1,0,,,,0
-1718308800,Trujillanos,Rayo Zuliano,2,0,,,,0
-1718308800,Aragua,Maritimo,0,0,,,,0
-1718308800,Angostura,Bolivar,0,1,,,,0
-1718316000,Monagas,Atletico La Cruz,5,1,,,,0
-1718316000,Dep. Tachira,Urena,5,1,,,,0
-1718316000,Caracas,Metropolitanos,2,1,,,,0
-1718834400,Universidad Central,Nueva Esparta,1,0,,,,0
-1718910000,Rayo Zuliano,Heroes de Falcon,2,1,,,,0
-1718911800,Portuguesa,Barquisimeto,0,1,,,,0
-1718911800,Frontera,Dep. Tachira,0,1,,,,0
-1718913600,Dynamo Puerto,Monagas,2,3,,,,0
-1718920800,Puerto Cabello,Carabobo,0,1,,,,0
-1718920800,La Guaira,Maritimo,3,3,,,,0
-1718920800,Inter de Barinas,Estudiantes Merida,0,0,,,,0
-1718924400,Fundacion AIFI,Angostura,0,1,,,,0
-1719171000,Miranda,Metropolitanos,1,2,,,,0
-1719432000,Frontera,Urena,6,1,,,,0
-1719516600,Yaracuyanos,Carabobo,2,0,,,,0
-1719516600,El Vigia,Estudiantes Merida,0,0,,,,0
-1719516600,Barquisimeto,Zamora,1,1,,,,0
-1719516600,Anzoategui FC,Nueva Esparta,4,1,,,,0
-1719518400,Trujillanos,Heroes de Falcon,5,0,,,,0
-1719518400,Dynamo Puerto,Atletico La Cruz,0,2,,,,0
-1719518400,Aragua,La Guaira,1,2,,,,0
-1719522000,Fundacion AIFI,Bolivar,1,2,,,,0
-1719525600,Caracas,Miranda,2,0,,,,0
-1719693000,Urena,Dep. Tachira,2,1,,,,0
-1719774000,Zamora,Portuguesa,0,1,,,,0
-1719774000,Rayo Zuliano,Trujillanos,3,0,,,,0
-1719774000,Metropolitanos,Caracas,2,1,,,,0
-1719774000,Inter de Barinas,El Vigia,2,1,,,,0
-1719775800,Atletico La Cruz,Monagas,0,0,,,,0
-1719777600,Puerto Cabello,Yaracuyanos,3,0,,,,0
-1719777600,Bolivar,Angostura,0,0,,,,0
-1719781200,Maritimo,Aragua,2,2,,,,0
-1719790200,Universidad Central,Anzoategui FC,0,0,,,,0
-1720035000,Nueva Esparta,Universidad Central,1,2,,,,0
-1720035000,Monagas,Dynamo Puerto,6,1,,,,0
-1720035000,Metropolitanos,Miranda,2,0,,,,0
-1720035000,Maritimo,La Guaira,3,0,,,,0
-1720035000,Heroes de Falcon,Rayo Zuliano,0,0,,,,0
-1720035000,Estudiantes Merida,Inter de Barinas,3,2,,,,0
-1720035000,Dep. Tachira,Frontera,5,1,,,,0
-1720035000,Barquisimeto,Portuguesa,2,3,,,,0
-1720035000,Angostura,Fundacion AIFI,3,0,,,,0
-1720049400,Carabobo,Puerto Cabello,1,2,,,,0
-1720380600,La Guaira,Estudiantes Merida,0,0,Pen,1,0,0
-1720380600,Atletico La Cruz,Angostura,0,0,Pen,0,1,0
-1720380600,Anzoategui FC,Maritimo,1,3,,,,0
-1720382400,Trujillanos,Monagas,0,1,,,,0
-1720386000,Bolivar,Rayo Zuliano,0,1,,,,0
-1720389600,Puerto Cabello,Zamora,0,0,Pen,1,0,0
-1720389600,Inter de Barinas,Metropolitanos,2,3,,,,0
-1720396800,Universidad Central,Dep. Tachira,2,0,,,,0
-1720726200,Rayo Zuliano,Maritimo,1,1,Pen,2,1,0
-1720731600,Angostura,Monagas,1,2,,,,0
-1720738800,Universidad Central,La Guaira,0,0,Pen,0,1,0
-1720738800,Puerto Cabello,Metropolitanos,2,4,,,,0
-1720990800,Monagas,Metropolitanos,0,2,,,,0
-1720990800,La Guaira,Rayo Zuliano,2,1,,,,0
-1721509200,Metropolitanos,La Guaira,0,1,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1717700400,Nueva Esparta,Anzoategui FC,jcOQ1udR,zHGRfy9D,0,1,,,,0
+1717702200,Miranda,Caracas,K86NrQ27,0nhENufQ,2,1,,,,0
+1717702200,Heroes de Falcon,Trujillanos,d4vDDRnH,lfuQn2PJ,1,0,,,,0
+1717702200,Carabobo,Yaracuyanos,CtnfXRKE,xEhZwyEE,0,2,,,,0
+1717702200,Atletico La Cruz,Dynamo Puerto,C2oEmzEB,MPfASPU2,4,0,,,,0
+1717704000,Urena,Frontera,2i892GfD,CxxxGPVr,3,1,,,,0
+1717707600,Bolivar,Fundacion AIFI,C2oEmzEB,Oh7S3th2,0,0,,,,0
+1717711200,Zamora,Barquisimeto,0A6WRcTt,lhIUgYdQ,1,0,,,,0
+1717711200,La Guaira,Aragua,hCFsixCJ,W2EojdRP,3,0,,,,0
+1717711200,Estudiantes Merida,El Vigia,Kt2RJAvf,IkB687z2,4,2,,,,0
+1718220600,Yaracuyanos,Puerto Cabello,xEhZwyEE,bkCHmVIM,0,1,,,,0
+1718307000,Portuguesa,Zamora,6LjVpO9s,0A6WRcTt,1,2,,,,0
+1718307000,El Vigia,Inter de Barinas,IkB687z2,h8DUBAnO,1,2,,,,0
+1718307000,Anzoategui FC,Universidad Central,zHGRfy9D,IVEtsHRQ,1,0,,,,0
+1718308800,Trujillanos,Rayo Zuliano,lfuQn2PJ,W6G6DmEi,2,0,,,,0
+1718308800,Aragua,Maritimo,W2EojdRP,jo0tYkF0,0,0,,,,0
+1718308800,Angostura,Bolivar,2DgfzFb3,C2oEmzEB,0,1,,,,0
+1718316000,Monagas,Atletico La Cruz,2gmAxwcQ,C2oEmzEB,5,1,,,,0
+1718316000,Dep. Tachira,Urena,OxmaT1W4,2i892GfD,5,1,,,,0
+1718316000,Caracas,Metropolitanos,0nhENufQ,tAwcOibj,2,1,,,,0
+1718834400,Universidad Central,Nueva Esparta,IVEtsHRQ,jcOQ1udR,1,0,,,,0
+1718910000,Rayo Zuliano,Heroes de Falcon,W6G6DmEi,d4vDDRnH,2,1,,,,0
+1718911800,Portuguesa,Barquisimeto,6LjVpO9s,lhIUgYdQ,0,1,,,,0
+1718911800,Frontera,Dep. Tachira,CxxxGPVr,OxmaT1W4,0,1,,,,0
+1718913600,Dynamo Puerto,Monagas,MPfASPU2,2gmAxwcQ,2,3,,,,0
+1718920800,Puerto Cabello,Carabobo,bkCHmVIM,CtnfXRKE,0,1,,,,0
+1718920800,La Guaira,Maritimo,hCFsixCJ,jo0tYkF0,3,3,,,,0
+1718920800,Inter de Barinas,Estudiantes Merida,h8DUBAnO,Kt2RJAvf,0,0,,,,0
+1718924400,Fundacion AIFI,Angostura,Oh7S3th2,2DgfzFb3,0,1,,,,0
+1719171000,Miranda,Metropolitanos,K86NrQ27,tAwcOibj,1,2,,,,0
+1719432000,Frontera,Urena,CxxxGPVr,2i892GfD,6,1,,,,0
+1719516600,Yaracuyanos,Carabobo,xEhZwyEE,CtnfXRKE,2,0,,,,0
+1719516600,El Vigia,Estudiantes Merida,IkB687z2,Kt2RJAvf,0,0,,,,0
+1719516600,Barquisimeto,Zamora,lhIUgYdQ,0A6WRcTt,1,1,,,,0
+1719516600,Anzoategui FC,Nueva Esparta,zHGRfy9D,jcOQ1udR,4,1,,,,0
+1719518400,Trujillanos,Heroes de Falcon,lfuQn2PJ,d4vDDRnH,5,0,,,,0
+1719518400,Dynamo Puerto,Atletico La Cruz,MPfASPU2,C2oEmzEB,0,2,,,,0
+1719518400,Aragua,La Guaira,W2EojdRP,hCFsixCJ,1,2,,,,0
+1719522000,Fundacion AIFI,Bolivar,Oh7S3th2,C2oEmzEB,1,2,,,,0
+1719525600,Caracas,Miranda,0nhENufQ,K86NrQ27,2,0,,,,0
+1719693000,Urena,Dep. Tachira,2i892GfD,OxmaT1W4,2,1,,,,0
+1719774000,Zamora,Portuguesa,0A6WRcTt,6LjVpO9s,0,1,,,,0
+1719774000,Rayo Zuliano,Trujillanos,W6G6DmEi,lfuQn2PJ,3,0,,,,0
+1719774000,Metropolitanos,Caracas,tAwcOibj,0nhENufQ,2,1,,,,0
+1719774000,Inter de Barinas,El Vigia,h8DUBAnO,IkB687z2,2,1,,,,0
+1719775800,Atletico La Cruz,Monagas,C2oEmzEB,2gmAxwcQ,0,0,,,,0
+1719777600,Puerto Cabello,Yaracuyanos,bkCHmVIM,xEhZwyEE,3,0,,,,0
+1719777600,Bolivar,Angostura,C2oEmzEB,2DgfzFb3,0,0,,,,0
+1719781200,Maritimo,Aragua,jo0tYkF0,W2EojdRP,2,2,,,,0
+1719790200,Universidad Central,Anzoategui FC,IVEtsHRQ,zHGRfy9D,0,0,,,,0
+1720035000,Nueva Esparta,Universidad Central,jcOQ1udR,IVEtsHRQ,1,2,,,,0
+1720035000,Monagas,Dynamo Puerto,2gmAxwcQ,MPfASPU2,6,1,,,,0
+1720035000,Metropolitanos,Miranda,tAwcOibj,K86NrQ27,2,0,,,,0
+1720035000,Maritimo,La Guaira,jo0tYkF0,hCFsixCJ,3,0,,,,0
+1720035000,Heroes de Falcon,Rayo Zuliano,d4vDDRnH,W6G6DmEi,0,0,,,,0
+1720035000,Estudiantes Merida,Inter de Barinas,Kt2RJAvf,h8DUBAnO,3,2,,,,0
+1720035000,Dep. Tachira,Frontera,OxmaT1W4,CxxxGPVr,5,1,,,,0
+1720035000,Barquisimeto,Portuguesa,lhIUgYdQ,6LjVpO9s,2,3,,,,0
+1720035000,Angostura,Fundacion AIFI,2DgfzFb3,Oh7S3th2,3,0,,,,0
+1720049400,Carabobo,Puerto Cabello,CtnfXRKE,bkCHmVIM,1,2,,,,0
+1720380600,La Guaira,Estudiantes Merida,hCFsixCJ,Kt2RJAvf,0,0,Pen,1,0,0
+1720380600,Atletico La Cruz,Angostura,C2oEmzEB,2DgfzFb3,0,0,Pen,0,1,0
+1720380600,Anzoategui FC,Maritimo,zHGRfy9D,jo0tYkF0,1,3,,,,0
+1720382400,Trujillanos,Monagas,lfuQn2PJ,2gmAxwcQ,0,1,,,,0
+1720386000,Bolivar,Rayo Zuliano,C2oEmzEB,W6G6DmEi,0,1,,,,0
+1720389600,Puerto Cabello,Zamora,bkCHmVIM,0A6WRcTt,0,0,Pen,1,0,0
+1720389600,Inter de Barinas,Metropolitanos,h8DUBAnO,tAwcOibj,2,3,,,,0
+1720396800,Universidad Central,Dep. Tachira,IVEtsHRQ,OxmaT1W4,2,0,,,,0
+1720726200,Rayo Zuliano,Maritimo,W6G6DmEi,jo0tYkF0,1,1,Pen,2,1,0
+1720731600,Angostura,Monagas,2DgfzFb3,2gmAxwcQ,1,2,,,,0
+1720738800,Universidad Central,La Guaira,IVEtsHRQ,hCFsixCJ,0,0,Pen,0,1,0
+1720738800,Puerto Cabello,Metropolitanos,bkCHmVIM,tAwcOibj,2,4,,,,0
+1720990800,Monagas,Metropolitanos,2gmAxwcQ,tAwcOibj,0,2,,,,0
+1720990800,La Guaira,Rayo Zuliano,hCFsixCJ,W6G6DmEi,2,1,,,,0
+1721509200,Metropolitanos,La Guaira,tAwcOibj,hCFsixCJ,0,1,,,,1

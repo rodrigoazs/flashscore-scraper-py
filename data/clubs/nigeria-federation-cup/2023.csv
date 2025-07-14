@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1683723600,Heartland,Essien Ayi,2,1,,,,0
-1683723600,Ebunuja,Doma United,0,4,,,,0
-1683730800,Warri Wolves,Shooting,0,0,Pen,1,0,0
-1683730800,Standard,Sunshine Stars,0,2,,,,0
-1683730800,Rangers Int'l,Kano Pillars,2,0,,,,0
-1683730800,Plateau United,Enyimba,2,2,Pen,3,2,0
-1683730800,Osun,Bendel Feeders,1,2,,,,0
-1683730800,Nasarawa,DMD,3,2,,,,0
-1683730800,Mighty Jets,Gombe,0,2,,,,0
-1683730800,Ingas,El Kanemi,1,1,Pen,2,1,0
-1683730800,Ikorodu City,Kwara,1,3,,,,0
-1683730800,EFCC,Akwa United,1,1,Pen,2,1,0
-1683730800,Edel,Mailantarki Care,1,0,,,,0
-1683730800,Ebedei,Igbajo,4,0,,,,0
-1683730800,Cynosure,Lobi Stars,0,2,,,,0
-1683730800,Ahudiya,Bendel,0,1,,,,0
-1684933200,Warri Wolves,Gombe,1,0,,,,0
-1684933200,Sunshine Stars,EFCC,3,2,,,,0
-1684933200,Heartland,Bendel,0,1,,,,0
-1684933200,Ebedei,Rangers Int'l,1,3,,,,0
-1684940400,Plateau United,Ingas,2,1,,,,0
-1684940400,Nasarawa,Kwara,0,1,,,,0
-1684940400,Doma United,Edel,2,1,,,,0
-1684998000,Bendel Feeders,Lobi Stars,1,3,,,,0
-1685271600,Bendel,Sunshine Stars,1,0,,,,0
-1685282400,Warri Wolves,Lobi Stars,2,1,,,,0
-1685286000,Rangers Int'l,Doma United,1,0,,,,0
-1685286000,Plateau United,Kwara,1,0,,,,0
-1685631600,Plateau United,Rangers Int'l,0,1,,,,0
-1685631600,Bendel,Warri Wolves,0,0,Pen,1,0,0
-1687363200,Bendel,Rangers Int'l,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1683723600,Heartland,Essien Ayi,tUg7DWkH,pSojQ7jT,2,1,,,,0
+1683723600,Ebunuja,Doma United,,dM3WQm8J,0,4,,,,0
+1683730800,Warri Wolves,Shooting,WAE6XaLc,vafZSxgs,0,0,Pen,1,0,0
+1683730800,Standard,Sunshine Stars,QZltWOsP,KrkUCdS2,0,2,,,,0
+1683730800,Rangers Int'l,Kano Pillars,2we3ECzB,2we3ECzB,2,0,,,,0
+1683730800,Plateau United,Enyimba,jZRvn4Ng,OjrXHMiH,2,2,Pen,3,2,0
+1683730800,Osun,Bendel Feeders,ldn82KQn,x8mq2FGE,1,2,,,,0
+1683730800,Nasarawa,DMD,jLtZzIk3,hlXTiR0A,3,2,,,,0
+1683730800,Mighty Jets,Gombe,hdDswQDJ,tUg7DWkH,0,2,,,,0
+1683730800,Ingas,El Kanemi,YejaVmci,MqcMMHCH,1,1,Pen,2,1,0
+1683730800,Ikorodu City,Kwara,dKY2CJMr,tUg7DWkH,1,3,,,,0
+1683730800,EFCC,Akwa United,xUIvmuRa,2we3ECzB,1,1,Pen,2,1,0
+1683730800,Edel,Mailantarki Care,ldn82KQn,b1OTIq7k,1,0,,,,0
+1683730800,Ebedei,Igbajo,U9SrHxhg,SbBNlBAt,4,0,,,,0
+1683730800,Cynosure,Lobi Stars,U9SrHxhg,tUg7DWkH,0,2,,,,0
+1683730800,Ahudiya,Bendel,,0ASSpGr9,0,1,,,,0
+1684933200,Warri Wolves,Gombe,WAE6XaLc,tUg7DWkH,1,0,,,,0
+1684933200,Sunshine Stars,EFCC,KrkUCdS2,xUIvmuRa,3,2,,,,0
+1684933200,Heartland,Bendel,tUg7DWkH,0ASSpGr9,0,1,,,,0
+1684933200,Ebedei,Rangers Int'l,U9SrHxhg,2we3ECzB,1,3,,,,0
+1684940400,Plateau United,Ingas,jZRvn4Ng,YejaVmci,2,1,,,,0
+1684940400,Nasarawa,Kwara,jLtZzIk3,tUg7DWkH,0,1,,,,0
+1684940400,Doma United,Edel,dM3WQm8J,ldn82KQn,2,1,,,,0
+1684998000,Bendel Feeders,Lobi Stars,x8mq2FGE,tUg7DWkH,1,3,,,,0
+1685271600,Bendel,Sunshine Stars,0ASSpGr9,KrkUCdS2,1,0,,,,0
+1685282400,Warri Wolves,Lobi Stars,WAE6XaLc,tUg7DWkH,2,1,,,,0
+1685286000,Rangers Int'l,Doma United,2we3ECzB,dM3WQm8J,1,0,,,,0
+1685286000,Plateau United,Kwara,jZRvn4Ng,tUg7DWkH,1,0,,,,0
+1685631600,Plateau United,Rangers Int'l,jZRvn4Ng,2we3ECzB,0,1,,,,0
+1685631600,Bendel,Warri Wolves,0ASSpGr9,WAE6XaLc,0,0,Pen,1,0,0
+1687363200,Bendel,Rangers Int'l,0ASSpGr9,2we3ECzB,1,0,,,,0

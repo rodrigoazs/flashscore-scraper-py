@@ -1,18 +1,18 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1639130400,Zaqatala,Sabail,1,3,,,,0
-1639141200,MOIK Baku,Gabala,1,2,,,,0
-1639220400,Shamakhi,Lokbatan,2,1,,,,0
-1639231200,Sabah Baku,Kapaz,3,0,,,,0
-1643722200,Qarabag,Shamakhi,1,0,,,,0
-1643730300,Neftci Baku,Sabah Baku,1,1,,,,0
-1643806800,Zira,Sabail,4,0,,,,0
-1643814900,Sumqayit,Gabala,0,1,,,,0
-1644588000,Shamakhi,Qarabag,0,6,,,,0
-1644667200,Sabah Baku,Neftci Baku,1,3,,,,0
-1644750000,Gabala,Sumqayit,1,1,,,,0
-1644760800,Sabail,Zira,1,3,,,,0
-1650461400,Gabala,Qarabag,1,3,,,,0
-1650470400,Zira,Neftci Baku,0,0,,,,0
-1651239000,Qarabag,Gabala,5,0,,,,0
-1651249800,Neftci Baku,Zira,0,0,Pen,0,1,0
-1653663600,Qarabag,Zira,1,1,Pen,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1639130400,Zaqatala,Sabail,GSwuEtYe,pxLJhy1b,1,3,,,,0
+1639141200,MOIK Baku,Gabala,OvMLJ256,Kt8HTC4e,1,2,,,,0
+1639220400,Shamakhi,Lokbatan,M9hXKgAI,GbduZDiN,2,1,,,,0
+1639231200,Sabah Baku,Kapaz,O8TAkqbq,82dkiD1Q,3,0,,,,0
+1643722200,Qarabag,Shamakhi,W0XY6C3I,M9hXKgAI,1,0,,,,0
+1643730300,Neftci Baku,Sabah Baku,C4C6wm62,O8TAkqbq,1,1,,,,0
+1643806800,Zira,Sabail,nalsMvvG,pxLJhy1b,4,0,,,,0
+1643814900,Sumqayit,Gabala,bTtBKGFR,Kt8HTC4e,0,1,,,,0
+1644588000,Shamakhi,Qarabag,M9hXKgAI,W0XY6C3I,0,6,,,,0
+1644667200,Sabah Baku,Neftci Baku,O8TAkqbq,C4C6wm62,1,3,,,,0
+1644750000,Gabala,Sumqayit,Kt8HTC4e,bTtBKGFR,1,1,,,,0
+1644760800,Sabail,Zira,pxLJhy1b,nalsMvvG,1,3,,,,0
+1650461400,Gabala,Qarabag,Kt8HTC4e,W0XY6C3I,1,3,,,,0
+1650470400,Zira,Neftci Baku,nalsMvvG,C4C6wm62,0,0,,,,0
+1651239000,Qarabag,Gabala,W0XY6C3I,Kt8HTC4e,5,0,,,,0
+1651249800,Neftci Baku,Zira,C4C6wm62,nalsMvvG,0,0,Pen,0,1,0
+1653663600,Qarabag,Zira,W0XY6C3I,nalsMvvG,1,1,Pen,2,1,0

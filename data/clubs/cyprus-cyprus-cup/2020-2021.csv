@@ -1,33 +1,33 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1600272000,PAEEK,Doxa,2,1,,,,0
-1600272000,Nea Salamis,Achyronas Liopetriou,4,1,,,,0
-1600272000,Karmiotissa,Thoi Lakatamias,4,0,,,,0
-1600272000,Ayia Napa,Pafos,1,5,,,,0
-1600272000,AEL Limassol,Omonia Psevda,5,0,,,,0
-1600876800,Ol. Nicosia,Xylotymbou,4,0,,,,0
-1600876800,Kouris Erimi,AEK Larnaca,0,11,,,,0
-1600876800,Ermis,Chloraka,3,0,,,,0
-1602158400,Digenis Akritas,Sotiras,1,3,,,,0
-1602158400,Alki Oroklini,Ypsonas,4,0,,,,0
-1603283400,Aris,Achnas,1,4,,,,0
-1603897200,PAEEK,APOEL,0,4,,,,0
-1603897200,Sotiras,Karmiotissa,0,2,,,,0
-1604498400,Paralimni,Ol. Nicosia,0,2,,,,0
-1604502000,Anorthosis,Pafos,1,0,,,,0
-1606316400,Ermis,Nea Salamis,1,2,,,,0
-1606316400,AEK Larnaca,AEL Limassol,0,2,,,,0
-1608130800,Alki Oroklini,Achnas,1,2,,,,0
-1611158400,APOEL,Apollon,2,1,,,,0
-1614175200,Karmiotissa,Anorthosis,1,2,,,,0
-1614184200,APOEL,Omonia,1,1,,,,0
-1614783600,AEL Limassol,Nea Salamis,2,0,,,,0
-1614790800,Achnas,Ol. Nicosia,1,1,,,,0
-1615384800,Omonia,APOEL,0,1,,,,0
-1615392000,Anorthosis,Karmiotissa,5,1,,,,0
-1615989600,Ol. Nicosia,Achnas,1,0,,,,0
-1615996800,Nea Salamis,AEL Limassol,1,0,,,,0
-1618408800,Anorthosis,APOEL,1,0,,,,0
-1618417800,Ol. Nicosia,AEL Limassol,4,2,,,,0
-1619017200,AEL Limassol,Ol. Nicosia,0,1,,,,0
-1619024400,APOEL,Anorthosis,1,3,,,,0
-1621099800,Anorthosis,Ol. Nicosia,1,1,AET,2,1,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1600272000,PAEEK,Doxa,tb3xYV24,nsVKnzpo,2,1,,,,0
+1600272000,Nea Salamis,Achyronas Liopetriou,AoqqSdQE,dILozLTg,4,1,,,,0
+1600272000,Karmiotissa,Thoi Lakatamias,lb9Frd2K,AJO1KL9k,4,0,,,,0
+1600272000,Ayia Napa,Pafos,AoqqSdQE,dOOzPK2E,1,5,,,,0
+1600272000,AEL Limassol,Omonia Psevda,jZcv4JNH,08B9oWqI,5,0,,,,0
+1600876800,Ol. Nicosia,Xylotymbou,l2Xtf5Mh,dn9CvKFq,4,0,,,,0
+1600876800,Kouris Erimi,AEK Larnaca,dILozLTg,rgYuXGKm,0,11,,,,0
+1600876800,Ermis,Chloraka,zTKhjTI3,EoODef3s,3,0,,,,0
+1602158400,Digenis Akritas,Sotiras,WnOlbjXd,xWBpsDYs,1,3,,,,0
+1602158400,Alki Oroklini,Ypsonas,z12Dts3j,zwjwOleQ,4,0,,,,0
+1603283400,Aris,Achnas,GxoBo0zo,zFems01k,1,4,,,,0
+1603897200,PAEEK,APOEL,tb3xYV24,dM5j1Xkq,0,4,,,,0
+1603897200,Sotiras,Karmiotissa,xWBpsDYs,lb9Frd2K,0,2,,,,0
+1604498400,Paralimni,Ol. Nicosia,p2SoLYBg,l2Xtf5Mh,0,2,,,,0
+1604502000,Anorthosis,Pafos,pEI2BJMo,dOOzPK2E,1,0,,,,0
+1606316400,Ermis,Nea Salamis,zTKhjTI3,AoqqSdQE,1,2,,,,0
+1606316400,AEK Larnaca,AEL Limassol,rgYuXGKm,jZcv4JNH,0,2,,,,0
+1608130800,Alki Oroklini,Achnas,z12Dts3j,zFems01k,1,2,,,,0
+1611158400,APOEL,Apollon,dM5j1Xkq,x4Xh4Pu0,2,1,,,,0
+1614175200,Karmiotissa,Anorthosis,lb9Frd2K,pEI2BJMo,1,2,,,,0
+1614184200,APOEL,Omonia,dM5j1Xkq,8GeT5Kmk,1,1,,,,0
+1614783600,AEL Limassol,Nea Salamis,jZcv4JNH,AoqqSdQE,2,0,,,,0
+1614790800,Achnas,Ol. Nicosia,zFems01k,l2Xtf5Mh,1,1,,,,0
+1615384800,Omonia,APOEL,8GeT5Kmk,dM5j1Xkq,0,1,,,,0
+1615392000,Anorthosis,Karmiotissa,pEI2BJMo,lb9Frd2K,5,1,,,,0
+1615989600,Ol. Nicosia,Achnas,l2Xtf5Mh,zFems01k,1,0,,,,0
+1615996800,Nea Salamis,AEL Limassol,AoqqSdQE,jZcv4JNH,1,0,,,,0
+1618408800,Anorthosis,APOEL,pEI2BJMo,dM5j1Xkq,1,0,,,,0
+1618417800,Ol. Nicosia,AEL Limassol,l2Xtf5Mh,jZcv4JNH,4,2,,,,0
+1619017200,AEL Limassol,Ol. Nicosia,jZcv4JNH,l2Xtf5Mh,0,1,,,,0
+1619024400,APOEL,Anorthosis,dM5j1Xkq,pEI2BJMo,1,3,,,,0
+1621099800,Anorthosis,Ol. Nicosia,pEI2BJMo,l2Xtf5Mh,1,1,AET,2,1,1

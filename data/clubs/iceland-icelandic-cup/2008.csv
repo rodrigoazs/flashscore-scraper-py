@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1213813800,Vikingur Reykjavik,Grotta,1,0,,,,0
-1213813800,Vidir,Vogum,1,0,,,,0
-1213813800,Vestmannaeyjar,Leiknir,2,0,,,,0
-1213813800,Throttur,Fylkir,1,1,Pen,2,3,0
-1213813800,Reynir,Sindri,3,0,,,,0
-1213813800,Kopavogur,Akranes,1,0,,,,0
-1213813800,Haukar,Berserkir,2,1,,,,0
-1213813800,Grindavik,Hottur,2,1,,,,0
-1213900200,Thor Akureyri,Valur,0,1,,,,0
-1213900200,KR Reykjavik,KB Breidholt,1,0,,,,0
-1213900200,Keflavik,Stjarnan,2,1,,,,0
-1213900200,Hamar,Selfoss,2,1,,,,0
-1213900200,Fram,Hvot,2,1,,,,0
-1213900200,Fjolnir,KFS,6,0,,,,0
-1213900200,Fjardabyggd,Hafnarfjordur,0,2,,,,0
-1213900200,Breidablik,KA Akureyri,1,0,,,,0
-1215023400,Vikingur Reykjavik,Hamar,3,0,,,,0
-1215023400,Vidir,Fylkir,1,4,,,,0
-1215023400,Reynir,Grindavik,1,2,,,,0
-1215023400,Haukar,Kopavogur,1,0,,,,0
-1215023400,Fjolnir,Vestmannaeyjar,1,1,AET,2,1,0
-1215109800,KR Reykjavik,Fram,2,0,,,,0
-1215109800,Keflavik,Hafnarfjordur,3,1,,,,0
-1215109800,Breidablik,Valur,1,0,,,,0
-1216924200,KR Reykjavik,Grindavik,3,2,,,,0
-1216924200,Haukar,Fylkir,0,1,AET,0,1,0
-1216924200,Fjolnir,Vikingur Reykjavik,1,0,,,,0
-1216924200,Breidablik,Keflavik,3,2,,,,0
-1220207400,Fylkir,Fjolnir,3,4,,,,0
-1220293800,Breidablik,KR Reykjavik,0,0,Pen,1,2,0
-1223145000,KR Reykjavik,Fjolnir,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1213813800,Vikingur Reykjavik,Grotta,ATBUwpjA,G0BCkS3I,1,0,,,,0
+1213813800,Vidir,Vogum,2H9ZyTVd,,1,0,,,,0
+1213813800,Vestmannaeyjar,Leiknir,GhaBLUZO,GvStD1NM,2,0,,,,0
+1213813800,Throttur,Fylkir,zw0oiUbh,YFWSwCkg,1,1,Pen,2,3,0
+1213813800,Reynir,Sindri,lURlevyR,0EjcWZNN,3,0,,,,0
+1213813800,Kopavogur,Akranes,rgYuXGKm,4hhcealo,1,0,,,,0
+1213813800,Haukar,Berserkir,AZnOPGmc,GrWnNC8T,2,1,,,,0
+1213813800,Grindavik,Hottur,UakDSYpT,E33E3ALR,2,1,,,,0
+1213900200,Thor Akureyri,Valur,88ByecJ3,juoTB6Rh,0,1,,,,0
+1213900200,KR Reykjavik,KB Breidholt,GYYKuYKt,S0fPU1La,1,0,,,,0
+1213900200,Keflavik,Stjarnan,OhPjY7JU,juoTB6Rh,2,1,,,,0
+1213900200,Hamar,Selfoss,fifS9oRq,vVtcIMuQ,2,1,,,,0
+1213900200,Fram,Hvot,fL3dmxxd,j1rK8ll2,2,1,,,,0
+1213900200,Fjolnir,KFS,Grlam9Tu,b1YvPYwH,6,0,,,,0
+1213900200,Fjardabyggd,Hafnarfjordur,EB9Z0sEO,K4lZsY9J,0,2,,,,0
+1213900200,Breidablik,KA Akureyri,UPMdbcD9,IP5ctvAE,1,0,,,,0
+1215023400,Vikingur Reykjavik,Hamar,ATBUwpjA,fifS9oRq,3,0,,,,0
+1215023400,Vidir,Fylkir,2H9ZyTVd,YFWSwCkg,1,4,,,,0
+1215023400,Reynir,Grindavik,lURlevyR,UakDSYpT,1,2,,,,0
+1215023400,Haukar,Kopavogur,AZnOPGmc,rgYuXGKm,1,0,,,,0
+1215023400,Fjolnir,Vestmannaeyjar,Grlam9Tu,GhaBLUZO,1,1,AET,2,1,0
+1215109800,KR Reykjavik,Fram,GYYKuYKt,fL3dmxxd,2,0,,,,0
+1215109800,Keflavik,Hafnarfjordur,OhPjY7JU,K4lZsY9J,3,1,,,,0
+1215109800,Breidablik,Valur,UPMdbcD9,juoTB6Rh,1,0,,,,0
+1216924200,KR Reykjavik,Grindavik,GYYKuYKt,UakDSYpT,3,2,,,,0
+1216924200,Haukar,Fylkir,AZnOPGmc,YFWSwCkg,0,1,AET,0,1,0
+1216924200,Fjolnir,Vikingur Reykjavik,Grlam9Tu,ATBUwpjA,1,0,,,,0
+1216924200,Breidablik,Keflavik,UPMdbcD9,OhPjY7JU,3,2,,,,0
+1220207400,Fylkir,Fjolnir,YFWSwCkg,Grlam9Tu,3,4,,,,0
+1220293800,Breidablik,KR Reykjavik,UPMdbcD9,GYYKuYKt,0,0,Pen,1,2,0
+1223145000,KR Reykjavik,Fjolnir,GYYKuYKt,Grlam9Tu,1,0,,,,0

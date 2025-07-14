@@ -1,113 +1,113 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1502470800,Neftci Baku,Qarabag,1,3,,,,0
-1502553600,Shamakhi,Gabala,1,2,,,,0
-1502636400,Zira,Sabail,2,1,,,,0
-1502643600,Sumqayit,Kapaz,2,1,,,,0
-1503151200,Sabail,Neftci Baku,1,0,,,,0
-1503158400,Qarabag,Shamakhi,1,0,,,,0
-1503234000,Kapaz,Zira,0,3,,,,0
-1503244800,Gabala,Sumqayit,1,0,,,,0
-1503669600,Shamakhi,Sabail,1,0,,,,0
-1503678600,Neftci Baku,Kapaz,0,0,,,,0
-1503756000,Zira,Sumqayit,3,1,,,,0
-1503765000,Qarabag,Gabala,2,1,,,,0
-1504962000,Shamakhi,Kapaz,3,2,,,,0
-1504974600,Gabala,Zira,1,1,,,,0
-1505055600,Sumqayit,Neftci Baku,1,0,,,,0
-1505565000,Shamakhi,Sumqayit,1,1,,,,0
-1505574000,Neftci Baku,Zira,1,2,,,,0
-1505658600,Qarabag,Kapaz,2,0,,,,0
-1505667600,Sabail,Gabala,1,3,,,,0
-1506092400,Qarabag,Sumqayit,4,1,,,,0
-1506173400,Sabail,Kapaz,1,0,,,,0
-1506182400,Zira,Shamakhi,1,1,,,,0
-1506261600,Gabala,Neftci Baku,2,1,,,,0
-1506686400,Shamakhi,Neftci Baku,0,2,,,,0
-1506695400,Gabala,Kapaz,0,2,,,,0
-1506780000,Sabail,Sumqayit,0,2,,,,0
-1506866400,Qarabag,Zira,0,0,,,,0
-1507894200,Shamakhi,Qarabag,0,2,,,,0
-1507982400,Zira,Kapaz,3,0,,,,0
-1507989600,Sumqayit,Gabala,0,1,,,,0
-1508077800,Sabail,Neftci Baku,0,4,,,,0
-1508508000,Sabail,Shamakhi,1,0,,,,0
-1508583600,Kapaz,Neftci Baku,0,1,,,,0
-1508590800,Sumqayit,Zira,2,1,,,,0
-1508682600,Gabala,Qarabag,1,0,,,,0
-1509116400,Qarabag,Sabail,1,0,,,,0
-1509188400,Shamakhi,Kapaz,0,2,,,,0
-1509195600,Zira,Gabala,2,1,,,,0
-1509285600,Neftci Baku,Sumqayit,2,1,,,,0
-1509796800,Gabala,Sabail,3,1,,,,0
-1509804000,Sumqayit,Shamakhi,3,1,,,,0
-1509879600,Kapaz,Qarabag,0,2,,,,0
-1509886800,Zira,Neftci Baku,1,0,,,,0
-1510929000,Qarabag,Sumqayit,2,0,,,,0
-1510995600,Shamakhi,Zira,0,1,,,,0
-1511002800,Kapaz,Sabail,2,3,,,,0
-1511096400,Neftci Baku,Gabala,2,3,,,,0
-1511605800,Kapaz,Gabala,1,6,,,,0
-1511614800,Neftci Baku,Shamakhi,3,1,,,,0
-1511697600,Sumqayit,Sabail,0,0,,,,0
-1511704800,Zira,Qarabag,2,3,,,,0
-1512138600,Qarabag,Neftci Baku,1,0,,,,0
-1512208800,Kapaz,Sumqayit,0,3,,,,0
-1512302400,Gabala,Shamakhi,3,0,,,,0
-1512311400,Sabail,Zira,0,1,,,,0
-1512745200,Sabail,Qarabag,0,2,,,,0
-1518264000,Zira,Sumqayit,1,1,,,,0
-1518274800,Qarabag,Gabala,0,0,,,,0
-1518346800,Shamakhi,Sabail,1,1,,,,0
-1518355800,Neftci Baku,Kapaz,1,0,,,,0
-1518865200,Gabala,Zira,2,1,,,,0
-1518877800,Sumqayit,Neftci Baku,2,0,,,,0
-1518951600,Kapaz,Shamakhi,0,1,,,,0
-1518960600,Sabail,Qarabag,0,1,,,,0
-1519473600,Sabail,Gabala,2,1,,,,0
-1519480800,Neftci Baku,Zira,1,1,,,,0
-1519556400,Shamakhi,Sumqayit,1,2,,,,0
-1519567200,Qarabag,Kapaz,1,0,,,,0
-1520074800,Kapaz,Sabail,2,1,,,,0
-1520087400,Sumqayit,Qarabag,1,1,,,,0
-1520163000,Gabala,Neftci Baku,1,2,,,,0
-1520172000,Zira,Shamakhi,1,2,,,,0
-1520593200,Kapaz,Gabala,0,1,,,,0
-1520604000,Neftci Baku,Shamakhi,3,2,,,,0
-1520686800,Sabail,Sumqayit,0,1,,,,0
-1520694000,Qarabag,Zira,2,0,,,,0
-1520940600,Shamakhi,Gabala,1,1,,,,0
-1521032400,Zira,Sabail,1,1,,,,0
-1521036000,Neftci Baku,Qarabag,0,0,,,,0
-1521043200,Sumqayit,Kapaz,2,1,,,,0
-1522580400,Kapaz,Zira,0,0,,,,0
-1522593000,Qarabag,Shamakhi,1,1,,,,0
-1522674000,Gabala,Sumqayit,1,1,,,,0
-1522683000,Neftci Baku,Sabail,2,0,,,,0
-1523098800,Kapaz,Shamakhi,1,1,,,,0
-1523107800,Qarabag,Sabail,1,0,,,,0
-1523190600,Zira,Gabala,1,1,,,,0
-1523197800,Neftci Baku,Sumqayit,2,2,,,,0
-1523707200,Kapaz,Qarabag,0,1,,,,0
-1523797200,Gabala,Sabail,1,1,,,,0
-1523800800,Sumqayit,Shamakhi,2,1,,,,0
-1523804400,Zira,Neftci Baku,0,3,,,,0
-1524312000,Shamakhi,Zira,2,1,,,,0
-1524402000,Sabail,Kapaz,1,1,,,,0
-1524409200,Sumqayit,Qarabag,0,1,,,,0
-1524409200,Neftci Baku,Gabala,1,0,,,,0
-1524841200,Zira,Qarabag,1,2,,,,0
-1524916800,Shamakhi,Neftci Baku,2,1,,,,0
-1524924000,Gabala,Kapaz,3,0,,,,0
-1525014000,Sumqayit,Sabail,1,2,,,,0
-1525435200,Kapaz,Sumqayit,1,1,,,,0
-1525525200,Sabail,Zira,0,1,,,,0
-1525532400,Gabala,Shamakhi,1,1,,,,0
-1525618800,Qarabag,Neftci Baku,0,1,,,,0
-1526130000,Shamakhi,Qarabag,3,0,,,,0
-1526137200,Zira,Kapaz,2,1,,,,0
-1526137200,Sumqayit,Gabala,0,2,,,,0
-1526137200,Neftci Baku,Sabail,3,1,,,,0
-1526822100,Sumqayit,Zira,1,2,,,,0
-1526822100,Sabail,Shamakhi,0,1,,,,0
-1526822100,Kapaz,Neftci Baku,1,2,,,,0
-1526914800,Gabala,Qarabag,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1502470800,Neftci Baku,Qarabag,C4C6wm62,W0XY6C3I,1,3,,,,0
+1502553600,Shamakhi,Gabala,M9hXKgAI,Kt8HTC4e,1,2,,,,0
+1502636400,Zira,Sabail,nalsMvvG,pxLJhy1b,2,1,,,,0
+1502643600,Sumqayit,Kapaz,bTtBKGFR,82dkiD1Q,2,1,,,,0
+1503151200,Sabail,Neftci Baku,pxLJhy1b,C4C6wm62,1,0,,,,0
+1503158400,Qarabag,Shamakhi,W0XY6C3I,M9hXKgAI,1,0,,,,0
+1503234000,Kapaz,Zira,82dkiD1Q,nalsMvvG,0,3,,,,0
+1503244800,Gabala,Sumqayit,Kt8HTC4e,bTtBKGFR,1,0,,,,0
+1503669600,Shamakhi,Sabail,M9hXKgAI,pxLJhy1b,1,0,,,,0
+1503678600,Neftci Baku,Kapaz,C4C6wm62,82dkiD1Q,0,0,,,,0
+1503756000,Zira,Sumqayit,nalsMvvG,bTtBKGFR,3,1,,,,0
+1503765000,Qarabag,Gabala,W0XY6C3I,Kt8HTC4e,2,1,,,,0
+1504962000,Shamakhi,Kapaz,M9hXKgAI,82dkiD1Q,3,2,,,,0
+1504974600,Gabala,Zira,Kt8HTC4e,nalsMvvG,1,1,,,,0
+1505055600,Sumqayit,Neftci Baku,bTtBKGFR,C4C6wm62,1,0,,,,0
+1505565000,Shamakhi,Sumqayit,M9hXKgAI,bTtBKGFR,1,1,,,,0
+1505574000,Neftci Baku,Zira,C4C6wm62,nalsMvvG,1,2,,,,0
+1505658600,Qarabag,Kapaz,W0XY6C3I,82dkiD1Q,2,0,,,,0
+1505667600,Sabail,Gabala,pxLJhy1b,Kt8HTC4e,1,3,,,,0
+1506092400,Qarabag,Sumqayit,W0XY6C3I,bTtBKGFR,4,1,,,,0
+1506173400,Sabail,Kapaz,pxLJhy1b,82dkiD1Q,1,0,,,,0
+1506182400,Zira,Shamakhi,nalsMvvG,M9hXKgAI,1,1,,,,0
+1506261600,Gabala,Neftci Baku,Kt8HTC4e,C4C6wm62,2,1,,,,0
+1506686400,Shamakhi,Neftci Baku,M9hXKgAI,C4C6wm62,0,2,,,,0
+1506695400,Gabala,Kapaz,Kt8HTC4e,82dkiD1Q,0,2,,,,0
+1506780000,Sabail,Sumqayit,pxLJhy1b,bTtBKGFR,0,2,,,,0
+1506866400,Qarabag,Zira,W0XY6C3I,nalsMvvG,0,0,,,,0
+1507894200,Shamakhi,Qarabag,M9hXKgAI,W0XY6C3I,0,2,,,,0
+1507982400,Zira,Kapaz,nalsMvvG,82dkiD1Q,3,0,,,,0
+1507989600,Sumqayit,Gabala,bTtBKGFR,Kt8HTC4e,0,1,,,,0
+1508077800,Sabail,Neftci Baku,pxLJhy1b,C4C6wm62,0,4,,,,0
+1508508000,Sabail,Shamakhi,pxLJhy1b,M9hXKgAI,1,0,,,,0
+1508583600,Kapaz,Neftci Baku,82dkiD1Q,C4C6wm62,0,1,,,,0
+1508590800,Sumqayit,Zira,bTtBKGFR,nalsMvvG,2,1,,,,0
+1508682600,Gabala,Qarabag,Kt8HTC4e,W0XY6C3I,1,0,,,,0
+1509116400,Qarabag,Sabail,W0XY6C3I,pxLJhy1b,1,0,,,,0
+1509188400,Shamakhi,Kapaz,M9hXKgAI,82dkiD1Q,0,2,,,,0
+1509195600,Zira,Gabala,nalsMvvG,Kt8HTC4e,2,1,,,,0
+1509285600,Neftci Baku,Sumqayit,C4C6wm62,bTtBKGFR,2,1,,,,0
+1509796800,Gabala,Sabail,Kt8HTC4e,pxLJhy1b,3,1,,,,0
+1509804000,Sumqayit,Shamakhi,bTtBKGFR,M9hXKgAI,3,1,,,,0
+1509879600,Kapaz,Qarabag,82dkiD1Q,W0XY6C3I,0,2,,,,0
+1509886800,Zira,Neftci Baku,nalsMvvG,C4C6wm62,1,0,,,,0
+1510929000,Qarabag,Sumqayit,W0XY6C3I,bTtBKGFR,2,0,,,,0
+1510995600,Shamakhi,Zira,M9hXKgAI,nalsMvvG,0,1,,,,0
+1511002800,Kapaz,Sabail,82dkiD1Q,pxLJhy1b,2,3,,,,0
+1511096400,Neftci Baku,Gabala,C4C6wm62,Kt8HTC4e,2,3,,,,0
+1511605800,Kapaz,Gabala,82dkiD1Q,Kt8HTC4e,1,6,,,,0
+1511614800,Neftci Baku,Shamakhi,C4C6wm62,M9hXKgAI,3,1,,,,0
+1511697600,Sumqayit,Sabail,bTtBKGFR,pxLJhy1b,0,0,,,,0
+1511704800,Zira,Qarabag,nalsMvvG,W0XY6C3I,2,3,,,,0
+1512138600,Qarabag,Neftci Baku,W0XY6C3I,C4C6wm62,1,0,,,,0
+1512208800,Kapaz,Sumqayit,82dkiD1Q,bTtBKGFR,0,3,,,,0
+1512302400,Gabala,Shamakhi,Kt8HTC4e,M9hXKgAI,3,0,,,,0
+1512311400,Sabail,Zira,pxLJhy1b,nalsMvvG,0,1,,,,0
+1512745200,Sabail,Qarabag,pxLJhy1b,W0XY6C3I,0,2,,,,0
+1518264000,Zira,Sumqayit,nalsMvvG,bTtBKGFR,1,1,,,,0
+1518274800,Qarabag,Gabala,W0XY6C3I,Kt8HTC4e,0,0,,,,0
+1518346800,Shamakhi,Sabail,M9hXKgAI,pxLJhy1b,1,1,,,,0
+1518355800,Neftci Baku,Kapaz,C4C6wm62,82dkiD1Q,1,0,,,,0
+1518865200,Gabala,Zira,Kt8HTC4e,nalsMvvG,2,1,,,,0
+1518877800,Sumqayit,Neftci Baku,bTtBKGFR,C4C6wm62,2,0,,,,0
+1518951600,Kapaz,Shamakhi,82dkiD1Q,M9hXKgAI,0,1,,,,0
+1518960600,Sabail,Qarabag,pxLJhy1b,W0XY6C3I,0,1,,,,0
+1519473600,Sabail,Gabala,pxLJhy1b,Kt8HTC4e,2,1,,,,0
+1519480800,Neftci Baku,Zira,C4C6wm62,nalsMvvG,1,1,,,,0
+1519556400,Shamakhi,Sumqayit,M9hXKgAI,bTtBKGFR,1,2,,,,0
+1519567200,Qarabag,Kapaz,W0XY6C3I,82dkiD1Q,1,0,,,,0
+1520074800,Kapaz,Sabail,82dkiD1Q,pxLJhy1b,2,1,,,,0
+1520087400,Sumqayit,Qarabag,bTtBKGFR,W0XY6C3I,1,1,,,,0
+1520163000,Gabala,Neftci Baku,Kt8HTC4e,C4C6wm62,1,2,,,,0
+1520172000,Zira,Shamakhi,nalsMvvG,M9hXKgAI,1,2,,,,0
+1520593200,Kapaz,Gabala,82dkiD1Q,Kt8HTC4e,0,1,,,,0
+1520604000,Neftci Baku,Shamakhi,C4C6wm62,M9hXKgAI,3,2,,,,0
+1520686800,Sabail,Sumqayit,pxLJhy1b,bTtBKGFR,0,1,,,,0
+1520694000,Qarabag,Zira,W0XY6C3I,nalsMvvG,2,0,,,,0
+1520940600,Shamakhi,Gabala,M9hXKgAI,Kt8HTC4e,1,1,,,,0
+1521032400,Zira,Sabail,nalsMvvG,pxLJhy1b,1,1,,,,0
+1521036000,Neftci Baku,Qarabag,C4C6wm62,W0XY6C3I,0,0,,,,0
+1521043200,Sumqayit,Kapaz,bTtBKGFR,82dkiD1Q,2,1,,,,0
+1522580400,Kapaz,Zira,82dkiD1Q,nalsMvvG,0,0,,,,0
+1522593000,Qarabag,Shamakhi,W0XY6C3I,M9hXKgAI,1,1,,,,0
+1522674000,Gabala,Sumqayit,Kt8HTC4e,bTtBKGFR,1,1,,,,0
+1522683000,Neftci Baku,Sabail,C4C6wm62,pxLJhy1b,2,0,,,,0
+1523098800,Kapaz,Shamakhi,82dkiD1Q,M9hXKgAI,1,1,,,,0
+1523107800,Qarabag,Sabail,W0XY6C3I,pxLJhy1b,1,0,,,,0
+1523190600,Zira,Gabala,nalsMvvG,Kt8HTC4e,1,1,,,,0
+1523197800,Neftci Baku,Sumqayit,C4C6wm62,bTtBKGFR,2,2,,,,0
+1523707200,Kapaz,Qarabag,82dkiD1Q,W0XY6C3I,0,1,,,,0
+1523797200,Gabala,Sabail,Kt8HTC4e,pxLJhy1b,1,1,,,,0
+1523800800,Sumqayit,Shamakhi,bTtBKGFR,M9hXKgAI,2,1,,,,0
+1523804400,Zira,Neftci Baku,nalsMvvG,C4C6wm62,0,3,,,,0
+1524312000,Shamakhi,Zira,M9hXKgAI,nalsMvvG,2,1,,,,0
+1524402000,Sabail,Kapaz,pxLJhy1b,82dkiD1Q,1,1,,,,0
+1524409200,Sumqayit,Qarabag,bTtBKGFR,W0XY6C3I,0,1,,,,0
+1524409200,Neftci Baku,Gabala,C4C6wm62,Kt8HTC4e,1,0,,,,0
+1524841200,Zira,Qarabag,nalsMvvG,W0XY6C3I,1,2,,,,0
+1524916800,Shamakhi,Neftci Baku,M9hXKgAI,C4C6wm62,2,1,,,,0
+1524924000,Gabala,Kapaz,Kt8HTC4e,82dkiD1Q,3,0,,,,0
+1525014000,Sumqayit,Sabail,bTtBKGFR,pxLJhy1b,1,2,,,,0
+1525435200,Kapaz,Sumqayit,82dkiD1Q,bTtBKGFR,1,1,,,,0
+1525525200,Sabail,Zira,pxLJhy1b,nalsMvvG,0,1,,,,0
+1525532400,Gabala,Shamakhi,Kt8HTC4e,M9hXKgAI,1,1,,,,0
+1525618800,Qarabag,Neftci Baku,W0XY6C3I,C4C6wm62,0,1,,,,0
+1526130000,Shamakhi,Qarabag,M9hXKgAI,W0XY6C3I,3,0,,,,0
+1526137200,Zira,Kapaz,nalsMvvG,82dkiD1Q,2,1,,,,0
+1526137200,Sumqayit,Gabala,bTtBKGFR,Kt8HTC4e,0,2,,,,0
+1526137200,Neftci Baku,Sabail,C4C6wm62,pxLJhy1b,3,1,,,,0
+1526822100,Sumqayit,Zira,bTtBKGFR,nalsMvvG,1,2,,,,0
+1526822100,Sabail,Shamakhi,pxLJhy1b,M9hXKgAI,0,1,,,,0
+1526822100,Kapaz,Neftci Baku,82dkiD1Q,C4C6wm62,1,2,,,,0
+1526914800,Gabala,Qarabag,Kt8HTC4e,W0XY6C3I,0,1,,,,0

@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1373644800,SAK Klagenfurt,Vocklamarkt,3,1,,,,0
-1373644800,Ober Grafendorf,Amstetten,2,5,,,,0
-1373646600,BW Linz,Mattersburg,1,5,,,,0
-1373648400,Wals-Grunau,St. Polten,1,2,,,,0
-1373648400,Seekirchen,Admira,0,2,,,,0
-1373648400,Leopoldsdorf,Parndorf,1,1,AET,1,2,0
-1373648400,Leoben,Kapfenberg,2,3,,,,0
-1373648400,Lafnitz,Altach,0,4,,,,0
-1373648400,Floridsdorfer AC,Kufstein,3,1,,,,0
-1373648400,Dornbirn,First Vienna,1,2,,,,0
-1373648400,Bregenz,Ried,0,4,,,,0
-1373650200,SV Oberwart,Austria Vienna,0,3,,,,0
-1373650200,Schwechat,Kalsdorf,0,3,,,,0
-1373650200,1. SC Sollenau,Wiener Sport-Club,1,1,Pen,2,1,0
-1373725800,Pinkafeld,Neumarkt,1,1,AET,4,2,0
-1373727600,Dornbirner SV,Kitzbuhel,1,0,,,,0
-1373727600,Bad Voslau,Hartberg,2,3,,,,0
-1373727600,A. Salzburg,Grodig,0,0,Pen,2,1,0
-1373729400,A. Klagenfurt,Wiener Viktoria,3,2,,,,0
-1373731200,Villach,Tirol,4,4,Pen,6,5,0
-1373731200,Schwaz,Wolfsberger AC,0,3,,,,0
-1373731200,Retz,Vorwarts Steyr,0,0,Pen,0,1,0
-1373731200,Hard,Horn,1,3,,,,0
-1373731200,Drassburg,Wiener Neustadt,0,3,,,,0
-1373731200,Alpe Adria,Lankowitz,1,5,,,,0
-1373733000,TSV St. Johann,FC Juniors,0,5,,,,0
-1373734800,TWL Elektra,Sturm Graz,0,5,,,,0
-1373734800,Marchfeld,Gratkorn,0,0,AET,1,0,0
-1373736600,Stegersbach,A. Lustenau,0,2,,,,0
-1373812200,LASK,SK Rapid,0,0,Pen,1,0,0
-1373817600,Allerheiligen,Wacker Innsbruck,1,4,,,,0
-1373821200,Florian,Salzburg,0,9,,,,0
-1379944800,SAK Klagenfurt,Hartberg,2,2,AET,4,2,0
-1379955600,Villach,Kapfenberg,0,3,,,,0
-1379955600,LASK,St. Polten,3,4,,,,0
-1380040200,A. Salzburg,Mattersburg,1,1,Pen,1,2,0
-1380042000,Vorwarts Steyr,A. Lustenau,1,2,,,,0
-1380042000,Kalsdorf,Austria Vienna,2,1,,,,0
-1380042000,A. Klagenfurt,Parndorf,0,2,,,,0
-1380043800,Marchfeld,Horn,4,4,AET,4,6,0
-1380043800,Amstetten,Altach,2,1,,,,0
-1380043800,1. SC Sollenau,First Vienna,0,4,,,,0
-1380047100,FC Juniors,Wacker Innsbruck,2,1,,,,0
-1380118500,Dornbirner SV,Ried,0,2,,,,0
-1380124800,Sturm Graz,Wiener Neustadt,0,0,AET,3,0,0
-1380126600,Pinkafeld,Wolfsberger AC,1,4,,,,0
-1380128400,Lankowitz,Salzburg,1,1,Pen,1,2,0
-1380128400,Floridsdorfer AC,Admira,0,0,Pen,0,1,0
-1382983200,Kalsdorf,St. Polten,0,4,,,,0
-1382985000,Horn,Parndorf,5,4,,,,0
-1383066000,SAK Klagenfurt,Ried,0,1,,,,0
-1383066000,FC Juniors,Wolfsberger AC,2,2,AET,2,4,0
-1383071400,Amstetten,Mattersburg,2,0,,,,0
-1383071400,Admira,First Vienna,3,1,,,,0
-1383152400,A. Lustenau,Sturm Graz,0,4,,,,0
-1383156000,Kapfenberg,Salzburg,1,7,,,,0
-1396972800,Admira,Sturm Graz,0,1,,,,0
-1397583000,Horn,Amstetten,2,0,,,,0
-1397586600,Ried,St. Polten,1,2,,,,0
-1397664000,Wolfsberger AC,Salzburg,0,6,,,,0
-1399478400,Horn,Salzburg,0,7,,,,0
-1399487400,St. Polten,Sturm Graz,0,0,AET,1,0,0
-1400423400,Salzburg,St. Polten,4,2,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1373644800,SAK Klagenfurt,Vocklamarkt,v3vdN6es,SC86RyVq,3,1,,,,0
+1373644800,Ober Grafendorf,Amstetten,0KVT3HRm,WrCAZ10R,2,5,,,,0
+1373646600,BW Linz,Mattersburg,6ovmkrPK,6mXP2Hyq,1,5,,,,0
+1373648400,Wals-Grunau,St. Polten,rugjsB3F,6LImwhxm,1,2,,,,0
+1373648400,Seekirchen,Admira,bTzLAEkQ,IeGa2GZS,0,2,,,,0
+1373648400,Leopoldsdorf,Parndorf,pv8FDlIg,pvWT1yik,1,1,AET,1,2,0
+1373648400,Leoben,Kapfenberg,n1a1DvMn,pvWT1yik,2,3,,,,0
+1373648400,Lafnitz,Altach,ENFIZdo7,pvWT1yik,0,4,,,,0
+1373648400,Floridsdorfer AC,Kufstein,QXZc2TGK,GjMtKimn,3,1,,,,0
+1373648400,Dornbirn,First Vienna,6PGy1PGO,rXAAgEQl,1,2,,,,0
+1373648400,Bregenz,Ried,fuS6i9Ng,baDxm2ON,0,4,,,,0
+1373650200,SV Oberwart,Austria Vienna,E5zyWnQ8,lUkqx2Vt,0,3,,,,0
+1373650200,Schwechat,Kalsdorf,EXKhHhDL,Uy7I7TU5,0,3,,,,0
+1373650200,1. SC Sollenau,Wiener Sport-Club,Ctxn7Xfl,tlADOqPp,1,1,Pen,2,1,0
+1373725800,Pinkafeld,Neumarkt,88F5KSEH,hMGCWMAt,1,1,AET,4,2,0
+1373727600,Dornbirner SV,Kitzbuhel,GKiqYGam,QPcnQ6u2,1,0,,,,0
+1373727600,Bad Voslau,Hartberg,nwmXzMRb,0QjFNZnd,2,3,,,,0
+1373727600,A. Salzburg,Grodig,GdRlNIDR,WUfDDYk1,0,0,Pen,2,1,0
+1373729400,A. Klagenfurt,Wiener Viktoria,2s9wXQAm,rBmrA7OI,3,2,,,,0
+1373731200,Villach,Tirol,pxLqSYWD,OlTuEPoj,4,4,Pen,6,5,0
+1373731200,Schwaz,Wolfsberger AC,QXmZ1i3J,EJ7YkKMB,0,3,,,,0
+1373731200,Retz,Vorwarts Steyr,ING5fWu0,QutZTBta,0,0,Pen,0,1,0
+1373731200,Hard,Horn,Mkzo6oBm,0E8Iihe1,1,3,,,,0
+1373731200,Drassburg,Wiener Neustadt,dxvVB2dP,YPJg8PPF,0,3,,,,0
+1373731200,Alpe Adria,Lankowitz,t4tONuuj,4hx53iNB,1,5,,,,0
+1373733000,TSV St. Johann,FC Juniors,Mkzo6oBm,C0f21sNd,0,5,,,,0
+1373734800,TWL Elektra,Sturm Graz,Igu08x5T,ATNrh1YR,0,5,,,,0
+1373734800,Marchfeld,Gratkorn,b5IgCexp,pvWT1yik,0,0,AET,1,0,0
+1373736600,Stegersbach,A. Lustenau,QF66vkQD,pvWT1yik,0,2,,,,0
+1373812200,LASK,SK Rapid,CbaUQRYa,QNSj0PU1,0,0,Pen,1,0,0
+1373817600,Allerheiligen,Wacker Innsbruck,4Y7kdgZs,UsfS2kBR,1,4,,,,0
+1373821200,Florian,Salzburg,nFSsiY1d,McAr23w3,0,9,,,,0
+1379944800,SAK Klagenfurt,Hartberg,v3vdN6es,0QjFNZnd,2,2,AET,4,2,0
+1379955600,Villach,Kapfenberg,pxLqSYWD,pvWT1yik,0,3,,,,0
+1379955600,LASK,St. Polten,CbaUQRYa,6LImwhxm,3,4,,,,0
+1380040200,A. Salzburg,Mattersburg,GdRlNIDR,6mXP2Hyq,1,1,Pen,1,2,0
+1380042000,Vorwarts Steyr,A. Lustenau,QutZTBta,pvWT1yik,1,2,,,,0
+1380042000,Kalsdorf,Austria Vienna,Uy7I7TU5,lUkqx2Vt,2,1,,,,0
+1380042000,A. Klagenfurt,Parndorf,2s9wXQAm,pvWT1yik,0,2,,,,0
+1380043800,Marchfeld,Horn,b5IgCexp,0E8Iihe1,4,4,AET,4,6,0
+1380043800,Amstetten,Altach,WrCAZ10R,pvWT1yik,2,1,,,,0
+1380043800,1. SC Sollenau,First Vienna,Ctxn7Xfl,rXAAgEQl,0,4,,,,0
+1380047100,FC Juniors,Wacker Innsbruck,C0f21sNd,UsfS2kBR,2,1,,,,0
+1380118500,Dornbirner SV,Ried,GKiqYGam,baDxm2ON,0,2,,,,0
+1380124800,Sturm Graz,Wiener Neustadt,ATNrh1YR,YPJg8PPF,0,0,AET,3,0,0
+1380126600,Pinkafeld,Wolfsberger AC,88F5KSEH,EJ7YkKMB,1,4,,,,0
+1380128400,Lankowitz,Salzburg,4hx53iNB,McAr23w3,1,1,Pen,1,2,0
+1380128400,Floridsdorfer AC,Admira,QXZc2TGK,IeGa2GZS,0,0,Pen,0,1,0
+1382983200,Kalsdorf,St. Polten,Uy7I7TU5,6LImwhxm,0,4,,,,0
+1382985000,Horn,Parndorf,0E8Iihe1,pvWT1yik,5,4,,,,0
+1383066000,SAK Klagenfurt,Ried,v3vdN6es,baDxm2ON,0,1,,,,0
+1383066000,FC Juniors,Wolfsberger AC,C0f21sNd,EJ7YkKMB,2,2,AET,2,4,0
+1383071400,Amstetten,Mattersburg,WrCAZ10R,6mXP2Hyq,2,0,,,,0
+1383071400,Admira,First Vienna,IeGa2GZS,rXAAgEQl,3,1,,,,0
+1383152400,A. Lustenau,Sturm Graz,pvWT1yik,ATNrh1YR,0,4,,,,0
+1383156000,Kapfenberg,Salzburg,pvWT1yik,McAr23w3,1,7,,,,0
+1396972800,Admira,Sturm Graz,IeGa2GZS,ATNrh1YR,0,1,,,,0
+1397583000,Horn,Amstetten,0E8Iihe1,WrCAZ10R,2,0,,,,0
+1397586600,Ried,St. Polten,baDxm2ON,6LImwhxm,1,2,,,,0
+1397664000,Wolfsberger AC,Salzburg,EJ7YkKMB,McAr23w3,0,6,,,,0
+1399478400,Horn,Salzburg,0E8Iihe1,McAr23w3,0,7,,,,0
+1399487400,St. Polten,Sturm Graz,6LImwhxm,ATNrh1YR,0,0,AET,1,0,0
+1400423400,Salzburg,St. Polten,McAr23w3,6LImwhxm,4,2,,,,1

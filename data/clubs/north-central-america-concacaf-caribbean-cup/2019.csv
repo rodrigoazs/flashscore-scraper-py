@@ -1,8 +1,8 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1557700200,Portmore (Jam),Real du Cap (Hai),1,0,,,,0
-1557709200,Waterhouse (Jam),Capoise (Hai),2,2,,,,0
-1557873000,Real du Cap (Hai),Waterhouse (Jam),0,2,,,,0
-1557882000,Capoise (Hai),Portmore (Jam),0,1,,,,0
-1558045800,Capoise (Hai),Real du Cap (Hai),3,2,,,,0
-1558054800,Portmore (Jam),Waterhouse (Jam),1,1,,,,0
-1558296000,Real du Cap (Hai),Robinhood (Sur),1,1,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1557700200,Portmore (Jam),Real du Cap (Hai),KCGGnOpC,CrTzmp8m,1,0,,,,0
+1557709200,Waterhouse (Jam),Capoise (Hai),6iLl2ZBo,hE6BPRI3,2,2,,,,0
+1557873000,Real du Cap (Hai),Waterhouse (Jam),CrTzmp8m,6iLl2ZBo,0,2,,,,0
+1557882000,Capoise (Hai),Portmore (Jam),hE6BPRI3,KCGGnOpC,0,1,,,,0
+1558045800,Capoise (Hai),Real du Cap (Hai),hE6BPRI3,CrTzmp8m,3,2,,,,0
+1558054800,Portmore (Jam),Waterhouse (Jam),KCGGnOpC,6iLl2ZBo,1,1,,,,0
+1558296000,Real du Cap (Hai),Robinhood (Sur),CrTzmp8m,QBSRqXVB,1,1,Pen,1,2,0

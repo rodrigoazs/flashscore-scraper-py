@@ -1,38 +1,38 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1037254200,Mons,Lokeren,1,1,AET,2,1,0
-1037473200,Wavre,Westerlo,0,3,,,,0
-1037473200,St. Truiden,K. Berchem Sport,3,0,,,,0
-1037473200,St. Liege,Vise,3,0,,,,0
-1037473200,Lierse,KV Mechelen,1,0,,,,0
-1037473200,KFC Lommel SK,Dessel,5,1,,,,0
-1037473200,Genk,Virton,3,1,,,,0
-1037473200,Club Brugge KV,Wevelgem,2,0,,,,0
-1037473200,Bocholter,KSK Beveren,2,1,,,,0
-1037538000,Tongeren,RAA Louvieroise,0,1,,,,0
-1037538000,K. FC Turnhout,Gent,1,1,AET,3,1,0
-1037538000,Gistel,Charleroi,1,3,,,,0
-1037538000,Fabriek,Mouscron,0,0,AET,0,1,0
-1037541600,Patro Eisden,Beerschot AC,0,3,,,,0
-1037541600,Cercle Brugge KSV,Anderlecht,1,3,,,,0
-1037545200,Heusden-Zolder,Antwerp,0,2,,,,0
-1040151600,Antwerp,Mons,2,0,,,,0
-1040238000,St. Truiden,Lierse,0,0,AET,1,0,0
-1040238000,St. Liege,Charleroi,2,1,,,,0
-1040238000,KFC Lommel SK,Mouscron,2,1,,,,0
-1040238000,Bocholter,Club Brugge KV,1,6,,,,0
-1040239800,K. FC Turnhout,Anderlecht,1,2,,,,0
-1040239800,Genk,RAA Louvieroise,1,1,,,,0
-1040239800,Beerschot AC,Westerlo,2,0,,,,0
-1043262000,St. Liege,RAA Louvieroise,3,1,,,,0
-1043263800,Club Brugge KV,KFC Lommel SK,3,2,,,,0
-1043263800,Anderlecht,St. Truiden,1,0,,,,0
-1043265600,Antwerp,Beerschot AC,2,1,,,,0
-1044471600,St. Truiden,Anderlecht,1,0,,,,0
-1044473400,RAA Louvieroise,St. Liege,2,0,,,,0
-1044473400,KFC Lommel SK,Club Brugge KV,2,0,,,,0
-1044475200,Beerschot AC,Antwerp,3,0,,,,0
-1046806200,KFC Lommel SK,RAA Louvieroise,3,2,,,,0
-1046892600,St. Truiden,Beerschot AC,1,0,,,,0
-1050431400,Beerschot AC,St. Truiden,0,0,,,,0
-1050444000,RAA Louvieroise,KFC Lommel SK,2,0,,,,0
-1054476000,St. Truiden,RAA Louvieroise,1,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1037254200,Mons,Lokeren,EkA5g8Rs,Iw55ueQk,1,1,AET,2,1,0
+1037473200,Wavre,Westerlo,Kf1Q9jv7,ht99hStl,0,3,,,,0
+1037473200,St. Truiden,K. Berchem Sport,OCiVKiPK,0d5xvaZR,3,0,,,,0
+1037473200,St. Liege,Vise,tjZYJCwg,GKLayE7g,3,0,,,,0
+1037473200,Lierse,KV Mechelen,xQnxBzcF,zVJMgvaS,1,0,,,,0
+1037473200,KFC Lommel SK,Dessel,,M5lCtVJ3,5,1,,,,0
+1037473200,Genk,Virton,YB0frRRP,nySHadaH,3,1,,,,0
+1037473200,Club Brugge KV,Wevelgem,44lq3LsP,8UIZ0QyK,2,0,,,,0
+1037473200,Bocholter,KSK Beveren,2FQRGmbQ,tt0jGfcU,2,1,,,,0
+1037538000,Tongeren,RAA Louvieroise,dxvEjyF0,YssI91Vs,0,1,,,,0
+1037538000,K. FC Turnhout,Gent,0dmGukZ9,ETUaLGDL,1,1,AET,3,1,0
+1037538000,Gistel,Charleroi,,xCPMRLr8,1,3,,,,0
+1037538000,Fabriek,Mouscron,,4KjgYD22,0,0,AET,0,1,0
+1037541600,Patro Eisden,Beerschot AC,E9n9SQjS,dvLIfKqM,0,3,,,,0
+1037541600,Cercle Brugge KSV,Anderlecht,CS6nbsqF,YVlGNJGc,1,3,,,,0
+1037545200,Heusden-Zolder,Antwerp,WhwXIDUP,vuxu3x67,0,2,,,,0
+1040151600,Antwerp,Mons,vuxu3x67,EkA5g8Rs,2,0,,,,0
+1040238000,St. Truiden,Lierse,OCiVKiPK,xQnxBzcF,0,0,AET,1,0,0
+1040238000,St. Liege,Charleroi,tjZYJCwg,xCPMRLr8,2,1,,,,0
+1040238000,KFC Lommel SK,Mouscron,,4KjgYD22,2,1,,,,0
+1040238000,Bocholter,Club Brugge KV,2FQRGmbQ,44lq3LsP,1,6,,,,0
+1040239800,K. FC Turnhout,Anderlecht,0dmGukZ9,YVlGNJGc,1,2,,,,0
+1040239800,Genk,RAA Louvieroise,YB0frRRP,YssI91Vs,1,1,,,,0
+1040239800,Beerschot AC,Westerlo,dvLIfKqM,ht99hStl,2,0,,,,0
+1043262000,St. Liege,RAA Louvieroise,tjZYJCwg,YssI91Vs,3,1,,,,0
+1043263800,Club Brugge KV,KFC Lommel SK,44lq3LsP,,3,2,,,,0
+1043263800,Anderlecht,St. Truiden,YVlGNJGc,OCiVKiPK,1,0,,,,0
+1043265600,Antwerp,Beerschot AC,vuxu3x67,dvLIfKqM,2,1,,,,0
+1044471600,St. Truiden,Anderlecht,OCiVKiPK,YVlGNJGc,1,0,,,,0
+1044473400,RAA Louvieroise,St. Liege,YssI91Vs,tjZYJCwg,2,0,,,,0
+1044473400,KFC Lommel SK,Club Brugge KV,,44lq3LsP,2,0,,,,0
+1044475200,Beerschot AC,Antwerp,dvLIfKqM,vuxu3x67,3,0,,,,0
+1046806200,KFC Lommel SK,RAA Louvieroise,,YssI91Vs,3,2,,,,0
+1046892600,St. Truiden,Beerschot AC,OCiVKiPK,dvLIfKqM,1,0,,,,0
+1050431400,Beerschot AC,St. Truiden,dvLIfKqM,OCiVKiPK,0,0,,,,0
+1050444000,RAA Louvieroise,KFC Lommel SK,YssI91Vs,,2,0,,,,0
+1054476000,St. Truiden,RAA Louvieroise,OCiVKiPK,YssI91Vs,1,3,,,,0

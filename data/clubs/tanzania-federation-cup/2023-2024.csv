@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1680454800,Namungo,Kagera Sugar,0,0,Pen,1,0,0
-1680526800,Geita Gold,Rhino Rangers,2,1,,,,0
-1680613200,Fountain Gate,Tabora United,0,3,,,,0
-1680714000,Coastal Union,JKT Tanzania,0,0,Pen,1,0,0
-1680786000,Kinondoni MC,Singida Black Stars,0,3,,,,0
-1680890400,Azam,Mtibwa Sugar,3,0,,,,0
-1681045200,Mashujaa,Simba,1,1,Pen,2,1,0
-1681146000,Dodoma Jiji,Young Africans,0,2,,,,0
-1682946000,Singida Black Stars,Mashujaa,0,0,Pen,1,0,0
-1682954100,Coastal Union,Geita Gold,1,0,,,,0
-1682962200,Young Africans,Tabora United,3,0,,,,0
-1683135000,Azam,Namungo,4,1,,,,0
-1684413000,Coastal Union,Azam,0,3,,,,0
-1684499400,Singida Black Stars,Young Africans,0,0,AET,0,1,0
-1685726100,Azam,Young Africans,0,0,Pen,0,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1680454800,Namungo,Kagera Sugar,Ai2ysddt,zRkl1WzG,0,0,Pen,1,0,0
+1680526800,Geita Gold,Rhino Rangers,lMaihByE,z581SV0d,2,1,,,,0
+1680613200,Fountain Gate,Tabora United,f91acHAB,fcuHMrzU,0,3,,,,0
+1680714000,Coastal Union,JKT Tanzania,dzip2CL9,fP9GHZ7S,0,0,Pen,1,0,0
+1680786000,Kinondoni MC,Singida Black Stars,pzrVpTTm,bFuPDM8N,0,3,,,,0
+1680890400,Azam,Mtibwa Sugar,GMblXjD2,zRkl1WzG,3,0,,,,0
+1681045200,Mashujaa,Simba,b3Pt3BpO,6auKd00m,1,1,Pen,2,1,0
+1681146000,Dodoma Jiji,Young Africans,0SL5ozs0,QNM5QOXC,0,2,,,,0
+1682946000,Singida Black Stars,Mashujaa,bFuPDM8N,b3Pt3BpO,0,0,Pen,1,0,0
+1682954100,Coastal Union,Geita Gold,dzip2CL9,lMaihByE,1,0,,,,0
+1682962200,Young Africans,Tabora United,QNM5QOXC,fcuHMrzU,3,0,,,,0
+1683135000,Azam,Namungo,GMblXjD2,Ai2ysddt,4,1,,,,0
+1684413000,Coastal Union,Azam,dzip2CL9,GMblXjD2,0,3,,,,0
+1684499400,Singida Black Stars,Young Africans,bFuPDM8N,QNM5QOXC,0,0,AET,0,1,0
+1685726100,Azam,Young Africans,GMblXjD2,QNM5QOXC,0,0,Pen,0,1,0

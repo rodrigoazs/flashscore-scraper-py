@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1362808800,Yeungnam University,Kwangwoon,0,2,,,,0
-1362888000,Seoul United,Honam,0,3,,,,0
-1362891600,Yonsei,Ajou,3,0,,,,0
-1362891600,Yong In,Sehan,8,0,,,,0
-1362891600,Yeonggwang,Korea University,2,1,,,,0
-1362891600,Yangju,Kyung Hee Univ.,1,2,,,,0
-1362891600,Pyeongchang United,Dong Eui,0,1,,,,0
-1362891600,Pocheon,Yewon Arts,4,2,,,,0
-1362891600,Jeonbuk,Sungkyunkwan,1,0,,,,0
-1362891600,Icheon,Hannam University,2,1,,,,0
-1362891600,Gyeongju Citizen,Hongik,0,1,,,,0
-1362891600,Cheongju City,Dongguk,1,2,,,,0
-1362895200,Soongsil,Chuncheon,2,0,,,,0
-1362895200,Paju Citizen,Ulsan University,1,0,,,,0
-1362895200,Konkuk,Chosun University,1,1,Pen,2,1,0
-1362895200,Cheongju,Gwangju University,5,1,,,,0
-1365829200,Yongin City,Kyung Hee Univ.,1,0,,,,0
-1365829200,Jeonbuk,Bucheon FC 1995,0,0,Pen,1,0,0
-1365829200,Hummel,Yong In,2,0,,,,0
-1365829200,Cheonan City,Konkuk,0,0,Pen,0,1,0
-1365832800,Ulsan Mipo,Hongik,1,0,,,,0
-1365832800,Soongsil,Asan,2,2,Pen,3,2,0
-1365832800,Pocheon,Gimhae,0,1,,,,0
-1365832800,Paju Citizen,Gyeongju KHNP,1,3,,,,0
-1365832800,Mokpo,Dongguk,2,1,,,,0
-1365832800,Goyang Zaicro FC,Yeonggwang,1,1,Pen,2,1,0
-1365832800,Anyang,Cheongju,3,3,AET,5,4,0
-1365836400,Changwon,Dong Eui,0,0,AET,0,1,0
-1365847200,Gangneung,Honam,1,1,AET,2,1,0
-1365904800,Kwangwoon,Suwon FC,2,4,,,,0
-1365915600,Yonsei,Daejeon Korail,1,0,,,,0
-1365915600,Icheon,Busan Kyotong,2,1,,,,0
-1368007200,Jeonbuk,Yongin City,2,0,,,,0
-1368007200,Jeju SK,Konkuk,2,1,,,,0
-1368007200,Gwangju FC,Hummel,2,2,AET,3,2,0
-1368007200,Gimhae,Busan,0,1,,,,0
-1368007200,Gangwon,Gyeongju KHNP,2,2,AET,3,2,0
-1368009000,Ulsan HD,Icheon,3,0,,,,0
-1368009000,Seoul,Yonsei,3,0,,,,0
-1368009000,Seongnam,Dong Eui,2,2,AET,4,2,0
-1368009000,Pohang,Soongsil,4,0,,,,0
-1368009000,Jeonnam,Gangneung,0,0,Pen,1,0,0
-1368009000,Incheon,Jeonbuk Maeil,4,1,,,,0
-1368009000,Gyeongnam,Ulsan Mipo,2,0,,,,0
-1368009000,Gimcheon Sangmu,Mokpo,4,1,,,,0
-1368009000,Daejeon,Goyang Zaicro FC,0,1,,,,0
-1368009000,Daegu,Suwon FC,0,1,,,,0
-1368010800,Anyang,Suwon Bluewings,1,2,,,,0
-1373450400,Jeonnam,Suwon FC,3,4,,,,0
-1373450400,Jeju SK,Suwon Bluewings,1,0,,,,0
-1373452200,Ulsan HD,Jeonbuk,0,1,,,,0
-1373452200,Seoul,Gwangju FC,0,0,AET,2,1,0
-1373452200,Seongnam,Pohang,1,1,Pen,1,2,0
-1373452200,Incheon,Gimcheon Sangmu,1,1,AET,2,1,0
-1373452200,Gyeongnam,Goyang Zaicro FC,1,0,,,,0
-1373452200,Busan,Gangwon,2,1,,,,0
-1375869600,Jeonbuk,Suwon FC,7,2,,,,0
-1375869600,Jeju SK,Incheon,2,0,,,,0
-1375871400,Seoul,Busan,1,2,,,,0
-1375871400,Gyeongnam,Pohang,1,2,,,,0
-1379138400,Jeju SK,Pohang,2,4,,,,0
-1379224800,Busan,Jeonbuk,1,3,,,,0
-1382157000,Jeonbuk,Pohang,1,1,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1362808800,Yeungnam University,Kwangwoon,xS3omX98,A1uNZh52,0,2,,,,0
+1362888000,Seoul United,Honam,Ic5ewgVd,CCQYPcHs,0,3,,,,0
+1362891600,Yonsei,Ajou,QeOLgZzn,tKMqLog4,3,0,,,,0
+1362891600,Yong In,Sehan,QeOLgZzn,,8,0,,,,0
+1362891600,Yeonggwang,Korea University,CfJGJVYM,xS3omX98,2,1,,,,0
+1362891600,Yangju,Kyung Hee Univ.,lC4X4PZR,GI2kniPE,1,2,,,,0
+1362891600,Pyeongchang United,Dong Eui,YTVqhfgo,j1jtxDmF,0,1,,,,0
+1362891600,Pocheon,Yewon Arts,xS3omX98,,4,2,,,,0
+1362891600,Jeonbuk,Sungkyunkwan,fm8Q2TnU,AD7xRhgf,1,0,,,,0
+1362891600,Icheon,Hannam University,xS3omX98,xAjs8R0r,2,1,,,,0
+1362891600,Gyeongju Citizen,Hongik,neObYusP,rHbMwKnT,0,1,,,,0
+1362891600,Cheongju City,Dongguk,,lWjmsesl,1,2,,,,0
+1362895200,Soongsil,Chuncheon,C0STZXCJ,C8xz9kft,2,0,,,,0
+1362895200,Paju Citizen,Ulsan University,lfXGTiXB,IeQyHoE9,1,0,,,,0
+1362895200,Konkuk,Chosun University,z7cwUZLH,lfXGTiXB,1,1,Pen,2,1,0
+1362895200,Cheongju,Gwangju University,fDezaw8A,KhtBl5IU,5,1,,,,0
+1365829200,Yongin City,Kyung Hee Univ.,WpVyfe72,GI2kniPE,1,0,,,,0
+1365829200,Jeonbuk,Bucheon FC 1995,fm8Q2TnU,WnvCfUUh,0,0,Pen,1,0,0
+1365829200,Hummel,Yong In,MiifrrOt,QeOLgZzn,2,0,,,,0
+1365829200,Cheonan City,Konkuk,l2Dt0o2j,z7cwUZLH,0,0,Pen,0,1,0
+1365832800,Ulsan Mipo,Hongik,h22eRuJ9,rHbMwKnT,1,0,,,,0
+1365832800,Soongsil,Asan,C0STZXCJ,l6HzCrRi,2,2,Pen,3,2,0
+1365832800,Pocheon,Gimhae,xS3omX98,AyUugFM8,0,1,,,,0
+1365832800,Paju Citizen,Gyeongju KHNP,lfXGTiXB,nml9t5he,1,3,,,,0
+1365832800,Mokpo,Dongguk,zqF6QHPD,lWjmsesl,2,1,,,,0
+1365832800,Goyang Zaicro FC,Yeonggwang,MiifrrOt,CfJGJVYM,1,1,Pen,2,1,0
+1365832800,Anyang,Cheongju,QT3YZigt,fDezaw8A,3,3,AET,5,4,0
+1365836400,Changwon,Dong Eui,AyUugFM8,j1jtxDmF,0,0,AET,0,1,0
+1365847200,Gangneung,Honam,WpVyfe72,CCQYPcHs,1,1,AET,2,1,0
+1365904800,Kwangwoon,Suwon FC,A1uNZh52,C8xz9kft,2,4,,,,0
+1365915600,Yonsei,Daejeon Korail,QeOLgZzn,WpVyfe72,1,0,,,,0
+1365915600,Icheon,Busan Kyotong,xS3omX98,AyUugFM8,2,1,,,,0
+1368007200,Jeonbuk,Yongin City,fm8Q2TnU,WpVyfe72,2,0,,,,0
+1368007200,Jeju SK,Konkuk,nFQt27sT,z7cwUZLH,2,1,,,,0
+1368007200,Gwangju FC,Hummel,82pY9Pwe,MiifrrOt,2,2,AET,3,2,0
+1368007200,Gimhae,Busan,AyUugFM8,23xlOhqr,0,1,,,,0
+1368007200,Gangwon,Gyeongju KHNP,tjoPM7VE,nml9t5he,2,2,AET,3,2,0
+1368009000,Ulsan HD,Icheon,0hHJPkl1,xS3omX98,3,0,,,,0
+1368009000,Seoul,Yonsei,8rKfsneA,QeOLgZzn,3,0,,,,0
+1368009000,Seongnam,Dong Eui,l04KlBA6,j1jtxDmF,2,2,AET,4,2,0
+1368009000,Pohang,Soongsil,lG6iYHm8,C0STZXCJ,4,0,,,,0
+1368009000,Jeonnam,Gangneung,0fjMSYzR,WpVyfe72,0,0,Pen,1,0,0
+1368009000,Incheon,Jeonbuk Maeil,U904kONG,,4,1,,,,0
+1368009000,Gyeongnam,Ulsan Mipo,OlLDanjn,h22eRuJ9,2,0,,,,0
+1368009000,Gimcheon Sangmu,Mokpo,UNadZKxs,zqF6QHPD,4,1,,,,0
+1368009000,Daejeon,Goyang Zaicro FC,l6HzCrRi,MiifrrOt,0,1,,,,0
+1368009000,Daegu,Suwon FC,AkeugwZe,C8xz9kft,0,1,,,,0
+1368010800,Anyang,Suwon Bluewings,QT3YZigt,nuOc3CG5,1,2,,,,0
+1373450400,Jeonnam,Suwon FC,0fjMSYzR,C8xz9kft,3,4,,,,0
+1373450400,Jeju SK,Suwon Bluewings,nFQt27sT,nuOc3CG5,1,0,,,,0
+1373452200,Ulsan HD,Jeonbuk,0hHJPkl1,fm8Q2TnU,0,1,,,,0
+1373452200,Seoul,Gwangju FC,8rKfsneA,82pY9Pwe,0,0,AET,2,1,0
+1373452200,Seongnam,Pohang,l04KlBA6,lG6iYHm8,1,1,Pen,1,2,0
+1373452200,Incheon,Gimcheon Sangmu,U904kONG,UNadZKxs,1,1,AET,2,1,0
+1373452200,Gyeongnam,Goyang Zaicro FC,OlLDanjn,MiifrrOt,1,0,,,,0
+1373452200,Busan,Gangwon,23xlOhqr,tjoPM7VE,2,1,,,,0
+1375869600,Jeonbuk,Suwon FC,fm8Q2TnU,C8xz9kft,7,2,,,,0
+1375869600,Jeju SK,Incheon,nFQt27sT,U904kONG,2,0,,,,0
+1375871400,Seoul,Busan,8rKfsneA,23xlOhqr,1,2,,,,0
+1375871400,Gyeongnam,Pohang,OlLDanjn,lG6iYHm8,1,2,,,,0
+1379138400,Jeju SK,Pohang,nFQt27sT,lG6iYHm8,2,4,,,,0
+1379224800,Busan,Jeonbuk,23xlOhqr,fm8Q2TnU,1,3,,,,0
+1382157000,Jeonbuk,Pohang,fm8Q2TnU,lG6iYHm8,1,1,Pen,1,2,0

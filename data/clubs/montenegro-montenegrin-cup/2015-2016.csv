@@ -1,43 +1,43 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1442323800,Sloga Bar,FK Podgorica,0,1,,,,0
-1442410200,Zeta,Igalo,3,1,,,,0
-1442410200,Spuz,Decic,0,1,,,,0
-1442410200,Rudar,Radnicki Berane,1,0,,,,0
-1442410200,Petnjica,Bokelj,0,3,,,,0
-1442410200,Kom Podgorica,Iskra,1,2,,,,0
-1442410200,Hajduk Bar,Jedinstvo,1,2,,,,0
-1442410200,Graficar Podgorica,Grbalj,1,4,,,,0
-1442410200,FK Cetinje,Lovcen,1,2,,,,0
-1442410200,Fair Play Bijelo Pole,Mornar Bar,0,7,,,,0
-1442410200,Cijevna,Sutjeska,0,3,,,,0
-1442410200,Buducnost,Berane,5,0,,,,0
-1442410200,Brskovo,Jezero,2,1,,,,0
-1443013200,Zeta,Brskovo,3,0,,,,0
-1443013200,Titograd,Jedinstvo,2,0,,,,0
-1443013200,Rudar,Sutjeska,1,0,,,,0
-1443013200,Petrovac,Mornar Bar,0,1,,,,0
-1443013200,Lovcen,FK Podgorica,3,0,,,,0
-1443013200,Ibar,Decic,0,2,,,,0
-1443013200,Grbalj,Buducnost,1,2,,,,0
-1443013200,Bokelj,Iskra,3,0,,,,0
-1445427000,Sutjeska,Rudar,0,3,,,,0
-1445427000,Mornar Bar,Petrovac,1,1,,,,0
-1445427000,Jedinstvo,Titograd,0,0,,,,0
-1445427000,Iskra,Bokelj,2,1,,,,0
-1445427000,FK Podgorica,Lovcen,3,2,,,,0
-1445427000,Decic,Ibar,5,1,,,,0
-1445427000,Buducnost,Grbalj,4,0,,,,0
-1445427000,Brskovo,Zeta,2,1,,,,0
-1446640200,Titograd,Bokelj,0,2,,,,0
-1446640200,Lovcen,Mornar Bar,3,1,,,,0
-1446640200,Decic,Rudar,2,2,,,,0
-1446640200,Buducnost,Zeta,2,0,,,,0
-1448452800,Zeta,Buducnost,0,0,,,,0
-1448452800,Rudar,Decic,2,1,,,,0
-1448452800,Mornar Bar,Lovcen,0,3,,,,0
-1449057600,Bokelj,Titograd,2,1,,,,0
-1460556000,Buducnost,Lovcen,2,0,,,,0
-1460556000,Bokelj,Rudar,0,1,,,,0
-1461767400,Rudar,Bokelj,2,0,,,,0
-1461767400,Lovcen,Buducnost,1,1,,,,0
-1464892200,Buducnost,Rudar,0,0,Pen,0,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1442323800,Sloga Bar,FK Podgorica,4bmQHUa1,IRdZ5ayn,0,1,,,,0
+1442410200,Zeta,Igalo,vLDFhvIU,8xsLFjVh,3,1,,,,0
+1442410200,Spuz,Decic,GKZKJ8Sb,UstD1joU,0,1,,,,0
+1442410200,Rudar,Radnicki Berane,KfNVySaO,tGYTvMQr,1,0,,,,0
+1442410200,Petnjica,Bokelj,SlfZ6qG2,ABpmWgn7,0,3,,,,0
+1442410200,Kom Podgorica,Iskra,4Uy7FtTH,0ASINSdB,1,2,,,,0
+1442410200,Hajduk Bar,Jedinstvo,4bmQHUa1,2JKzUeUK,1,2,,,,0
+1442410200,Graficar Podgorica,Grbalj,8tPBHaJA,YmnqXZW0,1,4,,,,0
+1442410200,FK Cetinje,Lovcen,AyvhK6wb,ABpmWgn7,1,2,,,,0
+1442410200,Fair Play Bijelo Pole,Mornar Bar,OrlTk8Wa,2JKzUeUK,0,7,,,,0
+1442410200,Cijevna,Sutjeska,Aaf9ZSca,zVJMgvaS,0,3,,,,0
+1442410200,Buducnost,Berane,zVJMgvaS,YmnqXZW0,5,0,,,,0
+1442410200,Brskovo,Jezero,d8Wqlvyg,ljgDYnD5,2,1,,,,0
+1443013200,Zeta,Brskovo,vLDFhvIU,d8Wqlvyg,3,0,,,,0
+1443013200,Titograd,Jedinstvo,ABpmWgn7,2JKzUeUK,2,0,,,,0
+1443013200,Rudar,Sutjeska,KfNVySaO,zVJMgvaS,1,0,,,,0
+1443013200,Petrovac,Mornar Bar,ABpmWgn7,2JKzUeUK,0,1,,,,0
+1443013200,Lovcen,FK Podgorica,ABpmWgn7,IRdZ5ayn,3,0,,,,0
+1443013200,Ibar,Decic,Aaf9ZSca,UstD1joU,0,2,,,,0
+1443013200,Grbalj,Buducnost,YmnqXZW0,zVJMgvaS,1,2,,,,0
+1443013200,Bokelj,Iskra,ABpmWgn7,0ASINSdB,3,0,,,,0
+1445427000,Sutjeska,Rudar,zVJMgvaS,KfNVySaO,0,3,,,,0
+1445427000,Mornar Bar,Petrovac,2JKzUeUK,ABpmWgn7,1,1,,,,0
+1445427000,Jedinstvo,Titograd,2JKzUeUK,ABpmWgn7,0,0,,,,0
+1445427000,Iskra,Bokelj,0ASINSdB,ABpmWgn7,2,1,,,,0
+1445427000,FK Podgorica,Lovcen,IRdZ5ayn,ABpmWgn7,3,2,,,,0
+1445427000,Decic,Ibar,UstD1joU,Aaf9ZSca,5,1,,,,0
+1445427000,Buducnost,Grbalj,zVJMgvaS,YmnqXZW0,4,0,,,,0
+1445427000,Brskovo,Zeta,d8Wqlvyg,vLDFhvIU,2,1,,,,0
+1446640200,Titograd,Bokelj,ABpmWgn7,ABpmWgn7,0,2,,,,0
+1446640200,Lovcen,Mornar Bar,ABpmWgn7,2JKzUeUK,3,1,,,,0
+1446640200,Decic,Rudar,UstD1joU,KfNVySaO,2,2,,,,0
+1446640200,Buducnost,Zeta,zVJMgvaS,vLDFhvIU,2,0,,,,0
+1448452800,Zeta,Buducnost,vLDFhvIU,zVJMgvaS,0,0,,,,0
+1448452800,Rudar,Decic,KfNVySaO,UstD1joU,2,1,,,,0
+1448452800,Mornar Bar,Lovcen,2JKzUeUK,ABpmWgn7,0,3,,,,0
+1449057600,Bokelj,Titograd,ABpmWgn7,ABpmWgn7,2,1,,,,0
+1460556000,Buducnost,Lovcen,zVJMgvaS,ABpmWgn7,2,0,,,,0
+1460556000,Bokelj,Rudar,ABpmWgn7,KfNVySaO,0,1,,,,0
+1461767400,Rudar,Bokelj,KfNVySaO,ABpmWgn7,2,0,,,,0
+1461767400,Lovcen,Buducnost,ABpmWgn7,zVJMgvaS,1,1,,,,0
+1464892200,Buducnost,Rudar,zVJMgvaS,KfNVySaO,0,0,Pen,0,1,0

@@ -1,44 +1,44 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1406988000,Ittihad Al Ramtha,Shabab Al Ordon,1,1,,,,0
-1406995200,Mansheyat,That Ras,0,1,,,,0
-1407081600,Al Hussein,Al-Faisaly Amman,1,1,,,,0
-1407081600,Al Ahli,Al Jazeera Amman,0,0,,,,0
-1407160800,Al Buqaa,Al Sareeh,0,1,,,,0
-1407168000,Al Wehdat,Al Ramtha,3,1,,,,0
-1407506400,Al Buqaa,Al Jazeera Amman,0,0,,,,0
-1407513600,Shabab Al Ordon,Mansheyat,1,1,,,,0
-1407513600,Ittihad Al Ramtha,Al Wehdat,0,2,,,,0
-1407592800,Al Ramtha,That Ras,0,0,,,,0
-1407600000,Al Sareeh,Al Hussein,2,2,,,,0
-1407600000,Al Ahli,Al-Faisaly Amman,3,0,,,,0
-1408024800,That Ras,Ittihad Al Ramtha,0,0,,,,0
-1408032000,Al Jazeera Amman,Al Sareeh,1,0,,,,0
-1408118400,Al Wehdat,Shabab Al Ordon,0,0,,,,0
-1408118400,Al Hussein,Al Ahli,0,0,,,,0
-1408204800,Mansheyat,Al Ramtha,1,0,,,,0
-1408204800,Al-Faisaly Amman,Al Buqaa,1,0,,,,0
-1408543200,Al Jazeera Amman,Al Hussein,0,0,,,,0
-1408550400,Shabab Al Ordon,That Ras,0,1,,,,0
-1408629600,Ittihad Al Ramtha,Al Ramtha,0,1,,,,0
-1408636800,Al Wehdat,Mansheyat,2,1,,,,0
-1408716000,Al Buqaa,Al Ahli,0,1,,,,0
-1408723200,Al Sareeh,Al-Faisaly Amman,0,0,,,,0
-1408975200,That Ras,Al Wehdat,0,4,,,,0
-1408975200,Mansheyat,Ittihad Al Ramtha,2,0,,,,0
-1408975200,Al Ramtha,Shabab Al Ordon,0,0,,,,0
-1409061600,Al-Faisaly Amman,Al Jazeera Amman,1,0,,,,0
-1409061600,Al Hussein,Al Buqaa,2,4,,,,0
-1409061600,Al Ahli,Al Sareeh,1,0,,,,0
-1414341000,Al Wehdat,Al Sareeh,1,0,,,,0
-1414427400,Al-Faisaly Amman,Mansheyat,2,1,,,,0
-1414504800,That Ras,Al Jazeera Amman,1,0,,,,0
-1414513800,Al Ahli,Al Ramtha,1,1,,,,0
-1417451400,Mansheyat,Al-Faisaly Amman,1,1,,,,0
-1417451400,Al Sareeh,Al Wehdat,0,0,,,,0
-1417537800,Al Ramtha,Al Ahli,2,1,,,,0
-1417537800,Al Jazeera Amman,That Ras,1,0,Pen,1,1,0
-1431705600,Al Ramtha,That Ras,0,0,,,,0
-1431792000,Al Wehdat,Al-Faisaly Amman,0,0,,,,0
-1431957600,That Ras,Al Ramtha,4,2,,,,0
-1432051200,Al-Faisaly Amman,Al Wehdat,1,0,,,,0
-1432310400,That Ras,Al-Faisaly Amman,1,1,AET,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1406988000,Ittihad Al Ramtha,Shabab Al Ordon,pbO35pzs,dvq5wjeM,1,1,,,,0
+1406995200,Mansheyat,That Ras,f3xNbTKG,Kbahu3Cr,0,1,,,,0
+1407081600,Al Hussein,Al-Faisaly Amman,WnrX0gmJ,K8APFB8k,1,1,,,,0
+1407081600,Al Ahli,Al Jazeera Amman,6ucmGLnJ,WdX72eig,0,0,,,,0
+1407160800,Al Buqaa,Al Sareeh,SUoVDTGC,Qgg1NV7E,0,1,,,,0
+1407168000,Al Wehdat,Al Ramtha,hWTOO0Lo,riw7cLfq,3,1,,,,0
+1407506400,Al Buqaa,Al Jazeera Amman,SUoVDTGC,WdX72eig,0,0,,,,0
+1407513600,Shabab Al Ordon,Mansheyat,dvq5wjeM,f3xNbTKG,1,1,,,,0
+1407513600,Ittihad Al Ramtha,Al Wehdat,pbO35pzs,hWTOO0Lo,0,2,,,,0
+1407592800,Al Ramtha,That Ras,riw7cLfq,Kbahu3Cr,0,0,,,,0
+1407600000,Al Sareeh,Al Hussein,Qgg1NV7E,WnrX0gmJ,2,2,,,,0
+1407600000,Al Ahli,Al-Faisaly Amman,6ucmGLnJ,K8APFB8k,3,0,,,,0
+1408024800,That Ras,Ittihad Al Ramtha,Kbahu3Cr,pbO35pzs,0,0,,,,0
+1408032000,Al Jazeera Amman,Al Sareeh,WdX72eig,Qgg1NV7E,1,0,,,,0
+1408118400,Al Wehdat,Shabab Al Ordon,hWTOO0Lo,dvq5wjeM,0,0,,,,0
+1408118400,Al Hussein,Al Ahli,WnrX0gmJ,6ucmGLnJ,0,0,,,,0
+1408204800,Mansheyat,Al Ramtha,f3xNbTKG,riw7cLfq,1,0,,,,0
+1408204800,Al-Faisaly Amman,Al Buqaa,K8APFB8k,SUoVDTGC,1,0,,,,0
+1408543200,Al Jazeera Amman,Al Hussein,WdX72eig,WnrX0gmJ,0,0,,,,0
+1408550400,Shabab Al Ordon,That Ras,dvq5wjeM,Kbahu3Cr,0,1,,,,0
+1408629600,Ittihad Al Ramtha,Al Ramtha,pbO35pzs,riw7cLfq,0,1,,,,0
+1408636800,Al Wehdat,Mansheyat,hWTOO0Lo,f3xNbTKG,2,1,,,,0
+1408716000,Al Buqaa,Al Ahli,SUoVDTGC,6ucmGLnJ,0,1,,,,0
+1408723200,Al Sareeh,Al-Faisaly Amman,Qgg1NV7E,K8APFB8k,0,0,,,,0
+1408975200,That Ras,Al Wehdat,Kbahu3Cr,hWTOO0Lo,0,4,,,,0
+1408975200,Mansheyat,Ittihad Al Ramtha,f3xNbTKG,pbO35pzs,2,0,,,,0
+1408975200,Al Ramtha,Shabab Al Ordon,riw7cLfq,dvq5wjeM,0,0,,,,0
+1409061600,Al-Faisaly Amman,Al Jazeera Amman,K8APFB8k,WdX72eig,1,0,,,,0
+1409061600,Al Hussein,Al Buqaa,WnrX0gmJ,SUoVDTGC,2,4,,,,0
+1409061600,Al Ahli,Al Sareeh,6ucmGLnJ,Qgg1NV7E,1,0,,,,0
+1414341000,Al Wehdat,Al Sareeh,hWTOO0Lo,Qgg1NV7E,1,0,,,,0
+1414427400,Al-Faisaly Amman,Mansheyat,K8APFB8k,f3xNbTKG,2,1,,,,0
+1414504800,That Ras,Al Jazeera Amman,Kbahu3Cr,WdX72eig,1,0,,,,0
+1414513800,Al Ahli,Al Ramtha,6ucmGLnJ,riw7cLfq,1,1,,,,0
+1417451400,Mansheyat,Al-Faisaly Amman,f3xNbTKG,K8APFB8k,1,1,,,,0
+1417451400,Al Sareeh,Al Wehdat,Qgg1NV7E,hWTOO0Lo,0,0,,,,0
+1417537800,Al Ramtha,Al Ahli,riw7cLfq,6ucmGLnJ,2,1,,,,0
+1417537800,Al Jazeera Amman,That Ras,WdX72eig,Kbahu3Cr,1,0,Pen,1,1,0
+1431705600,Al Ramtha,That Ras,riw7cLfq,Kbahu3Cr,0,0,,,,0
+1431792000,Al Wehdat,Al-Faisaly Amman,hWTOO0Lo,K8APFB8k,0,0,,,,0
+1431957600,That Ras,Al Ramtha,Kbahu3Cr,riw7cLfq,4,2,,,,0
+1432051200,Al-Faisaly Amman,Al Wehdat,K8APFB8k,hWTOO0Lo,1,0,,,,0
+1432310400,That Ras,Al-Faisaly Amman,Kbahu3Cr,K8APFB8k,1,1,AET,1,2,0

@@ -1,27 +1,27 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1255744800,Auckland City,Manu-Ura,5,0,,,,0
-1255752000,Tafea,Hekari Utd,3,3,,,,0
-1255838400,Marist,Lautoka,1,3,,,,0
-1256367600,Magenta,Waitakere United,1,1,,,,0
-1257559200,Waitakere United,Manu-Ura,2,0,,,,0
-1257566400,Marist,Tafea,0,2,,,,0
-1257570000,Hekari Utd,Lautoka,1,2,,,,0
-1257645600,Auckland City,Magenta,2,1,,,,0
-1259373600,Waitakere United,Auckland City,1,1,,,,0
-1259377200,Manu-Ura,Magenta,1,1,,,,0
-1259463600,Lautoka,Tafea,1,2,,,,0
-1259989200,Hekari Utd,Marist,2,1,,,,0
-1266037200,Hekari Utd,Tafea,4,0,,,,0
-1266039000,Manu-Ura,Auckland City,0,2,,,,0
-1266112800,Lautoka,Marist,3,0,,,,0
-1266631200,Waitakere United,Magenta,4,1,,,,0
-1267848000,Tafea,Marist,0,0,,,,0
-1267848000,Magenta,Auckland City,1,1,,,,0
-1267927200,Lautoka,Hekari Utd,0,1,,,,0
-1268975700,Manu-Ura,Waitakere United,1,5,,,,0
-1269662400,Tafea,Lautoka,1,3,,,,0
-1269662400,Marist,Hekari Utd,1,4,,,,0
-1269738000,Auckland City,Waitakere United,2,2,,,,0
-1269745200,Magenta,Manu-Ura,8,1,,,,0
-1271480400,Hekari Utd,Waitakere United,3,0,,,,0
-1272765600,Waitakere United,Hekari Utd,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1255744800,Auckland City,Manu-Ura,E7VNOejE,,5,0,,,,0
+1255752000,Tafea,Hekari Utd,hp3nk3Ne,EFVWv0e5,3,3,,,,0
+1255838400,Marist,Lautoka,nsoNOzQS,YajMy4UH,1,3,,,,0
+1256367600,Magenta,Waitakere United,QsL6ehoB,bTzLAEkQ,1,1,,,,0
+1257559200,Waitakere United,Manu-Ura,bTzLAEkQ,,2,0,,,,0
+1257566400,Marist,Tafea,nsoNOzQS,hp3nk3Ne,0,2,,,,0
+1257570000,Hekari Utd,Lautoka,EFVWv0e5,YajMy4UH,1,2,,,,0
+1257645600,Auckland City,Magenta,E7VNOejE,QsL6ehoB,2,1,,,,0
+1259373600,Waitakere United,Auckland City,bTzLAEkQ,E7VNOejE,1,1,,,,0
+1259377200,Manu-Ura,Magenta,,QsL6ehoB,1,1,,,,0
+1259463600,Lautoka,Tafea,YajMy4UH,hp3nk3Ne,1,2,,,,0
+1259989200,Hekari Utd,Marist,EFVWv0e5,nsoNOzQS,2,1,,,,0
+1266037200,Hekari Utd,Tafea,EFVWv0e5,hp3nk3Ne,4,0,,,,0
+1266039000,Manu-Ura,Auckland City,,E7VNOejE,0,2,,,,0
+1266112800,Lautoka,Marist,YajMy4UH,nsoNOzQS,3,0,,,,0
+1266631200,Waitakere United,Magenta,bTzLAEkQ,QsL6ehoB,4,1,,,,0
+1267848000,Tafea,Marist,hp3nk3Ne,nsoNOzQS,0,0,,,,0
+1267848000,Magenta,Auckland City,QsL6ehoB,E7VNOejE,1,1,,,,0
+1267927200,Lautoka,Hekari Utd,YajMy4UH,EFVWv0e5,0,1,,,,0
+1268975700,Manu-Ura,Waitakere United,,bTzLAEkQ,1,5,,,,0
+1269662400,Tafea,Lautoka,hp3nk3Ne,YajMy4UH,1,3,,,,0
+1269662400,Marist,Hekari Utd,nsoNOzQS,EFVWv0e5,1,4,,,,0
+1269738000,Auckland City,Waitakere United,E7VNOejE,bTzLAEkQ,2,2,,,,0
+1269745200,Magenta,Manu-Ura,QsL6ehoB,,8,1,,,,0
+1271480400,Hekari Utd,Waitakere United,EFVWv0e5,bTzLAEkQ,3,0,,,,0
+1272765600,Waitakere United,Hekari Utd,bTzLAEkQ,EFVWv0e5,2,1,,,,0

@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-954712800,Zeltweg,Hundsheim,1,2,,,,0
-954712800,Sturm Graz,FC Lustenau,2,0,,,,0
-954712800,Leoben,Wacker Innsbruck,1,2,,,,0
-954712800,Kremser,Salzburg,0,1,,,,0
-954712800,Kapfenberg,SK Rapid,2,3,,,,0
-954712800,FC Karnten,LASK,2,0,,,,0
-954712800,Bregenz,Braunau,0,1,,,,0
-954712800,ATSV Wolfsberger,Admira,0,3,,,,0
-955922400,Sturm Graz,SK Rapid,2,3,,,,0
-955922400,Hundsheim,Wacker Innsbruck,0,2,,,,0
-955922400,FC Karnten,Braunau,1,0,,,,0
-955922400,Admira,Salzburg,2,0,,,,0
-957736800,Admira,FC Karnten,2,3,,,,0
-957823200,SK Rapid,Wacker Innsbruck,0,1,,,,0
-959378400,Wacker Innsbruck,FC Karnten,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+954712800,Zeltweg,Hundsheim,8r8kiWIb,pxRkeLz6,1,2,,,,0
+954712800,Sturm Graz,FC Lustenau,ATNrh1YR,pvWT1yik,2,0,,,,0
+954712800,Leoben,Wacker Innsbruck,n1a1DvMn,UsfS2kBR,1,2,,,,0
+954712800,Kremser,Salzburg,KzBAaN8n,McAr23w3,0,1,,,,0
+954712800,Kapfenberg,SK Rapid,pvWT1yik,QNSj0PU1,2,3,,,,0
+954712800,FC Karnten,LASK,6mXP2Hyq,CbaUQRYa,2,0,,,,0
+954712800,Bregenz,Braunau,fuS6i9Ng,8YW7FR6D,0,1,,,,0
+954712800,ATSV Wolfsberger,Admira,zw4kbzCE,IeGa2GZS,0,3,,,,0
+955922400,Sturm Graz,SK Rapid,ATNrh1YR,QNSj0PU1,2,3,,,,0
+955922400,Hundsheim,Wacker Innsbruck,pxRkeLz6,UsfS2kBR,0,2,,,,0
+955922400,FC Karnten,Braunau,6mXP2Hyq,8YW7FR6D,1,0,,,,0
+955922400,Admira,Salzburg,IeGa2GZS,McAr23w3,2,0,,,,0
+957736800,Admira,FC Karnten,IeGa2GZS,6mXP2Hyq,2,3,,,,0
+957823200,SK Rapid,Wacker Innsbruck,QNSj0PU1,UsfS2kBR,0,1,,,,0
+959378400,Wacker Innsbruck,FC Karnten,UsfS2kBR,6mXP2Hyq,1,2,,,,0

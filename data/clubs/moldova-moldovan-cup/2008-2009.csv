@@ -1,42 +1,42 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1222207200,Vulcanesti,Cahul,0,4,,,,0
-1222207200,Victoria,Eikomena,5,2,,,,0
-1222207200,Soroca,Lokomotiva Balti,0,3,,,,0
-1222207200,Pleseni,Sf.Gheorghe,3,1,,,,0
-1222207200,Glodeni,Milsami,2,1,,,,0
-1222207200,Drochia,Podis,1,3,,,,0
-1222207200,CS Tiras,Intersport,1,0,,,,0
-1222207200,Cricova,Ratus,1,0,,,,0
-1222207200,Costuleni,Unirea Ungheni,3,1,,,,0
-1222207200,Copceac,Univer Comrat,1,9,,,,0
-1222207200,Ceadir,Mipan,1,0,,,,0
-1222207200,Basarabeasca,Floreni,3,0,Awrd,,,0
-1223416800,Viisoara,Bender,2,4,,,,0
-1223416800,Univer Comrat,Cahul,2,1,,,,0
-1223416800,Rapid Ghidighici,Academia Chisinau,3,1,,,,0
-1223416800,Glodeni,Podis,0,4,,,,0
-1223416800,CS Tiras,Cricova,0,4,,,,0
-1223416800,Costuleni,Lokomotiva Balti,1,3,,,,0
-1223416800,Ceadir,Pleseni,0,4,,,,0
-1223416800,Basarabeasca,Victoria,1,2,,,,0
-1224626400,Zimbru Chisinau,Pleseni,8,0,,,,0
-1224626400,Univer Comrat,Dacia Chisinau,0,4,,,,0
-1224626400,Tiligul-Tiras,Victoria,3,1,,,,0
-1224626400,Sheriff Tiraspol,Rapid Ghidighici,1,0,,,,0
-1224626400,Iskra-Stal,Lokomotiva Balti,2,0,,,,0
-1224626400,FC Tiraspol,Podis,4,1,,,,0
-1224626400,Cricova,Zaria Balti,0,4,,,,0
-1224626400,Bender,Otaci,2,4,,,,0
-1225839600,Tiligul-Tiras,Dacia Chisinau,1,1,,,,0
-1225839600,Otaci,Zimbru Chisinau,0,0,,,,0
-1225839600,Iskra-Stal,Sheriff Tiraspol,0,2,,,,0
-1225839600,FC Tiraspol,Zaria Balti,1,1,,,,0
-1227308400,Dacia Chisinau,Tiligul-Tiras,2,0,,,,0
-1227394800,Zaria Balti,FC Tiraspol,2,2,,,,0
-1227394800,Sheriff Tiraspol,Iskra-Stal,0,0,,,,0
-1227481200,Zimbru Chisinau,Otaci,3,0,,,,0
-1239141600,Sheriff Tiraspol,FC Tiraspol,2,1,,,,0
-1239141600,Dacia Chisinau,Zimbru Chisinau,2,1,,,,0
-1240956000,Zimbru Chisinau,Dacia Chisinau,1,1,,,,0
-1240956000,FC Tiraspol,Sheriff Tiraspol,2,3,,,,0
-1243094400,Sheriff Tiraspol,Dacia Chisinau,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1222207200,Vulcanesti,Cahul,,StxbsfGB,0,4,,,,0
+1222207200,Victoria,Eikomena,GKgzQUqg,,5,2,,,,0
+1222207200,Soroca,Lokomotiva Balti,bTrpXaCE,,0,3,,,,0
+1222207200,Pleseni,Sf.Gheorghe,vg95yCxN,E5dQHTcd,3,1,,,,0
+1222207200,Glodeni,Milsami,,G6lyZe2l,2,1,,,,0
+1222207200,Drochia,Podis,0xHu3Dom,,1,3,,,,0
+1222207200,CS Tiras,Intersport,,fm2mZQfT,1,0,,,,0
+1222207200,Cricova,Ratus,jDSW8vGo,,1,0,,,,0
+1222207200,Costuleni,Unirea Ungheni,G6lyZe2l,htukpewo,3,1,,,,0
+1222207200,Copceac,Univer Comrat,,nyAR0wsT,1,9,,,,0
+1222207200,Ceadir,Mipan,,,1,0,,,,0
+1222207200,Basarabeasca,Floreni,t21RWyxa,,3,0,Awrd,,,0
+1223416800,Viisoara,Bender,,,2,4,,,,0
+1223416800,Univer Comrat,Cahul,nyAR0wsT,StxbsfGB,2,1,,,,0
+1223416800,Rapid Ghidighici,Academia Chisinau,YN0lXg6t,G6lyZe2l,3,1,,,,0
+1223416800,Glodeni,Podis,,,0,4,,,,0
+1223416800,CS Tiras,Cricova,,jDSW8vGo,0,4,,,,0
+1223416800,Costuleni,Lokomotiva Balti,G6lyZe2l,,1,3,,,,0
+1223416800,Ceadir,Pleseni,,vg95yCxN,0,4,,,,0
+1223416800,Basarabeasca,Victoria,t21RWyxa,GKgzQUqg,1,2,,,,0
+1224626400,Zimbru Chisinau,Pleseni,QcBOsqL0,vg95yCxN,8,0,,,,0
+1224626400,Univer Comrat,Dacia Chisinau,nyAR0wsT,G6lyZe2l,0,4,,,,0
+1224626400,Tiligul-Tiras,Victoria,8OcSrDkt,GKgzQUqg,3,1,,,,0
+1224626400,Sheriff Tiraspol,Rapid Ghidighici,zVD8QVhN,YN0lXg6t,1,0,,,,0
+1224626400,Iskra-Stal,Lokomotiva Balti,G6lyZe2l,,2,0,,,,0
+1224626400,FC Tiraspol,Podis,G6lyZe2l,,4,1,,,,0
+1224626400,Cricova,Zaria Balti,jDSW8vGo,hEC4Vnse,0,4,,,,0
+1224626400,Bender,Otaci,,xGkXZymr,2,4,,,,0
+1225839600,Tiligul-Tiras,Dacia Chisinau,8OcSrDkt,G6lyZe2l,1,1,,,,0
+1225839600,Otaci,Zimbru Chisinau,xGkXZymr,QcBOsqL0,0,0,,,,0
+1225839600,Iskra-Stal,Sheriff Tiraspol,G6lyZe2l,zVD8QVhN,0,2,,,,0
+1225839600,FC Tiraspol,Zaria Balti,G6lyZe2l,hEC4Vnse,1,1,,,,0
+1227308400,Dacia Chisinau,Tiligul-Tiras,G6lyZe2l,8OcSrDkt,2,0,,,,0
+1227394800,Zaria Balti,FC Tiraspol,hEC4Vnse,G6lyZe2l,2,2,,,,0
+1227394800,Sheriff Tiraspol,Iskra-Stal,zVD8QVhN,G6lyZe2l,0,0,,,,0
+1227481200,Zimbru Chisinau,Otaci,QcBOsqL0,xGkXZymr,3,0,,,,0
+1239141600,Sheriff Tiraspol,FC Tiraspol,zVD8QVhN,G6lyZe2l,2,1,,,,0
+1239141600,Dacia Chisinau,Zimbru Chisinau,G6lyZe2l,QcBOsqL0,2,1,,,,0
+1240956000,Zimbru Chisinau,Dacia Chisinau,QcBOsqL0,G6lyZe2l,1,1,,,,0
+1240956000,FC Tiraspol,Sheriff Tiraspol,G6lyZe2l,zVD8QVhN,2,3,,,,0
+1243094400,Sheriff Tiraspol,Dacia Chisinau,zVD8QVhN,G6lyZe2l,2,0,,,,0

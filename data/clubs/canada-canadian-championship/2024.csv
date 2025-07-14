@@ -1,20 +1,20 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1713920400,Cavalry,Vancouver FC,1,0,,,,0
-1714001400,Toronto FC,Simcoe County Rovers,5,0,,,,0
-1714604400,Forge,York Utd,3,1,,,,0
-1714604400,Atl. Ottawa,Valour,7,0,,,,0
-1714615200,Pacific FC,TSS Rovers,1,1,Pen,2,1,0
-1714687200,HFX Wanderers,CS Saint-Laurent,2,2,Pen,2,3,0
-1715094000,Forge,CF Montreal,1,1,,,,0
-1715130000,Cavalry,Vancouver Whitecaps,1,2,,,,0
-1715209200,CS Saint-Laurent,Toronto FC,0,3,,,,0
-1715209200,Atl. Ottawa,Pacific FC,0,0,,,,0
-1716332400,Toronto FC,CS Saint-Laurent,8,1,,,,0
-1716345000,Vancouver Whitecaps,Cavalry,0,1,,,,0
-1716420600,CF Montreal,Forge,1,2,,,,0
-1717034400,Pacific FC,Atl. Ottawa,2,1,,,,0
-1720652400,Forge,Toronto FC,2,1,,,,0
-1720663200,Pacific FC,Vancouver Whitecaps,0,1,,,,0
-1724799600,Toronto FC,Forge,1,0,,,,0
-1724812200,Vancouver Whitecaps,Pacific FC,1,0,,,,0
-1727316000,Vancouver Whitecaps,Toronto FC,0,0,Pen,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1713920400,Cavalry,Vancouver FC,WSm5399I,bPSmUInH,1,0,,,,0
+1714001400,Toronto FC,Simcoe County Rovers,tnwDCzLD,t8nU8XEk,5,0,,,,0
+1714604400,Forge,York Utd,hxk14kfC,WSm5399I,3,1,,,,0
+1714604400,Atl. Ottawa,Valour,dWKqqmhs,AJtosphk,7,0,,,,0
+1714615200,Pacific FC,TSS Rovers,WSm5399I,fixvwhcD,1,1,Pen,2,1,0
+1714687200,HFX Wanderers,CS Saint-Laurent,0MS9u0Q7,Y9510t1s,2,2,Pen,2,3,0
+1715094000,Forge,CF Montreal,hxk14kfC,APghxIAJ,1,1,,,,0
+1715130000,Cavalry,Vancouver Whitecaps,WSm5399I,nJrkMuTE,1,2,,,,0
+1715209200,CS Saint-Laurent,Toronto FC,Y9510t1s,tnwDCzLD,0,3,,,,0
+1715209200,Atl. Ottawa,Pacific FC,dWKqqmhs,WSm5399I,0,0,,,,0
+1716332400,Toronto FC,CS Saint-Laurent,tnwDCzLD,Y9510t1s,8,1,,,,0
+1716345000,Vancouver Whitecaps,Cavalry,nJrkMuTE,WSm5399I,0,1,,,,0
+1716420600,CF Montreal,Forge,APghxIAJ,hxk14kfC,1,2,,,,0
+1717034400,Pacific FC,Atl. Ottawa,WSm5399I,dWKqqmhs,2,1,,,,0
+1720652400,Forge,Toronto FC,hxk14kfC,tnwDCzLD,2,1,,,,0
+1720663200,Pacific FC,Vancouver Whitecaps,WSm5399I,nJrkMuTE,0,1,,,,0
+1724799600,Toronto FC,Forge,tnwDCzLD,hxk14kfC,1,0,,,,0
+1724812200,Vancouver Whitecaps,Pacific FC,nJrkMuTE,WSm5399I,1,0,,,,0
+1727316000,Vancouver Whitecaps,Toronto FC,nJrkMuTE,tnwDCzLD,0,0,Pen,1,0,0

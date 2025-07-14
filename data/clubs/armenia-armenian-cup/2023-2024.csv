@@ -1,20 +1,20 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1696500000,FC Gandzasar,Onor,5,1,,,,0
-1696586400,Syunik,Nikarm,7,0,,,,0
-1696690800,EcoVille,Mika Jerevan,1,4,,,,0
-1696759200,Lernayin Artsakh,West Armenia,0,1,,,,0
-1696777200,BKMA,Andranik,6,0,,,,0
-1696950000,Cilicia,Falcons,9,1,,,,0
-1700647200,Mika Jerevan,Cilicia,1,2,,,,0
-1700733600,Van,West Armenia,2,1,,,,0
-1700820000,Pyunik Yerevan,Ararat Yerevan,1,1,AET,3,1,0
-1700834400,Ararat-Armenia,FC Gandzasar,1,0,,,,0
-1700906400,Alashkert,Noah,0,0,Pen,0,1,0
-1700992800,Syunik,BKMA,0,1,,,,0
-1710068400,Cilicia,Shirak Gyumri,0,1,,,,0
-1710165600,Noah,Ararat-Armenia,2,3,,,,0
-1710241200,Pyunik Yerevan,Van,5,3,,,,0
-1710252000,Urartu,BKMA,4,0,,,,0
-1712574000,Pyunik Yerevan,Ararat-Armenia,0,1,,,,0
-1712674800,Shirak Gyumri,Urartu,1,2,,,,0
-1715522400,Ararat-Armenia,Urartu,1,1,Pen,2,1,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1696500000,FC Gandzasar,Onor,bRaFgJQI,MkzzgVqJ,5,1,,,,0
+1696586400,Syunik,Nikarm,ji1LkT8q,dMHT6CQi,7,0,,,,0
+1696690800,EcoVille,Mika Jerevan,Y9y4BbqS,dvLIfKqM,1,4,,,,0
+1696759200,Lernayin Artsakh,West Armenia,MFZ0SgDq,QF2ujxY6,0,1,,,,0
+1696777200,BKMA,Andranik,fylJcjMq,8p7ehSTl,6,0,,,,0
+1696950000,Cilicia,Falcons,6cMs3Wdo,EHMPMcCO,9,1,,,,0
+1700647200,Mika Jerevan,Cilicia,dvLIfKqM,6cMs3Wdo,1,2,,,,0
+1700733600,Van,West Armenia,bD2dwPED,QF2ujxY6,2,1,,,,0
+1700820000,Pyunik Yerevan,Ararat Yerevan,zkO8QgRo,dUsGVqCN,1,1,AET,3,1,0
+1700834400,Ararat-Armenia,FC Gandzasar,6FB0mgsP,bRaFgJQI,1,0,,,,0
+1700906400,Alashkert,Noah,Y1ZCBtLt,2mU8GaB3,0,0,Pen,0,1,0
+1700992800,Syunik,BKMA,ji1LkT8q,fylJcjMq,0,1,,,,0
+1710068400,Cilicia,Shirak Gyumri,6cMs3Wdo,2ajBCmYJ,0,1,,,,0
+1710165600,Noah,Ararat-Armenia,2mU8GaB3,6FB0mgsP,2,3,,,,0
+1710241200,Pyunik Yerevan,Van,zkO8QgRo,bD2dwPED,5,3,,,,0
+1710252000,Urartu,BKMA,bi5W0N3n,fylJcjMq,4,0,,,,0
+1712574000,Pyunik Yerevan,Ararat-Armenia,zkO8QgRo,6FB0mgsP,0,1,,,,0
+1712674800,Shirak Gyumri,Urartu,2ajBCmYJ,bi5W0N3n,1,2,,,,0
+1715522400,Ararat-Armenia,Urartu,6FB0mgsP,bi5W0N3n,1,1,Pen,2,1,1

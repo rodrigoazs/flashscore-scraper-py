@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1189791000,Biel,Yverdon,1,1,Pen,2,3,0
-1189792800,Wettingen,Kriens,1,3,,,,0
-1189792800,Racing Club GE,La Chaux-De-Fonds,4,1,,,,0
-1189792800,FC Baulmes,Delemont,2,1,,,,0
-1189859400,FC Bazenheid,Bellinzona,0,7,,,,0
-1189863000,Echallens,Lausanne,0,0,AET,0,3,0
-1189864800,Versoix,Stade Nyonnais,0,5,,,,0
-1189864800,Seefeld,Grasshoppers,0,4,,,,0
-1189864800,Red Star Zurich,Winterthur,0,5,,,,0
-1189864800,FC Winkeln SG,Gossau,2,6,,,,0
-1189866600,FC Herrliberg,Zurich,0,6,,,,0
-1189866600,Dudingen,Concordia,1,1,AET,1,3,0
-1189868400,Sarnen,Aarau,1,7,,,,0
-1189868400,FC Orpund,SC Binningen,1,2,,,,0
-1189868400,FC Bern,Langenthal,1,2,,,,0
-1189868400,Bruhl,Schaffhausen,4,6,,,,0
-1189870200,Toss,St. Gallen,0,8,,,,0
-1189870200,Le Mont,Xamax,0,2,,,,0
-1189870200,FC UGS,Sion,0,7,,,,0
-1189870200,Baden,Locarno,1,2,,,,0
-1189872000,Lausanne Ouchy,Servette,0,4,,,,0
-1189872000,FC Flawil,Wil,2,3,,,,0
-1189875600,FC Massongex,Etoile-Carouge,0,5,,,,0
-1189875600,FC Hagendorf,Cham,1,5,,,,0
-1189947600,Porrentruy,Thun,0,4,,,,0
-1189947600,FC Lechelles,Basel,0,9,,,,0
-1189947600,Bavois,Young Boys,1,3,,,,0
-1189949400,FC Lusitanos,Colombier,0,6,,,,0
-1189949400,Biaschesi,Luzern,1,3,,,,0
-1189951200,Tuggen,Lugano,2,2,Pen,2,3,0
-1189951200,ASG Gordola,Chiasso,1,5,,,,0
-1189951200,AC Malcantone,Wohlen,0,4,,,,0
-1192885200,SC Binningen,Basel,1,6,,,,0
-1192888800,FC Baulmes,Lausanne,0,0,AET,0,2,0
-1192894200,Wohlen,Bellinzona,0,0,Pen,0,1,0
-1192894200,Winterthur,Grasshoppers,2,3,,,,0
-1192894200,Kriens,Aarau,1,0,,,,0
-1192899600,Etoile-Carouge,Sion,0,2,,,,0
-1192968000,Concordia,Zurich,1,1,Pen,1,2,0
-1192969800,Schaffhausen,Wil,3,1,,,,0
-1192969800,Racing Club GE,Xamax,2,2,AET,2,5,0
-1192969800,Locarno,Young Boys,0,2,,,,0
-1192969800,Langenthal,Luzern,2,5,,,,0
-1192969800,Gossau,St. Gallen,2,0,,,,0
-1192969800,Colombier,Yverdon,1,3,,,,0
-1192971600,Stade Nyonnais,Servette,2,1,,,,0
-1192971600,Cham,Thun,0,1,,,,0
-1192975200,Chiasso,Lugano,3,1,,,,0
-1195916400,Schaffhausen,Xamax,0,1,,,,0
-1195920000,Lausanne,Gossau,0,2,,,,0
-1195922700,Luzern,Thun,0,1,,,,0
-1195997400,Kriens,Zurich,0,3,,,,0
-1195997400,Grasshoppers,Basel,0,1,,,,0
-1195997400,Chiasso,Young Boys,0,1,,,,0
-1195997400,Bellinzona,Sion,2,1,,,,0
-1195999200,Stade Nyonnais,Yverdon,2,1,,,,0
-1197737100,Thun,Zurich,1,1,AET,2,1,0
-1197743400,Basel,Stade Nyonnais,2,0,,,,0
-1197811800,Bellinzona,Gossau,2,1,,,,0
-1197815400,Xamax,Young Boys,2,2,AET,3,2,0
-1204139700,Bellinzona,Xamax,0,0,Pen,1,0,0
-1204139700,Basel,Thun,1,0,,,,0
-1207489500,Bellinzona,Basel,1,4,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1189791000,Biel,Yverdon,xOaZHl96,S8tGctos,1,1,Pen,2,3,0
+1189792800,Wettingen,Kriens,0CXZrksf,n7K4dyrM,1,3,,,,0
+1189792800,Racing Club GE,La Chaux-De-Fonds,A9LYL8SS,OvYZsi0d,4,1,,,,0
+1189792800,FC Baulmes,Delemont,lOUjifAa,nLy4dj0C,2,1,,,,0
+1189859400,FC Bazenheid,Bellinzona,lOUjifAa,llYv6bVJ,0,7,,,,0
+1189863000,Echallens,Lausanne,A1qkUzts,IkaTiXpU,0,0,AET,0,3,0
+1189864800,Versoix,Stade Nyonnais,,Qom1CdYj,0,5,,,,0
+1189864800,Seefeld,Grasshoppers,Is1MKii7,WdBesfPo,0,4,,,,0
+1189864800,Red Star Zurich,Winterthur,SQo5rq7R,6P6dM30h,0,5,,,,0
+1189864800,FC Winkeln SG,Gossau,SvDIAobA,YPaa6UwM,2,6,,,,0
+1189866600,FC Herrliberg,Zurich,Y9XrgGum,zFgN5luK,0,6,,,,0
+1189866600,Dudingen,Concordia,C8nJVJrC,beXtRf2l,1,1,AET,1,3,0
+1189868400,Sarnen,Aarau,Y9XrgGum,nLy4dj0C,1,7,,,,0
+1189868400,FC Orpund,SC Binningen,,x8JyBE3G,1,2,,,,0
+1189868400,FC Bern,Langenthal,xfQTxQp6,KzLkF7yg,1,2,,,,0
+1189868400,Bruhl,Schaffhausen,n7K4dyrM,EiyYrUhb,4,6,,,,0
+1189870200,Toss,St. Gallen,na2GsXrE,fubIDuh0,0,8,,,,0
+1189870200,Le Mont,Xamax,IXgFn7Qf,ln9wF1MU,0,2,,,,0
+1189870200,FC UGS,Sion,lUiNHhXQ,QsLBSppP,0,7,,,,0
+1189870200,Baden,Locarno,63TN1CJD,n7K4dyrM,1,2,,,,0
+1189872000,Lausanne Ouchy,Servette,tp21ECEq,vJvKsfHT,0,4,,,,0
+1189872000,FC Flawil,Wil,C0Wnhzeg,lCjwt4LE,2,3,,,,0
+1189875600,FC Massongex,Etoile-Carouge,C0Wnhzeg,pnt8DXVI,0,5,,,,0
+1189875600,FC Hagendorf,Cham,C0Wnhzeg,pzMOQXRe,1,5,,,,0
+1189947600,Porrentruy,Thun,SvDIAobA,xbUiUE46,0,4,,,,0
+1189947600,FC Lechelles,Basel,lOUjifAa,fPZDBkJI,0,9,,,,0
+1189947600,Bavois,Young Boys,8YpBfFRA,KGWqWzzf,1,3,,,,0
+1189949400,FC Lusitanos,Colombier,,,0,6,,,,0
+1189949400,Biaschesi,Luzern,,n7K4dyrM,1,3,,,,0
+1189951200,Tuggen,Lugano,Mc262rFb,0IhGjVDm,2,2,Pen,2,3,0
+1189951200,ASG Gordola,Chiasso,,GEbwH8OC,1,5,,,,0
+1189951200,AC Malcantone,Wohlen,IiIEIWGp,4KGFKeq4,0,4,,,,0
+1192885200,SC Binningen,Basel,x8JyBE3G,fPZDBkJI,1,6,,,,0
+1192888800,FC Baulmes,Lausanne,lOUjifAa,IkaTiXpU,0,0,AET,0,2,0
+1192894200,Wohlen,Bellinzona,4KGFKeq4,llYv6bVJ,0,0,Pen,0,1,0
+1192894200,Winterthur,Grasshoppers,6P6dM30h,WdBesfPo,2,3,,,,0
+1192894200,Kriens,Aarau,n7K4dyrM,nLy4dj0C,1,0,,,,0
+1192899600,Etoile-Carouge,Sion,pnt8DXVI,QsLBSppP,0,2,,,,0
+1192968000,Concordia,Zurich,beXtRf2l,zFgN5luK,1,1,Pen,1,2,0
+1192969800,Schaffhausen,Wil,EiyYrUhb,lCjwt4LE,3,1,,,,0
+1192969800,Racing Club GE,Xamax,A9LYL8SS,ln9wF1MU,2,2,AET,2,5,0
+1192969800,Locarno,Young Boys,n7K4dyrM,KGWqWzzf,0,2,,,,0
+1192969800,Langenthal,Luzern,KzLkF7yg,n7K4dyrM,2,5,,,,0
+1192969800,Gossau,St. Gallen,YPaa6UwM,fubIDuh0,2,0,,,,0
+1192969800,Colombier,Yverdon,,S8tGctos,1,3,,,,0
+1192971600,Stade Nyonnais,Servette,Qom1CdYj,vJvKsfHT,2,1,,,,0
+1192971600,Cham,Thun,pzMOQXRe,xbUiUE46,0,1,,,,0
+1192975200,Chiasso,Lugano,GEbwH8OC,0IhGjVDm,3,1,,,,0
+1195916400,Schaffhausen,Xamax,EiyYrUhb,ln9wF1MU,0,1,,,,0
+1195920000,Lausanne,Gossau,IkaTiXpU,YPaa6UwM,0,2,,,,0
+1195922700,Luzern,Thun,n7K4dyrM,xbUiUE46,0,1,,,,0
+1195997400,Kriens,Zurich,n7K4dyrM,zFgN5luK,0,3,,,,0
+1195997400,Grasshoppers,Basel,WdBesfPo,fPZDBkJI,0,1,,,,0
+1195997400,Chiasso,Young Boys,GEbwH8OC,KGWqWzzf,0,1,,,,0
+1195997400,Bellinzona,Sion,llYv6bVJ,QsLBSppP,2,1,,,,0
+1195999200,Stade Nyonnais,Yverdon,Qom1CdYj,S8tGctos,2,1,,,,0
+1197737100,Thun,Zurich,xbUiUE46,zFgN5luK,1,1,AET,2,1,0
+1197743400,Basel,Stade Nyonnais,fPZDBkJI,Qom1CdYj,2,0,,,,0
+1197811800,Bellinzona,Gossau,llYv6bVJ,YPaa6UwM,2,1,,,,0
+1197815400,Xamax,Young Boys,ln9wF1MU,KGWqWzzf,2,2,AET,3,2,0
+1204139700,Bellinzona,Xamax,llYv6bVJ,ln9wF1MU,0,0,Pen,1,0,0
+1204139700,Basel,Thun,fPZDBkJI,xbUiUE46,1,0,,,,0
+1207489500,Bellinzona,Basel,llYv6bVJ,fPZDBkJI,1,4,,,,0

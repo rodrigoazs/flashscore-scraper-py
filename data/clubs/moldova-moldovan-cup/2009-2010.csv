@@ -1,30 +1,30 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1253102400,Viisoara,Milsami,1,2,,,,0
-1253102400,Victoria,Real Succes,1,1,AET,1,3,0
-1253102400,Unirea Ungheni,Lokomotiva Balti,1,1,Pen,2,1,0
-1253102400,Dava,Academia Chisinau,0,3,,,,0
-1253102400,Cricova,Intersport,1,1,AET,2,1,0
-1253102400,Costuleni,Rapid Ghidighici,0,2,,,,0
-1253102400,Cahul,Sf.Gheorghe,1,0,,,,0
-1253102400,Agrara,Pleseni,2,1,,,,0
-1254315600,Zimbru Chisinau,Agrara,8,0,,,,0
-1254315600,Zaria Balti,Real Succes,2,1,,,,0
-1254315600,Unirea Ungheni,Iskra-Stal,0,1,,,,0
-1254315600,Otaci,Academia Chisinau,0,2,,,,0
-1254315600,Milsami,Dacia Chisinau,0,2,,,,0
-1254315600,FC Tiraspol,Cahul,2,2,AET,3,2,0
-1254315600,Cricova,Bender,0,1,,,,0
-1258898400,Zaria Balti,Zimbru Chisinau,3,1,,,,0
-1258898400,Sheriff Tiraspol,Rapid Ghidighici,5,0,,,,0
-1258898400,FC Tiraspol,Dacia Chisinau,0,0,,,,0
-1258898400,Bender,Iskra-Stal,0,2,,,,0
-1259406000,Zimbru Chisinau,Zaria Balti,0,0,,,,0
-1259406000,Iskra-Stal,Bender,3,0,,,,0
-1259406000,Dacia Chisinau,FC Tiraspol,3,1,,,,0
-1266937200,Sheriff Tiraspol,Academia Chisinau,0,0,,,,0
-1269946800,Academia Chisinau,Sheriff Tiraspol,0,0,AET,0,1,0
-1271250000,Dacia Chisinau,Zaria Balti,4,2,,,,0
-1271253600,Sheriff Tiraspol,Iskra-Stal,0,0,,,,0
-1272463200,Zaria Balti,Dacia Chisinau,0,1,,,,0
-1272463200,Iskra-Stal,Sheriff Tiraspol,1,1,,,,0
-1275237000,Dacia Chisinau,Sheriff Tiraspol,0,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1253102400,Viisoara,Milsami,,G6lyZe2l,1,2,,,,0
+1253102400,Victoria,Real Succes,GKgzQUqg,lvTfNEmR,1,1,AET,1,3,0
+1253102400,Unirea Ungheni,Lokomotiva Balti,htukpewo,,1,1,Pen,2,1,0
+1253102400,Dava,Academia Chisinau,G2WWmvHT,G6lyZe2l,0,3,,,,0
+1253102400,Cricova,Intersport,jDSW8vGo,fm2mZQfT,1,1,AET,2,1,0
+1253102400,Costuleni,Rapid Ghidighici,G6lyZe2l,YN0lXg6t,0,2,,,,0
+1253102400,Cahul,Sf.Gheorghe,StxbsfGB,E5dQHTcd,1,0,,,,0
+1253102400,Agrara,Pleseni,,vg95yCxN,2,1,,,,0
+1254315600,Zimbru Chisinau,Agrara,QcBOsqL0,,8,0,,,,0
+1254315600,Zaria Balti,Real Succes,hEC4Vnse,lvTfNEmR,2,1,,,,0
+1254315600,Unirea Ungheni,Iskra-Stal,htukpewo,G6lyZe2l,0,1,,,,0
+1254315600,Otaci,Academia Chisinau,xGkXZymr,G6lyZe2l,0,2,,,,0
+1254315600,Milsami,Dacia Chisinau,G6lyZe2l,G6lyZe2l,0,2,,,,0
+1254315600,FC Tiraspol,Cahul,G6lyZe2l,StxbsfGB,2,2,AET,3,2,0
+1254315600,Cricova,Bender,jDSW8vGo,,0,1,,,,0
+1258898400,Zaria Balti,Zimbru Chisinau,hEC4Vnse,QcBOsqL0,3,1,,,,0
+1258898400,Sheriff Tiraspol,Rapid Ghidighici,zVD8QVhN,YN0lXg6t,5,0,,,,0
+1258898400,FC Tiraspol,Dacia Chisinau,G6lyZe2l,G6lyZe2l,0,0,,,,0
+1258898400,Bender,Iskra-Stal,,G6lyZe2l,0,2,,,,0
+1259406000,Zimbru Chisinau,Zaria Balti,QcBOsqL0,hEC4Vnse,0,0,,,,0
+1259406000,Iskra-Stal,Bender,G6lyZe2l,,3,0,,,,0
+1259406000,Dacia Chisinau,FC Tiraspol,G6lyZe2l,G6lyZe2l,3,1,,,,0
+1266937200,Sheriff Tiraspol,Academia Chisinau,zVD8QVhN,G6lyZe2l,0,0,,,,0
+1269946800,Academia Chisinau,Sheriff Tiraspol,G6lyZe2l,zVD8QVhN,0,0,AET,0,1,0
+1271250000,Dacia Chisinau,Zaria Balti,G6lyZe2l,hEC4Vnse,4,2,,,,0
+1271253600,Sheriff Tiraspol,Iskra-Stal,zVD8QVhN,G6lyZe2l,0,0,,,,0
+1272463200,Zaria Balti,Dacia Chisinau,hEC4Vnse,G6lyZe2l,0,1,,,,0
+1272463200,Iskra-Stal,Sheriff Tiraspol,G6lyZe2l,zVD8QVhN,1,1,,,,0
+1275237000,Dacia Chisinau,Sheriff Tiraspol,G6lyZe2l,zVD8QVhN,0,2,,,,0

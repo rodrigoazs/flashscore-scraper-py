@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1057086900,Vestmannaeyjar,Grindavik,0,0,Pen,0,1,0
-1057086900,Thor Akureyri,Vikingur Reykjavik,0,2,,,,0
-1057086900,Hafnarfjordur,Throttur,2,1,,,,0
-1057086900,Fram,Haukar,1,1,AET,4,2,0
-1057086900,Akranes,Keflavik,1,0,,,,0
-1057173300,KR Reykjavik,Akranes U23,2,0,,,,0
-1057173300,KA Akureyri,Fylkir,3,0,,,,0
-1057173300,Afturelding,Valur,0,6,,,,0
-1058716800,Vikingur Reykjavik,KA Akureyri,0,1,,,,0
-1058728500,KR Reykjavik,Fram,2,0,,,,0
-1058814900,Hafnarfjordur,Valur,1,0,,,,0
-1058814900,Akranes,Grindavik,1,0,,,,0
-1063222800,Hafnarfjordur,KR Reykjavik,3,2,,,,0
-1063814400,KA Akureyri,Akranes,1,4,,,,0
-1064671200,Akranes,Hafnarfjordur,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1057086900,Vestmannaeyjar,Grindavik,GhaBLUZO,UakDSYpT,0,0,Pen,0,1,0
+1057086900,Thor Akureyri,Vikingur Reykjavik,88ByecJ3,ATBUwpjA,0,2,,,,0
+1057086900,Hafnarfjordur,Throttur,K4lZsY9J,zw0oiUbh,2,1,,,,0
+1057086900,Fram,Haukar,fL3dmxxd,AZnOPGmc,1,1,AET,4,2,0
+1057086900,Akranes,Keflavik,4hhcealo,OhPjY7JU,1,0,,,,0
+1057173300,KR Reykjavik,Akranes U23,GYYKuYKt,AP5KWLAi,2,0,,,,0
+1057173300,KA Akureyri,Fylkir,IP5ctvAE,YFWSwCkg,3,0,,,,0
+1057173300,Afturelding,Valur,xYrsq4Q9,juoTB6Rh,0,6,,,,0
+1058716800,Vikingur Reykjavik,KA Akureyri,ATBUwpjA,IP5ctvAE,0,1,,,,0
+1058728500,KR Reykjavik,Fram,GYYKuYKt,fL3dmxxd,2,0,,,,0
+1058814900,Hafnarfjordur,Valur,K4lZsY9J,juoTB6Rh,1,0,,,,0
+1058814900,Akranes,Grindavik,4hhcealo,UakDSYpT,1,0,,,,0
+1063222800,Hafnarfjordur,KR Reykjavik,K4lZsY9J,GYYKuYKt,3,2,,,,0
+1063814400,KA Akureyri,Akranes,IP5ctvAE,4hhcealo,1,4,,,,0
+1064671200,Akranes,Hafnarfjordur,4hhcealo,K4lZsY9J,1,0,,,,0

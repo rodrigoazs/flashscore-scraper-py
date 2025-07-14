@@ -1,41 +1,41 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1516091400,Persib Bandung,Sriwijaya,1,0,,,,0
-1516105800,PSM Makassar,PSMS Medan,1,2,,,,0
-1516177800,Mitra Kukar,Dewa United,2,0,,,,0
-1516192200,Barito Putera,Kalteng Putra,1,1,,,,0
-1516264200,Persebaya,Persikabo 1973,1,1,,,,0
-1516278600,Madura United,Badak Lampung,5,0,,,,0
-1516350600,Bali United,Borneo,3,2,,,,0
-1516365000,Persija Jakarta,PSPS Riau,3,0,,,,0
-1516437000,FC Bhayangkara,PSIS Semarang,1,0,,,,0
-1516451400,Arema FC,Persela Lamongan,2,2,,,,0
-1516523400,Sriwijaya,PSM Makassar,3,0,,,,0
-1516537800,PSMS Medan,Persib Bandung,2,0,,,,0
-1516609800,Dewa United,Barito Putera,2,4,,,,0
-1516624200,Kalteng Putra,Mitra Kukar,0,1,,,,0
-1516696200,Persikabo 1973,Madura United,1,3,,,,0
-1516710600,Badak Lampung,Persebaya,0,2,,,,0
-1516782600,PSPS Riau,Bali United,2,3,,,,0
-1516797000,Borneo,Persija Jakarta,0,2,,,,0
-1516869000,Persela Lamongan,FC Bhayangkara,1,1,,,,0
-1516883400,PSIS Semarang,Arema FC,1,3,,,,0
-1516955400,PSMS Medan,Sriwijaya,0,2,,,,0
-1516969800,Persib Bandung,PSM Makassar,0,1,,,,0
-1517041800,Mitra Kukar,Barito Putera,1,0,,,,0
-1517056200,Kalteng Putra,Dewa United,2,1,,,,0
-1517128200,Persebaya,Madura United,1,0,,,,0
-1517142600,Badak Lampung,Persikabo 1973,2,4,,,,0
-1517214600,PSPS Riau,Borneo,0,3,,,,0
-1517229000,Bali United,Persija Jakarta,3,2,,,,0
-1517301000,PSIS Semarang,Persela Lamongan,1,0,,,,0
-1517315400,Arema FC,FC Bhayangkara,0,0,,,,0
-1517646600,Persebaya,PSMS Medan,3,3,Pen,3,4,0
-1517661000,Bali United,Madura United,2,2,Pen,3,2,0
-1517733000,Mitra Kukar,Persija Jakarta,1,3,,,,0
-1517747400,Sriwijaya,Arema FC,3,1,,,,0
-1518265800,Persija Jakarta,PSMS Medan,4,1,,,,0
-1518352200,Sriwijaya,Bali United,0,0,,,,0
-1518420600,Persija Jakarta,PSMS Medan,1,0,,,,0
-1518611400,Bali United,Sriwijaya,1,0,,,,0
-1518854400,PSMS Medan,Sriwijaya,0,4,,,,0
-1518868800,Persija Jakarta,Bali United,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1516091400,Persib Bandung,Sriwijaya,vXPj9hic,GUSxeymd,1,0,,,,0
+1516105800,PSM Makassar,PSMS Medan,KMc81nfp,pdceGY5b,1,2,,,,0
+1516177800,Mitra Kukar,Dewa United,OlLDanjn,lrspFRA0,2,0,,,,0
+1516192200,Barito Putera,Kalteng Putra,2sRnFBPj,t8p5jzve,1,1,,,,0
+1516264200,Persebaya,Persikabo 1973,jaJfGoOS,MwO4PyNh,1,1,,,,0
+1516278600,Madura United,Badak Lampung,dEkqbGa9,SCC5WVgh,5,0,,,,0
+1516350600,Bali United,Borneo,pdceGY5b,lSvymcJg,3,2,,,,0
+1516365000,Persija Jakarta,PSPS Riau,65biHEjh,4A9zP4o9,3,0,,,,0
+1516437000,FC Bhayangkara,PSIS Semarang,UBTLvuxH,l4Qyy5IA,1,0,,,,0
+1516451400,Arema FC,Persela Lamongan,nm2W7Uxp,pUG7DZrE,2,2,,,,0
+1516523400,Sriwijaya,PSM Makassar,GUSxeymd,KMc81nfp,3,0,,,,0
+1516537800,PSMS Medan,Persib Bandung,pdceGY5b,vXPj9hic,2,0,,,,0
+1516609800,Dewa United,Barito Putera,lrspFRA0,2sRnFBPj,2,4,,,,0
+1516624200,Kalteng Putra,Mitra Kukar,t8p5jzve,OlLDanjn,0,1,,,,0
+1516696200,Persikabo 1973,Madura United,MwO4PyNh,dEkqbGa9,1,3,,,,0
+1516710600,Badak Lampung,Persebaya,SCC5WVgh,jaJfGoOS,0,2,,,,0
+1516782600,PSPS Riau,Bali United,4A9zP4o9,pdceGY5b,2,3,,,,0
+1516797000,Borneo,Persija Jakarta,lSvymcJg,65biHEjh,0,2,,,,0
+1516869000,Persela Lamongan,FC Bhayangkara,pUG7DZrE,UBTLvuxH,1,1,,,,0
+1516883400,PSIS Semarang,Arema FC,l4Qyy5IA,nm2W7Uxp,1,3,,,,0
+1516955400,PSMS Medan,Sriwijaya,pdceGY5b,GUSxeymd,0,2,,,,0
+1516969800,Persib Bandung,PSM Makassar,vXPj9hic,KMc81nfp,0,1,,,,0
+1517041800,Mitra Kukar,Barito Putera,OlLDanjn,2sRnFBPj,1,0,,,,0
+1517056200,Kalteng Putra,Dewa United,t8p5jzve,lrspFRA0,2,1,,,,0
+1517128200,Persebaya,Madura United,jaJfGoOS,dEkqbGa9,1,0,,,,0
+1517142600,Badak Lampung,Persikabo 1973,SCC5WVgh,MwO4PyNh,2,4,,,,0
+1517214600,PSPS Riau,Borneo,4A9zP4o9,lSvymcJg,0,3,,,,0
+1517229000,Bali United,Persija Jakarta,pdceGY5b,65biHEjh,3,2,,,,0
+1517301000,PSIS Semarang,Persela Lamongan,l4Qyy5IA,pUG7DZrE,1,0,,,,0
+1517315400,Arema FC,FC Bhayangkara,nm2W7Uxp,UBTLvuxH,0,0,,,,0
+1517646600,Persebaya,PSMS Medan,jaJfGoOS,pdceGY5b,3,3,Pen,3,4,0
+1517661000,Bali United,Madura United,pdceGY5b,dEkqbGa9,2,2,Pen,3,2,0
+1517733000,Mitra Kukar,Persija Jakarta,OlLDanjn,65biHEjh,1,3,,,,0
+1517747400,Sriwijaya,Arema FC,GUSxeymd,nm2W7Uxp,3,1,,,,0
+1518265800,Persija Jakarta,PSMS Medan,65biHEjh,pdceGY5b,4,1,,,,0
+1518352200,Sriwijaya,Bali United,GUSxeymd,pdceGY5b,0,0,,,,0
+1518420600,Persija Jakarta,PSMS Medan,65biHEjh,pdceGY5b,1,0,,,,0
+1518611400,Bali United,Sriwijaya,pdceGY5b,GUSxeymd,1,0,,,,0
+1518854400,PSMS Medan,Sriwijaya,pdceGY5b,GUSxeymd,0,4,,,,0
+1518868800,Persija Jakarta,Bali United,65biHEjh,pdceGY5b,3,0,,,,0

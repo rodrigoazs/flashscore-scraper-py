@@ -1,54 +1,54 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1253710800,Othellos Athienou,Anorthosis,0,3,,,,0
-1253710800,Omonia Aradippou,Pafos,1,0,,,,0
-1253710800,M.E.A.P. Nisou,Doxa,0,2,,,,0
-1253710800,Frenaros,AEK Larnaca,2,2,,,,0
-1253710800,Digenis Akritas,Nea Salamis,1,1,,,,0
-1253710800,Chloraka,Paralimni,0,0,,,,0
-1253710800,Ayia Napa,PAEEK,2,0,,,,0
-1253710800,ASIL Lysi,APEP,0,3,,,,0
-1253710800,Alki Larnaca,Achnas,1,1,,,,0
-1253721600,Ol. Nicosia,Omonia,1,3,,,,0
-1254313800,Sotiras,Aris,1,2,,,,0
-1254313800,Pafos,Omonia Aradippou,7,0,,,,0
-1254313800,PAEEK,Ayia Napa,0,0,,,,0
-1254313800,Nea Salamis,Digenis Akritas,1,0,,,,0
-1254313800,Doxa,M.E.A.P. Nisou,0,1,,,,0
-1254313800,AEK Larnaca,Frenaros,3,0,,,,0
-1254315600,Atromitos Y.,Ermis,2,2,,,,0
-1254322800,Anorthosis,Othellos Athienou,5,1,,,,0
-1254326400,Achnas,Alki Larnaca,0,0,,,,0
-1256130000,Paralimni,Chloraka,3,0,,,,0
-1256130000,Aris,Sotiras,1,0,,,,0
-1256137200,Ermis,Atromitos Y.,4,0,,,,0
-1256734800,APEP,ASIL Lysi,1,2,,,,0
-1256745600,Omonia,Ol. Nicosia,5,1,,,,0
-1259157600,Aris,AEK Larnaca,0,0,,,,0
-1259157600,Anorthosis,Ayia Napa,6,0,,,,0
-1259164800,Kinyras Peyias,Pafos,4,1,,,,0
-1259164800,Ermis,Paralimni,4,0,,,,0
-1259762400,Paralimni,Ermis,2,0,,,,0
-1259762400,APEP,Doxa,1,1,,,,0
-1259767800,AEK Larnaca,Aris,0,1,,,,0
-1259769600,Pafos,Kinyras Peyias,4,2,,,,0
-1260361800,Ayia Napa,Anorthosis,2,1,,,,0
-1260361800,AEL Limassol,Omonia,0,1,,,,0
-1260367200,Nea Salamis,Apollon,1,0,,,,0
-1260966600,Omonia,AEL Limassol,0,2,,,,0
-1260966600,Doxa,APEP,0,1,,,,0
-1260979200,Apollon,Nea Salamis,2,0,,,,0
-1262786400,APOEL,Achnas,0,2,,,,0
-1264604400,APEP,AEL Limassol,0,0,,,,0
-1264611600,Achnas,APOEL,0,2,AET,0,4,0
-1265209200,Aris,Kinyras Peyias,1,1,,,,0
-1265216400,APOEL,Ermis,5,0,,,,0
-1265806800,Apollon,Anorthosis,3,1,,,,0
-1265817600,Kinyras Peyias,Aris,0,1,,,,0
-1265817600,Ermis,APOEL,0,1,,,,0
-1266411600,Anorthosis,Apollon,2,3,,,,0
-1266512400,AEL Limassol,APEP,2,0,,,,0
-1271251800,AEL Limassol,Apollon,0,1,,,,0
-1271259000,APOEL,Aris,0,0,,,,0
-1272382200,Aris,APOEL,0,2,,,,0
-1272461400,Apollon,AEL Limassol,1,0,,,,0
-1273939200,Apollon,APOEL,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1253710800,Othellos Athienou,Anorthosis,6sbsCvif,pEI2BJMo,0,3,,,,0
+1253710800,Omonia Aradippou,Pafos,lULddU19,dOOzPK2E,1,0,,,,0
+1253710800,M.E.A.P. Nisou,Doxa,QLujOl7t,nsVKnzpo,0,2,,,,0
+1253710800,Frenaros,AEK Larnaca,OQtlQkpp,rgYuXGKm,2,2,,,,0
+1253710800,Digenis Akritas,Nea Salamis,WnOlbjXd,AoqqSdQE,1,1,,,,0
+1253710800,Chloraka,Paralimni,EoODef3s,p2SoLYBg,0,0,,,,0
+1253710800,Ayia Napa,PAEEK,AoqqSdQE,tb3xYV24,2,0,,,,0
+1253710800,ASIL Lysi,APEP,SrqG8pyg,lpWfqvHN,0,3,,,,0
+1253710800,Alki Larnaca,Achnas,I9ZMVWoj,zFems01k,1,1,,,,0
+1253721600,Ol. Nicosia,Omonia,l2Xtf5Mh,8GeT5Kmk,1,3,,,,0
+1254313800,Sotiras,Aris,xWBpsDYs,GxoBo0zo,1,2,,,,0
+1254313800,Pafos,Omonia Aradippou,dOOzPK2E,lULddU19,7,0,,,,0
+1254313800,PAEEK,Ayia Napa,tb3xYV24,AoqqSdQE,0,0,,,,0
+1254313800,Nea Salamis,Digenis Akritas,AoqqSdQE,WnOlbjXd,1,0,,,,0
+1254313800,Doxa,M.E.A.P. Nisou,nsVKnzpo,QLujOl7t,0,1,,,,0
+1254313800,AEK Larnaca,Frenaros,rgYuXGKm,OQtlQkpp,3,0,,,,0
+1254315600,Atromitos Y.,Ermis,xWBpsDYs,zTKhjTI3,2,2,,,,0
+1254322800,Anorthosis,Othellos Athienou,pEI2BJMo,6sbsCvif,5,1,,,,0
+1254326400,Achnas,Alki Larnaca,zFems01k,I9ZMVWoj,0,0,,,,0
+1256130000,Paralimni,Chloraka,p2SoLYBg,EoODef3s,3,0,,,,0
+1256130000,Aris,Sotiras,GxoBo0zo,xWBpsDYs,1,0,,,,0
+1256137200,Ermis,Atromitos Y.,zTKhjTI3,xWBpsDYs,4,0,,,,0
+1256734800,APEP,ASIL Lysi,lpWfqvHN,SrqG8pyg,1,2,,,,0
+1256745600,Omonia,Ol. Nicosia,8GeT5Kmk,l2Xtf5Mh,5,1,,,,0
+1259157600,Aris,AEK Larnaca,GxoBo0zo,rgYuXGKm,0,0,,,,0
+1259157600,Anorthosis,Ayia Napa,pEI2BJMo,AoqqSdQE,6,0,,,,0
+1259164800,Kinyras Peyias,Pafos,xWBpsDYs,dOOzPK2E,4,1,,,,0
+1259164800,Ermis,Paralimni,zTKhjTI3,p2SoLYBg,4,0,,,,0
+1259762400,Paralimni,Ermis,p2SoLYBg,zTKhjTI3,2,0,,,,0
+1259762400,APEP,Doxa,lpWfqvHN,nsVKnzpo,1,1,,,,0
+1259767800,AEK Larnaca,Aris,rgYuXGKm,GxoBo0zo,0,1,,,,0
+1259769600,Pafos,Kinyras Peyias,dOOzPK2E,xWBpsDYs,4,2,,,,0
+1260361800,Ayia Napa,Anorthosis,AoqqSdQE,pEI2BJMo,2,1,,,,0
+1260361800,AEL Limassol,Omonia,jZcv4JNH,8GeT5Kmk,0,1,,,,0
+1260367200,Nea Salamis,Apollon,AoqqSdQE,x4Xh4Pu0,1,0,,,,0
+1260966600,Omonia,AEL Limassol,8GeT5Kmk,jZcv4JNH,0,2,,,,0
+1260966600,Doxa,APEP,nsVKnzpo,lpWfqvHN,0,1,,,,0
+1260979200,Apollon,Nea Salamis,x4Xh4Pu0,AoqqSdQE,2,0,,,,0
+1262786400,APOEL,Achnas,dM5j1Xkq,zFems01k,0,2,,,,0
+1264604400,APEP,AEL Limassol,lpWfqvHN,jZcv4JNH,0,0,,,,0
+1264611600,Achnas,APOEL,zFems01k,dM5j1Xkq,0,2,AET,0,4,0
+1265209200,Aris,Kinyras Peyias,GxoBo0zo,xWBpsDYs,1,1,,,,0
+1265216400,APOEL,Ermis,dM5j1Xkq,zTKhjTI3,5,0,,,,0
+1265806800,Apollon,Anorthosis,x4Xh4Pu0,pEI2BJMo,3,1,,,,0
+1265817600,Kinyras Peyias,Aris,xWBpsDYs,GxoBo0zo,0,1,,,,0
+1265817600,Ermis,APOEL,zTKhjTI3,dM5j1Xkq,0,1,,,,0
+1266411600,Anorthosis,Apollon,pEI2BJMo,x4Xh4Pu0,2,3,,,,0
+1266512400,AEL Limassol,APEP,jZcv4JNH,lpWfqvHN,2,0,,,,0
+1271251800,AEL Limassol,Apollon,jZcv4JNH,x4Xh4Pu0,0,1,,,,0
+1271259000,APOEL,Aris,dM5j1Xkq,GxoBo0zo,0,0,,,,0
+1272382200,Aris,APOEL,GxoBo0zo,dM5j1Xkq,0,2,,,,0
+1272461400,Apollon,AEL Limassol,x4Xh4Pu0,jZcv4JNH,1,0,,,,0
+1273939200,Apollon,APOEL,x4Xh4Pu0,dM5j1Xkq,2,1,,,,0

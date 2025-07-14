@@ -1,28 +1,28 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1598270400,Bakhmaro,Telavi,0,2,,,,0
-1598529600,Zugdidi,Chikhura,2,4,,,,0
-1598529600,Varketili,Samtredia,0,2,,,,0
-1598529600,Khoni,Dila Gori,1,2,,,,0
-1598529600,Khobi,Torpedo Kutaisi,0,2,,,,0
-1598529600,Bolnisi,Merani Tbilisi,1,4,,,,0
-1598702400,Tbilisi City,Shukura,1,0,,,,0
-1598702400,Samgurali,WIT Georgia,3,0,,,,0
-1598715000,Spaeri,Rustavi,1,0,,,,0
-1598788800,Kolkheti 1913,Gagra,0,4,,,,0
-1598788800,FC Gareji Sagarejo,Merani Martvili,0,0,AET,1,0,0
-1598788800,Betlemi,Gori,1,1,Pen,3,2,0
-1600342200,FC Gareji Sagarejo,Samgurali,0,2,,,,0
-1600515000,Gagra,Dinamo Batumi,1,0,,,,0
-1600527600,Spaeri,Dila Gori,0,2,,,,0
-1600601400,Tbilisi City,Samtredia,3,2,,,,0
-1600601400,Betlemi,Torpedo Kutaisi,1,4,,,,0
-1600614000,Telavi,Merani Tbilisi,2,0,,,,0
-1600687800,Iberia 1999,Dinamo Tbilisi,1,0,,,,0
-1600687800,Chikhura,Loco. Tbilisi,2,1,,,,0
-1601118000,Tbilisi City,Chikhura,2,5,,,,0
-1601118000,Samgurali,Telavi,2,0,,,,0
-1601204400,Iberia 1999,Torpedo Kutaisi,2,0,,,,0
-1601204400,Gagra,Dila Gori,0,0,Pen,1,0,0
-1604827800,Samgurali,Chikhura,2,0,,,,0
-1604827800,Gagra,Iberia 1999,0,0,Pen,1,0,0
-1607083200,Samgurali,Gagra,0,0,Pen,0,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1598270400,Bakhmaro,Telavi,YwBXmuLO,Crw6ZJam,0,2,,,,0
+1598529600,Zugdidi,Chikhura,2qEOAq7a,rThaYtoQ,2,4,,,,0
+1598529600,Varketili,Samtredia,rFZG4MJB,8lqbyXv8,0,2,,,,0
+1598529600,Khoni,Dila Gori,MDldbWw3,WfpuTxB8,1,2,,,,0
+1598529600,Khobi,Torpedo Kutaisi,vmjyUNF3,6FX7qLsb,0,2,,,,0
+1598529600,Bolnisi,Merani Tbilisi,OEhZqrON,Q7lMIApe,1,4,,,,0
+1598702400,Tbilisi City,Shukura,WvdjqzuG,0diXU30c,1,0,,,,0
+1598702400,Samgurali,WIT Georgia,thxdQveD,0WLerOuQ,3,0,,,,0
+1598715000,Spaeri,Rustavi,6oURetIB,WvdjqzuG,1,0,,,,0
+1598788800,Kolkheti 1913,Gagra,bZmYBGs9,KrkUCdS2,0,4,,,,0
+1598788800,FC Gareji Sagarejo,Merani Martvili,nHkIJjVl,drR8zYr0,0,0,AET,1,0,0
+1598788800,Betlemi,Gori,bqeypUE6,6aT5jKya,1,1,Pen,3,2,0
+1600342200,FC Gareji Sagarejo,Samgurali,nHkIJjVl,thxdQveD,0,2,,,,0
+1600515000,Gagra,Dinamo Batumi,KrkUCdS2,vZdRBggj,1,0,,,,0
+1600527600,Spaeri,Dila Gori,6oURetIB,WfpuTxB8,0,2,,,,0
+1600601400,Tbilisi City,Samtredia,WvdjqzuG,8lqbyXv8,3,2,,,,0
+1600601400,Betlemi,Torpedo Kutaisi,bqeypUE6,6FX7qLsb,1,4,,,,0
+1600614000,Telavi,Merani Tbilisi,Crw6ZJam,Q7lMIApe,2,0,,,,0
+1600687800,Iberia 1999,Dinamo Tbilisi,rVsp3mPF,MqwiOmp3,1,0,,,,0
+1600687800,Chikhura,Loco. Tbilisi,rThaYtoQ,0diXU30c,2,1,,,,0
+1601118000,Tbilisi City,Chikhura,WvdjqzuG,rThaYtoQ,2,5,,,,0
+1601118000,Samgurali,Telavi,thxdQveD,Crw6ZJam,2,0,,,,0
+1601204400,Iberia 1999,Torpedo Kutaisi,rVsp3mPF,6FX7qLsb,2,0,,,,0
+1601204400,Gagra,Dila Gori,KrkUCdS2,WfpuTxB8,0,0,Pen,1,0,0
+1604827800,Samgurali,Chikhura,thxdQveD,rThaYtoQ,2,0,,,,0
+1604827800,Gagra,Iberia 1999,KrkUCdS2,rVsp3mPF,0,0,Pen,1,0,0
+1607083200,Samgurali,Gagra,thxdQveD,KrkUCdS2,0,0,Pen,0,1,0

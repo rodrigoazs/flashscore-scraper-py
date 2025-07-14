@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1403359200,Zamalek,Ghazl El Mahallah,2,1,,,,0
-1403359200,Qena,El Raja,1,1,Pen,1,2,0
-1403359200,Haras El Hodood,Enppi,1,1,Pen,2,1,0
-1403359200,Arab Contractors,Wadi Degla,1,2,,,,0
-1403445600,Smouha,El Gaish,2,1,,,,0
-1403445600,El-Shorta,El-Entag El-Harby,2,0,,,,0
-1403445600,El Ismaily,El Daklyeh,3,0,,,,0
-1403445600,Al Ahly,El Minya,4,3,,,,0
-1404934200,El Ismaily,Wadi Degla,1,1,Pen,1,2,0
-1405020600,Haras El Hodood,Zamalek,0,1,,,,0
-1405020600,El-Shorta,Smouha,2,2,Pen,2,3,0
-1405020600,Al Ahly,El Raja,1,0,,,,0
-1405366200,Zamalek,Wadi Degla,0,0,Pen,1,0,0
-1405452600,Al Ahly,Smouha,1,2,,,,0
-1405798200,Zamalek,Smouha,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1403359200,Zamalek,Ghazl El Mahallah,EJgyrHTR,AXTgaM87,2,1,,,,0
+1403359200,Qena,El Raja,llEimPoJ,GpqxHjf5,1,1,Pen,1,2,0
+1403359200,Haras El Hodood,Enppi,WOiN3YjQ,UXviHTBE,1,1,Pen,2,1,0
+1403359200,Arab Contractors,Wadi Degla,vJb36ZBF,nDyPqWH0,1,2,,,,0
+1403445600,Smouha,El Gaish,Y1Z3w2bI,zcdwYkPa,2,1,,,,0
+1403445600,El-Shorta,El-Entag El-Harby,CAZaZe1D,jm1g2SD5,2,0,,,,0
+1403445600,El Ismaily,El Daklyeh,hjU5IpqO,l4Qdre7N,3,0,,,,0
+1403445600,Al Ahly,El Minya,CWnyifXm,GpqxHjf5,4,3,,,,0
+1404934200,El Ismaily,Wadi Degla,hjU5IpqO,nDyPqWH0,1,1,Pen,1,2,0
+1405020600,Haras El Hodood,Zamalek,WOiN3YjQ,EJgyrHTR,0,1,,,,0
+1405020600,El-Shorta,Smouha,CAZaZe1D,Y1Z3w2bI,2,2,Pen,2,3,0
+1405020600,Al Ahly,El Raja,CWnyifXm,GpqxHjf5,1,0,,,,0
+1405366200,Zamalek,Wadi Degla,EJgyrHTR,nDyPqWH0,0,0,Pen,1,0,0
+1405452600,Al Ahly,Smouha,CWnyifXm,Y1Z3w2bI,1,2,,,,0
+1405798200,Zamalek,Smouha,EJgyrHTR,Y1Z3w2bI,1,0,,,,0

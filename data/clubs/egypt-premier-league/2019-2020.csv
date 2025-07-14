@@ -1,307 +1,307 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1569070800,El Gaish,Arab Contractors,0,1,,,,0
-1569079800,El Gouna,El Ismaily,0,1,,,,0
-1569088800,Pyramids,Enppi,4,0,,,,0
-1569157200,Aswan SC,Misr Lel Makkasa,2,3,,,,0
-1569166200,Wadi Degla,Tanta,0,1,,,,0
-1569166200,El-Entag El-Harby,ZED,3,0,,,,0
-1569175200,Al Masry,Haras El Hodood,1,1,,,,0
-1569252600,Smouha,Al Ahly,0,1,,,,0
-1569261600,Zamalek,Al Ittihad,1,0,,,,0
-1569506400,Haras El Hodood,Wadi Degla,2,2,,,,0
-1569520800,Enppi,El Gaish,1,1,,,,0
-1569684600,ZED,Aswan SC,0,0,,,,0
-1569684600,Arab Contractors,Smouha,2,2,,,,0
-1569943800,Al Ittihad,El Gouna,1,0,,,,0
-1570030200,El Ismaily,Al Masry,1,3,,,,0
-1570039200,Al Ahly,El-Entag El-Harby,4,0,,,,0
-1570107600,Tanta,Pyramids,1,2,,,,0
-1570125600,Misr Lel Makkasa,Zamalek,0,1,,,,0
-1570212000,Smouha,Enppi,2,1,,,,0
-1570280400,Aswan SC,Al Ahly,1,5,,,,0
-1570289400,Wadi Degla,El Ismaily,0,1,,,,0
-1570289400,El-Entag El-Harby,Arab Contractors,0,1,,,,0
-1570298400,Al Masry,Al Ittihad,0,1,,,,0
-1570366800,El Gouna,Misr Lel Makkasa,1,0,,,,0
-1570375800,Haras El Hodood,Tanta,1,1,,,,0
-1570375800,El Gaish,Pyramids,2,2,,,,0
-1570384800,Zamalek,ZED,1,1,,,,0
-1571317200,ZED,El Gouna,0,0,,,,0
-1571326200,Misr Lel Makkasa,Al Masry,1,0,,,,0
-1571326200,Enppi,El-Entag El-Harby,0,1,,,,0
-1571335200,Pyramids,Smouha,0,0,,,,0
-1571412600,Al Ittihad,Wadi Degla,1,1,,,,0
-1571421600,El Ismaily,Haras El Hodood,0,1,,,,0
-1571508000,Zamalek,Arab Contractors,2,1,,,,0
-1571671800,El-Entag El-Harby,Pyramids,2,3,,,,0
-1571680800,Al Masry,ZED,2,0,,,,0
-1571749200,Aswan SC,Enppi,1,0,,,,0
-1571758200,Wadi Degla,Misr Lel Makkasa,2,2,,,,0
-1574512200,Tanta,El Gaish,0,0,,,,0
-1574521200,Arab Contractors,Aswan SC,2,1,,,,0
-1574694000,El Gouna,Al Ahly,0,4,,,,0
-1574703000,Enppi,Zamalek,2,1,,,,0
-1574780400,ZED,Wadi Degla,1,0,,,,0
-1574789400,Misr Lel Makkasa,Haras El Hodood,1,2,,,,0
-1574857800,Tanta,Smouha,2,2,,,,0
-1574866800,Pyramids,Aswan SC,2,2,,,,0
-1574953200,El Gaish,El-Entag El-Harby,0,0,,,,0
-1575039600,Arab Contractors,El Gouna,2,0,,,,0
-1575135000,Al Ittihad,El Ismaily,3,0,,,,0
-1575298800,Smouha,El Gaish,2,1,,,,0
-1575471600,El Ismaily,Tanta,0,0,,,,0
-1575480600,Haras El Hodood,Al Ittihad,0,1,,,,0
-1575990000,El Gouna,Enppi,1,4,,,,0
-1575999000,El-Entag El-Harby,Smouha,1,1,,,,0
-1576076400,Haras El Hodood,ZED,0,0,,,,0
-1576076400,El Ismaily,Misr Lel Makkasa,2,0,,,,0
-1576085400,Wadi Degla,Al Ahly,0,3,,,,0
-1576153800,Al Ittihad,Tanta,0,0,,,,0
-1576162800,Al Masry,Arab Contractors,0,1,,,,0
-1576171800,Zamalek,Pyramids,2,0,,,,0
-1576413000,ZED,El Ismaily,0,1,,,,0
-1576422000,Smouha,Aswan SC,1,0,,,,0
-1576431000,Al Ahly,Haras El Hodood,1,0,,,,0
-1576499400,Tanta,El-Entag El-Harby,0,1,,,,0
-1576508400,Misr Lel Makkasa,Al Ittihad,2,3,,,,0
-1576508400,Arab Contractors,Wadi Degla,0,1,,,,0
-1576517400,El Gaish,Zamalek,3,2,,,,0
-1576594800,Enppi,Al Masry,1,0,,,,0
-1576603800,Pyramids,El Gouna,2,3,,,,0
-1576776600,El Ismaily,Al Ahly,0,1,,,,0
-1576845000,Haras El Hodood,Arab Contractors,0,1,,,,0
-1576845000,Aswan SC,El-Entag El-Harby,0,1,,,,0
-1576854000,Misr Lel Makkasa,Tanta,1,1,,,,0
-1576854000,Al Ittihad,ZED,2,1,,,,0
-1576863000,Zamalek,Smouha,0,0,,,,0
-1576931400,El Gouna,El Gaish,2,0,,,,0
-1576940400,Wadi Degla,Enppi,2,3,,,,0
-1576949400,Al Masry,Pyramids,1,1,,,,0
-1577113200,Arab Contractors,El Ismaily,2,0,,,,0
-1577122200,Al Ahly,Al Ittihad,4,0,,,,0
-1577190600,Tanta,Aswan SC,2,2,,,,0
-1577199600,ZED,Misr Lel Makkasa,2,2,,,,0
-1577208600,El-Entag El-Harby,Zamalek,0,0,,,,0
-1577277000,Enppi,Haras El Hodood,0,0,,,,0
-1577286000,Smouha,El Gouna,2,1,,,,0
-1577286000,El Gaish,Al Masry,0,1,,,,0
-1577295000,Pyramids,Wadi Degla,1,0,,,,0
-1577622600,Aswan SC,El Gaish,1,1,,,,0
-1577709000,ZED,Tanta,2,1,,,,0
-1577718000,El Gouna,El-Entag El-Harby,0,0,,,,0
-1577881800,Al Ittihad,Arab Contractors,0,1,,,,0
-1577890800,El Ismaily,Enppi,1,1,,,,0
-1577899800,Misr Lel Makkasa,Al Ahly,0,2,,,,0
-1577968200,Haras El Hodood,Pyramids,1,0,,,,0
-1577977200,Al Masry,Smouha,2,1,,,,0
-1577986200,Zamalek,Aswan SC,2,0,,,,0
-1578072600,Wadi Degla,El Gaish,1,3,,,,0
-1578227400,Arab Contractors,Misr Lel Makkasa,1,1,,,,0
-1578236400,Tanta,Zamalek,2,3,,,,0
-1578245400,Al Ahly,ZED,3,1,,,,0
-1578400200,Aswan SC,El Gouna,1,1,,,,0
-1578409200,El-Entag El-Harby,Al Masry,1,1,,,,0
-1578418200,Pyramids,El Ismaily,1,0,,,,0
-1578486600,El Gaish,Haras El Hodood,0,3,,,,0
-1578495600,Smouha,Wadi Degla,2,3,,,,0
-1578504600,Enppi,Al Ittihad,0,0,,,,0
-1578754800,ZED,Arab Contractors,1,3,,,,0
-1578832200,Haras El Hodood,Smouha,0,0,,,,0
-1578841200,Misr Lel Makkasa,Enppi,1,1,,,,0
-1578850200,El Ismaily,El Gaish,2,1,,,,0
-1578927600,Wadi Degla,El-Entag El-Harby,1,1,,,,0
-1579100400,El Gouna,Zamalek,0,2,,,,0
-1579109400,Al Ahly,Tanta,5,0,,,,0
-1579186800,Al Masry,Aswan SC,2,2,,,,0
-1579195800,Al Ittihad,Pyramids,1,1,,,,0
-1579350600,Enppi,ZED,2,1,,,,0
-1579359600,El-Entag El-Harby,Haras El Hodood,1,0,,,,0
-1579368600,Smouha,El Ismaily,1,1,,,,0
-1579455000,Arab Contractors,Al Ahly,0,2,,,,0
-1579523400,Aswan SC,Wadi Degla,1,3,,,,0
-1579532400,El Gaish,Al Ittihad,0,3,,,,0
-1579609800,Tanta,El Gouna,1,0,,,,0
-1579627800,Pyramids,Misr Lel Makkasa,3,1,,,,0
-1580050800,Arab Contractors,Tanta,2,0,,,,0
-1580128200,Haras El Hodood,Aswan SC,1,2,,,,0
-1580137200,Misr Lel Makkasa,El Gaish,1,1,,,,0
-1580232600,Wadi Degla,Zamalek,1,1,,,,0
-1580310000,Al Masry,El Gouna,1,2,,,,0
-1580319000,ZED,Pyramids,1,2,,,,0
-1580396400,El Ismaily,El-Entag El-Harby,3,2,,,,0
-1580405400,Al Ittihad,Smouha,1,1,,,,0
-1580733000,Aswan SC,El Ismaily,2,1,,,,0
-1580742000,Enppi,Arab Contractors,2,1,,,,0
-1580742000,El-Entag El-Harby,Al Ittihad,0,0,,,,0
-1580751000,Smouha,Misr Lel Makkasa,1,1,,,,0
-1580828400,El Gouna,Wadi Degla,1,0,,,,0
-1580837400,El Gaish,ZED,4,0,,,,0
-1580923800,Zamalek,Haras El Hodood,2,0,,,,0
-1581001200,Al Masry,Tanta,2,2,,,,0
-1581010200,Pyramids,Al Ahly,1,2,,,,0
-1581165000,Al Ittihad,Aswan SC,0,1,,,,0
-1581174000,ZED,Smouha,0,1,,,,0
-1581183000,Misr Lel Makkasa,El-Entag El-Harby,1,1,,,,0
-1581260400,Haras El Hodood,El Gouna,2,2,,,,0
-1581269400,El Ismaily,Zamalek,1,2,,,,0
-1581337800,Tanta,Enppi,0,0,,,,0
-1581346800,Wadi Degla,Al Masry,0,3,,,,0
-1581355800,Al Ahly,El Gaish,3,0,,,,0
-1581442200,Arab Contractors,Pyramids,0,2,,,,0
-1581704100,Al Ahly,Al Masry,3,0,,,,0
-1582569000,Al Ahly,Zamalek,2,0,Awrd,,,0
-1583420400,El Gaish,Enppi,0,0,,,,0
-1583766000,El Ismaily,El Gouna,1,1,,,,0
-1583852400,Arab Contractors,El Gaish,1,1,,,,0
-1583938800,Enppi,Pyramids,0,1,,,,0
-1583947800,Tanta,Wadi Degla,0,0,,,,0
-1583947800,Al Ahly,Smouha,1,1,,,,0
-1596736800,Zamalek,Al Masry,1,0,,,,0
-1596985200,Misr Lel Makkasa,Aswan SC,2,1,,,,0
-1596996000,Al Ahly,Enppi,2,0,,,,0
-1597077000,Pyramids,Tanta,3,0,,,,0
-1597086000,Al Ittihad,Zamalek,1,1,,,,0
-1597327200,Aswan SC,ZED,1,1,,,,0
-1597336200,Smouha,Arab Contractors,1,1,,,,0
-1597413600,El Gouna,Al Ittihad,1,1,,,,0
-1597422600,Wadi Degla,Haras El Hodood,1,0,,,,0
-1597431600,El-Entag El-Harby,Al Ahly,1,1,,,,0
-1597514400,Zamalek,Misr Lel Makkasa,1,0,,,,0
-1597600800,Pyramids,El Gaish,2,2,,,,0
-1597672800,Enppi,Smouha,0,0,,,,0
-1597681800,Arab Contractors,El-Entag El-Harby,2,1,,,,0
-1597690800,Al Ahly,Aswan SC,3,0,,,,0
-1597759200,Tanta,Haras El Hodood,0,1,,,,0
-1597768200,Misr Lel Makkasa,El Gouna,1,0,,,,0
-1597777200,ZED,Zamalek,0,0,,,,0
-1597860000,El Ismaily,Wadi Degla,1,1,,,,0
-1598018400,El-Entag El-Harby,Enppi,0,2,,,,0
-1598027400,Aswan SC,Arab Contractors,1,0,,,,0
-1598036400,Smouha,Pyramids,1,2,,,,0
-1598104800,El Gouna,ZED,0,1,,,,0
-1598104800,El Gaish,Tanta,1,0,,,,0
-1598113800,Al Masry,Misr Lel Makkasa,0,2,,,,0
-1598122800,Zamalek,Al Ahly,3,1,,,,0
-1598194800,Haras El Hodood,El Ismaily,2,2,,,,0
-1598205600,Wadi Degla,Al Ittihad,0,0,,,,0
-1598367600,Enppi,Aswan SC,1,1,,,,0
-1598378400,Pyramids,El-Entag El-Harby,3,0,,,,0
-1598450400,El Gaish,Smouha,1,1,,,,0
-1598459400,ZED,Al Masry,0,0,,,,0
-1598468400,Al Ahly,El Gouna,1,0,,,,0
-1598536800,Al Ittihad,Haras El Hodood,1,1,,,,0
-1598545800,Misr Lel Makkasa,Wadi Degla,1,3,,,,0
-1598554800,Tanta,El Ismaily,1,3,,,,0
-1598554800,Arab Contractors,Zamalek,2,1,,,,0
-1598707800,El-Entag El-Harby,El Gaish,0,1,,,,0
-1598716800,Aswan SC,Pyramids,1,2,,,,0
-1598725800,Al Masry,Al Ahly,0,2,,,,0
-1598794200,Wadi Degla,ZED,2,1,,,,0
-1598803200,Smouha,Tanta,3,0,,,,0
-1598803200,El Gouna,Arab Contractors,2,0,,,,0
-1598812200,Zamalek,Enppi,1,0,,,,0
-1598886000,Haras El Hodood,Misr Lel Makkasa,1,1,,,,0
-1598896800,El Ismaily,Al Ittihad,1,3,,,,0
-1599053400,El Gaish,Aswan SC,0,0,,,,0
-1599062400,Enppi,El Gouna,0,0,,,,0
-1599071400,Smouha,El-Entag El-Harby,1,2,,,,0
-1599139800,Tanta,Al Ittihad,1,1,,,,0
-1599148800,ZED,Haras El Hodood,1,1,,,,0
-1599157800,Pyramids,Zamalek,0,2,,,,0
-1599157800,Arab Contractors,Al Masry,2,0,,,,0
-1599231600,Misr Lel Makkasa,El Ismaily,4,1,,,,0
-1599242400,Al Ahly,Wadi Degla,2,0,,,,0
-1599321600,Aswan SC,Smouha,3,3,,,,0
-1599399000,El-Entag El-Harby,Tanta,3,0,,,,0
-1599408000,El Gouna,Pyramids,2,1,,,,0
-1599408000,Al Masry,Enppi,1,1,,,,0
-1599417000,Zamalek,El Gaish,1,0,,,,0
-1599485400,Al Ittihad,Misr Lel Makkasa,1,3,,,,0
-1599494400,Wadi Degla,Arab Contractors,1,1,,,,0
-1599494400,El Ismaily,ZED,4,0,,,,0
-1599503400,Haras El Hodood,Al Ahly,0,2,,,,0
-1599744600,Pyramids,Al Masry,0,1,,,,0
-1599753600,El-Entag El-Harby,Aswan SC,0,2,,,,0
-1599753600,Arab Contractors,Haras El Hodood,3,2,,,,0
-1599762600,Smouha,Zamalek,3,3,,,,0
-1599831000,ZED,Al Ittihad,2,2,,,,0
-1599840000,Tanta,Misr Lel Makkasa,0,2,,,,0
-1599840000,El Gaish,El Gouna,4,1,,,,0
-1599849000,Al Ahly,El Ismaily,3,0,,,,0
-1599926400,Enppi,Wadi Degla,2,1,,,,0
-1600020000,Zamalek,El-Entag El-Harby,1,0,,,,0
-1600090200,Haras El Hodood,Al Masry,1,2,,,,0
-1600099200,Aswan SC,Tanta,4,0,,,,0
-1600108200,Al Ittihad,Al Ahly,0,0,,,,0
-1600185600,Misr Lel Makkasa,ZED,3,0,,,,0
-1600194600,El Ismaily,Arab Contractors,1,1,,,,0
-1600272000,El Gouna,Smouha,1,2,,,,0
-1600281000,Wadi Degla,Pyramids,0,2,,,,0
-1600358400,Al Masry,El Gaish,0,0,,,,0
-1600444800,Haras El Hodood,Enppi,3,2,,,,0
-1600452000,Aswan SC,Zamalek,1,0,,,,0
-1600529400,Tanta,ZED,0,0,,,,0
-1600538400,Al Ahly,Misr Lel Makkasa,0,0,,,,0
-1600615800,El-Entag El-Harby,El Gouna,2,1,,,,0
-1600624800,Arab Contractors,Al Ittihad,1,1,,,,0
-1600693200,Enppi,El Ismaily,1,0,,,,0
-1600702200,Smouha,Al Masry,2,0,,,,0
-1600702200,El Gaish,Wadi Degla,1,0,,,,0
-1600711200,Pyramids,Haras El Hodood,1,0,,,,0
-1600797600,Zamalek,Tanta,3,1,,,,0
-1600884000,ZED,Al Ahly,0,3,,,,0
-1600952400,Wadi Degla,Smouha,0,0,,,,0
-1600961400,El Gouna,Aswan SC,1,0,,,,0
-1600961400,Al Masry,El-Entag El-Harby,2,2,,,,0
-1600970400,El Ismaily,Pyramids,1,3,,,,0
-1601038800,Haras El Hodood,El Gaish,0,0,,,,0
-1601047800,Misr Lel Makkasa,Arab Contractors,1,0,,,,0
-1601056800,Al Ittihad,Enppi,0,2,,,,0
-1601143200,Tanta,Al Ahly,0,1,,,,0
-1601229600,Zamalek,El Gouna,4,3,,,,0
-1601298000,Smouha,Haras El Hodood,2,0,,,,0
-1601307000,El-Entag El-Harby,Wadi Degla,1,4,,,,0
-1601307000,El Gaish,El Ismaily,0,1,,,,0
-1601316000,Aswan SC,Al Masry,0,1,,,,0
-1601384400,Arab Contractors,ZED,6,0,,,,0
-1601393400,Enppi,Misr Lel Makkasa,1,0,,,,0
-1601402400,Pyramids,Al Ittihad,1,0,,,,0
-1601566200,El Gouna,Tanta,2,0,,,,0
-1601575200,Al Masry,Zamalek,0,1,,,,0
-1601652600,Haras El Hodood,El-Entag El-Harby,1,3,,,,0
-1601663400,El Ismaily,Smouha,1,1,,,,0
-1601730000,ZED,Enppi,1,1,,,,0
-1601739000,Wadi Degla,Aswan SC,1,0,,,,0
-1601749800,Misr Lel Makkasa,Pyramids,2,3,,,,0
-1601825400,Al Ittihad,El Gaish,2,2,,,,0
-1601834400,Al Ahly,Arab Contractors,1,0,,,,0
-1601911800,El Gouna,Al Masry,0,2,,,,0
-1602007200,El-Entag El-Harby,El Ismaily,0,1,,,,0
-1602084600,Pyramids,ZED,1,0,,,,0
-1602093600,Enppi,Al Ahly,0,3,,,,0
-1602171000,Aswan SC,Haras El Hodood,2,1,,,,0
-1602180000,Zamalek,Wadi Degla,0,0,,,,0
-1602248400,Al Masry,El Ismaily,2,0,,,,0
-1602257400,Tanta,Arab Contractors,2,2,,,,0
-1602266400,Smouha,Al Ittihad,2,1,,,,0
-1602352800,El Gaish,Misr Lel Makkasa,1,0,,,,0
-1602439200,Al Ahly,Pyramids,0,0,,,,0
-1602507600,ZED,El-Entag El-Harby,0,3,,,,0
-1602507600,Al Ittihad,Al Masry,1,2,,,,0
-1602525600,Haras El Hodood,Zamalek,1,2,,,,0
-1602687600,Wadi Degla,El Gouna,0,2,,,,0
-1602774000,El Ismaily,Aswan SC,4,2,,,,0
-1602786600,Arab Contractors,Enppi,0,2,,,,0
-1602871200,Misr Lel Makkasa,Smouha,0,0,,,,0
-1602948600,Al Ittihad,El-Entag El-Harby,1,2,,,,0
-1603035000,Tanta,Al Masry,1,2,,,,0
-1603112400,ZED,El Gaish,0,1,,,,0
-1603735200,Zamalek,El Ismaily,3,1,,,,0
-1603985400,Aswan SC,Al Ittihad,1,3,,,,0
-1603994400,El-Entag El-Harby,Misr Lel Makkasa,0,0,,,,0
-1604062800,Enppi,Tanta,1,2,,,,0
-1604071800,El Gouna,Haras El Hodood,1,2,,,,0
-1604080800,Al Masry,Wadi Degla,2,1,,,,0
-1604149200,Smouha,ZED,2,0,,,,0
-1604158200,Pyramids,Arab Contractors,2,2,,,,0
-1604167200,El Gaish,Al Ahly,0,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1569070800,El Gaish,Arab Contractors,zcdwYkPa,vJb36ZBF,0,1,,,,0
+1569079800,El Gouna,El Ismaily,rFudGJm8,hjU5IpqO,0,1,,,,0
+1569088800,Pyramids,Enppi,61CV5LkU,UXviHTBE,4,0,,,,0
+1569157200,Aswan SC,Misr Lel Makkasa,tIwwEvBL,vRYp4Iam,2,3,,,,0
+1569166200,Wadi Degla,Tanta,nDyPqWH0,UTpZ7Xnm,0,1,,,,0
+1569166200,El-Entag El-Harby,ZED,jm1g2SD5,d8SflmrH,3,0,,,,0
+1569175200,Al Masry,Haras El Hodood,K8vlWhPS,WOiN3YjQ,1,1,,,,0
+1569252600,Smouha,Al Ahly,Y1Z3w2bI,CWnyifXm,0,1,,,,0
+1569261600,Zamalek,Al Ittihad,EJgyrHTR,bgfz00t5,1,0,,,,0
+1569506400,Haras El Hodood,Wadi Degla,WOiN3YjQ,nDyPqWH0,2,2,,,,0
+1569520800,Enppi,El Gaish,UXviHTBE,zcdwYkPa,1,1,,,,0
+1569684600,ZED,Aswan SC,d8SflmrH,tIwwEvBL,0,0,,,,0
+1569684600,Arab Contractors,Smouha,vJb36ZBF,Y1Z3w2bI,2,2,,,,0
+1569943800,Al Ittihad,El Gouna,bgfz00t5,rFudGJm8,1,0,,,,0
+1570030200,El Ismaily,Al Masry,hjU5IpqO,K8vlWhPS,1,3,,,,0
+1570039200,Al Ahly,El-Entag El-Harby,CWnyifXm,jm1g2SD5,4,0,,,,0
+1570107600,Tanta,Pyramids,UTpZ7Xnm,61CV5LkU,1,2,,,,0
+1570125600,Misr Lel Makkasa,Zamalek,vRYp4Iam,EJgyrHTR,0,1,,,,0
+1570212000,Smouha,Enppi,Y1Z3w2bI,UXviHTBE,2,1,,,,0
+1570280400,Aswan SC,Al Ahly,tIwwEvBL,CWnyifXm,1,5,,,,0
+1570289400,Wadi Degla,El Ismaily,nDyPqWH0,hjU5IpqO,0,1,,,,0
+1570289400,El-Entag El-Harby,Arab Contractors,jm1g2SD5,vJb36ZBF,0,1,,,,0
+1570298400,Al Masry,Al Ittihad,K8vlWhPS,bgfz00t5,0,1,,,,0
+1570366800,El Gouna,Misr Lel Makkasa,rFudGJm8,vRYp4Iam,1,0,,,,0
+1570375800,Haras El Hodood,Tanta,WOiN3YjQ,UTpZ7Xnm,1,1,,,,0
+1570375800,El Gaish,Pyramids,zcdwYkPa,61CV5LkU,2,2,,,,0
+1570384800,Zamalek,ZED,EJgyrHTR,d8SflmrH,1,1,,,,0
+1571317200,ZED,El Gouna,d8SflmrH,rFudGJm8,0,0,,,,0
+1571326200,Misr Lel Makkasa,Al Masry,vRYp4Iam,K8vlWhPS,1,0,,,,0
+1571326200,Enppi,El-Entag El-Harby,UXviHTBE,jm1g2SD5,0,1,,,,0
+1571335200,Pyramids,Smouha,61CV5LkU,Y1Z3w2bI,0,0,,,,0
+1571412600,Al Ittihad,Wadi Degla,bgfz00t5,nDyPqWH0,1,1,,,,0
+1571421600,El Ismaily,Haras El Hodood,hjU5IpqO,WOiN3YjQ,0,1,,,,0
+1571508000,Zamalek,Arab Contractors,EJgyrHTR,vJb36ZBF,2,1,,,,0
+1571671800,El-Entag El-Harby,Pyramids,jm1g2SD5,61CV5LkU,2,3,,,,0
+1571680800,Al Masry,ZED,K8vlWhPS,d8SflmrH,2,0,,,,0
+1571749200,Aswan SC,Enppi,tIwwEvBL,UXviHTBE,1,0,,,,0
+1571758200,Wadi Degla,Misr Lel Makkasa,nDyPqWH0,vRYp4Iam,2,2,,,,0
+1574512200,Tanta,El Gaish,UTpZ7Xnm,zcdwYkPa,0,0,,,,0
+1574521200,Arab Contractors,Aswan SC,vJb36ZBF,tIwwEvBL,2,1,,,,0
+1574694000,El Gouna,Al Ahly,rFudGJm8,CWnyifXm,0,4,,,,0
+1574703000,Enppi,Zamalek,UXviHTBE,EJgyrHTR,2,1,,,,0
+1574780400,ZED,Wadi Degla,d8SflmrH,nDyPqWH0,1,0,,,,0
+1574789400,Misr Lel Makkasa,Haras El Hodood,vRYp4Iam,WOiN3YjQ,1,2,,,,0
+1574857800,Tanta,Smouha,UTpZ7Xnm,Y1Z3w2bI,2,2,,,,0
+1574866800,Pyramids,Aswan SC,61CV5LkU,tIwwEvBL,2,2,,,,0
+1574953200,El Gaish,El-Entag El-Harby,zcdwYkPa,jm1g2SD5,0,0,,,,0
+1575039600,Arab Contractors,El Gouna,vJb36ZBF,rFudGJm8,2,0,,,,0
+1575135000,Al Ittihad,El Ismaily,bgfz00t5,hjU5IpqO,3,0,,,,0
+1575298800,Smouha,El Gaish,Y1Z3w2bI,zcdwYkPa,2,1,,,,0
+1575471600,El Ismaily,Tanta,hjU5IpqO,UTpZ7Xnm,0,0,,,,0
+1575480600,Haras El Hodood,Al Ittihad,WOiN3YjQ,bgfz00t5,0,1,,,,0
+1575990000,El Gouna,Enppi,rFudGJm8,UXviHTBE,1,4,,,,0
+1575999000,El-Entag El-Harby,Smouha,jm1g2SD5,Y1Z3w2bI,1,1,,,,0
+1576076400,Haras El Hodood,ZED,WOiN3YjQ,d8SflmrH,0,0,,,,0
+1576076400,El Ismaily,Misr Lel Makkasa,hjU5IpqO,vRYp4Iam,2,0,,,,0
+1576085400,Wadi Degla,Al Ahly,nDyPqWH0,CWnyifXm,0,3,,,,0
+1576153800,Al Ittihad,Tanta,bgfz00t5,UTpZ7Xnm,0,0,,,,0
+1576162800,Al Masry,Arab Contractors,K8vlWhPS,vJb36ZBF,0,1,,,,0
+1576171800,Zamalek,Pyramids,EJgyrHTR,61CV5LkU,2,0,,,,0
+1576413000,ZED,El Ismaily,d8SflmrH,hjU5IpqO,0,1,,,,0
+1576422000,Smouha,Aswan SC,Y1Z3w2bI,tIwwEvBL,1,0,,,,0
+1576431000,Al Ahly,Haras El Hodood,CWnyifXm,WOiN3YjQ,1,0,,,,0
+1576499400,Tanta,El-Entag El-Harby,UTpZ7Xnm,jm1g2SD5,0,1,,,,0
+1576508400,Misr Lel Makkasa,Al Ittihad,vRYp4Iam,bgfz00t5,2,3,,,,0
+1576508400,Arab Contractors,Wadi Degla,vJb36ZBF,nDyPqWH0,0,1,,,,0
+1576517400,El Gaish,Zamalek,zcdwYkPa,EJgyrHTR,3,2,,,,0
+1576594800,Enppi,Al Masry,UXviHTBE,K8vlWhPS,1,0,,,,0
+1576603800,Pyramids,El Gouna,61CV5LkU,rFudGJm8,2,3,,,,0
+1576776600,El Ismaily,Al Ahly,hjU5IpqO,CWnyifXm,0,1,,,,0
+1576845000,Haras El Hodood,Arab Contractors,WOiN3YjQ,vJb36ZBF,0,1,,,,0
+1576845000,Aswan SC,El-Entag El-Harby,tIwwEvBL,jm1g2SD5,0,1,,,,0
+1576854000,Misr Lel Makkasa,Tanta,vRYp4Iam,UTpZ7Xnm,1,1,,,,0
+1576854000,Al Ittihad,ZED,bgfz00t5,d8SflmrH,2,1,,,,0
+1576863000,Zamalek,Smouha,EJgyrHTR,Y1Z3w2bI,0,0,,,,0
+1576931400,El Gouna,El Gaish,rFudGJm8,zcdwYkPa,2,0,,,,0
+1576940400,Wadi Degla,Enppi,nDyPqWH0,UXviHTBE,2,3,,,,0
+1576949400,Al Masry,Pyramids,K8vlWhPS,61CV5LkU,1,1,,,,0
+1577113200,Arab Contractors,El Ismaily,vJb36ZBF,hjU5IpqO,2,0,,,,0
+1577122200,Al Ahly,Al Ittihad,CWnyifXm,bgfz00t5,4,0,,,,0
+1577190600,Tanta,Aswan SC,UTpZ7Xnm,tIwwEvBL,2,2,,,,0
+1577199600,ZED,Misr Lel Makkasa,d8SflmrH,vRYp4Iam,2,2,,,,0
+1577208600,El-Entag El-Harby,Zamalek,jm1g2SD5,EJgyrHTR,0,0,,,,0
+1577277000,Enppi,Haras El Hodood,UXviHTBE,WOiN3YjQ,0,0,,,,0
+1577286000,Smouha,El Gouna,Y1Z3w2bI,rFudGJm8,2,1,,,,0
+1577286000,El Gaish,Al Masry,zcdwYkPa,K8vlWhPS,0,1,,,,0
+1577295000,Pyramids,Wadi Degla,61CV5LkU,nDyPqWH0,1,0,,,,0
+1577622600,Aswan SC,El Gaish,tIwwEvBL,zcdwYkPa,1,1,,,,0
+1577709000,ZED,Tanta,d8SflmrH,UTpZ7Xnm,2,1,,,,0
+1577718000,El Gouna,El-Entag El-Harby,rFudGJm8,jm1g2SD5,0,0,,,,0
+1577881800,Al Ittihad,Arab Contractors,bgfz00t5,vJb36ZBF,0,1,,,,0
+1577890800,El Ismaily,Enppi,hjU5IpqO,UXviHTBE,1,1,,,,0
+1577899800,Misr Lel Makkasa,Al Ahly,vRYp4Iam,CWnyifXm,0,2,,,,0
+1577968200,Haras El Hodood,Pyramids,WOiN3YjQ,61CV5LkU,1,0,,,,0
+1577977200,Al Masry,Smouha,K8vlWhPS,Y1Z3w2bI,2,1,,,,0
+1577986200,Zamalek,Aswan SC,EJgyrHTR,tIwwEvBL,2,0,,,,0
+1578072600,Wadi Degla,El Gaish,nDyPqWH0,zcdwYkPa,1,3,,,,0
+1578227400,Arab Contractors,Misr Lel Makkasa,vJb36ZBF,vRYp4Iam,1,1,,,,0
+1578236400,Tanta,Zamalek,UTpZ7Xnm,EJgyrHTR,2,3,,,,0
+1578245400,Al Ahly,ZED,CWnyifXm,d8SflmrH,3,1,,,,0
+1578400200,Aswan SC,El Gouna,tIwwEvBL,rFudGJm8,1,1,,,,0
+1578409200,El-Entag El-Harby,Al Masry,jm1g2SD5,K8vlWhPS,1,1,,,,0
+1578418200,Pyramids,El Ismaily,61CV5LkU,hjU5IpqO,1,0,,,,0
+1578486600,El Gaish,Haras El Hodood,zcdwYkPa,WOiN3YjQ,0,3,,,,0
+1578495600,Smouha,Wadi Degla,Y1Z3w2bI,nDyPqWH0,2,3,,,,0
+1578504600,Enppi,Al Ittihad,UXviHTBE,bgfz00t5,0,0,,,,0
+1578754800,ZED,Arab Contractors,d8SflmrH,vJb36ZBF,1,3,,,,0
+1578832200,Haras El Hodood,Smouha,WOiN3YjQ,Y1Z3w2bI,0,0,,,,0
+1578841200,Misr Lel Makkasa,Enppi,vRYp4Iam,UXviHTBE,1,1,,,,0
+1578850200,El Ismaily,El Gaish,hjU5IpqO,zcdwYkPa,2,1,,,,0
+1578927600,Wadi Degla,El-Entag El-Harby,nDyPqWH0,jm1g2SD5,1,1,,,,0
+1579100400,El Gouna,Zamalek,rFudGJm8,EJgyrHTR,0,2,,,,0
+1579109400,Al Ahly,Tanta,CWnyifXm,UTpZ7Xnm,5,0,,,,0
+1579186800,Al Masry,Aswan SC,K8vlWhPS,tIwwEvBL,2,2,,,,0
+1579195800,Al Ittihad,Pyramids,bgfz00t5,61CV5LkU,1,1,,,,0
+1579350600,Enppi,ZED,UXviHTBE,d8SflmrH,2,1,,,,0
+1579359600,El-Entag El-Harby,Haras El Hodood,jm1g2SD5,WOiN3YjQ,1,0,,,,0
+1579368600,Smouha,El Ismaily,Y1Z3w2bI,hjU5IpqO,1,1,,,,0
+1579455000,Arab Contractors,Al Ahly,vJb36ZBF,CWnyifXm,0,2,,,,0
+1579523400,Aswan SC,Wadi Degla,tIwwEvBL,nDyPqWH0,1,3,,,,0
+1579532400,El Gaish,Al Ittihad,zcdwYkPa,bgfz00t5,0,3,,,,0
+1579609800,Tanta,El Gouna,UTpZ7Xnm,rFudGJm8,1,0,,,,0
+1579627800,Pyramids,Misr Lel Makkasa,61CV5LkU,vRYp4Iam,3,1,,,,0
+1580050800,Arab Contractors,Tanta,vJb36ZBF,UTpZ7Xnm,2,0,,,,0
+1580128200,Haras El Hodood,Aswan SC,WOiN3YjQ,tIwwEvBL,1,2,,,,0
+1580137200,Misr Lel Makkasa,El Gaish,vRYp4Iam,zcdwYkPa,1,1,,,,0
+1580232600,Wadi Degla,Zamalek,nDyPqWH0,EJgyrHTR,1,1,,,,0
+1580310000,Al Masry,El Gouna,K8vlWhPS,rFudGJm8,1,2,,,,0
+1580319000,ZED,Pyramids,d8SflmrH,61CV5LkU,1,2,,,,0
+1580396400,El Ismaily,El-Entag El-Harby,hjU5IpqO,jm1g2SD5,3,2,,,,0
+1580405400,Al Ittihad,Smouha,bgfz00t5,Y1Z3w2bI,1,1,,,,0
+1580733000,Aswan SC,El Ismaily,tIwwEvBL,hjU5IpqO,2,1,,,,0
+1580742000,Enppi,Arab Contractors,UXviHTBE,vJb36ZBF,2,1,,,,0
+1580742000,El-Entag El-Harby,Al Ittihad,jm1g2SD5,bgfz00t5,0,0,,,,0
+1580751000,Smouha,Misr Lel Makkasa,Y1Z3w2bI,vRYp4Iam,1,1,,,,0
+1580828400,El Gouna,Wadi Degla,rFudGJm8,nDyPqWH0,1,0,,,,0
+1580837400,El Gaish,ZED,zcdwYkPa,d8SflmrH,4,0,,,,0
+1580923800,Zamalek,Haras El Hodood,EJgyrHTR,WOiN3YjQ,2,0,,,,0
+1581001200,Al Masry,Tanta,K8vlWhPS,UTpZ7Xnm,2,2,,,,0
+1581010200,Pyramids,Al Ahly,61CV5LkU,CWnyifXm,1,2,,,,0
+1581165000,Al Ittihad,Aswan SC,bgfz00t5,tIwwEvBL,0,1,,,,0
+1581174000,ZED,Smouha,d8SflmrH,Y1Z3w2bI,0,1,,,,0
+1581183000,Misr Lel Makkasa,El-Entag El-Harby,vRYp4Iam,jm1g2SD5,1,1,,,,0
+1581260400,Haras El Hodood,El Gouna,WOiN3YjQ,rFudGJm8,2,2,,,,0
+1581269400,El Ismaily,Zamalek,hjU5IpqO,EJgyrHTR,1,2,,,,0
+1581337800,Tanta,Enppi,UTpZ7Xnm,UXviHTBE,0,0,,,,0
+1581346800,Wadi Degla,Al Masry,nDyPqWH0,K8vlWhPS,0,3,,,,0
+1581355800,Al Ahly,El Gaish,CWnyifXm,zcdwYkPa,3,0,,,,0
+1581442200,Arab Contractors,Pyramids,vJb36ZBF,61CV5LkU,0,2,,,,0
+1581704100,Al Ahly,Al Masry,CWnyifXm,K8vlWhPS,3,0,,,,0
+1582569000,Al Ahly,Zamalek,CWnyifXm,EJgyrHTR,2,0,Awrd,,,0
+1583420400,El Gaish,Enppi,zcdwYkPa,UXviHTBE,0,0,,,,0
+1583766000,El Ismaily,El Gouna,hjU5IpqO,rFudGJm8,1,1,,,,0
+1583852400,Arab Contractors,El Gaish,vJb36ZBF,zcdwYkPa,1,1,,,,0
+1583938800,Enppi,Pyramids,UXviHTBE,61CV5LkU,0,1,,,,0
+1583947800,Tanta,Wadi Degla,UTpZ7Xnm,nDyPqWH0,0,0,,,,0
+1583947800,Al Ahly,Smouha,CWnyifXm,Y1Z3w2bI,1,1,,,,0
+1596736800,Zamalek,Al Masry,EJgyrHTR,K8vlWhPS,1,0,,,,0
+1596985200,Misr Lel Makkasa,Aswan SC,vRYp4Iam,tIwwEvBL,2,1,,,,0
+1596996000,Al Ahly,Enppi,CWnyifXm,UXviHTBE,2,0,,,,0
+1597077000,Pyramids,Tanta,61CV5LkU,UTpZ7Xnm,3,0,,,,0
+1597086000,Al Ittihad,Zamalek,bgfz00t5,EJgyrHTR,1,1,,,,0
+1597327200,Aswan SC,ZED,tIwwEvBL,d8SflmrH,1,1,,,,0
+1597336200,Smouha,Arab Contractors,Y1Z3w2bI,vJb36ZBF,1,1,,,,0
+1597413600,El Gouna,Al Ittihad,rFudGJm8,bgfz00t5,1,1,,,,0
+1597422600,Wadi Degla,Haras El Hodood,nDyPqWH0,WOiN3YjQ,1,0,,,,0
+1597431600,El-Entag El-Harby,Al Ahly,jm1g2SD5,CWnyifXm,1,1,,,,0
+1597514400,Zamalek,Misr Lel Makkasa,EJgyrHTR,vRYp4Iam,1,0,,,,0
+1597600800,Pyramids,El Gaish,61CV5LkU,zcdwYkPa,2,2,,,,0
+1597672800,Enppi,Smouha,UXviHTBE,Y1Z3w2bI,0,0,,,,0
+1597681800,Arab Contractors,El-Entag El-Harby,vJb36ZBF,jm1g2SD5,2,1,,,,0
+1597690800,Al Ahly,Aswan SC,CWnyifXm,tIwwEvBL,3,0,,,,0
+1597759200,Tanta,Haras El Hodood,UTpZ7Xnm,WOiN3YjQ,0,1,,,,0
+1597768200,Misr Lel Makkasa,El Gouna,vRYp4Iam,rFudGJm8,1,0,,,,0
+1597777200,ZED,Zamalek,d8SflmrH,EJgyrHTR,0,0,,,,0
+1597860000,El Ismaily,Wadi Degla,hjU5IpqO,nDyPqWH0,1,1,,,,0
+1598018400,El-Entag El-Harby,Enppi,jm1g2SD5,UXviHTBE,0,2,,,,0
+1598027400,Aswan SC,Arab Contractors,tIwwEvBL,vJb36ZBF,1,0,,,,0
+1598036400,Smouha,Pyramids,Y1Z3w2bI,61CV5LkU,1,2,,,,0
+1598104800,El Gouna,ZED,rFudGJm8,d8SflmrH,0,1,,,,0
+1598104800,El Gaish,Tanta,zcdwYkPa,UTpZ7Xnm,1,0,,,,0
+1598113800,Al Masry,Misr Lel Makkasa,K8vlWhPS,vRYp4Iam,0,2,,,,0
+1598122800,Zamalek,Al Ahly,EJgyrHTR,CWnyifXm,3,1,,,,0
+1598194800,Haras El Hodood,El Ismaily,WOiN3YjQ,hjU5IpqO,2,2,,,,0
+1598205600,Wadi Degla,Al Ittihad,nDyPqWH0,bgfz00t5,0,0,,,,0
+1598367600,Enppi,Aswan SC,UXviHTBE,tIwwEvBL,1,1,,,,0
+1598378400,Pyramids,El-Entag El-Harby,61CV5LkU,jm1g2SD5,3,0,,,,0
+1598450400,El Gaish,Smouha,zcdwYkPa,Y1Z3w2bI,1,1,,,,0
+1598459400,ZED,Al Masry,d8SflmrH,K8vlWhPS,0,0,,,,0
+1598468400,Al Ahly,El Gouna,CWnyifXm,rFudGJm8,1,0,,,,0
+1598536800,Al Ittihad,Haras El Hodood,bgfz00t5,WOiN3YjQ,1,1,,,,0
+1598545800,Misr Lel Makkasa,Wadi Degla,vRYp4Iam,nDyPqWH0,1,3,,,,0
+1598554800,Tanta,El Ismaily,UTpZ7Xnm,hjU5IpqO,1,3,,,,0
+1598554800,Arab Contractors,Zamalek,vJb36ZBF,EJgyrHTR,2,1,,,,0
+1598707800,El-Entag El-Harby,El Gaish,jm1g2SD5,zcdwYkPa,0,1,,,,0
+1598716800,Aswan SC,Pyramids,tIwwEvBL,61CV5LkU,1,2,,,,0
+1598725800,Al Masry,Al Ahly,K8vlWhPS,CWnyifXm,0,2,,,,0
+1598794200,Wadi Degla,ZED,nDyPqWH0,d8SflmrH,2,1,,,,0
+1598803200,Smouha,Tanta,Y1Z3w2bI,UTpZ7Xnm,3,0,,,,0
+1598803200,El Gouna,Arab Contractors,rFudGJm8,vJb36ZBF,2,0,,,,0
+1598812200,Zamalek,Enppi,EJgyrHTR,UXviHTBE,1,0,,,,0
+1598886000,Haras El Hodood,Misr Lel Makkasa,WOiN3YjQ,vRYp4Iam,1,1,,,,0
+1598896800,El Ismaily,Al Ittihad,hjU5IpqO,bgfz00t5,1,3,,,,0
+1599053400,El Gaish,Aswan SC,zcdwYkPa,tIwwEvBL,0,0,,,,0
+1599062400,Enppi,El Gouna,UXviHTBE,rFudGJm8,0,0,,,,0
+1599071400,Smouha,El-Entag El-Harby,Y1Z3w2bI,jm1g2SD5,1,2,,,,0
+1599139800,Tanta,Al Ittihad,UTpZ7Xnm,bgfz00t5,1,1,,,,0
+1599148800,ZED,Haras El Hodood,d8SflmrH,WOiN3YjQ,1,1,,,,0
+1599157800,Pyramids,Zamalek,61CV5LkU,EJgyrHTR,0,2,,,,0
+1599157800,Arab Contractors,Al Masry,vJb36ZBF,K8vlWhPS,2,0,,,,0
+1599231600,Misr Lel Makkasa,El Ismaily,vRYp4Iam,hjU5IpqO,4,1,,,,0
+1599242400,Al Ahly,Wadi Degla,CWnyifXm,nDyPqWH0,2,0,,,,0
+1599321600,Aswan SC,Smouha,tIwwEvBL,Y1Z3w2bI,3,3,,,,0
+1599399000,El-Entag El-Harby,Tanta,jm1g2SD5,UTpZ7Xnm,3,0,,,,0
+1599408000,El Gouna,Pyramids,rFudGJm8,61CV5LkU,2,1,,,,0
+1599408000,Al Masry,Enppi,K8vlWhPS,UXviHTBE,1,1,,,,0
+1599417000,Zamalek,El Gaish,EJgyrHTR,zcdwYkPa,1,0,,,,0
+1599485400,Al Ittihad,Misr Lel Makkasa,bgfz00t5,vRYp4Iam,1,3,,,,0
+1599494400,Wadi Degla,Arab Contractors,nDyPqWH0,vJb36ZBF,1,1,,,,0
+1599494400,El Ismaily,ZED,hjU5IpqO,d8SflmrH,4,0,,,,0
+1599503400,Haras El Hodood,Al Ahly,WOiN3YjQ,CWnyifXm,0,2,,,,0
+1599744600,Pyramids,Al Masry,61CV5LkU,K8vlWhPS,0,1,,,,0
+1599753600,El-Entag El-Harby,Aswan SC,jm1g2SD5,tIwwEvBL,0,2,,,,0
+1599753600,Arab Contractors,Haras El Hodood,vJb36ZBF,WOiN3YjQ,3,2,,,,0
+1599762600,Smouha,Zamalek,Y1Z3w2bI,EJgyrHTR,3,3,,,,0
+1599831000,ZED,Al Ittihad,d8SflmrH,bgfz00t5,2,2,,,,0
+1599840000,Tanta,Misr Lel Makkasa,UTpZ7Xnm,vRYp4Iam,0,2,,,,0
+1599840000,El Gaish,El Gouna,zcdwYkPa,rFudGJm8,4,1,,,,0
+1599849000,Al Ahly,El Ismaily,CWnyifXm,hjU5IpqO,3,0,,,,0
+1599926400,Enppi,Wadi Degla,UXviHTBE,nDyPqWH0,2,1,,,,0
+1600020000,Zamalek,El-Entag El-Harby,EJgyrHTR,jm1g2SD5,1,0,,,,0
+1600090200,Haras El Hodood,Al Masry,WOiN3YjQ,K8vlWhPS,1,2,,,,0
+1600099200,Aswan SC,Tanta,tIwwEvBL,UTpZ7Xnm,4,0,,,,0
+1600108200,Al Ittihad,Al Ahly,bgfz00t5,CWnyifXm,0,0,,,,0
+1600185600,Misr Lel Makkasa,ZED,vRYp4Iam,d8SflmrH,3,0,,,,0
+1600194600,El Ismaily,Arab Contractors,hjU5IpqO,vJb36ZBF,1,1,,,,0
+1600272000,El Gouna,Smouha,rFudGJm8,Y1Z3w2bI,1,2,,,,0
+1600281000,Wadi Degla,Pyramids,nDyPqWH0,61CV5LkU,0,2,,,,0
+1600358400,Al Masry,El Gaish,K8vlWhPS,zcdwYkPa,0,0,,,,0
+1600444800,Haras El Hodood,Enppi,WOiN3YjQ,UXviHTBE,3,2,,,,0
+1600452000,Aswan SC,Zamalek,tIwwEvBL,EJgyrHTR,1,0,,,,0
+1600529400,Tanta,ZED,UTpZ7Xnm,d8SflmrH,0,0,,,,0
+1600538400,Al Ahly,Misr Lel Makkasa,CWnyifXm,vRYp4Iam,0,0,,,,0
+1600615800,El-Entag El-Harby,El Gouna,jm1g2SD5,rFudGJm8,2,1,,,,0
+1600624800,Arab Contractors,Al Ittihad,vJb36ZBF,bgfz00t5,1,1,,,,0
+1600693200,Enppi,El Ismaily,UXviHTBE,hjU5IpqO,1,0,,,,0
+1600702200,Smouha,Al Masry,Y1Z3w2bI,K8vlWhPS,2,0,,,,0
+1600702200,El Gaish,Wadi Degla,zcdwYkPa,nDyPqWH0,1,0,,,,0
+1600711200,Pyramids,Haras El Hodood,61CV5LkU,WOiN3YjQ,1,0,,,,0
+1600797600,Zamalek,Tanta,EJgyrHTR,UTpZ7Xnm,3,1,,,,0
+1600884000,ZED,Al Ahly,d8SflmrH,CWnyifXm,0,3,,,,0
+1600952400,Wadi Degla,Smouha,nDyPqWH0,Y1Z3w2bI,0,0,,,,0
+1600961400,El Gouna,Aswan SC,rFudGJm8,tIwwEvBL,1,0,,,,0
+1600961400,Al Masry,El-Entag El-Harby,K8vlWhPS,jm1g2SD5,2,2,,,,0
+1600970400,El Ismaily,Pyramids,hjU5IpqO,61CV5LkU,1,3,,,,0
+1601038800,Haras El Hodood,El Gaish,WOiN3YjQ,zcdwYkPa,0,0,,,,0
+1601047800,Misr Lel Makkasa,Arab Contractors,vRYp4Iam,vJb36ZBF,1,0,,,,0
+1601056800,Al Ittihad,Enppi,bgfz00t5,UXviHTBE,0,2,,,,0
+1601143200,Tanta,Al Ahly,UTpZ7Xnm,CWnyifXm,0,1,,,,0
+1601229600,Zamalek,El Gouna,EJgyrHTR,rFudGJm8,4,3,,,,0
+1601298000,Smouha,Haras El Hodood,Y1Z3w2bI,WOiN3YjQ,2,0,,,,0
+1601307000,El-Entag El-Harby,Wadi Degla,jm1g2SD5,nDyPqWH0,1,4,,,,0
+1601307000,El Gaish,El Ismaily,zcdwYkPa,hjU5IpqO,0,1,,,,0
+1601316000,Aswan SC,Al Masry,tIwwEvBL,K8vlWhPS,0,1,,,,0
+1601384400,Arab Contractors,ZED,vJb36ZBF,d8SflmrH,6,0,,,,0
+1601393400,Enppi,Misr Lel Makkasa,UXviHTBE,vRYp4Iam,1,0,,,,0
+1601402400,Pyramids,Al Ittihad,61CV5LkU,bgfz00t5,1,0,,,,0
+1601566200,El Gouna,Tanta,rFudGJm8,UTpZ7Xnm,2,0,,,,0
+1601575200,Al Masry,Zamalek,K8vlWhPS,EJgyrHTR,0,1,,,,0
+1601652600,Haras El Hodood,El-Entag El-Harby,WOiN3YjQ,jm1g2SD5,1,3,,,,0
+1601663400,El Ismaily,Smouha,hjU5IpqO,Y1Z3w2bI,1,1,,,,0
+1601730000,ZED,Enppi,d8SflmrH,UXviHTBE,1,1,,,,0
+1601739000,Wadi Degla,Aswan SC,nDyPqWH0,tIwwEvBL,1,0,,,,0
+1601749800,Misr Lel Makkasa,Pyramids,vRYp4Iam,61CV5LkU,2,3,,,,0
+1601825400,Al Ittihad,El Gaish,bgfz00t5,zcdwYkPa,2,2,,,,0
+1601834400,Al Ahly,Arab Contractors,CWnyifXm,vJb36ZBF,1,0,,,,0
+1601911800,El Gouna,Al Masry,rFudGJm8,K8vlWhPS,0,2,,,,0
+1602007200,El-Entag El-Harby,El Ismaily,jm1g2SD5,hjU5IpqO,0,1,,,,0
+1602084600,Pyramids,ZED,61CV5LkU,d8SflmrH,1,0,,,,0
+1602093600,Enppi,Al Ahly,UXviHTBE,CWnyifXm,0,3,,,,0
+1602171000,Aswan SC,Haras El Hodood,tIwwEvBL,WOiN3YjQ,2,1,,,,0
+1602180000,Zamalek,Wadi Degla,EJgyrHTR,nDyPqWH0,0,0,,,,0
+1602248400,Al Masry,El Ismaily,K8vlWhPS,hjU5IpqO,2,0,,,,0
+1602257400,Tanta,Arab Contractors,UTpZ7Xnm,vJb36ZBF,2,2,,,,0
+1602266400,Smouha,Al Ittihad,Y1Z3w2bI,bgfz00t5,2,1,,,,0
+1602352800,El Gaish,Misr Lel Makkasa,zcdwYkPa,vRYp4Iam,1,0,,,,0
+1602439200,Al Ahly,Pyramids,CWnyifXm,61CV5LkU,0,0,,,,0
+1602507600,ZED,El-Entag El-Harby,d8SflmrH,jm1g2SD5,0,3,,,,0
+1602507600,Al Ittihad,Al Masry,bgfz00t5,K8vlWhPS,1,2,,,,0
+1602525600,Haras El Hodood,Zamalek,WOiN3YjQ,EJgyrHTR,1,2,,,,0
+1602687600,Wadi Degla,El Gouna,nDyPqWH0,rFudGJm8,0,2,,,,0
+1602774000,El Ismaily,Aswan SC,hjU5IpqO,tIwwEvBL,4,2,,,,0
+1602786600,Arab Contractors,Enppi,vJb36ZBF,UXviHTBE,0,2,,,,0
+1602871200,Misr Lel Makkasa,Smouha,vRYp4Iam,Y1Z3w2bI,0,0,,,,0
+1602948600,Al Ittihad,El-Entag El-Harby,bgfz00t5,jm1g2SD5,1,2,,,,0
+1603035000,Tanta,Al Masry,UTpZ7Xnm,K8vlWhPS,1,2,,,,0
+1603112400,ZED,El Gaish,d8SflmrH,zcdwYkPa,0,1,,,,0
+1603735200,Zamalek,El Ismaily,EJgyrHTR,hjU5IpqO,3,1,,,,0
+1603985400,Aswan SC,Al Ittihad,tIwwEvBL,bgfz00t5,1,3,,,,0
+1603994400,El-Entag El-Harby,Misr Lel Makkasa,jm1g2SD5,vRYp4Iam,0,0,,,,0
+1604062800,Enppi,Tanta,UXviHTBE,UTpZ7Xnm,1,2,,,,0
+1604071800,El Gouna,Haras El Hodood,rFudGJm8,WOiN3YjQ,1,2,,,,0
+1604080800,Al Masry,Wadi Degla,K8vlWhPS,nDyPqWH0,2,1,,,,0
+1604149200,Smouha,ZED,Y1Z3w2bI,d8SflmrH,2,0,,,,0
+1604158200,Pyramids,Arab Contractors,61CV5LkU,vJb36ZBF,2,2,,,,0
+1604167200,El Gaish,Al Ahly,zcdwYkPa,CWnyifXm,0,3,,,,0

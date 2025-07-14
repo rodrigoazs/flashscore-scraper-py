@@ -1,18 +1,18 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1662561000,Sutjeska,Jezero,1,0,,,,0
-1662561000,Jedinstvo,Mladost DG,3,1,,,,0
-1662562800,Bokelj,Arsenal Tivat,2,3,,,,0
-1662566400,Zeta,Rudar,1,3,,,,0
-1662566400,Kom Podgorica,Iskra,0,3,,,,0
-1662566400,FK Podgorica,Igalo,3,0,,,,0
-1662570000,Mornar Bar,Petrovac,2,0,,,,0
-1662570000,Decic,Buducnost,1,1,Pen,2,1,0
-1666785600,Rudar,Sutjeska,0,2,,,,0
-1666785600,Arsenal Tivat,Jedinstvo,0,0,Pen,1,0,0
-1666789200,Decic,FK Podgorica,2,0,,,,0
-1666792800,Iskra,Mornar Bar,1,1,Pen,2,1,0
-1681920000,Sutjeska,Decic,3,1,,,,0
-1681920000,Iskra,Arsenal Tivat,1,3,,,,0
-1683124200,Arsenal Tivat,Iskra,1,3,Pen,2,3,0
-1683129600,Decic,Sutjeska,1,1,,,,0
-1685385000,Arsenal Tivat,Sutjeska,1,1,Pen,1,2,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1662561000,Sutjeska,Jezero,zVJMgvaS,ljgDYnD5,1,0,,,,0
+1662561000,Jedinstvo,Mladost DG,2JKzUeUK,WdVjEXps,3,1,,,,0
+1662562800,Bokelj,Arsenal Tivat,ABpmWgn7,25w9qSfP,2,3,,,,0
+1662566400,Zeta,Rudar,vLDFhvIU,KfNVySaO,1,3,,,,0
+1662566400,Kom Podgorica,Iskra,4Uy7FtTH,0ASINSdB,0,3,,,,0
+1662566400,FK Podgorica,Igalo,IRdZ5ayn,8xsLFjVh,3,0,,,,0
+1662570000,Mornar Bar,Petrovac,2JKzUeUK,ABpmWgn7,2,0,,,,0
+1662570000,Decic,Buducnost,UstD1joU,zVJMgvaS,1,1,Pen,2,1,0
+1666785600,Rudar,Sutjeska,KfNVySaO,zVJMgvaS,0,2,,,,0
+1666785600,Arsenal Tivat,Jedinstvo,25w9qSfP,2JKzUeUK,0,0,Pen,1,0,0
+1666789200,Decic,FK Podgorica,UstD1joU,IRdZ5ayn,2,0,,,,0
+1666792800,Iskra,Mornar Bar,0ASINSdB,2JKzUeUK,1,1,Pen,2,1,0
+1681920000,Sutjeska,Decic,zVJMgvaS,UstD1joU,3,1,,,,0
+1681920000,Iskra,Arsenal Tivat,0ASINSdB,25w9qSfP,1,3,,,,0
+1683124200,Arsenal Tivat,Iskra,25w9qSfP,0ASINSdB,1,3,Pen,2,3,0
+1683129600,Decic,Sutjeska,UstD1joU,zVJMgvaS,1,1,,,,0
+1685385000,Arsenal Tivat,Sutjeska,25w9qSfP,zVJMgvaS,1,1,Pen,1,2,1

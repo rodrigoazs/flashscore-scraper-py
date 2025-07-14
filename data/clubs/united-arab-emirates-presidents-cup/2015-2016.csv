@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1424957700,Emirates Club,Al Fujairah,2,2,AET,5,3,0
-1424957700,Al Wahda,Al Wasl,3,3,AET,3,4,0
-1424968500,Shabab Al-Ahli Dubai,Ajman,0,0,AET,4,0,0
-1424968500,Dibba Al Fujairah,Al Shaab,1,1,AET,1,4,0
-1425044100,Al Shabab,Bani Yas,1,1,AET,1,2,0
-1425044100,Al Ain,Ittihad Kalba,4,0,,,,0
-1425054900,Al Sharjah,Al Nasr,5,4,,,,0
-1425130500,Al Dhafra,Al Jazira,0,1,,,,0
-1431445200,Al Jazira,Al Sharjah,2,2,Pen,5,4,0
-1431445200,Al Ain,Al Wasl,2,2,AET,4,2,0
-1431531300,Shabab Al-Ahli Dubai,Al Shaab,3,1,,,,0
-1431531300,Bani Yas,Emirates Club,1,1,Pen,2,1,0
-1432136700,Al Jazira,Shabab Al-Ahli Dubai,3,2,,,,0
-1432223100,Al Ain,Bani Yas,2,2,AET,3,2,1
-1432909200,Al Jazira,Al Ain,1,1,Pen,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1424957700,Emirates Club,Al Fujairah,MHQFRCXq,GOsncUhM,2,2,AET,5,3,0
+1424957700,Al Wahda,Al Wasl,YXHWp1ah,K8vlWhPS,3,3,AET,3,4,0
+1424968500,Shabab Al-Ahli Dubai,Ajman,8zUcYY2j,prt8JLTG,0,0,AET,4,0,0
+1424968500,Dibba Al Fujairah,Al Shaab,COCcK4Lc,bTQFt8Qf,1,1,AET,1,4,0
+1425044100,Al Shabab,Bani Yas,Ymrd2ee2,OfEmUdKC,1,1,AET,1,2,0
+1425044100,Al Ain,Ittihad Kalba,OKa9P8WR,lUHDtcYu,4,0,,,,0
+1425054900,Al Sharjah,Al Nasr,2w51PaQ7,K8vlWhPS,5,4,,,,0
+1425130500,Al Dhafra,Al Jazira,Uy7I7TU5,lWIXXvLm,0,1,,,,0
+1431445200,Al Jazira,Al Sharjah,lWIXXvLm,2w51PaQ7,2,2,Pen,5,4,0
+1431445200,Al Ain,Al Wasl,OKa9P8WR,K8vlWhPS,2,2,AET,4,2,0
+1431531300,Shabab Al-Ahli Dubai,Al Shaab,8zUcYY2j,bTQFt8Qf,3,1,,,,0
+1431531300,Bani Yas,Emirates Club,OfEmUdKC,MHQFRCXq,1,1,Pen,2,1,0
+1432136700,Al Jazira,Shabab Al-Ahli Dubai,lWIXXvLm,8zUcYY2j,3,2,,,,0
+1432223100,Al Ain,Bani Yas,OKa9P8WR,OfEmUdKC,2,2,AET,3,2,1
+1432909200,Al Jazira,Al Ain,lWIXXvLm,OKa9P8WR,1,1,Pen,2,1,0

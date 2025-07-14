@@ -1,23 +1,23 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-939679200,Wawel,Gornik Zabrze,1,3,,,,0
-939679200,Stomil Olsztyn,Odra Wodzislaw,1,2,,,,0
-939679200,Inkopax,Chemik Police,0,2,,,,0
-939765600,Tloki Gorzyce,Myszkow,1,2,,,,0
-939765600,Stal Szczecin,Lech Poznan,1,2,,,,0
-939765600,Slask Wroclaw,Widzew Lodz,0,1,,,,0
-939765600,Ruch Chorzow,Pogon Szczecin,2,0,,,,0
-939765600,Rakow,Wisla Plock,0,2,,,,0
-939765600,Radomsko,Korona Kielce,2,0,,,,0
-939765600,Lechia Gdansk,Wisla,0,2,,,,0
-939765600,Jagiellonka Nieszawa,S. Wola,1,1,AET,1,2,0
-939765600,Hutnik Krakow,Polonia Warszawa,2,3,,,,0
-939765600,Gornik Konin,Legia,1,2,,,,0
-939765600,GKS Katowice,LKS Lodz,0,2,,,,0
-939765600,GKS Belchatow,Zaglebie,2,1,,,,0
-939765600,Amica Wronki,Radzionkow,1,1,AET,2,1,0
-957391200,Wisla,Polonia Warszawa,2,1,,,,0
-957391200,Amica Wronki,Radomsko,5,3,,,,0
-957996000,Radomsko,Amica Wronki,0,1,,,,0
-957996000,Polonia Warszawa,Wisla,0,2,,,,0
-960242400,Wisla,Amica Wronki,2,2,,,,0
-960501600,Amica Wronki,Wisla,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+939679200,Wawel,Gornik Zabrze,,WtiGCgXQ,1,3,,,,0
+939679200,Stomil Olsztyn,Odra Wodzislaw,nuSpyoEL,ld8AStcI,1,2,,,,0
+939679200,Inkopax,Chemik Police,8U0yQEAt,Am4T6prs,0,2,,,,0
+939765600,Tloki Gorzyce,Myszkow,dOKHShgi,dOKHShgi,1,2,,,,0
+939765600,Stal Szczecin,Lech Poznan,,lCvEmFL0,1,2,,,,0
+939765600,Slask Wroclaw,Widzew Lodz,CrPl0Jrc,UTb1DTGS,0,1,,,,0
+939765600,Ruch Chorzow,Pogon Szczecin,2FYvdV3F,vLZ2ZgBC,2,0,,,,0
+939765600,Rakow,Wisla Plock,KpIcOmKL,S4zZQGfc,0,2,,,,0
+939765600,Radomsko,Korona Kielce,tMiAwHos,QwHphoES,2,0,,,,0
+939765600,Lechia Gdansk,Wisla,0xPot60L,Wdonsod0,0,2,,,,0
+939765600,Jagiellonka Nieszawa,S. Wola,lzw02iyN,tW2VhOvo,1,1,AET,1,2,0
+939765600,Hutnik Krakow,Polonia Warszawa,0Wq7HGoH,pjvOeKFg,2,3,,,,0
+939765600,Gornik Konin,Legia,noHf3TeA,rgYuXGKm,1,2,,,,0
+939765600,GKS Katowice,LKS Lodz,4GUthy9Q,CrgYOGj7,0,2,,,,0
+939765600,GKS Belchatow,Zaglebie,t2JBIzI7,Ykwr8Dur,2,1,,,,0
+939765600,Amica Wronki,Radzionkow,ImE3sZrC,6PG8meHs,1,1,AET,2,1,0
+957391200,Wisla,Polonia Warszawa,Wdonsod0,pjvOeKFg,2,1,,,,0
+957391200,Amica Wronki,Radomsko,ImE3sZrC,tMiAwHos,5,3,,,,0
+957996000,Radomsko,Amica Wronki,tMiAwHos,ImE3sZrC,0,1,,,,0
+957996000,Polonia Warszawa,Wisla,pjvOeKFg,Wdonsod0,0,2,,,,0
+960242400,Wisla,Amica Wronki,Wdonsod0,ImE3sZrC,2,2,,,,0
+960501600,Amica Wronki,Wisla,ImE3sZrC,Wdonsod0,3,0,,,,0

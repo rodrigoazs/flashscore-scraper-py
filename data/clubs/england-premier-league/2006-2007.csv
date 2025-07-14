@@ -1,381 +1,381 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1155987900,Sheffield Utd,Liverpool,1,1,,,,0
-1155996000,West Ham,Charlton,3,1,,,,0
-1155996000,Reading,Middlesbrough,3,2,,,,0
-1155996000,Portsmouth,Blackburn,3,0,,,,0
-1155996000,Newcastle,Wigan,2,1,,,,0
-1155996000,Everton,Watford,2,1,,,,0
-1155996000,Arsenal,Aston Villa,1,1,,,,0
-1156004100,Bolton,Tottenham,2,0,,,,0
-1156077000,Manchester Utd,Fulham,5,1,,,,0
-1156086000,Chelsea,Manchester City,3,0,,,,0
-1156272300,Watford,West Ham,1,1,,,,0
-1156273200,Tottenham,Sheffield Utd,2,0,,,,0
-1156358700,Manchester City,Portsmouth,0,0,,,,0
-1156358700,Blackburn,Everton,1,1,,,,0
-1156358700,Aston Villa,Reading,2,1,,,,0
-1156359600,Middlesbrough,Chelsea,2,1,,,,0
-1156359600,Fulham,Bolton,1,1,,,,0
-1156359600,Charlton,Manchester Utd,0,3,,,,0
-1156592700,Liverpool,West Ham,2,1,,,,0
-1156600800,Wigan,Reading,1,0,,,,0
-1156600800,Watford,Manchester Utd,1,2,,,,0
-1156600800,Tottenham,Everton,0,2,,,,0
-1156600800,Fulham,Sheffield Utd,1,0,,,,0
-1156600800,Charlton,Bolton,2,0,,,,0
-1156608900,Manchester City,Arsenal,1,0,,,,0
-1156683600,Aston Villa,Newcastle,2,0,,,,0
-1156690800,Blackburn,Chelsea,0,2,,,,0
-1156791600,Middlesbrough,Portsmouth,0,4,,,,0
-1157802300,Everton,Liverpool,3,0,,,,0
-1157810400,Sheffield Utd,Blackburn,0,0,,,,0
-1157810400,Portsmouth,Wigan,1,0,,,,0
-1157810400,Newcastle,Fulham,1,2,,,,0
-1157810400,Chelsea,Charlton,2,1,,,,0
-1157810400,Bolton,Watford,1,0,,,,0
-1157810400,Arsenal,Middlesbrough,1,1,,,,0
-1157818500,Manchester Utd,Tottenham,1,0,,,,0
-1157900400,West Ham,Aston Villa,1,1,,,,0
-1158001200,Reading,Manchester City,1,0,,,,0
-1158407100,Charlton,Portsmouth,0,1,,,,0
-1158415200,Sheffield Utd,Reading,1,2,,,,0
-1158415200,Everton,Wigan,2,2,,,,0
-1158415200,Bolton,Middlesbrough,0,0,,,,0
-1158423300,Watford,Aston Villa,0,0,,,,0
-1158496200,Chelsea,Liverpool,1,0,,,,0
-1158501600,West Ham,Newcastle,0,2,,,,0
-1158501600,Tottenham,Fulham,0,0,,,,0
-1158501600,Blackburn,Manchester City,4,2,,,,0
-1158505200,Manchester Utd,Arsenal,0,1,,,,0
-1158778800,Liverpool,Newcastle,2,0,,,,0
-1159011900,Liverpool,Tottenham,3,0,,,,0
-1159020000,Wigan,Watford,1,1,,,,0
-1159020000,Middlesbrough,Blackburn,0,1,,,,0
-1159020000,Manchester City,West Ham,2,0,,,,0
-1159020000,Fulham,Chelsea,0,2,,,,0
-1159020000,Aston Villa,Charlton,2,0,,,,0
-1159020000,Arsenal,Sheffield Utd,3,0,,,,0
-1159028100,Reading,Manchester Utd,1,1,,,,0
-1159110000,Newcastle,Everton,1,1,,,,0
-1159210800,Portsmouth,Bolton,0,1,,,,0
-1159616700,Bolton,Liverpool,2,0,,,,0
-1159624800,Everton,Manchester City,1,1,,,,0
-1159624800,Chelsea,Aston Villa,1,1,,,,0
-1159624800,Charlton,Arsenal,1,2,,,,0
-1159632900,Sheffield Utd,Middlesbrough,2,1,,,,0
-1159707600,West Ham,Reading,0,1,,,,0
-1159711200,Manchester Utd,Newcastle,2,0,,,,0
-1159711200,Blackburn,Wigan,2,1,,,,0
-1159714800,Tottenham,Portsmouth,2,1,,,,0
-1159815600,Watford,Fulham,3,3,,,,0
-1160826300,Wigan,Manchester Utd,1,3,,,,0
-1160834400,Portsmouth,West Ham,2,0,,,,0
-1160834400,Middlesbrough,Everton,2,1,,,,0
-1160834400,Manchester City,Sheffield Utd,0,0,,,,0
-1160834400,Liverpool,Blackburn,1,1,,,,0
-1160834400,Aston Villa,Tottenham,1,1,,,,0
-1160834400,Arsenal,Watford,3,0,,,,0
-1160842500,Reading,Chelsea,0,1,,,,0
-1160924400,Newcastle,Bolton,1,2,,,,0
-1161025200,Fulham,Charlton,2,1,,,,0
-1161431100,Wigan,Manchester City,4,0,,,,0
-1161439200,Everton,Sheffield Utd,2,0,,,,0
-1161439200,Chelsea,Portsmouth,2,1,,,,0
-1161439200,Charlton,Watford,0,0,,,,0
-1161447300,Aston Villa,Fulham,1,1,,,,0
-1161518400,Manchester Utd,Liverpool,2,0,,,,0
-1161525600,Tottenham,West Ham,1,0,,,,0
-1161525600,Middlesbrough,Newcastle,1,0,,,,0
-1161525600,Blackburn,Bolton,0,1,,,,0
-1161529200,Reading,Arsenal,0,4,,,,0
-1162035900,Sheffield Utd,Chelsea,0,2,,,,0
-1162044000,Watford,Tottenham,0,0,,,,0
-1162044000,Portsmouth,Reading,3,1,,,,0
-1162044000,Liverpool,Aston Villa,3,1,,,,0
-1162044000,Fulham,Wigan,0,1,,,,0
-1162044000,Bolton,Manchester Utd,0,4,,,,0
-1162044000,Arsenal,Everton,1,1,,,,0
-1162052100,Newcastle,Charlton,0,0,,,,0
-1162137600,West Ham,Blackburn,2,1,,,,0
-1162238400,Manchester City,Middlesbrough,1,0,,,,0
-1162644300,Fulham,Everton,1,0,,,,0
-1162652400,Watford,Middlesbrough,2,0,,,,0
-1162652400,Manchester Utd,Portsmouth,3,0,,,,0
-1162652400,Liverpool,Reading,2,0,,,,0
-1162652400,Charlton,Manchester City,1,0,,,,0
-1162652400,Bolton,Wigan,0,1,,,,0
-1162660500,Newcastle,Sheffield Utd,0,1,,,,0
-1162733400,West Ham,Arsenal,1,0,,,,0
-1162735200,Aston Villa,Blackburn,2,0,,,,0
-1162742400,Tottenham,Chelsea,2,1,,,,0
-1163249100,Manchester City,Newcastle,0,0,,,,0
-1163257200,Wigan,Charlton,3,2,,,,0
-1163257200,Sheffield Utd,Bolton,2,2,,,,0
-1163257200,Portsmouth,Fulham,1,1,,,,0
-1163257200,Middlesbrough,West Ham,1,0,,,,0
-1163257200,Everton,Aston Villa,0,1,,,,0
-1163257200,Chelsea,Watford,4,0,,,,0
-1163265300,Blackburn,Manchester Utd,0,1,,,,0
-1163338200,Reading,Tottenham,3,1,,,,0
-1163347200,Arsenal,Liverpool,3,0,,,,0
-1163853900,Manchester City,Fulham,3,1,,,,0
-1163862000,Sheffield Utd,Manchester Utd,1,2,,,,0
-1163862000,Reading,Charlton,2,0,,,,0
-1163862000,Portsmouth,Watford,2,1,,,,0
-1163862000,Everton,Bolton,1,0,,,,0
-1163862000,Chelsea,West Ham,1,0,,,,0
-1163862000,Arsenal,Newcastle,1,1,,,,0
-1163870100,Middlesbrough,Liverpool,0,0,,,,0
-1163943000,Wigan,Aston Villa,0,0,,,,0
-1163952000,Blackburn,Tottenham,1,1,,,,0
-1164458700,Charlton,Everton,1,1,,,,0
-1164466800,West Ham,Sheffield Utd,1,0,,,,0
-1164466800,Liverpool,Manchester City,1,0,,,,0
-1164466800,Fulham,Reading,0,1,,,,0
-1164466800,Aston Villa,Middlesbrough,1,1,,,,0
-1164474900,Bolton,Arsenal,3,1,,,,0
-1164547800,Newcastle,Portsmouth,1,0,,,,0
-1164553200,Tottenham,Wigan,3,1,,,,0
-1164556800,Manchester Utd,Chelsea,1,1,,,,0
-1164744000,Watford,Sheffield Utd,0,1,,,,0
-1164829500,Fulham,Arsenal,2,1,,,,0
-1164829500,Aston Villa,Manchester City,1,3,,,,0
-1164830400,Manchester Utd,Everton,3,0,,,,0
-1164830400,Liverpool,Portsmouth,0,0,,,,0
-1164830400,Bolton,Chelsea,0,1,,,,0
-1165063500,Arsenal,Tottenham,3,0,,,,0
-1165071600,Wigan,Liverpool,0,4,,,,0
-1165071600,Sheffield Utd,Charlton,2,1,,,,0
-1165071600,Reading,Bolton,1,0,,,,0
-1165071600,Portsmouth,Aston Villa,2,2,,,,0
-1165071600,Blackburn,Fulham,2,0,,,,0
-1165079700,Middlesbrough,Manchester Utd,1,2,,,,0
-1165161600,Everton,West Ham,2,0,,,,0
-1165262400,Manchester City,Watford,0,0,,,,0
-1165348800,Tottenham,Middlesbrough,2,1,,,,0
-1165348800,Charlton,Blackburn,1,0,,,,0
-1165434300,West Ham,Wigan,0,2,,,,0
-1165434300,Newcastle,Reading,3,2,,,,0
-1165668300,Manchester Utd,Manchester City,3,1,,,,0
-1165676400,Watford,Reading,0,0,,,,0
-1165676400,Tottenham,Charlton,5,1,,,,0
-1165676400,Portsmouth,Everton,2,0,,,,0
-1165676400,Middlesbrough,Wigan,1,1,,,,0
-1165676400,Liverpool,Fulham,4,0,,,,0
-1165676400,Blackburn,Newcastle,1,3,,,,0
-1165684500,Bolton,West Ham,4,0,,,,0
-1165766400,Chelsea,Arsenal,1,1,,,,0
-1165867200,Sheffield Utd,Aston Villa,2,2,,,,0
-1166039100,Wigan,Arsenal,0,1,,,,0
-1166039100,Chelsea,Newcastle,1,0,,,,0
-1166273100,Charlton,Liverpool,0,3,,,,0
-1166281200,Wigan,Sheffield Utd,0,1,,,,0
-1166281200,Reading,Blackburn,1,2,,,,0
-1166281200,Newcastle,Watford,2,1,,,,0
-1166281200,Arsenal,Portsmouth,2,2,,,,0
-1166289300,Aston Villa,Bolton,0,1,,,,0
-1166363100,Everton,Chelsea,2,3,,,,0
-1166367600,Manchester City,Tottenham,1,2,,,,0
-1166371200,West Ham,Manchester Utd,1,0,,,,0
-1166472000,Fulham,Middlesbrough,2,1,,,,0
-1166877900,Fulham,West Ham,0,0,,,,0
-1166886000,Reading,Everton,0,2,,,,0
-1166886000,Portsmouth,Sheffield Utd,3,1,,,,0
-1166886000,Newcastle,Tottenham,3,1,,,,0
-1166886000,Middlesbrough,Charlton,2,0,,,,0
-1166886000,Manchester City,Bolton,0,2,,,,0
-1166886000,Liverpool,Watford,2,0,,,,0
-1166886000,Aston Villa,Manchester Utd,0,3,,,,0
-1166886000,Arsenal,Blackburn,6,2,,,,0
-1166894100,Wigan,Chelsea,2,3,,,,0
-1167138000,West Ham,Portsmouth,1,2,,,,0
-1167138000,Tottenham,Aston Villa,2,1,,,,0
-1167138000,Chelsea,Reading,2,2,,,,0
-1167145200,Sheffield Utd,Manchester City,0,1,,,,0
-1167145200,Manchester Utd,Wigan,3,1,,,,0
-1167145200,Everton,Middlesbrough,0,0,,,,0
-1167145200,Bolton,Newcastle,2,1,,,,0
-1167145200,Blackburn,Liverpool,1,0,,,,0
-1167154200,Watford,Arsenal,1,2,,,,0
-1167249600,Charlton,Fulham,2,2,,,,0
-1167482700,Charlton,Aston Villa,2,1,,,,0
-1167490800,West Ham,Manchester City,0,1,,,,0
-1167490800,Tottenham,Liverpool,0,1,,,,0
-1167490800,Manchester Utd,Reading,3,2,,,,0
-1167490800,Everton,Newcastle,3,0,,,,0
-1167490800,Chelsea,Fulham,2,2,,,,0
-1167490800,Bolton,Portsmouth,3,2,,,,0
-1167490800,Blackburn,Middlesbrough,2,1,,,,0
-1167498900,Sheffield Utd,Arsenal,1,0,,,,0
-1167655500,Liverpool,Bolton,3,0,,,,0
-1167663600,Wigan,Blackburn,0,3,,,,0
-1167663600,Reading,West Ham,6,0,,,,0
-1167663600,Portsmouth,Tottenham,1,1,,,,0
-1167663600,Middlesbrough,Sheffield Utd,3,1,,,,0
-1167663600,Manchester City,Everton,2,1,,,,0
-1167663600,Fulham,Watford,0,0,,,,0
-1167671700,Newcastle,Manchester Utd,2,2,,,,0
-1167767100,Arsenal,Charlton,4,0,,,,0
-1167768000,Aston Villa,Chelsea,0,0,,,,0
-1168692300,Watford,Liverpool,0,3,,,,0
-1168700400,West Ham,Fulham,3,3,,,,0
-1168700400,Sheffield Utd,Portsmouth,1,1,,,,0
-1168700400,Manchester Utd,Aston Villa,3,1,,,,0
-1168700400,Chelsea,Wigan,4,0,,,,0
-1168700400,Charlton,Middlesbrough,1,3,,,,0
-1168700400,Bolton,Manchester City,0,0,,,,0
-1168708500,Blackburn,Arsenal,0,2,,,,0
-1168782300,Everton,Reading,1,1,,,,0
-1168790400,Tottenham,Newcastle,2,3,,,,0
-1169297100,Liverpool,Chelsea,2,0,,,,0
-1169305200,Reading,Sheffield Utd,3,1,,,,0
-1169305200,Portsmouth,Charlton,0,1,,,,0
-1169305200,Newcastle,West Ham,2,2,,,,0
-1169305200,Middlesbrough,Bolton,5,1,,,,0
-1169305200,Fulham,Tottenham,1,1,,,,0
-1169305200,Aston Villa,Watford,2,0,,,,0
-1169313300,Manchester City,Blackburn,0,3,,,,0
-1169386200,Wigan,Everton,0,2,,,,0
-1169395200,Arsenal,Manchester Utd,2,1,,,,0
-1169581500,Watford,Blackburn,2,1,,,,0
-1170186300,West Ham,Liverpool,1,2,,,,0
-1170186300,Sheffield Utd,Fulham,2,0,,,,0
-1170186300,Portsmouth,Middlesbrough,0,0,,,,0
-1170187200,Reading,Wigan,3,2,,,,0
-1170272700,Chelsea,Blackburn,3,0,,,,0
-1170273600,Newcastle,Aston Villa,3,1,,,,0
-1170273600,Manchester Utd,Watford,4,0,,,,0
-1170273600,Bolton,Charlton,1,1,,,,0
-1170506700,Liverpool,Everton,0,0,,,,0
-1170514800,Wigan,Portsmouth,1,0,,,,0
-1170514800,Watford,Bolton,0,1,,,,0
-1170514800,Manchester City,Reading,0,2,,,,0
-1170514800,Fulham,Newcastle,2,1,,,,0
-1170514800,Charlton,Chelsea,0,1,,,,0
-1170514800,Blackburn,Sheffield Utd,2,1,,,,0
-1170514800,Aston Villa,West Ham,1,0,,,,0
-1170522900,Middlesbrough,Arsenal,1,1,,,,0
-1170604800,Tottenham,Manchester Utd,0,4,,,,0
-1171111500,Reading,Aston Villa,2,0,,,,0
-1171119600,West Ham,Watford,0,1,,,,0
-1171119600,Sheffield Utd,Tottenham,2,1,,,,0
-1171119600,Newcastle,Liverpool,2,1,,,,0
-1171119600,Manchester Utd,Charlton,2,0,,,,0
-1171119600,Everton,Blackburn,1,0,,,,0
-1171119600,Chelsea,Middlesbrough,3,0,,,,0
-1171127700,Portsmouth,Manchester City,2,1,,,,0
-1171200600,Bolton,Fulham,2,1,,,,0
-1171209600,Arsenal,Wigan,2,1,,,,0
-1172087100,Watford,Wigan,1,1,,,,0
-1172088000,Everton,Tottenham,1,2,,,,0
-1172321100,Fulham,Manchester Utd,1,2,,,,0
-1172329200,Middlesbrough,Reading,2,1,,,,0
-1172329200,Liverpool,Sheffield Utd,4,0,,,,0
-1172329200,Charlton,West Ham,4,0,,,,0
-1172337300,Watford,Everton,0,3,,,,0
-1172408400,Wigan,Newcastle,1,0,,,,0
-1172415600,Tottenham,Bolton,4,1,,,,0
-1172415600,Blackburn,Portsmouth,3,0,,,,0
-1172925900,Liverpool,Manchester Utd,0,1,,,,0
-1172934000,Watford,Charlton,2,2,,,,0
-1172934000,Sheffield Utd,Everton,1,1,,,,0
-1172934000,Newcastle,Middlesbrough,0,0,,,,0
-1172934000,Manchester City,Wigan,0,1,,,,0
-1172934000,Fulham,Aston Villa,1,1,,,,0
-1172934000,Arsenal,Reading,2,1,,,,0
-1172942100,Portsmouth,Chelsea,0,2,,,,0
-1173015300,Bolton,Blackburn,1,2,,,,0
-1173024000,West Ham,Tottenham,3,4,,,,0
-1173901500,Aston Villa,Arsenal,0,1,,,,0
-1173902400,Manchester City,Chelsea,0,1,,,,0
-1174135500,Manchester Utd,Bolton,4,1,,,,0
-1174143600,Wigan,Fulham,0,0,,,,0
-1174143600,Tottenham,Watford,3,1,,,,0
-1174143600,Reading,Portsmouth,0,0,,,,0
-1174143600,Middlesbrough,Manchester City,0,2,,,,0
-1174143600,Chelsea,Sheffield Utd,3,0,,,,0
-1174151700,Blackburn,West Ham,1,2,,,,0
-1174224600,Charlton,Newcastle,2,0,,,,0
-1174224900,Aston Villa,Liverpool,0,0,,,,0
-1174233600,Everton,Arsenal,1,0,,,,0
-1175341500,Liverpool,Arsenal,4,1,,,,0
-1175349600,West Ham,Middlesbrough,2,0,,,,0
-1175349600,Newcastle,Manchester City,0,1,,,,0
-1175349600,Manchester Utd,Blackburn,4,1,,,,0
-1175349600,Fulham,Portsmouth,1,1,,,,0
-1175349600,Charlton,Wigan,1,0,,,,0
-1175349600,Bolton,Sheffield Utd,1,0,,,,0
-1175357700,Watford,Chelsea,0,1,,,,0
-1175439600,Tottenham,Reading,1,0,,,,0
-1175540400,Aston Villa,Everton,1,1,,,,0
-1175876100,Manchester City,Charlton,0,0,,,,0
-1175884200,Everton,Fulham,4,1,,,,0
-1175946300,Chelsea,Tottenham,1,0,,,,0
-1175954400,Wigan,Bolton,1,3,,,,0
-1175954400,Sheffield Utd,Newcastle,1,2,,,,0
-1175954400,Reading,Liverpool,1,2,,,,0
-1175954400,Middlesbrough,Watford,4,1,,,,0
-1175954400,Blackburn,Aston Villa,1,2,,,,0
-1175954400,Arsenal,West Ham,0,1,,,,0
-1175962500,Portsmouth,Manchester Utd,2,1,,,,0
-1176119100,Watford,Portsmouth,4,2,,,,0
-1176127200,Newcastle,Arsenal,0,0,,,,0
-1176127200,Fulham,Manchester City,1,3,,,,0
-1176127200,Bolton,Everton,1,1,,,,0
-1176127200,Aston Villa,Wigan,1,1,,,,0
-1176145200,Charlton,Reading,0,0,,,,0
-1176559200,Sheffield Utd,West Ham,3,0,,,,0
-1176559200,Reading,Fulham,1,0,,,,0
-1176559200,Portsmouth,Newcastle,2,1,,,,0
-1176559200,Middlesbrough,Aston Villa,1,3,,,,0
-1176559200,Manchester City,Liverpool,0,0,,,,0
-1176559200,Arsenal,Bolton,2,1,,,,0
-1176640200,Wigan,Tottenham,3,3,,,,0
-1176645600,Everton,Charlton,2,1,,,,0
-1176835500,Arsenal,Manchester City,3,1,,,,0
-1176836400,Manchester Utd,Sheffield Utd,2,0,,,,0
-1176922800,West Ham,Chelsea,1,4,,,,0
-1176922800,Liverpool,Middlesbrough,2,0,,,,0
-1176922800,Blackburn,Watford,3,1,,,,0
-1177155900,Tottenham,Arsenal,2,2,,,,0
-1177164000,West Ham,Everton,1,0,,,,0
-1177164000,Watford,Manchester City,1,1,,,,0
-1177164000,Liverpool,Wigan,2,0,,,,0
-1177164000,Fulham,Blackburn,1,1,,,,0
-1177164000,Charlton,Sheffield Utd,1,1,,,,0
-1177164000,Bolton,Reading,1,3,,,,0
-1177172100,Manchester Utd,Middlesbrough,1,1,,,,0
-1177245000,Newcastle,Chelsea,0,0,,,,0
-1177254000,Aston Villa,Portsmouth,0,0,,,,0
-1177760700,Everton,Manchester Utd,2,4,,,,0
-1177760700,Chelsea,Bolton,2,2,,,,0
-1177768800,Wigan,West Ham,0,3,,,,0
-1177768800,Sheffield Utd,Watford,1,0,,,,0
-1177768800,Portsmouth,Liverpool,2,1,,,,0
-1177768800,Middlesbrough,Tottenham,2,3,,,,0
-1177768800,Manchester City,Aston Villa,0,2,,,,0
-1177768800,Blackburn,Charlton,4,1,,,,0
-1177858800,Arsenal,Fulham,3,1,,,,0
-1177959600,Reading,Newcastle,1,0,,,,0
-1178365500,Manchester City,Manchester Utd,0,1,,,,0
-1178373600,Wigan,Middlesbrough,0,1,,,,0
-1178373600,West Ham,Bolton,3,1,,,,0
-1178373600,Reading,Watford,0,2,,,,0
-1178373600,Newcastle,Blackburn,0,2,,,,0
-1178373600,Fulham,Liverpool,1,0,,,,0
-1178373600,Everton,Portsmouth,3,0,,,,0
-1178381700,Aston Villa,Sheffield Utd,3,0,,,,0
-1178463600,Arsenal,Chelsea,1,1,,,,0
-1178564400,Charlton,Tottenham,0,2,,,,0
-1178737200,Chelsea,Manchester Utd,0,0,,,,0
-1178823600,Tottenham,Blackburn,1,1,,,,0
-1179064800,Watford,Newcastle,1,1,,,,0
-1179064800,Tottenham,Manchester City,2,1,,,,0
-1179064800,Sheffield Utd,Wigan,1,2,,,,0
-1179064800,Portsmouth,Arsenal,0,0,,,,0
-1179064800,Middlesbrough,Fulham,3,1,,,,0
-1179064800,Manchester Utd,West Ham,0,1,,,,0
-1179064800,Liverpool,Charlton,2,2,,,,0
-1179064800,Chelsea,Everton,1,1,,,,0
-1179064800,Bolton,Aston Villa,2,2,,,,0
-1179064800,Blackburn,Reading,3,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1155987900,Sheffield Utd,Liverpool,K2FpWLH3,KCp4zq5F,1,1,,,,0
+1155996000,West Ham,Charlton,Q9DJHs4l,6FckE7BN,3,1,,,,0
+1155996000,Reading,Middlesbrough,dvLIfKqM,vcNAdtF9,3,2,,,,0
+1155996000,Portsmouth,Blackburn,nkTKkN30,ImMEe0UF,3,0,,,,0
+1155996000,Newcastle,Wigan,ImMEe0UF,dvLIfKqM,2,1,,,,0
+1155996000,Everton,Watford,bRmKmISE,QHkJrpz6,2,1,,,,0
+1155996000,Arsenal,Aston Villa,vcNAdtF9,jwz95gs0,1,1,,,,0
+1156004100,Bolton,Tottenham,bJFnYpTt,Ig5FKJZ5,2,0,,,,0
+1156077000,Manchester Utd,Fulham,h2pPXz3k,ImMEe0UF,5,1,,,,0
+1156086000,Chelsea,Manchester City,IROrZEJb,lQuhqN8N,3,0,,,,0
+1156272300,Watford,West Ham,QHkJrpz6,Q9DJHs4l,1,1,,,,0
+1156273200,Tottenham,Sheffield Utd,Ig5FKJZ5,K2FpWLH3,2,0,,,,0
+1156358700,Manchester City,Portsmouth,lQuhqN8N,nkTKkN30,0,0,,,,0
+1156358700,Blackburn,Everton,ImMEe0UF,bRmKmISE,1,1,,,,0
+1156358700,Aston Villa,Reading,jwz95gs0,dvLIfKqM,2,1,,,,0
+1156359600,Middlesbrough,Chelsea,vcNAdtF9,IROrZEJb,2,1,,,,0
+1156359600,Fulham,Bolton,ImMEe0UF,bJFnYpTt,1,1,,,,0
+1156359600,Charlton,Manchester Utd,6FckE7BN,h2pPXz3k,0,3,,,,0
+1156592700,Liverpool,West Ham,KCp4zq5F,Q9DJHs4l,2,1,,,,0
+1156600800,Wigan,Reading,dvLIfKqM,dvLIfKqM,1,0,,,,0
+1156600800,Watford,Manchester Utd,QHkJrpz6,h2pPXz3k,1,2,,,,0
+1156600800,Tottenham,Everton,Ig5FKJZ5,bRmKmISE,0,2,,,,0
+1156600800,Fulham,Sheffield Utd,ImMEe0UF,K2FpWLH3,1,0,,,,0
+1156600800,Charlton,Bolton,6FckE7BN,bJFnYpTt,2,0,,,,0
+1156608900,Manchester City,Arsenal,lQuhqN8N,vcNAdtF9,1,0,,,,0
+1156683600,Aston Villa,Newcastle,jwz95gs0,ImMEe0UF,2,0,,,,0
+1156690800,Blackburn,Chelsea,ImMEe0UF,IROrZEJb,0,2,,,,0
+1156791600,Middlesbrough,Portsmouth,vcNAdtF9,nkTKkN30,0,4,,,,0
+1157802300,Everton,Liverpool,bRmKmISE,KCp4zq5F,3,0,,,,0
+1157810400,Sheffield Utd,Blackburn,K2FpWLH3,ImMEe0UF,0,0,,,,0
+1157810400,Portsmouth,Wigan,nkTKkN30,dvLIfKqM,1,0,,,,0
+1157810400,Newcastle,Fulham,ImMEe0UF,ImMEe0UF,1,2,,,,0
+1157810400,Chelsea,Charlton,IROrZEJb,6FckE7BN,2,1,,,,0
+1157810400,Bolton,Watford,bJFnYpTt,QHkJrpz6,1,0,,,,0
+1157810400,Arsenal,Middlesbrough,vcNAdtF9,vcNAdtF9,1,1,,,,0
+1157818500,Manchester Utd,Tottenham,h2pPXz3k,Ig5FKJZ5,1,0,,,,0
+1157900400,West Ham,Aston Villa,Q9DJHs4l,jwz95gs0,1,1,,,,0
+1158001200,Reading,Manchester City,dvLIfKqM,lQuhqN8N,1,0,,,,0
+1158407100,Charlton,Portsmouth,6FckE7BN,nkTKkN30,0,1,,,,0
+1158415200,Sheffield Utd,Reading,K2FpWLH3,dvLIfKqM,1,2,,,,0
+1158415200,Everton,Wigan,bRmKmISE,dvLIfKqM,2,2,,,,0
+1158415200,Bolton,Middlesbrough,bJFnYpTt,vcNAdtF9,0,0,,,,0
+1158423300,Watford,Aston Villa,QHkJrpz6,jwz95gs0,0,0,,,,0
+1158496200,Chelsea,Liverpool,IROrZEJb,KCp4zq5F,1,0,,,,0
+1158501600,West Ham,Newcastle,Q9DJHs4l,ImMEe0UF,0,2,,,,0
+1158501600,Tottenham,Fulham,Ig5FKJZ5,ImMEe0UF,0,0,,,,0
+1158501600,Blackburn,Manchester City,ImMEe0UF,lQuhqN8N,4,2,,,,0
+1158505200,Manchester Utd,Arsenal,h2pPXz3k,vcNAdtF9,0,1,,,,0
+1158778800,Liverpool,Newcastle,KCp4zq5F,ImMEe0UF,2,0,,,,0
+1159011900,Liverpool,Tottenham,KCp4zq5F,Ig5FKJZ5,3,0,,,,0
+1159020000,Wigan,Watford,dvLIfKqM,QHkJrpz6,1,1,,,,0
+1159020000,Middlesbrough,Blackburn,vcNAdtF9,ImMEe0UF,0,1,,,,0
+1159020000,Manchester City,West Ham,lQuhqN8N,Q9DJHs4l,2,0,,,,0
+1159020000,Fulham,Chelsea,ImMEe0UF,IROrZEJb,0,2,,,,0
+1159020000,Aston Villa,Charlton,jwz95gs0,6FckE7BN,2,0,,,,0
+1159020000,Arsenal,Sheffield Utd,vcNAdtF9,K2FpWLH3,3,0,,,,0
+1159028100,Reading,Manchester Utd,dvLIfKqM,h2pPXz3k,1,1,,,,0
+1159110000,Newcastle,Everton,ImMEe0UF,bRmKmISE,1,1,,,,0
+1159210800,Portsmouth,Bolton,nkTKkN30,bJFnYpTt,0,1,,,,0
+1159616700,Bolton,Liverpool,bJFnYpTt,KCp4zq5F,2,0,,,,0
+1159624800,Everton,Manchester City,bRmKmISE,lQuhqN8N,1,1,,,,0
+1159624800,Chelsea,Aston Villa,IROrZEJb,jwz95gs0,1,1,,,,0
+1159624800,Charlton,Arsenal,6FckE7BN,vcNAdtF9,1,2,,,,0
+1159632900,Sheffield Utd,Middlesbrough,K2FpWLH3,vcNAdtF9,2,1,,,,0
+1159707600,West Ham,Reading,Q9DJHs4l,dvLIfKqM,0,1,,,,0
+1159711200,Manchester Utd,Newcastle,h2pPXz3k,ImMEe0UF,2,0,,,,0
+1159711200,Blackburn,Wigan,ImMEe0UF,dvLIfKqM,2,1,,,,0
+1159714800,Tottenham,Portsmouth,Ig5FKJZ5,nkTKkN30,2,1,,,,0
+1159815600,Watford,Fulham,QHkJrpz6,ImMEe0UF,3,3,,,,0
+1160826300,Wigan,Manchester Utd,dvLIfKqM,h2pPXz3k,1,3,,,,0
+1160834400,Portsmouth,West Ham,nkTKkN30,Q9DJHs4l,2,0,,,,0
+1160834400,Middlesbrough,Everton,vcNAdtF9,bRmKmISE,2,1,,,,0
+1160834400,Manchester City,Sheffield Utd,lQuhqN8N,K2FpWLH3,0,0,,,,0
+1160834400,Liverpool,Blackburn,KCp4zq5F,ImMEe0UF,1,1,,,,0
+1160834400,Aston Villa,Tottenham,jwz95gs0,Ig5FKJZ5,1,1,,,,0
+1160834400,Arsenal,Watford,vcNAdtF9,QHkJrpz6,3,0,,,,0
+1160842500,Reading,Chelsea,dvLIfKqM,IROrZEJb,0,1,,,,0
+1160924400,Newcastle,Bolton,ImMEe0UF,bJFnYpTt,1,2,,,,0
+1161025200,Fulham,Charlton,ImMEe0UF,6FckE7BN,2,1,,,,0
+1161431100,Wigan,Manchester City,dvLIfKqM,lQuhqN8N,4,0,,,,0
+1161439200,Everton,Sheffield Utd,bRmKmISE,K2FpWLH3,2,0,,,,0
+1161439200,Chelsea,Portsmouth,IROrZEJb,nkTKkN30,2,1,,,,0
+1161439200,Charlton,Watford,6FckE7BN,QHkJrpz6,0,0,,,,0
+1161447300,Aston Villa,Fulham,jwz95gs0,ImMEe0UF,1,1,,,,0
+1161518400,Manchester Utd,Liverpool,h2pPXz3k,KCp4zq5F,2,0,,,,0
+1161525600,Tottenham,West Ham,Ig5FKJZ5,Q9DJHs4l,1,0,,,,0
+1161525600,Middlesbrough,Newcastle,vcNAdtF9,ImMEe0UF,1,0,,,,0
+1161525600,Blackburn,Bolton,ImMEe0UF,bJFnYpTt,0,1,,,,0
+1161529200,Reading,Arsenal,dvLIfKqM,vcNAdtF9,0,4,,,,0
+1162035900,Sheffield Utd,Chelsea,K2FpWLH3,IROrZEJb,0,2,,,,0
+1162044000,Watford,Tottenham,QHkJrpz6,Ig5FKJZ5,0,0,,,,0
+1162044000,Portsmouth,Reading,nkTKkN30,dvLIfKqM,3,1,,,,0
+1162044000,Liverpool,Aston Villa,KCp4zq5F,jwz95gs0,3,1,,,,0
+1162044000,Fulham,Wigan,ImMEe0UF,dvLIfKqM,0,1,,,,0
+1162044000,Bolton,Manchester Utd,bJFnYpTt,h2pPXz3k,0,4,,,,0
+1162044000,Arsenal,Everton,vcNAdtF9,bRmKmISE,1,1,,,,0
+1162052100,Newcastle,Charlton,ImMEe0UF,6FckE7BN,0,0,,,,0
+1162137600,West Ham,Blackburn,Q9DJHs4l,ImMEe0UF,2,1,,,,0
+1162238400,Manchester City,Middlesbrough,lQuhqN8N,vcNAdtF9,1,0,,,,0
+1162644300,Fulham,Everton,ImMEe0UF,bRmKmISE,1,0,,,,0
+1162652400,Watford,Middlesbrough,QHkJrpz6,vcNAdtF9,2,0,,,,0
+1162652400,Manchester Utd,Portsmouth,h2pPXz3k,nkTKkN30,3,0,,,,0
+1162652400,Liverpool,Reading,KCp4zq5F,dvLIfKqM,2,0,,,,0
+1162652400,Charlton,Manchester City,6FckE7BN,lQuhqN8N,1,0,,,,0
+1162652400,Bolton,Wigan,bJFnYpTt,dvLIfKqM,0,1,,,,0
+1162660500,Newcastle,Sheffield Utd,ImMEe0UF,K2FpWLH3,0,1,,,,0
+1162733400,West Ham,Arsenal,Q9DJHs4l,vcNAdtF9,1,0,,,,0
+1162735200,Aston Villa,Blackburn,jwz95gs0,ImMEe0UF,2,0,,,,0
+1162742400,Tottenham,Chelsea,Ig5FKJZ5,IROrZEJb,2,1,,,,0
+1163249100,Manchester City,Newcastle,lQuhqN8N,ImMEe0UF,0,0,,,,0
+1163257200,Wigan,Charlton,dvLIfKqM,6FckE7BN,3,2,,,,0
+1163257200,Sheffield Utd,Bolton,K2FpWLH3,bJFnYpTt,2,2,,,,0
+1163257200,Portsmouth,Fulham,nkTKkN30,ImMEe0UF,1,1,,,,0
+1163257200,Middlesbrough,West Ham,vcNAdtF9,Q9DJHs4l,1,0,,,,0
+1163257200,Everton,Aston Villa,bRmKmISE,jwz95gs0,0,1,,,,0
+1163257200,Chelsea,Watford,IROrZEJb,QHkJrpz6,4,0,,,,0
+1163265300,Blackburn,Manchester Utd,ImMEe0UF,h2pPXz3k,0,1,,,,0
+1163338200,Reading,Tottenham,dvLIfKqM,Ig5FKJZ5,3,1,,,,0
+1163347200,Arsenal,Liverpool,vcNAdtF9,KCp4zq5F,3,0,,,,0
+1163853900,Manchester City,Fulham,lQuhqN8N,ImMEe0UF,3,1,,,,0
+1163862000,Sheffield Utd,Manchester Utd,K2FpWLH3,h2pPXz3k,1,2,,,,0
+1163862000,Reading,Charlton,dvLIfKqM,6FckE7BN,2,0,,,,0
+1163862000,Portsmouth,Watford,nkTKkN30,QHkJrpz6,2,1,,,,0
+1163862000,Everton,Bolton,bRmKmISE,bJFnYpTt,1,0,,,,0
+1163862000,Chelsea,West Ham,IROrZEJb,Q9DJHs4l,1,0,,,,0
+1163862000,Arsenal,Newcastle,vcNAdtF9,ImMEe0UF,1,1,,,,0
+1163870100,Middlesbrough,Liverpool,vcNAdtF9,KCp4zq5F,0,0,,,,0
+1163943000,Wigan,Aston Villa,dvLIfKqM,jwz95gs0,0,0,,,,0
+1163952000,Blackburn,Tottenham,ImMEe0UF,Ig5FKJZ5,1,1,,,,0
+1164458700,Charlton,Everton,6FckE7BN,bRmKmISE,1,1,,,,0
+1164466800,West Ham,Sheffield Utd,Q9DJHs4l,K2FpWLH3,1,0,,,,0
+1164466800,Liverpool,Manchester City,KCp4zq5F,lQuhqN8N,1,0,,,,0
+1164466800,Fulham,Reading,ImMEe0UF,dvLIfKqM,0,1,,,,0
+1164466800,Aston Villa,Middlesbrough,jwz95gs0,vcNAdtF9,1,1,,,,0
+1164474900,Bolton,Arsenal,bJFnYpTt,vcNAdtF9,3,1,,,,0
+1164547800,Newcastle,Portsmouth,ImMEe0UF,nkTKkN30,1,0,,,,0
+1164553200,Tottenham,Wigan,Ig5FKJZ5,dvLIfKqM,3,1,,,,0
+1164556800,Manchester Utd,Chelsea,h2pPXz3k,IROrZEJb,1,1,,,,0
+1164744000,Watford,Sheffield Utd,QHkJrpz6,K2FpWLH3,0,1,,,,0
+1164829500,Fulham,Arsenal,ImMEe0UF,vcNAdtF9,2,1,,,,0
+1164829500,Aston Villa,Manchester City,jwz95gs0,lQuhqN8N,1,3,,,,0
+1164830400,Manchester Utd,Everton,h2pPXz3k,bRmKmISE,3,0,,,,0
+1164830400,Liverpool,Portsmouth,KCp4zq5F,nkTKkN30,0,0,,,,0
+1164830400,Bolton,Chelsea,bJFnYpTt,IROrZEJb,0,1,,,,0
+1165063500,Arsenal,Tottenham,vcNAdtF9,Ig5FKJZ5,3,0,,,,0
+1165071600,Wigan,Liverpool,dvLIfKqM,KCp4zq5F,0,4,,,,0
+1165071600,Sheffield Utd,Charlton,K2FpWLH3,6FckE7BN,2,1,,,,0
+1165071600,Reading,Bolton,dvLIfKqM,bJFnYpTt,1,0,,,,0
+1165071600,Portsmouth,Aston Villa,nkTKkN30,jwz95gs0,2,2,,,,0
+1165071600,Blackburn,Fulham,ImMEe0UF,ImMEe0UF,2,0,,,,0
+1165079700,Middlesbrough,Manchester Utd,vcNAdtF9,h2pPXz3k,1,2,,,,0
+1165161600,Everton,West Ham,bRmKmISE,Q9DJHs4l,2,0,,,,0
+1165262400,Manchester City,Watford,lQuhqN8N,QHkJrpz6,0,0,,,,0
+1165348800,Tottenham,Middlesbrough,Ig5FKJZ5,vcNAdtF9,2,1,,,,0
+1165348800,Charlton,Blackburn,6FckE7BN,ImMEe0UF,1,0,,,,0
+1165434300,West Ham,Wigan,Q9DJHs4l,dvLIfKqM,0,2,,,,0
+1165434300,Newcastle,Reading,ImMEe0UF,dvLIfKqM,3,2,,,,0
+1165668300,Manchester Utd,Manchester City,h2pPXz3k,lQuhqN8N,3,1,,,,0
+1165676400,Watford,Reading,QHkJrpz6,dvLIfKqM,0,0,,,,0
+1165676400,Tottenham,Charlton,Ig5FKJZ5,6FckE7BN,5,1,,,,0
+1165676400,Portsmouth,Everton,nkTKkN30,bRmKmISE,2,0,,,,0
+1165676400,Middlesbrough,Wigan,vcNAdtF9,dvLIfKqM,1,1,,,,0
+1165676400,Liverpool,Fulham,KCp4zq5F,ImMEe0UF,4,0,,,,0
+1165676400,Blackburn,Newcastle,ImMEe0UF,ImMEe0UF,1,3,,,,0
+1165684500,Bolton,West Ham,bJFnYpTt,Q9DJHs4l,4,0,,,,0
+1165766400,Chelsea,Arsenal,IROrZEJb,vcNAdtF9,1,1,,,,0
+1165867200,Sheffield Utd,Aston Villa,K2FpWLH3,jwz95gs0,2,2,,,,0
+1166039100,Wigan,Arsenal,dvLIfKqM,vcNAdtF9,0,1,,,,0
+1166039100,Chelsea,Newcastle,IROrZEJb,ImMEe0UF,1,0,,,,0
+1166273100,Charlton,Liverpool,6FckE7BN,KCp4zq5F,0,3,,,,0
+1166281200,Wigan,Sheffield Utd,dvLIfKqM,K2FpWLH3,0,1,,,,0
+1166281200,Reading,Blackburn,dvLIfKqM,ImMEe0UF,1,2,,,,0
+1166281200,Newcastle,Watford,ImMEe0UF,QHkJrpz6,2,1,,,,0
+1166281200,Arsenal,Portsmouth,vcNAdtF9,nkTKkN30,2,2,,,,0
+1166289300,Aston Villa,Bolton,jwz95gs0,bJFnYpTt,0,1,,,,0
+1166363100,Everton,Chelsea,bRmKmISE,IROrZEJb,2,3,,,,0
+1166367600,Manchester City,Tottenham,lQuhqN8N,Ig5FKJZ5,1,2,,,,0
+1166371200,West Ham,Manchester Utd,Q9DJHs4l,h2pPXz3k,1,0,,,,0
+1166472000,Fulham,Middlesbrough,ImMEe0UF,vcNAdtF9,2,1,,,,0
+1166877900,Fulham,West Ham,ImMEe0UF,Q9DJHs4l,0,0,,,,0
+1166886000,Reading,Everton,dvLIfKqM,bRmKmISE,0,2,,,,0
+1166886000,Portsmouth,Sheffield Utd,nkTKkN30,K2FpWLH3,3,1,,,,0
+1166886000,Newcastle,Tottenham,ImMEe0UF,Ig5FKJZ5,3,1,,,,0
+1166886000,Middlesbrough,Charlton,vcNAdtF9,6FckE7BN,2,0,,,,0
+1166886000,Manchester City,Bolton,lQuhqN8N,bJFnYpTt,0,2,,,,0
+1166886000,Liverpool,Watford,KCp4zq5F,QHkJrpz6,2,0,,,,0
+1166886000,Aston Villa,Manchester Utd,jwz95gs0,h2pPXz3k,0,3,,,,0
+1166886000,Arsenal,Blackburn,vcNAdtF9,ImMEe0UF,6,2,,,,0
+1166894100,Wigan,Chelsea,dvLIfKqM,IROrZEJb,2,3,,,,0
+1167138000,West Ham,Portsmouth,Q9DJHs4l,nkTKkN30,1,2,,,,0
+1167138000,Tottenham,Aston Villa,Ig5FKJZ5,jwz95gs0,2,1,,,,0
+1167138000,Chelsea,Reading,IROrZEJb,dvLIfKqM,2,2,,,,0
+1167145200,Sheffield Utd,Manchester City,K2FpWLH3,lQuhqN8N,0,1,,,,0
+1167145200,Manchester Utd,Wigan,h2pPXz3k,dvLIfKqM,3,1,,,,0
+1167145200,Everton,Middlesbrough,bRmKmISE,vcNAdtF9,0,0,,,,0
+1167145200,Bolton,Newcastle,bJFnYpTt,ImMEe0UF,2,1,,,,0
+1167145200,Blackburn,Liverpool,ImMEe0UF,KCp4zq5F,1,0,,,,0
+1167154200,Watford,Arsenal,QHkJrpz6,vcNAdtF9,1,2,,,,0
+1167249600,Charlton,Fulham,6FckE7BN,ImMEe0UF,2,2,,,,0
+1167482700,Charlton,Aston Villa,6FckE7BN,jwz95gs0,2,1,,,,0
+1167490800,West Ham,Manchester City,Q9DJHs4l,lQuhqN8N,0,1,,,,0
+1167490800,Tottenham,Liverpool,Ig5FKJZ5,KCp4zq5F,0,1,,,,0
+1167490800,Manchester Utd,Reading,h2pPXz3k,dvLIfKqM,3,2,,,,0
+1167490800,Everton,Newcastle,bRmKmISE,ImMEe0UF,3,0,,,,0
+1167490800,Chelsea,Fulham,IROrZEJb,ImMEe0UF,2,2,,,,0
+1167490800,Bolton,Portsmouth,bJFnYpTt,nkTKkN30,3,2,,,,0
+1167490800,Blackburn,Middlesbrough,ImMEe0UF,vcNAdtF9,2,1,,,,0
+1167498900,Sheffield Utd,Arsenal,K2FpWLH3,vcNAdtF9,1,0,,,,0
+1167655500,Liverpool,Bolton,KCp4zq5F,bJFnYpTt,3,0,,,,0
+1167663600,Wigan,Blackburn,dvLIfKqM,ImMEe0UF,0,3,,,,0
+1167663600,Reading,West Ham,dvLIfKqM,Q9DJHs4l,6,0,,,,0
+1167663600,Portsmouth,Tottenham,nkTKkN30,Ig5FKJZ5,1,1,,,,0
+1167663600,Middlesbrough,Sheffield Utd,vcNAdtF9,K2FpWLH3,3,1,,,,0
+1167663600,Manchester City,Everton,lQuhqN8N,bRmKmISE,2,1,,,,0
+1167663600,Fulham,Watford,ImMEe0UF,QHkJrpz6,0,0,,,,0
+1167671700,Newcastle,Manchester Utd,ImMEe0UF,h2pPXz3k,2,2,,,,0
+1167767100,Arsenal,Charlton,vcNAdtF9,6FckE7BN,4,0,,,,0
+1167768000,Aston Villa,Chelsea,jwz95gs0,IROrZEJb,0,0,,,,0
+1168692300,Watford,Liverpool,QHkJrpz6,KCp4zq5F,0,3,,,,0
+1168700400,West Ham,Fulham,Q9DJHs4l,ImMEe0UF,3,3,,,,0
+1168700400,Sheffield Utd,Portsmouth,K2FpWLH3,nkTKkN30,1,1,,,,0
+1168700400,Manchester Utd,Aston Villa,h2pPXz3k,jwz95gs0,3,1,,,,0
+1168700400,Chelsea,Wigan,IROrZEJb,dvLIfKqM,4,0,,,,0
+1168700400,Charlton,Middlesbrough,6FckE7BN,vcNAdtF9,1,3,,,,0
+1168700400,Bolton,Manchester City,bJFnYpTt,lQuhqN8N,0,0,,,,0
+1168708500,Blackburn,Arsenal,ImMEe0UF,vcNAdtF9,0,2,,,,0
+1168782300,Everton,Reading,bRmKmISE,dvLIfKqM,1,1,,,,0
+1168790400,Tottenham,Newcastle,Ig5FKJZ5,ImMEe0UF,2,3,,,,0
+1169297100,Liverpool,Chelsea,KCp4zq5F,IROrZEJb,2,0,,,,0
+1169305200,Reading,Sheffield Utd,dvLIfKqM,K2FpWLH3,3,1,,,,0
+1169305200,Portsmouth,Charlton,nkTKkN30,6FckE7BN,0,1,,,,0
+1169305200,Newcastle,West Ham,ImMEe0UF,Q9DJHs4l,2,2,,,,0
+1169305200,Middlesbrough,Bolton,vcNAdtF9,bJFnYpTt,5,1,,,,0
+1169305200,Fulham,Tottenham,ImMEe0UF,Ig5FKJZ5,1,1,,,,0
+1169305200,Aston Villa,Watford,jwz95gs0,QHkJrpz6,2,0,,,,0
+1169313300,Manchester City,Blackburn,lQuhqN8N,ImMEe0UF,0,3,,,,0
+1169386200,Wigan,Everton,dvLIfKqM,bRmKmISE,0,2,,,,0
+1169395200,Arsenal,Manchester Utd,vcNAdtF9,h2pPXz3k,2,1,,,,0
+1169581500,Watford,Blackburn,QHkJrpz6,ImMEe0UF,2,1,,,,0
+1170186300,West Ham,Liverpool,Q9DJHs4l,KCp4zq5F,1,2,,,,0
+1170186300,Sheffield Utd,Fulham,K2FpWLH3,ImMEe0UF,2,0,,,,0
+1170186300,Portsmouth,Middlesbrough,nkTKkN30,vcNAdtF9,0,0,,,,0
+1170187200,Reading,Wigan,dvLIfKqM,dvLIfKqM,3,2,,,,0
+1170272700,Chelsea,Blackburn,IROrZEJb,ImMEe0UF,3,0,,,,0
+1170273600,Newcastle,Aston Villa,ImMEe0UF,jwz95gs0,3,1,,,,0
+1170273600,Manchester Utd,Watford,h2pPXz3k,QHkJrpz6,4,0,,,,0
+1170273600,Bolton,Charlton,bJFnYpTt,6FckE7BN,1,1,,,,0
+1170506700,Liverpool,Everton,KCp4zq5F,bRmKmISE,0,0,,,,0
+1170514800,Wigan,Portsmouth,dvLIfKqM,nkTKkN30,1,0,,,,0
+1170514800,Watford,Bolton,QHkJrpz6,bJFnYpTt,0,1,,,,0
+1170514800,Manchester City,Reading,lQuhqN8N,dvLIfKqM,0,2,,,,0
+1170514800,Fulham,Newcastle,ImMEe0UF,ImMEe0UF,2,1,,,,0
+1170514800,Charlton,Chelsea,6FckE7BN,IROrZEJb,0,1,,,,0
+1170514800,Blackburn,Sheffield Utd,ImMEe0UF,K2FpWLH3,2,1,,,,0
+1170514800,Aston Villa,West Ham,jwz95gs0,Q9DJHs4l,1,0,,,,0
+1170522900,Middlesbrough,Arsenal,vcNAdtF9,vcNAdtF9,1,1,,,,0
+1170604800,Tottenham,Manchester Utd,Ig5FKJZ5,h2pPXz3k,0,4,,,,0
+1171111500,Reading,Aston Villa,dvLIfKqM,jwz95gs0,2,0,,,,0
+1171119600,West Ham,Watford,Q9DJHs4l,QHkJrpz6,0,1,,,,0
+1171119600,Sheffield Utd,Tottenham,K2FpWLH3,Ig5FKJZ5,2,1,,,,0
+1171119600,Newcastle,Liverpool,ImMEe0UF,KCp4zq5F,2,1,,,,0
+1171119600,Manchester Utd,Charlton,h2pPXz3k,6FckE7BN,2,0,,,,0
+1171119600,Everton,Blackburn,bRmKmISE,ImMEe0UF,1,0,,,,0
+1171119600,Chelsea,Middlesbrough,IROrZEJb,vcNAdtF9,3,0,,,,0
+1171127700,Portsmouth,Manchester City,nkTKkN30,lQuhqN8N,2,1,,,,0
+1171200600,Bolton,Fulham,bJFnYpTt,ImMEe0UF,2,1,,,,0
+1171209600,Arsenal,Wigan,vcNAdtF9,dvLIfKqM,2,1,,,,0
+1172087100,Watford,Wigan,QHkJrpz6,dvLIfKqM,1,1,,,,0
+1172088000,Everton,Tottenham,bRmKmISE,Ig5FKJZ5,1,2,,,,0
+1172321100,Fulham,Manchester Utd,ImMEe0UF,h2pPXz3k,1,2,,,,0
+1172329200,Middlesbrough,Reading,vcNAdtF9,dvLIfKqM,2,1,,,,0
+1172329200,Liverpool,Sheffield Utd,KCp4zq5F,K2FpWLH3,4,0,,,,0
+1172329200,Charlton,West Ham,6FckE7BN,Q9DJHs4l,4,0,,,,0
+1172337300,Watford,Everton,QHkJrpz6,bRmKmISE,0,3,,,,0
+1172408400,Wigan,Newcastle,dvLIfKqM,ImMEe0UF,1,0,,,,0
+1172415600,Tottenham,Bolton,Ig5FKJZ5,bJFnYpTt,4,1,,,,0
+1172415600,Blackburn,Portsmouth,ImMEe0UF,nkTKkN30,3,0,,,,0
+1172925900,Liverpool,Manchester Utd,KCp4zq5F,h2pPXz3k,0,1,,,,0
+1172934000,Watford,Charlton,QHkJrpz6,6FckE7BN,2,2,,,,0
+1172934000,Sheffield Utd,Everton,K2FpWLH3,bRmKmISE,1,1,,,,0
+1172934000,Newcastle,Middlesbrough,ImMEe0UF,vcNAdtF9,0,0,,,,0
+1172934000,Manchester City,Wigan,lQuhqN8N,dvLIfKqM,0,1,,,,0
+1172934000,Fulham,Aston Villa,ImMEe0UF,jwz95gs0,1,1,,,,0
+1172934000,Arsenal,Reading,vcNAdtF9,dvLIfKqM,2,1,,,,0
+1172942100,Portsmouth,Chelsea,nkTKkN30,IROrZEJb,0,2,,,,0
+1173015300,Bolton,Blackburn,bJFnYpTt,ImMEe0UF,1,2,,,,0
+1173024000,West Ham,Tottenham,Q9DJHs4l,Ig5FKJZ5,3,4,,,,0
+1173901500,Aston Villa,Arsenal,jwz95gs0,vcNAdtF9,0,1,,,,0
+1173902400,Manchester City,Chelsea,lQuhqN8N,IROrZEJb,0,1,,,,0
+1174135500,Manchester Utd,Bolton,h2pPXz3k,bJFnYpTt,4,1,,,,0
+1174143600,Wigan,Fulham,dvLIfKqM,ImMEe0UF,0,0,,,,0
+1174143600,Tottenham,Watford,Ig5FKJZ5,QHkJrpz6,3,1,,,,0
+1174143600,Reading,Portsmouth,dvLIfKqM,nkTKkN30,0,0,,,,0
+1174143600,Middlesbrough,Manchester City,vcNAdtF9,lQuhqN8N,0,2,,,,0
+1174143600,Chelsea,Sheffield Utd,IROrZEJb,K2FpWLH3,3,0,,,,0
+1174151700,Blackburn,West Ham,ImMEe0UF,Q9DJHs4l,1,2,,,,0
+1174224600,Charlton,Newcastle,6FckE7BN,ImMEe0UF,2,0,,,,0
+1174224900,Aston Villa,Liverpool,jwz95gs0,KCp4zq5F,0,0,,,,0
+1174233600,Everton,Arsenal,bRmKmISE,vcNAdtF9,1,0,,,,0
+1175341500,Liverpool,Arsenal,KCp4zq5F,vcNAdtF9,4,1,,,,0
+1175349600,West Ham,Middlesbrough,Q9DJHs4l,vcNAdtF9,2,0,,,,0
+1175349600,Newcastle,Manchester City,ImMEe0UF,lQuhqN8N,0,1,,,,0
+1175349600,Manchester Utd,Blackburn,h2pPXz3k,ImMEe0UF,4,1,,,,0
+1175349600,Fulham,Portsmouth,ImMEe0UF,nkTKkN30,1,1,,,,0
+1175349600,Charlton,Wigan,6FckE7BN,dvLIfKqM,1,0,,,,0
+1175349600,Bolton,Sheffield Utd,bJFnYpTt,K2FpWLH3,1,0,,,,0
+1175357700,Watford,Chelsea,QHkJrpz6,IROrZEJb,0,1,,,,0
+1175439600,Tottenham,Reading,Ig5FKJZ5,dvLIfKqM,1,0,,,,0
+1175540400,Aston Villa,Everton,jwz95gs0,bRmKmISE,1,1,,,,0
+1175876100,Manchester City,Charlton,lQuhqN8N,6FckE7BN,0,0,,,,0
+1175884200,Everton,Fulham,bRmKmISE,ImMEe0UF,4,1,,,,0
+1175946300,Chelsea,Tottenham,IROrZEJb,Ig5FKJZ5,1,0,,,,0
+1175954400,Wigan,Bolton,dvLIfKqM,bJFnYpTt,1,3,,,,0
+1175954400,Sheffield Utd,Newcastle,K2FpWLH3,ImMEe0UF,1,2,,,,0
+1175954400,Reading,Liverpool,dvLIfKqM,KCp4zq5F,1,2,,,,0
+1175954400,Middlesbrough,Watford,vcNAdtF9,QHkJrpz6,4,1,,,,0
+1175954400,Blackburn,Aston Villa,ImMEe0UF,jwz95gs0,1,2,,,,0
+1175954400,Arsenal,West Ham,vcNAdtF9,Q9DJHs4l,0,1,,,,0
+1175962500,Portsmouth,Manchester Utd,nkTKkN30,h2pPXz3k,2,1,,,,0
+1176119100,Watford,Portsmouth,QHkJrpz6,nkTKkN30,4,2,,,,0
+1176127200,Newcastle,Arsenal,ImMEe0UF,vcNAdtF9,0,0,,,,0
+1176127200,Fulham,Manchester City,ImMEe0UF,lQuhqN8N,1,3,,,,0
+1176127200,Bolton,Everton,bJFnYpTt,bRmKmISE,1,1,,,,0
+1176127200,Aston Villa,Wigan,jwz95gs0,dvLIfKqM,1,1,,,,0
+1176145200,Charlton,Reading,6FckE7BN,dvLIfKqM,0,0,,,,0
+1176559200,Sheffield Utd,West Ham,K2FpWLH3,Q9DJHs4l,3,0,,,,0
+1176559200,Reading,Fulham,dvLIfKqM,ImMEe0UF,1,0,,,,0
+1176559200,Portsmouth,Newcastle,nkTKkN30,ImMEe0UF,2,1,,,,0
+1176559200,Middlesbrough,Aston Villa,vcNAdtF9,jwz95gs0,1,3,,,,0
+1176559200,Manchester City,Liverpool,lQuhqN8N,KCp4zq5F,0,0,,,,0
+1176559200,Arsenal,Bolton,vcNAdtF9,bJFnYpTt,2,1,,,,0
+1176640200,Wigan,Tottenham,dvLIfKqM,Ig5FKJZ5,3,3,,,,0
+1176645600,Everton,Charlton,bRmKmISE,6FckE7BN,2,1,,,,0
+1176835500,Arsenal,Manchester City,vcNAdtF9,lQuhqN8N,3,1,,,,0
+1176836400,Manchester Utd,Sheffield Utd,h2pPXz3k,K2FpWLH3,2,0,,,,0
+1176922800,West Ham,Chelsea,Q9DJHs4l,IROrZEJb,1,4,,,,0
+1176922800,Liverpool,Middlesbrough,KCp4zq5F,vcNAdtF9,2,0,,,,0
+1176922800,Blackburn,Watford,ImMEe0UF,QHkJrpz6,3,1,,,,0
+1177155900,Tottenham,Arsenal,Ig5FKJZ5,vcNAdtF9,2,2,,,,0
+1177164000,West Ham,Everton,Q9DJHs4l,bRmKmISE,1,0,,,,0
+1177164000,Watford,Manchester City,QHkJrpz6,lQuhqN8N,1,1,,,,0
+1177164000,Liverpool,Wigan,KCp4zq5F,dvLIfKqM,2,0,,,,0
+1177164000,Fulham,Blackburn,ImMEe0UF,ImMEe0UF,1,1,,,,0
+1177164000,Charlton,Sheffield Utd,6FckE7BN,K2FpWLH3,1,1,,,,0
+1177164000,Bolton,Reading,bJFnYpTt,dvLIfKqM,1,3,,,,0
+1177172100,Manchester Utd,Middlesbrough,h2pPXz3k,vcNAdtF9,1,1,,,,0
+1177245000,Newcastle,Chelsea,ImMEe0UF,IROrZEJb,0,0,,,,0
+1177254000,Aston Villa,Portsmouth,jwz95gs0,nkTKkN30,0,0,,,,0
+1177760700,Everton,Manchester Utd,bRmKmISE,h2pPXz3k,2,4,,,,0
+1177760700,Chelsea,Bolton,IROrZEJb,bJFnYpTt,2,2,,,,0
+1177768800,Wigan,West Ham,dvLIfKqM,Q9DJHs4l,0,3,,,,0
+1177768800,Sheffield Utd,Watford,K2FpWLH3,QHkJrpz6,1,0,,,,0
+1177768800,Portsmouth,Liverpool,nkTKkN30,KCp4zq5F,2,1,,,,0
+1177768800,Middlesbrough,Tottenham,vcNAdtF9,Ig5FKJZ5,2,3,,,,0
+1177768800,Manchester City,Aston Villa,lQuhqN8N,jwz95gs0,0,2,,,,0
+1177768800,Blackburn,Charlton,ImMEe0UF,6FckE7BN,4,1,,,,0
+1177858800,Arsenal,Fulham,vcNAdtF9,ImMEe0UF,3,1,,,,0
+1177959600,Reading,Newcastle,dvLIfKqM,ImMEe0UF,1,0,,,,0
+1178365500,Manchester City,Manchester Utd,lQuhqN8N,h2pPXz3k,0,1,,,,0
+1178373600,Wigan,Middlesbrough,dvLIfKqM,vcNAdtF9,0,1,,,,0
+1178373600,West Ham,Bolton,Q9DJHs4l,bJFnYpTt,3,1,,,,0
+1178373600,Reading,Watford,dvLIfKqM,QHkJrpz6,0,2,,,,0
+1178373600,Newcastle,Blackburn,ImMEe0UF,ImMEe0UF,0,2,,,,0
+1178373600,Fulham,Liverpool,ImMEe0UF,KCp4zq5F,1,0,,,,0
+1178373600,Everton,Portsmouth,bRmKmISE,nkTKkN30,3,0,,,,0
+1178381700,Aston Villa,Sheffield Utd,jwz95gs0,K2FpWLH3,3,0,,,,0
+1178463600,Arsenal,Chelsea,vcNAdtF9,IROrZEJb,1,1,,,,0
+1178564400,Charlton,Tottenham,6FckE7BN,Ig5FKJZ5,0,2,,,,0
+1178737200,Chelsea,Manchester Utd,IROrZEJb,h2pPXz3k,0,0,,,,0
+1178823600,Tottenham,Blackburn,Ig5FKJZ5,ImMEe0UF,1,1,,,,0
+1179064800,Watford,Newcastle,QHkJrpz6,ImMEe0UF,1,1,,,,0
+1179064800,Tottenham,Manchester City,Ig5FKJZ5,lQuhqN8N,2,1,,,,0
+1179064800,Sheffield Utd,Wigan,K2FpWLH3,dvLIfKqM,1,2,,,,0
+1179064800,Portsmouth,Arsenal,nkTKkN30,vcNAdtF9,0,0,,,,0
+1179064800,Middlesbrough,Fulham,vcNAdtF9,ImMEe0UF,3,1,,,,0
+1179064800,Manchester Utd,West Ham,h2pPXz3k,Q9DJHs4l,0,1,,,,0
+1179064800,Liverpool,Charlton,KCp4zq5F,6FckE7BN,2,2,,,,0
+1179064800,Chelsea,Everton,IROrZEJb,bRmKmISE,1,1,,,,0
+1179064800,Bolton,Aston Villa,bJFnYpTt,jwz95gs0,2,2,,,,0
+1179064800,Blackburn,Reading,ImMEe0UF,dvLIfKqM,3,3,,,,0

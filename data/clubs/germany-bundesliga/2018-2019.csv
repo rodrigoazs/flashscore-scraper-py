@@ -1,309 +1,309 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1535135400,Bayern Munich,Hoffenheim,3,1,,,,0
-1535203800,Wolfsburg,Schalke,2,1,,,,0
-1535203800,Werder Bremen,Hannover,1,1,,,,0
-1535203800,Hertha Berlin,Nurnberg,1,0,,,,0
-1535203800,Freiburg,Eintracht Frankfurt,0,2,,,,0
-1535203800,Dusseldorf,Augsburg,1,2,,,,0
-1535214600,B. Monchengladbach,Bayer Leverkusen,2,0,,,,0
-1535290200,Mainz,Stuttgart,1,0,,,,0
-1535299200,Dortmund,RB Leipzig,4,1,,,,0
-1535740200,Hannover,Dortmund,0,0,,,,0
-1535808600,Nurnberg,Mainz,1,1,,,,0
-1535808600,Hoffenheim,Freiburg,3,1,,,,0
-1535808600,Eintracht Frankfurt,Werder Bremen,1,2,,,,0
-1535808600,Bayer Leverkusen,Wolfsburg,1,3,,,,0
-1535808600,Augsburg,B. Monchengladbach,1,1,,,,0
-1535819400,Stuttgart,Bayern Munich,0,3,,,,0
-1535895000,RB Leipzig,Dusseldorf,1,1,,,,0
-1535904000,Schalke,Hertha Berlin,0,2,,,,0
-1536949800,Dortmund,Eintracht Frankfurt,3,1,,,,0
-1537018200,Wolfsburg,Hertha Berlin,2,2,,,,0
-1537018200,RB Leipzig,Hannover,3,2,,,,0
-1537018200,Mainz,Augsburg,2,1,,,,0
-1537018200,Dusseldorf,Hoffenheim,2,1,,,,0
-1537018200,Bayern Munich,Bayer Leverkusen,3,1,,,,0
-1537029000,B. Monchengladbach,Schalke,2,1,,,,0
-1537104600,Werder Bremen,Nurnberg,1,1,,,,0
-1537113600,Freiburg,Stuttgart,3,3,,,,0
-1537554600,Stuttgart,Dusseldorf,0,0,,,,0
-1537623000,Wolfsburg,Freiburg,1,3,,,,0
-1537623000,Nurnberg,Hannover,2,0,,,,0
-1537623000,Hoffenheim,Dortmund,1,1,,,,0
-1537623000,Hertha Berlin,B. Monchengladbach,4,2,,,,0
-1537623000,Augsburg,Werder Bremen,2,3,,,,0
-1537633800,Schalke,Bayern Munich,0,2,,,,0
-1537709400,Bayer Leverkusen,Mainz,1,0,,,,0
-1537718400,Eintracht Frankfurt,RB Leipzig,1,1,,,,0
-1537893000,Werder Bremen,Hertha Berlin,3,1,,,,0
-1537900200,Hannover,Hoffenheim,1,3,,,,0
-1537900200,Freiburg,Schalke,1,0,,,,0
-1537900200,Bayern Munich,Augsburg,1,1,,,,0
-1537979400,Dusseldorf,Bayer Leverkusen,1,2,,,,0
-1537986600,RB Leipzig,Stuttgart,2,0,,,,0
-1537986600,Mainz,Wolfsburg,0,0,,,,0
-1537986600,Dortmund,Nurnberg,7,0,,,,0
-1537986600,B. Monchengladbach,Eintracht Frankfurt,3,1,,,,0
-1538159400,Hertha Berlin,Bayern Munich,2,0,,,,0
-1538227800,Wolfsburg,B. Monchengladbach,2,2,,,,0
-1538227800,Stuttgart,Werder Bremen,2,1,,,,0
-1538227800,Schalke,Mainz,1,0,,,,0
-1538227800,Nurnberg,Dusseldorf,3,0,,,,0
-1538227800,Hoffenheim,RB Leipzig,1,2,,,,0
-1538238600,Bayer Leverkusen,Dortmund,2,4,,,,0
-1538314200,Eintracht Frankfurt,Hannover,4,1,,,,0
-1538323200,Augsburg,Freiburg,4,1,,,,0
-1538764200,Werder Bremen,Wolfsburg,2,0,,,,0
-1538832600,Mainz,Hertha Berlin,0,0,,,,0
-1538832600,Hannover,Stuttgart,3,1,,,,0
-1538832600,Dusseldorf,Schalke,0,2,,,,0
-1538832600,Dortmund,Augsburg,4,3,,,,0
-1538843400,Bayern Munich,B. Monchengladbach,0,3,,,,0
-1538911800,Freiburg,Bayer Leverkusen,0,0,,,,0
-1538919000,Hoffenheim,Eintracht Frankfurt,1,2,,,,0
-1538928000,RB Leipzig,Nurnberg,6,0,,,,0
-1539973800,Eintracht Frankfurt,Dusseldorf,7,1,,,,0
-1540042200,Wolfsburg,Bayern Munich,1,3,,,,0
-1540042200,Stuttgart,Dortmund,0,4,,,,0
-1540042200,Nurnberg,Hoffenheim,1,3,,,,0
-1540042200,Bayer Leverkusen,Hannover,2,2,,,,0
-1540042200,Augsburg,RB Leipzig,0,0,,,,0
-1540053000,Schalke,Werder Bremen,0,2,,,,0
-1540128600,Hertha Berlin,Freiburg,1,1,,,,0
-1540137600,B. Monchengladbach,Mainz,4,0,,,,0
-1540578600,Freiburg,B. Monchengladbach,3,1,,,,0
-1540647000,Mainz,Bayern Munich,1,2,,,,0
-1540647000,Hannover,Augsburg,1,2,,,,0
-1540647000,Dusseldorf,Wolfsburg,0,3,,,,0
-1540647000,Dortmund,Hertha Berlin,2,2,,,,0
-1540657800,Hoffenheim,Stuttgart,4,0,,,,0
-1540729800,Nurnberg,Eintracht Frankfurt,1,1,,,,0
-1540737000,RB Leipzig,Schalke,0,0,,,,0
-1540746000,Werder Bremen,Bayer Leverkusen,2,6,,,,0
-1541187000,Stuttgart,Eintracht Frankfurt,0,3,,,,0
-1541255400,Wolfsburg,Dortmund,0,1,,,,0
-1541255400,Schalke,Hannover,3,1,,,,0
-1541255400,Bayern Munich,Freiburg,1,1,,,,0
-1541255400,Bayer Leverkusen,Hoffenheim,1,4,,,,0
-1541255400,Augsburg,Nurnberg,2,2,,,,0
-1541266200,Hertha Berlin,RB Leipzig,0,3,,,,0
-1541341800,B. Monchengladbach,Dusseldorf,3,0,,,,0
-1541350800,Mainz,Werder Bremen,2,1,,,,0
-1541791800,Hannover,Wolfsburg,2,1,,,,0
-1541860200,Werder Bremen,B. Monchengladbach,1,3,,,,0
-1541860200,Nurnberg,Stuttgart,0,2,,,,0
-1541860200,Hoffenheim,Augsburg,2,1,,,,0
-1541860200,Freiburg,Mainz,1,3,,,,0
-1541860200,Dusseldorf,Hertha Berlin,4,1,,,,0
-1541871000,Dortmund,Bayern Munich,3,2,,,,0
-1541946600,RB Leipzig,Bayer Leverkusen,3,0,,,,0
-1541955600,Eintracht Frankfurt,Schalke,3,0,,,,0
-1543001400,Bayer Leverkusen,Stuttgart,2,0,,,,0
-1543069800,Wolfsburg,RB Leipzig,1,0,,,,0
-1543069800,Mainz,Dortmund,1,2,,,,0
-1543069800,Hertha Berlin,Hoffenheim,3,3,,,,0
-1543069800,Bayern Munich,Dusseldorf,3,3,,,,0
-1543069800,Augsburg,Eintracht Frankfurt,1,3,,,,0
-1543080600,Schalke,Nurnberg,5,2,,,,0
-1543156200,Freiburg,Werder Bremen,1,1,,,,0
-1543165200,B. Monchengladbach,Hannover,4,1,,,,0
-1543606200,Dusseldorf,Mainz,0,1,,,,0
-1543674600,Werder Bremen,Bayern Munich,1,2,,,,0
-1543674600,Stuttgart,Augsburg,1,0,,,,0
-1543674600,Hannover,Hertha Berlin,0,2,,,,0
-1543674600,Dortmund,Freiburg,2,0,,,,0
-1543685400,Hoffenheim,Schalke,1,1,,,,0
-1543761000,RB Leipzig,B. Monchengladbach,2,0,,,,0
-1543770000,Eintracht Frankfurt,Wolfsburg,1,2,,,,0
-1543865400,Nurnberg,Bayer Leverkusen,1,1,,,,0
-1544211000,Werder Bremen,Dusseldorf,3,1,,,,0
-1544279400,Wolfsburg,Hoffenheim,2,2,,,,0
-1544279400,Schalke,Dortmund,1,2,,,,0
-1544279400,Freiburg,RB Leipzig,3,0,,,,0
-1544279400,Bayern Munich,Nurnberg,3,0,,,,0
-1544279400,Bayer Leverkusen,Augsburg,1,0,,,,0
-1544290200,Hertha Berlin,Eintracht Frankfurt,1,0,,,,0
-1544365800,Mainz,Hannover,1,1,,,,0
-1544374800,B. Monchengladbach,Stuttgart,3,0,,,,0
-1544815800,Nurnberg,Wolfsburg,0,2,,,,0
-1544884200,Stuttgart,Hertha Berlin,2,1,,,,0
-1544884200,Hoffenheim,B. Monchengladbach,0,0,,,,0
-1544884200,Hannover,Bayern Munich,0,4,,,,0
-1544884200,Dusseldorf,Freiburg,2,0,,,,0
-1544884200,Augsburg,Schalke,1,1,,,,0
-1544895000,Dortmund,Werder Bremen,2,1,,,,0
-1544970600,RB Leipzig,Mainz,4,1,,,,0
-1544979600,Eintracht Frankfurt,Bayer Leverkusen,2,1,,,,0
-1545154200,B. Monchengladbach,Nurnberg,2,0,,,,0
-1545161400,Wolfsburg,Stuttgart,2,0,,,,0
-1545161400,Hertha Berlin,Augsburg,2,2,,,,0
-1545161400,Dusseldorf,Dortmund,2,1,,,,0
-1545240600,Schalke,Bayer Leverkusen,1,2,,,,0
-1545247800,Werder Bremen,Hoffenheim,1,1,,,,0
-1545247800,Mainz,Eintracht Frankfurt,2,2,,,,0
-1545247800,Freiburg,Hannover,1,1,,,,0
-1545247800,Bayern Munich,RB Leipzig,1,0,,,,0
-1545420600,Dortmund,B. Monchengladbach,2,1,,,,0
-1545489000,Stuttgart,Schalke,1,3,,,,0
-1545489000,RB Leipzig,Werder Bremen,3,2,,,,0
-1545489000,Nurnberg,Freiburg,0,1,,,,0
-1545489000,Hannover,Dusseldorf,0,1,,,,0
-1545489000,Bayer Leverkusen,Hertha Berlin,3,1,,,,0
-1545499800,Eintracht Frankfurt,Bayern Munich,0,3,,,,0
-1545575400,Augsburg,Wolfsburg,2,3,,,,0
-1545584400,Hoffenheim,Mainz,1,1,,,,0
-1547839800,Hoffenheim,Bayern Munich,1,3,,,,0
-1547908200,Stuttgart,Mainz,2,3,,,,0
-1547908200,Hannover,Werder Bremen,0,1,,,,0
-1547908200,Eintracht Frankfurt,Freiburg,3,1,,,,0
-1547908200,Bayer Leverkusen,B. Monchengladbach,0,1,,,,0
-1547908200,Augsburg,Dusseldorf,1,2,,,,0
-1547919000,RB Leipzig,Dortmund,0,1,,,,0
-1547994600,Nurnberg,Hertha Berlin,1,3,,,,0
-1548003600,Schalke,Wolfsburg,2,1,,,,0
-1548444600,Hertha Berlin,Schalke,2,2,,,,0
-1548513000,Wolfsburg,Bayer Leverkusen,0,3,,,,0
-1548513000,Mainz,Nurnberg,2,1,,,,0
-1548513000,Freiburg,Hoffenheim,2,4,,,,0
-1548513000,Dortmund,Hannover,5,1,,,,0
-1548513000,B. Monchengladbach,Augsburg,2,0,,,,0
-1548523800,Werder Bremen,Eintracht Frankfurt,2,2,,,,0
-1548599400,Bayern Munich,Stuttgart,4,1,,,,0
-1548608400,Dusseldorf,RB Leipzig,0,4,,,,0
-1549049400,Hannover,RB Leipzig,0,3,,,,0
-1549117800,Nurnberg,Werder Bremen,1,1,,,,0
-1549117800,Hoffenheim,Dusseldorf,1,1,,,,0
-1549117800,Hertha Berlin,Wolfsburg,0,1,,,,0
-1549117800,Eintracht Frankfurt,Dortmund,1,1,,,,0
-1549117800,Bayer Leverkusen,Bayern Munich,3,1,,,,0
-1549128600,Schalke,B. Monchengladbach,0,2,,,,0
-1549204200,Augsburg,Mainz,3,0,,,,0
-1549213200,Stuttgart,Freiburg,2,2,,,,0
-1549654200,Mainz,Bayer Leverkusen,1,5,,,,0
-1549722600,RB Leipzig,Eintracht Frankfurt,0,0,,,,0
-1549722600,Hannover,Nurnberg,2,0,,,,0
-1549722600,Freiburg,Wolfsburg,3,3,,,,0
-1549722600,Dortmund,Hoffenheim,3,3,,,,0
-1549722600,B. Monchengladbach,Hertha Berlin,0,3,,,,0
-1549733400,Bayern Munich,Schalke,3,1,,,,0
-1549809000,Werder Bremen,Augsburg,4,0,,,,0
-1549818000,Dusseldorf,Stuttgart,3,0,,,,0
-1550259000,Augsburg,Bayern Munich,2,3,,,,0
-1550327400,Wolfsburg,Mainz,3,0,,,,0
-1550327400,Stuttgart,RB Leipzig,1,3,,,,0
-1550327400,Schalke,Freiburg,0,0,,,,0
-1550327400,Hoffenheim,Hannover,3,0,,,,0
-1550338200,Hertha Berlin,Werder Bremen,1,1,,,,0
-1550413800,Eintracht Frankfurt,B. Monchengladbach,1,1,,,,0
-1550422800,Bayer Leverkusen,Dusseldorf,2,0,,,,0
-1550518200,Nurnberg,Dortmund,0,0,,,,0
-1550863800,Werder Bremen,Stuttgart,1,1,,,,0
-1550932200,Mainz,Schalke,3,0,,,,0
-1550932200,Freiburg,Augsburg,5,1,,,,0
-1550932200,Bayern Munich,Hertha Berlin,1,0,,,,0
-1550932200,B. Monchengladbach,Wolfsburg,0,3,,,,0
-1550943000,Dusseldorf,Nurnberg,2,1,,,,0
-1551018600,Hannover,Eintracht Frankfurt,0,3,,,,0
-1551027600,Dortmund,Bayer Leverkusen,3,2,,,,0
-1551123000,RB Leipzig,Hoffenheim,1,1,,,,0
-1551468600,Augsburg,Dortmund,2,1,,,,0
-1551537000,Schalke,Dusseldorf,0,4,,,,0
-1551537000,Nurnberg,RB Leipzig,0,1,,,,0
-1551537000,Hertha Berlin,Mainz,2,1,,,,0
-1551537000,Eintracht Frankfurt,Hoffenheim,3,2,,,,0
-1551537000,Bayer Leverkusen,Freiburg,2,0,,,,0
-1551547800,B. Monchengladbach,Bayern Munich,1,5,,,,0
-1551623400,Stuttgart,Hannover,5,1,,,,0
-1551632400,Wolfsburg,Werder Bremen,1,1,,,,0
-1552073400,Werder Bremen,Schalke,4,2,,,,0
-1552141800,RB Leipzig,Augsburg,0,0,,,,0
-1552141800,Freiburg,Hertha Berlin,2,1,,,,0
-1552141800,Dortmund,Stuttgart,3,1,,,,0
-1552141800,Bayern Munich,Wolfsburg,6,0,,,,0
-1552152600,Mainz,B. Monchengladbach,0,1,,,,0
-1552228200,Hoffenheim,Nurnberg,2,1,,,,0
-1552237200,Hannover,Bayer Leverkusen,2,3,,,,0
-1552332600,Dusseldorf,Eintracht Frankfurt,0,3,,,,0
-1552678200,B. Monchengladbach,Freiburg,1,1,,,,0
-1552746600,Wolfsburg,Dusseldorf,5,2,,,,0
-1552746600,Stuttgart,Hoffenheim,1,1,,,,0
-1552746600,Schalke,RB Leipzig,0,1,,,,0
-1552746600,Augsburg,Hannover,3,1,,,,0
-1552757400,Hertha Berlin,Dortmund,2,3,,,,0
-1552825800,Bayer Leverkusen,Werder Bremen,1,3,,,,0
-1552833000,Eintracht Frankfurt,Nurnberg,1,0,,,,0
-1552842000,Bayern Munich,Mainz,6,0,,,,0
-1553887800,Hoffenheim,Bayer Leverkusen,4,1,,,,0
-1553956200,Werder Bremen,Mainz,3,1,,,,0
-1553956200,Nurnberg,Augsburg,3,0,,,,0
-1553956200,Freiburg,Bayern Munich,1,1,,,,0
-1553956200,Dusseldorf,B. Monchengladbach,3,1,,,,0
-1553956200,Dortmund,Wolfsburg,2,0,,,,0
-1553967000,RB Leipzig,Hertha Berlin,5,0,,,,0
-1554039000,Hannover,Schalke,0,1,,,,0
-1554048000,Eintracht Frankfurt,Stuttgart,3,0,,,,0
-1554489000,Mainz,Freiburg,5,0,,,,0
-1554557400,Wolfsburg,Hannover,3,1,,,,0
-1554557400,Stuttgart,Nurnberg,1,1,,,,0
-1554557400,Schalke,Eintracht Frankfurt,1,2,,,,0
-1554557400,Hertha Berlin,Dusseldorf,1,2,,,,0
-1554557400,Bayer Leverkusen,RB Leipzig,2,4,,,,0
-1554568200,Bayern Munich,Dortmund,5,0,,,,0
-1554643800,Augsburg,Hoffenheim,0,4,,,,0
-1554652800,B. Monchengladbach,Werder Bremen,1,1,,,,0
-1555093800,Nurnberg,Schalke,1,1,,,,0
-1555162200,Werder Bremen,Freiburg,2,1,,,,0
-1555162200,Stuttgart,Bayer Leverkusen,0,1,,,,0
-1555162200,RB Leipzig,Wolfsburg,2,0,,,,0
-1555162200,Hannover,B. Monchengladbach,0,1,,,,0
-1555173000,Dortmund,Mainz,2,1,,,,0
-1555241400,Hoffenheim,Hertha Berlin,2,0,,,,0
-1555248600,Dusseldorf,Bayern Munich,1,4,,,,0
-1555257600,Eintracht Frankfurt,Augsburg,1,3,,,,0
-1555767000,Mainz,Dusseldorf,3,1,,,,0
-1555767000,Bayern Munich,Werder Bremen,1,0,,,,0
-1555767000,Bayer Leverkusen,Nurnberg,2,0,,,,0
-1555767000,Augsburg,Stuttgart,6,0,,,,0
-1555777800,B. Monchengladbach,RB Leipzig,1,2,,,,0
-1555785000,Schalke,Hoffenheim,2,5,,,,0
-1555853400,Freiburg,Dortmund,0,4,,,,0
-1555862400,Hertha Berlin,Hannover,0,0,,,,0
-1555957800,Wolfsburg,Eintracht Frankfurt,1,1,,,,0
-1556303400,Augsburg,Bayer Leverkusen,1,4,,,,0
-1556371800,RB Leipzig,Freiburg,2,1,,,,0
-1556371800,Hannover,Mainz,1,0,,,,0
-1556371800,Eintracht Frankfurt,Hertha Berlin,0,0,,,,0
-1556371800,Dusseldorf,Werder Bremen,4,1,,,,0
-1556371800,Dortmund,Schalke,2,4,,,,0
-1556382600,Stuttgart,B. Monchengladbach,1,0,,,,0
-1556458200,Hoffenheim,Wolfsburg,1,4,,,,0
-1556467200,Nurnberg,Bayern Munich,1,1,,,,0
-1556908200,Mainz,RB Leipzig,3,3,,,,0
-1556976600,Wolfsburg,Nurnberg,2,0,,,,0
-1556976600,Hertha Berlin,Stuttgart,3,1,,,,0
-1556976600,Bayern Munich,Hannover,3,1,,,,0
-1556976600,B. Monchengladbach,Hoffenheim,2,2,,,,0
-1556987400,Werder Bremen,Dortmund,2,2,,,,0
-1557055800,Schalke,Augsburg,0,0,,,,0
-1557063000,Freiburg,Dusseldorf,1,1,,,,0
-1557072000,Bayer Leverkusen,Eintracht Frankfurt,6,1,,,,0
-1557581400,Stuttgart,Wolfsburg,3,0,,,,0
-1557581400,RB Leipzig,Bayern Munich,0,0,,,,0
-1557581400,Nurnberg,B. Monchengladbach,0,4,,,,0
-1557581400,Hoffenheim,Werder Bremen,0,1,,,,0
-1557581400,Hannover,Freiburg,3,0,,,,0
-1557581400,Dortmund,Dusseldorf,3,2,,,,0
-1557581400,Bayer Leverkusen,Schalke,1,1,,,,0
-1557581400,Augsburg,Hertha Berlin,3,4,,,,0
-1557676800,Eintracht Frankfurt,Mainz,0,2,,,,0
-1558186200,Wolfsburg,Augsburg,8,1,,,,0
-1558186200,Werder Bremen,RB Leipzig,2,1,,,,0
-1558186200,Schalke,Stuttgart,0,0,,,,0
-1558186200,Mainz,Hoffenheim,4,2,,,,0
-1558186200,Hertha Berlin,Bayer Leverkusen,1,5,,,,0
-1558186200,Freiburg,Nurnberg,5,1,,,,0
-1558186200,Dusseldorf,Hannover,2,1,,,,0
-1558186200,Bayern Munich,Eintracht Frankfurt,5,1,,,,0
-1558186200,B. Monchengladbach,Dortmund,0,2,,,,0
-1558636200,Stuttgart,Union Berlin,2,2,,,,0
-1558981800,Union Berlin,Stuttgart,0,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1535135400,Bayern Munich,Hoffenheim,SvLFaVNH,n7lWn9DL,3,1,,,,0
+1535203800,Wolfsburg,Schalke,KjF1j4v3,I7p2Damb,2,1,,,,0
+1535203800,Werder Bremen,Hannover,EVomMG4o,n7lWn9DL,1,1,,,,0
+1535203800,Hertha Berlin,Nurnberg,WrjrBuU2,ncmj9JbF,1,0,,,,0
+1535203800,Freiburg,Eintracht Frankfurt,86lnAaq9,86lnAaq9,0,2,,,,0
+1535203800,Dusseldorf,Augsburg,Qmnf8wEL,Qmnf8wEL,1,2,,,,0
+1535214600,B. Monchengladbach,Bayer Leverkusen,ncmj9JbF,WrjrBuU2,2,0,,,,0
+1535290200,Mainz,Stuttgart,bsE5kOg9,f1Z3XxZa,1,0,,,,0
+1535299200,Dortmund,RB Leipzig,WrjrBuU2,WvvSE8Dm,4,1,,,,0
+1535740200,Hannover,Dortmund,n7lWn9DL,WrjrBuU2,0,0,,,,0
+1535808600,Nurnberg,Mainz,ncmj9JbF,bsE5kOg9,1,1,,,,0
+1535808600,Hoffenheim,Freiburg,n7lWn9DL,86lnAaq9,3,1,,,,0
+1535808600,Eintracht Frankfurt,Werder Bremen,86lnAaq9,EVomMG4o,1,2,,,,0
+1535808600,Bayer Leverkusen,Wolfsburg,WrjrBuU2,KjF1j4v3,1,3,,,,0
+1535808600,Augsburg,B. Monchengladbach,Qmnf8wEL,ncmj9JbF,1,1,,,,0
+1535819400,Stuttgart,Bayern Munich,f1Z3XxZa,SvLFaVNH,0,3,,,,0
+1535895000,RB Leipzig,Dusseldorf,WvvSE8Dm,Qmnf8wEL,1,1,,,,0
+1535904000,Schalke,Hertha Berlin,I7p2Damb,WrjrBuU2,0,2,,,,0
+1536949800,Dortmund,Eintracht Frankfurt,WrjrBuU2,86lnAaq9,3,1,,,,0
+1537018200,Wolfsburg,Hertha Berlin,KjF1j4v3,WrjrBuU2,2,2,,,,0
+1537018200,RB Leipzig,Hannover,WvvSE8Dm,n7lWn9DL,3,2,,,,0
+1537018200,Mainz,Augsburg,bsE5kOg9,Qmnf8wEL,2,1,,,,0
+1537018200,Dusseldorf,Hoffenheim,Qmnf8wEL,n7lWn9DL,2,1,,,,0
+1537018200,Bayern Munich,Bayer Leverkusen,SvLFaVNH,WrjrBuU2,3,1,,,,0
+1537029000,B. Monchengladbach,Schalke,ncmj9JbF,I7p2Damb,2,1,,,,0
+1537104600,Werder Bremen,Nurnberg,EVomMG4o,ncmj9JbF,1,1,,,,0
+1537113600,Freiburg,Stuttgart,86lnAaq9,f1Z3XxZa,3,3,,,,0
+1537554600,Stuttgart,Dusseldorf,f1Z3XxZa,Qmnf8wEL,0,0,,,,0
+1537623000,Wolfsburg,Freiburg,KjF1j4v3,86lnAaq9,1,3,,,,0
+1537623000,Nurnberg,Hannover,ncmj9JbF,n7lWn9DL,2,0,,,,0
+1537623000,Hoffenheim,Dortmund,n7lWn9DL,WrjrBuU2,1,1,,,,0
+1537623000,Hertha Berlin,B. Monchengladbach,WrjrBuU2,ncmj9JbF,4,2,,,,0
+1537623000,Augsburg,Werder Bremen,Qmnf8wEL,EVomMG4o,2,3,,,,0
+1537633800,Schalke,Bayern Munich,I7p2Damb,SvLFaVNH,0,2,,,,0
+1537709400,Bayer Leverkusen,Mainz,WrjrBuU2,bsE5kOg9,1,0,,,,0
+1537718400,Eintracht Frankfurt,RB Leipzig,86lnAaq9,WvvSE8Dm,1,1,,,,0
+1537893000,Werder Bremen,Hertha Berlin,EVomMG4o,WrjrBuU2,3,1,,,,0
+1537900200,Hannover,Hoffenheim,n7lWn9DL,n7lWn9DL,1,3,,,,0
+1537900200,Freiburg,Schalke,86lnAaq9,I7p2Damb,1,0,,,,0
+1537900200,Bayern Munich,Augsburg,SvLFaVNH,Qmnf8wEL,1,1,,,,0
+1537979400,Dusseldorf,Bayer Leverkusen,Qmnf8wEL,WrjrBuU2,1,2,,,,0
+1537986600,RB Leipzig,Stuttgart,WvvSE8Dm,f1Z3XxZa,2,0,,,,0
+1537986600,Mainz,Wolfsburg,bsE5kOg9,KjF1j4v3,0,0,,,,0
+1537986600,Dortmund,Nurnberg,WrjrBuU2,ncmj9JbF,7,0,,,,0
+1537986600,B. Monchengladbach,Eintracht Frankfurt,ncmj9JbF,86lnAaq9,3,1,,,,0
+1538159400,Hertha Berlin,Bayern Munich,WrjrBuU2,SvLFaVNH,2,0,,,,0
+1538227800,Wolfsburg,B. Monchengladbach,KjF1j4v3,ncmj9JbF,2,2,,,,0
+1538227800,Stuttgart,Werder Bremen,f1Z3XxZa,EVomMG4o,2,1,,,,0
+1538227800,Schalke,Mainz,I7p2Damb,bsE5kOg9,1,0,,,,0
+1538227800,Nurnberg,Dusseldorf,ncmj9JbF,Qmnf8wEL,3,0,,,,0
+1538227800,Hoffenheim,RB Leipzig,n7lWn9DL,WvvSE8Dm,1,2,,,,0
+1538238600,Bayer Leverkusen,Dortmund,WrjrBuU2,WrjrBuU2,2,4,,,,0
+1538314200,Eintracht Frankfurt,Hannover,86lnAaq9,n7lWn9DL,4,1,,,,0
+1538323200,Augsburg,Freiburg,Qmnf8wEL,86lnAaq9,4,1,,,,0
+1538764200,Werder Bremen,Wolfsburg,EVomMG4o,KjF1j4v3,2,0,,,,0
+1538832600,Mainz,Hertha Berlin,bsE5kOg9,WrjrBuU2,0,0,,,,0
+1538832600,Hannover,Stuttgart,n7lWn9DL,f1Z3XxZa,3,1,,,,0
+1538832600,Dusseldorf,Schalke,Qmnf8wEL,I7p2Damb,0,2,,,,0
+1538832600,Dortmund,Augsburg,WrjrBuU2,Qmnf8wEL,4,3,,,,0
+1538843400,Bayern Munich,B. Monchengladbach,SvLFaVNH,ncmj9JbF,0,3,,,,0
+1538911800,Freiburg,Bayer Leverkusen,86lnAaq9,WrjrBuU2,0,0,,,,0
+1538919000,Hoffenheim,Eintracht Frankfurt,n7lWn9DL,86lnAaq9,1,2,,,,0
+1538928000,RB Leipzig,Nurnberg,WvvSE8Dm,ncmj9JbF,6,0,,,,0
+1539973800,Eintracht Frankfurt,Dusseldorf,86lnAaq9,Qmnf8wEL,7,1,,,,0
+1540042200,Wolfsburg,Bayern Munich,KjF1j4v3,SvLFaVNH,1,3,,,,0
+1540042200,Stuttgart,Dortmund,f1Z3XxZa,WrjrBuU2,0,4,,,,0
+1540042200,Nurnberg,Hoffenheim,ncmj9JbF,n7lWn9DL,1,3,,,,0
+1540042200,Bayer Leverkusen,Hannover,WrjrBuU2,n7lWn9DL,2,2,,,,0
+1540042200,Augsburg,RB Leipzig,Qmnf8wEL,WvvSE8Dm,0,0,,,,0
+1540053000,Schalke,Werder Bremen,I7p2Damb,EVomMG4o,0,2,,,,0
+1540128600,Hertha Berlin,Freiburg,WrjrBuU2,86lnAaq9,1,1,,,,0
+1540137600,B. Monchengladbach,Mainz,ncmj9JbF,bsE5kOg9,4,0,,,,0
+1540578600,Freiburg,B. Monchengladbach,86lnAaq9,ncmj9JbF,3,1,,,,0
+1540647000,Mainz,Bayern Munich,bsE5kOg9,SvLFaVNH,1,2,,,,0
+1540647000,Hannover,Augsburg,n7lWn9DL,Qmnf8wEL,1,2,,,,0
+1540647000,Dusseldorf,Wolfsburg,Qmnf8wEL,KjF1j4v3,0,3,,,,0
+1540647000,Dortmund,Hertha Berlin,WrjrBuU2,WrjrBuU2,2,2,,,,0
+1540657800,Hoffenheim,Stuttgart,n7lWn9DL,f1Z3XxZa,4,0,,,,0
+1540729800,Nurnberg,Eintracht Frankfurt,ncmj9JbF,86lnAaq9,1,1,,,,0
+1540737000,RB Leipzig,Schalke,WvvSE8Dm,I7p2Damb,0,0,,,,0
+1540746000,Werder Bremen,Bayer Leverkusen,EVomMG4o,WrjrBuU2,2,6,,,,0
+1541187000,Stuttgart,Eintracht Frankfurt,f1Z3XxZa,86lnAaq9,0,3,,,,0
+1541255400,Wolfsburg,Dortmund,KjF1j4v3,WrjrBuU2,0,1,,,,0
+1541255400,Schalke,Hannover,I7p2Damb,n7lWn9DL,3,1,,,,0
+1541255400,Bayern Munich,Freiburg,SvLFaVNH,86lnAaq9,1,1,,,,0
+1541255400,Bayer Leverkusen,Hoffenheim,WrjrBuU2,n7lWn9DL,1,4,,,,0
+1541255400,Augsburg,Nurnberg,Qmnf8wEL,ncmj9JbF,2,2,,,,0
+1541266200,Hertha Berlin,RB Leipzig,WrjrBuU2,WvvSE8Dm,0,3,,,,0
+1541341800,B. Monchengladbach,Dusseldorf,ncmj9JbF,Qmnf8wEL,3,0,,,,0
+1541350800,Mainz,Werder Bremen,bsE5kOg9,EVomMG4o,2,1,,,,0
+1541791800,Hannover,Wolfsburg,n7lWn9DL,KjF1j4v3,2,1,,,,0
+1541860200,Werder Bremen,B. Monchengladbach,EVomMG4o,ncmj9JbF,1,3,,,,0
+1541860200,Nurnberg,Stuttgart,ncmj9JbF,f1Z3XxZa,0,2,,,,0
+1541860200,Hoffenheim,Augsburg,n7lWn9DL,Qmnf8wEL,2,1,,,,0
+1541860200,Freiburg,Mainz,86lnAaq9,bsE5kOg9,1,3,,,,0
+1541860200,Dusseldorf,Hertha Berlin,Qmnf8wEL,WrjrBuU2,4,1,,,,0
+1541871000,Dortmund,Bayern Munich,WrjrBuU2,SvLFaVNH,3,2,,,,0
+1541946600,RB Leipzig,Bayer Leverkusen,WvvSE8Dm,WrjrBuU2,3,0,,,,0
+1541955600,Eintracht Frankfurt,Schalke,86lnAaq9,I7p2Damb,3,0,,,,0
+1543001400,Bayer Leverkusen,Stuttgart,WrjrBuU2,f1Z3XxZa,2,0,,,,0
+1543069800,Wolfsburg,RB Leipzig,KjF1j4v3,WvvSE8Dm,1,0,,,,0
+1543069800,Mainz,Dortmund,bsE5kOg9,WrjrBuU2,1,2,,,,0
+1543069800,Hertha Berlin,Hoffenheim,WrjrBuU2,n7lWn9DL,3,3,,,,0
+1543069800,Bayern Munich,Dusseldorf,SvLFaVNH,Qmnf8wEL,3,3,,,,0
+1543069800,Augsburg,Eintracht Frankfurt,Qmnf8wEL,86lnAaq9,1,3,,,,0
+1543080600,Schalke,Nurnberg,I7p2Damb,ncmj9JbF,5,2,,,,0
+1543156200,Freiburg,Werder Bremen,86lnAaq9,EVomMG4o,1,1,,,,0
+1543165200,B. Monchengladbach,Hannover,ncmj9JbF,n7lWn9DL,4,1,,,,0
+1543606200,Dusseldorf,Mainz,Qmnf8wEL,bsE5kOg9,0,1,,,,0
+1543674600,Werder Bremen,Bayern Munich,EVomMG4o,SvLFaVNH,1,2,,,,0
+1543674600,Stuttgart,Augsburg,f1Z3XxZa,Qmnf8wEL,1,0,,,,0
+1543674600,Hannover,Hertha Berlin,n7lWn9DL,WrjrBuU2,0,2,,,,0
+1543674600,Dortmund,Freiburg,WrjrBuU2,86lnAaq9,2,0,,,,0
+1543685400,Hoffenheim,Schalke,n7lWn9DL,I7p2Damb,1,1,,,,0
+1543761000,RB Leipzig,B. Monchengladbach,WvvSE8Dm,ncmj9JbF,2,0,,,,0
+1543770000,Eintracht Frankfurt,Wolfsburg,86lnAaq9,KjF1j4v3,1,2,,,,0
+1543865400,Nurnberg,Bayer Leverkusen,ncmj9JbF,WrjrBuU2,1,1,,,,0
+1544211000,Werder Bremen,Dusseldorf,EVomMG4o,Qmnf8wEL,3,1,,,,0
+1544279400,Wolfsburg,Hoffenheim,KjF1j4v3,n7lWn9DL,2,2,,,,0
+1544279400,Schalke,Dortmund,I7p2Damb,WrjrBuU2,1,2,,,,0
+1544279400,Freiburg,RB Leipzig,86lnAaq9,WvvSE8Dm,3,0,,,,0
+1544279400,Bayern Munich,Nurnberg,SvLFaVNH,ncmj9JbF,3,0,,,,0
+1544279400,Bayer Leverkusen,Augsburg,WrjrBuU2,Qmnf8wEL,1,0,,,,0
+1544290200,Hertha Berlin,Eintracht Frankfurt,WrjrBuU2,86lnAaq9,1,0,,,,0
+1544365800,Mainz,Hannover,bsE5kOg9,n7lWn9DL,1,1,,,,0
+1544374800,B. Monchengladbach,Stuttgart,ncmj9JbF,f1Z3XxZa,3,0,,,,0
+1544815800,Nurnberg,Wolfsburg,ncmj9JbF,KjF1j4v3,0,2,,,,0
+1544884200,Stuttgart,Hertha Berlin,f1Z3XxZa,WrjrBuU2,2,1,,,,0
+1544884200,Hoffenheim,B. Monchengladbach,n7lWn9DL,ncmj9JbF,0,0,,,,0
+1544884200,Hannover,Bayern Munich,n7lWn9DL,SvLFaVNH,0,4,,,,0
+1544884200,Dusseldorf,Freiburg,Qmnf8wEL,86lnAaq9,2,0,,,,0
+1544884200,Augsburg,Schalke,Qmnf8wEL,I7p2Damb,1,1,,,,0
+1544895000,Dortmund,Werder Bremen,WrjrBuU2,EVomMG4o,2,1,,,,0
+1544970600,RB Leipzig,Mainz,WvvSE8Dm,bsE5kOg9,4,1,,,,0
+1544979600,Eintracht Frankfurt,Bayer Leverkusen,86lnAaq9,WrjrBuU2,2,1,,,,0
+1545154200,B. Monchengladbach,Nurnberg,ncmj9JbF,ncmj9JbF,2,0,,,,0
+1545161400,Wolfsburg,Stuttgart,KjF1j4v3,f1Z3XxZa,2,0,,,,0
+1545161400,Hertha Berlin,Augsburg,WrjrBuU2,Qmnf8wEL,2,2,,,,0
+1545161400,Dusseldorf,Dortmund,Qmnf8wEL,WrjrBuU2,2,1,,,,0
+1545240600,Schalke,Bayer Leverkusen,I7p2Damb,WrjrBuU2,1,2,,,,0
+1545247800,Werder Bremen,Hoffenheim,EVomMG4o,n7lWn9DL,1,1,,,,0
+1545247800,Mainz,Eintracht Frankfurt,bsE5kOg9,86lnAaq9,2,2,,,,0
+1545247800,Freiburg,Hannover,86lnAaq9,n7lWn9DL,1,1,,,,0
+1545247800,Bayern Munich,RB Leipzig,SvLFaVNH,WvvSE8Dm,1,0,,,,0
+1545420600,Dortmund,B. Monchengladbach,WrjrBuU2,ncmj9JbF,2,1,,,,0
+1545489000,Stuttgart,Schalke,f1Z3XxZa,I7p2Damb,1,3,,,,0
+1545489000,RB Leipzig,Werder Bremen,WvvSE8Dm,EVomMG4o,3,2,,,,0
+1545489000,Nurnberg,Freiburg,ncmj9JbF,86lnAaq9,0,1,,,,0
+1545489000,Hannover,Dusseldorf,n7lWn9DL,Qmnf8wEL,0,1,,,,0
+1545489000,Bayer Leverkusen,Hertha Berlin,WrjrBuU2,WrjrBuU2,3,1,,,,0
+1545499800,Eintracht Frankfurt,Bayern Munich,86lnAaq9,SvLFaVNH,0,3,,,,0
+1545575400,Augsburg,Wolfsburg,Qmnf8wEL,KjF1j4v3,2,3,,,,0
+1545584400,Hoffenheim,Mainz,n7lWn9DL,bsE5kOg9,1,1,,,,0
+1547839800,Hoffenheim,Bayern Munich,n7lWn9DL,SvLFaVNH,1,3,,,,0
+1547908200,Stuttgart,Mainz,f1Z3XxZa,bsE5kOg9,2,3,,,,0
+1547908200,Hannover,Werder Bremen,n7lWn9DL,EVomMG4o,0,1,,,,0
+1547908200,Eintracht Frankfurt,Freiburg,86lnAaq9,86lnAaq9,3,1,,,,0
+1547908200,Bayer Leverkusen,B. Monchengladbach,WrjrBuU2,ncmj9JbF,0,1,,,,0
+1547908200,Augsburg,Dusseldorf,Qmnf8wEL,Qmnf8wEL,1,2,,,,0
+1547919000,RB Leipzig,Dortmund,WvvSE8Dm,WrjrBuU2,0,1,,,,0
+1547994600,Nurnberg,Hertha Berlin,ncmj9JbF,WrjrBuU2,1,3,,,,0
+1548003600,Schalke,Wolfsburg,I7p2Damb,KjF1j4v3,2,1,,,,0
+1548444600,Hertha Berlin,Schalke,WrjrBuU2,I7p2Damb,2,2,,,,0
+1548513000,Wolfsburg,Bayer Leverkusen,KjF1j4v3,WrjrBuU2,0,3,,,,0
+1548513000,Mainz,Nurnberg,bsE5kOg9,ncmj9JbF,2,1,,,,0
+1548513000,Freiburg,Hoffenheim,86lnAaq9,n7lWn9DL,2,4,,,,0
+1548513000,Dortmund,Hannover,WrjrBuU2,n7lWn9DL,5,1,,,,0
+1548513000,B. Monchengladbach,Augsburg,ncmj9JbF,Qmnf8wEL,2,0,,,,0
+1548523800,Werder Bremen,Eintracht Frankfurt,EVomMG4o,86lnAaq9,2,2,,,,0
+1548599400,Bayern Munich,Stuttgart,SvLFaVNH,f1Z3XxZa,4,1,,,,0
+1548608400,Dusseldorf,RB Leipzig,Qmnf8wEL,WvvSE8Dm,0,4,,,,0
+1549049400,Hannover,RB Leipzig,n7lWn9DL,WvvSE8Dm,0,3,,,,0
+1549117800,Nurnberg,Werder Bremen,ncmj9JbF,EVomMG4o,1,1,,,,0
+1549117800,Hoffenheim,Dusseldorf,n7lWn9DL,Qmnf8wEL,1,1,,,,0
+1549117800,Hertha Berlin,Wolfsburg,WrjrBuU2,KjF1j4v3,0,1,,,,0
+1549117800,Eintracht Frankfurt,Dortmund,86lnAaq9,WrjrBuU2,1,1,,,,0
+1549117800,Bayer Leverkusen,Bayern Munich,WrjrBuU2,SvLFaVNH,3,1,,,,0
+1549128600,Schalke,B. Monchengladbach,I7p2Damb,ncmj9JbF,0,2,,,,0
+1549204200,Augsburg,Mainz,Qmnf8wEL,bsE5kOg9,3,0,,,,0
+1549213200,Stuttgart,Freiburg,f1Z3XxZa,86lnAaq9,2,2,,,,0
+1549654200,Mainz,Bayer Leverkusen,bsE5kOg9,WrjrBuU2,1,5,,,,0
+1549722600,RB Leipzig,Eintracht Frankfurt,WvvSE8Dm,86lnAaq9,0,0,,,,0
+1549722600,Hannover,Nurnberg,n7lWn9DL,ncmj9JbF,2,0,,,,0
+1549722600,Freiburg,Wolfsburg,86lnAaq9,KjF1j4v3,3,3,,,,0
+1549722600,Dortmund,Hoffenheim,WrjrBuU2,n7lWn9DL,3,3,,,,0
+1549722600,B. Monchengladbach,Hertha Berlin,ncmj9JbF,WrjrBuU2,0,3,,,,0
+1549733400,Bayern Munich,Schalke,SvLFaVNH,I7p2Damb,3,1,,,,0
+1549809000,Werder Bremen,Augsburg,EVomMG4o,Qmnf8wEL,4,0,,,,0
+1549818000,Dusseldorf,Stuttgart,Qmnf8wEL,f1Z3XxZa,3,0,,,,0
+1550259000,Augsburg,Bayern Munich,Qmnf8wEL,SvLFaVNH,2,3,,,,0
+1550327400,Wolfsburg,Mainz,KjF1j4v3,bsE5kOg9,3,0,,,,0
+1550327400,Stuttgart,RB Leipzig,f1Z3XxZa,WvvSE8Dm,1,3,,,,0
+1550327400,Schalke,Freiburg,I7p2Damb,86lnAaq9,0,0,,,,0
+1550327400,Hoffenheim,Hannover,n7lWn9DL,n7lWn9DL,3,0,,,,0
+1550338200,Hertha Berlin,Werder Bremen,WrjrBuU2,EVomMG4o,1,1,,,,0
+1550413800,Eintracht Frankfurt,B. Monchengladbach,86lnAaq9,ncmj9JbF,1,1,,,,0
+1550422800,Bayer Leverkusen,Dusseldorf,WrjrBuU2,Qmnf8wEL,2,0,,,,0
+1550518200,Nurnberg,Dortmund,ncmj9JbF,WrjrBuU2,0,0,,,,0
+1550863800,Werder Bremen,Stuttgart,EVomMG4o,f1Z3XxZa,1,1,,,,0
+1550932200,Mainz,Schalke,bsE5kOg9,I7p2Damb,3,0,,,,0
+1550932200,Freiburg,Augsburg,86lnAaq9,Qmnf8wEL,5,1,,,,0
+1550932200,Bayern Munich,Hertha Berlin,SvLFaVNH,WrjrBuU2,1,0,,,,0
+1550932200,B. Monchengladbach,Wolfsburg,ncmj9JbF,KjF1j4v3,0,3,,,,0
+1550943000,Dusseldorf,Nurnberg,Qmnf8wEL,ncmj9JbF,2,1,,,,0
+1551018600,Hannover,Eintracht Frankfurt,n7lWn9DL,86lnAaq9,0,3,,,,0
+1551027600,Dortmund,Bayer Leverkusen,WrjrBuU2,WrjrBuU2,3,2,,,,0
+1551123000,RB Leipzig,Hoffenheim,WvvSE8Dm,n7lWn9DL,1,1,,,,0
+1551468600,Augsburg,Dortmund,Qmnf8wEL,WrjrBuU2,2,1,,,,0
+1551537000,Schalke,Dusseldorf,I7p2Damb,Qmnf8wEL,0,4,,,,0
+1551537000,Nurnberg,RB Leipzig,ncmj9JbF,WvvSE8Dm,0,1,,,,0
+1551537000,Hertha Berlin,Mainz,WrjrBuU2,bsE5kOg9,2,1,,,,0
+1551537000,Eintracht Frankfurt,Hoffenheim,86lnAaq9,n7lWn9DL,3,2,,,,0
+1551537000,Bayer Leverkusen,Freiburg,WrjrBuU2,86lnAaq9,2,0,,,,0
+1551547800,B. Monchengladbach,Bayern Munich,ncmj9JbF,SvLFaVNH,1,5,,,,0
+1551623400,Stuttgart,Hannover,f1Z3XxZa,n7lWn9DL,5,1,,,,0
+1551632400,Wolfsburg,Werder Bremen,KjF1j4v3,EVomMG4o,1,1,,,,0
+1552073400,Werder Bremen,Schalke,EVomMG4o,I7p2Damb,4,2,,,,0
+1552141800,RB Leipzig,Augsburg,WvvSE8Dm,Qmnf8wEL,0,0,,,,0
+1552141800,Freiburg,Hertha Berlin,86lnAaq9,WrjrBuU2,2,1,,,,0
+1552141800,Dortmund,Stuttgart,WrjrBuU2,f1Z3XxZa,3,1,,,,0
+1552141800,Bayern Munich,Wolfsburg,SvLFaVNH,KjF1j4v3,6,0,,,,0
+1552152600,Mainz,B. Monchengladbach,bsE5kOg9,ncmj9JbF,0,1,,,,0
+1552228200,Hoffenheim,Nurnberg,n7lWn9DL,ncmj9JbF,2,1,,,,0
+1552237200,Hannover,Bayer Leverkusen,n7lWn9DL,WrjrBuU2,2,3,,,,0
+1552332600,Dusseldorf,Eintracht Frankfurt,Qmnf8wEL,86lnAaq9,0,3,,,,0
+1552678200,B. Monchengladbach,Freiburg,ncmj9JbF,86lnAaq9,1,1,,,,0
+1552746600,Wolfsburg,Dusseldorf,KjF1j4v3,Qmnf8wEL,5,2,,,,0
+1552746600,Stuttgart,Hoffenheim,f1Z3XxZa,n7lWn9DL,1,1,,,,0
+1552746600,Schalke,RB Leipzig,I7p2Damb,WvvSE8Dm,0,1,,,,0
+1552746600,Augsburg,Hannover,Qmnf8wEL,n7lWn9DL,3,1,,,,0
+1552757400,Hertha Berlin,Dortmund,WrjrBuU2,WrjrBuU2,2,3,,,,0
+1552825800,Bayer Leverkusen,Werder Bremen,WrjrBuU2,EVomMG4o,1,3,,,,0
+1552833000,Eintracht Frankfurt,Nurnberg,86lnAaq9,ncmj9JbF,1,0,,,,0
+1552842000,Bayern Munich,Mainz,SvLFaVNH,bsE5kOg9,6,0,,,,0
+1553887800,Hoffenheim,Bayer Leverkusen,n7lWn9DL,WrjrBuU2,4,1,,,,0
+1553956200,Werder Bremen,Mainz,EVomMG4o,bsE5kOg9,3,1,,,,0
+1553956200,Nurnberg,Augsburg,ncmj9JbF,Qmnf8wEL,3,0,,,,0
+1553956200,Freiburg,Bayern Munich,86lnAaq9,SvLFaVNH,1,1,,,,0
+1553956200,Dusseldorf,B. Monchengladbach,Qmnf8wEL,ncmj9JbF,3,1,,,,0
+1553956200,Dortmund,Wolfsburg,WrjrBuU2,KjF1j4v3,2,0,,,,0
+1553967000,RB Leipzig,Hertha Berlin,WvvSE8Dm,WrjrBuU2,5,0,,,,0
+1554039000,Hannover,Schalke,n7lWn9DL,I7p2Damb,0,1,,,,0
+1554048000,Eintracht Frankfurt,Stuttgart,86lnAaq9,f1Z3XxZa,3,0,,,,0
+1554489000,Mainz,Freiburg,bsE5kOg9,86lnAaq9,5,0,,,,0
+1554557400,Wolfsburg,Hannover,KjF1j4v3,n7lWn9DL,3,1,,,,0
+1554557400,Stuttgart,Nurnberg,f1Z3XxZa,ncmj9JbF,1,1,,,,0
+1554557400,Schalke,Eintracht Frankfurt,I7p2Damb,86lnAaq9,1,2,,,,0
+1554557400,Hertha Berlin,Dusseldorf,WrjrBuU2,Qmnf8wEL,1,2,,,,0
+1554557400,Bayer Leverkusen,RB Leipzig,WrjrBuU2,WvvSE8Dm,2,4,,,,0
+1554568200,Bayern Munich,Dortmund,SvLFaVNH,WrjrBuU2,5,0,,,,0
+1554643800,Augsburg,Hoffenheim,Qmnf8wEL,n7lWn9DL,0,4,,,,0
+1554652800,B. Monchengladbach,Werder Bremen,ncmj9JbF,EVomMG4o,1,1,,,,0
+1555093800,Nurnberg,Schalke,ncmj9JbF,I7p2Damb,1,1,,,,0
+1555162200,Werder Bremen,Freiburg,EVomMG4o,86lnAaq9,2,1,,,,0
+1555162200,Stuttgart,Bayer Leverkusen,f1Z3XxZa,WrjrBuU2,0,1,,,,0
+1555162200,RB Leipzig,Wolfsburg,WvvSE8Dm,KjF1j4v3,2,0,,,,0
+1555162200,Hannover,B. Monchengladbach,n7lWn9DL,ncmj9JbF,0,1,,,,0
+1555173000,Dortmund,Mainz,WrjrBuU2,bsE5kOg9,2,1,,,,0
+1555241400,Hoffenheim,Hertha Berlin,n7lWn9DL,WrjrBuU2,2,0,,,,0
+1555248600,Dusseldorf,Bayern Munich,Qmnf8wEL,SvLFaVNH,1,4,,,,0
+1555257600,Eintracht Frankfurt,Augsburg,86lnAaq9,Qmnf8wEL,1,3,,,,0
+1555767000,Mainz,Dusseldorf,bsE5kOg9,Qmnf8wEL,3,1,,,,0
+1555767000,Bayern Munich,Werder Bremen,SvLFaVNH,EVomMG4o,1,0,,,,0
+1555767000,Bayer Leverkusen,Nurnberg,WrjrBuU2,ncmj9JbF,2,0,,,,0
+1555767000,Augsburg,Stuttgart,Qmnf8wEL,f1Z3XxZa,6,0,,,,0
+1555777800,B. Monchengladbach,RB Leipzig,ncmj9JbF,WvvSE8Dm,1,2,,,,0
+1555785000,Schalke,Hoffenheim,I7p2Damb,n7lWn9DL,2,5,,,,0
+1555853400,Freiburg,Dortmund,86lnAaq9,WrjrBuU2,0,4,,,,0
+1555862400,Hertha Berlin,Hannover,WrjrBuU2,n7lWn9DL,0,0,,,,0
+1555957800,Wolfsburg,Eintracht Frankfurt,KjF1j4v3,86lnAaq9,1,1,,,,0
+1556303400,Augsburg,Bayer Leverkusen,Qmnf8wEL,WrjrBuU2,1,4,,,,0
+1556371800,RB Leipzig,Freiburg,WvvSE8Dm,86lnAaq9,2,1,,,,0
+1556371800,Hannover,Mainz,n7lWn9DL,bsE5kOg9,1,0,,,,0
+1556371800,Eintracht Frankfurt,Hertha Berlin,86lnAaq9,WrjrBuU2,0,0,,,,0
+1556371800,Dusseldorf,Werder Bremen,Qmnf8wEL,EVomMG4o,4,1,,,,0
+1556371800,Dortmund,Schalke,WrjrBuU2,I7p2Damb,2,4,,,,0
+1556382600,Stuttgart,B. Monchengladbach,f1Z3XxZa,ncmj9JbF,1,0,,,,0
+1556458200,Hoffenheim,Wolfsburg,n7lWn9DL,KjF1j4v3,1,4,,,,0
+1556467200,Nurnberg,Bayern Munich,ncmj9JbF,SvLFaVNH,1,1,,,,0
+1556908200,Mainz,RB Leipzig,bsE5kOg9,WvvSE8Dm,3,3,,,,0
+1556976600,Wolfsburg,Nurnberg,KjF1j4v3,ncmj9JbF,2,0,,,,0
+1556976600,Hertha Berlin,Stuttgart,WrjrBuU2,f1Z3XxZa,3,1,,,,0
+1556976600,Bayern Munich,Hannover,SvLFaVNH,n7lWn9DL,3,1,,,,0
+1556976600,B. Monchengladbach,Hoffenheim,ncmj9JbF,n7lWn9DL,2,2,,,,0
+1556987400,Werder Bremen,Dortmund,EVomMG4o,WrjrBuU2,2,2,,,,0
+1557055800,Schalke,Augsburg,I7p2Damb,Qmnf8wEL,0,0,,,,0
+1557063000,Freiburg,Dusseldorf,86lnAaq9,Qmnf8wEL,1,1,,,,0
+1557072000,Bayer Leverkusen,Eintracht Frankfurt,WrjrBuU2,86lnAaq9,6,1,,,,0
+1557581400,Stuttgart,Wolfsburg,f1Z3XxZa,KjF1j4v3,3,0,,,,0
+1557581400,RB Leipzig,Bayern Munich,WvvSE8Dm,SvLFaVNH,0,0,,,,0
+1557581400,Nurnberg,B. Monchengladbach,ncmj9JbF,ncmj9JbF,0,4,,,,0
+1557581400,Hoffenheim,Werder Bremen,n7lWn9DL,EVomMG4o,0,1,,,,0
+1557581400,Hannover,Freiburg,n7lWn9DL,86lnAaq9,3,0,,,,0
+1557581400,Dortmund,Dusseldorf,WrjrBuU2,Qmnf8wEL,3,2,,,,0
+1557581400,Bayer Leverkusen,Schalke,WrjrBuU2,I7p2Damb,1,1,,,,0
+1557581400,Augsburg,Hertha Berlin,Qmnf8wEL,WrjrBuU2,3,4,,,,0
+1557676800,Eintracht Frankfurt,Mainz,86lnAaq9,bsE5kOg9,0,2,,,,0
+1558186200,Wolfsburg,Augsburg,KjF1j4v3,Qmnf8wEL,8,1,,,,0
+1558186200,Werder Bremen,RB Leipzig,EVomMG4o,WvvSE8Dm,2,1,,,,0
+1558186200,Schalke,Stuttgart,I7p2Damb,f1Z3XxZa,0,0,,,,0
+1558186200,Mainz,Hoffenheim,bsE5kOg9,n7lWn9DL,4,2,,,,0
+1558186200,Hertha Berlin,Bayer Leverkusen,WrjrBuU2,WrjrBuU2,1,5,,,,0
+1558186200,Freiburg,Nurnberg,86lnAaq9,ncmj9JbF,5,1,,,,0
+1558186200,Dusseldorf,Hannover,Qmnf8wEL,n7lWn9DL,2,1,,,,0
+1558186200,Bayern Munich,Eintracht Frankfurt,SvLFaVNH,86lnAaq9,5,1,,,,0
+1558186200,B. Monchengladbach,Dortmund,ncmj9JbF,WrjrBuU2,0,2,,,,0
+1558636200,Stuttgart,Union Berlin,f1Z3XxZa,ncmj9JbF,2,2,,,,0
+1558981800,Union Berlin,Stuttgart,ncmj9JbF,f1Z3XxZa,0,0,,,,0

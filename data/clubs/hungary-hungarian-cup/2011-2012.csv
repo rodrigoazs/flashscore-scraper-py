@@ -1,74 +1,74 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1316525400,Szolnoki MAV,Szeged,1,1,Pen,2,1,0
-1316611800,Zalaegerszegi II,Siofok,0,2,,,,0
-1316611800,Videoton II,Gyor,0,3,,,,0
-1316611800,Toltestava,Veszprem,2,4,,,,0
-1316611800,Szigetszentmiklos,Honved,1,1,AET,2,1,0
-1316611800,Rakosmenti KSK,Ujpest II,4,1,,,,0
-1316611800,Putnok,Debrecen II,3,0,,,,0
-1316611800,Paks II,Pecsi MFC,0,3,,,,0
-1316611800,Nagyivani,Bekescsaba 1912,1,3,,,,0
-1316611800,MTK Budapest,REAC,4,0,,,,0
-1316611800,Mezokovesd-Zsory,Nyiregyhaza,4,1,,,,0
-1316611800,Kentaur Sprint,Kaposvar,0,2,,,,0
-1316611800,Kazincbarcikai,Debrecen,1,5,,,,0
-1316611800,Janossomorja,Sarvari,3,1,,,,0
-1316611800,Harta SE,Kozarmisleny SE,2,2,AET,2,4,0
-1316611800,Gyorszemere,Lombard Papa,0,10,,,,0
-1316611800,Gyor II,Tatabanya,0,0,Pen,0,1,0
-1316611800,Eger SE,DVTK,0,0,Pen,0,1,0
-1316611800,Csakvari,Honved II,2,1,,,,0
-1316611800,Cegledi,Oroshaza,3,0,,,,0
-1316611800,Budaorsi SC,Vasas,0,2,,,,0
-1316611800,Bolyi,Bajai,2,5,,,,0
-1316611800,BKV Elore,Dunaujvaros,3,0,,,,0
-1316611800,Aszalo SE,Balmazujvaros Sport,0,2,,,,0
-1316620800,Vac,Ujpest,1,4,,,,0
-1316620800,Soproni VSE,Haladas,0,2,,,,0
-1316620800,Gyirmot,Ajka,3,3,Pen,4,3,0
-1317216600,Kaposvar II,Zalaegerszegi,1,0,,,,0
-1319544000,Veszprem,Haladas,0,2,,,,0
-1319544000,Kaposvar II,Gyirmot,3,2,,,,0
-1319544000,Janossomorja,Gyor,2,9,,,,0
-1319544000,BKV Elore,DVTK,1,4,,,,0
-1319554800,Bekescsaba 1912,Vasas,3,2,,,,0
-1319630400,Tatabanya,Videoton,0,2,,,,0
-1319630400,Szolnoki MAV,Ferencvaros,2,5,,,,0
-1319630400,Szigetszentmiklos,Ujpest,3,3,Pen,3,4,0
-1319630400,Rakosmenti KSK,Kaposvar,0,0,AET,0,1,0
-1319630400,Putnok,Paks,3,2,,,,0
-1319630400,Mezokovesd-Zsory,Kecskemeti TE,2,3,,,,0
-1319630400,Kozarmisleny SE,Siofok,2,1,,,,0
-1319630400,Csakvari,Pecsi MFC,2,2,AET,2,3,0
-1319630400,Cegledi,Debrecen,0,2,,,,0
-1319630400,Balmazujvaros Sport,MTK Budapest,1,2,,,,0
-1319630400,Bajai,Lombard Papa,1,1,Pen,2,1,0
-1322654400,Putnok,Kaposvar,1,1,,,,0
-1322654400,Kaposvar II,Ujpest,2,1,,,,0
-1322654400,Bajai,Kozarmisleny SE,2,0,,,,0
-1322668800,Kecskemeti TE,Debrecen,1,2,,,,0
-1322670600,MTK Budapest,Pecsi MFC,0,1,,,,0
-1322672400,Videoton,Haladas,1,0,,,,0
-1322672400,DVTK,Gyor,1,1,,,,0
-1322672400,Bekescsaba 1912,Ferencvaros,0,0,,,,0
-1322910000,Kozarmisleny SE,Bajai,0,0,,,,0
-1322917200,Kaposvar,Putnok,3,0,,,,0
-1322920800,Haladas,Videoton,0,0,,,,0
-1322920800,Gyor,DVTK,4,1,,,,0
-1322920800,Ferencvaros,Bekescsaba 1912,2,2,,,,0
-1322920800,Debrecen,Kecskemeti TE,1,1,,,,0
-1322924400,Ujpest,Kaposvar II,2,0,,,,0
-1322924400,Pecsi MFC,MTK Budapest,1,2,,,,0
-1330174800,Kaposvar,Debrecen,0,1,,,,0
-1330174800,Bekescsaba 1912,MTK Budapest,0,3,,,,0
-1330174800,Bajai,Ujpest,1,3,,,,0
-1330182000,Videoton,Gyor,5,1,,,,0
-1331650800,Ujpest,Bajai,4,0,,,,0
-1331658000,Debrecen,Kaposvar,0,0,,,,0
-1331742600,MTK Budapest,Bekescsaba 1912,3,0,,,,0
-1331744400,Gyor,Videoton,0,1,,,,0
-1332345600,MTK Budapest,Videoton,2,3,,,,0
-1332353700,Debrecen,Ujpest,2,1,,,,0
-1334073600,Videoton,MTK Budapest,0,2,,,,0
-1334160000,Ujpest,Debrecen,1,3,,,,0
-1335888000,MTK Budapest,Debrecen,3,3,Pen,3,4,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1316525400,Szolnoki MAV,Szeged,hEhfZQIn,4Eieg1S8,1,1,Pen,2,1,0
+1316611800,Zalaegerszegi II,Siofok,M3XDl8RR,jNsOhlxL,0,2,,,,0
+1316611800,Videoton II,Gyor,r9YXWu9h,E54OB8CP,0,3,,,,0
+1316611800,Toltestava,Veszprem,,vowUzD7B,2,4,,,,0
+1316611800,Szigetszentmiklos,Honved,v5HwoOHb,0bbECxUd,1,1,AET,2,1,0
+1316611800,Rakosmenti KSK,Ujpest II,p0B1QB7K,tb3O8fBf,4,1,,,,0
+1316611800,Putnok,Debrecen II,dWMUxrXk,QPotZjND,3,0,,,,0
+1316611800,Paks II,Pecsi MFC,xxeiwCld,IP5ctvAE,0,3,,,,0
+1316611800,Nagyivani,Bekescsaba 1912,,EwC2WVw6,1,3,,,,0
+1316611800,MTK Budapest,REAC,06r6gWo9,xMKkVy4d,4,0,,,,0
+1316611800,Mezokovesd-Zsory,Nyiregyhaza,j3F8BTaT,pxcIObkB,4,1,,,,0
+1316611800,Kentaur Sprint,Kaposvar,,vZ6gsKf8,0,2,,,,0
+1316611800,Kazincbarcikai,Debrecen,pE6MegdU,CMHdHsML,1,5,,,,0
+1316611800,Janossomorja,Sarvari,8fEZEfFG,WfOXlfgl,3,1,,,,0
+1316611800,Harta SE,Kozarmisleny SE,n9PgMum7,4OGyjjXI,2,2,AET,2,4,0
+1316611800,Gyorszemere,Lombard Papa,,IP5ctvAE,0,10,,,,0
+1316611800,Gyor II,Tatabanya,2ylh3sPT,YXyLZhye,0,0,Pen,0,1,0
+1316611800,Eger SE,DVTK,vZdK4Ad9,QwVphY9e,0,0,Pen,0,1,0
+1316611800,Csakvari,Honved II,bHxTHQRE,Eiwk13RC,2,1,,,,0
+1316611800,Cegledi,Oroshaza,KKzlL3JD,j1A6VkgC,3,0,,,,0
+1316611800,Budaorsi SC,Vasas,YkXnsxGG,vZxvDf2E,0,2,,,,0
+1316611800,Bolyi,Bajai,ryZeTgfb,GKs9VyAl,2,5,,,,0
+1316611800,BKV Elore,Dunaujvaros,dY9d4gsj,MLrEQQEq,3,0,,,,0
+1316611800,Aszalo SE,Balmazujvaros Sport,,jDEZ8DTP,0,2,,,,0
+1316620800,Vac,Ujpest,U5xeyX8K,fRhD1w4R,1,4,,,,0
+1316620800,Soproni VSE,Haladas,2e4JEZ9J,Gxgti1jl,0,2,,,,0
+1316620800,Gyirmot,Ajka,zDzvQEvc,naOND1eG,3,3,Pen,4,3,0
+1317216600,Kaposvar II,Zalaegerszegi,S0IXjWHC,K6VrDp5l,1,0,,,,0
+1319544000,Veszprem,Haladas,vowUzD7B,Gxgti1jl,0,2,,,,0
+1319544000,Kaposvar II,Gyirmot,S0IXjWHC,zDzvQEvc,3,2,,,,0
+1319544000,Janossomorja,Gyor,8fEZEfFG,E54OB8CP,2,9,,,,0
+1319544000,BKV Elore,DVTK,dY9d4gsj,QwVphY9e,1,4,,,,0
+1319554800,Bekescsaba 1912,Vasas,EwC2WVw6,vZxvDf2E,3,2,,,,0
+1319630400,Tatabanya,Videoton,YXyLZhye,r9YXWu9h,0,2,,,,0
+1319630400,Szolnoki MAV,Ferencvaros,hEhfZQIn,U3aHptUA,2,5,,,,0
+1319630400,Szigetszentmiklos,Ujpest,v5HwoOHb,fRhD1w4R,3,3,Pen,3,4,0
+1319630400,Rakosmenti KSK,Kaposvar,p0B1QB7K,vZ6gsKf8,0,0,AET,0,1,0
+1319630400,Putnok,Paks,dWMUxrXk,KQLmg0CN,3,2,,,,0
+1319630400,Mezokovesd-Zsory,Kecskemeti TE,j3F8BTaT,SMkitFdf,2,3,,,,0
+1319630400,Kozarmisleny SE,Siofok,4OGyjjXI,jNsOhlxL,2,1,,,,0
+1319630400,Csakvari,Pecsi MFC,bHxTHQRE,IP5ctvAE,2,2,AET,2,3,0
+1319630400,Cegledi,Debrecen,KKzlL3JD,CMHdHsML,0,2,,,,0
+1319630400,Balmazujvaros Sport,MTK Budapest,jDEZ8DTP,06r6gWo9,1,2,,,,0
+1319630400,Bajai,Lombard Papa,GKs9VyAl,IP5ctvAE,1,1,Pen,2,1,0
+1322654400,Putnok,Kaposvar,dWMUxrXk,vZ6gsKf8,1,1,,,,0
+1322654400,Kaposvar II,Ujpest,S0IXjWHC,fRhD1w4R,2,1,,,,0
+1322654400,Bajai,Kozarmisleny SE,GKs9VyAl,4OGyjjXI,2,0,,,,0
+1322668800,Kecskemeti TE,Debrecen,SMkitFdf,CMHdHsML,1,2,,,,0
+1322670600,MTK Budapest,Pecsi MFC,06r6gWo9,IP5ctvAE,0,1,,,,0
+1322672400,Videoton,Haladas,r9YXWu9h,Gxgti1jl,1,0,,,,0
+1322672400,DVTK,Gyor,QwVphY9e,E54OB8CP,1,1,,,,0
+1322672400,Bekescsaba 1912,Ferencvaros,EwC2WVw6,U3aHptUA,0,0,,,,0
+1322910000,Kozarmisleny SE,Bajai,4OGyjjXI,GKs9VyAl,0,0,,,,0
+1322917200,Kaposvar,Putnok,vZ6gsKf8,dWMUxrXk,3,0,,,,0
+1322920800,Haladas,Videoton,Gxgti1jl,r9YXWu9h,0,0,,,,0
+1322920800,Gyor,DVTK,E54OB8CP,QwVphY9e,4,1,,,,0
+1322920800,Ferencvaros,Bekescsaba 1912,U3aHptUA,EwC2WVw6,2,2,,,,0
+1322920800,Debrecen,Kecskemeti TE,CMHdHsML,SMkitFdf,1,1,,,,0
+1322924400,Ujpest,Kaposvar II,fRhD1w4R,S0IXjWHC,2,0,,,,0
+1322924400,Pecsi MFC,MTK Budapest,IP5ctvAE,06r6gWo9,1,2,,,,0
+1330174800,Kaposvar,Debrecen,vZ6gsKf8,CMHdHsML,0,1,,,,0
+1330174800,Bekescsaba 1912,MTK Budapest,EwC2WVw6,06r6gWo9,0,3,,,,0
+1330174800,Bajai,Ujpest,GKs9VyAl,fRhD1w4R,1,3,,,,0
+1330182000,Videoton,Gyor,r9YXWu9h,E54OB8CP,5,1,,,,0
+1331650800,Ujpest,Bajai,fRhD1w4R,GKs9VyAl,4,0,,,,0
+1331658000,Debrecen,Kaposvar,CMHdHsML,vZ6gsKf8,0,0,,,,0
+1331742600,MTK Budapest,Bekescsaba 1912,06r6gWo9,EwC2WVw6,3,0,,,,0
+1331744400,Gyor,Videoton,E54OB8CP,r9YXWu9h,0,1,,,,0
+1332345600,MTK Budapest,Videoton,06r6gWo9,r9YXWu9h,2,3,,,,0
+1332353700,Debrecen,Ujpest,CMHdHsML,fRhD1w4R,2,1,,,,0
+1334073600,Videoton,MTK Budapest,r9YXWu9h,06r6gWo9,0,2,,,,0
+1334160000,Ujpest,Debrecen,fRhD1w4R,CMHdHsML,1,3,,,,0
+1335888000,MTK Budapest,Debrecen,06r6gWo9,CMHdHsML,3,3,Pen,3,4,0

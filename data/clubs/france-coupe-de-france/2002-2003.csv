@@ -1,57 +1,57 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1010152800,Wasquehal,Monaco,1,1,AET,3,2,0
-1010152800,Vitre,AC Ajaccio,1,3,,,,0
-1010154600,Grenoble,Sochaux,2,1,,,,0
-1010156400,Toulouse,Viry-Chatillon,3,1,,,,0
-1010160000,Marseille,Bastia,2,0,,,,0
-1010160000,Carquefou,Le Mans,1,1,AET,1,4,0
-1010163600,Montelimar,Lorient,0,3,,,,0
-1010163600,Forbach,Lens,2,3,,,,0
-1010165400,Nancy,Niort,0,0,AET,1,0,0
-1010170800,Valenciennes,Le Havre,2,3,,,,0
-1010170800,Quimper Stade,Lille,0,3,,,,0
-1010170800,Nice,Metz,0,0,,,,0
-1010170800,Libourne,Lyon,1,0,,,,0
-1010170800,Genets,Guingamp,0,1,,,,0
-1010170800,Caen,Auxerre,1,2,,,,0
-1010170800,Amiens,Montpellier,3,3,AET,4,3,0
-1010235600,Bourg en Bresse,Strasbourg,1,0,,,,0
-1010237400,Vitrolles,Laval,1,1,Pen,1,2,0
-1010237400,Sete,Rennes,1,4,,,,0
-1010237400,Change,Beauvais,0,4,,,,0
-1010239200,Schiltigheim,Troyes,3,1,,,,0
-1010246400,Martigues,Sedan,0,0,Pen,1,0,0
-1010246400,Besancon,PSG,0,0,AET,0,1,0
-1010246400,Armentieres,Bordeaux,0,3,,,,0
-1010764800,Reims,Nantes,0,2,,,,0
-1011913200,Lambres,Angouleme CFC,1,2,,,,0
-1011913200,Dijon,Bourg en Bresse,0,1,,,,0
-1011965400,Toulouse,Lens,1,0,,,,0
-1011967200,Schiltigheim,Beauvais,1,0,,,,0
-1011967200,Nancy,Metz,0,1,,,,0
-1011967200,Amneville,Auxerre,0,3,,,,0
-1011970800,Seyssinet,Guingamp,1,5,,,,0
-1011970800,Rennes,AC Ajaccio,3,0,,,,0
-1011970800,Martigues,Amiens,1,0,,,,0
-1011974400,Agde,Lille,0,0,AET,0,2,0
-1011976200,Bordeaux,Grenoble,2,0,,,,0
-1011978000,Quevilly Rouen,Wasquehal,1,2,,,,0
-1011978000,Libourne,Le Mans,1,1,Pen,3,2,0
-1011978000,Laval,Le Havre,2,1,,,,0
-1011978900,Lorient,Nantes,1,0,,,,0
-1011987900,PSG,Marseille,1,1,AET,2,1,0
-1013783400,Bourg en Bresse,Auxerre,1,3,,,,0
-1013785200,Martigues,Metz,2,1,,,,0
-1013792400,Schiltigheim,Toulouse,3,0,,,,0
-1013799600,Libourne,Rennes,0,3,,,,0
-1013799600,Angouleme CFC,Guingamp,0,0,Pen,1,0,0
-1013868000,Lorient,Lille,1,0,,,,0
-1013875200,Laval,PSG,0,1,,,,0
-1013886000,Bordeaux,Wasquehal,4,1,,,,0
-1016200800,Schiltigheim,Rennes,1,2,,,,0
-1016208000,Bordeaux,Lorient,2,0,,,,0
-1016218800,Martigues,PSG,0,1,,,,0
-1016298000,Angouleme CFC,Auxerre,0,0,AET,0,1,0
-1019833200,Auxerre,Rennes,2,1,,,,0
-1019933100,PSG,Bordeaux,2,0,,,,0
-1022870700,PSG,Auxerre,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1010152800,Wasquehal,Monaco,YRzi990Q,44KQTmnj,1,1,AET,3,2,0
+1010152800,Vitre,AC Ajaccio,UmVC65tk,MVq2a615,1,3,,,,0
+1010154600,Grenoble,Sochaux,Q1gteDfA,GU4hlIMk,2,1,,,,0
+1010156400,Toulouse,Viry-Chatillon,COxgbCEm,06d3VWta,3,1,,,,0
+1010160000,Marseille,Bastia,voNnDKJK,h6Qq9yDN,2,0,,,,0
+1010160000,Carquefou,Le Mans,tULS2Hxb,pztT5vMl,1,1,AET,1,4,0
+1010163600,Montelimar,Lorient,jaNMDfXG,GU4hlIMk,0,3,,,,0
+1010163600,Forbach,Lens,6eev3Itd,rTEFAmVL,2,3,,,,0
+1010165400,Nancy,Niort,Q15G9lAm,lEXkIUhm,0,0,AET,1,0,0
+1010170800,Valenciennes,Le Havre,GU4hlIMk,W0g3UmAF,2,3,,,,0
+1010170800,Quimper Stade,Lille,xzxEInXe,UDticXKP,0,3,,,,0
+1010170800,Nice,Metz,00sqJmg8,pztT5vMl,0,0,,,,0
+1010170800,Libourne,Lyon,8fhU9hrJ,GU4hlIMk,1,0,,,,0
+1010170800,Genets,Guingamp,pbniVE45,nDL04Hmj,0,1,,,,0
+1010170800,Caen,Auxerre,GUflEdQm,tY3UBVrm,1,2,,,,0
+1010170800,Amiens,Montpellier,lriTEOfc,n3xBmVJB,3,3,AET,4,3,0
+1010235600,Bourg en Bresse,Strasbourg,IFlzgqbl,lAc5wKNp,1,0,,,,0
+1010237400,Vitrolles,Laval,,bXUw9eb2,1,1,Pen,1,2,0
+1010237400,Sete,Rennes,KbNDB5K3,Y5eozcI6,1,4,,,,0
+1010237400,Change,Beauvais,MVq2a615,GlTeTYJC,0,4,,,,0
+1010239200,Schiltigheim,Troyes,IBzVCtqg,McvX4bye,3,1,,,,0
+1010246400,Martigues,Sedan,2udTwkRQ,0Ga51msj,0,0,Pen,1,0,0
+1010246400,Besancon,PSG,n7ln3l2t,A7UDDuOO,0,0,AET,0,1,0
+1010246400,Armentieres,Bordeaux,8hi3ndhH,6BghNX0a,0,3,,,,0
+1010764800,Reims,Nantes,x6KhF69U,YBWLmubi,0,2,,,,0
+1011913200,Lambres,Angouleme CFC,d0nWIEAj,lb3cM2d0,1,2,,,,0
+1011913200,Dijon,Bourg en Bresse,6qsP6K6r,IFlzgqbl,0,1,,,,0
+1011965400,Toulouse,Lens,COxgbCEm,rTEFAmVL,1,0,,,,0
+1011967200,Schiltigheim,Beauvais,IBzVCtqg,GlTeTYJC,1,0,,,,0
+1011967200,Nancy,Metz,Q15G9lAm,pztT5vMl,0,1,,,,0
+1011967200,Amneville,Auxerre,MVTE9EYa,tY3UBVrm,0,3,,,,0
+1011970800,Seyssinet,Guingamp,MuRiosfi,nDL04Hmj,1,5,,,,0
+1011970800,Rennes,AC Ajaccio,Y5eozcI6,MVq2a615,3,0,,,,0
+1011970800,Martigues,Amiens,2udTwkRQ,lriTEOfc,1,0,,,,0
+1011974400,Agde,Lille,M7JpuaqD,UDticXKP,0,0,AET,0,2,0
+1011976200,Bordeaux,Grenoble,6BghNX0a,Q1gteDfA,2,0,,,,0
+1011978000,Quevilly Rouen,Wasquehal,WUfDDYk1,YRzi990Q,1,2,,,,0
+1011978000,Libourne,Le Mans,8fhU9hrJ,pztT5vMl,1,1,Pen,3,2,0
+1011978000,Laval,Le Havre,bXUw9eb2,W0g3UmAF,2,1,,,,0
+1011978900,Lorient,Nantes,GU4hlIMk,YBWLmubi,1,0,,,,0
+1011987900,PSG,Marseille,A7UDDuOO,voNnDKJK,1,1,AET,2,1,0
+1013783400,Bourg en Bresse,Auxerre,IFlzgqbl,tY3UBVrm,1,3,,,,0
+1013785200,Martigues,Metz,2udTwkRQ,pztT5vMl,2,1,,,,0
+1013792400,Schiltigheim,Toulouse,IBzVCtqg,COxgbCEm,3,0,,,,0
+1013799600,Libourne,Rennes,8fhU9hrJ,Y5eozcI6,0,3,,,,0
+1013799600,Angouleme CFC,Guingamp,lb3cM2d0,nDL04Hmj,0,0,Pen,1,0,0
+1013868000,Lorient,Lille,GU4hlIMk,UDticXKP,1,0,,,,0
+1013875200,Laval,PSG,bXUw9eb2,A7UDDuOO,0,1,,,,0
+1013886000,Bordeaux,Wasquehal,6BghNX0a,YRzi990Q,4,1,,,,0
+1016200800,Schiltigheim,Rennes,IBzVCtqg,Y5eozcI6,1,2,,,,0
+1016208000,Bordeaux,Lorient,6BghNX0a,GU4hlIMk,2,0,,,,0
+1016218800,Martigues,PSG,2udTwkRQ,A7UDDuOO,0,1,,,,0
+1016298000,Angouleme CFC,Auxerre,lb3cM2d0,tY3UBVrm,0,0,AET,0,1,0
+1019833200,Auxerre,Rennes,tY3UBVrm,Y5eozcI6,2,1,,,,0
+1019933100,PSG,Bordeaux,A7UDDuOO,6BghNX0a,2,0,,,,0
+1022870700,PSG,Auxerre,A7UDDuOO,tY3UBVrm,1,2,,,,0

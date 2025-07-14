@@ -1,18 +1,18 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1432294200,Albirex Niigata,Svay Rieng,2,1,,,,0
-1432639800,Geylang,Lao Police,2,1,,,,0
-1432726200,Hougang,Global FC,1,1,AET,1,2,0
-1439206200,DPMM,Tampines,3,1,,,,0
-1439379000,Warriors,Lion City,1,2,,,,0
-1439465400,Tampines,DPMM,1,0,,,,0
-1439465400,Global FC,Geylang,0,1,,,,0
-1439551800,Albirex Niigata,Balestier Khalsa,1,0,,,,0
-1439638200,Lion City,Warriors,2,0,,,,0
-1439724600,Geylang,Global FC,1,2,AET,1,4,0
-1439811000,Balestier Khalsa,Albirex Niigata,1,4,,,,0
-1443785400,Global FC,Albirex Niigata,0,1,,,,0
-1443785400,DPMM,Lion City,3,2,,,,0
-1448364600,Lion City,DPMM,2,0,,,,0
-1448364600,Albirex Niigata,Global FC,2,1,,,,0
-1448614800,Global FC,DPMM,1,3,,,,0
-1448625600,Albirex Niigata,Lion City,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1432294200,Albirex Niigata,Svay Rieng,MkSbZgY3,dGrTFHpN,2,1,,,,0
+1432639800,Geylang,Lao Police,df9tRVup,hjh0nieS,2,1,,,,0
+1432726200,Hougang,Global FC,4fcEsivK,EcEATQWg,1,1,AET,1,2,0
+1439206200,DPMM,Tampines,nP3yiII0,d0hl69s2,3,1,,,,0
+1439379000,Warriors,Lion City,nNKuYSHo,pW3pRTln,1,2,,,,0
+1439465400,Tampines,DPMM,d0hl69s2,nP3yiII0,1,0,,,,0
+1439465400,Global FC,Geylang,EcEATQWg,df9tRVup,0,1,,,,0
+1439551800,Albirex Niigata,Balestier Khalsa,MkSbZgY3,MZaTAD0m,1,0,,,,0
+1439638200,Lion City,Warriors,pW3pRTln,nNKuYSHo,2,0,,,,0
+1439724600,Geylang,Global FC,df9tRVup,EcEATQWg,1,2,AET,1,4,0
+1439811000,Balestier Khalsa,Albirex Niigata,MZaTAD0m,MkSbZgY3,1,4,,,,0
+1443785400,Global FC,Albirex Niigata,EcEATQWg,MkSbZgY3,0,1,,,,0
+1443785400,DPMM,Lion City,nP3yiII0,pW3pRTln,3,2,,,,0
+1448364600,Lion City,DPMM,pW3pRTln,nP3yiII0,2,0,,,,0
+1448364600,Albirex Niigata,Global FC,MkSbZgY3,EcEATQWg,2,1,,,,0
+1448614800,Global FC,DPMM,EcEATQWg,nP3yiII0,1,3,,,,0
+1448625600,Albirex Niigata,Lion City,MkSbZgY3,pW3pRTln,2,1,,,,0

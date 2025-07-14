@@ -1,63 +1,63 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1438732800,Queretaro,San Francisco,2,0,,,,0
-1438740000,Santos Laguna,W Connection,4,0,,,,0
-1438740000,Municipal,Real Salt Lake,0,1,,,,0
-1438819200,Arabe Unido,Montego Bay,3,0,,,,0
-1438826400,Vancouver Whitecaps,Seattle Sounders,1,1,,,,0
-1438826400,Club America,Motagua,4,0,,,,0
-1438912800,Los Angeles Galaxy,Central FC,5,1,,,,0
-1438912800,Herediano,Metapan,3,0,,,,0
-1439942400,Tigres UANL,Metapan,2,1,,,,0
-1439949600,Verdes,Queretaro,0,0,,,,0
-1439949600,Los Angeles Galaxy,Comunicaciones,5,0,,,,0
-1440028800,Arabe Unido,DC United,0,1,,,,0
-1440036000,Seattle Sounders,Olimpia,2,1,,,,0
-1440036000,Club America,Ferretti,1,0,,,,0
-1440122400,Saprissa,W Connection,4,0,,,,0
-1440122400,Santa Tecla,Municipal,1,1,,,,0
-1440547200,DC United,Montego Bay,3,0,,,,0
-1440554400,Saprissa,Santos Laguna,2,1,,,,0
-1440554400,Municipal,Santa Tecla,2,1,,,,0
-1440633600,San Francisco,Queretaro,2,1,,,,0
-1440640800,Olimpia,Seattle Sounders,1,0,,,,0
-1440640800,Herediano,Tigres UANL,1,1,,,,0
-1440727200,Motagua,Ferretti,2,0,,,,0
-1440727200,Comunicaciones,Central FC,1,0,,,,0
-1442361600,DC United,Arabe Unido,2,0,,,,0
-1442368800,Santa Tecla,Real Salt Lake,0,0,,,,0
-1442448000,W Connection,Saprissa,2,1,,,,0
-1442455200,Vancouver Whitecaps,Olimpia,1,0,,,,0
-1442455200,Ferretti,Club America,1,3,,,,0
-1442534400,Central FC,Comunicaciones,1,0,,,,0
-1442541600,Queretaro,Verdes,8,0,,,,0
-1442541600,Metapan,Herediano,2,0,,,,0
-1442966400,W Connection,Santos Laguna,0,1,,,,0
-1442966400,Montego Bay,DC United,3,3,,,,0
-1442973600,Verdes,San Francisco,2,1,,,,0
-1443052800,Central FC,Los Angeles Galaxy,1,1,,,,0
-1443060000,Seattle Sounders,Vancouver Whitecaps,3,0,,,,0
-1443139200,Ferretti,Motagua,1,2,,,,0
-1443146400,Real Salt Lake,Santa Tecla,2,1,,,,0
-1443146400,Metapan,Tigres UANL,1,2,,,,0
-1445385600,Santos Laguna,Saprissa,6,1,,,,0
-1445392800,Real Salt Lake,Municipal,1,0,,,,0
-1445392800,Motagua,Club America,1,1,,,,0
-1445472000,Tigres UANL,Herediano,0,0,,,,0
-1445479200,Comunicaciones,Los Angeles Galaxy,1,1,,,,0
-1445558400,Montego Bay,Arabe Unido,1,2,,,,0
-1445565600,San Francisco,Verdes,8,0,,,,0
-1445565600,Olimpia,Vancouver Whitecaps,1,0,,,,0
-1456275600,Queretaro,DC United,2,0,,,,0
-1456282800,Seattle Sounders,Club America,2,2,,,,0
-1456362000,Tigres UANL,Real Salt Lake,2,0,,,,0
-1456369200,Los Angeles Galaxy,Santos Laguna,0,0,,,,0
-1456880400,DC United,Queretaro,1,1,,,,0
-1456887600,Santos Laguna,Los Angeles Galaxy,4,0,,,,0
-1456966800,Club America,Seattle Sounders,3,1,,,,0
-1456974000,Real Salt Lake,Tigres UANL,1,1,,,,0
-1458093600,Queretaro,Tigres UANL,0,0,,,,0
-1458180000,Santos Laguna,Club America,0,0,,,,0
-1459900800,Tigres UANL,Queretaro,2,0,,,,0
-1459908000,Club America,Santos Laguna,0,0,AET,1,0,0
-1461203100,Tigres UANL,Club America,0,2,,,,0
-1461807900,Club America,Tigres UANL,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1438732800,Queretaro,San Francisco,0rbG5js3,vTLj5hDm,2,0,,,,0
+1438740000,Santos Laguna,W Connection,bmPslben,zePXmSvq,4,0,,,,0
+1438740000,Municipal,Real Salt Lake,vTLj5hDm,vgy39tSd,0,1,,,,0
+1438819200,Arabe Unido,Montego Bay,IJKf4CSg,pj0hMIQ5,3,0,,,,0
+1438826400,Vancouver Whitecaps,Seattle Sounders,nJrkMuTE,Q7Ql2Qbi,1,1,,,,0
+1438826400,Club America,Motagua,OGkmEu0T,dtCxYreO,4,0,,,,0
+1438912800,Los Angeles Galaxy,Central FC,nqhLBCKD,6stL8agi,5,1,,,,0
+1438912800,Herediano,Metapan,zJ9gvDHG,IJKf4CSg,3,0,,,,0
+1439942400,Tigres UANL,Metapan,zgtUoENa,IJKf4CSg,2,1,,,,0
+1439949600,Verdes,Queretaro,Or6uEiR8,0rbG5js3,0,0,,,,0
+1439949600,Los Angeles Galaxy,Comunicaciones,nqhLBCKD,O2l6wJsK,5,0,,,,0
+1440028800,Arabe Unido,DC United,IJKf4CSg,QqhL41wo,0,1,,,,0
+1440036000,Seattle Sounders,Olimpia,Q7Ql2Qbi,WvziCH8E,2,1,,,,0
+1440036000,Club America,Ferretti,OGkmEu0T,nXJKIqpI,1,0,,,,0
+1440122400,Saprissa,W Connection,tnwDCzLD,zePXmSvq,4,0,,,,0
+1440122400,Santa Tecla,Municipal,UVZMFjiK,vTLj5hDm,1,1,,,,0
+1440547200,DC United,Montego Bay,QqhL41wo,pj0hMIQ5,3,0,,,,0
+1440554400,Saprissa,Santos Laguna,tnwDCzLD,bmPslben,2,1,,,,0
+1440554400,Municipal,Santa Tecla,vTLj5hDm,UVZMFjiK,2,1,,,,0
+1440633600,San Francisco,Queretaro,vTLj5hDm,0rbG5js3,2,1,,,,0
+1440640800,Olimpia,Seattle Sounders,WvziCH8E,Q7Ql2Qbi,1,0,,,,0
+1440640800,Herediano,Tigres UANL,zJ9gvDHG,zgtUoENa,1,1,,,,0
+1440727200,Motagua,Ferretti,dtCxYreO,nXJKIqpI,2,0,,,,0
+1440727200,Comunicaciones,Central FC,O2l6wJsK,6stL8agi,1,0,,,,0
+1442361600,DC United,Arabe Unido,QqhL41wo,IJKf4CSg,2,0,,,,0
+1442368800,Santa Tecla,Real Salt Lake,UVZMFjiK,vgy39tSd,0,0,,,,0
+1442448000,W Connection,Saprissa,zePXmSvq,tnwDCzLD,2,1,,,,0
+1442455200,Vancouver Whitecaps,Olimpia,nJrkMuTE,WvziCH8E,1,0,,,,0
+1442455200,Ferretti,Club America,nXJKIqpI,OGkmEu0T,1,3,,,,0
+1442534400,Central FC,Comunicaciones,6stL8agi,O2l6wJsK,1,0,,,,0
+1442541600,Queretaro,Verdes,0rbG5js3,Or6uEiR8,8,0,,,,0
+1442541600,Metapan,Herediano,IJKf4CSg,zJ9gvDHG,2,0,,,,0
+1442966400,W Connection,Santos Laguna,zePXmSvq,bmPslben,0,1,,,,0
+1442966400,Montego Bay,DC United,pj0hMIQ5,QqhL41wo,3,3,,,,0
+1442973600,Verdes,San Francisco,Or6uEiR8,vTLj5hDm,2,1,,,,0
+1443052800,Central FC,Los Angeles Galaxy,6stL8agi,nqhLBCKD,1,1,,,,0
+1443060000,Seattle Sounders,Vancouver Whitecaps,Q7Ql2Qbi,nJrkMuTE,3,0,,,,0
+1443139200,Ferretti,Motagua,nXJKIqpI,dtCxYreO,1,2,,,,0
+1443146400,Real Salt Lake,Santa Tecla,vgy39tSd,UVZMFjiK,2,1,,,,0
+1443146400,Metapan,Tigres UANL,IJKf4CSg,zgtUoENa,1,2,,,,0
+1445385600,Santos Laguna,Saprissa,bmPslben,tnwDCzLD,6,1,,,,0
+1445392800,Real Salt Lake,Municipal,vgy39tSd,vTLj5hDm,1,0,,,,0
+1445392800,Motagua,Club America,dtCxYreO,OGkmEu0T,1,1,,,,0
+1445472000,Tigres UANL,Herediano,zgtUoENa,zJ9gvDHG,0,0,,,,0
+1445479200,Comunicaciones,Los Angeles Galaxy,O2l6wJsK,nqhLBCKD,1,1,,,,0
+1445558400,Montego Bay,Arabe Unido,pj0hMIQ5,IJKf4CSg,1,2,,,,0
+1445565600,San Francisco,Verdes,vTLj5hDm,Or6uEiR8,8,0,,,,0
+1445565600,Olimpia,Vancouver Whitecaps,WvziCH8E,nJrkMuTE,1,0,,,,0
+1456275600,Queretaro,DC United,0rbG5js3,QqhL41wo,2,0,,,,0
+1456282800,Seattle Sounders,Club America,Q7Ql2Qbi,OGkmEu0T,2,2,,,,0
+1456362000,Tigres UANL,Real Salt Lake,zgtUoENa,vgy39tSd,2,0,,,,0
+1456369200,Los Angeles Galaxy,Santos Laguna,nqhLBCKD,bmPslben,0,0,,,,0
+1456880400,DC United,Queretaro,QqhL41wo,0rbG5js3,1,1,,,,0
+1456887600,Santos Laguna,Los Angeles Galaxy,bmPslben,nqhLBCKD,4,0,,,,0
+1456966800,Club America,Seattle Sounders,OGkmEu0T,Q7Ql2Qbi,3,1,,,,0
+1456974000,Real Salt Lake,Tigres UANL,vgy39tSd,zgtUoENa,1,1,,,,0
+1458093600,Queretaro,Tigres UANL,0rbG5js3,zgtUoENa,0,0,,,,0
+1458180000,Santos Laguna,Club America,bmPslben,OGkmEu0T,0,0,,,,0
+1459900800,Tigres UANL,Queretaro,zgtUoENa,0rbG5js3,2,0,,,,0
+1459908000,Club America,Santos Laguna,OGkmEu0T,bmPslben,0,0,AET,1,0,0
+1461203100,Tigres UANL,Club America,zgtUoENa,OGkmEu0T,0,2,,,,0
+1461807900,Club America,Tigres UANL,OGkmEu0T,zgtUoENa,2,1,,,,0

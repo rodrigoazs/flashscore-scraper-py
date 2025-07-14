@@ -1,183 +1,183 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1506783600,Nouakchott King's,Teissir dAtar,1,2,,,,0
-1506789000,Nouadhibou,ASAC Concorde,2,0,,,,0
-1506789000,Kaedi,Police,1,0,,,,0
-1506790800,Deuz,Tevragh-Zeina,0,0,,,,0
-1506870000,Garde Nationale,Riadh,3,0,Awrd,,,0
-1506875400,SNIM,Kedia,2,3,,,,0
-1506877200,Ksar,Tidjikja,0,1,,,,0
-1507307400,Riadh,Kaedi,1,1,,,,0
-1507388400,Police,Teissir dAtar,1,2,,,,0
-1507393800,Kedia,Garde Nationale,2,2,,,,0
-1507395600,ASAC Concorde,Deuz,2,0,,,,0
-1507474800,Tevragh-Zeina,Ksar,4,1,,,,0
-1507482000,Tidjikja,SNIM,0,0,,,,0
-1507653000,Nouakchott King's,Nouadhibou,0,0,,,,0
-1507996800,SNIM,Tevragh-Zeina,1,0,,,,0
-1507996800,Riadh,Kedia,0,3,,,,0
-1507996800,Kaedi,Teissir dAtar,1,0,,,,0
-1508004000,Tidjikja,Garde Nationale,1,0,,,,0
-1508083200,Nouadhibou,Police,4,1,,,,0
-1508083200,Deuz,Nouakchott King's,0,2,,,,0
-1508090400,Ksar,ASAC Concorde,2,2,,,,0
-1508517000,ASAC Concorde,SNIM,3,0,,,,0
-1508598000,Tevragh-Zeina,Garde Nationale,0,1,,,,0
-1508603400,Kedia,Kaedi,4,1,,,,0
-1508605200,Tidjikja,Riadh,0,1,,,,0
-1508684400,Nouakchott King's,Ksar,1,1,,,,0
-1508689800,Nouadhibou,Teissir dAtar,2,0,,,,0
-1508691600,Police,Deuz,4,2,,,,0
-1509201900,Riadh,Tevragh-Zeina,0,6,,,,0
-1509204600,Kedia,Tidjikja,0,4,,,,0
-1509204600,Kaedi,Nouadhibou,0,4,,,,0
-1509208200,SNIM,Nouakchott King's,1,2,,,,0
-1509209100,Garde Nationale,ASAC Concorde,0,1,,,,0
-1509288300,Ksar,Police,2,2,,,,0
-1509295500,Deuz,Teissir dAtar,2,0,,,,0
-1509633900,Nouakchott King's,Garde Nationale,0,1,,,,0
-1509641100,Ksar,Teissir dAtar,3,1,,,,0
-1509720300,Tidjikja,Kaedi,4,1,,,,0
-1509724800,Nouadhibou,Deuz,1,0,,,,0
-1509727500,Tevragh-Zeina,Kedia,1,1,,,,0
-1509806700,ASAC Concorde,Riadh,2,1,,,,0
-1509813900,Police,SNIM,2,3,,,,0
-1510416000,SNIM,Teissir dAtar,2,1,,,,0
-1510416000,Kaedi,Deuz,1,2,,,,0
-1510497900,Garde Nationale,Police,1,1,,,,0
-1510505100,Riadh,Nouakchott King's,1,3,,,,0
-1510677900,Ksar,Nouadhibou,2,4,,,,0
-1510761600,Kedia,ASAC Concorde,0,0,,,,0
-1511016300,Deuz,Ksar,1,2,,,,0
-1511023500,Garde Nationale,Teissir dAtar,2,2,,,,0
-1511102700,Tevragh-Zeina,Kaedi,5,0,,,,0
-1511102700,Police,Riadh,1,0,,,,0
-1511107200,Nouadhibou,SNIM,1,0,,,,0
-1511189100,ASAC Concorde,Tidjikja,0,0,,,,0
-1511196300,Nouakchott King's,Kedia,1,2,,,,0
-1511534700,Garde Nationale,Nouadhibou,2,0,,,,0
-1511541900,Tevragh-Zeina,ASAC Concorde,1,1,,,,0
-1511621100,Riadh,Teissir dAtar,2,0,,,,0
-1511625600,SNIM,Deuz,1,2,,,,0
-1511625600,Kedia,Police,1,0,,,,0
-1511625600,Kaedi,Ksar,4,6,,,,0
-1511628300,Tidjikja,Nouakchott King's,3,2,,,,0
-1511971200,Tidjikja,Tevragh-Zeina,0,0,,,,0
-1512225000,Ksar,SNIM,1,0,,,,0
-1512232200,Teissir dAtar,Kedia,0,3,,,,0
-1512311400,ASAC Concorde,Kaedi,2,1,,,,0
-1512316800,Nouadhibou,Riadh,1,0,,,,0
-1512318600,Deuz,Garde Nationale,1,1,,,,0
-1512397800,Police,Tidjikja,0,1,,,,0
-1512405000,Nouakchott King's,Tevragh-Zeina,2,2,,,,0
-1512657000,Garde Nationale,Ksar,3,0,,,,0
-1512743400,Tidjikja,Teissir dAtar,3,0,,,,0
-1512743400,Kedia,Nouadhibou,0,2,,,,0
-1512743400,Kaedi,SNIM,2,1,,,,0
-1512743400,ASAC Concorde,Nouakchott King's,1,0,,,,0
-1512829800,Tevragh-Zeina,Police,4,0,,,,0
-1512829800,Riadh,Deuz,0,0,,,,0
-1513440000,SNIM,Garde Nationale,0,0,,,,0
-1513521000,Deuz,Kedia,2,3,,,,0
-1513528200,Nouakchott King's,Kaedi,5,1,,,,0
-1513612800,Ksar,Riadh,0,1,,,,0
-1513693800,Teissir dAtar,Tevragh-Zeina,2,8,,,,0
-1513699200,Nouadhibou,Tidjikja,0,1,,,,0
-1513701000,Police,ASAC Concorde,2,3,,,,0
-1514039400,Nouakchott King's,Police,2,1,,,,0
-1514044800,Kaedi,Garde Nationale,0,4,,,,0
-1514046600,Riadh,SNIM,0,3,,,,0
-1514131200,Kedia,Ksar,0,2,,,,0
-1514131200,ASAC Concorde,Teissir dAtar,4,0,,,,0
-1514212200,Tidjikja,Deuz,2,0,,,,0
-1514219400,Tevragh-Zeina,Nouadhibou,1,1,,,,0
-1517587200,ASAC Concorde,Nouadhibou,0,0,,,,0
-1517670000,Police,Kaedi,2,1,,,,0
-1517675400,Kedia,SNIM,0,0,,,,0
-1517677200,Tidjikja,Ksar,3,4,,,,0
-1517756400,Tevragh-Zeina,Deuz,1,0,,,,0
-1517763600,Riadh,Garde Nationale,3,0,,,,0
-1518278400,SNIM,Tidjikja,2,0,,,,0
-1518278400,Kaedi,Riadh,1,1,,,,0
-1518361200,Garde Nationale,Kedia,0,0,,,,0
-1518368400,Ksar,Tevragh-Zeina,2,4,,,,0
-1518451200,Teissir dAtar,Police,0,1,,,,0
-1518624000,Deuz,ASAC Concorde,2,3,,,,0
-1518796800,Nouadhibou,Nouakchott King's,1,0,,,,0
-1519484400,Tidjikja,Garde Nationale,2,0,,,,0
-1519488000,Kedia,Riadh,1,0,,,,0
-1519491600,Tevragh-Zeina,SNIM,3,0,,,,0
-1519570800,Police,Nouadhibou,0,4,,,,0
-1519578000,Nouakchott King's,Deuz,2,0,,,,0
-1519660800,Teissir dAtar,Kaedi,0,1,,,,0
-1519660800,ASAC Concorde,Ksar,3,0,,,,0
-1520089200,Riadh,Tidjikja,1,1,,,,0
-1520092800,Kaedi,Kedia,1,0,,,,0
-1520096400,Garde Nationale,Tevragh-Zeina,1,1,,,,0
-1520175600,Ksar,Nouakchott King's,0,1,,,,0
-1520179200,SNIM,ASAC Concorde,3,0,,,,0
-1520182800,Deuz,Police,2,1,,,,0
-1520607600,ASAC Concorde,Garde Nationale,3,2,,,,0
-1520614800,Tidjikja,Kedia,0,3,,,,0
-1520694000,Nouakchott King's,SNIM,2,1,,,,0
-1520697600,Teissir dAtar,Deuz,1,2,,,,0
-1520701200,Tevragh-Zeina,Riadh,0,1,,,,0
-1520784000,Police,Ksar,1,0,,,,0
-1520870400,Nouadhibou,Kaedi,4,1,,,,0
-1521302400,Teissir dAtar,Ksar,1,1,,,,0
-1521302400,Kedia,Tevragh-Zeina,0,0,,,,0
-1521388800,SNIM,Police,0,1,,,,0
-1521647100,Riadh,ASAC Concorde,2,3,,,,0
-1521654300,Garde Nationale,Nouakchott King's,1,1,,,,0
-1521907200,Kaedi,Tidjikja,1,1,,,,0
-1522072800,Teissir dAtar,Nouakchott King's,1,1,,,,0
-1522249200,Deuz,Nouadhibou,0,3,,,,0
-1522684800,Teissir dAtar,Nouadhibou,0,1,,,,0
-1523034000,Nouakchott King's,Riadh,0,0,,,,0
-1523116800,Teissir dAtar,SNIM,0,0,,,,0
-1523116800,Police,Garde Nationale,1,1,,,,0
-1523116800,Nouadhibou,Ksar,3,2,,,,0
-1523124000,Tevragh-Zeina,Tidjikja,2,1,,,,0
-1523203200,ASAC Concorde,Kedia,1,2,,,,0
-1523210400,Deuz,Kaedi,1,0,,,,0
-1523721600,Teissir dAtar,Garde Nationale,2,0,,,,0
-1523721600,Kedia,Nouakchott King's,1,1,,,,0
-1523725200,Tidjikja,ASAC Concorde,1,0,,,,0
-1523808000,SNIM,Nouadhibou,0,1,,,,0
-1523811600,Ksar,Deuz,1,3,,,,0
-1523894400,Kaedi,Tevragh-Zeina,0,0,,,,0
-1523898000,Riadh,Police,0,1,,,,0
-1524584700,Nouakchott King's,Tidjikja,0,2,,,,0
-1524591900,Police,Kedia,0,3,,,,0
-1524672000,Teissir dAtar,Riadh,1,2,,,,0
-1524672000,Nouadhibou,Garde Nationale,1,0,,,,0
-1524673800,Deuz,SNIM,1,0,,,,0
-1524757500,Ksar,Kaedi,0,1,,,,0
-1524764700,ASAC Concorde,Tevragh-Zeina,0,1,,,,0
-1525103100,Tevragh-Zeina,Nouakchott King's,1,1,,,,0
-1525104000,Kedia,Teissir dAtar,5,2,,,,0
-1525110300,Riadh,Nouadhibou,1,1,,,,0
-1525190400,SNIM,Ksar,1,0,,,,0
-1525190400,Kaedi,ASAC Concorde,0,1,,,,0
-1525275900,Tidjikja,Police,5,1,,,,0
-1525283100,Garde Nationale,Deuz,1,0,,,,0
-1525536000,Nouadhibou,Kedia,2,2,,,,0
-1525617900,Police,Tevragh-Zeina,2,5,,,,0
-1525622400,Teissir dAtar,Tidjikja,1,4,,,,0
-1525622400,SNIM,Kaedi,1,0,,,,0
-1525622400,Deuz,Riadh,2,2,,,,0
-1525625100,Nouakchott King's,ASAC Concorde,2,2,,,,0
-1525632300,Ksar,Garde Nationale,1,4,,,,0
-1525967100,Riadh,Ksar,0,2,,,,0
-1525968000,Teissir dAtar,Tevragh-Zeina,0,1,,,,0
-1525968000,Kedia,Deuz,3,0,,,,0
-1525968000,Kaedi,Nouakchott King's,1,0,,,,0
-1525974300,Garde Nationale,SNIM,1,2,,,,0
-1526315400,Police,Nouakchott King's,1,1,,,,0
-1526394600,Nouadhibou,Tevragh-Zeina,3,0,,,,0
-1526398200,Garde Nationale,Kaedi,0,1,,,,0
-1526401800,SNIM,Riadh,2,0,,,,0
-1526405400,Deuz,Tidjikja,4,0,,,,0
-1526412600,Ksar,Kedia,1,1,,,,0
-1527116400,Tidjikja,Nouadhibou,0,0,,,,0
-1527894000,ASAC Concorde,Police,0,1,,,,0
-1528646400,ASAC Concorde,Teissir dAtar,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1506783600,Nouakchott King's,Teissir dAtar,pQ6iqmkM,,1,2,,,,0
+1506789000,Nouadhibou,ASAC Concorde,4lYOE4N5,lA5ZSjlg,2,0,,,,0
+1506789000,Kaedi,Police,4t2D48Zc,EFidHIQS,1,0,,,,0
+1506790800,Deuz,Tevragh-Zeina,EVLQcZj9,vX9QyT07,0,0,,,,0
+1506870000,Garde Nationale,Riadh,lA5ZSjlg,hMKUdg6F,3,0,Awrd,,,0
+1506875400,SNIM,Kedia,4lYOE4N5,lA5ZSjlg,2,3,,,,0
+1506877200,Ksar,Tidjikja,lA5ZSjlg,S04wSA3a,0,1,,,,0
+1507307400,Riadh,Kaedi,hMKUdg6F,4t2D48Zc,1,1,,,,0
+1507388400,Police,Teissir dAtar,EFidHIQS,,1,2,,,,0
+1507393800,Kedia,Garde Nationale,lA5ZSjlg,lA5ZSjlg,2,2,,,,0
+1507395600,ASAC Concorde,Deuz,lA5ZSjlg,EVLQcZj9,2,0,,,,0
+1507474800,Tevragh-Zeina,Ksar,vX9QyT07,lA5ZSjlg,4,1,,,,0
+1507482000,Tidjikja,SNIM,S04wSA3a,4lYOE4N5,0,0,,,,0
+1507653000,Nouakchott King's,Nouadhibou,pQ6iqmkM,4lYOE4N5,0,0,,,,0
+1507996800,SNIM,Tevragh-Zeina,4lYOE4N5,vX9QyT07,1,0,,,,0
+1507996800,Riadh,Kedia,hMKUdg6F,lA5ZSjlg,0,3,,,,0
+1507996800,Kaedi,Teissir dAtar,4t2D48Zc,,1,0,,,,0
+1508004000,Tidjikja,Garde Nationale,S04wSA3a,lA5ZSjlg,1,0,,,,0
+1508083200,Nouadhibou,Police,4lYOE4N5,EFidHIQS,4,1,,,,0
+1508083200,Deuz,Nouakchott King's,EVLQcZj9,pQ6iqmkM,0,2,,,,0
+1508090400,Ksar,ASAC Concorde,lA5ZSjlg,lA5ZSjlg,2,2,,,,0
+1508517000,ASAC Concorde,SNIM,lA5ZSjlg,4lYOE4N5,3,0,,,,0
+1508598000,Tevragh-Zeina,Garde Nationale,vX9QyT07,lA5ZSjlg,0,1,,,,0
+1508603400,Kedia,Kaedi,lA5ZSjlg,4t2D48Zc,4,1,,,,0
+1508605200,Tidjikja,Riadh,S04wSA3a,hMKUdg6F,0,1,,,,0
+1508684400,Nouakchott King's,Ksar,pQ6iqmkM,lA5ZSjlg,1,1,,,,0
+1508689800,Nouadhibou,Teissir dAtar,4lYOE4N5,,2,0,,,,0
+1508691600,Police,Deuz,EFidHIQS,EVLQcZj9,4,2,,,,0
+1509201900,Riadh,Tevragh-Zeina,hMKUdg6F,vX9QyT07,0,6,,,,0
+1509204600,Kedia,Tidjikja,lA5ZSjlg,S04wSA3a,0,4,,,,0
+1509204600,Kaedi,Nouadhibou,4t2D48Zc,4lYOE4N5,0,4,,,,0
+1509208200,SNIM,Nouakchott King's,4lYOE4N5,pQ6iqmkM,1,2,,,,0
+1509209100,Garde Nationale,ASAC Concorde,lA5ZSjlg,lA5ZSjlg,0,1,,,,0
+1509288300,Ksar,Police,lA5ZSjlg,EFidHIQS,2,2,,,,0
+1509295500,Deuz,Teissir dAtar,EVLQcZj9,,2,0,,,,0
+1509633900,Nouakchott King's,Garde Nationale,pQ6iqmkM,lA5ZSjlg,0,1,,,,0
+1509641100,Ksar,Teissir dAtar,lA5ZSjlg,,3,1,,,,0
+1509720300,Tidjikja,Kaedi,S04wSA3a,4t2D48Zc,4,1,,,,0
+1509724800,Nouadhibou,Deuz,4lYOE4N5,EVLQcZj9,1,0,,,,0
+1509727500,Tevragh-Zeina,Kedia,vX9QyT07,lA5ZSjlg,1,1,,,,0
+1509806700,ASAC Concorde,Riadh,lA5ZSjlg,hMKUdg6F,2,1,,,,0
+1509813900,Police,SNIM,EFidHIQS,4lYOE4N5,2,3,,,,0
+1510416000,SNIM,Teissir dAtar,4lYOE4N5,,2,1,,,,0
+1510416000,Kaedi,Deuz,4t2D48Zc,EVLQcZj9,1,2,,,,0
+1510497900,Garde Nationale,Police,lA5ZSjlg,EFidHIQS,1,1,,,,0
+1510505100,Riadh,Nouakchott King's,hMKUdg6F,pQ6iqmkM,1,3,,,,0
+1510677900,Ksar,Nouadhibou,lA5ZSjlg,4lYOE4N5,2,4,,,,0
+1510761600,Kedia,ASAC Concorde,lA5ZSjlg,lA5ZSjlg,0,0,,,,0
+1511016300,Deuz,Ksar,EVLQcZj9,lA5ZSjlg,1,2,,,,0
+1511023500,Garde Nationale,Teissir dAtar,lA5ZSjlg,,2,2,,,,0
+1511102700,Tevragh-Zeina,Kaedi,vX9QyT07,4t2D48Zc,5,0,,,,0
+1511102700,Police,Riadh,EFidHIQS,hMKUdg6F,1,0,,,,0
+1511107200,Nouadhibou,SNIM,4lYOE4N5,4lYOE4N5,1,0,,,,0
+1511189100,ASAC Concorde,Tidjikja,lA5ZSjlg,S04wSA3a,0,0,,,,0
+1511196300,Nouakchott King's,Kedia,pQ6iqmkM,lA5ZSjlg,1,2,,,,0
+1511534700,Garde Nationale,Nouadhibou,lA5ZSjlg,4lYOE4N5,2,0,,,,0
+1511541900,Tevragh-Zeina,ASAC Concorde,vX9QyT07,lA5ZSjlg,1,1,,,,0
+1511621100,Riadh,Teissir dAtar,hMKUdg6F,,2,0,,,,0
+1511625600,SNIM,Deuz,4lYOE4N5,EVLQcZj9,1,2,,,,0
+1511625600,Kedia,Police,lA5ZSjlg,EFidHIQS,1,0,,,,0
+1511625600,Kaedi,Ksar,4t2D48Zc,lA5ZSjlg,4,6,,,,0
+1511628300,Tidjikja,Nouakchott King's,S04wSA3a,pQ6iqmkM,3,2,,,,0
+1511971200,Tidjikja,Tevragh-Zeina,S04wSA3a,vX9QyT07,0,0,,,,0
+1512225000,Ksar,SNIM,lA5ZSjlg,4lYOE4N5,1,0,,,,0
+1512232200,Teissir dAtar,Kedia,,lA5ZSjlg,0,3,,,,0
+1512311400,ASAC Concorde,Kaedi,lA5ZSjlg,4t2D48Zc,2,1,,,,0
+1512316800,Nouadhibou,Riadh,4lYOE4N5,hMKUdg6F,1,0,,,,0
+1512318600,Deuz,Garde Nationale,EVLQcZj9,lA5ZSjlg,1,1,,,,0
+1512397800,Police,Tidjikja,EFidHIQS,S04wSA3a,0,1,,,,0
+1512405000,Nouakchott King's,Tevragh-Zeina,pQ6iqmkM,vX9QyT07,2,2,,,,0
+1512657000,Garde Nationale,Ksar,lA5ZSjlg,lA5ZSjlg,3,0,,,,0
+1512743400,Tidjikja,Teissir dAtar,S04wSA3a,,3,0,,,,0
+1512743400,Kedia,Nouadhibou,lA5ZSjlg,4lYOE4N5,0,2,,,,0
+1512743400,Kaedi,SNIM,4t2D48Zc,4lYOE4N5,2,1,,,,0
+1512743400,ASAC Concorde,Nouakchott King's,lA5ZSjlg,pQ6iqmkM,1,0,,,,0
+1512829800,Tevragh-Zeina,Police,vX9QyT07,EFidHIQS,4,0,,,,0
+1512829800,Riadh,Deuz,hMKUdg6F,EVLQcZj9,0,0,,,,0
+1513440000,SNIM,Garde Nationale,4lYOE4N5,lA5ZSjlg,0,0,,,,0
+1513521000,Deuz,Kedia,EVLQcZj9,lA5ZSjlg,2,3,,,,0
+1513528200,Nouakchott King's,Kaedi,pQ6iqmkM,4t2D48Zc,5,1,,,,0
+1513612800,Ksar,Riadh,lA5ZSjlg,hMKUdg6F,0,1,,,,0
+1513693800,Teissir dAtar,Tevragh-Zeina,,vX9QyT07,2,8,,,,0
+1513699200,Nouadhibou,Tidjikja,4lYOE4N5,S04wSA3a,0,1,,,,0
+1513701000,Police,ASAC Concorde,EFidHIQS,lA5ZSjlg,2,3,,,,0
+1514039400,Nouakchott King's,Police,pQ6iqmkM,EFidHIQS,2,1,,,,0
+1514044800,Kaedi,Garde Nationale,4t2D48Zc,lA5ZSjlg,0,4,,,,0
+1514046600,Riadh,SNIM,hMKUdg6F,4lYOE4N5,0,3,,,,0
+1514131200,Kedia,Ksar,lA5ZSjlg,lA5ZSjlg,0,2,,,,0
+1514131200,ASAC Concorde,Teissir dAtar,lA5ZSjlg,,4,0,,,,0
+1514212200,Tidjikja,Deuz,S04wSA3a,EVLQcZj9,2,0,,,,0
+1514219400,Tevragh-Zeina,Nouadhibou,vX9QyT07,4lYOE4N5,1,1,,,,0
+1517587200,ASAC Concorde,Nouadhibou,lA5ZSjlg,4lYOE4N5,0,0,,,,0
+1517670000,Police,Kaedi,EFidHIQS,4t2D48Zc,2,1,,,,0
+1517675400,Kedia,SNIM,lA5ZSjlg,4lYOE4N5,0,0,,,,0
+1517677200,Tidjikja,Ksar,S04wSA3a,lA5ZSjlg,3,4,,,,0
+1517756400,Tevragh-Zeina,Deuz,vX9QyT07,EVLQcZj9,1,0,,,,0
+1517763600,Riadh,Garde Nationale,hMKUdg6F,lA5ZSjlg,3,0,,,,0
+1518278400,SNIM,Tidjikja,4lYOE4N5,S04wSA3a,2,0,,,,0
+1518278400,Kaedi,Riadh,4t2D48Zc,hMKUdg6F,1,1,,,,0
+1518361200,Garde Nationale,Kedia,lA5ZSjlg,lA5ZSjlg,0,0,,,,0
+1518368400,Ksar,Tevragh-Zeina,lA5ZSjlg,vX9QyT07,2,4,,,,0
+1518451200,Teissir dAtar,Police,,EFidHIQS,0,1,,,,0
+1518624000,Deuz,ASAC Concorde,EVLQcZj9,lA5ZSjlg,2,3,,,,0
+1518796800,Nouadhibou,Nouakchott King's,4lYOE4N5,pQ6iqmkM,1,0,,,,0
+1519484400,Tidjikja,Garde Nationale,S04wSA3a,lA5ZSjlg,2,0,,,,0
+1519488000,Kedia,Riadh,lA5ZSjlg,hMKUdg6F,1,0,,,,0
+1519491600,Tevragh-Zeina,SNIM,vX9QyT07,4lYOE4N5,3,0,,,,0
+1519570800,Police,Nouadhibou,EFidHIQS,4lYOE4N5,0,4,,,,0
+1519578000,Nouakchott King's,Deuz,pQ6iqmkM,EVLQcZj9,2,0,,,,0
+1519660800,Teissir dAtar,Kaedi,,4t2D48Zc,0,1,,,,0
+1519660800,ASAC Concorde,Ksar,lA5ZSjlg,lA5ZSjlg,3,0,,,,0
+1520089200,Riadh,Tidjikja,hMKUdg6F,S04wSA3a,1,1,,,,0
+1520092800,Kaedi,Kedia,4t2D48Zc,lA5ZSjlg,1,0,,,,0
+1520096400,Garde Nationale,Tevragh-Zeina,lA5ZSjlg,vX9QyT07,1,1,,,,0
+1520175600,Ksar,Nouakchott King's,lA5ZSjlg,pQ6iqmkM,0,1,,,,0
+1520179200,SNIM,ASAC Concorde,4lYOE4N5,lA5ZSjlg,3,0,,,,0
+1520182800,Deuz,Police,EVLQcZj9,EFidHIQS,2,1,,,,0
+1520607600,ASAC Concorde,Garde Nationale,lA5ZSjlg,lA5ZSjlg,3,2,,,,0
+1520614800,Tidjikja,Kedia,S04wSA3a,lA5ZSjlg,0,3,,,,0
+1520694000,Nouakchott King's,SNIM,pQ6iqmkM,4lYOE4N5,2,1,,,,0
+1520697600,Teissir dAtar,Deuz,,EVLQcZj9,1,2,,,,0
+1520701200,Tevragh-Zeina,Riadh,vX9QyT07,hMKUdg6F,0,1,,,,0
+1520784000,Police,Ksar,EFidHIQS,lA5ZSjlg,1,0,,,,0
+1520870400,Nouadhibou,Kaedi,4lYOE4N5,4t2D48Zc,4,1,,,,0
+1521302400,Teissir dAtar,Ksar,,lA5ZSjlg,1,1,,,,0
+1521302400,Kedia,Tevragh-Zeina,lA5ZSjlg,vX9QyT07,0,0,,,,0
+1521388800,SNIM,Police,4lYOE4N5,EFidHIQS,0,1,,,,0
+1521647100,Riadh,ASAC Concorde,hMKUdg6F,lA5ZSjlg,2,3,,,,0
+1521654300,Garde Nationale,Nouakchott King's,lA5ZSjlg,pQ6iqmkM,1,1,,,,0
+1521907200,Kaedi,Tidjikja,4t2D48Zc,S04wSA3a,1,1,,,,0
+1522072800,Teissir dAtar,Nouakchott King's,,pQ6iqmkM,1,1,,,,0
+1522249200,Deuz,Nouadhibou,EVLQcZj9,4lYOE4N5,0,3,,,,0
+1522684800,Teissir dAtar,Nouadhibou,,4lYOE4N5,0,1,,,,0
+1523034000,Nouakchott King's,Riadh,pQ6iqmkM,hMKUdg6F,0,0,,,,0
+1523116800,Teissir dAtar,SNIM,,4lYOE4N5,0,0,,,,0
+1523116800,Police,Garde Nationale,EFidHIQS,lA5ZSjlg,1,1,,,,0
+1523116800,Nouadhibou,Ksar,4lYOE4N5,lA5ZSjlg,3,2,,,,0
+1523124000,Tevragh-Zeina,Tidjikja,vX9QyT07,S04wSA3a,2,1,,,,0
+1523203200,ASAC Concorde,Kedia,lA5ZSjlg,lA5ZSjlg,1,2,,,,0
+1523210400,Deuz,Kaedi,EVLQcZj9,4t2D48Zc,1,0,,,,0
+1523721600,Teissir dAtar,Garde Nationale,,lA5ZSjlg,2,0,,,,0
+1523721600,Kedia,Nouakchott King's,lA5ZSjlg,pQ6iqmkM,1,1,,,,0
+1523725200,Tidjikja,ASAC Concorde,S04wSA3a,lA5ZSjlg,1,0,,,,0
+1523808000,SNIM,Nouadhibou,4lYOE4N5,4lYOE4N5,0,1,,,,0
+1523811600,Ksar,Deuz,lA5ZSjlg,EVLQcZj9,1,3,,,,0
+1523894400,Kaedi,Tevragh-Zeina,4t2D48Zc,vX9QyT07,0,0,,,,0
+1523898000,Riadh,Police,hMKUdg6F,EFidHIQS,0,1,,,,0
+1524584700,Nouakchott King's,Tidjikja,pQ6iqmkM,S04wSA3a,0,2,,,,0
+1524591900,Police,Kedia,EFidHIQS,lA5ZSjlg,0,3,,,,0
+1524672000,Teissir dAtar,Riadh,,hMKUdg6F,1,2,,,,0
+1524672000,Nouadhibou,Garde Nationale,4lYOE4N5,lA5ZSjlg,1,0,,,,0
+1524673800,Deuz,SNIM,EVLQcZj9,4lYOE4N5,1,0,,,,0
+1524757500,Ksar,Kaedi,lA5ZSjlg,4t2D48Zc,0,1,,,,0
+1524764700,ASAC Concorde,Tevragh-Zeina,lA5ZSjlg,vX9QyT07,0,1,,,,0
+1525103100,Tevragh-Zeina,Nouakchott King's,vX9QyT07,pQ6iqmkM,1,1,,,,0
+1525104000,Kedia,Teissir dAtar,lA5ZSjlg,,5,2,,,,0
+1525110300,Riadh,Nouadhibou,hMKUdg6F,4lYOE4N5,1,1,,,,0
+1525190400,SNIM,Ksar,4lYOE4N5,lA5ZSjlg,1,0,,,,0
+1525190400,Kaedi,ASAC Concorde,4t2D48Zc,lA5ZSjlg,0,1,,,,0
+1525275900,Tidjikja,Police,S04wSA3a,EFidHIQS,5,1,,,,0
+1525283100,Garde Nationale,Deuz,lA5ZSjlg,EVLQcZj9,1,0,,,,0
+1525536000,Nouadhibou,Kedia,4lYOE4N5,lA5ZSjlg,2,2,,,,0
+1525617900,Police,Tevragh-Zeina,EFidHIQS,vX9QyT07,2,5,,,,0
+1525622400,Teissir dAtar,Tidjikja,,S04wSA3a,1,4,,,,0
+1525622400,SNIM,Kaedi,4lYOE4N5,4t2D48Zc,1,0,,,,0
+1525622400,Deuz,Riadh,EVLQcZj9,hMKUdg6F,2,2,,,,0
+1525625100,Nouakchott King's,ASAC Concorde,pQ6iqmkM,lA5ZSjlg,2,2,,,,0
+1525632300,Ksar,Garde Nationale,lA5ZSjlg,lA5ZSjlg,1,4,,,,0
+1525967100,Riadh,Ksar,hMKUdg6F,lA5ZSjlg,0,2,,,,0
+1525968000,Teissir dAtar,Tevragh-Zeina,,vX9QyT07,0,1,,,,0
+1525968000,Kedia,Deuz,lA5ZSjlg,EVLQcZj9,3,0,,,,0
+1525968000,Kaedi,Nouakchott King's,4t2D48Zc,pQ6iqmkM,1,0,,,,0
+1525974300,Garde Nationale,SNIM,lA5ZSjlg,4lYOE4N5,1,2,,,,0
+1526315400,Police,Nouakchott King's,EFidHIQS,pQ6iqmkM,1,1,,,,0
+1526394600,Nouadhibou,Tevragh-Zeina,4lYOE4N5,vX9QyT07,3,0,,,,0
+1526398200,Garde Nationale,Kaedi,lA5ZSjlg,4t2D48Zc,0,1,,,,0
+1526401800,SNIM,Riadh,4lYOE4N5,hMKUdg6F,2,0,,,,0
+1526405400,Deuz,Tidjikja,EVLQcZj9,S04wSA3a,4,0,,,,0
+1526412600,Ksar,Kedia,lA5ZSjlg,lA5ZSjlg,1,1,,,,0
+1527116400,Tidjikja,Nouadhibou,S04wSA3a,4lYOE4N5,0,0,,,,0
+1527894000,ASAC Concorde,Police,lA5ZSjlg,EFidHIQS,0,1,,,,0
+1528646400,ASAC Concorde,Teissir dAtar,lA5ZSjlg,,2,1,,,,0

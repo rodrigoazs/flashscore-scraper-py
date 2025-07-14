@@ -1,14 +1,14 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1540378800,Urartu,Ararat Yerevan,3,1,,,,0
-1540378800,Noah,Alashkert,1,2,,,,0
-1540389600,Ararat-Armenia,Syunik,1,1,,,,0
-1540476000,Pyunik Yerevan,Lori,0,2,,,,0
-1541584800,Alashkert,Noah,1,0,,,,0
-1541599200,Syunik,Ararat-Armenia,0,1,,,,0
-1541671200,Lori,Pyunik Yerevan,1,1,,,,0
-1541671200,Ararat Yerevan,Urartu,0,1,,,,0
-1554285600,Urartu,Lori,0,0,,,,0
-1554285600,Ararat-Armenia,Alashkert,2,2,,,,0
-1555934400,Lori,Urartu,-,-,WO,,,0
-1555934400,Alashkert,Ararat-Armenia,0,0,,,,0
-1557329400,Alashkert,Lori,1,0,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1540378800,Urartu,Ararat Yerevan,bi5W0N3n,dUsGVqCN,3,1,,,,0
+1540378800,Noah,Alashkert,2mU8GaB3,Y1ZCBtLt,1,2,,,,0
+1540389600,Ararat-Armenia,Syunik,6FB0mgsP,ji1LkT8q,1,1,,,,0
+1540476000,Pyunik Yerevan,Lori,zkO8QgRo,hA2mYxa3,0,2,,,,0
+1541584800,Alashkert,Noah,Y1ZCBtLt,2mU8GaB3,1,0,,,,0
+1541599200,Syunik,Ararat-Armenia,ji1LkT8q,6FB0mgsP,0,1,,,,0
+1541671200,Lori,Pyunik Yerevan,hA2mYxa3,zkO8QgRo,1,1,,,,0
+1541671200,Ararat Yerevan,Urartu,dUsGVqCN,bi5W0N3n,0,1,,,,0
+1554285600,Urartu,Lori,bi5W0N3n,hA2mYxa3,0,0,,,,0
+1554285600,Ararat-Armenia,Alashkert,6FB0mgsP,Y1ZCBtLt,2,2,,,,0
+1555934400,Lori,Urartu,hA2mYxa3,bi5W0N3n,-,-,WO,,,0
+1555934400,Alashkert,Ararat-Armenia,Y1ZCBtLt,6FB0mgsP,0,0,,,,0
+1557329400,Alashkert,Lori,Y1ZCBtLt,hA2mYxa3,1,0,,,,1

@@ -1,558 +1,558 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1533322800,Reading,Derby,1,2,,,,0
-1533391200,Wigan,Sheffield Wed,3,2,,,,0
-1533391200,West Brom,Bolton,1,2,,,,0
-1533391200,Preston,QPR,1,0,,,,0
-1533391200,Millwall,Middlesbrough,2,2,,,,0
-1533391200,Ipswich,Blackburn,2,2,,,,0
-1533391200,Bristol City,Nottingham,1,1,,,,0
-1533391200,Brentford,Rotherham,5,1,,,,0
-1533391200,Birmingham,Norwich,2,2,,,,0
-1533400200,Sheffield Utd,Swansea,1,2,,,,0
-1533483000,Leeds,Stoke,3,1,,,,0
-1533581100,Hull,Aston Villa,1,3,,,,0
-1533667500,Nottingham,West Brom,1,1,,,,0
-1533667500,Middlesbrough,Sheffield Utd,3,0,,,,0
-1533996000,Swansea,Preston,1,0,,,,0
-1533996000,Stoke,Brentford,1,1,,,,0
-1533996000,Sheffield Wed,Hull,1,1,,,,0
-1533996000,Rotherham,Ipswich,1,0,,,,0
-1533996000,QPR,Sheffield Utd,1,2,,,,0
-1533996000,Nottingham,Reading,1,0,,,,0
-1533996000,Norwich,West Brom,3,4,,,,0
-1533996000,Middlesbrough,Birmingham,1,0,,,,0
-1533996000,Bolton,Bristol City,2,2,,,,0
-1533996000,Blackburn,Millwall,0,0,,,,0
-1533996000,Aston Villa,Wigan,3,2,,,,0
-1534005000,Derby,Leeds,1,4,,,,0
-1534531500,Birmingham,Swansea,0,0,,,,0
-1534600800,Wigan,Nottingham,2,2,,,,0
-1534600800,West Brom,QPR,7,1,,,,0
-1534600800,Sheffield Utd,Norwich,2,1,,,,0
-1534600800,Reading,Bolton,0,1,,,,0
-1534600800,Millwall,Derby,2,1,,,,0
-1534600800,Leeds,Rotherham,2,0,,,,0
-1534600800,Ipswich,Aston Villa,1,1,,,,0
-1534600800,Hull,Blackburn,0,1,,,,0
-1534600800,Bristol City,Middlesbrough,0,2,,,,0
-1534609800,Preston,Stoke,2,2,,,,0
-1534687200,Brentford,Sheffield Wed,2,0,,,,0
-1534877100,Swansea,Leeds,2,2,,,,0
-1534877100,Rotherham,Hull,2,3,,,,0
-1534877100,QPR,Bristol City,0,3,,,,0
-1534877100,Derby,Ipswich,2,0,,,,0
-1534963500,Sheffield Wed,Millwall,2,1,,,,0
-1534963500,Norwich,Preston,2,0,,,,0
-1534963500,Blackburn,Reading,2,2,,,,0
-1534963500,Aston Villa,Brentford,2,2,,,,0
-1534964400,Stoke,Wigan,0,3,,,,0
-1534964400,Bolton,Birmingham,1,0,,,,0
-1535136300,Middlesbrough,West Brom,1,0,,,,0
-1535205600,Swansea,Bristol City,0,1,,,,0
-1535205600,Stoke,Hull,2,0,,,,0
-1535205600,Sheffield Wed,Ipswich,2,1,,,,0
-1535205600,QPR,Wigan,1,0,,,,0
-1535205600,Norwich,Leeds,0,3,,,,0
-1535205600,Derby,Preston,2,0,,,,0
-1535205600,Bolton,Sheffield Utd,0,3,,,,0
-1535205600,Blackburn,Brentford,1,0,,,,0
-1535205600,Aston Villa,Reading,1,1,,,,0
-1535214600,Nottingham,Birmingham,2,2,,,,0
-1535283000,Rotherham,Millwall,1,0,,,,0
-1535741100,Leeds,Middlesbrough,0,0,,,,0
-1535810400,Wigan,Rotherham,1,0,,,,0
-1535810400,West Brom,Stoke,2,1,,,,0
-1535810400,Sheffield Utd,Aston Villa,4,1,,,,0
-1535810400,Reading,Sheffield Wed,1,2,,,,0
-1535810400,Preston,Bolton,2,2,,,,0
-1535810400,Hull,Derby,1,2,,,,0
-1535810400,Brentford,Nottingham,2,1,,,,0
-1535810400,Birmingham,QPR,0,0,,,,0
-1535819400,Millwall,Swansea,1,2,,,,0
-1535886000,Ipswich,Norwich,1,1,,,,0
-1535891400,Bristol City,Blackburn,4,1,,,,0
-1536950700,Birmingham,West Brom,1,1,,,,0
-1537020000,Swansea,Nottingham,0,0,,,,0
-1537020000,Sheffield Wed,Stoke,2,2,,,,0
-1537020000,Rotherham,Derby,1,0,,,,0
-1537020000,Preston,Reading,2,3,,,,0
-1537020000,Norwich,Middlesbrough,1,0,,,,0
-1537020000,Millwall,Leeds,1,1,,,,0
-1537020000,Hull,Ipswich,2,0,,,,0
-1537020000,Bristol City,Sheffield Utd,1,0,,,,0
-1537020000,Brentford,Wigan,2,0,,,,0
-1537020000,Bolton,QPR,1,2,,,,0
-1537029000,Blackburn,Aston Villa,1,1,,,,0
-1537296300,Wigan,Hull,2,1,,,,0
-1537296300,Leeds,Preston,3,0,,,,0
-1537296300,Ipswich,Brentford,1,1,,,,0
-1537296300,Derby,Blackburn,0,0,,,,0
-1537296300,Aston Villa,Rotherham,2,0,,,,0
-1537297200,West Brom,Bristol City,4,2,,,,0
-1537297200,Stoke,Swansea,1,0,,,,0
-1537382700,Sheffield Utd,Birmingham,0,0,,,,0
-1537382700,QPR,Millwall,2,0,,,,0
-1537382700,Nottingham,Sheffield Wed,2,1,,,,0
-1537382700,Middlesbrough,Bolton,2,0,,,,0
-1537383600,Reading,Norwich,1,2,,,,0
-1537555500,Wigan,Bristol City,1,0,,,,0
-1537624800,West Brom,Millwall,2,0,,,,0
-1537624800,Stoke,Blackburn,2,3,,,,0
-1537624800,Sheffield Utd,Preston,3,2,,,,0
-1537624800,Reading,Hull,3,0,,,,0
-1537624800,Nottingham,Rotherham,1,0,,,,0
-1537624800,Middlesbrough,Swansea,0,0,,,,0
-1537624800,Leeds,Birmingham,1,2,,,,0
-1537624800,Ipswich,Bolton,0,0,,,,0
-1537624800,Derby,Brentford,3,1,,,,0
-1537624800,Aston Villa,Sheffield Wed,1,2,,,,0
-1537633800,QPR,Norwich,0,1,,,,0
-1538160300,Sheffield Wed,Leeds,1,1,,,,0
-1538161200,Bristol City,Aston Villa,1,1,,,,0
-1538229600,Swansea,QPR,3,0,,,,0
-1538229600,Preston,West Brom,2,3,,,,0
-1538229600,Norwich,Wigan,1,0,,,,0
-1538229600,Millwall,Sheffield Utd,2,3,,,,0
-1538229600,Hull,Middlesbrough,1,1,,,,0
-1538229600,Brentford,Reading,2,2,,,,0
-1538229600,Bolton,Derby,1,0,,,,0
-1538229600,Blackburn,Nottingham,2,2,,,,0
-1538229600,Birmingham,Ipswich,2,2,,,,0
-1538238600,Rotherham,Stoke,2,2,,,,0
-1538505900,Wigan,Swansea,0,0,,,,0
-1538505900,Ipswich,Middlesbrough,0,2,,,,0
-1538505900,Hull,Leeds,0,1,,,,0
-1538505900,Brentford,Birmingham,1,1,,,,0
-1538505900,Aston Villa,Preston,3,3,,,,0
-1538506800,Stoke,Bolton,2,0,,,,0
-1538506800,Reading,QPR,0,1,,,,0
-1538592300,Sheffield Wed,West Brom,2,2,,,,0
-1538592300,Rotherham,Bristol City,0,0,,,,0
-1538592300,Nottingham,Millwall,2,2,,,,0
-1538592300,Derby,Norwich,1,1,,,,0
-1538592300,Blackburn,Sheffield Utd,0,2,,,,0
-1538825400,Leeds,Brentford,1,1,,,,0
-1538834400,West Brom,Reading,4,1,,,,0
-1538834400,Swansea,Ipswich,2,3,,,,0
-1538834400,Sheffield Utd,Hull,1,0,,,,0
-1538834400,QPR,Derby,1,1,,,,0
-1538834400,Preston,Wigan,4,0,,,,0
-1538834400,Norwich,Stoke,0,1,,,,0
-1538834400,Millwall,Aston Villa,2,1,,,,0
-1538834400,Middlesbrough,Nottingham,0,2,,,,0
-1538834400,Birmingham,Rotherham,3,1,,,,0
-1538843400,Bolton,Blackburn,0,1,,,,0
-1538915400,Bristol City,Sheffield Wed,1,2,,,,0
-1539974700,Sheffield Wed,Middlesbrough,1,2,,,,0
-1540033200,Blackburn,Leeds,2,1,,,,0
-1540044000,Wigan,West Brom,1,0,,,,0
-1540044000,Stoke,Birmingham,0,1,,,,0
-1540044000,Rotherham,Bolton,1,1,,,,0
-1540044000,Reading,Millwall,3,1,,,,0
-1540044000,Nottingham,Norwich,1,2,,,,0
-1540044000,Ipswich,QPR,0,2,,,,0
-1540044000,Hull,Preston,1,1,,,,0
-1540044000,Brentford,Bristol City,0,1,,,,0
-1540044000,Aston Villa,Swansea,1,0,,,,0
-1540053000,Derby,Sheffield Utd,2,1,,,,0
-1540320300,Swansea,Blackburn,3,1,,,,0
-1540320300,Sheffield Utd,Stoke,1,1,,,,0
-1540320300,QPR,Sheffield Wed,3,0,,,,0
-1540320300,Norwich,Aston Villa,2,1,,,,0
-1540320300,Millwall,Wigan,2,1,,,,0
-1540320300,Middlesbrough,Rotherham,0,0,,,,0
-1540320300,Birmingham,Reading,2,1,,,,0
-1540406700,Preston,Brentford,4,3,,,,0
-1540406700,Leeds,Ipswich,2,0,,,,0
-1540406700,Bristol City,Hull,1,0,,,,0
-1540407600,West Brom,Derby,1,4,,,,0
-1540407600,Bolton,Nottingham,0,3,,,,0
-1540579500,QPR,Aston Villa,1,0,,,,0
-1540639800,Middlesbrough,Derby,1,1,,,,0
-1540648800,West Brom,Blackburn,1,1,,,,0
-1540648800,Swansea,Reading,2,0,,,,0
-1540648800,Sheffield Utd,Wigan,4,2,,,,0
-1540648800,Preston,Rotherham,1,1,,,,0
-1540648800,Norwich,Brentford,1,0,,,,0
-1540648800,Millwall,Ipswich,3,0,,,,0
-1540648800,Bristol City,Stoke,0,1,,,,0
-1540648800,Bolton,Hull,0,1,,,,0
-1540648800,Birmingham,Sheffield Wed,3,1,,,,0
-1540657800,Leeds,Nottingham,1,1,,,,0
-1541187900,Aston Villa,Bolton,2,0,,,,0
-1541257200,Sheffield Wed,Norwich,0,4,,,,0
-1541257200,Rotherham,Swansea,2,1,,,,0
-1541257200,Reading,Bristol City,3,2,,,,0
-1541257200,Nottingham,Sheffield Utd,1,0,,,,0
-1541257200,Ipswich,Preston,1,1,,,,0
-1541257200,Hull,West Brom,1,0,,,,0
-1541257200,Derby,Birmingham,3,1,,,,0
-1541257200,Brentford,Millwall,2,0,,,,0
-1541257200,Blackburn,QPR,1,0,,,,0
-1541266200,Stoke,Middlesbrough,0,0,,,,0
-1541338200,Wigan,Leeds,1,2,,,,0
-1541792700,Sheffield Utd,Sheffield Wed,0,0,,,,0
-1541862000,Reading,Ipswich,2,2,,,,0
-1541862000,QPR,Brentford,3,2,,,,0
-1541862000,Nottingham,Stoke,0,0,,,,0
-1541862000,Norwich,Millwall,4,3,,,,0
-1541862000,Middlesbrough,Wigan,2,0,,,,0
-1541862000,Derby,Aston Villa,0,3,,,,0
-1541862000,Bristol City,Preston,0,1,,,,0
-1541862000,Bolton,Swansea,0,1,,,,0
-1541862000,Blackburn,Rotherham,1,1,,,,0
-1541862000,Birmingham,Hull,3,3,,,,0
-1541871000,West Brom,Leeds,4,1,,,,0
-1543002300,Ipswich,West Brom,1,2,,,,0
-1543062600,Rotherham,Sheffield Utd,2,2,,,,0
-1543071600,Wigan,Reading,0,0,,,,0
-1543071600,Swansea,Norwich,1,4,,,,0
-1543071600,Stoke,QPR,2,2,,,,0
-1543071600,Sheffield Wed,Derby,1,2,,,,0
-1543071600,Preston,Blackburn,4,1,,,,0
-1543071600,Millwall,Bolton,1,1,,,,0
-1543071600,Leeds,Bristol City,2,0,,,,0
-1543071600,Hull,Nottingham,0,2,,,,0
-1543080600,Brentford,Middlesbrough,1,2,,,,0
-1543147200,Aston Villa,Birmingham,4,2,,,,0
-1543347900,Sheffield Wed,Bolton,1,0,,,,0
-1543347900,Rotherham,QPR,2,2,,,,0
-1543347900,Preston,Middlesbrough,1,1,,,,0
-1543347900,Leeds,Reading,1,0,,,,0
-1543347900,Hull,Norwich,0,0,,,,0
-1543347900,Brentford,Sheffield Utd,2,3,,,,0
-1543434300,Wigan,Blackburn,3,1,,,,0
-1543434300,Swansea,West Brom,1,2,,,,0
-1543434300,Millwall,Birmingham,0,2,,,,0
-1543434300,Ipswich,Bristol City,2,3,,,,0
-1543434300,Aston Villa,Nottingham,5,5,,,,0
-1543435200,Stoke,Derby,2,1,,,,0
-1543667400,Sheffield Utd,Leeds,0,1,,,,0
-1543676400,Reading,Stoke,2,2,,,,0
-1543676400,QPR,Hull,2,3,,,,0
-1543676400,Nottingham,Ipswich,2,0,,,,0
-1543676400,Norwich,Rotherham,3,1,,,,0
-1543676400,Derby,Swansea,2,1,,,,0
-1543676400,Bolton,Wigan,1,1,,,,0
-1543676400,Blackburn,Sheffield Wed,4,2,,,,0
-1543676400,Birmingham,Preston,3,0,,,,0
-1543685400,Middlesbrough,Aston Villa,0,3,,,,0
-1543757400,Bristol City,Millwall,1,1,,,,0
-1543867200,West Brom,Brentford,1,1,,,,0
-1544212800,West Brom,Aston Villa,2,2,,,,0
-1544281200,Wigan,Derby,0,1,,,,0
-1544281200,Stoke,Ipswich,2,0,,,,0
-1544281200,Sheffield Wed,Rotherham,2,2,,,,0
-1544281200,Nottingham,Preston,0,1,,,,0
-1544281200,Norwich,Bolton,3,2,,,,0
-1544281200,Millwall,Hull,2,2,,,,0
-1544281200,Middlesbrough,Blackburn,1,1,,,,0
-1544281200,Leeds,QPR,2,1,,,,0
-1544281200,Brentford,Swansea,2,3,,,,0
-1544281200,Birmingham,Bristol City,0,1,,,,0
-1544290200,Reading,Sheffield Utd,0,2,,,,0
-1544816700,Sheffield Utd,West Brom,1,2,,,,0
-1544886000,Swansea,Sheffield Wed,2,1,,,,0
-1544886000,Rotherham,Reading,1,1,,,,0
-1544886000,QPR,Middlesbrough,2,1,,,,0
-1544886000,Preston,Millwall,3,2,,,,0
-1544886000,Ipswich,Wigan,1,0,,,,0
-1544886000,Hull,Brentford,2,0,,,,0
-1544886000,Bolton,Leeds,0,1,,,,0
-1544886000,Blackburn,Birmingham,2,2,,,,0
-1544886000,Aston Villa,Stoke,2,2,,,,0
-1544895000,Bristol City,Norwich,2,2,,,,0
-1545075900,Derby,Nottingham,0,0,,,,0
-1545490800,Wigan,Birmingham,0,3,,,,0
-1545490800,Stoke,Millwall,1,0,,,,0
-1545490800,Sheffield Wed,Preston,1,0,,,,0
-1545490800,Rotherham,West Brom,0,4,,,,0
-1545490800,Reading,Middlesbrough,0,1,,,,0
-1545490800,Nottingham,QPR,0,1,,,,0
-1545490800,Ipswich,Sheffield Utd,1,1,,,,0
-1545490800,Derby,Bristol City,1,1,,,,0
-1545490800,Brentford,Bolton,1,0,,,,0
-1545490800,Blackburn,Norwich,0,1,,,,0
-1545499800,Hull,Swansea,3,2,,,,0
-1545571800,Aston Villa,Leeds,2,3,,,,0
-1545836400,West Brom,Wigan,2,0,,,,0
-1545836400,Swansea,Aston Villa,0,1,,,,0
-1545836400,Sheffield Utd,Derby,3,1,,,,0
-1545836400,QPR,Ipswich,3,0,,,,0
-1545836400,Preston,Hull,1,2,,,,0
-1545836400,Norwich,Nottingham,3,3,,,,0
-1545836400,Millwall,Reading,1,0,,,,0
-1545836400,Middlesbrough,Sheffield Wed,0,1,,,,0
-1545836400,Leeds,Blackburn,3,2,,,,0
-1545836400,Bristol City,Brentford,1,1,,,,0
-1545836400,Bolton,Rotherham,2,1,,,,0
-1545836400,Birmingham,Stoke,2,0,,,,0
-1546095600,West Brom,Sheffield Wed,1,1,,,,0
-1546095600,Swansea,Wigan,2,2,,,,0
-1546095600,Sheffield Utd,Blackburn,3,0,,,,0
-1546095600,QPR,Reading,0,0,,,,0
-1546095600,Preston,Aston Villa,1,1,,,,0
-1546095600,Norwich,Derby,3,4,,,,0
-1546095600,Millwall,Nottingham,1,0,,,,0
-1546095600,Middlesbrough,Ipswich,2,0,,,,0
-1546095600,Leeds,Hull,0,2,,,,0
-1546095600,Bristol City,Rotherham,1,0,,,,0
-1546095600,Bolton,Stoke,0,0,,,,0
-1546095600,Birmingham,Brentford,0,0,,,,0
-1546354800,Wigan,Sheffield Utd,0,3,,,,0
-1546354800,Stoke,Bristol City,0,2,,,,0
-1546354800,Sheffield Wed,Birmingham,1,1,,,,0
-1546354800,Rotherham,Preston,2,1,,,,0
-1546354800,Reading,Swansea,1,4,,,,0
-1546354800,Nottingham,Leeds,4,2,,,,0
-1546354800,Ipswich,Millwall,2,3,,,,0
-1546354800,Hull,Bolton,6,0,,,,0
-1546354800,Derby,Middlesbrough,1,1,,,,0
-1546354800,Brentford,Norwich,1,1,,,,0
-1546354800,Blackburn,West Brom,2,1,,,,0
-1546354800,Aston Villa,QPR,2,2,,,,0
-1547235900,Leeds,Derby,2,0,,,,0
-1547305200,Wigan,Aston Villa,3,0,,,,0
-1547305200,West Brom,Norwich,1,1,,,,0
-1547305200,Sheffield Utd,QPR,1,0,,,,0
-1547305200,Reading,Nottingham,2,0,,,,0
-1547305200,Preston,Swansea,1,1,,,,0
-1547305200,Ipswich,Rotherham,1,0,,,,0
-1547305200,Hull,Sheffield Wed,3,0,,,,0
-1547305200,Bristol City,Bolton,2,1,,,,0
-1547305200,Brentford,Stoke,3,1,,,,0
-1547305200,Birmingham,Middlesbrough,1,2,,,,0
-1547314200,Millwall,Blackburn,0,2,,,,0
-1547840700,Norwich,Birmingham,3,1,,,,0
-1547910000,Stoke,Leeds,2,1,,,,0
-1547910000,Sheffield Wed,Wigan,1,0,,,,0
-1547910000,Rotherham,Brentford,2,4,,,,0
-1547910000,QPR,Preston,1,4,,,,0
-1547910000,Nottingham,Bristol City,0,1,,,,0
-1547910000,Middlesbrough,Millwall,1,1,,,,0
-1547910000,Derby,Reading,2,1,,,,0
-1547910000,Blackburn,Ipswich,2,0,,,,0
-1547910000,Aston Villa,Hull,2,2,,,,0
-1547919000,Swansea,Sheffield Utd,1,0,,,,0
-1548100800,Bolton,West Brom,0,2,,,,0
-1548514800,Stoke,Preston,0,2,,,,0
-1548514800,Rotherham,Leeds,1,2,,,,0
-1548514800,Nottingham,Wigan,3,1,,,,0
-1548514800,Norwich,Sheffield Utd,2,2,,,,0
-1548514800,Blackburn,Hull,3,0,,,,0
-1548514800,Aston Villa,Ipswich,2,1,,,,0
-1548791100,Swansea,Birmingham,3,3,,,,0
-1548792000,Bolton,Reading,1,1,,,,0
-1549050300,Preston,Derby,0,0,,,,0
-1549119600,Wigan,QPR,2,1,,,,0
-1549119600,West Brom,Middlesbrough,2,3,,,,0
-1549119600,Sheffield Utd,Bolton,2,0,,,,0
-1549119600,Reading,Aston Villa,0,0,,,,0
-1549119600,Millwall,Rotherham,0,0,,,,0
-1549119600,Ipswich,Sheffield Wed,0,1,,,,0
-1549119600,Hull,Stoke,2,0,,,,0
-1549119600,Bristol City,Swansea,2,0,,,,0
-1549119600,Brentford,Blackburn,5,2,,,,0
-1549119600,Birmingham,Nottingham,2,0,,,,0
-1549128600,Leeds,Norwich,1,3,,,,0
-1549655100,Aston Villa,Sheffield Utd,3,3,,,,0
-1549717200,Middlesbrough,Leeds,1,1,,,,0
-1549724400,Swansea,Millwall,1,0,,,,0
-1549724400,Sheffield Wed,Reading,0,0,,,,0
-1549724400,Rotherham,Wigan,1,1,,,,0
-1549724400,QPR,Birmingham,3,4,,,,0
-1549724400,Nottingham,Brentford,2,1,,,,0
-1549724400,Derby,Hull,2,0,,,,0
-1549724400,Bolton,Preston,1,2,,,,0
-1549724400,Blackburn,Bristol City,0,1,,,,0
-1549733400,Stoke,West Brom,0,1,,,,0
-1549800000,Norwich,Ipswich,3,0,,,,0
-1550000700,Millwall,Sheffield Wed,0,0,,,,0
-1550000700,Hull,Rotherham,2,2,,,,0
-1550000700,Bristol City,QPR,2,1,,,,0
-1550000700,Birmingham,Bolton,0,1,,,,0
-1550001600,West Brom,Nottingham,2,2,,,,0
-1550087100,Wigan,Stoke,0,0,,,,0
-1550087100,Sheffield Utd,Middlesbrough,1,0,,,,0
-1550087100,Preston,Norwich,3,1,,,,0
-1550087100,Leeds,Swansea,2,1,,,,0
-1550087100,Ipswich,Derby,1,1,,,,0
-1550087100,Brentford,Aston Villa,1,0,,,,0
-1550088000,Reading,Blackburn,2,1,,,,0
-1550322000,Rotherham,Sheffield Wed,2,2,,,,0
-1550329200,Sheffield Utd,Reading,4,0,,,,0
-1550329200,Preston,Nottingham,0,0,,,,0
-1550329200,Ipswich,Stoke,1,1,,,,0
-1550329200,Bolton,Norwich,0,4,,,,0
-1550329200,Aston Villa,West Brom,0,2,,,,0
-1550408400,Blackburn,Middlesbrough,0,1,,,,0
-1550605500,QPR,West Brom,2,3,,,,0
-1550691900,Derby,Millwall,0,1,,,,0
-1550934000,Wigan,Ipswich,1,1,,,,0
-1550934000,Stoke,Aston Villa,1,1,,,,0
-1550934000,Sheffield Wed,Swansea,3,1,,,,0
-1550934000,Reading,Rotherham,1,1,,,,0
-1550934000,Norwich,Bristol City,3,2,,,,0
-1550934000,Millwall,Preston,1,3,,,,0
-1550934000,Middlesbrough,QPR,2,0,,,,0
-1550934000,Leeds,Bolton,2,1,,,,0
-1550934000,Brentford,Hull,5,1,,,,0
-1550934000,Birmingham,Blackburn,2,2,,,,0
-1550943000,West Brom,Sheffield Utd,0,1,,,,0
-1551123900,Nottingham,Derby,1,0,,,,0
-1551210300,Sheffield Wed,Brentford,2,0,,,,0
-1551210300,QPR,Leeds,1,0,,,,0
-1551210300,Hull,Millwall,2,1,,,,0
-1551210300,Bristol City,Birmingham,1,2,,,,0
-1551469500,Leeds,West Brom,4,0,,,,0
-1551538800,Wigan,Middlesbrough,0,0,,,,0
-1551538800,Swansea,Bolton,2,0,,,,0
-1551538800,Stoke,Nottingham,2,0,,,,0
-1551538800,Rotherham,Blackburn,3,2,,,,0
-1551538800,Preston,Bristol City,1,1,,,,0
-1551538800,Millwall,Norwich,1,3,,,,0
-1551538800,Ipswich,Reading,1,2,,,,0
-1551538800,Hull,Birmingham,2,0,,,,0
-1551538800,Brentford,QPR,3,0,,,,0
-1551538800,Aston Villa,Derby,4,0,,,,0
-1551728700,Sheffield Wed,Sheffield Utd,0,0,,,,0
-1551815100,Derby,Wigan,2,1,,,,0
-1552074300,Norwich,Swansea,1,0,,,,0
-1552132800,Blackburn,Preston,0,1,,,,0
-1552133700,Sheffield Utd,Rotherham,2,0,,,,0
-1552143600,West Brom,Ipswich,1,1,,,,0
-1552143600,Reading,Wigan,3,2,,,,0
-1552143600,QPR,Stoke,0,0,,,,0
-1552143600,Nottingham,Hull,3,0,,,,0
-1552143600,Middlesbrough,Brentford,1,2,,,,0
-1552143600,Derby,Sheffield Wed,1,1,,,,0
-1552143600,Bristol City,Leeds,0,1,,,,0
-1552143600,Bolton,Millwall,2,1,,,,0
-1552219200,Birmingham,Aston Villa,0,1,,,,0
-1552419900,Sheffield Utd,Brentford,2,0,,,,0
-1552419900,Bristol City,Ipswich,1,1,,,,0
-1552419900,Blackburn,Wigan,3,0,,,,0
-1552420800,Reading,Leeds,0,3,,,,0
-1552420800,Bolton,Sheffield Wed,0,2,,,,0
-1552506300,QPR,Rotherham,1,2,,,,0
-1552506300,Nottingham,Aston Villa,1,3,,,,0
-1552506300,Norwich,Hull,3,2,,,,0
-1552506300,Middlesbrough,Preston,1,2,,,,0
-1552506300,Derby,Stoke,0,0,,,,0
-1552506300,Birmingham,Millwall,0,2,,,,0
-1552507200,West Brom,Swansea,3,0,,,,0
-1552739400,Leeds,Sheffield Utd,0,1,,,,0
-1552748400,Wigan,Bolton,5,2,,,,0
-1552748400,Stoke,Reading,0,0,,,,0
-1552748400,Sheffield Wed,Blackburn,4,2,,,,0
-1552748400,Rotherham,Norwich,1,2,,,,0
-1552748400,Preston,Birmingham,1,0,,,,0
-1552748400,Ipswich,Nottingham,1,1,,,,0
-1552748400,Hull,QPR,2,2,,,,0
-1552748400,Brentford,West Brom,0,1,,,,0
-1552748400,Aston Villa,Middlesbrough,3,0,,,,0
-1553889600,West Brom,Birmingham,3,2,,,,0
-1553958000,Wigan,Brentford,0,0,,,,0
-1553958000,Stoke,Sheffield Wed,0,0,,,,0
-1553958000,Sheffield Utd,Bristol City,2,3,,,,0
-1553958000,Reading,Preston,2,1,,,,0
-1553958000,QPR,Bolton,1,2,,,,0
-1553958000,Nottingham,Swansea,2,1,,,,0
-1553958000,Leeds,Millwall,3,2,,,,0
-1553958000,Ipswich,Hull,0,2,,,,0
-1553958000,Derby,Rotherham,6,1,,,,0
-1553958000,Aston Villa,Blackburn,2,1,,,,0
-1553967000,Middlesbrough,Norwich,0,1,,,,0
-1554230700,Swansea,Brentford,3,0,,,,0
-1554230700,Middlesbrough,Bristol City,0,1,,,,0
-1554550200,Norwich,QPR,4,0,,,,0
-1554559200,Swansea,Middlesbrough,3,1,,,,0
-1554559200,Sheffield Wed,Aston Villa,1,3,,,,0
-1554559200,Rotherham,Nottingham,2,1,,,,0
-1554559200,Preston,Sheffield Utd,0,1,,,,0
-1554559200,Millwall,West Brom,2,0,,,,0
-1554559200,Hull,Reading,3,1,,,,0
-1554559200,Bristol City,Wigan,2,2,,,,0
-1554559200,Brentford,Derby,3,3,,,,0
-1554559200,Bolton,Ipswich,1,2,,,,0
-1554559200,Blackburn,Stoke,0,1,,,,0
-1554559200,Birmingham,Leeds,1,0,,,,0
-1554835500,Swansea,Stoke,3,1,,,,0
-1554835500,Sheffield Wed,Nottingham,3,0,,,,0
-1554835500,Preston,Leeds,0,2,,,,0
-1554835500,Bristol City,West Brom,3,2,,,,0
-1554835500,Blackburn,Derby,2,0,,,,0
-1554836400,Bolton,Middlesbrough,0,2,,,,0
-1554921900,Rotherham,Aston Villa,1,2,,,,0
-1554921900,Norwich,Reading,2,2,,,,0
-1554921900,Millwall,QPR,0,0,,,,0
-1554921900,Hull,Wigan,2,1,,,,0
-1554921900,Brentford,Ipswich,2,0,,,,0
-1554921900,Birmingham,Sheffield Utd,1,1,,,,0
-1555164000,West Brom,Preston,4,1,,,,0
-1555164000,Stoke,Rotherham,2,2,,,,0
-1555164000,Sheffield Utd,Millwall,1,1,,,,0
-1555164000,Reading,Brentford,2,1,,,,0
-1555164000,QPR,Swansea,4,0,,,,0
-1555164000,Nottingham,Blackburn,1,2,,,,0
-1555164000,Middlesbrough,Hull,1,0,,,,0
-1555164000,Ipswich,Birmingham,1,1,,,,0
-1555164000,Derby,Bolton,4,0,,,,0
-1555164000,Aston Villa,Bristol City,2,1,,,,0
-1555173000,Leeds,Sheffield Wed,1,0,,,,0
-1555239600,Wigan,Norwich,1,1,,,,0
-1555671600,Bristol City,Reading,1,1,,,,0
-1555673400,Sheffield Utd,Nottingham,2,0,,,,0
-1555675200,Millwall,Brentford,1,1,,,,0
-1555682400,West Brom,Hull,3,2,,,,0
-1555682400,Swansea,Rotherham,4,3,,,,0
-1555682400,QPR,Blackburn,1,2,,,,0
-1555682400,Preston,Ipswich,4,0,,,,0
-1555682400,Middlesbrough,Stoke,1,0,,,,0
-1555682400,Leeds,Wigan,1,2,,,,0
-1555682400,Bolton,Aston Villa,0,2,,,,0
-1555682400,Birmingham,Derby,2,2,,,,0
-1555699500,Norwich,Sheffield Wed,2,2,,,,0
-1555934400,Aston Villa,Millwall,1,0,,,,0
-1555941600,Wigan,Preston,2,0,,,,0
-1555941600,Stoke,Norwich,2,2,,,,0
-1555941600,Sheffield Wed,Bristol City,2,0,,,,0
-1555941600,Rotherham,Birmingham,1,3,,,,0
-1555941600,Reading,West Brom,0,0,,,,0
-1555941600,Nottingham,Middlesbrough,3,0,,,,0
-1555941600,Ipswich,Swansea,0,1,,,,0
-1555941600,Hull,Sheffield Utd,0,3,,,,0
-1555941600,Derby,QPR,2,0,,,,0
-1555941600,Blackburn,Bolton,2,0,,,,0
-1555949700,Brentford,Leeds,2,0,,,,0
-1556368200,Millwall,Stoke,0,0,,,,0
-1556373600,West Brom,Rotherham,2,1,,,,0
-1556373600,Swansea,Hull,2,2,,,,0
-1556373600,QPR,Nottingham,0,1,,,,0
-1556373600,Preston,Sheffield Wed,3,3,,,,0
-1556373600,Middlesbrough,Reading,2,1,,,,0
-1556373600,Bristol City,Derby,0,2,,,,0
-1556373600,Bolton,Brentford,0,1,Awrd,,,0
-1556373600,Birmingham,Wigan,1,1,,,,0
-1556381700,Sheffield Utd,Ipswich,2,0,,,,0
-1556389800,Norwich,Blackburn,2,1,,,,0
-1556449200,Leeds,Aston Villa,1,1,,,,0
-1556649900,Millwall,Bristol City,1,2,,,,0
-1556736300,Swansea,Derby,1,1,,,,0
-1557055800,Wigan,Millwall,1,0,,,,0
-1557055800,Stoke,Sheffield Utd,2,2,,,,0
-1557055800,Sheffield Wed,QPR,1,2,,,,0
-1557055800,Rotherham,Middlesbrough,1,2,,,,0
-1557055800,Reading,Birmingham,0,0,,,,0
-1557055800,Nottingham,Bolton,1,0,,,,0
-1557055800,Ipswich,Leeds,3,2,,,,0
-1557055800,Hull,Bristol City,1,1,,,,0
-1557055800,Derby,West Brom,3,1,,,,0
-1557055800,Brentford,Preston,3,0,,,,0
-1557055800,Blackburn,Swansea,2,2,,,,0
-1557055800,Aston Villa,Norwich,1,2,,,,0
-1557574200,Aston Villa,West Brom,2,1,,,,0
-1557591300,Derby,Leeds,0,1,,,,0
-1557860400,West Brom,Aston Villa,1,0,Pen,1,1,0
-1557945900,Leeds,Derby,2,4,,,,0
-1558965600,Aston Villa,Derby,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1533322800,Reading,Derby,dvLIfKqM,Ykwr8Dur,1,2,,,,0
+1533391200,Wigan,Sheffield Wed,dvLIfKqM,fNIX23Pi,3,2,,,,0
+1533391200,West Brom,Bolton,ImMEe0UF,bJFnYpTt,1,2,,,,0
+1533391200,Preston,QPR,4UX5t7jk,z9YsXKZd,1,0,,,,0
+1533391200,Millwall,Middlesbrough,4UX5t7jk,vcNAdtF9,2,2,,,,0
+1533391200,Ipswich,Blackburn,jXzj6iAf,ImMEe0UF,2,2,,,,0
+1533391200,Bristol City,Nottingham,OdaWmcNh,ImKwLTtA,1,1,,,,0
+1533391200,Brentford,Rotherham,r9Mudk7j,6qsP6K6r,5,1,,,,0
+1533391200,Birmingham,Norwich,fuIfr9AH,tCGtX12c,2,2,,,,0
+1533400200,Sheffield Utd,Swansea,K2FpWLH3,Ozj3JWKn,1,2,,,,0
+1533483000,Leeds,Stoke,O4P6Zhap,8nx1AWvN,3,1,,,,0
+1533581100,Hull,Aston Villa,bJFnYpTt,jwz95gs0,1,3,,,,0
+1533667500,Nottingham,West Brom,ImKwLTtA,ImMEe0UF,1,1,,,,0
+1533667500,Middlesbrough,Sheffield Utd,vcNAdtF9,K2FpWLH3,3,0,,,,0
+1533996000,Swansea,Preston,Ozj3JWKn,4UX5t7jk,1,0,,,,0
+1533996000,Stoke,Brentford,8nx1AWvN,r9Mudk7j,1,1,,,,0
+1533996000,Sheffield Wed,Hull,fNIX23Pi,bJFnYpTt,1,1,,,,0
+1533996000,Rotherham,Ipswich,6qsP6K6r,jXzj6iAf,1,0,,,,0
+1533996000,QPR,Sheffield Utd,z9YsXKZd,K2FpWLH3,1,2,,,,0
+1533996000,Nottingham,Reading,ImKwLTtA,dvLIfKqM,1,0,,,,0
+1533996000,Norwich,West Brom,tCGtX12c,ImMEe0UF,3,4,,,,0
+1533996000,Middlesbrough,Birmingham,vcNAdtF9,fuIfr9AH,1,0,,,,0
+1533996000,Bolton,Bristol City,bJFnYpTt,OdaWmcNh,2,2,,,,0
+1533996000,Blackburn,Millwall,ImMEe0UF,4UX5t7jk,0,0,,,,0
+1533996000,Aston Villa,Wigan,jwz95gs0,dvLIfKqM,3,2,,,,0
+1534005000,Derby,Leeds,Ykwr8Dur,O4P6Zhap,1,4,,,,0
+1534531500,Birmingham,Swansea,fuIfr9AH,Ozj3JWKn,0,0,,,,0
+1534600800,Wigan,Nottingham,dvLIfKqM,ImKwLTtA,2,2,,,,0
+1534600800,West Brom,QPR,ImMEe0UF,z9YsXKZd,7,1,,,,0
+1534600800,Sheffield Utd,Norwich,K2FpWLH3,tCGtX12c,2,1,,,,0
+1534600800,Reading,Bolton,dvLIfKqM,bJFnYpTt,0,1,,,,0
+1534600800,Millwall,Derby,4UX5t7jk,Ykwr8Dur,2,1,,,,0
+1534600800,Leeds,Rotherham,O4P6Zhap,6qsP6K6r,2,0,,,,0
+1534600800,Ipswich,Aston Villa,jXzj6iAf,jwz95gs0,1,1,,,,0
+1534600800,Hull,Blackburn,bJFnYpTt,ImMEe0UF,0,1,,,,0
+1534600800,Bristol City,Middlesbrough,OdaWmcNh,vcNAdtF9,0,2,,,,0
+1534609800,Preston,Stoke,4UX5t7jk,8nx1AWvN,2,2,,,,0
+1534687200,Brentford,Sheffield Wed,r9Mudk7j,fNIX23Pi,2,0,,,,0
+1534877100,Swansea,Leeds,Ozj3JWKn,O4P6Zhap,2,2,,,,0
+1534877100,Rotherham,Hull,6qsP6K6r,bJFnYpTt,2,3,,,,0
+1534877100,QPR,Bristol City,z9YsXKZd,OdaWmcNh,0,3,,,,0
+1534877100,Derby,Ipswich,Ykwr8Dur,jXzj6iAf,2,0,,,,0
+1534963500,Sheffield Wed,Millwall,fNIX23Pi,4UX5t7jk,2,1,,,,0
+1534963500,Norwich,Preston,tCGtX12c,4UX5t7jk,2,0,,,,0
+1534963500,Blackburn,Reading,ImMEe0UF,dvLIfKqM,2,2,,,,0
+1534963500,Aston Villa,Brentford,jwz95gs0,r9Mudk7j,2,2,,,,0
+1534964400,Stoke,Wigan,8nx1AWvN,dvLIfKqM,0,3,,,,0
+1534964400,Bolton,Birmingham,bJFnYpTt,fuIfr9AH,1,0,,,,0
+1535136300,Middlesbrough,West Brom,vcNAdtF9,ImMEe0UF,1,0,,,,0
+1535205600,Swansea,Bristol City,Ozj3JWKn,OdaWmcNh,0,1,,,,0
+1535205600,Stoke,Hull,8nx1AWvN,bJFnYpTt,2,0,,,,0
+1535205600,Sheffield Wed,Ipswich,fNIX23Pi,jXzj6iAf,2,1,,,,0
+1535205600,QPR,Wigan,z9YsXKZd,dvLIfKqM,1,0,,,,0
+1535205600,Norwich,Leeds,tCGtX12c,O4P6Zhap,0,3,,,,0
+1535205600,Derby,Preston,Ykwr8Dur,4UX5t7jk,2,0,,,,0
+1535205600,Bolton,Sheffield Utd,bJFnYpTt,K2FpWLH3,0,3,,,,0
+1535205600,Blackburn,Brentford,ImMEe0UF,r9Mudk7j,1,0,,,,0
+1535205600,Aston Villa,Reading,jwz95gs0,dvLIfKqM,1,1,,,,0
+1535214600,Nottingham,Birmingham,ImKwLTtA,fuIfr9AH,2,2,,,,0
+1535283000,Rotherham,Millwall,6qsP6K6r,4UX5t7jk,1,0,,,,0
+1535741100,Leeds,Middlesbrough,O4P6Zhap,vcNAdtF9,0,0,,,,0
+1535810400,Wigan,Rotherham,dvLIfKqM,6qsP6K6r,1,0,,,,0
+1535810400,West Brom,Stoke,ImMEe0UF,8nx1AWvN,2,1,,,,0
+1535810400,Sheffield Utd,Aston Villa,K2FpWLH3,jwz95gs0,4,1,,,,0
+1535810400,Reading,Sheffield Wed,dvLIfKqM,fNIX23Pi,1,2,,,,0
+1535810400,Preston,Bolton,4UX5t7jk,bJFnYpTt,2,2,,,,0
+1535810400,Hull,Derby,bJFnYpTt,Ykwr8Dur,1,2,,,,0
+1535810400,Brentford,Nottingham,r9Mudk7j,ImKwLTtA,2,1,,,,0
+1535810400,Birmingham,QPR,fuIfr9AH,z9YsXKZd,0,0,,,,0
+1535819400,Millwall,Swansea,4UX5t7jk,Ozj3JWKn,1,2,,,,0
+1535886000,Ipswich,Norwich,jXzj6iAf,tCGtX12c,1,1,,,,0
+1535891400,Bristol City,Blackburn,OdaWmcNh,ImMEe0UF,4,1,,,,0
+1536950700,Birmingham,West Brom,fuIfr9AH,ImMEe0UF,1,1,,,,0
+1537020000,Swansea,Nottingham,Ozj3JWKn,ImKwLTtA,0,0,,,,0
+1537020000,Sheffield Wed,Stoke,fNIX23Pi,8nx1AWvN,2,2,,,,0
+1537020000,Rotherham,Derby,6qsP6K6r,Ykwr8Dur,1,0,,,,0
+1537020000,Preston,Reading,4UX5t7jk,dvLIfKqM,2,3,,,,0
+1537020000,Norwich,Middlesbrough,tCGtX12c,vcNAdtF9,1,0,,,,0
+1537020000,Millwall,Leeds,4UX5t7jk,O4P6Zhap,1,1,,,,0
+1537020000,Hull,Ipswich,bJFnYpTt,jXzj6iAf,2,0,,,,0
+1537020000,Bristol City,Sheffield Utd,OdaWmcNh,K2FpWLH3,1,0,,,,0
+1537020000,Brentford,Wigan,r9Mudk7j,dvLIfKqM,2,0,,,,0
+1537020000,Bolton,QPR,bJFnYpTt,z9YsXKZd,1,2,,,,0
+1537029000,Blackburn,Aston Villa,ImMEe0UF,jwz95gs0,1,1,,,,0
+1537296300,Wigan,Hull,dvLIfKqM,bJFnYpTt,2,1,,,,0
+1537296300,Leeds,Preston,O4P6Zhap,4UX5t7jk,3,0,,,,0
+1537296300,Ipswich,Brentford,jXzj6iAf,r9Mudk7j,1,1,,,,0
+1537296300,Derby,Blackburn,Ykwr8Dur,ImMEe0UF,0,0,,,,0
+1537296300,Aston Villa,Rotherham,jwz95gs0,6qsP6K6r,2,0,,,,0
+1537297200,West Brom,Bristol City,ImMEe0UF,OdaWmcNh,4,2,,,,0
+1537297200,Stoke,Swansea,8nx1AWvN,Ozj3JWKn,1,0,,,,0
+1537382700,Sheffield Utd,Birmingham,K2FpWLH3,fuIfr9AH,0,0,,,,0
+1537382700,QPR,Millwall,z9YsXKZd,4UX5t7jk,2,0,,,,0
+1537382700,Nottingham,Sheffield Wed,ImKwLTtA,fNIX23Pi,2,1,,,,0
+1537382700,Middlesbrough,Bolton,vcNAdtF9,bJFnYpTt,2,0,,,,0
+1537383600,Reading,Norwich,dvLIfKqM,tCGtX12c,1,2,,,,0
+1537555500,Wigan,Bristol City,dvLIfKqM,OdaWmcNh,1,0,,,,0
+1537624800,West Brom,Millwall,ImMEe0UF,4UX5t7jk,2,0,,,,0
+1537624800,Stoke,Blackburn,8nx1AWvN,ImMEe0UF,2,3,,,,0
+1537624800,Sheffield Utd,Preston,K2FpWLH3,4UX5t7jk,3,2,,,,0
+1537624800,Reading,Hull,dvLIfKqM,bJFnYpTt,3,0,,,,0
+1537624800,Nottingham,Rotherham,ImKwLTtA,6qsP6K6r,1,0,,,,0
+1537624800,Middlesbrough,Swansea,vcNAdtF9,Ozj3JWKn,0,0,,,,0
+1537624800,Leeds,Birmingham,O4P6Zhap,fuIfr9AH,1,2,,,,0
+1537624800,Ipswich,Bolton,jXzj6iAf,bJFnYpTt,0,0,,,,0
+1537624800,Derby,Brentford,Ykwr8Dur,r9Mudk7j,3,1,,,,0
+1537624800,Aston Villa,Sheffield Wed,jwz95gs0,fNIX23Pi,1,2,,,,0
+1537633800,QPR,Norwich,z9YsXKZd,tCGtX12c,0,1,,,,0
+1538160300,Sheffield Wed,Leeds,fNIX23Pi,O4P6Zhap,1,1,,,,0
+1538161200,Bristol City,Aston Villa,OdaWmcNh,jwz95gs0,1,1,,,,0
+1538229600,Swansea,QPR,Ozj3JWKn,z9YsXKZd,3,0,,,,0
+1538229600,Preston,West Brom,4UX5t7jk,ImMEe0UF,2,3,,,,0
+1538229600,Norwich,Wigan,tCGtX12c,dvLIfKqM,1,0,,,,0
+1538229600,Millwall,Sheffield Utd,4UX5t7jk,K2FpWLH3,2,3,,,,0
+1538229600,Hull,Middlesbrough,bJFnYpTt,vcNAdtF9,1,1,,,,0
+1538229600,Brentford,Reading,r9Mudk7j,dvLIfKqM,2,2,,,,0
+1538229600,Bolton,Derby,bJFnYpTt,Ykwr8Dur,1,0,,,,0
+1538229600,Blackburn,Nottingham,ImMEe0UF,ImKwLTtA,2,2,,,,0
+1538229600,Birmingham,Ipswich,fuIfr9AH,jXzj6iAf,2,2,,,,0
+1538238600,Rotherham,Stoke,6qsP6K6r,8nx1AWvN,2,2,,,,0
+1538505900,Wigan,Swansea,dvLIfKqM,Ozj3JWKn,0,0,,,,0
+1538505900,Ipswich,Middlesbrough,jXzj6iAf,vcNAdtF9,0,2,,,,0
+1538505900,Hull,Leeds,bJFnYpTt,O4P6Zhap,0,1,,,,0
+1538505900,Brentford,Birmingham,r9Mudk7j,fuIfr9AH,1,1,,,,0
+1538505900,Aston Villa,Preston,jwz95gs0,4UX5t7jk,3,3,,,,0
+1538506800,Stoke,Bolton,8nx1AWvN,bJFnYpTt,2,0,,,,0
+1538506800,Reading,QPR,dvLIfKqM,z9YsXKZd,0,1,,,,0
+1538592300,Sheffield Wed,West Brom,fNIX23Pi,ImMEe0UF,2,2,,,,0
+1538592300,Rotherham,Bristol City,6qsP6K6r,OdaWmcNh,0,0,,,,0
+1538592300,Nottingham,Millwall,ImKwLTtA,4UX5t7jk,2,2,,,,0
+1538592300,Derby,Norwich,Ykwr8Dur,tCGtX12c,1,1,,,,0
+1538592300,Blackburn,Sheffield Utd,ImMEe0UF,K2FpWLH3,0,2,,,,0
+1538825400,Leeds,Brentford,O4P6Zhap,r9Mudk7j,1,1,,,,0
+1538834400,West Brom,Reading,ImMEe0UF,dvLIfKqM,4,1,,,,0
+1538834400,Swansea,Ipswich,Ozj3JWKn,jXzj6iAf,2,3,,,,0
+1538834400,Sheffield Utd,Hull,K2FpWLH3,bJFnYpTt,1,0,,,,0
+1538834400,QPR,Derby,z9YsXKZd,Ykwr8Dur,1,1,,,,0
+1538834400,Preston,Wigan,4UX5t7jk,dvLIfKqM,4,0,,,,0
+1538834400,Norwich,Stoke,tCGtX12c,8nx1AWvN,0,1,,,,0
+1538834400,Millwall,Aston Villa,4UX5t7jk,jwz95gs0,2,1,,,,0
+1538834400,Middlesbrough,Nottingham,vcNAdtF9,ImKwLTtA,0,2,,,,0
+1538834400,Birmingham,Rotherham,fuIfr9AH,6qsP6K6r,3,1,,,,0
+1538843400,Bolton,Blackburn,bJFnYpTt,ImMEe0UF,0,1,,,,0
+1538915400,Bristol City,Sheffield Wed,OdaWmcNh,fNIX23Pi,1,2,,,,0
+1539974700,Sheffield Wed,Middlesbrough,fNIX23Pi,vcNAdtF9,1,2,,,,0
+1540033200,Blackburn,Leeds,ImMEe0UF,O4P6Zhap,2,1,,,,0
+1540044000,Wigan,West Brom,dvLIfKqM,ImMEe0UF,1,0,,,,0
+1540044000,Stoke,Birmingham,8nx1AWvN,fuIfr9AH,0,1,,,,0
+1540044000,Rotherham,Bolton,6qsP6K6r,bJFnYpTt,1,1,,,,0
+1540044000,Reading,Millwall,dvLIfKqM,4UX5t7jk,3,1,,,,0
+1540044000,Nottingham,Norwich,ImKwLTtA,tCGtX12c,1,2,,,,0
+1540044000,Ipswich,QPR,jXzj6iAf,z9YsXKZd,0,2,,,,0
+1540044000,Hull,Preston,bJFnYpTt,4UX5t7jk,1,1,,,,0
+1540044000,Brentford,Bristol City,r9Mudk7j,OdaWmcNh,0,1,,,,0
+1540044000,Aston Villa,Swansea,jwz95gs0,Ozj3JWKn,1,0,,,,0
+1540053000,Derby,Sheffield Utd,Ykwr8Dur,K2FpWLH3,2,1,,,,0
+1540320300,Swansea,Blackburn,Ozj3JWKn,ImMEe0UF,3,1,,,,0
+1540320300,Sheffield Utd,Stoke,K2FpWLH3,8nx1AWvN,1,1,,,,0
+1540320300,QPR,Sheffield Wed,z9YsXKZd,fNIX23Pi,3,0,,,,0
+1540320300,Norwich,Aston Villa,tCGtX12c,jwz95gs0,2,1,,,,0
+1540320300,Millwall,Wigan,4UX5t7jk,dvLIfKqM,2,1,,,,0
+1540320300,Middlesbrough,Rotherham,vcNAdtF9,6qsP6K6r,0,0,,,,0
+1540320300,Birmingham,Reading,fuIfr9AH,dvLIfKqM,2,1,,,,0
+1540406700,Preston,Brentford,4UX5t7jk,r9Mudk7j,4,3,,,,0
+1540406700,Leeds,Ipswich,O4P6Zhap,jXzj6iAf,2,0,,,,0
+1540406700,Bristol City,Hull,OdaWmcNh,bJFnYpTt,1,0,,,,0
+1540407600,West Brom,Derby,ImMEe0UF,Ykwr8Dur,1,4,,,,0
+1540407600,Bolton,Nottingham,bJFnYpTt,ImKwLTtA,0,3,,,,0
+1540579500,QPR,Aston Villa,z9YsXKZd,jwz95gs0,1,0,,,,0
+1540639800,Middlesbrough,Derby,vcNAdtF9,Ykwr8Dur,1,1,,,,0
+1540648800,West Brom,Blackburn,ImMEe0UF,ImMEe0UF,1,1,,,,0
+1540648800,Swansea,Reading,Ozj3JWKn,dvLIfKqM,2,0,,,,0
+1540648800,Sheffield Utd,Wigan,K2FpWLH3,dvLIfKqM,4,2,,,,0
+1540648800,Preston,Rotherham,4UX5t7jk,6qsP6K6r,1,1,,,,0
+1540648800,Norwich,Brentford,tCGtX12c,r9Mudk7j,1,0,,,,0
+1540648800,Millwall,Ipswich,4UX5t7jk,jXzj6iAf,3,0,,,,0
+1540648800,Bristol City,Stoke,OdaWmcNh,8nx1AWvN,0,1,,,,0
+1540648800,Bolton,Hull,bJFnYpTt,bJFnYpTt,0,1,,,,0
+1540648800,Birmingham,Sheffield Wed,fuIfr9AH,fNIX23Pi,3,1,,,,0
+1540657800,Leeds,Nottingham,O4P6Zhap,ImKwLTtA,1,1,,,,0
+1541187900,Aston Villa,Bolton,jwz95gs0,bJFnYpTt,2,0,,,,0
+1541257200,Sheffield Wed,Norwich,fNIX23Pi,tCGtX12c,0,4,,,,0
+1541257200,Rotherham,Swansea,6qsP6K6r,Ozj3JWKn,2,1,,,,0
+1541257200,Reading,Bristol City,dvLIfKqM,OdaWmcNh,3,2,,,,0
+1541257200,Nottingham,Sheffield Utd,ImKwLTtA,K2FpWLH3,1,0,,,,0
+1541257200,Ipswich,Preston,jXzj6iAf,4UX5t7jk,1,1,,,,0
+1541257200,Hull,West Brom,bJFnYpTt,ImMEe0UF,1,0,,,,0
+1541257200,Derby,Birmingham,Ykwr8Dur,fuIfr9AH,3,1,,,,0
+1541257200,Brentford,Millwall,r9Mudk7j,4UX5t7jk,2,0,,,,0
+1541257200,Blackburn,QPR,ImMEe0UF,z9YsXKZd,1,0,,,,0
+1541266200,Stoke,Middlesbrough,8nx1AWvN,vcNAdtF9,0,0,,,,0
+1541338200,Wigan,Leeds,dvLIfKqM,O4P6Zhap,1,2,,,,0
+1541792700,Sheffield Utd,Sheffield Wed,K2FpWLH3,fNIX23Pi,0,0,,,,0
+1541862000,Reading,Ipswich,dvLIfKqM,jXzj6iAf,2,2,,,,0
+1541862000,QPR,Brentford,z9YsXKZd,r9Mudk7j,3,2,,,,0
+1541862000,Nottingham,Stoke,ImKwLTtA,8nx1AWvN,0,0,,,,0
+1541862000,Norwich,Millwall,tCGtX12c,4UX5t7jk,4,3,,,,0
+1541862000,Middlesbrough,Wigan,vcNAdtF9,dvLIfKqM,2,0,,,,0
+1541862000,Derby,Aston Villa,Ykwr8Dur,jwz95gs0,0,3,,,,0
+1541862000,Bristol City,Preston,OdaWmcNh,4UX5t7jk,0,1,,,,0
+1541862000,Bolton,Swansea,bJFnYpTt,Ozj3JWKn,0,1,,,,0
+1541862000,Blackburn,Rotherham,ImMEe0UF,6qsP6K6r,1,1,,,,0
+1541862000,Birmingham,Hull,fuIfr9AH,bJFnYpTt,3,3,,,,0
+1541871000,West Brom,Leeds,ImMEe0UF,O4P6Zhap,4,1,,,,0
+1543002300,Ipswich,West Brom,jXzj6iAf,ImMEe0UF,1,2,,,,0
+1543062600,Rotherham,Sheffield Utd,6qsP6K6r,K2FpWLH3,2,2,,,,0
+1543071600,Wigan,Reading,dvLIfKqM,dvLIfKqM,0,0,,,,0
+1543071600,Swansea,Norwich,Ozj3JWKn,tCGtX12c,1,4,,,,0
+1543071600,Stoke,QPR,8nx1AWvN,z9YsXKZd,2,2,,,,0
+1543071600,Sheffield Wed,Derby,fNIX23Pi,Ykwr8Dur,1,2,,,,0
+1543071600,Preston,Blackburn,4UX5t7jk,ImMEe0UF,4,1,,,,0
+1543071600,Millwall,Bolton,4UX5t7jk,bJFnYpTt,1,1,,,,0
+1543071600,Leeds,Bristol City,O4P6Zhap,OdaWmcNh,2,0,,,,0
+1543071600,Hull,Nottingham,bJFnYpTt,ImKwLTtA,0,2,,,,0
+1543080600,Brentford,Middlesbrough,r9Mudk7j,vcNAdtF9,1,2,,,,0
+1543147200,Aston Villa,Birmingham,jwz95gs0,fuIfr9AH,4,2,,,,0
+1543347900,Sheffield Wed,Bolton,fNIX23Pi,bJFnYpTt,1,0,,,,0
+1543347900,Rotherham,QPR,6qsP6K6r,z9YsXKZd,2,2,,,,0
+1543347900,Preston,Middlesbrough,4UX5t7jk,vcNAdtF9,1,1,,,,0
+1543347900,Leeds,Reading,O4P6Zhap,dvLIfKqM,1,0,,,,0
+1543347900,Hull,Norwich,bJFnYpTt,tCGtX12c,0,0,,,,0
+1543347900,Brentford,Sheffield Utd,r9Mudk7j,K2FpWLH3,2,3,,,,0
+1543434300,Wigan,Blackburn,dvLIfKqM,ImMEe0UF,3,1,,,,0
+1543434300,Swansea,West Brom,Ozj3JWKn,ImMEe0UF,1,2,,,,0
+1543434300,Millwall,Birmingham,4UX5t7jk,fuIfr9AH,0,2,,,,0
+1543434300,Ipswich,Bristol City,jXzj6iAf,OdaWmcNh,2,3,,,,0
+1543434300,Aston Villa,Nottingham,jwz95gs0,ImKwLTtA,5,5,,,,0
+1543435200,Stoke,Derby,8nx1AWvN,Ykwr8Dur,2,1,,,,0
+1543667400,Sheffield Utd,Leeds,K2FpWLH3,O4P6Zhap,0,1,,,,0
+1543676400,Reading,Stoke,dvLIfKqM,8nx1AWvN,2,2,,,,0
+1543676400,QPR,Hull,z9YsXKZd,bJFnYpTt,2,3,,,,0
+1543676400,Nottingham,Ipswich,ImKwLTtA,jXzj6iAf,2,0,,,,0
+1543676400,Norwich,Rotherham,tCGtX12c,6qsP6K6r,3,1,,,,0
+1543676400,Derby,Swansea,Ykwr8Dur,Ozj3JWKn,2,1,,,,0
+1543676400,Bolton,Wigan,bJFnYpTt,dvLIfKqM,1,1,,,,0
+1543676400,Blackburn,Sheffield Wed,ImMEe0UF,fNIX23Pi,4,2,,,,0
+1543676400,Birmingham,Preston,fuIfr9AH,4UX5t7jk,3,0,,,,0
+1543685400,Middlesbrough,Aston Villa,vcNAdtF9,jwz95gs0,0,3,,,,0
+1543757400,Bristol City,Millwall,OdaWmcNh,4UX5t7jk,1,1,,,,0
+1543867200,West Brom,Brentford,ImMEe0UF,r9Mudk7j,1,1,,,,0
+1544212800,West Brom,Aston Villa,ImMEe0UF,jwz95gs0,2,2,,,,0
+1544281200,Wigan,Derby,dvLIfKqM,Ykwr8Dur,0,1,,,,0
+1544281200,Stoke,Ipswich,8nx1AWvN,jXzj6iAf,2,0,,,,0
+1544281200,Sheffield Wed,Rotherham,fNIX23Pi,6qsP6K6r,2,2,,,,0
+1544281200,Nottingham,Preston,ImKwLTtA,4UX5t7jk,0,1,,,,0
+1544281200,Norwich,Bolton,tCGtX12c,bJFnYpTt,3,2,,,,0
+1544281200,Millwall,Hull,4UX5t7jk,bJFnYpTt,2,2,,,,0
+1544281200,Middlesbrough,Blackburn,vcNAdtF9,ImMEe0UF,1,1,,,,0
+1544281200,Leeds,QPR,O4P6Zhap,z9YsXKZd,2,1,,,,0
+1544281200,Brentford,Swansea,r9Mudk7j,Ozj3JWKn,2,3,,,,0
+1544281200,Birmingham,Bristol City,fuIfr9AH,OdaWmcNh,0,1,,,,0
+1544290200,Reading,Sheffield Utd,dvLIfKqM,K2FpWLH3,0,2,,,,0
+1544816700,Sheffield Utd,West Brom,K2FpWLH3,ImMEe0UF,1,2,,,,0
+1544886000,Swansea,Sheffield Wed,Ozj3JWKn,fNIX23Pi,2,1,,,,0
+1544886000,Rotherham,Reading,6qsP6K6r,dvLIfKqM,1,1,,,,0
+1544886000,QPR,Middlesbrough,z9YsXKZd,vcNAdtF9,2,1,,,,0
+1544886000,Preston,Millwall,4UX5t7jk,4UX5t7jk,3,2,,,,0
+1544886000,Ipswich,Wigan,jXzj6iAf,dvLIfKqM,1,0,,,,0
+1544886000,Hull,Brentford,bJFnYpTt,r9Mudk7j,2,0,,,,0
+1544886000,Bolton,Leeds,bJFnYpTt,O4P6Zhap,0,1,,,,0
+1544886000,Blackburn,Birmingham,ImMEe0UF,fuIfr9AH,2,2,,,,0
+1544886000,Aston Villa,Stoke,jwz95gs0,8nx1AWvN,2,2,,,,0
+1544895000,Bristol City,Norwich,OdaWmcNh,tCGtX12c,2,2,,,,0
+1545075900,Derby,Nottingham,Ykwr8Dur,ImKwLTtA,0,0,,,,0
+1545490800,Wigan,Birmingham,dvLIfKqM,fuIfr9AH,0,3,,,,0
+1545490800,Stoke,Millwall,8nx1AWvN,4UX5t7jk,1,0,,,,0
+1545490800,Sheffield Wed,Preston,fNIX23Pi,4UX5t7jk,1,0,,,,0
+1545490800,Rotherham,West Brom,6qsP6K6r,ImMEe0UF,0,4,,,,0
+1545490800,Reading,Middlesbrough,dvLIfKqM,vcNAdtF9,0,1,,,,0
+1545490800,Nottingham,QPR,ImKwLTtA,z9YsXKZd,0,1,,,,0
+1545490800,Ipswich,Sheffield Utd,jXzj6iAf,K2FpWLH3,1,1,,,,0
+1545490800,Derby,Bristol City,Ykwr8Dur,OdaWmcNh,1,1,,,,0
+1545490800,Brentford,Bolton,r9Mudk7j,bJFnYpTt,1,0,,,,0
+1545490800,Blackburn,Norwich,ImMEe0UF,tCGtX12c,0,1,,,,0
+1545499800,Hull,Swansea,bJFnYpTt,Ozj3JWKn,3,2,,,,0
+1545571800,Aston Villa,Leeds,jwz95gs0,O4P6Zhap,2,3,,,,0
+1545836400,West Brom,Wigan,ImMEe0UF,dvLIfKqM,2,0,,,,0
+1545836400,Swansea,Aston Villa,Ozj3JWKn,jwz95gs0,0,1,,,,0
+1545836400,Sheffield Utd,Derby,K2FpWLH3,Ykwr8Dur,3,1,,,,0
+1545836400,QPR,Ipswich,z9YsXKZd,jXzj6iAf,3,0,,,,0
+1545836400,Preston,Hull,4UX5t7jk,bJFnYpTt,1,2,,,,0
+1545836400,Norwich,Nottingham,tCGtX12c,ImKwLTtA,3,3,,,,0
+1545836400,Millwall,Reading,4UX5t7jk,dvLIfKqM,1,0,,,,0
+1545836400,Middlesbrough,Sheffield Wed,vcNAdtF9,fNIX23Pi,0,1,,,,0
+1545836400,Leeds,Blackburn,O4P6Zhap,ImMEe0UF,3,2,,,,0
+1545836400,Bristol City,Brentford,OdaWmcNh,r9Mudk7j,1,1,,,,0
+1545836400,Bolton,Rotherham,bJFnYpTt,6qsP6K6r,2,1,,,,0
+1545836400,Birmingham,Stoke,fuIfr9AH,8nx1AWvN,2,0,,,,0
+1546095600,West Brom,Sheffield Wed,ImMEe0UF,fNIX23Pi,1,1,,,,0
+1546095600,Swansea,Wigan,Ozj3JWKn,dvLIfKqM,2,2,,,,0
+1546095600,Sheffield Utd,Blackburn,K2FpWLH3,ImMEe0UF,3,0,,,,0
+1546095600,QPR,Reading,z9YsXKZd,dvLIfKqM,0,0,,,,0
+1546095600,Preston,Aston Villa,4UX5t7jk,jwz95gs0,1,1,,,,0
+1546095600,Norwich,Derby,tCGtX12c,Ykwr8Dur,3,4,,,,0
+1546095600,Millwall,Nottingham,4UX5t7jk,ImKwLTtA,1,0,,,,0
+1546095600,Middlesbrough,Ipswich,vcNAdtF9,jXzj6iAf,2,0,,,,0
+1546095600,Leeds,Hull,O4P6Zhap,bJFnYpTt,0,2,,,,0
+1546095600,Bristol City,Rotherham,OdaWmcNh,6qsP6K6r,1,0,,,,0
+1546095600,Bolton,Stoke,bJFnYpTt,8nx1AWvN,0,0,,,,0
+1546095600,Birmingham,Brentford,fuIfr9AH,r9Mudk7j,0,0,,,,0
+1546354800,Wigan,Sheffield Utd,dvLIfKqM,K2FpWLH3,0,3,,,,0
+1546354800,Stoke,Bristol City,8nx1AWvN,OdaWmcNh,0,2,,,,0
+1546354800,Sheffield Wed,Birmingham,fNIX23Pi,fuIfr9AH,1,1,,,,0
+1546354800,Rotherham,Preston,6qsP6K6r,4UX5t7jk,2,1,,,,0
+1546354800,Reading,Swansea,dvLIfKqM,Ozj3JWKn,1,4,,,,0
+1546354800,Nottingham,Leeds,ImKwLTtA,O4P6Zhap,4,2,,,,0
+1546354800,Ipswich,Millwall,jXzj6iAf,4UX5t7jk,2,3,,,,0
+1546354800,Hull,Bolton,bJFnYpTt,bJFnYpTt,6,0,,,,0
+1546354800,Derby,Middlesbrough,Ykwr8Dur,vcNAdtF9,1,1,,,,0
+1546354800,Brentford,Norwich,r9Mudk7j,tCGtX12c,1,1,,,,0
+1546354800,Blackburn,West Brom,ImMEe0UF,ImMEe0UF,2,1,,,,0
+1546354800,Aston Villa,QPR,jwz95gs0,z9YsXKZd,2,2,,,,0
+1547235900,Leeds,Derby,O4P6Zhap,Ykwr8Dur,2,0,,,,0
+1547305200,Wigan,Aston Villa,dvLIfKqM,jwz95gs0,3,0,,,,0
+1547305200,West Brom,Norwich,ImMEe0UF,tCGtX12c,1,1,,,,0
+1547305200,Sheffield Utd,QPR,K2FpWLH3,z9YsXKZd,1,0,,,,0
+1547305200,Reading,Nottingham,dvLIfKqM,ImKwLTtA,2,0,,,,0
+1547305200,Preston,Swansea,4UX5t7jk,Ozj3JWKn,1,1,,,,0
+1547305200,Ipswich,Rotherham,jXzj6iAf,6qsP6K6r,1,0,,,,0
+1547305200,Hull,Sheffield Wed,bJFnYpTt,fNIX23Pi,3,0,,,,0
+1547305200,Bristol City,Bolton,OdaWmcNh,bJFnYpTt,2,1,,,,0
+1547305200,Brentford,Stoke,r9Mudk7j,8nx1AWvN,3,1,,,,0
+1547305200,Birmingham,Middlesbrough,fuIfr9AH,vcNAdtF9,1,2,,,,0
+1547314200,Millwall,Blackburn,4UX5t7jk,ImMEe0UF,0,2,,,,0
+1547840700,Norwich,Birmingham,tCGtX12c,fuIfr9AH,3,1,,,,0
+1547910000,Stoke,Leeds,8nx1AWvN,O4P6Zhap,2,1,,,,0
+1547910000,Sheffield Wed,Wigan,fNIX23Pi,dvLIfKqM,1,0,,,,0
+1547910000,Rotherham,Brentford,6qsP6K6r,r9Mudk7j,2,4,,,,0
+1547910000,QPR,Preston,z9YsXKZd,4UX5t7jk,1,4,,,,0
+1547910000,Nottingham,Bristol City,ImKwLTtA,OdaWmcNh,0,1,,,,0
+1547910000,Middlesbrough,Millwall,vcNAdtF9,4UX5t7jk,1,1,,,,0
+1547910000,Derby,Reading,Ykwr8Dur,dvLIfKqM,2,1,,,,0
+1547910000,Blackburn,Ipswich,ImMEe0UF,jXzj6iAf,2,0,,,,0
+1547910000,Aston Villa,Hull,jwz95gs0,bJFnYpTt,2,2,,,,0
+1547919000,Swansea,Sheffield Utd,Ozj3JWKn,K2FpWLH3,1,0,,,,0
+1548100800,Bolton,West Brom,bJFnYpTt,ImMEe0UF,0,2,,,,0
+1548514800,Stoke,Preston,8nx1AWvN,4UX5t7jk,0,2,,,,0
+1548514800,Rotherham,Leeds,6qsP6K6r,O4P6Zhap,1,2,,,,0
+1548514800,Nottingham,Wigan,ImKwLTtA,dvLIfKqM,3,1,,,,0
+1548514800,Norwich,Sheffield Utd,tCGtX12c,K2FpWLH3,2,2,,,,0
+1548514800,Blackburn,Hull,ImMEe0UF,bJFnYpTt,3,0,,,,0
+1548514800,Aston Villa,Ipswich,jwz95gs0,jXzj6iAf,2,1,,,,0
+1548791100,Swansea,Birmingham,Ozj3JWKn,fuIfr9AH,3,3,,,,0
+1548792000,Bolton,Reading,bJFnYpTt,dvLIfKqM,1,1,,,,0
+1549050300,Preston,Derby,4UX5t7jk,Ykwr8Dur,0,0,,,,0
+1549119600,Wigan,QPR,dvLIfKqM,z9YsXKZd,2,1,,,,0
+1549119600,West Brom,Middlesbrough,ImMEe0UF,vcNAdtF9,2,3,,,,0
+1549119600,Sheffield Utd,Bolton,K2FpWLH3,bJFnYpTt,2,0,,,,0
+1549119600,Reading,Aston Villa,dvLIfKqM,jwz95gs0,0,0,,,,0
+1549119600,Millwall,Rotherham,4UX5t7jk,6qsP6K6r,0,0,,,,0
+1549119600,Ipswich,Sheffield Wed,jXzj6iAf,fNIX23Pi,0,1,,,,0
+1549119600,Hull,Stoke,bJFnYpTt,8nx1AWvN,2,0,,,,0
+1549119600,Bristol City,Swansea,OdaWmcNh,Ozj3JWKn,2,0,,,,0
+1549119600,Brentford,Blackburn,r9Mudk7j,ImMEe0UF,5,2,,,,0
+1549119600,Birmingham,Nottingham,fuIfr9AH,ImKwLTtA,2,0,,,,0
+1549128600,Leeds,Norwich,O4P6Zhap,tCGtX12c,1,3,,,,0
+1549655100,Aston Villa,Sheffield Utd,jwz95gs0,K2FpWLH3,3,3,,,,0
+1549717200,Middlesbrough,Leeds,vcNAdtF9,O4P6Zhap,1,1,,,,0
+1549724400,Swansea,Millwall,Ozj3JWKn,4UX5t7jk,1,0,,,,0
+1549724400,Sheffield Wed,Reading,fNIX23Pi,dvLIfKqM,0,0,,,,0
+1549724400,Rotherham,Wigan,6qsP6K6r,dvLIfKqM,1,1,,,,0
+1549724400,QPR,Birmingham,z9YsXKZd,fuIfr9AH,3,4,,,,0
+1549724400,Nottingham,Brentford,ImKwLTtA,r9Mudk7j,2,1,,,,0
+1549724400,Derby,Hull,Ykwr8Dur,bJFnYpTt,2,0,,,,0
+1549724400,Bolton,Preston,bJFnYpTt,4UX5t7jk,1,2,,,,0
+1549724400,Blackburn,Bristol City,ImMEe0UF,OdaWmcNh,0,1,,,,0
+1549733400,Stoke,West Brom,8nx1AWvN,ImMEe0UF,0,1,,,,0
+1549800000,Norwich,Ipswich,tCGtX12c,jXzj6iAf,3,0,,,,0
+1550000700,Millwall,Sheffield Wed,4UX5t7jk,fNIX23Pi,0,0,,,,0
+1550000700,Hull,Rotherham,bJFnYpTt,6qsP6K6r,2,2,,,,0
+1550000700,Bristol City,QPR,OdaWmcNh,z9YsXKZd,2,1,,,,0
+1550000700,Birmingham,Bolton,fuIfr9AH,bJFnYpTt,0,1,,,,0
+1550001600,West Brom,Nottingham,ImMEe0UF,ImKwLTtA,2,2,,,,0
+1550087100,Wigan,Stoke,dvLIfKqM,8nx1AWvN,0,0,,,,0
+1550087100,Sheffield Utd,Middlesbrough,K2FpWLH3,vcNAdtF9,1,0,,,,0
+1550087100,Preston,Norwich,4UX5t7jk,tCGtX12c,3,1,,,,0
+1550087100,Leeds,Swansea,O4P6Zhap,Ozj3JWKn,2,1,,,,0
+1550087100,Ipswich,Derby,jXzj6iAf,Ykwr8Dur,1,1,,,,0
+1550087100,Brentford,Aston Villa,r9Mudk7j,jwz95gs0,1,0,,,,0
+1550088000,Reading,Blackburn,dvLIfKqM,ImMEe0UF,2,1,,,,0
+1550322000,Rotherham,Sheffield Wed,6qsP6K6r,fNIX23Pi,2,2,,,,0
+1550329200,Sheffield Utd,Reading,K2FpWLH3,dvLIfKqM,4,0,,,,0
+1550329200,Preston,Nottingham,4UX5t7jk,ImKwLTtA,0,0,,,,0
+1550329200,Ipswich,Stoke,jXzj6iAf,8nx1AWvN,1,1,,,,0
+1550329200,Bolton,Norwich,bJFnYpTt,tCGtX12c,0,4,,,,0
+1550329200,Aston Villa,West Brom,jwz95gs0,ImMEe0UF,0,2,,,,0
+1550408400,Blackburn,Middlesbrough,ImMEe0UF,vcNAdtF9,0,1,,,,0
+1550605500,QPR,West Brom,z9YsXKZd,ImMEe0UF,2,3,,,,0
+1550691900,Derby,Millwall,Ykwr8Dur,4UX5t7jk,0,1,,,,0
+1550934000,Wigan,Ipswich,dvLIfKqM,jXzj6iAf,1,1,,,,0
+1550934000,Stoke,Aston Villa,8nx1AWvN,jwz95gs0,1,1,,,,0
+1550934000,Sheffield Wed,Swansea,fNIX23Pi,Ozj3JWKn,3,1,,,,0
+1550934000,Reading,Rotherham,dvLIfKqM,6qsP6K6r,1,1,,,,0
+1550934000,Norwich,Bristol City,tCGtX12c,OdaWmcNh,3,2,,,,0
+1550934000,Millwall,Preston,4UX5t7jk,4UX5t7jk,1,3,,,,0
+1550934000,Middlesbrough,QPR,vcNAdtF9,z9YsXKZd,2,0,,,,0
+1550934000,Leeds,Bolton,O4P6Zhap,bJFnYpTt,2,1,,,,0
+1550934000,Brentford,Hull,r9Mudk7j,bJFnYpTt,5,1,,,,0
+1550934000,Birmingham,Blackburn,fuIfr9AH,ImMEe0UF,2,2,,,,0
+1550943000,West Brom,Sheffield Utd,ImMEe0UF,K2FpWLH3,0,1,,,,0
+1551123900,Nottingham,Derby,ImKwLTtA,Ykwr8Dur,1,0,,,,0
+1551210300,Sheffield Wed,Brentford,fNIX23Pi,r9Mudk7j,2,0,,,,0
+1551210300,QPR,Leeds,z9YsXKZd,O4P6Zhap,1,0,,,,0
+1551210300,Hull,Millwall,bJFnYpTt,4UX5t7jk,2,1,,,,0
+1551210300,Bristol City,Birmingham,OdaWmcNh,fuIfr9AH,1,2,,,,0
+1551469500,Leeds,West Brom,O4P6Zhap,ImMEe0UF,4,0,,,,0
+1551538800,Wigan,Middlesbrough,dvLIfKqM,vcNAdtF9,0,0,,,,0
+1551538800,Swansea,Bolton,Ozj3JWKn,bJFnYpTt,2,0,,,,0
+1551538800,Stoke,Nottingham,8nx1AWvN,ImKwLTtA,2,0,,,,0
+1551538800,Rotherham,Blackburn,6qsP6K6r,ImMEe0UF,3,2,,,,0
+1551538800,Preston,Bristol City,4UX5t7jk,OdaWmcNh,1,1,,,,0
+1551538800,Millwall,Norwich,4UX5t7jk,tCGtX12c,1,3,,,,0
+1551538800,Ipswich,Reading,jXzj6iAf,dvLIfKqM,1,2,,,,0
+1551538800,Hull,Birmingham,bJFnYpTt,fuIfr9AH,2,0,,,,0
+1551538800,Brentford,QPR,r9Mudk7j,z9YsXKZd,3,0,,,,0
+1551538800,Aston Villa,Derby,jwz95gs0,Ykwr8Dur,4,0,,,,0
+1551728700,Sheffield Wed,Sheffield Utd,fNIX23Pi,K2FpWLH3,0,0,,,,0
+1551815100,Derby,Wigan,Ykwr8Dur,dvLIfKqM,2,1,,,,0
+1552074300,Norwich,Swansea,tCGtX12c,Ozj3JWKn,1,0,,,,0
+1552132800,Blackburn,Preston,ImMEe0UF,4UX5t7jk,0,1,,,,0
+1552133700,Sheffield Utd,Rotherham,K2FpWLH3,6qsP6K6r,2,0,,,,0
+1552143600,West Brom,Ipswich,ImMEe0UF,jXzj6iAf,1,1,,,,0
+1552143600,Reading,Wigan,dvLIfKqM,dvLIfKqM,3,2,,,,0
+1552143600,QPR,Stoke,z9YsXKZd,8nx1AWvN,0,0,,,,0
+1552143600,Nottingham,Hull,ImKwLTtA,bJFnYpTt,3,0,,,,0
+1552143600,Middlesbrough,Brentford,vcNAdtF9,r9Mudk7j,1,2,,,,0
+1552143600,Derby,Sheffield Wed,Ykwr8Dur,fNIX23Pi,1,1,,,,0
+1552143600,Bristol City,Leeds,OdaWmcNh,O4P6Zhap,0,1,,,,0
+1552143600,Bolton,Millwall,bJFnYpTt,4UX5t7jk,2,1,,,,0
+1552219200,Birmingham,Aston Villa,fuIfr9AH,jwz95gs0,0,1,,,,0
+1552419900,Sheffield Utd,Brentford,K2FpWLH3,r9Mudk7j,2,0,,,,0
+1552419900,Bristol City,Ipswich,OdaWmcNh,jXzj6iAf,1,1,,,,0
+1552419900,Blackburn,Wigan,ImMEe0UF,dvLIfKqM,3,0,,,,0
+1552420800,Reading,Leeds,dvLIfKqM,O4P6Zhap,0,3,,,,0
+1552420800,Bolton,Sheffield Wed,bJFnYpTt,fNIX23Pi,0,2,,,,0
+1552506300,QPR,Rotherham,z9YsXKZd,6qsP6K6r,1,2,,,,0
+1552506300,Nottingham,Aston Villa,ImKwLTtA,jwz95gs0,1,3,,,,0
+1552506300,Norwich,Hull,tCGtX12c,bJFnYpTt,3,2,,,,0
+1552506300,Middlesbrough,Preston,vcNAdtF9,4UX5t7jk,1,2,,,,0
+1552506300,Derby,Stoke,Ykwr8Dur,8nx1AWvN,0,0,,,,0
+1552506300,Birmingham,Millwall,fuIfr9AH,4UX5t7jk,0,2,,,,0
+1552507200,West Brom,Swansea,ImMEe0UF,Ozj3JWKn,3,0,,,,0
+1552739400,Leeds,Sheffield Utd,O4P6Zhap,K2FpWLH3,0,1,,,,0
+1552748400,Wigan,Bolton,dvLIfKqM,bJFnYpTt,5,2,,,,0
+1552748400,Stoke,Reading,8nx1AWvN,dvLIfKqM,0,0,,,,0
+1552748400,Sheffield Wed,Blackburn,fNIX23Pi,ImMEe0UF,4,2,,,,0
+1552748400,Rotherham,Norwich,6qsP6K6r,tCGtX12c,1,2,,,,0
+1552748400,Preston,Birmingham,4UX5t7jk,fuIfr9AH,1,0,,,,0
+1552748400,Ipswich,Nottingham,jXzj6iAf,ImKwLTtA,1,1,,,,0
+1552748400,Hull,QPR,bJFnYpTt,z9YsXKZd,2,2,,,,0
+1552748400,Brentford,West Brom,r9Mudk7j,ImMEe0UF,0,1,,,,0
+1552748400,Aston Villa,Middlesbrough,jwz95gs0,vcNAdtF9,3,0,,,,0
+1553889600,West Brom,Birmingham,ImMEe0UF,fuIfr9AH,3,2,,,,0
+1553958000,Wigan,Brentford,dvLIfKqM,r9Mudk7j,0,0,,,,0
+1553958000,Stoke,Sheffield Wed,8nx1AWvN,fNIX23Pi,0,0,,,,0
+1553958000,Sheffield Utd,Bristol City,K2FpWLH3,OdaWmcNh,2,3,,,,0
+1553958000,Reading,Preston,dvLIfKqM,4UX5t7jk,2,1,,,,0
+1553958000,QPR,Bolton,z9YsXKZd,bJFnYpTt,1,2,,,,0
+1553958000,Nottingham,Swansea,ImKwLTtA,Ozj3JWKn,2,1,,,,0
+1553958000,Leeds,Millwall,O4P6Zhap,4UX5t7jk,3,2,,,,0
+1553958000,Ipswich,Hull,jXzj6iAf,bJFnYpTt,0,2,,,,0
+1553958000,Derby,Rotherham,Ykwr8Dur,6qsP6K6r,6,1,,,,0
+1553958000,Aston Villa,Blackburn,jwz95gs0,ImMEe0UF,2,1,,,,0
+1553967000,Middlesbrough,Norwich,vcNAdtF9,tCGtX12c,0,1,,,,0
+1554230700,Swansea,Brentford,Ozj3JWKn,r9Mudk7j,3,0,,,,0
+1554230700,Middlesbrough,Bristol City,vcNAdtF9,OdaWmcNh,0,1,,,,0
+1554550200,Norwich,QPR,tCGtX12c,z9YsXKZd,4,0,,,,0
+1554559200,Swansea,Middlesbrough,Ozj3JWKn,vcNAdtF9,3,1,,,,0
+1554559200,Sheffield Wed,Aston Villa,fNIX23Pi,jwz95gs0,1,3,,,,0
+1554559200,Rotherham,Nottingham,6qsP6K6r,ImKwLTtA,2,1,,,,0
+1554559200,Preston,Sheffield Utd,4UX5t7jk,K2FpWLH3,0,1,,,,0
+1554559200,Millwall,West Brom,4UX5t7jk,ImMEe0UF,2,0,,,,0
+1554559200,Hull,Reading,bJFnYpTt,dvLIfKqM,3,1,,,,0
+1554559200,Bristol City,Wigan,OdaWmcNh,dvLIfKqM,2,2,,,,0
+1554559200,Brentford,Derby,r9Mudk7j,Ykwr8Dur,3,3,,,,0
+1554559200,Bolton,Ipswich,bJFnYpTt,jXzj6iAf,1,2,,,,0
+1554559200,Blackburn,Stoke,ImMEe0UF,8nx1AWvN,0,1,,,,0
+1554559200,Birmingham,Leeds,fuIfr9AH,O4P6Zhap,1,0,,,,0
+1554835500,Swansea,Stoke,Ozj3JWKn,8nx1AWvN,3,1,,,,0
+1554835500,Sheffield Wed,Nottingham,fNIX23Pi,ImKwLTtA,3,0,,,,0
+1554835500,Preston,Leeds,4UX5t7jk,O4P6Zhap,0,2,,,,0
+1554835500,Bristol City,West Brom,OdaWmcNh,ImMEe0UF,3,2,,,,0
+1554835500,Blackburn,Derby,ImMEe0UF,Ykwr8Dur,2,0,,,,0
+1554836400,Bolton,Middlesbrough,bJFnYpTt,vcNAdtF9,0,2,,,,0
+1554921900,Rotherham,Aston Villa,6qsP6K6r,jwz95gs0,1,2,,,,0
+1554921900,Norwich,Reading,tCGtX12c,dvLIfKqM,2,2,,,,0
+1554921900,Millwall,QPR,4UX5t7jk,z9YsXKZd,0,0,,,,0
+1554921900,Hull,Wigan,bJFnYpTt,dvLIfKqM,2,1,,,,0
+1554921900,Brentford,Ipswich,r9Mudk7j,jXzj6iAf,2,0,,,,0
+1554921900,Birmingham,Sheffield Utd,fuIfr9AH,K2FpWLH3,1,1,,,,0
+1555164000,West Brom,Preston,ImMEe0UF,4UX5t7jk,4,1,,,,0
+1555164000,Stoke,Rotherham,8nx1AWvN,6qsP6K6r,2,2,,,,0
+1555164000,Sheffield Utd,Millwall,K2FpWLH3,4UX5t7jk,1,1,,,,0
+1555164000,Reading,Brentford,dvLIfKqM,r9Mudk7j,2,1,,,,0
+1555164000,QPR,Swansea,z9YsXKZd,Ozj3JWKn,4,0,,,,0
+1555164000,Nottingham,Blackburn,ImKwLTtA,ImMEe0UF,1,2,,,,0
+1555164000,Middlesbrough,Hull,vcNAdtF9,bJFnYpTt,1,0,,,,0
+1555164000,Ipswich,Birmingham,jXzj6iAf,fuIfr9AH,1,1,,,,0
+1555164000,Derby,Bolton,Ykwr8Dur,bJFnYpTt,4,0,,,,0
+1555164000,Aston Villa,Bristol City,jwz95gs0,OdaWmcNh,2,1,,,,0
+1555173000,Leeds,Sheffield Wed,O4P6Zhap,fNIX23Pi,1,0,,,,0
+1555239600,Wigan,Norwich,dvLIfKqM,tCGtX12c,1,1,,,,0
+1555671600,Bristol City,Reading,OdaWmcNh,dvLIfKqM,1,1,,,,0
+1555673400,Sheffield Utd,Nottingham,K2FpWLH3,ImKwLTtA,2,0,,,,0
+1555675200,Millwall,Brentford,4UX5t7jk,r9Mudk7j,1,1,,,,0
+1555682400,West Brom,Hull,ImMEe0UF,bJFnYpTt,3,2,,,,0
+1555682400,Swansea,Rotherham,Ozj3JWKn,6qsP6K6r,4,3,,,,0
+1555682400,QPR,Blackburn,z9YsXKZd,ImMEe0UF,1,2,,,,0
+1555682400,Preston,Ipswich,4UX5t7jk,jXzj6iAf,4,0,,,,0
+1555682400,Middlesbrough,Stoke,vcNAdtF9,8nx1AWvN,1,0,,,,0
+1555682400,Leeds,Wigan,O4P6Zhap,dvLIfKqM,1,2,,,,0
+1555682400,Bolton,Aston Villa,bJFnYpTt,jwz95gs0,0,2,,,,0
+1555682400,Birmingham,Derby,fuIfr9AH,Ykwr8Dur,2,2,,,,0
+1555699500,Norwich,Sheffield Wed,tCGtX12c,fNIX23Pi,2,2,,,,0
+1555934400,Aston Villa,Millwall,jwz95gs0,4UX5t7jk,1,0,,,,0
+1555941600,Wigan,Preston,dvLIfKqM,4UX5t7jk,2,0,,,,0
+1555941600,Stoke,Norwich,8nx1AWvN,tCGtX12c,2,2,,,,0
+1555941600,Sheffield Wed,Bristol City,fNIX23Pi,OdaWmcNh,2,0,,,,0
+1555941600,Rotherham,Birmingham,6qsP6K6r,fuIfr9AH,1,3,,,,0
+1555941600,Reading,West Brom,dvLIfKqM,ImMEe0UF,0,0,,,,0
+1555941600,Nottingham,Middlesbrough,ImKwLTtA,vcNAdtF9,3,0,,,,0
+1555941600,Ipswich,Swansea,jXzj6iAf,Ozj3JWKn,0,1,,,,0
+1555941600,Hull,Sheffield Utd,bJFnYpTt,K2FpWLH3,0,3,,,,0
+1555941600,Derby,QPR,Ykwr8Dur,z9YsXKZd,2,0,,,,0
+1555941600,Blackburn,Bolton,ImMEe0UF,bJFnYpTt,2,0,,,,0
+1555949700,Brentford,Leeds,r9Mudk7j,O4P6Zhap,2,0,,,,0
+1556368200,Millwall,Stoke,4UX5t7jk,8nx1AWvN,0,0,,,,0
+1556373600,West Brom,Rotherham,ImMEe0UF,6qsP6K6r,2,1,,,,0
+1556373600,Swansea,Hull,Ozj3JWKn,bJFnYpTt,2,2,,,,0
+1556373600,QPR,Nottingham,z9YsXKZd,ImKwLTtA,0,1,,,,0
+1556373600,Preston,Sheffield Wed,4UX5t7jk,fNIX23Pi,3,3,,,,0
+1556373600,Middlesbrough,Reading,vcNAdtF9,dvLIfKqM,2,1,,,,0
+1556373600,Bristol City,Derby,OdaWmcNh,Ykwr8Dur,0,2,,,,0
+1556373600,Bolton,Brentford,bJFnYpTt,r9Mudk7j,0,1,Awrd,,,0
+1556373600,Birmingham,Wigan,fuIfr9AH,dvLIfKqM,1,1,,,,0
+1556381700,Sheffield Utd,Ipswich,K2FpWLH3,jXzj6iAf,2,0,,,,0
+1556389800,Norwich,Blackburn,tCGtX12c,ImMEe0UF,2,1,,,,0
+1556449200,Leeds,Aston Villa,O4P6Zhap,jwz95gs0,1,1,,,,0
+1556649900,Millwall,Bristol City,4UX5t7jk,OdaWmcNh,1,2,,,,0
+1556736300,Swansea,Derby,Ozj3JWKn,Ykwr8Dur,1,1,,,,0
+1557055800,Wigan,Millwall,dvLIfKqM,4UX5t7jk,1,0,,,,0
+1557055800,Stoke,Sheffield Utd,8nx1AWvN,K2FpWLH3,2,2,,,,0
+1557055800,Sheffield Wed,QPR,fNIX23Pi,z9YsXKZd,1,2,,,,0
+1557055800,Rotherham,Middlesbrough,6qsP6K6r,vcNAdtF9,1,2,,,,0
+1557055800,Reading,Birmingham,dvLIfKqM,fuIfr9AH,0,0,,,,0
+1557055800,Nottingham,Bolton,ImKwLTtA,bJFnYpTt,1,0,,,,0
+1557055800,Ipswich,Leeds,jXzj6iAf,O4P6Zhap,3,2,,,,0
+1557055800,Hull,Bristol City,bJFnYpTt,OdaWmcNh,1,1,,,,0
+1557055800,Derby,West Brom,Ykwr8Dur,ImMEe0UF,3,1,,,,0
+1557055800,Brentford,Preston,r9Mudk7j,4UX5t7jk,3,0,,,,0
+1557055800,Blackburn,Swansea,ImMEe0UF,Ozj3JWKn,2,2,,,,0
+1557055800,Aston Villa,Norwich,jwz95gs0,tCGtX12c,1,2,,,,0
+1557574200,Aston Villa,West Brom,jwz95gs0,ImMEe0UF,2,1,,,,0
+1557591300,Derby,Leeds,Ykwr8Dur,O4P6Zhap,0,1,,,,0
+1557860400,West Brom,Aston Villa,ImMEe0UF,jwz95gs0,1,0,Pen,1,1,0
+1557945900,Leeds,Derby,O4P6Zhap,Ykwr8Dur,2,4,,,,0
+1558965600,Aston Villa,Derby,jwz95gs0,Ykwr8Dur,2,1,,,,0

@@ -1,38 +1,38 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1068838200,Denderhoutem,Mons,3,2,,,,0
-1068838200,Deinze,Beerschot AC,1,4,,,,0
-1068922800,Walhain,Mouscron,0,4,,,,0
-1068922800,Tubize-Braine,Westerlo,1,3,,,,0
-1068922800,St. Truiden,Bocholter,1,1,,,,0
-1068922800,Lokeren,Cappellen,2,2,AET,3,2,0
-1068922800,KRC Harelbeke,Club Brugge KV,1,3,,,,0
-1068922800,Gent,Maldegem,2,0,,,,0
-1068922800,Genk,Heusden-Zolder,0,2,,,,0
-1068922800,Charleroi,Geel,2,2,AET,3,4,0
-1068922800,Antwerp,KSV Roeselare,1,1,AET,2,1,0
-1068987600,Hamme,KSK Beveren,1,3,,,,0
-1068991200,Vervietois,RAA Louvieroise,0,0,AET,0,2,0
-1068991200,Cercle Brugge KSV,St. Liege,2,0,,,,0
-1068994800,RWDM Brussels,Anderlecht,1,5,,,,0
-1070478000,Lierse,Herderen-Millen,5,0,,,,0
-1071603000,Geel,RAA Louvieroise,0,1,,,,0
-1071687600,Westerlo,KSK Beveren,0,0,AET,1,2,0
-1071687600,Lierse,Beerschot AC,1,1,AET,1,2,0
-1071687600,Club Brugge KV,Gent,2,0,,,,0
-1071687600,Bocholter,Cercle Brugge KSV,0,3,,,,0
-1071687600,Anderlecht,Antwerp,4,2,,,,0
-1071689400,Heusden-Zolder,Lokeren,2,1,,,,0
-1071689400,Denderhoutem,Mouscron,0,4,,,,0
-1074711600,Mouscron,Cercle Brugge KSV,3,2,,,,0
-1074713400,RAA Louvieroise,Club Brugge KV,2,1,,,,0
-1074713400,Heusden-Zolder,Anderlecht,2,3,,,,0
-1074713400,Beerschot AC,KSK Beveren,1,2,,,,0
-1075836600,Club Brugge KV,RAA Louvieroise,2,0,,,,0
-1075921200,Cercle Brugge KSV,Mouscron,0,0,,,,0
-1075923000,KSK Beveren,Beerschot AC,1,0,,,,0
-1075923000,Anderlecht,Heusden-Zolder,0,0,,,,0
-1079551800,Mouscron,Club Brugge KV,2,2,,,,0
-1079551800,Anderlecht,KSK Beveren,1,1,,,,0
-1080329400,KSK Beveren,Anderlecht,0,0,,,,0
-1080496800,Club Brugge KV,Mouscron,1,0,,,,0
-1085320800,KSK Beveren,Club Brugge KV,2,4,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1068838200,Denderhoutem,Mons,b9not9u1,EkA5g8Rs,3,2,,,,0
+1068838200,Deinze,Beerschot AC,29aP07Oc,dvLIfKqM,1,4,,,,0
+1068922800,Walhain,Mouscron,W60TQM3S,4KjgYD22,0,4,,,,0
+1068922800,Tubize-Braine,Westerlo,xCPMRLr8,ht99hStl,1,3,,,,0
+1068922800,St. Truiden,Bocholter,OCiVKiPK,2FQRGmbQ,1,1,,,,0
+1068922800,Lokeren,Cappellen,Iw55ueQk,MXYw1AMQ,2,2,AET,3,2,0
+1068922800,KRC Harelbeke,Club Brugge KV,lrorTzcq,44lq3LsP,1,3,,,,0
+1068922800,Gent,Maldegem,ETUaLGDL,l4KY62dj,2,0,,,,0
+1068922800,Genk,Heusden-Zolder,YB0frRRP,WhwXIDUP,0,2,,,,0
+1068922800,Charleroi,Geel,xCPMRLr8,,2,2,AET,3,4,0
+1068922800,Antwerp,KSV Roeselare,vuxu3x67,fc7DY1B9,1,1,AET,2,1,0
+1068987600,Hamme,KSK Beveren,ILReCEDO,tt0jGfcU,1,3,,,,0
+1068991200,Vervietois,RAA Louvieroise,nPuvAmcI,YssI91Vs,0,0,AET,0,2,0
+1068991200,Cercle Brugge KSV,St. Liege,CS6nbsqF,tjZYJCwg,2,0,,,,0
+1068994800,RWDM Brussels,Anderlecht,xCPMRLr8,YVlGNJGc,1,5,,,,0
+1070478000,Lierse,Herderen-Millen,xQnxBzcF,no7j77Gi,5,0,,,,0
+1071603000,Geel,RAA Louvieroise,,YssI91Vs,0,1,,,,0
+1071687600,Westerlo,KSK Beveren,ht99hStl,tt0jGfcU,0,0,AET,1,2,0
+1071687600,Lierse,Beerschot AC,xQnxBzcF,dvLIfKqM,1,1,AET,1,2,0
+1071687600,Club Brugge KV,Gent,44lq3LsP,ETUaLGDL,2,0,,,,0
+1071687600,Bocholter,Cercle Brugge KSV,2FQRGmbQ,CS6nbsqF,0,3,,,,0
+1071687600,Anderlecht,Antwerp,YVlGNJGc,vuxu3x67,4,2,,,,0
+1071689400,Heusden-Zolder,Lokeren,WhwXIDUP,Iw55ueQk,2,1,,,,0
+1071689400,Denderhoutem,Mouscron,b9not9u1,4KjgYD22,0,4,,,,0
+1074711600,Mouscron,Cercle Brugge KSV,4KjgYD22,CS6nbsqF,3,2,,,,0
+1074713400,RAA Louvieroise,Club Brugge KV,YssI91Vs,44lq3LsP,2,1,,,,0
+1074713400,Heusden-Zolder,Anderlecht,WhwXIDUP,YVlGNJGc,2,3,,,,0
+1074713400,Beerschot AC,KSK Beveren,dvLIfKqM,tt0jGfcU,1,2,,,,0
+1075836600,Club Brugge KV,RAA Louvieroise,44lq3LsP,YssI91Vs,2,0,,,,0
+1075921200,Cercle Brugge KSV,Mouscron,CS6nbsqF,4KjgYD22,0,0,,,,0
+1075923000,KSK Beveren,Beerschot AC,tt0jGfcU,dvLIfKqM,1,0,,,,0
+1075923000,Anderlecht,Heusden-Zolder,YVlGNJGc,WhwXIDUP,0,0,,,,0
+1079551800,Mouscron,Club Brugge KV,4KjgYD22,44lq3LsP,2,2,,,,0
+1079551800,Anderlecht,KSK Beveren,YVlGNJGc,tt0jGfcU,1,1,,,,0
+1080329400,KSK Beveren,Anderlecht,tt0jGfcU,YVlGNJGc,0,0,,,,0
+1080496800,Club Brugge KV,Mouscron,44lq3LsP,4KjgYD22,1,0,,,,0
+1085320800,KSK Beveren,Club Brugge KV,tt0jGfcU,44lq3LsP,2,4,,,,0

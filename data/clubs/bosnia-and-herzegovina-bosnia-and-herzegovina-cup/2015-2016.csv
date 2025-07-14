@@ -1,47 +1,47 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1442930400,Velez Mostar,Novi Grad,0,1,,,,0
-1442930400,Siroki Brijeg,Prijedor,5,0,,,,0
-1442930400,Gacko,Borac Banja Luka,0,1,,,,0
-1443016800,Zeljeznicar,Krupa,1,0,,,,0
-1443016800,Slavija,Rudar Ugljevik,4,0,,,,0
-1443016800,Radnik Bijeljina,Mladost Velika Obarska,3,0,,,,0
-1443016800,Radnicki Lukavac,Olimpik Sarajevo,2,1,,,,0
-1443016800,NK Novi Travnik,Travnik,1,5,,,,0
-1443016800,Modrica,GOSK Gabela,0,0,Pen,0,1,0
-1443016800,Mladost DK,Capljina,2,0,,,,0
-1443016800,Kakanj,Ljubuski,2,0,,,,0
-1443016800,HNK Orasje,TOSK Tesanj,3,2,,,,0
-1443016800,Gorazde,Sloboda,0,2,,,,0
-1443016800,Drina Zvornik,Bratstvo Gracanica,0,1,,,,0
-1443016800,Celik Zenica,NK Vitez,1,0,,,,0
-1443024000,Zrinjski,FK Sarajevo,1,1,Pen,1,2,0
-1445432400,Zeljeznicar,GOSK Gabela,3,0,,,,0
-1445432400,Travnik,Radnicki Lukavac,0,2,,,,0
-1445432400,Slavija,FK Sarajevo,1,4,,,,0
-1445432400,Novi Grad,Mladost DK,2,1,,,,0
-1445432400,Kakanj,Radnik Bijeljina,1,3,,,,0
-1445432400,HNK Orasje,Siroki Brijeg,0,3,,,,0
-1445432400,Celik Zenica,Sloboda,1,1,,,,0
-1445432400,Borac Banja Luka,Bratstvo Gracanica,1,0,,,,0
-1446553800,Siroki Brijeg,HNK Orasje,6,0,,,,0
-1446640200,Sloboda,Celik Zenica,2,1,,,,0
-1446640200,Radnik Bijeljina,Kakanj,7,1,,,,0
-1446640200,Radnicki Lukavac,Travnik,0,0,,,,0
-1446640200,Mladost DK,Novi Grad,7,0,,,,0
-1446640200,GOSK Gabela,Zeljeznicar,0,1,,,,0
-1446640200,FK Sarajevo,Slavija,3,1,,,,0
-1446640200,Bratstvo Gracanica,Borac Banja Luka,0,2,,,,0
-1457532000,Sloboda,FK Sarajevo,2,1,,,,0
-1457532000,Siroki Brijeg,Mladost DK,3,1,,,,0
-1457532000,Radnicki Lukavac,Radnik Bijeljina,0,2,,,,0
-1457542800,Borac Banja Luka,Zeljeznicar,0,2,,,,0
-1458061200,FK Sarajevo,Sloboda,0,3,,,,0
-1458136800,Radnik Bijeljina,Radnicki Lukavac,1,1,,,,0
-1458136800,Mladost DK,Siroki Brijeg,1,0,,,,0
-1458147600,Zeljeznicar,Borac Banja Luka,2,1,,,,0
-1460557800,Radnik Bijeljina,Siroki Brijeg,1,0,,,,0
-1460563200,Zeljeznicar,Sloboda,1,2,,,,0
-1461166200,Siroki Brijeg,Radnik Bijeljina,2,1,,,,0
-1461173400,Sloboda,Zeljeznicar,3,1,,,,0
-1462989600,Sloboda,Radnik Bijeljina,1,1,,,,0
-1463583600,Radnik Bijeljina,Sloboda,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1442930400,Velez Mostar,Novi Grad,6XE3AtXB,nPF1j3fc,0,1,,,,0
+1442930400,Siroki Brijeg,Prijedor,AyQfPETk,t6ohxKMt,5,0,,,,0
+1442930400,Gacko,Borac Banja Luka,fFtSeN1q,pYGu6ZOp,0,1,,,,0
+1443016800,Zeljeznicar,Krupa,YqMYOJSQ,KEePLQOe,1,0,,,,0
+1443016800,Slavija,Rudar Ugljevik,hpcz0A3F,Uyu9KPIO,4,0,,,,0
+1443016800,Radnik Bijeljina,Mladost Velika Obarska,rkMd9kXu,AynvibGs,3,0,,,,0
+1443016800,Radnicki Lukavac,Olimpik Sarajevo,IZtit8B2,82fcjrKD,2,1,,,,0
+1443016800,NK Novi Travnik,Travnik,h6f003gS,xCPMRLr8,1,5,,,,0
+1443016800,Modrica,GOSK Gabela,6HOCmD6G,8KcAgdAM,0,0,Pen,0,1,0
+1443016800,Mladost DK,Capljina,pp3jr4IC,YmEgLPYp,2,0,,,,0
+1443016800,Kakanj,Ljubuski,dlvT7jOn,t8OzHT5d,2,0,,,,0
+1443016800,HNK Orasje,TOSK Tesanj,bHbXzzNA,rgzhwehk,3,2,,,,0
+1443016800,Gorazde,Sloboda,zXvOwGUl,xCPMRLr8,0,2,,,,0
+1443016800,Drina Zvornik,Bratstvo Gracanica,8nhXOy6f,4lQueYR5,0,1,,,,0
+1443016800,Celik Zenica,NK Vitez,bX4T7xfj,82fcjrKD,1,0,,,,0
+1443024000,Zrinjski,FK Sarajevo,zg80Kwyr,0E8MOvRd,1,1,Pen,1,2,0
+1445432400,Zeljeznicar,GOSK Gabela,YqMYOJSQ,8KcAgdAM,3,0,,,,0
+1445432400,Travnik,Radnicki Lukavac,xCPMRLr8,IZtit8B2,0,2,,,,0
+1445432400,Slavija,FK Sarajevo,hpcz0A3F,0E8MOvRd,1,4,,,,0
+1445432400,Novi Grad,Mladost DK,nPF1j3fc,pp3jr4IC,2,1,,,,0
+1445432400,Kakanj,Radnik Bijeljina,dlvT7jOn,rkMd9kXu,1,3,,,,0
+1445432400,HNK Orasje,Siroki Brijeg,bHbXzzNA,AyQfPETk,0,3,,,,0
+1445432400,Celik Zenica,Sloboda,bX4T7xfj,xCPMRLr8,1,1,,,,0
+1445432400,Borac Banja Luka,Bratstvo Gracanica,pYGu6ZOp,4lQueYR5,1,0,,,,0
+1446553800,Siroki Brijeg,HNK Orasje,AyQfPETk,bHbXzzNA,6,0,,,,0
+1446640200,Sloboda,Celik Zenica,xCPMRLr8,bX4T7xfj,2,1,,,,0
+1446640200,Radnik Bijeljina,Kakanj,rkMd9kXu,dlvT7jOn,7,1,,,,0
+1446640200,Radnicki Lukavac,Travnik,IZtit8B2,xCPMRLr8,0,0,,,,0
+1446640200,Mladost DK,Novi Grad,pp3jr4IC,nPF1j3fc,7,0,,,,0
+1446640200,GOSK Gabela,Zeljeznicar,8KcAgdAM,YqMYOJSQ,0,1,,,,0
+1446640200,FK Sarajevo,Slavija,0E8MOvRd,hpcz0A3F,3,1,,,,0
+1446640200,Bratstvo Gracanica,Borac Banja Luka,4lQueYR5,pYGu6ZOp,0,2,,,,0
+1457532000,Sloboda,FK Sarajevo,xCPMRLr8,0E8MOvRd,2,1,,,,0
+1457532000,Siroki Brijeg,Mladost DK,AyQfPETk,pp3jr4IC,3,1,,,,0
+1457532000,Radnicki Lukavac,Radnik Bijeljina,IZtit8B2,rkMd9kXu,0,2,,,,0
+1457542800,Borac Banja Luka,Zeljeznicar,pYGu6ZOp,YqMYOJSQ,0,2,,,,0
+1458061200,FK Sarajevo,Sloboda,0E8MOvRd,xCPMRLr8,0,3,,,,0
+1458136800,Radnik Bijeljina,Radnicki Lukavac,rkMd9kXu,IZtit8B2,1,1,,,,0
+1458136800,Mladost DK,Siroki Brijeg,pp3jr4IC,AyQfPETk,1,0,,,,0
+1458147600,Zeljeznicar,Borac Banja Luka,YqMYOJSQ,pYGu6ZOp,2,1,,,,0
+1460557800,Radnik Bijeljina,Siroki Brijeg,rkMd9kXu,AyQfPETk,1,0,,,,0
+1460563200,Zeljeznicar,Sloboda,YqMYOJSQ,xCPMRLr8,1,2,,,,0
+1461166200,Siroki Brijeg,Radnik Bijeljina,AyQfPETk,rkMd9kXu,2,1,,,,0
+1461173400,Sloboda,Zeljeznicar,xCPMRLr8,YqMYOJSQ,3,1,,,,0
+1462989600,Sloboda,Radnik Bijeljina,xCPMRLr8,rkMd9kXu,1,1,,,,0
+1463583600,Radnik Bijeljina,Sloboda,rkMd9kXu,xCPMRLr8,3,0,,,,0

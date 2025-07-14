@@ -1,43 +1,43 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1408460400,Oktomvri,Shkupi,0,9,,,,0
-1408546800,Vlaznimi,Vardar,1,9,,,,0
-1408546800,Sasa,Renova,0,2,,,,0
-1408546800,Rabotnik Djumajlija,Sileks,0,3,Awrd,,,0
-1408546800,Pobeda,Met. Skopje,3,2,,,,0
-1408546800,Novaci,Gostivar,0,5,,,,0
-1408546800,Miravci,Makedonija GP,2,1,,,,0
-1408546800,Goblen,Teteks,0,3,,,,0
-1408546800,Fortuna Skopje,Turnovo,0,8,,,,0
-1408546800,Carev Dvor,Bregalnica Stip,0,1,,,,0
-1408546800,Bregalnica Delcevo,Drita,1,4,,,,0
-1408546800,Belasica,Napredok,1,1,Pen,1,2,0
-1408633200,Vulkan Kosel,Pelister,0,2,,,,0
-1411565400,Turnovo,Bregalnica Stip,0,0,,,,0
-1411565400,Sileks,Gorno Lisice,1,1,,,,0
-1411565400,Shkupi,Teteks,1,1,,,,0
-1411565400,Shkendija,Vardar,2,1,,,,0
-1411565400,Pobeda,Drita,1,1,,,,0
-1411565400,Pelister,Rabotnicki,0,0,,,,0
-1411565400,Miravci,Napredok,2,0,,,,0
-1411565400,Gostivar,Renova,1,4,,,,0
-1413280800,Renova,Gostivar,1,0,,,,0
-1413291600,Teteks,Shkupi,1,0,,,,0
-1413291600,Napredok,Miravci,1,5,,,,0
-1413291600,Gorno Lisice,Sileks,0,0,,,,0
-1413291600,Drita,Pobeda,1,1,Pen,2,1,0
-1413291600,Bregalnica Stip,Turnovo,0,0,Pen,0,1,0
-1413894600,Rabotnicki,Pelister,3,1,,,,0
-1413982800,Vardar,Shkendija,3,0,,,,0
-1416312000,Vardar,Renova,3,1,,,,0
-1416312000,Turnovo,Drita,5,0,,,,0
-1416312000,Miravci,Teteks,1,0,,,,0
-1417003200,Gorno Lisice,Rabotnicki,3,2,,,,0
-1417694400,Teteks,Miravci,5,0,,,,0
-1417694400,Drita,Turnovo,0,1,,,,0
-1417867200,Renova,Vardar,2,0,,,,0
-1417867200,Rabotnicki,Gorno Lisice,3,1,,,,0
-1426683600,Teteks,Turnovo,2,1,,,,0
-1426683600,Rabotnicki,Renova,2,1,,,,0
-1429106400,Turnovo,Teteks,2,1,Pen,2,2,0
-1429106400,Renova,Rabotnicki,1,1,,,,0
-1432144800,Rabotnicki,Teteks,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1408460400,Oktomvri,Shkupi,ILReCEDO,CIHFv9fg,0,9,,,,0
+1408546800,Vlaznimi,Vardar,O2t4ZCwt,86OeMIIr,1,9,,,,0
+1408546800,Sasa,Renova,8xXXQdJT,WrjrBuU2,0,2,,,,0
+1408546800,Rabotnik Djumajlija,Sileks,McC0DC0R,Ys5PBeU0,0,3,Awrd,,,0
+1408546800,Pobeda,Met. Skopje,8lHNgCuQ,QTF8oS5s,3,2,,,,0
+1408546800,Novaci,Gostivar,GErSfHt1,E3JIMV6l,0,5,,,,0
+1408546800,Miravci,Makedonija GP,Opio8Wie,n5NSVHa8,2,1,,,,0
+1408546800,Goblen,Teteks,Kbq9kfg1,tOvmJnVr,0,3,,,,0
+1408546800,Fortuna Skopje,Turnovo,8hFLbQW3,ILReCEDO,0,8,,,,0
+1408546800,Carev Dvor,Bregalnica Stip,UmB6KvN1,86OeMIIr,0,1,,,,0
+1408546800,Bregalnica Delcevo,Drita,fFzddrH7,2JKzUeUK,1,4,,,,0
+1408546800,Belasica,Napredok,fFzddrH7,WrtPD2cR,1,1,Pen,1,2,0
+1408633200,Vulkan Kosel,Pelister,4j9hbjiS,2JKzUeUK,0,2,,,,0
+1411565400,Turnovo,Bregalnica Stip,ILReCEDO,86OeMIIr,0,0,,,,0
+1411565400,Sileks,Gorno Lisice,Ys5PBeU0,pWXGCQdh,1,1,,,,0
+1411565400,Shkupi,Teteks,CIHFv9fg,tOvmJnVr,1,1,,,,0
+1411565400,Shkendija,Vardar,f3OURrqn,86OeMIIr,2,1,,,,0
+1411565400,Pobeda,Drita,8lHNgCuQ,2JKzUeUK,1,1,,,,0
+1411565400,Pelister,Rabotnicki,2JKzUeUK,Cdxq7Y31,0,0,,,,0
+1411565400,Miravci,Napredok,Opio8Wie,WrtPD2cR,2,0,,,,0
+1411565400,Gostivar,Renova,E3JIMV6l,WrjrBuU2,1,4,,,,0
+1413280800,Renova,Gostivar,WrjrBuU2,E3JIMV6l,1,0,,,,0
+1413291600,Teteks,Shkupi,tOvmJnVr,CIHFv9fg,1,0,,,,0
+1413291600,Napredok,Miravci,WrtPD2cR,Opio8Wie,1,5,,,,0
+1413291600,Gorno Lisice,Sileks,pWXGCQdh,Ys5PBeU0,0,0,,,,0
+1413291600,Drita,Pobeda,2JKzUeUK,8lHNgCuQ,1,1,Pen,2,1,0
+1413291600,Bregalnica Stip,Turnovo,86OeMIIr,ILReCEDO,0,0,Pen,0,1,0
+1413894600,Rabotnicki,Pelister,Cdxq7Y31,2JKzUeUK,3,1,,,,0
+1413982800,Vardar,Shkendija,86OeMIIr,f3OURrqn,3,0,,,,0
+1416312000,Vardar,Renova,86OeMIIr,WrjrBuU2,3,1,,,,0
+1416312000,Turnovo,Drita,ILReCEDO,2JKzUeUK,5,0,,,,0
+1416312000,Miravci,Teteks,Opio8Wie,tOvmJnVr,1,0,,,,0
+1417003200,Gorno Lisice,Rabotnicki,pWXGCQdh,Cdxq7Y31,3,2,,,,0
+1417694400,Teteks,Miravci,tOvmJnVr,Opio8Wie,5,0,,,,0
+1417694400,Drita,Turnovo,2JKzUeUK,ILReCEDO,0,1,,,,0
+1417867200,Renova,Vardar,WrjrBuU2,86OeMIIr,2,0,,,,0
+1417867200,Rabotnicki,Gorno Lisice,Cdxq7Y31,pWXGCQdh,3,1,,,,0
+1426683600,Teteks,Turnovo,tOvmJnVr,ILReCEDO,2,1,,,,0
+1426683600,Rabotnicki,Renova,Cdxq7Y31,WrjrBuU2,2,1,,,,0
+1429106400,Turnovo,Teteks,ILReCEDO,tOvmJnVr,2,1,Pen,2,2,0
+1429106400,Renova,Rabotnicki,WrjrBuU2,Cdxq7Y31,1,1,,,,0
+1432144800,Rabotnicki,Teteks,Cdxq7Y31,tOvmJnVr,2,1,,,,0

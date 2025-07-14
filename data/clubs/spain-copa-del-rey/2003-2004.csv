@@ -1,78 +1,78 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1065549600,Alicante,Villarreal,1,2,,,,0
-1065551400,Pontevedra,Celta Vigo,1,1,AET,1,2,0
-1065552300,Compostela,Dep. La Coruna,0,1,,,,0
-1065554100,Gramenet,Barcelona,0,1,,,,0
-1065555000,Torrelavega,Ath Bilbao,2,1,,,,0
-1065555000,San Sebastian Reyes,Real Madrid,0,3,,,,0
-1065556800,Castellon,Valencia,1,3,,,,0
-1065636000,Terrassa,Levante,0,1,,,,0
-1065637800,R. Union,Osasuna,0,2,,,,0
-1065637800,R. Oviedo,Real Sociedad,1,2,,,,0
-1065637800,Numancia,Granada 74,0,1,,,,0
-1065637800,Barakaldo,Racing Santander,0,1,,,,0
-1065638700,Vecindario,Algeciras,0,0,AET,0,1,0
-1065638700,UD Salamanca,Rayo Vallecano,1,0,,,,0
-1065638700,Racing Club Ferrol,Alaves,1,1,,,,0
-1065638700,Gijon,Eibar,0,1,,,,0
-1065638700,Getafe,Leganes,1,2,,,,0
-1065639600,Zamora,Valladolid,0,2,,,,0
-1065639600,Recreativo Huelva,Almeria,0,0,AET,0,1,0
-1065639600,Mirandes,Zaragoza,1,2,,,,0
-1065639600,Conquense,Atl. Madrid,2,3,,,,0
-1065639600,CD Badajoz,Betis,1,4,,,,0
-1065639600,Cacereno,Xerez CD,1,2,,,,0
-1065641400,Sabadell,Mallorca,2,4,,,,0
-1065641400,Lorca Deportiva,Murcia,1,2,,,,0
-1065641400,Ceuta,Malaga,0,0,AET,0,1,0
-1065643200,Las Palmas,Cordoba,1,1,AET,1,2,0
-1065643200,Lanzarote,El Ejido,4,2,,,,0
-1065643200,Elche,Espanyol,2,3,,,,0
-1065645000,Tenerife,Cadiz CF,0,0,AET,0,1,0
-1065726000,Cultural Leonesa,Albacete,1,0,,,,0
-1065726000,C. Reyes,Sevilla,1,7,,,,0
-1071601200,Celta Vigo,Espanyol,3,1,,,,0
-1071601200,Alaves,Real Sociedad,2,1,,,,0
-1071606600,Cultural Leonesa,Atl. Madrid,0,1,,,,0
-1071606600,Algeciras,Villarreal,0,1,,,,0
-1071685800,Levante,Mallorca,2,0,,,,0
-1071687600,Xerez CD,Malaga,0,1,,,,0
-1071687600,UD Salamanca,Zaragoza,2,2,AET,2,3,0
-1071687600,Cordoba,Betis,1,3,,,,0
-1071688500,Torrelavega,Dep. La Coruna,1,2,,,,0
-1071689400,Eibar,Racing Santander,0,0,AET,1,0,0
-1071693000,Valencia,Murcia,2,0,,,,0
-1071693000,Granada 74,Barcelona,0,4,,,,0
-1071693000,Cadiz CF,Osasuna,1,2,,,,0
-1071693000,Almeria,Valladolid,1,3,,,,0
-1071694800,Lanzarote,Sevilla,0,1,,,,0
-1071777600,Leganes,Real Madrid,3,3,AET,3,4,0
-1073415600,Atl. Madrid,Dep. La Coruna,0,0,,,,0
-1073502000,Zaragoza,Betis,3,1,,,,0
-1073502000,Malaga,Celta Vigo,0,1,,,,0
-1073502000,Alaves,Valladolid,0,0,,,,0
-1073507400,Valencia,Osasuna,2,2,,,,0
-1073507400,Eibar,Real Madrid,1,1,,,,0
-1073588400,Villarreal,Sevilla,1,3,,,,0
-1073592000,Levante,Barcelona,1,0,,,,0
-1074022200,Real Madrid,Eibar,2,0,,,,0
-1074106800,Valladolid,Alaves,1,1,,,,0
-1074106800,Celta Vigo,Malaga,2,2,,,,0
-1074106800,Betis,Zaragoza,1,1,,,,0
-1074112200,Osasuna,Valencia,0,2,,,,0
-1074112200,Barcelona,Levante,3,1,,,,0
-1074196800,Sevilla,Villarreal,0,2,,,,0
-1074196800,Dep. La Coruna,Atl. Madrid,1,1,,,,0
-1074711600,Sevilla,Atl. Madrid,4,0,,,,0
-1074717000,Real Madrid,Valencia,3,0,,,,0
-1074798000,Alaves,Celta Vigo,4,2,,,,0
-1074803400,Barcelona,Zaragoza,0,1,,,,0
-1075316400,Celta Vigo,Alaves,1,0,,,,0
-1075316400,Atl. Madrid,Sevilla,1,2,,,,0
-1075321800,Valencia,Real Madrid,1,2,,,,0
-1075408200,Zaragoza,Barcelona,1,1,,,,0
-1075924800,Real Madrid,Sevilla,2,0,,,,0
-1076011200,Alaves,Zaragoza,1,1,,,,0
-1076529600,Sevilla,Real Madrid,1,0,,,,0
-1076616000,Zaragoza,Alaves,0,0,,,,0
-1079553600,Real Madrid,Zaragoza,2,2,AET,2,3,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1065549600,Alicante,Villarreal,SURwFBdI,GSuwY3p9,1,2,,,,0
+1065551400,Pontevedra,Celta Vigo,SURwFBdI,SOY3p1Si,1,1,AET,1,2,0
+1065552300,Compostela,Dep. La Coruna,vcT321w1,G2YIZIXN,0,1,,,,0
+1065554100,Gramenet,Barcelona,pEtKo6C5,fcDVLdrL,0,1,,,,0
+1065555000,Torrelavega,Ath Bilbao,zyeK1aHH,vJb36ZBF,2,1,,,,0
+1065555000,San Sebastian Reyes,Real Madrid,QHRr9Gum,fcDVLdrL,0,3,,,,0
+1065556800,Castellon,Valencia,zBFXR8iF,MHrRLNUo,1,3,,,,0
+1065636000,Terrassa,Levante,WYI7Zix6,8toS1iya,0,1,,,,0
+1065637800,R. Union,Osasuna,2qGsGRiG,xQnxBzcF,0,2,,,,0
+1065637800,R. Oviedo,Real Sociedad,Y7pkY0PJ,vJb36ZBF,1,2,,,,0
+1065637800,Numancia,Granada 74,xtVbLgO5,z779uKfb,0,1,,,,0
+1065637800,Barakaldo,Racing Santander,8MAJdiq6,MsWrauH8,0,1,,,,0
+1065638700,Vecindario,Algeciras,jwf3ugLq,OzQr2uCp,0,0,AET,0,1,0
+1065638700,UD Salamanca,Rayo Vallecano,ljLMLjPn,EPWyZtpb,1,0,,,,0
+1065638700,Racing Club Ferrol,Alaves,beuaIoq7,4U3vjZKk,1,1,,,,0
+1065638700,Gijon,Eibar,bBonCJxo,4U3vjZKk,0,1,,,,0
+1065638700,Getafe,Leganes,YmCZKGcR,Q3zX1dyT,1,2,,,,0
+1065639600,Zamora,Valladolid,6H6pz143,htRvrFH6,0,2,,,,0
+1065639600,Recreativo Huelva,Almeria,02MhqP4t,nDyT2xMM,0,0,AET,0,1,0
+1065639600,Mirandes,Zaragoza,drZTz3Fo,EykfZB0Q,1,2,,,,0
+1065639600,Conquense,Atl. Madrid,bBonCJxo,nLBjwR1F,2,3,,,,0
+1065639600,CD Badajoz,Betis,lYDQHbwj,zkU5wiAr,1,4,,,,0
+1065639600,Cacereno,Xerez CD,dlhXsxTS,0UfXitql,1,2,,,,0
+1065641400,Sabadell,Mallorca,lQiEtZia,rmDEjevK,2,4,,,,0
+1065641400,Lorca Deportiva,Murcia,Yc3rQikT,SARwoBEf,1,2,,,,0
+1065641400,Ceuta,Malaga,xpqBFn5c,I5Xd92rn,0,0,AET,0,1,0
+1065643200,Las Palmas,Cordoba,d6gaf9ua,8GkSmkbF,1,1,AET,1,2,0
+1065643200,Lanzarote,El Ejido,Q3Q5Dcgf,pbG2VPjh,4,2,,,,0
+1065643200,Elche,Espanyol,YmCZKGcR,8GL0cHSF,2,3,,,,0
+1065645000,Tenerife,Cadiz CF,CUal2OCa,EPWyZtpb,0,0,AET,0,1,0
+1065726000,Cultural Leonesa,Albacete,vcT321w1,6Hv9WIoj,1,0,,,,0
+1065726000,C. Reyes,Sevilla,,tIT0KyhE,1,7,,,,0
+1071601200,Celta Vigo,Espanyol,SOY3p1Si,8GL0cHSF,3,1,,,,0
+1071601200,Alaves,Real Sociedad,4U3vjZKk,vJb36ZBF,2,1,,,,0
+1071606600,Cultural Leonesa,Atl. Madrid,vcT321w1,nLBjwR1F,0,1,,,,0
+1071606600,Algeciras,Villarreal,OzQr2uCp,GSuwY3p9,0,1,,,,0
+1071685800,Levante,Mallorca,8toS1iya,rmDEjevK,2,0,,,,0
+1071687600,Xerez CD,Malaga,0UfXitql,I5Xd92rn,0,1,,,,0
+1071687600,UD Salamanca,Zaragoza,ljLMLjPn,EykfZB0Q,2,2,AET,2,3,0
+1071687600,Cordoba,Betis,8GkSmkbF,zkU5wiAr,1,3,,,,0
+1071688500,Torrelavega,Dep. La Coruna,zyeK1aHH,G2YIZIXN,1,2,,,,0
+1071689400,Eibar,Racing Santander,4U3vjZKk,MsWrauH8,0,0,AET,1,0,0
+1071693000,Valencia,Murcia,MHrRLNUo,SARwoBEf,2,0,,,,0
+1071693000,Granada 74,Barcelona,z779uKfb,fcDVLdrL,0,4,,,,0
+1071693000,Cadiz CF,Osasuna,EPWyZtpb,xQnxBzcF,1,2,,,,0
+1071693000,Almeria,Valladolid,nDyT2xMM,htRvrFH6,1,3,,,,0
+1071694800,Lanzarote,Sevilla,Q3Q5Dcgf,tIT0KyhE,0,1,,,,0
+1071777600,Leganes,Real Madrid,Q3zX1dyT,fcDVLdrL,3,3,AET,3,4,0
+1073415600,Atl. Madrid,Dep. La Coruna,nLBjwR1F,G2YIZIXN,0,0,,,,0
+1073502000,Zaragoza,Betis,EykfZB0Q,zkU5wiAr,3,1,,,,0
+1073502000,Malaga,Celta Vigo,I5Xd92rn,SOY3p1Si,0,1,,,,0
+1073502000,Alaves,Valladolid,4U3vjZKk,htRvrFH6,0,0,,,,0
+1073507400,Valencia,Osasuna,MHrRLNUo,xQnxBzcF,2,2,,,,0
+1073507400,Eibar,Real Madrid,4U3vjZKk,fcDVLdrL,1,1,,,,0
+1073588400,Villarreal,Sevilla,GSuwY3p9,tIT0KyhE,1,3,,,,0
+1073592000,Levante,Barcelona,8toS1iya,fcDVLdrL,1,0,,,,0
+1074022200,Real Madrid,Eibar,fcDVLdrL,4U3vjZKk,2,0,,,,0
+1074106800,Valladolid,Alaves,htRvrFH6,4U3vjZKk,1,1,,,,0
+1074106800,Celta Vigo,Malaga,SOY3p1Si,I5Xd92rn,2,2,,,,0
+1074106800,Betis,Zaragoza,zkU5wiAr,EykfZB0Q,1,1,,,,0
+1074112200,Osasuna,Valencia,xQnxBzcF,MHrRLNUo,0,2,,,,0
+1074112200,Barcelona,Levante,fcDVLdrL,8toS1iya,3,1,,,,0
+1074196800,Sevilla,Villarreal,tIT0KyhE,GSuwY3p9,0,2,,,,0
+1074196800,Dep. La Coruna,Atl. Madrid,G2YIZIXN,nLBjwR1F,1,1,,,,0
+1074711600,Sevilla,Atl. Madrid,tIT0KyhE,nLBjwR1F,4,0,,,,0
+1074717000,Real Madrid,Valencia,fcDVLdrL,MHrRLNUo,3,0,,,,0
+1074798000,Alaves,Celta Vigo,4U3vjZKk,SOY3p1Si,4,2,,,,0
+1074803400,Barcelona,Zaragoza,fcDVLdrL,EykfZB0Q,0,1,,,,0
+1075316400,Celta Vigo,Alaves,SOY3p1Si,4U3vjZKk,1,0,,,,0
+1075316400,Atl. Madrid,Sevilla,nLBjwR1F,tIT0KyhE,1,2,,,,0
+1075321800,Valencia,Real Madrid,MHrRLNUo,fcDVLdrL,1,2,,,,0
+1075408200,Zaragoza,Barcelona,EykfZB0Q,fcDVLdrL,1,1,,,,0
+1075924800,Real Madrid,Sevilla,fcDVLdrL,tIT0KyhE,2,0,,,,0
+1076011200,Alaves,Zaragoza,4U3vjZKk,EykfZB0Q,1,1,,,,0
+1076529600,Sevilla,Real Madrid,tIT0KyhE,fcDVLdrL,1,0,,,,0
+1076616000,Zaragoza,Alaves,EykfZB0Q,4U3vjZKk,0,0,,,,0
+1079553600,Real Madrid,Zaragoza,fcDVLdrL,EykfZB0Q,2,2,AET,2,3,0

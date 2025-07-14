@@ -1,62 +1,62 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-464439600,Trabzonspor,Dnipro,1,0,,,,0
-464439600,Grasshoppers,Honved,3,1,,,,0
-464446800,Lech Poznan,Liverpool,0,1,,,,0
-464447700,KF Elbasani,Lyngby,0,3,,,,0
-464450400,Din. Bucuresti,Omonia,4,1,,,,0
-464452200,Valerenga,Sparta Prague,3,3,,,,0
-464452200,Crvena zvezda,Benfica,3,2,,,,0
-464457600,Levski Sofia,Stuttgart,1,1,,,,0
-464457600,Ilves,Juventus,0,4,,,,0
-464457600,Akranes,KSK Beveren,2,2,,,,0
-464459400,Avenir Beggen,Goteborg,0,8,,,,0
-464459400,Austria Vienna,Valletta,4,0,,,,0
-464459400,Aberdeen,BFC Dynamo,2,1,,,,0
-464461200,Linfield,Shamrock Rovers,0,0,,,,0
-464461200,Feyenoord,Panathinaikos,0,0,,,,0
-464463000,Bordeaux,Ath Bilbao,3,2,,,,0
-465652800,Honved,Grasshoppers,2,1,,,,0
-465652800,Dnipro,Trabzonspor,3,0,,,,0
-465654600,Shamrock Rovers,Linfield,1,1,,,,0
-465656400,Valletta,Austria Vienna,0,4,,,,0
-465663600,Sparta Prague,Valerenga,2,0,,,,0
-465663600,BFC Dynamo,Aberdeen,2,1,Pen,3,1,0
-465670800,Lyngby,KF Elbasani,3,0,,,,0
-465670800,Goteborg,Avenir Beggen,9,0,,,,0
-465674400,Stuttgart,Levski Sofia,2,2,,,,0
-465674400,KSK Beveren,Akranes,5,0,,,,0
-465676200,Omonia,Din. Bucuresti,2,1,,,,0
-465676200,Liverpool,Lech Poznan,4,0,,,,0
-465676200,Juventus,Ilves,2,1,,,,0
-465676200,Ath Bilbao,Bordeaux,0,0,,,,0
-465678000,Panathinaikos,Feyenoord,2,1,,,,0
-465678000,Benfica,Crvena zvezda,2,0,,,,0
-467478000,Sparta Prague,Lyngby,0,0,,,,0
-467478000,BFC Dynamo,Austria Vienna,3,3,,,,0
-467483400,Levski Sofia,Dnipro,3,1,,,,0
-467485200,Panathinaikos,Linfield,2,1,,,,0
-467485200,Goteborg,KSK Beveren,1,0,,,,0
-467487000,Liverpool,Benfica,3,1,,,,0
-467490600,Juventus,Grasshoppers,2,0,,,,0
-467490600,Bordeaux,Din. Bucuresti,1,0,,,,0
-468687600,Dnipro,Levski Sofia,2,0,,,,0
-468687600,Din. Bucuresti,Bordeaux,1,0,AET,1,1,0
-468694800,Lyngby,Sparta Prague,1,2,,,,0
-468696600,Austria Vienna,BFC Dynamo,2,1,,,,0
-468698400,Linfield,Panathinaikos,3,3,,,,0
-468698400,KSK Beveren,Goteborg,1,0,AET,2,1,0
-468698400,Grasshoppers,Juventus,2,4,,,,0
-468700200,Benfica,Liverpool,1,0,,,,0
-478976400,Goteborg,Panathinaikos,0,1,,,,0
-478978200,Austria Vienna,Liverpool,1,1,,,,0
-478981800,Juventus,Sparta Prague,3,0,,,,0
-478981800,Bordeaux,Dnipro,1,1,,,,0
-480177000,Sparta Prague,Juventus,1,0,,,,0
-480186000,Dnipro,Bordeaux,1,1,Pen,1,2,0
-480187800,Liverpool,Austria Vienna,4,1,,,,0
-480189600,Panathinaikos,Goteborg,2,2,,,,0
-481998600,Liverpool,Panathinaikos,4,0,,,,0
-482002200,Juventus,Bordeaux,3,0,,,,0
-483210000,Bordeaux,Juventus,2,0,,,,0
-483213600,Panathinaikos,Liverpool,0,1,,,,0
-486240000,Juventus,Liverpool,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+464439600,Trabzonspor,Dnipro,MobtE80i,xbUiUE46,1,0,,,,0
+464439600,Grasshoppers,Honved,WdBesfPo,0bbECxUd,3,1,,,,0
+464446800,Lech Poznan,Liverpool,lCvEmFL0,KCp4zq5F,0,1,,,,0
+464447700,KF Elbasani,Lyngby,0fr2YS50,j9C0y7Tm,0,3,,,,0
+464450400,Din. Bucuresti,Omonia,EyedO184,8GeT5Kmk,4,1,,,,0
+464452200,Valerenga,Sparta Prague,K0xfe77l,lWOFh0RD,3,3,,,,0
+464452200,Crvena zvezda,Benfica,4OAEfiPE,GEKimEim,3,2,,,,0
+464457600,Levski Sofia,Stuttgart,OvIM8T6I,f1Z3XxZa,1,1,,,,0
+464457600,Ilves,Juventus,OMIIvzhg,EXzXDYgS,0,4,,,,0
+464457600,Akranes,KSK Beveren,4hhcealo,tt0jGfcU,2,2,,,,0
+464459400,Avenir Beggen,Goteborg,4jwwMQjF,jqs0yJHC,0,8,,,,0
+464459400,Austria Vienna,Valletta,lUkqx2Vt,WrjrBuU2,4,0,,,,0
+464459400,Aberdeen,BFC Dynamo,SQqfdcHF,KlQEi9GE,2,1,,,,0
+464461200,Linfield,Shamrock Rovers,GUrKqyjt,pOsOhLO3,0,0,,,,0
+464461200,Feyenoord,Panathinaikos,Wz6bfhxO,GM4Cu0wi,0,0,,,,0
+464463000,Bordeaux,Ath Bilbao,6BghNX0a,vJb36ZBF,3,2,,,,0
+465652800,Honved,Grasshoppers,0bbECxUd,WdBesfPo,2,1,,,,0
+465652800,Dnipro,Trabzonspor,xbUiUE46,MobtE80i,3,0,,,,0
+465654600,Shamrock Rovers,Linfield,pOsOhLO3,GUrKqyjt,1,1,,,,0
+465656400,Valletta,Austria Vienna,WrjrBuU2,lUkqx2Vt,0,4,,,,0
+465663600,Sparta Prague,Valerenga,lWOFh0RD,K0xfe77l,2,0,,,,0
+465663600,BFC Dynamo,Aberdeen,KlQEi9GE,SQqfdcHF,2,1,Pen,3,1,0
+465670800,Lyngby,KF Elbasani,j9C0y7Tm,0fr2YS50,3,0,,,,0
+465670800,Goteborg,Avenir Beggen,jqs0yJHC,4jwwMQjF,9,0,,,,0
+465674400,Stuttgart,Levski Sofia,f1Z3XxZa,OvIM8T6I,2,2,,,,0
+465674400,KSK Beveren,Akranes,tt0jGfcU,4hhcealo,5,0,,,,0
+465676200,Omonia,Din. Bucuresti,8GeT5Kmk,EyedO184,2,1,,,,0
+465676200,Liverpool,Lech Poznan,KCp4zq5F,lCvEmFL0,4,0,,,,0
+465676200,Juventus,Ilves,EXzXDYgS,OMIIvzhg,2,1,,,,0
+465676200,Ath Bilbao,Bordeaux,vJb36ZBF,6BghNX0a,0,0,,,,0
+465678000,Panathinaikos,Feyenoord,GM4Cu0wi,Wz6bfhxO,2,1,,,,0
+465678000,Benfica,Crvena zvezda,GEKimEim,4OAEfiPE,2,0,,,,0
+467478000,Sparta Prague,Lyngby,lWOFh0RD,j9C0y7Tm,0,0,,,,0
+467478000,BFC Dynamo,Austria Vienna,KlQEi9GE,lUkqx2Vt,3,3,,,,0
+467483400,Levski Sofia,Dnipro,OvIM8T6I,xbUiUE46,3,1,,,,0
+467485200,Panathinaikos,Linfield,GM4Cu0wi,GUrKqyjt,2,1,,,,0
+467485200,Goteborg,KSK Beveren,jqs0yJHC,tt0jGfcU,1,0,,,,0
+467487000,Liverpool,Benfica,KCp4zq5F,GEKimEim,3,1,,,,0
+467490600,Juventus,Grasshoppers,EXzXDYgS,WdBesfPo,2,0,,,,0
+467490600,Bordeaux,Din. Bucuresti,6BghNX0a,EyedO184,1,0,,,,0
+468687600,Dnipro,Levski Sofia,xbUiUE46,OvIM8T6I,2,0,,,,0
+468687600,Din. Bucuresti,Bordeaux,EyedO184,6BghNX0a,1,0,AET,1,1,0
+468694800,Lyngby,Sparta Prague,j9C0y7Tm,lWOFh0RD,1,2,,,,0
+468696600,Austria Vienna,BFC Dynamo,lUkqx2Vt,KlQEi9GE,2,1,,,,0
+468698400,Linfield,Panathinaikos,GUrKqyjt,GM4Cu0wi,3,3,,,,0
+468698400,KSK Beveren,Goteborg,tt0jGfcU,jqs0yJHC,1,0,AET,2,1,0
+468698400,Grasshoppers,Juventus,WdBesfPo,EXzXDYgS,2,4,,,,0
+468700200,Benfica,Liverpool,GEKimEim,KCp4zq5F,1,0,,,,0
+478976400,Goteborg,Panathinaikos,jqs0yJHC,GM4Cu0wi,0,1,,,,0
+478978200,Austria Vienna,Liverpool,lUkqx2Vt,KCp4zq5F,1,1,,,,0
+478981800,Juventus,Sparta Prague,EXzXDYgS,lWOFh0RD,3,0,,,,0
+478981800,Bordeaux,Dnipro,6BghNX0a,xbUiUE46,1,1,,,,0
+480177000,Sparta Prague,Juventus,lWOFh0RD,EXzXDYgS,1,0,,,,0
+480186000,Dnipro,Bordeaux,xbUiUE46,6BghNX0a,1,1,Pen,1,2,0
+480187800,Liverpool,Austria Vienna,KCp4zq5F,lUkqx2Vt,4,1,,,,0
+480189600,Panathinaikos,Goteborg,GM4Cu0wi,jqs0yJHC,2,2,,,,0
+481998600,Liverpool,Panathinaikos,KCp4zq5F,GM4Cu0wi,4,0,,,,0
+482002200,Juventus,Bordeaux,EXzXDYgS,6BghNX0a,3,0,,,,0
+483210000,Bordeaux,Juventus,6BghNX0a,EXzXDYgS,2,0,,,,0
+483213600,Panathinaikos,Liverpool,GM4Cu0wi,KCp4zq5F,0,1,,,,0
+486240000,Juventus,Liverpool,EXzXDYgS,KCp4zq5F,1,0,,,,0

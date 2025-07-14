@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1609248600,Sale,Chabab Atlas Khenifra,0,0,AET,1,3,0
-1609266600,Difaa El Jadidi,Ittifaq Marrakech,2,1,,,,0
-1609335000,Wydad Serghini,Olympique Youssoufia,1,0,,,,0
-1609335000,Sidi Kacem,Ittihad Khemisset,1,1,Pen,2,1,0
-1609335000,Khenifra,Maghreb Fez,0,2,,,,0
-1609344000,Olympique Khouribga,Wydad,0,1,,,,0
-1609353000,Moghreb Tetouan,FUS Rabat,0,0,Pen,1,0,0
-1577887200,Kawkab Marrakech,Dakhla,3,1,,,,0
-1577894400,Berkane,Youssoufia Berrechid,2,0,,,,0
-1577903400,Raja Casablanca,Wydad Fes,1,1,AET,2,1,0
-1577971800,Chabab Mohammedia,Rachad Bernoussi,1,0,,,,0
-1577980800,IR Tanger,Mouloudia Oujda,3,0,,,,0
-1577989800,Olympique de Safi,Rapide Oued Zem,0,1,,,,0
-1578058200,Raja Beni Mellal,Renaissance Zemamra,2,0,,,,0
-1578067200,Hassania Agadir,Chabab Benguerir,2,1,,,,0
-1578076200,FAR Rabat,Union Touarga,1,1,Pen,2,1,0
-1583164800,Berkane,Maghreb Fez,2,2,Pen,4,5,0
-1583242200,Kawkab Marrakech,Hassania Agadir,0,0,Pen,1,2,0
-1583251200,Raja Casablanca,Sidi Kacem,2,0,,,,0
-1583260200,IR Tanger,FAR Rabat,1,1,Pen,1,2,0
-1583328600,Wydad Serghini,Raja Beni Mellal,1,1,Pen,1,2,0
-1583334000,Chabab Atlas Khenifra,Moghreb Tetouan,1,3,,,,0
-1583344800,Chabab Mohammedia,Difaa El Jadidi,2,2,Pen,4,3,0
-1587420000,Rapide Oued Zem,Wydad,1,4,,,,0
-1588629600,Raja Beni Mellal,Hassania Agadir,2,0,,,,0
-1588716000,Wydad,Chabab Mohammedia,4,0,,,,0
-1588716000,FAR Rabat,Raja Casablanca,1,1,Pen,2,1,0
-1588802400,Moghreb Tetouan,Maghreb Fez,0,0,Pen,1,0,0
-1596303000,Raja Beni Mellal,FAR Rabat,0,1,,,,0
-1596313800,Wydad,Moghreb Tetouan,2,2,Pen,2,3,0
-1589468400,Moghreb Tetouan,FAR Rabat,0,3,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1609248600,Sale,Chabab Atlas Khenifra,QqtxO29G,nTPfq3WI,0,0,AET,1,3,0
+1609266600,Difaa El Jadidi,Ittifaq Marrakech,W6bUbbPE,Ot7Ywkfp,2,1,,,,0
+1609335000,Wydad Serghini,Olympique Youssoufia,GGFErT9H,Ot7Ywkfp,1,0,,,,0
+1609335000,Sidi Kacem,Ittihad Khemisset,AcFq0yOQ,tjaWbDi4,1,1,Pen,2,1,0
+1609335000,Khenifra,Maghreb Fez,lpp5eHPH,KrkUCdS2,0,2,,,,0
+1609344000,Olympique Khouribga,Wydad,j7JNl0QM,GSoKqW7o,0,1,,,,0
+1609353000,Moghreb Tetouan,FUS Rabat,bZmYBGs9,W6bUbbPE,0,0,Pen,1,0,0
+1577887200,Kawkab Marrakech,Dakhla,vmWBtCrO,bsUL6Ag7,3,1,,,,0
+1577894400,Berkane,Youssoufia Berrechid,xExOnmQQ,W6bUbbPE,2,0,,,,0
+1577903400,Raja Casablanca,Wydad Fes,fLPkADxb,ENXum5X8,1,1,AET,2,1,0
+1577971800,Chabab Mohammedia,Rachad Bernoussi,QgRSIkyp,8Qp2W9aD,1,0,,,,0
+1577980800,IR Tanger,Mouloudia Oujda,bqNV2HgA,Cf1jDPLm,3,0,,,,0
+1577989800,Olympique de Safi,Rapide Oued Zem,63LcsWgs,GAYNM2wT,0,1,,,,0
+1578058200,Raja Beni Mellal,Renaissance Zemamra,63LcsWgs,63LcsWgs,2,0,,,,0
+1578067200,Hassania Agadir,Chabab Benguerir,63LcsWgs,jm50C98H,2,1,,,,0
+1578076200,FAR Rabat,Union Touarga,EyoH1qCf,Q1R9dE24,1,1,Pen,2,1,0
+1583164800,Berkane,Maghreb Fez,xExOnmQQ,KrkUCdS2,2,2,Pen,4,5,0
+1583242200,Kawkab Marrakech,Hassania Agadir,vmWBtCrO,63LcsWgs,0,0,Pen,1,2,0
+1583251200,Raja Casablanca,Sidi Kacem,fLPkADxb,AcFq0yOQ,2,0,,,,0
+1583260200,IR Tanger,FAR Rabat,bqNV2HgA,EyoH1qCf,1,1,Pen,1,2,0
+1583328600,Wydad Serghini,Raja Beni Mellal,GGFErT9H,63LcsWgs,1,1,Pen,1,2,0
+1583334000,Chabab Atlas Khenifra,Moghreb Tetouan,nTPfq3WI,bZmYBGs9,1,3,,,,0
+1583344800,Chabab Mohammedia,Difaa El Jadidi,QgRSIkyp,W6bUbbPE,2,2,Pen,4,3,0
+1587420000,Rapide Oued Zem,Wydad,GAYNM2wT,GSoKqW7o,1,4,,,,0
+1588629600,Raja Beni Mellal,Hassania Agadir,63LcsWgs,63LcsWgs,2,0,,,,0
+1588716000,Wydad,Chabab Mohammedia,GSoKqW7o,QgRSIkyp,4,0,,,,0
+1588716000,FAR Rabat,Raja Casablanca,EyoH1qCf,fLPkADxb,1,1,Pen,2,1,0
+1588802400,Moghreb Tetouan,Maghreb Fez,bZmYBGs9,KrkUCdS2,0,0,Pen,1,0,0
+1596303000,Raja Beni Mellal,FAR Rabat,63LcsWgs,EyoH1qCf,0,1,,,,0
+1596313800,Wydad,Moghreb Tetouan,GSoKqW7o,bZmYBGs9,2,2,Pen,2,3,0
+1589468400,Moghreb Tetouan,FAR Rabat,bZmYBGs9,EyoH1qCf,0,3,,,,1

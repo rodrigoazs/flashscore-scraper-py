@@ -1,42 +1,42 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1118253600,Salinas,Cascade Surge,1,1,,,,0
-1118253600,Dallas Roma,Cocoa Expos,7,2,,,,0
-1118858400,Salinas,Sonoma County,2,2,,,,0
-1118858400,Pittsburgh,Menace,1,1,,,,0
-1118858400,Orange County,El Paso,1,3,,,,0
-1118858400,Ocean City,Greek American,3,0,,,,0
-1118858400,Crystal Palace Baltimore,Richmond Kickers,0,3,,,,0
-1118858400,Cincinnati Riverhawks,Jamaica,2,4,,,,0
-1118858400,Azzuri,Dallas Roma,2,5,,,,0
-1118858400,AAC Eagles,Chicago Fire,1,4,,,,0
-1120068000,Salinas,Seattle Sounders,1,3,,,,0
-1120068000,Richmond Kickers,Virginia,0,3,,,,0
-1120068000,Long Island,Ocean City,0,4,,,,0
-1120068000,Jamaica,Western Mass Pioneers,0,5,,,,0
-1120068000,Dallas Roma,Wilmington Hammerheads,0,5,,,,0
-1120068000,Chicago Fire,Minnesota United,1,2,,,,0
-1120068000,Charlotte Eagles,El Paso,4,1,,,,0
-1120068000,Charleston,Menace,2,3,,,,0
-1121191200,Seattle Sounders,Portland Timbers,0,2,,,,0
-1121277600,Wilmington Hammerheads,FC Dallas,1,3,,,,0
-1121277600,Virginia,Rochester New York,0,2,,,,0
-1121277600,Real Salt Lake,Minnesota United,4,6,,,,0
-1121277600,Ocean City,Richmond Kickers,4,8,,,,0
-1121277600,Menace,Atlanta SC,5,1,,,,0
-1121277600,Chivas USA,Charlotte Eagles,3,2,,,,0
-1121277600,Chicago Fire,Western Mass Pioneers,3,1,,,,0
-1123092000,San Jose Earthquakes,Portland Timbers,2,0,,,,0
-1123092000,New York Red Bulls,Rochester New York,1,3,,,,0
-1123092000,Menace,Sporting Kansas City,1,6,,,,0
-1123092000,FC Dallas,Columbus Crew,3,1,,,,0
-1123092000,DC United,Richmond Kickers,3,1,,,,0
-1123092000,Colorado Rapids,Minnesota United,1,4,,,,0
-1123092000,Chivas USA,Los Angeles Galaxy,2,5,,,,0
-1123092000,Chicago Fire,New England Revolution,3,2,,,,0
-1124906400,Minnesota United,Sporting Kansas City,3,1,,,,0
-1124906400,Los Angeles Galaxy,San Jose Earthquakes,2,1,,,,0
-1124906400,FC Dallas,DC United,1,1,,,,0
-1124906400,Chicago Fire,Rochester New York,1,1,,,,0
-1126720800,Minnesota United,Los Angeles Galaxy,2,5,,,,0
-1126720800,Chicago Fire,FC Dallas,0,1,,,,0
-1127930400,FC Dallas,Los Angeles Galaxy,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1118253600,Salinas,Cascade Surge,,C8zDBARF,1,1,,,,0
+1118253600,Dallas Roma,Cocoa Expos,,,7,2,,,,0
+1118858400,Salinas,Sonoma County,,OUSepk9i,2,2,,,,0
+1118858400,Pittsburgh,Menace,z5dOqhXs,U9hzsjH0,1,1,,,,0
+1118858400,Orange County,El Paso,,,1,3,,,,0
+1118858400,Ocean City,Greek American,zemgMpC6,pMWggNyn,3,0,,,,0
+1118858400,Crystal Palace Baltimore,Richmond Kickers,,QPDlz5Uc,0,3,,,,0
+1118858400,Cincinnati Riverhawks,Jamaica,,IPF97VQ3,2,4,,,,0
+1118858400,Azzuri,Dallas Roma,hzMie7RS,,2,5,,,,0
+1118858400,AAC Eagles,Chicago Fire,O8NBwB8m,0lw00xPr,1,4,,,,0
+1120068000,Salinas,Seattle Sounders,,Q7Ql2Qbi,1,3,,,,0
+1120068000,Richmond Kickers,Virginia,QPDlz5Uc,b9UR9rcD,0,3,,,,0
+1120068000,Long Island,Ocean City,A1LOAbka,zemgMpC6,0,4,,,,0
+1120068000,Jamaica,Western Mass Pioneers,IPF97VQ3,Q7fOexKT,0,5,,,,0
+1120068000,Dallas Roma,Wilmington Hammerheads,,KGIw5tHD,0,5,,,,0
+1120068000,Chicago Fire,Minnesota United,0lw00xPr,CEokxMWO,1,2,,,,0
+1120068000,Charlotte Eagles,El Paso,S6gH6Tkg,,4,1,,,,0
+1120068000,Charleston,Menace,xIOhFH4B,U9hzsjH0,2,3,,,,0
+1121191200,Seattle Sounders,Portland Timbers,Q7Ql2Qbi,xf2WUeO1,0,2,,,,0
+1121277600,Wilmington Hammerheads,FC Dallas,KGIw5tHD,W2EojdRP,1,3,,,,0
+1121277600,Virginia,Rochester New York,b9UR9rcD,63scElQr,0,2,,,,0
+1121277600,Real Salt Lake,Minnesota United,vgy39tSd,CEokxMWO,4,6,,,,0
+1121277600,Ocean City,Richmond Kickers,zemgMpC6,QPDlz5Uc,4,8,,,,0
+1121277600,Menace,Atlanta SC,U9hzsjH0,UPn7aGHL,5,1,,,,0
+1121277600,Chivas USA,Charlotte Eagles,W2EojdRP,S6gH6Tkg,3,2,,,,0
+1121277600,Chicago Fire,Western Mass Pioneers,0lw00xPr,Q7fOexKT,3,1,,,,0
+1123092000,San Jose Earthquakes,Portland Timbers,GpqxHjf5,xf2WUeO1,2,0,,,,0
+1123092000,New York Red Bulls,Rochester New York,h8cXfa4q,63scElQr,1,3,,,,0
+1123092000,Menace,Sporting Kansas City,U9hzsjH0,88w2wUnG,1,6,,,,0
+1123092000,FC Dallas,Columbus Crew,W2EojdRP,OrE2LMh8,3,1,,,,0
+1123092000,DC United,Richmond Kickers,QqhL41wo,QPDlz5Uc,3,1,,,,0
+1123092000,Colorado Rapids,Minnesota United,fyzFgPy8,CEokxMWO,1,4,,,,0
+1123092000,Chivas USA,Los Angeles Galaxy,W2EojdRP,nqhLBCKD,2,5,,,,0
+1123092000,Chicago Fire,New England Revolution,0lw00xPr,KI53uaQC,3,2,,,,0
+1124906400,Minnesota United,Sporting Kansas City,CEokxMWO,88w2wUnG,3,1,,,,0
+1124906400,Los Angeles Galaxy,San Jose Earthquakes,nqhLBCKD,GpqxHjf5,2,1,,,,0
+1124906400,FC Dallas,DC United,W2EojdRP,QqhL41wo,1,1,,,,0
+1124906400,Chicago Fire,Rochester New York,0lw00xPr,63scElQr,1,1,,,,0
+1126720800,Minnesota United,Los Angeles Galaxy,CEokxMWO,nqhLBCKD,2,5,,,,0
+1126720800,Chicago Fire,FC Dallas,0lw00xPr,W2EojdRP,0,1,,,,0
+1127930400,FC Dallas,Los Angeles Galaxy,W2EojdRP,nqhLBCKD,0,1,,,,0

@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1606833900,East Riffa,Al-Budaiya,2,0,,,,0
-1606833900,Al-Najma,Malkia,2,1,,,,0
-1606920300,Al-Hidd,Qalali,7,0,,,,0
-1606920300,Al-Ahli Manama,Al-Ittifaq,2,0,,,,0
-1607006700,Busaiteen,Al-Hala,0,2,,,,0
-1607006700,Al-Muharraq,Isa Town,4,1,,,,0
-1607093100,Manama Club,Al-Shabbab,0,0,Pen,1,0,0
-1607093100,Al Riffa,Al Khalidiyah,1,0,,,,0
-1608476400,Al-Hala,East Riffa,1,2,,,,0
-1608476400,Al Riffa,Al-Najma,1,0,,,,0
-1608562800,Al-Hidd,Manama Club,3,0,,,,0
-1608562800,Al-Ahli Manama,Al-Muharraq,2,1,,,,0
-1613310900,Al-Hidd,Al-Ahli Manama,2,2,Pen,2,3,0
-1613320200,East Riffa,Al Riffa,1,2,,,,0
-1614870900,Al Riffa,Al-Ahli Manama,2,0,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1606833900,East Riffa,Al-Budaiya,lCxMaEY9,4GEBOr8J,2,0,,,,0
+1606833900,Al-Najma,Malkia,Cr3ympLj,lOfXOjoE,2,1,,,,0
+1606920300,Al-Hidd,Qalali,pWyQgjIm,IFdtAhip,7,0,,,,0
+1606920300,Al-Ahli Manama,Al-Ittifaq,OfjJDLff,SMLhMD1s,2,0,,,,0
+1607006700,Busaiteen,Al-Hala,WnOlbjXd,lCxMaEY9,0,2,,,,0
+1607006700,Al-Muharraq,Isa Town,ALwI0fJ3,WjlX6iM6,4,1,,,,0
+1607093100,Manama Club,Al-Shabbab,2Jlfd3kF,xfd2nhF6,0,0,Pen,1,0,0
+1607093100,Al Riffa,Al Khalidiyah,lCxMaEY9,WvvMLkSK,1,0,,,,0
+1608476400,Al-Hala,East Riffa,lCxMaEY9,lCxMaEY9,1,2,,,,0
+1608476400,Al Riffa,Al-Najma,lCxMaEY9,Cr3ympLj,1,0,,,,0
+1608562800,Al-Hidd,Manama Club,pWyQgjIm,2Jlfd3kF,3,0,,,,0
+1608562800,Al-Ahli Manama,Al-Muharraq,OfjJDLff,ALwI0fJ3,2,1,,,,0
+1613310900,Al-Hidd,Al-Ahli Manama,pWyQgjIm,OfjJDLff,2,2,Pen,2,3,0
+1613320200,East Riffa,Al Riffa,lCxMaEY9,lCxMaEY9,1,2,,,,0
+1614870900,Al Riffa,Al-Ahli Manama,lCxMaEY9,OfjJDLff,2,0,,,,1

@@ -1,20 +1,20 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1082197800,Woodlands Wellington,DPMM,2,1,,,,0
-1082284200,Tanjong Pagar,Warriors,0,4,,,,0
-1083407400,Tampines,Cosmoleague,6,0,,,,0
-1084012200,Young Lions,Sembawang Rangers,7,0,,,,0
-1084012200,Sinchi,Tampines Rovers SC 1951,4,1,,,,0
-1084617000,Balestier Khalsa,Albirex Niigata,4,3,,,,0
-1087727400,Lion City,Warriors,0,1,,,,0
-1087813800,Young Lions,Sinchi,3,2,,,,0
-1088245800,Geylang,Woodlands Wellington,3,2,,,,0
-1088332200,Balestier Khalsa,Tampines,4,2,,,,0
-1088937000,Woodlands Wellington,Geylang,1,2,,,,0
-1088937000,Warriors,Lion City,1,3,,,,0
-1090146600,Tampines,Balestier Khalsa,2,0,,,,0
-1090146600,Sinchi,Young Lions,1,0,,,,0
-1092479400,Geylang,Tampines,2,1,,,,0
-1093084200,Tampines,Geylang,3,0,,,,0
-1093170600,Sinchi,Lion City,1,5,,,,0
-1093775400,Lion City,Sinchi,5,4,,,,0
-1096799400,Tampines,Lion City,4,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1082197800,Woodlands Wellington,DPMM,CKls4Q5g,nP3yiII0,2,1,,,,0
+1082284200,Tanjong Pagar,Warriors,bwrRv2m2,nNKuYSHo,0,4,,,,0
+1083407400,Tampines,Cosmoleague,d0hl69s2,,6,0,,,,0
+1084012200,Young Lions,Sembawang Rangers,jqXAnX3e,,7,0,,,,0
+1084012200,Sinchi,Tampines Rovers SC 1951,,,4,1,,,,0
+1084617000,Balestier Khalsa,Albirex Niigata,MZaTAD0m,MkSbZgY3,4,3,,,,0
+1087727400,Lion City,Warriors,pW3pRTln,nNKuYSHo,0,1,,,,0
+1087813800,Young Lions,Sinchi,jqXAnX3e,,3,2,,,,0
+1088245800,Geylang,Woodlands Wellington,df9tRVup,CKls4Q5g,3,2,,,,0
+1088332200,Balestier Khalsa,Tampines,MZaTAD0m,d0hl69s2,4,2,,,,0
+1088937000,Woodlands Wellington,Geylang,CKls4Q5g,df9tRVup,1,2,,,,0
+1088937000,Warriors,Lion City,nNKuYSHo,pW3pRTln,1,3,,,,0
+1090146600,Tampines,Balestier Khalsa,d0hl69s2,MZaTAD0m,2,0,,,,0
+1090146600,Sinchi,Young Lions,,jqXAnX3e,1,0,,,,0
+1092479400,Geylang,Tampines,df9tRVup,d0hl69s2,2,1,,,,0
+1093084200,Tampines,Geylang,d0hl69s2,df9tRVup,3,0,,,,0
+1093170600,Sinchi,Lion City,,pW3pRTln,1,5,,,,0
+1093775400,Lion City,Sinchi,pW3pRTln,,5,4,,,,0
+1096799400,Tampines,Lion City,d0hl69s2,pW3pRTln,4,1,,,,0

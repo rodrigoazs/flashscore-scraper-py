@@ -1,43 +1,43 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-932853600,Stropkov,Dubova,1,0,,,,0
-932853600,Spisska Nova Ves,Turna,1,1,,,,0
-932853600,Levice,Senica,1,0,,,,0
-932853600,Kalinkovo,Sala,1,2,,,,0
-932853600,Inter Bratislava B,FK Turani,1,1,,,,0
-933717600,Turna,Spisska Nova Ves,2,1,,,,0
-933717600,Sala,Kalinkovo,6,1,,,,0
-933717600,FK Turani,Inter Bratislava B,1,2,,,,0
-933717600,Dubova,Stropkov,2,0,,,,0
-937864800,Turna,Humenne,0,1,,,,0
-937864800,Puchov,Slovan Bratislava,3,2,,,,0
-937864800,Podbrezova,Dubnica,2,2,Pen,2,3,0
-937864800,Piestany,Dun. Streda,0,1,,,,0
-937864800,Novaky,Zilina,6,0,,,,0
-937864800,Levice,Nitra,1,2,,,,0
-937864800,FKM Nove Zamky,Petrzalka,1,1,Pen,1,2,0
-937864800,FC Licartovce,Banik Prievidza,5,1,,,,0
-937864800,Devin,Senec,2,2,Pen,2,3,0
-937864800,Bardejov,VSS Kosice,0,4,,,,0
-937951200,Slovan Bratislava B,Trnava,1,2,,,,0
-937951200,Sala,I. Bratislava,0,2,,,,0
-937951200,Rimavska Sobota,Banska Bystrica,0,1,,,,0
-937951200,Lok. Kosice,Presov,1,1,Pen,1,2,0
-937951200,Inter Bratislava B,Trencin,1,4,,,,0
-937951200,Dubova,Ruzomberok,1,5,,,,0
-939679200,VSS Kosice,Trencin,3,1,,,,0
-939679200,Trnava,Puchov,2,0,,,,0
-939679200,Senec,Ruzomberok,2,0,,,,0
-939679200,Presov,I. Bratislava,0,2,,,,0
-939679200,Nitra,Banska Bystrica,1,1,Pen,1,2,0
-939679200,FC Licartovce,Petrzalka,0,1,,,,0
-939679200,Dun. Streda,Humenne,4,0,,,,0
-939679200,Dubnica,Novaky,1,2,,,,0
-940888800,Trnava,Senec,3,1,,,,0
-940888800,Petrzalka,VSS Kosice,1,2,,,,0
-940888800,Dun. Streda,Banska Bystrica,1,2,,,,0
-940975200,Novaky,I. Bratislava,2,4,,,,0
-954799200,Trnava,I. Bratislava,0,1,,,,0
-954799200,Banska Bystrica,VSS Kosice,1,1,,,,0
-956008800,VSS Kosice,Banska Bystrica,1,0,,,,0
-956008800,I. Bratislava,Trnava,2,1,,,,0
-957736800,I. Bratislava,VSS Kosice,1,1,Pen,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+932853600,Stropkov,Dubova,Y3joQzw0,zoOlLVyj,1,0,,,,0
+932853600,Spisska Nova Ves,Turna,Sb5FILYk,,1,1,,,,0
+932853600,Levice,Senica,2ci8AL9P,G6ERMxTE,1,0,,,,0
+932853600,Kalinkovo,Sala,EyNhKkid,E9YhAqDo,1,2,,,,0
+932853600,Inter Bratislava B,FK Turani,xW9wOIZt,,1,1,,,,0
+933717600,Turna,Spisska Nova Ves,,Sb5FILYk,2,1,,,,0
+933717600,Sala,Kalinkovo,E9YhAqDo,EyNhKkid,6,1,,,,0
+933717600,FK Turani,Inter Bratislava B,,xW9wOIZt,1,2,,,,0
+933717600,Dubova,Stropkov,zoOlLVyj,Y3joQzw0,2,0,,,,0
+937864800,Turna,Humenne,,G6ERMxTE,0,1,,,,0
+937864800,Puchov,Slovan Bratislava,j7FwfQYj,pEAU6ugI,3,2,,,,0
+937864800,Podbrezova,Dubnica,G6ERMxTE,rX83zKRm,2,2,Pen,2,3,0
+937864800,Piestany,Dun. Streda,8Si12Cuq,IoNBgY5L,0,1,,,,0
+937864800,Novaky,Zilina,tWKrByBp,xGFNNID8,6,0,,,,0
+937864800,Levice,Nitra,2ci8AL9P,G6ERMxTE,1,2,,,,0
+937864800,FKM Nove Zamky,Petrzalka,G4HIn8MR,xGFNNID8,1,1,Pen,1,2,0
+937864800,FC Licartovce,Banik Prievidza,l0KGLnei,xCREkqC8,5,1,,,,0
+937864800,Devin,Senec,,xGFNNID8,2,2,Pen,2,3,0
+937864800,Bardejov,VSS Kosice,fgqxMRDg,AsRGXczr,0,4,,,,0
+937951200,Slovan Bratislava B,Trnava,nc5KYlrS,M5OsNcYB,1,2,,,,0
+937951200,Sala,I. Bratislava,E9YhAqDo,MLIBKcrm,0,2,,,,0
+937951200,Rimavska Sobota,Banska Bystrica,G6ERMxTE,juego3yl,0,1,,,,0
+937951200,Lok. Kosice,Presov,hGgFVrJ0,E3yWsMR6,1,1,Pen,1,2,0
+937951200,Inter Bratislava B,Trencin,xW9wOIZt,pj0lIqgn,1,4,,,,0
+937951200,Dubova,Ruzomberok,zoOlLVyj,xGFNNID8,1,5,,,,0
+939679200,VSS Kosice,Trencin,AsRGXczr,pj0lIqgn,3,1,,,,0
+939679200,Trnava,Puchov,M5OsNcYB,j7FwfQYj,2,0,,,,0
+939679200,Senec,Ruzomberok,xGFNNID8,xGFNNID8,2,0,,,,0
+939679200,Presov,I. Bratislava,E3yWsMR6,MLIBKcrm,0,2,,,,0
+939679200,Nitra,Banska Bystrica,G6ERMxTE,juego3yl,1,1,Pen,1,2,0
+939679200,FC Licartovce,Petrzalka,l0KGLnei,xGFNNID8,0,1,,,,0
+939679200,Dun. Streda,Humenne,IoNBgY5L,G6ERMxTE,4,0,,,,0
+939679200,Dubnica,Novaky,rX83zKRm,tWKrByBp,1,2,,,,0
+940888800,Trnava,Senec,M5OsNcYB,xGFNNID8,3,1,,,,0
+940888800,Petrzalka,VSS Kosice,xGFNNID8,AsRGXczr,1,2,,,,0
+940888800,Dun. Streda,Banska Bystrica,IoNBgY5L,juego3yl,1,2,,,,0
+940975200,Novaky,I. Bratislava,tWKrByBp,MLIBKcrm,2,4,,,,0
+954799200,Trnava,I. Bratislava,M5OsNcYB,MLIBKcrm,0,1,,,,0
+954799200,Banska Bystrica,VSS Kosice,juego3yl,AsRGXczr,1,1,,,,0
+956008800,VSS Kosice,Banska Bystrica,AsRGXczr,juego3yl,1,0,,,,0
+956008800,I. Bratislava,Trnava,MLIBKcrm,M5OsNcYB,2,1,,,,0
+957736800,I. Bratislava,VSS Kosice,MLIBKcrm,AsRGXczr,1,1,Pen,2,1,0

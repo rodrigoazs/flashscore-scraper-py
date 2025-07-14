@@ -1,71 +1,71 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1709672400,Envigado,Orsomarso,1,0,,,,0
-1709757000,Atletico F.C.,Jaguares de Cordoba,1,2,,,,0
-1709766000,Bogota,Once Caldas,0,2,,,,0
-1709773200,Santa Fe,Boca Juniors,3,1,,,,0
-1709843400,Tigres,U. Magdalena,2,1,,,,0
-1709845200,Barranquilla,Huila,1,3,,,,0
-1709852400,Bucaramanga,Real Santander,6,2,,,,0
-1709859600,Pereira,Real Cundinamarca,2,0,,,,0
-1710889800,Jaguares de Cordoba,Atletico F.C.,2,1,,,,0
-1710968400,Real Santander,Bucaramanga,3,4,,,,0
-1710968400,Orsomarso,Envigado,0,1,,,,0
-1710975600,Real Cundinamarca,Pereira,0,0,,,,0
-1710982800,Boca Juniors,Santa Fe,1,1,,,,0
-1711053000,U. Magdalena,Tigres,2,1,Pen,2,2,0
-1711054800,Huila,Barranquilla,1,1,,,,0
-1711069200,Once Caldas,Bogota,4,1,,,,0
-1712610000,Inter Palmira,Santa Fe,2,2,,,,0
-1712696400,Cucuta,Tigres,0,0,,,,0
-1712703600,Fortaleza,Once Caldas,2,1,,,,0
-1712710800,Pereira,Leones,1,1,,,,0
-1712781900,Llaneros,Jaguares de Cordoba,2,2,,,,0
-1712782800,Huila,Cartagena,2,0,,,,0
-1712782800,Envigado,Quindio,3,2,,,,0
-1712796000,Bucaramanga,Patriotas,3,0,,,,0
-1713919200,Tigres,Cucuta,1,0,,,,0
-1713990600,Cartagena,Huila,3,1,Pen,4,1,0
-1713992400,Jaguares de Cordoba,Llaneros,1,1,Pen,2,1,0
-1714003200,Leones,Pereira,1,1,Pen,1,2,0
-1714005000,Santa Fe,Inter Palmira,1,0,,,,0
-1714084200,Patriotas,Bucaramanga,0,3,,,,0
-1714089600,Quindio,Envigado,2,3,,,,0
-1714093200,Once Caldas,Fortaleza,0,1,,,,0
-1715202000,Envigado,Cartagena,2,0,,,,0
-1715214600,Pereira,Fortaleza,0,1,,,,0
-1715299800,Tigres,Jaguares de Cordoba,5,3,,,,0
-1715814000,Santa Fe,Bucaramanga,1,1,,,,0
-1715821500,Fortaleza,Pereira,1,0,,,,0
-1715889600,Jaguares de Cordoba,Tigres,3,0,,,,0
-1724886900,Bucaramanga,Santa Fe,3,1,,,,0
-1724979600,Cartagena,Envigado,2,1,,,,0
-1726095600,Ind. Medellin,Junior,2,0,,,,0
-1726529400,Alianza,Atl. Nacional,1,1,,,,0
-1726606800,Envigado,Jaguares de Cordoba,0,0,,,,0
-1726617600,Deportes Tolima,Dep. Pasto,1,2,,,,0
-1726621200,Fortaleza,Dep. Cali,1,0,,,,0
-1726704000,Chico,Aguilas,2,1,,,,0
-1726792200,Atl. Nacional,Alianza,2,1,,,,0
-1727222400,Dep. Cali,Fortaleza,3,2,Pen,4,2,0
-1727307000,America De Cali,La Equidad,2,0,,,,0
-1727830800,Millonarios,Bucaramanga,0,0,,,,0
-1727910000,La Equidad,America De Cali,0,0,,,,0
-1727910000,Jaguares de Cordoba,Envigado,1,0,,,,0
-1727911800,Aguilas,Chico,1,0,Pen,1,1,0
-1727915400,Dep. Pasto,Deportes Tolima,1,1,,,,0
-1727917200,Junior,Ind. Medellin,2,0,Pen,2,1,0
-1728435600,Bucaramanga,Millonarios,1,1,Pen,2,1,0
-1729208400,America De Cali,Dep. Cali,2,0,,,,0
-1729215600,Dep. Pasto,Bucaramanga,1,2,,,,0
-1729375200,Jaguares de Cordoba,Atl. Nacional,1,3,,,,0
-1729638600,Chico,Ind. Medellin,3,0,Awrd,,,0
-1729728000,Dep. Cali,America De Cali,0,0,,,,0
-1729812600,Bucaramanga,Dep. Pasto,0,0,,,,0
-1729819800,Atl. Nacional,Jaguares de Cordoba,2,1,,,,0
-1729906200,Ind. Medellin,Chico,3,0,Pen,4,0,0
-1730336400,Bucaramanga,America De Cali,1,1,,,,0
-1730422800,Atl. Nacional,Ind. Medellin,2,0,,,,0
-1731881700,America De Cali,Bucaramanga,0,0,Pen,1,0,0
-1731889800,Ind. Medellin,Atl. Nacional,1,0,,,,0
-1734049800,Atl. Nacional,America De Cali,3,1,,,,0
-1734300000,America De Cali,Atl. Nacional,0,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1709672400,Envigado,Orsomarso,2XZjQRJG,0ASINSdB,1,0,,,,0
+1709757000,Atletico F.C.,Jaguares de Cordoba,YkXz5hTm,K401txJG,1,2,,,,0
+1709766000,Bogota,Once Caldas,ldlFLEPm,tnwDCzLD,0,2,,,,0
+1709773200,Santa Fe,Boca Juniors,AaS9a4Ho,YkXz5hTm,3,1,,,,0
+1709843400,Tigres,U. Magdalena,r7qn5qKU,MTr4IgZi,2,1,,,,0
+1709845200,Barranquilla,Huila,OlLDanjn,W6vdbCVa,1,3,,,,0
+1709852400,Bucaramanga,Real Santander,0xyt4W2g,YLa74tUj,6,2,,,,0
+1709859600,Pereira,Real Cundinamarca,rysGeGXN,bqFiSdJl,2,0,,,,0
+1710889800,Jaguares de Cordoba,Atletico F.C.,K401txJG,YkXz5hTm,2,1,,,,0
+1710968400,Real Santander,Bucaramanga,YLa74tUj,0xyt4W2g,3,4,,,,0
+1710968400,Orsomarso,Envigado,0ASINSdB,2XZjQRJG,0,1,,,,0
+1710975600,Real Cundinamarca,Pereira,bqFiSdJl,rysGeGXN,0,0,,,,0
+1710982800,Boca Juniors,Santa Fe,YkXz5hTm,AaS9a4Ho,1,1,,,,0
+1711053000,U. Magdalena,Tigres,MTr4IgZi,r7qn5qKU,2,1,Pen,2,2,0
+1711054800,Huila,Barranquilla,W6vdbCVa,OlLDanjn,1,1,,,,0
+1711069200,Once Caldas,Bogota,tnwDCzLD,ldlFLEPm,4,1,,,,0
+1712610000,Inter Palmira,Santa Fe,GGXLQEpI,AaS9a4Ho,2,2,,,,0
+1712696400,Cucuta,Tigres,hCmseTFa,r7qn5qKU,0,0,,,,0
+1712703600,Fortaleza,Once Caldas,6XjLWQsI,tnwDCzLD,2,1,,,,0
+1712710800,Pereira,Leones,rysGeGXN,ldtTlNn4,1,1,,,,0
+1712781900,Llaneros,Jaguares de Cordoba,hjn5AE5Q,K401txJG,2,2,,,,0
+1712782800,Huila,Cartagena,W6vdbCVa,zVgW5cY1,2,0,,,,0
+1712782800,Envigado,Quindio,2XZjQRJG,Eam1BfjK,3,2,,,,0
+1712796000,Bucaramanga,Patriotas,0xyt4W2g,vPkIlTrP,3,0,,,,0
+1713919200,Tigres,Cucuta,r7qn5qKU,hCmseTFa,1,0,,,,0
+1713990600,Cartagena,Huila,zVgW5cY1,W6vdbCVa,3,1,Pen,4,1,0
+1713992400,Jaguares de Cordoba,Llaneros,K401txJG,hjn5AE5Q,1,1,Pen,2,1,0
+1714003200,Leones,Pereira,ldtTlNn4,rysGeGXN,1,1,Pen,1,2,0
+1714005000,Santa Fe,Inter Palmira,AaS9a4Ho,GGXLQEpI,1,0,,,,0
+1714084200,Patriotas,Bucaramanga,vPkIlTrP,0xyt4W2g,0,3,,,,0
+1714089600,Quindio,Envigado,Eam1BfjK,2XZjQRJG,2,3,,,,0
+1714093200,Once Caldas,Fortaleza,tnwDCzLD,6XjLWQsI,0,1,,,,0
+1715202000,Envigado,Cartagena,2XZjQRJG,zVgW5cY1,2,0,,,,0
+1715214600,Pereira,Fortaleza,rysGeGXN,6XjLWQsI,0,1,,,,0
+1715299800,Tigres,Jaguares de Cordoba,r7qn5qKU,K401txJG,5,3,,,,0
+1715814000,Santa Fe,Bucaramanga,AaS9a4Ho,0xyt4W2g,1,1,,,,0
+1715821500,Fortaleza,Pereira,6XjLWQsI,rysGeGXN,1,0,,,,0
+1715889600,Jaguares de Cordoba,Tigres,K401txJG,r7qn5qKU,3,0,,,,0
+1724886900,Bucaramanga,Santa Fe,0xyt4W2g,AaS9a4Ho,3,1,,,,0
+1724979600,Cartagena,Envigado,zVgW5cY1,2XZjQRJG,2,1,,,,0
+1726095600,Ind. Medellin,Junior,plopiAtN,G2820wU0,2,0,,,,0
+1726529400,Alianza,Atl. Nacional,jqTIQW5H,tnwDCzLD,1,1,,,,0
+1726606800,Envigado,Jaguares de Cordoba,2XZjQRJG,K401txJG,0,0,,,,0
+1726617600,Deportes Tolima,Dep. Pasto,bXlV9lJE,hjn5AE5Q,1,2,,,,0
+1726621200,Fortaleza,Dep. Cali,6XjLWQsI,IHPA1GDt,1,0,,,,0
+1726704000,Chico,Aguilas,faYW5YDs,2eGA9cib,2,1,,,,0
+1726792200,Atl. Nacional,Alianza,tnwDCzLD,jqTIQW5H,2,1,,,,0
+1727222400,Dep. Cali,Fortaleza,IHPA1GDt,6XjLWQsI,3,2,Pen,4,2,0
+1727307000,America De Cali,La Equidad,hSZHTo4B,tGWvEQkr,2,0,,,,0
+1727830800,Millonarios,Bucaramanga,6kduDy6P,0xyt4W2g,0,0,,,,0
+1727910000,La Equidad,America De Cali,tGWvEQkr,hSZHTo4B,0,0,,,,0
+1727910000,Jaguares de Cordoba,Envigado,K401txJG,2XZjQRJG,1,0,,,,0
+1727911800,Aguilas,Chico,2eGA9cib,faYW5YDs,1,0,Pen,1,1,0
+1727915400,Dep. Pasto,Deportes Tolima,hjn5AE5Q,bXlV9lJE,1,1,,,,0
+1727917200,Junior,Ind. Medellin,G2820wU0,plopiAtN,2,0,Pen,2,1,0
+1728435600,Bucaramanga,Millonarios,0xyt4W2g,6kduDy6P,1,1,Pen,2,1,0
+1729208400,America De Cali,Dep. Cali,hSZHTo4B,IHPA1GDt,2,0,,,,0
+1729215600,Dep. Pasto,Bucaramanga,hjn5AE5Q,0xyt4W2g,1,2,,,,0
+1729375200,Jaguares de Cordoba,Atl. Nacional,K401txJG,tnwDCzLD,1,3,,,,0
+1729638600,Chico,Ind. Medellin,faYW5YDs,plopiAtN,3,0,Awrd,,,0
+1729728000,Dep. Cali,America De Cali,IHPA1GDt,hSZHTo4B,0,0,,,,0
+1729812600,Bucaramanga,Dep. Pasto,0xyt4W2g,hjn5AE5Q,0,0,,,,0
+1729819800,Atl. Nacional,Jaguares de Cordoba,tnwDCzLD,K401txJG,2,1,,,,0
+1729906200,Ind. Medellin,Chico,plopiAtN,faYW5YDs,3,0,Pen,4,0,0
+1730336400,Bucaramanga,America De Cali,0xyt4W2g,hSZHTo4B,1,1,,,,0
+1730422800,Atl. Nacional,Ind. Medellin,tnwDCzLD,plopiAtN,2,0,,,,0
+1731881700,America De Cali,Bucaramanga,hSZHTo4B,0xyt4W2g,0,0,Pen,1,0,0
+1731889800,Ind. Medellin,Atl. Nacional,plopiAtN,tnwDCzLD,1,0,,,,0
+1734049800,Atl. Nacional,America De Cali,tnwDCzLD,hSZHTo4B,3,1,,,,0
+1734300000,America De Cali,Atl. Nacional,hSZHTo4B,tnwDCzLD,0,0,,,,0

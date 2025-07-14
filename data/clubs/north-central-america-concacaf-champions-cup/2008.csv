@@ -1,15 +1,15 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1205272800,Motagua,Pachuca,0,0,,,,0
-1205359200,Municipal,Houston Dynamo,0,0,,,,0
-1205359200,Harbour View,DC United,1,1,,,,0
-1205445600,Atlante,Saprissa,2,1,,,,0
-1205877600,DC United,Harbour View,5,0,,,,0
-1205964000,Pachuca,Motagua,1,0,,,,0
-1205964000,Houston Dynamo,Municipal,3,1,,,,0
-1206050400,Saprissa,Atlante,3,0,,,,0
-1207083600,Pachuca,DC United,2,0,,,,0
-1207170000,Houston Dynamo,Saprissa,0,0,,,,0
-1207774800,Saprissa,Houston Dynamo,3,0,,,,0
-1207774800,DC United,Pachuca,2,1,,,,0
-1208984400,Saprissa,Pachuca,1,1,,,,0
-1209589200,Pachuca,Saprissa,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1205272800,Motagua,Pachuca,dtCxYreO,zFZbB1JF,0,0,,,,0
+1205359200,Municipal,Houston Dynamo,vTLj5hDm,YLT3ZeZm,0,0,,,,0
+1205359200,Harbour View,DC United,KCGGnOpC,QqhL41wo,1,1,,,,0
+1205445600,Atlante,Saprissa,dAJb3Ws0,tnwDCzLD,2,1,,,,0
+1205877600,DC United,Harbour View,QqhL41wo,KCGGnOpC,5,0,,,,0
+1205964000,Pachuca,Motagua,zFZbB1JF,dtCxYreO,1,0,,,,0
+1205964000,Houston Dynamo,Municipal,YLT3ZeZm,vTLj5hDm,3,1,,,,0
+1206050400,Saprissa,Atlante,tnwDCzLD,dAJb3Ws0,3,0,,,,0
+1207083600,Pachuca,DC United,zFZbB1JF,QqhL41wo,2,0,,,,0
+1207170000,Houston Dynamo,Saprissa,YLT3ZeZm,tnwDCzLD,0,0,,,,0
+1207774800,Saprissa,Houston Dynamo,tnwDCzLD,YLT3ZeZm,3,0,,,,0
+1207774800,DC United,Pachuca,QqhL41wo,zFZbB1JF,2,1,,,,0
+1208984400,Saprissa,Pachuca,tnwDCzLD,zFZbB1JF,1,1,,,,0
+1209589200,Pachuca,Saprissa,zFZbB1JF,tnwDCzLD,2,1,,,,0

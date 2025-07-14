@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1478368800,Octavio Espinoza de Ica,Binacional,1,2,,,,0
-1478377800,Kola San Martin,Deportivo Ascension,3,0,,,,0
-1478377800,Deportivo Venus,Sport Rosario,1,2,,,,0
-1478458800,San Jose Agua Blanca,Carlos Orellana,3,3,,,,0
-1478462400,Tacna Heroica,Aguas Verdes,3,1,,,,0
-1478462400,Racing Club Huamachuco,Aguila,4,0,,,,0
-1478462400,Credicoop San Roman,Deportivo Garcilaso,0,0,,,,0
-1478464200,Jose Maria Arguedas,Hualgayoc,1,0,,,,0
-1478973600,Binacional,Octavio Espinoza de Ica,3,1,,,,0
-1479058200,Sport Rosario,Deportivo Venus,6,2,,,,0
-1479060000,Hualgayoc,Jose Maria Arguedas,5,3,,,,0
-1479060900,Aguila,Racing Club Huamachuco,2,0,,,,0
-1479067200,Deportivo Garcilaso,Credicoop San Roman,3,1,,,,0
-1479067200,Aguas Verdes,Tacna Heroica,1,0,,,,0
-1479068100,Deportivo Ascension,Kola San Martin,3,0,,,,0
-1479069000,Carlos Orellana,San Jose Agua Blanca,2,1,,,,0
-1479578400,Binacional,Carlos Orellana,6,3,,,,0
-1479672000,Kola San Martin,Sport Rosario,0,1,,,,0
-1479672900,Tacna Heroica,Hualgayoc,2,2,,,,0
-1479673800,Racing Club Huamachuco,Deportivo Garcilaso,1,0,,,,0
-1480190400,Deportivo Garcilaso,Racing Club Huamachuco,0,4,,,,0
-1480267800,Sport Rosario,Kola San Martin,4,3,,,,0
-1480273200,Carlos Orellana,Binacional,1,0,,,,0
-1480276800,Hualgayoc,Tacna Heroica,6,2,,,,0
-1480806000,Sport Rosario,Hualgayoc,1,1,,,,0
-1480813200,Binacional,Racing Club Huamachuco,0,1,,,,0
-1481151600,Sport Rosario,Binacional,3,2,,,,0
-1481158800,Hualgayoc,Racing Club Huamachuco,4,1,,,,0
-1481410800,Racing Club Huamachuco,Sport Rosario,1,2,,,,0
-1481418000,Binacional,Hualgayoc,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1478368800,Octavio Espinoza de Ica,Binacional,pK3j9xES,EDbytE92,1,2,,,,0
+1478377800,Kola San Martin,Deportivo Ascension,pK3j9xES,6T4nAIbM,3,0,,,,0
+1478377800,Deportivo Venus,Sport Rosario,6T4nAIbM,0K3VOgS0,1,2,,,,0
+1478458800,San Jose Agua Blanca,Carlos Orellana,6FuezsgO,6T4nAIbM,3,3,,,,0
+1478462400,Tacna Heroica,Aguas Verdes,UuHhoIbE,6T4nAIbM,3,1,,,,0
+1478462400,Racing Club Huamachuco,Aguila,dx4dCUkO,6kYzukDr,4,0,,,,0
+1478462400,Credicoop San Roman,Deportivo Garcilaso,p2IzWDgo,rV5EZZh1,0,0,,,,0
+1478464200,Jose Maria Arguedas,Hualgayoc,pK3j9xES,MZJOv7j5,1,0,,,,0
+1478973600,Binacional,Octavio Espinoza de Ica,EDbytE92,pK3j9xES,3,1,,,,0
+1479058200,Sport Rosario,Deportivo Venus,0K3VOgS0,6T4nAIbM,6,2,,,,0
+1479060000,Hualgayoc,Jose Maria Arguedas,MZJOv7j5,pK3j9xES,5,3,,,,0
+1479060900,Aguila,Racing Club Huamachuco,6kYzukDr,dx4dCUkO,2,0,,,,0
+1479067200,Deportivo Garcilaso,Credicoop San Roman,rV5EZZh1,p2IzWDgo,3,1,,,,0
+1479067200,Aguas Verdes,Tacna Heroica,6T4nAIbM,UuHhoIbE,1,0,,,,0
+1479068100,Deportivo Ascension,Kola San Martin,6T4nAIbM,pK3j9xES,3,0,,,,0
+1479069000,Carlos Orellana,San Jose Agua Blanca,6T4nAIbM,6FuezsgO,2,1,,,,0
+1479578400,Binacional,Carlos Orellana,EDbytE92,6T4nAIbM,6,3,,,,0
+1479672000,Kola San Martin,Sport Rosario,pK3j9xES,0K3VOgS0,0,1,,,,0
+1479672900,Tacna Heroica,Hualgayoc,UuHhoIbE,MZJOv7j5,2,2,,,,0
+1479673800,Racing Club Huamachuco,Deportivo Garcilaso,dx4dCUkO,rV5EZZh1,1,0,,,,0
+1480190400,Deportivo Garcilaso,Racing Club Huamachuco,rV5EZZh1,dx4dCUkO,0,4,,,,0
+1480267800,Sport Rosario,Kola San Martin,0K3VOgS0,pK3j9xES,4,3,,,,0
+1480273200,Carlos Orellana,Binacional,6T4nAIbM,EDbytE92,1,0,,,,0
+1480276800,Hualgayoc,Tacna Heroica,MZJOv7j5,UuHhoIbE,6,2,,,,0
+1480806000,Sport Rosario,Hualgayoc,0K3VOgS0,MZJOv7j5,1,1,,,,0
+1480813200,Binacional,Racing Club Huamachuco,EDbytE92,dx4dCUkO,0,1,,,,0
+1481151600,Sport Rosario,Binacional,0K3VOgS0,EDbytE92,3,2,,,,0
+1481158800,Hualgayoc,Racing Club Huamachuco,MZJOv7j5,dx4dCUkO,4,1,,,,0
+1481410800,Racing Club Huamachuco,Sport Rosario,dx4dCUkO,0K3VOgS0,1,2,,,,0
+1481418000,Binacional,Hualgayoc,EDbytE92,MZJOv7j5,1,0,,,,0

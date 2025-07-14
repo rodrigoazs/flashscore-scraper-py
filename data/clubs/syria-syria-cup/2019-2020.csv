@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1562590800,Musfat Baniyas,Mork,1,1,Pen,2,1,0
-1562590800,Horriya,Al Shorta,2,4,,,,0
-1562590800,Foutoua,Al Jihad SC,3,0,,,,0
-1562590800,Al-Mukharram,Al Wahda,0,2,,,,0
-1562590800,Al-Ittihad Aleppo,Al Taliya,0,0,Pen,1,0,0
-1562590800,Al Nawaeir,Al-Sahel,1,1,Pen,1,2,0
-1562590800,Al Karamah,Al Majd,0,1,,,,0
-1562590800,Al Jaish,Tishreen,1,1,Pen,2,1,0
-1563458400,Al-Ittihad Aleppo,Al-Sahel,0,0,Pen,0,1,0
-1563458400,Al Wahda,Foutoua,2,0,,,,0
-1563458400,Al Majd,Musfat Baniyas,1,1,Pen,2,1,0
-1563458400,Al Jaish,Al Shorta,2,2,Pen,3,2,0
-1565013600,Al Majd,Al-Sahel,1,1,Pen,2,1,0
-1565013600,Al Jaish,Al Wahda,0,1,,,,0
-1565460000,Al Wahda,Al Majd,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1562590800,Musfat Baniyas,Mork,rRFzdAnI,fB4dX3G8,1,1,Pen,2,1,0
+1562590800,Horriya,Al Shorta,pf2RcIoL,pf2RcIoL,2,4,,,,0
+1562590800,Foutoua,Al Jihad SC,SjuCZONf,rRFzdAnI,3,0,,,,0
+1562590800,Al-Mukharram,Al Wahda,rJ5YDcQg,ID9vdxZP,0,2,,,,0
+1562590800,Al-Ittihad Aleppo,Al Taliya,MH0Vdx1R,pf2RcIoL,0,0,Pen,1,0,0
+1562590800,Al Nawaeir,Al-Sahel,MH0Vdx1R,zgpeJZUE,1,1,Pen,1,2,0
+1562590800,Al Karamah,Al Majd,zgpeJZUE,MH0Vdx1R,0,1,,,,0
+1562590800,Al Jaish,Tishreen,AwNhcAn3,0dNGO5kF,1,1,Pen,2,1,0
+1563458400,Al-Ittihad Aleppo,Al-Sahel,MH0Vdx1R,zgpeJZUE,0,0,Pen,0,1,0
+1563458400,Al Wahda,Foutoua,ID9vdxZP,SjuCZONf,2,0,,,,0
+1563458400,Al Majd,Musfat Baniyas,MH0Vdx1R,rRFzdAnI,1,1,Pen,2,1,0
+1563458400,Al Jaish,Al Shorta,AwNhcAn3,pf2RcIoL,2,2,Pen,3,2,0
+1565013600,Al Majd,Al-Sahel,MH0Vdx1R,zgpeJZUE,1,1,Pen,2,1,0
+1565013600,Al Jaish,Al Wahda,AwNhcAn3,ID9vdxZP,0,1,,,,0
+1565460000,Al Wahda,Al Majd,ID9vdxZP,MH0Vdx1R,3,1,,,,0

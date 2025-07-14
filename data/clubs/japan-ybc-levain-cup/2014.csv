@@ -1,56 +1,56 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1395223200,Tokushima,Albirex Niigata,1,3,,,,0
-1395223200,Shimizu S-Pulse,Vegalta Sendai,4,0,,,,0
-1395223200,Nagoya Grampus,Kofu,0,1,,,,0
-1395223200,Kashiwa Reysol,Urawa Reds,2,1,,,,0
-1395223200,Gamba Osaka,Vissel Kobe,2,0,,,,0
-1395223200,FC Tokyo,Kashima Antlers,3,1,,,,0
-1396432800,Vegalta Sendai,FC Tokyo,1,1,,,,0
-1396432800,Shimizu S-Pulse,Gamba Osaka,1,0,,,,0
-1396432800,Kofu,Kashiwa Reysol,1,1,,,,0
-1396432800,Kashima Antlers,Sagan Tosu,3,1,,,,0
-1396432800,Albirex Niigata,Nagoya Grampus,3,3,,,,0
-1396434600,Urawa Reds,Omiya Ardija,2,1,,,,0
-1397642400,Vissel Kobe,FC Tokyo,0,3,,,,0
-1397642400,Vegalta Sendai,Kashima Antlers,1,2,,,,0
-1397642400,Sagan Tosu,Gamba Osaka,0,2,,,,0
-1397642400,Omiya Ardija,Kashiwa Reysol,1,1,,,,0
-1397642400,Albirex Niigata,Kofu,1,0,,,,0
-1397644200,Urawa Reds,Tokushima,4,3,,,,0
-1400666400,Vissel Kobe,Sagan Tosu,3,2,,,,0
-1400666400,Tokushima,Kofu,1,4,,,,0
-1400666400,Omiya Ardija,Nagoya Grampus,0,2,,,,0
-1400666400,Kashiwa Reysol,Albirex Niigata,3,0,,,,0
-1400666400,Gamba Osaka,Kashima Antlers,2,1,,,,0
-1400666400,FC Tokyo,Shimizu S-Pulse,2,3,,,,0
-1400907600,Shimizu S-Pulse,Vissel Kobe,1,2,,,,0
-1400907600,Kofu,Omiya Ardija,3,0,,,,0
-1400907600,Albirex Niigata,Urawa Reds,0,1,,,,0
-1400911200,Sagan Tosu,Vegalta Sendai,2,0,,,,0
-1400911200,Nagoya Grampus,Tokushima,2,1,,,,0
-1400914800,Gamba Osaka,FC Tokyo,3,1,,,,0
-1401271200,Vegalta Sendai,Gamba Osaka,1,0,,,,0
-1401271200,Tokushima,Omiya Ardija,1,1,,,,0
-1401271200,Sagan Tosu,Shimizu S-Pulse,2,0,,,,0
-1401271200,Nagoya Grampus,Kashiwa Reysol,1,0,,,,0
-1401271200,Kofu,Urawa Reds,1,2,,,,0
-1401271200,Kashima Antlers,Vissel Kobe,0,3,,,,0
-1401602400,Vissel Kobe,Vegalta Sendai,2,1,,,,0
-1401602400,Urawa Reds,Nagoya Grampus,5,2,,,,0
-1401602400,Omiya Ardija,Albirex Niigata,0,0,,,,0
-1401602400,Kashiwa Reysol,Tokushima,4,1,,,,0
-1401602400,Kashima Antlers,Shimizu S-Pulse,3,0,,,,0
-1401602400,FC Tokyo,Sagan Tosu,0,2,,,,0
-1409738400,Vissel Kobe,Gamba Osaka,1,1,,,,0
-1409738400,Sanfrecce Hiroshima,Urawa Reds,0,0,,,,0
-1409738400,Cerezo Osaka,Kawasaki Frontale,1,3,,,,0
-1409740200,Yokohama F. Marinos,Kashiwa Reysol,1,2,,,,0
-1410080400,Urawa Reds,Sanfrecce Hiroshima,2,2,,,,0
-1410080400,Gamba Osaka,Vissel Kobe,3,0,,,,0
-1410084000,Kawasaki Frontale,Cerezo Osaka,2,3,,,,0
-1410084000,Kashiwa Reysol,Yokohama F. Marinos,3,1,,,,0
-1412848800,Sanfrecce Hiroshima,Kashiwa Reysol,2,0,,,,0
-1412848800,Gamba Osaka,Kawasaki Frontale,3,1,,,,0
-1413097200,Kawasaki Frontale,Gamba Osaka,3,2,,,,0
-1413097200,Kashiwa Reysol,Sanfrecce Hiroshima,2,1,,,,0
-1415419500,Sanfrecce Hiroshima,Gamba Osaka,2,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1395223200,Tokushima,Albirex Niigata,j9KqC5rP,SEX2RAcn,1,3,,,,0
+1395223200,Shimizu S-Pulse,Vegalta Sendai,Uc4CHyL0,rkzDkpKt,4,0,,,,0
+1395223200,Nagoya Grampus,Kofu,n9XchkvQ,Uc4CHyL0,0,1,,,,0
+1395223200,Kashiwa Reysol,Urawa Reds,A1NlaOLn,nqhLBCKD,2,1,,,,0
+1395223200,Gamba Osaka,Vissel Kobe,pCXiuGSm,4SU3kZUI,2,0,,,,0
+1395223200,FC Tokyo,Kashima Antlers,YwiAOSxC,4SARfF5k,3,1,,,,0
+1396432800,Vegalta Sendai,FC Tokyo,rkzDkpKt,YwiAOSxC,1,1,,,,0
+1396432800,Shimizu S-Pulse,Gamba Osaka,Uc4CHyL0,pCXiuGSm,1,0,,,,0
+1396432800,Kofu,Kashiwa Reysol,Uc4CHyL0,A1NlaOLn,1,1,,,,0
+1396432800,Kashima Antlers,Sagan Tosu,4SARfF5k,WYtEUtB2,3,1,,,,0
+1396432800,Albirex Niigata,Nagoya Grampus,SEX2RAcn,n9XchkvQ,3,3,,,,0
+1396434600,Urawa Reds,Omiya Ardija,nqhLBCKD,U58J6vtM,2,1,,,,0
+1397642400,Vissel Kobe,FC Tokyo,4SU3kZUI,YwiAOSxC,0,3,,,,0
+1397642400,Vegalta Sendai,Kashima Antlers,rkzDkpKt,4SARfF5k,1,2,,,,0
+1397642400,Sagan Tosu,Gamba Osaka,WYtEUtB2,pCXiuGSm,0,2,,,,0
+1397642400,Omiya Ardija,Kashiwa Reysol,U58J6vtM,A1NlaOLn,1,1,,,,0
+1397642400,Albirex Niigata,Kofu,SEX2RAcn,Uc4CHyL0,1,0,,,,0
+1397644200,Urawa Reds,Tokushima,nqhLBCKD,j9KqC5rP,4,3,,,,0
+1400666400,Vissel Kobe,Sagan Tosu,4SU3kZUI,WYtEUtB2,3,2,,,,0
+1400666400,Tokushima,Kofu,j9KqC5rP,Uc4CHyL0,1,4,,,,0
+1400666400,Omiya Ardija,Nagoya Grampus,U58J6vtM,n9XchkvQ,0,2,,,,0
+1400666400,Kashiwa Reysol,Albirex Niigata,A1NlaOLn,SEX2RAcn,3,0,,,,0
+1400666400,Gamba Osaka,Kashima Antlers,pCXiuGSm,4SARfF5k,2,1,,,,0
+1400666400,FC Tokyo,Shimizu S-Pulse,YwiAOSxC,Uc4CHyL0,2,3,,,,0
+1400907600,Shimizu S-Pulse,Vissel Kobe,Uc4CHyL0,4SU3kZUI,1,2,,,,0
+1400907600,Kofu,Omiya Ardija,Uc4CHyL0,U58J6vtM,3,0,,,,0
+1400907600,Albirex Niigata,Urawa Reds,SEX2RAcn,nqhLBCKD,0,1,,,,0
+1400911200,Sagan Tosu,Vegalta Sendai,WYtEUtB2,rkzDkpKt,2,0,,,,0
+1400911200,Nagoya Grampus,Tokushima,n9XchkvQ,j9KqC5rP,2,1,,,,0
+1400914800,Gamba Osaka,FC Tokyo,pCXiuGSm,YwiAOSxC,3,1,,,,0
+1401271200,Vegalta Sendai,Gamba Osaka,rkzDkpKt,pCXiuGSm,1,0,,,,0
+1401271200,Tokushima,Omiya Ardija,j9KqC5rP,U58J6vtM,1,1,,,,0
+1401271200,Sagan Tosu,Shimizu S-Pulse,WYtEUtB2,Uc4CHyL0,2,0,,,,0
+1401271200,Nagoya Grampus,Kashiwa Reysol,n9XchkvQ,A1NlaOLn,1,0,,,,0
+1401271200,Kofu,Urawa Reds,Uc4CHyL0,nqhLBCKD,1,2,,,,0
+1401271200,Kashima Antlers,Vissel Kobe,4SARfF5k,4SU3kZUI,0,3,,,,0
+1401602400,Vissel Kobe,Vegalta Sendai,4SU3kZUI,rkzDkpKt,2,1,,,,0
+1401602400,Urawa Reds,Nagoya Grampus,nqhLBCKD,n9XchkvQ,5,2,,,,0
+1401602400,Omiya Ardija,Albirex Niigata,U58J6vtM,SEX2RAcn,0,0,,,,0
+1401602400,Kashiwa Reysol,Tokushima,A1NlaOLn,j9KqC5rP,4,1,,,,0
+1401602400,Kashima Antlers,Shimizu S-Pulse,4SARfF5k,Uc4CHyL0,3,0,,,,0
+1401602400,FC Tokyo,Sagan Tosu,YwiAOSxC,WYtEUtB2,0,2,,,,0
+1409738400,Vissel Kobe,Gamba Osaka,4SU3kZUI,pCXiuGSm,1,1,,,,0
+1409738400,Sanfrecce Hiroshima,Urawa Reds,pSNkZ1lS,nqhLBCKD,0,0,,,,0
+1409738400,Cerezo Osaka,Kawasaki Frontale,8l3GGez7,j758IH5f,1,3,,,,0
+1409740200,Yokohama F. Marinos,Kashiwa Reysol,plFsSE3r,A1NlaOLn,1,2,,,,0
+1410080400,Urawa Reds,Sanfrecce Hiroshima,nqhLBCKD,pSNkZ1lS,2,2,,,,0
+1410080400,Gamba Osaka,Vissel Kobe,pCXiuGSm,4SU3kZUI,3,0,,,,0
+1410084000,Kawasaki Frontale,Cerezo Osaka,j758IH5f,8l3GGez7,2,3,,,,0
+1410084000,Kashiwa Reysol,Yokohama F. Marinos,A1NlaOLn,plFsSE3r,3,1,,,,0
+1412848800,Sanfrecce Hiroshima,Kashiwa Reysol,pSNkZ1lS,A1NlaOLn,2,0,,,,0
+1412848800,Gamba Osaka,Kawasaki Frontale,pCXiuGSm,j758IH5f,3,1,,,,0
+1413097200,Kawasaki Frontale,Gamba Osaka,j758IH5f,pCXiuGSm,3,2,,,,0
+1413097200,Kashiwa Reysol,Sanfrecce Hiroshima,A1NlaOLn,pSNkZ1lS,2,1,,,,0
+1415419500,Sanfrecce Hiroshima,Gamba Osaka,pSNkZ1lS,pCXiuGSm,2,3,,,,0

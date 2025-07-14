@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1712075400,Wagadu,Unique Global,3,0,,,,0
-1712075400,Elite United,BST Galaxy,1,0,,,,0
-1712075400,Brikama U.,Medina United,3,3,Pen,3,4,0
-1712161800,WAA Banjul,Samger,2,1,,,,0
-1712161800,Team Rhino,RS Tallinding,2,1,,,,0
-1712161800,Steve Biko,Falcons,0,0,Pen,1,0,0
-1712161800,Marimoo,BK Milan,1,1,Pen,2,1,0
-1712161800,Dutch Lions,TMT,0,0,Pen,0,1,0
-1716568200,WAA Banjul,Medina United,1,1,Pen,1,2,0
-1716568200,TMT,Wagadu,2,0,,,,0
-1716568200,Marimoo,Team Rhino,0,0,Pen,0,1,0
-1716568200,Elite United,Steve Biko,0,2,,,,0
-1718037000,TMT,Team Rhino,0,0,Pen,1,0,0
-1718037000,Medina United,Steve Biko,1,0,,,,0
-1720801800,Medina United,TMT,0,0,Pen,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1712075400,Wagadu,Unique Global,IXo3Zrye,l0vDLyU9,3,0,,,,0
+1712075400,Elite United,BST Galaxy,G28qd2Oo,EewSMOUc,1,0,,,,0
+1712075400,Brikama U.,Medina United,WS7RUCJt,fetBjBVS,3,3,Pen,3,4,0
+1712161800,WAA Banjul,Samger,2XJ9elpl,UJLaZhBP,2,1,,,,0
+1712161800,Team Rhino,RS Tallinding,Cldh2fAI,O8FOiUpn,2,1,,,,0
+1712161800,Steve Biko,Falcons,WS7RUCJt,zR5jQfj5,0,0,Pen,1,0,0
+1712161800,Marimoo,BK Milan,SIJcT8Sb,z5EeSyhH,1,1,Pen,2,1,0
+1712161800,Dutch Lions,TMT,IDLnGJof,WS18gxOP,0,0,Pen,0,1,0
+1716568200,WAA Banjul,Medina United,2XJ9elpl,fetBjBVS,1,1,Pen,1,2,0
+1716568200,TMT,Wagadu,WS18gxOP,IXo3Zrye,2,0,,,,0
+1716568200,Marimoo,Team Rhino,SIJcT8Sb,Cldh2fAI,0,0,Pen,0,1,0
+1716568200,Elite United,Steve Biko,G28qd2Oo,WS7RUCJt,0,2,,,,0
+1718037000,TMT,Team Rhino,WS18gxOP,Cldh2fAI,0,0,Pen,1,0,0
+1718037000,Medina United,Steve Biko,fetBjBVS,WS7RUCJt,1,0,,,,0
+1720801800,Medina United,TMT,fetBjBVS,WS18gxOP,0,0,Pen,1,0,0

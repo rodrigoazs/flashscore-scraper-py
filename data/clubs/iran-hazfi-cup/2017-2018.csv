@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1504790100,Damash Gilan,Siraf Kangan,1,0,,,,0
-1504791900,Shahr Khodrou,Tractor,1,2,,,,0
-1504793700,Sepahan,Sanat Naft,0,1,,,,0
-1504798200,Esteghlal Khuzestan,Miad Moghan Ardabil,5,0,,,,0
-1504873800,Niroye Zamini,Gol Abrisham Tehran,0,4,,,,0
-1504876500,Gol Gohar,Esteghlal F.C.,1,2,,,,0
-1504880100,Zob Ahan,Fajr Sepasi,1,1,Pen,1,2,0
-1504880100,Gol Reyhan Alborz,Saipa,2,1,,,,0
-1504885800,Nassaji Mazandaran,Pars Janoobi Jam,0,0,Pen,1,0,0
-1504958400,Sepidrood Rasht,Malavan,1,1,AET,1,3,0
-1504959300,Rah Ahan,Khooneh Be Khooneh,1,2,,,,0
-1504964400,Meshki Pooshan,Bargh,3,1,,,,0
-1504965600,Baderan Tehran,Paykan,3,1,,,,0
-1504971000,Foolad,Iranjavan,0,1,,,,0
-1507125000,Naft M.I.S,Gostaresh,0,1,,,,0
-1508505300,Esteghlal F.C.,Nassaji Mazandaran,2,1,,,,0
-1508591700,Persepolis,Naft Tehran,2,0,,,,0
-1509017400,Iranjavan,Gol Abrisham Tehran,2,1,,,,0
-1509024600,Tractor,Fajr Sepasi,2,2,AET,5,2,0
-1509030900,Sanat Naft,Damash Gilan,1,1,AET,2,1,0
-1509100200,Malavan,Esteghlal Khuzestan,0,2,,,,0
-1509100200,Khooneh Be Khooneh,Meshki Pooshan,0,0,Pen,1,0,0
-1509102000,Gostaresh,Gol Reyhan Alborz,0,0,Pen,1,0,0
-1513341900,Baderan Tehran,Persepolis,1,2,,,,0
-1513592100,Khooneh Be Khooneh,Gostaresh,2,0,,,,0
-1513681200,Persepolis,Sanat Naft,1,1,Pen,1,2,0
-1513681200,Esteghlal Khuzestan,Tractor,0,0,Pen,1,0,0
-1513767600,Esteghlal F.C.,Iranjavan,3,0,,,,0
-1517310900,Sanat Naft,Esteghlal F.C.,1,2,,,,0
-1520595000,Esteghlal Khuzestan,Khooneh Be Khooneh,1,1,AET,1,3,0
-1525358700,Khooneh Be Khooneh,Esteghlal F.C.,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1504790100,Damash Gilan,Siraf Kangan,tr99Hve4,2qM7WoHF,1,0,,,,0
+1504791900,Shahr Khodrou,Tractor,WKTNNYeI,YLLRGqLF,1,2,,,,0
+1504793700,Sepahan,Sanat Naft,bTzLAEkQ,21HUsCsM,0,1,,,,0
+1504798200,Esteghlal Khuzestan,Miad Moghan Ardabil,dKYCxVEK,,5,0,,,,0
+1504873800,Niroye Zamini,Gol Abrisham Tehran,Kb3sC1m8,rmciwEe5,0,4,,,,0
+1504876500,Gol Gohar,Esteghlal F.C.,C4xHnkgm,Sdd6AGnq,1,2,,,,0
+1504880100,Zob Ahan,Fajr Sepasi,WCTWdLSD,WfOmb7K6,1,1,Pen,1,2,0
+1504880100,Gol Reyhan Alborz,Saipa,IittCzZ9,KjyPABje,2,1,,,,0
+1504885800,Nassaji Mazandaran,Pars Janoobi Jam,pnfsJZrF,zuNMbFy3,0,0,Pen,1,0,0
+1504958400,Sepidrood Rasht,Malavan,zuNMbFy3,EJBKv3VB,1,1,AET,1,3,0
+1504959300,Rah Ahan,Khooneh Be Khooneh,bV1dJy3I,WKTNNYeI,1,2,,,,0
+1504964400,Meshki Pooshan,Bargh,UD4xtNqD,KjyPABje,3,1,,,,0
+1504965600,Baderan Tehran,Paykan,zuNMbFy3,O0JEb7ZB,3,1,,,,0
+1504971000,Foolad,Iranjavan,0YznNYwc,rTxLBiyk,0,1,,,,0
+1507125000,Naft M.I.S,Gostaresh,ABSRMhBO,pnfsJZrF,0,1,,,,0
+1508505300,Esteghlal F.C.,Nassaji Mazandaran,Sdd6AGnq,pnfsJZrF,2,1,,,,0
+1508591700,Persepolis,Naft Tehran,Oli0orYQ,tQoe3auG,2,0,,,,0
+1509017400,Iranjavan,Gol Abrisham Tehran,rTxLBiyk,rmciwEe5,2,1,,,,0
+1509024600,Tractor,Fajr Sepasi,YLLRGqLF,WfOmb7K6,2,2,AET,5,2,0
+1509030900,Sanat Naft,Damash Gilan,21HUsCsM,tr99Hve4,1,1,AET,2,1,0
+1509100200,Malavan,Esteghlal Khuzestan,EJBKv3VB,dKYCxVEK,0,2,,,,0
+1509100200,Khooneh Be Khooneh,Meshki Pooshan,WKTNNYeI,UD4xtNqD,0,0,Pen,1,0,0
+1509102000,Gostaresh,Gol Reyhan Alborz,pnfsJZrF,IittCzZ9,0,0,Pen,1,0,0
+1513341900,Baderan Tehran,Persepolis,zuNMbFy3,Oli0orYQ,1,2,,,,0
+1513592100,Khooneh Be Khooneh,Gostaresh,WKTNNYeI,pnfsJZrF,2,0,,,,0
+1513681200,Persepolis,Sanat Naft,Oli0orYQ,21HUsCsM,1,1,Pen,1,2,0
+1513681200,Esteghlal Khuzestan,Tractor,dKYCxVEK,YLLRGqLF,0,0,Pen,1,0,0
+1513767600,Esteghlal F.C.,Iranjavan,Sdd6AGnq,rTxLBiyk,3,0,,,,0
+1517310900,Sanat Naft,Esteghlal F.C.,21HUsCsM,Sdd6AGnq,1,2,,,,0
+1520595000,Esteghlal Khuzestan,Khooneh Be Khooneh,dKYCxVEK,WKTNNYeI,1,1,AET,1,3,0
+1525358700,Khooneh Be Khooneh,Esteghlal F.C.,WKTNNYeI,Sdd6AGnq,0,1,,,,0

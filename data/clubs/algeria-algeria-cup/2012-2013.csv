@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1355493600,Zoubiria,Arzew,0,3,,,,0
-1355493600,Widad Adabi de Boufarik,Mlila,1,1,Pen,1,2,0
-1355493600,US Chaouia,MC Alger,1,1,Pen,1,2,0
-1355493600,Touggourt,Ain Turck,1,0,,,,0
-1355493600,Tebessa,CA Batna,0,2,,,,0
-1355493600,Skikda,Oran,1,4,,,,0
-1355493600,Sig,Robah,1,1,AET,2,1,0
-1355493600,Paradou,ES Setif,2,3,,,,0
-1355493600,MSP Batna,Tlemcen,0,1,,,,0
-1355493600,Mouzaia,Bouakeul,2,0,,,,0
-1355493600,Khroub,Mostaganem,1,0,,,,0
-1355493600,Kabylie,Reghaia,1,1,AET,3,1,0
-1355493600,Hamra Annaba,Mazouna,1,0,,,,0
-1355493600,Hadjar,JSM Tiaret,3,1,,,,0
-1355493600,Guir Abadla,Rouisset,0,5,,,,0
-1355493600,Eulma,GC Mascara,2,0,,,,0
-1355493600,El Kerma,Hussein Dey,0,5,,,,0
-1355493600,CR Belouizdad,Debdaba,5,0,,,,0
-1355493600,Cheraga,Hamma Loulou,1,0,,,,0
-1355493600,Bouira,ASO Chlef,0,6,,,,0
-1355493600,Bougtob,Harrach,0,1,,,,0
-1355493600,Bordj Bou Arreridj,Msila,2,1,,,,0
-1355493600,Bel Abbes,Doucen,1,1,AET,4,1,0
-1355493600,Bejaia,ASM Oran,2,1,,,,0
-1355493600,Azzaba,Tadamoun Souf,5,1,,,,0
-1355493600,Annaba,Constantine,0,3,,,,0
-1355493600,Ain Fakroun,RC Oued Rhiou,1,0,,,,0
-1355493600,Ain Beida,Achir,1,0,,,,0
-1355576400,USM Blida,Medea,2,1,,,,0
-1355576400,Saoura,USM Alger,0,1,,,,0
-1355576400,Merouana,Lakhdaria,1,1,AET,2,1,0
-1355576400,Dar El Beida,MO Bejaia,0,1,,,,0
-1356703200,Tlemcen,Azzaba,2,1,,,,0
-1356703200,Sig,USM Alger,0,5,,,,0
-1356703200,Rouisset,ASO Chlef,1,1,Pen,2,3,0
-1356703200,Oran,Hadjar,4,0,,,,0
-1356703200,Mlila,Khroub,0,0,Pen,1,0,0
-1356703200,Hussein Dey,Merouana,1,0,,,,0
-1356703200,ES Setif,Touggourt,2,1,,,,0
-1356703200,Constantine,Bel Abbes,5,1,,,,0
-1356703200,Cheraga,Hamra Annaba,1,0,,,,0
-1356703200,CA Batna,MO Bejaia,0,1,,,,0
-1356703200,Arzew,Ain Fakroun,0,3,,,,0
-1356703200,Ain Beida,Mouzaia,5,1,,,,0
-1356706800,MC Alger,Kabylie,0,0,Pen,1,0,0
-1356786000,USM Blida,Bordj Bou Arreridj,2,0,,,,0
-1356786000,Harrach,Eulma,2,2,AET,4,2,0
-1356786000,CR Belouizdad,Bejaia,1,0,,,,0
-1362146400,Tlemcen,Mlila,1,1,Pen,2,1,0
-1362146400,MC Alger,Ain Beida,3,0,,,,0
-1362146700,Oran,ASO Chlef,2,0,,,,0
-1362229200,Hussein Dey,MO Bejaia,1,1,AET,2,1,0
-1362229200,Constantine,USM Blida,3,1,,,,0
-1362232800,Cheraga,ES Setif,0,3,,,,0
-1362488400,Ain Fakroun,CR Belouizdad,0,1,,,,0
-1362495600,USM Alger,Harrach,1,0,,,,0
-1364486400,USM Alger,Hussein Dey,2,1,,,,0
-1364572800,MC Alger,Constantine,3,0,,,,0
-1364661900,ES Setif,CR Belouizdad,2,1,,,,0
-1364738400,Oran,Tlemcen,3,1,,,,0
-1365782400,MC Alger,ES Setif,3,2,,,,0
-1365868800,Oran,USM Alger,0,1,,,,0
-1367420400,MC Alger,USM Alger,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1355493600,Zoubiria,Arzew,,nom0tPkO,0,3,,,,0
+1355493600,Widad Adabi de Boufarik,Mlila,0dP9p00D,pACXtEzT,1,1,Pen,1,2,0
+1355493600,US Chaouia,MC Alger,0n2iZoEQ,Kt2RJAvf,1,1,Pen,1,2,0
+1355493600,Touggourt,Ain Turck,UT6zo3wg,,1,0,,,,0
+1355493600,Tebessa,CA Batna,GGFNG7Wu,UHnvkyj2,0,2,,,,0
+1355493600,Skikda,Oran,GAAtWHSL,WEM4tWjn,1,4,,,,0
+1355493600,Sig,Robah,,,1,1,AET,2,1,0
+1355493600,Paradou,ES Setif,fmCzuNKb,CEDetKma,2,3,,,,0
+1355493600,MSP Batna,Tlemcen,E1SJohb7,tIknCwDS,0,1,,,,0
+1355493600,Mouzaia,Bouakeul,,W2S6SD78,2,0,,,,0
+1355493600,Khroub,Mostaganem,UHnvkyj2,pScuziwn,1,0,,,,0
+1355493600,Kabylie,Reghaia,KrkUCdS2,Aw1EWFgd,1,1,AET,3,1,0
+1355493600,Hamra Annaba,Mazouna,lO2tL3tr,,1,0,,,,0
+1355493600,Hadjar,JSM Tiaret,fTcaJjCG,rDGhDhah,3,1,,,,0
+1355493600,Guir Abadla,Rouisset,rwWuJ4Mm,dpETTQtD,0,5,,,,0
+1355493600,Eulma,GC Mascara,dpdc5nRB,YkNDnKt6,2,0,,,,0
+1355493600,El Kerma,Hussein Dey,fTcaJjCG,Igs7RW3U,0,5,,,,0
+1355493600,CR Belouizdad,Debdaba,vqICnGZu,,5,0,,,,0
+1355493600,Cheraga,Hamma Loulou,pvUqU1oR,,1,0,,,,0
+1355493600,Bouira,ASO Chlef,,zgzLiH7t,0,6,,,,0
+1355493600,Bougtob,Harrach,xKBxXcDF,nom0tPkO,0,1,,,,0
+1355493600,Bordj Bou Arreridj,Msila,MVFGedhK,42aEOwr5,2,1,,,,0
+1355493600,Bel Abbes,Doucen,ruHCdxwE,,1,1,AET,4,1,0
+1355493600,Bejaia,ASM Oran,E1SJohb7,xKBxXcDF,2,1,,,,0
+1355493600,Azzaba,Tadamoun Souf,,ngBQO0Aq,5,1,,,,0
+1355493600,Annaba,Constantine,xn0iLCs4,z564LBUI,0,3,,,,0
+1355493600,Ain Fakroun,RC Oued Rhiou,zL0Qxgws,rq9mp0il,1,0,,,,0
+1355493600,Ain Beida,Achir,,,1,0,,,,0
+1355576400,USM Blida,Medea,ldMjN2Yr,6yayyXNu,2,1,,,,0
+1355576400,Saoura,USM Alger,KADe4QxP,dYgRyyJN,0,1,,,,0
+1355576400,Merouana,Lakhdaria,SdGlxyZ1,fXJ9nI6i,1,1,AET,2,1,0
+1355576400,Dar El Beida,MO Bejaia,d0WRNYTj,zL0Qxgws,0,1,,,,0
+1356703200,Tlemcen,Azzaba,tIknCwDS,,2,1,,,,0
+1356703200,Sig,USM Alger,,dYgRyyJN,0,5,,,,0
+1356703200,Rouisset,ASO Chlef,dpETTQtD,zgzLiH7t,1,1,Pen,2,3,0
+1356703200,Oran,Hadjar,WEM4tWjn,fTcaJjCG,4,0,,,,0
+1356703200,Mlila,Khroub,pACXtEzT,UHnvkyj2,0,0,Pen,1,0,0
+1356703200,Hussein Dey,Merouana,Igs7RW3U,SdGlxyZ1,1,0,,,,0
+1356703200,ES Setif,Touggourt,CEDetKma,UT6zo3wg,2,1,,,,0
+1356703200,Constantine,Bel Abbes,z564LBUI,ruHCdxwE,5,1,,,,0
+1356703200,Cheraga,Hamra Annaba,pvUqU1oR,lO2tL3tr,1,0,,,,0
+1356703200,CA Batna,MO Bejaia,UHnvkyj2,zL0Qxgws,0,1,,,,0
+1356703200,Arzew,Ain Fakroun,nom0tPkO,zL0Qxgws,0,3,,,,0
+1356703200,Ain Beida,Mouzaia,,,5,1,,,,0
+1356706800,MC Alger,Kabylie,Kt2RJAvf,KrkUCdS2,0,0,Pen,1,0,0
+1356786000,USM Blida,Bordj Bou Arreridj,ldMjN2Yr,MVFGedhK,2,0,,,,0
+1356786000,Harrach,Eulma,nom0tPkO,dpdc5nRB,2,2,AET,4,2,0
+1356786000,CR Belouizdad,Bejaia,vqICnGZu,E1SJohb7,1,0,,,,0
+1362146400,Tlemcen,Mlila,tIknCwDS,pACXtEzT,1,1,Pen,2,1,0
+1362146400,MC Alger,Ain Beida,Kt2RJAvf,,3,0,,,,0
+1362146700,Oran,ASO Chlef,WEM4tWjn,zgzLiH7t,2,0,,,,0
+1362229200,Hussein Dey,MO Bejaia,Igs7RW3U,zL0Qxgws,1,1,AET,2,1,0
+1362229200,Constantine,USM Blida,z564LBUI,ldMjN2Yr,3,1,,,,0
+1362232800,Cheraga,ES Setif,pvUqU1oR,CEDetKma,0,3,,,,0
+1362488400,Ain Fakroun,CR Belouizdad,zL0Qxgws,vqICnGZu,0,1,,,,0
+1362495600,USM Alger,Harrach,dYgRyyJN,nom0tPkO,1,0,,,,0
+1364486400,USM Alger,Hussein Dey,dYgRyyJN,Igs7RW3U,2,1,,,,0
+1364572800,MC Alger,Constantine,Kt2RJAvf,z564LBUI,3,0,,,,0
+1364661900,ES Setif,CR Belouizdad,CEDetKma,vqICnGZu,2,1,,,,0
+1364738400,Oran,Tlemcen,WEM4tWjn,tIknCwDS,3,1,,,,0
+1365782400,MC Alger,ES Setif,Kt2RJAvf,CEDetKma,3,2,,,,0
+1365868800,Oran,USM Alger,WEM4tWjn,dYgRyyJN,0,1,,,,0
+1367420400,MC Alger,USM Alger,Kt2RJAvf,dYgRyyJN,0,1,,,,0

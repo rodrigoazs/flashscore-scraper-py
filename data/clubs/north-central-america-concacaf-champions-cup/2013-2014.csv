@@ -1,63 +1,63 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1375833600,Toluca (Mex),Morvant Caledonia Utd (Tri),3,1,,,,0
-1375840800,Luis Angel Firpo (Sal),Club Tijuana (Mex),0,0,,,,0
-1375920000,CF Montreal (Can),San Jose Earthquakes (Usa),1,0,,,,0
-1375927200,Miguelito (Pan),Club America (Mex),0,1,,,,0
-1375927200,Esteli (Nic),Sporting Kansas City (Usa),0,2,,,,0
-1376006400,Valencia Leogane (Hai),Herediano (Cos),1,6,,,,0
-1376013600,Metapan (Sal),Cartagines (Cos),2,4,,,,0
-1376013600,Arabe Unido (Pan),W Connection (Tri),3,1,,,,0
-1377043200,W Connection (Tri),Houston Dynamo (Usa),0,0,,,,0
-1377050400,Victoria (Hon),Club Tijuana (Mex),2,3,,,,0
-1377050400,Los Angeles Galaxy (Usa),Cartagines (Cos),2,0,,,,0
-1377136800,Heredia (Gtm),CF Montreal (Can),1,0,,,,0
-1377136800,Esteli (Nic),Olimpia (Hon),0,1,,,,0
-1377216000,Cruz Azul (Mex),Herediano (Cos),3,0,,,,0
-1377223200,Miguelito (Pan),Alajuelense (Cos),1,0,,,,0
-1377223200,Comunicaciones (Gtm),Toluca (Mex),1,2,,,,0
-1377648000,Houston Dynamo (Usa),Arabe Unido (Pan),2,1,,,,0
-1377655200,Olimpia (Hon),Sporting Kansas City (Usa),0,2,,,,0
-1377655200,Cartagines (Cos),Metapan (Sal),0,0,,,,0
-1377734400,Valencia Leogane (Hai),Cruz Azul (Mex),1,2,,,,0
-1377741600,Heredia (Gtm),San Jose Earthquakes (Usa),1,0,,,,0
-1377741600,Club Tijuana (Mex),Luis Angel Firpo (Sal),1,0,,,,0
-1377820800,Morvant Caledonia Utd (Tri),Comunicaciones (Gtm),0,3,,,,0
-1377828000,Alajuelense (Cos),Club America (Mex),1,0,,,,0
-1379462400,Sporting Kansas City (Usa),Esteli (Nic),1,1,,,,0
-1379469600,San Jose Earthquakes (Usa),CF Montreal (Can),3,0,,,,0
-1379469600,Club America (Mex),Miguelito (Pan),3,0,,,,0
-1379548800,Morvant Caledonia Utd (Tri),Toluca (Mex),1,5,,,,0
-1379556000,Los Angeles Galaxy (Usa),Metapan (Sal),1,0,,,,0
-1379556000,Herediano (Cos),Valencia Leogane (Hai),4,2,,,,0
-1379635200,W Connection (Tri),Arabe Unido (Pan),0,2,,,,0
-1379642400,Luis Angel Firpo (Sal),Victoria (Hon),2,1,,,,0
-1380067200,Cruz Azul (Mex),Valencia Leogane (Hai),3,0,,,,0
-1380067200,CF Montreal (Can),Heredia (Gtm),2,0,,,,0
-1380074400,Olimpia (Hon),Esteli (Nic),1,0,,,,0
-1380153600,Houston Dynamo (Usa),W Connection (Tri),2,0,,,,0
-1380160800,Comunicaciones (Gtm),Morvant Caledonia Utd (Tri),2,0,,,,0
-1380160800,Cartagines (Cos),Los Angeles Galaxy (Usa),0,3,,,,0
-1380247200,Club Tijuana (Mex),Victoria (Hon),6,0,,,,0
-1380247200,Alajuelense (Cos),Miguelito (Pan),2,0,,,,0
-1382486400,Club America (Mex),Alajuelense (Cos),0,1,,,,0
-1382493600,Herediano (Cos),Cruz Azul (Mex),1,2,,,,0
-1382572800,Toluca (Mex),Comunicaciones (Gtm),5,1,,,,0
-1382572800,Sporting Kansas City (Usa),Olimpia (Hon),0,0,,,,0
-1382580000,Victoria (Hon),Luis Angel Firpo (Sal),1,4,,,,0
-1382580000,San Jose Earthquakes (Usa),Heredia (Gtm),1,0,,,,0
-1382659200,Arabe Unido (Pan),Houston Dynamo (Usa),1,0,,,,0
-1382666400,Metapan (Sal),Los Angeles Galaxy (Usa),4,0,,,,0
-1394503200,Alajuelense (Cos),Arabe Unido (Pan),0,0,,,,0
-1394589600,San Jose Earthquakes (Usa),Toluca (Mex),1,1,,,,0
-1394668800,Sporting Kansas City (Usa),Cruz Azul (Mex),1,0,,,,0
-1394676000,Los Angeles Galaxy (Usa),Club Tijuana (Mex),1,0,,,,0
-1395194400,Club Tijuana (Mex),Los Angeles Galaxy (Usa),4,2,,,,0
-1395273600,Toluca (Mex),San Jose Earthquakes (Usa),1,1,Pen,2,1,0
-1395280800,Cruz Azul (Mex),Sporting Kansas City (Usa),5,1,,,,0
-1395367200,Arabe Unido (Pan),Alajuelense (Cos),0,2,,,,0
-1396396800,Alajuelense (Cos),Toluca (Mex),0,1,,,,0
-1396404000,Club Tijuana (Mex),Cruz Azul (Mex),1,0,,,,0
-1397001600,Toluca (Mex),Alajuelense (Cos),2,0,,,,0
-1397088000,Cruz Azul (Mex),Club Tijuana (Mex),2,0,,,,0
-1397606400,Cruz Azul (Mex),Toluca (Mex),0,0,,,,0
-1398297600,Toluca (Mex),Cruz Azul (Mex),1,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1375833600,Toluca (Mex),Morvant Caledonia Utd (Tri),0pHVJYjM,zFs1klv8,3,1,,,,0
+1375840800,Luis Angel Firpo (Sal),Club Tijuana (Mex),xICJ1EZ7,tW0QAqsF,0,0,,,,0
+1375920000,CF Montreal (Can),San Jose Earthquakes (Usa),APghxIAJ,GpqxHjf5,1,0,,,,0
+1375927200,Miguelito (Pan),Club America (Mex),xlqSvAq8,OGkmEu0T,0,1,,,,0
+1375927200,Esteli (Nic),Sporting Kansas City (Usa),8vfD2YGb,88w2wUnG,0,2,,,,0
+1376006400,Valencia Leogane (Hai),Herediano (Cos),rqaYISMl,zJ9gvDHG,1,6,,,,0
+1376013600,Metapan (Sal),Cartagines (Cos),IJKf4CSg,YB0DoGZt,2,4,,,,0
+1376013600,Arabe Unido (Pan),W Connection (Tri),IJKf4CSg,zePXmSvq,3,1,,,,0
+1377043200,W Connection (Tri),Houston Dynamo (Usa),zePXmSvq,YLT3ZeZm,0,0,,,,0
+1377050400,Victoria (Hon),Club Tijuana (Mex),Y5eozcI6,tW0QAqsF,2,3,,,,0
+1377050400,Los Angeles Galaxy (Usa),Cartagines (Cos),nqhLBCKD,YB0DoGZt,2,0,,,,0
+1377136800,Heredia (Gtm),CF Montreal (Can),vHLd7ujs,APghxIAJ,1,0,,,,0
+1377136800,Esteli (Nic),Olimpia (Hon),8vfD2YGb,WvziCH8E,0,1,,,,0
+1377216000,Cruz Azul (Mex),Herediano (Cos),nqhLBCKD,zJ9gvDHG,3,0,,,,0
+1377223200,Miguelito (Pan),Alajuelense (Cos),xlqSvAq8,4v3Y4ReF,1,0,,,,0
+1377223200,Comunicaciones (Gtm),Toluca (Mex),O2l6wJsK,0pHVJYjM,1,2,,,,0
+1377648000,Houston Dynamo (Usa),Arabe Unido (Pan),YLT3ZeZm,IJKf4CSg,2,1,,,,0
+1377655200,Olimpia (Hon),Sporting Kansas City (Usa),WvziCH8E,88w2wUnG,0,2,,,,0
+1377655200,Cartagines (Cos),Metapan (Sal),YB0DoGZt,IJKf4CSg,0,0,,,,0
+1377734400,Valencia Leogane (Hai),Cruz Azul (Mex),rqaYISMl,nqhLBCKD,1,2,,,,0
+1377741600,Heredia (Gtm),San Jose Earthquakes (Usa),vHLd7ujs,GpqxHjf5,1,0,,,,0
+1377741600,Club Tijuana (Mex),Luis Angel Firpo (Sal),tW0QAqsF,xICJ1EZ7,1,0,,,,0
+1377820800,Morvant Caledonia Utd (Tri),Comunicaciones (Gtm),zFs1klv8,O2l6wJsK,0,3,,,,0
+1377828000,Alajuelense (Cos),Club America (Mex),4v3Y4ReF,OGkmEu0T,1,0,,,,0
+1379462400,Sporting Kansas City (Usa),Esteli (Nic),88w2wUnG,8vfD2YGb,1,1,,,,0
+1379469600,San Jose Earthquakes (Usa),CF Montreal (Can),GpqxHjf5,APghxIAJ,3,0,,,,0
+1379469600,Club America (Mex),Miguelito (Pan),OGkmEu0T,xlqSvAq8,3,0,,,,0
+1379548800,Morvant Caledonia Utd (Tri),Toluca (Mex),zFs1klv8,0pHVJYjM,1,5,,,,0
+1379556000,Los Angeles Galaxy (Usa),Metapan (Sal),nqhLBCKD,IJKf4CSg,1,0,,,,0
+1379556000,Herediano (Cos),Valencia Leogane (Hai),zJ9gvDHG,rqaYISMl,4,2,,,,0
+1379635200,W Connection (Tri),Arabe Unido (Pan),zePXmSvq,IJKf4CSg,0,2,,,,0
+1379642400,Luis Angel Firpo (Sal),Victoria (Hon),xICJ1EZ7,Y5eozcI6,2,1,,,,0
+1380067200,Cruz Azul (Mex),Valencia Leogane (Hai),nqhLBCKD,rqaYISMl,3,0,,,,0
+1380067200,CF Montreal (Can),Heredia (Gtm),APghxIAJ,vHLd7ujs,2,0,,,,0
+1380074400,Olimpia (Hon),Esteli (Nic),WvziCH8E,8vfD2YGb,1,0,,,,0
+1380153600,Houston Dynamo (Usa),W Connection (Tri),YLT3ZeZm,zePXmSvq,2,0,,,,0
+1380160800,Comunicaciones (Gtm),Morvant Caledonia Utd (Tri),O2l6wJsK,zFs1klv8,2,0,,,,0
+1380160800,Cartagines (Cos),Los Angeles Galaxy (Usa),YB0DoGZt,nqhLBCKD,0,3,,,,0
+1380247200,Club Tijuana (Mex),Victoria (Hon),tW0QAqsF,Y5eozcI6,6,0,,,,0
+1380247200,Alajuelense (Cos),Miguelito (Pan),4v3Y4ReF,xlqSvAq8,2,0,,,,0
+1382486400,Club America (Mex),Alajuelense (Cos),OGkmEu0T,4v3Y4ReF,0,1,,,,0
+1382493600,Herediano (Cos),Cruz Azul (Mex),zJ9gvDHG,nqhLBCKD,1,2,,,,0
+1382572800,Toluca (Mex),Comunicaciones (Gtm),0pHVJYjM,O2l6wJsK,5,1,,,,0
+1382572800,Sporting Kansas City (Usa),Olimpia (Hon),88w2wUnG,WvziCH8E,0,0,,,,0
+1382580000,Victoria (Hon),Luis Angel Firpo (Sal),Y5eozcI6,xICJ1EZ7,1,4,,,,0
+1382580000,San Jose Earthquakes (Usa),Heredia (Gtm),GpqxHjf5,vHLd7ujs,1,0,,,,0
+1382659200,Arabe Unido (Pan),Houston Dynamo (Usa),IJKf4CSg,YLT3ZeZm,1,0,,,,0
+1382666400,Metapan (Sal),Los Angeles Galaxy (Usa),IJKf4CSg,nqhLBCKD,4,0,,,,0
+1394503200,Alajuelense (Cos),Arabe Unido (Pan),4v3Y4ReF,IJKf4CSg,0,0,,,,0
+1394589600,San Jose Earthquakes (Usa),Toluca (Mex),GpqxHjf5,0pHVJYjM,1,1,,,,0
+1394668800,Sporting Kansas City (Usa),Cruz Azul (Mex),88w2wUnG,nqhLBCKD,1,0,,,,0
+1394676000,Los Angeles Galaxy (Usa),Club Tijuana (Mex),nqhLBCKD,tW0QAqsF,1,0,,,,0
+1395194400,Club Tijuana (Mex),Los Angeles Galaxy (Usa),tW0QAqsF,nqhLBCKD,4,2,,,,0
+1395273600,Toluca (Mex),San Jose Earthquakes (Usa),0pHVJYjM,GpqxHjf5,1,1,Pen,2,1,0
+1395280800,Cruz Azul (Mex),Sporting Kansas City (Usa),nqhLBCKD,88w2wUnG,5,1,,,,0
+1395367200,Arabe Unido (Pan),Alajuelense (Cos),IJKf4CSg,4v3Y4ReF,0,2,,,,0
+1396396800,Alajuelense (Cos),Toluca (Mex),4v3Y4ReF,0pHVJYjM,0,1,,,,0
+1396404000,Club Tijuana (Mex),Cruz Azul (Mex),tW0QAqsF,nqhLBCKD,1,0,,,,0
+1397001600,Toluca (Mex),Alajuelense (Cos),0pHVJYjM,4v3Y4ReF,2,0,,,,0
+1397088000,Cruz Azul (Mex),Club Tijuana (Mex),nqhLBCKD,tW0QAqsF,2,0,,,,0
+1397606400,Cruz Azul (Mex),Toluca (Mex),nqhLBCKD,0pHVJYjM,0,0,,,,0
+1398297600,Toluca (Mex),Cruz Azul (Mex),0pHVJYjM,nqhLBCKD,1,1,,,,0

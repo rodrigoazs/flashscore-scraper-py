@@ -1,181 +1,181 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-930607200,Wacker Innsbruck,SK Rapid,2,1,,,,0
-930693600,Salzburg,A. Lustenau,1,0,,,,0
-930693600,LASK,Sturm Graz,0,2,,,,0
-930693600,Grazer AK,Austria Vienna,0,2,,,,0
-930693600,Bregenz,Ried,1,2,,,,0
-931212000,Austria Vienna,Salzburg,2,0,,,,0
-931298400,Sturm Graz,Wacker Innsbruck,0,1,,,,0
-931298400,SK Rapid,Bregenz,2,0,,,,0
-931298400,Ried,Grazer AK,0,1,,,,0
-931298400,A. Lustenau,LASK,1,1,,,,0
-931816800,SK Rapid,Salzburg,1,0,,,,0
-931903200,Wacker Innsbruck,Ried,1,0,,,,0
-931903200,LASK,Austria Vienna,1,1,,,,0
-931903200,Grazer AK,A. Lustenau,2,3,,,,0
-931903200,Bregenz,Sturm Graz,1,4,,,,0
-932162400,SK Rapid,Sturm Graz,0,0,,,,0
-932162400,Salzburg,LASK,2,1,,,,0
-932508000,Sturm Graz,Grazer AK,5,0,,,,0
-932508000,Ried,SK Rapid,1,2,,,,0
-932508000,Austria Vienna,Wacker Innsbruck,0,2,,,,0
-932508000,A. Lustenau,Bregenz,3,0,,,,0
-933026400,Wacker Innsbruck,LASK,5,0,,,,0
-933026400,Ried,A. Lustenau,1,1,,,,0
-933026400,Grazer AK,Salzburg,0,0,,,,0
-933372000,Austria Vienna,SK Rapid,0,3,,,,0
-933631200,Sturm Graz,Ried,2,1,,,,0
-933631200,Salzburg,Bregenz,0,1,,,,0
-933631200,LASK,Grazer AK,1,3,,,,0
-933631200,A. Lustenau,Wacker Innsbruck,1,3,,,,0
-933890400,Wacker Innsbruck,Grazer AK,1,0,,,,0
-933976800,Sturm Graz,Austria Vienna,2,2,,,,0
-933976800,SK Rapid,A. Lustenau,2,0,,,,0
-933976800,Ried,Salzburg,3,0,,,,0
-933976800,Bregenz,LASK,2,1,,,,0
-934581600,Salzburg,Wacker Innsbruck,1,0,,,,0
-934581600,LASK,SK Rapid,0,1,,,,0
-934581600,Austria Vienna,Ried,0,2,,,,0
-934581600,A. Lustenau,Sturm Graz,1,2,,,,0
-934668000,Grazer AK,Bregenz,3,0,,,,0
-935186400,Wacker Innsbruck,Bregenz,4,0,,,,0
-935186400,Sturm Graz,Salzburg,0,2,,,,0
-935186400,SK Rapid,Grazer AK,2,1,,,,0
-935186400,Ried,LASK,2,1,,,,0
-935186400,A. Lustenau,Austria Vienna,1,0,,,,0
-935445600,Bregenz,Austria Vienna,1,1,,,,0
-935791200,Salzburg,Sturm Graz,1,1,,,,0
-935791200,LASK,Ried,1,0,,,,0
-935791200,Bregenz,Wacker Innsbruck,0,3,,,,0
-935791200,Austria Vienna,A. Lustenau,2,0,,,,0
-935877600,Grazer AK,SK Rapid,3,1,,,,0
-936914400,Sturm Graz,LASK,0,0,,,,0
-937000800,SK Rapid,Wacker Innsbruck,2,4,,,,0
-937000800,Ried,Bregenz,5,1,,,,0
-937000800,Austria Vienna,Grazer AK,5,2,,,,0
-937000800,A. Lustenau,Salzburg,1,0,,,,0
-937519200,Salzburg,Austria Vienna,0,1,,,,0
-937605600,Wacker Innsbruck,Sturm Graz,1,0,,,,0
-937605600,LASK,A. Lustenau,3,0,,,,0
-937692000,Grazer AK,Ried,0,0,,,,0
-937692000,Bregenz,SK Rapid,1,1,,,,0
-938124000,Ried,Wacker Innsbruck,5,0,,,,0
-938210400,Sturm Graz,Bregenz,4,0,,,,0
-938210400,Salzburg,SK Rapid,1,1,,,,0
-938210400,Austria Vienna,LASK,2,1,,,,0
-938210400,A. Lustenau,Grazer AK,1,4,,,,0
-938728800,Wacker Innsbruck,Austria Vienna,0,2,,,,0
-938815200,LASK,Salzburg,2,4,,,,0
-938815200,Bregenz,A. Lustenau,2,0,,,,0
-938901600,SK Rapid,Ried,5,1,,,,0
-938901600,Grazer AK,Sturm Graz,1,0,,,,0
-939160800,Sturm Graz,SK Rapid,1,0,,,,0
-939160800,Salzburg,Grazer AK,1,0,,,,0
-939160800,LASK,Wacker Innsbruck,3,0,,,,0
-939160800,Austria Vienna,Bregenz,3,1,,,,0
-939160800,A. Lustenau,Ried,0,1,,,,0
-939938400,Wacker Innsbruck,A. Lustenau,3,0,,,,0
-940024800,SK Rapid,Austria Vienna,2,0,,,,0
-940024800,Ried,Sturm Graz,2,0,,,,0
-940024800,Grazer AK,LASK,0,1,,,,0
-940024800,Bregenz,Salzburg,0,0,,,,0
-940543200,Austria Vienna,Sturm Graz,1,3,,,,0
-940629600,Salzburg,Ried,2,2,,,,0
-940629600,LASK,Bregenz,3,0,,,,0
-940629600,A. Lustenau,SK Rapid,0,1,,,,0
-940716000,Grazer AK,Wacker Innsbruck,1,1,,,,0
-941148000,SK Rapid,LASK,3,0,,,,0
-941234400,Sturm Graz,A. Lustenau,5,1,,,,0
-941234400,Ried,Austria Vienna,0,0,,,,0
-941234400,Bregenz,Grazer AK,0,1,,,,0
-941320800,Wacker Innsbruck,Salzburg,0,0,,,,0
-941756400,LASK,Ried,1,1,,,,0
-941842800,Salzburg,Sturm Graz,0,0,,,,0
-941929200,SK Rapid,Wacker Innsbruck,0,0,,,,0
-941929200,Grazer AK,Austria Vienna,2,0,,,,0
-942361200,Wacker Innsbruck,LASK,1,0,,,,0
-942447600,Sturm Graz,Bregenz,3,1,,,,0
-942447600,Ried,SK Rapid,1,0,,,,0
-942447600,A. Lustenau,Grazer AK,0,0,,,,0
-942534000,Austria Vienna,Salzburg,2,2,,,,0
-942706800,Bregenz,A. Lustenau,1,1,,,,0
-942966000,SK Rapid,A. Lustenau,4,0,,,,0
-943052400,Salzburg,Ried,2,1,,,,0
-943052400,LASK,Sturm Graz,1,1,,,,0
-943311600,Grazer AK,Wacker Innsbruck,2,0,,,,0
-943657200,Salzburg,Bregenz,4,1,,,,0
-943657200,Ried,Grazer AK,3,1,,,,0
-943657200,Austria Vienna,LASK,3,1,,,,0
-943916400,Sturm Graz,SK Rapid,3,1,,,,0
-952038000,SK Rapid,Austria Vienna,1,0,,,,0
-952124400,LASK,Bregenz,0,1,,,,0
-952124400,Grazer AK,Salzburg,2,0,,,,0
-952124400,A. Lustenau,Ried,1,1,,,,0
-952210800,Wacker Innsbruck,Sturm Graz,1,1,,,,0
-952383600,Bregenz,Austria Vienna,1,1,,,,0
-952642800,Sturm Graz,Grazer AK,6,1,,,,0
-952729200,Salzburg,LASK,1,2,,,,0
-952729200,Ried,Wacker Innsbruck,1,2,,,,0
-952729200,Austria Vienna,A. Lustenau,1,0,,,,0
-952815600,Bregenz,SK Rapid,0,3,,,,0
-952988400,A. Lustenau,Wacker Innsbruck,1,1,,,,0
-953247600,SK Rapid,Salzburg,5,0,,,,0
-953334000,Grazer AK,LASK,2,1,,,,0
-953420400,Ried,Austria Vienna,1,2,,,,0
-953420400,A. Lustenau,Sturm Graz,0,1,,,,0
-953593200,Wacker Innsbruck,Bregenz,2,0,,,,0
-953852400,Sturm Graz,Ried,3,2,,,,0
-953938800,Salzburg,A. Lustenau,2,0,,,,0
-953938800,LASK,SK Rapid,1,1,,,,0
-953938800,Bregenz,Grazer AK,3,1,,,,0
-954025200,Austria Vienna,Wacker Innsbruck,2,0,,,,0
-954540000,Wacker Innsbruck,Salzburg,2,1,,,,0
-954540000,Sturm Graz,Austria Vienna,3,2,,,,0
-954540000,SK Rapid,Grazer AK,2,0,,,,0
-954540000,Ried,Bregenz,2,0,,,,0
-954540000,A. Lustenau,LASK,2,2,,,,0
-955058400,Grazer AK,SK Rapid,0,4,,,,0
-955144800,Salzburg,Wacker Innsbruck,0,1,,,,0
-955144800,LASK,A. Lustenau,5,0,,,,0
-955144800,Bregenz,Ried,0,4,,,,0
-955144800,Austria Vienna,Sturm Graz,0,1,,,,0
-955663200,Sturm Graz,LASK,2,0,,,,0
-955749600,Wacker Innsbruck,Grazer AK,1,0,,,,0
-955749600,Ried,Salzburg,2,0,,,,0
-955749600,Austria Vienna,Bregenz,2,5,,,,0
-955749600,A. Lustenau,SK Rapid,0,1,,,,0
-956354400,SK Rapid,Ried,1,0,,,,0
-956354400,Salzburg,Austria Vienna,2,1,,,,0
-956354400,LASK,Wacker Innsbruck,0,1,,,,0
-956354400,Grazer AK,A. Lustenau,2,0,,,,0
-956354400,Bregenz,Sturm Graz,1,0,,,,0
-956959200,Wacker Innsbruck,SK Rapid,1,0,,,,0
-956959200,Sturm Graz,Salzburg,3,1,,,,0
-956959200,Ried,LASK,2,0,,,,0
-956959200,Austria Vienna,Grazer AK,2,0,,,,0
-956959200,A. Lustenau,Bregenz,0,4,,,,0
-957477600,Wacker Innsbruck,A. Lustenau,1,0,,,,0
-957564000,SK Rapid,Sturm Graz,2,3,,,,0
-957564000,LASK,Austria Vienna,1,0,,,,0
-957564000,Grazer AK,Ried,1,1,,,,0
-957564000,Bregenz,Salzburg,5,1,,,,0
-957823200,Salzburg,Grazer AK,5,1,,,,0
-957823200,Ried,A. Lustenau,4,2,,,,0
-957823200,Bregenz,LASK,0,2,,,,0
-957823200,Austria Vienna,SK Rapid,3,0,,,,0
-957909600,Sturm Graz,Wacker Innsbruck,4,1,,,,0
-958082400,SK Rapid,Bregenz,4,1,,,,0
-958168800,Wacker Innsbruck,Ried,3,1,,,,0
-958168800,LASK,Salzburg,1,1,,,,0
-958168800,Grazer AK,Sturm Graz,2,4,,,,0
-958168800,A. Lustenau,Austria Vienna,1,2,,,,0
-958773600,Sturm Graz,A. Lustenau,7,0,,,,0
-958773600,Salzburg,SK Rapid,0,0,,,,0
-958773600,LASK,Grazer AK,2,2,,,,0
-958773600,Bregenz,Wacker Innsbruck,0,3,,,,0
-958773600,Austria Vienna,Ried,1,0,,,,0
-959378400,Wacker Innsbruck,Austria Vienna,2,1,,,,0
-959378400,SK Rapid,LASK,0,1,,,,0
-959378400,Ried,Sturm Graz,1,1,,,,0
-959378400,Grazer AK,Bregenz,0,4,,,,0
-959378400,A. Lustenau,Salzburg,0,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+930607200,Wacker Innsbruck,SK Rapid,UsfS2kBR,QNSj0PU1,2,1,,,,0
+930693600,Salzburg,A. Lustenau,McAr23w3,pvWT1yik,1,0,,,,0
+930693600,LASK,Sturm Graz,CbaUQRYa,ATNrh1YR,0,2,,,,0
+930693600,Grazer AK,Austria Vienna,6ThU2T3B,lUkqx2Vt,0,2,,,,0
+930693600,Bregenz,Ried,fuS6i9Ng,baDxm2ON,1,2,,,,0
+931212000,Austria Vienna,Salzburg,lUkqx2Vt,McAr23w3,2,0,,,,0
+931298400,Sturm Graz,Wacker Innsbruck,ATNrh1YR,UsfS2kBR,0,1,,,,0
+931298400,SK Rapid,Bregenz,QNSj0PU1,fuS6i9Ng,2,0,,,,0
+931298400,Ried,Grazer AK,baDxm2ON,6ThU2T3B,0,1,,,,0
+931298400,A. Lustenau,LASK,pvWT1yik,CbaUQRYa,1,1,,,,0
+931816800,SK Rapid,Salzburg,QNSj0PU1,McAr23w3,1,0,,,,0
+931903200,Wacker Innsbruck,Ried,UsfS2kBR,baDxm2ON,1,0,,,,0
+931903200,LASK,Austria Vienna,CbaUQRYa,lUkqx2Vt,1,1,,,,0
+931903200,Grazer AK,A. Lustenau,6ThU2T3B,pvWT1yik,2,3,,,,0
+931903200,Bregenz,Sturm Graz,fuS6i9Ng,ATNrh1YR,1,4,,,,0
+932162400,SK Rapid,Sturm Graz,QNSj0PU1,ATNrh1YR,0,0,,,,0
+932162400,Salzburg,LASK,McAr23w3,CbaUQRYa,2,1,,,,0
+932508000,Sturm Graz,Grazer AK,ATNrh1YR,6ThU2T3B,5,0,,,,0
+932508000,Ried,SK Rapid,baDxm2ON,QNSj0PU1,1,2,,,,0
+932508000,Austria Vienna,Wacker Innsbruck,lUkqx2Vt,UsfS2kBR,0,2,,,,0
+932508000,A. Lustenau,Bregenz,pvWT1yik,fuS6i9Ng,3,0,,,,0
+933026400,Wacker Innsbruck,LASK,UsfS2kBR,CbaUQRYa,5,0,,,,0
+933026400,Ried,A. Lustenau,baDxm2ON,pvWT1yik,1,1,,,,0
+933026400,Grazer AK,Salzburg,6ThU2T3B,McAr23w3,0,0,,,,0
+933372000,Austria Vienna,SK Rapid,lUkqx2Vt,QNSj0PU1,0,3,,,,0
+933631200,Sturm Graz,Ried,ATNrh1YR,baDxm2ON,2,1,,,,0
+933631200,Salzburg,Bregenz,McAr23w3,fuS6i9Ng,0,1,,,,0
+933631200,LASK,Grazer AK,CbaUQRYa,6ThU2T3B,1,3,,,,0
+933631200,A. Lustenau,Wacker Innsbruck,pvWT1yik,UsfS2kBR,1,3,,,,0
+933890400,Wacker Innsbruck,Grazer AK,UsfS2kBR,6ThU2T3B,1,0,,,,0
+933976800,Sturm Graz,Austria Vienna,ATNrh1YR,lUkqx2Vt,2,2,,,,0
+933976800,SK Rapid,A. Lustenau,QNSj0PU1,pvWT1yik,2,0,,,,0
+933976800,Ried,Salzburg,baDxm2ON,McAr23w3,3,0,,,,0
+933976800,Bregenz,LASK,fuS6i9Ng,CbaUQRYa,2,1,,,,0
+934581600,Salzburg,Wacker Innsbruck,McAr23w3,UsfS2kBR,1,0,,,,0
+934581600,LASK,SK Rapid,CbaUQRYa,QNSj0PU1,0,1,,,,0
+934581600,Austria Vienna,Ried,lUkqx2Vt,baDxm2ON,0,2,,,,0
+934581600,A. Lustenau,Sturm Graz,pvWT1yik,ATNrh1YR,1,2,,,,0
+934668000,Grazer AK,Bregenz,6ThU2T3B,fuS6i9Ng,3,0,,,,0
+935186400,Wacker Innsbruck,Bregenz,UsfS2kBR,fuS6i9Ng,4,0,,,,0
+935186400,Sturm Graz,Salzburg,ATNrh1YR,McAr23w3,0,2,,,,0
+935186400,SK Rapid,Grazer AK,QNSj0PU1,6ThU2T3B,2,1,,,,0
+935186400,Ried,LASK,baDxm2ON,CbaUQRYa,2,1,,,,0
+935186400,A. Lustenau,Austria Vienna,pvWT1yik,lUkqx2Vt,1,0,,,,0
+935445600,Bregenz,Austria Vienna,fuS6i9Ng,lUkqx2Vt,1,1,,,,0
+935791200,Salzburg,Sturm Graz,McAr23w3,ATNrh1YR,1,1,,,,0
+935791200,LASK,Ried,CbaUQRYa,baDxm2ON,1,0,,,,0
+935791200,Bregenz,Wacker Innsbruck,fuS6i9Ng,UsfS2kBR,0,3,,,,0
+935791200,Austria Vienna,A. Lustenau,lUkqx2Vt,pvWT1yik,2,0,,,,0
+935877600,Grazer AK,SK Rapid,6ThU2T3B,QNSj0PU1,3,1,,,,0
+936914400,Sturm Graz,LASK,ATNrh1YR,CbaUQRYa,0,0,,,,0
+937000800,SK Rapid,Wacker Innsbruck,QNSj0PU1,UsfS2kBR,2,4,,,,0
+937000800,Ried,Bregenz,baDxm2ON,fuS6i9Ng,5,1,,,,0
+937000800,Austria Vienna,Grazer AK,lUkqx2Vt,6ThU2T3B,5,2,,,,0
+937000800,A. Lustenau,Salzburg,pvWT1yik,McAr23w3,1,0,,,,0
+937519200,Salzburg,Austria Vienna,McAr23w3,lUkqx2Vt,0,1,,,,0
+937605600,Wacker Innsbruck,Sturm Graz,UsfS2kBR,ATNrh1YR,1,0,,,,0
+937605600,LASK,A. Lustenau,CbaUQRYa,pvWT1yik,3,0,,,,0
+937692000,Grazer AK,Ried,6ThU2T3B,baDxm2ON,0,0,,,,0
+937692000,Bregenz,SK Rapid,fuS6i9Ng,QNSj0PU1,1,1,,,,0
+938124000,Ried,Wacker Innsbruck,baDxm2ON,UsfS2kBR,5,0,,,,0
+938210400,Sturm Graz,Bregenz,ATNrh1YR,fuS6i9Ng,4,0,,,,0
+938210400,Salzburg,SK Rapid,McAr23w3,QNSj0PU1,1,1,,,,0
+938210400,Austria Vienna,LASK,lUkqx2Vt,CbaUQRYa,2,1,,,,0
+938210400,A. Lustenau,Grazer AK,pvWT1yik,6ThU2T3B,1,4,,,,0
+938728800,Wacker Innsbruck,Austria Vienna,UsfS2kBR,lUkqx2Vt,0,2,,,,0
+938815200,LASK,Salzburg,CbaUQRYa,McAr23w3,2,4,,,,0
+938815200,Bregenz,A. Lustenau,fuS6i9Ng,pvWT1yik,2,0,,,,0
+938901600,SK Rapid,Ried,QNSj0PU1,baDxm2ON,5,1,,,,0
+938901600,Grazer AK,Sturm Graz,6ThU2T3B,ATNrh1YR,1,0,,,,0
+939160800,Sturm Graz,SK Rapid,ATNrh1YR,QNSj0PU1,1,0,,,,0
+939160800,Salzburg,Grazer AK,McAr23w3,6ThU2T3B,1,0,,,,0
+939160800,LASK,Wacker Innsbruck,CbaUQRYa,UsfS2kBR,3,0,,,,0
+939160800,Austria Vienna,Bregenz,lUkqx2Vt,fuS6i9Ng,3,1,,,,0
+939160800,A. Lustenau,Ried,pvWT1yik,baDxm2ON,0,1,,,,0
+939938400,Wacker Innsbruck,A. Lustenau,UsfS2kBR,pvWT1yik,3,0,,,,0
+940024800,SK Rapid,Austria Vienna,QNSj0PU1,lUkqx2Vt,2,0,,,,0
+940024800,Ried,Sturm Graz,baDxm2ON,ATNrh1YR,2,0,,,,0
+940024800,Grazer AK,LASK,6ThU2T3B,CbaUQRYa,0,1,,,,0
+940024800,Bregenz,Salzburg,fuS6i9Ng,McAr23w3,0,0,,,,0
+940543200,Austria Vienna,Sturm Graz,lUkqx2Vt,ATNrh1YR,1,3,,,,0
+940629600,Salzburg,Ried,McAr23w3,baDxm2ON,2,2,,,,0
+940629600,LASK,Bregenz,CbaUQRYa,fuS6i9Ng,3,0,,,,0
+940629600,A. Lustenau,SK Rapid,pvWT1yik,QNSj0PU1,0,1,,,,0
+940716000,Grazer AK,Wacker Innsbruck,6ThU2T3B,UsfS2kBR,1,1,,,,0
+941148000,SK Rapid,LASK,QNSj0PU1,CbaUQRYa,3,0,,,,0
+941234400,Sturm Graz,A. Lustenau,ATNrh1YR,pvWT1yik,5,1,,,,0
+941234400,Ried,Austria Vienna,baDxm2ON,lUkqx2Vt,0,0,,,,0
+941234400,Bregenz,Grazer AK,fuS6i9Ng,6ThU2T3B,0,1,,,,0
+941320800,Wacker Innsbruck,Salzburg,UsfS2kBR,McAr23w3,0,0,,,,0
+941756400,LASK,Ried,CbaUQRYa,baDxm2ON,1,1,,,,0
+941842800,Salzburg,Sturm Graz,McAr23w3,ATNrh1YR,0,0,,,,0
+941929200,SK Rapid,Wacker Innsbruck,QNSj0PU1,UsfS2kBR,0,0,,,,0
+941929200,Grazer AK,Austria Vienna,6ThU2T3B,lUkqx2Vt,2,0,,,,0
+942361200,Wacker Innsbruck,LASK,UsfS2kBR,CbaUQRYa,1,0,,,,0
+942447600,Sturm Graz,Bregenz,ATNrh1YR,fuS6i9Ng,3,1,,,,0
+942447600,Ried,SK Rapid,baDxm2ON,QNSj0PU1,1,0,,,,0
+942447600,A. Lustenau,Grazer AK,pvWT1yik,6ThU2T3B,0,0,,,,0
+942534000,Austria Vienna,Salzburg,lUkqx2Vt,McAr23w3,2,2,,,,0
+942706800,Bregenz,A. Lustenau,fuS6i9Ng,pvWT1yik,1,1,,,,0
+942966000,SK Rapid,A. Lustenau,QNSj0PU1,pvWT1yik,4,0,,,,0
+943052400,Salzburg,Ried,McAr23w3,baDxm2ON,2,1,,,,0
+943052400,LASK,Sturm Graz,CbaUQRYa,ATNrh1YR,1,1,,,,0
+943311600,Grazer AK,Wacker Innsbruck,6ThU2T3B,UsfS2kBR,2,0,,,,0
+943657200,Salzburg,Bregenz,McAr23w3,fuS6i9Ng,4,1,,,,0
+943657200,Ried,Grazer AK,baDxm2ON,6ThU2T3B,3,1,,,,0
+943657200,Austria Vienna,LASK,lUkqx2Vt,CbaUQRYa,3,1,,,,0
+943916400,Sturm Graz,SK Rapid,ATNrh1YR,QNSj0PU1,3,1,,,,0
+952038000,SK Rapid,Austria Vienna,QNSj0PU1,lUkqx2Vt,1,0,,,,0
+952124400,LASK,Bregenz,CbaUQRYa,fuS6i9Ng,0,1,,,,0
+952124400,Grazer AK,Salzburg,6ThU2T3B,McAr23w3,2,0,,,,0
+952124400,A. Lustenau,Ried,pvWT1yik,baDxm2ON,1,1,,,,0
+952210800,Wacker Innsbruck,Sturm Graz,UsfS2kBR,ATNrh1YR,1,1,,,,0
+952383600,Bregenz,Austria Vienna,fuS6i9Ng,lUkqx2Vt,1,1,,,,0
+952642800,Sturm Graz,Grazer AK,ATNrh1YR,6ThU2T3B,6,1,,,,0
+952729200,Salzburg,LASK,McAr23w3,CbaUQRYa,1,2,,,,0
+952729200,Ried,Wacker Innsbruck,baDxm2ON,UsfS2kBR,1,2,,,,0
+952729200,Austria Vienna,A. Lustenau,lUkqx2Vt,pvWT1yik,1,0,,,,0
+952815600,Bregenz,SK Rapid,fuS6i9Ng,QNSj0PU1,0,3,,,,0
+952988400,A. Lustenau,Wacker Innsbruck,pvWT1yik,UsfS2kBR,1,1,,,,0
+953247600,SK Rapid,Salzburg,QNSj0PU1,McAr23w3,5,0,,,,0
+953334000,Grazer AK,LASK,6ThU2T3B,CbaUQRYa,2,1,,,,0
+953420400,Ried,Austria Vienna,baDxm2ON,lUkqx2Vt,1,2,,,,0
+953420400,A. Lustenau,Sturm Graz,pvWT1yik,ATNrh1YR,0,1,,,,0
+953593200,Wacker Innsbruck,Bregenz,UsfS2kBR,fuS6i9Ng,2,0,,,,0
+953852400,Sturm Graz,Ried,ATNrh1YR,baDxm2ON,3,2,,,,0
+953938800,Salzburg,A. Lustenau,McAr23w3,pvWT1yik,2,0,,,,0
+953938800,LASK,SK Rapid,CbaUQRYa,QNSj0PU1,1,1,,,,0
+953938800,Bregenz,Grazer AK,fuS6i9Ng,6ThU2T3B,3,1,,,,0
+954025200,Austria Vienna,Wacker Innsbruck,lUkqx2Vt,UsfS2kBR,2,0,,,,0
+954540000,Wacker Innsbruck,Salzburg,UsfS2kBR,McAr23w3,2,1,,,,0
+954540000,Sturm Graz,Austria Vienna,ATNrh1YR,lUkqx2Vt,3,2,,,,0
+954540000,SK Rapid,Grazer AK,QNSj0PU1,6ThU2T3B,2,0,,,,0
+954540000,Ried,Bregenz,baDxm2ON,fuS6i9Ng,2,0,,,,0
+954540000,A. Lustenau,LASK,pvWT1yik,CbaUQRYa,2,2,,,,0
+955058400,Grazer AK,SK Rapid,6ThU2T3B,QNSj0PU1,0,4,,,,0
+955144800,Salzburg,Wacker Innsbruck,McAr23w3,UsfS2kBR,0,1,,,,0
+955144800,LASK,A. Lustenau,CbaUQRYa,pvWT1yik,5,0,,,,0
+955144800,Bregenz,Ried,fuS6i9Ng,baDxm2ON,0,4,,,,0
+955144800,Austria Vienna,Sturm Graz,lUkqx2Vt,ATNrh1YR,0,1,,,,0
+955663200,Sturm Graz,LASK,ATNrh1YR,CbaUQRYa,2,0,,,,0
+955749600,Wacker Innsbruck,Grazer AK,UsfS2kBR,6ThU2T3B,1,0,,,,0
+955749600,Ried,Salzburg,baDxm2ON,McAr23w3,2,0,,,,0
+955749600,Austria Vienna,Bregenz,lUkqx2Vt,fuS6i9Ng,2,5,,,,0
+955749600,A. Lustenau,SK Rapid,pvWT1yik,QNSj0PU1,0,1,,,,0
+956354400,SK Rapid,Ried,QNSj0PU1,baDxm2ON,1,0,,,,0
+956354400,Salzburg,Austria Vienna,McAr23w3,lUkqx2Vt,2,1,,,,0
+956354400,LASK,Wacker Innsbruck,CbaUQRYa,UsfS2kBR,0,1,,,,0
+956354400,Grazer AK,A. Lustenau,6ThU2T3B,pvWT1yik,2,0,,,,0
+956354400,Bregenz,Sturm Graz,fuS6i9Ng,ATNrh1YR,1,0,,,,0
+956959200,Wacker Innsbruck,SK Rapid,UsfS2kBR,QNSj0PU1,1,0,,,,0
+956959200,Sturm Graz,Salzburg,ATNrh1YR,McAr23w3,3,1,,,,0
+956959200,Ried,LASK,baDxm2ON,CbaUQRYa,2,0,,,,0
+956959200,Austria Vienna,Grazer AK,lUkqx2Vt,6ThU2T3B,2,0,,,,0
+956959200,A. Lustenau,Bregenz,pvWT1yik,fuS6i9Ng,0,4,,,,0
+957477600,Wacker Innsbruck,A. Lustenau,UsfS2kBR,pvWT1yik,1,0,,,,0
+957564000,SK Rapid,Sturm Graz,QNSj0PU1,ATNrh1YR,2,3,,,,0
+957564000,LASK,Austria Vienna,CbaUQRYa,lUkqx2Vt,1,0,,,,0
+957564000,Grazer AK,Ried,6ThU2T3B,baDxm2ON,1,1,,,,0
+957564000,Bregenz,Salzburg,fuS6i9Ng,McAr23w3,5,1,,,,0
+957823200,Salzburg,Grazer AK,McAr23w3,6ThU2T3B,5,1,,,,0
+957823200,Ried,A. Lustenau,baDxm2ON,pvWT1yik,4,2,,,,0
+957823200,Bregenz,LASK,fuS6i9Ng,CbaUQRYa,0,2,,,,0
+957823200,Austria Vienna,SK Rapid,lUkqx2Vt,QNSj0PU1,3,0,,,,0
+957909600,Sturm Graz,Wacker Innsbruck,ATNrh1YR,UsfS2kBR,4,1,,,,0
+958082400,SK Rapid,Bregenz,QNSj0PU1,fuS6i9Ng,4,1,,,,0
+958168800,Wacker Innsbruck,Ried,UsfS2kBR,baDxm2ON,3,1,,,,0
+958168800,LASK,Salzburg,CbaUQRYa,McAr23w3,1,1,,,,0
+958168800,Grazer AK,Sturm Graz,6ThU2T3B,ATNrh1YR,2,4,,,,0
+958168800,A. Lustenau,Austria Vienna,pvWT1yik,lUkqx2Vt,1,2,,,,0
+958773600,Sturm Graz,A. Lustenau,ATNrh1YR,pvWT1yik,7,0,,,,0
+958773600,Salzburg,SK Rapid,McAr23w3,QNSj0PU1,0,0,,,,0
+958773600,LASK,Grazer AK,CbaUQRYa,6ThU2T3B,2,2,,,,0
+958773600,Bregenz,Wacker Innsbruck,fuS6i9Ng,UsfS2kBR,0,3,,,,0
+958773600,Austria Vienna,Ried,lUkqx2Vt,baDxm2ON,1,0,,,,0
+959378400,Wacker Innsbruck,Austria Vienna,UsfS2kBR,lUkqx2Vt,2,1,,,,0
+959378400,SK Rapid,LASK,QNSj0PU1,CbaUQRYa,0,1,,,,0
+959378400,Ried,Sturm Graz,baDxm2ON,ATNrh1YR,1,1,,,,0
+959378400,Grazer AK,Bregenz,6ThU2T3B,fuS6i9Ng,0,4,,,,0
+959378400,A. Lustenau,Salzburg,pvWT1yik,McAr23w3,0,2,,,,0

@@ -1,21 +1,21 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-945126000,Adanaspor AS,Samsunspor,1,2,,,,0
-945212400,Trabzonspor,Goztepe,3,1,,,,0
-945212400,Galatasaray,Ankaraspor,5,1,,,,0
-945212400,Erzurumspor,Denizlispor,4,1,,,,0
-945212400,Dardanelspor,Besiktas,1,0,,,,0
-948150000,Istanbulspor AS,Ankaragucu,1,2,,,,0
-948150000,Dardanelspor,Pendikspor,2,0,,,,0
-948150000,Bursaspor,Vanspor AS,3,0,,,,0
-948236400,Nazillispor,Erzurumspor,0,0,AET,1,0,0
-948236400,Kocaelispor,Trabzonspor,0,2,,,,0
-948236400,Gaziantepspor,Altay,3,3,AET,4,3,0
-948236400,Galatasaray,Samsunspor,2,1,,,,0
-948236400,Bakerkeyspor,Antalyaspor,0,2,,,,0
-949446000,Trabzonspor,Galatasaray,1,2,,,,0
-949446000,Bursaspor,Gaziantepspor,1,0,,,,0
-949446000,Antalyaspor,Dardanelspor,3,1,,,,0
-949446000,Ankaragucu,Nazillispor,7,0,,,,0
-950655600,Antalyaspor,Bursaspor,2,0,,,,0
-950655600,Ankaragucu,Galatasaray,0,2,,,,0
-957304800,Galatasaray,Antalyaspor,3,3,AET,5,3,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+945126000,Adanaspor AS,Samsunspor,0vUmEzqC,StKLPBm2,1,2,,,,0
+945212400,Trabzonspor,Goztepe,MobtE80i,OGqQfjL1,3,1,,,,0
+945212400,Galatasaray,Ankaraspor,dEXkR0Wq,YPZUFl2I,5,1,,,,0
+945212400,Erzurumspor,Denizlispor,,0vUmEzqC,4,1,,,,0
+945212400,Dardanelspor,Besiktas,bmVUdcIq,UcWWlFia,1,0,,,,0
+948150000,Istanbulspor AS,Ankaragucu,0GXEkkAD,bsGXFuaP,1,2,,,,0
+948150000,Dardanelspor,Pendikspor,bmVUdcIq,MeaGzzpG,2,0,,,,0
+948150000,Bursaspor,Vanspor AS,YmCZKGcR,E1tcA12K,3,0,,,,0
+948236400,Nazillispor,Erzurumspor,88LPsWm7,,0,0,AET,1,0,0
+948236400,Kocaelispor,Trabzonspor,pfQVcl7E,MobtE80i,0,2,,,,0
+948236400,Gaziantepspor,Altay,vVd6drcE,CGKJktBG,3,3,AET,4,3,0
+948236400,Galatasaray,Samsunspor,dEXkR0Wq,StKLPBm2,2,1,,,,0
+948236400,Bakerkeyspor,Antalyaspor,,ptkIYGIF,0,2,,,,0
+949446000,Trabzonspor,Galatasaray,MobtE80i,dEXkR0Wq,1,2,,,,0
+949446000,Bursaspor,Gaziantepspor,YmCZKGcR,vVd6drcE,1,0,,,,0
+949446000,Antalyaspor,Dardanelspor,ptkIYGIF,bmVUdcIq,3,1,,,,0
+949446000,Ankaragucu,Nazillispor,bsGXFuaP,88LPsWm7,7,0,,,,0
+950655600,Antalyaspor,Bursaspor,ptkIYGIF,YmCZKGcR,2,0,,,,0
+950655600,Ankaragucu,Galatasaray,bsGXFuaP,dEXkR0Wq,0,2,,,,0
+957304800,Galatasaray,Antalyaspor,dEXkR0Wq,ptkIYGIF,3,3,AET,5,3,0

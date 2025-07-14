@@ -1,45 +1,45 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1660980600,Suzhou Dongwu,Beijing Technology,2,0,,,,0
-1660995000,Zibo Cuju,Shanghai Jiading Huilong,3,1,,,,0
-1661067000,Nantong Zhiyun,Shijiazhuang Gongfu,0,2,,,,0
-1661067000,Kunshan,Liaoning Tieren,4,2,,,,0
-1661067000,Dingnan Ganlian,Qingdao Hainiu,2,2,Pen,2,3,0
-1661068800,Shenzhen Xinpengcheng,Beijing Sport University,4,2,,,,0
-1661068800,Shaanxi Changan,Guangxi Pingguo Haliao,0,1,,,,0
-1661153400,Jiangxi Lushan,Xinjiang Tianshan,4,3,,,,0
-1661155200,Nanjing City,Qingdao West Coast,0,0,Pen,1,0,0
-1668578400,Shijiazhuang Gongfu,Meizhou Hakka,2,6,,,,0
-1668578400,Jinan Xingzhou,Changchun Yatai,1,0,,,,0
-1668578400,Jiangxi Lushan,Shanghai Shenhua,0,5,,,,0
-1668580200,Shenzhen Xinpengcheng,Guangzhou FC,2,4,,,,0
-1668582000,Shanxi Chongde Ronghai,Guangzhou City,0,1,,,,0
-1668583800,Chengdu Rongcheng,Hebei,3,0,,,,0
-1668664800,Yanbian Longding,Cangzhou,1,5,,,,0
-1668664800,Qingdao Hainiu,Shandong Taishan,0,2,,,,0
-1668664800,Kunshan,Tianjin Jinmen Tiger,0,4,,,,0
-1668664800,Guangxi Pingguo Haliao,Henan Songshan Longmen,1,4,,,,0
-1668664800,Dandong Tengyue,Wuhan Three Towns,1,5,,,,0
-1668666600,Zibo Cuju,Shenzhen,1,0,,,,0
-1668670200,Beijing Guoan,Jingchuan Wenhui,2,2,Pen,2,3,0
-1668751200,Suzhou Dongwu,Wuhan FC,2,2,Pen,3,2,0
-1668751200,Nanjing City,Shanghai Port,0,5,,,,0
-1668756600,Dalian Pro,Zhejiang Professional,0,1,,,,0
-1671258600,Shandong Taishan,Zibo Cuju,3,0,Awrd,,,0
-1671343200,Jingchuan Wenhui,Jinan Xingzhou,2,3,,,,0
-1671348600,Wuhan Three Towns,Tianjin Jinmen Tiger,3,0,Awrd,,,0
-1671350400,Cangzhou,Guangzhou FC,3,1,,,,0
-1671433200,Zhejiang Professional,Guangzhou City,3,0,,,,0
-1671435000,Shanghai Port,Suzhou Dongwu,3,0,Awrd,,,0
-1671435000,Chengdu Rongcheng,Meizhou Hakka,3,0,,,,0
-1671444000,Henan Songshan Longmen,Shanghai Shenhua,0,3,Awrd,,,0
-1641276000,Shandong Taishan,Wuhan Three Towns,3,1,,,,0
-1641285000,Shanghai Shenhua,Cangzhou,5,1,,,,0
-1641362400,Shanghai Port,Chengdu Rongcheng,4,0,,,,0
-1641371400,Zhejiang Professional,Jinan Xingzhou,3,0,,,,0
-1641535200,Cangzhou,Shanghai Shenhua,0,2,,,,0
-1641544200,Wuhan Three Towns,Shandong Taishan,0,3,,,,0
-1641621600,Jinan Xingzhou,Zhejiang Professional,1,2,,,,0
-1641630600,Chengdu Rongcheng,Shanghai Port,0,4,,,,0
-1641880800,Shanghai Shenhua,Shandong Taishan,0,2,,,,0
-1641889800,Zhejiang Professional,Shanghai Port,0,0,Pen,1,0,0
-1642231800,Zhejiang Professional,Shandong Taishan,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1660980600,Suzhou Dongwu,Beijing Technology,l6k6qvaB,IwoOwT3M,2,0,,,,0
+1660995000,Zibo Cuju,Shanghai Jiading Huilong,Iu2a5mkR,YXqJI795,3,1,,,,0
+1661067000,Nantong Zhiyun,Shijiazhuang Gongfu,AFj2pKq5,Oxcq71bB,0,2,,,,0
+1661067000,Kunshan,Liaoning Tieren,biBdGpko,MsnJHNUl,4,2,,,,0
+1661067000,Dingnan Ganlian,Qingdao Hainiu,dUDnJpEs,h4caPP9m,2,2,Pen,2,3,0
+1661068800,Shenzhen Xinpengcheng,Beijing Sport University,dtfEriST,4GUSfyLN,4,2,,,,0
+1661068800,Shaanxi Changan,Guangxi Pingguo Haliao,2afEtDjQ,UReqvhvF,0,1,,,,0
+1661153400,Jiangxi Lushan,Xinjiang Tianshan,WtcR44US,Str9E0eP,4,3,,,,0
+1661155200,Nanjing City,Qingdao West Coast,dImSLs4S,21BCdP3t,0,0,Pen,1,0,0
+1668578400,Shijiazhuang Gongfu,Meizhou Hakka,Oxcq71bB,69CHvUVa,2,6,,,,0
+1668578400,Jinan Xingzhou,Changchun Yatai,tEijVUiU,G2OQQubE,1,0,,,,0
+1668578400,Jiangxi Lushan,Shanghai Shenhua,WtcR44US,xEhCoufj,0,5,,,,0
+1668580200,Shenzhen Xinpengcheng,Guangzhou FC,dtfEriST,fgNUPaDK,2,4,,,,0
+1668582000,Shanxi Chongde Ronghai,Guangzhou City,E3aDOE6m,niM2dYV4,0,1,,,,0
+1668583800,Chengdu Rongcheng,Hebei,OOoISEmk,lMgch5pg,3,0,,,,0
+1668664800,Yanbian Longding,Cangzhou,MDOGhig8,MTEwiRTq,1,5,,,,0
+1668664800,Qingdao Hainiu,Shandong Taishan,h4caPP9m,Of01Mw8S,0,2,,,,0
+1668664800,Kunshan,Tianjin Jinmen Tiger,biBdGpko,A5sD8c6B,0,4,,,,0
+1668664800,Guangxi Pingguo Haliao,Henan Songshan Longmen,UReqvhvF,fgNUPaDK,1,4,,,,0
+1668664800,Dandong Tengyue,Wuhan Three Towns,UReqvhvF,zNoUk6A2,1,5,,,,0
+1668666600,Zibo Cuju,Shenzhen,Iu2a5mkR,A1TBw3zO,1,0,,,,0
+1668670200,Beijing Guoan,Jingchuan Wenhui,fgNUPaDK,na4L58UB,2,2,Pen,2,3,0
+1668751200,Suzhou Dongwu,Wuhan FC,l6k6qvaB,pbC5VOeU,2,2,Pen,3,2,0
+1668751200,Nanjing City,Shanghai Port,dImSLs4S,4Iubiv1h,0,5,,,,0
+1668756600,Dalian Pro,Zhejiang Professional,f151I1Xc,j1jME9Xt,0,1,,,,0
+1671258600,Shandong Taishan,Zibo Cuju,Of01Mw8S,Iu2a5mkR,3,0,Awrd,,,0
+1671343200,Jingchuan Wenhui,Jinan Xingzhou,na4L58UB,tEijVUiU,2,3,,,,0
+1671348600,Wuhan Three Towns,Tianjin Jinmen Tiger,zNoUk6A2,A5sD8c6B,3,0,Awrd,,,0
+1671350400,Cangzhou,Guangzhou FC,MTEwiRTq,fgNUPaDK,3,1,,,,0
+1671433200,Zhejiang Professional,Guangzhou City,j1jME9Xt,niM2dYV4,3,0,,,,0
+1671435000,Shanghai Port,Suzhou Dongwu,4Iubiv1h,l6k6qvaB,3,0,Awrd,,,0
+1671435000,Chengdu Rongcheng,Meizhou Hakka,OOoISEmk,69CHvUVa,3,0,,,,0
+1671444000,Henan Songshan Longmen,Shanghai Shenhua,fgNUPaDK,xEhCoufj,0,3,Awrd,,,0
+1641276000,Shandong Taishan,Wuhan Three Towns,Of01Mw8S,zNoUk6A2,3,1,,,,0
+1641285000,Shanghai Shenhua,Cangzhou,xEhCoufj,MTEwiRTq,5,1,,,,0
+1641362400,Shanghai Port,Chengdu Rongcheng,4Iubiv1h,OOoISEmk,4,0,,,,0
+1641371400,Zhejiang Professional,Jinan Xingzhou,j1jME9Xt,tEijVUiU,3,0,,,,0
+1641535200,Cangzhou,Shanghai Shenhua,MTEwiRTq,xEhCoufj,0,2,,,,0
+1641544200,Wuhan Three Towns,Shandong Taishan,zNoUk6A2,Of01Mw8S,0,3,,,,0
+1641621600,Jinan Xingzhou,Zhejiang Professional,tEijVUiU,j1jME9Xt,1,2,,,,0
+1641630600,Chengdu Rongcheng,Shanghai Port,OOoISEmk,4Iubiv1h,0,4,,,,0
+1641880800,Shanghai Shenhua,Shandong Taishan,xEhCoufj,Of01Mw8S,0,2,,,,0
+1641889800,Zhejiang Professional,Shanghai Port,j1jME9Xt,4Iubiv1h,0,0,Pen,1,0,0
+1642231800,Zhejiang Professional,Shandong Taishan,j1jME9Xt,Of01Mw8S,1,2,,,,0

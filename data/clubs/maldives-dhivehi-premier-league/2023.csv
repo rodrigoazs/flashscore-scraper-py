@@ -1,57 +1,57 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1683543600,Valencia,TC Sports Club,0,2,,,,0
-1683561600,Club Eagles,Buru Sports,3,1,,,,0
-1683630000,Maziya,United Victory,7,2,,,,0
-1683648000,Green Streets,Super United Sports,1,5,,,,0
-1683975600,United Victory,Super United Sports,0,3,,,,0
-1683993600,Maziya,Green Streets,5,0,,,,0
-1684062000,TC Sports Club,Buru Sports,0,1,,,,0
-1684080000,Club Eagles,Valencia,3,0,,,,0
-1684407600,Club Eagles,TC Sports Club,4,4,,,,0
-1684425600,Valencia,Buru Sports,0,2,,,,0
-1684494000,Green Streets,United Victory,3,1,,,,0
-1684512000,Maziya,Super United Sports,3,0,,,,0
-1689332400,Green Streets,Buru Sports,0,3,,,,0
-1689350400,Maziya,TC Sports Club,6,0,,,,0
-1689418800,Club Eagles,Super United Sports,7,3,,,,0
-1689436800,Valencia,United Victory,0,1,,,,0
-1689764400,Club Eagles,United Victory,2,1,,,,0
-1689782400,Valencia,Super United Sports,0,5,,,,0
-1689850800,Buru Sports,Maziya,0,2,,,,0
-1689868800,Green Streets,TC Sports Club,0,2,,,,0
-1690628400,Maziya,Valencia,2,0,Awrd,,,0
-1690646400,Club Eagles,Green Streets,6,1,,,,0
-1690714800,TC Sports Club,Super United Sports,1,2,,,,0
-1690732800,United Victory,Buru Sports,1,3,,,,0
-1691060400,Super United Sports,Buru Sports,2,1,,,,0
-1691078400,TC Sports Club,United Victory,3,0,,,,0
-1691146800,Valencia,Green Streets,1,1,,,,0
-1691164800,Maziya,Club Eagles,2,2,,,,0
-1691492400,United Victory,Valencia,2,1,,,,0
-1691510400,TC Sports Club,Green Streets,2,0,Awrd,,,0
-1691578800,Super United Sports,Buru Sports,2,0,,,,0
-1691596800,Maziya,Club Eagles,1,0,,,,0
-1692788400,Maziya,Super United Sports,3,0,,,,0
-1692806400,Club Eagles,Buru Sports,5,0,,,,0
-1692874800,TC Sports Club,United Victory,3,0,,,,0
-1692892800,Green Streets,Valencia,2,2,,,,0
-1693220400,Club Eagles,Green Streets,8,0,,,,0
-1693238400,Super United Sports,United Victory,2,0,,,,0
-1693306800,Valencia,Maziya,0,2,Awrd,,,0
-1693324800,Buru Sports,TC Sports Club,0,1,,,,0
-1700132400,TC Sports Club,Valencia,2,0,Awrd,,,0
-1700132400,Super United Sports,Green Streets,2,0,Awrd,,,0
-1700132400,Club Eagles,United Victory,8,1,,,,0
-1700395200,Super United Sports,Valencia,2,0,Awrd,,,0
-1700395200,Maziya,United Victory,11,0,,,,0
-1700395200,Club Eagles,TC Sports Club,2,1,,,,0
-1700395200,Buru Sports,Green Streets,2,0,Awrd,,,0
-1700740800,United Victory,Green Streets,2,0,Awrd,,,0
-1700740800,Super United Sports,Club Eagles,2,5,,,,0
-1700740800,Buru Sports,Valencia,2,0,Awrd,,,0
-1701345600,Valencia,Club Eagles,0,2,Awrd,,,0
-1701345600,Green Streets,Maziya,0,2,Awrd,,,0
-1701432000,Super United Sports,TC Sports Club,5,0,,,,0
-1701518400,Buru Sports,United Victory,3,4,,,,0
-1701792000,Maziya,Buru Sports,6,0,,,,0
-1702637400,Maziya,TC Sports Club,4,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1683543600,Valencia,TC Sports Club,GItRXbpg,ILPJe8GK,0,2,,,,0
+1683561600,Club Eagles,Buru Sports,0QQIiEsI,fHJF9CVR,3,1,,,,0
+1683630000,Maziya,United Victory,zRgpqOel,2JQ5vXOB,7,2,,,,0
+1683648000,Green Streets,Super United Sports,0QQIiEsI,SUqF2lzd,1,5,,,,0
+1683975600,United Victory,Super United Sports,2JQ5vXOB,SUqF2lzd,0,3,,,,0
+1683993600,Maziya,Green Streets,zRgpqOel,0QQIiEsI,5,0,,,,0
+1684062000,TC Sports Club,Buru Sports,ILPJe8GK,fHJF9CVR,0,1,,,,0
+1684080000,Club Eagles,Valencia,0QQIiEsI,GItRXbpg,3,0,,,,0
+1684407600,Club Eagles,TC Sports Club,0QQIiEsI,ILPJe8GK,4,4,,,,0
+1684425600,Valencia,Buru Sports,GItRXbpg,fHJF9CVR,0,2,,,,0
+1684494000,Green Streets,United Victory,0QQIiEsI,2JQ5vXOB,3,1,,,,0
+1684512000,Maziya,Super United Sports,zRgpqOel,SUqF2lzd,3,0,,,,0
+1689332400,Green Streets,Buru Sports,0QQIiEsI,fHJF9CVR,0,3,,,,0
+1689350400,Maziya,TC Sports Club,zRgpqOel,ILPJe8GK,6,0,,,,0
+1689418800,Club Eagles,Super United Sports,0QQIiEsI,SUqF2lzd,7,3,,,,0
+1689436800,Valencia,United Victory,GItRXbpg,2JQ5vXOB,0,1,,,,0
+1689764400,Club Eagles,United Victory,0QQIiEsI,2JQ5vXOB,2,1,,,,0
+1689782400,Valencia,Super United Sports,GItRXbpg,SUqF2lzd,0,5,,,,0
+1689850800,Buru Sports,Maziya,fHJF9CVR,zRgpqOel,0,2,,,,0
+1689868800,Green Streets,TC Sports Club,0QQIiEsI,ILPJe8GK,0,2,,,,0
+1690628400,Maziya,Valencia,zRgpqOel,GItRXbpg,2,0,Awrd,,,0
+1690646400,Club Eagles,Green Streets,0QQIiEsI,0QQIiEsI,6,1,,,,0
+1690714800,TC Sports Club,Super United Sports,ILPJe8GK,SUqF2lzd,1,2,,,,0
+1690732800,United Victory,Buru Sports,2JQ5vXOB,fHJF9CVR,1,3,,,,0
+1691060400,Super United Sports,Buru Sports,SUqF2lzd,fHJF9CVR,2,1,,,,0
+1691078400,TC Sports Club,United Victory,ILPJe8GK,2JQ5vXOB,3,0,,,,0
+1691146800,Valencia,Green Streets,GItRXbpg,0QQIiEsI,1,1,,,,0
+1691164800,Maziya,Club Eagles,zRgpqOel,0QQIiEsI,2,2,,,,0
+1691492400,United Victory,Valencia,2JQ5vXOB,GItRXbpg,2,1,,,,0
+1691510400,TC Sports Club,Green Streets,ILPJe8GK,0QQIiEsI,2,0,Awrd,,,0
+1691578800,Super United Sports,Buru Sports,SUqF2lzd,fHJF9CVR,2,0,,,,0
+1691596800,Maziya,Club Eagles,zRgpqOel,0QQIiEsI,1,0,,,,0
+1692788400,Maziya,Super United Sports,zRgpqOel,SUqF2lzd,3,0,,,,0
+1692806400,Club Eagles,Buru Sports,0QQIiEsI,fHJF9CVR,5,0,,,,0
+1692874800,TC Sports Club,United Victory,ILPJe8GK,2JQ5vXOB,3,0,,,,0
+1692892800,Green Streets,Valencia,0QQIiEsI,GItRXbpg,2,2,,,,0
+1693220400,Club Eagles,Green Streets,0QQIiEsI,0QQIiEsI,8,0,,,,0
+1693238400,Super United Sports,United Victory,SUqF2lzd,2JQ5vXOB,2,0,,,,0
+1693306800,Valencia,Maziya,GItRXbpg,zRgpqOel,0,2,Awrd,,,0
+1693324800,Buru Sports,TC Sports Club,fHJF9CVR,ILPJe8GK,0,1,,,,0
+1700132400,TC Sports Club,Valencia,ILPJe8GK,GItRXbpg,2,0,Awrd,,,0
+1700132400,Super United Sports,Green Streets,SUqF2lzd,0QQIiEsI,2,0,Awrd,,,0
+1700132400,Club Eagles,United Victory,0QQIiEsI,2JQ5vXOB,8,1,,,,0
+1700395200,Super United Sports,Valencia,SUqF2lzd,GItRXbpg,2,0,Awrd,,,0
+1700395200,Maziya,United Victory,zRgpqOel,2JQ5vXOB,11,0,,,,0
+1700395200,Club Eagles,TC Sports Club,0QQIiEsI,ILPJe8GK,2,1,,,,0
+1700395200,Buru Sports,Green Streets,fHJF9CVR,0QQIiEsI,2,0,Awrd,,,0
+1700740800,United Victory,Green Streets,2JQ5vXOB,0QQIiEsI,2,0,Awrd,,,0
+1700740800,Super United Sports,Club Eagles,SUqF2lzd,0QQIiEsI,2,5,,,,0
+1700740800,Buru Sports,Valencia,fHJF9CVR,GItRXbpg,2,0,Awrd,,,0
+1701345600,Valencia,Club Eagles,GItRXbpg,0QQIiEsI,0,2,Awrd,,,0
+1701345600,Green Streets,Maziya,0QQIiEsI,zRgpqOel,0,2,Awrd,,,0
+1701432000,Super United Sports,TC Sports Club,SUqF2lzd,ILPJe8GK,5,0,,,,0
+1701518400,Buru Sports,United Victory,fHJF9CVR,2JQ5vXOB,3,4,,,,0
+1701792000,Maziya,Buru Sports,zRgpqOel,fHJF9CVR,6,0,,,,0
+1702637400,Maziya,TC Sports Club,zRgpqOel,ILPJe8GK,4,0,,,,0

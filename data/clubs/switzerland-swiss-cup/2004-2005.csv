@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1095372000,Schotz,Baden,1,1,AET,1,2,0
-1095372000,Porrentruy,Concordia,1,3,,,,0
-1095372000,Bernex,Meyrin,0,3,,,,0
-1095442200,Martigny,Young Boys,0,6,,,,0
-1095442200,Kickers Luzern,Zurich,1,4,,,,0
-1095458400,Wolhusen,Uster,2,1,,,,0
-1095458400,Visp,Bex,0,1,,,,0
-1095458400,Sierre,FC Massongex,1,1,AET,1,2,0
-1095458400,Muri,Wohlen,2,2,AET,2,3,0
-1095458400,Luterbach,Laufen,2,1,,,,0
-1095458400,Kussnacht,YF Juventus,1,2,,,,0
-1095458400,Imier,La Chaux-De-Fonds,2,5,,,,0
-1095458400,Grenchen,Zofingen,1,3,,,,0
-1095458400,Goldach,Chiasso,0,3,,,,0
-1095458400,FC Bazenheid,Lugano,0,0,AET,0,1,0
-1095458400,Collex-Bossy,FC Baulmes,0,3,,,,0
-1095458400,Belfaux,Bulle,1,4,,,,0
-1095458400,Altstatten,Bellinzona,1,4,,,,0
-1095458400,Affoltern,Winterthur,1,5,,,,0
-1095510600,IC Zurigo,Grasshoppers,0,7,,,,0
-1095516900,Niedergosgen,Aarau,0,9,,,,0
-1095516900,Lausanne,Xamax,1,2,,,,0
-1095516900,Konolfingen,Sion,0,4,,,,0
-1095516900,Epalinges,Yverdon,2,4,,,,0
-1095516900,Cham,Kriens,2,4,,,,0
-1095519600,Oberdorf,Basel,0,4,,,,0
-1095519600,Bruhl,Schaffhausen,2,4,,,,0
-1095526800,Biel,Thun,0,2,,,,0
-1095528600,Zug,Luzern,0,2,,,,0
-1095528600,FC Herisa,Wil,1,1,AET,2,1,0
-1095597000,Stade Nyonnais,Servette,1,2,,,,0
-1095602400,Arbedo,St. Gallen,1,3,,,,0
-1098466200,Kriens,YF Juventus,3,3,AET,3,4,0
-1098536400,Luterbach,Xamax,0,7,,,,0
-1098538200,Lugano,Aarau,1,1,AET,1,2,0
-1098540000,FC Massongex,Thun,0,8,,,,0
-1098540900,Wohlen,Young Boys,0,1,,,,0
-1098540900,Winterthur,Luzern,1,3,,,,0
-1098543600,FC Baulmes,La Chaux-De-Fonds,1,0,,,,0
-1098547200,Wolhusen,Chiasso,1,3,,,,0
-1098552600,Sion,Servette,4,2,,,,0
-1098621000,Zofingen,Schaffhausen,1,5,,,,0
-1098621000,FC Herisa,Zurich,2,7,,,,0
-1098621000,Bulle,Yverdon,0,4,,,,0
-1098621000,Bex,Concordia,1,7,,,,0
-1098621000,Bellinzona,Grasshoppers,2,2,AET,3,2,0
-1098622800,Baden,St. Gallen,1,1,AET,1,2,0
-1098624600,Meyrin,Basel,1,3,,,,0
-1100963700,FC Baulmes,Aarau,0,2,,,,0
-1100966400,Chiasso,Yverdon,1,0,,,,0
-1100968200,Thun,Basel,1,1,AET,2,1,0
-1100968200,Sion,Young Boys,1,2,,,,0
-1101042000,YF Juventus,Bellinzona,0,2,,,,0
-1101043800,Xamax,Zurich,0,2,,,,0
-1101043800,Schaffhausen,St. Gallen,1,1,AET,2,2,0
-1101043800,Luzern,Concordia,4,1,,,,0
-1108301400,Young Boys,Thun,2,0,,,,0
-1108301400,St. Gallen,Aarau,2,2,AET,3,3,0
-1108301400,Chiasso,Luzern,0,4,,,,0
-1108301400,Bellinzona,Zurich,0,2,,,,0
-1113502500,Aarau,Luzern,1,2,,,,0
-1114020900,Zurich,Young Boys,3,1,,,,0
-1116248400,Zurich,Luzern,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1095372000,Schotz,Baden,v9aRYoSB,63TN1CJD,1,1,AET,1,2,0
+1095372000,Porrentruy,Concordia,SvDIAobA,beXtRf2l,1,3,,,,0
+1095372000,Bernex,Meyrin,EmwCKNoD,hArnh4yq,0,3,,,,0
+1095442200,Martigny,Young Boys,WxcdJXqj,KGWqWzzf,0,6,,,,0
+1095442200,Kickers Luzern,Zurich,niKpg4Cn,zFgN5luK,1,4,,,,0
+1095458400,Wolhusen,Uster,,hUWutqYd,2,1,,,,0
+1095458400,Visp,Bex,Kpf8lU7G,,0,1,,,,0
+1095458400,Sierre,FC Massongex,vBz9krom,C0Wnhzeg,1,1,AET,1,2,0
+1095458400,Muri,Wohlen,ShhYWNs1,4KGFKeq4,2,2,AET,2,3,0
+1095458400,Luterbach,Laufen,,O2razbVP,2,1,,,,0
+1095458400,Kussnacht,YF Juventus,2osRSxFt,Ya0cpVgR,1,2,,,,0
+1095458400,Imier,La Chaux-De-Fonds,,OvYZsi0d,2,5,,,,0
+1095458400,Grenchen,Zofingen,lGjyozFD,UHEoPsYl,1,3,,,,0
+1095458400,Goldach,Chiasso,,GEbwH8OC,0,3,,,,0
+1095458400,FC Bazenheid,Lugano,lOUjifAa,0IhGjVDm,0,0,AET,0,1,0
+1095458400,Collex-Bossy,FC Baulmes,67DZBzH6,lOUjifAa,0,3,,,,0
+1095458400,Belfaux,Bulle,,lSprjIVm,1,4,,,,0
+1095458400,Altstatten,Bellinzona,pbWrlwaF,llYv6bVJ,1,4,,,,0
+1095458400,Affoltern,Winterthur,6ueZFMNa,6P6dM30h,1,5,,,,0
+1095510600,IC Zurigo,Grasshoppers,,WdBesfPo,0,7,,,,0
+1095516900,Niedergosgen,Aarau,,nLy4dj0C,0,9,,,,0
+1095516900,Lausanne,Xamax,IkaTiXpU,ln9wF1MU,1,2,,,,0
+1095516900,Konolfingen,Sion,,QsLBSppP,0,4,,,,0
+1095516900,Epalinges,Yverdon,,S8tGctos,2,4,,,,0
+1095516900,Cham,Kriens,pzMOQXRe,n7K4dyrM,2,4,,,,0
+1095519600,Oberdorf,Basel,,fPZDBkJI,0,4,,,,0
+1095519600,Bruhl,Schaffhausen,n7K4dyrM,EiyYrUhb,2,4,,,,0
+1095526800,Biel,Thun,xOaZHl96,xbUiUE46,0,2,,,,0
+1095528600,Zug,Luzern,l0O1R4I6,n7K4dyrM,0,2,,,,0
+1095528600,FC Herisa,Wil,,lCjwt4LE,1,1,AET,2,1,0
+1095597000,Stade Nyonnais,Servette,Qom1CdYj,vJvKsfHT,1,2,,,,0
+1095602400,Arbedo,St. Gallen,,fubIDuh0,1,3,,,,0
+1098466200,Kriens,YF Juventus,n7K4dyrM,Ya0cpVgR,3,3,AET,3,4,0
+1098536400,Luterbach,Xamax,,ln9wF1MU,0,7,,,,0
+1098538200,Lugano,Aarau,0IhGjVDm,nLy4dj0C,1,1,AET,1,2,0
+1098540000,FC Massongex,Thun,C0Wnhzeg,xbUiUE46,0,8,,,,0
+1098540900,Wohlen,Young Boys,4KGFKeq4,KGWqWzzf,0,1,,,,0
+1098540900,Winterthur,Luzern,6P6dM30h,n7K4dyrM,1,3,,,,0
+1098543600,FC Baulmes,La Chaux-De-Fonds,lOUjifAa,OvYZsi0d,1,0,,,,0
+1098547200,Wolhusen,Chiasso,,GEbwH8OC,1,3,,,,0
+1098552600,Sion,Servette,QsLBSppP,vJvKsfHT,4,2,,,,0
+1098621000,Zofingen,Schaffhausen,UHEoPsYl,EiyYrUhb,1,5,,,,0
+1098621000,FC Herisa,Zurich,,zFgN5luK,2,7,,,,0
+1098621000,Bulle,Yverdon,lSprjIVm,S8tGctos,0,4,,,,0
+1098621000,Bex,Concordia,,beXtRf2l,1,7,,,,0
+1098621000,Bellinzona,Grasshoppers,llYv6bVJ,WdBesfPo,2,2,AET,3,2,0
+1098622800,Baden,St. Gallen,63TN1CJD,fubIDuh0,1,1,AET,1,2,0
+1098624600,Meyrin,Basel,hArnh4yq,fPZDBkJI,1,3,,,,0
+1100963700,FC Baulmes,Aarau,lOUjifAa,nLy4dj0C,0,2,,,,0
+1100966400,Chiasso,Yverdon,GEbwH8OC,S8tGctos,1,0,,,,0
+1100968200,Thun,Basel,xbUiUE46,fPZDBkJI,1,1,AET,2,1,0
+1100968200,Sion,Young Boys,QsLBSppP,KGWqWzzf,1,2,,,,0
+1101042000,YF Juventus,Bellinzona,Ya0cpVgR,llYv6bVJ,0,2,,,,0
+1101043800,Xamax,Zurich,ln9wF1MU,zFgN5luK,0,2,,,,0
+1101043800,Schaffhausen,St. Gallen,EiyYrUhb,fubIDuh0,1,1,AET,2,2,0
+1101043800,Luzern,Concordia,n7K4dyrM,beXtRf2l,4,1,,,,0
+1108301400,Young Boys,Thun,KGWqWzzf,xbUiUE46,2,0,,,,0
+1108301400,St. Gallen,Aarau,fubIDuh0,nLy4dj0C,2,2,AET,3,3,0
+1108301400,Chiasso,Luzern,GEbwH8OC,n7K4dyrM,0,4,,,,0
+1108301400,Bellinzona,Zurich,llYv6bVJ,zFgN5luK,0,2,,,,0
+1113502500,Aarau,Luzern,nLy4dj0C,n7K4dyrM,1,2,,,,0
+1114020900,Zurich,Young Boys,zFgN5luK,KGWqWzzf,3,1,,,,0
+1116248400,Zurich,Luzern,zFgN5luK,n7K4dyrM,3,1,,,,0

@@ -1,46 +1,46 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1313589600,Vasilevo,Sileks,1,7,,,,0
-1313589600,Solidarnost,FK Skopje,2,2,Pen,2,3,0
-1313589600,Rudar Probistip,Pelister,1,3,,,,0
-1313589600,Prespa,Tikves,0,3,Awrd,,,0
-1313589600,Pobeda,Turnovo,1,2,,,,0
-1313589600,Ohrid Lote,Shkendija,0,7,,,,0
-1313589600,Makedonija GP,Teteks,0,0,Pen,0,1,0
-1313589600,Lok. Skopje,Napredok,0,0,Pen,0,1,0
-1313589600,Ljuboten,Gostivar,1,2,,,,0
-1313589600,Karbinci,Oktomvri,0,3,,,,0
-1313589600,Karaorman,Renova,0,4,,,,0
-1313589600,Gorno Lisice,Vardar,0,3,,,,0
-1313589600,FK Rufeja,Met. Skopje,0,1,,,,0
-1313589600,Drita,Miravci,2,3,,,,0
-1313589600,Babi Stip,Bregalnica Stip,0,3,,,,0
-1315058400,Mogila,Rabotnicki,0,3,,,,0
-1315920600,Renova,Gostivar,0,1,,,,0
-1316007000,Turnovo,Pelister,1,0,,,,0
-1316007000,Sileks,Teteks,2,2,,,,0
-1316007000,Shkendija,Bregalnica Stip,2,0,,,,0
-1316007000,Rabotnicki,Met. Skopje,0,0,,,,0
-1316007000,Oktomvri,FK Skopje,4,0,,,,0
-1316007000,Napredok,Miravci,3,1,,,,0
-1316104200,Vardar,Tikves,6,1,,,,0
-1317213000,Tikves,Vardar,0,1,,,,0
-1317213000,Teteks,Sileks,0,0,,,,0
-1317213000,Pelister,Turnovo,1,1,,,,0
-1317213000,Miravci,Napredok,2,3,,,,0
-1317213000,Met. Skopje,Rabotnicki,0,0,Pen,0,1,0
-1317213000,Gostivar,Renova,1,5,,,,0
-1317213000,Bregalnica Stip,Shkendija,2,0,Pen,3,0,0
-1317299400,FK Skopje,Oktomvri,2,0,,,,0
-1319025600,Turnovo,Bregalnica Stip,3,1,,,,0
-1319025600,Renova,Teteks,6,0,,,,0
-1319025600,Rabotnicki,Napredok,4,1,,,,0
-1319040000,Vardar,Oktomvri,2,0,,,,0
-1320753600,Teteks,Renova,2,3,,,,0
-1320840000,Oktomvri,Vardar,2,1,,,,0
-1320840000,Bregalnica Stip,Turnovo,0,0,,,,0
-1321444800,Napredok,Rabotnicki,0,3,,,,0
-1333548000,Vardar,Renova,1,1,,,,0
-1333548000,Rabotnicki,Turnovo,1,1,,,,0
-1335362400,Turnovo,Rabotnicki,1,3,,,,0
-1335362400,Renova,Vardar,0,0,,,,0
-1335967200,Rabotnicki,Renova,1,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1313589600,Vasilevo,Sileks,Wd7TDfbj,Ys5PBeU0,1,7,,,,0
+1313589600,Solidarnost,FK Skopje,v7OVS8N0,pCTkNqKp,2,2,Pen,2,3,0
+1313589600,Rudar Probistip,Pelister,Qoy7aBPS,2JKzUeUK,1,3,,,,0
+1313589600,Prespa,Tikves,Wd7TDfbj,pzWJOM6s,0,3,Awrd,,,0
+1313589600,Pobeda,Turnovo,8lHNgCuQ,ILReCEDO,1,2,,,,0
+1313589600,Ohrid Lote,Shkendija,tv78yJWn,f3OURrqn,0,7,,,,0
+1313589600,Makedonija GP,Teteks,n5NSVHa8,tOvmJnVr,0,0,Pen,0,1,0
+1313589600,Lok. Skopje,Napredok,0jQg0Qea,WrtPD2cR,0,0,Pen,0,1,0
+1313589600,Ljuboten,Gostivar,hCeuVAIr,E3JIMV6l,1,2,,,,0
+1313589600,Karbinci,Oktomvri,Iq62HygS,ILReCEDO,0,3,,,,0
+1313589600,Karaorman,Renova,4bmQHUa1,WrjrBuU2,0,4,,,,0
+1313589600,Gorno Lisice,Vardar,pWXGCQdh,86OeMIIr,0,3,,,,0
+1313589600,FK Rufeja,Met. Skopje,KAiplkwf,QTF8oS5s,0,1,,,,0
+1313589600,Drita,Miravci,2JKzUeUK,Opio8Wie,2,3,,,,0
+1313589600,Babi Stip,Bregalnica Stip,hls3gJTg,86OeMIIr,0,3,,,,0
+1315058400,Mogila,Rabotnicki,h68PEzqp,Cdxq7Y31,0,3,,,,0
+1315920600,Renova,Gostivar,WrjrBuU2,E3JIMV6l,0,1,,,,0
+1316007000,Turnovo,Pelister,ILReCEDO,2JKzUeUK,1,0,,,,0
+1316007000,Sileks,Teteks,Ys5PBeU0,tOvmJnVr,2,2,,,,0
+1316007000,Shkendija,Bregalnica Stip,f3OURrqn,86OeMIIr,2,0,,,,0
+1316007000,Rabotnicki,Met. Skopje,Cdxq7Y31,QTF8oS5s,0,0,,,,0
+1316007000,Oktomvri,FK Skopje,ILReCEDO,pCTkNqKp,4,0,,,,0
+1316007000,Napredok,Miravci,WrtPD2cR,Opio8Wie,3,1,,,,0
+1316104200,Vardar,Tikves,86OeMIIr,pzWJOM6s,6,1,,,,0
+1317213000,Tikves,Vardar,pzWJOM6s,86OeMIIr,0,1,,,,0
+1317213000,Teteks,Sileks,tOvmJnVr,Ys5PBeU0,0,0,,,,0
+1317213000,Pelister,Turnovo,2JKzUeUK,ILReCEDO,1,1,,,,0
+1317213000,Miravci,Napredok,Opio8Wie,WrtPD2cR,2,3,,,,0
+1317213000,Met. Skopje,Rabotnicki,QTF8oS5s,Cdxq7Y31,0,0,Pen,0,1,0
+1317213000,Gostivar,Renova,E3JIMV6l,WrjrBuU2,1,5,,,,0
+1317213000,Bregalnica Stip,Shkendija,86OeMIIr,f3OURrqn,2,0,Pen,3,0,0
+1317299400,FK Skopje,Oktomvri,pCTkNqKp,ILReCEDO,2,0,,,,0
+1319025600,Turnovo,Bregalnica Stip,ILReCEDO,86OeMIIr,3,1,,,,0
+1319025600,Renova,Teteks,WrjrBuU2,tOvmJnVr,6,0,,,,0
+1319025600,Rabotnicki,Napredok,Cdxq7Y31,WrtPD2cR,4,1,,,,0
+1319040000,Vardar,Oktomvri,86OeMIIr,ILReCEDO,2,0,,,,0
+1320753600,Teteks,Renova,tOvmJnVr,WrjrBuU2,2,3,,,,0
+1320840000,Oktomvri,Vardar,ILReCEDO,86OeMIIr,2,1,,,,0
+1320840000,Bregalnica Stip,Turnovo,86OeMIIr,ILReCEDO,0,0,,,,0
+1321444800,Napredok,Rabotnicki,WrtPD2cR,Cdxq7Y31,0,3,,,,0
+1333548000,Vardar,Renova,86OeMIIr,WrjrBuU2,1,1,,,,0
+1333548000,Rabotnicki,Turnovo,Cdxq7Y31,ILReCEDO,1,1,,,,0
+1335362400,Turnovo,Rabotnicki,ILReCEDO,Cdxq7Y31,1,3,,,,0
+1335362400,Renova,Vardar,WrjrBuU2,86OeMIIr,0,0,,,,0
+1335967200,Rabotnicki,Renova,Cdxq7Y31,WrjrBuU2,1,3,,,,0

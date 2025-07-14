@@ -1,46 +1,46 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1722700800,Carrarese,Catania,2,1,,,,0
-1722709800,Torres,Mantova,1,2,,,,0
-1722796200,Cesena,Padova,3,1,,,,0
-1722797100,Avellino,Juve Stabia,3,1,,,,0
-1723219200,Sassuolo,Cittadella,2,1,,,,0
-1723221000,Udinese,Avellino,4,0,,,,0
-1723229100,Genoa,Reggiana,1,0,,,,0
-1723230900,Monza,Sudtirol,0,0,Pen,1,0,0
-1723305600,Cremonese,Bari,1,1,Pen,2,1,0
-1723307400,Verona,Cesena,1,2,,,,0
-1723315500,Empoli,Catanzaro,4,1,,,,0
-1723317300,Napoli,Modena,0,0,Pen,1,0,0
-1723392000,Brescia,Venezia,3,1,,,,0
-1723393800,Parma,Palermo,0,1,,,,0
-1723401900,Sampdoria,Como,1,1,Pen,2,1,0
-1723403700,Torino,Cosenza,2,0,,,,0
-1723478400,Frosinone,Pisa,0,3,,,,0
-1723480200,Lecce,Mantova,2,1,,,,0
-1723488300,Salernitana,Spezia,3,3,Pen,4,3,0
-1723490100,Cagliari,Carrarese,3,1,,,,0
-1727186400,Lecce,Sassuolo,0,2,,,,0
-1727195400,Cagliari,Cremonese,1,0,,,,0
-1727204400,Torino,Empoli,1,2,,,,0
-1727272800,Pisa,Cesena,0,1,,,,0
-1727281800,Udinese,Salernitana,3,1,,,,0
-1727290800,Genoa,Sampdoria,1,1,Pen,1,2,0
-1727368200,Monza,Brescia,3,1,,,,0
-1727377200,Napoli,Palermo,5,0,,,,0
-1733247000,Bologna,Monza,4,0,,,,0
-1733256000,AC Milan,Sassuolo,6,1,,,,0
-1733342400,Fiorentina,Empoli,2,2,Pen,2,3,0
-1733428800,Lazio,Napoli,3,1,,,,0
-1734465600,Juventus,Cagliari,4,0,,,,0
-1734543000,Atalanta,Cesena,6,1,,,,0
-1734552000,AS Roma,Sampdoria,4,1,,,,0
-1734638400,Inter,Udinese,2,0,,,,0
-1738699200,Atalanta,Bologna,0,1,,,,0
-1738785600,AC Milan,AS Roma,3,1,,,,0
-1740513600,Inter,Lazio,2,0,,,,0
-1740600000,Juventus,Empoli,1,1,Pen,1,2,0
-1743534000,Empoli,Bologna,0,3,,,,0
-1743620400,AC Milan,Inter,1,1,,,,0
-1745434800,Inter,AC Milan,0,3,,,,0
-1745521200,Bologna,Empoli,2,1,,,,0
-1747249200,AC Milan,Bologna,0,1,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1722700800,Carrarese,Catania,t4GQxEM5,hnnCjjcF,2,1,,,,0
+1722709800,Torres,Mantova,ImfBTABB,4vkZ9lY0,1,2,,,,0
+1722796200,Cesena,Padova,YB20ndi2,0lwy4Ij1,3,1,,,,0
+1722797100,Avellino,Juve Stabia,dp0XifTb,hEfwIASK,3,1,,,,0
+1723219200,Sassuolo,Cittadella,0lwy4Ij1,x89Kdsb3,2,1,,,,0
+1723221000,Udinese,Avellino,SYw7EcY6,dp0XifTb,4,0,,,,0
+1723229100,Genoa,Reggiana,hCD6m1R3,xpwwMV0F,1,0,,,,0
+1723230900,Monza,Sudtirol,nedmW6cD,UJeBD3ZT,0,0,Pen,1,0,0
+1723305600,Cremonese,Bari,t4GQxEM5,dYPMS6QG,1,1,Pen,2,1,0
+1723307400,Verona,Cesena,Kxh373f3,YB20ndi2,1,2,,,,0
+1723315500,Empoli,Catanzaro,KbH8aCLf,O6dImjhL,4,1,,,,0
+1723317300,Napoli,Modena,Qcs4tGVj,OY47DkeT,0,0,Pen,1,0,0
+1723392000,Brescia,Venezia,QuOACKLH,AX567M6G,3,1,,,,0
+1723393800,Parma,Palermo,fydXzLY6,fL3dmxxd,0,1,,,,0
+1723401900,Sampdoria,Como,WdmUvPiG,hpmw8K1h,1,1,Pen,2,1,0
+1723403700,Torino,Cosenza,0lwy4Ij1,j5ryYBSC,2,0,,,,0
+1723478400,Frosinone,Pisa,t4GQxEM5,GMOw3SI3,0,3,,,,0
+1723480200,Lecce,Mantova,McvX4bye,4vkZ9lY0,2,1,,,,0
+1723488300,Salernitana,Spezia,dvgFSUQH,SEcuqyiS,3,3,Pen,4,3,0
+1723490100,Cagliari,Carrarese,McvX4bye,t4GQxEM5,3,1,,,,0
+1727186400,Lecce,Sassuolo,McvX4bye,0lwy4Ij1,0,2,,,,0
+1727195400,Cagliari,Cremonese,McvX4bye,t4GQxEM5,1,0,,,,0
+1727204400,Torino,Empoli,0lwy4Ij1,KbH8aCLf,1,2,,,,0
+1727272800,Pisa,Cesena,GMOw3SI3,YB20ndi2,0,1,,,,0
+1727281800,Udinese,Salernitana,SYw7EcY6,dvgFSUQH,3,1,,,,0
+1727290800,Genoa,Sampdoria,hCD6m1R3,WdmUvPiG,1,1,Pen,1,2,0
+1727368200,Monza,Brescia,nedmW6cD,QuOACKLH,3,1,,,,0
+1727377200,Napoli,Palermo,Qcs4tGVj,fL3dmxxd,5,0,,,,0
+1733247000,Bologna,Monza,McvX4bye,nedmW6cD,4,0,,,,0
+1733256000,AC Milan,Sassuolo,fL3dmxxd,0lwy4Ij1,6,1,,,,0
+1733342400,Fiorentina,Empoli,6XKdgOM6,KbH8aCLf,2,2,Pen,2,3,0
+1733428800,Lazio,Napoli,fL3dmxxd,Qcs4tGVj,3,1,,,,0
+1734465600,Juventus,Cagliari,EXzXDYgS,McvX4bye,4,0,,,,0
+1734543000,Atalanta,Cesena,rg6usZns,YB20ndi2,6,1,,,,0
+1734552000,AS Roma,Sampdoria,GtNb9h2q,WdmUvPiG,4,1,,,,0
+1734638400,Inter,Udinese,jDrBQiMS,SYw7EcY6,2,0,,,,0
+1738699200,Atalanta,Bologna,rg6usZns,McvX4bye,0,1,,,,0
+1738785600,AC Milan,AS Roma,fL3dmxxd,GtNb9h2q,3,1,,,,0
+1740513600,Inter,Lazio,jDrBQiMS,fL3dmxxd,2,0,,,,0
+1740600000,Juventus,Empoli,EXzXDYgS,KbH8aCLf,1,1,Pen,1,2,0
+1743534000,Empoli,Bologna,KbH8aCLf,McvX4bye,0,3,,,,0
+1743620400,AC Milan,Inter,fL3dmxxd,jDrBQiMS,1,1,,,,0
+1745434800,Inter,AC Milan,jDrBQiMS,fL3dmxxd,0,3,,,,0
+1745521200,Bologna,Empoli,McvX4bye,KbH8aCLf,2,1,,,,0
+1747249200,AC Milan,Bologna,fL3dmxxd,McvX4bye,0,1,,,,1

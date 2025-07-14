@@ -1,62 +1,62 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-558795600,FCSB,MTK Budapest,4,0,,,,0
-558801000,Fram,Sparta Prague,0,2,,,,0
-558801900,Lillestrom,Linfield,1,1,,,,0
-558802800,Dyn. Kyiv,Rangers,1,0,,,,0
-558806400,Malmo FF,Anderlecht,0,1,,,,0
-558806400,Aarhus,Jeunesse Esch,4,1,,,,0
-558808200,SK Rapid,Hamrun,6,0,,,,0
-558808200,Shamrock Rovers,Omonia,0,1,,,,0
-558808200,PSV,Galatasaray,3,0,,,,0
-558810000,Xamax,Lahti/69,5,0,,,,0
-558810000,Bayern Munich,CSKA Sofia,4,0,,,,0
-558811800,Olympiacos Piraeus,Gornik Zabrze,1,1,,,,0
-558811800,Bordeaux,BFC Dynamo,2,0,,,,0
-558813600,Benfica,Partizani,4,0,,,,0
-558815400,FC Porto,Vardar,3,0,,,,0
-558816300,Real Madrid,Napoli,2,0,,,,0
-560005200,Partizani,Benfica,0,3,Awrd,,,0
-560005200,Hamrun,SK Rapid,0,1,,,,0
-560005200,Galatasaray,PSV,2,0,,,,0
-560012400,Vardar,FC Porto,0,3,,,,0
-560012400,Sparta Prague,Fram,8,0,,,,0
-560012400,Gornik Zabrze,Olympiacos Piraeus,2,1,,,,0
-560012400,BFC Dynamo,Bordeaux,0,2,,,,0
-560019600,Omonia,Shamrock Rovers,0,0,,,,0
-560019600,Lahti/69,Xamax,2,1,,,,0
-560019600,CSKA Sofia,Bayern Munich,0,1,,,,0
-560020500,Jeunesse Esch,Aarhus,1,0,,,,0
-560021400,Rangers,Dyn. Kyiv,2,0,,,,0
-560021400,Linfield,Lillestrom,2,4,,,,0
-560023200,MTK Budapest,FCSB,2,0,,,,0
-560023200,Anderlecht,Malmo FF,1,1,,,,0
-560025000,Napoli,Real Madrid,1,1,,,,0
-561816000,FCSB,Omonia,3,1,,,,0
-561826800,Sparta Prague,Anderlecht,1,2,,,,0
-561830400,Lillestrom,Bordeaux,0,0,,,,0
-561834000,Aarhus,Benfica,0,0,,,,0
-561835800,SK Rapid,PSV,1,2,,,,0
-561835800,Rangers,Gornik Zabrze,3,1,,,,0
-561839400,Xamax,Bayern Munich,2,1,,,,0
-561843900,Real Madrid,FC Porto,2,1,,,,0
-563036400,Gornik Zabrze,Rangers,1,1,,,,0
-563040000,Bordeaux,Lillestrom,1,0,,,,0
-563043600,Omonia,FCSB,0,2,,,,0
-563045400,PSV,SK Rapid,2,0,,,,0
-563047200,Bayern Munich,Xamax,2,0,,,,0
-563047200,Anderlecht,Sparta Prague,1,0,,,,0
-563054400,FC Porto,Real Madrid,1,2,,,,0
-563054400,Benfica,Aarhus,1,0,,,,0
-573307200,FCSB,Rangers,2,0,,,,0
-573329700,Bayern Munich,Real Madrid,3,2,,,,0
-573330600,Bordeaux,PSV,1,1,,,,0
-573336000,Benfica,Anderlecht,2,0,,,,0
-574536600,Rangers,FCSB,2,1,,,,0
-574536600,PSV,Bordeaux,0,0,,,,0
-574538400,Anderlecht,Benfica,1,0,,,,0
-574542000,Real Madrid,Bayern Munich,2,0,,,,0
-576334800,FCSB,Benfica,0,0,,,,0
-576352800,Real Madrid,PSV,1,1,,,,0
-577557000,PSV,Real Madrid,0,0,,,,0
-577566000,Benfica,FCSB,2,0,,,,0
-580583700,PSV,Benfica,0,0,Pen,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+558795600,FCSB,MTK Budapest,SCh1iPaa,06r6gWo9,4,0,,,,0
+558801000,Fram,Sparta Prague,fL3dmxxd,lWOFh0RD,0,2,,,,0
+558801900,Lillestrom,Linfield,zTAC7Vhk,GUrKqyjt,1,1,,,,0
+558802800,Dyn. Kyiv,Rangers,M1Cjh44S,fFCBVa82,1,0,,,,0
+558806400,Malmo FF,Anderlecht,YmCZKGcR,YVlGNJGc,0,1,,,,0
+558806400,Aarhus,Jeunesse Esch,hGuhahGg,IqhLeVal,4,1,,,,0
+558808200,SK Rapid,Hamrun,QNSj0PU1,j3L7suLi,6,0,,,,0
+558808200,Shamrock Rovers,Omonia,pOsOhLO3,8GeT5Kmk,0,1,,,,0
+558808200,PSV,Galatasaray,j5zA1baQ,dEXkR0Wq,3,0,,,,0
+558810000,Xamax,Lahti/69,ln9wF1MU,tGlVXFkM,5,0,,,,0
+558810000,Bayern Munich,CSKA Sofia,SvLFaVNH,fRtHs98a,4,0,,,,0
+558811800,Olympiacos Piraeus,Gornik Zabrze,lzmp9FUJ,WtiGCgXQ,1,1,,,,0
+558811800,Bordeaux,BFC Dynamo,6BghNX0a,KlQEi9GE,2,0,,,,0
+558813600,Benfica,Partizani,GEKimEim,4praOw3K,4,0,,,,0
+558815400,FC Porto,Vardar,Kth3Rz1C,86OeMIIr,3,0,,,,0
+558816300,Real Madrid,Napoli,fcDVLdrL,Qcs4tGVj,2,0,,,,0
+560005200,Partizani,Benfica,4praOw3K,GEKimEim,0,3,Awrd,,,0
+560005200,Hamrun,SK Rapid,j3L7suLi,QNSj0PU1,0,1,,,,0
+560005200,Galatasaray,PSV,dEXkR0Wq,j5zA1baQ,2,0,,,,0
+560012400,Vardar,FC Porto,86OeMIIr,Kth3Rz1C,0,3,,,,0
+560012400,Sparta Prague,Fram,lWOFh0RD,fL3dmxxd,8,0,,,,0
+560012400,Gornik Zabrze,Olympiacos Piraeus,WtiGCgXQ,lzmp9FUJ,2,1,,,,0
+560012400,BFC Dynamo,Bordeaux,KlQEi9GE,6BghNX0a,0,2,,,,0
+560019600,Omonia,Shamrock Rovers,8GeT5Kmk,pOsOhLO3,0,0,,,,0
+560019600,Lahti/69,Xamax,tGlVXFkM,ln9wF1MU,2,1,,,,0
+560019600,CSKA Sofia,Bayern Munich,fRtHs98a,SvLFaVNH,0,1,,,,0
+560020500,Jeunesse Esch,Aarhus,IqhLeVal,hGuhahGg,1,0,,,,0
+560021400,Rangers,Dyn. Kyiv,fFCBVa82,M1Cjh44S,2,0,,,,0
+560021400,Linfield,Lillestrom,GUrKqyjt,zTAC7Vhk,2,4,,,,0
+560023200,MTK Budapest,FCSB,06r6gWo9,SCh1iPaa,2,0,,,,0
+560023200,Anderlecht,Malmo FF,YVlGNJGc,YmCZKGcR,1,1,,,,0
+560025000,Napoli,Real Madrid,Qcs4tGVj,fcDVLdrL,1,1,,,,0
+561816000,FCSB,Omonia,SCh1iPaa,8GeT5Kmk,3,1,,,,0
+561826800,Sparta Prague,Anderlecht,lWOFh0RD,YVlGNJGc,1,2,,,,0
+561830400,Lillestrom,Bordeaux,zTAC7Vhk,6BghNX0a,0,0,,,,0
+561834000,Aarhus,Benfica,hGuhahGg,GEKimEim,0,0,,,,0
+561835800,SK Rapid,PSV,QNSj0PU1,j5zA1baQ,1,2,,,,0
+561835800,Rangers,Gornik Zabrze,fFCBVa82,WtiGCgXQ,3,1,,,,0
+561839400,Xamax,Bayern Munich,ln9wF1MU,SvLFaVNH,2,1,,,,0
+561843900,Real Madrid,FC Porto,fcDVLdrL,Kth3Rz1C,2,1,,,,0
+563036400,Gornik Zabrze,Rangers,WtiGCgXQ,fFCBVa82,1,1,,,,0
+563040000,Bordeaux,Lillestrom,6BghNX0a,zTAC7Vhk,1,0,,,,0
+563043600,Omonia,FCSB,8GeT5Kmk,SCh1iPaa,0,2,,,,0
+563045400,PSV,SK Rapid,j5zA1baQ,QNSj0PU1,2,0,,,,0
+563047200,Bayern Munich,Xamax,SvLFaVNH,ln9wF1MU,2,0,,,,0
+563047200,Anderlecht,Sparta Prague,YVlGNJGc,lWOFh0RD,1,0,,,,0
+563054400,FC Porto,Real Madrid,Kth3Rz1C,fcDVLdrL,1,2,,,,0
+563054400,Benfica,Aarhus,GEKimEim,hGuhahGg,1,0,,,,0
+573307200,FCSB,Rangers,SCh1iPaa,fFCBVa82,2,0,,,,0
+573329700,Bayern Munich,Real Madrid,SvLFaVNH,fcDVLdrL,3,2,,,,0
+573330600,Bordeaux,PSV,6BghNX0a,j5zA1baQ,1,1,,,,0
+573336000,Benfica,Anderlecht,GEKimEim,YVlGNJGc,2,0,,,,0
+574536600,Rangers,FCSB,fFCBVa82,SCh1iPaa,2,1,,,,0
+574536600,PSV,Bordeaux,j5zA1baQ,6BghNX0a,0,0,,,,0
+574538400,Anderlecht,Benfica,YVlGNJGc,GEKimEim,1,0,,,,0
+574542000,Real Madrid,Bayern Munich,fcDVLdrL,SvLFaVNH,2,0,,,,0
+576334800,FCSB,Benfica,SCh1iPaa,GEKimEim,0,0,,,,0
+576352800,Real Madrid,PSV,fcDVLdrL,j5zA1baQ,1,1,,,,0
+577557000,PSV,Real Madrid,j5zA1baQ,fcDVLdrL,0,0,,,,0
+577566000,Benfica,FCSB,GEKimEim,SCh1iPaa,2,0,,,,0
+580583700,PSV,Benfica,j5zA1baQ,GEKimEim,0,0,Pen,1,0,0

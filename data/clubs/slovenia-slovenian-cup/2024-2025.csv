@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1726583400,Doklezovje,Ljutomer,2,1,,,,0
-1726585200,NK Velesovo,SD Polet,2,0,,,,0
-1726669800,Tisina,Hodos,1,1,Pen,1,2,0
-1726669800,Srednja Bistrica,Turnisce,2,4,,,,0
-1726669800,Race,Pesnica,2,0,,,,0
-1726669800,Pusca,Beltinci,0,2,,,,0
-1726669800,NK Jevnica,Vrhnika,0,3,,,,0
-1726669800,NK Adria,Tolmin,1,3,,,,0
-1726669800,Litija,Ilirija,0,1,,,,0
-1726669800,Granicar Lendava,Nafta,0,15,,,,0
-1726669800,Bravo,NK Krka,5,0,,,,0
-1726669800,Bogojina,Mura,0,4,,,,0
-1726669800,Bela Krajina,Slovan Ljubljana,2,1,,,,0
-1726669800,Bakovci,NK Carda Martjanci,0,7,,,,0
-1726671600,Storzic Preddvor,Ziri,5,0,,,,0
-1726671600,Jadran Dekani,Koper,1,8,,,,0
-1726673400,Zelezniki,Triglav,0,5,,,,0
-1726677000,NK Polana,Odranci,1,0,,,,0
-1726678800,Dobrovce,MB Tabor,5,2,,,,0
-1727188200,Videm,Podvinci,2,0,,,,0
-1727188200,Hajdina,Aluminij,0,4,,,,0
-1727188200,Dob,Radomlje,0,0,Pen,0,1,0
-1727271000,Dravinja,Celje,0,3,,,,0
-1727274600,Stojnci,Zavrc,1,2,,,,0
-1727274600,ND Gorica,Bilje,0,1,,,,0
-1727274600,Gorisnica,Drava,1,5,,,,0
-1727274600,Apace,NK Bistrica,0,5,,,,0
-1727276400,Krsko Posavje,Rudar,1,3,,,,0
-1727276400,Izola,Tabor Sezana,0,3,,,,0
-1727280000,Marjeta na Dravskem polju,Maribor,0,4,,,,0
-1727280000,Domzale,O. Ljubljana,0,3,,,,0
-1727281800,Mozirje,Brezice,0,4,,,,0
-1730206800,Vrhnika,NK Bistrica,1,3,,,,0
-1730206800,Beltinci,Triglav,4,0,,,,0
-1730293200,Tolmin,Bravo,0,2,,,,0
-1730293200,Storzic Preddvor,Maribor,1,2,,,,0
-1730293200,Radomlje,O. Ljubljana,1,2,,,,0
-1730293200,Race,Brezice,3,2,,,,0
-1730293200,NK Velesovo,NK Carda Martjanci,1,3,,,,0
-1730293200,Hodos,Celje,0,8,,,,0
-1730293200,Bilje,Koper,1,1,AET,1,2,0
-1730300400,Rudar,Aluminij,1,2,,,,0
-1730305800,Mura,Zavrc,9,0,,,,0
-1730372400,Videm,Nafta,0,3,,,,0
-1730372400,Turnisce,Ilirija,0,1,,,,0
-1730379600,Tabor Sezana,Drava,1,0,,,,0
-1730379600,Doklezovje,Dobrovce,2,4,,,,0
-1730379600,Bela Krajina,NK Polana,1,0,,,,0
-1740576600,O. Ljubljana,Ilirija,3,0,,,,0
-1740582000,Celje,Tabor Sezana,3,2,,,,0
-1740587400,Mura,Koper,0,1,,,,0
-1741105800,Maribor,Aluminij,2,0,,,,0
-1741181400,NK Carda Martjanci,Nafta,1,2,,,,0
-1741181400,Bravo,Race,7,0,,,,0
-1741194000,Dobrovce,NK Bistrica,0,3,,,,0
-1741267800,Beltinci,Bela Krajina,10,0,,,,0
-1743516000,NK Bistrica,Koper,0,2,,,,0
-1743602400,Nafta,Bravo,1,1,Pen,2,3,0
-1743613200,Maribor,Celje,0,1,,,,0
-1743688800,O. Ljubljana,Beltinci,5,2,,,,0
-1745424000,Koper,Bravo,3,0,,,,0
-1745510400,Celje,O. Ljubljana,2,1,,,,0
-1747245600,Koper,Celje,0,4,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1726583400,Doklezovje,Ljutomer,lAskPRq4,WOiN3YjQ,2,1,,,,0
+1726585200,NK Velesovo,SD Polet,AXk6EDbU,vmEz1AMd,2,0,,,,0
+1726669800,Tisina,Hodos,WMQBZdUu,K0xutzhA,1,1,Pen,1,2,0
+1726669800,Srednja Bistrica,Turnisce,dpGsJTdo,KhGz8pzt,2,4,,,,0
+1726669800,Race,Pesnica,Q78lLEVs,vwBYgxnt,2,0,,,,0
+1726669800,Pusca,Beltinci,noPGhkI7,EB9Z0sEO,0,2,,,,0
+1726669800,NK Jevnica,Vrhnika,WjhC9Id9,lSGRBFSF,0,3,,,,0
+1726669800,NK Adria,Tolmin,Ygi8VSKk,WUxnvDKb,1,3,,,,0
+1726669800,Litija,Ilirija,4IDFGFcR,GYzACV3C,0,1,,,,0
+1726669800,Granicar Lendava,Nafta,2qWymU9i,lMVQNkcq,0,15,,,,0
+1726669800,Bravo,NK Krka,h2vTJgFJ,WGDgkDs1,5,0,,,,0
+1726669800,Bogojina,Mura,pjdhBhCj,UcUjoAI7,0,4,,,,0
+1726669800,Bela Krajina,Slovan Ljubljana,zk01QcC8,CfyC5Nim,2,1,,,,0
+1726669800,Bakovci,NK Carda Martjanci,AXk6EDbU,QoDjNfZL,0,7,,,,0
+1726671600,Storzic Preddvor,Ziri,zmyK4R5c,CfyC5Nim,5,0,,,,0
+1726671600,Jadran Dekani,Koper,n3UXADzS,Ukh5nnRo,1,8,,,,0
+1726673400,Zelezniki,Triglav,4MT9N001,SObuJ8lK,0,5,,,,0
+1726677000,NK Polana,Odranci,Ik9HqAEU,2yjk7j71,1,0,,,,0
+1726678800,Dobrovce,MB Tabor,0M6vqwOJ,nebBIF6l,5,2,,,,0
+1727188200,Videm,Podvinci,x8FWPl6b,rVD0IIGn,2,0,,,,0
+1727188200,Hajdina,Aluminij,YPctcUa9,8MCIbRV4,0,4,,,,0
+1727188200,Dob,Radomlje,zk01QcC8,On6HHpDI,0,0,Pen,0,1,0
+1727271000,Dravinja,Celje,Eua5PHRE,juuH5vx4,0,3,,,,0
+1727274600,Stojnci,Zavrc,jiX5wV89,AT1C7n8d,1,2,,,,0
+1727274600,ND Gorica,Bilje,CltD6KMc,YVdMCa76,0,1,,,,0
+1727274600,Gorisnica,Drava,IH3CVOpf,4YZxDhVh,1,5,,,,0
+1727274600,Apace,NK Bistrica,EuX9czik,MuJlmpmb,0,5,,,,0
+1727276400,Krsko Posavje,Rudar,Mm59Ckwm,fcDVLdrL,1,3,,,,0
+1727276400,Izola,Tabor Sezana,0Kwhi4m2,Qwe4rAuT,0,3,,,,0
+1727280000,Marjeta na Dravskem polju,Maribor,fsJPyBX7,88sMeCH2,0,4,,,,0
+1727280000,Domzale,O. Ljubljana,8GL0cHSF,zc0A80Mi,0,3,,,,0
+1727281800,Mozirje,Brezice,A5FJfj90,EB9Z0sEO,0,4,,,,0
+1730206800,Vrhnika,NK Bistrica,lSGRBFSF,MuJlmpmb,1,3,,,,0
+1730206800,Beltinci,Triglav,EB9Z0sEO,SObuJ8lK,4,0,,,,0
+1730293200,Tolmin,Bravo,WUxnvDKb,h2vTJgFJ,0,2,,,,0
+1730293200,Storzic Preddvor,Maribor,zmyK4R5c,88sMeCH2,1,2,,,,0
+1730293200,Radomlje,O. Ljubljana,On6HHpDI,zc0A80Mi,1,2,,,,0
+1730293200,Race,Brezice,Q78lLEVs,EB9Z0sEO,3,2,,,,0
+1730293200,NK Velesovo,NK Carda Martjanci,AXk6EDbU,QoDjNfZL,1,3,,,,0
+1730293200,Hodos,Celje,K0xutzhA,juuH5vx4,0,8,,,,0
+1730293200,Bilje,Koper,YVdMCa76,Ukh5nnRo,1,1,AET,1,2,0
+1730300400,Rudar,Aluminij,fcDVLdrL,8MCIbRV4,1,2,,,,0
+1730305800,Mura,Zavrc,UcUjoAI7,AT1C7n8d,9,0,,,,0
+1730372400,Videm,Nafta,x8FWPl6b,lMVQNkcq,0,3,,,,0
+1730372400,Turnisce,Ilirija,KhGz8pzt,GYzACV3C,0,1,,,,0
+1730379600,Tabor Sezana,Drava,Qwe4rAuT,4YZxDhVh,1,0,,,,0
+1730379600,Doklezovje,Dobrovce,lAskPRq4,0M6vqwOJ,2,4,,,,0
+1730379600,Bela Krajina,NK Polana,zk01QcC8,Ik9HqAEU,1,0,,,,0
+1740576600,O. Ljubljana,Ilirija,zc0A80Mi,GYzACV3C,3,0,,,,0
+1740582000,Celje,Tabor Sezana,juuH5vx4,Qwe4rAuT,3,2,,,,0
+1740587400,Mura,Koper,UcUjoAI7,Ukh5nnRo,0,1,,,,0
+1741105800,Maribor,Aluminij,88sMeCH2,8MCIbRV4,2,0,,,,0
+1741181400,NK Carda Martjanci,Nafta,QoDjNfZL,lMVQNkcq,1,2,,,,0
+1741181400,Bravo,Race,h2vTJgFJ,Q78lLEVs,7,0,,,,0
+1741194000,Dobrovce,NK Bistrica,0M6vqwOJ,MuJlmpmb,0,3,,,,0
+1741267800,Beltinci,Bela Krajina,EB9Z0sEO,zk01QcC8,10,0,,,,0
+1743516000,NK Bistrica,Koper,MuJlmpmb,Ukh5nnRo,0,2,,,,0
+1743602400,Nafta,Bravo,lMVQNkcq,h2vTJgFJ,1,1,Pen,2,3,0
+1743613200,Maribor,Celje,88sMeCH2,juuH5vx4,0,1,,,,0
+1743688800,O. Ljubljana,Beltinci,zc0A80Mi,EB9Z0sEO,5,2,,,,0
+1745424000,Koper,Bravo,Ukh5nnRo,h2vTJgFJ,3,0,,,,0
+1745510400,Celje,O. Ljubljana,juuH5vx4,zc0A80Mi,2,1,,,,0
+1747245600,Koper,Celje,Ukh5nnRo,juuH5vx4,0,4,,,,1

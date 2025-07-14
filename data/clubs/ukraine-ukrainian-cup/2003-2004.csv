@@ -1,22 +1,22 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1067382000,Stal Alchevsk,Obolon,3,0,,,,0
-1067382000,Spartak Ivanov-Frankivsk,Ch. Odesa,0,1,,,,0
-1067432400,Met. Donetsk,Tavriya,1,1,Pen,1,2,0
-1067443200,Mariupol,Vorskla Poltava,5,0,,,,0
-1067443200,Kryvbas Krivoy Rog,Shakhtar Donetsk,0,4,,,,0
-1067443200,Dyn. Kyiv,Volyn Lutsk,1,0,,,,0
-1067443200,Dnipro,Arsenal Kiev,3,0,,,,0
-1067443200,Borisfen Borispol,Met. Zaporizhya,1,1,AET,1,2,0
-1068850800,Mariupol,Dyn. Kyiv,0,8,,,,0
-1068937200,Met. Zaporizhya,Ch. Odesa,1,1,,,,0
-1068987600,Dnipro,Tavriya,4,1,,,,0
-1069250400,Dyn. Kyiv,Mariupol,1,0,,,,0
-1069333200,Ch. Odesa,Met. Zaporizhya,2,0,,,,0
-1069419600,Tavriya,Dnipro,1,2,,,,0
-1069498800,Stal Alchevsk,Shakhtar Donetsk,0,0,,,,0
-1069801200,Shakhtar Donetsk,Stal Alchevsk,3,1,,,,0
-1078668000,Dnipro,Dyn. Kyiv,2,0,,,,0
-1078668000,Ch. Odesa,Shakhtar Donetsk,0,1,,,,0
-1082563200,Shakhtar Donetsk,Ch. Odesa,1,0,,,,0
-1082563200,Dyn. Kyiv,Dnipro,2,0,AET,2,0,0
-1085925600,Shakhtar Donetsk,Dnipro,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1067382000,Stal Alchevsk,Obolon,tMsKdV02,QanlLhoo,3,0,,,,0
+1067382000,Spartak Ivanov-Frankivsk,Ch. Odesa,6y7UZufg,4bedUOPH,0,1,,,,0
+1067432400,Met. Donetsk,Tavriya,f5csGSwJ,4GQ6kuAf,1,1,Pen,1,2,0
+1067443200,Mariupol,Vorskla Poltava,GzrDrkgg,SOzPeLV8,5,0,,,,0
+1067443200,Kryvbas Krivoy Rog,Shakhtar Donetsk,ncFcQ5qn,YmCZKGcR,0,4,,,,0
+1067443200,Dyn. Kyiv,Volyn Lutsk,M1Cjh44S,f5csGSwJ,1,0,,,,0
+1067443200,Dnipro,Arsenal Kiev,xbUiUE46,tneUjJf7,3,0,,,,0
+1067443200,Borisfen Borispol,Met. Zaporizhya,GIIbiExr,YVQtLWA9,1,1,AET,1,2,0
+1068850800,Mariupol,Dyn. Kyiv,GzrDrkgg,M1Cjh44S,0,8,,,,0
+1068937200,Met. Zaporizhya,Ch. Odesa,YVQtLWA9,4bedUOPH,1,1,,,,0
+1068987600,Dnipro,Tavriya,xbUiUE46,4GQ6kuAf,4,1,,,,0
+1069250400,Dyn. Kyiv,Mariupol,M1Cjh44S,GzrDrkgg,1,0,,,,0
+1069333200,Ch. Odesa,Met. Zaporizhya,4bedUOPH,YVQtLWA9,2,0,,,,0
+1069419600,Tavriya,Dnipro,4GQ6kuAf,xbUiUE46,1,2,,,,0
+1069498800,Stal Alchevsk,Shakhtar Donetsk,tMsKdV02,YmCZKGcR,0,0,,,,0
+1069801200,Shakhtar Donetsk,Stal Alchevsk,YmCZKGcR,tMsKdV02,3,1,,,,0
+1078668000,Dnipro,Dyn. Kyiv,xbUiUE46,M1Cjh44S,2,0,,,,0
+1078668000,Ch. Odesa,Shakhtar Donetsk,4bedUOPH,YmCZKGcR,0,1,,,,0
+1082563200,Shakhtar Donetsk,Ch. Odesa,YmCZKGcR,4bedUOPH,1,0,,,,0
+1082563200,Dyn. Kyiv,Dnipro,M1Cjh44S,xbUiUE46,2,0,AET,2,0,0
+1085925600,Shakhtar Donetsk,Dnipro,YmCZKGcR,xbUiUE46,2,0,,,,0

@@ -1,58 +1,58 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1387629000,Zarzis,ES Beni-Khalled,4,0,,,,0
-1387629000,Korba,Hilalien,3,2,,,,0
-1387629000,Kasserine,AS Djerba,1,0,,,,0
-1387629000,Jendouba Sport,Ariana,1,0,,,,0
-1387629000,Enfida Sports,Msaken,1,0,,,,0
-1387715400,Sidi Bouzid,AS Gabes,0,0,Pen,0,1,0
-1387715400,Sfax Railways,Hammamet,2,1,,,,0
-1387715400,Olympique Kef,CS Sfaxien,2,0,,,,0
-1387715400,CO Transports,Hamam-Sousse,1,1,Pen,2,1,0
-1387715400,Ben Guerdane,Sporting Ben Arous,2,1,,,,0
-1394888400,Stade Nabeulien,Olympique Kef,1,1,Pen,2,1,0
-1394888400,Siliana,Enfida Sports,1,0,,,,0
-1394888400,Menzel Abderrahmane,CS Makthar,1,0,,,,0
-1394888400,Layoun,Mdhilla,2,1,,,,0
-1394888400,Jendouba Sport,Mateur,4,2,,,,0
-1394888400,HSKK,Dehmani,3,2,,,,0
-1394888400,Feriana,EM Mahdia,2,1,,,,0
-1394888400,EGS Gafsa,ES Fahs,0,1,,,,0
-1394888400,CO Transports,Menzel Bouzelfa,2,2,AET,2,3,0
-1394974800,NA Bouhjar,US Tataouine,2,0,,,,0
-1394974800,Kasserine,Korba,3,1,,,,0
-1394974800,ES Nafta,Zarzis,0,2,,,,0
-1394974800,Cheneni,Haffouz,2,1,,,,0
-1394974800,Chebba,AS Gabes,1,1,Pen,1,2,0
-1394974800,AS Tataouine,Sfax Railways,1,2,,,,0
-1395493200,Ben Guerdane,JS Omrane,5,0,,,,0
-1397826000,Zarzis,AS Gabes,2,3,,,,0
-1397912400,Siliana,EGS Gafsa,1,2,,,,0
-1397912400,Monastir,AS Marsa,1,1,Pen,2,1,0
-1397912400,Menzel Abderrahmane,Menzel Bouzelfa,1,0,,,,0
-1397912400,Jendouba Sport,Layoun,2,0,,,,0
-1397912400,Feriana,Sfax Railways,2,1,,,,0
-1397912400,Ben Guerdane,CS Sfaxien,1,1,AET,1,2,0
-1397998800,Stade Nabeulien,Hammam-Lif,1,3,,,,0
-1397998800,NA Bouhjar,JS Kairouan,0,2,,,,0
-1397998800,Kasserine,Metlaoui,2,3,,,,0
-1397998800,HSKK,LPTA Tozeur,0,3,,,,0
-1397998800,Haffouz,Club Africain,0,1,,,,0
-1397998800,Grombalia Sports,Stade Tunisien,0,1,,,,0
-1397998800,Esperance Tunis,Olympique Beja,3,1,,,,0
-1398344400,ES Fahs,Etoile Sahel,0,4,,,,0
-1399730400,Stade Gabesien,CA Bizertin,1,1,Pen,2,1,0
-1402149600,Stade Tunisien,LPTA Tozeur,3,0,,,,0
-1402583400,JS Kairouan,EGS Gafsa,0,0,AET,1,0,0
-1402583400,Jendouba Sport,Monastir,0,3,,,,0
-1402583400,Etoile Sahel,Feriana,3,0,,,,0
-1402583400,Esperance Tunis,Hammam-Lif,3,1,,,,0
-1402583400,CS Sfaxien,Menzel Abderrahmane,3,0,,,,0
-1402583400,Club Africain,Stade Gabesien,1,0,,,,0
-1402583400,AS Gabes,Metlaoui,0,2,,,,0
-1402842600,Monastir,JS Kairouan,0,2,,,,0
-1402842600,Etoile Sahel,Metlaoui,3,0,,,,0
-1402842600,Esperance Tunis,CS Sfaxien,1,2,,,,0
-1402842600,Club Africain,Stade Tunisien,0,1,,,,0
-1403361000,CS Sfaxien,JS Kairouan,0,0,AET,2,0,0
-1403449200,Stade Tunisien,Etoile Sahel,0,0,Pen,0,1,0
-1403884800,CS Sfaxien,Etoile Sahel,0,1,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1387629000,Zarzis,ES Beni-Khalled,Eua5PHRE,j3c9OysL,4,0,,,,0
+1387629000,Korba,Hilalien,xn8wh4Km,4E7tTbYc,3,2,,,,0
+1387629000,Kasserine,AS Djerba,h0aVzwOp,KYuuicg3,1,0,,,,0
+1387629000,Jendouba Sport,Ariana,xn8wh4Km,xn8wh4Km,1,0,,,,0
+1387629000,Enfida Sports,Msaken,IPZOWBuE,OMKvAEwD,1,0,,,,0
+1387715400,Sidi Bouzid,AS Gabes,IN4jHlGF,EgOnwaeL,0,0,Pen,0,1,0
+1387715400,Sfax Railways,Hammamet,v9Pmbxzb,xn8wh4Km,2,1,,,,0
+1387715400,Olympique Kef,CS Sfaxien,G26ZPsda,8QjOsK1t,2,0,,,,0
+1387715400,CO Transports,Hamam-Sousse,Y9XrgGum,OIM3sMvL,1,1,Pen,2,1,0
+1387715400,Ben Guerdane,Sporting Ben Arous,bNN2piW2,Gx7siOZg,2,1,,,,0
+1394888400,Stade Nabeulien,Olympique Kef,Gx7siOZg,G26ZPsda,1,1,Pen,2,1,0
+1394888400,Siliana,Enfida Sports,xn8wh4Km,IPZOWBuE,1,0,,,,0
+1394888400,Menzel Abderrahmane,CS Makthar,8An8DXeO,8jMHXzst,1,0,,,,0
+1394888400,Layoun,Mdhilla,8An8DXeO,x6GNeBnt,2,1,,,,0
+1394888400,Jendouba Sport,Mateur,xn8wh4Km,,4,2,,,,0
+1394888400,HSKK,Dehmani,n1oCCiBU,,3,2,,,,0
+1394888400,Feriana,EM Mahdia,n1oCCiBU,ITL0iSYq,2,1,,,,0
+1394888400,EGS Gafsa,ES Fahs,6kIbSAtS,8jMHXzst,0,1,,,,0
+1394888400,CO Transports,Menzel Bouzelfa,Y9XrgGum,jaLHQWCH,2,2,AET,2,3,0
+1394974800,NA Bouhjar,US Tataouine,K6ej6Fq9,lQPuHXzh,2,0,,,,0
+1394974800,Kasserine,Korba,h0aVzwOp,xn8wh4Km,3,1,,,,0
+1394974800,ES Nafta,Zarzis,,Eua5PHRE,0,2,,,,0
+1394974800,Cheneni,Haffouz,,ba1JKngh,2,1,,,,0
+1394974800,Chebba,AS Gabes,4Cdm8uR5,EgOnwaeL,1,1,Pen,1,2,0
+1394974800,AS Tataouine,Sfax Railways,pC92HWTo,v9Pmbxzb,1,2,,,,0
+1395493200,Ben Guerdane,JS Omrane,bNN2piW2,n1oCCiBU,5,0,,,,0
+1397826000,Zarzis,AS Gabes,Eua5PHRE,EgOnwaeL,2,3,,,,0
+1397912400,Siliana,EGS Gafsa,xn8wh4Km,6kIbSAtS,1,2,,,,0
+1397912400,Monastir,AS Marsa,OlRcOd3K,zgzLiH7t,1,1,Pen,2,1,0
+1397912400,Menzel Abderrahmane,Menzel Bouzelfa,8An8DXeO,jaLHQWCH,1,0,,,,0
+1397912400,Jendouba Sport,Layoun,xn8wh4Km,8An8DXeO,2,0,,,,0
+1397912400,Feriana,Sfax Railways,n1oCCiBU,v9Pmbxzb,2,1,,,,0
+1397912400,Ben Guerdane,CS Sfaxien,bNN2piW2,8QjOsK1t,1,1,AET,1,2,0
+1397998800,Stade Nabeulien,Hammam-Lif,Gx7siOZg,25iFJh20,1,3,,,,0
+1397998800,NA Bouhjar,JS Kairouan,K6ej6Fq9,beBXmIt1,0,2,,,,0
+1397998800,Kasserine,Metlaoui,h0aVzwOp,bNN2piW2,2,3,,,,0
+1397998800,HSKK,LPTA Tozeur,n1oCCiBU,YDgm7WW0,0,3,,,,0
+1397998800,Haffouz,Club Africain,ba1JKngh,bob4M53H,0,1,,,,0
+1397998800,Grombalia Sports,Stade Tunisien,vZhtxHcd,GOX2DTa1,0,1,,,,0
+1397998800,Esperance Tunis,Olympique Beja,QwBpoY8M,I5FjZXgm,3,1,,,,0
+1398344400,ES Fahs,Etoile Sahel,8jMHXzst,8flds5zI,0,4,,,,0
+1399730400,Stade Gabesien,CA Bizertin,b3uqjdCG,KnNw8eel,1,1,Pen,2,1,0
+1402149600,Stade Tunisien,LPTA Tozeur,GOX2DTa1,YDgm7WW0,3,0,,,,0
+1402583400,JS Kairouan,EGS Gafsa,beBXmIt1,6kIbSAtS,0,0,AET,1,0,0
+1402583400,Jendouba Sport,Monastir,xn8wh4Km,OlRcOd3K,0,3,,,,0
+1402583400,Etoile Sahel,Feriana,8flds5zI,n1oCCiBU,3,0,,,,0
+1402583400,Esperance Tunis,Hammam-Lif,QwBpoY8M,25iFJh20,3,1,,,,0
+1402583400,CS Sfaxien,Menzel Abderrahmane,8QjOsK1t,8An8DXeO,3,0,,,,0
+1402583400,Club Africain,Stade Gabesien,bob4M53H,b3uqjdCG,1,0,,,,0
+1402583400,AS Gabes,Metlaoui,EgOnwaeL,bNN2piW2,0,2,,,,0
+1402842600,Monastir,JS Kairouan,OlRcOd3K,beBXmIt1,0,2,,,,0
+1402842600,Etoile Sahel,Metlaoui,8flds5zI,bNN2piW2,3,0,,,,0
+1402842600,Esperance Tunis,CS Sfaxien,QwBpoY8M,8QjOsK1t,1,2,,,,0
+1402842600,Club Africain,Stade Tunisien,bob4M53H,GOX2DTa1,0,1,,,,0
+1403361000,CS Sfaxien,JS Kairouan,8QjOsK1t,beBXmIt1,0,0,AET,2,0,0
+1403449200,Stade Tunisien,Etoile Sahel,GOX2DTa1,8flds5zI,0,0,Pen,0,1,0
+1403884800,CS Sfaxien,Etoile Sahel,8QjOsK1t,8flds5zI,0,1,,,,1

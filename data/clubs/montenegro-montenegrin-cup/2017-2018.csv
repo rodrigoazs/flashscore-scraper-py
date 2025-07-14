@@ -1,42 +1,42 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1503500400,Zeta,FK Podgorica,2,1,,,,0
-1503500400,Titograd,Celik Niksic,9,1,,,,0
-1503500400,Stijena,FK Cetinje,1,0,,,,0
-1503500400,Pljevlja 1997,Otrant,1,3,,,,0
-1503500400,OFK Borac,Igalo,0,3,,,,0
-1503500400,Kom Podgorica,Berane,2,3,,,,0
-1503500400,Ibar,Petrovac,2,1,,,,0
-1503500400,Decic,Jezero,3,1,,,,0
-1503500400,Buducnost,Jedinstvo,5,0,,,,0
-1503500400,Arsenal Tivat,Mornar Bar,1,3,,,,0
-1503586800,Radovici,Lovcen,1,6,,,,0
-1503586800,Konik,Bokelj,1,7,,,,0
-1505309400,Titograd,Zeta,4,0,,,,0
-1505309400,Stijena,Igalo,0,1,,,,0
-1505309400,Rudar,Sutjeska,0,0,,,,0
-1505309400,Otrant,Ibar,0,2,,,,0
-1505309400,Lovcen,Berane,0,1,,,,0
-1505309400,Grbalj,Bokelj,2,1,,,,0
-1505309400,Decic,Mornar Bar,1,2,,,,0
-1505309400,Buducnost,Iskra,2,0,,,,0
-1506430800,Sutjeska,Rudar,4,0,,,,0
-1506517200,Zeta,Titograd,1,2,,,,0
-1506517200,Mornar Bar,Decic,4,3,,,,0
-1506517200,Iskra,Buducnost,0,2,,,,0
-1506517200,Igalo,Stijena,5,1,,,,0
-1506517200,Ibar,Otrant,0,1,,,,0
-1506517200,Bokelj,Grbalj,0,0,,,,0
-1506517200,Berane,Lovcen,1,2,,,,0
-1509539400,Mornar Bar,Titograd,0,2,,,,0
-1509539400,Igalo,Lovcen,0,1,,,,0
-1509539400,Ibar,Grbalj,0,4,,,,0
-1509548400,Buducnost,Sutjeska,2,0,,,,0
-1511352000,Titograd,Mornar Bar,3,0,,,,0
-1511352000,Lovcen,Igalo,1,3,,,,0
-1511352000,Grbalj,Ibar,2,0,,,,0
-1511362800,Sutjeska,Buducnost,0,1,,,,0
-1524060000,Igalo,Grbalj,0,0,,,,0
-1524060000,Buducnost,Titograd,1,2,,,,0
-1525273200,Titograd,Buducnost,1,2,Pen,2,2,0
-1525273200,Grbalj,Igalo,1,1,,,,0
-1527705000,Titograd,Igalo,2,0,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1503500400,Zeta,FK Podgorica,vLDFhvIU,IRdZ5ayn,2,1,,,,0
+1503500400,Titograd,Celik Niksic,ABpmWgn7,bRJp42Nu,9,1,,,,0
+1503500400,Stijena,FK Cetinje,b9UDeHRe,AyvhK6wb,1,0,,,,0
+1503500400,Pljevlja 1997,Otrant,Wti2FgqO,6VRjOi1H,1,3,,,,0
+1503500400,OFK Borac,Igalo,KbwosoTC,8xsLFjVh,0,3,,,,0
+1503500400,Kom Podgorica,Berane,4Uy7FtTH,YmnqXZW0,2,3,,,,0
+1503500400,Ibar,Petrovac,Aaf9ZSca,ABpmWgn7,2,1,,,,0
+1503500400,Decic,Jezero,UstD1joU,ljgDYnD5,3,1,,,,0
+1503500400,Buducnost,Jedinstvo,zVJMgvaS,2JKzUeUK,5,0,,,,0
+1503500400,Arsenal Tivat,Mornar Bar,25w9qSfP,2JKzUeUK,1,3,,,,0
+1503586800,Radovici,Lovcen,Ui9ohC3h,ABpmWgn7,1,6,,,,0
+1503586800,Konik,Bokelj,jwn94jk4,ABpmWgn7,1,7,,,,0
+1505309400,Titograd,Zeta,ABpmWgn7,vLDFhvIU,4,0,,,,0
+1505309400,Stijena,Igalo,b9UDeHRe,8xsLFjVh,0,1,,,,0
+1505309400,Rudar,Sutjeska,KfNVySaO,zVJMgvaS,0,0,,,,0
+1505309400,Otrant,Ibar,6VRjOi1H,Aaf9ZSca,0,2,,,,0
+1505309400,Lovcen,Berane,ABpmWgn7,YmnqXZW0,0,1,,,,0
+1505309400,Grbalj,Bokelj,YmnqXZW0,ABpmWgn7,2,1,,,,0
+1505309400,Decic,Mornar Bar,UstD1joU,2JKzUeUK,1,2,,,,0
+1505309400,Buducnost,Iskra,zVJMgvaS,0ASINSdB,2,0,,,,0
+1506430800,Sutjeska,Rudar,zVJMgvaS,KfNVySaO,4,0,,,,0
+1506517200,Zeta,Titograd,vLDFhvIU,ABpmWgn7,1,2,,,,0
+1506517200,Mornar Bar,Decic,2JKzUeUK,UstD1joU,4,3,,,,0
+1506517200,Iskra,Buducnost,0ASINSdB,zVJMgvaS,0,2,,,,0
+1506517200,Igalo,Stijena,8xsLFjVh,b9UDeHRe,5,1,,,,0
+1506517200,Ibar,Otrant,Aaf9ZSca,6VRjOi1H,0,1,,,,0
+1506517200,Bokelj,Grbalj,ABpmWgn7,YmnqXZW0,0,0,,,,0
+1506517200,Berane,Lovcen,YmnqXZW0,ABpmWgn7,1,2,,,,0
+1509539400,Mornar Bar,Titograd,2JKzUeUK,ABpmWgn7,0,2,,,,0
+1509539400,Igalo,Lovcen,8xsLFjVh,ABpmWgn7,0,1,,,,0
+1509539400,Ibar,Grbalj,Aaf9ZSca,YmnqXZW0,0,4,,,,0
+1509548400,Buducnost,Sutjeska,zVJMgvaS,zVJMgvaS,2,0,,,,0
+1511352000,Titograd,Mornar Bar,ABpmWgn7,2JKzUeUK,3,0,,,,0
+1511352000,Lovcen,Igalo,ABpmWgn7,8xsLFjVh,1,3,,,,0
+1511352000,Grbalj,Ibar,YmnqXZW0,Aaf9ZSca,2,0,,,,0
+1511362800,Sutjeska,Buducnost,zVJMgvaS,zVJMgvaS,0,1,,,,0
+1524060000,Igalo,Grbalj,8xsLFjVh,YmnqXZW0,0,0,,,,0
+1524060000,Buducnost,Titograd,zVJMgvaS,ABpmWgn7,1,2,,,,0
+1525273200,Titograd,Buducnost,ABpmWgn7,zVJMgvaS,1,2,Pen,2,2,0
+1525273200,Grbalj,Igalo,YmnqXZW0,8xsLFjVh,1,1,,,,0
+1527705000,Titograd,Igalo,ABpmWgn7,8xsLFjVh,2,0,,,,1

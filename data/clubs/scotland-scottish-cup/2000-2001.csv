@@ -1,20 +1,20 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-950742000,Stirling,Hibernian,2,3,,,,0
-950742000,Ross County,Rangers,2,3,,,,0
-950742000,Motherwell,Dundee Utd,0,2,,,,0
-950742000,Livingston,Aberdeen,0,0,,,,0
-950742000,Inverness,Kilmarnock,1,1,,,,0
-950742000,Hearts,Dundee FC,1,1,,,,0
-950742000,Dunfermline,Celtic,2,2,,,,0
-950742000,Airdrieonians,Peterhead,0,3,,,,0
-952297200,Kilmarnock,Inverness,2,1,,,,0
-952297200,Dundee FC,Hearts,0,1,,,,0
-952297200,Celtic,Dunfermline,4,1,,,,0
-952297200,Aberdeen,Livingston,0,1,,,,0
-952642800,Livingston,Peterhead,3,1,,,,0
-952642800,Kilmarnock,Hibernian,0,1,,,,0
-952642800,Dundee Utd,Rangers,1,0,,,,0
-952642800,Celtic,Hearts,1,0,,,,0
-955663200,Hibernian,Livingston,3,0,,,,0
-955749600,Celtic,Dundee Utd,3,1,,,,0
-958082400,Celtic,Hibernian,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+950742000,Stirling,Hibernian,4SnLNmG8,CS2l9ZrP,2,3,,,,0
+950742000,Ross County,Rangers,Q3IZ4oST,fFCBVa82,2,3,,,,0
+950742000,Motherwell,Dundee Utd,xGFNNID8,hEvkcVY1,0,2,,,,0
+950742000,Livingston,Aberdeen,2gmAxwcQ,SQqfdcHF,0,0,,,,0
+950742000,Inverness,Kilmarnock,O2l6wJsK,xAfKntqE,1,1,,,,0
+950742000,Hearts,Dundee FC,GlTeTYJC,YRhqOgYr,1,1,,,,0
+950742000,Dunfermline,Celtic,vZ6gsKf8,xGFNNID8,2,2,,,,0
+950742000,Airdrieonians,Peterhead,AB4EluEP,QylHOT02,0,3,,,,0
+952297200,Kilmarnock,Inverness,xAfKntqE,O2l6wJsK,2,1,,,,0
+952297200,Dundee FC,Hearts,YRhqOgYr,GlTeTYJC,0,1,,,,0
+952297200,Celtic,Dunfermline,xGFNNID8,vZ6gsKf8,4,1,,,,0
+952297200,Aberdeen,Livingston,SQqfdcHF,2gmAxwcQ,0,1,,,,0
+952642800,Livingston,Peterhead,2gmAxwcQ,QylHOT02,3,1,,,,0
+952642800,Kilmarnock,Hibernian,xAfKntqE,CS2l9ZrP,0,1,,,,0
+952642800,Dundee Utd,Rangers,hEvkcVY1,fFCBVa82,1,0,,,,0
+952642800,Celtic,Hearts,xGFNNID8,GlTeTYJC,1,0,,,,0
+955663200,Hibernian,Livingston,CS2l9ZrP,2gmAxwcQ,3,0,,,,0
+955749600,Celtic,Dundee Utd,xGFNNID8,hEvkcVY1,3,1,,,,0
+958082400,Celtic,Hibernian,xGFNNID8,CS2l9ZrP,3,0,,,,0

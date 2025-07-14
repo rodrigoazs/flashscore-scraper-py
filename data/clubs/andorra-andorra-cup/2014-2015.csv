@@ -1,17 +1,17 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1393009200,UE Santa Coloma B,Ordino B,2,4,,,,0
-1393066800,Lusitanos B,FC Santa Coloma,0,9,,,,0
-1393081200,FC Rangers,Lusitanos,0,10,,,,0
-1393671600,FC Santa Coloma,Ordino B,14,0,,,,0
-1393671600,Extremenya,Sant Julia,0,5,,,,0
-1393678800,Penya,UE Santa Coloma,0,3,,,,0
-1393686000,UE Engordany,Encamp,2,2,,,,0
-1393686000,Ordino,La Massana,11,0,,,,0
-1393693200,Inter Escaldes,Encamp B,8,0,,,,0
-1393878600,UE Santa Coloma,Inter Escaldes,3,1,,,,0
-1393965000,Lusitanos,Ordino,0,2,,,,0
-1394051400,UE Engordany,Encamp,0,1,,,,0
-1394276400,Sant Julia,Encamp,4,0,,,,0
-1394290800,FC Santa Coloma,Ordino,4,3,,,,0
-1394570400,UE Santa Coloma,Sant Julia,1,3,,,,0
-1399734000,FC Santa Coloma,Sant Julia,0,0,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1393009200,UE Santa Coloma B,Ordino B,UofLYGpR,AZKCaAr8,2,4,,,,0
+1393066800,Lusitanos B,FC Santa Coloma,M3iITELK,Uik4ihaC,0,9,,,,0
+1393081200,FC Rangers,Lusitanos,UotWH3iq,EqB1ZBtG,0,10,,,,0
+1393671600,FC Santa Coloma,Ordino B,Uik4ihaC,AZKCaAr8,14,0,,,,0
+1393671600,Extremenya,Sant Julia,tAX7qMR3,McUMVQPk,0,5,,,,0
+1393678800,Penya,UE Santa Coloma,xScRTKBn,2aQZ1RRP,0,3,,,,0
+1393686000,UE Engordany,Encamp,MHnvH5pK,8pVQYYp7,2,2,,,,0
+1393686000,Ordino,La Massana,byaNU0dt,byaNU0dt,11,0,,,,0
+1393693200,Inter Escaldes,Encamp B,tKbrPWjF,IX145pkd,8,0,,,,0
+1393878600,UE Santa Coloma,Inter Escaldes,2aQZ1RRP,tKbrPWjF,3,1,,,,0
+1393965000,Lusitanos,Ordino,EqB1ZBtG,byaNU0dt,0,2,,,,0
+1394051400,UE Engordany,Encamp,MHnvH5pK,8pVQYYp7,0,1,,,,0
+1394276400,Sant Julia,Encamp,McUMVQPk,8pVQYYp7,4,0,,,,0
+1394290800,FC Santa Coloma,Ordino,Uik4ihaC,byaNU0dt,4,3,,,,0
+1394570400,UE Santa Coloma,Sant Julia,2aQZ1RRP,McUMVQPk,1,3,,,,0
+1399734000,FC Santa Coloma,Sant Julia,Uik4ihaC,McUMVQPk,0,0,Pen,1,2,0

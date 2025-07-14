@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1716379200,Rivers United,Niger Tornadoes,1,0,,,,0
-1716390000,Warri Wolves,Kwara,0,1,,,,0
-1716390000,Plateau United,Sunshine Stars,1,1,Pen,1,2,0
-1716390000,One Rocket,Enyimba,0,1,,,,0
-1716390000,Nasarawa,Sokoto,0,1,,,,0
-1716390000,Lobi Stars,Shooting,0,2,,,,0
-1716390000,Katsina Utd,Bayelsa United,1,0,,,,0
-1716390000,Hammola,Inter Lagos,0,0,Pen,0,1,0
-1716390000,Gombe,El Kanemi,0,3,Awrd,,,0
-1716390000,EFCC,Edel,0,0,Pen,1,0,0
-1716390000,Doma United,Kano Pillars,0,1,,,,0
-1716390000,Bendel,Wikki Tourist,0,2,,,,0
-1716390000,Abia Warriors,Sporting Supreme,1,0,,,,0
-1716476400,Ikorodu City,Coal City,2,1,,,,0
-1716476400,Akwa United,Zamfara United Feeders,4,1,,,,0
-1716476400,ABS,Kebbi,1,2,,,,0
-1716984000,Kwara,Abia Warriors,1,1,Pen,1,2,0
-1716984000,Ikorodu City,Inter Lagos,1,1,Pen,1,2,0
-1716984000,El Kanemi,Shooting,1,0,,,,0
-1716994800,Wikki Tourist,EFCC,0,1,,,,0
-1716994800,Sunshine Stars,Rivers United,1,0,,,,0
-1716994800,Sokoto,Enyimba,1,0,,,,0
-1716994800,Kebbi,Akwa United,1,0,,,,0
-1716994800,Katsina Utd,Kano Pillars,1,1,Pen,1,2,0
-1717599600,Sunshine Stars,Kano Pillars,1,1,Pen,1,2,0
-1717599600,Kebbi,EFCC,0,0,Pen,1,0,0
-1717599600,El Kanemi,Inter Lagos,2,1,,,,0
-1717599600,Abia Warriors,Sokoto,1,1,Pen,2,1,0
-1718893800,Abia Warriors,Kano Pillars,0,0,Pen,1,0,0
-1718895600,Kebbi,El Kanemi,0,0,Pen,0,1,0
-1719673200,Abia Warriors,El Kanemi,0,2,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1716379200,Rivers United,Niger Tornadoes,b9ILLhyC,tUg7DWkH,1,0,,,,0
+1716390000,Warri Wolves,Kwara,WAE6XaLc,tUg7DWkH,0,1,,,,0
+1716390000,Plateau United,Sunshine Stars,jZRvn4Ng,KrkUCdS2,1,1,Pen,1,2,0
+1716390000,One Rocket,Enyimba,0UxNE2Et,OjrXHMiH,0,1,,,,0
+1716390000,Nasarawa,Sokoto,jLtZzIk3,SnoC1vtg,0,1,,,,0
+1716390000,Lobi Stars,Shooting,tUg7DWkH,vafZSxgs,0,2,,,,0
+1716390000,Katsina Utd,Bayelsa United,jZRvn4Ng,0tRQIga2,1,0,,,,0
+1716390000,Hammola,Inter Lagos,re5wBRnP,A59BTFZI,0,0,Pen,0,1,0
+1716390000,Gombe,El Kanemi,tUg7DWkH,MqcMMHCH,0,3,Awrd,,,0
+1716390000,EFCC,Edel,xUIvmuRa,ldn82KQn,0,0,Pen,1,0,0
+1716390000,Doma United,Kano Pillars,dM3WQm8J,2we3ECzB,0,1,,,,0
+1716390000,Bendel,Wikki Tourist,0ASSpGr9,G2zabaGS,0,2,,,,0
+1716390000,Abia Warriors,Sporting Supreme,S6F1CeeO,jcSbgUkL,1,0,,,,0
+1716476400,Ikorodu City,Coal City,dKY2CJMr,tKAUlhha,2,1,,,,0
+1716476400,Akwa United,Zamfara United Feeders,2we3ECzB,04knPQQI,4,1,,,,0
+1716476400,ABS,Kebbi,Mozo6m8T,j5pQd9lp,1,2,,,,0
+1716984000,Kwara,Abia Warriors,tUg7DWkH,S6F1CeeO,1,1,Pen,1,2,0
+1716984000,Ikorodu City,Inter Lagos,dKY2CJMr,A59BTFZI,1,1,Pen,1,2,0
+1716984000,El Kanemi,Shooting,MqcMMHCH,vafZSxgs,1,0,,,,0
+1716994800,Wikki Tourist,EFCC,G2zabaGS,xUIvmuRa,0,1,,,,0
+1716994800,Sunshine Stars,Rivers United,KrkUCdS2,b9ILLhyC,1,0,,,,0
+1716994800,Sokoto,Enyimba,SnoC1vtg,OjrXHMiH,1,0,,,,0
+1716994800,Kebbi,Akwa United,j5pQd9lp,2we3ECzB,1,0,,,,0
+1716994800,Katsina Utd,Kano Pillars,jZRvn4Ng,2we3ECzB,1,1,Pen,1,2,0
+1717599600,Sunshine Stars,Kano Pillars,KrkUCdS2,2we3ECzB,1,1,Pen,1,2,0
+1717599600,Kebbi,EFCC,j5pQd9lp,xUIvmuRa,0,0,Pen,1,0,0
+1717599600,El Kanemi,Inter Lagos,MqcMMHCH,A59BTFZI,2,1,,,,0
+1717599600,Abia Warriors,Sokoto,S6F1CeeO,SnoC1vtg,1,1,Pen,2,1,0
+1718893800,Abia Warriors,Kano Pillars,S6F1CeeO,2we3ECzB,0,0,Pen,1,0,0
+1718895600,Kebbi,El Kanemi,j5pQd9lp,MqcMMHCH,0,0,Pen,0,1,0
+1719673200,Abia Warriors,El Kanemi,S6F1CeeO,MqcMMHCH,0,2,,,,1

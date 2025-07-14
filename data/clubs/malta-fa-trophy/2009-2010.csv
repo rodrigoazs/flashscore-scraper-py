@@ -1,21 +1,21 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1256733000,Vittoriosa,Melita,0,0,AET,1,0,0
-1256992200,Msida,Balzan,0,5,,,,0
-1256992200,Mosta,Tarxien,1,5,,,,0
-1256999400,Mqabba FC,Qormi,0,3,,,,0
-1256999400,Hamrun,St. George's FC,3,0,,,,0
-1257078600,Vittoriosa,Dingli Swallows,2,2,Pen,2,3,0
-1257078600,Sannat Lions,Zabbar,1,2,,,,0
-1257085800,Marsaxlokk,Pieta,0,0,AET,2,0,0
-1257085800,Floriana,San Gwann,4,0,,,,0
-1266670800,Marsaxlokk,Hamrun,0,1,,,,0
-1266678000,Zabbar,Qormi,1,5,,,,0
-1266757200,Balzan,Dingli Swallows,1,1,AET,2,1,0
-1266764400,Floriana,Tarxien,1,1,AET,1,4,0
-1270297800,Hamrun,Sliema,5,2,,,,0
-1270305000,Valletta,Birkirkara,3,1,,,,0
-1270483200,Tarxien,Balzan,2,0,,,,0
-1270490400,Hibernians,Qormi,1,1,Pen,1,2,0
-1274117400,Hamrun,Valletta,0,0,Pen,0,1,0
-1274203800,Qormi,Tarxien,2,0,,,,0
-1274626800,Valletta,Qormi,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1256733000,Vittoriosa,Melita,zL0Qxgws,4zR8yCNE,0,0,AET,1,0,0
+1256992200,Msida,Balzan,fN02vDNP,8SwKCrBK,0,5,,,,0
+1256992200,Mosta,Tarxien,xGkXZymr,6BT6bC1D,1,5,,,,0
+1256999400,Mqabba FC,Qormi,fPa9VyEn,fPa9VyEn,0,3,,,,0
+1256999400,Hamrun,St. George's FC,j3L7suLi,dWnUZWVt,3,0,,,,0
+1257078600,Vittoriosa,Dingli Swallows,zL0Qxgws,0nd54dGc,2,2,Pen,2,3,0
+1257078600,Sannat Lions,Zabbar,4rkrUBT8,zPYfuFCs,1,2,,,,0
+1257085800,Marsaxlokk,Pieta,bZmYBGs9,Ct4j2I6k,0,0,AET,2,0,0
+1257085800,Floriana,San Gwann,xGkXZymr,tnFQZaTd,4,0,,,,0
+1266670800,Marsaxlokk,Hamrun,bZmYBGs9,j3L7suLi,0,1,,,,0
+1266678000,Zabbar,Qormi,zPYfuFCs,fPa9VyEn,1,5,,,,0
+1266757200,Balzan,Dingli Swallows,8SwKCrBK,0nd54dGc,1,1,AET,2,1,0
+1266764400,Floriana,Tarxien,xGkXZymr,6BT6bC1D,1,1,AET,1,4,0
+1270297800,Hamrun,Sliema,j3L7suLi,YFbDUeTh,5,2,,,,0
+1270305000,Valletta,Birkirkara,WrjrBuU2,rDY9klCL,3,1,,,,0
+1270483200,Tarxien,Balzan,6BT6bC1D,8SwKCrBK,2,0,,,,0
+1270490400,Hibernians,Qormi,WrjrBuU2,fPa9VyEn,1,1,Pen,1,2,0
+1274117400,Hamrun,Valletta,j3L7suLi,WrjrBuU2,0,0,Pen,0,1,0
+1274203800,Qormi,Tarxien,fPa9VyEn,6BT6bC1D,2,0,,,,0
+1274626800,Valletta,Qormi,WrjrBuU2,fPa9VyEn,2,1,,,,0

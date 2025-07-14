@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1630838700,Indian Air Force,Mohammedan,1,4,,,,0
-1630920600,Jamshedpur,Sudeva Delhi,1,0,,,,0
-1630920600,CRPF,Bengaluru Utd,0,1,,,,0
-1631007000,Goa,Army Green,2,0,,,,0
-1631093400,Delhi FC,Indian Navy,1,2,,,,0
-1631179800,Indian Air Force,Bengaluru Utd,2,4,,,,0
-1631179800,Assam Rifles,Army Red,1,4,,,,0
-1631266200,Jamshedpur,Army Green,1,3,,,,0
-1631267100,CRPF,Mohammedan,1,5,,,,0
-1631352600,Kerala Blasters,Indian Navy,1,0,,,,0
-1631439000,Gokulam,Army Red,2,2,,,,0
-1631439000,Assam Rifles,Hyderabad,0,5,,,,0
-1631525400,Goa,Sudeva Delhi,2,1,,,,0
-1631611800,Mohammedan,Bengaluru Utd,0,2,,,,0
-1631698200,Bengaluru FC,Kerala Blasters,2,0,,,,0
-1631784600,Gokulam,Hyderabad,1,0,,,,0
-1631871000,Jamshedpur,Goa,0,5,,,,0
-1631871000,Army Green,Sudeva Delhi,1,0,,,,0
-1631957400,Delhi FC,Bengaluru FC,2,2,,,,0
-1632043800,Assam Rifles,Gokulam,2,7,,,,0
-1632043800,Army Red,Hyderabad,2,1,,,,0
-1632216600,Delhi FC,Kerala Blasters,1,0,,,,0
-1632216600,Bengaluru FC,Indian Navy,5,3,,,,0
-1632385800,Mohammedan,Gokulam,1,0,,,,0
-1632472200,Goa,Delhi FC,5,1,,,,0
-1632472200,Army Red,Bengaluru Utd,-,-,WO,,,0
-1632558600,Bengaluru FC,Army Green,3,2,,,,0
-1632745800,Mohammedan,Bengaluru Utd,2,2,AET,4,2,0
-1632918600,Goa,Bengaluru FC,2,2,Pen,3,2,0
-1633264200,Mohammedan,Goa,0,0,AET,0,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1630838700,Indian Air Force,Mohammedan,h2fDsePe,8E48ZVwH,1,4,,,,0
+1630920600,Jamshedpur,Sudeva Delhi,4xbRHIEb,zuex8Vc3,1,0,,,,0
+1630920600,CRPF,Bengaluru Utd,jPrbe6Re,Od5oORQI,0,1,,,,0
+1631007000,Goa,Army Green,GdaqjtST,rJ5YDcQg,2,0,,,,0
+1631093400,Delhi FC,Indian Navy,SzH1VlXh,Mi9OXNrn,1,2,,,,0
+1631179800,Indian Air Force,Bengaluru Utd,h2fDsePe,Od5oORQI,2,4,,,,0
+1631179800,Assam Rifles,Army Red,6sE93US2,rJ5YDcQg,1,4,,,,0
+1631266200,Jamshedpur,Army Green,4xbRHIEb,rJ5YDcQg,1,3,,,,0
+1631267100,CRPF,Mohammedan,jPrbe6Re,8E48ZVwH,1,5,,,,0
+1631352600,Kerala Blasters,Indian Navy,f5R8609I,Mi9OXNrn,1,0,,,,0
+1631439000,Gokulam,Army Red,CMiScAzU,rJ5YDcQg,2,2,,,,0
+1631439000,Assam Rifles,Hyderabad,6sE93US2,6auKd00m,0,5,,,,0
+1631525400,Goa,Sudeva Delhi,GdaqjtST,zuex8Vc3,2,1,,,,0
+1631611800,Mohammedan,Bengaluru Utd,8E48ZVwH,Od5oORQI,0,2,,,,0
+1631698200,Bengaluru FC,Kerala Blasters,vXXubWbe,f5R8609I,2,0,,,,0
+1631784600,Gokulam,Hyderabad,CMiScAzU,6auKd00m,1,0,,,,0
+1631871000,Jamshedpur,Goa,4xbRHIEb,GdaqjtST,0,5,,,,0
+1631871000,Army Green,Sudeva Delhi,rJ5YDcQg,zuex8Vc3,1,0,,,,0
+1631957400,Delhi FC,Bengaluru FC,SzH1VlXh,vXXubWbe,2,2,,,,0
+1632043800,Assam Rifles,Gokulam,6sE93US2,CMiScAzU,2,7,,,,0
+1632043800,Army Red,Hyderabad,rJ5YDcQg,6auKd00m,2,1,,,,0
+1632216600,Delhi FC,Kerala Blasters,SzH1VlXh,f5R8609I,1,0,,,,0
+1632216600,Bengaluru FC,Indian Navy,vXXubWbe,Mi9OXNrn,5,3,,,,0
+1632385800,Mohammedan,Gokulam,8E48ZVwH,CMiScAzU,1,0,,,,0
+1632472200,Goa,Delhi FC,GdaqjtST,SzH1VlXh,5,1,,,,0
+1632472200,Army Red,Bengaluru Utd,rJ5YDcQg,Od5oORQI,-,-,WO,,,0
+1632558600,Bengaluru FC,Army Green,vXXubWbe,rJ5YDcQg,3,2,,,,0
+1632745800,Mohammedan,Bengaluru Utd,8E48ZVwH,Od5oORQI,2,2,AET,4,2,0
+1632918600,Goa,Bengaluru FC,GdaqjtST,vXXubWbe,2,2,Pen,3,2,0
+1633264200,Mohammedan,Goa,8E48ZVwH,GdaqjtST,0,0,AET,0,1,0

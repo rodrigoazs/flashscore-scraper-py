@@ -1,14 +1,14 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1620133200,Vital'O,Royal FC,1,0,,,,0
-1620133200,Musongati,Olympic S.,2,0,,,,0
-1620133200,Bumamuru,Le Messager Ngozi,3,1,,,,0
-1620219600,Garage Express,Flambeau du Centre,0,4,,,,0
-1620478800,Royal FC,Vital'O,1,2,,,,0
-1620565200,Olympic S.,Musongati,0,1,,,,0
-1620565200,Le Messager Ngozi,Bumamuru,1,0,,,,0
-1620565200,Flambeau du Centre,Garage Express,1,0,,,,0
-1622034000,Vital'O,Bumamuru,2,1,,,,0
-1622034000,Flambeau du Centre,Musongati,1,0,,,,0
-1622379600,Musongati,Flambeau du Centre,2,1,,,,0
-1622379600,Bumamuru,Vital'O,2,1,Pen,3,1,0
-1622894400,Bumamuru,Flambeau du Centre,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1620133200,Vital'O,Royal FC,2V6jtVbj,SAHDb438,1,0,,,,0
+1620133200,Musongati,Olympic S.,MLhiODrg,I1ZCl20g,2,0,,,,0
+1620133200,Bumamuru,Le Messager Ngozi,6obZXPrB,Q1R2BVUa,3,1,,,,0
+1620219600,Garage Express,Flambeau du Centre,,x2nFClZ5,0,4,,,,0
+1620478800,Royal FC,Vital'O,SAHDb438,2V6jtVbj,1,2,,,,0
+1620565200,Olympic S.,Musongati,I1ZCl20g,MLhiODrg,0,1,,,,0
+1620565200,Le Messager Ngozi,Bumamuru,Q1R2BVUa,6obZXPrB,1,0,,,,0
+1620565200,Flambeau du Centre,Garage Express,x2nFClZ5,,1,0,,,,0
+1622034000,Vital'O,Bumamuru,2V6jtVbj,6obZXPrB,2,1,,,,0
+1622034000,Flambeau du Centre,Musongati,x2nFClZ5,MLhiODrg,1,0,,,,0
+1622379600,Musongati,Flambeau du Centre,MLhiODrg,x2nFClZ5,2,1,,,,0
+1622379600,Bumamuru,Vital'O,6obZXPrB,2V6jtVbj,2,1,Pen,3,1,0
+1622894400,Bumamuru,Flambeau du Centre,6obZXPrB,x2nFClZ5,3,1,,,,0

@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1286596800,Yokohama F. Marinos,Sagan Tosu,2,1,,,,0
-1286596800,Vegalta Sendai,Cerezo Osaka,1,3,,,,0
-1286596800,Nagoya Grampus,Hokkaido Consadole Sapporo,2,1,,,,0
-1286596800,Montedio Yamagata,Shonan Bellmare,3,1,,,,0
-1286596800,Kashima Antlers,Kumamoto,2,1,,,,0
-1286596800,Gamba Osaka,Tochigi SC,3,2,,,,0
-1286596800,Chiba,Kyoto,4,0,,,,0
-1286596800,Albirex Niigata,Machida,2,1,,,,0
-1286769600,Urawa Reds,Tokushima,2,0,,,,0
-1286769600,Omiya Ardija,Oita Trinita,3,0,,,,0
-1286769600,Kashiwa Reysol,Vissel Kobe,1,1,AET,2,1,0
-1286769600,Giravanz Kitakyushu,FC Tokyo,0,2,,,,0
-1286964000,Shimizu S-Pulse,Mito,4,1,,,,0
-1286964000,Sanfrecce Hiroshima,Avispa Fukuoka,1,1,Pen,2,3,0
-1286964000,Kawasaki Frontale,Yokohama FC,1,1,AET,2,1,0
-1286964000,Iwata,Kofu,2,1,,,,0
-1289988000,Yokohama F. Marinos,Shimizu S-Pulse,0,3,,,,0
-1289988000,Urawa Reds,Iwata,1,0,,,,0
-1289988000,Omiya Ardija,Avispa Fukuoka,2,2,Pen,2,3,0
-1289988000,Nagoya Grampus,Albirex Niigata,1,1,Pen,2,1,0
-1289988000,Kawasaki Frontale,Montedio Yamagata,2,2,Pen,3,4,0
-1289988000,Kashima Antlers,Cerezo Osaka,2,1,,,,0
-1289988000,Gamba Osaka,Kashiwa Reysol,1,1,AET,4,1,0
-1289988000,FC Tokyo,Chiba,2,0,,,,0
-1293249600,Shimizu S-Pulse,Montedio Yamagata,0,0,Pen,2,1,0
-1293249600,Kashima Antlers,Nagoya Grampus,2,1,,,,0
-1293249600,Gamba Osaka,Urawa Reds,1,1,AET,2,1,0
-1293256800,Avispa Fukuoka,FC Tokyo,1,1,AET,2,3,0
-1293595200,Shimizu S-Pulse,Gamba Osaka,3,0,,,,0
-1293602400,Kashima Antlers,FC Tokyo,1,1,AET,2,1,0
-1262322000,Kashima Antlers,Shimizu S-Pulse,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1286596800,Yokohama F. Marinos,Sagan Tosu,plFsSE3r,WYtEUtB2,2,1,,,,0
+1286596800,Vegalta Sendai,Cerezo Osaka,rkzDkpKt,8l3GGez7,1,3,,,,0
+1286596800,Nagoya Grampus,Hokkaido Consadole Sapporo,n9XchkvQ,tGWvEQkr,2,1,,,,0
+1286596800,Montedio Yamagata,Shonan Bellmare,Uc4CHyL0,ppTjXyRn,3,1,,,,0
+1286596800,Kashima Antlers,Kumamoto,4SARfF5k,EqRSddb5,2,1,,,,0
+1286596800,Gamba Osaka,Tochigi SC,pCXiuGSm,GdkUvPh9,3,2,,,,0
+1286596800,Chiba,Kyoto,z735vIvR,z735vIvR,4,0,,,,0
+1286596800,Albirex Niigata,Machida,SEX2RAcn,6uZPCvr9,2,1,,,,0
+1286769600,Urawa Reds,Tokushima,nqhLBCKD,j9KqC5rP,2,0,,,,0
+1286769600,Omiya Ardija,Oita Trinita,U58J6vtM,dveS6wJe,3,0,,,,0
+1286769600,Kashiwa Reysol,Vissel Kobe,A1NlaOLn,4SU3kZUI,1,1,AET,2,1,0
+1286769600,Giravanz Kitakyushu,FC Tokyo,dG41ubPK,YwiAOSxC,0,2,,,,0
+1286964000,Shimizu S-Pulse,Mito,Uc4CHyL0,IBQiozJR,4,1,,,,0
+1286964000,Sanfrecce Hiroshima,Avispa Fukuoka,pSNkZ1lS,Eq74Jcjl,1,1,Pen,2,3,0
+1286964000,Kawasaki Frontale,Yokohama FC,j758IH5f,0MUJCQpC,1,1,AET,2,1,0
+1286964000,Iwata,Kofu,j758IH5f,Uc4CHyL0,2,1,,,,0
+1289988000,Yokohama F. Marinos,Shimizu S-Pulse,plFsSE3r,Uc4CHyL0,0,3,,,,0
+1289988000,Urawa Reds,Iwata,nqhLBCKD,j758IH5f,1,0,,,,0
+1289988000,Omiya Ardija,Avispa Fukuoka,U58J6vtM,Eq74Jcjl,2,2,Pen,2,3,0
+1289988000,Nagoya Grampus,Albirex Niigata,n9XchkvQ,SEX2RAcn,1,1,Pen,2,1,0
+1289988000,Kawasaki Frontale,Montedio Yamagata,j758IH5f,Uc4CHyL0,2,2,Pen,3,4,0
+1289988000,Kashima Antlers,Cerezo Osaka,4SARfF5k,8l3GGez7,2,1,,,,0
+1289988000,Gamba Osaka,Kashiwa Reysol,pCXiuGSm,A1NlaOLn,1,1,AET,4,1,0
+1289988000,FC Tokyo,Chiba,YwiAOSxC,z735vIvR,2,0,,,,0
+1293249600,Shimizu S-Pulse,Montedio Yamagata,Uc4CHyL0,Uc4CHyL0,0,0,Pen,2,1,0
+1293249600,Kashima Antlers,Nagoya Grampus,4SARfF5k,n9XchkvQ,2,1,,,,0
+1293249600,Gamba Osaka,Urawa Reds,pCXiuGSm,nqhLBCKD,1,1,AET,2,1,0
+1293256800,Avispa Fukuoka,FC Tokyo,Eq74Jcjl,YwiAOSxC,1,1,AET,2,3,0
+1293595200,Shimizu S-Pulse,Gamba Osaka,Uc4CHyL0,pCXiuGSm,3,0,,,,0
+1293602400,Kashima Antlers,FC Tokyo,4SARfF5k,YwiAOSxC,1,1,AET,2,1,0
+1262322000,Kashima Antlers,Shimizu S-Pulse,4SARfF5k,Uc4CHyL0,2,1,,,,0

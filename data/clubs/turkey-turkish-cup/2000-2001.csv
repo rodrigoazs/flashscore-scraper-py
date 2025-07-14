@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-976575600,Bursaspor,Fenerbahce,1,2,,,,0
-976662000,Rizespor,Genclerbirligi,1,2,,,,0
-976662000,Kocaelispor,Denizlispor,2,1,,,,0
-976662000,Istanbulspor AS,Diyarbakirspor,2,0,,,,0
-976662000,Gaziantepspor,Trabzonspor,1,3,,,,0
-976662000,Galatasaray,Adanaspor AS,2,1,,,,0
-976662000,Antalyaspor,Besiktas,1,2,,,,0
-976662000,Ankaragucu,Goztepe,4,0,,,,0
-980895600,Trabzonspor,Galatasaray,1,4,,,,0
-980895600,Istanbulspor AS,Besiktas,0,3,,,,0
-980895600,Genclerbirligi,Kocaelispor,2,2,AET,4,2,0
-980982000,Ankaragucu,Fenerbahce,1,1,AET,1,3,0
-981500400,Fenerbahce,Galatasaray,4,4,AET,5,4,0
-981586800,Besiktas,Genclerbirligi,1,1,AET,1,2,0
-986940000,Fenerbahce,Genclerbirligi,2,2,AET,2,3,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+976575600,Bursaspor,Fenerbahce,YmCZKGcR,dENdyFfa,1,2,,,,0
+976662000,Rizespor,Genclerbirligi,rZkRF8yE,G6WxyD8F,1,2,,,,0
+976662000,Kocaelispor,Denizlispor,pfQVcl7E,0vUmEzqC,2,1,,,,0
+976662000,Istanbulspor AS,Diyarbakirspor,0GXEkkAD,SQ7gYqJl,2,0,,,,0
+976662000,Gaziantepspor,Trabzonspor,vVd6drcE,MobtE80i,1,3,,,,0
+976662000,Galatasaray,Adanaspor AS,dEXkR0Wq,0vUmEzqC,2,1,,,,0
+976662000,Antalyaspor,Besiktas,ptkIYGIF,UcWWlFia,1,2,,,,0
+976662000,Ankaragucu,Goztepe,bsGXFuaP,OGqQfjL1,4,0,,,,0
+980895600,Trabzonspor,Galatasaray,MobtE80i,dEXkR0Wq,1,4,,,,0
+980895600,Istanbulspor AS,Besiktas,0GXEkkAD,UcWWlFia,0,3,,,,0
+980895600,Genclerbirligi,Kocaelispor,G6WxyD8F,pfQVcl7E,2,2,AET,4,2,0
+980982000,Ankaragucu,Fenerbahce,bsGXFuaP,dENdyFfa,1,1,AET,1,3,0
+981500400,Fenerbahce,Galatasaray,dENdyFfa,dEXkR0Wq,4,4,AET,5,4,0
+981586800,Besiktas,Genclerbirligi,UcWWlFia,G6WxyD8F,1,1,AET,1,2,0
+986940000,Fenerbahce,Genclerbirligi,dENdyFfa,G6WxyD8F,2,2,AET,2,3,0

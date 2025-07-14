@@ -1,40 +1,40 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1201282200,Pretoria U.,Atlie,2,3,,,,0
-1201282200,Durban Stars,Hanover Park,1,0,,,,0
-1201282200,Durban City,African Warriors,1,2,,,,0
-1201368600,Witbank,Ikapa Sporting,2,3,,,,0
-1201368600,Garankuwa,Black Aces,0,1,,,,0
-1201368600,Dynamos,Ubuntu Cape Town,0,1,,,,0
-1201455000,Winners Park,Polokwane,1,0,,,,0
-1201455000,FC AK,Province,5,1,,,,0
-1205343000,Bidvest Wits,Winners Park,1,1,Pen,1,2,0
-1205515800,Ubuntu Cape Town,Durban Stars,1,0,,,,0
-1205515800,Kaizer Chiefs,Cape Town Spurs,2,0,,,,0
-1205602200,YeboYes United,FC AK,2,2,Pen,2,3,0
-1205602200,Supersport Utd,Mamelodi Sundowns,1,2,,,,0
-1205602200,Ikapa Sporting,Royal AM,3,2,,,,0
-1205602200,Golden Arrows,Jomo Cosmos,0,1,,,,0
-1205602200,Classic F.C.,Stellenbosch,2,3,,,,0
-1205602200,AmaZulu,Young ONES,14,0,,,,0
-1205688600,Santos,Orlando Pirates,2,2,Pen,3,2,0
-1205688600,Matatiele Professionals,Bloemfontein Young Tigers,4,3,,,,0
-1205688600,Free State Stars,Platinum Stars,1,1,Pen,2,1,0
-1205688600,Black Aces,Thanda Royal Zulu,2,0,,,,0
-1205688600,Atlie,North West Shining Stars,1,0,,,,0
-1205947800,African Warriors,Moroka Swallows,0,1,,,,0
-1206207000,Inspection FC,Black Leopards,0,3,,,,0
-1206725400,Moroka Swallows,Santos,1,3,,,,0
-1206811800,Stellenbosch,AmaZulu,0,5,,,,0
-1206811800,Free State Stars,Ikapa Sporting,8,1,,,,0
-1206811800,Black Leopards,Matatiele Professionals,2,0,,,,0
-1206894600,Kaizer Chiefs,Mamelodi Sundowns,1,1,Pen,1,2,0
-1206894600,Jomo Cosmos,Atlie,0,0,Pen,0,1,0
-1207153800,Ubuntu Cape Town,Winners Park,1,0,,,,0
-1207153800,Black Aces,FC AK,1,0,,,,0
-1208622600,Ubuntu Cape Town,Mamelodi Sundowns,0,2,,,,0
-1208622600,Black Aces,Atlie,2,0,,,,0
-1208709000,Free State Stars,Santos,1,0,,,,0
-1208709000,Black Leopards,AmaZulu,2,3,,,,0
-1209832200,Black Aces,Free State Stars,1,0,,,,0
-1209918600,AmaZulu,Mamelodi Sundowns,0,1,,,,0
-1211646600,Mamelodi Sundowns,Black Aces,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1201282200,Pretoria U.,Atlie,QV8muo4m,6yPAEmXH,2,3,,,,0
+1201282200,Durban Stars,Hanover Park,,,1,0,,,,0
+1201282200,Durban City,African Warriors,6RTAg0C5,dCAx7kde,1,2,,,,0
+1201368600,Witbank,Ikapa Sporting,Gr4RZ4HN,,2,3,,,,0
+1201368600,Garankuwa,Black Aces,nmCePFiU,QV8muo4m,0,1,,,,0
+1201368600,Dynamos,Ubuntu Cape Town,nuAqtRls,QV8muo4m,0,1,,,,0
+1201455000,Winners Park,Polokwane,,U3PAwmEl,1,0,,,,0
+1201455000,FC AK,Province,80XB8mqF,,5,1,,,,0
+1205343000,Bidvest Wits,Winners Park,8hmaPcYe,,1,1,Pen,1,2,0
+1205515800,Ubuntu Cape Town,Durban Stars,QV8muo4m,,1,0,,,,0
+1205515800,Kaizer Chiefs,Cape Town Spurs,MeBJ238q,QJM4feF8,2,0,,,,0
+1205602200,YeboYes United,FC AK,,80XB8mqF,2,2,Pen,2,3,0
+1205602200,Supersport Utd,Mamelodi Sundowns,4UX5t7jk,x2G2Q2c3,1,2,,,,0
+1205602200,Ikapa Sporting,Royal AM,,nu2KFFkD,3,2,,,,0
+1205602200,Golden Arrows,Jomo Cosmos,8l3GGez7,8l3GGez7,0,1,,,,0
+1205602200,Classic F.C.,Stellenbosch,,K2asz6S7,2,3,,,,0
+1205602200,AmaZulu,Young ONES,6Fg6xWE0,,14,0,,,,0
+1205688600,Santos,Orlando Pirates,nu2KFFkD,KAV9ypMU,2,2,Pen,3,2,0
+1205688600,Matatiele Professionals,Bloemfontein Young Tigers,,d2qS1nzp,4,3,,,,0
+1205688600,Free State Stars,Platinum Stars,6LfbbTwj,p6867egJ,1,1,Pen,2,1,0
+1205688600,Black Aces,Thanda Royal Zulu,QV8muo4m,rg2yT6oF,2,0,,,,0
+1205688600,Atlie,North West Shining Stars,6yPAEmXH,,1,0,,,,0
+1205947800,African Warriors,Moroka Swallows,dCAx7kde,tWjTbMwC,0,1,,,,0
+1206207000,Inspection FC,Black Leopards,,8l3GGez7,0,3,,,,0
+1206725400,Moroka Swallows,Santos,tWjTbMwC,nu2KFFkD,1,3,,,,0
+1206811800,Stellenbosch,AmaZulu,K2asz6S7,6Fg6xWE0,0,5,,,,0
+1206811800,Free State Stars,Ikapa Sporting,6LfbbTwj,,8,1,,,,0
+1206811800,Black Leopards,Matatiele Professionals,8l3GGez7,,2,0,,,,0
+1206894600,Kaizer Chiefs,Mamelodi Sundowns,MeBJ238q,x2G2Q2c3,1,1,Pen,1,2,0
+1206894600,Jomo Cosmos,Atlie,8l3GGez7,6yPAEmXH,0,0,Pen,0,1,0
+1207153800,Ubuntu Cape Town,Winners Park,QV8muo4m,,1,0,,,,0
+1207153800,Black Aces,FC AK,QV8muo4m,80XB8mqF,1,0,,,,0
+1208622600,Ubuntu Cape Town,Mamelodi Sundowns,QV8muo4m,x2G2Q2c3,0,2,,,,0
+1208622600,Black Aces,Atlie,QV8muo4m,6yPAEmXH,2,0,,,,0
+1208709000,Free State Stars,Santos,6LfbbTwj,nu2KFFkD,1,0,,,,0
+1208709000,Black Leopards,AmaZulu,8l3GGez7,6Fg6xWE0,2,3,,,,0
+1209832200,Black Aces,Free State Stars,QV8muo4m,6LfbbTwj,1,0,,,,0
+1209918600,AmaZulu,Mamelodi Sundowns,6Fg6xWE0,x2G2Q2c3,0,1,,,,0
+1211646600,Mamelodi Sundowns,Black Aces,x2G2Q2c3,QV8muo4m,1,0,,,,0

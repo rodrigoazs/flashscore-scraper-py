@@ -1,18 +1,18 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1517432400,Atletico Pantoja,Arnett Gardens,0,0,,,,0
-1517443200,W Connection,Real du Cap,0,1,,,,0
-1517605200,Real du Cap,Atletico Pantoja,0,3,,,,0
-1517616000,W Connection,Arnett Gardens,2,1,,,,0
-1517778000,Arnett Gardens,Real du Cap,4,0,,,,0
-1517788800,W Connection,Atletico Pantoja,0,3,,,,0
-1518040800,Central FC,Portmore,0,2,,,,0
-1518048000,Atlantico,Racing des Gonaives,2,1,,,,0
-1518210000,Racing des Gonaives,Central FC,0,3,,,,0
-1518220800,Atlantico,Portmore,2,2,,,,0
-1518382800,Portmore,Racing des Gonaives,0,1,,,,0
-1518393600,Atlantico,Central FC,0,1,,,,0
-1526079600,Atletico Pantoja,Portmore,4,3,,,,0
-1526090400,Arnett Gardens,Central FC,2,0,,,,0
-1526248800,Portmore,Central FC,2,1,,,,0
-1526259600,Atletico Pantoja,Arnett Gardens,0,0,Pen,1,0,0
-1526517000,Central FC,Franciscain,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1517432400,Atletico Pantoja,Arnett Gardens,AHFMV5v8,hr4cOWJA,0,0,,,,0
+1517443200,W Connection,Real du Cap,zePXmSvq,CrTzmp8m,0,1,,,,0
+1517605200,Real du Cap,Atletico Pantoja,CrTzmp8m,AHFMV5v8,0,3,,,,0
+1517616000,W Connection,Arnett Gardens,zePXmSvq,hr4cOWJA,2,1,,,,0
+1517778000,Arnett Gardens,Real du Cap,hr4cOWJA,CrTzmp8m,4,0,,,,0
+1517788800,W Connection,Atletico Pantoja,zePXmSvq,AHFMV5v8,0,3,,,,0
+1518040800,Central FC,Portmore,6stL8agi,KCGGnOpC,0,2,,,,0
+1518048000,Atlantico,Racing des Gonaives,8xDm446G,hE6BPRI3,2,1,,,,0
+1518210000,Racing des Gonaives,Central FC,hE6BPRI3,6stL8agi,0,3,,,,0
+1518220800,Atlantico,Portmore,8xDm446G,KCGGnOpC,2,2,,,,0
+1518382800,Portmore,Racing des Gonaives,KCGGnOpC,hE6BPRI3,0,1,,,,0
+1518393600,Atlantico,Central FC,8xDm446G,6stL8agi,0,1,,,,0
+1526079600,Atletico Pantoja,Portmore,AHFMV5v8,KCGGnOpC,4,3,,,,0
+1526090400,Arnett Gardens,Central FC,hr4cOWJA,6stL8agi,2,0,,,,0
+1526248800,Portmore,Central FC,KCGGnOpC,6stL8agi,2,1,,,,0
+1526259600,Atletico Pantoja,Arnett Gardens,AHFMV5v8,hr4cOWJA,0,0,Pen,1,0,0
+1526517000,Central FC,Franciscain,6stL8agi,6BJ2ugJH,1,2,,,,0

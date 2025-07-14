@@ -1,21 +1,21 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1004133600,Tavriya,Karpaty,3,1,,,,0
-1004133600,Shakhtar Donetsk,Stal Alchevsk,3,0,,,,0
-1004133600,Oleksandriya,Dnipro,2,1,,,,0
-1004133600,Metalist Kharkiv,Met. Zaporizhya,2,0,,,,0
-1004133600,Met. Donetsk,Volyn Lutsk,4,1,,,,0
-1004133600,Hoverla Uzhhorod,Mariupol,3,1,,,,0
-1004133600,Dyn. Kyiv,Obolon,3,0,,,,0
-1004133600,Arsenal Kiev,Kryvbas Krivoy Rog,4,0,,,,0
-1004878800,Shakhtar Donetsk,Karpaty,2,0,,,,0
-1004878800,Metalist Kharkiv,Dyn. Kyiv,1,1,,,,0
-1004878800,Met. Donetsk,Hoverla Uzhhorod,1,0,,,,0
-1004965200,Dnipro,Arsenal Kiev,0,0,,,,0
-1006776000,Karpaty,Shakhtar Donetsk,1,0,,,,0
-1006776000,Hoverla Uzhhorod,Met. Donetsk,1,3,,,,0
-1006776000,Dyn. Kyiv,Metalist Kharkiv,5,0,,,,0
-1017925200,Met. Donetsk,Dyn. Kyiv,1,1,,,,0
-1017928800,Dnipro,Shakhtar Donetsk,2,1,,,,0
-1020351600,Shakhtar Donetsk,Dnipro,2,0,,,,0
-1020351600,Dyn. Kyiv,Met. Donetsk,2,0,,,,0
-1022428800,Dyn. Kyiv,Shakhtar Donetsk,2,2,AET,2,3,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1004133600,Tavriya,Karpaty,4GQ6kuAf,va8daTel,3,1,,,,0
+1004133600,Shakhtar Donetsk,Stal Alchevsk,YmCZKGcR,tMsKdV02,3,0,,,,0
+1004133600,Oleksandriya,Dnipro,WhuO7nt3,xbUiUE46,2,1,,,,0
+1004133600,Metalist Kharkiv,Met. Zaporizhya,MgWJDIOI,YVQtLWA9,2,0,,,,0
+1004133600,Met. Donetsk,Volyn Lutsk,f5csGSwJ,f5csGSwJ,4,1,,,,0
+1004133600,Hoverla Uzhhorod,Mariupol,YVQtLWA9,GzrDrkgg,3,1,,,,0
+1004133600,Dyn. Kyiv,Obolon,M1Cjh44S,QanlLhoo,3,0,,,,0
+1004133600,Arsenal Kiev,Kryvbas Krivoy Rog,tneUjJf7,ncFcQ5qn,4,0,,,,0
+1004878800,Shakhtar Donetsk,Karpaty,YmCZKGcR,va8daTel,2,0,,,,0
+1004878800,Metalist Kharkiv,Dyn. Kyiv,MgWJDIOI,M1Cjh44S,1,1,,,,0
+1004878800,Met. Donetsk,Hoverla Uzhhorod,f5csGSwJ,YVQtLWA9,1,0,,,,0
+1004965200,Dnipro,Arsenal Kiev,xbUiUE46,tneUjJf7,0,0,,,,0
+1006776000,Karpaty,Shakhtar Donetsk,va8daTel,YmCZKGcR,1,0,,,,0
+1006776000,Hoverla Uzhhorod,Met. Donetsk,YVQtLWA9,f5csGSwJ,1,3,,,,0
+1006776000,Dyn. Kyiv,Metalist Kharkiv,M1Cjh44S,MgWJDIOI,5,0,,,,0
+1017925200,Met. Donetsk,Dyn. Kyiv,f5csGSwJ,M1Cjh44S,1,1,,,,0
+1017928800,Dnipro,Shakhtar Donetsk,xbUiUE46,YmCZKGcR,2,1,,,,0
+1020351600,Shakhtar Donetsk,Dnipro,YmCZKGcR,xbUiUE46,2,0,,,,0
+1020351600,Dyn. Kyiv,Met. Donetsk,M1Cjh44S,f5csGSwJ,2,0,,,,0
+1022428800,Dyn. Kyiv,Shakhtar Donetsk,M1Cjh44S,YmCZKGcR,2,2,AET,2,3,0

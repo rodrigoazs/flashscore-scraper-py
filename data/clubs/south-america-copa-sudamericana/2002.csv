@@ -1,41 +1,41 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1030485600,Dep. Tachira,Monagas,2,0,,,,0
-1030572000,Aucas,Barcelona SC,1,2,,,,0
-1031004000,Cerro Porteno,Libertad Asuncion,0,2,,,,0
-1031004000,Bolivar,Oriente Petrolero,4,2,,,,0
-1031176500,Racing Club,River Plate,1,0,,,,0
-1031176500,Alianza Lima,U. de Deportes,1,0,,,,0
-1031262900,Danubio,Nacional,1,1,,,,0
-1031263200,Monagas,Dep. Tachira,3,0,,,,0
-1031608800,Libertad Asuncion,Cerro Porteno,1,0,,,,0
-1031608800,Atl. Nacional,America De Cali,1,0,,,,0
-1031781300,U. de Deportes,Alianza Lima,0,1,,,,0
-1031781300,Gimnasia L.P.,Boca Juniors,3,1,,,,0
-1031861100,Barcelona SC,Aucas,1,0,,,,0
-1031867700,Oriente Petrolero,Bolivar,1,0,,,,0
-1032299700,Nacional,Danubio,2,0,,,,0
-1032386100,Boca Juniors,Gimnasia L.P.,0,0,,,,0
-1032386100,Barcelona SC,Alianza Lima,1,0,,,,0
-1032472500,Monagas,San Lorenzo,0,3,,,,0
-1032472500,Bolivar,Libertad Asuncion,2,0,,,,0
-1032818400,S. Wanderers,Cobreloa,3,2,,,,0
-1032818400,Libertad Asuncion,Bolivar,1,1,,,,0
-1032904800,America De Cali,Atl. Nacional,1,2,,,,0
-1032990900,River Plate,Racing Club,0,0,,,,0
-1033077300,San Lorenzo,Monagas,5,1,,,,0
-1033077300,Alianza Lima,Barcelona SC,2,1,,,,0
-1033509300,Alianza Lima,Nacional,1,0,,,,0
-1033595700,San Lorenzo,Racing Club,3,1,,,,0
-1034114100,Atl. Nacional,S. Wanderers,2,1,,,,0
-1034200500,Bolivar,Gimnasia L.P.,4,1,,,,0
-1035323700,Nacional,Alianza Lima,3,1,,,,0
-1035410100,Racing Club,San Lorenzo,2,0,,,,0
-1035932100,S. Wanderers,Atl. Nacional,1,0,,,,0
-1036018500,Gimnasia L.P.,Bolivar,2,0,,,,0
-1036450800,Bolivar,San Lorenzo,2,1,,,,0
-1036537200,Atl. Nacional,Nacional,2,1,,,,0
-1037141700,Nacional,Atl. Nacional,2,1,,,,0
-1037228100,San Lorenzo,Bolivar,4,2,,,,0
-1038437700,Atl. Nacional,San Lorenzo,0,4,,,,0
-1039647300,San Lorenzo,Atl. Nacional,0,0,,,,0
-1036191600,Cobreloa,S. Wanderers,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1030485600,Dep. Tachira,Monagas,OxmaT1W4,2gmAxwcQ,2,0,,,,0
+1030572000,Aucas,Barcelona SC,Wz8yaA21,WErjuywa,1,2,,,,0
+1031004000,Cerro Porteno,Libertad Asuncion,SOY3p1Si,UwvYANk9,0,2,,,,0
+1031004000,Bolivar,Oriente Petrolero,KxxHBfzK,dAJb3Ws0,4,2,,,,0
+1031176500,Racing Club,River Plate,OCiVKiPK,nqhLBCKD,1,0,,,,0
+1031176500,Alianza Lima,U. de Deportes,tE1csI3A,pzbJPTLS,1,0,,,,0
+1031262900,Danubio,Nacional,pG50LNFb,xErFNzEn,1,1,,,,0
+1031263200,Monagas,Dep. Tachira,2gmAxwcQ,OxmaT1W4,3,0,,,,0
+1031608800,Libertad Asuncion,Cerro Porteno,UwvYANk9,SOY3p1Si,1,0,,,,0
+1031608800,Atl. Nacional,America De Cali,tnwDCzLD,hSZHTo4B,1,0,,,,0
+1031781300,U. de Deportes,Alianza Lima,pzbJPTLS,tE1csI3A,0,1,,,,0
+1031781300,Gimnasia L.P.,Boca Juniors,xdPGGCcs,tnwDCzLD,3,1,,,,0
+1031861100,Barcelona SC,Aucas,WErjuywa,Wz8yaA21,1,0,,,,0
+1031867700,Oriente Petrolero,Bolivar,dAJb3Ws0,KxxHBfzK,1,0,,,,0
+1032299700,Nacional,Danubio,xErFNzEn,pG50LNFb,2,0,,,,0
+1032386100,Boca Juniors,Gimnasia L.P.,tnwDCzLD,xdPGGCcs,0,0,,,,0
+1032386100,Barcelona SC,Alianza Lima,WErjuywa,tE1csI3A,1,0,,,,0
+1032472500,Monagas,San Lorenzo,2gmAxwcQ,ABQ0Crsh,0,3,,,,0
+1032472500,Bolivar,Libertad Asuncion,KxxHBfzK,UwvYANk9,2,0,,,,0
+1032818400,S. Wanderers,Cobreloa,Miq6wRQG,IXRjJEDH,3,2,,,,0
+1032818400,Libertad Asuncion,Bolivar,UwvYANk9,KxxHBfzK,1,1,,,,0
+1032904800,America De Cali,Atl. Nacional,hSZHTo4B,tnwDCzLD,1,2,,,,0
+1032990900,River Plate,Racing Club,nqhLBCKD,OCiVKiPK,0,0,,,,0
+1033077300,San Lorenzo,Monagas,ABQ0Crsh,2gmAxwcQ,5,1,,,,0
+1033077300,Alianza Lima,Barcelona SC,tE1csI3A,WErjuywa,2,1,,,,0
+1033509300,Alianza Lima,Nacional,tE1csI3A,xErFNzEn,1,0,,,,0
+1033595700,San Lorenzo,Racing Club,ABQ0Crsh,OCiVKiPK,3,1,,,,0
+1034114100,Atl. Nacional,S. Wanderers,tnwDCzLD,Miq6wRQG,2,1,,,,0
+1034200500,Bolivar,Gimnasia L.P.,KxxHBfzK,xdPGGCcs,4,1,,,,0
+1035323700,Nacional,Alianza Lima,xErFNzEn,tE1csI3A,3,1,,,,0
+1035410100,Racing Club,San Lorenzo,OCiVKiPK,ABQ0Crsh,2,0,,,,0
+1035932100,S. Wanderers,Atl. Nacional,Miq6wRQG,tnwDCzLD,1,0,,,,0
+1036018500,Gimnasia L.P.,Bolivar,xdPGGCcs,KxxHBfzK,2,0,,,,0
+1036450800,Bolivar,San Lorenzo,KxxHBfzK,ABQ0Crsh,2,1,,,,0
+1036537200,Atl. Nacional,Nacional,tnwDCzLD,xErFNzEn,2,1,,,,0
+1037141700,Nacional,Atl. Nacional,xErFNzEn,tnwDCzLD,2,1,,,,0
+1037228100,San Lorenzo,Bolivar,ABQ0Crsh,KxxHBfzK,4,2,,,,0
+1038437700,Atl. Nacional,San Lorenzo,tnwDCzLD,ABQ0Crsh,0,4,,,,0
+1039647300,San Lorenzo,Atl. Nacional,ABQ0Crsh,tnwDCzLD,0,0,,,,0
+1036191600,Cobreloa,S. Wanderers,IXRjJEDH,Miq6wRQG,0,1,,,,0

@@ -1,52 +1,52 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1250958600,St. Wetteren,Hasselt,4,2,,,,0
-1250962200,Dessel,Leuven,2,5,,,,0
-1250964000,Lierse,Huy,2,1,,,,0
-1250964000,La Louviere,Deinze,0,1,,,,0
-1251032400,Bertrix,RWS Bruxelles,1,2,,,,0
-1251036000,Meldert,Vervietois,0,1,,,,0
-1251036000,Hamme,Hoogstraten,1,0,,,,0
-1251036000,Boom,KSK Beveren,0,4,,,,0
-1251036000,Antwerp,BX Brussels,1,0,,,,0
-1251036000,Aalst,Lommel SK,2,0,,,,0
-1251039600,Wielsbeke,Belisia Bilzen,0,2,,,,0
-1251039600,Tongeren,Virton,0,1,,,,0
-1251039600,Ronse,Oudenaarde,3,0,,,,0
-1254938400,St. Truiden,RWS Bruxelles,1,0,,,,0
-1256670000,St. Liege,Lierse,1,1,AET,2,1,0
-1256670000,Beerschot AC,Deinze,3,0,,,,0
-1256671800,Mons,Mouscron,1,1,AET,2,1,0
-1256671800,Cercle Brugge KSV,Leuven,2,0,,,,0
-1256672700,St. Truiden,Genk,0,1,,,,0
-1256756400,Gent,RWS Bruxelles,3,1,,,,0
-1256756400,Club Brugge KV,Hamme,5,0,,,,0
-1256758200,Westerlo,Aalst,2,2,AET,3,2,0
-1256758200,Waregem,Ronse,3,0,,,,0
-1256758200,Virton,Kortrijk,0,0,AET,0,1,0
-1256758200,St. Wetteren,Charleroi,0,0,AET,1,2,0
-1256758200,Lokeren,Tubize-Braine,2,0,,,,0
-1256758200,KV Mechelen,Belisia Bilzen,2,0,,,,0
-1256758200,KSV Roeselare,KSK Beveren,1,1,AET,2,1,0
-1256758200,Antwerp,Dender,0,1,,,,0
-1256758200,Anderlecht,Vervietois,2,0,,,,0
-1261594800,Club Brugge KV,Lokeren,2,1,,,,0
-1261596600,Westerlo,Mons,3,1,,,,0
-1261596600,St. Liege,Kortrijk,1,2,,,,0
-1261596600,Genk,KSV Roeselare,1,2,,,,0
-1261596600,Charleroi,KV Mechelen,2,2,AET,2,5,0
-1261596600,Anderlecht,Dender,3,0,,,,0
-1261598400,Gent,Beerschot AC,1,0,,,,0
-1264015800,Waregem,Cercle Brugge KSV,1,3,,,,0
-1264015800,KV Mechelen,Westerlo,3,2,,,,0
-1264015800,Kortrijk,KSV Roeselare,3,2,,,,0
-1264016700,Club Brugge KV,Gent,1,4,,,,0
-1264273200,Anderlecht,Cercle Brugge KSV,2,1,,,,0
-1264534200,Cercle Brugge KSV,Anderlecht,1,0,,,,0
-1264620600,KSV Roeselare,Kortrijk,1,0,,,,0
-1264620600,Gent,Club Brugge KV,1,0,,,,0
-1264621500,Westerlo,KV Mechelen,0,0,,,,0
-1265744700,KV Mechelen,Gent,2,2,,,,0
-1268855100,Cercle Brugge KSV,KSV Roeselare,3,0,,,,0
-1269546300,Gent,KV Mechelen,1,0,,,,0
-1269632700,KSV Roeselare,Cercle Brugge KSV,3,1,,,,0
-1273949100,Gent,Cercle Brugge KSV,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1250958600,St. Wetteren,Hasselt,xCPMRLr8,61SFettE,4,2,,,,0
+1250962200,Dessel,Leuven,M5lCtVJ3,n1X34PhM,2,5,,,,0
+1250964000,Lierse,Huy,xQnxBzcF,nRdD1VLa,2,1,,,,0
+1250964000,La Louviere,Deinze,YqYSzAHe,29aP07Oc,0,1,,,,0
+1251032400,Bertrix,RWS Bruxelles,M5lCtVJ3,OCiVKiPK,1,2,,,,0
+1251036000,Meldert,Vervietois,raL6XQE3,nPuvAmcI,0,1,,,,0
+1251036000,Hamme,Hoogstraten,ILReCEDO,ILReCEDO,1,0,,,,0
+1251036000,Boom,KSK Beveren,nPTSWNl7,tt0jGfcU,0,4,,,,0
+1251036000,Antwerp,BX Brussels,vuxu3x67,EBsWwUbE,1,0,,,,0
+1251036000,Aalst,Lommel SK,AoqqSdQE,GvU2Aojq,2,0,,,,0
+1251039600,Wielsbeke,Belisia Bilzen,8xJC1feR,K4thxAcq,0,2,,,,0
+1251039600,Tongeren,Virton,dxvEjyF0,nySHadaH,0,1,,,,0
+1251039600,Ronse,Oudenaarde,vZlYXIJP,fiWEecCq,3,0,,,,0
+1254938400,St. Truiden,RWS Bruxelles,OCiVKiPK,OCiVKiPK,1,0,,,,0
+1256670000,St. Liege,Lierse,tjZYJCwg,xQnxBzcF,1,1,AET,2,1,0
+1256670000,Beerschot AC,Deinze,dvLIfKqM,29aP07Oc,3,0,,,,0
+1256671800,Mons,Mouscron,EkA5g8Rs,4KjgYD22,1,1,AET,2,1,0
+1256671800,Cercle Brugge KSV,Leuven,CS6nbsqF,n1X34PhM,2,0,,,,0
+1256672700,St. Truiden,Genk,OCiVKiPK,YB0frRRP,0,1,,,,0
+1256756400,Gent,RWS Bruxelles,ETUaLGDL,OCiVKiPK,3,1,,,,0
+1256756400,Club Brugge KV,Hamme,44lq3LsP,ILReCEDO,5,0,,,,0
+1256758200,Westerlo,Aalst,ht99hStl,AoqqSdQE,2,2,AET,3,2,0
+1256758200,Waregem,Ronse,fc7DY1B9,vZlYXIJP,3,0,,,,0
+1256758200,Virton,Kortrijk,nySHadaH,nB6CAUfs,0,0,AET,0,1,0
+1256758200,St. Wetteren,Charleroi,xCPMRLr8,xCPMRLr8,0,0,AET,1,2,0
+1256758200,Lokeren,Tubize-Braine,Iw55ueQk,xCPMRLr8,2,0,,,,0
+1256758200,KV Mechelen,Belisia Bilzen,zVJMgvaS,K4thxAcq,2,0,,,,0
+1256758200,KSV Roeselare,KSK Beveren,fc7DY1B9,tt0jGfcU,1,1,AET,2,1,0
+1256758200,Antwerp,Dender,vuxu3x67,xCPMRLr8,0,1,,,,0
+1256758200,Anderlecht,Vervietois,YVlGNJGc,nPuvAmcI,2,0,,,,0
+1261594800,Club Brugge KV,Lokeren,44lq3LsP,Iw55ueQk,2,1,,,,0
+1261596600,Westerlo,Mons,ht99hStl,EkA5g8Rs,3,1,,,,0
+1261596600,St. Liege,Kortrijk,tjZYJCwg,nB6CAUfs,1,2,,,,0
+1261596600,Genk,KSV Roeselare,YB0frRRP,fc7DY1B9,1,2,,,,0
+1261596600,Charleroi,KV Mechelen,xCPMRLr8,zVJMgvaS,2,2,AET,2,5,0
+1261596600,Anderlecht,Dender,YVlGNJGc,xCPMRLr8,3,0,,,,0
+1261598400,Gent,Beerschot AC,ETUaLGDL,dvLIfKqM,1,0,,,,0
+1264015800,Waregem,Cercle Brugge KSV,fc7DY1B9,CS6nbsqF,1,3,,,,0
+1264015800,KV Mechelen,Westerlo,zVJMgvaS,ht99hStl,3,2,,,,0
+1264015800,Kortrijk,KSV Roeselare,nB6CAUfs,fc7DY1B9,3,2,,,,0
+1264016700,Club Brugge KV,Gent,44lq3LsP,ETUaLGDL,1,4,,,,0
+1264273200,Anderlecht,Cercle Brugge KSV,YVlGNJGc,CS6nbsqF,2,1,,,,0
+1264534200,Cercle Brugge KSV,Anderlecht,CS6nbsqF,YVlGNJGc,1,0,,,,0
+1264620600,KSV Roeselare,Kortrijk,fc7DY1B9,nB6CAUfs,1,0,,,,0
+1264620600,Gent,Club Brugge KV,ETUaLGDL,44lq3LsP,1,0,,,,0
+1264621500,Westerlo,KV Mechelen,ht99hStl,zVJMgvaS,0,0,,,,0
+1265744700,KV Mechelen,Gent,zVJMgvaS,ETUaLGDL,2,2,,,,0
+1268855100,Cercle Brugge KSV,KSV Roeselare,CS6nbsqF,fc7DY1B9,3,0,,,,0
+1269546300,Gent,KV Mechelen,ETUaLGDL,zVJMgvaS,1,0,,,,0
+1269632700,KSV Roeselare,Cercle Brugge KSV,fc7DY1B9,CS6nbsqF,3,1,,,,0
+1273949100,Gent,Cercle Brugge KSV,ETUaLGDL,CS6nbsqF,3,0,,,,0

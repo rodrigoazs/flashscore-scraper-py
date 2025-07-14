@@ -1,96 +1,96 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-745699500,Zimbru Chisinau,Beitar Jerusalem,1,1,,,,0
-745699500,Toftir,D. Zagreb,0,5,,,,0
-745699500,Skonto,O. Ljubljana,0,1,,,,0
-745699500,Omonia,Aarau,2,1,,,,0
-745699500,HJK,Norma Tallinn,1,1,,,,0
-745699500,Ekranas,Floriana,0,1,,,,0
-745699500,Dinamo Tbilisi,Linfield,2,1,,,,0
-745699500,Cwmbran Town,Cork City,3,2,,,,0
-745699500,Avenir Beggen,Rosenborg,0,2,,,,0
-746045100,Partizani,Akranes,0,0,,,,0
-746909100,Rosenborg,Avenir Beggen,1,0,,,,0
-746909100,O. Ljubljana,Skonto,0,1,Pen,0,2,0
-746909100,Norma Tallinn,HJK,0,1,,,,0
-746909100,Linfield,Dinamo Tbilisi,1,1,,,,0
-746909100,Floriana,Ekranas,1,0,,,,0
-746909100,D. Zagreb,Toftir,6,0,,,,0
-746909100,Cork City,Cwmbran Town,2,1,,,,0
-746909100,Beitar Jerusalem,Zimbru Chisinau,2,0,,,,0
-746909100,Akranes,Partizani,3,0,,,,0
-746909100,Aarau,Omonia,2,0,,,,0
-748118700,Skonto,Spartak Moscow,0,5,,,,0
-748118700,Rosenborg,Austria Vienna,3,1,,,,0
-748118700,Rangers,Levski Sofia,3,2,,,,0
-748118700,Monaco,AEK Athens FC,1,0,,,,0
-748118700,Linfield,FC Copenhagen,3,0,,,,0
-748118700,Lech Poznan,Beitar Jerusalem,3,0,,,,0
-748118700,Honved,Manchester Utd,2,3,,,,0
-748118700,HJK,Anderlecht,0,3,,,,0
-748118700,Galatasaray,Cork City,2,1,,,,0
-748118700,FCSB,D. Zagreb,1,2,,,,0
-748118700,FC Porto,Floriana,2,0,,,,0
-748118700,Dyn. Kyiv,Barcelona,3,1,,,,0
-748118700,Akranes,Feyenoord,1,0,,,,0
-748118700,AIK,Sparta Prague,1,0,,,,0
-748118700,Aarau,AC Milan,0,1,,,,0
-748205100,Werder Bremen,Din. Minsk,5,2,,,,0
-749245500,D. Zagreb,FCSB,2,3,,,,0
-749331900,Spartak Moscow,Skonto,4,0,,,,0
-749331900,Sparta Prague,AIK,2,0,,,,0
-749331900,Manchester Utd,Honved,2,1,,,,0
-749331900,Levski Sofia,Rangers,2,1,,,,0
-749331900,Floriana,FC Porto,0,0,,,,0
-749331900,Feyenoord,Akranes,3,0,,,,0
-749331900,FC Copenhagen,Linfield,3,0,AET,4,0,0
-749331900,Din. Minsk,Werder Bremen,1,1,,,,0
-749331900,Cork City,Galatasaray,0,1,,,,0
-749331900,Beitar Jerusalem,Lech Poznan,2,4,,,,0
-749331900,Barcelona,Dyn. Kyiv,4,1,,,,0
-749331900,Austria Vienna,Rosenborg,4,1,,,,0
-749331900,Anderlecht,HJK,3,0,,,,0
-749331900,AEK Athens FC,Monaco,1,1,,,,0
-749331900,AC Milan,Aarau,0,0,,,,0
-751146300,Sparta Prague,Anderlecht,0,1,,,,0
-751146300,Monaco,FCSB,4,1,,,,0
-751146300,Manchester Utd,Galatasaray,3,3,,,,0
-751146300,Levski Sofia,Werder Bremen,2,2,,,,0
-751146300,Lech Poznan,Spartak Moscow,1,5,,,,0
-751146300,FC Porto,Feyenoord,1,0,,,,0
-751146300,FC Copenhagen,AC Milan,0,6,,,,0
-751146300,Barcelona,Austria Vienna,3,0,,,,0
-752355900,Werder Bremen,Levski Sofia,1,0,,,,0
-752355900,Spartak Moscow,Lech Poznan,2,1,,,,0
-752355900,Galatasaray,Manchester Utd,0,0,,,,0
-752355900,Feyenoord,FC Porto,0,0,,,,0
-752355900,FCSB,Monaco,1,0,,,,0
-752355900,Austria Vienna,Barcelona,1,2,,,,0
-752355900,Anderlecht,Sparta Prague,4,2,,,,0
-752355900,AC Milan,FC Copenhagen,1,0,,,,0
-754170300,Monaco,Spartak Moscow,4,1,,,,0
-754170300,Galatasaray,Barcelona,0,0,,,,0
-754170300,FC Porto,Werder Bremen,3,2,,,,0
-754170300,Anderlecht,AC Milan,0,0,,,,0
-754775100,AC Milan,FC Porto,3,0,,,,0
-755379900,Werder Bremen,Anderlecht,5,3,,,,0
-755379900,Spartak Moscow,Galatasaray,0,0,,,,0
-755379900,Barcelona,Monaco,2,0,,,,0
-762637500,Spartak Moscow,Barcelona,2,2,,,,0
-762637500,Monaco,Galatasaray,3,0,,,,0
-762637500,Anderlecht,FC Porto,1,0,,,,0
-762637500,AC Milan,Werder Bremen,2,1,,,,0
-763847100,Werder Bremen,AC Milan,1,1,,,,0
-763847100,Galatasaray,Monaco,0,2,,,,0
-763847100,FC Porto,Anderlecht,2,0,,,,0
-763847100,Barcelona,Spartak Moscow,5,1,,,,0
-765053100,Werder Bremen,FC Porto,0,5,,,,0
-765053100,Spartak Moscow,Monaco,0,0,,,,0
-765053100,Barcelona,Galatasaray,3,0,,,,0
-765053100,AC Milan,Anderlecht,0,0,,,,0
-766262700,Monaco,Barcelona,0,1,,,,0
-766262700,Galatasaray,Spartak Moscow,1,2,,,,0
-766262700,FC Porto,AC Milan,0,0,,,,0
-766262700,Anderlecht,Werder Bremen,1,2,,,,0
-767472300,Barcelona,FC Porto,3,0,,,,0
-767472300,AC Milan,Monaco,3,0,,,,0
-769284900,AC Milan,Barcelona,4,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+745699500,Zimbru Chisinau,Beitar Jerusalem,QcBOsqL0,llM9Ws6j,1,1,,,,0
+745699500,Toftir,D. Zagreb,Sdd6AGnq,GU4hlIMk,0,5,,,,0
+745699500,Skonto,O. Ljubljana,MaoY8XU2,zc0A80Mi,0,1,,,,0
+745699500,Omonia,Aarau,8GeT5Kmk,nLy4dj0C,2,1,,,,0
+745699500,HJK,Norma Tallinn,xO7wlFSD,KzRpHwza,1,1,,,,0
+745699500,Ekranas,Floriana,KGWqWzzf,xGkXZymr,0,1,,,,0
+745699500,Dinamo Tbilisi,Linfield,MqwiOmp3,GUrKqyjt,2,1,,,,0
+745699500,Cwmbran Town,Cork City,bqevyk2Q,z33Ic0oD,3,2,,,,0
+745699500,Avenir Beggen,Rosenborg,4jwwMQjF,nq6bPf0N,0,2,,,,0
+746045100,Partizani,Akranes,4praOw3K,4hhcealo,0,0,,,,0
+746909100,Rosenborg,Avenir Beggen,nq6bPf0N,4jwwMQjF,1,0,,,,0
+746909100,O. Ljubljana,Skonto,zc0A80Mi,MaoY8XU2,0,1,Pen,0,2,0
+746909100,Norma Tallinn,HJK,KzRpHwza,xO7wlFSD,0,1,,,,0
+746909100,Linfield,Dinamo Tbilisi,GUrKqyjt,MqwiOmp3,1,1,,,,0
+746909100,Floriana,Ekranas,xGkXZymr,KGWqWzzf,1,0,,,,0
+746909100,D. Zagreb,Toftir,GU4hlIMk,Sdd6AGnq,6,0,,,,0
+746909100,Cork City,Cwmbran Town,z33Ic0oD,bqevyk2Q,2,1,,,,0
+746909100,Beitar Jerusalem,Zimbru Chisinau,llM9Ws6j,QcBOsqL0,2,0,,,,0
+746909100,Akranes,Partizani,4hhcealo,4praOw3K,3,0,,,,0
+746909100,Aarau,Omonia,nLy4dj0C,8GeT5Kmk,2,0,,,,0
+748118700,Skonto,Spartak Moscow,MaoY8XU2,jqo4GJye,0,5,,,,0
+748118700,Rosenborg,Austria Vienna,nq6bPf0N,lUkqx2Vt,3,1,,,,0
+748118700,Rangers,Levski Sofia,fFCBVa82,OvIM8T6I,3,2,,,,0
+748118700,Monaco,AEK Athens FC,44KQTmnj,Aq4Rjd2q,1,0,,,,0
+748118700,Linfield,FC Copenhagen,GUrKqyjt,xv6lkb7q,3,0,,,,0
+748118700,Lech Poznan,Beitar Jerusalem,lCvEmFL0,llM9Ws6j,3,0,,,,0
+748118700,Honved,Manchester Utd,0bbECxUd,h2pPXz3k,2,3,,,,0
+748118700,HJK,Anderlecht,xO7wlFSD,YVlGNJGc,0,3,,,,0
+748118700,Galatasaray,Cork City,dEXkR0Wq,z33Ic0oD,2,1,,,,0
+748118700,FCSB,D. Zagreb,SCh1iPaa,GU4hlIMk,1,2,,,,0
+748118700,FC Porto,Floriana,Kth3Rz1C,xGkXZymr,2,0,,,,0
+748118700,Dyn. Kyiv,Barcelona,M1Cjh44S,fcDVLdrL,3,1,,,,0
+748118700,Akranes,Feyenoord,4hhcealo,Wz6bfhxO,1,0,,,,0
+748118700,AIK,Sparta Prague,2c38J1pB,lWOFh0RD,1,0,,,,0
+748118700,Aarau,AC Milan,nLy4dj0C,fL3dmxxd,0,1,,,,0
+748205100,Werder Bremen,Din. Minsk,EVomMG4o,xUKWlpRC,5,2,,,,0
+749245500,D. Zagreb,FCSB,GU4hlIMk,SCh1iPaa,2,3,,,,0
+749331900,Spartak Moscow,Skonto,jqo4GJye,MaoY8XU2,4,0,,,,0
+749331900,Sparta Prague,AIK,lWOFh0RD,2c38J1pB,2,0,,,,0
+749331900,Manchester Utd,Honved,h2pPXz3k,0bbECxUd,2,1,,,,0
+749331900,Levski Sofia,Rangers,OvIM8T6I,fFCBVa82,2,1,,,,0
+749331900,Floriana,FC Porto,xGkXZymr,Kth3Rz1C,0,0,,,,0
+749331900,Feyenoord,Akranes,Wz6bfhxO,4hhcealo,3,0,,,,0
+749331900,FC Copenhagen,Linfield,xv6lkb7q,GUrKqyjt,3,0,AET,4,0,0
+749331900,Din. Minsk,Werder Bremen,xUKWlpRC,EVomMG4o,1,1,,,,0
+749331900,Cork City,Galatasaray,z33Ic0oD,dEXkR0Wq,0,1,,,,0
+749331900,Beitar Jerusalem,Lech Poznan,llM9Ws6j,lCvEmFL0,2,4,,,,0
+749331900,Barcelona,Dyn. Kyiv,fcDVLdrL,M1Cjh44S,4,1,,,,0
+749331900,Austria Vienna,Rosenborg,lUkqx2Vt,nq6bPf0N,4,1,,,,0
+749331900,Anderlecht,HJK,YVlGNJGc,xO7wlFSD,3,0,,,,0
+749331900,AEK Athens FC,Monaco,Aq4Rjd2q,44KQTmnj,1,1,,,,0
+749331900,AC Milan,Aarau,fL3dmxxd,nLy4dj0C,0,0,,,,0
+751146300,Sparta Prague,Anderlecht,lWOFh0RD,YVlGNJGc,0,1,,,,0
+751146300,Monaco,FCSB,44KQTmnj,SCh1iPaa,4,1,,,,0
+751146300,Manchester Utd,Galatasaray,h2pPXz3k,dEXkR0Wq,3,3,,,,0
+751146300,Levski Sofia,Werder Bremen,OvIM8T6I,EVomMG4o,2,2,,,,0
+751146300,Lech Poznan,Spartak Moscow,lCvEmFL0,jqo4GJye,1,5,,,,0
+751146300,FC Porto,Feyenoord,Kth3Rz1C,Wz6bfhxO,1,0,,,,0
+751146300,FC Copenhagen,AC Milan,xv6lkb7q,fL3dmxxd,0,6,,,,0
+751146300,Barcelona,Austria Vienna,fcDVLdrL,lUkqx2Vt,3,0,,,,0
+752355900,Werder Bremen,Levski Sofia,EVomMG4o,OvIM8T6I,1,0,,,,0
+752355900,Spartak Moscow,Lech Poznan,jqo4GJye,lCvEmFL0,2,1,,,,0
+752355900,Galatasaray,Manchester Utd,dEXkR0Wq,h2pPXz3k,0,0,,,,0
+752355900,Feyenoord,FC Porto,Wz6bfhxO,Kth3Rz1C,0,0,,,,0
+752355900,FCSB,Monaco,SCh1iPaa,44KQTmnj,1,0,,,,0
+752355900,Austria Vienna,Barcelona,lUkqx2Vt,fcDVLdrL,1,2,,,,0
+752355900,Anderlecht,Sparta Prague,YVlGNJGc,lWOFh0RD,4,2,,,,0
+752355900,AC Milan,FC Copenhagen,fL3dmxxd,xv6lkb7q,1,0,,,,0
+754170300,Monaco,Spartak Moscow,44KQTmnj,jqo4GJye,4,1,,,,0
+754170300,Galatasaray,Barcelona,dEXkR0Wq,fcDVLdrL,0,0,,,,0
+754170300,FC Porto,Werder Bremen,Kth3Rz1C,EVomMG4o,3,2,,,,0
+754170300,Anderlecht,AC Milan,YVlGNJGc,fL3dmxxd,0,0,,,,0
+754775100,AC Milan,FC Porto,fL3dmxxd,Kth3Rz1C,3,0,,,,0
+755379900,Werder Bremen,Anderlecht,EVomMG4o,YVlGNJGc,5,3,,,,0
+755379900,Spartak Moscow,Galatasaray,jqo4GJye,dEXkR0Wq,0,0,,,,0
+755379900,Barcelona,Monaco,fcDVLdrL,44KQTmnj,2,0,,,,0
+762637500,Spartak Moscow,Barcelona,jqo4GJye,fcDVLdrL,2,2,,,,0
+762637500,Monaco,Galatasaray,44KQTmnj,dEXkR0Wq,3,0,,,,0
+762637500,Anderlecht,FC Porto,YVlGNJGc,Kth3Rz1C,1,0,,,,0
+762637500,AC Milan,Werder Bremen,fL3dmxxd,EVomMG4o,2,1,,,,0
+763847100,Werder Bremen,AC Milan,EVomMG4o,fL3dmxxd,1,1,,,,0
+763847100,Galatasaray,Monaco,dEXkR0Wq,44KQTmnj,0,2,,,,0
+763847100,FC Porto,Anderlecht,Kth3Rz1C,YVlGNJGc,2,0,,,,0
+763847100,Barcelona,Spartak Moscow,fcDVLdrL,jqo4GJye,5,1,,,,0
+765053100,Werder Bremen,FC Porto,EVomMG4o,Kth3Rz1C,0,5,,,,0
+765053100,Spartak Moscow,Monaco,jqo4GJye,44KQTmnj,0,0,,,,0
+765053100,Barcelona,Galatasaray,fcDVLdrL,dEXkR0Wq,3,0,,,,0
+765053100,AC Milan,Anderlecht,fL3dmxxd,YVlGNJGc,0,0,,,,0
+766262700,Monaco,Barcelona,44KQTmnj,fcDVLdrL,0,1,,,,0
+766262700,Galatasaray,Spartak Moscow,dEXkR0Wq,jqo4GJye,1,2,,,,0
+766262700,FC Porto,AC Milan,Kth3Rz1C,fL3dmxxd,0,0,,,,0
+766262700,Anderlecht,Werder Bremen,YVlGNJGc,EVomMG4o,1,2,,,,0
+767472300,Barcelona,FC Porto,fcDVLdrL,Kth3Rz1C,3,0,,,,0
+767472300,AC Milan,Monaco,fL3dmxxd,44KQTmnj,3,0,,,,0
+769284900,AC Milan,Barcelona,fL3dmxxd,fcDVLdrL,4,0,,,,0

@@ -1,69 +1,69 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1644433200,Real Cundinamarca,Atletico F.C.,1,1,,,,0
-1644433800,Real Santander,Barranquilla,3,0,,,,0
-1644436800,Boca Juniors,Fortaleza,0,1,,,,0
-1644445800,Tigres,Leones,2,0,,,,0
-1644523200,Orsomarso,Llaneros,0,0,,,,0
-1644534000,Quindio,Bogota,1,0,,,,0
-1644541200,Huila,Cartagena,1,0,,,,0
-1645642800,Atletico F.C.,Real Cundinamarca,0,0,Pen,0,1,0
-1645646400,Llaneros,Orsomarso,2,0,,,,0
-1645646400,Leones,Tigres,1,1,,,,0
-1645650000,Barranquilla,Real Santander,0,0,,,,0
-1645653600,Fortaleza,Boca Juniors,1,0,,,,0
-1645741800,Bogota,Quindio,2,2,,,,0
-1645750800,Cartagena,Huila,0,0,,,,0
-1646254800,Real Cundinamarca,Fortaleza,0,2,,,,0
-1646262000,Chico,Real Santander,0,1,,,,0
-1646346600,Huila,Tigres,0,2,,,,0
-1646354400,Quindio,Llaneros,3,0,,,,0
-1647370800,Real Santander,Chico,2,1,,,,0
-1647391200,Tigres,Huila,2,0,,,,0
-1647547200,Llaneros,Quindio,2,0,,,,0
-1647556200,Fortaleza,Real Cundinamarca,1,1,,,,0
-1648666800,Envigado,Bucaramanga,0,0,,,,0
-1648670400,U. Magdalena,Real Santander,3,1,,,,0
-1648672200,Inter Palmira,Fortaleza,0,1,,,,0
-1648674000,Patriotas,Tigres,0,0,,,,0
-1648681200,Alianza,Jaguares de Cordoba,1,1,,,,0
-1648767600,Once Caldas,Quindio,0,0,,,,0
-1648774800,Dep. Pasto,Santa Fe,0,1,,,,0
-1649271600,Real Santander,U. Magdalena,1,5,,,,0
-1649275200,Tigres,Patriotas,1,0,,,,0
-1649284200,Jaguares de Cordoba,Alianza,2,1,,,,0
-1649293200,Aguilas,Pereira,0,1,,,,0
-1649361600,Fortaleza,Inter Palmira,1,0,,,,0
-1649370600,Quindio,Once Caldas,0,1,,,,0
-1649377800,Bucaramanga,Envigado,3,0,,,,0
-1649379600,Santa Fe,Dep. Pasto,3,0,,,,0
-1649982600,Pereira,Aguilas,1,2,Pen,2,2,0
-1650484800,Ind. Medellin,Tigres,1,0,,,,0
-1650486600,America De Cali,U. Magdalena,1,2,,,,0
-1650488400,La Equidad,Bucaramanga,2,0,,,,0
-1650495600,Junior,Santa Fe,2,1,,,,0
-1650501000,Deportes Tolima,Pereira,3,2,,,,0
-1650503700,Dep. Cali,Fortaleza,1,3,,,,0
-1650503700,Atl. Nacional,Once Caldas,3,0,,,,0
-1650589200,Millonarios,Jaguares de Cordoba,3,0,,,,0
-1652295600,Tigres,Ind. Medellin,1,2,,,,0
-1652306400,Bucaramanga,La Equidad,0,0,,,,0
-1652310000,Once Caldas,Atl. Nacional,1,2,,,,0
-1652310000,Jaguares de Cordoba,Millonarios,1,1,,,,0
-1652313600,Pereira,Deportes Tolima,1,1,,,,0
-1652317800,Santa Fe,Junior,0,1,,,,0
-1652364000,U. Magdalena,America De Cali,2,1,,,,0
-1652403600,Fortaleza,Dep. Cali,1,1,,,,0
-1658962800,Millonarios,Fortaleza,3,0,,,,0
-1658970300,Deportes Tolima,Ind. Medellin,1,3,,,,0
-1659049200,La Equidad,U. Magdalena,1,1,,,,0
-1659056700,Junior,Atl. Nacional,3,0,,,,0
-1660777200,Ind. Medellin,Deportes Tolima,0,1,,,,0
-1660785300,Fortaleza,Millonarios,2,3,,,,0
-1660861800,U. Magdalena,La Equidad,1,1,Pen,2,1,0
-1660870800,Atl. Nacional,Junior,1,1,,,,0
-1661382000,Junior,U. Magdalena,0,1,,,,0
-1661389500,Ind. Medellin,Millonarios,0,2,,,,0
-1662598800,Millonarios,Ind. Medellin,2,2,,,,0
-1663196400,U. Magdalena,Junior,0,1,Pen,0,2,0
-1664413200,Junior,Millonarios,1,0,,,,0
-1667437200,Millonarios,Junior,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1644433200,Real Cundinamarca,Atletico F.C.,bqFiSdJl,YkXz5hTm,1,1,,,,0
+1644433800,Real Santander,Barranquilla,YLa74tUj,OlLDanjn,3,0,,,,0
+1644436800,Boca Juniors,Fortaleza,YkXz5hTm,6XjLWQsI,0,1,,,,0
+1644445800,Tigres,Leones,r7qn5qKU,ldtTlNn4,2,0,,,,0
+1644523200,Orsomarso,Llaneros,0ASINSdB,hjn5AE5Q,0,0,,,,0
+1644534000,Quindio,Bogota,Eam1BfjK,ldlFLEPm,1,0,,,,0
+1644541200,Huila,Cartagena,W6vdbCVa,zVgW5cY1,1,0,,,,0
+1645642800,Atletico F.C.,Real Cundinamarca,YkXz5hTm,bqFiSdJl,0,0,Pen,0,1,0
+1645646400,Llaneros,Orsomarso,hjn5AE5Q,0ASINSdB,2,0,,,,0
+1645646400,Leones,Tigres,ldtTlNn4,r7qn5qKU,1,1,,,,0
+1645650000,Barranquilla,Real Santander,OlLDanjn,YLa74tUj,0,0,,,,0
+1645653600,Fortaleza,Boca Juniors,6XjLWQsI,YkXz5hTm,1,0,,,,0
+1645741800,Bogota,Quindio,ldlFLEPm,Eam1BfjK,2,2,,,,0
+1645750800,Cartagena,Huila,zVgW5cY1,W6vdbCVa,0,0,,,,0
+1646254800,Real Cundinamarca,Fortaleza,bqFiSdJl,6XjLWQsI,0,2,,,,0
+1646262000,Chico,Real Santander,faYW5YDs,YLa74tUj,0,1,,,,0
+1646346600,Huila,Tigres,W6vdbCVa,r7qn5qKU,0,2,,,,0
+1646354400,Quindio,Llaneros,Eam1BfjK,hjn5AE5Q,3,0,,,,0
+1647370800,Real Santander,Chico,YLa74tUj,faYW5YDs,2,1,,,,0
+1647391200,Tigres,Huila,r7qn5qKU,W6vdbCVa,2,0,,,,0
+1647547200,Llaneros,Quindio,hjn5AE5Q,Eam1BfjK,2,0,,,,0
+1647556200,Fortaleza,Real Cundinamarca,6XjLWQsI,bqFiSdJl,1,1,,,,0
+1648666800,Envigado,Bucaramanga,2XZjQRJG,0xyt4W2g,0,0,,,,0
+1648670400,U. Magdalena,Real Santander,MTr4IgZi,YLa74tUj,3,1,,,,0
+1648672200,Inter Palmira,Fortaleza,GGXLQEpI,6XjLWQsI,0,1,,,,0
+1648674000,Patriotas,Tigres,vPkIlTrP,r7qn5qKU,0,0,,,,0
+1648681200,Alianza,Jaguares de Cordoba,jqTIQW5H,K401txJG,1,1,,,,0
+1648767600,Once Caldas,Quindio,tnwDCzLD,Eam1BfjK,0,0,,,,0
+1648774800,Dep. Pasto,Santa Fe,hjn5AE5Q,AaS9a4Ho,0,1,,,,0
+1649271600,Real Santander,U. Magdalena,YLa74tUj,MTr4IgZi,1,5,,,,0
+1649275200,Tigres,Patriotas,r7qn5qKU,vPkIlTrP,1,0,,,,0
+1649284200,Jaguares de Cordoba,Alianza,K401txJG,jqTIQW5H,2,1,,,,0
+1649293200,Aguilas,Pereira,2eGA9cib,rysGeGXN,0,1,,,,0
+1649361600,Fortaleza,Inter Palmira,6XjLWQsI,GGXLQEpI,1,0,,,,0
+1649370600,Quindio,Once Caldas,Eam1BfjK,tnwDCzLD,0,1,,,,0
+1649377800,Bucaramanga,Envigado,0xyt4W2g,2XZjQRJG,3,0,,,,0
+1649379600,Santa Fe,Dep. Pasto,AaS9a4Ho,hjn5AE5Q,3,0,,,,0
+1649982600,Pereira,Aguilas,rysGeGXN,2eGA9cib,1,2,Pen,2,2,0
+1650484800,Ind. Medellin,Tigres,plopiAtN,r7qn5qKU,1,0,,,,0
+1650486600,America De Cali,U. Magdalena,hSZHTo4B,MTr4IgZi,1,2,,,,0
+1650488400,La Equidad,Bucaramanga,tGWvEQkr,0xyt4W2g,2,0,,,,0
+1650495600,Junior,Santa Fe,G2820wU0,AaS9a4Ho,2,1,,,,0
+1650501000,Deportes Tolima,Pereira,bXlV9lJE,rysGeGXN,3,2,,,,0
+1650503700,Dep. Cali,Fortaleza,IHPA1GDt,6XjLWQsI,1,3,,,,0
+1650503700,Atl. Nacional,Once Caldas,tnwDCzLD,tnwDCzLD,3,0,,,,0
+1650589200,Millonarios,Jaguares de Cordoba,6kduDy6P,K401txJG,3,0,,,,0
+1652295600,Tigres,Ind. Medellin,r7qn5qKU,plopiAtN,1,2,,,,0
+1652306400,Bucaramanga,La Equidad,0xyt4W2g,tGWvEQkr,0,0,,,,0
+1652310000,Once Caldas,Atl. Nacional,tnwDCzLD,tnwDCzLD,1,2,,,,0
+1652310000,Jaguares de Cordoba,Millonarios,K401txJG,6kduDy6P,1,1,,,,0
+1652313600,Pereira,Deportes Tolima,rysGeGXN,bXlV9lJE,1,1,,,,0
+1652317800,Santa Fe,Junior,AaS9a4Ho,G2820wU0,0,1,,,,0
+1652364000,U. Magdalena,America De Cali,MTr4IgZi,hSZHTo4B,2,1,,,,0
+1652403600,Fortaleza,Dep. Cali,6XjLWQsI,IHPA1GDt,1,1,,,,0
+1658962800,Millonarios,Fortaleza,6kduDy6P,6XjLWQsI,3,0,,,,0
+1658970300,Deportes Tolima,Ind. Medellin,bXlV9lJE,plopiAtN,1,3,,,,0
+1659049200,La Equidad,U. Magdalena,tGWvEQkr,MTr4IgZi,1,1,,,,0
+1659056700,Junior,Atl. Nacional,G2820wU0,tnwDCzLD,3,0,,,,0
+1660777200,Ind. Medellin,Deportes Tolima,plopiAtN,bXlV9lJE,0,1,,,,0
+1660785300,Fortaleza,Millonarios,6XjLWQsI,6kduDy6P,2,3,,,,0
+1660861800,U. Magdalena,La Equidad,MTr4IgZi,tGWvEQkr,1,1,Pen,2,1,0
+1660870800,Atl. Nacional,Junior,tnwDCzLD,G2820wU0,1,1,,,,0
+1661382000,Junior,U. Magdalena,G2820wU0,MTr4IgZi,0,1,,,,0
+1661389500,Ind. Medellin,Millonarios,plopiAtN,6kduDy6P,0,2,,,,0
+1662598800,Millonarios,Ind. Medellin,6kduDy6P,plopiAtN,2,2,,,,0
+1663196400,U. Magdalena,Junior,MTr4IgZi,G2820wU0,0,1,Pen,0,2,0
+1664413200,Junior,Millonarios,G2820wU0,6kduDy6P,1,0,,,,0
+1667437200,Millonarios,Junior,6kduDy6P,G2820wU0,2,0,,,,0

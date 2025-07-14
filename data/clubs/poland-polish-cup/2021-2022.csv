@@ -1,69 +1,69 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1628085600,Lech Poznan II,Pruszkow,0,0,AET,2,0,0
-1628085600,Hutnik Krakow,Ol. Grudziadz,0,1,,,,0
-1628089200,Pogon Siedlce,Olimpia Elblag,3,0,Awrd,,,0
-1628089200,Ostroda,Blekitni Stargard,2,2,AET,4,2,0
-1628096400,S. Rzeszow,Bytovia Bytow,4,1,,,,0
-1632229200,Ruch Zdzieszowice,Zaglebie Sosnowiec,0,6,,,,0
-1632231000,Sroda,GKS Jastrzebie,0,2,,,,0
-1632238200,Jagiellonia,Lechia Gdansk,1,3,,,,0
-1632240000,KKS Kalisz,Pogon Szczecin,2,1,,,,0
-1632247200,Slask Wroclaw II,Zaglebie,0,3,,,,0
-1632313800,Gornik Zabrze,Radomiak Radom,2,0,,,,0
-1632317400,Orleta Radzyn,Zielona Gora,2,3,,,,0
-1632319200,Sleza Wroclaw,Chojniczanka,3,2,,,,0
-1632319200,Concordia Elblag,Skierniewice,0,2,,,,0
-1632324600,Suwalki,Legia,1,3,,,,0
-1632330000,Motor Lublin,Podbeskidzie,1,0,,,,0
-1632330000,Legnica,Odra Opole,4,0,,,,0
-1632330900,S. Rzeszow,Rakow,2,4,,,,0
-1632332760,Wloclavia Wloclawek,Piast Gliwice,0,2,,,,0
-1632333600,Korona Kielce,Wisla Plock,2,2,AET,4,3,0
-1632335400,Stal Mielec,Wisla,1,3,,,,0
-1632411000,LKS Lodz,Cracovia,0,0,Pen,1,0,0
-1632421800,Slask Wroclaw,Termalica B-B.,0,1,,,,0
-1632837600,Skra,Lech Poznan,0,3,,,,0
-1632844800,Polkowice,Leczna,1,2,,,,0
-1632850140,Ostrowiec Swietokrzyski,Tychy,1,2,,,,0
-1632913200,Lech Poznan II,Puszcza,2,1,,,,0
-1632920400,Wisloka Debica,Swit Szczecin,0,0,Pen,0,1,0
-1632920400,Swit Mazowiecki,Bielsko-Biala,3,3,AET,4,3,0
-1632920400,GKS Belchatow,Arka Gdynia,0,5,,,,0
-1632922200,Zambrow,GKS Katowice,0,1,,,,0
-1632922200,KS Wieczysta Krakow,Chrobry Glogow,2,1,,,,0
-1632923100,Powisle Dzierzgon,Garbarnia,0,3,,,,0
-1632924000,R. Rzeszow,Widzew Lodz,1,2,,,,0
-1632924000,Ol. Grudziadz,Warta Poznan,2,0,,,,0
-1632927600,Ostroda,Pogon Siedlce,0,3,Awrd,,,0
-1632937500,Stomil Olsztyn,Sandecja Nowy S.,1,0,,,,0
-1635247800,Zielona Gora,Arka Gdynia,0,1,,,,0
-1635247800,Skierniewice,Lech Poznan,0,2,,,,0
-1635255900,Swit Mazowiecki,Lechia Gdansk,2,1,,,,0
-1635264000,KKS Kalisz,Rakow,1,2,,,,0
-1635332400,Pogon Siedlce,Motor Lublin,0,5,,,,0
-1635334200,Sleza Wroclaw,Gornik Zabrze,1,2,,,,0
-1635336000,Ol. Grudziadz,Lech Poznan II,3,0,,,,0
-1635348600,Zaglebie Sosnowiec,Piast Gliwice,0,1,,,,0
-1635355800,GKS Katowice,Termalica B-B.,1,1,AET,1,2,0
-1635359400,LKS Lodz,Zaglebie,0,1,,,,0
-1635422400,Swit Szczecin,Legia,0,1,,,,0
-1635852600,KS Wieczysta Krakow,Garbarnia,0,5,,,,0
-1635865200,Widzew Lodz,GKS Jastrzebie,4,1,,,,0
-1635942600,Tychy,Wisla,1,3,,,,0
-1635951600,Korona Kielce,Stomil Olsztyn,2,1,,,,0
-1635958800,Legnica,Leczna,2,2,Pen,2,3,0
-1638270000,Ol. Grudziadz,Swit Mazowiecki,2,2,Pen,4,3,0
-1638291600,Korona Kielce,Leczna,1,2,,,,0
-1638355500,Garbarnia,Lech Poznan,0,4,,,,0
-1638365400,Termalica B-B.,Rakow,0,2,,,,0
-1638375300,Arka Gdynia,Zaglebie,2,1,,,,0
-1638385200,Motor Lublin,Legia,1,2,,,,0
-1638471600,Widzew Lodz,Wisla,1,3,,,,0
-1644424200,Piast Gliwice,Gornik Zabrze,0,0,Pen,0,1,0
-1646154000,Ol. Grudziadz,Wisla,1,1,Pen,2,1,0
-1646163900,Arka Gdynia,Rakow,0,2,,,,0
-1646240400,Gornik Zabrze,Lech Poznan,0,2,,,,0
-1646250300,Legia,Leczna,2,0,,,,0
-1649174400,Ol. Grudziadz,Lech Poznan,0,3,,,,0
-1649260800,Rakow,Legia,1,0,,,,0
-1651500000,Lech Poznan,Rakow,1,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1628085600,Lech Poznan II,Pruszkow,r3TxCk4I,zN7pM03G,0,0,AET,2,0,0
+1628085600,Hutnik Krakow,Ol. Grudziadz,0Wq7HGoH,hjU5IpqO,0,1,,,,0
+1628089200,Pogon Siedlce,Olimpia Elblag,0AMo11wG,QPVxgHgK,3,0,Awrd,,,0
+1628089200,Ostroda,Blekitni Stargard,QixagXAl,KIiNtLeR,2,2,AET,4,2,0
+1628096400,S. Rzeszow,Bytovia Bytow,Yqj3DX7m,GMhwSd8m,4,1,,,,0
+1632229200,Ruch Zdzieszowice,Zaglebie Sosnowiec,pGFCnFWm,Ykwr8Dur,0,6,,,,0
+1632231000,Sroda,GKS Jastrzebie,4ry3hiQf,pvtQsnEF,0,2,,,,0
+1632238200,Jagiellonia,Lechia Gdansk,MgIRKEyG,0xPot60L,1,3,,,,0
+1632240000,KKS Kalisz,Pogon Szczecin,xC1YgxUR,vLZ2ZgBC,2,1,,,,0
+1632247200,Slask Wroclaw II,Zaglebie,EsEJ4Qb5,Ykwr8Dur,0,3,,,,0
+1632313800,Gornik Zabrze,Radomiak Radom,WtiGCgXQ,A9opURNC,2,0,,,,0
+1632317400,Orleta Radzyn,Zielona Gora,vHee00RO,04T7xIwT,2,3,,,,0
+1632319200,Sleza Wroclaw,Chojniczanka,Ui9ohC3h,GMhwSd8m,3,2,,,,0
+1632319200,Concordia Elblag,Skierniewice,lSODjE9I,2gREfHhi,0,2,,,,0
+1632324600,Suwalki,Legia,pGFCnFWm,rgYuXGKm,1,3,,,,0
+1632330000,Motor Lublin,Podbeskidzie,WlLh75lt,r18qDdb5,1,0,,,,0
+1632330000,Legnica,Odra Opole,UqLswWs8,roxPpNg8,4,0,,,,0
+1632330900,S. Rzeszow,Rakow,Yqj3DX7m,KpIcOmKL,2,4,,,,0
+1632332760,Wloclavia Wloclawek,Piast Gliwice,dGvgUgU4,lIeLr2US,0,2,,,,0
+1632333600,Korona Kielce,Wisla Plock,QwHphoES,S4zZQGfc,2,2,AET,4,3,0
+1632335400,Stal Mielec,Wisla,tfVka94A,Wdonsod0,1,3,,,,0
+1632411000,LKS Lodz,Cracovia,CrgYOGj7,bsOodOxd,0,0,Pen,1,0,0
+1632421800,Slask Wroclaw,Termalica B-B.,CrPl0Jrc,KdpWArUq,0,1,,,,0
+1632837600,Skra,Lech Poznan,GAhEReqp,lCvEmFL0,0,3,,,,0
+1632844800,Polkowice,Leczna,zN7pM03G,foV023AC,1,2,,,,0
+1632850140,Ostrowiec Swietokrzyski,Tychy,23lHGsL8,E9hpVUbf,1,2,,,,0
+1632913200,Lech Poznan II,Puszcza,r3TxCk4I,6PG8meHs,2,1,,,,0
+1632920400,Wisloka Debica,Swit Szczecin,IsiTU5FM,jmDYTtBm,0,0,Pen,0,1,0
+1632920400,Swit Mazowiecki,Bielsko-Biala,CIsoEfGl,bRTGK7pH,3,3,AET,4,3,0
+1632920400,GKS Belchatow,Arka Gdynia,t2JBIzI7,SUsL3Ba2,0,5,,,,0
+1632922200,Zambrow,GKS Katowice,KIJ6xa1l,4GUthy9Q,0,1,,,,0
+1632922200,KS Wieczysta Krakow,Chrobry Glogow,jiZYDfdL,nTyzgi8g,2,1,,,,0
+1632923100,Powisle Dzierzgon,Garbarnia,6NH5oThm,4CzJYYh7,0,3,,,,0
+1632924000,R. Rzeszow,Widzew Lodz,8fIj49t4,UTb1DTGS,1,2,,,,0
+1632924000,Ol. Grudziadz,Warta Poznan,hjU5IpqO,YwLXAjZC,2,0,,,,0
+1632927600,Ostroda,Pogon Siedlce,QixagXAl,0AMo11wG,0,3,Awrd,,,0
+1632937500,Stomil Olsztyn,Sandecja Nowy S.,nuSpyoEL,jJyo1HvJ,1,0,,,,0
+1635247800,Zielona Gora,Arka Gdynia,04T7xIwT,SUsL3Ba2,0,1,,,,0
+1635247800,Skierniewice,Lech Poznan,2gREfHhi,lCvEmFL0,0,2,,,,0
+1635255900,Swit Mazowiecki,Lechia Gdansk,CIsoEfGl,0xPot60L,2,1,,,,0
+1635264000,KKS Kalisz,Rakow,xC1YgxUR,KpIcOmKL,1,2,,,,0
+1635332400,Pogon Siedlce,Motor Lublin,0AMo11wG,WlLh75lt,0,5,,,,0
+1635334200,Sleza Wroclaw,Gornik Zabrze,Ui9ohC3h,WtiGCgXQ,1,2,,,,0
+1635336000,Ol. Grudziadz,Lech Poznan II,hjU5IpqO,r3TxCk4I,3,0,,,,0
+1635348600,Zaglebie Sosnowiec,Piast Gliwice,Ykwr8Dur,lIeLr2US,0,1,,,,0
+1635355800,GKS Katowice,Termalica B-B.,4GUthy9Q,KdpWArUq,1,1,AET,1,2,0
+1635359400,LKS Lodz,Zaglebie,CrgYOGj7,Ykwr8Dur,0,1,,,,0
+1635422400,Swit Szczecin,Legia,jmDYTtBm,rgYuXGKm,0,1,,,,0
+1635852600,KS Wieczysta Krakow,Garbarnia,jiZYDfdL,4CzJYYh7,0,5,,,,0
+1635865200,Widzew Lodz,GKS Jastrzebie,UTb1DTGS,pvtQsnEF,4,1,,,,0
+1635942600,Tychy,Wisla,E9hpVUbf,Wdonsod0,1,3,,,,0
+1635951600,Korona Kielce,Stomil Olsztyn,QwHphoES,nuSpyoEL,2,1,,,,0
+1635958800,Legnica,Leczna,UqLswWs8,foV023AC,2,2,Pen,2,3,0
+1638270000,Ol. Grudziadz,Swit Mazowiecki,hjU5IpqO,CIsoEfGl,2,2,Pen,4,3,0
+1638291600,Korona Kielce,Leczna,QwHphoES,foV023AC,1,2,,,,0
+1638355500,Garbarnia,Lech Poznan,4CzJYYh7,lCvEmFL0,0,4,,,,0
+1638365400,Termalica B-B.,Rakow,KdpWArUq,KpIcOmKL,0,2,,,,0
+1638375300,Arka Gdynia,Zaglebie,SUsL3Ba2,Ykwr8Dur,2,1,,,,0
+1638385200,Motor Lublin,Legia,WlLh75lt,rgYuXGKm,1,2,,,,0
+1638471600,Widzew Lodz,Wisla,UTb1DTGS,Wdonsod0,1,3,,,,0
+1644424200,Piast Gliwice,Gornik Zabrze,lIeLr2US,WtiGCgXQ,0,0,Pen,0,1,0
+1646154000,Ol. Grudziadz,Wisla,hjU5IpqO,Wdonsod0,1,1,Pen,2,1,0
+1646163900,Arka Gdynia,Rakow,SUsL3Ba2,KpIcOmKL,0,2,,,,0
+1646240400,Gornik Zabrze,Lech Poznan,WtiGCgXQ,lCvEmFL0,0,2,,,,0
+1646250300,Legia,Leczna,rgYuXGKm,foV023AC,2,0,,,,0
+1649174400,Ol. Grudziadz,Lech Poznan,hjU5IpqO,lCvEmFL0,0,3,,,,0
+1649260800,Rakow,Legia,KpIcOmKL,rgYuXGKm,1,0,,,,0
+1651500000,Lech Poznan,Rakow,lCvEmFL0,KpIcOmKL,1,3,,,,0

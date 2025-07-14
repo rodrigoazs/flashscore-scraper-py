@@ -1,39 +1,39 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1566226800,Novo Crnilishte,Bregalnica Stip,0,22,,,,0
-1566313200,Ljuboten,Tikves,1,5,,,,0
-1566313200,FK Pehchevo,Pelister,1,1,Pen,1,2,0
-1566399600,Vellazerimi,Rabotnicki,0,4,,,,0
-1566399600,Teteks,Shkupi,1,5,,,,0
-1566399600,Prevalec,Borec,0,4,,,,0
-1566399600,Osogovo,Pobeda,1,0,,,,0
-1566399600,Ohrid,Belasica,1,1,Pen,2,1,0
-1566399600,Lok. Skopje,Struga,1,5,,,,0
-1566399600,Kravari,Labunishta,1,4,,,,0
-1566399600,Kozuf Gevgelija,Renova,3,3,Pen,3,4,0
-1566399600,Gostivar,Shkendija,1,4,,,,0
-1566399600,Fortuna Skopje,Sileks,0,4,,,,0
-1567004400,Sasa,Vardar,0,5,,,,0
-1569418200,Vardar,Shkendija,2,2,,,,0
-1569418200,Tikves,Renova,0,2,,,,0
-1569418200,Shkupi,Sileks,0,0,,,,0
-1569418200,Pelister,Rabotnicki,1,1,,,,0
-1569418200,Labunishta,Ohrid,2,0,,,,0
-1569418200,Brera Strumica,Osogovo,3,0,,,,0
-1569418200,Bregalnica Stip,Makedonija GP,1,0,,,,0
-1569418200,Borec,Struga,0,0,,,,0
-1572438600,Struga,Borec,1,0,,,,0
-1572438600,Sileks,Shkupi,1,1,,,,0
-1572438600,Shkendija,Vardar,1,0,,,,0
-1572438600,Rabotnicki,Pelister,4,0,,,,0
-1572438600,Osogovo,Brera Strumica,1,4,,,,0
-1572438600,Ohrid,Labunishta,2,3,,,,0
-1572438600,Makedonija GP,Bregalnica Stip,0,0,,,,0
-1572525000,Renova,Tikves,1,1,,,,0
-1575460800,Struga,Renova,0,0,,,,0
-1575460800,Shkupi,Brera Strumica,0,1,,,,0
-1575460800,Shkendija,Rabotnicki,1,1,,,,0
-1575473400,Bregalnica Stip,Labunishta,1,0,,,,0
-1583326800,Renova,Struga,1,2,,,,0
-1583326800,Rabotnicki,Shkendija,2,2,,,,0
-1583326800,Labunishta,Bregalnica Stip,1,4,,,,0
-1583326800,Brera Strumica,Shkupi,1,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1566226800,Novo Crnilishte,Bregalnica Stip,I3jiOABk,86OeMIIr,0,22,,,,0
+1566313200,Ljuboten,Tikves,hCeuVAIr,pzWJOM6s,1,5,,,,0
+1566313200,FK Pehchevo,Pelister,4I79f3m8,2JKzUeUK,1,1,Pen,1,2,0
+1566399600,Vellazerimi,Rabotnicki,EVFY8njN,Cdxq7Y31,0,4,,,,0
+1566399600,Teteks,Shkupi,tOvmJnVr,CIHFv9fg,1,5,,,,0
+1566399600,Prevalec,Borec,KjHAKige,6DWdsjIR,0,4,,,,0
+1566399600,Osogovo,Pobeda,zgrW06kj,8lHNgCuQ,1,0,,,,0
+1566399600,Ohrid,Belasica,UuidxQyg,fFzddrH7,1,1,Pen,2,1,0
+1566399600,Lok. Skopje,Struga,0jQg0Qea,b7VCRENs,1,5,,,,0
+1566399600,Kravari,Labunishta,vDimPjdq,EkUkG0ve,1,4,,,,0
+1566399600,Kozuf Gevgelija,Renova,lt4sJRnd,WrjrBuU2,3,3,Pen,3,4,0
+1566399600,Gostivar,Shkendija,E3JIMV6l,f3OURrqn,1,4,,,,0
+1566399600,Fortuna Skopje,Sileks,8hFLbQW3,Ys5PBeU0,0,4,,,,0
+1567004400,Sasa,Vardar,8xXXQdJT,86OeMIIr,0,5,,,,0
+1569418200,Vardar,Shkendija,86OeMIIr,f3OURrqn,2,2,,,,0
+1569418200,Tikves,Renova,pzWJOM6s,WrjrBuU2,0,2,,,,0
+1569418200,Shkupi,Sileks,CIHFv9fg,Ys5PBeU0,0,0,,,,0
+1569418200,Pelister,Rabotnicki,2JKzUeUK,Cdxq7Y31,1,1,,,,0
+1569418200,Labunishta,Ohrid,EkUkG0ve,UuidxQyg,2,0,,,,0
+1569418200,Brera Strumica,Osogovo,l2cVHkio,zgrW06kj,3,0,,,,0
+1569418200,Bregalnica Stip,Makedonija GP,86OeMIIr,n5NSVHa8,1,0,,,,0
+1569418200,Borec,Struga,6DWdsjIR,b7VCRENs,0,0,,,,0
+1572438600,Struga,Borec,b7VCRENs,6DWdsjIR,1,0,,,,0
+1572438600,Sileks,Shkupi,Ys5PBeU0,CIHFv9fg,1,1,,,,0
+1572438600,Shkendija,Vardar,f3OURrqn,86OeMIIr,1,0,,,,0
+1572438600,Rabotnicki,Pelister,Cdxq7Y31,2JKzUeUK,4,0,,,,0
+1572438600,Osogovo,Brera Strumica,zgrW06kj,l2cVHkio,1,4,,,,0
+1572438600,Ohrid,Labunishta,UuidxQyg,EkUkG0ve,2,3,,,,0
+1572438600,Makedonija GP,Bregalnica Stip,n5NSVHa8,86OeMIIr,0,0,,,,0
+1572525000,Renova,Tikves,WrjrBuU2,pzWJOM6s,1,1,,,,0
+1575460800,Struga,Renova,b7VCRENs,WrjrBuU2,0,0,,,,0
+1575460800,Shkupi,Brera Strumica,CIHFv9fg,l2cVHkio,0,1,,,,0
+1575460800,Shkendija,Rabotnicki,f3OURrqn,Cdxq7Y31,1,1,,,,0
+1575473400,Bregalnica Stip,Labunishta,86OeMIIr,EkUkG0ve,1,0,,,,0
+1583326800,Renova,Struga,WrjrBuU2,b7VCRENs,1,2,,,,0
+1583326800,Rabotnicki,Shkendija,Cdxq7Y31,f3OURrqn,2,2,,,,0
+1583326800,Labunishta,Bregalnica Stip,EkUkG0ve,86OeMIIr,1,4,,,,0
+1583326800,Brera Strumica,Shkupi,l2cVHkio,CIHFv9fg,1,1,,,,0

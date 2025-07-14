@@ -1,39 +1,39 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1695735000,Slavija,Leotar,2,1,,,,0
-1695821400,Visoko,Velez Mostar,0,6,,,,0
-1695821400,TOSK Tesanj,Igman K.,0,1,,,,0
-1695821400,Tomislav,Posusje,1,1,Pen,1,2,0
-1695821400,Stupcanica,Prijedor,2,1,,,,0
-1695821400,Laktasi,Gorazde,1,1,Pen,2,1,0
-1695821400,Kozara,Jedinstvo Bihac,1,2,,,,0
-1695821400,HNK SLOGA,FK Sarajevo,1,4,,,,0
-1695821400,Brotnjo Citluk,GOSK Gabela,0,5,,,,0
-1695821400,Bratstvo B. Krupa,Zvijezda 09,1,3,,,,0
-1695830400,Radnik Bijeljina,Sloga Doboj,0,2,,,,0
-1695920400,Sloboda,Zeljeznicar,1,0,,,,0
-1697634000,Tekstilac,Tuzla City,0,1,,,,0
-1698944400,Celik Zenica,Zrinjski,0,6,,,,0
-1701259200,Sutjeska Foca,Siroki Brijeg,1,1,Pen,1,2,0
-1701259200,Hadzici,Borac Banja Luka,0,1,,,,0
-1707498000,Velez Mostar,Tuzla City,3,2,,,,0
-1707566400,Zrinjski,Slavija,3,0,,,,0
-1707566400,Jedinstvo Bihac,GOSK Gabela,0,0,Pen,1,0,0
-1707573600,Posusje,Laktasi,2,0,,,,0
-1707652800,Stupcanica,Siroki Brijeg,2,2,Pen,2,3,0
-1707652800,Sloboda,FK Sarajevo,1,1,Pen,1,2,0
-1707663600,Sloga Doboj,Igman K.,1,0,,,,0
-1707672600,Borac Banja Luka,Zvijezda 09,2,0,,,,0
-1709121600,Jedinstvo Bihac,Zrinjski,0,1,,,,0
-1709132400,Posusje,Sloga Doboj,3,2,,,,0
-1709141400,Borac Banja Luka,FK Sarajevo,0,0,,,,0
-1709726400,Siroki Brijeg,Velez Mostar,2,1,,,,0
-1710253800,Sloga Doboj,Posusje,2,0,,,,0
-1710340200,Zrinjski,Jedinstvo Bihac,2,0,,,,0
-1710347400,FK Sarajevo,Borac Banja Luka,1,2,,,,0
-1710428400,Velez Mostar,Siroki Brijeg,2,3,,,,0
-1712151000,Siroki Brijeg,Borac Banja Luka,1,3,,,,0
-1712160000,Sloga Doboj,Zrinjski,0,0,,,,0
-1713283200,Borac Banja Luka,Siroki Brijeg,2,1,,,,0
-1713369600,Zrinjski,Sloga Doboj,3,0,,,,0
-1715184000,Zrinjski,Borac Banja Luka,1,0,,,,0
-1716480000,Borac Banja Luka,Zrinjski,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1695735000,Slavija,Leotar,hpcz0A3F,KU7AlyK2,2,1,,,,0
+1695821400,Visoko,Velez Mostar,bsCtXfEp,6XE3AtXB,0,6,,,,0
+1695821400,TOSK Tesanj,Igman K.,rgzhwehk,nwkn8fi1,0,1,,,,0
+1695821400,Tomislav,Posusje,YmMTiBym,IgkCZTLI,1,1,Pen,1,2,0
+1695821400,Stupcanica,Prijedor,OY6S6l0j,t6ohxKMt,2,1,,,,0
+1695821400,Laktasi,Gorazde,nXi66K6d,zXvOwGUl,1,1,Pen,2,1,0
+1695821400,Kozara,Jedinstvo Bihac,YqMYOJSQ,nXevJYgf,1,2,,,,0
+1695821400,HNK SLOGA,FK Sarajevo,Qk5PdSE5,0E8MOvRd,1,4,,,,0
+1695821400,Brotnjo Citluk,GOSK Gabela,4GWXnjd8,8KcAgdAM,0,5,,,,0
+1695821400,Bratstvo B. Krupa,Zvijezda 09,AXsXmxpd,riRZh95F,1,3,,,,0
+1695830400,Radnik Bijeljina,Sloga Doboj,rkMd9kXu,j3FKxCML,0,2,,,,0
+1695920400,Sloboda,Zeljeznicar,xCPMRLr8,YqMYOJSQ,1,0,,,,0
+1697634000,Tekstilac,Tuzla City,lOYbSjrt,QHNTWbrf,0,1,,,,0
+1698944400,Celik Zenica,Zrinjski,bX4T7xfj,zg80Kwyr,0,6,,,,0
+1701259200,Sutjeska Foca,Siroki Brijeg,riRZh95F,AyQfPETk,1,1,Pen,1,2,0
+1701259200,Hadzici,Borac Banja Luka,vXcujXD5,pYGu6ZOp,0,1,,,,0
+1707498000,Velez Mostar,Tuzla City,6XE3AtXB,QHNTWbrf,3,2,,,,0
+1707566400,Zrinjski,Slavija,zg80Kwyr,hpcz0A3F,3,0,,,,0
+1707566400,Jedinstvo Bihac,GOSK Gabela,nXevJYgf,8KcAgdAM,0,0,Pen,1,0,0
+1707573600,Posusje,Laktasi,IgkCZTLI,nXi66K6d,2,0,,,,0
+1707652800,Stupcanica,Siroki Brijeg,OY6S6l0j,AyQfPETk,2,2,Pen,2,3,0
+1707652800,Sloboda,FK Sarajevo,xCPMRLr8,0E8MOvRd,1,1,Pen,1,2,0
+1707663600,Sloga Doboj,Igman K.,j3FKxCML,nwkn8fi1,1,0,,,,0
+1707672600,Borac Banja Luka,Zvijezda 09,pYGu6ZOp,riRZh95F,2,0,,,,0
+1709121600,Jedinstvo Bihac,Zrinjski,nXevJYgf,zg80Kwyr,0,1,,,,0
+1709132400,Posusje,Sloga Doboj,IgkCZTLI,j3FKxCML,3,2,,,,0
+1709141400,Borac Banja Luka,FK Sarajevo,pYGu6ZOp,0E8MOvRd,0,0,,,,0
+1709726400,Siroki Brijeg,Velez Mostar,AyQfPETk,6XE3AtXB,2,1,,,,0
+1710253800,Sloga Doboj,Posusje,j3FKxCML,IgkCZTLI,2,0,,,,0
+1710340200,Zrinjski,Jedinstvo Bihac,zg80Kwyr,nXevJYgf,2,0,,,,0
+1710347400,FK Sarajevo,Borac Banja Luka,0E8MOvRd,pYGu6ZOp,1,2,,,,0
+1710428400,Velez Mostar,Siroki Brijeg,6XE3AtXB,AyQfPETk,2,3,,,,0
+1712151000,Siroki Brijeg,Borac Banja Luka,AyQfPETk,pYGu6ZOp,1,3,,,,0
+1712160000,Sloga Doboj,Zrinjski,j3FKxCML,zg80Kwyr,0,0,,,,0
+1713283200,Borac Banja Luka,Siroki Brijeg,pYGu6ZOp,AyQfPETk,2,1,,,,0
+1713369600,Zrinjski,Sloga Doboj,zg80Kwyr,j3FKxCML,3,0,,,,0
+1715184000,Zrinjski,Borac Banja Luka,zg80Kwyr,pYGu6ZOp,1,0,,,,0
+1716480000,Borac Banja Luka,Zrinjski,pYGu6ZOp,zg80Kwyr,0,1,,,,0

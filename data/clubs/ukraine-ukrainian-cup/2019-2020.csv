@@ -1,48 +1,48 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1566306000,Tavriya,Real Pharma,5,0,,,,0
-1566309600,Veres-Rivne,Nyva Ternopil,2,1,,,,0
-1566309600,Podillya Khmelnytskyi,Polissya Zhytomyr,1,0,,,,0
-1566309600,Nyva Vinnytsya,Nikopol,5,1,,,,0
-1566309600,Nova Kakhovka,Bukovyna,1,4,,,,0
-1566309600,Kryvbas,Chaika,0,1,,,,0
-1566309600,Kalush,VPK-Agro,1,0,,,,0
-1566311400,Krystal,Dinaz Vyshgorod,1,1,Pen,1,2,0
-1566313200,Alliance,Uzhhorod,2,0,,,,0
-1566316800,Bziv,FC Vovchansk,0,0,AET,0,2,0
-1566910800,Tavriya,Bukovyna,2,3,,,,0
-1566914400,Veres-Rivne,Rukh Lviv,1,2,,,,0
-1566914400,Podillya Khmelnytskyi,Volyn Lutsk,1,1,Pen,1,2,0
-1566914400,Mykolaiv,Prykarpattya,5,1,,,,0
-1566914400,Hirnyk-Sport,MFC Metalurh,1,1,Pen,2,1,0
-1566914400,Dinaz Vyshgorod,Nyva Vinnytsya,1,0,,,,0
-1566918000,Kramatorsk,Balkany,0,0,Pen,0,1,0
-1566918000,Kalush,Minaj,1,2,,,,0
-1566918000,Inhulets,Metalist 1925,2,0,,,,0
-1566918000,FC Vovchansk,Obolon,0,0,AET,0,1,0
-1566918000,Cherkashchyna,Kremin,1,2,,,,0
-1566918000,Alliance,Chaika,4,1,,,,0
-1569412800,Mykolaiv,Ch. Odesa,1,0,,,,0
-1569412800,Kremin,Olimpik Donetsk,2,3,,,,0
-1569412800,Dinaz Vyshgorod,Oleksandriya,0,0,AET,0,1,0
-1569414600,Bukovyna,Lviv,0,2,,,,0
-1569416400,Minaj,Volyn Lutsk,1,0,,,,0
-1569416400,Ahrobiznes Volochysk,Dnipro-1,1,3,,,,0
-1569420000,Inhulets,Karpaty,0,0,Pen,1,0,0
-1569423600,Alliance,Balkany,1,0,,,,0
-1569425400,Obolon,Hirnyk-Sport,0,0,AET,0,2,0
-1570028400,Rukh Lviv,Mariupol,0,1,,,,0
-1572436800,Mykolaiv,Desna,2,4,,,,0
-1572436800,Minaj,Lviv,2,0,,,,0
-1572436800,Mariupol,Olimpik Donetsk,1,0,,,,0
-1572440400,Inhulets,Dnipro-1,2,1,,,,0
-1572447600,Kolos Kovalivka,Vorskla Poltava,0,1,,,,0
-1572451200,Oleksandriya,FK Zorya Luhansk,1,1,Pen,2,1,0
-1572451200,Alliance,Hirnyk-Sport,5,3,,,,0
-1572456600,Dyn. Kyiv,Shakhtar Donetsk,1,1,AET,2,1,0
-1583931600,Minaj,Inhulets,1,1,Pen,2,1,0
-1583942400,Alliance,Mariupol,2,4,,,,0
-1583947800,Dyn. Kyiv,Oleksandriya,0,0,AET,1,0,0
-1584032400,Desna,Vorskla Poltava,0,1,,,,0
-1592391600,Minaj,Dyn. Kyiv,0,2,,,,0
-1593016200,Mariupol,Vorskla Poltava,1,1,Pen,1,2,0
-1594233000,Dyn. Kyiv,Vorskla Poltava,1,1,Pen,2,1,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1566306000,Tavriya,Real Pharma,4GQ6kuAf,CxjFGtw3,5,0,,,,0
+1566309600,Veres-Rivne,Nyva Ternopil,r9IFcMj3,KnXbm55p,2,1,,,,0
+1566309600,Podillya Khmelnytskyi,Polissya Zhytomyr,ENPU0l2d,2aYKHyBP,1,0,,,,0
+1566309600,Nyva Vinnytsya,Nikopol,AgPpKjQF,I5cvvkCB,5,1,,,,0
+1566309600,Nova Kakhovka,Bukovyna,bPMCUJMg,hUzuGDEg,1,4,,,,0
+1566309600,Kryvbas,Chaika,QmE1PPbh,SIDMgS90,0,1,,,,0
+1566309600,Kalush,VPK-Agro,bRNQiFxA,ATs4JYoH,1,0,,,,0
+1566311400,Krystal,Dinaz Vyshgorod,z12Dts3j,8IhEUgM8,1,1,Pen,1,2,0
+1566313200,Alliance,Uzhhorod,SUsL3Ba2,4htP2VE8,2,0,,,,0
+1566316800,Bziv,FC Vovchansk,zLKsTEF7,KlUgf6Wd,0,0,AET,0,2,0
+1566910800,Tavriya,Bukovyna,4GQ6kuAf,hUzuGDEg,2,3,,,,0
+1566914400,Veres-Rivne,Rukh Lviv,r9IFcMj3,vPBjrhhc,1,2,,,,0
+1566914400,Podillya Khmelnytskyi,Volyn Lutsk,ENPU0l2d,f5csGSwJ,1,1,Pen,1,2,0
+1566914400,Mykolaiv,Prykarpattya,xfISJPfp,xGH4b5JF,5,1,,,,0
+1566914400,Hirnyk-Sport,MFC Metalurh,x4FXfO4H,xIMUjZiG,1,1,Pen,2,1,0
+1566914400,Dinaz Vyshgorod,Nyva Vinnytsya,8IhEUgM8,AgPpKjQF,1,0,,,,0
+1566918000,Kramatorsk,Balkany,z12Dts3j,pSX8p2Qq,0,0,Pen,0,1,0
+1566918000,Kalush,Minaj,bRNQiFxA,8AnhEgWc,1,2,,,,0
+1566918000,Inhulets,Metalist 1925,EiHh9nS3,vyGZIh6S,2,0,,,,0
+1566918000,FC Vovchansk,Obolon,KlUgf6Wd,QanlLhoo,0,0,AET,0,1,0
+1566918000,Cherkashchyna,Kremin,p6vbFWZm,S8K0SSun,1,2,,,,0
+1566918000,Alliance,Chaika,SUsL3Ba2,SIDMgS90,4,1,,,,0
+1569412800,Mykolaiv,Ch. Odesa,xfISJPfp,4bedUOPH,1,0,,,,0
+1569412800,Kremin,Olimpik Donetsk,S8K0SSun,AH5Iepr6,2,3,,,,0
+1569412800,Dinaz Vyshgorod,Oleksandriya,8IhEUgM8,WhuO7nt3,0,0,AET,0,1,0
+1569414600,Bukovyna,Lviv,hUzuGDEg,lKdCg7uH,0,2,,,,0
+1569416400,Minaj,Volyn Lutsk,8AnhEgWc,f5csGSwJ,1,0,,,,0
+1569416400,Ahrobiznes Volochysk,Dnipro-1,YD3csSFp,rkf2r599,1,3,,,,0
+1569420000,Inhulets,Karpaty,EiHh9nS3,va8daTel,0,0,Pen,1,0,0
+1569423600,Alliance,Balkany,SUsL3Ba2,pSX8p2Qq,1,0,,,,0
+1569425400,Obolon,Hirnyk-Sport,QanlLhoo,x4FXfO4H,0,0,AET,0,2,0
+1570028400,Rukh Lviv,Mariupol,vPBjrhhc,GzrDrkgg,0,1,,,,0
+1572436800,Mykolaiv,Desna,xfISJPfp,GQ8Y1iOh,2,4,,,,0
+1572436800,Minaj,Lviv,8AnhEgWc,lKdCg7uH,2,0,,,,0
+1572436800,Mariupol,Olimpik Donetsk,GzrDrkgg,AH5Iepr6,1,0,,,,0
+1572440400,Inhulets,Dnipro-1,EiHh9nS3,rkf2r599,2,1,,,,0
+1572447600,Kolos Kovalivka,Vorskla Poltava,reHWnXse,SOzPeLV8,0,1,,,,0
+1572451200,Oleksandriya,FK Zorya Luhansk,WhuO7nt3,lxvkDsJf,1,1,Pen,2,1,0
+1572451200,Alliance,Hirnyk-Sport,SUsL3Ba2,x4FXfO4H,5,3,,,,0
+1572456600,Dyn. Kyiv,Shakhtar Donetsk,M1Cjh44S,YmCZKGcR,1,1,AET,2,1,0
+1583931600,Minaj,Inhulets,8AnhEgWc,EiHh9nS3,1,1,Pen,2,1,0
+1583942400,Alliance,Mariupol,SUsL3Ba2,GzrDrkgg,2,4,,,,0
+1583947800,Dyn. Kyiv,Oleksandriya,M1Cjh44S,WhuO7nt3,0,0,AET,1,0,0
+1584032400,Desna,Vorskla Poltava,GQ8Y1iOh,SOzPeLV8,0,1,,,,0
+1592391600,Minaj,Dyn. Kyiv,8AnhEgWc,M1Cjh44S,0,2,,,,0
+1593016200,Mariupol,Vorskla Poltava,GzrDrkgg,SOzPeLV8,1,1,Pen,1,2,0
+1594233000,Dyn. Kyiv,Vorskla Poltava,M1Cjh44S,SOzPeLV8,1,1,Pen,2,1,1

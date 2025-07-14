@@ -1,15 +1,15 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1577105400,Dibba Al Hisn,Al Ain,0,2,,,,0
-1577105400,Bani Yas,Al Fujairah,1,0,,,,0
-1577116200,Al Sharjah,Hatta,1,1,Pen,2,1,0
-1577116200,Ajman,Al Dhafra,0,0,Pen,0,1,0
-1577191200,Ittihad Kalba,Al Bataeh,4,2,,,,1
-1577191800,Al Nasr,Shabab Al-Ahli Dubai,1,2,,,,1
-1577202600,Al Wasl,Khorfakkan,1,0,,,,1
-1577202600,Al Jazira,Al Wahda,3,2,,,,1
-1582291800,Bani Yas,Shabab Al-Ahli Dubai,1,0,,,,0
-1582302600,Al Dhafra,Al Jazira,1,1,AET,2,1,0
-1582378200,Al Ain,Al Wasl,6,5,,,,0
-1582389000,Ittihad Kalba,Al Sharjah,0,2,,,,0
-1583847600,Al Sharjah,Al Ain,2,3,,,,0
-1583858400,Bani Yas,Al Dhafra,0,0,AET,0,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1577105400,Dibba Al Hisn,Al Ain,OSNa5roI,OKa9P8WR,0,2,,,,0
+1577105400,Bani Yas,Al Fujairah,OfEmUdKC,GOsncUhM,1,0,,,,0
+1577116200,Al Sharjah,Hatta,2w51PaQ7,QVAzX6rD,1,1,Pen,2,1,0
+1577116200,Ajman,Al Dhafra,prt8JLTG,Uy7I7TU5,0,0,Pen,0,1,0
+1577191200,Ittihad Kalba,Al Bataeh,lUHDtcYu,xrtBiP1b,4,2,,,,1
+1577191800,Al Nasr,Shabab Al-Ahli Dubai,K8vlWhPS,8zUcYY2j,1,2,,,,1
+1577202600,Al Wasl,Khorfakkan,K8vlWhPS,OQU9zTMb,1,0,,,,1
+1577202600,Al Jazira,Al Wahda,lWIXXvLm,YXHWp1ah,3,2,,,,1
+1582291800,Bani Yas,Shabab Al-Ahli Dubai,OfEmUdKC,8zUcYY2j,1,0,,,,0
+1582302600,Al Dhafra,Al Jazira,Uy7I7TU5,lWIXXvLm,1,1,AET,2,1,0
+1582378200,Al Ain,Al Wasl,OKa9P8WR,K8vlWhPS,6,5,,,,0
+1582389000,Ittihad Kalba,Al Sharjah,lUHDtcYu,2w51PaQ7,0,2,,,,0
+1583847600,Al Sharjah,Al Ain,2w51PaQ7,OKa9P8WR,2,3,,,,0
+1583858400,Bani Yas,Al Dhafra,OfEmUdKC,Uy7I7TU5,0,0,AET,0,1,0

@@ -1,46 +1,46 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1439393400,Zajazi,Shkendija,0,4,,,,0
-1439393400,Vulkan Kosel,Makedonija GP,0,3,Awrd,,,0
-1439393400,Prevalec,Sileks,0,4,,,,0
-1439393400,Poeshevo,Gostivar,0,0,Pen,0,1,0
-1439393400,Pobeda,Carev Dvor,1,1,Pen,1,2,0
-1439393400,Miravci,Vardar,0,1,,,,0
-1439393400,Males,Met. Skopje,1,9,,,,0
-1439393400,Ljuboten,Shkupi,1,5,,,,0
-1439393400,Ljubanci,Teteks,1,1,Pen,2,1,0
-1439393400,Liria Zagracani,Turnovo,0,11,,,,0
-1439393400,Gorno Lisice,Renova,1,2,,,,0
-1439393400,Drita,Vellazerimi,0,3,Awrd,,,0
-1439393400,Belasica,FK Skopje,0,2,,,,0
-1439479800,Plackovica,Bregalnica Stip,0,2,,,,0
-1439479800,Oktomvri,Pelister,0,8,,,,0
-1439479800,Fortuna Skopje,Rabotnicki,0,11,,,,0
-1443619800,Vellazerimi,Carev Dvor,2,4,,,,0
-1443619800,Turnovo,FK Skopje,3,1,,,,0
-1443619800,Shkendija,Met. Skopje,2,0,,,,0
-1443619800,Renova,Sileks,1,2,,,,0
-1443619800,Makedonija GP,Ljubanci,3,2,,,,0
-1443619800,Gostivar,Rabotnicki,0,4,,,,0
-1443619800,Bregalnica Stip,Shkupi,2,0,,,,0
-1443625200,Vardar,Pelister,4,1,,,,0
-1445430600,Sileks,Renova,3,1,,,,0
-1445430600,Shkupi,Bregalnica Stip,1,0,,,,0
-1445430600,Rabotnicki,Gostivar,4,0,,,,0
-1445430600,Pelister,Vardar,0,2,,,,0
-1445430600,Met. Skopje,Shkendija,0,5,,,,0
-1445430600,Ljubanci,Makedonija GP,0,0,,,,0
-1445430600,FK Skopje,Turnovo,2,2,,,,0
-1445430600,Carev Dvor,Vellazerimi,3,3,,,,0
-1448452800,Rabotnicki,Sileks,3,0,,,,0
-1448452800,Makedonija GP,Turnovo,2,4,,,,0
-1448452800,Carev Dvor,Bregalnica Stip,1,1,,,,0
-1448539200,Shkendija,Vardar,3,0,,,,0
-1449057600,Vardar,Shkendija,1,2,,,,0
-1449057600,Turnovo,Makedonija GP,0,1,,,,0
-1449057600,Sileks,Rabotnicki,1,2,,,,0
-1449057600,Bregalnica Stip,Carev Dvor,4,1,,,,0
-1456923600,Turnovo,Shkendija,0,2,,,,0
-1456923600,Bregalnica Stip,Rabotnicki,1,1,,,,0
-1460556000,Shkendija,Turnovo,2,1,,,,0
-1460556000,Rabotnicki,Bregalnica Stip,3,0,,,,0
-1463421600,Shkendija,Rabotnicki,2,0,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1439393400,Zajazi,Shkendija,KbNpfjWF,f3OURrqn,0,4,,,,0
+1439393400,Vulkan Kosel,Makedonija GP,4j9hbjiS,n5NSVHa8,0,3,Awrd,,,0
+1439393400,Prevalec,Sileks,KjHAKige,Ys5PBeU0,0,4,,,,0
+1439393400,Poeshevo,Gostivar,U94XqtsO,E3JIMV6l,0,0,Pen,0,1,0
+1439393400,Pobeda,Carev Dvor,8lHNgCuQ,UmB6KvN1,1,1,Pen,1,2,0
+1439393400,Miravci,Vardar,Opio8Wie,86OeMIIr,0,1,,,,0
+1439393400,Males,Met. Skopje,I9mSJfep,QTF8oS5s,1,9,,,,0
+1439393400,Ljuboten,Shkupi,hCeuVAIr,CIHFv9fg,1,5,,,,0
+1439393400,Ljubanci,Teteks,YoopyUZh,tOvmJnVr,1,1,Pen,2,1,0
+1439393400,Liria Zagracani,Turnovo,6LOEuxwT,ILReCEDO,0,11,,,,0
+1439393400,Gorno Lisice,Renova,pWXGCQdh,WrjrBuU2,1,2,,,,0
+1439393400,Drita,Vellazerimi,2JKzUeUK,EVFY8njN,0,3,Awrd,,,0
+1439393400,Belasica,FK Skopje,fFzddrH7,pCTkNqKp,0,2,,,,0
+1439479800,Plackovica,Bregalnica Stip,Wjf5AiIK,86OeMIIr,0,2,,,,0
+1439479800,Oktomvri,Pelister,ILReCEDO,2JKzUeUK,0,8,,,,0
+1439479800,Fortuna Skopje,Rabotnicki,8hFLbQW3,Cdxq7Y31,0,11,,,,0
+1443619800,Vellazerimi,Carev Dvor,EVFY8njN,UmB6KvN1,2,4,,,,0
+1443619800,Turnovo,FK Skopje,ILReCEDO,pCTkNqKp,3,1,,,,0
+1443619800,Shkendija,Met. Skopje,f3OURrqn,QTF8oS5s,2,0,,,,0
+1443619800,Renova,Sileks,WrjrBuU2,Ys5PBeU0,1,2,,,,0
+1443619800,Makedonija GP,Ljubanci,n5NSVHa8,YoopyUZh,3,2,,,,0
+1443619800,Gostivar,Rabotnicki,E3JIMV6l,Cdxq7Y31,0,4,,,,0
+1443619800,Bregalnica Stip,Shkupi,86OeMIIr,CIHFv9fg,2,0,,,,0
+1443625200,Vardar,Pelister,86OeMIIr,2JKzUeUK,4,1,,,,0
+1445430600,Sileks,Renova,Ys5PBeU0,WrjrBuU2,3,1,,,,0
+1445430600,Shkupi,Bregalnica Stip,CIHFv9fg,86OeMIIr,1,0,,,,0
+1445430600,Rabotnicki,Gostivar,Cdxq7Y31,E3JIMV6l,4,0,,,,0
+1445430600,Pelister,Vardar,2JKzUeUK,86OeMIIr,0,2,,,,0
+1445430600,Met. Skopje,Shkendija,QTF8oS5s,f3OURrqn,0,5,,,,0
+1445430600,Ljubanci,Makedonija GP,YoopyUZh,n5NSVHa8,0,0,,,,0
+1445430600,FK Skopje,Turnovo,pCTkNqKp,ILReCEDO,2,2,,,,0
+1445430600,Carev Dvor,Vellazerimi,UmB6KvN1,EVFY8njN,3,3,,,,0
+1448452800,Rabotnicki,Sileks,Cdxq7Y31,Ys5PBeU0,3,0,,,,0
+1448452800,Makedonija GP,Turnovo,n5NSVHa8,ILReCEDO,2,4,,,,0
+1448452800,Carev Dvor,Bregalnica Stip,UmB6KvN1,86OeMIIr,1,1,,,,0
+1448539200,Shkendija,Vardar,f3OURrqn,86OeMIIr,3,0,,,,0
+1449057600,Vardar,Shkendija,86OeMIIr,f3OURrqn,1,2,,,,0
+1449057600,Turnovo,Makedonija GP,ILReCEDO,n5NSVHa8,0,1,,,,0
+1449057600,Sileks,Rabotnicki,Ys5PBeU0,Cdxq7Y31,1,2,,,,0
+1449057600,Bregalnica Stip,Carev Dvor,86OeMIIr,UmB6KvN1,4,1,,,,0
+1456923600,Turnovo,Shkendija,ILReCEDO,f3OURrqn,0,2,,,,0
+1456923600,Bregalnica Stip,Rabotnicki,86OeMIIr,Cdxq7Y31,1,1,,,,0
+1460556000,Shkendija,Turnovo,f3OURrqn,ILReCEDO,2,1,,,,0
+1460556000,Rabotnicki,Bregalnica Stip,Cdxq7Y31,86OeMIIr,3,0,,,,0
+1463421600,Shkendija,Rabotnicki,f3OURrqn,Cdxq7Y31,2,0,,,,1

@@ -1,30 +1,30 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-947458800,Xanthi FC,Ionikos,2,0,,,,0
-947458800,Panserraikos,Panachaiki,0,1,,,,0
-947458800,Panionios,Panathinaikos,1,0,,,,0
-947458800,Iraklis 1908,Giannina,2,1,,,,0
-947458800,Aris,PAOK,1,1,,,,0
-947458800,Apollon Smyrnis,PAE Egaleo,0,0,,,,0
-947458800,AO Paniliakos,Proodeftiki,1,0,,,,0
-947458800,AEK Athens FC,Olympiacos Piraeus,0,2,,,,0
-948668400,Proodeftiki,AO Paniliakos,1,1,,,,0
-948668400,PAOK,Aris,2,0,,,,0
-948668400,Panathinaikos,Panionios,7,2,,,,0
-948668400,Panachaiki,Panserraikos,1,0,,,,0
-948668400,PAE Egaleo,Apollon Smyrnis,1,1,,,,0
-948668400,Olympiacos Piraeus,AEK Athens FC,6,1,,,,0
-948668400,Ionikos,Xanthi FC,3,1,,,,0
-948668400,Giannina,Iraklis 1908,1,2,,,,0
-949878000,PAOK,Xanthi FC,2,0,,,,0
-949878000,Panachaiki,Iraklis 1908,1,0,,,,0
-949878000,Olympiacos Piraeus,Panathinaikos,1,1,,,,0
-949878000,AO Paniliakos,Apollon Smyrnis,1,3,,,,0
-952383600,Xanthi FC,PAOK,1,2,,,,0
-952383600,Panathinaikos,Olympiacos Piraeus,1,4,,,,0
-952383600,Iraklis 1908,Panachaiki,2,0,,,,0
-952383600,Apollon Smyrnis,AO Paniliakos,1,0,,,,0
-954799200,PAOK,Apollon Smyrnis,5,2,,,,0
-954799200,Iraklis 1908,Olympiacos Piraeus,0,1,,,,0
-955404000,Olympiacos Piraeus,Iraklis 1908,5,4,,,,0
-955404000,Apollon Smyrnis,PAOK,1,0,,,,0
-958082400,Olympiacos Piraeus,PAOK,2,4,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+947458800,Xanthi FC,Ionikos,KOjUYEZE,KjL4wCLc,2,0,,,,0
+947458800,Panserraikos,Panachaiki,8OJEOksa,MqaurgnI,0,1,,,,0
+947458800,Panionios,Panathinaikos,rJD60RuT,GM4Cu0wi,1,0,,,,0
+947458800,Iraklis 1908,Giannina,2V0U0cEB,Ct0X2apU,2,1,,,,0
+947458800,Aris,PAOK,0E6BYcd0,pvWT1yik,1,1,,,,0
+947458800,Apollon Smyrnis,PAE Egaleo,r98VPCRj,n9kl6zsF,0,0,,,,0
+947458800,AO Paniliakos,Proodeftiki,EuZLJyTp,KU9NSqCt,1,0,,,,0
+947458800,AEK Athens FC,Olympiacos Piraeus,Aq4Rjd2q,lzmp9FUJ,0,2,,,,0
+948668400,Proodeftiki,AO Paniliakos,KU9NSqCt,EuZLJyTp,1,1,,,,0
+948668400,PAOK,Aris,pvWT1yik,0E6BYcd0,2,0,,,,0
+948668400,Panathinaikos,Panionios,GM4Cu0wi,rJD60RuT,7,2,,,,0
+948668400,Panachaiki,Panserraikos,MqaurgnI,8OJEOksa,1,0,,,,0
+948668400,PAE Egaleo,Apollon Smyrnis,n9kl6zsF,r98VPCRj,1,1,,,,0
+948668400,Olympiacos Piraeus,AEK Athens FC,lzmp9FUJ,Aq4Rjd2q,6,1,,,,0
+948668400,Ionikos,Xanthi FC,KjL4wCLc,KOjUYEZE,3,1,,,,0
+948668400,Giannina,Iraklis 1908,Ct0X2apU,2V0U0cEB,1,2,,,,0
+949878000,PAOK,Xanthi FC,pvWT1yik,KOjUYEZE,2,0,,,,0
+949878000,Panachaiki,Iraklis 1908,MqaurgnI,2V0U0cEB,1,0,,,,0
+949878000,Olympiacos Piraeus,Panathinaikos,lzmp9FUJ,GM4Cu0wi,1,1,,,,0
+949878000,AO Paniliakos,Apollon Smyrnis,EuZLJyTp,r98VPCRj,1,3,,,,0
+952383600,Xanthi FC,PAOK,KOjUYEZE,pvWT1yik,1,2,,,,0
+952383600,Panathinaikos,Olympiacos Piraeus,GM4Cu0wi,lzmp9FUJ,1,4,,,,0
+952383600,Iraklis 1908,Panachaiki,2V0U0cEB,MqaurgnI,2,0,,,,0
+952383600,Apollon Smyrnis,AO Paniliakos,r98VPCRj,EuZLJyTp,1,0,,,,0
+954799200,PAOK,Apollon Smyrnis,pvWT1yik,r98VPCRj,5,2,,,,0
+954799200,Iraklis 1908,Olympiacos Piraeus,2V0U0cEB,lzmp9FUJ,0,1,,,,0
+955404000,Olympiacos Piraeus,Iraklis 1908,lzmp9FUJ,2V0U0cEB,5,4,,,,0
+955404000,Apollon Smyrnis,PAOK,r98VPCRj,pvWT1yik,1,0,,,,0
+958082400,Olympiacos Piraeus,PAOK,lzmp9FUJ,pvWT1yik,2,4,,,,0

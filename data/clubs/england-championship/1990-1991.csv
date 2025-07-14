@@ -1,558 +1,558 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-651585600,Wolves,Oldham,2,3,,,,0
-651585600,Watford,Millwall,1,2,,,,0
-651585600,Portsmouth,West Brom,1,1,,,,0
-651585600,Oxford Utd,Port Vale,5,2,,,,0
-651585600,Newcastle,Plymouth,2,0,,,,0
-651585600,Middlesbrough,West Ham,0,0,,,,0
-651585600,Leicester,Bristol Rovers,3,2,,,,0
-651585600,Ipswich,Sheffield Wed,0,2,,,,0
-651585600,Hull,Notts Co,1,2,,,,0
-651585600,Charlton,Swindon,1,2,,,,0
-651585600,Bristol City,Blackburn,4,2,,,,0
-651585600,Barnsley,Brighton,2,1,,,,0
-651844800,Swindon,Ipswich,1,0,,,,0
-651844800,Port Vale,Wolves,1,2,,,,0
-651844800,Plymouth,Watford,1,1,,,,0
-651844800,Oldham,Leicester,2,0,,,,0
-651844800,Blackburn,Hull,2,1,,,,0
-651931200,West Ham,Portsmouth,1,1,,,,0
-652190400,West Ham,Watford,1,0,,,,0
-652190400,West Brom,Ipswich,1,2,,,,0
-652190400,Sheffield Wed,Hull,5,1,,,,0
-652190400,Port Vale,Leicester,2,0,,,,0
-652190400,Plymouth,Middlesbrough,1,1,,,,0
-652190400,Oldham,Portsmouth,3,1,,,,0
-652190400,Notts Co,Oxford Utd,3,1,,,,0
-652190400,Millwall,Barnsley,4,1,,,,0
-652190400,Bristol Rovers,Charlton,2,1,,,,0
-652190400,Brighton,Wolves,1,1,,,,0
-652190400,Blackburn,Newcastle,0,1,,,,0
-652276800,Swindon,Bristol City,0,1,,,,0
-652795200,Wolves,Bristol Rovers,1,1,,,,0
-652795200,Watford,Brighton,0,1,,,,0
-652795200,Portsmouth,Port Vale,2,4,,,,0
-652795200,Oxford Utd,West Brom,1,3,,,,0
-652795200,Newcastle,Millwall,1,2,,,,0
-652795200,Middlesbrough,Notts Co,1,0,,,,0
-652795200,Leicester,West Ham,1,2,,,,0
-652795200,Ipswich,Blackburn,2,1,,,,0
-652795200,Hull,Swindon,1,1,,,,0
-652795200,Charlton,Sheffield Wed,0,1,,,,0
-652795200,Bristol City,Plymouth,1,1,,,,0
-652795200,Barnsley,Oldham,0,1,,,,0
-653400000,West Ham,Wolves,1,1,,,,0
-653400000,West Brom,Bristol City,2,1,,,,0
-653400000,Swindon,Middlesbrough,1,3,,,,0
-653400000,Sheffield Wed,Watford,2,0,,,,0
-653400000,Port Vale,Newcastle,0,1,,,,0
-653400000,Plymouth,Leicester,2,0,,,,0
-653400000,Oldham,Oxford Utd,3,0,,,,0
-653400000,Notts Co,Portsmouth,2,1,,,,0
-653400000,Millwall,Ipswich,1,1,,,,0
-653400000,Bristol Rovers,Hull,1,1,,,,0
-653400000,Brighton,Charlton,3,2,,,,0
-653400000,Blackburn,Barnsley,1,2,,,,0
-653572800,Port Vale,Middlesbrough,3,1,,,,0
-653659200,Swindon,Wolves,1,0,,,,0
-653659200,Sheffield Wed,Newcastle,2,2,,,,0
-653659200,Plymouth,Oxford Utd,2,2,,,,0
-653659200,Oldham,Charlton,1,1,,,,0
-653659200,Notts Co,Barnsley,2,3,,,,0
-653659200,Blackburn,Leicester,4,1,,,,0
-653745600,West Ham,Ipswich,3,1,,,,0
-653745600,Millwall,Hull,3,3,,,,0
-653745600,Brighton,Portsmouth,3,2,,,,0
-654004800,Wolves,Plymouth,3,1,,,,0
-654004800,Watford,Notts Co,1,3,,,,0
-654004800,Portsmouth,Blackburn,3,2,,,,0
-654004800,Oxford Utd,Swindon,2,4,,,,0
-654004800,Newcastle,West Ham,1,1,,,,0
-654004800,Middlesbrough,Oldham,0,1,,,,0
-654004800,Leicester,Sheffield Wed,2,4,,,,0
-654004800,Ipswich,Bristol Rovers,2,1,,,,0
-654004800,Hull,West Brom,1,1,,,,0
-654004800,Charlton,Millwall,0,0,,,,0
-654004800,Bristol City,Brighton,3,1,,,,0
-654004800,Barnsley,Port Vale,1,1,,,,0
-654609600,West Brom,Oldham,0,0,,,,0
-654609600,Sheffield Wed,West Ham,1,1,,,,0
-654609600,Portsmouth,Plymouth,3,1,,,,0
-654609600,Oxford Utd,Wolves,1,1,,,,0
-654609600,Notts Co,Bristol Rovers,3,2,,,,0
-654609600,Middlesbrough,Leicester,6,0,,,,0
-654609600,Ipswich,Watford,1,1,,,,0
-654609600,Hull,Port Vale,3,2,,,,0
-654609600,Charlton,Barnsley,2,1,,,,0
-654609600,Bristol City,Newcastle,1,0,,,,0
-654609600,Blackburn,Brighton,1,2,,,,0
-654699600,Swindon,Millwall,0,0,,,,0
-654786000,Port Vale,Notts Co,0,1,,,,0
-654872400,Wolves,Charlton,3,0,,,,0
-654872400,Watford,Hull,0,1,,,,0
-654872400,Plymouth,West Brom,2,0,,,,0
-654872400,Oldham,Swindon,3,2,,,,0
-654872400,Barnsley,Ipswich,5,1,,,,0
-654958800,West Ham,Oxford Utd,2,0,,,,0
-654958800,Newcastle,Middlesbrough,0,0,,,,0
-654958800,Millwall,Portsmouth,2,0,,,,0
-654958800,Leicester,Bristol City,3,0,,,,0
-654958800,Bristol Rovers,Blackburn,1,2,,,,0
-654958800,Brighton,Sheffield Wed,0,4,,,,0
-655218000,Wolves,Bristol City,4,0,,,,0
-655218000,West Ham,Hull,7,1,,,,0
-655218000,Watford,Middlesbrough,0,3,,,,0
-655218000,Port Vale,Charlton,1,1,,,,0
-655218000,Plymouth,Ipswich,0,0,,,,0
-655218000,Oldham,Blackburn,1,1,,,,0
-655218000,Newcastle,Portsmouth,2,1,,,,0
-655218000,Millwall,West Brom,4,1,,,,0
-655218000,Leicester,Notts Co,2,1,,,,0
-655218000,Bristol Rovers,Sheffield Wed,0,1,,,,0
-655218000,Brighton,Swindon,3,3,,,,0
-655218000,Barnsley,Oxford Utd,3,0,,,,0
-655822800,West Brom,Brighton,1,1,,,,0
-655822800,Swindon,Bristol Rovers,0,2,,,,0
-655822800,Sheffield Wed,Plymouth,3,0,,,,0
-655822800,Portsmouth,Barnsley,0,0,,,,0
-655822800,Oxford Utd,Newcastle,0,0,,,,0
-655822800,Notts Co,Wolves,1,1,,,,0
-655822800,Middlesbrough,Millwall,2,1,,,,0
-655822800,Ipswich,Port Vale,3,0,,,,0
-655822800,Hull,Oldham,2,2,,,,0
-655822800,Charlton,Leicester,1,2,,,,0
-655822800,Bristol City,West Ham,1,1,,,,0
-655822800,Blackburn,Watford,0,2,,,,0
-656427600,West Brom,Barnsley,1,1,,,,0
-656427600,Swindon,West Ham,0,1,,,,0
-656427600,Sheffield Wed,Port Vale,1,1,,,,0
-656427600,Portsmouth,Leicester,3,1,,,,0
-656427600,Oxford Utd,Brighton,3,0,,,,0
-656427600,Notts Co,Millwall,0,1,,,,0
-656427600,Middlesbrough,Bristol Rovers,1,2,,,,0
-656427600,Ipswich,Newcastle,2,1,,,,0
-656427600,Hull,Wolves,1,2,,,,0
-656427600,Charlton,Watford,1,2,,,,0
-656427600,Bristol City,Oldham,1,2,,,,0
-656427600,Blackburn,Plymouth,0,0,,,,0
-656600400,Port Vale,West Brom,1,2,,,,0
-656686800,Wolves,Middlesbrough,1,0,,,,0
-656686800,Watford,Portsmouth,0,1,,,,0
-656686800,Plymouth,Notts Co,0,0,,,,0
-656686800,Oldham,Ipswich,2,0,,,,0
-656686800,Barnsley,Sheffield Wed,1,1,,,,0
-656773200,West Ham,Blackburn,1,0,,,,0
-656773200,Newcastle,Charlton,1,3,,,,0
-656773200,Millwall,Bristol City,1,2,,,,0
-656773200,Leicester,Swindon,2,2,,,,0
-656773200,Bristol Rovers,Oxford Utd,1,0,,,,0
-656773200,Brighton,Hull,3,1,,,,0
-657032400,Wolves,Blackburn,2,3,,,,0
-657032400,West Ham,Charlton,2,1,,,,0
-657032400,Watford,Oxford Utd,1,1,,,,0
-657032400,Port Vale,Bristol City,3,2,,,,0
-657032400,Plymouth,Hull,4,1,,,,0
-657032400,Oldham,Notts Co,2,1,,,,0
-657032400,Newcastle,West Brom,1,1,,,,0
-657032400,Millwall,Sheffield Wed,4,2,,,,0
-657032400,Leicester,Ipswich,1,2,,,,0
-657032400,Bristol Rovers,Portsmouth,1,2,,,,0
-657032400,Brighton,Middlesbrough,2,4,,,,0
-657032400,Barnsley,Swindon,5,1,,,,0
-657291600,Notts Co,Charlton,2,2,,,,0
-657637200,West Brom,Bristol Rovers,3,1,,,,0
-657637200,Swindon,Port Vale,1,2,,,,0
-657637200,Sheffield Wed,Oldham,2,2,,,,0
-657637200,Portsmouth,Wolves,0,0,,,,0
-657637200,Oxford Utd,Leicester,2,2,,,,0
-657637200,Notts Co,West Ham,0,1,,,,0
-657637200,Middlesbrough,Barnsley,1,0,,,,0
-657637200,Ipswich,Brighton,1,3,,,,0
-657637200,Hull,Newcastle,2,1,,,,0
-657637200,Charlton,Plymouth,0,1,,,,0
-657637200,Bristol City,Watford,3,2,,,,0
-657637200,Blackburn,Millwall,1,0,,,,0
-657896400,West Brom,Middlesbrough,0,1,,,,0
-657982800,Millwall,Oxford Utd,1,2,,,,0
-657982800,Bristol Rovers,Barnsley,2,1,,,,0
-658242000,Wolves,Newcastle,2,1,,,,0
-658242000,Swindon,Portsmouth,3,0,,,,0
-658242000,Oxford Utd,Bristol City,3,1,,,,0
-658242000,Oldham,Watford,4,1,,,,0
-658242000,Notts Co,West Brom,4,3,,,,0
-658242000,Millwall,West Ham,1,1,,,,0
-658242000,Middlesbrough,Charlton,1,2,,,,0
-658242000,Hull,Ipswich,3,3,,,,0
-658242000,Bristol Rovers,Port Vale,2,0,,,,0
-658242000,Brighton,Plymouth,3,2,,,,0
-658242000,Blackburn,Sheffield Wed,1,0,,,,0
-658242000,Barnsley,Leicester,1,1,,,,0
-658846800,West Ham,Brighton,2,1,,,,0
-658846800,West Brom,Blackburn,2,0,,,,0
-658846800,Watford,Bristol Rovers,1,1,,,,0
-658846800,Sheffield Wed,Swindon,2,1,,,,0
-658846800,Portsmouth,Middlesbrough,0,3,,,,0
-658846800,Port Vale,Oldham,1,0,,,,0
-658846800,Plymouth,Millwall,3,2,,,,0
-658846800,Newcastle,Barnsley,0,0,,,,0
-658846800,Leicester,Wolves,1,0,,,,0
-658846800,Ipswich,Notts Co,0,0,,,,0
-658846800,Charlton,Oxford Utd,3,3,,,,0
-658846800,Bristol City,Hull,4,1,,,,0
-659365200,Hull,Leicester,5,2,,,,0
-659365200,Blackburn,Port Vale,1,1,,,,0
-659451600,West Brom,Sheffield Wed,1,2,,,,0
-659451600,Plymouth,West Ham,0,1,,,,0
-659451600,Oxford Utd,Middlesbrough,2,5,,,,0
-659451600,Notts Co,Swindon,0,0,,,,0
-659451600,Newcastle,Watford,1,0,,,,0
-659451600,Ipswich,Bristol City,1,1,,,,0
-659451600,Charlton,Portsmouth,2,1,,,,0
-659451600,Bristol Rovers,Oldham,2,0,,,,0
-659451600,Brighton,Millwall,0,0,,,,0
-659451600,Barnsley,Wolves,1,1,,,,0
-660056400,Wolves,Ipswich,2,2,,,,0
-660056400,West Ham,West Brom,3,1,,,,0
-660056400,Watford,Barnsley,0,0,,,,0
-660056400,Swindon,Blackburn,1,1,,,,0
-660056400,Sheffield Wed,Notts Co,2,2,,,,0
-660056400,Portsmouth,Oxford Utd,1,1,,,,0
-660056400,Port Vale,Plymouth,5,1,,,,0
-660056400,Oldham,Brighton,6,1,,,,0
-660056400,Millwall,Bristol Rovers,1,1,,,,0
-660056400,Middlesbrough,Hull,3,0,,,,0
-660056400,Leicester,Newcastle,5,4,,,,0
-660056400,Bristol City,Charlton,0,1,,,,0
-660402000,West Brom,Watford,1,1,,,,0
-660661200,Watford,Plymouth,2,0,,,,0
-660661200,Portsmouth,West Ham,0,1,,,,0
-660661200,Ipswich,Swindon,1,1,,,,0
-660661200,Hull,Blackburn,3,1,,,,0
-660661200,Bristol City,Sheffield Wed,1,1,,,,0
-661266000,West Ham,Middlesbrough,0,0,,,,0
-661266000,West Brom,Portsmouth,0,0,,,,0
-661266000,Swindon,Charlton,1,1,,,,0
-661266000,Sheffield Wed,Ipswich,2,2,,,,0
-661266000,Port Vale,Oxford Utd,1,0,,,,0
-661266000,Oldham,Wolves,4,1,,,,0
-661266000,Notts Co,Hull,2,1,,,,0
-661266000,Millwall,Watford,0,2,,,,0
-661266000,Bristol Rovers,Leicester,0,0,,,,0
-661266000,Brighton,Barnsley,1,0,,,,0
-661266000,Blackburn,Bristol City,0,1,,,,0
-661352400,Plymouth,Newcastle,0,1,,,,0
-661784400,Portsmouth,Ipswich,1,1,,,,0
-661784400,Oldham,Plymouth,5,3,,,,0
-661870800,Wolves,Millwall,4,1,,,,0
-661870800,Swindon,West Brom,2,1,,,,0
-661870800,Port Vale,Brighton,0,1,,,,0
-661870800,Oxford Utd,Sheffield Wed,2,2,,,,0
-661870800,Notts Co,Bristol City,3,2,,,,0
-661870800,Middlesbrough,Blackburn,0,1,,,,0
-661870800,Charlton,Hull,2,1,,,,0
-661870800,Bristol Rovers,Newcastle,1,1,,,,0
-661870800,Barnsley,West Ham,1,0,,,,0
-661957200,Leicester,Watford,0,0,,,,0
-662216400,West Ham,Oldham,2,0,,,,0
-662216400,West Brom,Charlton,1,0,,,,0
-662216400,Watford,Port Vale,2,1,,,,0
-662216400,Sheffield Wed,Wolves,2,2,,,,0
-662216400,Plymouth,Barnsley,1,1,,,,0
-662216400,Newcastle,Swindon,1,1,,,,0
-662216400,Millwall,Leicester,2,1,,,,0
-662216400,Ipswich,Middlesbrough,0,1,,,,0
-662216400,Hull,Oxford Utd,3,3,,,,0
-662216400,Bristol City,Portsmouth,4,1,,,,0
-662216400,Brighton,Bristol Rovers,0,1,,,,0
-662216400,Blackburn,Notts Co,0,1,,,,0
-662475600,West Ham,Port Vale,0,0,,,,0
-662475600,West Brom,Wolves,1,1,,,,0
-662475600,Watford,Swindon,2,2,,,,0
-662475600,Sheffield Wed,Portsmouth,2,1,,,,0
-662475600,Plymouth,Bristol Rovers,2,2,,,,0
-662475600,Newcastle,Notts Co,0,2,,,,0
-662475600,Millwall,Oldham,0,0,,,,0
-662475600,Ipswich,Charlton,4,4,,,,0
-662475600,Hull,Barnsley,1,2,,,,0
-662475600,Bristol City,Middlesbrough,3,0,,,,0
-662475600,Blackburn,Oxford Utd,1,3,,,,0
-662734800,Wolves,Watford,0,0,,,,0
-662734800,Swindon,Plymouth,1,1,,,,0
-662734800,Portsmouth,Hull,5,1,,,,0
-662734800,Port Vale,Millwall,0,2,,,,0
-662734800,Oxford Utd,Ipswich,2,1,,,,0
-662734800,Oldham,Newcastle,1,1,,,,0
-662734800,Notts Co,Brighton,2,1,,,,0
-662734800,Middlesbrough,Sheffield Wed,0,2,,,,0
-662734800,Leicester,West Brom,2,1,,,,0
-662734800,Charlton,Blackburn,0,0,,,,0
-662734800,Bristol Rovers,West Ham,0,1,,,,0
-662734800,Barnsley,Bristol City,2,0,,,,0
-663685200,Wolves,Brighton,2,3,,,,0
-663685200,Watford,West Ham,0,1,,,,0
-663685200,Portsmouth,Oldham,1,4,,,,0
-663685200,Oxford Utd,Notts Co,3,3,,,,0
-663685200,Newcastle,Blackburn,1,0,,,,0
-663685200,Middlesbrough,Plymouth,0,0,,,,0
-663685200,Leicester,Port Vale,1,1,,,,0
-663685200,Ipswich,West Brom,1,0,,,,0
-663685200,Hull,Sheffield Wed,0,1,,,,0
-663685200,Charlton,Bristol Rovers,2,2,,,,0
-663685200,Bristol City,Swindon,0,4,,,,0
-663685200,Barnsley,Millwall,1,2,,,,0
-664030800,Brighton,Newcastle,4,2,,,,0
-664290000,West Ham,Leicester,1,0,,,,0
-664290000,West Brom,Oxford Utd,2,0,,,,0
-664290000,Swindon,Hull,3,1,,,,0
-664290000,Sheffield Wed,Charlton,0,0,,,,0
-664290000,Port Vale,Portsmouth,3,2,,,,0
-664290000,Plymouth,Bristol City,1,0,,,,0
-664290000,Oldham,Barnsley,2,0,,,,0
-664290000,Notts Co,Middlesbrough,3,2,,,,0
-664290000,Millwall,Newcastle,0,1,,,,0
-664290000,Bristol Rovers,Wolves,1,1,,,,0
-664290000,Brighton,Watford,3,0,,,,0
-664290000,Blackburn,Ipswich,0,1,,,,0
-664549200,Charlton,Notts Co,3,1,,,,0
-664894800,Leicester,Blackburn,1,3,,,,0
-664894800,Bristol Rovers,Bristol City,3,2,,,,0
-665499600,Wolves,West Ham,2,1,,,,0
-665499600,Watford,Sheffield Wed,2,2,,,,0
-665499600,Portsmouth,Notts Co,2,1,,,,0
-665499600,Oxford Utd,Oldham,5,1,,,,0
-665499600,Newcastle,Port Vale,2,0,,,,0
-665499600,Middlesbrough,Swindon,2,0,,,,0
-665499600,Leicester,Plymouth,3,1,,,,0
-665499600,Ipswich,Millwall,0,3,,,,0
-665499600,Hull,Bristol Rovers,2,0,,,,0
-665499600,Charlton,Brighton,1,2,,,,0
-665499600,Bristol City,West Brom,2,0,,,,0
-666104400,Blackburn,Portsmouth,1,1,,,,0
-666709200,Oxford Utd,Charlton,1,1,,,,0
-666709200,Oldham,Port Vale,2,0,,,,0
-666709200,Millwall,Plymouth,4,1,,,,0
-666709200,Hull,Bristol City,1,2,,,,0
-666709200,Bristol Rovers,Watford,3,1,,,,0
-666709200,Blackburn,West Brom,0,3,,,,0
-666968400,Swindon,Sheffield Wed,2,1,,,,0
-666968400,Middlesbrough,West Brom,3,2,,,,0
-667054800,Brighton,Leicester,3,0,,,,0
-667314000,West Brom,Notts Co,2,2,,,,0
-667314000,Watford,Oldham,1,1,,,,0
-667314000,Portsmouth,Swindon,2,1,,,,0
-667314000,Port Vale,Bristol Rovers,3,2,,,,0
-667314000,Plymouth,Brighton,2,0,,,,0
-667314000,Newcastle,Wolves,0,0,,,,0
-667314000,Leicester,Barnsley,2,1,,,,0
-667314000,Ipswich,Hull,2,0,,,,0
-667314000,Charlton,Middlesbrough,0,1,,,,0
-667314000,Bristol City,Oxford Utd,3,1,,,,0
-667400400,West Ham,Millwall,3,1,,,,0
-667573200,Wolves,Port Vale,3,1,,,,0
-667573200,Middlesbrough,Portsmouth,1,2,,,,0
-667573200,Barnsley,Bristol Rovers,1,0,,,,0
-667659600,Oxford Utd,Millwall,0,0,,,,0
-667659600,Newcastle,Brighton,0,0,,,,0
-667918800,West Brom,West Ham,0,0,,,,0
-667918800,Plymouth,Port Vale,2,0,,,,0
-667918800,Oxford Utd,Portsmouth,1,0,,,,0
-667918800,Notts Co,Sheffield Wed,0,2,,,,0
-667918800,Newcastle,Leicester,2,1,,,,0
-667918800,Ipswich,Wolves,0,0,,,,0
-667918800,Hull,Middlesbrough,0,0,,,,0
-667918800,Charlton,Bristol City,2,1,,,,0
-667918800,Bristol Rovers,Millwall,1,0,,,,0
-667918800,Brighton,Oldham,1,2,,,,0
-667918800,Blackburn,Swindon,2,1,,,,0
-667918800,Barnsley,Watford,2,1,,,,0
-668178000,Wolves,Leicester,2,1,,,,0
-668178000,West Ham,Plymouth,2,2,,,,0
-668178000,Swindon,Oxford Utd,0,0,,,,0
-668178000,Bristol City,Bristol Rovers,1,0,,,,0
-668523600,Wolves,Barnsley,0,5,,,,0
-668523600,Watford,Newcastle,1,2,,,,0
-668523600,Sheffield Wed,West Brom,1,0,,,,0
-668523600,Portsmouth,Charlton,0,1,,,,0
-668523600,Port Vale,Blackburn,3,0,,,,0
-668523600,Oldham,Bristol Rovers,2,0,,,,0
-668523600,Millwall,Brighton,3,0,,,,0
-668523600,Middlesbrough,Oxford Utd,0,0,,,,0
-668523600,Leicester,Hull,0,1,,,,0
-668523600,Bristol City,Ipswich,4,2,,,,0
-668782800,Swindon,Oldham,2,2,,,,0
-668782800,Portsmouth,Millwall,0,0,,,,0
-668782800,Notts Co,Port Vale,1,1,,,,0
-668782800,Middlesbrough,Newcastle,3,0,,,,0
-668782800,Hull,Watford,1,1,,,,0
-668782800,Charlton,Wolves,1,0,,,,0
-668782800,Bristol City,Leicester,1,0,,,,0
-668782800,Blackburn,Bristol Rovers,2,2,,,,0
-668869200,West Brom,Plymouth,1,2,,,,0
-668869200,Sheffield Wed,Brighton,1,1,,,,0
-668869200,Oxford Utd,West Ham,2,1,,,,0
-669128400,Wolves,Oxford Utd,3,3,,,,0
-669128400,West Ham,Sheffield Wed,1,3,,,,0
-669128400,Watford,Ipswich,1,1,,,,0
-669128400,Port Vale,Hull,0,0,,,,0
-669128400,Plymouth,Portsmouth,1,1,,,,0
-669128400,Oldham,West Brom,2,1,,,,0
-669128400,Newcastle,Bristol City,0,0,,,,0
-669128400,Millwall,Swindon,1,0,,,,0
-669128400,Leicester,Middlesbrough,4,3,,,,0
-669128400,Bristol Rovers,Notts Co,1,1,,,,0
-669128400,Brighton,Blackburn,1,0,,,,0
-669128400,Barnsley,Charlton,1,1,,,,0
-669301200,Port Vale,Ipswich,1,2,,,,0
-669387600,Wolves,Notts Co,0,2,,,,0
-669387600,Watford,Blackburn,0,3,,,,0
-669387600,Plymouth,Sheffield Wed,1,1,,,,0
-669387600,Barnsley,Portsmouth,4,0,,,,0
-669474000,West Ham,Bristol City,1,0,,,,0
-669474000,Oldham,Hull,1,2,,,,0
-669474000,Millwall,Middlesbrough,2,2,,,,0
-669474000,Leicester,Charlton,1,2,,,,0
-669474000,Bristol Rovers,Swindon,2,1,,,,0
-669474000,Brighton,West Brom,2,0,,,,0
-669646800,Ipswich,Plymouth,3,1,,,,0
-669733200,West Brom,Millwall,0,1,,,,0
-669733200,Swindon,Brighton,1,3,,,,0
-669733200,Sheffield Wed,Bristol Rovers,2,1,,,,0
-669733200,Portsmouth,Newcastle,0,1,,,,0
-669733200,Oxford Utd,Barnsley,2,0,,,,0
-669733200,Notts Co,Leicester,0,2,,,,0
-669733200,Middlesbrough,Watford,1,2,,,,0
-669733200,Hull,West Ham,0,0,,,,0
-669733200,Charlton,Port Vale,0,1,,,,0
-669733200,Bristol City,Wolves,1,1,,,,0
-669733200,Blackburn,Oldham,2,0,,,,0
-670251600,Oldham,West Ham,1,1,,,,0
-670338000,Wolves,Sheffield Wed,3,2,,,,0
-670338000,Swindon,Newcastle,3,2,,,,0
-670338000,Portsmouth,Bristol City,4,1,,,,0
-670338000,Port Vale,Watford,0,0,,,,0
-670338000,Oxford Utd,Hull,1,0,,,,0
-670338000,Notts Co,Blackburn,4,1,,,,0
-670338000,Middlesbrough,Ipswich,1,1,,,,0
-670338000,Leicester,Millwall,1,2,,,,0
-670338000,Charlton,West Brom,2,0,,,,0
-670338000,Bristol Rovers,Brighton,1,3,,,,0
-670338000,Barnsley,Plymouth,1,0,,,,0
-670507200,West Ham,Barnsley,3,2,,,,0
-670507200,West Brom,Swindon,2,1,,,,0
-670507200,Watford,Leicester,1,0,,,,0
-670507200,Sheffield Wed,Oxford Utd,0,2,,,,0
-670507200,Plymouth,Oldham,1,2,,,,0
-670507200,Newcastle,Bristol Rovers,0,2,,,,0
-670507200,Hull,Charlton,2,2,,,,0
-670507200,Bristol City,Notts Co,3,2,,,,0
-670507200,Blackburn,Middlesbrough,1,0,,,,0
-670593600,Ipswich,Portsmouth,2,2,,,,0
-670680000,Millwall,Wolves,2,1,,,,0
-670680000,Brighton,Port Vale,1,2,,,,0
-670939200,Wolves,West Brom,2,2,,,,0
-670939200,Swindon,Watford,1,2,,,,0
-670939200,Portsmouth,Sheffield Wed,2,0,,,,0
-670939200,Port Vale,West Ham,0,1,,,,0
-670939200,Oxford Utd,Blackburn,0,0,,,,0
-670939200,Oldham,Millwall,1,1,,,,0
-670939200,Notts Co,Newcastle,3,0,,,,0
-670939200,Middlesbrough,Bristol City,2,1,,,,0
-670939200,Leicester,Brighton,3,0,,,,0
-670939200,Charlton,Ipswich,1,1,,,,0
-670939200,Bristol Rovers,Plymouth,0,0,,,,0
-670939200,Barnsley,Hull,3,1,,,,0
-671198400,Plymouth,Wolves,1,0,,,,0
-671198400,Middlesbrough,Port Vale,4,0,,,,0
-671198400,Barnsley,Notts Co,1,0,,,,0
-671284800,West Brom,Hull,1,1,,,,0
-671284800,Sheffield Wed,Blackburn,3,1,,,,0
-671284800,Newcastle,Oxford Utd,2,2,,,,0
-671284800,Millwall,Charlton,3,1,,,,0
-671284800,Leicester,Oldham,0,0,,,,0
-671284800,Bristol Rovers,Ipswich,1,0,,,,0
-671284800,Brighton,West Ham,1,0,,,,0
-671544000,West Brom,Leicester,2,1,,,,0
-671544000,Watford,Wolves,3,1,,,,0
-671544000,Sheffield Wed,Middlesbrough,2,0,,,,0
-671544000,Plymouth,Swindon,3,3,,,,0
-671544000,Newcastle,Oldham,3,2,,,,0
-671544000,Millwall,Port Vale,1,2,,,,0
-671544000,Ipswich,Oxford Utd,1,1,,,,0
-671544000,Hull,Portsmouth,0,2,,,,0
-671544000,Bristol City,Barnsley,1,0,,,,0
-671544000,Brighton,Notts Co,0,0,,,,0
-671544000,Blackburn,Charlton,2,2,,,,0
-671716800,Port Vale,Barnsley,0,1,,,,0
-671803200,Wolves,Swindon,1,2,,,,0
-671803200,Portsmouth,Brighton,1,0,,,,0
-671803200,Notts Co,Watford,1,0,,,,0
-671803200,Hull,Millwall,1,1,,,,0
-671803200,Charlton,Oldham,1,1,,,,0
-671889600,Oxford Utd,Plymouth,0,0,,,,0
-671889600,Newcastle,Sheffield Wed,1,0,,,,0
-671889600,Ipswich,West Ham,0,1,,,,0
-672148800,Wolves,Hull,0,0,,,,0
-672148800,West Ham,Swindon,2,0,,,,0
-672148800,Watford,Charlton,2,1,,,,0
-672148800,Plymouth,Blackburn,4,1,,,,0
-672148800,Oldham,Bristol City,2,1,,,,0
-672148800,Newcastle,Ipswich,2,2,,,,0
-672148800,Millwall,Notts Co,1,2,,,,0
-672148800,Leicester,Portsmouth,2,1,,,,0
-672148800,Bristol Rovers,Middlesbrough,2,0,,,,0
-672148800,Brighton,Oxford Utd,0,3,,,,0
-672148800,Barnsley,West Brom,1,1,,,,0
-672408000,Watford,West Brom,1,1,,,,0
-672408000,Swindon,Notts Co,1,2,,,,0
-672408000,Brighton,Bristol City,0,1,,,,0
-672408000,Barnsley,Blackburn,0,1,,,,0
-672494400,West Ham,Newcastle,1,1,,,,0
-672494400,Sheffield Wed,Leicester,0,0,,,,0
-672580800,Ipswich,Barnsley,2,0,,,,0
-672753600,West Brom,Port Vale,1,1,,,,0
-672753600,Swindon,Leicester,5,2,,,,0
-672753600,Sheffield Wed,Barnsley,3,1,,,,0
-672753600,Portsmouth,Watford,0,1,,,,0
-672753600,Oxford Utd,Bristol Rovers,3,1,,,,0
-672753600,Notts Co,Plymouth,4,0,,,,0
-672753600,Middlesbrough,Wolves,2,0,,,,0
-672753600,Ipswich,Oldham,1,2,,,,0
-672753600,Hull,Brighton,0,1,,,,0
-672753600,Charlton,Newcastle,1,0,,,,0
-672753600,Bristol City,Millwall,1,4,,,,0
-672753600,Blackburn,West Ham,3,1,,,,0
-673358400,West Brom,Newcastle,1,1,,,,0
-673358400,Swindon,Barnsley,1,2,,,,0
-673358400,Sheffield Wed,Millwall,2,1,,,,0
-673358400,Portsmouth,Bristol Rovers,3,1,,,,0
-673358400,Oxford Utd,Watford,0,1,,,,0
-673358400,Notts Co,Oldham,2,0,,,,0
-673358400,Middlesbrough,Brighton,2,0,,,,0
-673358400,Ipswich,Leicester,3,2,,,,0
-673358400,Hull,Plymouth,2,0,,,,0
-673358400,Charlton,West Ham,1,1,,,,0
-673358400,Bristol City,Port Vale,1,1,,,,0
-673358400,Blackburn,Wolves,1,1,,,,0
-673531200,Port Vale,Sheffield Wed,1,1,,,,0
-673617600,Oldham,Middlesbrough,2,0,,,,0
-673617600,Notts Co,Ipswich,3,1,,,,0
-673617600,Barnsley,Newcastle,1,1,,,,0
-673704000,West Ham,Bristol Rovers,1,0,,,,0
-673704000,Sheffield Wed,Bristol City,3,1,,,,0
-673963200,Wolves,Portsmouth,3,1,,,,0
-673963200,West Ham,Notts Co,1,2,,,,0
-673963200,Watford,Bristol City,2,3,,,,0
-673963200,Port Vale,Swindon,3,1,,,,0
-673963200,Plymouth,Charlton,2,0,,,,0
-673963200,Oldham,Sheffield Wed,3,2,,,,0
-673963200,Newcastle,Hull,1,2,,,,0
-673963200,Millwall,Blackburn,2,1,,,,0
-673963200,Leicester,Oxford Utd,1,0,,,,0
-673963200,Bristol Rovers,West Brom,1,1,,,,0
-673963200,Brighton,Ipswich,2,1,,,,0
-673963200,Barnsley,Middlesbrough,1,0,,,,0
-674650800,Middlesbrough,Notts Co,1,1,,,,0
-674650800,Brighton,Millwall,4,1,,,,0
-674937900,Notts Co,Middlesbrough,1,0,,,,0
-674937900,Millwall,Brighton,1,2,,,,0
-675871200,Brighton,Notts Co,1,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+651585600,Wolves,Oldham,CjV6Eptm,fylJcjMq,2,3,,,,0
+651585600,Watford,Millwall,QHkJrpz6,4UX5t7jk,1,2,,,,0
+651585600,Portsmouth,West Brom,nkTKkN30,ImMEe0UF,1,1,,,,0
+651585600,Oxford Utd,Port Vale,6qsP6K6r,6qsP6K6r,5,2,,,,0
+651585600,Newcastle,Plymouth,ImMEe0UF,6qsP6K6r,2,0,,,,0
+651585600,Middlesbrough,West Ham,vcNAdtF9,Q9DJHs4l,0,0,,,,0
+651585600,Leicester,Bristol Rovers,UNZg5BP0,QqdgCtqL,3,2,,,,0
+651585600,Ipswich,Sheffield Wed,jXzj6iAf,fNIX23Pi,0,2,,,,0
+651585600,Hull,Notts Co,bJFnYpTt,xfnjL0bH,1,2,,,,0
+651585600,Charlton,Swindon,6FckE7BN,6qsP6K6r,1,2,,,,0
+651585600,Bristol City,Blackburn,OdaWmcNh,ImMEe0UF,4,2,,,,0
+651585600,Barnsley,Brighton,WdTjExSq,b92lfEJC,2,1,,,,0
+651844800,Swindon,Ipswich,6qsP6K6r,jXzj6iAf,1,0,,,,0
+651844800,Port Vale,Wolves,6qsP6K6r,CjV6Eptm,1,2,,,,0
+651844800,Plymouth,Watford,6qsP6K6r,QHkJrpz6,1,1,,,,0
+651844800,Oldham,Leicester,fylJcjMq,UNZg5BP0,2,0,,,,0
+651844800,Blackburn,Hull,ImMEe0UF,bJFnYpTt,2,1,,,,0
+651931200,West Ham,Portsmouth,Q9DJHs4l,nkTKkN30,1,1,,,,0
+652190400,West Ham,Watford,Q9DJHs4l,QHkJrpz6,1,0,,,,0
+652190400,West Brom,Ipswich,ImMEe0UF,jXzj6iAf,1,2,,,,0
+652190400,Sheffield Wed,Hull,fNIX23Pi,bJFnYpTt,5,1,,,,0
+652190400,Port Vale,Leicester,6qsP6K6r,UNZg5BP0,2,0,,,,0
+652190400,Plymouth,Middlesbrough,6qsP6K6r,vcNAdtF9,1,1,,,,0
+652190400,Oldham,Portsmouth,fylJcjMq,nkTKkN30,3,1,,,,0
+652190400,Notts Co,Oxford Utd,xfnjL0bH,6qsP6K6r,3,1,,,,0
+652190400,Millwall,Barnsley,4UX5t7jk,WdTjExSq,4,1,,,,0
+652190400,Bristol Rovers,Charlton,QqdgCtqL,6FckE7BN,2,1,,,,0
+652190400,Brighton,Wolves,b92lfEJC,CjV6Eptm,1,1,,,,0
+652190400,Blackburn,Newcastle,ImMEe0UF,ImMEe0UF,0,1,,,,0
+652276800,Swindon,Bristol City,6qsP6K6r,OdaWmcNh,0,1,,,,0
+652795200,Wolves,Bristol Rovers,CjV6Eptm,QqdgCtqL,1,1,,,,0
+652795200,Watford,Brighton,QHkJrpz6,b92lfEJC,0,1,,,,0
+652795200,Portsmouth,Port Vale,nkTKkN30,6qsP6K6r,2,4,,,,0
+652795200,Oxford Utd,West Brom,6qsP6K6r,ImMEe0UF,1,3,,,,0
+652795200,Newcastle,Millwall,ImMEe0UF,4UX5t7jk,1,2,,,,0
+652795200,Middlesbrough,Notts Co,vcNAdtF9,xfnjL0bH,1,0,,,,0
+652795200,Leicester,West Ham,UNZg5BP0,Q9DJHs4l,1,2,,,,0
+652795200,Ipswich,Blackburn,jXzj6iAf,ImMEe0UF,2,1,,,,0
+652795200,Hull,Swindon,bJFnYpTt,6qsP6K6r,1,1,,,,0
+652795200,Charlton,Sheffield Wed,6FckE7BN,fNIX23Pi,0,1,,,,0
+652795200,Bristol City,Plymouth,OdaWmcNh,6qsP6K6r,1,1,,,,0
+652795200,Barnsley,Oldham,WdTjExSq,fylJcjMq,0,1,,,,0
+653400000,West Ham,Wolves,Q9DJHs4l,CjV6Eptm,1,1,,,,0
+653400000,West Brom,Bristol City,ImMEe0UF,OdaWmcNh,2,1,,,,0
+653400000,Swindon,Middlesbrough,6qsP6K6r,vcNAdtF9,1,3,,,,0
+653400000,Sheffield Wed,Watford,fNIX23Pi,QHkJrpz6,2,0,,,,0
+653400000,Port Vale,Newcastle,6qsP6K6r,ImMEe0UF,0,1,,,,0
+653400000,Plymouth,Leicester,6qsP6K6r,UNZg5BP0,2,0,,,,0
+653400000,Oldham,Oxford Utd,fylJcjMq,6qsP6K6r,3,0,,,,0
+653400000,Notts Co,Portsmouth,xfnjL0bH,nkTKkN30,2,1,,,,0
+653400000,Millwall,Ipswich,4UX5t7jk,jXzj6iAf,1,1,,,,0
+653400000,Bristol Rovers,Hull,QqdgCtqL,bJFnYpTt,1,1,,,,0
+653400000,Brighton,Charlton,b92lfEJC,6FckE7BN,3,2,,,,0
+653400000,Blackburn,Barnsley,ImMEe0UF,WdTjExSq,1,2,,,,0
+653572800,Port Vale,Middlesbrough,6qsP6K6r,vcNAdtF9,3,1,,,,0
+653659200,Swindon,Wolves,6qsP6K6r,CjV6Eptm,1,0,,,,0
+653659200,Sheffield Wed,Newcastle,fNIX23Pi,ImMEe0UF,2,2,,,,0
+653659200,Plymouth,Oxford Utd,6qsP6K6r,6qsP6K6r,2,2,,,,0
+653659200,Oldham,Charlton,fylJcjMq,6FckE7BN,1,1,,,,0
+653659200,Notts Co,Barnsley,xfnjL0bH,WdTjExSq,2,3,,,,0
+653659200,Blackburn,Leicester,ImMEe0UF,UNZg5BP0,4,1,,,,0
+653745600,West Ham,Ipswich,Q9DJHs4l,jXzj6iAf,3,1,,,,0
+653745600,Millwall,Hull,4UX5t7jk,bJFnYpTt,3,3,,,,0
+653745600,Brighton,Portsmouth,b92lfEJC,nkTKkN30,3,2,,,,0
+654004800,Wolves,Plymouth,CjV6Eptm,6qsP6K6r,3,1,,,,0
+654004800,Watford,Notts Co,QHkJrpz6,xfnjL0bH,1,3,,,,0
+654004800,Portsmouth,Blackburn,nkTKkN30,ImMEe0UF,3,2,,,,0
+654004800,Oxford Utd,Swindon,6qsP6K6r,6qsP6K6r,2,4,,,,0
+654004800,Newcastle,West Ham,ImMEe0UF,Q9DJHs4l,1,1,,,,0
+654004800,Middlesbrough,Oldham,vcNAdtF9,fylJcjMq,0,1,,,,0
+654004800,Leicester,Sheffield Wed,UNZg5BP0,fNIX23Pi,2,4,,,,0
+654004800,Ipswich,Bristol Rovers,jXzj6iAf,QqdgCtqL,2,1,,,,0
+654004800,Hull,West Brom,bJFnYpTt,ImMEe0UF,1,1,,,,0
+654004800,Charlton,Millwall,6FckE7BN,4UX5t7jk,0,0,,,,0
+654004800,Bristol City,Brighton,OdaWmcNh,b92lfEJC,3,1,,,,0
+654004800,Barnsley,Port Vale,WdTjExSq,6qsP6K6r,1,1,,,,0
+654609600,West Brom,Oldham,ImMEe0UF,fylJcjMq,0,0,,,,0
+654609600,Sheffield Wed,West Ham,fNIX23Pi,Q9DJHs4l,1,1,,,,0
+654609600,Portsmouth,Plymouth,nkTKkN30,6qsP6K6r,3,1,,,,0
+654609600,Oxford Utd,Wolves,6qsP6K6r,CjV6Eptm,1,1,,,,0
+654609600,Notts Co,Bristol Rovers,xfnjL0bH,QqdgCtqL,3,2,,,,0
+654609600,Middlesbrough,Leicester,vcNAdtF9,UNZg5BP0,6,0,,,,0
+654609600,Ipswich,Watford,jXzj6iAf,QHkJrpz6,1,1,,,,0
+654609600,Hull,Port Vale,bJFnYpTt,6qsP6K6r,3,2,,,,0
+654609600,Charlton,Barnsley,6FckE7BN,WdTjExSq,2,1,,,,0
+654609600,Bristol City,Newcastle,OdaWmcNh,ImMEe0UF,1,0,,,,0
+654609600,Blackburn,Brighton,ImMEe0UF,b92lfEJC,1,2,,,,0
+654699600,Swindon,Millwall,6qsP6K6r,4UX5t7jk,0,0,,,,0
+654786000,Port Vale,Notts Co,6qsP6K6r,xfnjL0bH,0,1,,,,0
+654872400,Wolves,Charlton,CjV6Eptm,6FckE7BN,3,0,,,,0
+654872400,Watford,Hull,QHkJrpz6,bJFnYpTt,0,1,,,,0
+654872400,Plymouth,West Brom,6qsP6K6r,ImMEe0UF,2,0,,,,0
+654872400,Oldham,Swindon,fylJcjMq,6qsP6K6r,3,2,,,,0
+654872400,Barnsley,Ipswich,WdTjExSq,jXzj6iAf,5,1,,,,0
+654958800,West Ham,Oxford Utd,Q9DJHs4l,6qsP6K6r,2,0,,,,0
+654958800,Newcastle,Middlesbrough,ImMEe0UF,vcNAdtF9,0,0,,,,0
+654958800,Millwall,Portsmouth,4UX5t7jk,nkTKkN30,2,0,,,,0
+654958800,Leicester,Bristol City,UNZg5BP0,OdaWmcNh,3,0,,,,0
+654958800,Bristol Rovers,Blackburn,QqdgCtqL,ImMEe0UF,1,2,,,,0
+654958800,Brighton,Sheffield Wed,b92lfEJC,fNIX23Pi,0,4,,,,0
+655218000,Wolves,Bristol City,CjV6Eptm,OdaWmcNh,4,0,,,,0
+655218000,West Ham,Hull,Q9DJHs4l,bJFnYpTt,7,1,,,,0
+655218000,Watford,Middlesbrough,QHkJrpz6,vcNAdtF9,0,3,,,,0
+655218000,Port Vale,Charlton,6qsP6K6r,6FckE7BN,1,1,,,,0
+655218000,Plymouth,Ipswich,6qsP6K6r,jXzj6iAf,0,0,,,,0
+655218000,Oldham,Blackburn,fylJcjMq,ImMEe0UF,1,1,,,,0
+655218000,Newcastle,Portsmouth,ImMEe0UF,nkTKkN30,2,1,,,,0
+655218000,Millwall,West Brom,4UX5t7jk,ImMEe0UF,4,1,,,,0
+655218000,Leicester,Notts Co,UNZg5BP0,xfnjL0bH,2,1,,,,0
+655218000,Bristol Rovers,Sheffield Wed,QqdgCtqL,fNIX23Pi,0,1,,,,0
+655218000,Brighton,Swindon,b92lfEJC,6qsP6K6r,3,3,,,,0
+655218000,Barnsley,Oxford Utd,WdTjExSq,6qsP6K6r,3,0,,,,0
+655822800,West Brom,Brighton,ImMEe0UF,b92lfEJC,1,1,,,,0
+655822800,Swindon,Bristol Rovers,6qsP6K6r,QqdgCtqL,0,2,,,,0
+655822800,Sheffield Wed,Plymouth,fNIX23Pi,6qsP6K6r,3,0,,,,0
+655822800,Portsmouth,Barnsley,nkTKkN30,WdTjExSq,0,0,,,,0
+655822800,Oxford Utd,Newcastle,6qsP6K6r,ImMEe0UF,0,0,,,,0
+655822800,Notts Co,Wolves,xfnjL0bH,CjV6Eptm,1,1,,,,0
+655822800,Middlesbrough,Millwall,vcNAdtF9,4UX5t7jk,2,1,,,,0
+655822800,Ipswich,Port Vale,jXzj6iAf,6qsP6K6r,3,0,,,,0
+655822800,Hull,Oldham,bJFnYpTt,fylJcjMq,2,2,,,,0
+655822800,Charlton,Leicester,6FckE7BN,UNZg5BP0,1,2,,,,0
+655822800,Bristol City,West Ham,OdaWmcNh,Q9DJHs4l,1,1,,,,0
+655822800,Blackburn,Watford,ImMEe0UF,QHkJrpz6,0,2,,,,0
+656427600,West Brom,Barnsley,ImMEe0UF,WdTjExSq,1,1,,,,0
+656427600,Swindon,West Ham,6qsP6K6r,Q9DJHs4l,0,1,,,,0
+656427600,Sheffield Wed,Port Vale,fNIX23Pi,6qsP6K6r,1,1,,,,0
+656427600,Portsmouth,Leicester,nkTKkN30,UNZg5BP0,3,1,,,,0
+656427600,Oxford Utd,Brighton,6qsP6K6r,b92lfEJC,3,0,,,,0
+656427600,Notts Co,Millwall,xfnjL0bH,4UX5t7jk,0,1,,,,0
+656427600,Middlesbrough,Bristol Rovers,vcNAdtF9,QqdgCtqL,1,2,,,,0
+656427600,Ipswich,Newcastle,jXzj6iAf,ImMEe0UF,2,1,,,,0
+656427600,Hull,Wolves,bJFnYpTt,CjV6Eptm,1,2,,,,0
+656427600,Charlton,Watford,6FckE7BN,QHkJrpz6,1,2,,,,0
+656427600,Bristol City,Oldham,OdaWmcNh,fylJcjMq,1,2,,,,0
+656427600,Blackburn,Plymouth,ImMEe0UF,6qsP6K6r,0,0,,,,0
+656600400,Port Vale,West Brom,6qsP6K6r,ImMEe0UF,1,2,,,,0
+656686800,Wolves,Middlesbrough,CjV6Eptm,vcNAdtF9,1,0,,,,0
+656686800,Watford,Portsmouth,QHkJrpz6,nkTKkN30,0,1,,,,0
+656686800,Plymouth,Notts Co,6qsP6K6r,xfnjL0bH,0,0,,,,0
+656686800,Oldham,Ipswich,fylJcjMq,jXzj6iAf,2,0,,,,0
+656686800,Barnsley,Sheffield Wed,WdTjExSq,fNIX23Pi,1,1,,,,0
+656773200,West Ham,Blackburn,Q9DJHs4l,ImMEe0UF,1,0,,,,0
+656773200,Newcastle,Charlton,ImMEe0UF,6FckE7BN,1,3,,,,0
+656773200,Millwall,Bristol City,4UX5t7jk,OdaWmcNh,1,2,,,,0
+656773200,Leicester,Swindon,UNZg5BP0,6qsP6K6r,2,2,,,,0
+656773200,Bristol Rovers,Oxford Utd,QqdgCtqL,6qsP6K6r,1,0,,,,0
+656773200,Brighton,Hull,b92lfEJC,bJFnYpTt,3,1,,,,0
+657032400,Wolves,Blackburn,CjV6Eptm,ImMEe0UF,2,3,,,,0
+657032400,West Ham,Charlton,Q9DJHs4l,6FckE7BN,2,1,,,,0
+657032400,Watford,Oxford Utd,QHkJrpz6,6qsP6K6r,1,1,,,,0
+657032400,Port Vale,Bristol City,6qsP6K6r,OdaWmcNh,3,2,,,,0
+657032400,Plymouth,Hull,6qsP6K6r,bJFnYpTt,4,1,,,,0
+657032400,Oldham,Notts Co,fylJcjMq,xfnjL0bH,2,1,,,,0
+657032400,Newcastle,West Brom,ImMEe0UF,ImMEe0UF,1,1,,,,0
+657032400,Millwall,Sheffield Wed,4UX5t7jk,fNIX23Pi,4,2,,,,0
+657032400,Leicester,Ipswich,UNZg5BP0,jXzj6iAf,1,2,,,,0
+657032400,Bristol Rovers,Portsmouth,QqdgCtqL,nkTKkN30,1,2,,,,0
+657032400,Brighton,Middlesbrough,b92lfEJC,vcNAdtF9,2,4,,,,0
+657032400,Barnsley,Swindon,WdTjExSq,6qsP6K6r,5,1,,,,0
+657291600,Notts Co,Charlton,xfnjL0bH,6FckE7BN,2,2,,,,0
+657637200,West Brom,Bristol Rovers,ImMEe0UF,QqdgCtqL,3,1,,,,0
+657637200,Swindon,Port Vale,6qsP6K6r,6qsP6K6r,1,2,,,,0
+657637200,Sheffield Wed,Oldham,fNIX23Pi,fylJcjMq,2,2,,,,0
+657637200,Portsmouth,Wolves,nkTKkN30,CjV6Eptm,0,0,,,,0
+657637200,Oxford Utd,Leicester,6qsP6K6r,UNZg5BP0,2,2,,,,0
+657637200,Notts Co,West Ham,xfnjL0bH,Q9DJHs4l,0,1,,,,0
+657637200,Middlesbrough,Barnsley,vcNAdtF9,WdTjExSq,1,0,,,,0
+657637200,Ipswich,Brighton,jXzj6iAf,b92lfEJC,1,3,,,,0
+657637200,Hull,Newcastle,bJFnYpTt,ImMEe0UF,2,1,,,,0
+657637200,Charlton,Plymouth,6FckE7BN,6qsP6K6r,0,1,,,,0
+657637200,Bristol City,Watford,OdaWmcNh,QHkJrpz6,3,2,,,,0
+657637200,Blackburn,Millwall,ImMEe0UF,4UX5t7jk,1,0,,,,0
+657896400,West Brom,Middlesbrough,ImMEe0UF,vcNAdtF9,0,1,,,,0
+657982800,Millwall,Oxford Utd,4UX5t7jk,6qsP6K6r,1,2,,,,0
+657982800,Bristol Rovers,Barnsley,QqdgCtqL,WdTjExSq,2,1,,,,0
+658242000,Wolves,Newcastle,CjV6Eptm,ImMEe0UF,2,1,,,,0
+658242000,Swindon,Portsmouth,6qsP6K6r,nkTKkN30,3,0,,,,0
+658242000,Oxford Utd,Bristol City,6qsP6K6r,OdaWmcNh,3,1,,,,0
+658242000,Oldham,Watford,fylJcjMq,QHkJrpz6,4,1,,,,0
+658242000,Notts Co,West Brom,xfnjL0bH,ImMEe0UF,4,3,,,,0
+658242000,Millwall,West Ham,4UX5t7jk,Q9DJHs4l,1,1,,,,0
+658242000,Middlesbrough,Charlton,vcNAdtF9,6FckE7BN,1,2,,,,0
+658242000,Hull,Ipswich,bJFnYpTt,jXzj6iAf,3,3,,,,0
+658242000,Bristol Rovers,Port Vale,QqdgCtqL,6qsP6K6r,2,0,,,,0
+658242000,Brighton,Plymouth,b92lfEJC,6qsP6K6r,3,2,,,,0
+658242000,Blackburn,Sheffield Wed,ImMEe0UF,fNIX23Pi,1,0,,,,0
+658242000,Barnsley,Leicester,WdTjExSq,UNZg5BP0,1,1,,,,0
+658846800,West Ham,Brighton,Q9DJHs4l,b92lfEJC,2,1,,,,0
+658846800,West Brom,Blackburn,ImMEe0UF,ImMEe0UF,2,0,,,,0
+658846800,Watford,Bristol Rovers,QHkJrpz6,QqdgCtqL,1,1,,,,0
+658846800,Sheffield Wed,Swindon,fNIX23Pi,6qsP6K6r,2,1,,,,0
+658846800,Portsmouth,Middlesbrough,nkTKkN30,vcNAdtF9,0,3,,,,0
+658846800,Port Vale,Oldham,6qsP6K6r,fylJcjMq,1,0,,,,0
+658846800,Plymouth,Millwall,6qsP6K6r,4UX5t7jk,3,2,,,,0
+658846800,Newcastle,Barnsley,ImMEe0UF,WdTjExSq,0,0,,,,0
+658846800,Leicester,Wolves,UNZg5BP0,CjV6Eptm,1,0,,,,0
+658846800,Ipswich,Notts Co,jXzj6iAf,xfnjL0bH,0,0,,,,0
+658846800,Charlton,Oxford Utd,6FckE7BN,6qsP6K6r,3,3,,,,0
+658846800,Bristol City,Hull,OdaWmcNh,bJFnYpTt,4,1,,,,0
+659365200,Hull,Leicester,bJFnYpTt,UNZg5BP0,5,2,,,,0
+659365200,Blackburn,Port Vale,ImMEe0UF,6qsP6K6r,1,1,,,,0
+659451600,West Brom,Sheffield Wed,ImMEe0UF,fNIX23Pi,1,2,,,,0
+659451600,Plymouth,West Ham,6qsP6K6r,Q9DJHs4l,0,1,,,,0
+659451600,Oxford Utd,Middlesbrough,6qsP6K6r,vcNAdtF9,2,5,,,,0
+659451600,Notts Co,Swindon,xfnjL0bH,6qsP6K6r,0,0,,,,0
+659451600,Newcastle,Watford,ImMEe0UF,QHkJrpz6,1,0,,,,0
+659451600,Ipswich,Bristol City,jXzj6iAf,OdaWmcNh,1,1,,,,0
+659451600,Charlton,Portsmouth,6FckE7BN,nkTKkN30,2,1,,,,0
+659451600,Bristol Rovers,Oldham,QqdgCtqL,fylJcjMq,2,0,,,,0
+659451600,Brighton,Millwall,b92lfEJC,4UX5t7jk,0,0,,,,0
+659451600,Barnsley,Wolves,WdTjExSq,CjV6Eptm,1,1,,,,0
+660056400,Wolves,Ipswich,CjV6Eptm,jXzj6iAf,2,2,,,,0
+660056400,West Ham,West Brom,Q9DJHs4l,ImMEe0UF,3,1,,,,0
+660056400,Watford,Barnsley,QHkJrpz6,WdTjExSq,0,0,,,,0
+660056400,Swindon,Blackburn,6qsP6K6r,ImMEe0UF,1,1,,,,0
+660056400,Sheffield Wed,Notts Co,fNIX23Pi,xfnjL0bH,2,2,,,,0
+660056400,Portsmouth,Oxford Utd,nkTKkN30,6qsP6K6r,1,1,,,,0
+660056400,Port Vale,Plymouth,6qsP6K6r,6qsP6K6r,5,1,,,,0
+660056400,Oldham,Brighton,fylJcjMq,b92lfEJC,6,1,,,,0
+660056400,Millwall,Bristol Rovers,4UX5t7jk,QqdgCtqL,1,1,,,,0
+660056400,Middlesbrough,Hull,vcNAdtF9,bJFnYpTt,3,0,,,,0
+660056400,Leicester,Newcastle,UNZg5BP0,ImMEe0UF,5,4,,,,0
+660056400,Bristol City,Charlton,OdaWmcNh,6FckE7BN,0,1,,,,0
+660402000,West Brom,Watford,ImMEe0UF,QHkJrpz6,1,1,,,,0
+660661200,Watford,Plymouth,QHkJrpz6,6qsP6K6r,2,0,,,,0
+660661200,Portsmouth,West Ham,nkTKkN30,Q9DJHs4l,0,1,,,,0
+660661200,Ipswich,Swindon,jXzj6iAf,6qsP6K6r,1,1,,,,0
+660661200,Hull,Blackburn,bJFnYpTt,ImMEe0UF,3,1,,,,0
+660661200,Bristol City,Sheffield Wed,OdaWmcNh,fNIX23Pi,1,1,,,,0
+661266000,West Ham,Middlesbrough,Q9DJHs4l,vcNAdtF9,0,0,,,,0
+661266000,West Brom,Portsmouth,ImMEe0UF,nkTKkN30,0,0,,,,0
+661266000,Swindon,Charlton,6qsP6K6r,6FckE7BN,1,1,,,,0
+661266000,Sheffield Wed,Ipswich,fNIX23Pi,jXzj6iAf,2,2,,,,0
+661266000,Port Vale,Oxford Utd,6qsP6K6r,6qsP6K6r,1,0,,,,0
+661266000,Oldham,Wolves,fylJcjMq,CjV6Eptm,4,1,,,,0
+661266000,Notts Co,Hull,xfnjL0bH,bJFnYpTt,2,1,,,,0
+661266000,Millwall,Watford,4UX5t7jk,QHkJrpz6,0,2,,,,0
+661266000,Bristol Rovers,Leicester,QqdgCtqL,UNZg5BP0,0,0,,,,0
+661266000,Brighton,Barnsley,b92lfEJC,WdTjExSq,1,0,,,,0
+661266000,Blackburn,Bristol City,ImMEe0UF,OdaWmcNh,0,1,,,,0
+661352400,Plymouth,Newcastle,6qsP6K6r,ImMEe0UF,0,1,,,,0
+661784400,Portsmouth,Ipswich,nkTKkN30,jXzj6iAf,1,1,,,,0
+661784400,Oldham,Plymouth,fylJcjMq,6qsP6K6r,5,3,,,,0
+661870800,Wolves,Millwall,CjV6Eptm,4UX5t7jk,4,1,,,,0
+661870800,Swindon,West Brom,6qsP6K6r,ImMEe0UF,2,1,,,,0
+661870800,Port Vale,Brighton,6qsP6K6r,b92lfEJC,0,1,,,,0
+661870800,Oxford Utd,Sheffield Wed,6qsP6K6r,fNIX23Pi,2,2,,,,0
+661870800,Notts Co,Bristol City,xfnjL0bH,OdaWmcNh,3,2,,,,0
+661870800,Middlesbrough,Blackburn,vcNAdtF9,ImMEe0UF,0,1,,,,0
+661870800,Charlton,Hull,6FckE7BN,bJFnYpTt,2,1,,,,0
+661870800,Bristol Rovers,Newcastle,QqdgCtqL,ImMEe0UF,1,1,,,,0
+661870800,Barnsley,West Ham,WdTjExSq,Q9DJHs4l,1,0,,,,0
+661957200,Leicester,Watford,UNZg5BP0,QHkJrpz6,0,0,,,,0
+662216400,West Ham,Oldham,Q9DJHs4l,fylJcjMq,2,0,,,,0
+662216400,West Brom,Charlton,ImMEe0UF,6FckE7BN,1,0,,,,0
+662216400,Watford,Port Vale,QHkJrpz6,6qsP6K6r,2,1,,,,0
+662216400,Sheffield Wed,Wolves,fNIX23Pi,CjV6Eptm,2,2,,,,0
+662216400,Plymouth,Barnsley,6qsP6K6r,WdTjExSq,1,1,,,,0
+662216400,Newcastle,Swindon,ImMEe0UF,6qsP6K6r,1,1,,,,0
+662216400,Millwall,Leicester,4UX5t7jk,UNZg5BP0,2,1,,,,0
+662216400,Ipswich,Middlesbrough,jXzj6iAf,vcNAdtF9,0,1,,,,0
+662216400,Hull,Oxford Utd,bJFnYpTt,6qsP6K6r,3,3,,,,0
+662216400,Bristol City,Portsmouth,OdaWmcNh,nkTKkN30,4,1,,,,0
+662216400,Brighton,Bristol Rovers,b92lfEJC,QqdgCtqL,0,1,,,,0
+662216400,Blackburn,Notts Co,ImMEe0UF,xfnjL0bH,0,1,,,,0
+662475600,West Ham,Port Vale,Q9DJHs4l,6qsP6K6r,0,0,,,,0
+662475600,West Brom,Wolves,ImMEe0UF,CjV6Eptm,1,1,,,,0
+662475600,Watford,Swindon,QHkJrpz6,6qsP6K6r,2,2,,,,0
+662475600,Sheffield Wed,Portsmouth,fNIX23Pi,nkTKkN30,2,1,,,,0
+662475600,Plymouth,Bristol Rovers,6qsP6K6r,QqdgCtqL,2,2,,,,0
+662475600,Newcastle,Notts Co,ImMEe0UF,xfnjL0bH,0,2,,,,0
+662475600,Millwall,Oldham,4UX5t7jk,fylJcjMq,0,0,,,,0
+662475600,Ipswich,Charlton,jXzj6iAf,6FckE7BN,4,4,,,,0
+662475600,Hull,Barnsley,bJFnYpTt,WdTjExSq,1,2,,,,0
+662475600,Bristol City,Middlesbrough,OdaWmcNh,vcNAdtF9,3,0,,,,0
+662475600,Blackburn,Oxford Utd,ImMEe0UF,6qsP6K6r,1,3,,,,0
+662734800,Wolves,Watford,CjV6Eptm,QHkJrpz6,0,0,,,,0
+662734800,Swindon,Plymouth,6qsP6K6r,6qsP6K6r,1,1,,,,0
+662734800,Portsmouth,Hull,nkTKkN30,bJFnYpTt,5,1,,,,0
+662734800,Port Vale,Millwall,6qsP6K6r,4UX5t7jk,0,2,,,,0
+662734800,Oxford Utd,Ipswich,6qsP6K6r,jXzj6iAf,2,1,,,,0
+662734800,Oldham,Newcastle,fylJcjMq,ImMEe0UF,1,1,,,,0
+662734800,Notts Co,Brighton,xfnjL0bH,b92lfEJC,2,1,,,,0
+662734800,Middlesbrough,Sheffield Wed,vcNAdtF9,fNIX23Pi,0,2,,,,0
+662734800,Leicester,West Brom,UNZg5BP0,ImMEe0UF,2,1,,,,0
+662734800,Charlton,Blackburn,6FckE7BN,ImMEe0UF,0,0,,,,0
+662734800,Bristol Rovers,West Ham,QqdgCtqL,Q9DJHs4l,0,1,,,,0
+662734800,Barnsley,Bristol City,WdTjExSq,OdaWmcNh,2,0,,,,0
+663685200,Wolves,Brighton,CjV6Eptm,b92lfEJC,2,3,,,,0
+663685200,Watford,West Ham,QHkJrpz6,Q9DJHs4l,0,1,,,,0
+663685200,Portsmouth,Oldham,nkTKkN30,fylJcjMq,1,4,,,,0
+663685200,Oxford Utd,Notts Co,6qsP6K6r,xfnjL0bH,3,3,,,,0
+663685200,Newcastle,Blackburn,ImMEe0UF,ImMEe0UF,1,0,,,,0
+663685200,Middlesbrough,Plymouth,vcNAdtF9,6qsP6K6r,0,0,,,,0
+663685200,Leicester,Port Vale,UNZg5BP0,6qsP6K6r,1,1,,,,0
+663685200,Ipswich,West Brom,jXzj6iAf,ImMEe0UF,1,0,,,,0
+663685200,Hull,Sheffield Wed,bJFnYpTt,fNIX23Pi,0,1,,,,0
+663685200,Charlton,Bristol Rovers,6FckE7BN,QqdgCtqL,2,2,,,,0
+663685200,Bristol City,Swindon,OdaWmcNh,6qsP6K6r,0,4,,,,0
+663685200,Barnsley,Millwall,WdTjExSq,4UX5t7jk,1,2,,,,0
+664030800,Brighton,Newcastle,b92lfEJC,ImMEe0UF,4,2,,,,0
+664290000,West Ham,Leicester,Q9DJHs4l,UNZg5BP0,1,0,,,,0
+664290000,West Brom,Oxford Utd,ImMEe0UF,6qsP6K6r,2,0,,,,0
+664290000,Swindon,Hull,6qsP6K6r,bJFnYpTt,3,1,,,,0
+664290000,Sheffield Wed,Charlton,fNIX23Pi,6FckE7BN,0,0,,,,0
+664290000,Port Vale,Portsmouth,6qsP6K6r,nkTKkN30,3,2,,,,0
+664290000,Plymouth,Bristol City,6qsP6K6r,OdaWmcNh,1,0,,,,0
+664290000,Oldham,Barnsley,fylJcjMq,WdTjExSq,2,0,,,,0
+664290000,Notts Co,Middlesbrough,xfnjL0bH,vcNAdtF9,3,2,,,,0
+664290000,Millwall,Newcastle,4UX5t7jk,ImMEe0UF,0,1,,,,0
+664290000,Bristol Rovers,Wolves,QqdgCtqL,CjV6Eptm,1,1,,,,0
+664290000,Brighton,Watford,b92lfEJC,QHkJrpz6,3,0,,,,0
+664290000,Blackburn,Ipswich,ImMEe0UF,jXzj6iAf,0,1,,,,0
+664549200,Charlton,Notts Co,6FckE7BN,xfnjL0bH,3,1,,,,0
+664894800,Leicester,Blackburn,UNZg5BP0,ImMEe0UF,1,3,,,,0
+664894800,Bristol Rovers,Bristol City,QqdgCtqL,OdaWmcNh,3,2,,,,0
+665499600,Wolves,West Ham,CjV6Eptm,Q9DJHs4l,2,1,,,,0
+665499600,Watford,Sheffield Wed,QHkJrpz6,fNIX23Pi,2,2,,,,0
+665499600,Portsmouth,Notts Co,nkTKkN30,xfnjL0bH,2,1,,,,0
+665499600,Oxford Utd,Oldham,6qsP6K6r,fylJcjMq,5,1,,,,0
+665499600,Newcastle,Port Vale,ImMEe0UF,6qsP6K6r,2,0,,,,0
+665499600,Middlesbrough,Swindon,vcNAdtF9,6qsP6K6r,2,0,,,,0
+665499600,Leicester,Plymouth,UNZg5BP0,6qsP6K6r,3,1,,,,0
+665499600,Ipswich,Millwall,jXzj6iAf,4UX5t7jk,0,3,,,,0
+665499600,Hull,Bristol Rovers,bJFnYpTt,QqdgCtqL,2,0,,,,0
+665499600,Charlton,Brighton,6FckE7BN,b92lfEJC,1,2,,,,0
+665499600,Bristol City,West Brom,OdaWmcNh,ImMEe0UF,2,0,,,,0
+666104400,Blackburn,Portsmouth,ImMEe0UF,nkTKkN30,1,1,,,,0
+666709200,Oxford Utd,Charlton,6qsP6K6r,6FckE7BN,1,1,,,,0
+666709200,Oldham,Port Vale,fylJcjMq,6qsP6K6r,2,0,,,,0
+666709200,Millwall,Plymouth,4UX5t7jk,6qsP6K6r,4,1,,,,0
+666709200,Hull,Bristol City,bJFnYpTt,OdaWmcNh,1,2,,,,0
+666709200,Bristol Rovers,Watford,QqdgCtqL,QHkJrpz6,3,1,,,,0
+666709200,Blackburn,West Brom,ImMEe0UF,ImMEe0UF,0,3,,,,0
+666968400,Swindon,Sheffield Wed,6qsP6K6r,fNIX23Pi,2,1,,,,0
+666968400,Middlesbrough,West Brom,vcNAdtF9,ImMEe0UF,3,2,,,,0
+667054800,Brighton,Leicester,b92lfEJC,UNZg5BP0,3,0,,,,0
+667314000,West Brom,Notts Co,ImMEe0UF,xfnjL0bH,2,2,,,,0
+667314000,Watford,Oldham,QHkJrpz6,fylJcjMq,1,1,,,,0
+667314000,Portsmouth,Swindon,nkTKkN30,6qsP6K6r,2,1,,,,0
+667314000,Port Vale,Bristol Rovers,6qsP6K6r,QqdgCtqL,3,2,,,,0
+667314000,Plymouth,Brighton,6qsP6K6r,b92lfEJC,2,0,,,,0
+667314000,Newcastle,Wolves,ImMEe0UF,CjV6Eptm,0,0,,,,0
+667314000,Leicester,Barnsley,UNZg5BP0,WdTjExSq,2,1,,,,0
+667314000,Ipswich,Hull,jXzj6iAf,bJFnYpTt,2,0,,,,0
+667314000,Charlton,Middlesbrough,6FckE7BN,vcNAdtF9,0,1,,,,0
+667314000,Bristol City,Oxford Utd,OdaWmcNh,6qsP6K6r,3,1,,,,0
+667400400,West Ham,Millwall,Q9DJHs4l,4UX5t7jk,3,1,,,,0
+667573200,Wolves,Port Vale,CjV6Eptm,6qsP6K6r,3,1,,,,0
+667573200,Middlesbrough,Portsmouth,vcNAdtF9,nkTKkN30,1,2,,,,0
+667573200,Barnsley,Bristol Rovers,WdTjExSq,QqdgCtqL,1,0,,,,0
+667659600,Oxford Utd,Millwall,6qsP6K6r,4UX5t7jk,0,0,,,,0
+667659600,Newcastle,Brighton,ImMEe0UF,b92lfEJC,0,0,,,,0
+667918800,West Brom,West Ham,ImMEe0UF,Q9DJHs4l,0,0,,,,0
+667918800,Plymouth,Port Vale,6qsP6K6r,6qsP6K6r,2,0,,,,0
+667918800,Oxford Utd,Portsmouth,6qsP6K6r,nkTKkN30,1,0,,,,0
+667918800,Notts Co,Sheffield Wed,xfnjL0bH,fNIX23Pi,0,2,,,,0
+667918800,Newcastle,Leicester,ImMEe0UF,UNZg5BP0,2,1,,,,0
+667918800,Ipswich,Wolves,jXzj6iAf,CjV6Eptm,0,0,,,,0
+667918800,Hull,Middlesbrough,bJFnYpTt,vcNAdtF9,0,0,,,,0
+667918800,Charlton,Bristol City,6FckE7BN,OdaWmcNh,2,1,,,,0
+667918800,Bristol Rovers,Millwall,QqdgCtqL,4UX5t7jk,1,0,,,,0
+667918800,Brighton,Oldham,b92lfEJC,fylJcjMq,1,2,,,,0
+667918800,Blackburn,Swindon,ImMEe0UF,6qsP6K6r,2,1,,,,0
+667918800,Barnsley,Watford,WdTjExSq,QHkJrpz6,2,1,,,,0
+668178000,Wolves,Leicester,CjV6Eptm,UNZg5BP0,2,1,,,,0
+668178000,West Ham,Plymouth,Q9DJHs4l,6qsP6K6r,2,2,,,,0
+668178000,Swindon,Oxford Utd,6qsP6K6r,6qsP6K6r,0,0,,,,0
+668178000,Bristol City,Bristol Rovers,OdaWmcNh,QqdgCtqL,1,0,,,,0
+668523600,Wolves,Barnsley,CjV6Eptm,WdTjExSq,0,5,,,,0
+668523600,Watford,Newcastle,QHkJrpz6,ImMEe0UF,1,2,,,,0
+668523600,Sheffield Wed,West Brom,fNIX23Pi,ImMEe0UF,1,0,,,,0
+668523600,Portsmouth,Charlton,nkTKkN30,6FckE7BN,0,1,,,,0
+668523600,Port Vale,Blackburn,6qsP6K6r,ImMEe0UF,3,0,,,,0
+668523600,Oldham,Bristol Rovers,fylJcjMq,QqdgCtqL,2,0,,,,0
+668523600,Millwall,Brighton,4UX5t7jk,b92lfEJC,3,0,,,,0
+668523600,Middlesbrough,Oxford Utd,vcNAdtF9,6qsP6K6r,0,0,,,,0
+668523600,Leicester,Hull,UNZg5BP0,bJFnYpTt,0,1,,,,0
+668523600,Bristol City,Ipswich,OdaWmcNh,jXzj6iAf,4,2,,,,0
+668782800,Swindon,Oldham,6qsP6K6r,fylJcjMq,2,2,,,,0
+668782800,Portsmouth,Millwall,nkTKkN30,4UX5t7jk,0,0,,,,0
+668782800,Notts Co,Port Vale,xfnjL0bH,6qsP6K6r,1,1,,,,0
+668782800,Middlesbrough,Newcastle,vcNAdtF9,ImMEe0UF,3,0,,,,0
+668782800,Hull,Watford,bJFnYpTt,QHkJrpz6,1,1,,,,0
+668782800,Charlton,Wolves,6FckE7BN,CjV6Eptm,1,0,,,,0
+668782800,Bristol City,Leicester,OdaWmcNh,UNZg5BP0,1,0,,,,0
+668782800,Blackburn,Bristol Rovers,ImMEe0UF,QqdgCtqL,2,2,,,,0
+668869200,West Brom,Plymouth,ImMEe0UF,6qsP6K6r,1,2,,,,0
+668869200,Sheffield Wed,Brighton,fNIX23Pi,b92lfEJC,1,1,,,,0
+668869200,Oxford Utd,West Ham,6qsP6K6r,Q9DJHs4l,2,1,,,,0
+669128400,Wolves,Oxford Utd,CjV6Eptm,6qsP6K6r,3,3,,,,0
+669128400,West Ham,Sheffield Wed,Q9DJHs4l,fNIX23Pi,1,3,,,,0
+669128400,Watford,Ipswich,QHkJrpz6,jXzj6iAf,1,1,,,,0
+669128400,Port Vale,Hull,6qsP6K6r,bJFnYpTt,0,0,,,,0
+669128400,Plymouth,Portsmouth,6qsP6K6r,nkTKkN30,1,1,,,,0
+669128400,Oldham,West Brom,fylJcjMq,ImMEe0UF,2,1,,,,0
+669128400,Newcastle,Bristol City,ImMEe0UF,OdaWmcNh,0,0,,,,0
+669128400,Millwall,Swindon,4UX5t7jk,6qsP6K6r,1,0,,,,0
+669128400,Leicester,Middlesbrough,UNZg5BP0,vcNAdtF9,4,3,,,,0
+669128400,Bristol Rovers,Notts Co,QqdgCtqL,xfnjL0bH,1,1,,,,0
+669128400,Brighton,Blackburn,b92lfEJC,ImMEe0UF,1,0,,,,0
+669128400,Barnsley,Charlton,WdTjExSq,6FckE7BN,1,1,,,,0
+669301200,Port Vale,Ipswich,6qsP6K6r,jXzj6iAf,1,2,,,,0
+669387600,Wolves,Notts Co,CjV6Eptm,xfnjL0bH,0,2,,,,0
+669387600,Watford,Blackburn,QHkJrpz6,ImMEe0UF,0,3,,,,0
+669387600,Plymouth,Sheffield Wed,6qsP6K6r,fNIX23Pi,1,1,,,,0
+669387600,Barnsley,Portsmouth,WdTjExSq,nkTKkN30,4,0,,,,0
+669474000,West Ham,Bristol City,Q9DJHs4l,OdaWmcNh,1,0,,,,0
+669474000,Oldham,Hull,fylJcjMq,bJFnYpTt,1,2,,,,0
+669474000,Millwall,Middlesbrough,4UX5t7jk,vcNAdtF9,2,2,,,,0
+669474000,Leicester,Charlton,UNZg5BP0,6FckE7BN,1,2,,,,0
+669474000,Bristol Rovers,Swindon,QqdgCtqL,6qsP6K6r,2,1,,,,0
+669474000,Brighton,West Brom,b92lfEJC,ImMEe0UF,2,0,,,,0
+669646800,Ipswich,Plymouth,jXzj6iAf,6qsP6K6r,3,1,,,,0
+669733200,West Brom,Millwall,ImMEe0UF,4UX5t7jk,0,1,,,,0
+669733200,Swindon,Brighton,6qsP6K6r,b92lfEJC,1,3,,,,0
+669733200,Sheffield Wed,Bristol Rovers,fNIX23Pi,QqdgCtqL,2,1,,,,0
+669733200,Portsmouth,Newcastle,nkTKkN30,ImMEe0UF,0,1,,,,0
+669733200,Oxford Utd,Barnsley,6qsP6K6r,WdTjExSq,2,0,,,,0
+669733200,Notts Co,Leicester,xfnjL0bH,UNZg5BP0,0,2,,,,0
+669733200,Middlesbrough,Watford,vcNAdtF9,QHkJrpz6,1,2,,,,0
+669733200,Hull,West Ham,bJFnYpTt,Q9DJHs4l,0,0,,,,0
+669733200,Charlton,Port Vale,6FckE7BN,6qsP6K6r,0,1,,,,0
+669733200,Bristol City,Wolves,OdaWmcNh,CjV6Eptm,1,1,,,,0
+669733200,Blackburn,Oldham,ImMEe0UF,fylJcjMq,2,0,,,,0
+670251600,Oldham,West Ham,fylJcjMq,Q9DJHs4l,1,1,,,,0
+670338000,Wolves,Sheffield Wed,CjV6Eptm,fNIX23Pi,3,2,,,,0
+670338000,Swindon,Newcastle,6qsP6K6r,ImMEe0UF,3,2,,,,0
+670338000,Portsmouth,Bristol City,nkTKkN30,OdaWmcNh,4,1,,,,0
+670338000,Port Vale,Watford,6qsP6K6r,QHkJrpz6,0,0,,,,0
+670338000,Oxford Utd,Hull,6qsP6K6r,bJFnYpTt,1,0,,,,0
+670338000,Notts Co,Blackburn,xfnjL0bH,ImMEe0UF,4,1,,,,0
+670338000,Middlesbrough,Ipswich,vcNAdtF9,jXzj6iAf,1,1,,,,0
+670338000,Leicester,Millwall,UNZg5BP0,4UX5t7jk,1,2,,,,0
+670338000,Charlton,West Brom,6FckE7BN,ImMEe0UF,2,0,,,,0
+670338000,Bristol Rovers,Brighton,QqdgCtqL,b92lfEJC,1,3,,,,0
+670338000,Barnsley,Plymouth,WdTjExSq,6qsP6K6r,1,0,,,,0
+670507200,West Ham,Barnsley,Q9DJHs4l,WdTjExSq,3,2,,,,0
+670507200,West Brom,Swindon,ImMEe0UF,6qsP6K6r,2,1,,,,0
+670507200,Watford,Leicester,QHkJrpz6,UNZg5BP0,1,0,,,,0
+670507200,Sheffield Wed,Oxford Utd,fNIX23Pi,6qsP6K6r,0,2,,,,0
+670507200,Plymouth,Oldham,6qsP6K6r,fylJcjMq,1,2,,,,0
+670507200,Newcastle,Bristol Rovers,ImMEe0UF,QqdgCtqL,0,2,,,,0
+670507200,Hull,Charlton,bJFnYpTt,6FckE7BN,2,2,,,,0
+670507200,Bristol City,Notts Co,OdaWmcNh,xfnjL0bH,3,2,,,,0
+670507200,Blackburn,Middlesbrough,ImMEe0UF,vcNAdtF9,1,0,,,,0
+670593600,Ipswich,Portsmouth,jXzj6iAf,nkTKkN30,2,2,,,,0
+670680000,Millwall,Wolves,4UX5t7jk,CjV6Eptm,2,1,,,,0
+670680000,Brighton,Port Vale,b92lfEJC,6qsP6K6r,1,2,,,,0
+670939200,Wolves,West Brom,CjV6Eptm,ImMEe0UF,2,2,,,,0
+670939200,Swindon,Watford,6qsP6K6r,QHkJrpz6,1,2,,,,0
+670939200,Portsmouth,Sheffield Wed,nkTKkN30,fNIX23Pi,2,0,,,,0
+670939200,Port Vale,West Ham,6qsP6K6r,Q9DJHs4l,0,1,,,,0
+670939200,Oxford Utd,Blackburn,6qsP6K6r,ImMEe0UF,0,0,,,,0
+670939200,Oldham,Millwall,fylJcjMq,4UX5t7jk,1,1,,,,0
+670939200,Notts Co,Newcastle,xfnjL0bH,ImMEe0UF,3,0,,,,0
+670939200,Middlesbrough,Bristol City,vcNAdtF9,OdaWmcNh,2,1,,,,0
+670939200,Leicester,Brighton,UNZg5BP0,b92lfEJC,3,0,,,,0
+670939200,Charlton,Ipswich,6FckE7BN,jXzj6iAf,1,1,,,,0
+670939200,Bristol Rovers,Plymouth,QqdgCtqL,6qsP6K6r,0,0,,,,0
+670939200,Barnsley,Hull,WdTjExSq,bJFnYpTt,3,1,,,,0
+671198400,Plymouth,Wolves,6qsP6K6r,CjV6Eptm,1,0,,,,0
+671198400,Middlesbrough,Port Vale,vcNAdtF9,6qsP6K6r,4,0,,,,0
+671198400,Barnsley,Notts Co,WdTjExSq,xfnjL0bH,1,0,,,,0
+671284800,West Brom,Hull,ImMEe0UF,bJFnYpTt,1,1,,,,0
+671284800,Sheffield Wed,Blackburn,fNIX23Pi,ImMEe0UF,3,1,,,,0
+671284800,Newcastle,Oxford Utd,ImMEe0UF,6qsP6K6r,2,2,,,,0
+671284800,Millwall,Charlton,4UX5t7jk,6FckE7BN,3,1,,,,0
+671284800,Leicester,Oldham,UNZg5BP0,fylJcjMq,0,0,,,,0
+671284800,Bristol Rovers,Ipswich,QqdgCtqL,jXzj6iAf,1,0,,,,0
+671284800,Brighton,West Ham,b92lfEJC,Q9DJHs4l,1,0,,,,0
+671544000,West Brom,Leicester,ImMEe0UF,UNZg5BP0,2,1,,,,0
+671544000,Watford,Wolves,QHkJrpz6,CjV6Eptm,3,1,,,,0
+671544000,Sheffield Wed,Middlesbrough,fNIX23Pi,vcNAdtF9,2,0,,,,0
+671544000,Plymouth,Swindon,6qsP6K6r,6qsP6K6r,3,3,,,,0
+671544000,Newcastle,Oldham,ImMEe0UF,fylJcjMq,3,2,,,,0
+671544000,Millwall,Port Vale,4UX5t7jk,6qsP6K6r,1,2,,,,0
+671544000,Ipswich,Oxford Utd,jXzj6iAf,6qsP6K6r,1,1,,,,0
+671544000,Hull,Portsmouth,bJFnYpTt,nkTKkN30,0,2,,,,0
+671544000,Bristol City,Barnsley,OdaWmcNh,WdTjExSq,1,0,,,,0
+671544000,Brighton,Notts Co,b92lfEJC,xfnjL0bH,0,0,,,,0
+671544000,Blackburn,Charlton,ImMEe0UF,6FckE7BN,2,2,,,,0
+671716800,Port Vale,Barnsley,6qsP6K6r,WdTjExSq,0,1,,,,0
+671803200,Wolves,Swindon,CjV6Eptm,6qsP6K6r,1,2,,,,0
+671803200,Portsmouth,Brighton,nkTKkN30,b92lfEJC,1,0,,,,0
+671803200,Notts Co,Watford,xfnjL0bH,QHkJrpz6,1,0,,,,0
+671803200,Hull,Millwall,bJFnYpTt,4UX5t7jk,1,1,,,,0
+671803200,Charlton,Oldham,6FckE7BN,fylJcjMq,1,1,,,,0
+671889600,Oxford Utd,Plymouth,6qsP6K6r,6qsP6K6r,0,0,,,,0
+671889600,Newcastle,Sheffield Wed,ImMEe0UF,fNIX23Pi,1,0,,,,0
+671889600,Ipswich,West Ham,jXzj6iAf,Q9DJHs4l,0,1,,,,0
+672148800,Wolves,Hull,CjV6Eptm,bJFnYpTt,0,0,,,,0
+672148800,West Ham,Swindon,Q9DJHs4l,6qsP6K6r,2,0,,,,0
+672148800,Watford,Charlton,QHkJrpz6,6FckE7BN,2,1,,,,0
+672148800,Plymouth,Blackburn,6qsP6K6r,ImMEe0UF,4,1,,,,0
+672148800,Oldham,Bristol City,fylJcjMq,OdaWmcNh,2,1,,,,0
+672148800,Newcastle,Ipswich,ImMEe0UF,jXzj6iAf,2,2,,,,0
+672148800,Millwall,Notts Co,4UX5t7jk,xfnjL0bH,1,2,,,,0
+672148800,Leicester,Portsmouth,UNZg5BP0,nkTKkN30,2,1,,,,0
+672148800,Bristol Rovers,Middlesbrough,QqdgCtqL,vcNAdtF9,2,0,,,,0
+672148800,Brighton,Oxford Utd,b92lfEJC,6qsP6K6r,0,3,,,,0
+672148800,Barnsley,West Brom,WdTjExSq,ImMEe0UF,1,1,,,,0
+672408000,Watford,West Brom,QHkJrpz6,ImMEe0UF,1,1,,,,0
+672408000,Swindon,Notts Co,6qsP6K6r,xfnjL0bH,1,2,,,,0
+672408000,Brighton,Bristol City,b92lfEJC,OdaWmcNh,0,1,,,,0
+672408000,Barnsley,Blackburn,WdTjExSq,ImMEe0UF,0,1,,,,0
+672494400,West Ham,Newcastle,Q9DJHs4l,ImMEe0UF,1,1,,,,0
+672494400,Sheffield Wed,Leicester,fNIX23Pi,UNZg5BP0,0,0,,,,0
+672580800,Ipswich,Barnsley,jXzj6iAf,WdTjExSq,2,0,,,,0
+672753600,West Brom,Port Vale,ImMEe0UF,6qsP6K6r,1,1,,,,0
+672753600,Swindon,Leicester,6qsP6K6r,UNZg5BP0,5,2,,,,0
+672753600,Sheffield Wed,Barnsley,fNIX23Pi,WdTjExSq,3,1,,,,0
+672753600,Portsmouth,Watford,nkTKkN30,QHkJrpz6,0,1,,,,0
+672753600,Oxford Utd,Bristol Rovers,6qsP6K6r,QqdgCtqL,3,1,,,,0
+672753600,Notts Co,Plymouth,xfnjL0bH,6qsP6K6r,4,0,,,,0
+672753600,Middlesbrough,Wolves,vcNAdtF9,CjV6Eptm,2,0,,,,0
+672753600,Ipswich,Oldham,jXzj6iAf,fylJcjMq,1,2,,,,0
+672753600,Hull,Brighton,bJFnYpTt,b92lfEJC,0,1,,,,0
+672753600,Charlton,Newcastle,6FckE7BN,ImMEe0UF,1,0,,,,0
+672753600,Bristol City,Millwall,OdaWmcNh,4UX5t7jk,1,4,,,,0
+672753600,Blackburn,West Ham,ImMEe0UF,Q9DJHs4l,3,1,,,,0
+673358400,West Brom,Newcastle,ImMEe0UF,ImMEe0UF,1,1,,,,0
+673358400,Swindon,Barnsley,6qsP6K6r,WdTjExSq,1,2,,,,0
+673358400,Sheffield Wed,Millwall,fNIX23Pi,4UX5t7jk,2,1,,,,0
+673358400,Portsmouth,Bristol Rovers,nkTKkN30,QqdgCtqL,3,1,,,,0
+673358400,Oxford Utd,Watford,6qsP6K6r,QHkJrpz6,0,1,,,,0
+673358400,Notts Co,Oldham,xfnjL0bH,fylJcjMq,2,0,,,,0
+673358400,Middlesbrough,Brighton,vcNAdtF9,b92lfEJC,2,0,,,,0
+673358400,Ipswich,Leicester,jXzj6iAf,UNZg5BP0,3,2,,,,0
+673358400,Hull,Plymouth,bJFnYpTt,6qsP6K6r,2,0,,,,0
+673358400,Charlton,West Ham,6FckE7BN,Q9DJHs4l,1,1,,,,0
+673358400,Bristol City,Port Vale,OdaWmcNh,6qsP6K6r,1,1,,,,0
+673358400,Blackburn,Wolves,ImMEe0UF,CjV6Eptm,1,1,,,,0
+673531200,Port Vale,Sheffield Wed,6qsP6K6r,fNIX23Pi,1,1,,,,0
+673617600,Oldham,Middlesbrough,fylJcjMq,vcNAdtF9,2,0,,,,0
+673617600,Notts Co,Ipswich,xfnjL0bH,jXzj6iAf,3,1,,,,0
+673617600,Barnsley,Newcastle,WdTjExSq,ImMEe0UF,1,1,,,,0
+673704000,West Ham,Bristol Rovers,Q9DJHs4l,QqdgCtqL,1,0,,,,0
+673704000,Sheffield Wed,Bristol City,fNIX23Pi,OdaWmcNh,3,1,,,,0
+673963200,Wolves,Portsmouth,CjV6Eptm,nkTKkN30,3,1,,,,0
+673963200,West Ham,Notts Co,Q9DJHs4l,xfnjL0bH,1,2,,,,0
+673963200,Watford,Bristol City,QHkJrpz6,OdaWmcNh,2,3,,,,0
+673963200,Port Vale,Swindon,6qsP6K6r,6qsP6K6r,3,1,,,,0
+673963200,Plymouth,Charlton,6qsP6K6r,6FckE7BN,2,0,,,,0
+673963200,Oldham,Sheffield Wed,fylJcjMq,fNIX23Pi,3,2,,,,0
+673963200,Newcastle,Hull,ImMEe0UF,bJFnYpTt,1,2,,,,0
+673963200,Millwall,Blackburn,4UX5t7jk,ImMEe0UF,2,1,,,,0
+673963200,Leicester,Oxford Utd,UNZg5BP0,6qsP6K6r,1,0,,,,0
+673963200,Bristol Rovers,West Brom,QqdgCtqL,ImMEe0UF,1,1,,,,0
+673963200,Brighton,Ipswich,b92lfEJC,jXzj6iAf,2,1,,,,0
+673963200,Barnsley,Middlesbrough,WdTjExSq,vcNAdtF9,1,0,,,,0
+674650800,Middlesbrough,Notts Co,vcNAdtF9,xfnjL0bH,1,1,,,,0
+674650800,Brighton,Millwall,b92lfEJC,4UX5t7jk,4,1,,,,0
+674937900,Notts Co,Middlesbrough,xfnjL0bH,vcNAdtF9,1,0,,,,0
+674937900,Millwall,Brighton,4UX5t7jk,b92lfEJC,1,2,,,,0
+675871200,Brighton,Notts Co,b92lfEJC,xfnjL0bH,1,3,,,,0

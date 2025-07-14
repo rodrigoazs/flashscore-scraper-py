@@ -1,86 +1,86 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1575475200,Kamboi Eagles,Wilberforce Strikers,2,0,,,,0
-1575475200,FC Johansen,Mighty Blackpool,1,1,,,,0
-1575475200,Diamond Stars,Anti Drugs Strikers,0,0,,,,0
-1575475200,Bo Rangers,Freetown City,1,0,,,,0
-1575648000,RSLAF,East End Tigers,0,1,,,,0
-1575734400,East End Lions,Ports Authority,0,1,,,,0
-1575820800,Kallon,Old Edwardians,1,1,,,,0
-1576090800,Freetown City,Kamboi Eagles,0,1,,,,0
-1576350000,Wilberforce Strikers,Diamond Stars,0,0,,,,0
-1576350000,Anti Drugs Strikers,FC Johansen,0,0,,,,0
-1576427400,Bo Rangers,RSLAF,1,0,,,,0
-1576436400,Mighty Blackpool,East End Lions,1,1,,,,0
-1576695600,Ports Authority,Freetown City,0,0,,,,0
-1576868400,Old Edwardians,Wilberforce Strikers,2,1,,,,0
-1576954800,East End Tigers,Kallon,1,1,,,,0
-1577032200,Kamboi Eagles,Anti Drugs Strikers,1,0,,,,0
-1577032200,Diamond Stars,Mighty Blackpool,3,2,,,,0
-1577041200,FC Johansen,Bo Rangers,0,1,,,,0
-1577473200,East End Lions,Old Edwardians,1,0,,,,0
-1577550600,Bo Rangers,Kamboi Eagles,0,0,,,,0
-1577550600,Anti Drugs Strikers,East End Tigers,1,0,,,,0
-1577559600,Kallon,Ports Authority,1,0,,,,0
-1577646000,RSLAF,Diamond Stars,2,1,,,,0
-1577991600,Freetown City,FC Johansen,1,0,,,,0
-1578078000,Wilberforce Strikers,East End Lions,0,2,,,,0
-1578164400,Mighty Blackpool,Kallon,0,1,,,,0
-1578250800,Old Edwardians,RSLAF,2,0,,,,0
-1578510000,Ports Authority,Anti Drugs Strikers,1,0,,,,0
-1578596400,East End Tigers,Bo Rangers,2,1,,,,0
-1578682800,FC Johansen,Wilberforce Strikers,0,0,,,,0
-1578769200,East End Lions,Freetown City,1,0,,,,0
-1578844800,RSLAF,Ports Authority,0,3,,,,0
-1578846600,Kamboi Eagles,Mighty Blackpool,1,0,,,,0
-1578846600,Diamond Stars,Old Edwardians,2,0,,,,0
-1579114800,Kallon,FC Johansen,0,0,,,,0
-1579192200,Anti Drugs Strikers,East End Lions,1,0,,,,0
-1579201200,Wilberforce Strikers,East End Tigers,1,1,,,,0
-1579287600,Freetown City,Diamond Stars,1,1,,,,0
-1579374000,Mighty Blackpool,RSLAF,0,0,,,,0
-1579451400,Bo Rangers,Kallon,3,0,Awrd,,,0
-1579460400,Old Edwardians,Kamboi Eagles,0,1,,,,0
-1579719600,Ports Authority,Wilberforce Strikers,1,1,,,,0
-1579806000,East End Tigers,Freetown City,1,0,,,,0
-1579892400,FC Johansen,Old Edwardians,2,0,,,,0
-1579978800,East End Lions,Bo Rangers,1,0,,,,0
-1580056200,Diamond Stars,Ports Authority,1,1,,,,0
-1580065200,Kallon,Anti Drugs Strikers,1,1,,,,0
-1580324400,RSLAF,FC Johansen,0,1,,,,0
-1580410800,Wilberforce Strikers,Mighty Blackpool,2,3,,,,0
-1580497200,Old Edwardians,East End Tigers,2,1,,,,0
-1580574600,Kamboi Eagles,East End Lions,1,0,,,,0
-1580574600,Bo Rangers,Diamond Stars,2,1,,,,0
-1580574600,Anti Drugs Strikers,RSLAF,1,2,,,,0
-1580583600,Freetown City,Kallon,0,1,,,,0
-1580929200,FC Johansen,Kamboi Eagles,1,0,,,,0
-1581015600,Mighty Blackpool,Freetown City,0,0,,,,0
-1581102000,East End Tigers,Ports Authority,1,0,,,,0
-1581188400,Kallon,Wilberforce Strikers,4,0,,,,0
-1581274800,East End Lions,FC Johansen,0,0,,,,0
-1581534000,Old Edwardians,Anti Drugs Strikers,2,0,,,,0
-1581620400,RSLAF,Kallon,0,0,,,,0
-1581784200,Kamboi Eagles,East End Tigers,0,1,,,,0
-1581793200,Wilberforce Strikers,Bo Rangers,1,1,,,,0
-1581870600,Diamond Stars,East End Lions,1,2,,,,0
-1581879600,Freetown City,RSLAF,0,0,,,,0
-1582129800,Anti Drugs Strikers,Bo Rangers,0,0,,,,0
-1582138800,East End Tigers,Mighty Blackpool,3,0,,,,0
-1582389000,Kamboi Eagles,Diamond Stars,2,2,,,,0
-1582398000,East End Lions,East End Tigers,1,0,,,,0
-1582484400,Mighty Blackpool,Old Edwardians,0,1,,,,0
-1582743600,Kallon,Kamboi Eagles,2,0,,,,0
-1582830000,Ports Authority,Mighty Blackpool,2,1,,,,0
-1582916400,Old Edwardians,Bo Rangers,0,0,,,,0
-1582916400,RSLAF,Wilberforce Strikers,1,0,,,,0
-1583089200,Ports Authority,Kamboi Eagles,1,2,,,,0
-1583339400,Diamond Stars,Kallon,1,0,,,,0
-1583348400,Wilberforce Strikers,Anti Drugs Strikers,3,0,,,,0
-1583348400,FC Johansen,Ports Authority,2,4,,,,0
-1583434800,Old Edwardians,Freetown City,2,0,,,,0
-1583685000,Diamond Stars,FC Johansen,2,0,,,,0
-1583685000,Bo Rangers,Ports Authority,2,1,,,,0
-1583953200,East End Tigers,Diamond Stars,0,2,,,,0
-1584203400,Bo Rangers,Mighty Blackpool,1,1,,,,0
-1584203400,Anti Drugs Strikers,Freetown City,2,0,,,,0
-1584289800,Kamboi Eagles,RSLAF,2,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1575475200,Kamboi Eagles,Wilberforce Strikers,pMvGnnvD,OU016yOB,2,0,,,,0
+1575475200,FC Johansen,Mighty Blackpool,0KDsjoqj,Objh60A5,1,1,,,,0
+1575475200,Diamond Stars,Anti Drugs Strikers,EVwfgUro,EqcBTBE3,0,0,,,,0
+1575475200,Bo Rangers,Freetown City,6PrTKYmt,QyCsDYqT,1,0,,,,0
+1575648000,RSLAF,East End Tigers,pMvGnnvD,tWhBd7Gn,0,1,,,,0
+1575734400,East End Lions,Ports Authority,xbGepqlg,pMvGnnvD,0,1,,,,0
+1575820800,Kallon,Old Edwardians,IciwOSVc,fTulyhCs,1,1,,,,0
+1576090800,Freetown City,Kamboi Eagles,QyCsDYqT,pMvGnnvD,0,1,,,,0
+1576350000,Wilberforce Strikers,Diamond Stars,OU016yOB,EVwfgUro,0,0,,,,0
+1576350000,Anti Drugs Strikers,FC Johansen,EqcBTBE3,0KDsjoqj,0,0,,,,0
+1576427400,Bo Rangers,RSLAF,6PrTKYmt,pMvGnnvD,1,0,,,,0
+1576436400,Mighty Blackpool,East End Lions,Objh60A5,xbGepqlg,1,1,,,,0
+1576695600,Ports Authority,Freetown City,pMvGnnvD,QyCsDYqT,0,0,,,,0
+1576868400,Old Edwardians,Wilberforce Strikers,fTulyhCs,OU016yOB,2,1,,,,0
+1576954800,East End Tigers,Kallon,tWhBd7Gn,IciwOSVc,1,1,,,,0
+1577032200,Kamboi Eagles,Anti Drugs Strikers,pMvGnnvD,EqcBTBE3,1,0,,,,0
+1577032200,Diamond Stars,Mighty Blackpool,EVwfgUro,Objh60A5,3,2,,,,0
+1577041200,FC Johansen,Bo Rangers,0KDsjoqj,6PrTKYmt,0,1,,,,0
+1577473200,East End Lions,Old Edwardians,xbGepqlg,fTulyhCs,1,0,,,,0
+1577550600,Bo Rangers,Kamboi Eagles,6PrTKYmt,pMvGnnvD,0,0,,,,0
+1577550600,Anti Drugs Strikers,East End Tigers,EqcBTBE3,tWhBd7Gn,1,0,,,,0
+1577559600,Kallon,Ports Authority,IciwOSVc,pMvGnnvD,1,0,,,,0
+1577646000,RSLAF,Diamond Stars,pMvGnnvD,EVwfgUro,2,1,,,,0
+1577991600,Freetown City,FC Johansen,QyCsDYqT,0KDsjoqj,1,0,,,,0
+1578078000,Wilberforce Strikers,East End Lions,OU016yOB,xbGepqlg,0,2,,,,0
+1578164400,Mighty Blackpool,Kallon,Objh60A5,IciwOSVc,0,1,,,,0
+1578250800,Old Edwardians,RSLAF,fTulyhCs,pMvGnnvD,2,0,,,,0
+1578510000,Ports Authority,Anti Drugs Strikers,pMvGnnvD,EqcBTBE3,1,0,,,,0
+1578596400,East End Tigers,Bo Rangers,tWhBd7Gn,6PrTKYmt,2,1,,,,0
+1578682800,FC Johansen,Wilberforce Strikers,0KDsjoqj,OU016yOB,0,0,,,,0
+1578769200,East End Lions,Freetown City,xbGepqlg,QyCsDYqT,1,0,,,,0
+1578844800,RSLAF,Ports Authority,pMvGnnvD,pMvGnnvD,0,3,,,,0
+1578846600,Kamboi Eagles,Mighty Blackpool,pMvGnnvD,Objh60A5,1,0,,,,0
+1578846600,Diamond Stars,Old Edwardians,EVwfgUro,fTulyhCs,2,0,,,,0
+1579114800,Kallon,FC Johansen,IciwOSVc,0KDsjoqj,0,0,,,,0
+1579192200,Anti Drugs Strikers,East End Lions,EqcBTBE3,xbGepqlg,1,0,,,,0
+1579201200,Wilberforce Strikers,East End Tigers,OU016yOB,tWhBd7Gn,1,1,,,,0
+1579287600,Freetown City,Diamond Stars,QyCsDYqT,EVwfgUro,1,1,,,,0
+1579374000,Mighty Blackpool,RSLAF,Objh60A5,pMvGnnvD,0,0,,,,0
+1579451400,Bo Rangers,Kallon,6PrTKYmt,IciwOSVc,3,0,Awrd,,,0
+1579460400,Old Edwardians,Kamboi Eagles,fTulyhCs,pMvGnnvD,0,1,,,,0
+1579719600,Ports Authority,Wilberforce Strikers,pMvGnnvD,OU016yOB,1,1,,,,0
+1579806000,East End Tigers,Freetown City,tWhBd7Gn,QyCsDYqT,1,0,,,,0
+1579892400,FC Johansen,Old Edwardians,0KDsjoqj,fTulyhCs,2,0,,,,0
+1579978800,East End Lions,Bo Rangers,xbGepqlg,6PrTKYmt,1,0,,,,0
+1580056200,Diamond Stars,Ports Authority,EVwfgUro,pMvGnnvD,1,1,,,,0
+1580065200,Kallon,Anti Drugs Strikers,IciwOSVc,EqcBTBE3,1,1,,,,0
+1580324400,RSLAF,FC Johansen,pMvGnnvD,0KDsjoqj,0,1,,,,0
+1580410800,Wilberforce Strikers,Mighty Blackpool,OU016yOB,Objh60A5,2,3,,,,0
+1580497200,Old Edwardians,East End Tigers,fTulyhCs,tWhBd7Gn,2,1,,,,0
+1580574600,Kamboi Eagles,East End Lions,pMvGnnvD,xbGepqlg,1,0,,,,0
+1580574600,Bo Rangers,Diamond Stars,6PrTKYmt,EVwfgUro,2,1,,,,0
+1580574600,Anti Drugs Strikers,RSLAF,EqcBTBE3,pMvGnnvD,1,2,,,,0
+1580583600,Freetown City,Kallon,QyCsDYqT,IciwOSVc,0,1,,,,0
+1580929200,FC Johansen,Kamboi Eagles,0KDsjoqj,pMvGnnvD,1,0,,,,0
+1581015600,Mighty Blackpool,Freetown City,Objh60A5,QyCsDYqT,0,0,,,,0
+1581102000,East End Tigers,Ports Authority,tWhBd7Gn,pMvGnnvD,1,0,,,,0
+1581188400,Kallon,Wilberforce Strikers,IciwOSVc,OU016yOB,4,0,,,,0
+1581274800,East End Lions,FC Johansen,xbGepqlg,0KDsjoqj,0,0,,,,0
+1581534000,Old Edwardians,Anti Drugs Strikers,fTulyhCs,EqcBTBE3,2,0,,,,0
+1581620400,RSLAF,Kallon,pMvGnnvD,IciwOSVc,0,0,,,,0
+1581784200,Kamboi Eagles,East End Tigers,pMvGnnvD,tWhBd7Gn,0,1,,,,0
+1581793200,Wilberforce Strikers,Bo Rangers,OU016yOB,6PrTKYmt,1,1,,,,0
+1581870600,Diamond Stars,East End Lions,EVwfgUro,xbGepqlg,1,2,,,,0
+1581879600,Freetown City,RSLAF,QyCsDYqT,pMvGnnvD,0,0,,,,0
+1582129800,Anti Drugs Strikers,Bo Rangers,EqcBTBE3,6PrTKYmt,0,0,,,,0
+1582138800,East End Tigers,Mighty Blackpool,tWhBd7Gn,Objh60A5,3,0,,,,0
+1582389000,Kamboi Eagles,Diamond Stars,pMvGnnvD,EVwfgUro,2,2,,,,0
+1582398000,East End Lions,East End Tigers,xbGepqlg,tWhBd7Gn,1,0,,,,0
+1582484400,Mighty Blackpool,Old Edwardians,Objh60A5,fTulyhCs,0,1,,,,0
+1582743600,Kallon,Kamboi Eagles,IciwOSVc,pMvGnnvD,2,0,,,,0
+1582830000,Ports Authority,Mighty Blackpool,pMvGnnvD,Objh60A5,2,1,,,,0
+1582916400,Old Edwardians,Bo Rangers,fTulyhCs,6PrTKYmt,0,0,,,,0
+1582916400,RSLAF,Wilberforce Strikers,pMvGnnvD,OU016yOB,1,0,,,,0
+1583089200,Ports Authority,Kamboi Eagles,pMvGnnvD,pMvGnnvD,1,2,,,,0
+1583339400,Diamond Stars,Kallon,EVwfgUro,IciwOSVc,1,0,,,,0
+1583348400,Wilberforce Strikers,Anti Drugs Strikers,OU016yOB,EqcBTBE3,3,0,,,,0
+1583348400,FC Johansen,Ports Authority,0KDsjoqj,pMvGnnvD,2,4,,,,0
+1583434800,Old Edwardians,Freetown City,fTulyhCs,QyCsDYqT,2,0,,,,0
+1583685000,Diamond Stars,FC Johansen,EVwfgUro,0KDsjoqj,2,0,,,,0
+1583685000,Bo Rangers,Ports Authority,6PrTKYmt,pMvGnnvD,2,1,,,,0
+1583953200,East End Tigers,Diamond Stars,tWhBd7Gn,EVwfgUro,0,2,,,,0
+1584203400,Bo Rangers,Mighty Blackpool,6PrTKYmt,Objh60A5,1,1,,,,0
+1584203400,Anti Drugs Strikers,Freetown City,EqcBTBE3,QyCsDYqT,2,0,,,,0
+1584289800,Kamboi Eagles,RSLAF,pMvGnnvD,pMvGnnvD,2,2,,,,0

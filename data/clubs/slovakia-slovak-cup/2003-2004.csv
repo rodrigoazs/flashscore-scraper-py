@@ -1,36 +1,36 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1061908200,FC Licartovce,Ruzomberok,2,0,,,,0
-1062453600,Turcianske Teplice,Lipany,3,0,,,,0
-1062453600,Senec B,Banik Prievidza,1,1,AET,1,2,0
-1062511200,Vranov,Banska Bystrica,0,5,,,,0
-1062511200,Senec,Druzstevnik Bac,2,1,,,,0
-1062511200,Rimavska Sobota,Kysucky Lieskovec,3,1,,,,0
-1062511200,Presov,Humenne,1,1,AET,2,1,0
-1062511200,Podbrezova,VSS Kosice,2,1,,,,0
-1062511200,Nitra,Dubnica,1,1,Pen,2,1,0
-1062511200,FK Ruzinov,Trencin,3,1,,,,0
-1062597600,Senica,Petrzalka,0,0,Pen,0,1,0
-1062597600,Sala,Slovan Bratislava,1,0,,,,0
-1062597600,Puchov B,I. Bratislava,0,2,,,,0
-1062597600,Dun. Streda,Trnava,0,6,,,,0
-1064926800,Senec,Trnava,0,2,,,,0
-1064926800,Rimavska Sobota,Nitra,4,1,,,,0
-1064926800,FC Licartovce,I. Bratislava,1,1,Pen,2,1,0
-1064934000,Banik Prievidza,Podbrezova,2,0,,,,0
-1065013200,Turcianske Teplice,Presov,2,1,,,,0
-1065013200,Sala,Puchov,2,0,,,,0
-1065013200,FK Ruzinov,Petrzalka,1,2,,,,0
-1065013200,Banska Bystrica,Zilina,1,1,Pen,1,2,0
-1066737600,Sala,Banik Prievidza,1,0,,,,0
-1066737600,FC Licartovce,Turcianske Teplice,4,2,,,,0
-1066824000,Rimavska Sobota,Petrzalka,1,0,,,,0
-1066838400,Zilina,Trnava,3,1,,,,0
-1067351400,Trnava,Zilina,3,0,,,,0
-1067351400,Banik Prievidza,Sala,0,0,,,,0
-1067432400,Turcianske Teplice,FC Licartovce,1,0,,,,0
-1067432400,Petrzalka,Rimavska Sobota,5,1,,,,0
-1081344600,Petrzalka,Sala,3,1,,,,0
-1081344600,FC Licartovce,Trnava,1,1,,,,0
-1082473200,Trnava,FC Licartovce,0,1,,,,0
-1082556000,Sala,Petrzalka,0,3,,,,0
-1084014000,Petrzalka,FC Licartovce,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1061908200,FC Licartovce,Ruzomberok,l0KGLnei,xGFNNID8,2,0,,,,0
+1062453600,Turcianske Teplice,Lipany,fcDVLdrL,G6ERMxTE,3,0,,,,0
+1062453600,Senec B,Banik Prievidza,,xCREkqC8,1,1,AET,1,2,0
+1062511200,Vranov,Banska Bystrica,6kAHAoI0,juego3yl,0,5,,,,0
+1062511200,Senec,Druzstevnik Bac,xGFNNID8,,2,1,,,,0
+1062511200,Rimavska Sobota,Kysucky Lieskovec,G6ERMxTE,AuAzqZTd,3,1,,,,0
+1062511200,Presov,Humenne,E3yWsMR6,G6ERMxTE,1,1,AET,2,1,0
+1062511200,Podbrezova,VSS Kosice,G6ERMxTE,AsRGXczr,2,1,,,,0
+1062511200,Nitra,Dubnica,G6ERMxTE,rX83zKRm,1,1,Pen,2,1,0
+1062511200,FK Ruzinov,Trencin,,pj0lIqgn,3,1,,,,0
+1062597600,Senica,Petrzalka,G6ERMxTE,xGFNNID8,0,0,Pen,0,1,0
+1062597600,Sala,Slovan Bratislava,E9YhAqDo,pEAU6ugI,1,0,,,,0
+1062597600,Puchov B,I. Bratislava,0zSGjCqd,MLIBKcrm,0,2,,,,0
+1062597600,Dun. Streda,Trnava,IoNBgY5L,M5OsNcYB,0,6,,,,0
+1064926800,Senec,Trnava,xGFNNID8,M5OsNcYB,0,2,,,,0
+1064926800,Rimavska Sobota,Nitra,G6ERMxTE,G6ERMxTE,4,1,,,,0
+1064926800,FC Licartovce,I. Bratislava,l0KGLnei,MLIBKcrm,1,1,Pen,2,1,0
+1064934000,Banik Prievidza,Podbrezova,xCREkqC8,G6ERMxTE,2,0,,,,0
+1065013200,Turcianske Teplice,Presov,fcDVLdrL,E3yWsMR6,2,1,,,,0
+1065013200,Sala,Puchov,E9YhAqDo,j7FwfQYj,2,0,,,,0
+1065013200,FK Ruzinov,Petrzalka,,xGFNNID8,1,2,,,,0
+1065013200,Banska Bystrica,Zilina,juego3yl,xGFNNID8,1,1,Pen,1,2,0
+1066737600,Sala,Banik Prievidza,E9YhAqDo,xCREkqC8,1,0,,,,0
+1066737600,FC Licartovce,Turcianske Teplice,l0KGLnei,fcDVLdrL,4,2,,,,0
+1066824000,Rimavska Sobota,Petrzalka,G6ERMxTE,xGFNNID8,1,0,,,,0
+1066838400,Zilina,Trnava,xGFNNID8,M5OsNcYB,3,1,,,,0
+1067351400,Trnava,Zilina,M5OsNcYB,xGFNNID8,3,0,,,,0
+1067351400,Banik Prievidza,Sala,xCREkqC8,E9YhAqDo,0,0,,,,0
+1067432400,Turcianske Teplice,FC Licartovce,fcDVLdrL,l0KGLnei,1,0,,,,0
+1067432400,Petrzalka,Rimavska Sobota,xGFNNID8,G6ERMxTE,5,1,,,,0
+1081344600,Petrzalka,Sala,xGFNNID8,E9YhAqDo,3,1,,,,0
+1081344600,FC Licartovce,Trnava,l0KGLnei,M5OsNcYB,1,1,,,,0
+1082473200,Trnava,FC Licartovce,M5OsNcYB,l0KGLnei,0,1,,,,0
+1082556000,Sala,Petrzalka,E9YhAqDo,xGFNNID8,0,3,,,,0
+1084014000,Petrzalka,FC Licartovce,xGFNNID8,l0KGLnei,2,0,,,,0

@@ -1,55 +1,55 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1156802400,Vodice,Segesta,2,3,,,,0
-1156802400,Bratstvo,Karlovac,0,1,,,,0
-1156888800,Zdralovi,Samobor,4,0,,,,0
-1156888800,Vukovar 1991,Rudar Labin,3,0,,,,0
-1156888800,Palovec,NK Dakovo,0,0,Pen,0,1,0
-1156888800,Oriolik,Hrvace,3,3,AET,3,4,0
-1156888800,Nova Ves,Grobnican,0,5,,,,0
-1156888800,Medulin,Jaska Vinogradar,2,3,,,,0
-1156888800,Medjimurje Cakovec,Pleternica,2,0,,,,0
-1156888800,Lucko,Podravina Ludbreg,1,1,AET,1,2,0
-1156888800,Krizevci,Slavonac CO,6,2,,,,0
-1156888800,Koprivnica,Metalac Osijek,1,1,AET,2,1,0
-1156888800,Konavljanin,Zagorec K.,4,0,,,,0
-1156888800,Granicar Zupanja,Croatia Sesvete,2,2,Pen,2,3,0
-1156888800,Dragovoljac,Novalja,1,3,,,,0
-1156888800,Bjelovar,Moslavina,3,2,,,,0
-1158588000,Zdralovi,Hajduk Split,0,3,,,,0
-1158674400,Bjelovar,Zapresic,0,3,,,,0
-1158760800,Vukovar 1991,NK Pomorac,2,1,,,,0
-1158760800,Segesta,Zadar,3,1,,,,0
-1158760800,Podravina Ludbreg,NK Kamen Ingrad,1,4,,,,0
-1158760800,Novalja,NK Zagreb,0,4,,,,0
-1158760800,NK Dakovo,Rijeka,1,2,,,,0
-1158760800,Krizevci,Osijek,2,5,,,,0
-1158760800,Koprivnica,Slaven Belupo,0,2,,,,0
-1158760800,Konavljanin,Varazdin,2,1,,,,0
-1158760800,Jaska Vinogradar,Dragovoljac,1,1,AET,1,2,0
-1158760800,Hrvace,Istra 1961,1,1,AET,2,1,0
-1158760800,Grobnican,D. Zagreb,0,2,,,,0
-1158760800,Croatia Sesvete,Belisce,2,2,AET,2,3,0
-1159912500,Karlovac,Cibalia,0,1,,,,0
-1160226000,Medjimurje Cakovec,Sibenik,1,4,,,,0
-1161694800,Slaven Belupo,Hrvace,4,2,,,,0
-1161694800,NK Zagreb,NK Kamen Ingrad,1,1,Pen,2,1,0
-1161694800,Cibalia,Vukovar 1991,0,0,AET,2,0,0
-1161698400,Hajduk Split,Belisce,2,2,AET,5,2,0
-1161705600,Zapresic,Osijek,3,1,,,,0
-1161781200,Konavljanin,Segesta,2,0,,,,0
-1161781200,Dragovoljac,Rijeka,0,0,Pen,0,1,0
-1161792000,D. Zagreb,Sibenik,3,0,,,,0
-1164114000,Cibalia,Hajduk Split,2,3,,,,0
-1164128400,Zapresic,D. Zagreb,1,2,,,,0
-1164200400,Slaven Belupo,NK Zagreb,6,0,,,,0
-1164207600,Rijeka,Konavljanin,3,1,,,,0
-1164717000,NK Zagreb,Slaven Belupo,2,3,,,,0
-1164733200,D. Zagreb,Zapresic,2,1,,,,0
-1164803400,Konavljanin,Rijeka,2,1,,,,0
-1165417200,Hajduk Split,Cibalia,3,2,,,,0
-1173888000,Rijeka,Slaven Belupo,0,0,,,,0
-1173899700,D. Zagreb,Hajduk Split,1,0,,,,0
-1175695200,Slaven Belupo,Rijeka,3,2,,,,0
-1175700600,Hajduk Split,D. Zagreb,2,2,,,,0
-1178734500,D. Zagreb,Slaven Belupo,1,0,,,,0
-1180203300,Slaven Belupo,D. Zagreb,1,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1156802400,Vodice,Segesta,t0OC8Kj9,nZALE08p,2,3,,,,0
+1156802400,Bratstvo,Karlovac,QRMNWfEb,WSBTfTaU,0,1,,,,0
+1156888800,Zdralovi,Samobor,OtNCFOTr,Q7vqi4KT,4,0,,,,0
+1156888800,Vukovar 1991,Rudar Labin,QmEhB75o,CbyhgEC8,3,0,,,,0
+1156888800,Palovec,NK Dakovo,QRMNWfEb,QRMNWfEb,0,0,Pen,0,1,0
+1156888800,Oriolik,Hrvace,CniMfo1o,UuHPElL9,3,3,AET,3,4,0
+1156888800,Nova Ves,Grobnican,QRMNWfEb,UD6R4K5p,0,5,,,,0
+1156888800,Medulin,Jaska Vinogradar,nyOJXzah,08mOQ28q,2,3,,,,0
+1156888800,Medjimurje Cakovec,Pleternica,rkMd9kXu,Qw9dXBlR,2,0,,,,0
+1156888800,Lucko,Podravina Ludbreg,bDYl55Qg,h8VEDg3a,1,1,AET,1,2,0
+1156888800,Krizevci,Slavonac CO,CWpLFamH,2D1RfUkl,6,2,,,,0
+1156888800,Koprivnica,Metalac Osijek,hIpnkcid,ADPFYGqn,1,1,AET,2,1,0
+1156888800,Konavljanin,Zagorec K.,dSvEVQkJ,I7IhpUKs,4,0,,,,0
+1156888800,Granicar Zupanja,Croatia Sesvete,CUo8A66t,CUo8A66t,2,2,Pen,2,3,0
+1156888800,Dragovoljac,Novalja,r9KVUYrB,MmBIllYB,1,3,,,,0
+1156888800,Bjelovar,Moslavina,UPhyZXn8,CUoHOOam,3,2,,,,0
+1158588000,Zdralovi,Hajduk Split,OtNCFOTr,Mc6FcsjL,0,3,,,,0
+1158674400,Bjelovar,Zapresic,UPhyZXn8,fuSaShZI,0,3,,,,0
+1158760800,Vukovar 1991,NK Pomorac,QmEhB75o,OYlPxDI8,2,1,,,,0
+1158760800,Segesta,Zadar,nZALE08p,EBDRDbzn,3,1,,,,0
+1158760800,Podravina Ludbreg,NK Kamen Ingrad,h8VEDg3a,dW800F74,1,4,,,,0
+1158760800,Novalja,NK Zagreb,MmBIllYB,dGpvXbgG,0,4,,,,0
+1158760800,NK Dakovo,Rijeka,QRMNWfEb,YDFGOnMF,1,2,,,,0
+1158760800,Krizevci,Osijek,CWpLFamH,x4Xh4Pu0,2,5,,,,0
+1158760800,Koprivnica,Slaven Belupo,hIpnkcid,xluSzFWQ,0,2,,,,0
+1158760800,Konavljanin,Varazdin,dSvEVQkJ,CCW2Z0Rb,2,1,,,,0
+1158760800,Jaska Vinogradar,Dragovoljac,08mOQ28q,r9KVUYrB,1,1,AET,1,2,0
+1158760800,Hrvace,Istra 1961,UuHPElL9,S0dWTsz4,1,1,AET,2,1,0
+1158760800,Grobnican,D. Zagreb,UD6R4K5p,GU4hlIMk,0,2,,,,0
+1158760800,Croatia Sesvete,Belisce,CUo8A66t,ER5SBYaU,2,2,AET,2,3,0
+1159912500,Karlovac,Cibalia,WSBTfTaU,x4Xh4Pu0,0,1,,,,0
+1160226000,Medjimurje Cakovec,Sibenik,rkMd9kXu,YgThBW79,1,4,,,,0
+1161694800,Slaven Belupo,Hrvace,xluSzFWQ,UuHPElL9,4,2,,,,0
+1161694800,NK Zagreb,NK Kamen Ingrad,dGpvXbgG,dW800F74,1,1,Pen,2,1,0
+1161694800,Cibalia,Vukovar 1991,x4Xh4Pu0,QmEhB75o,0,0,AET,2,0,0
+1161698400,Hajduk Split,Belisce,Mc6FcsjL,ER5SBYaU,2,2,AET,5,2,0
+1161705600,Zapresic,Osijek,fuSaShZI,x4Xh4Pu0,3,1,,,,0
+1161781200,Konavljanin,Segesta,dSvEVQkJ,nZALE08p,2,0,,,,0
+1161781200,Dragovoljac,Rijeka,r9KVUYrB,YDFGOnMF,0,0,Pen,0,1,0
+1161792000,D. Zagreb,Sibenik,GU4hlIMk,YgThBW79,3,0,,,,0
+1164114000,Cibalia,Hajduk Split,x4Xh4Pu0,Mc6FcsjL,2,3,,,,0
+1164128400,Zapresic,D. Zagreb,fuSaShZI,GU4hlIMk,1,2,,,,0
+1164200400,Slaven Belupo,NK Zagreb,xluSzFWQ,dGpvXbgG,6,0,,,,0
+1164207600,Rijeka,Konavljanin,YDFGOnMF,dSvEVQkJ,3,1,,,,0
+1164717000,NK Zagreb,Slaven Belupo,dGpvXbgG,xluSzFWQ,2,3,,,,0
+1164733200,D. Zagreb,Zapresic,GU4hlIMk,fuSaShZI,2,1,,,,0
+1164803400,Konavljanin,Rijeka,dSvEVQkJ,YDFGOnMF,2,1,,,,0
+1165417200,Hajduk Split,Cibalia,Mc6FcsjL,x4Xh4Pu0,3,2,,,,0
+1173888000,Rijeka,Slaven Belupo,YDFGOnMF,xluSzFWQ,0,0,,,,0
+1173899700,D. Zagreb,Hajduk Split,GU4hlIMk,Mc6FcsjL,1,0,,,,0
+1175695200,Slaven Belupo,Rijeka,xluSzFWQ,YDFGOnMF,3,2,,,,0
+1175700600,Hajduk Split,D. Zagreb,Mc6FcsjL,GU4hlIMk,2,2,,,,0
+1178734500,D. Zagreb,Slaven Belupo,GU4hlIMk,xluSzFWQ,1,0,,,,0
+1180203300,Slaven Belupo,D. Zagreb,xluSzFWQ,GU4hlIMk,1,1,,,,0

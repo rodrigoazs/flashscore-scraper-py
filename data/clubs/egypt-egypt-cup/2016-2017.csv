@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1482325200,Al Ittihad,Al-Sekka,3,1,,,,0
-1482408000,Petrojet,Pyramids,1,0,,,,0
-1482408000,Enppi,Fayoum,2,0,,,,0
-1482418800,Smouha,Marekh,3,2,,,,0
-1482429600,Al Ahly,Al Aluminium,6,0,,,,0
-1482496200,El Gaish,Kahrabaa Ismailia,2,1,,,,0
-1482496200,El Daklyeh,El Gouna,1,0,,,,0
-1482507000,Wadi Degla,Pharco,3,0,,,,0
-1482584400,Arab Contractors,Haras El Hodood,1,1,Pen,1,2,0
-1482667200,El Ismaily,Alrml,2,1,,,,0
-1482678000,Al Masry,Ghazl El Mahallah,1,1,AET,3,1,0
-1482688800,Misr Lel Makkasa,El-Shorta,2,1,,,,0
-1482688800,El-Entag El-Harby,ZED,3,1,,,,0
-1483358400,Tanta,Aswan SC,2,0,,,,0
-1483444800,El Sharqiya Zagazig,Nasr Taadeen,0,0,AET,1,0,0
-1486303200,Al Masry,El-Entag El-Harby,2,0,,,,0
-1486476000,El Sharqiya Zagazig,El Gaish,0,1,,,,0
-1486486800,Wadi Degla,Tanta,0,0,AET,1,0,0
-1486562400,Al Ittihad,Enppi,0,3,,,,0
-1486573200,Misr Lel Makkasa,Petrojet,3,0,,,,0
-1486656000,El Ismaily,Smouha,0,1,,,,0
-1487354400,Zamalek,El Olympi,2,0,,,,0
-1488214800,Haras El Hodood,Zamalek,0,1,,,,0
-1488387600,Al Ahly,El Daklyeh,2,1,,,,0
-1494702900,Al Masry,Enppi,1,1,Pen,2,1,0
-1499882400,Al Ahly,Wadi Degla,4,1,,,,0
-1499972400,El Gaish,Zamalek,0,3,,,,0
-1500400800,Misr Lel Makkasa,Smouha,0,0,AET,0,1,0
-1502215200,Al Masry,Zamalek,2,0,,,,0
-1502301600,Al Ahly,Smouha,4,0,,,,0
-1502820000,Al Ahly,Al Masry,0,0,AET,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1482325200,Al Ittihad,Al-Sekka,bgfz00t5,d8SflmrH,3,1,,,,0
+1482408000,Petrojet,Pyramids,QJAe2ryT,61CV5LkU,1,0,,,,0
+1482408000,Enppi,Fayoum,UXviHTBE,6k0NZmTN,2,0,,,,0
+1482418800,Smouha,Marekh,Y1Z3w2bI,AJxZzB1j,3,2,,,,0
+1482429600,Al Ahly,Al Aluminium,CWnyifXm,EgxTRtui,6,0,,,,0
+1482496200,El Gaish,Kahrabaa Ismailia,zcdwYkPa,rm9KhTI6,2,1,,,,0
+1482496200,El Daklyeh,El Gouna,l4Qdre7N,rFudGJm8,1,0,,,,0
+1482507000,Wadi Degla,Pharco,nDyPqWH0,dxOryHtQ,3,0,,,,0
+1482584400,Arab Contractors,Haras El Hodood,vJb36ZBF,WOiN3YjQ,1,1,Pen,1,2,0
+1482667200,El Ismaily,Alrml,hjU5IpqO,,2,1,,,,0
+1482678000,Al Masry,Ghazl El Mahallah,K8vlWhPS,AXTgaM87,1,1,AET,3,1,0
+1482688800,Misr Lel Makkasa,El-Shorta,vRYp4Iam,CAZaZe1D,2,1,,,,0
+1482688800,El-Entag El-Harby,ZED,jm1g2SD5,d8SflmrH,3,1,,,,0
+1483358400,Tanta,Aswan SC,UTpZ7Xnm,tIwwEvBL,2,0,,,,0
+1483444800,El Sharqiya Zagazig,Nasr Taadeen,0Gyb9L24,Oz6Pv2Mh,0,0,AET,1,0,0
+1486303200,Al Masry,El-Entag El-Harby,K8vlWhPS,jm1g2SD5,2,0,,,,0
+1486476000,El Sharqiya Zagazig,El Gaish,0Gyb9L24,zcdwYkPa,0,1,,,,0
+1486486800,Wadi Degla,Tanta,nDyPqWH0,UTpZ7Xnm,0,0,AET,1,0,0
+1486562400,Al Ittihad,Enppi,bgfz00t5,UXviHTBE,0,3,,,,0
+1486573200,Misr Lel Makkasa,Petrojet,vRYp4Iam,QJAe2ryT,3,0,,,,0
+1486656000,El Ismaily,Smouha,hjU5IpqO,Y1Z3w2bI,0,1,,,,0
+1487354400,Zamalek,El Olympi,EJgyrHTR,A11c6ICP,2,0,,,,0
+1488214800,Haras El Hodood,Zamalek,WOiN3YjQ,EJgyrHTR,0,1,,,,0
+1488387600,Al Ahly,El Daklyeh,CWnyifXm,l4Qdre7N,2,1,,,,0
+1494702900,Al Masry,Enppi,K8vlWhPS,UXviHTBE,1,1,Pen,2,1,0
+1499882400,Al Ahly,Wadi Degla,CWnyifXm,nDyPqWH0,4,1,,,,0
+1499972400,El Gaish,Zamalek,zcdwYkPa,EJgyrHTR,0,3,,,,0
+1500400800,Misr Lel Makkasa,Smouha,vRYp4Iam,Y1Z3w2bI,0,0,AET,0,1,0
+1502215200,Al Masry,Zamalek,K8vlWhPS,EJgyrHTR,2,0,,,,0
+1502301600,Al Ahly,Smouha,CWnyifXm,Y1Z3w2bI,4,0,,,,0
+1502820000,Al Ahly,Al Masry,CWnyifXm,K8vlWhPS,0,0,AET,2,1,0

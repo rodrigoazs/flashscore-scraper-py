@@ -1,39 +1,39 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1487797200,Racing des Gonaives,Inter Moengotapoe,2,2,,,,0
-1487804400,Greenbay Hoppers,Bequia United,2,1,,,,0
-1487970000,Bequia United,Racing des Gonaives,0,4,,,,0
-1487979000,Greenbay Hoppers,Inter Moengotapoe,0,2,,,,0
-1488142800,Bequia United,Inter Moengotapoe,1,4,,,,0
-1488151800,Greenbay Hoppers,Racing des Gonaives,0,2,,,,0
-1488402000,Police Force,Cibao,0,16,,,,0
-1488407400,Barcelona Atletico,Elite,4,0,,,,0
-1488411000,Don Bosco,Sainte-Rose,1,1,,,,0
-1488416400,Montego Bay,Grenades,2,3,,,,0
-1488578400,Cibao,Sainte-Rose,1,0,,,,0
-1488580200,Grenades,Barcelona Atletico,2,2,,,,0
-1488585600,Don Bosco,Police Force,11,0,,,,0
-1488589200,Montego Bay,Elite,5,0,,,,0
-1488751200,Sainte-Rose,Police Force,10,0,,,,0
-1488753000,Elite,Grenades,0,2,,,,0
-1488758400,Don Bosco,Cibao,1,1,,,,0
-1488762000,Montego Bay,Barcelona Atletico,2,2,,,,0
-1489006800,System 3,Moulien,0,4,,,,0
-1489008600,Flames United,San Juan Jabloteh,0,9,,,,0
-1489179600,San Juan Jabloteh,Moulien,4,1,,,,0
-1489188600,System 3,Flames United,9,2,,,,0
-1489352400,Moulien,Flames United,8,0,,,,0
-1489361400,System 3,San Juan Jabloteh,0,1,,,,0
-1489527000,Scholars,Portmore,0,2,,,,0
-1489536000,Puerto Rico,SV Transvaal,1,0,,,,0
-1489699800,SV Transvaal,Scholars,4,0,,,,0
-1489708800,Puerto Rico,Portmore,0,1,,,,0
-1489872600,Portmore,SV Transvaal,6,1,,,,0
-1489881600,Puerto Rico,Scholars,4,0,,,,0
-1494797400,San Juan Jabloteh,Racing des Gonaives,2,0,,,,0
-1494806400,Central FC,Grenades,3,1,,,,0
-1494970200,Portmore,Racing des Gonaives,1,0,,,,0
-1494979200,Cibao,Grenades,2,2,,,,0
-1495143000,San Juan Jabloteh,Portmore,2,2,,,,0
-1495152000,Central FC,Cibao,0,1,,,,0
-1495400400,Central FC,Portmore,2,2,Pen,2,3,0
-1495411200,Cibao,San Juan Jabloteh,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1487797200,Racing des Gonaives,Inter Moengotapoe,hE6BPRI3,fFpDb1SH,2,2,,,,0
+1487804400,Greenbay Hoppers,Bequia United,OCXDEDsS,SGrDXekH,2,1,,,,0
+1487970000,Bequia United,Racing des Gonaives,SGrDXekH,hE6BPRI3,0,4,,,,0
+1487979000,Greenbay Hoppers,Inter Moengotapoe,OCXDEDsS,fFpDb1SH,0,2,,,,0
+1488142800,Bequia United,Inter Moengotapoe,SGrDXekH,fFpDb1SH,1,4,,,,0
+1488151800,Greenbay Hoppers,Racing des Gonaives,OCXDEDsS,hE6BPRI3,0,2,,,,0
+1488402000,Police Force,Cibao,SGrDXekH,hvlWeuiI,0,16,,,,0
+1488407400,Barcelona Atletico,Elite,hvlWeuiI,SGrDXekH,4,0,,,,0
+1488411000,Don Bosco,Sainte-Rose,hYzo4N02,WOZl3sG8,1,1,,,,0
+1488416400,Montego Bay,Grenades,pj0hMIQ5,xOVfFoPE,2,3,,,,0
+1488578400,Cibao,Sainte-Rose,hvlWeuiI,WOZl3sG8,1,0,,,,0
+1488580200,Grenades,Barcelona Atletico,xOVfFoPE,hvlWeuiI,2,2,,,,0
+1488585600,Don Bosco,Police Force,hYzo4N02,SGrDXekH,11,0,,,,0
+1488589200,Montego Bay,Elite,pj0hMIQ5,SGrDXekH,5,0,,,,0
+1488751200,Sainte-Rose,Police Force,WOZl3sG8,SGrDXekH,10,0,,,,0
+1488753000,Elite,Grenades,SGrDXekH,xOVfFoPE,0,2,,,,0
+1488758400,Don Bosco,Cibao,hYzo4N02,hvlWeuiI,1,1,,,,0
+1488762000,Montego Bay,Barcelona Atletico,pj0hMIQ5,hvlWeuiI,2,2,,,,0
+1489006800,System 3,Moulien,A1J73Fw9,hYzo4N02,0,4,,,,0
+1489008600,Flames United,San Juan Jabloteh,pz8NakIU,fmULZ56k,0,9,,,,0
+1489179600,San Juan Jabloteh,Moulien,fmULZ56k,hYzo4N02,4,1,,,,0
+1489188600,System 3,Flames United,A1J73Fw9,pz8NakIU,9,2,,,,0
+1489352400,Moulien,Flames United,hYzo4N02,pz8NakIU,8,0,,,,0
+1489361400,System 3,San Juan Jabloteh,A1J73Fw9,fmULZ56k,0,1,,,,0
+1489527000,Scholars,Portmore,Ai2CyXSs,KCGGnOpC,0,2,,,,0
+1489536000,Puerto Rico,SV Transvaal,IJKf4CSg,fDcvd4XS,1,0,,,,0
+1489699800,SV Transvaal,Scholars,fDcvd4XS,Ai2CyXSs,4,0,,,,0
+1489708800,Puerto Rico,Portmore,IJKf4CSg,KCGGnOpC,0,1,,,,0
+1489872600,Portmore,SV Transvaal,KCGGnOpC,fDcvd4XS,6,1,,,,0
+1489881600,Puerto Rico,Scholars,IJKf4CSg,Ai2CyXSs,4,0,,,,0
+1494797400,San Juan Jabloteh,Racing des Gonaives,fmULZ56k,hE6BPRI3,2,0,,,,0
+1494806400,Central FC,Grenades,6stL8agi,xOVfFoPE,3,1,,,,0
+1494970200,Portmore,Racing des Gonaives,KCGGnOpC,hE6BPRI3,1,0,,,,0
+1494979200,Cibao,Grenades,hvlWeuiI,xOVfFoPE,2,2,,,,0
+1495143000,San Juan Jabloteh,Portmore,fmULZ56k,KCGGnOpC,2,2,,,,0
+1495152000,Central FC,Cibao,6stL8agi,hvlWeuiI,0,1,,,,0
+1495400400,Central FC,Portmore,6stL8agi,KCGGnOpC,2,2,Pen,2,3,0
+1495411200,Cibao,San Juan Jabloteh,hvlWeuiI,fmULZ56k,1,0,,,,0

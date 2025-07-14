@@ -1,133 +1,133 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1704025800,Jazeera,Badbaado,0,2,,,,0
-1706704200,Gaadiidka,Dekedda,1,1,,,,0
-1706790600,Midnimo,Raadsan,1,3,,,,0
-1706877000,Mogadishu City,Heegan,0,0,,,,0
-1706963400,Jeenyo,Sahafi,1,2,,,,0
-1707049800,Horseed,Elman,0,0,,,,0
-1707136200,Dekedda,Jazeera,0,0,,,,0
-1707222600,Badbaado,Raadsan,2,2,,,,0
-1707309000,Gaadiidka,Heegan,1,0,,,,0
-1707395400,Sahafi,Midnimo,1,2,,,,0
-1707481800,Mogadishu City,Elman,2,0,,,,0
-1707568200,Horseed,Jeenyo,2,0,,,,0
-1707654600,Jazeera,Raadsan,0,2,,,,0
-1707741000,Heegan,Dekedda,0,1,,,,0
-1707827400,Sahafi,Badbaado,1,0,,,,0
-1707913800,Elman,Gaadiidka,0,0,,,,0
-1708000200,Midnimo,Horseed,0,2,,,,0
-1708086600,Mogadishu City,Jeenyo,1,1,,,,0
-1708173000,Jazeera,Heegan,1,3,,,,0
-1708432200,Raadsan,Sahafi,4,2,,,,0
-1708518600,Dekedda,Elman,2,0,,,,0
-1708605000,Badbaado,Horseed,1,4,,,,0
-1708691400,Gaadiidka,Jeenyo,0,1,,,,0
-1708777800,Midnimo,Mogadishu City,1,1,,,,0
-1709037000,Sahafi,Jazeera,0,0,,,,0
-1709123400,Heegan,Elman,0,0,,,,0
-1709124300,Horseed,Raadsan,2,0,,,,0
-1709296200,Jeenyo,Dekedda,1,2,,,,0
-1709382600,Mogadishu City,Badbaado,4,1,,,,0
-1709469000,Gaadiidka,Midnimo,4,1,,,,0
-1713357000,Jazeera,Elman,1,3,,,,0
-1713443400,Sahafi,Horseed,1,0,,,,0
-1713529800,Heegan,Jeenyo,2,2,,,,0
-1713616200,Raadsan,Mogadishu City,1,3,,,,0
-1713702600,Dekedda,Midnimo,4,0,,,,0
-1713789000,Badbaado,Gaadiidka,1,3,,,,0
-1713875400,Horseed,Jazeera,3,1,,,,0
-1713961800,Elman,Jeenyo,5,2,,,,0
-1714048200,Mogadishu City,Sahafi,3,0,,,,0
-1714135500,Midnimo,Heegan,2,3,,,,0
-1714221000,Gaadiidka,Raadsan,0,2,,,,0
-1714307400,Dekedda,Badbaado,5,0,,,,0
-1714393800,Jeenyo,Jazeera,2,1,,,,0
-1714480200,Horseed,Mogadishu City,0,0,,,,0
-1714567500,Elman,Midnimo,2,1,,,,0
-1714653000,Sahafi,Gaadiidka,2,2,,,,0
-1714739400,Badbaado,Heegan,2,2,,,,0
-1714825800,Raadsan,Dekedda,1,5,,,,0
-1714912200,Jazeera,Mogadishu City,1,2,,,,0
-1714998600,Midnimo,Jeenyo,1,1,,,,0
-1715085000,Gaadiidka,Horseed,0,2,,,,0
-1715171400,Badbaado,Elman,1,2,,,,0
-1715257800,Sahafi,Dekedda,1,2,,,,0
-1715344200,Heegan,Raadsan,4,1,,,,0
-1715430600,Jazeera,Midnimo,4,1,,,,0
-1715517000,Mogadishu City,Gaadiidka,1,3,,,,0
-1715603400,Jeenyo,Badbaado,2,1,,,,0
-1715689800,Dekedda,Horseed,1,1,,,,0
-1715776200,Raadsan,Elman,0,0,,,,0
-1715862600,Heegan,Sahafi,4,1,,,,0
-1715949000,Gaadiidka,Jazeera,4,1,,,,0
-1716035400,Midnimo,Badbaado,1,2,,,,0
-1716121800,Dekedda,Mogadishu City,1,0,,,,0
-1716208200,Raadsan,Jeenyo,0,0,,,,0
-1716294600,Horseed,Heegan,1,1,,,,0
-1716381000,Elman,Sahafi,4,0,,,,0
-1717158600,Badbaado,Jazeera,3,3,,,,0
-1717245000,Dekedda,Gaadiidka,2,2,,,,0
-1717331400,Raadsan,Midnimo,0,3,,,,0
-1717417800,Heegan,Mogadishu City,1,2,,,,0
-1717504200,Sahafi,Jeenyo,1,2,,,,0
-1717590600,Elman,Horseed,0,2,,,,0
-1717677000,Jazeera,Dekedda,0,2,,,,0
-1717763400,Raadsan,Badbaado,1,1,,,,0
-1717849800,Heegan,Gaadiidka,2,0,,,,0
-1717936200,Midnimo,Sahafi,5,1,,,,0
-1718022600,Elman,Mogadishu City,1,1,,,,0
-1718109000,Jeenyo,Horseed,1,0,,,,0
-1718195400,Raadsan,Jazeera,2,1,,,,0
-1718281800,Dekedda,Heegan,2,0,,,,0
-1718368200,Badbaado,Sahafi,3,2,,,,0
-1718627400,Gaadiidka,Elman,0,1,,,,0
-1718713800,Horseed,Midnimo,4,1,,,,0
-1718800200,Jeenyo,Mogadishu City,0,4,,,,0
-1718886600,Heegan,Jazeera,1,3,,,,0
-1718973000,Sahafi,Raadsan,0,2,,,,0
-1719059400,Elman,Dekedda,1,1,,,,0
-1719145800,Horseed,Badbaado,1,0,,,,0
-1719232200,Jeenyo,Gaadiidka,0,3,,,,0
-1719318600,Mogadishu City,Midnimo,1,0,,,,0
-1719577800,Jazeera,Sahafi,5,1,,,,0
-1719664200,Elman,Heegan,1,0,,,,0
-1719750600,Raadsan,Horseed,1,4,,,,0
-1719750600,Badbaado,Mogadishu City,2,0,,,,0
-1719923400,Dekedda,Jeenyo,3,1,,,,0
-1720009800,Midnimo,Gaadiidka,2,5,,,,0
-1720009800,Elman,Jazeera,0,0,,,,0
-1720096200,Jeenyo,Heegan,0,0,,,,0
-1720096200,Horseed,Sahafi,2,1,,,,0
-1720182600,Mogadishu City,Raadsan,2,0,,,,0
-1720182600,Midnimo,Dekedda,0,0,,,,0
-1720269000,Gaadiidka,Badbaado,2,1,,,,0
-1720355400,Jazeera,Horseed,1,2,,,,0
-1720441800,Jeenyo,Elman,4,2,,,,0
-1720528200,Sahafi,Mogadishu City,0,5,,,,0
-1720614600,Heegan,Midnimo,3,2,,,,0
-1721478600,Raadsan,Gaadiidka,1,1,,,,0
-1721478600,Badbaado,Dekedda,0,1,,,,0
-1721565000,Jazeera,Jeenyo,1,1,,,,0
-1721565900,Mogadishu City,Horseed,0,0,,,,0
-1721651400,Midnimo,Elman,1,1,,,,0
-1721651400,Gaadiidka,Sahafi,6,2,,,,0
-1721737800,Heegan,Badbaado,4,1,,,,0
-1721737800,Dekedda,Raadsan,3,1,,,,0
-1721910600,Mogadishu City,Jazeera,2,1,,,,0
-1721910600,Jeenyo,Midnimo,2,0,,,,0
-1721997000,Horseed,Gaadiidka,1,2,,,,0
-1721997000,Elman,Badbaado,2,1,,,,0
-1722083400,Raadsan,Heegan,1,2,,,,0
-1722083400,Dekedda,Sahafi,4,0,,,,0
-1722256200,Midnimo,Jazeera,1,2,,,,0
-1722256200,Gaadiidka,Mogadishu City,0,3,,,,0
-1722342600,Horseed,Dekedda,1,4,,,,0
-1722342600,Badbaado,Jeenyo,0,0,,,,0
-1722429000,Sahafi,Heegan,1,6,,,,0
-1722429000,Elman,Raadsan,4,3,,,,0
-1722601800,Jazeera,Gaadiidka,3,3,,,,0
-1722688200,Badbaado,Midnimo,1,5,,,,0
-1722774600,Mogadishu City,Dekedda,2,2,,,,0
-1722861000,Jeenyo,Raadsan,2,1,,,,0
-1722947400,Heegan,Horseed,0,1,,,,0
-1723033800,Sahafi,Elman,0,7,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1704025800,Jazeera,Badbaado,lvDdR2yE,SjaSVQ7s,0,2,,,,0
+1706704200,Gaadiidka,Dekedda,x4ZGS7he,x4ZGS7he,1,1,,,,0
+1706790600,Midnimo,Raadsan,nazgcTrU,SSlpuTa7,1,3,,,,0
+1706877000,Mogadishu City,Heegan,6oAU20Sf,GfYKRR71,0,0,,,,0
+1706963400,Jeenyo,Sahafi,GfYKRR71,tpGrQAig,1,2,,,,0
+1707049800,Horseed,Elman,GfYKRR71,GfYKRR71,0,0,,,,0
+1707136200,Dekedda,Jazeera,x4ZGS7he,lvDdR2yE,0,0,,,,0
+1707222600,Badbaado,Raadsan,SjaSVQ7s,SSlpuTa7,2,2,,,,0
+1707309000,Gaadiidka,Heegan,x4ZGS7he,GfYKRR71,1,0,,,,0
+1707395400,Sahafi,Midnimo,tpGrQAig,nazgcTrU,1,2,,,,0
+1707481800,Mogadishu City,Elman,6oAU20Sf,GfYKRR71,2,0,,,,0
+1707568200,Horseed,Jeenyo,GfYKRR71,GfYKRR71,2,0,,,,0
+1707654600,Jazeera,Raadsan,lvDdR2yE,SSlpuTa7,0,2,,,,0
+1707741000,Heegan,Dekedda,GfYKRR71,x4ZGS7he,0,1,,,,0
+1707827400,Sahafi,Badbaado,tpGrQAig,SjaSVQ7s,1,0,,,,0
+1707913800,Elman,Gaadiidka,GfYKRR71,x4ZGS7he,0,0,,,,0
+1708000200,Midnimo,Horseed,nazgcTrU,GfYKRR71,0,2,,,,0
+1708086600,Mogadishu City,Jeenyo,6oAU20Sf,GfYKRR71,1,1,,,,0
+1708173000,Jazeera,Heegan,lvDdR2yE,GfYKRR71,1,3,,,,0
+1708432200,Raadsan,Sahafi,SSlpuTa7,tpGrQAig,4,2,,,,0
+1708518600,Dekedda,Elman,x4ZGS7he,GfYKRR71,2,0,,,,0
+1708605000,Badbaado,Horseed,SjaSVQ7s,GfYKRR71,1,4,,,,0
+1708691400,Gaadiidka,Jeenyo,x4ZGS7he,GfYKRR71,0,1,,,,0
+1708777800,Midnimo,Mogadishu City,nazgcTrU,6oAU20Sf,1,1,,,,0
+1709037000,Sahafi,Jazeera,tpGrQAig,lvDdR2yE,0,0,,,,0
+1709123400,Heegan,Elman,GfYKRR71,GfYKRR71,0,0,,,,0
+1709124300,Horseed,Raadsan,GfYKRR71,SSlpuTa7,2,0,,,,0
+1709296200,Jeenyo,Dekedda,GfYKRR71,x4ZGS7he,1,2,,,,0
+1709382600,Mogadishu City,Badbaado,6oAU20Sf,SjaSVQ7s,4,1,,,,0
+1709469000,Gaadiidka,Midnimo,x4ZGS7he,nazgcTrU,4,1,,,,0
+1713357000,Jazeera,Elman,lvDdR2yE,GfYKRR71,1,3,,,,0
+1713443400,Sahafi,Horseed,tpGrQAig,GfYKRR71,1,0,,,,0
+1713529800,Heegan,Jeenyo,GfYKRR71,GfYKRR71,2,2,,,,0
+1713616200,Raadsan,Mogadishu City,SSlpuTa7,6oAU20Sf,1,3,,,,0
+1713702600,Dekedda,Midnimo,x4ZGS7he,nazgcTrU,4,0,,,,0
+1713789000,Badbaado,Gaadiidka,SjaSVQ7s,x4ZGS7he,1,3,,,,0
+1713875400,Horseed,Jazeera,GfYKRR71,lvDdR2yE,3,1,,,,0
+1713961800,Elman,Jeenyo,GfYKRR71,GfYKRR71,5,2,,,,0
+1714048200,Mogadishu City,Sahafi,6oAU20Sf,tpGrQAig,3,0,,,,0
+1714135500,Midnimo,Heegan,nazgcTrU,GfYKRR71,2,3,,,,0
+1714221000,Gaadiidka,Raadsan,x4ZGS7he,SSlpuTa7,0,2,,,,0
+1714307400,Dekedda,Badbaado,x4ZGS7he,SjaSVQ7s,5,0,,,,0
+1714393800,Jeenyo,Jazeera,GfYKRR71,lvDdR2yE,2,1,,,,0
+1714480200,Horseed,Mogadishu City,GfYKRR71,6oAU20Sf,0,0,,,,0
+1714567500,Elman,Midnimo,GfYKRR71,nazgcTrU,2,1,,,,0
+1714653000,Sahafi,Gaadiidka,tpGrQAig,x4ZGS7he,2,2,,,,0
+1714739400,Badbaado,Heegan,SjaSVQ7s,GfYKRR71,2,2,,,,0
+1714825800,Raadsan,Dekedda,SSlpuTa7,x4ZGS7he,1,5,,,,0
+1714912200,Jazeera,Mogadishu City,lvDdR2yE,6oAU20Sf,1,2,,,,0
+1714998600,Midnimo,Jeenyo,nazgcTrU,GfYKRR71,1,1,,,,0
+1715085000,Gaadiidka,Horseed,x4ZGS7he,GfYKRR71,0,2,,,,0
+1715171400,Badbaado,Elman,SjaSVQ7s,GfYKRR71,1,2,,,,0
+1715257800,Sahafi,Dekedda,tpGrQAig,x4ZGS7he,1,2,,,,0
+1715344200,Heegan,Raadsan,GfYKRR71,SSlpuTa7,4,1,,,,0
+1715430600,Jazeera,Midnimo,lvDdR2yE,nazgcTrU,4,1,,,,0
+1715517000,Mogadishu City,Gaadiidka,6oAU20Sf,x4ZGS7he,1,3,,,,0
+1715603400,Jeenyo,Badbaado,GfYKRR71,SjaSVQ7s,2,1,,,,0
+1715689800,Dekedda,Horseed,x4ZGS7he,GfYKRR71,1,1,,,,0
+1715776200,Raadsan,Elman,SSlpuTa7,GfYKRR71,0,0,,,,0
+1715862600,Heegan,Sahafi,GfYKRR71,tpGrQAig,4,1,,,,0
+1715949000,Gaadiidka,Jazeera,x4ZGS7he,lvDdR2yE,4,1,,,,0
+1716035400,Midnimo,Badbaado,nazgcTrU,SjaSVQ7s,1,2,,,,0
+1716121800,Dekedda,Mogadishu City,x4ZGS7he,6oAU20Sf,1,0,,,,0
+1716208200,Raadsan,Jeenyo,SSlpuTa7,GfYKRR71,0,0,,,,0
+1716294600,Horseed,Heegan,GfYKRR71,GfYKRR71,1,1,,,,0
+1716381000,Elman,Sahafi,GfYKRR71,tpGrQAig,4,0,,,,0
+1717158600,Badbaado,Jazeera,SjaSVQ7s,lvDdR2yE,3,3,,,,0
+1717245000,Dekedda,Gaadiidka,x4ZGS7he,x4ZGS7he,2,2,,,,0
+1717331400,Raadsan,Midnimo,SSlpuTa7,nazgcTrU,0,3,,,,0
+1717417800,Heegan,Mogadishu City,GfYKRR71,6oAU20Sf,1,2,,,,0
+1717504200,Sahafi,Jeenyo,tpGrQAig,GfYKRR71,1,2,,,,0
+1717590600,Elman,Horseed,GfYKRR71,GfYKRR71,0,2,,,,0
+1717677000,Jazeera,Dekedda,lvDdR2yE,x4ZGS7he,0,2,,,,0
+1717763400,Raadsan,Badbaado,SSlpuTa7,SjaSVQ7s,1,1,,,,0
+1717849800,Heegan,Gaadiidka,GfYKRR71,x4ZGS7he,2,0,,,,0
+1717936200,Midnimo,Sahafi,nazgcTrU,tpGrQAig,5,1,,,,0
+1718022600,Elman,Mogadishu City,GfYKRR71,6oAU20Sf,1,1,,,,0
+1718109000,Jeenyo,Horseed,GfYKRR71,GfYKRR71,1,0,,,,0
+1718195400,Raadsan,Jazeera,SSlpuTa7,lvDdR2yE,2,1,,,,0
+1718281800,Dekedda,Heegan,x4ZGS7he,GfYKRR71,2,0,,,,0
+1718368200,Badbaado,Sahafi,SjaSVQ7s,tpGrQAig,3,2,,,,0
+1718627400,Gaadiidka,Elman,x4ZGS7he,GfYKRR71,0,1,,,,0
+1718713800,Horseed,Midnimo,GfYKRR71,nazgcTrU,4,1,,,,0
+1718800200,Jeenyo,Mogadishu City,GfYKRR71,6oAU20Sf,0,4,,,,0
+1718886600,Heegan,Jazeera,GfYKRR71,lvDdR2yE,1,3,,,,0
+1718973000,Sahafi,Raadsan,tpGrQAig,SSlpuTa7,0,2,,,,0
+1719059400,Elman,Dekedda,GfYKRR71,x4ZGS7he,1,1,,,,0
+1719145800,Horseed,Badbaado,GfYKRR71,SjaSVQ7s,1,0,,,,0
+1719232200,Jeenyo,Gaadiidka,GfYKRR71,x4ZGS7he,0,3,,,,0
+1719318600,Mogadishu City,Midnimo,6oAU20Sf,nazgcTrU,1,0,,,,0
+1719577800,Jazeera,Sahafi,lvDdR2yE,tpGrQAig,5,1,,,,0
+1719664200,Elman,Heegan,GfYKRR71,GfYKRR71,1,0,,,,0
+1719750600,Raadsan,Horseed,SSlpuTa7,GfYKRR71,1,4,,,,0
+1719750600,Badbaado,Mogadishu City,SjaSVQ7s,6oAU20Sf,2,0,,,,0
+1719923400,Dekedda,Jeenyo,x4ZGS7he,GfYKRR71,3,1,,,,0
+1720009800,Midnimo,Gaadiidka,nazgcTrU,x4ZGS7he,2,5,,,,0
+1720009800,Elman,Jazeera,GfYKRR71,lvDdR2yE,0,0,,,,0
+1720096200,Jeenyo,Heegan,GfYKRR71,GfYKRR71,0,0,,,,0
+1720096200,Horseed,Sahafi,GfYKRR71,tpGrQAig,2,1,,,,0
+1720182600,Mogadishu City,Raadsan,6oAU20Sf,SSlpuTa7,2,0,,,,0
+1720182600,Midnimo,Dekedda,nazgcTrU,x4ZGS7he,0,0,,,,0
+1720269000,Gaadiidka,Badbaado,x4ZGS7he,SjaSVQ7s,2,1,,,,0
+1720355400,Jazeera,Horseed,lvDdR2yE,GfYKRR71,1,2,,,,0
+1720441800,Jeenyo,Elman,GfYKRR71,GfYKRR71,4,2,,,,0
+1720528200,Sahafi,Mogadishu City,tpGrQAig,6oAU20Sf,0,5,,,,0
+1720614600,Heegan,Midnimo,GfYKRR71,nazgcTrU,3,2,,,,0
+1721478600,Raadsan,Gaadiidka,SSlpuTa7,x4ZGS7he,1,1,,,,0
+1721478600,Badbaado,Dekedda,SjaSVQ7s,x4ZGS7he,0,1,,,,0
+1721565000,Jazeera,Jeenyo,lvDdR2yE,GfYKRR71,1,1,,,,0
+1721565900,Mogadishu City,Horseed,6oAU20Sf,GfYKRR71,0,0,,,,0
+1721651400,Midnimo,Elman,nazgcTrU,GfYKRR71,1,1,,,,0
+1721651400,Gaadiidka,Sahafi,x4ZGS7he,tpGrQAig,6,2,,,,0
+1721737800,Heegan,Badbaado,GfYKRR71,SjaSVQ7s,4,1,,,,0
+1721737800,Dekedda,Raadsan,x4ZGS7he,SSlpuTa7,3,1,,,,0
+1721910600,Mogadishu City,Jazeera,6oAU20Sf,lvDdR2yE,2,1,,,,0
+1721910600,Jeenyo,Midnimo,GfYKRR71,nazgcTrU,2,0,,,,0
+1721997000,Horseed,Gaadiidka,GfYKRR71,x4ZGS7he,1,2,,,,0
+1721997000,Elman,Badbaado,GfYKRR71,SjaSVQ7s,2,1,,,,0
+1722083400,Raadsan,Heegan,SSlpuTa7,GfYKRR71,1,2,,,,0
+1722083400,Dekedda,Sahafi,x4ZGS7he,tpGrQAig,4,0,,,,0
+1722256200,Midnimo,Jazeera,nazgcTrU,lvDdR2yE,1,2,,,,0
+1722256200,Gaadiidka,Mogadishu City,x4ZGS7he,6oAU20Sf,0,3,,,,0
+1722342600,Horseed,Dekedda,GfYKRR71,x4ZGS7he,1,4,,,,0
+1722342600,Badbaado,Jeenyo,SjaSVQ7s,GfYKRR71,0,0,,,,0
+1722429000,Sahafi,Heegan,tpGrQAig,GfYKRR71,1,6,,,,0
+1722429000,Elman,Raadsan,GfYKRR71,SSlpuTa7,4,3,,,,0
+1722601800,Jazeera,Gaadiidka,lvDdR2yE,x4ZGS7he,3,3,,,,0
+1722688200,Badbaado,Midnimo,SjaSVQ7s,nazgcTrU,1,5,,,,0
+1722774600,Mogadishu City,Dekedda,6oAU20Sf,x4ZGS7he,2,2,,,,0
+1722861000,Jeenyo,Raadsan,GfYKRR71,SSlpuTa7,2,1,,,,0
+1722947400,Heegan,Horseed,GfYKRR71,GfYKRR71,0,1,,,,0
+1723033800,Sahafi,Elman,tpGrQAig,GfYKRR71,0,7,,,,0

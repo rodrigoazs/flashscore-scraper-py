@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1704198600,ZED,Dayrout,3,1,,,,0
-1704198600,Petrojet,Arab Contractors,0,0,Pen,0,1,0
-1704285000,Pharco,Tersana,3,1,,,,0
-1704285000,El Gouna,Al Qanah,2,0,,,,0
-1704295800,Enppi,Haras El Hodood,1,0,,,,0
-1704295800,El Gaish,El Olympi,2,2,Pen,3,2,0
-1704371400,National Bank Egypt,Asyut Petroleum,1,0,,,,0
-1704371400,El Ismaily,Tanta,1,0,,,,0
-1704382200,Smouha,Suez SC,1,0,,,,0
-1704382200,Ceramica Cleopatra,La Viena,3,0,,,,0
-1704457800,Modern Sport,El Shams,2,2,AET,5,2,0
-1704457800,Ghazl El Mahallah,Alexandria SC,1,0,,,,0
-1704468600,Al Ittihad,Team FC,0,2,,,,0
-1704803400,Zamalek,Abu Qir Semad,2,0,,,,0
-1705408200,Enppi,El Ismaily,1,0,,,,0
-1705494600,Ceramica Cleopatra,El Gaish,2,0,,,,0
-1705505400,Smouha,ZED,1,0,,,,0
-1706963400,El Gouna,Team FC,3,1,,,,0
-1707049800,Al Masry,Wadi Degla,1,0,,,,0
-1707060600,Pyramids,El Mansoura,3,0,,,,0
-1709839800,Zamalek,Modern Sport,1,1,AET,2,1,0
-1709839800,National Bank Egypt,Al Masry,3,1,,,,0
-1709926200,Pyramids,Arab Contractors,2,0,,,,0
-1709926200,Ghazl El Mahallah,Pharco,0,0,AET,1,0,0
-1710531000,Zamalek,Smouha,4,2,,,,0
-1710531000,Pyramids,Enppi,2,1,,,,0
-1710531000,Ghazl El Mahallah,National Bank Egypt,0,0,AET,0,1,0
-1710531000,Ceramica Cleopatra,El Gouna,3,1,,,,0
-1711654200,Zamalek,Ceramica Cleopatra,2,1,,,,0
-1711654200,Pyramids,National Bank Egypt,4,0,,,,0
-1717608600,Pyramids,Zamalek,1,1,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1704198600,ZED,Dayrout,d8SflmrH,6k0NZmTN,3,1,,,,0
+1704198600,Petrojet,Arab Contractors,QJAe2ryT,vJb36ZBF,0,0,Pen,0,1,0
+1704285000,Pharco,Tersana,dxOryHtQ,GzO2bts3,3,1,,,,0
+1704285000,El Gouna,Al Qanah,rFudGJm8,AunjXw0d,2,0,,,,0
+1704295800,Enppi,Haras El Hodood,UXviHTBE,WOiN3YjQ,1,0,,,,0
+1704295800,El Gaish,El Olympi,zcdwYkPa,A11c6ICP,2,2,Pen,3,2,0
+1704371400,National Bank Egypt,Asyut Petroleum,pjUF9hEb,xYpJaFv3,1,0,,,,0
+1704371400,El Ismaily,Tanta,hjU5IpqO,UTpZ7Xnm,1,0,,,,0
+1704382200,Smouha,Suez SC,Y1Z3w2bI,27Y2YqA3,1,0,,,,0
+1704382200,Ceramica Cleopatra,La Viena,nsVKnzpo,SWxorfRd,3,0,,,,0
+1704457800,Modern Sport,El Shams,zuoIGyJI,nJ0UD7OF,2,2,AET,5,2,0
+1704457800,Ghazl El Mahallah,Alexandria SC,AXTgaM87,KYcA3PnS,1,0,,,,0
+1704468600,Al Ittihad,Team FC,bgfz00t5,hYl22P3o,0,2,,,,0
+1704803400,Zamalek,Abu Qir Semad,EJgyrHTR,Mspxaqeq,2,0,,,,0
+1705408200,Enppi,El Ismaily,UXviHTBE,hjU5IpqO,1,0,,,,0
+1705494600,Ceramica Cleopatra,El Gaish,nsVKnzpo,zcdwYkPa,2,0,,,,0
+1705505400,Smouha,ZED,Y1Z3w2bI,d8SflmrH,1,0,,,,0
+1706963400,El Gouna,Team FC,rFudGJm8,hYl22P3o,3,1,,,,0
+1707049800,Al Masry,Wadi Degla,K8vlWhPS,nDyPqWH0,1,0,,,,0
+1707060600,Pyramids,El Mansoura,61CV5LkU,rq5Ulwhb,3,0,,,,0
+1709839800,Zamalek,Modern Sport,EJgyrHTR,zuoIGyJI,1,1,AET,2,1,0
+1709839800,National Bank Egypt,Al Masry,pjUF9hEb,K8vlWhPS,3,1,,,,0
+1709926200,Pyramids,Arab Contractors,61CV5LkU,vJb36ZBF,2,0,,,,0
+1709926200,Ghazl El Mahallah,Pharco,AXTgaM87,dxOryHtQ,0,0,AET,1,0,0
+1710531000,Zamalek,Smouha,EJgyrHTR,Y1Z3w2bI,4,2,,,,0
+1710531000,Pyramids,Enppi,61CV5LkU,UXviHTBE,2,1,,,,0
+1710531000,Ghazl El Mahallah,National Bank Egypt,AXTgaM87,pjUF9hEb,0,0,AET,0,1,0
+1710531000,Ceramica Cleopatra,El Gouna,nsVKnzpo,rFudGJm8,3,1,,,,0
+1711654200,Zamalek,Ceramica Cleopatra,EJgyrHTR,nsVKnzpo,2,1,,,,0
+1711654200,Pyramids,National Bank Egypt,61CV5LkU,pjUF9hEb,4,0,,,,0
+1717608600,Pyramids,Zamalek,61CV5LkU,EJgyrHTR,1,1,Pen,1,2,0

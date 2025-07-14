@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1414958400,Sport Rosario,Defensor La Bocana,1,1,,,,0
-1414958400,Sport Loreto,Juventud America,3,0,,,,0
-1414958400,Fuerza Minera,Futuro Majes,5,0,,,,0
-1414958400,Chavelines,Sporting Cristal Tumbes,2,0,,,,0
-1414958400,Cariocos,Alto Huarca,1,1,,,,0
-1414959600,Zarumilla,Pichanaki,2,0,,,,0
-1414960200,Chancayllo,Los Chankas,2,0,,,,0
-1414960200,Aguila,Villafuerte,2,1,,,,0
-1415477700,Futuro Majes,Fuerza Minera,1,3,,,,0
-1415564100,Villafuerte,Aguila,0,2,,,,0
-1415564100,Sporting Cristal Tumbes,Chavelines,4,1,,,,0
-1415564100,Pichanaki,Zarumilla,2,0,Pen,3,0,0
-1415564100,Los Chankas,Chancayllo,1,0,,,,0
-1415564100,Juventud America,Sport Loreto,2,2,,,,0
-1415564100,Defensor La Bocana,Sport Rosario,2,0,,,,0
-1415564100,Alto Huarca,Cariocos,0,1,,,,0
-1416082500,Aguila,Pichanaki,1,2,,,,0
-1416168900,Fuerza Minera,Cariocos,2,1,,,,0
-1416168900,Defensor La Bocana,Sporting Cristal Tumbes,2,0,,,,0
-1416168900,Chancayllo,Sport Loreto,1,1,,,,0
-1416772800,Sporting Cristal Tumbes,Defensor La Bocana,1,2,,,,0
-1416772800,Sport Loreto,Chancayllo,0,0,,,,0
-1416772800,Pichanaki,Aguila,0,2,,,,0
-1416772800,Cariocos,Fuerza Minera,1,3,,,,0
-1417377600,Fuerza Minera,Aguila,6,3,,,,0
-1417377600,Defensor La Bocana,Sport Loreto,5,1,,,,0
-1417982400,Sport Loreto,Defensor La Bocana,6,1,,,,0
-1418310000,Aguila,Fuerza Minera,1,2,,,,0
-1418675400,Sport Loreto,Fuerza Minera,4,1,,,,0
-1419184800,Fuerza Minera,Sport Loreto,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1414958400,Sport Rosario,Defensor La Bocana,0K3VOgS0,S2D1qklJ,1,1,,,,0
+1414958400,Sport Loreto,Juventud America,dQkUKHA8,zDj1Mhxg,3,0,,,,0
+1414958400,Fuerza Minera,Futuro Majes,rw6NQFcl,E1SIWoo1,5,0,,,,0
+1414958400,Chavelines,Sporting Cristal Tumbes,Ea36r7V0,nkH9Dxzk,2,0,,,,0
+1414958400,Cariocos,Alto Huarca,hSRSeJgO,Kbkl3iXq,1,1,,,,0
+1414959600,Zarumilla,Pichanaki,2yjgFyi4,U1Cfl22A,2,0,,,,0
+1414960200,Chancayllo,Los Chankas,Kns8H9MI,v9LWknvd,2,0,,,,0
+1414960200,Aguila,Villafuerte,6kYzukDr,xbSAvqCm,2,1,,,,0
+1415477700,Futuro Majes,Fuerza Minera,E1SIWoo1,rw6NQFcl,1,3,,,,0
+1415564100,Villafuerte,Aguila,xbSAvqCm,6kYzukDr,0,2,,,,0
+1415564100,Sporting Cristal Tumbes,Chavelines,nkH9Dxzk,Ea36r7V0,4,1,,,,0
+1415564100,Pichanaki,Zarumilla,U1Cfl22A,2yjgFyi4,2,0,Pen,3,0,0
+1415564100,Los Chankas,Chancayllo,v9LWknvd,Kns8H9MI,1,0,,,,0
+1415564100,Juventud America,Sport Loreto,zDj1Mhxg,dQkUKHA8,2,2,,,,0
+1415564100,Defensor La Bocana,Sport Rosario,S2D1qklJ,0K3VOgS0,2,0,,,,0
+1415564100,Alto Huarca,Cariocos,Kbkl3iXq,hSRSeJgO,0,1,,,,0
+1416082500,Aguila,Pichanaki,6kYzukDr,U1Cfl22A,1,2,,,,0
+1416168900,Fuerza Minera,Cariocos,rw6NQFcl,hSRSeJgO,2,1,,,,0
+1416168900,Defensor La Bocana,Sporting Cristal Tumbes,S2D1qklJ,nkH9Dxzk,2,0,,,,0
+1416168900,Chancayllo,Sport Loreto,Kns8H9MI,dQkUKHA8,1,1,,,,0
+1416772800,Sporting Cristal Tumbes,Defensor La Bocana,nkH9Dxzk,S2D1qklJ,1,2,,,,0
+1416772800,Sport Loreto,Chancayllo,dQkUKHA8,Kns8H9MI,0,0,,,,0
+1416772800,Pichanaki,Aguila,U1Cfl22A,6kYzukDr,0,2,,,,0
+1416772800,Cariocos,Fuerza Minera,hSRSeJgO,rw6NQFcl,1,3,,,,0
+1417377600,Fuerza Minera,Aguila,rw6NQFcl,6kYzukDr,6,3,,,,0
+1417377600,Defensor La Bocana,Sport Loreto,S2D1qklJ,dQkUKHA8,5,1,,,,0
+1417982400,Sport Loreto,Defensor La Bocana,dQkUKHA8,S2D1qklJ,6,1,,,,0
+1418310000,Aguila,Fuerza Minera,6kYzukDr,rw6NQFcl,1,2,,,,0
+1418675400,Sport Loreto,Fuerza Minera,dQkUKHA8,rw6NQFcl,4,1,,,,0
+1419184800,Fuerza Minera,Sport Loreto,rw6NQFcl,dQkUKHA8,1,0,,,,0

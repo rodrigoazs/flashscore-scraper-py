@@ -1,25 +1,25 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1600432200,West Armenia,Syunik,3,2,,,,0
-1600432200,Van,Noravank,0,0,,,,0
-1600443000,Urartu,Pyunik Yerevan,2,1,,,,0
-1600518600,Shirak Gyumri,Alashkert,1,2,,,,0
-1600518600,BKMA,Lori,0,0,,,,0
-1600529400,Ararat Yerevan,Sevan,3,0,,,,0
-1604746800,Alashkert,Shirak Gyumri,1,0,,,,0
-1604748600,Sevan,Ararat Yerevan,1,3,,,,0
-1604917800,Noravank,Van,0,2,,,,0
-1606041000,Lori,BKMA,2,2,,,,0
-1614247200,Pyunik Yerevan,Urartu,0,0,,,,0
-1615456800,West Armenia,Ararat Yerevan,2,0,,,,0
-1615464000,Alashkert,BKMA,4,0,,,,0
-1615543200,Van,Ararat-Armenia,0,1,,,,0
-1615554000,Urartu,Noah,0,2,,,,0
-1617447600,Noah,Urartu,2,2,,,,0
-1617458400,Ararat Yerevan,West Armenia,5,1,,,,0
-1617534000,Ararat-Armenia,Van,0,1,Pen,1,1,0
-1617620400,BKMA,Alashkert,1,2,,,,0
-1618916400,Alashkert,Noah,1,1,,,,0
-1618929000,Ararat Yerevan,Ararat-Armenia,2,0,,,,0
-1619780400,Noah,Alashkert,1,3,,,,0
-1619866800,Ararat-Armenia,Ararat Yerevan,2,1,,,,0
-1621090800,Ararat Yerevan,Alashkert,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1600432200,West Armenia,Syunik,QF2ujxY6,ji1LkT8q,3,2,,,,0
+1600432200,Van,Noravank,bD2dwPED,2FOf7Pfq,0,0,,,,0
+1600443000,Urartu,Pyunik Yerevan,bi5W0N3n,zkO8QgRo,2,1,,,,0
+1600518600,Shirak Gyumri,Alashkert,2ajBCmYJ,Y1ZCBtLt,1,2,,,,0
+1600518600,BKMA,Lori,fylJcjMq,hA2mYxa3,0,0,,,,0
+1600529400,Ararat Yerevan,Sevan,dUsGVqCN,WWXawfUa,3,0,,,,0
+1604746800,Alashkert,Shirak Gyumri,Y1ZCBtLt,2ajBCmYJ,1,0,,,,0
+1604748600,Sevan,Ararat Yerevan,WWXawfUa,dUsGVqCN,1,3,,,,0
+1604917800,Noravank,Van,2FOf7Pfq,bD2dwPED,0,2,,,,0
+1606041000,Lori,BKMA,hA2mYxa3,fylJcjMq,2,2,,,,0
+1614247200,Pyunik Yerevan,Urartu,zkO8QgRo,bi5W0N3n,0,0,,,,0
+1615456800,West Armenia,Ararat Yerevan,QF2ujxY6,dUsGVqCN,2,0,,,,0
+1615464000,Alashkert,BKMA,Y1ZCBtLt,fylJcjMq,4,0,,,,0
+1615543200,Van,Ararat-Armenia,bD2dwPED,6FB0mgsP,0,1,,,,0
+1615554000,Urartu,Noah,bi5W0N3n,2mU8GaB3,0,2,,,,0
+1617447600,Noah,Urartu,2mU8GaB3,bi5W0N3n,2,2,,,,0
+1617458400,Ararat Yerevan,West Armenia,dUsGVqCN,QF2ujxY6,5,1,,,,0
+1617534000,Ararat-Armenia,Van,6FB0mgsP,bD2dwPED,0,1,Pen,1,1,0
+1617620400,BKMA,Alashkert,fylJcjMq,Y1ZCBtLt,1,2,,,,0
+1618916400,Alashkert,Noah,Y1ZCBtLt,2mU8GaB3,1,1,,,,0
+1618929000,Ararat Yerevan,Ararat-Armenia,dUsGVqCN,6FB0mgsP,2,0,,,,0
+1619780400,Noah,Alashkert,2mU8GaB3,Y1ZCBtLt,1,3,,,,0
+1619866800,Ararat-Armenia,Ararat Yerevan,6FB0mgsP,dUsGVqCN,2,1,,,,0
+1621090800,Ararat Yerevan,Alashkert,dUsGVqCN,Y1ZCBtLt,3,1,,,,0

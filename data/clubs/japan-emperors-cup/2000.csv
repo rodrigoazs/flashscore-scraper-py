@@ -1,80 +1,80 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-975132000,Yokogawa,Hannan,1,1,Pen,1,2,0
-975132000,Tsukuba Univ.,Tokai,4,1,,,,0
-975132000,Tokuyama,Apple Sports,1,0,,,,0
-975132000,Tochigi SC,Vanraure,3,0,,,,0
-975132000,Tenri,Honda FC,0,6,,,,0
-975132000,Teihens,Albirex Niigata,1,5,,,,0
-975132000,Sunlife,Otsuka,0,5,,,,0
-975132000,Sony Sendai,Douto,2,3,,,,0
-975132000,Shin-nittetsu Oita,Kamaishi,4,2,,,,0
-975132000,Sanfrecce Hiroshima,Gentian,0,1,,,,0
-975132000,Saitama,Urawa Reds,0,2,,,,0
-975132000,Saga Kita,Montedio Yamagata,0,12,,,,0
-975132000,Ritsumeikan University,Kunimi,2,4,,,,0
-975132000,Primeiro,Denso,1,6,,,,0
-975132000,Nirasaki,Hosei,0,4,,,,0
-975132000,Matsushita,Kofu,0,4,,,,0
-975132000,Kwansei,Vegalta Sendai,2,1,,,,0
-975132000,Kusatsu Higashi,Yamagata,3,1,,,,0
-975132000,Kusatsu,Hokkaido Consadole Sapporo,0,2,,,,0
-975132000,Kumamoto,Honda Lock,0,2,,,,0
-975132000,Kochi,Kibi,1,1,Pen,1,2,0
-975132000,Kaoku,Jatco,1,4,,,,0
-975132000,Kanagawa,YKK AP,1,0,,,,0
-975132000,Kaiho,Mito,0,3,,,,0
-975132000,Juntendo Univ.,TDK SC,3,2,,,,0
-975132000,Iwami,Shonan Bellmare,0,4,,,,0
-975132000,Hatsushima,Oita Trinita,0,5,,,,0
-975132000,Gifu Kogyo,Sagan Tosu,1,7,,,,0
-975132000,Gainare Tottori,Omiya Ardija,0,3,,,,0
-975132000,Fukuoka Univ.,Shimizu Commercial,4,1,,,,0
-975132000,Ehime,Yokohama FC,1,3,,,,0
-975132000,Aichi,Fukui,1,0,,,,0
-975823200,Yokohama FC,Aichi,1,2,,,,0
-975823200,Urawa Reds,Honda Lock,9,0,,,,0
-975823200,Tochigi SC,Kwansei,1,0,,,,0
-975823200,Shonan Bellmare,Kibi,3,0,,,,0
-975823200,Sagan Tosu,Kanagawa,6,0,,,,0
-975823200,Otsuka,Tsukuba Univ.,1,1,Pen,2,1,0
-975823200,Omiya Ardija,Tokuyama,4,1,,,,0
-975823200,Oita Trinita,Gentian,7,0,,,,0
-975823200,Mito,Hannan,2,0,,,,0
-975823200,Kofu,Douto,2,1,,,,0
-975823200,Jatco,Montedio Yamagata,2,1,,,,0
-975823200,Honda FC,Shin-nittetsu Oita,2,0,,,,0
-975823200,Hokkaido Consadole Sapporo,Kusatsu Higashi,6,0,,,,0
-975823200,Fukuoka Univ.,Hosei,3,2,,,,0
-975823200,Denso,Juntendo Univ.,2,1,,,,0
-975823200,Albirex Niigata,Kunimi,2,0,,,,0
-976082400,Shimizu S-Pulse,Denso,3,0,,,,0
-976428000,Vissel Kobe,Jatco,2,1,,,,0
-976428000,Verdy,Albirex Niigata,2,1,,,,0
-976428000,Sanfrecce Hiroshima,Mito,7,0,,,,0
-976428000,Nagoya Grampus,Shonan Bellmare,3,2,,,,0
-976428000,Kyoto,Hokkaido Consadole Sapporo,0,1,,,,0
-976428000,Kawasaki Frontale,Urawa Reds,0,2,,,,0
-976428000,Kashiwa Reysol,Honda FC,2,1,,,,0
-976428000,Iwata,Aichi,5,0,,,,0
-976428000,Gamba Osaka,Oita Trinita,4,1,,,,0
-976428000,FC Tokyo,Kofu,0,1,,,,0
-976428000,Chiba,Tochigi SC,1,0,,,,0
-976428000,Cerezo Osaka,Otsuka,2,1,,,,0
-976428000,Avispa Fukuoka,Omiya Ardija,4,2,,,,0
-976687200,Yokohama F. Marinos,Fukuoka Univ.,2,0,,,,0
-976687200,Kashima Antlers,Sagan Tosu,2,1,,,,0
-977032800,Yokohama F. Marinos,Hokkaido Consadole Sapporo,2,1,,,,0
-977032800,Vissel Kobe,Sanfrecce Hiroshima,1,0,,,,0
-977032800,Verdy,Kashima Antlers,0,2,,,,0
-977032800,Urawa Reds,Cerezo Osaka,1,4,,,,0
-977032800,Shimizu S-Pulse,Avispa Fukuoka,1,0,,,,0
-977032800,Nagoya Grampus,Iwata,0,2,,,,0
-977032800,Gamba Osaka,Kashiwa Reysol,1,1,Pen,2,1,0
-977032800,Chiba,Kofu,3,1,,,,0
-977551200,Yokohama F. Marinos,Kashima Antlers,1,1,Pen,1,2,0
-977551200,Vissel Kobe,Cerezo Osaka,2,2,Pen,3,2,0
-977551200,Shimizu S-Pulse,Chiba,3,1,,,,0
-977551200,Iwata,Gamba Osaka,0,1,,,,0
-978069600,Shimizu S-Pulse,Vissel Kobe,1,0,,,,0
-978069600,Kashima Antlers,Gamba Osaka,3,2,,,,0
-946706400,Kashima Antlers,Shimizu S-Pulse,3,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+975132000,Yokogawa,Hannan,b96nE1cj,4E1DHrVE,1,1,Pen,1,2,0
+975132000,Tsukuba Univ.,Tokai,rBBY29tJ,zBmk5Rhb,4,1,,,,0
+975132000,Tokuyama,Apple Sports,zBmk5Rhb,,1,0,,,,0
+975132000,Tochigi SC,Vanraure,GdkUvPh9,xlcxOCQp,3,0,,,,0
+975132000,Tenri,Honda FC,dKlo67wh,SQNtOynf,0,6,,,,0
+975132000,Teihens,Albirex Niigata,dKlo67wh,SEX2RAcn,1,5,,,,0
+975132000,Sunlife,Otsuka,ITks7mOo,,0,5,,,,0
+975132000,Sony Sendai,Douto,YJ4l9tQE,,2,3,,,,0
+975132000,Shin-nittetsu Oita,Kamaishi,,,4,2,,,,0
+975132000,Sanfrecce Hiroshima,Gentian,pSNkZ1lS,CSnrJzkM,0,1,,,,0
+975132000,Saitama,Urawa Reds,Kd2ar4oo,nqhLBCKD,0,2,,,,0
+975132000,Saga Kita,Montedio Yamagata,ImGXnpwU,Uc4CHyL0,0,12,,,,0
+975132000,Ritsumeikan University,Kunimi,nLoJ5Tgf,fZhpxTOB,2,4,,,,0
+975132000,Primeiro,Denso,CSnrJzkM,,1,6,,,,0
+975132000,Nirasaki,Hosei,ATP1fAvt,l84Mf4cC,0,4,,,,0
+975132000,Matsushita,Kofu,,Uc4CHyL0,0,4,,,,0
+975132000,Kwansei,Vegalta Sendai,jgpInfTH,rkzDkpKt,2,1,,,,0
+975132000,Kusatsu Higashi,Yamagata,YPilymvI,,3,1,,,,0
+975132000,Kusatsu,Hokkaido Consadole Sapporo,nqlFOhVm,tGWvEQkr,0,2,,,,0
+975132000,Kumamoto,Honda Lock,EqRSddb5,4nVQBgtE,0,2,,,,0
+975132000,Kochi,Kibi,fZhpxTOB,,1,1,Pen,1,2,0
+975132000,Kaoku,Jatco,,,1,4,,,,0
+975132000,Kanagawa,YKK AP,KUNpazFm,E1ng4o84,1,0,,,,0
+975132000,Kaiho,Mito,,IBQiozJR,0,3,,,,0
+975132000,Juntendo Univ.,TDK SC,jsS3fAdh,t04pbZCd,3,2,,,,0
+975132000,Iwami,Shonan Bellmare,tvPt0Gas,ppTjXyRn,0,4,,,,0
+975132000,Hatsushima,Oita Trinita,,dveS6wJe,0,5,,,,0
+975132000,Gifu Kogyo,Sagan Tosu,QN29IOF8,WYtEUtB2,1,7,,,,0
+975132000,Gainare Tottori,Omiya Ardija,dG41ubPK,U58J6vtM,0,3,,,,0
+975132000,Fukuoka Univ.,Shimizu Commercial,QN29IOF8,Kd2ar4oo,4,1,,,,0
+975132000,Ehime,Yokohama FC,8dyaziOQ,0MUJCQpC,1,3,,,,0
+975132000,Aichi,Fukui,t04pbZCd,ULd0VSSk,1,0,,,,0
+975823200,Yokohama FC,Aichi,0MUJCQpC,t04pbZCd,1,2,,,,0
+975823200,Urawa Reds,Honda Lock,nqhLBCKD,4nVQBgtE,9,0,,,,0
+975823200,Tochigi SC,Kwansei,GdkUvPh9,jgpInfTH,1,0,,,,0
+975823200,Shonan Bellmare,Kibi,ppTjXyRn,,3,0,,,,0
+975823200,Sagan Tosu,Kanagawa,WYtEUtB2,KUNpazFm,6,0,,,,0
+975823200,Otsuka,Tsukuba Univ.,,rBBY29tJ,1,1,Pen,2,1,0
+975823200,Omiya Ardija,Tokuyama,U58J6vtM,zBmk5Rhb,4,1,,,,0
+975823200,Oita Trinita,Gentian,dveS6wJe,CSnrJzkM,7,0,,,,0
+975823200,Mito,Hannan,IBQiozJR,4E1DHrVE,2,0,,,,0
+975823200,Kofu,Douto,Uc4CHyL0,,2,1,,,,0
+975823200,Jatco,Montedio Yamagata,,Uc4CHyL0,2,1,,,,0
+975823200,Honda FC,Shin-nittetsu Oita,SQNtOynf,,2,0,,,,0
+975823200,Hokkaido Consadole Sapporo,Kusatsu Higashi,tGWvEQkr,YPilymvI,6,0,,,,0
+975823200,Fukuoka Univ.,Hosei,QN29IOF8,l84Mf4cC,3,2,,,,0
+975823200,Denso,Juntendo Univ.,,jsS3fAdh,2,1,,,,0
+975823200,Albirex Niigata,Kunimi,SEX2RAcn,fZhpxTOB,2,0,,,,0
+976082400,Shimizu S-Pulse,Denso,Uc4CHyL0,,3,0,,,,0
+976428000,Vissel Kobe,Jatco,4SU3kZUI,,2,1,,,,0
+976428000,Verdy,Albirex Niigata,GjpDcRDi,SEX2RAcn,2,1,,,,0
+976428000,Sanfrecce Hiroshima,Mito,pSNkZ1lS,IBQiozJR,7,0,,,,0
+976428000,Nagoya Grampus,Shonan Bellmare,n9XchkvQ,ppTjXyRn,3,2,,,,0
+976428000,Kyoto,Hokkaido Consadole Sapporo,z735vIvR,tGWvEQkr,0,1,,,,0
+976428000,Kawasaki Frontale,Urawa Reds,j758IH5f,nqhLBCKD,0,2,,,,0
+976428000,Kashiwa Reysol,Honda FC,A1NlaOLn,SQNtOynf,2,1,,,,0
+976428000,Iwata,Aichi,j758IH5f,t04pbZCd,5,0,,,,0
+976428000,Gamba Osaka,Oita Trinita,pCXiuGSm,dveS6wJe,4,1,,,,0
+976428000,FC Tokyo,Kofu,YwiAOSxC,Uc4CHyL0,0,1,,,,0
+976428000,Chiba,Tochigi SC,z735vIvR,GdkUvPh9,1,0,,,,0
+976428000,Cerezo Osaka,Otsuka,8l3GGez7,,2,1,,,,0
+976428000,Avispa Fukuoka,Omiya Ardija,Eq74Jcjl,U58J6vtM,4,2,,,,0
+976687200,Yokohama F. Marinos,Fukuoka Univ.,plFsSE3r,QN29IOF8,2,0,,,,0
+976687200,Kashima Antlers,Sagan Tosu,4SARfF5k,WYtEUtB2,2,1,,,,0
+977032800,Yokohama F. Marinos,Hokkaido Consadole Sapporo,plFsSE3r,tGWvEQkr,2,1,,,,0
+977032800,Vissel Kobe,Sanfrecce Hiroshima,4SU3kZUI,pSNkZ1lS,1,0,,,,0
+977032800,Verdy,Kashima Antlers,GjpDcRDi,4SARfF5k,0,2,,,,0
+977032800,Urawa Reds,Cerezo Osaka,nqhLBCKD,8l3GGez7,1,4,,,,0
+977032800,Shimizu S-Pulse,Avispa Fukuoka,Uc4CHyL0,Eq74Jcjl,1,0,,,,0
+977032800,Nagoya Grampus,Iwata,n9XchkvQ,j758IH5f,0,2,,,,0
+977032800,Gamba Osaka,Kashiwa Reysol,pCXiuGSm,A1NlaOLn,1,1,Pen,2,1,0
+977032800,Chiba,Kofu,z735vIvR,Uc4CHyL0,3,1,,,,0
+977551200,Yokohama F. Marinos,Kashima Antlers,plFsSE3r,4SARfF5k,1,1,Pen,1,2,0
+977551200,Vissel Kobe,Cerezo Osaka,4SU3kZUI,8l3GGez7,2,2,Pen,3,2,0
+977551200,Shimizu S-Pulse,Chiba,Uc4CHyL0,z735vIvR,3,1,,,,0
+977551200,Iwata,Gamba Osaka,j758IH5f,pCXiuGSm,0,1,,,,0
+978069600,Shimizu S-Pulse,Vissel Kobe,Uc4CHyL0,4SU3kZUI,1,0,,,,0
+978069600,Kashima Antlers,Gamba Osaka,4SARfF5k,pCXiuGSm,3,2,,,,0
+946706400,Kashima Antlers,Shimizu S-Pulse,4SARfF5k,Uc4CHyL0,3,2,,,,0

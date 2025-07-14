@@ -76,6 +76,8 @@ if __name__ == "__main__":
             "timestamp",
             "home_team",
             "away_team",
+            "home_logo",
+            "away_logo",
             "home_score",
             "away_score",
             "part",

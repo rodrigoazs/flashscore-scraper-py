@@ -1,40 +1,40 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1181671200,Sporting Kansas City,Cleveland,0,4,,,,0
-1181671200,Seattle Sounders,Banat Storm,4,1,,,,0
-1181671200,Rochester New York,Long Island,1,0,,,,0
-1181671200,Richmond Kickers,Michigan Bucks,4,2,,,,0
-1181671200,Penn,Aegean Hawks,4,0,,,,0
-1181671200,Ocean City,Crystal Palace Baltimore,1,0,,,,0
-1181671200,North Carolina,RWB Adria,4,1,,,,0
-1181671200,Minnesota United,Indios USA,3,2,,,,0
-1181671200,El Paso,Fort Lauderdale Strikers,2,2,,,,0
-1181671200,Danbury,Western Mass Pioneers,2,3,,,,0
-1181671200,Charleston,UCF Knights,3,0,,,,0
-1181671200,BYU Cougars,California,1,2,,,,0
-1181671200,Bavarian United,Cincinnati Riverhawks,1,0,,,,0
-1181671200,Bakersfield,Portland Timbers,0,2,,,,0
-1181671200,Atlanta SC,Azzuri,10,0,,,,0
-1181757600,Charlotte Eagles,Lynchs FC,2,0,,,,0
-1182880800,Seattle Sounders,Portland Timbers,2,1,,,,0
-1182880800,Rochester New York,Western Mass Pioneers,2,1,,,,0
-1182880800,Richmond Kickers,Cleveland,2,1,,,,0
-1182880800,Ocean City,Penn,1,2,,,,0
-1182880800,North Carolina,Bavarian United,4,0,,,,0
-1182880800,Minnesota United,California,0,1,,,,0
-1182880800,Charleston,El Paso,1,0,,,,0
-1182880800,Atlanta SC,Charlotte Eagles,1,0,,,,0
-1184004000,FC Dallas,Atlanta SC,1,1,,,,0
-1184090400,Rochester New York,New England Revolution,2,4,,,,0
-1184090400,Richmond Kickers,Los Angeles Galaxy,1,0,,,,0
-1184090400,Colorado Rapids,California,3,1,,,,0
-1184090400,Charleston,Houston Dynamo,1,0,,,,0
-1184176800,Penn,DC United,1,0,,,,0
-1184522400,North Carolina,Chicago Fire,1,0,,,,0
-1184781600,Seattle Sounders,Chivas USA,3,1,,,,0
-1186509600,Seattle Sounders,Colorado Rapids,5,0,,,,0
-1186509600,North Carolina,Richmond Kickers,1,0,,,,0
-1186509600,Charleston,FC Dallas,1,2,,,,0
-1186596000,New England Revolution,Penn,2,1,,,,0
-1188928800,Seattle Sounders,FC Dallas,1,2,,,,0
-1188928800,New England Revolution,North Carolina,2,1,,,,0
-1191434400,FC Dallas,New England Revolution,2,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1181671200,Sporting Kansas City,Cleveland,88w2wUnG,bwlRGjnJ,0,4,,,,0
+1181671200,Seattle Sounders,Banat Storm,Q7Ql2Qbi,,4,1,,,,0
+1181671200,Rochester New York,Long Island,63scElQr,A1LOAbka,1,0,,,,0
+1181671200,Richmond Kickers,Michigan Bucks,QPDlz5Uc,K0fhO9FB,4,2,,,,0
+1181671200,Penn,Aegean Hawks,QH5WAnm2,Qo7EbIqK,4,0,,,,0
+1181671200,Ocean City,Crystal Palace Baltimore,zemgMpC6,,1,0,,,,0
+1181671200,North Carolina,RWB Adria,SY7hNqon,Gr4NXmTD,4,1,,,,0
+1181671200,Minnesota United,Indios USA,CEokxMWO,,3,2,,,,0
+1181671200,El Paso,Fort Lauderdale Strikers,,2c38J1pB,2,2,,,,0
+1181671200,Danbury,Western Mass Pioneers,,Q7fOexKT,2,3,,,,0
+1181671200,Charleston,UCF Knights,xIOhFH4B,,3,0,,,,0
+1181671200,BYU Cougars,California,QcuEL5Wj,GISvHoyJ,1,2,,,,0
+1181671200,Bavarian United,Cincinnati Riverhawks,lS6SGAxo,,1,0,,,,0
+1181671200,Bakersfield,Portland Timbers,MBac6nhK,xf2WUeO1,0,2,,,,0
+1181671200,Atlanta SC,Azzuri,UPn7aGHL,hzMie7RS,10,0,,,,0
+1181757600,Charlotte Eagles,Lynchs FC,S6gH6Tkg,,2,0,,,,0
+1182880800,Seattle Sounders,Portland Timbers,Q7Ql2Qbi,xf2WUeO1,2,1,,,,0
+1182880800,Rochester New York,Western Mass Pioneers,63scElQr,Q7fOexKT,2,1,,,,0
+1182880800,Richmond Kickers,Cleveland,QPDlz5Uc,bwlRGjnJ,2,1,,,,0
+1182880800,Ocean City,Penn,zemgMpC6,QH5WAnm2,1,2,,,,0
+1182880800,North Carolina,Bavarian United,SY7hNqon,lS6SGAxo,4,0,,,,0
+1182880800,Minnesota United,California,CEokxMWO,GISvHoyJ,0,1,,,,0
+1182880800,Charleston,El Paso,xIOhFH4B,,1,0,,,,0
+1182880800,Atlanta SC,Charlotte Eagles,UPn7aGHL,S6gH6Tkg,1,0,,,,0
+1184004000,FC Dallas,Atlanta SC,W2EojdRP,UPn7aGHL,1,1,,,,0
+1184090400,Rochester New York,New England Revolution,63scElQr,KI53uaQC,2,4,,,,0
+1184090400,Richmond Kickers,Los Angeles Galaxy,QPDlz5Uc,nqhLBCKD,1,0,,,,0
+1184090400,Colorado Rapids,California,fyzFgPy8,GISvHoyJ,3,1,,,,0
+1184090400,Charleston,Houston Dynamo,xIOhFH4B,YLT3ZeZm,1,0,,,,0
+1184176800,Penn,DC United,QH5WAnm2,QqhL41wo,1,0,,,,0
+1184522400,North Carolina,Chicago Fire,SY7hNqon,0lw00xPr,1,0,,,,0
+1184781600,Seattle Sounders,Chivas USA,Q7Ql2Qbi,W2EojdRP,3,1,,,,0
+1186509600,Seattle Sounders,Colorado Rapids,Q7Ql2Qbi,fyzFgPy8,5,0,,,,0
+1186509600,North Carolina,Richmond Kickers,SY7hNqon,QPDlz5Uc,1,0,,,,0
+1186509600,Charleston,FC Dallas,xIOhFH4B,W2EojdRP,1,2,,,,0
+1186596000,New England Revolution,Penn,KI53uaQC,QH5WAnm2,2,1,,,,0
+1188928800,Seattle Sounders,FC Dallas,Q7Ql2Qbi,W2EojdRP,1,2,,,,0
+1188928800,New England Revolution,North Carolina,KI53uaQC,SY7hNqon,2,1,,,,0
+1191434400,FC Dallas,New England Revolution,W2EojdRP,KI53uaQC,2,3,,,,0

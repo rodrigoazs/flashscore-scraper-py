@@ -1,91 +1,91 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1248879600,Zielona Gora,Victoria Koronowo,3,1,,,,0
-1248879600,Wolbrom,Gornik Wieliczka,4,2,,,,0
-1248879600,Wisla Pulawy,Suwalki,2,0,,,,0
-1248879600,Unia Tarnow,Tychy,0,2,,,,0
-1248879600,Swiebodzin,Kotwica Kolobrzeg,1,2,,,,0
-1248879600,Stal Poniatowa,Otwock,3,3,,,,0
-1248879600,Ruch Zdzieszowice,Unia Janikowo,0,0,AET,1,0,0
-1248879600,Radzionkow,Ostrowiec Swietokrzyski,1,0,,,,0
-1248879600,R. Rzeszow,Rakow,3,1,,,,0
-1248879600,Polonia Slubice,Chemik Police,5,0,,,,0
-1248879600,Piotrkow Trybunalski,Sandecja Nowy S.,2,4,,,,0
-1248879600,Piast Kobylin,Czarni Zagan,3,1,,,,0
-1248879600,Omega Kleszczow,Jarocin,1,1,AET,2,1,0
-1248879600,Olimpia Elblag,Pogon Szczecin,1,2,AET,1,2,0
-1248879600,Ol. Grudziadz,Elana Torun,2,1,,,,0
-1248879600,Nida Pinczow,Kolejarz,1,1,Pen,1,2,0
-1248879600,Mazur Karczew,LKS Lomza,3,0,,,,0
-1248879600,Legnica,Zaglebie Sosnowiec,0,1,,,,0
-1248879600,Korona Kielce II,Polar Wroclaw,3,0,,,,0
-1248879600,Katy Wroclawskie,Kluczbork,0,2,,,,0
-1248879600,Ilawa,W. Mazowieckie,2,1,,,,0
-1248879600,Hetman Zamosc,Sokol Aleksandrow L.,5,1,,,,0
-1248879600,Gryf Wejherowo,Nielba Wagrowiec,0,2,,,,0
-1248879600,Grajewo,Zawisza,1,0,,,,0
-1248879600,Bytovia Bytow II,Stomil Olsztyn,2,1,,,,0
-1248879600,Brzesko,Pelikan,1,0,,,,0
-1249995600,Kotwica Kolobrzeg,Pogon Szczecin,5,5,AET,5,7,0
-1250002800,Ol. Grudziadz,Ilawa,1,0,,,,0
-1250089200,Tychy,Sandecja Nowy S.,1,1,,,,0
-1250089200,Ruch Zdzieszowice,Omega Kleszczow,2,1,,,,0
-1250089200,Radzionkow,Kolejarz,5,0,,,,0
-1250089200,R. Rzeszow,Brzesko,0,2,,,,0
-1250089200,Piast Kobylin,Zielona Gora,1,1,,,,0
-1250089200,Mazur Karczew,Otwock,0,1,,,,0
-1250089200,Korona Kielce II,Kluczbork,0,2,,,,0
-1250089200,Grajewo,Polonia Slubice,1,2,,,,0
-1250089200,Bytovia Bytow II,Wisla Pulawy,3,3,,,,0
-1250092800,Zaglebie Sosnowiec,Wolbrom,4,1,,,,0
-1251212400,Ruch Zdzieszowice,Zabki,0,3,,,,0
-1251212400,Radzionkow,Korona Kielce,0,1,,,,0
-1251212400,Polonia Slubice,GKS Katowice,3,1,,,,0
-1251212400,Nielba Wagrowiec,Pruszkow,3,1,,,,0
-1251212400,Kluczbork,Stilon Gorzow,0,0,Pen,0,1,0
-1251212400,Bytovia Bytow II,Turek,1,0,,,,0
-1251219600,Pogon Szczecin,Motor Lublin,2,0,,,,0
-1251223200,Zaglebie Sosnowiec,Swinoujscie,2,0,,,,0
-1251298800,Tychy,Leczna,1,1,Pen,2,1,0
-1251298800,S. Wola,Wisla Plock,2,1,,,,0
-1251298800,Piast Kobylin,Zaglebie,3,1,,,,0
-1251298800,Otwock,Podbeskidzie,2,1,,,,0
-1251298800,Ol. Grudziadz,Kmita Zabierzow,3,0,Awrd,,,0
-1251298800,Hetman Zamosc,Warta Poznan,1,1,Pen,2,1,0
-1251298800,GKS Jastrzebie,Widzew Lodz,3,4,,,,0
-1253712600,Otwock,LKS Lodz,3,2,,,,0
-1253713500,Brzesko,Arka Gdynia,1,2,,,,0
-1253714400,Zabki,Slask Wroclaw,1,1,Pen,2,1,0
-1253714400,Tychy,Jagiellonia,0,0,AET,0,1,0
-1253714400,Polonia Slubice,Piast Gliwice,1,2,,,,0
-1253714400,Piast Kobylin,Cracovia,1,1,Pen,1,2,0
-1253714400,Ol. Grudziadz,Odra Wodzislaw,1,2,,,,0
-1253714400,Hetman Zamosc,Wisla,0,3,,,,0
-1253715300,Bytovia Bytow II,Polonia Bytom,2,1,,,,0
-1253721900,Widzew Lodz,Ruch Chorzow,0,1,,,,0
-1253729700,Zaglebie Sosnowiec,Gornik Zabrze,2,0,,,,0
-1253729700,Korona Kielce,GKS Belchatow,3,1,,,,0
-1254229200,Stilon Gorzow,Legia,0,2,,,,0
-1254231000,S. Wola,Lech Poznan,0,0,Pen,1,0,0
-1254231000,Nielba Wagrowiec,Lechia Gdansk,1,3,,,,0
-1254931200,Pogon Szczecin,Polonia Warszawa,2,0,,,,0
-1256644800,Zabki,Korona Kielce,3,3,AET,3,4,0
-1256644800,Bytovia Bytow II,Wisla,0,2,,,,0
-1256662800,Zaglebie Sosnowiec,S. Wola,3,0,,,,0
-1256670900,Pogon Szczecin,Piast Gliwice,2,0,,,,0
-1256731200,Otwock,Ruch Chorzow,0,1,,,,0
-1257275700,Arka Gdynia,Jagiellonia,0,0,AET,0,2,0
-1257948000,Lechia Gdansk,Odra Wodzislaw,1,0,,,,0
-1259176500,Legia,Cracovia,0,0,AET,2,0,0
-1268758800,Ruch Chorzow,Legia,1,0,,,,0
-1268761500,Zaglebie Sosnowiec,Pogon Szczecin,0,3,,,,0
-1268842500,Lechia Gdansk,Wisla,0,0,,,,0
-1268845200,Korona Kielce,Jagiellonia,3,1,,,,0
-1269349200,Legia,Ruch Chorzow,1,0,AET,2,1,0
-1269370800,Wisla,Lechia Gdansk,1,3,,,,0
-1269450000,Jagiellonia,Korona Kielce,3,0,,,,0
-1269457200,Pogon Szczecin,Zaglebie Sosnowiec,1,1,,,,0
-1270576800,Ruch Chorzow,Pogon Szczecin,1,1,,,,0
-1270577700,Lechia Gdansk,Jagiellonia,1,2,,,,0
-1272987900,Pogon Szczecin,Ruch Chorzow,0,0,,,,0
-1272996900,Jagiellonia,Lechia Gdansk,1,1,,,,0
-1274535000,Pogon Szczecin,Jagiellonia,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1248879600,Zielona Gora,Victoria Koronowo,04T7xIwT,UkxzKf17,3,1,,,,0
+1248879600,Wolbrom,Gornik Wieliczka,C6yE8zYI,0t5UdYMj,4,2,,,,0
+1248879600,Wisla Pulawy,Suwalki,21FuRY52,pGFCnFWm,2,0,,,,0
+1248879600,Unia Tarnow,Tychy,OS5QleKh,E9hpVUbf,0,2,,,,0
+1248879600,Swiebodzin,Kotwica Kolobrzeg,vFzrstCB,noHf3TeA,1,2,,,,0
+1248879600,Stal Poniatowa,Otwock,xAjKJLT3,Cfg8Hm6M,3,3,,,,0
+1248879600,Ruch Zdzieszowice,Unia Janikowo,pGFCnFWm,EyNqvDRt,0,0,AET,1,0,0
+1248879600,Radzionkow,Ostrowiec Swietokrzyski,6PG8meHs,23lHGsL8,1,0,,,,0
+1248879600,R. Rzeszow,Rakow,8fIj49t4,KpIcOmKL,3,1,,,,0
+1248879600,Polonia Slubice,Chemik Police,6JuSpOCn,Am4T6prs,5,0,,,,0
+1248879600,Piotrkow Trybunalski,Sandecja Nowy S.,hdHTPjwA,jJyo1HvJ,2,4,,,,0
+1248879600,Piast Kobylin,Czarni Zagan,K0YV4k1p,6DnuG2u6,3,1,,,,0
+1248879600,Omega Kleszczow,Jarocin,WnlcTiAb,SpYhnLfe,1,1,AET,2,1,0
+1248879600,Olimpia Elblag,Pogon Szczecin,QPVxgHgK,vLZ2ZgBC,1,2,AET,1,2,0
+1248879600,Ol. Grudziadz,Elana Torun,hjU5IpqO,2LoNIzvM,2,1,,,,0
+1248879600,Nida Pinczow,Kolejarz,K0YV4k1p,hSmK3D6n,1,1,Pen,1,2,0
+1248879600,Mazur Karczew,LKS Lomza,jTUAYK5e,dAecwjOf,3,0,,,,0
+1248879600,Legnica,Zaglebie Sosnowiec,UqLswWs8,Ykwr8Dur,0,1,,,,0
+1248879600,Korona Kielce II,Polar Wroclaw,4lSZyMDq,tUm0ABwN,3,0,,,,0
+1248879600,Katy Wroclawskie,Kluczbork,SU1y5OCg,pGFCnFWm,0,2,,,,0
+1248879600,Ilawa,W. Mazowieckie,SpYhnLfe,dW8tNtlA,2,1,,,,0
+1248879600,Hetman Zamosc,Sokol Aleksandrow L.,SU7ueJe2,jRulJPcC,5,1,,,,0
+1248879600,Gryf Wejherowo,Nielba Wagrowiec,nwmXzMRb,noHf3TeA,0,2,,,,0
+1248879600,Grajewo,Zawisza,WSFpWdzE,MTYgxEUQ,1,0,,,,0
+1248879600,Bytovia Bytow II,Stomil Olsztyn,pbv5bNRL,nuSpyoEL,2,1,,,,0
+1248879600,Brzesko,Pelikan,S4McHw6a,dW8tNtlA,1,0,,,,0
+1249995600,Kotwica Kolobrzeg,Pogon Szczecin,noHf3TeA,vLZ2ZgBC,5,5,AET,5,7,0
+1250002800,Ol. Grudziadz,Ilawa,hjU5IpqO,SpYhnLfe,1,0,,,,0
+1250089200,Tychy,Sandecja Nowy S.,E9hpVUbf,jJyo1HvJ,1,1,,,,0
+1250089200,Ruch Zdzieszowice,Omega Kleszczow,pGFCnFWm,WnlcTiAb,2,1,,,,0
+1250089200,Radzionkow,Kolejarz,6PG8meHs,hSmK3D6n,5,0,,,,0
+1250089200,R. Rzeszow,Brzesko,8fIj49t4,S4McHw6a,0,2,,,,0
+1250089200,Piast Kobylin,Zielona Gora,K0YV4k1p,04T7xIwT,1,1,,,,0
+1250089200,Mazur Karczew,Otwock,jTUAYK5e,Cfg8Hm6M,0,1,,,,0
+1250089200,Korona Kielce II,Kluczbork,4lSZyMDq,pGFCnFWm,0,2,,,,0
+1250089200,Grajewo,Polonia Slubice,WSFpWdzE,6JuSpOCn,1,2,,,,0
+1250089200,Bytovia Bytow II,Wisla Pulawy,pbv5bNRL,21FuRY52,3,3,,,,0
+1250092800,Zaglebie Sosnowiec,Wolbrom,Ykwr8Dur,C6yE8zYI,4,1,,,,0
+1251212400,Ruch Zdzieszowice,Zabki,pGFCnFWm,nBfkrM6c,0,3,,,,0
+1251212400,Radzionkow,Korona Kielce,6PG8meHs,QwHphoES,0,1,,,,0
+1251212400,Polonia Slubice,GKS Katowice,6JuSpOCn,4GUthy9Q,3,1,,,,0
+1251212400,Nielba Wagrowiec,Pruszkow,noHf3TeA,zN7pM03G,3,1,,,,0
+1251212400,Kluczbork,Stilon Gorzow,pGFCnFWm,A9mT5S06,0,0,Pen,0,1,0
+1251212400,Bytovia Bytow II,Turek,pbv5bNRL,v3WaBrfp,1,0,,,,0
+1251219600,Pogon Szczecin,Motor Lublin,vLZ2ZgBC,WlLh75lt,2,0,,,,0
+1251223200,Zaglebie Sosnowiec,Swinoujscie,Ykwr8Dur,YLJhToQH,2,0,,,,0
+1251298800,Tychy,Leczna,E9hpVUbf,foV023AC,1,1,Pen,2,1,0
+1251298800,S. Wola,Wisla Plock,tW2VhOvo,S4zZQGfc,2,1,,,,0
+1251298800,Piast Kobylin,Zaglebie,K0YV4k1p,Ykwr8Dur,3,1,,,,0
+1251298800,Otwock,Podbeskidzie,Cfg8Hm6M,r18qDdb5,2,1,,,,0
+1251298800,Ol. Grudziadz,Kmita Zabierzow,hjU5IpqO,zFJLRC8c,3,0,Awrd,,,0
+1251298800,Hetman Zamosc,Warta Poznan,SU7ueJe2,YwLXAjZC,1,1,Pen,2,1,0
+1251298800,GKS Jastrzebie,Widzew Lodz,pvtQsnEF,UTb1DTGS,3,4,,,,0
+1253712600,Otwock,LKS Lodz,Cfg8Hm6M,CrgYOGj7,3,2,,,,0
+1253713500,Brzesko,Arka Gdynia,S4McHw6a,SUsL3Ba2,1,2,,,,0
+1253714400,Zabki,Slask Wroclaw,nBfkrM6c,CrPl0Jrc,1,1,Pen,2,1,0
+1253714400,Tychy,Jagiellonia,E9hpVUbf,MgIRKEyG,0,0,AET,0,1,0
+1253714400,Polonia Slubice,Piast Gliwice,6JuSpOCn,lIeLr2US,1,2,,,,0
+1253714400,Piast Kobylin,Cracovia,K0YV4k1p,bsOodOxd,1,1,Pen,1,2,0
+1253714400,Ol. Grudziadz,Odra Wodzislaw,hjU5IpqO,ld8AStcI,1,2,,,,0
+1253714400,Hetman Zamosc,Wisla,SU7ueJe2,Wdonsod0,0,3,,,,0
+1253715300,Bytovia Bytow II,Polonia Bytom,pbv5bNRL,QPVxgHgK,2,1,,,,0
+1253721900,Widzew Lodz,Ruch Chorzow,UTb1DTGS,2FYvdV3F,0,1,,,,0
+1253729700,Zaglebie Sosnowiec,Gornik Zabrze,Ykwr8Dur,WtiGCgXQ,2,0,,,,0
+1253729700,Korona Kielce,GKS Belchatow,QwHphoES,t2JBIzI7,3,1,,,,0
+1254229200,Stilon Gorzow,Legia,A9mT5S06,rgYuXGKm,0,2,,,,0
+1254231000,S. Wola,Lech Poznan,tW2VhOvo,lCvEmFL0,0,0,Pen,1,0,0
+1254231000,Nielba Wagrowiec,Lechia Gdansk,noHf3TeA,0xPot60L,1,3,,,,0
+1254931200,Pogon Szczecin,Polonia Warszawa,vLZ2ZgBC,pjvOeKFg,2,0,,,,0
+1256644800,Zabki,Korona Kielce,nBfkrM6c,QwHphoES,3,3,AET,3,4,0
+1256644800,Bytovia Bytow II,Wisla,pbv5bNRL,Wdonsod0,0,2,,,,0
+1256662800,Zaglebie Sosnowiec,S. Wola,Ykwr8Dur,tW2VhOvo,3,0,,,,0
+1256670900,Pogon Szczecin,Piast Gliwice,vLZ2ZgBC,lIeLr2US,2,0,,,,0
+1256731200,Otwock,Ruch Chorzow,Cfg8Hm6M,2FYvdV3F,0,1,,,,0
+1257275700,Arka Gdynia,Jagiellonia,SUsL3Ba2,MgIRKEyG,0,0,AET,0,2,0
+1257948000,Lechia Gdansk,Odra Wodzislaw,0xPot60L,ld8AStcI,1,0,,,,0
+1259176500,Legia,Cracovia,rgYuXGKm,bsOodOxd,0,0,AET,2,0,0
+1268758800,Ruch Chorzow,Legia,2FYvdV3F,rgYuXGKm,1,0,,,,0
+1268761500,Zaglebie Sosnowiec,Pogon Szczecin,Ykwr8Dur,vLZ2ZgBC,0,3,,,,0
+1268842500,Lechia Gdansk,Wisla,0xPot60L,Wdonsod0,0,0,,,,0
+1268845200,Korona Kielce,Jagiellonia,QwHphoES,MgIRKEyG,3,1,,,,0
+1269349200,Legia,Ruch Chorzow,rgYuXGKm,2FYvdV3F,1,0,AET,2,1,0
+1269370800,Wisla,Lechia Gdansk,Wdonsod0,0xPot60L,1,3,,,,0
+1269450000,Jagiellonia,Korona Kielce,MgIRKEyG,QwHphoES,3,0,,,,0
+1269457200,Pogon Szczecin,Zaglebie Sosnowiec,vLZ2ZgBC,Ykwr8Dur,1,1,,,,0
+1270576800,Ruch Chorzow,Pogon Szczecin,2FYvdV3F,vLZ2ZgBC,1,1,,,,0
+1270577700,Lechia Gdansk,Jagiellonia,0xPot60L,MgIRKEyG,1,2,,,,0
+1272987900,Pogon Szczecin,Ruch Chorzow,vLZ2ZgBC,2FYvdV3F,0,0,,,,0
+1272996900,Jagiellonia,Lechia Gdansk,MgIRKEyG,0xPot60L,1,1,,,,0
+1274535000,Pogon Szczecin,Jagiellonia,vLZ2ZgBC,MgIRKEyG,0,1,,,,0

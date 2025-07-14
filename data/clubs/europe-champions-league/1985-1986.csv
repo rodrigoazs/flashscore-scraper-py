@@ -1,60 +1,60 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-495899100,Rabat Ajax,Omonia,0,5,,,,0
-495900000,Gornik Zabrze,Bayern Munich,1,2,,,,0
-495903600,Honved,Shamrock Rovers,2,0,,,,0
-495903600,Goteborg,Botev Plovdiv,3,2,,,,0
-495903600,Akranes,Aberdeen,1,3,,,,0
-495907200,Zenit,Valerenga,2,0,,,,0
-495907200,Vejle,FCSB,1,1,,,,0
-495907200,Lahti/69,FK Sarajevo,2,1,,,,0
-495909000,Linfield,Servette,2,2,,,,0
-495909000,Jeunesse Esch,Juventus,0,5,,,,0
-495910800,Sparta Prague,Barcelona,1,2,,,,0
-495910800,BFC Dynamo,Austria Vienna,0,2,,,,0
-495912600,Verona,PAOK,3,1,,,,0
-495912600,Bordeaux,Fenerbahce,2,3,,,,0
-495916200,FC Porto,Ajax,2,0,,,,0
-497102400,Fenerbahce,Bordeaux,0,0,,,,0
-497104200,FCSB,Vejle,4,1,,,,0
-497106000,Juventus,Jeunesse Esch,4,1,,,,0
-497107800,Valerenga,Zenit,0,2,,,,0
-497115000,FK Sarajevo,Lahti/69,1,2,,,,0
-497116800,Shamrock Rovers,Honved,1,3,,,,0
-497116800,PAOK,Verona,1,2,,,,0
-497116800,Botev Plovdiv,Goteborg,1,2,,,,0
-497122200,Omonia,Rabat Ajax,5,0,,,,0
-497122200,Austria Vienna,BFC Dynamo,2,1,,,,0
-497122200,Aberdeen,Akranes,4,1,,,,0
-497124000,Servette,Linfield,2,1,,,,0
-497124000,Bayern Munich,Gornik Zabrze,4,1,,,,0
-497124900,Ajax,FC Porto,0,0,,,,0
-497128500,Barcelona,Sparta Prague,0,1,,,,0
-498931200,Honved,FCSB,1,0,,,,0
-498931200,Goteborg,Fenerbahce,4,0,,,,0
-498934800,Zenit,Lahti/69,2,1,,,,0
-498938400,Bayern Munich,Austria Vienna,4,2,,,,0
-498938400,Anderlecht,Omonia,1,0,,,,0
-498939300,Servette,Aberdeen,0,0,,,,0
-498940200,Verona,Juventus,0,0,,,,0
-498942900,Barcelona,FC Porto,2,0,,,,0
-500211000,FCSB,Honved,4,1,,,,0
-500214600,Juventus,Verona,2,0,,,,0
-500227200,Fenerbahce,Goteborg,2,1,,,,0
-500229000,Aberdeen,Servette,1,0,,,,0
-500230800,Omonia,Anderlecht,1,3,,,,0
-500230800,Lahti/69,Zenit,2,1,AET,3,1,0
-500232600,Austria Vienna,Bayern Munich,3,3,,,,0
-500243400,FC Porto,Barcelona,3,1,,,,0
-510411600,FCSB,Lahti/69,0,0,,,,0
-510427800,Aberdeen,Goteborg,2,2,,,,0
-510430500,Bayern Munich,Anderlecht,2,1,,,,0
-510434100,Barcelona,Juventus,1,0,,,,0
-511633800,Lahti/69,FCSB,0,1,,,,0
-511635600,Goteborg,Aberdeen,0,0,,,,0
-511639200,Anderlecht,Bayern Munich,2,0,,,,0
-511641000,Juventus,Barcelona,1,1,,,,0
-512838000,Goteborg,Barcelona,3,0,,,,0
-512845200,Anderlecht,FCSB,1,0,,,,0
-514042200,FCSB,Anderlecht,3,0,,,,0
-514047600,Barcelona,Goteborg,3,0,Pen,4,0,0
-515870100,FCSB,Barcelona,0,0,Pen,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+495899100,Rabat Ajax,Omonia,lE5HhTyt,8GeT5Kmk,0,5,,,,0
+495900000,Gornik Zabrze,Bayern Munich,WtiGCgXQ,SvLFaVNH,1,2,,,,0
+495903600,Honved,Shamrock Rovers,0bbECxUd,pOsOhLO3,2,0,,,,0
+495903600,Goteborg,Botev Plovdiv,jqs0yJHC,UVZMFjiK,3,2,,,,0
+495903600,Akranes,Aberdeen,4hhcealo,SQqfdcHF,1,3,,,,0
+495907200,Zenit,Valerenga,QPqvtC2B,K0xfe77l,2,0,,,,0
+495907200,Vejle,FCSB,lvRNDH7M,SCh1iPaa,1,1,,,,0
+495907200,Lahti/69,FK Sarajevo,tGlVXFkM,0E8MOvRd,2,1,,,,0
+495909000,Linfield,Servette,GUrKqyjt,vJvKsfHT,2,2,,,,0
+495909000,Jeunesse Esch,Juventus,IqhLeVal,EXzXDYgS,0,5,,,,0
+495910800,Sparta Prague,Barcelona,lWOFh0RD,fcDVLdrL,1,2,,,,0
+495910800,BFC Dynamo,Austria Vienna,KlQEi9GE,lUkqx2Vt,0,2,,,,0
+495912600,Verona,PAOK,Kxh373f3,pvWT1yik,3,1,,,,0
+495912600,Bordeaux,Fenerbahce,6BghNX0a,dENdyFfa,2,3,,,,0
+495916200,FC Porto,Ajax,Kth3Rz1C,bZZPiwAI,2,0,,,,0
+497102400,Fenerbahce,Bordeaux,dENdyFfa,6BghNX0a,0,0,,,,0
+497104200,FCSB,Vejle,SCh1iPaa,lvRNDH7M,4,1,,,,0
+497106000,Juventus,Jeunesse Esch,EXzXDYgS,IqhLeVal,4,1,,,,0
+497107800,Valerenga,Zenit,K0xfe77l,QPqvtC2B,0,2,,,,0
+497115000,FK Sarajevo,Lahti/69,0E8MOvRd,tGlVXFkM,1,2,,,,0
+497116800,Shamrock Rovers,Honved,pOsOhLO3,0bbECxUd,1,3,,,,0
+497116800,PAOK,Verona,pvWT1yik,Kxh373f3,1,2,,,,0
+497116800,Botev Plovdiv,Goteborg,UVZMFjiK,jqs0yJHC,1,2,,,,0
+497122200,Omonia,Rabat Ajax,8GeT5Kmk,lE5HhTyt,5,0,,,,0
+497122200,Austria Vienna,BFC Dynamo,lUkqx2Vt,KlQEi9GE,2,1,,,,0
+497122200,Aberdeen,Akranes,SQqfdcHF,4hhcealo,4,1,,,,0
+497124000,Servette,Linfield,vJvKsfHT,GUrKqyjt,2,1,,,,0
+497124000,Bayern Munich,Gornik Zabrze,SvLFaVNH,WtiGCgXQ,4,1,,,,0
+497124900,Ajax,FC Porto,bZZPiwAI,Kth3Rz1C,0,0,,,,0
+497128500,Barcelona,Sparta Prague,fcDVLdrL,lWOFh0RD,0,1,,,,0
+498931200,Honved,FCSB,0bbECxUd,SCh1iPaa,1,0,,,,0
+498931200,Goteborg,Fenerbahce,jqs0yJHC,dENdyFfa,4,0,,,,0
+498934800,Zenit,Lahti/69,QPqvtC2B,tGlVXFkM,2,1,,,,0
+498938400,Bayern Munich,Austria Vienna,SvLFaVNH,lUkqx2Vt,4,2,,,,0
+498938400,Anderlecht,Omonia,YVlGNJGc,8GeT5Kmk,1,0,,,,0
+498939300,Servette,Aberdeen,vJvKsfHT,SQqfdcHF,0,0,,,,0
+498940200,Verona,Juventus,Kxh373f3,EXzXDYgS,0,0,,,,0
+498942900,Barcelona,FC Porto,fcDVLdrL,Kth3Rz1C,2,0,,,,0
+500211000,FCSB,Honved,SCh1iPaa,0bbECxUd,4,1,,,,0
+500214600,Juventus,Verona,EXzXDYgS,Kxh373f3,2,0,,,,0
+500227200,Fenerbahce,Goteborg,dENdyFfa,jqs0yJHC,2,1,,,,0
+500229000,Aberdeen,Servette,SQqfdcHF,vJvKsfHT,1,0,,,,0
+500230800,Omonia,Anderlecht,8GeT5Kmk,YVlGNJGc,1,3,,,,0
+500230800,Lahti/69,Zenit,tGlVXFkM,QPqvtC2B,2,1,AET,3,1,0
+500232600,Austria Vienna,Bayern Munich,lUkqx2Vt,SvLFaVNH,3,3,,,,0
+500243400,FC Porto,Barcelona,Kth3Rz1C,fcDVLdrL,3,1,,,,0
+510411600,FCSB,Lahti/69,SCh1iPaa,tGlVXFkM,0,0,,,,0
+510427800,Aberdeen,Goteborg,SQqfdcHF,jqs0yJHC,2,2,,,,0
+510430500,Bayern Munich,Anderlecht,SvLFaVNH,YVlGNJGc,2,1,,,,0
+510434100,Barcelona,Juventus,fcDVLdrL,EXzXDYgS,1,0,,,,0
+511633800,Lahti/69,FCSB,tGlVXFkM,SCh1iPaa,0,1,,,,0
+511635600,Goteborg,Aberdeen,jqs0yJHC,SQqfdcHF,0,0,,,,0
+511639200,Anderlecht,Bayern Munich,YVlGNJGc,SvLFaVNH,2,0,,,,0
+511641000,Juventus,Barcelona,EXzXDYgS,fcDVLdrL,1,1,,,,0
+512838000,Goteborg,Barcelona,jqs0yJHC,fcDVLdrL,3,0,,,,0
+512845200,Anderlecht,FCSB,YVlGNJGc,SCh1iPaa,1,0,,,,0
+514042200,FCSB,Anderlecht,SCh1iPaa,YVlGNJGc,3,0,,,,0
+514047600,Barcelona,Goteborg,fcDVLdrL,jqs0yJHC,3,0,Pen,4,0,0
+515870100,FCSB,Barcelona,SCh1iPaa,fcDVLdrL,0,0,Pen,1,0,0

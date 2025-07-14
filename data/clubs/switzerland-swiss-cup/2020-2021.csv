@@ -1,37 +1,37 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1598716800,Schoftland,Sierre,6,1,,,,0
-1598716800,Monthey,Black Stars,2,1,,,,0
-1598716800,Haute-Broye,Vevey,1,4,,,,0
-1598790600,Laufen,Solothurn,0,6,,,,0
-1598792400,Dubendorf,Schotz,1,2,,,,0
-1598794200,Saviese,Balerna,0,2,,,,0
-1598796000,Zollbruck,Stade Nyonnais,0,7,,,,0
-1598796000,Ajoie-Monterri,Tuggen,0,2,,,,0
-1598895000,Durrenast,Koniz,1,5,,,,0
-1599845400,Schaffhausen,Lugano,1,1,AET,1,2,0
-1599919200,Tuggen,Winterthur,1,2,,,,0
-1599919200,Schotz,Sion,0,3,,,,0
-1599920100,Stade Nyonnais,Lausanne,1,3,,,,0
-1599921000,Lausanne Ouchy,Grasshoppers,1,2,,,,0
-1599928200,Aarau,Wil,0,0,Pen,1,0,0
-1599930000,Vevey,Koniz,3,0,,,,0
-1600000200,Schoftland,Solothurn,1,5,,,,0
-1600002000,Xamax,Kriens,1,4,,,,0
-1600005600,Thun,Luzern,0,1,,,,0
-1600005600,Chiasso,Zurich,3,2,,,,0
-1601132400,Balerna,Monthey,1,2,,,,0
-1612974600,Aarau,Sion,2,2,AET,4,2,0
-1612976400,Solothurn,Kriens,-,-,WO,,,0
-1613579400,Winterthur,Basel,6,2,,,,0
-1614184200,Grasshoppers,Lausanne,2,0,,,,0
-1615393800,Chiasso,Luzern,1,2,,,,0
-1617724800,Aarau,Winterthur,3,0,,,,0
-1617811200,Vevey,Servette,2,4,,,,0
-1617811200,Monthey,Lugano,0,3,,,,0
-1617897600,St. Gallen,Young Boys,4,1,,,,0
-1618326000,Lugano,Luzern,1,1,AET,1,2,0
-1618412400,Kriens,Servette,2,2,AET,2,3,0
-1618416000,Grasshoppers,St. Gallen,1,2,,,,0
-1620142200,Aarau,Luzern,1,2,,,,0
-1620226800,Servette,St. Gallen,0,1,,,,0
-1621861200,St. Gallen,Luzern,1,3,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1598716800,Schoftland,Sierre,QBUQVHws,vBz9krom,6,1,,,,0
+1598716800,Monthey,Black Stars,W0w60KCC,C6ZmSpWn,2,1,,,,0
+1598716800,Haute-Broye,Vevey,AsadeLjl,QqQHJeWi,1,4,,,,0
+1598790600,Laufen,Solothurn,O2razbVP,Uy18dKhK,0,6,,,,0
+1598792400,Dubendorf,Schotz,O2razbVP,v9aRYoSB,1,2,,,,0
+1598794200,Saviese,Balerna,ATL0HJSG,AynvibGs,0,2,,,,0
+1598796000,Zollbruck,Stade Nyonnais,299ORdYl,Qom1CdYj,0,7,,,,0
+1598796000,Ajoie-Monterri,Tuggen,fD52QgcC,Mc262rFb,0,2,,,,0
+1598895000,Durrenast,Koniz,xxXp4FSq,z3ZBvmAa,1,5,,,,0
+1599845400,Schaffhausen,Lugano,EiyYrUhb,0IhGjVDm,1,1,AET,1,2,0
+1599919200,Tuggen,Winterthur,Mc262rFb,6P6dM30h,1,2,,,,0
+1599919200,Schotz,Sion,v9aRYoSB,QsLBSppP,0,3,,,,0
+1599920100,Stade Nyonnais,Lausanne,Qom1CdYj,IkaTiXpU,1,3,,,,0
+1599921000,Lausanne Ouchy,Grasshoppers,tp21ECEq,WdBesfPo,1,2,,,,0
+1599928200,Aarau,Wil,nLy4dj0C,lCjwt4LE,0,0,Pen,1,0,0
+1599930000,Vevey,Koniz,QqQHJeWi,z3ZBvmAa,3,0,,,,0
+1600000200,Schoftland,Solothurn,QBUQVHws,Uy18dKhK,1,5,,,,0
+1600002000,Xamax,Kriens,ln9wF1MU,n7K4dyrM,1,4,,,,0
+1600005600,Thun,Luzern,xbUiUE46,n7K4dyrM,0,1,,,,0
+1600005600,Chiasso,Zurich,GEbwH8OC,zFgN5luK,3,2,,,,0
+1601132400,Balerna,Monthey,AynvibGs,W0w60KCC,1,2,,,,0
+1612974600,Aarau,Sion,nLy4dj0C,QsLBSppP,2,2,AET,4,2,0
+1612976400,Solothurn,Kriens,Uy18dKhK,n7K4dyrM,-,-,WO,,,0
+1613579400,Winterthur,Basel,6P6dM30h,fPZDBkJI,6,2,,,,0
+1614184200,Grasshoppers,Lausanne,WdBesfPo,IkaTiXpU,2,0,,,,0
+1615393800,Chiasso,Luzern,GEbwH8OC,n7K4dyrM,1,2,,,,0
+1617724800,Aarau,Winterthur,nLy4dj0C,6P6dM30h,3,0,,,,0
+1617811200,Vevey,Servette,QqQHJeWi,vJvKsfHT,2,4,,,,0
+1617811200,Monthey,Lugano,W0w60KCC,0IhGjVDm,0,3,,,,0
+1617897600,St. Gallen,Young Boys,fubIDuh0,KGWqWzzf,4,1,,,,0
+1618326000,Lugano,Luzern,0IhGjVDm,n7K4dyrM,1,1,AET,1,2,0
+1618412400,Kriens,Servette,n7K4dyrM,vJvKsfHT,2,2,AET,2,3,0
+1618416000,Grasshoppers,St. Gallen,WdBesfPo,fubIDuh0,1,2,,,,0
+1620142200,Aarau,Luzern,nLy4dj0C,n7K4dyrM,1,2,,,,0
+1620226800,Servette,St. Gallen,vJvKsfHT,fubIDuh0,0,1,,,,0
+1621861200,St. Gallen,Luzern,fubIDuh0,n7K4dyrM,1,3,,,,1

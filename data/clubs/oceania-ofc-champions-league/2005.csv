@@ -1,25 +1,25 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1108009800,Nikao,Magenta,0,4,,,,0
-1108182600,Nikao,Magenta,1,5,,,,0
-1109910600,Sobou,Tuanaimato,5,0,,,,0
-1110083400,Sobou,Tuanaimato,2,0,,,,0
-1111379400,Lotohaapai,Tafea,1,2,,,,0
-1111552200,Lotohaapai,Tafea,0,5,,,,0
-1112412600,Ba,Makuru,1,4,,,,0
-1112758200,Ba,Makuru,1,4,,,,0
-1117510200,Sydney FC,Auckland City,3,2,,,,0
-1117510200,Sobou,Pirae,1,5,,,,0
-1117596600,Tafea,Makuru,3,2,,,,0
-1117596600,Magenta,Manu-Ura,4,1,,,,0
-1117683000,Sobou,Sydney FC,2,9,,,,0
-1117683000,Pirae,Auckland City,1,0,,,,0
-1117769400,Manu-Ura,Makuru,1,2,,,,0
-1117769400,Magenta,Tafea,1,1,,,,0
-1117855800,Sydney FC,Pirae,6,0,,,,0
-1117942200,Manu-Ura,Tafea,0,2,,,,0
-1117942200,Makuru,Magenta,0,5,,,,0
-1117942200,Auckland City,Sobou,6,1,,,,0
-1118115000,Sydney FC,Tafea,6,0,,,,0
-1118115000,Magenta,Pirae,4,1,,,,0
-1118374200,Sydney FC,Magenta,2,0,,,,0
-1118374200,Pirae,Tafea,1,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1108009800,Nikao,Magenta,UFuh4tWG,QsL6ehoB,0,4,,,,0
+1108182600,Nikao,Magenta,UFuh4tWG,QsL6ehoB,1,5,,,,0
+1109910600,Sobou,Tuanaimato,,,5,0,,,,0
+1110083400,Sobou,Tuanaimato,,,2,0,,,,0
+1111379400,Lotohaapai,Tafea,6Ld0aIU5,hp3nk3Ne,1,2,,,,0
+1111552200,Lotohaapai,Tafea,6Ld0aIU5,hp3nk3Ne,0,5,,,,0
+1112412600,Ba,Makuru,tE1csI3A,,1,4,,,,0
+1112758200,Ba,Makuru,tE1csI3A,,1,4,,,,0
+1117510200,Sydney FC,Auckland City,WU4sOyqK,E7VNOejE,3,2,,,,0
+1117510200,Sobou,Pirae,,QsL6ehoB,1,5,,,,0
+1117596600,Tafea,Makuru,hp3nk3Ne,,3,2,,,,0
+1117596600,Magenta,Manu-Ura,QsL6ehoB,,4,1,,,,0
+1117683000,Sobou,Sydney FC,,WU4sOyqK,2,9,,,,0
+1117683000,Pirae,Auckland City,QsL6ehoB,E7VNOejE,1,0,,,,0
+1117769400,Manu-Ura,Makuru,,,1,2,,,,0
+1117769400,Magenta,Tafea,QsL6ehoB,hp3nk3Ne,1,1,,,,0
+1117855800,Sydney FC,Pirae,WU4sOyqK,QsL6ehoB,6,0,,,,0
+1117942200,Manu-Ura,Tafea,,hp3nk3Ne,0,2,,,,0
+1117942200,Makuru,Magenta,,QsL6ehoB,0,5,,,,0
+1117942200,Auckland City,Sobou,E7VNOejE,,6,1,,,,0
+1118115000,Sydney FC,Tafea,WU4sOyqK,hp3nk3Ne,6,0,,,,0
+1118115000,Magenta,Pirae,QsL6ehoB,QsL6ehoB,4,1,,,,0
+1118374200,Sydney FC,Magenta,WU4sOyqK,QsL6ehoB,2,0,,,,0
+1118374200,Pirae,Tafea,QsL6ehoB,hp3nk3Ne,1,3,,,,0

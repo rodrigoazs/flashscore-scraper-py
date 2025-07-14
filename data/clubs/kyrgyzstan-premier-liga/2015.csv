@@ -1,61 +1,61 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1428397200,Ala-Too,Dordoi Bishkek,0,1,,,,0
-1428915600,Dordoi Bishkek,KG United,6,1,,,,0
-1428915600,Alay Osh,Ala-Too,2,0,,,,0
-1428915600,Abdish-Ata,Alga,1,0,,,,0
-1429261200,KG United,Alay Osh,1,4,,,,0
-1429261200,Dordoi Bishkek,Alga,1,1,,,,0
-1429261200,Abdish-Ata,Ala-Too,1,0,,,,0
-1429520400,Dordoi Bishkek,Alay Osh,1,0,,,,0
-1429520400,Alga,Ala-Too,0,0,,,,0
-1429520400,Abdish-Ata,KG United,0,1,,,,0
-1429779600,Alga,Alay Osh,0,0,,,,0
-1429779600,Abdish-Ata,Dordoi Bishkek,2,2,,,,0
-1430643600,Dordoi Bishkek,Ala-Too,5,1,,,,0
-1431248400,KG United,Dordoi Bishkek,1,6,,,,0
-1431766800,Alay Osh,Dordoi Bishkek,2,1,,,,0
-1432112400,Dordoi Bishkek,Ala-Too,7,1,,,,0
-1432371600,Dordoi Bishkek,KG United,5,2,,,,0
-1432717200,Alay Osh,KG United,7,2,,,,0
-1432976400,Alay Osh,KG United,5,0,,,,0
-1432976400,Ala-Too,Abdish-Ata,0,1,,,,0
-1433062800,Alga,Dordoi Bishkek,0,4,,,,0
-1433581200,Ala-Too,KG United,3,1,,,,0
-1433581200,Abdish-Ata,Alay Osh,0,1,,,,0
-1433840400,KG United,Abdish-Ata,0,0,,,,0
-1433840400,Ala-Too,Alay Osh,1,3,,,,0
-1434186000,KG United,Ala-Too,0,1,,,,0
-1434790800,Alga,Abdish-Ata,0,0,,,,0
-1435395600,KG United,Alga,0,6,,,,0
-1435654800,Abdish-Ata,Alga,2,2,,,,0
-1438160400,Alay Osh,Alga,3,0,,,,0
-1438506000,Alay Osh,Abdish-Ata,1,0,,,,0
-1438506000,Ala-Too,Alga,0,1,,,,0
-1438765200,Alay Osh,Abdish-Ata,2,1,,,,0
-1438851600,Alga,Ala-Too,2,0,,,,0
-1439110800,Ala-Too,Alay Osh,0,4,,,,0
-1439110800,Abdish-Ata,Dordoi Bishkek,1,3,,,,0
-1439715600,Alay Osh,Dordoi Bishkek,3,3,,,,0
-1439715600,Ala-Too,Abdish-Ata,0,3,,,,0
-1440061200,KG United,Alga,0,3,,,,0
-1440493200,Ala-Too,KG United,5,1,,,,0
-1442134800,Dordoi Bishkek,Alay Osh,3,0,,,,0
-1442134800,Alga,Abdish-Ata,0,0,,,,0
-1442394000,Alga,Alay Osh,0,1,,,,0
-1442394000,Abdish-Ata,KG United,3,0,,,,0
-1442998800,Alga,KG United,5,1,,,,0
-1443171600,Dordoi Bishkek,Abdish-Ata,0,2,,,,0
-1445158800,KG United,Dordoi Bishkek,1,8,,,,0
-1445158800,Ala-Too,Alga,1,3,,,,0
-1445158800,Abdish-Ata,Alay Osh,0,2,,,,0
-1445418000,KG United,Alay Osh,2,3,,,,0
-1445418000,Dordoi Bishkek,Alga,1,2,,,,0
-1445418000,Abdish-Ata,Ala-Too,1,0,,,,0
-1445677200,Alga,Dordoi Bishkek,0,1,,,,0
-1445767200,Alay Osh,Ala-Too,3,2,,,,0
-1445940000,Alga,KG United,6,0,,,,0
-1446026400,Dordoi Bishkek,Abdish-Ata,0,2,,,,0
-1446285600,KG United,Abdish-Ata,0,4,,,,0
-1446285600,Alay Osh,Alga,2,1,,,,0
-1446285600,Ala-Too,Dordoi Bishkek,0,2,,,,0
-1446544800,KG United,Ala-Too,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1428397200,Ala-Too,Dordoi Bishkek,zuNMbFy3,ILBgbXn2,0,1,,,,0
+1428915600,Dordoi Bishkek,KG United,ILBgbXn2,CEuXlRaD,6,1,,,,0
+1428915600,Alay Osh,Ala-Too,ML6qDOAI,zuNMbFy3,2,0,,,,0
+1428915600,Abdish-Ata,Alga,AZ8zeUpO,AFCOSfcG,1,0,,,,0
+1429261200,KG United,Alay Osh,CEuXlRaD,ML6qDOAI,1,4,,,,0
+1429261200,Dordoi Bishkek,Alga,ILBgbXn2,AFCOSfcG,1,1,,,,0
+1429261200,Abdish-Ata,Ala-Too,AZ8zeUpO,zuNMbFy3,1,0,,,,0
+1429520400,Dordoi Bishkek,Alay Osh,ILBgbXn2,ML6qDOAI,1,0,,,,0
+1429520400,Alga,Ala-Too,AFCOSfcG,zuNMbFy3,0,0,,,,0
+1429520400,Abdish-Ata,KG United,AZ8zeUpO,CEuXlRaD,0,1,,,,0
+1429779600,Alga,Alay Osh,AFCOSfcG,ML6qDOAI,0,0,,,,0
+1429779600,Abdish-Ata,Dordoi Bishkek,AZ8zeUpO,ILBgbXn2,2,2,,,,0
+1430643600,Dordoi Bishkek,Ala-Too,ILBgbXn2,zuNMbFy3,5,1,,,,0
+1431248400,KG United,Dordoi Bishkek,CEuXlRaD,ILBgbXn2,1,6,,,,0
+1431766800,Alay Osh,Dordoi Bishkek,ML6qDOAI,ILBgbXn2,2,1,,,,0
+1432112400,Dordoi Bishkek,Ala-Too,ILBgbXn2,zuNMbFy3,7,1,,,,0
+1432371600,Dordoi Bishkek,KG United,ILBgbXn2,CEuXlRaD,5,2,,,,0
+1432717200,Alay Osh,KG United,ML6qDOAI,CEuXlRaD,7,2,,,,0
+1432976400,Alay Osh,KG United,ML6qDOAI,CEuXlRaD,5,0,,,,0
+1432976400,Ala-Too,Abdish-Ata,zuNMbFy3,AZ8zeUpO,0,1,,,,0
+1433062800,Alga,Dordoi Bishkek,AFCOSfcG,ILBgbXn2,0,4,,,,0
+1433581200,Ala-Too,KG United,zuNMbFy3,CEuXlRaD,3,1,,,,0
+1433581200,Abdish-Ata,Alay Osh,AZ8zeUpO,ML6qDOAI,0,1,,,,0
+1433840400,KG United,Abdish-Ata,CEuXlRaD,AZ8zeUpO,0,0,,,,0
+1433840400,Ala-Too,Alay Osh,zuNMbFy3,ML6qDOAI,1,3,,,,0
+1434186000,KG United,Ala-Too,CEuXlRaD,zuNMbFy3,0,1,,,,0
+1434790800,Alga,Abdish-Ata,AFCOSfcG,AZ8zeUpO,0,0,,,,0
+1435395600,KG United,Alga,CEuXlRaD,AFCOSfcG,0,6,,,,0
+1435654800,Abdish-Ata,Alga,AZ8zeUpO,AFCOSfcG,2,2,,,,0
+1438160400,Alay Osh,Alga,ML6qDOAI,AFCOSfcG,3,0,,,,0
+1438506000,Alay Osh,Abdish-Ata,ML6qDOAI,AZ8zeUpO,1,0,,,,0
+1438506000,Ala-Too,Alga,zuNMbFy3,AFCOSfcG,0,1,,,,0
+1438765200,Alay Osh,Abdish-Ata,ML6qDOAI,AZ8zeUpO,2,1,,,,0
+1438851600,Alga,Ala-Too,AFCOSfcG,zuNMbFy3,2,0,,,,0
+1439110800,Ala-Too,Alay Osh,zuNMbFy3,ML6qDOAI,0,4,,,,0
+1439110800,Abdish-Ata,Dordoi Bishkek,AZ8zeUpO,ILBgbXn2,1,3,,,,0
+1439715600,Alay Osh,Dordoi Bishkek,ML6qDOAI,ILBgbXn2,3,3,,,,0
+1439715600,Ala-Too,Abdish-Ata,zuNMbFy3,AZ8zeUpO,0,3,,,,0
+1440061200,KG United,Alga,CEuXlRaD,AFCOSfcG,0,3,,,,0
+1440493200,Ala-Too,KG United,zuNMbFy3,CEuXlRaD,5,1,,,,0
+1442134800,Dordoi Bishkek,Alay Osh,ILBgbXn2,ML6qDOAI,3,0,,,,0
+1442134800,Alga,Abdish-Ata,AFCOSfcG,AZ8zeUpO,0,0,,,,0
+1442394000,Alga,Alay Osh,AFCOSfcG,ML6qDOAI,0,1,,,,0
+1442394000,Abdish-Ata,KG United,AZ8zeUpO,CEuXlRaD,3,0,,,,0
+1442998800,Alga,KG United,AFCOSfcG,CEuXlRaD,5,1,,,,0
+1443171600,Dordoi Bishkek,Abdish-Ata,ILBgbXn2,AZ8zeUpO,0,2,,,,0
+1445158800,KG United,Dordoi Bishkek,CEuXlRaD,ILBgbXn2,1,8,,,,0
+1445158800,Ala-Too,Alga,zuNMbFy3,AFCOSfcG,1,3,,,,0
+1445158800,Abdish-Ata,Alay Osh,AZ8zeUpO,ML6qDOAI,0,2,,,,0
+1445418000,KG United,Alay Osh,CEuXlRaD,ML6qDOAI,2,3,,,,0
+1445418000,Dordoi Bishkek,Alga,ILBgbXn2,AFCOSfcG,1,2,,,,0
+1445418000,Abdish-Ata,Ala-Too,AZ8zeUpO,zuNMbFy3,1,0,,,,0
+1445677200,Alga,Dordoi Bishkek,AFCOSfcG,ILBgbXn2,0,1,,,,0
+1445767200,Alay Osh,Ala-Too,ML6qDOAI,zuNMbFy3,3,2,,,,0
+1445940000,Alga,KG United,AFCOSfcG,CEuXlRaD,6,0,,,,0
+1446026400,Dordoi Bishkek,Abdish-Ata,ILBgbXn2,AZ8zeUpO,0,2,,,,0
+1446285600,KG United,Abdish-Ata,CEuXlRaD,AZ8zeUpO,0,4,,,,0
+1446285600,Alay Osh,Alga,ML6qDOAI,AFCOSfcG,2,1,,,,0
+1446285600,Ala-Too,Dordoi Bishkek,zuNMbFy3,ILBgbXn2,0,2,,,,0
+1446544800,KG United,Ala-Too,CEuXlRaD,zuNMbFy3,1,2,,,,0

@@ -1,53 +1,53 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-967024800,PSM Makassar,Song Lam Nghe An,0,0,,,,0
-967111200,Ertis Pavlodar,Nisa Asgabat,3,1,,,,0
-967111200,Al Wakra,Persepolis,2,4,,,,0
-967197600,Varzob Dushanbe,Dustlik,-,-,Awrd,,,0
-967197600,Al Ramtha,Al Salmiya,0,1,,,,0
-967197600,Al Hilal,Al Karamah,2,1,,,,0
-967197600,Al Ansar,Al Ittihad,-,-,Awrd,,,0
-967716000,Al Ahli Sana'a,Al-Ahli Manama,0,1,,,,0
-968234400,Policia,Lion City,0,5,,,,0
-968320800,Persepolis,Al Wakra,5,1,,,,0
-968320800,Dustlik,Varzob Dushanbe,-,-,Awrd,,,0
-968320800,Al Salmiya,Al Ramtha,2,2,,,,0
-968320800,Al Karamah,Al Hilal,0,0,,,,0
-968320800,Al Ittihad,Al Ansar,-,-,Awrd,,,0
-968407200,Nisa Asgabat,Ertis Pavlodar,1,2,,,,0
-968580000,Song Lam Nghe An,PSM Makassar,1,4,,,,0
-968666400,Al Zawraa,Al Ain,2,1,,,,0
-968839200,Lion City,Policia,6,0,,,,0
-968925600,Al-Ahli Manama,Al Ahli Sana'a,0,0,,,,0
-969098400,Iwata,South China,3,1,,,,0
-969444000,Shandong Taishan,Lion City,3,0,,,,0
-969444000,PSM Makassar,Air Force Central,6,1,,,,0
-969530400,Suwon Bluewings,Hurriyya,2,1,,,,0
-969616800,Al Ain,Al Zawraa,4,0,,,,0
-970048800,Lion City,Shandong Taishan,1,3,,,,0
-970048800,Hurriyya,Suwon Bluewings,0,0,,,,0
-970048800,Air Force Central,PSM Makassar,0,5,,,,0
-972122400,Ertis Pavlodar,Varzob Dushanbe,4,1,,,,0
-973162800,Persepolis,Al Ain,2,0,,,,0
-973249200,Al Hilal,Al Salmiya,3,1,,,,0
-973335600,Varzob Dushanbe,Ertis Pavlodar,2,3,,,,0
-973422000,Al-Ahli Manama,Al Ittihad,0,2,,,,0
-973767600,Al Ittihad,Al-Ahli Manama,6,2,,,,0
-974372400,Al Ain,Persepolis,2,0,AET,2,2,0
-977569200,South China,Iwata,1,3,,,,0
-977569200,Al Salmiya,Al Hilal,0,0,,,,0
-983962800,Persepolis,Al Ittihad,0,0,,,,0
-983962800,Al Hilal,Ertis Pavlodar,0,0,,,,0
-984135600,Persepolis,Ertis Pavlodar,0,0,,,,0
-984135600,Al Ittihad,Al Hilal,2,0,,,,0
-984308400,Persepolis,Al Hilal,3,1,,,,0
-984308400,Al Ittihad,Ertis Pavlodar,1,2,,,,0
-985172400,Suwon Bluewings,Iwata,0,3,,,,0
-985172400,PSM Makassar,Shandong Taishan,1,3,,,,0
-985345200,PSM Makassar,Suwon Bluewings,1,8,,,,0
-985345200,Iwata,Shandong Taishan,6,2,,,,0
-985514400,Shandong Taishan,Suwon Bluewings,0,6,,,,0
-985514400,PSM Makassar,Iwata,0,3,,,,0
-990698400,Persepolis,Suwon Bluewings,1,2,,,,0
-990698400,Iwata,Ertis Pavlodar,1,0,,,,0
-990871200,Suwon Bluewings,Iwata,1,0,,,,0
-990871200,Persepolis,Ertis Pavlodar,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+967024800,PSM Makassar,Song Lam Nghe An,KMc81nfp,EiT1Wpdd,0,0,,,,0
+967111200,Ertis Pavlodar,Nisa Asgabat,YB20ndi2,,3,1,,,,0
+967111200,Al Wakra,Persepolis,QDBqG7dG,Oli0orYQ,2,4,,,,0
+967197600,Varzob Dushanbe,Dustlik,,,-,-,Awrd,,,0
+967197600,Al Ramtha,Al Salmiya,riw7cLfq,nBhEizB7,0,1,,,,0
+967197600,Al Hilal,Al Karamah,joUWHZ1t,zgpeJZUE,2,1,,,,0
+967197600,Al Ansar,Al Ittihad,vceWQAUn,jeFu6Qy4,-,-,Awrd,,,0
+967716000,Al Ahli Sana'a,Al-Ahli Manama,nPmODXEC,OfjJDLff,0,1,,,,0
+968234400,Policia,Lion City,l2RHTltM,pW3pRTln,0,5,,,,0
+968320800,Persepolis,Al Wakra,Oli0orYQ,QDBqG7dG,5,1,,,,0
+968320800,Dustlik,Varzob Dushanbe,,,-,-,Awrd,,,0
+968320800,Al Salmiya,Al Ramtha,nBhEizB7,riw7cLfq,2,2,,,,0
+968320800,Al Karamah,Al Hilal,zgpeJZUE,joUWHZ1t,0,0,,,,0
+968320800,Al Ittihad,Al Ansar,jeFu6Qy4,vceWQAUn,-,-,Awrd,,,0
+968407200,Nisa Asgabat,Ertis Pavlodar,,YB20ndi2,1,2,,,,0
+968580000,Song Lam Nghe An,PSM Makassar,EiT1Wpdd,KMc81nfp,1,4,,,,0
+968666400,Al Zawraa,Al Ain,2g5GC7oP,OKa9P8WR,2,1,,,,0
+968839200,Lion City,Policia,pW3pRTln,l2RHTltM,6,0,,,,0
+968925600,Al-Ahli Manama,Al Ahli Sana'a,OfjJDLff,nPmODXEC,0,0,,,,0
+969098400,Iwata,South China,j758IH5f,QmhmEbxD,3,1,,,,0
+969444000,Shandong Taishan,Lion City,Of01Mw8S,pW3pRTln,3,0,,,,0
+969444000,PSM Makassar,Air Force Central,KMc81nfp,MLON1Ooq,6,1,,,,0
+969530400,Suwon Bluewings,Hurriyya,nuOc3CG5,xMpp7wKs,2,1,,,,0
+969616800,Al Ain,Al Zawraa,OKa9P8WR,2g5GC7oP,4,0,,,,0
+970048800,Lion City,Shandong Taishan,pW3pRTln,Of01Mw8S,1,3,,,,0
+970048800,Hurriyya,Suwon Bluewings,xMpp7wKs,nuOc3CG5,0,0,,,,0
+970048800,Air Force Central,PSM Makassar,MLON1Ooq,KMc81nfp,0,5,,,,0
+972122400,Ertis Pavlodar,Varzob Dushanbe,YB20ndi2,,4,1,,,,0
+973162800,Persepolis,Al Ain,Oli0orYQ,OKa9P8WR,2,0,,,,0
+973249200,Al Hilal,Al Salmiya,joUWHZ1t,nBhEizB7,3,1,,,,0
+973335600,Varzob Dushanbe,Ertis Pavlodar,,YB20ndi2,2,3,,,,0
+973422000,Al-Ahli Manama,Al Ittihad,OfjJDLff,jeFu6Qy4,0,2,,,,0
+973767600,Al Ittihad,Al-Ahli Manama,jeFu6Qy4,OfjJDLff,6,2,,,,0
+974372400,Al Ain,Persepolis,OKa9P8WR,Oli0orYQ,2,0,AET,2,2,0
+977569200,South China,Iwata,QmhmEbxD,j758IH5f,1,3,,,,0
+977569200,Al Salmiya,Al Hilal,nBhEizB7,joUWHZ1t,0,0,,,,0
+983962800,Persepolis,Al Ittihad,Oli0orYQ,jeFu6Qy4,0,0,,,,0
+983962800,Al Hilal,Ertis Pavlodar,joUWHZ1t,YB20ndi2,0,0,,,,0
+984135600,Persepolis,Ertis Pavlodar,Oli0orYQ,YB20ndi2,0,0,,,,0
+984135600,Al Ittihad,Al Hilal,jeFu6Qy4,joUWHZ1t,2,0,,,,0
+984308400,Persepolis,Al Hilal,Oli0orYQ,joUWHZ1t,3,1,,,,0
+984308400,Al Ittihad,Ertis Pavlodar,jeFu6Qy4,YB20ndi2,1,2,,,,0
+985172400,Suwon Bluewings,Iwata,nuOc3CG5,j758IH5f,0,3,,,,0
+985172400,PSM Makassar,Shandong Taishan,KMc81nfp,Of01Mw8S,1,3,,,,0
+985345200,PSM Makassar,Suwon Bluewings,KMc81nfp,nuOc3CG5,1,8,,,,0
+985345200,Iwata,Shandong Taishan,j758IH5f,Of01Mw8S,6,2,,,,0
+985514400,Shandong Taishan,Suwon Bluewings,Of01Mw8S,nuOc3CG5,0,6,,,,0
+985514400,PSM Makassar,Iwata,KMc81nfp,j758IH5f,0,3,,,,0
+990698400,Persepolis,Suwon Bluewings,Oli0orYQ,nuOc3CG5,1,2,,,,0
+990698400,Iwata,Ertis Pavlodar,j758IH5f,YB20ndi2,1,0,,,,0
+990871200,Suwon Bluewings,Iwata,nuOc3CG5,j758IH5f,1,0,,,,0
+990871200,Persepolis,Ertis Pavlodar,Oli0orYQ,YB20ndi2,2,0,,,,0

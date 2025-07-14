@@ -1,12 +1,12 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1631705400,Shirak Gyumri,Noravank,0,1,,,,0
-1631791800,Lernayin Artsakh,Ararat-Armenia,1,2,,,,0
-1631878200,Van,Sevan,2,2,Pen,3,2,0
-1631892600,BKMA,Pyunik Yerevan,1,2,,,,0
-1637505000,Urartu,Alashkert,2,0,,,,0
-1637676000,Pyunik Yerevan,Van,0,0,Pen,1,2,0
-1637748000,Noravank,Ararat-Armenia,2,1,,,,0
-1637848800,Ararat Yerevan,Noah,1,0,,,,0
-1648908000,Ararat Yerevan,Noravank,1,2,,,,0
-1648994400,Urartu,Van,3,0,,,,0
-1652022000,Noravank,Urartu,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1631705400,Shirak Gyumri,Noravank,2ajBCmYJ,2FOf7Pfq,0,1,,,,0
+1631791800,Lernayin Artsakh,Ararat-Armenia,MFZ0SgDq,6FB0mgsP,1,2,,,,0
+1631878200,Van,Sevan,bD2dwPED,WWXawfUa,2,2,Pen,3,2,0
+1631892600,BKMA,Pyunik Yerevan,fylJcjMq,zkO8QgRo,1,2,,,,0
+1637505000,Urartu,Alashkert,bi5W0N3n,Y1ZCBtLt,2,0,,,,0
+1637676000,Pyunik Yerevan,Van,zkO8QgRo,bD2dwPED,0,0,Pen,1,2,0
+1637748000,Noravank,Ararat-Armenia,2FOf7Pfq,6FB0mgsP,2,1,,,,0
+1637848800,Ararat Yerevan,Noah,dUsGVqCN,2mU8GaB3,1,0,,,,0
+1648908000,Ararat Yerevan,Noravank,dUsGVqCN,2FOf7Pfq,1,2,,,,0
+1648994400,Urartu,Van,bi5W0N3n,bD2dwPED,3,0,,,,0
+1652022000,Noravank,Urartu,2FOf7Pfq,bi5W0N3n,2,0,,,,0

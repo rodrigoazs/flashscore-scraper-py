@@ -1,30 +1,30 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1644973200,AD Santos (Cos),New York City (Usa),0,2,,,,0
-1644980400,Santos Laguna (Mex),CF Montreal (Can),1,0,,,,0
-1645052400,Guastatoya (Gtm),Club Leon (Mex),0,2,,,,0
-1645059600,Forge (Can),Cruz Azul (Mex),0,1,,,,0
-1645066800,Saprissa (Cos),UNAM Pumas (Mex),2,2,,,,0
-1645142400,Comunicaciones (Gtm),Colorado Rapids (Usa),1,0,,,,0
-1645149600,Motagua (Hon),Seattle Sounders (Usa),0,0,,,,0
-1645223400,Cavaly (Hai),New England Revolution (Usa),-,-,Awrd,,,0
-1645586100,Club Leon (Mex),Guastatoya (Gtm),1,0,,,,0
-1645657200,New York City (Usa),AD Santos (Cos),4,0,,,,1
-1645665300,Colorado Rapids (Usa),Comunicaciones (Gtm),1,0,Pen,1,1,0
-1645665300,CF Montreal (Can),Santos Laguna (Mex),3,0,,,,0
-1645673400,UNAM Pumas (Mex),Saprissa (Cos),4,1,,,,0
-1645752600,Cruz Azul (Mex),Forge (Can),3,1,,,,0
-1645760700,Seattle Sounders (Usa),Motagua (Hon),5,0,,,,0
-1646787600,New York City (Usa),Comunicaciones (Gtm),3,1,,,,0
-1646794800,Seattle Sounders (Usa),Club Leon (Mex),3,0,,,,0
-1646874000,New England Revolution (Usa),UNAM Pumas (Mex),3,0,,,,0
-1646881200,Cruz Azul (Mex),CF Montreal (Can),1,0,,,,0
-1647388800,Comunicaciones (Gtm),New York City (Usa),4,2,,,,0
-1647475200,CF Montreal (Can),Cruz Azul (Mex),1,1,,,,0
-1647483300,UNAM Pumas (Mex),New England Revolution (Usa),3,0,Pen,4,0,0
-1647563400,Club Leon (Mex),Seattle Sounders (Usa),1,1,,,,0
-1649210400,UNAM Pumas (Mex),Cruz Azul (Mex),2,1,,,,0
-1649296800,Seattle Sounders (Usa),New York City (Usa),3,1,,,,0
-1649815200,Cruz Azul (Mex),UNAM Pumas (Mex),0,0,,,,0
-1649898000,New York City (Usa),Seattle Sounders (Usa),1,1,,,,0
-1651113000,UNAM Pumas (Mex),Seattle Sounders (Usa),2,2,,,,0
-1651716000,Seattle Sounders (Usa),UNAM Pumas (Mex),3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1644973200,AD Santos (Cos),New York City (Usa),zPYfw7JB,GxTXAzv3,0,2,,,,0
+1644980400,Santos Laguna (Mex),CF Montreal (Can),bmPslben,APghxIAJ,1,0,,,,0
+1645052400,Guastatoya (Gtm),Club Leon (Mex),YeG1eJ2o,Uc00R8BH,0,2,,,,0
+1645059600,Forge (Can),Cruz Azul (Mex),hxk14kfC,nqhLBCKD,0,1,,,,0
+1645066800,Saprissa (Cos),UNAM Pumas (Mex),tnwDCzLD,WdwQoCtd,2,2,,,,0
+1645142400,Comunicaciones (Gtm),Colorado Rapids (Usa),O2l6wJsK,fyzFgPy8,1,0,,,,0
+1645149600,Motagua (Hon),Seattle Sounders (Usa),dtCxYreO,Q7Ql2Qbi,0,0,,,,0
+1645223400,Cavaly (Hai),New England Revolution (Usa),EN77Q73c,KI53uaQC,-,-,Awrd,,,0
+1645586100,Club Leon (Mex),Guastatoya (Gtm),Uc00R8BH,YeG1eJ2o,1,0,,,,0
+1645657200,New York City (Usa),AD Santos (Cos),GxTXAzv3,zPYfw7JB,4,0,,,,1
+1645665300,Colorado Rapids (Usa),Comunicaciones (Gtm),fyzFgPy8,O2l6wJsK,1,0,Pen,1,1,0
+1645665300,CF Montreal (Can),Santos Laguna (Mex),APghxIAJ,bmPslben,3,0,,,,0
+1645673400,UNAM Pumas (Mex),Saprissa (Cos),WdwQoCtd,tnwDCzLD,4,1,,,,0
+1645752600,Cruz Azul (Mex),Forge (Can),nqhLBCKD,hxk14kfC,3,1,,,,0
+1645760700,Seattle Sounders (Usa),Motagua (Hon),Q7Ql2Qbi,dtCxYreO,5,0,,,,0
+1646787600,New York City (Usa),Comunicaciones (Gtm),GxTXAzv3,O2l6wJsK,3,1,,,,0
+1646794800,Seattle Sounders (Usa),Club Leon (Mex),Q7Ql2Qbi,Uc00R8BH,3,0,,,,0
+1646874000,New England Revolution (Usa),UNAM Pumas (Mex),KI53uaQC,WdwQoCtd,3,0,,,,0
+1646881200,Cruz Azul (Mex),CF Montreal (Can),nqhLBCKD,APghxIAJ,1,0,,,,0
+1647388800,Comunicaciones (Gtm),New York City (Usa),O2l6wJsK,GxTXAzv3,4,2,,,,0
+1647475200,CF Montreal (Can),Cruz Azul (Mex),APghxIAJ,nqhLBCKD,1,1,,,,0
+1647483300,UNAM Pumas (Mex),New England Revolution (Usa),WdwQoCtd,KI53uaQC,3,0,Pen,4,0,0
+1647563400,Club Leon (Mex),Seattle Sounders (Usa),Uc00R8BH,Q7Ql2Qbi,1,1,,,,0
+1649210400,UNAM Pumas (Mex),Cruz Azul (Mex),WdwQoCtd,nqhLBCKD,2,1,,,,0
+1649296800,Seattle Sounders (Usa),New York City (Usa),Q7Ql2Qbi,GxTXAzv3,3,1,,,,0
+1649815200,Cruz Azul (Mex),UNAM Pumas (Mex),nqhLBCKD,WdwQoCtd,0,0,,,,0
+1649898000,New York City (Usa),Seattle Sounders (Usa),GxTXAzv3,Q7Ql2Qbi,1,1,,,,0
+1651113000,UNAM Pumas (Mex),Seattle Sounders (Usa),WdwQoCtd,Q7Ql2Qbi,2,2,,,,0
+1651716000,Seattle Sounders (Usa),UNAM Pumas (Mex),Q7Ql2Qbi,WdwQoCtd,3,0,,,,0

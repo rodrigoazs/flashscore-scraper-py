@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1172338200,Polokwane,Pietersburg Pillars,2,1,,,,0
-1172338200,Moroka Swallows,Orlando Pirates,0,2,,,,0
-1172338200,Mighty FC,Royal AM,0,4,,,,0
-1172338200,Durban City,Island FC,2,0,,,,0
-1172338200,Birds United,Bidvest Wits,0,1,,,,0
-1172424600,Supersport Utd,Winners Park,2,0,,,,0
-1172424600,Platinum Stars,Jomo Cosmos,2,0,,,,0
-1172424600,Mosterjeug FC,Ajax Cape Town reserve,1,7,,,,0
-1172424600,Mamelodi Sundowns,YeboYes United,2,1,,,,0
-1172424600,Leandra,Garankuwa,2,3,,,,0
-1172424600,Kaizer Chiefs,Golden Arrows,0,0,Pen,0,1,0
-1172424600,Ikapa Sporting,Cape Town Spurs,0,2,,,,0
-1172424600,Dynamos,PJ Stars Kings,1,0,,,,0
-1172424600,Bloemfontein Young Tigers,AmaZulu,0,2,,,,0
-1172424600,Black Leopards,Thanda Royal Zulu,1,3,,,,0
-1172683800,Santos,Free State Stars,1,0,,,,0
-1173893400,Durban City,Mamelodi Sundowns,0,1,,,,0
-1174152600,Thanda Royal Zulu,Polokwane,2,1,,,,0
-1174152600,Supersport Utd,Golden Arrows,1,0,,,,0
-1174152600,Cape Town Spurs,Bidvest Wits,1,0,,,,0
-1174152600,Ajax Cape Town reserve,Platinum Stars,0,1,,,,0
-1174239000,Royal AM,Orlando Pirates,2,2,Pen,3,2,0
-1174239000,Dynamos,Garankuwa,2,1,,,,0
-1174239000,AmaZulu,Santos,0,2,,,,0
-1176568200,Platinum Stars,Supersport Utd,0,0,Pen,1,0,0
-1176568200,Mamelodi Sundowns,Dynamos,1,0,,,,0
-1176654600,Royal AM,Cape Town Spurs,0,1,,,,0
-1176913800,Santos,Thanda Royal Zulu,1,0,,,,0
-1178123400,Mamelodi Sundowns,Platinum Stars,1,1,Pen,2,1,0
-1178469000,Cape Town Spurs,Santos,1,0,,,,0
-1180197000,Mamelodi Sundowns,Cape Town Spurs,0,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1172338200,Polokwane,Pietersburg Pillars,U3PAwmEl,,2,1,,,,0
+1172338200,Moroka Swallows,Orlando Pirates,tWjTbMwC,KAV9ypMU,0,2,,,,0
+1172338200,Mighty FC,Royal AM,,nu2KFFkD,0,4,,,,0
+1172338200,Durban City,Island FC,6RTAg0C5,,2,0,,,,0
+1172338200,Birds United,Bidvest Wits,,8hmaPcYe,0,1,,,,0
+1172424600,Supersport Utd,Winners Park,4UX5t7jk,,2,0,,,,0
+1172424600,Platinum Stars,Jomo Cosmos,p6867egJ,8l3GGez7,2,0,,,,0
+1172424600,Mosterjeug FC,Ajax Cape Town reserve,,IabmJYeM,1,7,,,,0
+1172424600,Mamelodi Sundowns,YeboYes United,x2G2Q2c3,,2,1,,,,0
+1172424600,Leandra,Garankuwa,,nmCePFiU,2,3,,,,0
+1172424600,Kaizer Chiefs,Golden Arrows,MeBJ238q,8l3GGez7,0,0,Pen,0,1,0
+1172424600,Ikapa Sporting,Cape Town Spurs,,QJM4feF8,0,2,,,,0
+1172424600,Dynamos,PJ Stars Kings,nuAqtRls,,1,0,,,,0
+1172424600,Bloemfontein Young Tigers,AmaZulu,d2qS1nzp,6Fg6xWE0,0,2,,,,0
+1172424600,Black Leopards,Thanda Royal Zulu,8l3GGez7,rg2yT6oF,1,3,,,,0
+1172683800,Santos,Free State Stars,nu2KFFkD,6LfbbTwj,1,0,,,,0
+1173893400,Durban City,Mamelodi Sundowns,6RTAg0C5,x2G2Q2c3,0,1,,,,0
+1174152600,Thanda Royal Zulu,Polokwane,rg2yT6oF,U3PAwmEl,2,1,,,,0
+1174152600,Supersport Utd,Golden Arrows,4UX5t7jk,8l3GGez7,1,0,,,,0
+1174152600,Cape Town Spurs,Bidvest Wits,QJM4feF8,8hmaPcYe,1,0,,,,0
+1174152600,Ajax Cape Town reserve,Platinum Stars,IabmJYeM,p6867egJ,0,1,,,,0
+1174239000,Royal AM,Orlando Pirates,nu2KFFkD,KAV9ypMU,2,2,Pen,3,2,0
+1174239000,Dynamos,Garankuwa,nuAqtRls,nmCePFiU,2,1,,,,0
+1174239000,AmaZulu,Santos,6Fg6xWE0,nu2KFFkD,0,2,,,,0
+1176568200,Platinum Stars,Supersport Utd,p6867egJ,4UX5t7jk,0,0,Pen,1,0,0
+1176568200,Mamelodi Sundowns,Dynamos,x2G2Q2c3,nuAqtRls,1,0,,,,0
+1176654600,Royal AM,Cape Town Spurs,nu2KFFkD,QJM4feF8,0,1,,,,0
+1176913800,Santos,Thanda Royal Zulu,nu2KFFkD,rg2yT6oF,1,0,,,,0
+1178123400,Mamelodi Sundowns,Platinum Stars,x2G2Q2c3,p6867egJ,1,1,Pen,2,1,0
+1178469000,Cape Town Spurs,Santos,QJM4feF8,nu2KFFkD,1,0,,,,0
+1180197000,Mamelodi Sundowns,Cape Town Spurs,x2G2Q2c3,QJM4feF8,0,2,,,,0

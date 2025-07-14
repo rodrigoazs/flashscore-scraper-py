@@ -1,69 +1,69 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1092182400,Arsenal Sarandi,Banfield,1,1,,,,0
-1092261300,LDU Quito,Aucas,1,0,,,,0
-1092261300,Cerro Porteno,Libertad Asuncion,1,1,,,,0
-1092351600,Miranda,Carabobo,0,0,,,,0
-1092358800,Aurora,Bolivar,1,2,,,,0
-1092783600,Carabobo,Miranda,2,0,,,,0
-1092792600,Coronel,Alianza Atl.,1,0,,,,0
-1092866100,Quilmes,San Lorenzo,0,2,,,,0
-1092952500,Millonarios,Junior,1,0,,,,0
-1092952500,Bolivar,Aurora,3,1,,,,0
-1093298400,Carabobo,Cienciano,1,2,,,,0
-1093396500,Libertad Asuncion,Cerro Porteno,0,2,,,,0
-1093473000,Figueirense,Internacional,0,0,,,,0
-1093481100,Parana,Santos,2,1,,,,0
-1093481100,Goias,Atletico-MG,4,2,,,,0
-1093565700,Coritiba,Sao Caetano,1,2,,,,0
-1093989600,U. De Concepcion,S. Wanderers,2,1,,,,0
-1093989600,Cienciano,Carabobo,6,1,,,,0
-1094076000,San Lorenzo,Quilmes,0,0,,,,0
-1094162100,Banfield,Arsenal Sarandi,3,4,,,,0
-1094322600,Internacional,Figueirense,1,1,AET,2,1,0
-1094323500,Santos,Parana,3,0,,,,0
-1094323500,Atletico-MG,Goias,1,1,,,,0
-1094333400,Sao Caetano,Coritiba,2,2,,,,0
-1094680500,S. Wanderers,U. De Concepcion,0,1,,,,0
-1094680500,Arsenal Sarandi,River Plate,2,1,,,,0
-1094766900,Junior,Millonarios,2,0,,,,0
-1094766900,Danubio,Penarol,1,2,,,,0
-1095198900,Aucas,LDU Quito,1,1,,,,0
-1095198900,Alianza Atl.,Coronel,4,1,,,,0
-1095285300,Sao Caetano,Sao Paulo,1,1,,,,0
-1095285300,Santos,Flamengo RJ,0,0,,,,0
-1095285300,Internacional,Gremio,2,0,,,,0
-1095371700,San Lorenzo,Boca Juniors,1,0,,,,0
-1095371700,Goias,Cruzeiro,2,2,,,,0
-1095803700,Penarol,Danubio,1,1,,,,0
-1095890100,Sao Paulo,Sao Caetano,1,1,Pen,2,1,0
-1095890100,Gremio,Internacional,2,1,,,,0
-1095890100,Cruzeiro,Goias,3,2,,,,0
-1095976500,Flamengo RJ,Santos,2,2,Pen,2,3,0
-1096408500,LDU Quito,Cienciano,4,0,,,,0
-1096494900,Boca Juniors,San Lorenzo,2,1,AET,2,1,0
-1096495200,U. De Concepcion,Bolivar,0,0,,,,0
-1096581300,River Plate,Arsenal Sarandi,0,0,,,,0
-1096581300,Alianza Atl.,Junior,0,2,,,,0
-1097013300,Cienciano,LDU Quito,2,2,,,,0
-1097099700,Penarol,Cerro Porteno,1,3,,,,0
-1097431200,Santos,Sao Paulo,1,0,,,,0
-1097431200,Internacional,Cruzeiro,3,1,,,,0
-1098216000,Junior,Alianza Atl.,4,1,,,,0
-1098222900,Bolivar,U. De Concepcion,4,2,,,,0
-1098309300,Sao Paulo,Santos,1,1,,,,0
-1098309300,Cruzeiro,Internacional,0,1,,,,0
-1098381600,Cerro Porteno,Penarol,1,2,,,,0
-1098914100,Boca Juniors,Cerro Porteno,1,1,,,,0
-1099000500,Arsenal Sarandi,Bolivar,1,0,,,,0
-1099522500,LDU Quito,Santos,3,2,,,,0
-1099522500,Internacional,Junior,1,0,,,,0
-1099608900,Bolivar,Arsenal Sarandi,3,0,,,,0
-1100127300,Santos,LDU Quito,1,2,,,,0
-1100127300,Junior,Internacional,1,1,,,,0
-1100127300,Cerro Porteno,Boca Juniors,0,0,Pen,0,1,0
-1101336900,Boca Juniors,Internacional,4,2,,,,0
-1101423300,LDU Quito,Bolivar,1,1,,,,0
-1101941700,Internacional,Boca Juniors,0,0,,,,0
-1102028100,Bolivar,LDU Quito,2,1,,,,0
-1102546500,Bolivar,Boca Juniors,1,0,,,,0
-1103317200,Boca Juniors,Bolivar,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1092182400,Arsenal Sarandi,Banfield,v5Re95K4,zPA7Mpsn,1,1,,,,0
+1092261300,LDU Quito,Aucas,dldy8uVh,Wz8yaA21,1,0,,,,0
+1092261300,Cerro Porteno,Libertad Asuncion,SOY3p1Si,UwvYANk9,1,1,,,,0
+1092351600,Miranda,Carabobo,K86NrQ27,CtnfXRKE,0,0,,,,0
+1092358800,Aurora,Bolivar,YB0DoGZt,KxxHBfzK,1,2,,,,0
+1092783600,Carabobo,Miranda,CtnfXRKE,K86NrQ27,2,0,,,,0
+1092792600,Coronel,Alianza Atl.,Y5NXdbNG,z942qmGf,1,0,,,,0
+1092866100,Quilmes,San Lorenzo,zu9yeAeg,ABQ0Crsh,0,2,,,,0
+1092952500,Millonarios,Junior,6kduDy6P,G2820wU0,1,0,,,,0
+1092952500,Bolivar,Aurora,KxxHBfzK,YB0DoGZt,3,1,,,,0
+1093298400,Carabobo,Cienciano,CtnfXRKE,z942qmGf,1,2,,,,0
+1093396500,Libertad Asuncion,Cerro Porteno,UwvYANk9,SOY3p1Si,0,2,,,,0
+1093473000,Figueirense,Internacional,lGWmJ4QE,ALgHCh57,0,0,,,,0
+1093481100,Parana,Santos,Qy4PlptD,hv442jSk,2,1,,,,0
+1093481100,Goias,Atletico-MG,G2OQQubE,pCk2vaSD,4,2,,,,0
+1093565700,Coritiba,Sao Caetano,8f6Hj6B0,CWSdqQSI,1,2,,,,0
+1093989600,U. De Concepcion,S. Wanderers,Eq74Jcjl,Miq6wRQG,2,1,,,,0
+1093989600,Cienciano,Carabobo,z942qmGf,CtnfXRKE,6,1,,,,0
+1094076000,San Lorenzo,Quilmes,ABQ0Crsh,zu9yeAeg,0,0,,,,0
+1094162100,Banfield,Arsenal Sarandi,zPA7Mpsn,v5Re95K4,3,4,,,,0
+1094322600,Internacional,Figueirense,ALgHCh57,lGWmJ4QE,1,1,AET,2,1,0
+1094323500,Santos,Parana,hv442jSk,Qy4PlptD,3,0,,,,0
+1094323500,Atletico-MG,Goias,pCk2vaSD,G2OQQubE,1,1,,,,0
+1094333400,Sao Caetano,Coritiba,CWSdqQSI,8f6Hj6B0,2,2,,,,0
+1094680500,S. Wanderers,U. De Concepcion,Miq6wRQG,Eq74Jcjl,0,1,,,,0
+1094680500,Arsenal Sarandi,River Plate,v5Re95K4,nqhLBCKD,2,1,,,,0
+1094766900,Junior,Millonarios,G2820wU0,6kduDy6P,2,0,,,,0
+1094766900,Danubio,Penarol,pG50LNFb,nqhLBCKD,1,2,,,,0
+1095198900,Aucas,LDU Quito,Wz8yaA21,dldy8uVh,1,1,,,,0
+1095198900,Alianza Atl.,Coronel,z942qmGf,Y5NXdbNG,4,1,,,,0
+1095285300,Sao Caetano,Sao Paulo,CWSdqQSI,AkTesf41,1,1,,,,0
+1095285300,Santos,Flamengo RJ,hv442jSk,2R2JjDQC,0,0,,,,0
+1095285300,Internacional,Gremio,ALgHCh57,tQsU6dGl,2,0,,,,0
+1095371700,San Lorenzo,Boca Juniors,ABQ0Crsh,tnwDCzLD,1,0,,,,0
+1095371700,Goias,Cruzeiro,G2OQQubE,SjJmyx86,2,2,,,,0
+1095803700,Penarol,Danubio,nqhLBCKD,pG50LNFb,1,1,,,,0
+1095890100,Sao Paulo,Sao Caetano,AkTesf41,CWSdqQSI,1,1,Pen,2,1,0
+1095890100,Gremio,Internacional,tQsU6dGl,ALgHCh57,2,1,,,,0
+1095890100,Cruzeiro,Goias,SjJmyx86,G2OQQubE,3,2,,,,0
+1095976500,Flamengo RJ,Santos,2R2JjDQC,hv442jSk,2,2,Pen,2,3,0
+1096408500,LDU Quito,Cienciano,dldy8uVh,z942qmGf,4,0,,,,0
+1096494900,Boca Juniors,San Lorenzo,tnwDCzLD,ABQ0Crsh,2,1,AET,2,1,0
+1096495200,U. De Concepcion,Bolivar,Eq74Jcjl,KxxHBfzK,0,0,,,,0
+1096581300,River Plate,Arsenal Sarandi,nqhLBCKD,v5Re95K4,0,0,,,,0
+1096581300,Alianza Atl.,Junior,z942qmGf,G2820wU0,0,2,,,,0
+1097013300,Cienciano,LDU Quito,z942qmGf,dldy8uVh,2,2,,,,0
+1097099700,Penarol,Cerro Porteno,nqhLBCKD,SOY3p1Si,1,3,,,,0
+1097431200,Santos,Sao Paulo,hv442jSk,AkTesf41,1,0,,,,0
+1097431200,Internacional,Cruzeiro,ALgHCh57,SjJmyx86,3,1,,,,0
+1098216000,Junior,Alianza Atl.,G2820wU0,z942qmGf,4,1,,,,0
+1098222900,Bolivar,U. De Concepcion,KxxHBfzK,Eq74Jcjl,4,2,,,,0
+1098309300,Sao Paulo,Santos,AkTesf41,hv442jSk,1,1,,,,0
+1098309300,Cruzeiro,Internacional,SjJmyx86,ALgHCh57,0,1,,,,0
+1098381600,Cerro Porteno,Penarol,SOY3p1Si,nqhLBCKD,1,2,,,,0
+1098914100,Boca Juniors,Cerro Porteno,tnwDCzLD,SOY3p1Si,1,1,,,,0
+1099000500,Arsenal Sarandi,Bolivar,v5Re95K4,KxxHBfzK,1,0,,,,0
+1099522500,LDU Quito,Santos,dldy8uVh,hv442jSk,3,2,,,,0
+1099522500,Internacional,Junior,ALgHCh57,G2820wU0,1,0,,,,0
+1099608900,Bolivar,Arsenal Sarandi,KxxHBfzK,v5Re95K4,3,0,,,,0
+1100127300,Santos,LDU Quito,hv442jSk,dldy8uVh,1,2,,,,0
+1100127300,Junior,Internacional,G2820wU0,ALgHCh57,1,1,,,,0
+1100127300,Cerro Porteno,Boca Juniors,SOY3p1Si,tnwDCzLD,0,0,Pen,0,1,0
+1101336900,Boca Juniors,Internacional,tnwDCzLD,ALgHCh57,4,2,,,,0
+1101423300,LDU Quito,Bolivar,dldy8uVh,KxxHBfzK,1,1,,,,0
+1101941700,Internacional,Boca Juniors,ALgHCh57,tnwDCzLD,0,0,,,,0
+1102028100,Bolivar,LDU Quito,KxxHBfzK,dldy8uVh,2,1,,,,0
+1102546500,Bolivar,Boca Juniors,KxxHBfzK,tnwDCzLD,1,0,,,,0
+1103317200,Boca Juniors,Bolivar,tnwDCzLD,KxxHBfzK,2,0,,,,0

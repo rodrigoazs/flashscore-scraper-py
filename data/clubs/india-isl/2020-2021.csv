@@ -1,116 +1,116 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1605880800,Kerala Blasters,Mohun Bagan,0,1,,,,1
-1605967200,North East Utd,Mumbai City,1,0,,,,1
-1606053600,Goa,Bengaluru FC,2,2,,,,1
-1606140000,Odisha FC,Hyderabad,0,1,,,,1
-1606226400,Jamshedpur,Chennaiyin,1,2,,,,1
-1606312800,Goa,Mumbai City,0,1,,,,1
-1606399200,Kerala Blasters,North East Utd,2,2,,,,1
-1606485600,East Bengal,Mohun Bagan,0,2,,,,1
-1606572000,Bengaluru FC,Hyderabad,0,0,,,,1
-1606649400,Jamshedpur,Odisha FC,2,2,,,,1
-1606658400,Chennaiyin,Kerala Blasters,0,0,,,,1
-1606744800,Goa,North East Utd,1,1,,,,1
-1606831200,Mumbai City,East Bengal,3,0,,,,1
-1606917600,Hyderabad,Jamshedpur,1,1,,,,1
-1607004000,Mohun Bagan,Odisha FC,1,0,,,,0
-1607090400,Chennaiyin,Bengaluru FC,0,1,,,,1
-1607176800,North East Utd,East Bengal,2,0,,,,1
-1607254200,Mumbai City,Odisha FC,2,0,,,,1
-1607263200,Goa,Kerala Blasters,3,1,,,,1
-1607349600,Jamshedpur,Mohun Bagan,2,1,,,,1
-1607436000,Bengaluru FC,North East Utd,2,2,,,,1
-1607522400,Mumbai City,Chennaiyin,2,1,,,,1
-1607608800,East Bengal,Jamshedpur,0,0,,,,1
-1607695200,Mohun Bagan,Hyderabad,1,1,,,,1
-1607781600,Odisha FC,Goa,0,1,,,,1
-1607859000,North East Utd,Chennaiyin,0,0,,,,1
-1607868000,Bengaluru FC,Kerala Blasters,4,2,,,,1
-1607954400,Mumbai City,Jamshedpur,1,1,,,,1
-1608040800,Hyderabad,East Bengal,3,2,,,,1
-1608127200,Mohun Bagan,Goa,1,0,,,,1
-1608213600,Odisha FC,Bengaluru FC,1,2,,,,1
-1608300000,North East Utd,Jamshedpur,0,1,,,,1
-1608386400,Goa,Chennaiyin,1,2,,,,1
-1608463800,Hyderabad,Mumbai City,0,2,,,,1
-1608472800,Kerala Blasters,East Bengal,1,1,,,,1
-1608559200,Mohun Bagan,Bengaluru FC,1,0,,,,1
-1608645600,Odisha FC,North East Utd,2,2,,,,1
-1608732000,Jamshedpur,Goa,1,2,,,,1
-1608991200,East Bengal,Chennaiyin,2,2,,,,1
-1609077600,Kerala Blasters,Hyderabad,2,0,,,,1
-1609164000,Bengaluru FC,Jamshedpur,0,1,,,,1
-1609250400,Chennaiyin,Mohun Bagan,0,0,,,,1
-1609336800,Hyderabad,Goa,1,2,,,,1
-1609596000,Mumbai City,Kerala Blasters,2,0,,,,1
-1609673400,East Bengal,Odisha FC,3,1,,,,1
-1609682400,Mohun Bagan,North East Utd,2,0,,,,1
-1609768800,Chennaiyin,Hyderabad,1,4,,,,1
-1609855200,Bengaluru FC,Mumbai City,1,3,,,,1
-1609941600,East Bengal,Goa,1,1,,,,1
-1610028000,Kerala Blasters,Odisha FC,2,4,,,,1
-1610114400,North East Utd,Hyderabad,2,4,,,,1
-1610200800,Bengaluru FC,East Bengal,0,1,,,,1
-1610278200,Chennaiyin,Odisha FC,0,0,,,,1
-1610287200,Jamshedpur,Kerala Blasters,2,3,,,,1
-1610373600,Mohun Bagan,Mumbai City,0,1,,,,1
-1610460000,North East Utd,Bengaluru FC,1,1,,,,0
-1610546400,Odisha FC,Chennaiyin,1,2,,,,0
-1610632800,Goa,Jamshedpur,3,0,,,,0
-1610719200,East Bengal,Kerala Blasters,1,1,,,,0
-1610805600,Mumbai City,Hyderabad,0,0,,,,0
-1610883000,Jamshedpur,North East Utd,1,2,,,,0
-1610892000,Goa,Mohun Bagan,1,1,,,,0
-1610978400,Chennaiyin,East Bengal,0,0,,,,0
-1611064800,Hyderabad,Odisha FC,1,1,,,,0
-1611151200,Kerala Blasters,Bengaluru FC,2,1,,,,0
-1611237600,Mohun Bagan,Chennaiyin,1,0,,,,0
-1611324000,East Bengal,Mumbai City,0,1,,,,0
-1611410400,Kerala Blasters,Goa,1,1,,,,0
-1611487800,Jamshedpur,Hyderabad,0,0,,,,0
-1611496800,Bengaluru FC,Odisha FC,1,1,,,,0
-1611583200,Chennaiyin,Mumbai City,1,1,,,,0
-1611669600,North East Utd,Mohun Bagan,2,1,,,,0
-1611756000,Kerala Blasters,Jamshedpur,0,0,,,,0
-1611842400,Hyderabad,Bengaluru FC,2,2,,,,0
-1611928800,Goa,East Bengal,1,1,,,,0
-1612015200,Mumbai City,North East Utd,1,2,,,,0
-1612092600,Hyderabad,Chennaiyin,2,0,,,,0
-1612101600,Mohun Bagan,Kerala Blasters,3,2,,,,0
-1612188000,Odisha FC,Jamshedpur,0,1,,,,0
-1612274400,East Bengal,Bengaluru FC,0,2,,,,0
-1612360800,Kerala Blasters,Mumbai City,1,2,,,,0
-1612447200,North East Utd,Goa,2,2,,,,0
-1612533600,Bengaluru FC,Chennaiyin,0,0,,,,0
-1612620000,Odisha FC,Mohun Bagan,1,4,,,,0
-1612697400,Jamshedpur,East Bengal,1,2,,,,0
-1612706400,Hyderabad,North East Utd,0,0,,,,0
-1612792800,Mumbai City,Goa,3,3,,,,0
-1612879200,Bengaluru FC,Mohun Bagan,0,2,,,,0
-1612965600,Chennaiyin,Jamshedpur,0,1,,,,0
-1613052000,Odisha FC,Kerala Blasters,2,2,,,,0
-1613138400,East Bengal,Hyderabad,1,1,,,,0
-1613224800,Chennaiyin,Goa,2,2,,,,0
-1613302200,North East Utd,Odisha FC,3,1,,,,0
-1613311200,Mohun Bagan,Jamshedpur,1,0,,,,0
-1613397600,Mumbai City,Bengaluru FC,2,4,,,,0
-1613484000,Hyderabad,Kerala Blasters,4,0,,,,0
-1613570400,Goa,Odisha FC,3,1,,,,0
-1613656800,Chennaiyin,North East Utd,3,3,,,,0
-1613743200,Mohun Bagan,East Bengal,3,1,,,,0
-1613829600,Jamshedpur,Mumbai City,2,0,,,,0
-1613907000,Bengaluru FC,Goa,1,2,,,,0
-1613916000,Kerala Blasters,Chennaiyin,1,1,,,,0
-1614002400,Hyderabad,Mohun Bagan,2,2,,,,0
-1614088800,East Bengal,North East Utd,1,2,,,,0
-1614175200,Odisha FC,Mumbai City,1,6,,,,0
-1614261600,Jamshedpur,Bengaluru FC,3,2,,,,0
-1614348000,North East Utd,Kerala Blasters,2,0,,,,0
-1614434400,Odisha FC,East Bengal,6,5,,,,0
-1614511800,Goa,Hyderabad,0,0,,,,0
-1614520800,Mumbai City,Mohun Bagan,2,0,,,,0
-1614952800,Goa,Mumbai City,2,2,,,,0
-1615039200,North East Utd,Mohun Bagan,1,1,,,,0
-1615212000,Mumbai City,Goa,0,0,Pen,1,0,0
-1615298400,Mohun Bagan,North East Utd,2,1,,,,0
-1615644000,Mumbai City,Mohun Bagan,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1605880800,Kerala Blasters,Mohun Bagan,f5R8609I,6mJliLLj,0,1,,,,1
+1605967200,North East Utd,Mumbai City,URNmjRbg,bk07S9TB,1,0,,,,1
+1606053600,Goa,Bengaluru FC,GdaqjtST,vXXubWbe,2,2,,,,1
+1606140000,Odisha FC,Hyderabad,COxht5b5,6auKd00m,0,1,,,,1
+1606226400,Jamshedpur,Chennaiyin,4xbRHIEb,AkyQ8yz9,1,2,,,,1
+1606312800,Goa,Mumbai City,GdaqjtST,bk07S9TB,0,1,,,,1
+1606399200,Kerala Blasters,North East Utd,f5R8609I,URNmjRbg,2,2,,,,1
+1606485600,East Bengal,Mohun Bagan,UszV04Qg,6mJliLLj,0,2,,,,1
+1606572000,Bengaluru FC,Hyderabad,vXXubWbe,6auKd00m,0,0,,,,1
+1606649400,Jamshedpur,Odisha FC,4xbRHIEb,COxht5b5,2,2,,,,1
+1606658400,Chennaiyin,Kerala Blasters,AkyQ8yz9,f5R8609I,0,0,,,,1
+1606744800,Goa,North East Utd,GdaqjtST,URNmjRbg,1,1,,,,1
+1606831200,Mumbai City,East Bengal,bk07S9TB,UszV04Qg,3,0,,,,1
+1606917600,Hyderabad,Jamshedpur,6auKd00m,4xbRHIEb,1,1,,,,1
+1607004000,Mohun Bagan,Odisha FC,6mJliLLj,COxht5b5,1,0,,,,0
+1607090400,Chennaiyin,Bengaluru FC,AkyQ8yz9,vXXubWbe,0,1,,,,1
+1607176800,North East Utd,East Bengal,URNmjRbg,UszV04Qg,2,0,,,,1
+1607254200,Mumbai City,Odisha FC,bk07S9TB,COxht5b5,2,0,,,,1
+1607263200,Goa,Kerala Blasters,GdaqjtST,f5R8609I,3,1,,,,1
+1607349600,Jamshedpur,Mohun Bagan,4xbRHIEb,6mJliLLj,2,1,,,,1
+1607436000,Bengaluru FC,North East Utd,vXXubWbe,URNmjRbg,2,2,,,,1
+1607522400,Mumbai City,Chennaiyin,bk07S9TB,AkyQ8yz9,2,1,,,,1
+1607608800,East Bengal,Jamshedpur,UszV04Qg,4xbRHIEb,0,0,,,,1
+1607695200,Mohun Bagan,Hyderabad,6mJliLLj,6auKd00m,1,1,,,,1
+1607781600,Odisha FC,Goa,COxht5b5,GdaqjtST,0,1,,,,1
+1607859000,North East Utd,Chennaiyin,URNmjRbg,AkyQ8yz9,0,0,,,,1
+1607868000,Bengaluru FC,Kerala Blasters,vXXubWbe,f5R8609I,4,2,,,,1
+1607954400,Mumbai City,Jamshedpur,bk07S9TB,4xbRHIEb,1,1,,,,1
+1608040800,Hyderabad,East Bengal,6auKd00m,UszV04Qg,3,2,,,,1
+1608127200,Mohun Bagan,Goa,6mJliLLj,GdaqjtST,1,0,,,,1
+1608213600,Odisha FC,Bengaluru FC,COxht5b5,vXXubWbe,1,2,,,,1
+1608300000,North East Utd,Jamshedpur,URNmjRbg,4xbRHIEb,0,1,,,,1
+1608386400,Goa,Chennaiyin,GdaqjtST,AkyQ8yz9,1,2,,,,1
+1608463800,Hyderabad,Mumbai City,6auKd00m,bk07S9TB,0,2,,,,1
+1608472800,Kerala Blasters,East Bengal,f5R8609I,UszV04Qg,1,1,,,,1
+1608559200,Mohun Bagan,Bengaluru FC,6mJliLLj,vXXubWbe,1,0,,,,1
+1608645600,Odisha FC,North East Utd,COxht5b5,URNmjRbg,2,2,,,,1
+1608732000,Jamshedpur,Goa,4xbRHIEb,GdaqjtST,1,2,,,,1
+1608991200,East Bengal,Chennaiyin,UszV04Qg,AkyQ8yz9,2,2,,,,1
+1609077600,Kerala Blasters,Hyderabad,f5R8609I,6auKd00m,2,0,,,,1
+1609164000,Bengaluru FC,Jamshedpur,vXXubWbe,4xbRHIEb,0,1,,,,1
+1609250400,Chennaiyin,Mohun Bagan,AkyQ8yz9,6mJliLLj,0,0,,,,1
+1609336800,Hyderabad,Goa,6auKd00m,GdaqjtST,1,2,,,,1
+1609596000,Mumbai City,Kerala Blasters,bk07S9TB,f5R8609I,2,0,,,,1
+1609673400,East Bengal,Odisha FC,UszV04Qg,COxht5b5,3,1,,,,1
+1609682400,Mohun Bagan,North East Utd,6mJliLLj,URNmjRbg,2,0,,,,1
+1609768800,Chennaiyin,Hyderabad,AkyQ8yz9,6auKd00m,1,4,,,,1
+1609855200,Bengaluru FC,Mumbai City,vXXubWbe,bk07S9TB,1,3,,,,1
+1609941600,East Bengal,Goa,UszV04Qg,GdaqjtST,1,1,,,,1
+1610028000,Kerala Blasters,Odisha FC,f5R8609I,COxht5b5,2,4,,,,1
+1610114400,North East Utd,Hyderabad,URNmjRbg,6auKd00m,2,4,,,,1
+1610200800,Bengaluru FC,East Bengal,vXXubWbe,UszV04Qg,0,1,,,,1
+1610278200,Chennaiyin,Odisha FC,AkyQ8yz9,COxht5b5,0,0,,,,1
+1610287200,Jamshedpur,Kerala Blasters,4xbRHIEb,f5R8609I,2,3,,,,1
+1610373600,Mohun Bagan,Mumbai City,6mJliLLj,bk07S9TB,0,1,,,,1
+1610460000,North East Utd,Bengaluru FC,URNmjRbg,vXXubWbe,1,1,,,,0
+1610546400,Odisha FC,Chennaiyin,COxht5b5,AkyQ8yz9,1,2,,,,0
+1610632800,Goa,Jamshedpur,GdaqjtST,4xbRHIEb,3,0,,,,0
+1610719200,East Bengal,Kerala Blasters,UszV04Qg,f5R8609I,1,1,,,,0
+1610805600,Mumbai City,Hyderabad,bk07S9TB,6auKd00m,0,0,,,,0
+1610883000,Jamshedpur,North East Utd,4xbRHIEb,URNmjRbg,1,2,,,,0
+1610892000,Goa,Mohun Bagan,GdaqjtST,6mJliLLj,1,1,,,,0
+1610978400,Chennaiyin,East Bengal,AkyQ8yz9,UszV04Qg,0,0,,,,0
+1611064800,Hyderabad,Odisha FC,6auKd00m,COxht5b5,1,1,,,,0
+1611151200,Kerala Blasters,Bengaluru FC,f5R8609I,vXXubWbe,2,1,,,,0
+1611237600,Mohun Bagan,Chennaiyin,6mJliLLj,AkyQ8yz9,1,0,,,,0
+1611324000,East Bengal,Mumbai City,UszV04Qg,bk07S9TB,0,1,,,,0
+1611410400,Kerala Blasters,Goa,f5R8609I,GdaqjtST,1,1,,,,0
+1611487800,Jamshedpur,Hyderabad,4xbRHIEb,6auKd00m,0,0,,,,0
+1611496800,Bengaluru FC,Odisha FC,vXXubWbe,COxht5b5,1,1,,,,0
+1611583200,Chennaiyin,Mumbai City,AkyQ8yz9,bk07S9TB,1,1,,,,0
+1611669600,North East Utd,Mohun Bagan,URNmjRbg,6mJliLLj,2,1,,,,0
+1611756000,Kerala Blasters,Jamshedpur,f5R8609I,4xbRHIEb,0,0,,,,0
+1611842400,Hyderabad,Bengaluru FC,6auKd00m,vXXubWbe,2,2,,,,0
+1611928800,Goa,East Bengal,GdaqjtST,UszV04Qg,1,1,,,,0
+1612015200,Mumbai City,North East Utd,bk07S9TB,URNmjRbg,1,2,,,,0
+1612092600,Hyderabad,Chennaiyin,6auKd00m,AkyQ8yz9,2,0,,,,0
+1612101600,Mohun Bagan,Kerala Blasters,6mJliLLj,f5R8609I,3,2,,,,0
+1612188000,Odisha FC,Jamshedpur,COxht5b5,4xbRHIEb,0,1,,,,0
+1612274400,East Bengal,Bengaluru FC,UszV04Qg,vXXubWbe,0,2,,,,0
+1612360800,Kerala Blasters,Mumbai City,f5R8609I,bk07S9TB,1,2,,,,0
+1612447200,North East Utd,Goa,URNmjRbg,GdaqjtST,2,2,,,,0
+1612533600,Bengaluru FC,Chennaiyin,vXXubWbe,AkyQ8yz9,0,0,,,,0
+1612620000,Odisha FC,Mohun Bagan,COxht5b5,6mJliLLj,1,4,,,,0
+1612697400,Jamshedpur,East Bengal,4xbRHIEb,UszV04Qg,1,2,,,,0
+1612706400,Hyderabad,North East Utd,6auKd00m,URNmjRbg,0,0,,,,0
+1612792800,Mumbai City,Goa,bk07S9TB,GdaqjtST,3,3,,,,0
+1612879200,Bengaluru FC,Mohun Bagan,vXXubWbe,6mJliLLj,0,2,,,,0
+1612965600,Chennaiyin,Jamshedpur,AkyQ8yz9,4xbRHIEb,0,1,,,,0
+1613052000,Odisha FC,Kerala Blasters,COxht5b5,f5R8609I,2,2,,,,0
+1613138400,East Bengal,Hyderabad,UszV04Qg,6auKd00m,1,1,,,,0
+1613224800,Chennaiyin,Goa,AkyQ8yz9,GdaqjtST,2,2,,,,0
+1613302200,North East Utd,Odisha FC,URNmjRbg,COxht5b5,3,1,,,,0
+1613311200,Mohun Bagan,Jamshedpur,6mJliLLj,4xbRHIEb,1,0,,,,0
+1613397600,Mumbai City,Bengaluru FC,bk07S9TB,vXXubWbe,2,4,,,,0
+1613484000,Hyderabad,Kerala Blasters,6auKd00m,f5R8609I,4,0,,,,0
+1613570400,Goa,Odisha FC,GdaqjtST,COxht5b5,3,1,,,,0
+1613656800,Chennaiyin,North East Utd,AkyQ8yz9,URNmjRbg,3,3,,,,0
+1613743200,Mohun Bagan,East Bengal,6mJliLLj,UszV04Qg,3,1,,,,0
+1613829600,Jamshedpur,Mumbai City,4xbRHIEb,bk07S9TB,2,0,,,,0
+1613907000,Bengaluru FC,Goa,vXXubWbe,GdaqjtST,1,2,,,,0
+1613916000,Kerala Blasters,Chennaiyin,f5R8609I,AkyQ8yz9,1,1,,,,0
+1614002400,Hyderabad,Mohun Bagan,6auKd00m,6mJliLLj,2,2,,,,0
+1614088800,East Bengal,North East Utd,UszV04Qg,URNmjRbg,1,2,,,,0
+1614175200,Odisha FC,Mumbai City,COxht5b5,bk07S9TB,1,6,,,,0
+1614261600,Jamshedpur,Bengaluru FC,4xbRHIEb,vXXubWbe,3,2,,,,0
+1614348000,North East Utd,Kerala Blasters,URNmjRbg,f5R8609I,2,0,,,,0
+1614434400,Odisha FC,East Bengal,COxht5b5,UszV04Qg,6,5,,,,0
+1614511800,Goa,Hyderabad,GdaqjtST,6auKd00m,0,0,,,,0
+1614520800,Mumbai City,Mohun Bagan,bk07S9TB,6mJliLLj,2,0,,,,0
+1614952800,Goa,Mumbai City,GdaqjtST,bk07S9TB,2,2,,,,0
+1615039200,North East Utd,Mohun Bagan,URNmjRbg,6mJliLLj,1,1,,,,0
+1615212000,Mumbai City,Goa,bk07S9TB,GdaqjtST,0,0,Pen,1,0,0
+1615298400,Mohun Bagan,North East Utd,6mJliLLj,URNmjRbg,2,1,,,,0
+1615644000,Mumbai City,Mohun Bagan,bk07S9TB,6mJliLLj,2,1,,,,0

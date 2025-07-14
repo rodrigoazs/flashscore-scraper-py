@@ -1,27 +1,27 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1025451000,Pallohait,Lahti,1,9,,,,0
-1025537400,VG-62 Naantali,VPS,2,1,,,,0
-1025537400,TPS,Tampere Utd,0,3,,,,0
-1025537400,Tervarit,Inter Turku,0,1,,,,0
-1025537400,SJK,Jazz Pori,2,0,,,,0
-1025537400,Ponnistajat,Jaro,2,5,,,,0
-1025537400,MyPa,KuPS,2,0,,,,0
-1025537400,Kelohonka,AC Allianssi,0,4,,,,0
-1025537400,KaPa,Rovaniemi,0,2,,,,0
-1025537400,Hameenlinna,HJK,2,1,,,,0
-1026401400,PEPO,Haka,0,5,,,,0
-1027870200,Vantaa,Rovaniemi,0,2,,,,0
-1027870200,MyPa,VG-62 Naantali,2,0,,,,0
-1027870200,Lahti,SJK,3,0,,,,0
-1027870200,Jaro,Honka,2,1,,,,0
-1027870200,Helsinki U20,Tampere Utd,1,0,,,,0
-1027870200,Haka,Inter Turku,2,1,,,,0
-1027870200,Gnistan,Hameenlinna,1,0,,,,0
-1027870200,AC Allianssi,TP-47,3,1,,,,0
-1031752800,Gnistan,Lahti,2,2,AET,2,3,0
-1031758200,MyPa,AC Allianssi,2,3,,,,0
-1031758200,Helsinki U20,Jaro,1,3,,,,0
-1031758200,Haka,Rovaniemi,5,0,,,,0
-1033054200,Lahti,AC Allianssi,1,1,Pen,2,1,0
-1033054200,Haka,Jaro,2,1,,,,0
-1036854000,Haka,Lahti,4,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1025451000,Pallohait,Lahti,ngyAUvk6,tGlVXFkM,1,9,,,,0
+1025537400,VG-62 Naantali,VPS,IHgjfrTl,WYtEUtB2,2,1,,,,0
+1025537400,TPS,Tampere Utd,GlTeTYJC,IFb9tqla,0,3,,,,0
+1025537400,Tervarit,Inter Turku,CEmRzgUQ,lGvMSKuF,0,1,,,,0
+1025537400,SJK,Jazz Pori,nNbzs3cc,2ZlfMMDL,2,0,,,,0
+1025537400,Ponnistajat,Jaro,fc1riUtG,hGuhahGg,2,5,,,,0
+1025537400,MyPa,KuPS,hGuhahGg,MPMRnwYF,2,0,,,,0
+1025537400,Kelohonka,AC Allianssi,CzkoKa6I,Q7vqi4KT,0,4,,,,0
+1025537400,KaPa,Rovaniemi,nTLUUUol,zVgW5cY1,0,2,,,,0
+1025537400,Hameenlinna,HJK,0GLVocmM,xO7wlFSD,2,1,,,,0
+1026401400,PEPO,Haka,pfj9k3UB,KtjRAU38,0,5,,,,0
+1027870200,Vantaa,Rovaniemi,Ol7y6MS9,zVgW5cY1,0,2,,,,0
+1027870200,MyPa,VG-62 Naantali,hGuhahGg,IHgjfrTl,2,0,,,,0
+1027870200,Lahti,SJK,tGlVXFkM,nNbzs3cc,3,0,,,,0
+1027870200,Jaro,Honka,hGuhahGg,MVJgU4O3,2,1,,,,0
+1027870200,Helsinki U20,Tampere Utd,GE6smZsK,IFb9tqla,1,0,,,,0
+1027870200,Haka,Inter Turku,KtjRAU38,lGvMSKuF,2,1,,,,0
+1027870200,Gnistan,Hameenlinna,KQVDA2o1,0GLVocmM,1,0,,,,0
+1027870200,AC Allianssi,TP-47,Q7vqi4KT,86OeMIIr,3,1,,,,0
+1031752800,Gnistan,Lahti,KQVDA2o1,tGlVXFkM,2,2,AET,2,3,0
+1031758200,MyPa,AC Allianssi,hGuhahGg,Q7vqi4KT,2,3,,,,0
+1031758200,Helsinki U20,Jaro,GE6smZsK,hGuhahGg,1,3,,,,0
+1031758200,Haka,Rovaniemi,KtjRAU38,zVgW5cY1,5,0,,,,0
+1033054200,Lahti,AC Allianssi,tGlVXFkM,Q7vqi4KT,1,1,Pen,2,1,0
+1033054200,Haka,Jaro,KtjRAU38,hGuhahGg,2,1,,,,0
+1036854000,Haka,Lahti,KtjRAU38,tGlVXFkM,4,1,,,,0

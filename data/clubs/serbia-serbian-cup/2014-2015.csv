@@ -1,38 +1,38 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1409752800,Semendria,Teleoptik,1,1,Pen,2,1,0
-1409752800,Moravac,Timok,1,0,,,,0
-1409752800,Dorcol,Dolina Padina,1,0,,,,0
-1409752800,CSK Pivara,FK Indjija,0,2,,,,0
-1411567200,Vozdovac,Sloga Kraljevo,3,2,,,,0
-1411567200,Trepca,Vojvodina,0,1,,,,0
-1411567200,Sp. Subotica,Radnik,1,0,,,,0
-1411567200,Sloga Petrovac,Novi Pazar,1,0,,,,0
-1411567200,Semendria,OFK Beograd,0,2,,,,0
-1411567200,Proleter,Donji Srem,0,0,Pen,1,0,0
-1411567200,Moravac,Radnicki Nis,0,1,,,,0
-1411567200,Jedinstvo,Rad Beograd,0,3,,,,0
-1411567200,Jagodina,BSK Borca,4,0,,,,0
-1411567200,FK Indjija,Javor,2,1,,,,0
-1411567200,Dorcol,Radnicki 1923,0,1,,,,0
-1411567200,Bezanija,Partizan,0,1,,,,0
-1411576200,Sloboda,Sindjelic Beograd,1,1,Pen,2,1,0
-1411578000,Napredak,Metalac,0,0,Pen,0,1,0
-1411578000,Cukaricki,Mladost,3,2,,,,0
-1411578000,Crvena zvezda,Borac 1926,1,0,,,,0
-1414584000,Sp. Subotica,Proleter,2,0,,,,0
-1414584000,Radnicki Nis,FK Indjija,0,0,Pen,1,0,0
-1414584000,Radnicki 1923,Jagodina,0,3,,,,0
-1414584000,Rad Beograd,Crvena zvezda,1,0,,,,0
-1414602000,Vojvodina,Sloboda,1,0,,,,0
-1414603800,Metalac,Vozdovac,0,0,Pen,0,1,0
-1416398400,OFK Beograd,Cukaricki,1,2,,,,0
-1416412800,Partizan,Sloga Petrovac,3,0,,,,0
-1417608000,Vozdovac,Sp. Subotica,2,1,,,,0
-1417608000,Radnicki Nis,Jagodina,0,1,,,,0
-1417608000,Rad Beograd,Partizan,0,1,,,,0
-1417608000,Cukaricki,Vojvodina,2,1,,,,0
-1426690800,Cukaricki,Vozdovac,2,0,,,,0
-1426698000,Partizan,Jagodina,3,0,,,,0
-1428503400,Vozdovac,Cukaricki,1,4,,,,0
-1428512400,Jagodina,Partizan,0,2,,,,0
-1432146600,Cukaricki,Partizan,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1409752800,Semendria,Teleoptik,WKV4HKum,QgZeRDaH,1,1,Pen,2,1,0
+1409752800,Moravac,Timok,fRKJt838,fiA5Djt6,1,0,,,,0
+1409752800,Dorcol,Dolina Padina,QBCLIZN1,ImE3sZrC,1,0,,,,0
+1409752800,CSK Pivara,FK Indjija,hMKUdg6F,Eo460EB4,0,2,,,,0
+1411567200,Vozdovac,Sloga Kraljevo,StKOlgDr,jX4N0iui,3,2,,,,0
+1411567200,Trepca,Vojvodina,xUhkwMO8,W6nj7k39,0,1,,,,0
+1411567200,Sp. Subotica,Radnik,0xuBz0P9,Msvqovsp,1,0,,,,0
+1411567200,Sloga Petrovac,Novi Pazar,UTpD3A4A,O60GxbhB,1,0,,,,0
+1411567200,Semendria,OFK Beograd,WKV4HKum,nguvrH2r,0,2,,,,0
+1411567200,Proleter,Donji Srem,6LA0qhxd,0xuBz0P9,0,0,Pen,1,0,0
+1411567200,Moravac,Radnicki Nis,fRKJt838,0xuBz0P9,0,1,,,,0
+1411567200,Jedinstvo,Rad Beograd,8xwT7BCP,0xuBz0P9,0,3,,,,0
+1411567200,Jagodina,BSK Borca,Mot7ytA3,0xuBz0P9,4,0,,,,0
+1411567200,FK Indjija,Javor,Eo460EB4,CCS7YFlf,2,1,,,,0
+1411567200,Dorcol,Radnicki 1923,QBCLIZN1,riDF60zN,0,1,,,,0
+1411567200,Bezanija,Partizan,hMKUdg6F,prjDOVbf,0,1,,,,0
+1411576200,Sloboda,Sindjelic Beograd,lKth1BaD,8rKjohRd,1,1,Pen,2,1,0
+1411578000,Napredak,Metalac,8nlTy2Ch,2ajBCmYJ,0,0,Pen,0,1,0
+1411578000,Cukaricki,Mladost,IgHOZc1o,8nlTy2Ch,3,2,,,,0
+1411578000,Crvena zvezda,Borac 1926,4OAEfiPE,fq0v5IU4,1,0,,,,0
+1414584000,Sp. Subotica,Proleter,0xuBz0P9,6LA0qhxd,2,0,,,,0
+1414584000,Radnicki Nis,FK Indjija,0xuBz0P9,Eo460EB4,0,0,Pen,1,0,0
+1414584000,Radnicki 1923,Jagodina,riDF60zN,Mot7ytA3,0,3,,,,0
+1414584000,Rad Beograd,Crvena zvezda,0xuBz0P9,4OAEfiPE,1,0,,,,0
+1414602000,Vojvodina,Sloboda,W6nj7k39,lKth1BaD,1,0,,,,0
+1414603800,Metalac,Vozdovac,2ajBCmYJ,StKOlgDr,0,0,Pen,0,1,0
+1416398400,OFK Beograd,Cukaricki,nguvrH2r,IgHOZc1o,1,2,,,,0
+1416412800,Partizan,Sloga Petrovac,prjDOVbf,UTpD3A4A,3,0,,,,0
+1417608000,Vozdovac,Sp. Subotica,StKOlgDr,0xuBz0P9,2,1,,,,0
+1417608000,Radnicki Nis,Jagodina,0xuBz0P9,Mot7ytA3,0,1,,,,0
+1417608000,Rad Beograd,Partizan,0xuBz0P9,prjDOVbf,0,1,,,,0
+1417608000,Cukaricki,Vojvodina,IgHOZc1o,W6nj7k39,2,1,,,,0
+1426690800,Cukaricki,Vozdovac,IgHOZc1o,StKOlgDr,2,0,,,,0
+1426698000,Partizan,Jagodina,prjDOVbf,Mot7ytA3,3,0,,,,0
+1428503400,Vozdovac,Cukaricki,StKOlgDr,IgHOZc1o,1,4,,,,0
+1428512400,Jagodina,Partizan,Mot7ytA3,prjDOVbf,0,2,,,,0
+1432146600,Cukaricki,Partizan,IgHOZc1o,prjDOVbf,1,0,,,,0

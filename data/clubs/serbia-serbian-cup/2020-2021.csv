@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1603197000,Napredak,Zarkovo,2,1,,,,0
-1603281600,Macva,Metalac,1,2,,,,0
-1603283400,Vozdovac,Graficar Beograd,2,2,Pen,3,2,0
-1603283400,Trayal Krusevac,TSC,0,2,,,,0
-1603283400,Susica,Sp. Subotica,0,2,,,,0
-1603283400,Smederevo,Radnicki Nis,1,2,,,,0
-1603283400,Radnicki Pirot,Proleter,0,2,,,,0
-1603283400,Rad Beograd,Kolubara,0,0,Pen,1,0,0
-1603283400,Novi Pazar,Cukaricki,1,3,,,,0
-1603283400,Mladost,Din. Vranje,3,0,,,,0
-1603283400,Kabel Novi Sad,Radnik,3,4,,,,0
-1603283400,Jedinstvo Rumenka,Vojvodina,0,2,,,,0
-1603283400,IMT Novi Beograd,FK Indjija,2,1,,,,0
-1603288800,Partizan,Backa,2,0,,,,0
-1603296000,Javor,Radnicki 1923,2,1,,,,0
-1605542400,Crvena zvezda,Zlatibor Cajetina,4,2,,,,0
-1606305600,IMT Novi Beograd,Radnicki Nis,2,1,,,,0
-1606307400,TSC,Napredak,2,0,,,,0
-1606307400,Sp. Subotica,Mladost,1,1,Pen,2,1,0
-1606307400,Radnik,Cukaricki,2,2,Pen,3,2,0
-1606307400,Javor,Vozdovac,1,1,Pen,1,2,0
-1606316400,Metalac,Partizan,0,1,,,,0
-1606402800,Proleter,Vojvodina,0,2,,,,0
-1608294600,Rad Beograd,Crvena zvezda,1,2,,,,0
-1615463700,TSC,Radnik,1,1,Pen,1,2,0
-1615471200,Sp. Subotica,Vojvodina,1,2,,,,0
-1615478700,Partizan,Vozdovac,4,0,,,,0
-1617112800,Crvena zvezda,IMT Novi Beograd,3,0,,,,0
-1619017200,Crvena zvezda,Radnik,2,1,,,,0
-1619024700,Vojvodina,Partizan,0,1,,,,0
-1621962000,Crvena zvezda,Partizan,0,0,Pen,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1603197000,Napredak,Zarkovo,8nlTy2Ch,xSXmdVWm,2,1,,,,0
+1603281600,Macva,Metalac,zcv8L3W6,2ajBCmYJ,1,2,,,,0
+1603283400,Vozdovac,Graficar Beograd,StKOlgDr,Yel16CKi,2,2,Pen,3,2,0
+1603283400,Trayal Krusevac,TSC,drJObEWA,hYxysB3L,0,2,,,,0
+1603283400,Susica,Sp. Subotica,MTWAZAlJ,0xuBz0P9,0,2,,,,0
+1603283400,Smederevo,Radnicki Nis,CA38h4lE,0xuBz0P9,1,2,,,,0
+1603283400,Radnicki Pirot,Proleter,fJ2P1D7T,6LA0qhxd,0,2,,,,0
+1603283400,Rad Beograd,Kolubara,0xuBz0P9,dK4C0ryK,0,0,Pen,1,0,0
+1603283400,Novi Pazar,Cukaricki,O60GxbhB,IgHOZc1o,1,3,,,,0
+1603283400,Mladost,Din. Vranje,8nlTy2Ch,hMKUdg6F,3,0,,,,0
+1603283400,Kabel Novi Sad,Radnik,biTmHri0,Msvqovsp,3,4,,,,0
+1603283400,Jedinstvo Rumenka,Vojvodina,jXUr3Wc0,W6nj7k39,0,2,,,,0
+1603283400,IMT Novi Beograd,FK Indjija,fFj1sltd,Eo460EB4,2,1,,,,0
+1603288800,Partizan,Backa,prjDOVbf,ULhYevso,2,0,,,,0
+1603296000,Javor,Radnicki 1923,CCS7YFlf,riDF60zN,2,1,,,,0
+1605542400,Crvena zvezda,Zlatibor Cajetina,4OAEfiPE,xnMTdtp9,4,2,,,,0
+1606305600,IMT Novi Beograd,Radnicki Nis,fFj1sltd,0xuBz0P9,2,1,,,,0
+1606307400,TSC,Napredak,hYxysB3L,8nlTy2Ch,2,0,,,,0
+1606307400,Sp. Subotica,Mladost,0xuBz0P9,8nlTy2Ch,1,1,Pen,2,1,0
+1606307400,Radnik,Cukaricki,Msvqovsp,IgHOZc1o,2,2,Pen,3,2,0
+1606307400,Javor,Vozdovac,CCS7YFlf,StKOlgDr,1,1,Pen,1,2,0
+1606316400,Metalac,Partizan,2ajBCmYJ,prjDOVbf,0,1,,,,0
+1606402800,Proleter,Vojvodina,6LA0qhxd,W6nj7k39,0,2,,,,0
+1608294600,Rad Beograd,Crvena zvezda,0xuBz0P9,4OAEfiPE,1,2,,,,0
+1615463700,TSC,Radnik,hYxysB3L,Msvqovsp,1,1,Pen,1,2,0
+1615471200,Sp. Subotica,Vojvodina,0xuBz0P9,W6nj7k39,1,2,,,,0
+1615478700,Partizan,Vozdovac,prjDOVbf,StKOlgDr,4,0,,,,0
+1617112800,Crvena zvezda,IMT Novi Beograd,4OAEfiPE,fFj1sltd,3,0,,,,0
+1619017200,Crvena zvezda,Radnik,4OAEfiPE,Msvqovsp,2,1,,,,0
+1619024700,Vojvodina,Partizan,W6nj7k39,prjDOVbf,0,1,,,,0
+1621962000,Crvena zvezda,Partizan,4OAEfiPE,prjDOVbf,0,0,Pen,1,0,0

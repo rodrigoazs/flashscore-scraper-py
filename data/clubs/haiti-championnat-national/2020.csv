@@ -1,37 +1,37 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1583010000,Cosmopolites,Cavaly,0,2,,,,0
-1583096400,Violette,Juventus,1,2,,,,0
-1583096400,Triomphe Liancourt,Real du Cap,0,1,,,,0
-1583096400,Ouanaminthe,Capoise,1,0,,,,0
-1583096400,Fica,Racing Haitien,1,0,,,,0
-1583096400,Don Bosco,Racing des Gonaives,4,0,,,,0
-1583096400,Baltimore,Rivartibonitienne,1,0,,,,0
-1583096400,Arcahaie,Mirebalais,0,0,,,,0
-1583096400,America des Cayes,Tempete,0,1,,,,0
-1583611200,Cavaly,Fica,1,0,,,,0
-1583618400,Real du Cap,Violette,0,1,,,,0
-1583694000,Rivartibonitienne,Don Bosco,1,0,,,,0
-1583694000,Racing des Gonaives,Ouanaminthe,1,0,,,,0
-1583694000,Mirebalais,Cosmopolites,0,0,,,,0
-1583694000,Juventus,Baltimore,0,1,,,,0
-1583697600,Racing Haitien,America des Cayes,0,1,,,,0
-1583701200,Tempete,Triomphe Liancourt,0,2,,,,0
-1583701200,Capoise,Arcahaie,2,0,,,,0
-1584219600,Racing Haitien,Tempete,1,0,,,,0
-1584302400,Triomphe Liancourt,Mirebalais,2,0,,,,0
-1584302400,Ouanaminthe,Juventus,0,0,,,,0
-1584302400,Fica,Rivartibonitienne,1,0,,,,0
-1584302400,Arcahaie,Racing des Gonaives,1,0,,,,0
-1584302400,America des Cayes,Cavaly,2,2,,,,0
-1584306000,Cosmopolites,Real du Cap,2,1,,,,0
-1584309600,Don Bosco,Capoise,1,0,,,,0
-1584309600,Baltimore,Violette,0,0,,,,0
-1584561600,Racing des Gonaives,Cosmopolites,0,0,,,,0
-1584568800,Capoise,Triomphe Liancourt,2,0,,,,0
-1584648000,Rivartibonitienne,America des Cayes,1,0,,,,0
-1584648000,Mirebalais,Racing Haitien,1,0,,,,0
-1584648000,Juventus,Don Bosco,1,1,,,,0
-1584648000,Cavaly,Tempete,2,1,,,,0
-1584651600,Violette,Arcahaie,1,1,,,,0
-1584655200,Real du Cap,Fica,2,0,,,,0
-1584655200,Baltimore,Ouanaminthe,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1582923600,Cosmopolites,Cavaly,0QOVjYPd,EN77Q73c,0,2,,,,0
+1583096400,Violette,Juventus,hE6BPRI3,CrTzmp8m,1,2,,,,0
+1583096400,Triomphe Liancourt,Real du Cap,G6UVHI9E,CrTzmp8m,0,1,,,,0
+1583096400,Ouanaminthe,Capoise,AiWXHFvl,hE6BPRI3,1,0,,,,0
+1583096400,Fica,Racing Haitien,hE6BPRI3,EN77Q73c,1,0,,,,0
+1583096400,Don Bosco,Racing des Gonaives,hYzo4N02,hE6BPRI3,4,0,,,,0
+1583096400,Baltimore,Rivartibonitienne,CSOgZqIm,nuEaJhN0,1,0,,,,0
+1583096400,Arcahaie,Mirebalais,zoQ0N7Vn,hE6BPRI3,0,0,,,,0
+1583096400,America des Cayes,Tempete,hYzo4N02,hE6BPRI3,0,1,,,,0
+1583611200,Cavaly,Fica,EN77Q73c,hE6BPRI3,1,0,,,,0
+1583618400,Real du Cap,Violette,CrTzmp8m,hE6BPRI3,0,1,,,,0
+1583694000,Rivartibonitienne,Don Bosco,nuEaJhN0,hYzo4N02,1,0,,,,0
+1583694000,Racing des Gonaives,Ouanaminthe,hE6BPRI3,AiWXHFvl,1,0,,,,0
+1583694000,Mirebalais,Cosmopolites,hE6BPRI3,0QOVjYPd,0,0,,,,0
+1583694000,Juventus,Baltimore,CrTzmp8m,CSOgZqIm,0,1,,,,0
+1583697600,Racing Haitien,America des Cayes,EN77Q73c,hYzo4N02,0,1,,,,0
+1583701200,Tempete,Triomphe Liancourt,hE6BPRI3,G6UVHI9E,0,2,,,,0
+1583701200,Capoise,Arcahaie,hE6BPRI3,zoQ0N7Vn,2,0,,,,0
+1584219600,Racing Haitien,Tempete,EN77Q73c,hE6BPRI3,1,0,,,,0
+1584302400,Triomphe Liancourt,Mirebalais,G6UVHI9E,hE6BPRI3,2,0,,,,0
+1584302400,Ouanaminthe,Juventus,AiWXHFvl,CrTzmp8m,0,0,,,,0
+1584302400,Fica,Rivartibonitienne,hE6BPRI3,nuEaJhN0,1,0,,,,0
+1584302400,Arcahaie,Racing des Gonaives,zoQ0N7Vn,hE6BPRI3,1,0,,,,0
+1584302400,America des Cayes,Cavaly,hYzo4N02,EN77Q73c,2,2,,,,0
+1584306000,Cosmopolites,Real du Cap,0QOVjYPd,CrTzmp8m,2,1,,,,0
+1584309600,Don Bosco,Capoise,hYzo4N02,hE6BPRI3,1,0,,,,0
+1584309600,Baltimore,Violette,CSOgZqIm,hE6BPRI3,0,0,,,,0
+1584561600,Racing des Gonaives,Cosmopolites,hE6BPRI3,0QOVjYPd,0,0,,,,0
+1584568800,Capoise,Triomphe Liancourt,hE6BPRI3,G6UVHI9E,2,0,,,,0
+1584648000,Rivartibonitienne,America des Cayes,nuEaJhN0,hYzo4N02,1,0,,,,0
+1584648000,Mirebalais,Racing Haitien,hE6BPRI3,EN77Q73c,1,0,,,,0
+1584648000,Juventus,Don Bosco,CrTzmp8m,hYzo4N02,1,1,,,,0
+1584648000,Cavaly,Tempete,EN77Q73c,hE6BPRI3,2,1,,,,0
+1584651600,Violette,Arcahaie,hE6BPRI3,zoQ0N7Vn,1,1,,,,0
+1584655200,Real du Cap,Fica,CrTzmp8m,hE6BPRI3,2,0,,,,0
+1584655200,Baltimore,Ouanaminthe,CSOgZqIm,AiWXHFvl,3,0,,,,0

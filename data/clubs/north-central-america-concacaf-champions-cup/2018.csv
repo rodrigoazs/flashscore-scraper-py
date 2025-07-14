@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1519174800,Herediano,Tigres UANL,2,2,,,,0
-1519182000,Colorado Rapids,Toronto FC,0,2,,,,0
-1519261200,Tauro,FC Dallas,1,0,,,,0
-1519261200,Saprissa,Club America,1,5,,,,0
-1519268400,Motagua,Club Tijuana,0,1,,,,0
-1519347600,Cibao,Guadalajara Chivas,0,2,,,,0
-1519354800,Santa Tecla,Seattle Sounders,2,1,,,,0
-1519354800,Olimpia,New York Red Bulls,1,1,,,,0
-1519779600,Toronto FC,Colorado Rapids,0,0,,,,0
-1519779600,Tigres UANL,Herediano,3,1,,,,0
-1519786800,Club Tijuana,Motagua,1,1,,,,0
-1519866000,Guadalajara Chivas,Cibao,5,0,,,,0
-1519866000,FC Dallas,Tauro,3,2,,,,0
-1519873200,Club America,Saprissa,1,1,,,,0
-1519952400,New York Red Bulls,Olimpia,2,0,,,,0
-1519959600,Seattle Sounders,Santa Tecla,4,0,,,,0
-1520384400,Club America,Tauro,4,0,,,,0
-1520391600,Club Tijuana,New York Red Bulls,0,2,,,,0
-1520470800,Toronto FC,Tigres UANL,2,1,,,,0
-1520478000,Seattle Sounders,Guadalajara Chivas,1,0,,,,0
-1520985600,New York Red Bulls,Club Tijuana,3,1,,,,0
-1520992800,Tigres UANL,Toronto FC,3,2,,,,0
-1521072000,Tauro,Club America,1,3,,,,0
-1521079200,Guadalajara Chivas,Seattle Sounders,3,0,,,,0
-1522800000,Toronto FC,Club America,3,1,,,,0
-1522893600,Guadalajara Chivas,New York Red Bulls,1,0,,,,0
-1523404800,New York Red Bulls,Guadalajara Chivas,0,0,,,,0
-1523412000,Club America,Toronto FC,1,1,,,,0
-1524010500,Toronto FC,Guadalajara Chivas,1,2,,,,0
-1524706200,Guadalajara Chivas,Toronto FC,1,2,Pen,2,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1519174800,Herediano,Tigres UANL,zJ9gvDHG,zgtUoENa,2,2,,,,0
+1519182000,Colorado Rapids,Toronto FC,fyzFgPy8,tnwDCzLD,0,2,,,,0
+1519261200,Tauro,FC Dallas,vTLj5hDm,W2EojdRP,1,0,,,,0
+1519261200,Saprissa,Club America,tnwDCzLD,OGkmEu0T,1,5,,,,0
+1519268400,Motagua,Club Tijuana,dtCxYreO,tW0QAqsF,0,1,,,,0
+1519347600,Cibao,Guadalajara Chivas,hvlWeuiI,lEs0thDm,0,2,,,,0
+1519354800,Santa Tecla,Seattle Sounders,UVZMFjiK,Q7Ql2Qbi,2,1,,,,0
+1519354800,Olimpia,New York Red Bulls,WvziCH8E,h8cXfa4q,1,1,,,,0
+1519779600,Toronto FC,Colorado Rapids,tnwDCzLD,fyzFgPy8,0,0,,,,0
+1519779600,Tigres UANL,Herediano,zgtUoENa,zJ9gvDHG,3,1,,,,0
+1519786800,Club Tijuana,Motagua,tW0QAqsF,dtCxYreO,1,1,,,,0
+1519866000,Guadalajara Chivas,Cibao,lEs0thDm,hvlWeuiI,5,0,,,,0
+1519866000,FC Dallas,Tauro,W2EojdRP,vTLj5hDm,3,2,,,,0
+1519873200,Club America,Saprissa,OGkmEu0T,tnwDCzLD,1,1,,,,0
+1519952400,New York Red Bulls,Olimpia,h8cXfa4q,WvziCH8E,2,0,,,,0
+1519959600,Seattle Sounders,Santa Tecla,Q7Ql2Qbi,UVZMFjiK,4,0,,,,0
+1520384400,Club America,Tauro,OGkmEu0T,vTLj5hDm,4,0,,,,0
+1520391600,Club Tijuana,New York Red Bulls,tW0QAqsF,h8cXfa4q,0,2,,,,0
+1520470800,Toronto FC,Tigres UANL,tnwDCzLD,zgtUoENa,2,1,,,,0
+1520478000,Seattle Sounders,Guadalajara Chivas,Q7Ql2Qbi,lEs0thDm,1,0,,,,0
+1520985600,New York Red Bulls,Club Tijuana,h8cXfa4q,tW0QAqsF,3,1,,,,0
+1520992800,Tigres UANL,Toronto FC,zgtUoENa,tnwDCzLD,3,2,,,,0
+1521072000,Tauro,Club America,vTLj5hDm,OGkmEu0T,1,3,,,,0
+1521079200,Guadalajara Chivas,Seattle Sounders,lEs0thDm,Q7Ql2Qbi,3,0,,,,0
+1522800000,Toronto FC,Club America,tnwDCzLD,OGkmEu0T,3,1,,,,0
+1522893600,Guadalajara Chivas,New York Red Bulls,lEs0thDm,h8cXfa4q,1,0,,,,0
+1523404800,New York Red Bulls,Guadalajara Chivas,h8cXfa4q,lEs0thDm,0,0,,,,0
+1523412000,Club America,Toronto FC,OGkmEu0T,tnwDCzLD,1,1,,,,0
+1524010500,Toronto FC,Guadalajara Chivas,tnwDCzLD,lEs0thDm,1,2,,,,0
+1524706200,Guadalajara Chivas,Toronto FC,lEs0thDm,tnwDCzLD,1,2,Pen,2,2,0

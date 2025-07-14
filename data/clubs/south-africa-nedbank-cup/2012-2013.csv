@@ -1,40 +1,40 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1329138000,Witbank,Blackburn,2,1,,,,0
-1329138000,United FC,Roses United,2,1,,,,0
-1329138000,Stellenbosch,Santos,3,2,,,,0
-1329138000,Royal Eagles,African Warriors,0,1,,,,0
-1329138000,Polokwane,FC AK,0,0,AET,2,0,0
-1329138000,Marumo Gallants,Thanda Royal Zulu,0,0,AET,1,0,0
-1329138000,Jomo Cosmos,Ubuntu Cape Town,2,2,AET,3,2,0
-1329138000,Dynamos,Black Aces,3,1,,,,0
-1329933600,Cape Town Spurs,Mamelodi Sundowns,0,0,AET,0,1,0
-1330002000,United FC,Chippa Utd.,2,2,AET,3,2,0
-1330002000,Maluti Fet College,Orlando Pirates,4,1,,,,0
-1330012800,Supersport Utd,Moroka Swallows,0,0,Pen,1,0,0
-1330020900,Vardos,Golden Arrows,0,4,,,,0
-1330020900,Pretoria U.,Durban City,0,0,Pen,0,1,0
-1330020900,Bidvest Wits,Kaizer Chiefs,0,3,,,,0
-1330084800,Island FC,Polokwane,2,7,,,,0
-1330088400,Royal AM,Marumo Gallants,4,1,,,,0
-1330088400,Mbombela,Stellenbosch,1,4,,,,0
-1330088400,Magesi,Jomo Cosmos,0,2,,,,0
-1330088400,Free State Stars,Witbank,1,0,,,,0
-1330088400,Dynamos,Platinum Stars,0,1,,,,0
-1330363800,Black Leopards,Cape Town All Stars,3,3,AET,5,4,0
-1330363800,AmaZulu,FC Royals,1,2,,,,0
-1330363800,African Warriors,Jacksa Spears,3,0,,,,0
-1331659800,Stellenbosch,Supersport Utd,1,2,,,,0
-1331659800,Black Leopards,Platinum Stars,0,2,,,,0
-1331834400,Mamelodi Sundowns,Golden Arrows,1,0,,,,0
-1331902800,Jomo Cosmos,United FC,0,1,,,,0
-1331902800,Free State Stars,Royal AM,1,2,,,,0
-1331922600,Kaizer Chiefs,Polokwane,2,0,,,,0
-1331989200,African Warriors,Maluti Fet College,2,2,Pen,3,2,0
-1332439200,FC Royals,Durban City,1,3,,,,0
-1334322000,Durban City,Supersport Utd,1,2,,,,0
-1334340900,Royal AM,Kaizer Chiefs,0,1,,,,0
-1334408400,United FC,African Warriors,3,2,,,,0
-1334408400,Mamelodi Sundowns,Platinum Stars,1,2,,,,0
-1336155300,Kaizer Chiefs,United FC,2,1,,,,0
-1336498200,Platinum Stars,Supersport Utd,2,2,AET,2,3,0
-1337950800,Kaizer Chiefs,Supersport Utd,0,0,AET,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1329138000,Witbank,Blackburn,Gr4RZ4HN,dp0XifTb,2,1,,,,0
+1329138000,United FC,Roses United,CGI97dG2,2i2z6GTq,2,1,,,,0
+1329138000,Stellenbosch,Santos,K2asz6S7,nu2KFFkD,3,2,,,,0
+1329138000,Royal Eagles,African Warriors,j1KgBMUc,dCAx7kde,0,1,,,,0
+1329138000,Polokwane,FC AK,U3PAwmEl,,0,0,AET,2,0,0
+1329138000,Marumo Gallants,Thanda Royal Zulu,40UZaJLO,rg2yT6oF,0,0,AET,1,0,0
+1329138000,Jomo Cosmos,Ubuntu Cape Town,8l3GGez7,QV8muo4m,2,2,AET,3,2,0
+1329138000,Dynamos,Black Aces,nuAqtRls,QV8muo4m,3,1,,,,0
+1329933600,Cape Town Spurs,Mamelodi Sundowns,QJM4feF8,x2G2Q2c3,0,0,AET,0,1,0
+1330002000,United FC,Chippa Utd.,CGI97dG2,zLGv32Ri,2,2,AET,3,2,0
+1330002000,Maluti Fet College,Orlando Pirates,650RgMhA,KAV9ypMU,4,1,,,,0
+1330012800,Supersport Utd,Moroka Swallows,4UX5t7jk,tWjTbMwC,0,0,Pen,1,0,0
+1330020900,Vardos,Golden Arrows,,8l3GGez7,0,4,,,,0
+1330020900,Pretoria U.,Durban City,QV8muo4m,6RTAg0C5,0,0,Pen,0,1,0
+1330020900,Bidvest Wits,Kaizer Chiefs,8hmaPcYe,MeBJ238q,0,3,,,,0
+1330084800,Island FC,Polokwane,,U3PAwmEl,2,7,,,,0
+1330088400,Royal AM,Marumo Gallants,nu2KFFkD,40UZaJLO,4,1,,,,0
+1330088400,Mbombela,Stellenbosch,CvXzlLet,K2asz6S7,1,4,,,,0
+1330088400,Magesi,Jomo Cosmos,biVLbP9r,8l3GGez7,0,2,,,,0
+1330088400,Free State Stars,Witbank,6LfbbTwj,Gr4RZ4HN,1,0,,,,0
+1330088400,Dynamos,Platinum Stars,nuAqtRls,p6867egJ,0,1,,,,0
+1330363800,Black Leopards,Cape Town All Stars,8l3GGez7,CjHTtDJB,3,3,AET,5,4,0
+1330363800,AmaZulu,FC Royals,6Fg6xWE0,,1,2,,,,0
+1330363800,African Warriors,Jacksa Spears,dCAx7kde,,3,0,,,,0
+1331659800,Stellenbosch,Supersport Utd,K2asz6S7,4UX5t7jk,1,2,,,,0
+1331659800,Black Leopards,Platinum Stars,8l3GGez7,p6867egJ,0,2,,,,0
+1331834400,Mamelodi Sundowns,Golden Arrows,x2G2Q2c3,8l3GGez7,1,0,,,,0
+1331902800,Jomo Cosmos,United FC,8l3GGez7,CGI97dG2,0,1,,,,0
+1331902800,Free State Stars,Royal AM,6LfbbTwj,nu2KFFkD,1,2,,,,0
+1331922600,Kaizer Chiefs,Polokwane,MeBJ238q,U3PAwmEl,2,0,,,,0
+1331989200,African Warriors,Maluti Fet College,dCAx7kde,650RgMhA,2,2,Pen,3,2,0
+1332439200,FC Royals,Durban City,,6RTAg0C5,1,3,,,,0
+1334322000,Durban City,Supersport Utd,6RTAg0C5,4UX5t7jk,1,2,,,,0
+1334340900,Royal AM,Kaizer Chiefs,nu2KFFkD,MeBJ238q,0,1,,,,0
+1334408400,United FC,African Warriors,CGI97dG2,dCAx7kde,3,2,,,,0
+1334408400,Mamelodi Sundowns,Platinum Stars,x2G2Q2c3,p6867egJ,1,2,,,,0
+1336155300,Kaizer Chiefs,United FC,MeBJ238q,CGI97dG2,2,1,,,,0
+1336498200,Platinum Stars,Supersport Utd,p6867egJ,4UX5t7jk,2,2,AET,2,3,0
+1337950800,Kaizer Chiefs,Supersport Utd,MeBJ238q,4UX5t7jk,0,0,AET,1,0,0

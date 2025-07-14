@@ -1,21 +1,21 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1016537400,Tanjong Pagar,Jurong,1,0,,,,0
-1016537400,Lion City,Sembawang Rangers,3,1,,,,0
-1016537400,Geylang,Clementi Khalsa,3,1,,,,0
-1020162600,Warriors,Tampines,4,3,,,,0
-1020162600,Sembawang Rangers,Woodlands Wellington,4,3,,,,0
-1020681000,Jurong,Gombak,4,0,,,,0
-1022581800,Woodlands Wellington,Lion City,0,1,,,,0
-1022581800,Tampines,Balestier Khalsa,3,2,,,,0
-1022581800,Clementi Khalsa,Sengkang Marine,2,3,,,,0
-1024396200,Sengkang Marine,Geylang,0,2,,,,0
-1024396200,Gombak,Tanjong Pagar,1,1,,,,0
-1024396200,Balestier Khalsa,Warriors,2,3,,,,0
-1028025000,Warriors,Jurong,1,1,Pen,1,2,0
-1028025000,Tampines,Tanjong Pagar,3,3,Pen,4,3,0
-1028025000,Sengkang Marine,Lion City,1,0,,,,0
-1028025000,Geylang,Sembawang Rangers,5,1,,,,0
-1032258600,Sengkang Marine,Tampines,2,2,Pen,2,3,0
-1032258600,Geylang,Jurong,1,1,Pen,1,2,0
-1034505000,Tampines,Jurong,1,0,,,,0
-1034505000,Geylang,Sengkang Marine,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1016537400,Tanjong Pagar,Jurong,bwrRv2m2,,1,0,,,,0
+1016537400,Lion City,Sembawang Rangers,pW3pRTln,,3,1,,,,0
+1016537400,Geylang,Clementi Khalsa,df9tRVup,,3,1,,,,0
+1020162600,Warriors,Tampines,nNKuYSHo,d0hl69s2,4,3,,,,0
+1020162600,Sembawang Rangers,Woodlands Wellington,,CKls4Q5g,4,3,,,,0
+1020681000,Jurong,Gombak,,I19RPt17,4,0,,,,0
+1022581800,Woodlands Wellington,Lion City,CKls4Q5g,pW3pRTln,0,1,,,,0
+1022581800,Tampines,Balestier Khalsa,d0hl69s2,MZaTAD0m,3,2,,,,0
+1022581800,Clementi Khalsa,Sengkang Marine,,,2,3,,,,0
+1024396200,Sengkang Marine,Geylang,,df9tRVup,0,2,,,,0
+1024396200,Gombak,Tanjong Pagar,I19RPt17,bwrRv2m2,1,1,,,,0
+1024396200,Balestier Khalsa,Warriors,MZaTAD0m,nNKuYSHo,2,3,,,,0
+1028025000,Warriors,Jurong,nNKuYSHo,,1,1,Pen,1,2,0
+1028025000,Tampines,Tanjong Pagar,d0hl69s2,bwrRv2m2,3,3,Pen,4,3,0
+1028025000,Sengkang Marine,Lion City,,pW3pRTln,1,0,,,,0
+1028025000,Geylang,Sembawang Rangers,df9tRVup,,5,1,,,,0
+1032258600,Sengkang Marine,Tampines,,d0hl69s2,2,2,Pen,2,3,0
+1032258600,Geylang,Jurong,df9tRVup,,1,1,Pen,1,2,0
+1034505000,Tampines,Jurong,d0hl69s2,,1,0,,,,0
+1034505000,Geylang,Sengkang Marine,df9tRVup,,3,1,,,,0

@@ -1,35 +1,35 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1472907600,Sireti,Sparta Selemet,2,10,,,,0
-1472907600,Sinteza Causeni,Intersport,0,0,Pen,0,1,0
-1472907600,Riscani,Edinet,1,4,,,,0
-1472907600,Orhei Star,Victoria,1,2,,,,0
-1472907600,Milestii Mici,Sf.Gheorghe,2,4,,,,0
-1472907600,Maiak Cioropcani,Codru Lozova,3,5,,,,0
-1472907600,Intersport Sanatauca,Singerei,1,0,,,,0
-1472907600,Granicerul,Spicul Chiscareni,0,2,,,,0
-1472907600,Cruiz Camenca,Iskra Ribnita,1,1,Pen,1,2,0
-1472907600,Congaz,Univer Comrat,2,4,,,,0
-1472907600,Ceadir-Lunga,Prut Leova,2,2,Pen,2,3,0
-1472907600,Anina Anenii Noi,Real Succes,3,0,,,,0
-1474372800,Victoria,Spicul Chiscareni,0,2,,,,0
-1474372800,Sf.Gheorghe,Unirea Ungheni,1,0,,,,0
-1474372800,Prut Leova,Sparta Selemet,0,3,,,,0
-1474372800,Iskra Ribnita,Saksan,0,5,,,,0
-1474459200,Codru Lozova,Intersport Sanatauca,1,0,,,,0
-1474459200,Anina Anenii Noi,Intersport,2,2,Pen,3,2,0
-1474459200,Academia Chisinau,Edinet,6,0,,,,0
-1477389600,Univer Comrat,Zaria Balti,1,8,,,,0
-1477389600,Spicul Chiscareni,Petrocub,0,3,,,,0
-1477389600,Speranta Nisporeni,Saksan,0,1,,,,0
-1477389600,Milsami,Academia Chisinau,4,0,,,,0
-1477389600,Dinamo-Auto,Sf.Gheorghe,3,2,,,,0
-1477396800,Sheriff Tiraspol,Codru Lozova,13,0,,,,0
-1477476000,Sparta Selemet,Dacia Chisinau,1,4,,,,0
-1477497600,Zimbru Chisinau,Anina Anenii Noi,10,0,,,,0
-1493209800,Petrocub,Saksan,3,0,,,,0
-1493209800,Milsami,Sheriff Tiraspol,0,1,,,,0
-1493209800,Dinamo-Auto,Zimbru Chisinau,0,4,,,,0
-1493209800,Dacia Chisinau,Zaria Balti,0,0,Pen,1,2,0
-1494943200,Zaria Balti,Zimbru Chisinau,0,0,AET,1,0,0
-1494943200,Petrocub,Sheriff Tiraspol,1,1,Pen,1,2,0
-1495731600,Sheriff Tiraspol,Zaria Balti,5,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1472907600,Sireti,Sparta Selemet,UmLdVP3G,nHw4XhBH,2,10,,,,0
+1472907600,Sinteza Causeni,Intersport,b1ID6JJC,fm2mZQfT,0,0,Pen,0,1,0
+1472907600,Riscani,Edinet,vg95yCxN,ddlFUp3p,1,4,,,,0
+1472907600,Orhei Star,Victoria,,GKgzQUqg,1,2,,,,0
+1472907600,Milestii Mici,Sf.Gheorghe,,E5dQHTcd,2,4,,,,0
+1472907600,Maiak Cioropcani,Codru Lozova,,Iq89zWiT,3,5,,,,0
+1472907600,Intersport Sanatauca,Singerei,Iq89zWiT,Iq89zWiT,1,0,,,,0
+1472907600,Granicerul,Spicul Chiscareni,vg95yCxN,ddlFUp3p,0,2,,,,0
+1472907600,Cruiz Camenca,Iskra Ribnita,,Iq89zWiT,1,1,Pen,1,2,0
+1472907600,Congaz,Univer Comrat,Y1irO8E5,nyAR0wsT,2,4,,,,0
+1472907600,Ceadir-Lunga,Prut Leova,,OjALuBBo,2,2,Pen,2,3,0
+1472907600,Anina Anenii Noi,Real Succes,,lvTfNEmR,3,0,,,,0
+1474372800,Victoria,Spicul Chiscareni,GKgzQUqg,ddlFUp3p,0,2,,,,0
+1474372800,Sf.Gheorghe,Unirea Ungheni,E5dQHTcd,htukpewo,1,0,,,,0
+1474372800,Prut Leova,Sparta Selemet,OjALuBBo,nHw4XhBH,0,3,,,,0
+1474372800,Iskra Ribnita,Saksan,Iq89zWiT,xtLCk61r,0,5,,,,0
+1474459200,Codru Lozova,Intersport Sanatauca,Iq89zWiT,Iq89zWiT,1,0,,,,0
+1474459200,Anina Anenii Noi,Intersport,,fm2mZQfT,2,2,Pen,3,2,0
+1474459200,Academia Chisinau,Edinet,G6lyZe2l,ddlFUp3p,6,0,,,,0
+1477389600,Univer Comrat,Zaria Balti,nyAR0wsT,hEC4Vnse,1,8,,,,0
+1477389600,Spicul Chiscareni,Petrocub,ddlFUp3p,0KH3wM5q,0,3,,,,0
+1477389600,Speranta Nisporeni,Saksan,bNXyIOQ7,xtLCk61r,0,1,,,,0
+1477389600,Milsami,Academia Chisinau,G6lyZe2l,G6lyZe2l,4,0,,,,0
+1477389600,Dinamo-Auto,Sf.Gheorghe,GKJk5gu7,E5dQHTcd,3,2,,,,0
+1477396800,Sheriff Tiraspol,Codru Lozova,zVD8QVhN,Iq89zWiT,13,0,,,,0
+1477476000,Sparta Selemet,Dacia Chisinau,nHw4XhBH,G6lyZe2l,1,4,,,,0
+1477497600,Zimbru Chisinau,Anina Anenii Noi,QcBOsqL0,,10,0,,,,0
+1493209800,Petrocub,Saksan,0KH3wM5q,xtLCk61r,3,0,,,,0
+1493209800,Milsami,Sheriff Tiraspol,G6lyZe2l,zVD8QVhN,0,1,,,,0
+1493209800,Dinamo-Auto,Zimbru Chisinau,GKJk5gu7,QcBOsqL0,0,4,,,,0
+1493209800,Dacia Chisinau,Zaria Balti,G6lyZe2l,hEC4Vnse,0,0,Pen,1,2,0
+1494943200,Zaria Balti,Zimbru Chisinau,hEC4Vnse,QcBOsqL0,0,0,AET,1,0,0
+1494943200,Petrocub,Sheriff Tiraspol,0KH3wM5q,zVD8QVhN,1,1,Pen,1,2,0
+1495731600,Sheriff Tiraspol,Zaria Balti,zVD8QVhN,hEC4Vnse,5,0,,,,0

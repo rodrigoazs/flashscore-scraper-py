@@ -1,26 +1,26 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1338728400,Valka,Rinuzi,2,4,,,,0
-1339160400,Mersrags,Brali,2,1,,,,0
-1339515000,Alberts,Ludzas SK,1,1,AET,2,1,0
-1339603200,Saldus,Kuldigas NSS,0,1,,,,0
-1341061200,1625 Liepaja,Ilukste,1,2,,,,0
-1341064800,Mersrags,RFS,0,10,,,,0
-1341147600,Kuldigas NSS,Tukums 2000,0,1,,,,0
-1341151200,Rezekne,BFC Daugavpils,0,1,,,,0
-1341244800,Rinuzi,Valmiera,2,1,,,,0
-1341658800,Alberts,Auda,0,2,,,,0
-1342864800,RFS,FC Daugava,0,11,,,,0
-1342879200,BFC Daugavpils,Ventspils,0,3,,,,0
-1342965600,Ilukste,Gulbene,1,4,,,,0
-1342969200,Tukums 2000,Skonto,0,6,,,,0
-1342972800,Metta,Jurmala,1,7,,,,0
-1342972800,Jelgava,FK Liepaja,1,2,,,,0
-1342972800,Auda,Spartaks,0,2,,,,0
-1343059200,Rinuzi,Daugava Riga,0,6,,,,0
-1363438800,FC Daugava,Jurmala,2,1,,,,0
-1363442400,FK Liepaja,Skonto,3,1,,,,0
-1363525200,Spartaks,Ventspils,1,1,Pen,1,2,0
-1363612800,Gulbene,Daugava Riga,0,7,,,,0
-1367665200,Ventspils,FC Daugava,4,0,,,,0
-1367668800,Daugava Riga,FK Liepaja,1,1,Pen,1,2,0
-1368885600,FK Liepaja,Ventspils,1,1,AET,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1338728400,Valka,Rinuzi,bqguV9Fj,rV5nwcwr,2,4,,,,0
+1339160400,Mersrags,Brali,,,2,1,,,,0
+1339515000,Alberts,Ludzas SK,EPhva3GT,,1,1,AET,2,1,0
+1339603200,Saldus,Kuldigas NSS,hnOwLRg8,4QqzlA6P,0,1,,,,0
+1341061200,1625 Liepaja,Ilukste,fTmPiYlr,C2BB4ZWf,1,2,,,,0
+1341064800,Mersrags,RFS,,Uye1gatQ,0,10,,,,0
+1341147600,Kuldigas NSS,Tukums 2000,4QqzlA6P,tC6rU9Br,0,1,,,,0
+1341151200,Rezekne,BFC Daugavpils,YunHGuYA,0Si1Ct09,0,1,,,,0
+1341244800,Rinuzi,Valmiera,rV5nwcwr,63LcsWgs,2,1,,,,0
+1341658800,Alberts,Auda,EPhva3GT,hftqBi79,0,2,,,,0
+1342864800,RFS,FC Daugava,Uye1gatQ,v3b841Xb,0,11,,,,0
+1342879200,BFC Daugavpils,Ventspils,0Si1Ct09,IROavVX5,0,3,,,,0
+1342965600,Ilukste,Gulbene,C2BB4ZWf,z735vIvR,1,4,,,,0
+1342969200,Tukums 2000,Skonto,tC6rU9Br,MaoY8XU2,0,6,,,,0
+1342972800,Metta,Jurmala,xICJ1EZ7,xGkXZymr,1,7,,,,0
+1342972800,Jelgava,FK Liepaja,finrn2xp,tfJgPT4F,1,2,,,,0
+1342972800,Auda,Spartaks,hftqBi79,xKNcwgvn,0,2,,,,0
+1343059200,Rinuzi,Daugava Riga,rV5nwcwr,zZsp1Eos,0,6,,,,0
+1363438800,FC Daugava,Jurmala,v3b841Xb,xGkXZymr,2,1,,,,0
+1363442400,FK Liepaja,Skonto,tfJgPT4F,MaoY8XU2,3,1,,,,0
+1363525200,Spartaks,Ventspils,xKNcwgvn,IROavVX5,1,1,Pen,1,2,0
+1363612800,Gulbene,Daugava Riga,z735vIvR,zZsp1Eos,0,7,,,,0
+1367665200,Ventspils,FC Daugava,IROavVX5,v3b841Xb,4,0,,,,0
+1367668800,Daugava Riga,FK Liepaja,zZsp1Eos,tfJgPT4F,1,1,Pen,1,2,0
+1368885600,FK Liepaja,Ventspils,tfJgPT4F,IROavVX5,1,1,AET,1,2,0

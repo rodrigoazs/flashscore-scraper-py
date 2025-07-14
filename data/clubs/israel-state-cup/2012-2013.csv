@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1327834800,H. Asi Gilboa,Hapoel Petah Tikva,1,0,,,,0
-1327852200,Nes Tziona,H. Raanana,0,5,,,,0
-1327852500,Ramat Hasharon,Maccabi Yavne,1,2,,,,0
-1327852800,H. Akko,Hapoel Afula,1,2,,,,0
-1327856400,H. Ironi Rishon,M. Nazareth,2,1,,,,0
-1327856400,Beitar Tel Aviv,Hapoel Bnei Lod,0,1,,,,0
-1327856400,Beitar Jerusalem,Maccabi Umm al-Fahm,5,0,,,,0
-1327856400,Ashkelon,Nahariya,6,1,,,,0
-1327863000,Netanya,Maccabi Tel Aviv,0,2,,,,0
-1327939800,Nof Hagalil,Sakhnin,1,1,Pen,1,2,0
-1327939800,Hapoel Kfar Saba,M. Herzliya,1,1,AET,2,1,0
-1327939800,Hapoel Herzliya,Kiryat Shmona,0,4,,,,0
-1327941900,Hap. Ramat Gan,SC Ashdod,2,0,,,,0
-1327942800,Hapoel Azor,Maccabi Haifa,0,4,,,,0
-1327942800,Bnei Yehuda,Hapoel Haifa,0,2,,,,0
-1327949400,H. Beer Sheva,Hapoel Tel Aviv,1,1,AET,1,2,0
-1330254000,H. Asi Gilboa,Ashkelon,0,0,Pen,2,1,0
-1330277700,Kiryat Shmona,Maccabi Yavne,2,0,,,,0
-1330277700,Hap. Ramat Gan,Hapoel Afula,3,3,AET,5,3,0
-1330277700,H. Ironi Rishon,H. Raanana,1,1,Pen,3,2,0
-1330282200,Hapoel Kfar Saba,Hapoel Tel Aviv,0,1,,,,0
-1330361100,Hapoel Bnei Lod,Sakhnin,2,3,,,,0
-1330362000,Maccabi Haifa,Hapoel Haifa,2,1,,,,0
-1330368600,Maccabi Tel Aviv,Beitar Jerusalem,0,2,,,,0
-1331551800,H. Asi Gilboa,Hap. Ramat Gan,1,2,,,,0
-1331573100,Sakhnin,Kiryat Shmona,1,3,,,,0
-1331573400,H. Ironi Rishon,Hapoel Tel Aviv,1,0,,,,0
-1331661600,Beitar Jerusalem,Maccabi Haifa,0,3,,,,0
-1334674800,H. Ironi Rishon,Hap. Ramat Gan,1,2,,,,0
-1334683800,Kiryat Shmona,Maccabi Haifa,1,1,AET,2,1,0
-1336496400,Kiryat Shmona,Hap. Ramat Gan,1,1,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1327834800,H. Asi Gilboa,Hapoel Petah Tikva,8CwW9WOu,hQ0m0v0m,1,0,,,,0
+1327852200,Nes Tziona,H. Raanana,6JVdM2JI,b5r6zrF0,0,5,,,,0
+1327852500,Ramat Hasharon,Maccabi Yavne,KzDWWehh,zewDk62f,1,2,,,,0
+1327852800,H. Akko,Hapoel Afula,dYcEa0DE,zqa7zUmG,1,2,,,,0
+1327856400,H. Ironi Rishon,M. Nazareth,80mFJoEm,QX9Y1TqM,2,1,,,,0
+1327856400,Beitar Tel Aviv,Hapoel Bnei Lod,jVy11PZ2,v3ztUZ4H,0,1,,,,0
+1327856400,Beitar Jerusalem,Maccabi Umm al-Fahm,llM9Ws6j,b75Ac5A1,5,0,,,,0
+1327856400,Ashkelon,Nahariya,29ebI4SF,fB4DXYnR,6,1,,,,0
+1327863000,Netanya,Maccabi Tel Aviv,vk5aQxpF,EgfVDm2G,0,2,,,,0
+1327939800,Nof Hagalil,Sakhnin,b75Ac5A1,Au2PKzWK,1,1,Pen,1,2,0
+1327939800,Hapoel Kfar Saba,M. Herzliya,29ebI4SF,jVy11PZ2,1,1,AET,2,1,0
+1327939800,Hapoel Herzliya,Kiryat Shmona,CpAtKdVh,AudDKFGO,0,4,,,,0
+1327941900,Hap. Ramat Gan,SC Ashdod,dzZG4p8r,n3SolM0c,2,0,,,,0
+1327942800,Hapoel Azor,Maccabi Haifa,A5uIW8Yd,Q5Dpg1h8,0,4,,,,0
+1327942800,Bnei Yehuda,Hapoel Haifa,8zGbtM5N,ImdO7J3k,0,2,,,,0
+1327949400,H. Beer Sheva,Hapoel Tel Aviv,A3ON3kaq,UeZOJs03,1,1,AET,1,2,0
+1330254000,H. Asi Gilboa,Ashkelon,8CwW9WOu,29ebI4SF,0,0,Pen,2,1,0
+1330277700,Kiryat Shmona,Maccabi Yavne,AudDKFGO,zewDk62f,2,0,,,,0
+1330277700,Hap. Ramat Gan,Hapoel Afula,dzZG4p8r,zqa7zUmG,3,3,AET,5,3,0
+1330277700,H. Ironi Rishon,H. Raanana,80mFJoEm,b5r6zrF0,1,1,Pen,3,2,0
+1330282200,Hapoel Kfar Saba,Hapoel Tel Aviv,29ebI4SF,UeZOJs03,0,1,,,,0
+1330361100,Hapoel Bnei Lod,Sakhnin,v3ztUZ4H,Au2PKzWK,2,3,,,,0
+1330362000,Maccabi Haifa,Hapoel Haifa,Q5Dpg1h8,ImdO7J3k,2,1,,,,0
+1330368600,Maccabi Tel Aviv,Beitar Jerusalem,EgfVDm2G,llM9Ws6j,0,2,,,,0
+1331551800,H. Asi Gilboa,Hap. Ramat Gan,8CwW9WOu,dzZG4p8r,1,2,,,,0
+1331573100,Sakhnin,Kiryat Shmona,Au2PKzWK,AudDKFGO,1,3,,,,0
+1331573400,H. Ironi Rishon,Hapoel Tel Aviv,80mFJoEm,UeZOJs03,1,0,,,,0
+1331661600,Beitar Jerusalem,Maccabi Haifa,llM9Ws6j,Q5Dpg1h8,0,3,,,,0
+1334674800,H. Ironi Rishon,Hap. Ramat Gan,80mFJoEm,dzZG4p8r,1,2,,,,0
+1334683800,Kiryat Shmona,Maccabi Haifa,AudDKFGO,Q5Dpg1h8,1,1,AET,2,1,0
+1336496400,Kiryat Shmona,Hap. Ramat Gan,AudDKFGO,dzZG4p8r,1,1,Pen,1,2,0

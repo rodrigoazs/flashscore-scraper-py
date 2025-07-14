@@ -1,34 +1,34 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1474376400,Spartak Pleven,Pirin Blagoevgrad,2,3,,,,0
-1474376400,Levski Karlovo,Vereya,0,2,,,,0
-1474376400,Etar,Neftochimic Burgas,1,1,Pen,1,2,0
-1474376400,Chernomorets Balchik,Lok. Plovdiv,2,5,,,,0
-1474376400,Botev Vratsa,Ludogorets,0,4,,,,0
-1474376400,Botev Galabovo,Montana,2,3,,,,0
-1474462800,Vitosha Bistritsa,Dunav Ruse,1,1,Pen,1,2,0
-1474462800,Septemvri Sofia,Beroe,2,0,,,,0
-1474462800,Rozova Dolina,Cherno More,1,2,,,,0
-1474462800,Nesebar,Pomorie,1,2,,,,0
-1474462800,Lok. Sofia,CSKA Sofia,2,1,,,,0
-1474462800,Gotse Delchev,Botev Plovdiv,3,6,,,,0
-1474462800,Bansko,Sozopol,0,1,,,,0
-1474473600,Lovech,Slavia Sofia,2,0,,,,0
-1474549200,Tsarsko Selo,Levski Sofia,0,2,,,,0
-1474549200,Oborishte,Lok. Gorna,2,0,,,,0
-1477396800,Septemvri Sofia,Dunav Ruse,0,2,,,,0
-1477407600,Lok. Plovdiv,Oborishte,6,0,,,,0
-1477414800,Montana,Ludogorets,0,4,,,,0
-1477494000,Lovech,Lok. Sofia,1,1,Pen,2,1,0
-1477497600,Levski Sofia,Cherno More,2,2,AET,2,3,0
-1477573200,Sozopol,Pirin Blagoevgrad,0,1,,,,0
-1477576800,Vereya,Pomorie,1,0,,,,0
-1477587600,Botev Plovdiv,Neftochimic Burgas,3,0,,,,0
-1491325200,Pirin Blagoevgrad,Botev Plovdiv,0,1,,,,0
-1491402600,Lovech,Cherno More,1,1,Pen,2,1,0
-1491411600,Lok. Plovdiv,Ludogorets,0,4,,,,0
-1491498000,Vereya,Dunav Ruse,2,0,,,,0
-1492531200,Ludogorets,Lovech,4,0,,,,0
-1492617600,Vereya,Botev Plovdiv,0,1,,,,0
-1493218800,Botev Plovdiv,Vereya,1,1,,,,0
-1493305200,Lovech,Ludogorets,0,7,,,,0
-1495639800,Ludogorets,Botev Plovdiv,1,2,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1474376400,Spartak Pleven,Pirin Blagoevgrad,0O7W928o,lQJ6Oljn,2,3,,,,0
+1474376400,Levski Karlovo,Vereya,0EA9n7rq,UBegiO47,0,2,,,,0
+1474376400,Etar,Neftochimic Burgas,vmEtyZKD,pYbCLS4D,1,1,Pen,1,2,0
+1474376400,Chernomorets Balchik,Lok. Plovdiv,AwouEpe3,KtjRAU38,2,5,,,,0
+1474376400,Botev Vratsa,Ludogorets,vTHHOmI9,n1yhZU94,0,4,,,,0
+1474376400,Botev Galabovo,Montana,AynvibGs,fZdE6zOJ,2,3,,,,0
+1474462800,Vitosha Bistritsa,Dunav Ruse,ENPU0l2d,pdm5M2VL,1,1,Pen,1,2,0
+1474462800,Septemvri Sofia,Beroe,Oj0MPYxU,fmfS2lRL,2,0,,,,0
+1474462800,Rozova Dolina,Cherno More,vqftDSi3,tjkFB7mQ,1,2,,,,0
+1474462800,Nesebar,Pomorie,bZ5qQjN9,0dmGukZ9,1,2,,,,0
+1474462800,Lok. Sofia,CSKA Sofia,fZdE6zOJ,fRtHs98a,2,1,,,,0
+1474462800,Gotse Delchev,Botev Plovdiv,SnmJKYvf,UVZMFjiK,3,6,,,,0
+1474462800,Bansko,Sozopol,vmnKv9lG,tdOZ8ytr,0,1,,,,0
+1474473600,Lovech,Slavia Sofia,CAglwgEF,dxlxqBhr,2,0,,,,0
+1474549200,Tsarsko Selo,Levski Sofia,ULhYevso,OvIM8T6I,0,2,,,,0
+1474549200,Oborishte,Lok. Gorna,xvl7d3R4,Khns8S2D,2,0,,,,0
+1477396800,Septemvri Sofia,Dunav Ruse,Oj0MPYxU,pdm5M2VL,0,2,,,,0
+1477407600,Lok. Plovdiv,Oborishte,KtjRAU38,xvl7d3R4,6,0,,,,0
+1477414800,Montana,Ludogorets,fZdE6zOJ,n1yhZU94,0,4,,,,0
+1477494000,Lovech,Lok. Sofia,CAglwgEF,fZdE6zOJ,1,1,Pen,2,1,0
+1477497600,Levski Sofia,Cherno More,OvIM8T6I,tjkFB7mQ,2,2,AET,2,3,0
+1477573200,Sozopol,Pirin Blagoevgrad,tdOZ8ytr,lQJ6Oljn,0,1,,,,0
+1477576800,Vereya,Pomorie,UBegiO47,0dmGukZ9,1,0,,,,0
+1477587600,Botev Plovdiv,Neftochimic Burgas,UVZMFjiK,pYbCLS4D,3,0,,,,0
+1491325200,Pirin Blagoevgrad,Botev Plovdiv,lQJ6Oljn,UVZMFjiK,0,1,,,,0
+1491402600,Lovech,Cherno More,CAglwgEF,tjkFB7mQ,1,1,Pen,2,1,0
+1491411600,Lok. Plovdiv,Ludogorets,KtjRAU38,n1yhZU94,0,4,,,,0
+1491498000,Vereya,Dunav Ruse,UBegiO47,pdm5M2VL,2,0,,,,0
+1492531200,Ludogorets,Lovech,n1yhZU94,CAglwgEF,4,0,,,,0
+1492617600,Vereya,Botev Plovdiv,UBegiO47,UVZMFjiK,0,1,,,,0
+1493218800,Botev Plovdiv,Vereya,UVZMFjiK,UBegiO47,1,1,,,,0
+1493305200,Lovech,Ludogorets,CAglwgEF,n1yhZU94,0,7,,,,0
+1495639800,Ludogorets,Botev Plovdiv,n1yhZU94,UVZMFjiK,1,2,,,,1

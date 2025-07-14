@@ -1,38 +1,38 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1451393100,Al-Shabab,Al-Ahli/Sedab,2,1,,,,0
-1451400300,Saham,Al Bdea,9,0,,,,0
-1451400300,Nizwa,Al-Bashaeer,1,0,,,,0
-1451404800,Al-Msnaa,Mirbat,1,1,Pen,1,2,0
-1451479500,Muscat,Al Talia,2,0,,,,0
-1451479500,Jaalan,Al Khaboora,0,1,,,,0
-1451481300,Salalah SC,Al-Salam,7,2,,,,0
-1451491200,Sur Club,Al Orouba,1,2,,,,0
-1451491200,Bosher,Al-Rustaq,0,2,,,,0
-1451493000,Dhofar,Alkamel Alwafi,3,1,,,,0
-1451565900,Dibba,Al Suwaiq,0,2,,,,0
-1451565900,Al Mdeebe,Oman Club,0,2,,,,0
-1451573100,Al-Wahda,Al Seeb,2,2,Pen,3,2,0
-1451574900,Al-Ittihad,Al Nasr,0,2,,,,0
-1451577600,Bahla,Fanja SC,2,3,,,,0
-1451660400,Sohar,Al Nahda,2,2,Pen,3,2,0
-1452690000,Oman Club,Fanja SC,0,2,,,,0
-1452690000,Al Khaboora,Nizwa,3,2,,,,0
-1452700800,Al-Rustaq,Mirbat,2,1,,,,0
-1452700800,Al Suwaiq,Al Orouba,1,0,,,,0
-1452776400,Muscat,Sohar,1,0,,,,0
-1452778200,Salalah SC,Al-Wahda,2,1,,,,0
-1452787200,Al-Shabab,Saham,2,2,Pen,2,3,0
-1452789000,Dhofar,Al Nasr,1,2,,,,0
-1455543900,Al Nasr,Fanja SC,0,1,,,,0
-1455552000,Al Suwaiq,Al Khaboora,0,0,,,,0
-1455628500,Al-Rustaq,Salalah SC,0,1,,,,0
-1455639300,Muscat,Saham,2,1,,,,0
-1456579800,Saham,Muscat,3,0,,,,0
-1456590600,Salalah SC,Al-Rustaq,0,1,Pen,3,3,0
-1456666200,Al Khaboora,Al Suwaiq,2,1,,,,0
-1456677000,Fanja SC,Al Nasr,1,2,,,,0
-1459950300,Saham,Al Nasr,0,0,,,,0
-1459958400,Salalah SC,Al Khaboora,0,0,,,,0
-1460901600,Al Khaboora,Salalah SC,1,0,,,,0
-1460908800,Al Nasr,Saham,0,1,,,,0
-1462029300,Saham,Al Khaboora,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1451393100,Al-Shabab,Al-Ahli/Sedab,vaxZbxYc,WbpYXCFI,2,1,,,,0
+1451400300,Saham,Al Bdea,l8K8eTW1,0luav5yK,9,0,,,,0
+1451400300,Nizwa,Al-Bashaeer,dI3D3epF,riw5UdxI,1,0,,,,0
+1451404800,Al-Msnaa,Mirbat,O2Kh7Bob,v55eKuYK,1,1,Pen,1,2,0
+1451479500,Muscat,Al Talia,llSI6cgF,Khpf7noh,2,0,,,,0
+1451479500,Jaalan,Al Khaboora,zRmMzFVa,v9e3h2A2,0,1,,,,0
+1451481300,Salalah SC,Al-Salam,p43mBZR6,6e7dxhBh,7,2,,,,0
+1451491200,Sur Club,Al Orouba,QBtY82ON,G0L5KheQ,1,2,,,,0
+1451491200,Bosher,Al-Rustaq,hYMMiFoJ,txCjlVcN,0,2,,,,0
+1451493000,Dhofar,Alkamel Alwafi,QidGtpJG,zR5jQfj5,3,1,,,,0
+1451565900,Dibba,Al Suwaiq,482TjC37,txCjlVcN,0,2,,,,0
+1451565900,Al Mdeebe,Oman Club,,QTo3Gsm1,0,2,,,,0
+1451573100,Al-Wahda,Al Seeb,hrAraEza,2FI4qe8C,2,2,Pen,3,2,0
+1451574900,Al-Ittihad,Al Nasr,Grbzlm1k,4EmGROKq,0,2,,,,0
+1451577600,Bahla,Fanja SC,txCjlVcN,j7gWRm4i,2,3,,,,0
+1451660400,Sohar,Al Nahda,lzFPYVm9,SrFXHN94,2,2,Pen,3,2,0
+1452690000,Oman Club,Fanja SC,QTo3Gsm1,j7gWRm4i,0,2,,,,0
+1452690000,Al Khaboora,Nizwa,v9e3h2A2,dI3D3epF,3,2,,,,0
+1452700800,Al-Rustaq,Mirbat,txCjlVcN,v55eKuYK,2,1,,,,0
+1452700800,Al Suwaiq,Al Orouba,txCjlVcN,G0L5KheQ,1,0,,,,0
+1452776400,Muscat,Sohar,llSI6cgF,lzFPYVm9,1,0,,,,0
+1452778200,Salalah SC,Al-Wahda,p43mBZR6,hrAraEza,2,1,,,,0
+1452787200,Al-Shabab,Saham,vaxZbxYc,l8K8eTW1,2,2,Pen,2,3,0
+1452789000,Dhofar,Al Nasr,QidGtpJG,4EmGROKq,1,2,,,,0
+1455543900,Al Nasr,Fanja SC,4EmGROKq,j7gWRm4i,0,1,,,,0
+1455552000,Al Suwaiq,Al Khaboora,txCjlVcN,v9e3h2A2,0,0,,,,0
+1455628500,Al-Rustaq,Salalah SC,txCjlVcN,p43mBZR6,0,1,,,,0
+1455639300,Muscat,Saham,llSI6cgF,l8K8eTW1,2,1,,,,0
+1456579800,Saham,Muscat,l8K8eTW1,llSI6cgF,3,0,,,,0
+1456590600,Salalah SC,Al-Rustaq,p43mBZR6,txCjlVcN,0,1,Pen,3,3,0
+1456666200,Al Khaboora,Al Suwaiq,v9e3h2A2,txCjlVcN,2,1,,,,0
+1456677000,Fanja SC,Al Nasr,j7gWRm4i,4EmGROKq,1,2,,,,0
+1459950300,Saham,Al Nasr,l8K8eTW1,4EmGROKq,0,0,,,,0
+1459958400,Salalah SC,Al Khaboora,p43mBZR6,v9e3h2A2,0,0,,,,0
+1460901600,Al Khaboora,Salalah SC,v9e3h2A2,p43mBZR6,1,0,,,,0
+1460908800,Al Nasr,Saham,4EmGROKq,l8K8eTW1,0,1,,,,0
+1462029300,Saham,Al Khaboora,l8K8eTW1,v9e3h2A2,1,0,,,,0

@@ -1,22 +1,22 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1601406900,Faetano,Fiorentino,1,1,,,,0
-1601406900,Cosmos,Cailungo,3,0,,,,0
-1601493300,Pennarossa,Tre Fiori,2,1,,,,0
-1601493300,Libertas,La Fiorita,0,4,,,,0
-1601493300,Juvenes/Dogana,Domagnano,1,3,,,,0
-1601493300,Folgore,Virtus,2,0,,,,0
-1601579700,Murata,San Giovanni,1,1,,,,0
-1603219500,Virtus,Folgore,0,2,,,,0
-1603219500,San Giovanni,Murata,0,1,,,,0
-1603305900,Tre Fiori,Pennarossa,2,0,,,,0
-1603305900,La Fiorita,Libertas,1,1,,,,0
-1603305900,Fiorentino,Faetano,3,1,,,,0
-1603305900,Domagnano,Juvenes/Dogana,0,2,Pen,1,2,0
-1603305900,Cailungo,Cosmos,2,1,,,,0
-1615405500,Tre Penne,Domagnano,2,0,,,,0
-1615405500,Murata,La Fiorita,3,4,,,,0
-1615405500,Folgore,Fiorentino,4,1,,,,0
-1615405500,Cosmos,Tre Fiori,0,1,,,,0
-1619635500,Tre Penne,Tre Fiori,0,2,,,,0
-1619721900,Folgore,La Fiorita,1,2,,,,0
-1621104300,Tre Fiori,La Fiorita,0,0,Pen,0,1,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1601406900,Faetano,Fiorentino,AwNhcAn3,h8gApWqJ,1,1,,,,0
+1601406900,Cosmos,Cailungo,2LkHQV7j,xfd2nhF6,3,0,,,,0
+1601493300,Pennarossa,Tre Fiori,lE5HhTyt,4nHGwTWE,2,1,,,,0
+1601493300,Libertas,La Fiorita,tMgHdBpr,IqhLeVal,0,4,,,,0
+1601493300,Juvenes/Dogana,Domagnano,8AW7ex2o,lMD1XBvn,1,3,,,,0
+1601493300,Folgore,Virtus,h8gApWqJ,KEDg48Us,2,0,,,,0
+1601579700,Murata,San Giovanni,zHvNYsXt,IHc0M2Zm,1,1,,,,0
+1603219500,Virtus,Folgore,KEDg48Us,h8gApWqJ,0,2,,,,0
+1603219500,San Giovanni,Murata,IHc0M2Zm,zHvNYsXt,0,1,,,,0
+1603305900,Tre Fiori,Pennarossa,4nHGwTWE,lE5HhTyt,2,0,,,,0
+1603305900,La Fiorita,Libertas,IqhLeVal,tMgHdBpr,1,1,,,,0
+1603305900,Fiorentino,Faetano,h8gApWqJ,AwNhcAn3,3,1,,,,0
+1603305900,Domagnano,Juvenes/Dogana,lMD1XBvn,8AW7ex2o,0,2,Pen,1,2,0
+1603305900,Cailungo,Cosmos,xfd2nhF6,2LkHQV7j,2,1,,,,0
+1615405500,Tre Penne,Domagnano,YVxpougo,lMD1XBvn,2,0,,,,0
+1615405500,Murata,La Fiorita,zHvNYsXt,IqhLeVal,3,4,,,,0
+1615405500,Folgore,Fiorentino,h8gApWqJ,h8gApWqJ,4,1,,,,0
+1615405500,Cosmos,Tre Fiori,2LkHQV7j,4nHGwTWE,0,1,,,,0
+1619635500,Tre Penne,Tre Fiori,YVxpougo,4nHGwTWE,0,2,,,,0
+1619721900,Folgore,La Fiorita,h8gApWqJ,IqhLeVal,1,2,,,,0
+1621104300,Tre Fiori,La Fiorita,4nHGwTWE,IqhLeVal,0,0,Pen,0,1,1

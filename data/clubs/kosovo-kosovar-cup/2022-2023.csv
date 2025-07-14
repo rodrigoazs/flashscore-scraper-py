@@ -1,18 +1,18 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1643976000,Liria,KF Llapi,2,3,,,,0
-1643976000,Flamurtari,Vushtrria,1,1,Pen,1,2,0
-1643976000,Feronikeli,Trepca 89,0,3,Awrd,,,0
-1643976000,FC Ballkani,A&N,2,0,,,,0
-1644062400,Malisheva,Fushe Kosova,2,0,,,,0
-1644062400,Gjilani,Vjosa,4,0,,,,0
-1644062400,Behari,Prizreni,3,1,,,,0
-1644148800,Prishtina,Dukagjini,3,1,,,,0
-1647345600,Vushtrria,Behari,1,0,,,,0
-1647345600,Trepca 89,Gjilani,1,5,,,,0
-1647345600,Prishtina,FC Ballkani,2,0,,,,0
-1647345600,KF Llapi,Malisheva,2,2,Pen,3,2,0
-1649163600,Vushtrria,Prishtina,1,2,,,,0
-1649163600,KF Llapi,Gjilani,1,2,,,,0
-1650373200,Prishtina,Vushtrria,6,0,,,,0
-1650373200,Gjilani,KF Llapi,1,0,,,,0
-1654444800,Gjilani,Prishtina,0,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1643976000,Liria,KF Llapi,pbSUCRoq,0nUxLTUs,2,3,,,,0
+1643976000,Flamurtari,Vushtrria,jo6FMO7U,WE4tuyNt,1,1,Pen,1,2,0
+1643976000,Feronikeli,Trepca 89,Shb6oJcl,UTS9Qru3,0,3,Awrd,,,0
+1643976000,FC Ballkani,A&N,8Ce4Unrd,4d6HOl3D,2,0,,,,0
+1644062400,Malisheva,Fushe Kosova,GlZoDEhC,pvIKZGji,2,0,,,,0
+1644062400,Gjilani,Vjosa,bTGS2SK0,2qhVVn7E,4,0,,,,0
+1644062400,Behari,Prizreni,0jnSJeW9,0zlaJwBG,3,1,,,,0
+1644148800,Prishtina,Dukagjini,WYS0PwEj,xYhfP1f5,3,1,,,,0
+1647345600,Vushtrria,Behari,WE4tuyNt,0jnSJeW9,1,0,,,,0
+1647345600,Trepca 89,Gjilani,UTS9Qru3,bTGS2SK0,1,5,,,,0
+1647345600,Prishtina,FC Ballkani,WYS0PwEj,8Ce4Unrd,2,0,,,,0
+1647345600,KF Llapi,Malisheva,0nUxLTUs,GlZoDEhC,2,2,Pen,3,2,0
+1649163600,Vushtrria,Prishtina,WE4tuyNt,WYS0PwEj,1,2,,,,0
+1649163600,KF Llapi,Gjilani,0nUxLTUs,bTGS2SK0,1,2,,,,0
+1650373200,Prishtina,Vushtrria,WYS0PwEj,WE4tuyNt,6,0,,,,0
+1650373200,Gjilani,KF Llapi,bTGS2SK0,0nUxLTUs,1,0,,,,0
+1654444800,Gjilani,Prishtina,bTGS2SK0,WYS0PwEj,0,2,,,,0

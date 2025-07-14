@@ -1,56 +1,56 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-915750000,Whitehill Welfare,Alloa,2,2,,,,0
-915750000,Stranraer,Clachnacuddin,1,0,,,,0
-915750000,Stirling,East Fife,2,1,,,,0
-915750000,Queen's Park,Berwick,1,2,,,,0
-915750000,Peterhead,Forfar Athletic,2,1,,,,0
-915750000,Partick Thistle,East Stirlingshire,2,1,,,,0
-915750000,Montrose,Queen of South,1,3,,,,0
-915750000,Dumbarton,Stenhousemuir,0,2,,,,0
-915750000,Cowdenbeath,Clyde,2,3,,,,0
-915750000,Brechin,Annan,2,2,,,,0
-915750000,Arbroath,Fraserburgh,0,0,,,,0
-915750000,Albion Rovers,Dalbeattie Star,0,0,,,,0
-916354800,Fraserburgh,Arbroath,1,3,,,,0
-916354800,Annan,Brechin,2,2,AET,2,3,0
-916700400,Dalbeattie Star,Albion Rovers,1,5,,,,0
-917564400,Stranraer,Berwick,1,2,,,,0
-917564400,St. Mirren,Aberdeen,1,1,,,,0
-917564400,Queen of South,Livingston,0,7,,,,0
-917564400,Hibernian,Dunfermline,4,1,,,,0
-917564400,Hearts,Stenhousemuir,3,2,,,,0
-917564400,Falkirk,Peterhead,3,1,,,,0
-917564400,Dundee FC,Ayr,0,0,,,,0
-917564400,Clydebank FC (1965),Stirling,1,0,,,,0
-917564400,Clyde,Raith,3,1,,,,0
-917564400,Alloa,Whitehill Welfare,2,0,,,,0
-917564400,Albion Rovers,Partick Thistle,1,2,,,,0
-917650800,St Johnstone,Rangers,0,2,,,,0
-917650800,Morton,Brechin,1,1,,,,0
-917650800,Dundee Utd,Airdrieonians,4,1,,,,0
-918169200,Kilmarnock,Alloa,0,0,,,,0
-918428400,Celtic,Inverness,1,3,,,,0
-918428400,Brechin,Morton,0,1,,,,0
-918428400,Aberdeen,St. Mirren,2,0,,,,0
-918514800,Alloa,Kilmarnock,1,0,,,,0
-919033200,Ayr,Dundee FC,2,1,,,,0
-919378800,Partick Thistle,Livingston,2,1,,,,0
-919378800,Motherwell,Arbroath,2,0,,,,0
-919378800,Morton,Rangers,0,1,,,,0
-919378800,Hibernian,Clydebank FC (1965),1,1,,,,0
-919378800,Clyde,Hearts,0,2,,,,0
-919378800,Berwick,Falkirk,0,0,,,,0
-919378800,Alloa,Dundee Utd,2,2,,,,0
-919465200,Inverness,Aberdeen,1,1,,,,0
-919638000,Dundee Utd,Alloa,4,0,,,,0
-919983600,Motherwell,Ayr,3,4,,,,0
-920156400,Falkirk,Berwick,3,0,,,,0
-920156400,Clydebank FC (1965),Hibernian,0,3,,,,0
-920156400,Aberdeen,Inverness,1,0,,,,0
-921106800,Hibernian,Falkirk,3,1,,,,0
-921106800,Ayr,Partick Thistle,2,0,,,,0
-921193200,Rangers,Hearts,4,1,,,,0
-921193200,Dundee Utd,Aberdeen,0,1,,,,0
-923522400,Ayr,Rangers,0,7,,,,0
-923608800,Hibernian,Aberdeen,1,2,,,,0
-927756000,Rangers,Aberdeen,4,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+915750000,Whitehill Welfare,Alloa,MX4SMmJT,QylHOT02,2,2,,,,0
+915750000,Stranraer,Clachnacuddin,4M7UJcW5,p8cAyJQE,1,0,,,,0
+915750000,Stirling,East Fife,4SnLNmG8,4SnLNmG8,2,1,,,,0
+915750000,Queen's Park,Berwick,b3iJIZkd,4SnLNmG8,1,2,,,,0
+915750000,Peterhead,Forfar Athletic,QylHOT02,4SnLNmG8,2,1,,,,0
+915750000,Partick Thistle,East Stirlingshire,bDGTe4kB,x4XgfYjj,2,1,,,,0
+915750000,Montrose,Queen of South,4SnLNmG8,vLBOqDG6,1,3,,,,0
+915750000,Dumbarton,Stenhousemuir,4SnLNmG8,O2l6wJsK,0,2,,,,0
+915750000,Cowdenbeath,Clyde,4SnLNmG8,O2l6wJsK,2,3,,,,0
+915750000,Brechin,Annan,QylHOT02,tjoPM7VE,2,2,,,,0
+915750000,Arbroath,Fraserburgh,E94hWz6b,pdmntqLK,0,0,,,,0
+915750000,Albion Rovers,Dalbeattie Star,QyEyGyc2,nDXCJXr3,0,0,,,,0
+916354800,Fraserburgh,Arbroath,pdmntqLK,E94hWz6b,1,3,,,,0
+916354800,Annan,Brechin,tjoPM7VE,QylHOT02,2,2,AET,2,3,0
+916700400,Dalbeattie Star,Albion Rovers,nDXCJXr3,QyEyGyc2,1,5,,,,0
+917564400,Stranraer,Berwick,4M7UJcW5,4SnLNmG8,1,2,,,,0
+917564400,St. Mirren,Aberdeen,tOCheaQB,SQqfdcHF,1,1,,,,0
+917564400,Queen of South,Livingston,vLBOqDG6,2gmAxwcQ,0,7,,,,0
+917564400,Hibernian,Dunfermline,CS2l9ZrP,vZ6gsKf8,4,1,,,,0
+917564400,Hearts,Stenhousemuir,GlTeTYJC,O2l6wJsK,3,2,,,,0
+917564400,Falkirk,Peterhead,EVwfgUro,QylHOT02,3,1,,,,0
+917564400,Dundee FC,Ayr,YRhqOgYr,Q59cxq9h,0,0,,,,0
+917564400,Clydebank FC (1965),Stirling,8WHIx6dm,4SnLNmG8,1,0,,,,0
+917564400,Clyde,Raith,O2l6wJsK,jTpNdhFI,3,1,,,,0
+917564400,Alloa,Whitehill Welfare,QylHOT02,MX4SMmJT,2,0,,,,0
+917564400,Albion Rovers,Partick Thistle,QyEyGyc2,bDGTe4kB,1,2,,,,0
+917650800,St Johnstone,Rangers,CdY02UC4,fFCBVa82,0,2,,,,0
+917650800,Morton,Brechin,bDGTe4kB,QylHOT02,1,1,,,,0
+917650800,Dundee Utd,Airdrieonians,hEvkcVY1,AB4EluEP,4,1,,,,0
+918169200,Kilmarnock,Alloa,xAfKntqE,QylHOT02,0,0,,,,0
+918428400,Celtic,Inverness,xGFNNID8,O2l6wJsK,1,3,,,,0
+918428400,Brechin,Morton,QylHOT02,bDGTe4kB,0,1,,,,0
+918428400,Aberdeen,St. Mirren,SQqfdcHF,tOCheaQB,2,0,,,,0
+918514800,Alloa,Kilmarnock,QylHOT02,xAfKntqE,1,0,,,,0
+919033200,Ayr,Dundee FC,Q59cxq9h,YRhqOgYr,2,1,,,,0
+919378800,Partick Thistle,Livingston,bDGTe4kB,2gmAxwcQ,2,1,,,,0
+919378800,Motherwell,Arbroath,xGFNNID8,E94hWz6b,2,0,,,,0
+919378800,Morton,Rangers,bDGTe4kB,fFCBVa82,0,1,,,,0
+919378800,Hibernian,Clydebank FC (1965),CS2l9ZrP,8WHIx6dm,1,1,,,,0
+919378800,Clyde,Hearts,O2l6wJsK,GlTeTYJC,0,2,,,,0
+919378800,Berwick,Falkirk,4SnLNmG8,EVwfgUro,0,0,,,,0
+919378800,Alloa,Dundee Utd,QylHOT02,hEvkcVY1,2,2,,,,0
+919465200,Inverness,Aberdeen,O2l6wJsK,SQqfdcHF,1,1,,,,0
+919638000,Dundee Utd,Alloa,hEvkcVY1,QylHOT02,4,0,,,,0
+919983600,Motherwell,Ayr,xGFNNID8,Q59cxq9h,3,4,,,,0
+920156400,Falkirk,Berwick,EVwfgUro,4SnLNmG8,3,0,,,,0
+920156400,Clydebank FC (1965),Hibernian,8WHIx6dm,CS2l9ZrP,0,3,,,,0
+920156400,Aberdeen,Inverness,SQqfdcHF,O2l6wJsK,1,0,,,,0
+921106800,Hibernian,Falkirk,CS2l9ZrP,EVwfgUro,3,1,,,,0
+921106800,Ayr,Partick Thistle,Q59cxq9h,bDGTe4kB,2,0,,,,0
+921193200,Rangers,Hearts,fFCBVa82,GlTeTYJC,4,1,,,,0
+921193200,Dundee Utd,Aberdeen,hEvkcVY1,SQqfdcHF,0,1,,,,0
+923522400,Ayr,Rangers,Q59cxq9h,fFCBVa82,0,7,,,,0
+923608800,Hibernian,Aberdeen,CS2l9ZrP,SQqfdcHF,1,2,,,,0
+927756000,Rangers,Aberdeen,fFCBVa82,SQqfdcHF,4,0,,,,0

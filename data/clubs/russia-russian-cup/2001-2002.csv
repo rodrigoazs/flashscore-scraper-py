@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-998344800,Shinnik Yaroslavl,Spartak Moscow,1,0,,,,0
-999900000,Tomsk,Saratov,0,1,,,,0
-999900000,Rubin Kazan,Fakel Voronezh,1,0,,,,0
-999900000,Nosta,FK Rostov,3,2,,,,0
-999900000,Neftekhimik,FC Moscow,0,3,,,,0
-999900000,Mordovia Saransk,CSKA Moscow,0,2,,,,0
-999900000,Lokomotiv Kaluga,Zenit,0,3,,,,0
-999900000,Lada Togliatti,Alania Vladikavkaz,2,1,,,,0
-999900000,Kuban,Chernomorets Novorossijsk,2,0,,,,0
-999900000,Kristall Smolensk,Dynamo Moscow,2,3,,,,0
-999900000,Khimki,FK Anzi Makhackala,2,3,,,,0
-999900000,Gazprom Izhevsk,R. Volgograd,3,1,,,,0
-999900000,Energomash Belgorod,Krylya Sovetov,0,2,,,,0
-999900000,Arsenal Tula,Saturn Ramenskoye,0,0,AET,0,2,0
-999900000,Amkar,Torpedo Moscow,3,0,,,,0
-1001109600,Zenit,Kuban,3,2,,,,0
-1002924000,Dynamo Moscow,FK Anzi Makhackala,5,0,,,,0
-1003183200,Saturn Ramenskoye,Shinnik Yaroslavl,1,0,,,,0
-1003183200,Saratov,Gazprom Izhevsk,2,1,,,,0
-1003183200,CSKA Moscow,Rubin Kazan,2,1,,,,0
-1003183200,Amkar,Nosta,4,1,,,,0
-1003269600,FC Moscow,Lada Togliatti,1,0,,,,0
-1003528800,FK Elista,Lokomotiv Moscow,2,1,,,,0
-1004878800,Krylya Sovetov,FK Elista,1,0,,,,0
-1017838800,Zenit,Krylya Sovetov,0,0,AET,1,0,0
-1017842400,FC Moscow,CSKA Moscow,0,1,,,,0
-1017846000,Saratov,Amkar,1,2,,,,0
-1017846000,Dynamo Moscow,Saturn Ramenskoye,0,3,,,,0
-1019656800,Saturn Ramenskoye,Zenit,0,0,AET,0,1,0
-1019743200,CSKA Moscow,Amkar,1,0,,,,0
-1021204800,CSKA Moscow,Zenit,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+998344800,Shinnik Yaroslavl,Spartak Moscow,rB3ucgaU,jqo4GJye,1,0,,,,0
+999900000,Tomsk,Saratov,OUUX0e6e,6RczGYa4,0,1,,,,0
+999900000,Rubin Kazan,Fakel Voronezh,Cj3YnyW9,xS55LjqJ,1,0,,,,0
+999900000,Nosta,FK Rostov,tCSuaZz8,CpEF1IjD,3,2,,,,0
+999900000,Neftekhimik,FC Moscow,lEcJfgx4,OUUX0e6e,0,3,,,,0
+999900000,Mordovia Saransk,CSKA Moscow,8zvP2TEi,nHLPS3jD,0,2,,,,0
+999900000,Lokomotiv Kaluga,Zenit,,QPqvtC2B,0,3,,,,0
+999900000,Lada Togliatti,Alania Vladikavkaz,tU1H0h7t,OCHmDtlK,2,1,,,,0
+999900000,Kuban,Chernomorets Novorossijsk,UB7Gfweh,YaM6mDZH,2,0,,,,0
+999900000,Kristall Smolensk,Dynamo Moscow,,WrST4g30,2,3,,,,0
+999900000,Khimki,FK Anzi Makhackala,2LTy0FL1,UZNHUPL0,2,3,,,,0
+999900000,Gazprom Izhevsk,R. Volgograd,,2DyrOlFn,3,1,,,,0
+999900000,Energomash Belgorod,Krylya Sovetov,A594wNGf,OUUX0e6e,0,2,,,,0
+999900000,Arsenal Tula,Saturn Ramenskoye,04cZ6kQB,f340SjwF,0,0,AET,0,2,0
+999900000,Amkar,Torpedo Moscow,8GkSmkbF,UsdRiD7F,3,0,,,,0
+1001109600,Zenit,Kuban,QPqvtC2B,UB7Gfweh,3,2,,,,0
+1002924000,Dynamo Moscow,FK Anzi Makhackala,WrST4g30,UZNHUPL0,5,0,,,,0
+1003183200,Saturn Ramenskoye,Shinnik Yaroslavl,f340SjwF,rB3ucgaU,1,0,,,,0
+1003183200,Saratov,Gazprom Izhevsk,6RczGYa4,,2,1,,,,0
+1003183200,CSKA Moscow,Rubin Kazan,nHLPS3jD,Cj3YnyW9,2,1,,,,0
+1003183200,Amkar,Nosta,8GkSmkbF,tCSuaZz8,4,1,,,,0
+1003269600,FC Moscow,Lada Togliatti,OUUX0e6e,tU1H0h7t,1,0,,,,0
+1003528800,FK Elista,Lokomotiv Moscow,fg1Zsv9o,8QMLTqy7,2,1,,,,0
+1004878800,Krylya Sovetov,FK Elista,OUUX0e6e,fg1Zsv9o,1,0,,,,0
+1017838800,Zenit,Krylya Sovetov,QPqvtC2B,OUUX0e6e,0,0,AET,1,0,0
+1017842400,FC Moscow,CSKA Moscow,OUUX0e6e,nHLPS3jD,0,1,,,,0
+1017846000,Saratov,Amkar,6RczGYa4,8GkSmkbF,1,2,,,,0
+1017846000,Dynamo Moscow,Saturn Ramenskoye,WrST4g30,f340SjwF,0,3,,,,0
+1019656800,Saturn Ramenskoye,Zenit,f340SjwF,QPqvtC2B,0,0,AET,0,1,0
+1019743200,CSKA Moscow,Amkar,nHLPS3jD,8GkSmkbF,1,0,,,,0
+1021204800,CSKA Moscow,Zenit,nHLPS3jD,QPqvtC2B,2,0,,,,0

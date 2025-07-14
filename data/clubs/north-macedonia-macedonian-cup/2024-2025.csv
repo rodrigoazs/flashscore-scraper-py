@@ -1,33 +1,33 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1726664400,Xhepcishti,Shkupi,0,8,,,,0
-1726664400,Vardar Negotino,Brera Strumica,0,4,,,,0
-1726664400,Sloga Vinica,Struga,1,6,,,,0
-1726664400,Sloboden Skopje,Bregalnica Stip,0,6,,,,0
-1726664400,Shkendija Haracine,Rabotnicki,2,0,,,,0
-1726664400,Ohrid,Besa 1976,1,5,,,,0
-1726664400,Novaci,Vardar,0,2,,,,0
-1726664400,Kozuf Gevgelija,Arsimi,1,2,,,,0
-1726664400,Karbinci,Sileks,1,4,,,,0
-1726664400,Jeni Maale,Shkendija,0,5,,,,0
-1726664400,FK Skopje,Pelister,0,1,,,,0
-1726664400,Borec,Detonit Plackovica,0,1,,,,0
-1727870400,Gostivar,Pobeda,3,1,,,,0
-1727870400,Belasica,Makedonija GP,2,2,Pen,2,3,0
-1727870400,Bashkimi,Voska Sport,0,2,,,,0
-1729684800,Vardar,Tikves,2,0,,,,0
-1729684800,Struga,Makedonija GP,2,0,,,,0
-1729684800,Sileks,Shkupi,0,0,Pen,1,0,0
-1729684800,Shkendija,Shkendija Haracine,1,0,,,,0
-1729684800,Pelister,Detonit Plackovica,1,1,Pen,1,2,0
-1729684800,Gostivar,Bregalnica Stip,1,0,,,,0
-1729684800,Brera Strumica,Besa 1976,2,0,,,,0
-1729684800,Arsimi,Voska Sport,3,1,,,,0
-1740574800,Vardar,Sileks,1,0,,,,0
-1740574800,Struga,Gostivar,1,0,,,,0
-1740574800,Detonit Plackovica,Shkendija,0,1,,,,0
-1740574800,Brera Strumica,Arsimi,1,1,Pen,2,1,0
-1744207200,Vardar,Brera Strumica,3,0,,,,0
-1744207200,Shkendija,Struga,1,2,,,,0
-1745416800,Struga,Shkendija,1,1,,,,0
-1745416800,Brera Strumica,Vardar,1,1,,,,0
-1747850400,Vardar,Struga,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1726664400,Xhepcishti,Shkupi,dC21BBBD,CIHFv9fg,0,8,,,,0
+1726664400,Vardar Negotino,Brera Strumica,t8p5jzve,l2cVHkio,0,4,,,,0
+1726664400,Sloga Vinica,Struga,SIuckohI,b7VCRENs,1,6,,,,0
+1726664400,Sloboden Skopje,Bregalnica Stip,fgmzAObE,86OeMIIr,0,6,,,,0
+1726664400,Shkendija Haracine,Rabotnicki,Q1D4MTIi,Cdxq7Y31,2,0,,,,0
+1726664400,Ohrid,Besa 1976,UuidxQyg,CYs2VvIL,1,5,,,,0
+1726664400,Novaci,Vardar,GErSfHt1,86OeMIIr,0,2,,,,0
+1726664400,Kozuf Gevgelija,Arsimi,lt4sJRnd,zewHCo2N,1,2,,,,0
+1726664400,Karbinci,Sileks,Iq62HygS,Ys5PBeU0,1,4,,,,0
+1726664400,Jeni Maale,Shkendija,jqNGYInk,f3OURrqn,0,5,,,,0
+1726664400,FK Skopje,Pelister,pCTkNqKp,2JKzUeUK,0,1,,,,0
+1726664400,Borec,Detonit Plackovica,6DWdsjIR,zHYvR1li,0,1,,,,0
+1727870400,Gostivar,Pobeda,E3JIMV6l,8lHNgCuQ,3,1,,,,0
+1727870400,Belasica,Makedonija GP,fFzddrH7,n5NSVHa8,2,2,Pen,2,3,0
+1727870400,Bashkimi,Voska Sport,8ISTYn2F,UBq7SsrN,0,2,,,,0
+1729684800,Vardar,Tikves,86OeMIIr,pzWJOM6s,2,0,,,,0
+1729684800,Struga,Makedonija GP,b7VCRENs,n5NSVHa8,2,0,,,,0
+1729684800,Sileks,Shkupi,Ys5PBeU0,CIHFv9fg,0,0,Pen,1,0,0
+1729684800,Shkendija,Shkendija Haracine,f3OURrqn,Q1D4MTIi,1,0,,,,0
+1729684800,Pelister,Detonit Plackovica,2JKzUeUK,zHYvR1li,1,1,Pen,1,2,0
+1729684800,Gostivar,Bregalnica Stip,E3JIMV6l,86OeMIIr,1,0,,,,0
+1729684800,Brera Strumica,Besa 1976,l2cVHkio,CYs2VvIL,2,0,,,,0
+1729684800,Arsimi,Voska Sport,zewHCo2N,UBq7SsrN,3,1,,,,0
+1740574800,Vardar,Sileks,86OeMIIr,Ys5PBeU0,1,0,,,,0
+1740574800,Struga,Gostivar,b7VCRENs,E3JIMV6l,1,0,,,,0
+1740574800,Detonit Plackovica,Shkendija,zHYvR1li,f3OURrqn,0,1,,,,0
+1740574800,Brera Strumica,Arsimi,l2cVHkio,zewHCo2N,1,1,Pen,2,1,0
+1744207200,Vardar,Brera Strumica,86OeMIIr,l2cVHkio,3,0,,,,0
+1744207200,Shkendija,Struga,f3OURrqn,b7VCRENs,1,2,,,,0
+1745416800,Struga,Shkendija,b7VCRENs,f3OURrqn,1,1,,,,0
+1745416800,Brera Strumica,Vardar,l2cVHkio,86OeMIIr,1,1,,,,0
+1747850400,Vardar,Struga,86OeMIIr,b7VCRENs,2,0,,,,0

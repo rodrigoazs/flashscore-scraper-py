@@ -1,41 +1,41 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1086199200,Spokane,Sacramento Knights,1,2,,,,0
-1086199200,S.A.C. Wisla,Chicago Premier,1,5,,,,0
-1086199200,Ocean City,Allied SC,5,0,,,,0
-1086199200,North Carolina Fusion U23,Milwaukee,5,1,,,,0
-1086199200,Greek American,Cape Cod,1,4,,,,0
-1086199200,Chico,Colorado U23,1,2,,,,0
-1086717600,Tornados,Legends FC,3,1,,,,0
-1086717600,Cocoa Expos,Azzuri,3,2,,,,0
-1087322400,Wilmington Hammerheads,Cocoa Expos,3,0,,,,0
-1087322400,Western Mass Pioneers,Cape Cod,2,3,,,,0
-1087322400,Virginia,Tornados,2,0,,,,0
-1087322400,Utah,Sacramento Knights,3,0,,,,0
-1087322400,Ocean City,Syracuse,1,1,,,,0
-1087322400,North Carolina Fusion U23,Charlotte Eagles,4,2,,,,0
-1087322400,New Hampshire,Chicago Premier,1,5,,,,0
-1087322400,Colorado U23,San Diego,0,0,,,,0
-1087840800,Ocean City,Syracuse,2,4,,,,0
-1088618400,Utah,Portland Timbers,1,2,,,,0
-1088618400,Rochester New York,Chicago Premier,1,0,,,,0
-1088618400,Richmond Kickers,Cape Cod,1,0,,,,0
-1088618400,North Carolina Fusion U23,Atlanta SC,2,3,,,,0
-1088618400,Minnesota United,Colorado U23,2,1,,,,0
-1088618400,FC Dallas,Virginia,2,0,,,,0
-1088618400,Columbus Crew,Syracuse,2,1,,,,0
-1088618400,Charleston,Wilmington Hammerheads,2,0,,,,0
-1090346400,Portland Timbers,San Jose Earthquakes,0,3,,,,0
-1090346400,New England Revolution,Rochester New York,1,1,,,,0
-1090346400,Minnesota United,Los Angeles Galaxy,1,0,,,,0
-1090346400,FC Dallas,Colorado Rapids,3,0,,,,0
-1090346400,Columbus Crew,Chicago Fire,1,2,,,,0
-1090346400,Charleston,New York Red Bulls,1,0,,,,0
-1090346400,Atlanta SC,Sporting Kansas City,1,4,,,,0
-1090432800,Richmond Kickers,DC United,2,1,,,,0
-1091642400,Sporting Kansas City,FC Dallas,4,0,,,,0
-1091642400,Rochester New York,Charleston,0,1,,,,0
-1091642400,Richmond Kickers,Chicago Fire,0,1,,,,0
-1091642400,Minnesota United,San Jose Earthquakes,2,2,,,,0
-1093370400,Sporting Kansas City,San Jose Earthquakes,1,0,,,,0
-1093456800,Chicago Fire,Charleston,1,0,,,,0
-1095876000,Sporting Kansas City,Chicago Fire,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1086199200,Spokane,Sacramento Knights,,,1,2,,,,0
+1086199200,S.A.C. Wisla,Chicago Premier,,Gb4sBH4F,1,5,,,,0
+1086199200,Ocean City,Allied SC,zemgMpC6,,5,0,,,,0
+1086199200,North Carolina Fusion U23,Milwaukee,jN3NLZxo,G8NdEyKH,5,1,,,,0
+1086199200,Greek American,Cape Cod,pMWggNyn,OMba2iWB,1,4,,,,0
+1086199200,Chico,Colorado U23,hnjRefIf,G83Ciq74,1,2,,,,0
+1086717600,Tornados,Legends FC,,,3,1,,,,0
+1086717600,Cocoa Expos,Azzuri,,hzMie7RS,3,2,,,,0
+1087322400,Wilmington Hammerheads,Cocoa Expos,KGIw5tHD,,3,0,,,,0
+1087322400,Western Mass Pioneers,Cape Cod,Q7fOexKT,OMba2iWB,2,3,,,,0
+1087322400,Virginia,Tornados,b9UR9rcD,,2,0,,,,0
+1087322400,Utah,Sacramento Knights,,,3,0,,,,0
+1087322400,Ocean City,Syracuse,zemgMpC6,K6BxHuji,1,1,,,,0
+1087322400,North Carolina Fusion U23,Charlotte Eagles,jN3NLZxo,S6gH6Tkg,4,2,,,,0
+1087322400,New Hampshire,Chicago Premier,,Gb4sBH4F,1,5,,,,0
+1087322400,Colorado U23,San Diego,G83Ciq74,d8rp2xoh,0,0,,,,0
+1087840800,Ocean City,Syracuse,zemgMpC6,K6BxHuji,2,4,,,,0
+1088618400,Utah,Portland Timbers,,xf2WUeO1,1,2,,,,0
+1088618400,Rochester New York,Chicago Premier,63scElQr,Gb4sBH4F,1,0,,,,0
+1088618400,Richmond Kickers,Cape Cod,QPDlz5Uc,OMba2iWB,1,0,,,,0
+1088618400,North Carolina Fusion U23,Atlanta SC,jN3NLZxo,UPn7aGHL,2,3,,,,0
+1088618400,Minnesota United,Colorado U23,CEokxMWO,G83Ciq74,2,1,,,,0
+1088618400,FC Dallas,Virginia,W2EojdRP,b9UR9rcD,2,0,,,,0
+1088618400,Columbus Crew,Syracuse,OrE2LMh8,K6BxHuji,2,1,,,,0
+1088618400,Charleston,Wilmington Hammerheads,xIOhFH4B,KGIw5tHD,2,0,,,,0
+1090346400,Portland Timbers,San Jose Earthquakes,xf2WUeO1,GpqxHjf5,0,3,,,,0
+1090346400,New England Revolution,Rochester New York,KI53uaQC,63scElQr,1,1,,,,0
+1090346400,Minnesota United,Los Angeles Galaxy,CEokxMWO,nqhLBCKD,1,0,,,,0
+1090346400,FC Dallas,Colorado Rapids,W2EojdRP,fyzFgPy8,3,0,,,,0
+1090346400,Columbus Crew,Chicago Fire,OrE2LMh8,0lw00xPr,1,2,,,,0
+1090346400,Charleston,New York Red Bulls,xIOhFH4B,h8cXfa4q,1,0,,,,0
+1090346400,Atlanta SC,Sporting Kansas City,UPn7aGHL,88w2wUnG,1,4,,,,0
+1090432800,Richmond Kickers,DC United,QPDlz5Uc,QqhL41wo,2,1,,,,0
+1091642400,Sporting Kansas City,FC Dallas,88w2wUnG,W2EojdRP,4,0,,,,0
+1091642400,Rochester New York,Charleston,63scElQr,xIOhFH4B,0,1,,,,0
+1091642400,Richmond Kickers,Chicago Fire,QPDlz5Uc,0lw00xPr,0,1,,,,0
+1091642400,Minnesota United,San Jose Earthquakes,CEokxMWO,GpqxHjf5,2,2,,,,0
+1093370400,Sporting Kansas City,San Jose Earthquakes,88w2wUnG,GpqxHjf5,1,0,,,,0
+1093456800,Chicago Fire,Charleston,0lw00xPr,xIOhFH4B,1,0,,,,0
+1095876000,Sporting Kansas City,Chicago Fire,88w2wUnG,0lw00xPr,1,0,,,,0

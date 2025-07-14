@@ -1,325 +1,325 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1659722400,Heerenveen,Sparta Rotterdam,0,0,,,,0
-1659796200,Sittard,Ajax,2,3,,,,0
-1659804300,Cambuur,Excelsior,0,2,,,,0
-1659808800,PSV,FC Emmen,4,1,,,,0
-1659812400,Waalwijk,Utrecht,2,2,,,,0
-1659867300,Groningen,FC Volendam,2,2,,,,0
-1659875400,Vitesse,Feyenoord,2,5,,,,0
-1659875400,Nijmegen,Twente,0,1,,,,0
-1659883500,AZ Alkmaar,G.A. Eagles,2,0,,,,0
-1660327200,Excelsior,Vitesse,3,1,,,,0
-1660409100,G.A. Eagles,PSV,2,5,,,,0
-1660413600,Utrecht,Cambuur,0,0,,,,0
-1660413600,FC Emmen,Waalwijk,1,1,,,,0
-1660417200,Feyenoord,Heerenveen,0,0,,,,0
-1660472100,FC Volendam,Nijmegen,1,4,,,,0
-1660480200,Twente,Sittard,3,0,,,,0
-1660480200,Ajax,Groningen,6,1,,,,0
-1660488300,Sparta Rotterdam,AZ Alkmaar,2,3,,,,0
-1661005800,Vitesse,Heerenveen,0,4,,,,0
-1661013900,Sittard,Cambuur,1,4,,,,0
-1661022000,FC Emmen,Utrecht,3,2,,,,0
-1661076900,Groningen,G.A. Eagles,1,0,,,,0
-1661085000,Sparta Rotterdam,Ajax,0,1,,,,0
-1661093100,Waalwijk,Feyenoord,0,1,,,,0
-1661536800,Nijmegen,Groningen,1,1,,,,0
-1661610600,G.A. Eagles,Sparta Rotterdam,0,1,,,,0
-1661618700,Vitesse,Waalwijk,2,2,,,,0
-1661623200,Feyenoord,FC Emmen,4,0,,,,0
-1661626800,Heerenveen,Sittard,2,1,,,,0
-1661681700,Utrecht,Ajax,0,2,,,,0
-1661689800,FC Volendam,Twente,1,0,,,,0
-1661689800,Excelsior,PSV,1,6,,,,0
-1661697900,Cambuur,AZ Alkmaar,0,1,,,,0
-1661964300,PSV,FC Volendam,7,1,,,,0
-1661972400,Twente,Excelsior,4,0,,,,0
-1662055200,AZ Alkmaar,Nijmegen,1,1,,,,0
-1662141600,Sittard,Utrecht,3,4,,,,0
-1662215400,Ajax,Cambuur,4,0,,,,0
-1662223500,Twente,PSV,2,1,,,,0
-1662228000,Sparta Rotterdam,FC Volendam,4,0,,,,0
-1662231600,G.A. Eagles,Feyenoord,3,4,,,,0
-1662286500,Waalwijk,Excelsior,5,2,,,,0
-1662294600,Heerenveen,Nijmegen,0,0,,,,0
-1662294600,FC Emmen,AZ Alkmaar,0,3,,,,0
-1662302700,Groningen,Vitesse,0,1,,,,0
-1662746400,FC Volendam,G.A. Eagles,2,3,,,,0
-1662820200,Nijmegen,Sittard,1,1,,,,0
-1662828300,Ajax,Heerenveen,5,0,,,,0
-1662836400,Excelsior,FC Emmen,2,1,,,,0
-1662891300,Utrecht,Vitesse,1,0,,,,0
-1662899400,PSV,Waalwijk,1,0,,,,0
-1662899400,Cambuur,Groningen,0,1,,,,0
-1662907500,AZ Alkmaar,Twente,1,1,,,,0
-1662919200,Feyenoord,Sparta Rotterdam,3,0,,,,0
-1663351200,Utrecht,Nijmegen,0,0,,,,0
-1663425000,Sparta Rotterdam,Groningen,2,1,,,,0
-1663433100,Vitesse,FC Volendam,1,1,,,,0
-1663437600,Waalwijk,Cambuur,5,1,,,,0
-1663441200,Sittard,Excelsior,1,0,,,,0
-1663496100,G.A. Eagles,FC Emmen,2,0,,,,0
-1663504200,PSV,Feyenoord,4,3,,,,0
-1663504200,Heerenveen,Twente,2,1,,,,0
-1663512300,AZ Alkmaar,Ajax,2,1,,,,0
-1664634600,Cambuur,PSV,3,0,,,,0
-1664642700,Groningen,AZ Alkmaar,1,4,,,,0
-1664647200,Ajax,G.A. Eagles,1,1,,,,0
-1664650800,Twente,Vitesse,3,0,,,,0
-1664705700,Sittard,FC Volendam,2,0,,,,0
-1664713800,Nijmegen,Feyenoord,1,1,,,,0
-1664713800,Excelsior,Utrecht,0,1,,,,0
-1664721900,Waalwijk,Sparta Rotterdam,2,2,,,,0
-1664733600,FC Emmen,Heerenveen,0,0,,,,0
-1665165600,Groningen,Waalwijk,2,3,,,,0
-1665239400,FC Volendam,Ajax,2,4,,,,0
-1665247500,Sparta Rotterdam,FC Emmen,3,1,,,,0
-1665255600,Nijmegen,Excelsior,1,1,,,,0
-1665310500,G.A. Eagles,Cambuur,0,0,,,,0
-1665318600,Utrecht,AZ Alkmaar,1,2,,,,0
-1665318600,Feyenoord,Twente,2,0,,,,0
-1665326700,Heerenveen,PSV,0,1,,,,0
-1665338400,Vitesse,Sittard,1,2,,,,0
-1665770400,FC Emmen,FC Volendam,1,1,,,,0
-1665852300,Sittard,Waalwijk,0,0,,,,0
-1665856800,G.A. Eagles,Heerenveen,1,1,,,,0
-1665860400,Cambuur,Vitesse,0,3,,,,0
-1665915300,Sparta Rotterdam,Nijmegen,2,0,,,,0
-1665923400,Twente,Groningen,3,0,,,,0
-1665923400,PSV,Utrecht,6,1,,,,0
-1665931500,AZ Alkmaar,Feyenoord,1,3,,,,0
-1665943200,Ajax,Excelsior,7,1,,,,0
-1666449000,Feyenoord,Sittard,1,1,,,,0
-1666457100,Waalwijk,Ajax,1,4,,,,0
-1666465200,Vitesse,FC Emmen,2,1,,,,0
-1666520100,Excelsior,AZ Alkmaar,2,1,,,,0
-1666528200,Nijmegen,G.A. Eagles,3,3,,,,0
-1666528200,Groningen,PSV,4,2,,,,0
-1666528200,Cambuur,Twente,0,1,,,,0
-1666536300,Utrecht,Sparta Rotterdam,3,1,,,,0
-1666548000,FC Volendam,Heerenveen,1,3,,,,0
-1667053800,Heerenveen,Utrecht,1,2,,,,0
-1667061900,Sparta Rotterdam,Sittard,3,1,,,,0
-1667070000,G.A. Eagles,Excelsior,3,1,,,,0
-1667128500,FC Emmen,Groningen,0,0,,,,0
-1667136600,Twente,Waalwijk,3,0,,,,0
-1667136600,PSV,Nijmegen,3,0,,,,0
-1667144700,AZ Alkmaar,FC Volendam,2,1,,,,0
-1667588400,Cambuur,Nijmegen,0,1,,,,0
-1667662200,Vitesse,Sparta Rotterdam,0,4,,,,0
-1667670300,Sittard,FC Emmen,0,1,,,,0
-1667678400,Excelsior,Heerenveen,0,1,,,,0
-1667733300,Utrecht,Groningen,2,1,,,,0
-1667741400,Twente,G.A. Eagles,1,1,,,,0
-1667741400,FC Volendam,Feyenoord,0,2,,,,0
-1667749500,Waalwijk,AZ Alkmaar,3,1,,,,0
-1667749500,Ajax,PSV,1,2,,,,0
-1668020400,Ajax,Vitesse,2,2,,,,0
-1668106800,Feyenoord,Cambuur,1,0,,,,0
-1668193200,Sparta Rotterdam,Twente,1,1,,,,0
-1668267000,FC Volendam,Utrecht,0,4,,,,0
-1668275100,FC Emmen,Ajax,3,3,,,,0
-1668283200,PSV,AZ Alkmaar,0,1,,,,0
-1668338100,Nijmegen,Waalwijk,6,1,,,,0
-1668346200,Heerenveen,Cambuur,2,1,,,,0
-1668346200,Groningen,Sittard,2,3,,,,0
-1668354300,Feyenoord,Excelsior,5,1,,,,0
-1668366000,G.A. Eagles,Vitesse,2,2,,,,0
-1673031600,Twente,FC Emmen,2,0,,,,0
-1673105400,Waalwijk,Heerenveen,0,0,,,,0
-1673113500,AZ Alkmaar,Vitesse,1,1,,,,0
-1673118000,Sittard,G.A. Eagles,0,2,,,,0
-1673121600,PSV,Sparta Rotterdam,0,0,,,,0
-1673176500,Utrecht,Feyenoord,1,1,,,,0
-1673184600,Nijmegen,Ajax,1,1,,,,0
-1673184600,Cambuur,FC Volendam,0,3,,,,0
-1673192700,Excelsior,Groningen,1,0,,,,0
-1673718300,Heerenveen,AZ Alkmaar,0,2,,,,0
-1673718300,FC Volendam,Waalwijk,2,1,,,,0
-1673726400,Sparta Rotterdam,Excelsior,1,0,,,,0
-1673726400,Ajax,Twente,0,0,,,,0
-1673781300,Vitesse,Nijmegen,0,0,,,,0
-1673789400,Sittard,PSV,2,2,,,,0
-1673789400,G.A. Eagles,Utrecht,2,2,,,,0
-1673797500,Groningen,Feyenoord,0,3,,,,0
-1673797500,FC Emmen,Cambuur,0,0,,,,0
-1674241200,Excelsior,FC Volendam,2,0,,,,0
-1674323100,Nijmegen,FC Emmen,3,1,,,,0
-1674327600,PSV,Vitesse,1,0,,,,0
-1674327600,Cambuur,Sparta Rotterdam,0,3,,,,0
-1674386100,Heerenveen,Groningen,3,1,,,,0
-1674394200,Twente,Utrecht,2,0,,,,0
-1674394200,Feyenoord,Ajax,1,1,,,,0
-1674402300,AZ Alkmaar,Sittard,3,1,,,,0
-1674582300,FC Emmen,PSV,1,0,,,,0
-1674590400,Sparta Rotterdam,Waalwijk,0,0,,,,0
-1674668700,Vitesse,Twente,2,2,,,,0
-1674668700,G.A. Eagles,AZ Alkmaar,1,4,,,,0
-1674673200,Sittard,Heerenveen,2,0,,,,0
-1674676800,Utrecht,Excelsior,1,0,,,,0
-1674676800,Feyenoord,Nijmegen,2,0,,,,0
-1674755100,Groningen,Cambuur,0,1,,,,0
-1674763200,Ajax,FC Volendam,1,1,,,,0
-1674919800,PSV,G.A. Eagles,2,0,,,,0
-1674927900,Waalwijk,FC Emmen,2,0,,,,0
-1674932400,Nijmegen,Sparta Rotterdam,1,1,,,,0
-1674932400,Heerenveen,Vitesse,1,3,,,,0
-1674936000,AZ Alkmaar,Utrecht,5,5,,,,0
-1674990900,Twente,Feyenoord,1,1,,,,0
-1674999000,FC Volendam,Groningen,3,2,,,,0
-1674999000,Excelsior,Ajax,1,4,,,,0
-1675007100,Cambuur,Sittard,1,2,,,,0
-1675278000,Waalwijk,G.A. Eagles,3,1,,,,0
-1675450800,Sittard,Sparta Rotterdam,0,0,,,,0
-1675532700,FC Volendam,AZ Alkmaar,1,1,,,,0
-1675537200,Utrecht,Heerenveen,1,0,,,,0
-1675537200,FC Emmen,Vitesse,2,2,,,,0
-1675540800,Excelsior,Waalwijk,0,0,,,,0
-1675595700,Cambuur,Ajax,0,5,,,,0
-1675603800,G.A. Eagles,Nijmegen,1,0,,,,0
-1675603800,Feyenoord,PSV,2,2,,,,0
-1675611900,Groningen,Twente,1,1,,,,0
-1676055600,AZ Alkmaar,Excelsior,5,0,,,,0
-1676137500,Nijmegen,Cambuur,0,0,,,,0
-1676142000,PSV,Groningen,6,0,,,,0
-1676145600,FC Emmen,Sittard,0,1,,,,0
-1676200500,Sparta Rotterdam,G.A. Eagles,2,1,,,,0
-1676208600,Vitesse,Utrecht,2,0,,,,0
-1676208600,Heerenveen,Feyenoord,1,2,,,,0
-1676216700,Twente,FC Volendam,3,0,,,,0
-1676216700,Ajax,Waalwijk,3,1,,,,0
-1676660400,Waalwijk,Sittard,3,1,,,,0
-1676734200,FC Volendam,Vitesse,2,0,,,,0
-1676742300,Groningen,FC Emmen,1,1,,,,0
-1676750400,Feyenoord,AZ Alkmaar,2,1,,,,0
-1676805300,Cambuur,Heerenveen,1,2,,,,0
-1676813400,Utrecht,PSV,2,2,,,,0
-1676813400,G.A. Eagles,Twente,2,0,,,,0
-1676821500,Ajax,Sparta Rotterdam,4,0,,,,0
-1676833200,Excelsior,Nijmegen,0,3,,,,0
-1677265200,Sparta Rotterdam,Utrecht,0,3,,,,0
-1677339000,Groningen,Excelsior,3,0,,,,0
-1677347100,Heerenveen,Waalwijk,1,4,,,,0
-1677351600,AZ Alkmaar,Cambuur,2,1,,,,0
-1677355200,Nijmegen,FC Volendam,3,0,,,,0
-1677410100,Sittard,Feyenoord,2,4,,,,0
-1677418200,Vitesse,Ajax,1,2,,,,0
-1677418200,FC Emmen,G.A. Eagles,2,2,,,,0
-1677426300,PSV,Twente,3,1,,,,0
-1677870000,Vitesse,AZ Alkmaar,0,1,,,,0
-1677870000,Utrecht,Sittard,1,2,,,,0
-1677951900,FC Volendam,FC Emmen,3,1,,,,0
-1677956400,Feyenoord,Groningen,1,0,,,,0
-1677960000,Twente,Heerenveen,3,3,,,,0
-1678014900,Excelsior,Sparta Rotterdam,1,4,,,,0
-1678023000,Waalwijk,PSV,0,1,,,,0
-1678031100,Ajax,Nijmegen,1,0,,,,0
-1678042800,Cambuur,G.A. Eagles,4,1,,,,0
-1678548600,FC Emmen,Excelsior,2,0,,,,0
-1678556700,Sittard,Twente,0,3,,,,0
-1678561200,AZ Alkmaar,Groningen,1,0,,,,0
-1678564800,Sparta Rotterdam,Vitesse,3,1,,,,0
-1678619700,Nijmegen,Utrecht,2,2,,,,0
-1678627800,Heerenveen,Ajax,2,4,,,,0
-1678635900,PSV,Cambuur,5,2,,,,0
-1678647600,Feyenoord,FC Volendam,2,1,,,,0
-1679079600,FC Volendam,Sittard,2,1,,,,0
-1679153400,Utrecht,G.A. Eagles,1,2,,,,0
-1679161500,FC Emmen,Sparta Rotterdam,0,2,,,,0
-1679169600,Waalwijk,Nijmegen,1,3,,,,0
-1679224500,Groningen,Heerenveen,0,2,,,,0
-1679232600,Excelsior,Cambuur,4,1,,,,0
-1679232600,Ajax,Feyenoord,2,3,,,,0
-1679240700,Vitesse,PSV,1,1,,,,0
-1679252400,Twente,AZ Alkmaar,2,1,,,,0
-1680359400,AZ Alkmaar,Heerenveen,1,1,,,,0
-1680367500,Excelsior,Twente,0,0,,,,0
-1680372000,Nijmegen,PSV,2,4,,,,0
-1680372000,Cambuur,FC Emmen,1,2,,,,0
-1680375600,Waalwijk,Vitesse,1,0,,,,0
-1680430500,G.A. Eagles,Ajax,0,0,,,,0
-1680438600,Utrecht,FC Volendam,0,0,,,,0
-1680438600,Sparta Rotterdam,Feyenoord,1,3,,,,0
-1680446700,Sittard,Groningen,3,1,,,,0
-1680890400,Groningen,Utrecht,1,2,,,,0
-1680972300,Vitesse,G.A. Eagles,2,0,,,,0
-1680976800,PSV,Excelsior,4,0,,,,0
-1680976800,AZ Alkmaar,Sparta Rotterdam,0,1,,,,0
-1680980400,Heerenveen,FC Volendam,2,1,,,,0
-1681035300,Twente,Cambuur,4,0,,,,0
-1681043400,FC Emmen,Nijmegen,0,0,,,,0
-1681051500,Ajax,Sittard,4,0,,,,0
-1681063200,Feyenoord,Waalwijk,5,1,,,,0
-1681495200,Excelsior,G.A. Eagles,2,1,,,,0
-1681577100,Waalwijk,Groningen,2,1,,,,0
-1681585200,Sparta Rotterdam,Heerenveen,4,0,,,,0
-1681640100,Nijmegen,Vitesse,1,4,,,,0
-1681648200,Utrecht,Twente,1,0,,,,0
-1681648200,FC Volendam,PSV,2,3,,,,0
-1681656300,Cambuur,Feyenoord,0,3,,,,0
-1681668000,Sittard,AZ Alkmaar,0,3,,,,0
-1681668000,Ajax,FC Emmen,3,1,,,,0
-1681922700,G.A. Eagles,Waalwijk,3,2,,,,0
-1682100000,FC Volendam,Cambuur,2,0,,,,0
-1682181900,Heerenveen,FC Emmen,2,3,,,,0
-1682190000,Vitesse,Excelsior,0,0,,,,0
-1682244900,Twente,Sparta Rotterdam,3,3,,,,0
-1682253000,PSV,Ajax,3,0,,,,0
-1682253000,G.A. Eagles,Sittard,2,0,,,,0
-1682261100,Feyenoord,Utrecht,3,1,,,,0
-1682272800,AZ Alkmaar,Waalwijk,3,0,,,,0
-1682427600,Groningen,Nijmegen,0,1,,,,0
-1683309600,Waalwijk,FC Volendam,4,1,,,,0
-1683391500,Sparta Rotterdam,PSV,0,1,,,,0
-1683396000,Nijmegen,Heerenveen,2,3,,,,0
-1683396000,Cambuur,Utrecht,0,3,,,,0
-1683399600,Ajax,AZ Alkmaar,0,0,,,,0
-1683454500,FC Emmen,Twente,0,3,,,,0
-1683462600,G.A. Eagles,Groningen,1,1,,,,0
-1683462600,Excelsior,Feyenoord,0,2,,,,0
-1683470700,Sittard,Vitesse,2,0,,,,0
-1683914400,Twente,Nijmegen,4,0,,,,0
-1683996300,FC Volendam,Sparta Rotterdam,2,1,,,,0
-1684000800,Heerenveen,Excelsior,0,0,,,,0
-1684004400,Utrecht,Waalwijk,2,0,,,,0
-1684059300,Vitesse,Cambuur,2,0,,,,0
-1684075500,Feyenoord,G.A. Eagles,3,0,,,,0
-1684087200,PSV,Sittard,2,1,,,,0
-1684087200,AZ Alkmaar,FC Emmen,5,1,,,,0
-1684242000,Groningen,Ajax,2,3,,,,0
-1684672200,Waalwijk,Twente,0,5,,,,0
-1684672200,Vitesse,Groningen,6,0,,,,0
-1684672200,Sparta Rotterdam,Cambuur,4,1,,,,0
-1684672200,PSV,Heerenveen,3,3,,,,0
-1684672200,Nijmegen,AZ Alkmaar,0,3,,,,0
-1684672200,G.A. Eagles,FC Volendam,3,0,,,,0
-1684672200,FC Emmen,Feyenoord,1,3,,,,0
-1684672200,Excelsior,Sittard,3,0,,,,0
-1684672200,Ajax,Utrecht,3,1,,,,0
-1684778400,Eindhoven FC,Almere City,1,0,,,,0
-1684860300,Venlo,Willem II,3,2,,,,0
-1684868400,NAC Breda,Maastricht,1,0,,,,0
-1685124000,Almere City,Eindhoven FC,2,1,AET,3,1,0
-1685197800,Willem II,Venlo,2,1,AET,2,2,0
-1685210400,Maastricht,NAC Breda,1,4,,,,0
-1685277000,Utrecht,FC Emmen,3,2,,,,0
-1685277000,Twente,Ajax,3,1,,,,0
-1685277000,Sittard,Nijmegen,1,1,,,,0
-1685277000,Heerenveen,G.A. Eagles,2,0,,,,0
-1685277000,Groningen,Sparta Rotterdam,0,5,,,,0
-1685277000,Feyenoord,Vitesse,0,1,,,,0
-1685277000,FC Volendam,Excelsior,3,2,,,,0
-1685277000,Cambuur,Waalwijk,4,0,,,,0
-1685277000,AZ Alkmaar,PSV,1,2,,,,0
-1685469600,Venlo,Almere City,1,1,,,,0
-1685551500,NAC Breda,FC Emmen,1,2,,,,0
-1685637900,Heerenveen,Twente,1,2,,,,0
-1685646000,Utrecht,Sparta Rotterdam,1,2,,,,0
-1685802600,Almere City,Venlo,1,1,Pen,2,1,0
-1685815200,FC Emmen,NAC Breda,2,0,,,,0
-1685881800,Twente,Heerenveen,4,0,,,,0
-1685894400,Sparta Rotterdam,Utrecht,0,1,Pen,1,1,0
-1686074400,Almere City,FC Emmen,2,0,,,,0
-1686247200,Sparta Rotterdam,Twente,1,1,,,,0
-1686486600,Twente,Sparta Rotterdam,1,0,,,,0
-1686499200,FC Emmen,Almere City,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1659722400,Heerenveen,Sparta Rotterdam,4vob7cTR,rTjpk23j,0,0,,,,0
+1659796200,Sittard,Ajax,EFoqxv3t,bZZPiwAI,2,3,,,,0
+1659804300,Cambuur,Excelsior,0fjMSYzR,GOuuvzfL,0,2,,,,0
+1659808800,PSV,FC Emmen,j5zA1baQ,W6vdbCVa,4,1,,,,0
+1659812400,Waalwijk,Utrecht,YsXoN1Be,4vob7cTR,2,2,,,,0
+1659867300,Groningen,FC Volendam,E5fitKGe,WYtEUtB2,2,2,,,,0
+1659875400,Vitesse,Feyenoord,hxcLpNd6,Wz6bfhxO,2,5,,,,0
+1659875400,Nijmegen,Twente,4vob7cTR,4vob7cTR,0,1,,,,0
+1659883500,AZ Alkmaar,G.A. Eagles,4vob7cTR,x4Xh4Pu0,2,0,,,,0
+1660327200,Excelsior,Vitesse,GOuuvzfL,hxcLpNd6,3,1,,,,0
+1660409100,G.A. Eagles,PSV,x4Xh4Pu0,j5zA1baQ,2,5,,,,0
+1660413600,Utrecht,Cambuur,4vob7cTR,0fjMSYzR,0,0,,,,0
+1660413600,FC Emmen,Waalwijk,W6vdbCVa,YsXoN1Be,1,1,,,,0
+1660417200,Feyenoord,Heerenveen,Wz6bfhxO,4vob7cTR,0,0,,,,0
+1660472100,FC Volendam,Nijmegen,WYtEUtB2,4vob7cTR,1,4,,,,0
+1660480200,Twente,Sittard,4vob7cTR,EFoqxv3t,3,0,,,,0
+1660480200,Ajax,Groningen,bZZPiwAI,E5fitKGe,6,1,,,,0
+1660488300,Sparta Rotterdam,AZ Alkmaar,rTjpk23j,4vob7cTR,2,3,,,,0
+1661005800,Vitesse,Heerenveen,hxcLpNd6,4vob7cTR,0,4,,,,0
+1661013900,Sittard,Cambuur,EFoqxv3t,0fjMSYzR,1,4,,,,0
+1661022000,FC Emmen,Utrecht,W6vdbCVa,4vob7cTR,3,2,,,,0
+1661076900,Groningen,G.A. Eagles,E5fitKGe,x4Xh4Pu0,1,0,,,,0
+1661085000,Sparta Rotterdam,Ajax,rTjpk23j,bZZPiwAI,0,1,,,,0
+1661093100,Waalwijk,Feyenoord,YsXoN1Be,Wz6bfhxO,0,1,,,,0
+1661536800,Nijmegen,Groningen,4vob7cTR,E5fitKGe,1,1,,,,0
+1661610600,G.A. Eagles,Sparta Rotterdam,x4Xh4Pu0,rTjpk23j,0,1,,,,0
+1661618700,Vitesse,Waalwijk,hxcLpNd6,YsXoN1Be,2,2,,,,0
+1661623200,Feyenoord,FC Emmen,Wz6bfhxO,W6vdbCVa,4,0,,,,0
+1661626800,Heerenveen,Sittard,4vob7cTR,EFoqxv3t,2,1,,,,0
+1661681700,Utrecht,Ajax,4vob7cTR,bZZPiwAI,0,2,,,,0
+1661689800,FC Volendam,Twente,WYtEUtB2,4vob7cTR,1,0,,,,0
+1661689800,Excelsior,PSV,GOuuvzfL,j5zA1baQ,1,6,,,,0
+1661697900,Cambuur,AZ Alkmaar,0fjMSYzR,4vob7cTR,0,1,,,,0
+1661964300,PSV,FC Volendam,j5zA1baQ,WYtEUtB2,7,1,,,,0
+1661972400,Twente,Excelsior,4vob7cTR,GOuuvzfL,4,0,,,,0
+1662055200,AZ Alkmaar,Nijmegen,4vob7cTR,4vob7cTR,1,1,,,,0
+1662141600,Sittard,Utrecht,EFoqxv3t,4vob7cTR,3,4,,,,0
+1662215400,Ajax,Cambuur,bZZPiwAI,0fjMSYzR,4,0,,,,0
+1662223500,Twente,PSV,4vob7cTR,j5zA1baQ,2,1,,,,0
+1662228000,Sparta Rotterdam,FC Volendam,rTjpk23j,WYtEUtB2,4,0,,,,0
+1662231600,G.A. Eagles,Feyenoord,x4Xh4Pu0,Wz6bfhxO,3,4,,,,0
+1662286500,Waalwijk,Excelsior,YsXoN1Be,GOuuvzfL,5,2,,,,0
+1662294600,Heerenveen,Nijmegen,4vob7cTR,4vob7cTR,0,0,,,,0
+1662294600,FC Emmen,AZ Alkmaar,W6vdbCVa,4vob7cTR,0,3,,,,0
+1662302700,Groningen,Vitesse,E5fitKGe,hxcLpNd6,0,1,,,,0
+1662746400,FC Volendam,G.A. Eagles,WYtEUtB2,x4Xh4Pu0,2,3,,,,0
+1662820200,Nijmegen,Sittard,4vob7cTR,EFoqxv3t,1,1,,,,0
+1662828300,Ajax,Heerenveen,bZZPiwAI,4vob7cTR,5,0,,,,0
+1662836400,Excelsior,FC Emmen,GOuuvzfL,W6vdbCVa,2,1,,,,0
+1662891300,Utrecht,Vitesse,4vob7cTR,hxcLpNd6,1,0,,,,0
+1662899400,PSV,Waalwijk,j5zA1baQ,YsXoN1Be,1,0,,,,0
+1662899400,Cambuur,Groningen,0fjMSYzR,E5fitKGe,0,1,,,,0
+1662907500,AZ Alkmaar,Twente,4vob7cTR,4vob7cTR,1,1,,,,0
+1662919200,Feyenoord,Sparta Rotterdam,Wz6bfhxO,rTjpk23j,3,0,,,,0
+1663351200,Utrecht,Nijmegen,4vob7cTR,4vob7cTR,0,0,,,,0
+1663425000,Sparta Rotterdam,Groningen,rTjpk23j,E5fitKGe,2,1,,,,0
+1663433100,Vitesse,FC Volendam,hxcLpNd6,WYtEUtB2,1,1,,,,0
+1663437600,Waalwijk,Cambuur,YsXoN1Be,0fjMSYzR,5,1,,,,0
+1663441200,Sittard,Excelsior,EFoqxv3t,GOuuvzfL,1,0,,,,0
+1663496100,G.A. Eagles,FC Emmen,x4Xh4Pu0,W6vdbCVa,2,0,,,,0
+1663504200,PSV,Feyenoord,j5zA1baQ,Wz6bfhxO,4,3,,,,0
+1663504200,Heerenveen,Twente,4vob7cTR,4vob7cTR,2,1,,,,0
+1663512300,AZ Alkmaar,Ajax,4vob7cTR,bZZPiwAI,2,1,,,,0
+1664634600,Cambuur,PSV,0fjMSYzR,j5zA1baQ,3,0,,,,0
+1664642700,Groningen,AZ Alkmaar,E5fitKGe,4vob7cTR,1,4,,,,0
+1664647200,Ajax,G.A. Eagles,bZZPiwAI,x4Xh4Pu0,1,1,,,,0
+1664650800,Twente,Vitesse,4vob7cTR,hxcLpNd6,3,0,,,,0
+1664705700,Sittard,FC Volendam,EFoqxv3t,WYtEUtB2,2,0,,,,0
+1664713800,Nijmegen,Feyenoord,4vob7cTR,Wz6bfhxO,1,1,,,,0
+1664713800,Excelsior,Utrecht,GOuuvzfL,4vob7cTR,0,1,,,,0
+1664721900,Waalwijk,Sparta Rotterdam,YsXoN1Be,rTjpk23j,2,2,,,,0
+1664733600,FC Emmen,Heerenveen,W6vdbCVa,4vob7cTR,0,0,,,,0
+1665165600,Groningen,Waalwijk,E5fitKGe,YsXoN1Be,2,3,,,,0
+1665239400,FC Volendam,Ajax,WYtEUtB2,bZZPiwAI,2,4,,,,0
+1665247500,Sparta Rotterdam,FC Emmen,rTjpk23j,W6vdbCVa,3,1,,,,0
+1665255600,Nijmegen,Excelsior,4vob7cTR,GOuuvzfL,1,1,,,,0
+1665310500,G.A. Eagles,Cambuur,x4Xh4Pu0,0fjMSYzR,0,0,,,,0
+1665318600,Utrecht,AZ Alkmaar,4vob7cTR,4vob7cTR,1,2,,,,0
+1665318600,Feyenoord,Twente,Wz6bfhxO,4vob7cTR,2,0,,,,0
+1665326700,Heerenveen,PSV,4vob7cTR,j5zA1baQ,0,1,,,,0
+1665338400,Vitesse,Sittard,hxcLpNd6,EFoqxv3t,1,2,,,,0
+1665770400,FC Emmen,FC Volendam,W6vdbCVa,WYtEUtB2,1,1,,,,0
+1665852300,Sittard,Waalwijk,EFoqxv3t,YsXoN1Be,0,0,,,,0
+1665856800,G.A. Eagles,Heerenveen,x4Xh4Pu0,4vob7cTR,1,1,,,,0
+1665860400,Cambuur,Vitesse,0fjMSYzR,hxcLpNd6,0,3,,,,0
+1665915300,Sparta Rotterdam,Nijmegen,rTjpk23j,4vob7cTR,2,0,,,,0
+1665923400,Twente,Groningen,4vob7cTR,E5fitKGe,3,0,,,,0
+1665923400,PSV,Utrecht,j5zA1baQ,4vob7cTR,6,1,,,,0
+1665931500,AZ Alkmaar,Feyenoord,4vob7cTR,Wz6bfhxO,1,3,,,,0
+1665943200,Ajax,Excelsior,bZZPiwAI,GOuuvzfL,7,1,,,,0
+1666449000,Feyenoord,Sittard,Wz6bfhxO,EFoqxv3t,1,1,,,,0
+1666457100,Waalwijk,Ajax,YsXoN1Be,bZZPiwAI,1,4,,,,0
+1666465200,Vitesse,FC Emmen,hxcLpNd6,W6vdbCVa,2,1,,,,0
+1666520100,Excelsior,AZ Alkmaar,GOuuvzfL,4vob7cTR,2,1,,,,0
+1666528200,Nijmegen,G.A. Eagles,4vob7cTR,x4Xh4Pu0,3,3,,,,0
+1666528200,Groningen,PSV,E5fitKGe,j5zA1baQ,4,2,,,,0
+1666528200,Cambuur,Twente,0fjMSYzR,4vob7cTR,0,1,,,,0
+1666536300,Utrecht,Sparta Rotterdam,4vob7cTR,rTjpk23j,3,1,,,,0
+1666548000,FC Volendam,Heerenveen,WYtEUtB2,4vob7cTR,1,3,,,,0
+1667053800,Heerenveen,Utrecht,4vob7cTR,4vob7cTR,1,2,,,,0
+1667061900,Sparta Rotterdam,Sittard,rTjpk23j,EFoqxv3t,3,1,,,,0
+1667070000,G.A. Eagles,Excelsior,x4Xh4Pu0,GOuuvzfL,3,1,,,,0
+1667128500,FC Emmen,Groningen,W6vdbCVa,E5fitKGe,0,0,,,,0
+1667136600,Twente,Waalwijk,4vob7cTR,YsXoN1Be,3,0,,,,0
+1667136600,PSV,Nijmegen,j5zA1baQ,4vob7cTR,3,0,,,,0
+1667144700,AZ Alkmaar,FC Volendam,4vob7cTR,WYtEUtB2,2,1,,,,0
+1667588400,Cambuur,Nijmegen,0fjMSYzR,4vob7cTR,0,1,,,,0
+1667662200,Vitesse,Sparta Rotterdam,hxcLpNd6,rTjpk23j,0,4,,,,0
+1667670300,Sittard,FC Emmen,EFoqxv3t,W6vdbCVa,0,1,,,,0
+1667678400,Excelsior,Heerenveen,GOuuvzfL,4vob7cTR,0,1,,,,0
+1667733300,Utrecht,Groningen,4vob7cTR,E5fitKGe,2,1,,,,0
+1667741400,Twente,G.A. Eagles,4vob7cTR,x4Xh4Pu0,1,1,,,,0
+1667741400,FC Volendam,Feyenoord,WYtEUtB2,Wz6bfhxO,0,2,,,,0
+1667749500,Waalwijk,AZ Alkmaar,YsXoN1Be,4vob7cTR,3,1,,,,0
+1667749500,Ajax,PSV,bZZPiwAI,j5zA1baQ,1,2,,,,0
+1668020400,Ajax,Vitesse,bZZPiwAI,hxcLpNd6,2,2,,,,0
+1668106800,Feyenoord,Cambuur,Wz6bfhxO,0fjMSYzR,1,0,,,,0
+1668193200,Sparta Rotterdam,Twente,rTjpk23j,4vob7cTR,1,1,,,,0
+1668267000,FC Volendam,Utrecht,WYtEUtB2,4vob7cTR,0,4,,,,0
+1668275100,FC Emmen,Ajax,W6vdbCVa,bZZPiwAI,3,3,,,,0
+1668283200,PSV,AZ Alkmaar,j5zA1baQ,4vob7cTR,0,1,,,,0
+1668338100,Nijmegen,Waalwijk,4vob7cTR,YsXoN1Be,6,1,,,,0
+1668346200,Heerenveen,Cambuur,4vob7cTR,0fjMSYzR,2,1,,,,0
+1668346200,Groningen,Sittard,E5fitKGe,EFoqxv3t,2,3,,,,0
+1668354300,Feyenoord,Excelsior,Wz6bfhxO,GOuuvzfL,5,1,,,,0
+1668366000,G.A. Eagles,Vitesse,x4Xh4Pu0,hxcLpNd6,2,2,,,,0
+1673031600,Twente,FC Emmen,4vob7cTR,W6vdbCVa,2,0,,,,0
+1673105400,Waalwijk,Heerenveen,YsXoN1Be,4vob7cTR,0,0,,,,0
+1673113500,AZ Alkmaar,Vitesse,4vob7cTR,hxcLpNd6,1,1,,,,0
+1673118000,Sittard,G.A. Eagles,EFoqxv3t,x4Xh4Pu0,0,2,,,,0
+1673121600,PSV,Sparta Rotterdam,j5zA1baQ,rTjpk23j,0,0,,,,0
+1673176500,Utrecht,Feyenoord,4vob7cTR,Wz6bfhxO,1,1,,,,0
+1673184600,Nijmegen,Ajax,4vob7cTR,bZZPiwAI,1,1,,,,0
+1673184600,Cambuur,FC Volendam,0fjMSYzR,WYtEUtB2,0,3,,,,0
+1673192700,Excelsior,Groningen,GOuuvzfL,E5fitKGe,1,0,,,,0
+1673718300,Heerenveen,AZ Alkmaar,4vob7cTR,4vob7cTR,0,2,,,,0
+1673718300,FC Volendam,Waalwijk,WYtEUtB2,YsXoN1Be,2,1,,,,0
+1673726400,Sparta Rotterdam,Excelsior,rTjpk23j,GOuuvzfL,1,0,,,,0
+1673726400,Ajax,Twente,bZZPiwAI,4vob7cTR,0,0,,,,0
+1673781300,Vitesse,Nijmegen,hxcLpNd6,4vob7cTR,0,0,,,,0
+1673789400,Sittard,PSV,EFoqxv3t,j5zA1baQ,2,2,,,,0
+1673789400,G.A. Eagles,Utrecht,x4Xh4Pu0,4vob7cTR,2,2,,,,0
+1673797500,Groningen,Feyenoord,E5fitKGe,Wz6bfhxO,0,3,,,,0
+1673797500,FC Emmen,Cambuur,W6vdbCVa,0fjMSYzR,0,0,,,,0
+1674241200,Excelsior,FC Volendam,GOuuvzfL,WYtEUtB2,2,0,,,,0
+1674323100,Nijmegen,FC Emmen,4vob7cTR,W6vdbCVa,3,1,,,,0
+1674327600,PSV,Vitesse,j5zA1baQ,hxcLpNd6,1,0,,,,0
+1674327600,Cambuur,Sparta Rotterdam,0fjMSYzR,rTjpk23j,0,3,,,,0
+1674386100,Heerenveen,Groningen,4vob7cTR,E5fitKGe,3,1,,,,0
+1674394200,Twente,Utrecht,4vob7cTR,4vob7cTR,2,0,,,,0
+1674394200,Feyenoord,Ajax,Wz6bfhxO,bZZPiwAI,1,1,,,,0
+1674402300,AZ Alkmaar,Sittard,4vob7cTR,EFoqxv3t,3,1,,,,0
+1674582300,FC Emmen,PSV,W6vdbCVa,j5zA1baQ,1,0,,,,0
+1674590400,Sparta Rotterdam,Waalwijk,rTjpk23j,YsXoN1Be,0,0,,,,0
+1674668700,Vitesse,Twente,hxcLpNd6,4vob7cTR,2,2,,,,0
+1674668700,G.A. Eagles,AZ Alkmaar,x4Xh4Pu0,4vob7cTR,1,4,,,,0
+1674673200,Sittard,Heerenveen,EFoqxv3t,4vob7cTR,2,0,,,,0
+1674676800,Utrecht,Excelsior,4vob7cTR,GOuuvzfL,1,0,,,,0
+1674676800,Feyenoord,Nijmegen,Wz6bfhxO,4vob7cTR,2,0,,,,0
+1674755100,Groningen,Cambuur,E5fitKGe,0fjMSYzR,0,1,,,,0
+1674763200,Ajax,FC Volendam,bZZPiwAI,WYtEUtB2,1,1,,,,0
+1674919800,PSV,G.A. Eagles,j5zA1baQ,x4Xh4Pu0,2,0,,,,0
+1674927900,Waalwijk,FC Emmen,YsXoN1Be,W6vdbCVa,2,0,,,,0
+1674932400,Nijmegen,Sparta Rotterdam,4vob7cTR,rTjpk23j,1,1,,,,0
+1674932400,Heerenveen,Vitesse,4vob7cTR,hxcLpNd6,1,3,,,,0
+1674936000,AZ Alkmaar,Utrecht,4vob7cTR,4vob7cTR,5,5,,,,0
+1674990900,Twente,Feyenoord,4vob7cTR,Wz6bfhxO,1,1,,,,0
+1674999000,FC Volendam,Groningen,WYtEUtB2,E5fitKGe,3,2,,,,0
+1674999000,Excelsior,Ajax,GOuuvzfL,bZZPiwAI,1,4,,,,0
+1675007100,Cambuur,Sittard,0fjMSYzR,EFoqxv3t,1,2,,,,0
+1675278000,Waalwijk,G.A. Eagles,YsXoN1Be,x4Xh4Pu0,3,1,,,,0
+1675450800,Sittard,Sparta Rotterdam,EFoqxv3t,rTjpk23j,0,0,,,,0
+1675532700,FC Volendam,AZ Alkmaar,WYtEUtB2,4vob7cTR,1,1,,,,0
+1675537200,Utrecht,Heerenveen,4vob7cTR,4vob7cTR,1,0,,,,0
+1675537200,FC Emmen,Vitesse,W6vdbCVa,hxcLpNd6,2,2,,,,0
+1675540800,Excelsior,Waalwijk,GOuuvzfL,YsXoN1Be,0,0,,,,0
+1675595700,Cambuur,Ajax,0fjMSYzR,bZZPiwAI,0,5,,,,0
+1675603800,G.A. Eagles,Nijmegen,x4Xh4Pu0,4vob7cTR,1,0,,,,0
+1675603800,Feyenoord,PSV,Wz6bfhxO,j5zA1baQ,2,2,,,,0
+1675611900,Groningen,Twente,E5fitKGe,4vob7cTR,1,1,,,,0
+1676055600,AZ Alkmaar,Excelsior,4vob7cTR,GOuuvzfL,5,0,,,,0
+1676137500,Nijmegen,Cambuur,4vob7cTR,0fjMSYzR,0,0,,,,0
+1676142000,PSV,Groningen,j5zA1baQ,E5fitKGe,6,0,,,,0
+1676145600,FC Emmen,Sittard,W6vdbCVa,EFoqxv3t,0,1,,,,0
+1676200500,Sparta Rotterdam,G.A. Eagles,rTjpk23j,x4Xh4Pu0,2,1,,,,0
+1676208600,Vitesse,Utrecht,hxcLpNd6,4vob7cTR,2,0,,,,0
+1676208600,Heerenveen,Feyenoord,4vob7cTR,Wz6bfhxO,1,2,,,,0
+1676216700,Twente,FC Volendam,4vob7cTR,WYtEUtB2,3,0,,,,0
+1676216700,Ajax,Waalwijk,bZZPiwAI,YsXoN1Be,3,1,,,,0
+1676660400,Waalwijk,Sittard,YsXoN1Be,EFoqxv3t,3,1,,,,0
+1676734200,FC Volendam,Vitesse,WYtEUtB2,hxcLpNd6,2,0,,,,0
+1676742300,Groningen,FC Emmen,E5fitKGe,W6vdbCVa,1,1,,,,0
+1676750400,Feyenoord,AZ Alkmaar,Wz6bfhxO,4vob7cTR,2,1,,,,0
+1676805300,Cambuur,Heerenveen,0fjMSYzR,4vob7cTR,1,2,,,,0
+1676813400,Utrecht,PSV,4vob7cTR,j5zA1baQ,2,2,,,,0
+1676813400,G.A. Eagles,Twente,x4Xh4Pu0,4vob7cTR,2,0,,,,0
+1676821500,Ajax,Sparta Rotterdam,bZZPiwAI,rTjpk23j,4,0,,,,0
+1676833200,Excelsior,Nijmegen,GOuuvzfL,4vob7cTR,0,3,,,,0
+1677265200,Sparta Rotterdam,Utrecht,rTjpk23j,4vob7cTR,0,3,,,,0
+1677339000,Groningen,Excelsior,E5fitKGe,GOuuvzfL,3,0,,,,0
+1677347100,Heerenveen,Waalwijk,4vob7cTR,YsXoN1Be,1,4,,,,0
+1677351600,AZ Alkmaar,Cambuur,4vob7cTR,0fjMSYzR,2,1,,,,0
+1677355200,Nijmegen,FC Volendam,4vob7cTR,WYtEUtB2,3,0,,,,0
+1677410100,Sittard,Feyenoord,EFoqxv3t,Wz6bfhxO,2,4,,,,0
+1677418200,Vitesse,Ajax,hxcLpNd6,bZZPiwAI,1,2,,,,0
+1677418200,FC Emmen,G.A. Eagles,W6vdbCVa,x4Xh4Pu0,2,2,,,,0
+1677426300,PSV,Twente,j5zA1baQ,4vob7cTR,3,1,,,,0
+1677870000,Vitesse,AZ Alkmaar,hxcLpNd6,4vob7cTR,0,1,,,,0
+1677870000,Utrecht,Sittard,4vob7cTR,EFoqxv3t,1,2,,,,0
+1677951900,FC Volendam,FC Emmen,WYtEUtB2,W6vdbCVa,3,1,,,,0
+1677956400,Feyenoord,Groningen,Wz6bfhxO,E5fitKGe,1,0,,,,0
+1677960000,Twente,Heerenveen,4vob7cTR,4vob7cTR,3,3,,,,0
+1678014900,Excelsior,Sparta Rotterdam,GOuuvzfL,rTjpk23j,1,4,,,,0
+1678023000,Waalwijk,PSV,YsXoN1Be,j5zA1baQ,0,1,,,,0
+1678031100,Ajax,Nijmegen,bZZPiwAI,4vob7cTR,1,0,,,,0
+1678042800,Cambuur,G.A. Eagles,0fjMSYzR,x4Xh4Pu0,4,1,,,,0
+1678548600,FC Emmen,Excelsior,W6vdbCVa,GOuuvzfL,2,0,,,,0
+1678556700,Sittard,Twente,EFoqxv3t,4vob7cTR,0,3,,,,0
+1678561200,AZ Alkmaar,Groningen,4vob7cTR,E5fitKGe,1,0,,,,0
+1678564800,Sparta Rotterdam,Vitesse,rTjpk23j,hxcLpNd6,3,1,,,,0
+1678619700,Nijmegen,Utrecht,4vob7cTR,4vob7cTR,2,2,,,,0
+1678627800,Heerenveen,Ajax,4vob7cTR,bZZPiwAI,2,4,,,,0
+1678635900,PSV,Cambuur,j5zA1baQ,0fjMSYzR,5,2,,,,0
+1678647600,Feyenoord,FC Volendam,Wz6bfhxO,WYtEUtB2,2,1,,,,0
+1679079600,FC Volendam,Sittard,WYtEUtB2,EFoqxv3t,2,1,,,,0
+1679153400,Utrecht,G.A. Eagles,4vob7cTR,x4Xh4Pu0,1,2,,,,0
+1679161500,FC Emmen,Sparta Rotterdam,W6vdbCVa,rTjpk23j,0,2,,,,0
+1679169600,Waalwijk,Nijmegen,YsXoN1Be,4vob7cTR,1,3,,,,0
+1679224500,Groningen,Heerenveen,E5fitKGe,4vob7cTR,0,2,,,,0
+1679232600,Excelsior,Cambuur,GOuuvzfL,0fjMSYzR,4,1,,,,0
+1679232600,Ajax,Feyenoord,bZZPiwAI,Wz6bfhxO,2,3,,,,0
+1679240700,Vitesse,PSV,hxcLpNd6,j5zA1baQ,1,1,,,,0
+1679252400,Twente,AZ Alkmaar,4vob7cTR,4vob7cTR,2,1,,,,0
+1680359400,AZ Alkmaar,Heerenveen,4vob7cTR,4vob7cTR,1,1,,,,0
+1680367500,Excelsior,Twente,GOuuvzfL,4vob7cTR,0,0,,,,0
+1680372000,Nijmegen,PSV,4vob7cTR,j5zA1baQ,2,4,,,,0
+1680372000,Cambuur,FC Emmen,0fjMSYzR,W6vdbCVa,1,2,,,,0
+1680375600,Waalwijk,Vitesse,YsXoN1Be,hxcLpNd6,1,0,,,,0
+1680430500,G.A. Eagles,Ajax,x4Xh4Pu0,bZZPiwAI,0,0,,,,0
+1680438600,Utrecht,FC Volendam,4vob7cTR,WYtEUtB2,0,0,,,,0
+1680438600,Sparta Rotterdam,Feyenoord,rTjpk23j,Wz6bfhxO,1,3,,,,0
+1680446700,Sittard,Groningen,EFoqxv3t,E5fitKGe,3,1,,,,0
+1680890400,Groningen,Utrecht,E5fitKGe,4vob7cTR,1,2,,,,0
+1680972300,Vitesse,G.A. Eagles,hxcLpNd6,x4Xh4Pu0,2,0,,,,0
+1680976800,PSV,Excelsior,j5zA1baQ,GOuuvzfL,4,0,,,,0
+1680976800,AZ Alkmaar,Sparta Rotterdam,4vob7cTR,rTjpk23j,0,1,,,,0
+1680980400,Heerenveen,FC Volendam,4vob7cTR,WYtEUtB2,2,1,,,,0
+1681035300,Twente,Cambuur,4vob7cTR,0fjMSYzR,4,0,,,,0
+1681043400,FC Emmen,Nijmegen,W6vdbCVa,4vob7cTR,0,0,,,,0
+1681051500,Ajax,Sittard,bZZPiwAI,EFoqxv3t,4,0,,,,0
+1681063200,Feyenoord,Waalwijk,Wz6bfhxO,YsXoN1Be,5,1,,,,0
+1681495200,Excelsior,G.A. Eagles,GOuuvzfL,x4Xh4Pu0,2,1,,,,0
+1681577100,Waalwijk,Groningen,YsXoN1Be,E5fitKGe,2,1,,,,0
+1681585200,Sparta Rotterdam,Heerenveen,rTjpk23j,4vob7cTR,4,0,,,,0
+1681640100,Nijmegen,Vitesse,4vob7cTR,hxcLpNd6,1,4,,,,0
+1681648200,Utrecht,Twente,4vob7cTR,4vob7cTR,1,0,,,,0
+1681648200,FC Volendam,PSV,WYtEUtB2,j5zA1baQ,2,3,,,,0
+1681656300,Cambuur,Feyenoord,0fjMSYzR,Wz6bfhxO,0,3,,,,0
+1681668000,Sittard,AZ Alkmaar,EFoqxv3t,4vob7cTR,0,3,,,,0
+1681668000,Ajax,FC Emmen,bZZPiwAI,W6vdbCVa,3,1,,,,0
+1681922700,G.A. Eagles,Waalwijk,x4Xh4Pu0,YsXoN1Be,3,2,,,,0
+1682100000,FC Volendam,Cambuur,WYtEUtB2,0fjMSYzR,2,0,,,,0
+1682181900,Heerenveen,FC Emmen,4vob7cTR,W6vdbCVa,2,3,,,,0
+1682190000,Vitesse,Excelsior,hxcLpNd6,GOuuvzfL,0,0,,,,0
+1682244900,Twente,Sparta Rotterdam,4vob7cTR,rTjpk23j,3,3,,,,0
+1682253000,PSV,Ajax,j5zA1baQ,bZZPiwAI,3,0,,,,0
+1682253000,G.A. Eagles,Sittard,x4Xh4Pu0,EFoqxv3t,2,0,,,,0
+1682261100,Feyenoord,Utrecht,Wz6bfhxO,4vob7cTR,3,1,,,,0
+1682272800,AZ Alkmaar,Waalwijk,4vob7cTR,YsXoN1Be,3,0,,,,0
+1682427600,Groningen,Nijmegen,E5fitKGe,4vob7cTR,0,1,,,,0
+1683309600,Waalwijk,FC Volendam,YsXoN1Be,WYtEUtB2,4,1,,,,0
+1683391500,Sparta Rotterdam,PSV,rTjpk23j,j5zA1baQ,0,1,,,,0
+1683396000,Nijmegen,Heerenveen,4vob7cTR,4vob7cTR,2,3,,,,0
+1683396000,Cambuur,Utrecht,0fjMSYzR,4vob7cTR,0,3,,,,0
+1683399600,Ajax,AZ Alkmaar,bZZPiwAI,4vob7cTR,0,0,,,,0
+1683454500,FC Emmen,Twente,W6vdbCVa,4vob7cTR,0,3,,,,0
+1683462600,G.A. Eagles,Groningen,x4Xh4Pu0,E5fitKGe,1,1,,,,0
+1683462600,Excelsior,Feyenoord,GOuuvzfL,Wz6bfhxO,0,2,,,,0
+1683470700,Sittard,Vitesse,EFoqxv3t,hxcLpNd6,2,0,,,,0
+1683914400,Twente,Nijmegen,4vob7cTR,4vob7cTR,4,0,,,,0
+1683996300,FC Volendam,Sparta Rotterdam,WYtEUtB2,rTjpk23j,2,1,,,,0
+1684000800,Heerenveen,Excelsior,4vob7cTR,GOuuvzfL,0,0,,,,0
+1684004400,Utrecht,Waalwijk,4vob7cTR,YsXoN1Be,2,0,,,,0
+1684059300,Vitesse,Cambuur,hxcLpNd6,0fjMSYzR,2,0,,,,0
+1684075500,Feyenoord,G.A. Eagles,Wz6bfhxO,x4Xh4Pu0,3,0,,,,0
+1684087200,PSV,Sittard,j5zA1baQ,EFoqxv3t,2,1,,,,0
+1684087200,AZ Alkmaar,FC Emmen,4vob7cTR,W6vdbCVa,5,1,,,,0
+1684242000,Groningen,Ajax,E5fitKGe,bZZPiwAI,2,3,,,,0
+1684672200,Waalwijk,Twente,YsXoN1Be,4vob7cTR,0,5,,,,0
+1684672200,Vitesse,Groningen,hxcLpNd6,E5fitKGe,6,0,,,,0
+1684672200,Sparta Rotterdam,Cambuur,rTjpk23j,0fjMSYzR,4,1,,,,0
+1684672200,PSV,Heerenveen,j5zA1baQ,4vob7cTR,3,3,,,,0
+1684672200,Nijmegen,AZ Alkmaar,4vob7cTR,4vob7cTR,0,3,,,,0
+1684672200,G.A. Eagles,FC Volendam,x4Xh4Pu0,WYtEUtB2,3,0,,,,0
+1684672200,FC Emmen,Feyenoord,W6vdbCVa,Wz6bfhxO,1,3,,,,0
+1684672200,Excelsior,Sittard,GOuuvzfL,EFoqxv3t,3,0,,,,0
+1684672200,Ajax,Utrecht,bZZPiwAI,4vob7cTR,3,1,,,,0
+1684778400,Eindhoven FC,Almere City,4AP4EkmH,tWILcQKb,1,0,,,,0
+1684860300,Venlo,Willem II,vuxu3x67,WQMFphXe,3,2,,,,0
+1684868400,NAC Breda,Maastricht,voRxy8ml,xxo08ycd,1,0,,,,0
+1685124000,Almere City,Eindhoven FC,tWILcQKb,4AP4EkmH,2,1,AET,3,1,0
+1685197800,Willem II,Venlo,WQMFphXe,vuxu3x67,2,1,AET,2,2,0
+1685210400,Maastricht,NAC Breda,xxo08ycd,voRxy8ml,1,4,,,,0
+1685277000,Utrecht,FC Emmen,4vob7cTR,W6vdbCVa,3,2,,,,0
+1685277000,Twente,Ajax,4vob7cTR,bZZPiwAI,3,1,,,,0
+1685277000,Sittard,Nijmegen,EFoqxv3t,4vob7cTR,1,1,,,,0
+1685277000,Heerenveen,G.A. Eagles,4vob7cTR,x4Xh4Pu0,2,0,,,,0
+1685277000,Groningen,Sparta Rotterdam,E5fitKGe,rTjpk23j,0,5,,,,0
+1685277000,Feyenoord,Vitesse,Wz6bfhxO,hxcLpNd6,0,1,,,,0
+1685277000,FC Volendam,Excelsior,WYtEUtB2,GOuuvzfL,3,2,,,,0
+1685277000,Cambuur,Waalwijk,0fjMSYzR,YsXoN1Be,4,0,,,,0
+1685277000,AZ Alkmaar,PSV,4vob7cTR,j5zA1baQ,1,2,,,,0
+1685469600,Venlo,Almere City,vuxu3x67,tWILcQKb,1,1,,,,0
+1685551500,NAC Breda,FC Emmen,voRxy8ml,W6vdbCVa,1,2,,,,0
+1685637900,Heerenveen,Twente,4vob7cTR,4vob7cTR,1,2,,,,0
+1685646000,Utrecht,Sparta Rotterdam,4vob7cTR,rTjpk23j,1,2,,,,0
+1685802600,Almere City,Venlo,tWILcQKb,vuxu3x67,1,1,Pen,2,1,0
+1685815200,FC Emmen,NAC Breda,W6vdbCVa,voRxy8ml,2,0,,,,0
+1685881800,Twente,Heerenveen,4vob7cTR,4vob7cTR,4,0,,,,0
+1685894400,Sparta Rotterdam,Utrecht,rTjpk23j,4vob7cTR,0,1,Pen,1,1,0
+1686074400,Almere City,FC Emmen,tWILcQKb,W6vdbCVa,2,0,,,,0
+1686247200,Sparta Rotterdam,Twente,rTjpk23j,4vob7cTR,1,1,,,,0
+1686486600,Twente,Sparta Rotterdam,4vob7cTR,rTjpk23j,1,0,,,,0
+1686499200,FC Emmen,Almere City,W6vdbCVa,tWILcQKb,1,2,,,,0

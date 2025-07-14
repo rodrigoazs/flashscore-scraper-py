@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1116432000,Tromsdalen,Tromso,1,3,,,,0
-1116432000,Tonsberg,Notodden,4,1,,,,0
-1116432000,Strindheim,Lofoten,4,2,,,,0
-1116432000,Stord,Lov Ham,0,0,AET,0,1,0
-1116432000,Sarpsborg 08,Valerenga,0,4,,,,0
-1116432000,Sandefjord,Sarpsborg 08,2,1,,,,0
-1116432000,Ranheim,Bodo/Glimt,1,4,,,,0
-1116432000,Nybergsund,Skeid,0,2,AET,2,1,0
-1116432000,Moss,Raufoss,2,1,,,,0
-1116432000,Mo IL,Byasen,2,5,,,,0
-1116432000,Lyngen/Karnes,Alta,1,2,,,,0
-1116432000,Levanger,Aalesund,0,2,,,,0
-1116432000,Larvik,Start,1,2,,,,0
-1116432000,Kjelsas,Honefoss,0,2,,,,0
-1116432000,Haugesund,V. Haugesund,0,1,,,,0
-1116432000,Drobak-Frogn,Odd,0,5,,,,0
-1116432000,Bryne,Sandnes,4,0,,,,0
-1116518400,Verdal,Rosenborg,0,7,,,,0
-1116518400,Strommen,Lillestrom,1,3,,,,0
-1116518400,Stabaek,Baerum Sportsklubb,6,2,,,,0
-1116518400,Radoy,Brann,1,3,,,,0
-1116518400,Pors,Frigg,2,0,,,,0
-1116518400,Oslo Ost,Kongsvinger,1,1,AET,2,1,0
-1116518400,Lillehammer,HamKam,0,4,,,,0
-1116518400,Kolstad,Molde,1,2,,,,0
-1116518400,Klepp,Viking,2,4,,,,0
-1116518400,Hodd,Hovding,5,1,,,,0
-1116518400,Groruddalen,Fredrikstad,1,5,,,,0
-1116518400,Fyllingen,Sogndal,1,1,AET,1,2,0
-1116518400,Follo,Stromsgodset,0,1,,,,0
-1116518400,Flekkeroy,Mandalskameratene,0,2,,,,0
-1116518400,Eidsvold TF,Lyn,1,2,,,,0
-1118851200,Valerenga,Oslo Ost,7,0,,,,0
-1118851200,Stromsgodset,Stabaek,0,1,,,,0
-1118851200,Start,Mandalskameratene,2,1,,,,0
-1118851200,Sogndal,HamKam,0,1,,,,0
-1118851200,Odd,Pors,1,0,,,,0
-1118851200,Molde,Nybergsund,3,2,,,,0
-1118851200,Lillestrom,Moss,3,3,AET,5,3,0
-1118851200,Honefoss,Lyn,2,1,,,,0
-1118851200,Fredrikstad,Sandefjord,2,0,,,,0
-1118851200,Byasen,Rosenborg,1,8,,,,0
-1118851200,Bryne,Tonsberg,5,1,,,,0
-1118851200,Bodo/Glimt,Strindheim,3,3,AET,4,3,0
-1118851200,Alta,Tromso,1,1,AET,2,1,0
-1118851200,Aalesund,Hodd,3,1,,,,0
-1118937600,Lov Ham,Brann,0,1,,,,0
-1119459600,V. Haugesund,Viking,0,3,,,,0
-1120060800,Stabaek,Fredrikstad,4,2,,,,0
-1120060800,Odd,Alta,6,0,,,,0
-1120060800,HamKam,Bryne,2,0,,,,0
-1120060800,Brann,Aalesund,3,2,,,,0
-1120060800,Bodo/Glimt,Molde,1,2,,,,0
-1120150800,Viking,Lillestrom,0,2,,,,0
-1120150800,Start,Valerenga,1,1,AET,2,3,0
-1120150800,Rosenborg,Honefoss,1,2,,,,0
-1124546400,Molde,Odd,2,1,,,,0
-1124557200,Valerenga,Brann,2,1,,,,0
-1124632800,Honefoss,HamKam,4,0,,,,0
-1124643600,Lillestrom,Stabaek,3,1,,,,0
-1127322000,Lillestrom,Valerenga,2,0,,,,0
-1127408400,Molde,Honefoss,1,0,,,,0
-1131279300,Lillestrom,Molde,2,2,AET,2,4,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1116432000,Tromsdalen,Tromso,xUttYH6q,G8POEjDp,1,3,,,,0
+1116432000,Tonsberg,Notodden,QJ084KQH,pCk2vaSD,4,1,,,,0
+1116432000,Strindheim,Lofoten,nZWYgcvE,hz0WqeGb,4,2,,,,0
+1116432000,Stord,Lov Ham,EBJXZAp5,ImdO7J3k,0,0,AET,0,1,0
+1116432000,Sarpsborg 08,Valerenga,vFdnoPtE,K0xfe77l,0,4,,,,0
+1116432000,Sandefjord,Sarpsborg 08,KdS5ytp9,vFdnoPtE,2,1,,,,0
+1116432000,Ranheim,Bodo/Glimt,CnVD4YXr,nJtu1LWt,1,4,,,,0
+1116432000,Nybergsund,Skeid,dveS6wJe,SStOIxZ7,0,2,AET,2,1,0
+1116432000,Moss,Raufoss,l2qiVD1D,lbBUyKsP,2,1,,,,0
+1116432000,Mo IL,Byasen,ldtTlNn4,ABpmWgn7,2,5,,,,0
+1116432000,Lyngen/Karnes,Alta,dKOSvRbJ,IBzczeqb,1,2,,,,0
+1116432000,Levanger,Aalesund,zN7pM03G,QBQwYJis,0,2,,,,0
+1116432000,Larvik,Start,KnsZENSI,rVeeU3I0,1,2,,,,0
+1116432000,Kjelsas,Honefoss,jDKr6VBi,0t5jM2ql,0,2,,,,0
+1116432000,Haugesund,V. Haugesund,xYzsuAmf,U3Jn5kRc,0,1,,,,0
+1116432000,Drobak-Frogn,Odd,MsYiLIPk,xvniPjZd,0,5,,,,0
+1116432000,Bryne,Sandnes,dEFiTHxB,pjxqSmk4,4,0,,,,0
+1116518400,Verdal,Rosenborg,jgCjwzSh,nq6bPf0N,0,7,,,,0
+1116518400,Strommen,Lillestrom,CnVD4YXr,zTAC7Vhk,1,3,,,,0
+1116518400,Stabaek,Baerum Sportsklubb,A1TIJ1Y1,QPVxgHgK,6,2,,,,0
+1116518400,Radoy,Brann,Iy2j21Kp,WtiGCgXQ,1,3,,,,0
+1116518400,Pors,Frigg,6PG8meHs,4GUthy9Q,2,0,,,,0
+1116518400,Oslo Ost,Kongsvinger,jNicLcGa,EHppPc2I,1,1,AET,2,1,0
+1116518400,Lillehammer,HamKam,S4CWuWRm,fi8RtWi5,0,4,,,,0
+1116518400,Kolstad,Molde,E3XqtaSr,baDaGjjh,1,2,,,,0
+1116518400,Klepp,Viking,pxRsJ9Un,xvniPjZd,2,4,,,,0
+1116518400,Hodd,Hovding,l4CNNEgH,I5gJGLQs,5,1,,,,0
+1116518400,Groruddalen,Fredrikstad,dMyrHCwk,6aTuLu6E,1,5,,,,0
+1116518400,Fyllingen,Sogndal,tfXXiKSA,hW1rdNob,1,1,AET,1,2,0
+1116518400,Follo,Stromsgodset,t46EBM5G,E5rgQKuN,0,1,,,,0
+1116518400,Flekkeroy,Mandalskameratene,U3Jn5kRc,pCk2vaSD,0,2,,,,0
+1116518400,Eidsvold TF,Lyn,rTjtBUA7,nLgh4p2c,1,2,,,,0
+1118851200,Valerenga,Oslo Ost,K0xfe77l,jNicLcGa,7,0,,,,0
+1118851200,Stromsgodset,Stabaek,E5rgQKuN,A1TIJ1Y1,0,1,,,,0
+1118851200,Start,Mandalskameratene,rVeeU3I0,pCk2vaSD,2,1,,,,0
+1118851200,Sogndal,HamKam,hW1rdNob,fi8RtWi5,0,1,,,,0
+1118851200,Odd,Pors,xvniPjZd,6PG8meHs,1,0,,,,0
+1118851200,Molde,Nybergsund,baDaGjjh,dveS6wJe,3,2,,,,0
+1118851200,Lillestrom,Moss,zTAC7Vhk,l2qiVD1D,3,3,AET,5,3,0
+1118851200,Honefoss,Lyn,0t5jM2ql,nLgh4p2c,2,1,,,,0
+1118851200,Fredrikstad,Sandefjord,6aTuLu6E,KdS5ytp9,2,0,,,,0
+1118851200,Byasen,Rosenborg,ABpmWgn7,nq6bPf0N,1,8,,,,0
+1118851200,Bryne,Tonsberg,dEFiTHxB,QJ084KQH,5,1,,,,0
+1118851200,Bodo/Glimt,Strindheim,nJtu1LWt,nZWYgcvE,3,3,AET,4,3,0
+1118851200,Alta,Tromso,IBzczeqb,G8POEjDp,1,1,AET,2,1,0
+1118851200,Aalesund,Hodd,QBQwYJis,l4CNNEgH,3,1,,,,0
+1118937600,Lov Ham,Brann,ImdO7J3k,WtiGCgXQ,0,1,,,,0
+1119459600,V. Haugesund,Viking,U3Jn5kRc,xvniPjZd,0,3,,,,0
+1120060800,Stabaek,Fredrikstad,A1TIJ1Y1,6aTuLu6E,4,2,,,,0
+1120060800,Odd,Alta,xvniPjZd,IBzczeqb,6,0,,,,0
+1120060800,HamKam,Bryne,fi8RtWi5,dEFiTHxB,2,0,,,,0
+1120060800,Brann,Aalesund,WtiGCgXQ,QBQwYJis,3,2,,,,0
+1120060800,Bodo/Glimt,Molde,nJtu1LWt,baDaGjjh,1,2,,,,0
+1120150800,Viking,Lillestrom,xvniPjZd,zTAC7Vhk,0,2,,,,0
+1120150800,Start,Valerenga,rVeeU3I0,K0xfe77l,1,1,AET,2,3,0
+1120150800,Rosenborg,Honefoss,nq6bPf0N,0t5jM2ql,1,2,,,,0
+1124546400,Molde,Odd,baDaGjjh,xvniPjZd,2,1,,,,0
+1124557200,Valerenga,Brann,K0xfe77l,WtiGCgXQ,2,1,,,,0
+1124632800,Honefoss,HamKam,0t5jM2ql,fi8RtWi5,4,0,,,,0
+1124643600,Lillestrom,Stabaek,zTAC7Vhk,A1TIJ1Y1,3,1,,,,0
+1127322000,Lillestrom,Valerenga,zTAC7Vhk,K0xfe77l,2,0,,,,0
+1127408400,Molde,Honefoss,baDaGjjh,0t5jM2ql,1,0,,,,0
+1131279300,Lillestrom,Molde,zTAC7Vhk,baDaGjjh,2,2,AET,2,4,0

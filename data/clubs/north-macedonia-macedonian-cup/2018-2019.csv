@@ -1,43 +1,43 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1534950000,Vellazerimi,Belasica,0,4,,,,0
-1534950000,Vardari Forino,Vardar,0,4,,,,0
-1534950000,Vardar Negotino,FK Skopje,1,3,,,,0
-1534950000,Tikves,Renova,2,1,,,,0
-1534950000,Teteks,Gostivar,1,1,Pen,1,2,0
-1534950000,Prevalec,Makedonija GP,0,2,,,,0
-1534950000,Poeshevo,Bregalnica Stip,0,8,,,,0
-1534950000,Osogovo,Pelister,0,1,,,,0
-1534950000,Labunishta,Brera Strumica,1,3,,,,0
-1534950000,Fortuna Skopje,Rabotnicki,0,6,,,,0
-1534950000,FK Pehchevo,Shkupi,2,0,,,,0
-1534950000,FK Korab,Borec,1,0,,,,0
-1534950000,Bratstvo-Vlaznimi,Sileks,0,7,,,,0
-1535554800,Struga,Pobeda,1,2,,,,0
-1536759000,Kozuf Gevgelija,Shkendija,0,2,,,,0
-1537363800,Vardar,Makedonija GP,1,1,,,,0
-1537363800,Tikves,Rabotnicki,0,1,,,,0
-1537363800,Shkendija,FK Pehchevo,2,0,,,,0
-1537363800,Pelister,Belasica,0,2,,,,0
-1537363800,Gostivar,Pobeda,1,2,,,,0
-1537363800,FK Skopje,Sileks,0,2,,,,0
-1537363800,Bregalnica Stip,Brera Strumica,2,6,,,,0
-1538571600,Sileks,FK Skopje,2,1,,,,0
-1538571600,Rabotnicki,Tikves,1,1,,,,0
-1538571600,Pobeda,Gostivar,4,1,,,,0
-1538571600,Makedonija GP,Vardar,2,1,,,,0
-1538571600,FK Pehchevo,Shkendija,0,5,,,,0
-1538571600,Brera Strumica,Bregalnica Stip,0,1,,,,0
-1538571600,Belasica,Pelister,3,1,,,,0
-1541592000,Sileks,Belasica,0,2,,,,0
-1541592000,Shkendija,Pobeda,0,1,,,,0
-1541592000,Makedonija GP,Rabotnicki,1,0,,,,0
-1541592000,Brera Strumica,FK Korab,3,1,,,,0
-1544011200,Rabotnicki,Makedonija GP,0,1,,,,0
-1544011200,Pobeda,Shkendija,2,0,,,,0
-1544011200,FK Korab,Brera Strumica,1,6,,,,0
-1544011200,Belasica,Sileks,2,0,,,,0
-1551272400,Belasica,Makedonija GP,0,1,,,,0
-1551877200,Brera Strumica,Pobeda,3,1,,,,0
-1554903000,Pobeda,Brera Strumica,1,3,,,,0
-1554903000,Makedonija GP,Belasica,1,0,,,,0
-1558542600,Makedonija GP,Brera Strumica,2,2,Pen,2,3,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1534950000,Vellazerimi,Belasica,EVFY8njN,fFzddrH7,0,4,,,,0
+1534950000,Vardari Forino,Vardar,GUflEdQm,86OeMIIr,0,4,,,,0
+1534950000,Vardar Negotino,FK Skopje,t8p5jzve,pCTkNqKp,1,3,,,,0
+1534950000,Tikves,Renova,pzWJOM6s,WrjrBuU2,2,1,,,,0
+1534950000,Teteks,Gostivar,tOvmJnVr,E3JIMV6l,1,1,Pen,1,2,0
+1534950000,Prevalec,Makedonija GP,KjHAKige,n5NSVHa8,0,2,,,,0
+1534950000,Poeshevo,Bregalnica Stip,U94XqtsO,86OeMIIr,0,8,,,,0
+1534950000,Osogovo,Pelister,zgrW06kj,2JKzUeUK,0,1,,,,0
+1534950000,Labunishta,Brera Strumica,EkUkG0ve,l2cVHkio,1,3,,,,0
+1534950000,Fortuna Skopje,Rabotnicki,8hFLbQW3,Cdxq7Y31,0,6,,,,0
+1534950000,FK Pehchevo,Shkupi,4I79f3m8,CIHFv9fg,2,0,,,,0
+1534950000,FK Korab,Borec,bPpzQK5j,6DWdsjIR,1,0,,,,0
+1534950000,Bratstvo-Vlaznimi,Sileks,dY1Fr9Sp,Ys5PBeU0,0,7,,,,0
+1535554800,Struga,Pobeda,b7VCRENs,8lHNgCuQ,1,2,,,,0
+1536759000,Kozuf Gevgelija,Shkendija,lt4sJRnd,f3OURrqn,0,2,,,,0
+1537363800,Vardar,Makedonija GP,86OeMIIr,n5NSVHa8,1,1,,,,0
+1537363800,Tikves,Rabotnicki,pzWJOM6s,Cdxq7Y31,0,1,,,,0
+1537363800,Shkendija,FK Pehchevo,f3OURrqn,4I79f3m8,2,0,,,,0
+1537363800,Pelister,Belasica,2JKzUeUK,fFzddrH7,0,2,,,,0
+1537363800,Gostivar,Pobeda,E3JIMV6l,8lHNgCuQ,1,2,,,,0
+1537363800,FK Skopje,Sileks,pCTkNqKp,Ys5PBeU0,0,2,,,,0
+1537363800,Bregalnica Stip,Brera Strumica,86OeMIIr,l2cVHkio,2,6,,,,0
+1538571600,Sileks,FK Skopje,Ys5PBeU0,pCTkNqKp,2,1,,,,0
+1538571600,Rabotnicki,Tikves,Cdxq7Y31,pzWJOM6s,1,1,,,,0
+1538571600,Pobeda,Gostivar,8lHNgCuQ,E3JIMV6l,4,1,,,,0
+1538571600,Makedonija GP,Vardar,n5NSVHa8,86OeMIIr,2,1,,,,0
+1538571600,FK Pehchevo,Shkendija,4I79f3m8,f3OURrqn,0,5,,,,0
+1538571600,Brera Strumica,Bregalnica Stip,l2cVHkio,86OeMIIr,0,1,,,,0
+1538571600,Belasica,Pelister,fFzddrH7,2JKzUeUK,3,1,,,,0
+1541592000,Sileks,Belasica,Ys5PBeU0,fFzddrH7,0,2,,,,0
+1541592000,Shkendija,Pobeda,f3OURrqn,8lHNgCuQ,0,1,,,,0
+1541592000,Makedonija GP,Rabotnicki,n5NSVHa8,Cdxq7Y31,1,0,,,,0
+1541592000,Brera Strumica,FK Korab,l2cVHkio,bPpzQK5j,3,1,,,,0
+1544011200,Rabotnicki,Makedonija GP,Cdxq7Y31,n5NSVHa8,0,1,,,,0
+1544011200,Pobeda,Shkendija,8lHNgCuQ,f3OURrqn,2,0,,,,0
+1544011200,FK Korab,Brera Strumica,bPpzQK5j,l2cVHkio,1,6,,,,0
+1544011200,Belasica,Sileks,fFzddrH7,Ys5PBeU0,2,0,,,,0
+1551272400,Belasica,Makedonija GP,fFzddrH7,n5NSVHa8,0,1,,,,0
+1551877200,Brera Strumica,Pobeda,l2cVHkio,8lHNgCuQ,3,1,,,,0
+1554903000,Pobeda,Brera Strumica,8lHNgCuQ,l2cVHkio,1,3,,,,0
+1554903000,Makedonija GP,Belasica,n5NSVHa8,fFzddrH7,1,0,,,,0
+1558542600,Makedonija GP,Brera Strumica,n5NSVHa8,l2cVHkio,2,2,Pen,2,3,0

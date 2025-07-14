@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1604233800,Vllaznia,Devolli,7,0,,,,0
-1604233800,Teuta,Terbuni,4,0,,,,0
-1604233800,Skenderbeu,Tomori Berat,1,0,,,,0
-1604233800,Pogradeci,Oriku,9,1,,,,0
-1604233800,Partizani,Iliria Kruja,5,0,,,,0
-1604233800,Lushnja,Besa Kavaje,0,0,AET,0,1,0
-1604233800,Laci,Vora,3,0,,,,0
-1604233800,Kukesi,Maliqi,5,0,,,,0
-1604233800,Korabi Peshkopi,Erzeni,2,0,,,,0
-1604233800,KF Tirana,Shkumbini Peqin,4,1,,,,0
-1604233800,Kastrioti,Burreli,2,1,,,,0
-1604233800,Flamurtari,Dinamo Tirana,1,2,,,,0
-1604233800,Bylis,Koplik,2,1,,,,0
-1604233800,Beselidhja Lezha,Egnatia,1,1,Pen,1,2,0
-1604233800,Apolonia Fier,Turbina Cerrik,4,1,,,,0
-1604233800,AF Luftetari,KF Elbasani,0,3,Awrd,,,0
-1605184200,Teuta,Kastrioti,5,0,,,,0
-1605184200,Skenderbeu,Pogradeci,3,0,,,,0
-1605184200,Partizani,Apolonia Fier,1,0,,,,0
-1605184200,Kukesi,Besa Kavaje,2,1,,,,0
-1605184200,KF Tirana,Korabi Peshkopi,0,0,AET,0,1,0
-1605184200,Bylis,Dinamo Tirana,1,1,AET,1,2,0
-1605270600,Vllaznia,KF Elbasani,8,0,,,,0
-1605357000,Laci,Egnatia,1,1,AET,3,1,0
-1615982400,Laci,Partizani,0,0,Pen,1,0,0
-1615982400,Dinamo Tirana,Skenderbeu,1,3,,,,0
-1615993200,Vllaznia,Korabi Peshkopi,1,0,,,,0
-1615993200,Teuta,Kukesi,1,0,,,,0
-1618408800,Vllaznia,Laci,1,0,,,,0
-1618408800,Teuta,Skenderbeu,0,2,,,,0
-1622480400,Skenderbeu,Vllaznia,0,1,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1604233800,Vllaznia,Devolli,v5LfxjB6,4GbE3NX2,7,0,,,,0
+1604233800,Teuta,Terbuni,lriBSRvS,fDaCV8qm,4,0,,,,0
+1604233800,Skenderbeu,Tomori Berat,Qethn5bT,MuuFbsFh,1,0,,,,0
+1604233800,Pogradeci,Oriku,Kpv29qKr,SlAtADMg,9,1,,,,0
+1604233800,Partizani,Iliria Kruja,4praOw3K,29ebI4SF,5,0,,,,0
+1604233800,Lushnja,Besa Kavaje,Q1oNR2wr,AwFmkDUE,0,0,AET,0,1,0
+1604233800,Laci,Vora,YRn3qYc4,dbTgASCR,3,0,,,,0
+1604233800,Kukesi,Maliqi,xYAyYwqs,8In8358e,5,0,,,,0
+1604233800,Korabi Peshkopi,Erzeni,hQl0dcUc,vqMNBv4d,2,0,,,,0
+1604233800,KF Tirana,Shkumbini Peqin,4n770DLk,0x7eIv8h,4,1,,,,0
+1604233800,Kastrioti,Burreli,0Ko5ckvj,ImbcyEHR,2,1,,,,0
+1604233800,Flamurtari,Dinamo Tirana,2wkwcX52,bBJMyX2M,1,2,,,,0
+1604233800,Bylis,Koplik,UFH5j7Qh,IBE9d49S,2,1,,,,0
+1604233800,Beselidhja Lezha,Egnatia,0fr2YS50,byNKiB8E,1,1,Pen,1,2,0
+1604233800,Apolonia Fier,Turbina Cerrik,8In8358e,ramucSVA,4,1,,,,0
+1604233800,AF Luftetari,KF Elbasani,29ebI4SF,0fr2YS50,0,3,Awrd,,,0
+1605184200,Teuta,Kastrioti,lriBSRvS,0Ko5ckvj,5,0,,,,0
+1605184200,Skenderbeu,Pogradeci,Qethn5bT,Kpv29qKr,3,0,,,,0
+1605184200,Partizani,Apolonia Fier,4praOw3K,8In8358e,1,0,,,,0
+1605184200,Kukesi,Besa Kavaje,xYAyYwqs,AwFmkDUE,2,1,,,,0
+1605184200,KF Tirana,Korabi Peshkopi,4n770DLk,hQl0dcUc,0,0,AET,0,1,0
+1605184200,Bylis,Dinamo Tirana,UFH5j7Qh,bBJMyX2M,1,1,AET,1,2,0
+1605270600,Vllaznia,KF Elbasani,v5LfxjB6,0fr2YS50,8,0,,,,0
+1605357000,Laci,Egnatia,YRn3qYc4,byNKiB8E,1,1,AET,3,1,0
+1615982400,Laci,Partizani,YRn3qYc4,4praOw3K,0,0,Pen,1,0,0
+1615982400,Dinamo Tirana,Skenderbeu,bBJMyX2M,Qethn5bT,1,3,,,,0
+1615993200,Vllaznia,Korabi Peshkopi,v5LfxjB6,hQl0dcUc,1,0,,,,0
+1615993200,Teuta,Kukesi,lriBSRvS,xYAyYwqs,1,0,,,,0
+1618408800,Vllaznia,Laci,v5LfxjB6,YRn3qYc4,1,0,,,,0
+1618408800,Teuta,Skenderbeu,lriBSRvS,Qethn5bT,0,2,,,,0
+1622480400,Skenderbeu,Vllaznia,Qethn5bT,v5LfxjB6,0,1,,,,1

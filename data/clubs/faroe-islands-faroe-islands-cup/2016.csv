@@ -1,20 +1,20 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1458828000,FC Suduroy,Royn Hvalba,4,2,,,,0
-1459000800,Midvagur,Undri,0,2,,,,0
-1461420000,Giza/Hoyvik,Toftir,2,0,,,,0
-1461504600,FC Suduroy,Vikingur,2,3,,,,0
-1461506400,TB Tvoroyri,NSI Runavik,1,2,,,,0
-1461506400,Streymur,07 Vestur Sorvagur,2,1,,,,0
-1461506400,IF Fuglafjordur,Klaksvik,0,4,,,,0
-1461506400,HB Torshavn,Sandur,9,1,,,,0
-1461514500,AB Argir,B36 Torshavn,1,2,,,,0
-1461517200,Undri,Skala Itrottarfelag,0,6,,,,0
-1462636800,Giza/Hoyvik,Skala Itrottarfelag,1,2,,,,0
-1462716000,Vikingur,HB Torshavn,3,3,Pen,4,3,0
-1462716000,NSI Runavik,Streymur,2,0,,,,0
-1462716000,Klaksvik,B36 Torshavn,2,1,,,,0
-1464195600,Skala Itrottarfelag,Vikingur,0,1,,,,0
-1464267600,Klaksvik,NSI Runavik,4,1,,,,0
-1466011800,NSI Runavik,Klaksvik,0,0,,,,0
-1466013600,Vikingur,Skala Itrottarfelag,1,1,,,,0
-1472317200,Klaksvik,Vikingur,1,1,Pen,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1458828000,FC Suduroy,Royn Hvalba,bFVnRQV3,pKFzfwwe,4,2,,,,0
+1459000800,Midvagur,Undri,pKFzfwwe,6TGWfJNl,0,2,,,,0
+1461420000,Giza/Hoyvik,Toftir,jes3ohYg,Sdd6AGnq,2,0,,,,0
+1461504600,FC Suduroy,Vikingur,bFVnRQV3,xScZ0U2I,2,3,,,,0
+1461506400,TB Tvoroyri,NSI Runavik,4QTKNxoo,hhkDzDYF,1,2,,,,0
+1461506400,Streymur,07 Vestur Sorvagur,S6wQRveL,S6wQRveL,2,1,,,,0
+1461506400,IF Fuglafjordur,Klaksvik,nTLUUUol,GnA0fkqU,0,4,,,,0
+1461506400,HB Torshavn,Sandur,lGvMSKuF,QTeOMRab,9,1,,,,0
+1461514500,AB Argir,B36 Torshavn,ljgDYnD5,ljgDYnD5,1,2,,,,0
+1461517200,Undri,Skala Itrottarfelag,6TGWfJNl,GA2XvLc7,0,6,,,,0
+1462636800,Giza/Hoyvik,Skala Itrottarfelag,jes3ohYg,GA2XvLc7,1,2,,,,0
+1462716000,Vikingur,HB Torshavn,xScZ0U2I,lGvMSKuF,3,3,Pen,4,3,0
+1462716000,NSI Runavik,Streymur,hhkDzDYF,S6wQRveL,2,0,,,,0
+1462716000,Klaksvik,B36 Torshavn,GnA0fkqU,ljgDYnD5,2,1,,,,0
+1464195600,Skala Itrottarfelag,Vikingur,GA2XvLc7,xScZ0U2I,0,1,,,,0
+1464267600,Klaksvik,NSI Runavik,GnA0fkqU,hhkDzDYF,4,1,,,,0
+1466011800,NSI Runavik,Klaksvik,hhkDzDYF,GnA0fkqU,0,0,,,,0
+1466013600,Vikingur,Skala Itrottarfelag,xScZ0U2I,GA2XvLc7,1,1,,,,0
+1472317200,Klaksvik,Vikingur,GnA0fkqU,xScZ0U2I,1,1,Pen,2,1,0

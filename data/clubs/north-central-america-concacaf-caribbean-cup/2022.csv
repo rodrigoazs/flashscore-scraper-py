@@ -1,12 +1,12 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1652475600,Vega Real (Dom),Arcahaie (Hai),2,1,,,,0
-1652486400,Cibao (Dom),Violette (Hai),3,0,,,,0
-1652648400,Violette (Hai),Cavalier (Jam),3,2,,,,0
-1652659200,Arcahaie (Hai),Waterhouse (Jam),0,2,,,,0
-1652821200,Cibao (Dom),Cavalier (Jam),3,3,,,,0
-1652832000,Vega Real (Dom),Waterhouse (Jam),0,0,,,,0
-1652994000,Waterhouse (Jam),Violette (Hai),1,3,,,,0
-1653004800,Cibao (Dom),Vega Real (Dom),1,0,,,,0
-1653253200,Vega Real (Dom),Waterhouse (Jam),1,1,Pen,2,1,0
-1653264000,Cibao (Dom),Violette (Hai),0,0,Pen,0,1,0
-1653512400,Waterhouse,Bayamon,4,0,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1652475600,Vega Real (Dom),Arcahaie (Hai),4xEHelxl,zoQ0N7Vn,2,1,,,,0
+1652486400,Cibao (Dom),Violette (Hai),hvlWeuiI,hE6BPRI3,3,0,,,,0
+1652648400,Violette (Hai),Cavalier (Jam),hE6BPRI3,KCGGnOpC,3,2,,,,0
+1652659200,Arcahaie (Hai),Waterhouse (Jam),zoQ0N7Vn,6iLl2ZBo,0,2,,,,0
+1652821200,Cibao (Dom),Cavalier (Jam),hvlWeuiI,KCGGnOpC,3,3,,,,0
+1652832000,Vega Real (Dom),Waterhouse (Jam),4xEHelxl,6iLl2ZBo,0,0,,,,0
+1652994000,Waterhouse (Jam),Violette (Hai),6iLl2ZBo,hE6BPRI3,1,3,,,,0
+1653004800,Cibao (Dom),Vega Real (Dom),hvlWeuiI,4xEHelxl,1,0,,,,0
+1653253200,Vega Real (Dom),Waterhouse (Jam),4xEHelxl,6iLl2ZBo,1,1,Pen,2,1,0
+1653264000,Cibao (Dom),Violette (Hai),hvlWeuiI,hE6BPRI3,0,0,Pen,0,1,0
+1653512400,Waterhouse,Bayamon,6iLl2ZBo,0bCg2t9H,4,0,,,,1

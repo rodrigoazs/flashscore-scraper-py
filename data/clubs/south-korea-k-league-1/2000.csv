@@ -1,141 +1,141 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-958309200,Ulsan HD,Pohang,1,1,Pen,1,2,0
-958309200,Suwon Bluewings,Bucheon FC 1995,1,5,,,,0
-958309200,Seongnam,Seoul,0,1,,,,0
-958309200,Jeonbuk,Daejeon,1,2,,,,0
-958309200,Busan,Jeonnam,0,2,,,,0
-958568400,Ulsan HD,Suwon Bluewings,1,3,,,,0
-958568400,Seongnam,Daejeon,1,0,,,,0
-958568400,Jeonnam,Seoul,1,1,Pen,2,1,0
-958568400,Jeonbuk,Bucheon FC 1995,0,0,Pen,1,0,0
-958568400,Busan,Pohang,1,1,Pen,1,2,0
-958827600,Pohang,Jeonbuk,2,0,,,,0
-958827600,Jeonnam,Seongnam,1,2,,,,0
-958914000,Seoul,Suwon Bluewings,2,1,,,,0
-958914000,Daejeon,Busan,2,0,,,,0
-958914000,Bucheon FC 1995,Ulsan HD,2,2,Pen,3,2,0
-959173200,Ulsan HD,Jeonbuk,0,2,,,,0
-959173200,Suwon Bluewings,Jeonnam,1,1,Pen,1,2,0
-959173200,Pohang,Seongnam,2,2,Pen,3,2,0
-959173200,Daejeon,Seoul,1,1,Pen,2,1,0
-959173200,Bucheon FC 1995,Busan,2,2,Pen,3,2,0
-960037200,Seoul,Pohang,1,0,,,,0
-960037200,Seongnam,Bucheon FC 1995,2,1,,,,0
-960037200,Jeonnam,Daejeon,1,2,,,,0
-960037200,Jeonbuk,Suwon Bluewings,3,0,,,,0
-960037200,Busan,Ulsan HD,1,0,,,,0
-960382800,Suwon Bluewings,Busan,2,1,,,,0
-960382800,Seoul,Ulsan HD,3,0,,,,0
-960382800,Seongnam,Jeonbuk,1,0,,,,0
-960382800,Daejeon,Pohang,0,2,,,,0
-960382800,Bucheon FC 1995,Jeonnam,2,1,,,,0
-960642000,Ulsan HD,Seongnam,1,1,Pen,1,2,0
-960642000,Suwon Bluewings,Daejeon,1,2,,,,0
-960642000,Pohang,Jeonnam,0,0,Pen,1,0,0
-960642000,Busan,Jeonbuk,1,2,,,,0
-960728400,Bucheon FC 1995,Seoul,1,1,Pen,2,1,0
-960987600,Pohang,Suwon Bluewings,1,1,Pen,1,2,0
-960987600,Jeonnam,Ulsan HD,1,0,,,,0
-960987600,Jeonbuk,Seoul,0,1,,,,0
-960987600,Busan,Seongnam,2,2,Pen,2,3,0
-960987600,Bucheon FC 1995,Daejeon,1,1,Pen,1,2,0
-961246800,Seoul,Busan,3,1,,,,0
-961246800,Seongnam,Suwon Bluewings,2,2,Pen,3,2,0
-961246800,Pohang,Bucheon FC 1995,1,2,,,,0
-961246800,Jeonnam,Jeonbuk,1,2,,,,0
-961246800,Daejeon,Ulsan HD,1,1,Pen,1,2,0
-961592400,Ulsan HD,Pohang,1,0,,,,0
-961592400,Suwon Bluewings,Bucheon FC 1995,2,1,,,,0
-961592400,Seongnam,Seoul,1,1,Pen,1,2,0
-961592400,Daejeon,Jeonbuk,3,5,,,,0
-961592400,Busan,Jeonnam,2,1,,,,0
-961851600,Jeonnam,Seongnam,0,1,,,,0
-961851600,Daejeon,Busan,0,2,,,,0
-961938000,Suwon Bluewings,Seoul,0,1,,,,0
-961938000,Jeonbuk,Pohang,2,1,,,,0
-961938000,Bucheon FC 1995,Ulsan HD,4,1,,,,0
-962456400,Ulsan HD,Suwon Bluewings,1,0,,,,0
-962456400,Seoul,Jeonnam,1,0,,,,0
-962456400,Seongnam,Daejeon,3,0,,,,0
-962456400,Pohang,Busan,3,3,Pen,4,3,0
-962456400,Jeonbuk,Bucheon FC 1995,2,1,,,,0
-962715600,Ulsan HD,Jeonbuk,1,1,Pen,1,2,0
-962715600,Suwon Bluewings,Jeonnam,3,1,,,,0
-962715600,Pohang,Seongnam,1,1,Pen,1,2,0
-962715600,Daejeon,Seoul,1,2,,,,0
-962715600,Bucheon FC 1995,Busan,2,2,Pen,3,2,0
-963061200,Seoul,Pohang,1,1,Pen,2,1,0
-963061200,Seongnam,Bucheon FC 1995,3,1,,,,0
-963061200,Jeonnam,Daejeon,1,0,,,,0
-963061200,Jeonbuk,Suwon Bluewings,1,2,,,,0
-963061200,Busan,Ulsan HD,2,2,Pen,2,3,0
-963406800,Ulsan HD,Seongnam,1,0,,,,0
-963406800,Pohang,Jeonnam,1,2,,,,0
-963406800,Jeonbuk,Busan,1,1,Pen,2,1,0
-963406800,Daejeon,Suwon Bluewings,1,1,Pen,1,2,0
-963406800,Bucheon FC 1995,Seoul,0,1,,,,0
-963666000,Suwon Bluewings,Busan,2,2,Pen,2,3,0
-963666000,Seoul,Ulsan HD,1,0,,,,0
-963666000,Jeonnam,Bucheon FC 1995,1,1,Pen,1,2,0
-963666000,Daejeon,Pohang,1,2,,,,0
-963752400,Seongnam,Jeonbuk,2,2,Pen,2,3,0
-964270800,Ulsan HD,Jeonnam,1,0,,,,0
-964270800,Daejeon,Bucheon FC 1995,2,1,,,,0
-964270800,Busan,Seongnam,1,1,Pen,2,1,0
-964357200,Suwon Bluewings,Pohang,1,1,Pen,1,2,0
-964357200,Jeonbuk,Seoul,3,2,,,,0
-964875600,Seoul,Busan,4,2,,,,0
-964875600,Pohang,Bucheon FC 1995,0,4,,,,0
-964875600,Jeonnam,Jeonbuk,2,1,,,,0
-964875600,Daejeon,Ulsan HD,1,0,,,,0
-964962000,Seongnam,Suwon Bluewings,0,2,,,,0
-965480400,Ulsan HD,Daejeon,0,1,,,,0
-965480400,Suwon Bluewings,Seongnam,2,4,,,,0
-965480400,Busan,Seoul,1,2,,,,0
-965566800,Jeonbuk,Jeonnam,1,0,,,,0
-965566800,Bucheon FC 1995,Pohang,2,0,,,,0
-966690000,Suwon Bluewings,Pohang,1,2,,,,0
-966690000,Seoul,Jeonbuk,5,0,,,,0
-966776400,Seongnam,Busan,0,3,,,,0
-967294800,Pohang,Daejeon,1,1,Pen,2,1,0
-967640400,Seoul,Bucheon FC 1995,1,2,,,,0
-967640400,Seongnam,Ulsan HD,1,1,Pen,2,1,0
-967640400,Jeonnam,Pohang,1,0,,,,0
-967640400,Daejeon,Suwon Bluewings,1,3,,,,0
-967640400,Busan,Jeonbuk,2,0,,,,0
-967899600,Ulsan HD,Busan,1,2,,,,0
-967899600,Suwon Bluewings,Jeonbuk,3,0,,,,0
-967899600,Pohang,Seoul,3,2,,,,0
-967899600,Daejeon,Jeonnam,0,0,Pen,1,0,0
-967986000,Bucheon FC 1995,Seongnam,2,3,,,,0
-968245200,Seoul,Seongnam,1,2,,,,0
-968245200,Pohang,Ulsan HD,2,3,,,,0
-968245200,Jeonnam,Busan,1,2,,,,0
-968245200,Jeonbuk,Daejeon,2,1,,,,0
-968245200,Bucheon FC 1995,Suwon Bluewings,1,1,Pen,1,2,0
-968504400,Jeonnam,Ulsan HD,0,0,Pen,1,0,0
-968504400,Bucheon FC 1995,Daejeon,1,0,,,,0
-969800400,Busan,Suwon Bluewings,1,2,,,,0
-969800400,Bucheon FC 1995,Jeonnam,1,2,,,,0
-970318800,Ulsan HD,Bucheon FC 1995,3,3,Pen,3,4,0
-970318800,Seoul,Suwon Bluewings,3,2,,,,0
-970318800,Seongnam,Jeonnam,3,3,Pen,3,4,0
-970318800,Busan,Daejeon,2,1,,,,0
-970405200,Jeonbuk,Pohang,2,1,,,,0
-970664400,Suwon Bluewings,Ulsan HD,2,1,,,,0
-970664400,Pohang,Busan,2,3,,,,0
-970664400,Jeonnam,Seoul,1,0,,,,0
-970664400,Daejeon,Seongnam,1,3,,,,0
-970664400,Bucheon FC 1995,Jeonbuk,1,0,,,,0
-970923600,Ulsan HD,Seoul,1,2,,,,0
-970923600,Jeonbuk,Seongnam,1,2,,,,0
-971269200,Seoul,Daejeon,2,0,,,,0
-971269200,Seongnam,Pohang,0,0,Pen,1,0,0
-971269200,Jeonnam,Suwon Bluewings,3,7,,,,0
-971269200,Jeonbuk,Ulsan HD,0,2,,,,0
-971269200,Busan,Bucheon FC 1995,0,1,,,,0
-973062000,Jeonbuk,Bucheon FC 1995,1,2,,,,0
-973407600,Seongnam,Bucheon FC 1995,1,3,,,,0
-973666800,Bucheon FC 1995,Seongnam,2,3,,,,0
-974012400,Bucheon FC 1995,Seoul,1,4,,,,0
-974271600,Seoul,Bucheon FC 1995,1,1,Pen,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+958309200,Ulsan HD,Pohang,0hHJPkl1,lG6iYHm8,1,1,Pen,1,2,0
+958309200,Suwon Bluewings,Bucheon FC 1995,nuOc3CG5,WnvCfUUh,1,5,,,,0
+958309200,Seongnam,Seoul,l04KlBA6,8rKfsneA,0,1,,,,0
+958309200,Jeonbuk,Daejeon,fm8Q2TnU,l6HzCrRi,1,2,,,,0
+958309200,Busan,Jeonnam,23xlOhqr,0fjMSYzR,0,2,,,,0
+958568400,Ulsan HD,Suwon Bluewings,0hHJPkl1,nuOc3CG5,1,3,,,,0
+958568400,Seongnam,Daejeon,l04KlBA6,l6HzCrRi,1,0,,,,0
+958568400,Jeonnam,Seoul,0fjMSYzR,8rKfsneA,1,1,Pen,2,1,0
+958568400,Jeonbuk,Bucheon FC 1995,fm8Q2TnU,WnvCfUUh,0,0,Pen,1,0,0
+958568400,Busan,Pohang,23xlOhqr,lG6iYHm8,1,1,Pen,1,2,0
+958827600,Pohang,Jeonbuk,lG6iYHm8,fm8Q2TnU,2,0,,,,0
+958827600,Jeonnam,Seongnam,0fjMSYzR,l04KlBA6,1,2,,,,0
+958914000,Seoul,Suwon Bluewings,8rKfsneA,nuOc3CG5,2,1,,,,0
+958914000,Daejeon,Busan,l6HzCrRi,23xlOhqr,2,0,,,,0
+958914000,Bucheon FC 1995,Ulsan HD,WnvCfUUh,0hHJPkl1,2,2,Pen,3,2,0
+959173200,Ulsan HD,Jeonbuk,0hHJPkl1,fm8Q2TnU,0,2,,,,0
+959173200,Suwon Bluewings,Jeonnam,nuOc3CG5,0fjMSYzR,1,1,Pen,1,2,0
+959173200,Pohang,Seongnam,lG6iYHm8,l04KlBA6,2,2,Pen,3,2,0
+959173200,Daejeon,Seoul,l6HzCrRi,8rKfsneA,1,1,Pen,2,1,0
+959173200,Bucheon FC 1995,Busan,WnvCfUUh,23xlOhqr,2,2,Pen,3,2,0
+960037200,Seoul,Pohang,8rKfsneA,lG6iYHm8,1,0,,,,0
+960037200,Seongnam,Bucheon FC 1995,l04KlBA6,WnvCfUUh,2,1,,,,0
+960037200,Jeonnam,Daejeon,0fjMSYzR,l6HzCrRi,1,2,,,,0
+960037200,Jeonbuk,Suwon Bluewings,fm8Q2TnU,nuOc3CG5,3,0,,,,0
+960037200,Busan,Ulsan HD,23xlOhqr,0hHJPkl1,1,0,,,,0
+960382800,Suwon Bluewings,Busan,nuOc3CG5,23xlOhqr,2,1,,,,0
+960382800,Seoul,Ulsan HD,8rKfsneA,0hHJPkl1,3,0,,,,0
+960382800,Seongnam,Jeonbuk,l04KlBA6,fm8Q2TnU,1,0,,,,0
+960382800,Daejeon,Pohang,l6HzCrRi,lG6iYHm8,0,2,,,,0
+960382800,Bucheon FC 1995,Jeonnam,WnvCfUUh,0fjMSYzR,2,1,,,,0
+960642000,Ulsan HD,Seongnam,0hHJPkl1,l04KlBA6,1,1,Pen,1,2,0
+960642000,Suwon Bluewings,Daejeon,nuOc3CG5,l6HzCrRi,1,2,,,,0
+960642000,Pohang,Jeonnam,lG6iYHm8,0fjMSYzR,0,0,Pen,1,0,0
+960642000,Busan,Jeonbuk,23xlOhqr,fm8Q2TnU,1,2,,,,0
+960728400,Bucheon FC 1995,Seoul,WnvCfUUh,8rKfsneA,1,1,Pen,2,1,0
+960987600,Pohang,Suwon Bluewings,lG6iYHm8,nuOc3CG5,1,1,Pen,1,2,0
+960987600,Jeonnam,Ulsan HD,0fjMSYzR,0hHJPkl1,1,0,,,,0
+960987600,Jeonbuk,Seoul,fm8Q2TnU,8rKfsneA,0,1,,,,0
+960987600,Busan,Seongnam,23xlOhqr,l04KlBA6,2,2,Pen,2,3,0
+960987600,Bucheon FC 1995,Daejeon,WnvCfUUh,l6HzCrRi,1,1,Pen,1,2,0
+961246800,Seoul,Busan,8rKfsneA,23xlOhqr,3,1,,,,0
+961246800,Seongnam,Suwon Bluewings,l04KlBA6,nuOc3CG5,2,2,Pen,3,2,0
+961246800,Pohang,Bucheon FC 1995,lG6iYHm8,WnvCfUUh,1,2,,,,0
+961246800,Jeonnam,Jeonbuk,0fjMSYzR,fm8Q2TnU,1,2,,,,0
+961246800,Daejeon,Ulsan HD,l6HzCrRi,0hHJPkl1,1,1,Pen,1,2,0
+961592400,Ulsan HD,Pohang,0hHJPkl1,lG6iYHm8,1,0,,,,0
+961592400,Suwon Bluewings,Bucheon FC 1995,nuOc3CG5,WnvCfUUh,2,1,,,,0
+961592400,Seongnam,Seoul,l04KlBA6,8rKfsneA,1,1,Pen,1,2,0
+961592400,Daejeon,Jeonbuk,l6HzCrRi,fm8Q2TnU,3,5,,,,0
+961592400,Busan,Jeonnam,23xlOhqr,0fjMSYzR,2,1,,,,0
+961851600,Jeonnam,Seongnam,0fjMSYzR,l04KlBA6,0,1,,,,0
+961851600,Daejeon,Busan,l6HzCrRi,23xlOhqr,0,2,,,,0
+961938000,Suwon Bluewings,Seoul,nuOc3CG5,8rKfsneA,0,1,,,,0
+961938000,Jeonbuk,Pohang,fm8Q2TnU,lG6iYHm8,2,1,,,,0
+961938000,Bucheon FC 1995,Ulsan HD,WnvCfUUh,0hHJPkl1,4,1,,,,0
+962456400,Ulsan HD,Suwon Bluewings,0hHJPkl1,nuOc3CG5,1,0,,,,0
+962456400,Seoul,Jeonnam,8rKfsneA,0fjMSYzR,1,0,,,,0
+962456400,Seongnam,Daejeon,l04KlBA6,l6HzCrRi,3,0,,,,0
+962456400,Pohang,Busan,lG6iYHm8,23xlOhqr,3,3,Pen,4,3,0
+962456400,Jeonbuk,Bucheon FC 1995,fm8Q2TnU,WnvCfUUh,2,1,,,,0
+962715600,Ulsan HD,Jeonbuk,0hHJPkl1,fm8Q2TnU,1,1,Pen,1,2,0
+962715600,Suwon Bluewings,Jeonnam,nuOc3CG5,0fjMSYzR,3,1,,,,0
+962715600,Pohang,Seongnam,lG6iYHm8,l04KlBA6,1,1,Pen,1,2,0
+962715600,Daejeon,Seoul,l6HzCrRi,8rKfsneA,1,2,,,,0
+962715600,Bucheon FC 1995,Busan,WnvCfUUh,23xlOhqr,2,2,Pen,3,2,0
+963061200,Seoul,Pohang,8rKfsneA,lG6iYHm8,1,1,Pen,2,1,0
+963061200,Seongnam,Bucheon FC 1995,l04KlBA6,WnvCfUUh,3,1,,,,0
+963061200,Jeonnam,Daejeon,0fjMSYzR,l6HzCrRi,1,0,,,,0
+963061200,Jeonbuk,Suwon Bluewings,fm8Q2TnU,nuOc3CG5,1,2,,,,0
+963061200,Busan,Ulsan HD,23xlOhqr,0hHJPkl1,2,2,Pen,2,3,0
+963406800,Ulsan HD,Seongnam,0hHJPkl1,l04KlBA6,1,0,,,,0
+963406800,Pohang,Jeonnam,lG6iYHm8,0fjMSYzR,1,2,,,,0
+963406800,Jeonbuk,Busan,fm8Q2TnU,23xlOhqr,1,1,Pen,2,1,0
+963406800,Daejeon,Suwon Bluewings,l6HzCrRi,nuOc3CG5,1,1,Pen,1,2,0
+963406800,Bucheon FC 1995,Seoul,WnvCfUUh,8rKfsneA,0,1,,,,0
+963666000,Suwon Bluewings,Busan,nuOc3CG5,23xlOhqr,2,2,Pen,2,3,0
+963666000,Seoul,Ulsan HD,8rKfsneA,0hHJPkl1,1,0,,,,0
+963666000,Jeonnam,Bucheon FC 1995,0fjMSYzR,WnvCfUUh,1,1,Pen,1,2,0
+963666000,Daejeon,Pohang,l6HzCrRi,lG6iYHm8,1,2,,,,0
+963752400,Seongnam,Jeonbuk,l04KlBA6,fm8Q2TnU,2,2,Pen,2,3,0
+964270800,Ulsan HD,Jeonnam,0hHJPkl1,0fjMSYzR,1,0,,,,0
+964270800,Daejeon,Bucheon FC 1995,l6HzCrRi,WnvCfUUh,2,1,,,,0
+964270800,Busan,Seongnam,23xlOhqr,l04KlBA6,1,1,Pen,2,1,0
+964357200,Suwon Bluewings,Pohang,nuOc3CG5,lG6iYHm8,1,1,Pen,1,2,0
+964357200,Jeonbuk,Seoul,fm8Q2TnU,8rKfsneA,3,2,,,,0
+964875600,Seoul,Busan,8rKfsneA,23xlOhqr,4,2,,,,0
+964875600,Pohang,Bucheon FC 1995,lG6iYHm8,WnvCfUUh,0,4,,,,0
+964875600,Jeonnam,Jeonbuk,0fjMSYzR,fm8Q2TnU,2,1,,,,0
+964875600,Daejeon,Ulsan HD,l6HzCrRi,0hHJPkl1,1,0,,,,0
+964962000,Seongnam,Suwon Bluewings,l04KlBA6,nuOc3CG5,0,2,,,,0
+965480400,Ulsan HD,Daejeon,0hHJPkl1,l6HzCrRi,0,1,,,,0
+965480400,Suwon Bluewings,Seongnam,nuOc3CG5,l04KlBA6,2,4,,,,0
+965480400,Busan,Seoul,23xlOhqr,8rKfsneA,1,2,,,,0
+965566800,Jeonbuk,Jeonnam,fm8Q2TnU,0fjMSYzR,1,0,,,,0
+965566800,Bucheon FC 1995,Pohang,WnvCfUUh,lG6iYHm8,2,0,,,,0
+966690000,Suwon Bluewings,Pohang,nuOc3CG5,lG6iYHm8,1,2,,,,0
+966690000,Seoul,Jeonbuk,8rKfsneA,fm8Q2TnU,5,0,,,,0
+966776400,Seongnam,Busan,l04KlBA6,23xlOhqr,0,3,,,,0
+967294800,Pohang,Daejeon,lG6iYHm8,l6HzCrRi,1,1,Pen,2,1,0
+967640400,Seoul,Bucheon FC 1995,8rKfsneA,WnvCfUUh,1,2,,,,0
+967640400,Seongnam,Ulsan HD,l04KlBA6,0hHJPkl1,1,1,Pen,2,1,0
+967640400,Jeonnam,Pohang,0fjMSYzR,lG6iYHm8,1,0,,,,0
+967640400,Daejeon,Suwon Bluewings,l6HzCrRi,nuOc3CG5,1,3,,,,0
+967640400,Busan,Jeonbuk,23xlOhqr,fm8Q2TnU,2,0,,,,0
+967899600,Ulsan HD,Busan,0hHJPkl1,23xlOhqr,1,2,,,,0
+967899600,Suwon Bluewings,Jeonbuk,nuOc3CG5,fm8Q2TnU,3,0,,,,0
+967899600,Pohang,Seoul,lG6iYHm8,8rKfsneA,3,2,,,,0
+967899600,Daejeon,Jeonnam,l6HzCrRi,0fjMSYzR,0,0,Pen,1,0,0
+967986000,Bucheon FC 1995,Seongnam,WnvCfUUh,l04KlBA6,2,3,,,,0
+968245200,Seoul,Seongnam,8rKfsneA,l04KlBA6,1,2,,,,0
+968245200,Pohang,Ulsan HD,lG6iYHm8,0hHJPkl1,2,3,,,,0
+968245200,Jeonnam,Busan,0fjMSYzR,23xlOhqr,1,2,,,,0
+968245200,Jeonbuk,Daejeon,fm8Q2TnU,l6HzCrRi,2,1,,,,0
+968245200,Bucheon FC 1995,Suwon Bluewings,WnvCfUUh,nuOc3CG5,1,1,Pen,1,2,0
+968504400,Jeonnam,Ulsan HD,0fjMSYzR,0hHJPkl1,0,0,Pen,1,0,0
+968504400,Bucheon FC 1995,Daejeon,WnvCfUUh,l6HzCrRi,1,0,,,,0
+969800400,Busan,Suwon Bluewings,23xlOhqr,nuOc3CG5,1,2,,,,0
+969800400,Bucheon FC 1995,Jeonnam,WnvCfUUh,0fjMSYzR,1,2,,,,0
+970318800,Ulsan HD,Bucheon FC 1995,0hHJPkl1,WnvCfUUh,3,3,Pen,3,4,0
+970318800,Seoul,Suwon Bluewings,8rKfsneA,nuOc3CG5,3,2,,,,0
+970318800,Seongnam,Jeonnam,l04KlBA6,0fjMSYzR,3,3,Pen,3,4,0
+970318800,Busan,Daejeon,23xlOhqr,l6HzCrRi,2,1,,,,0
+970405200,Jeonbuk,Pohang,fm8Q2TnU,lG6iYHm8,2,1,,,,0
+970664400,Suwon Bluewings,Ulsan HD,nuOc3CG5,0hHJPkl1,2,1,,,,0
+970664400,Pohang,Busan,lG6iYHm8,23xlOhqr,2,3,,,,0
+970664400,Jeonnam,Seoul,0fjMSYzR,8rKfsneA,1,0,,,,0
+970664400,Daejeon,Seongnam,l6HzCrRi,l04KlBA6,1,3,,,,0
+970664400,Bucheon FC 1995,Jeonbuk,WnvCfUUh,fm8Q2TnU,1,0,,,,0
+970923600,Ulsan HD,Seoul,0hHJPkl1,8rKfsneA,1,2,,,,0
+970923600,Jeonbuk,Seongnam,fm8Q2TnU,l04KlBA6,1,2,,,,0
+971269200,Seoul,Daejeon,8rKfsneA,l6HzCrRi,2,0,,,,0
+971269200,Seongnam,Pohang,l04KlBA6,lG6iYHm8,0,0,Pen,1,0,0
+971269200,Jeonnam,Suwon Bluewings,0fjMSYzR,nuOc3CG5,3,7,,,,0
+971269200,Jeonbuk,Ulsan HD,fm8Q2TnU,0hHJPkl1,0,2,,,,0
+971269200,Busan,Bucheon FC 1995,23xlOhqr,WnvCfUUh,0,1,,,,0
+973062000,Jeonbuk,Bucheon FC 1995,fm8Q2TnU,WnvCfUUh,1,2,,,,0
+973407600,Seongnam,Bucheon FC 1995,l04KlBA6,WnvCfUUh,1,3,,,,0
+973666800,Bucheon FC 1995,Seongnam,WnvCfUUh,l04KlBA6,2,3,,,,0
+974012400,Bucheon FC 1995,Seoul,WnvCfUUh,8rKfsneA,1,4,,,,0
+974271600,Seoul,Bucheon FC 1995,8rKfsneA,WnvCfUUh,1,1,Pen,2,1,0

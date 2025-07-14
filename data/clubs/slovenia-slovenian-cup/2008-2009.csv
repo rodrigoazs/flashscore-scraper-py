@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1217689200,Dravograd,NK Roma,9,1,,,,0
-1219158000,Zavrc,Korotan,3,0,Awrd,,,0
-1219158000,Sentjur,NK Polana,8,1,,,,0
-1219158000,Sencur,Krsko Posavje,3,2,,,,0
-1219158000,O. Ljubljana,NK Velesovo,8,0,,,,0
-1219158000,Mura,NK Koroske Gradnje,11,0,,,,0
-1219158000,Idrija,NK Krka,1,2,,,,0
-1219158000,Crensovci,Aluminij,2,5,,,,0
-1219158000,Bela Krajina,Bonifika,1,2,,,,0
-1220450400,Zavrc,Dravograd,1,0,,,,0
-1220450400,NK Krka,Aluminij,3,0,,,,0
-1220450400,NK Adria,Bonifika,1,5,,,,0
-1220450400,Mura,Sentjur,3,1,,,,0
-1220455800,Sencur,O. Ljubljana,0,1,,,,0
-1221573600,Bonifika,Interblock,1,2,,,,0
-1221660000,Primorje,Zavrc,5,0,,,,0
-1221660000,NK Krka,Nafta,1,3,,,,0
-1221660000,Mura,Maribor,1,3,,,,0
-1221660000,Koper,O. Ljubljana,1,1,Pen,2,1,0
-1221667200,Rudar,Celje,2,1,,,,0
-1221667200,Domzale,Ivancna Gorica,1,4,,,,0
-1221670800,ND Gorica,Drava,2,1,,,,0
-1224676800,Primorje,Interblock,2,3,,,,0
-1224676800,Koper,Nafta,1,1,Pen,2,1,0
-1224691200,ND Gorica,Ivancna Gorica,6,0,,,,0
-1224691200,Maribor,Rudar,2,0,,,,0
-1239807600,Interblock,Maribor,2,2,,,,0
-1239818400,ND Gorica,Koper,2,4,,,,0
-1241015400,Koper,ND Gorica,0,1,,,,0
-1241028000,Maribor,Interblock,2,3,,,,0
-1243706400,Interblock,Koper,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1217689200,Dravograd,NK Roma,86fuGK70,WMQBZdUu,9,1,,,,0
+1219158000,Zavrc,Korotan,AT1C7n8d,Me9Dm1LT,3,0,Awrd,,,0
+1219158000,Sentjur,NK Polana,CKf3x4SI,Ik9HqAEU,8,1,,,,0
+1219158000,Sencur,Krsko Posavje,2yjk7j71,Mm59Ckwm,3,2,,,,0
+1219158000,O. Ljubljana,NK Velesovo,zc0A80Mi,AXk6EDbU,8,0,,,,0
+1219158000,Mura,NK Koroske Gradnje,UcUjoAI7,,11,0,,,,0
+1219158000,Idrija,NK Krka,2kBoB439,WGDgkDs1,1,2,,,,0
+1219158000,Crensovci,Aluminij,KU5NrJbm,8MCIbRV4,2,5,,,,0
+1219158000,Bela Krajina,Bonifika,zk01QcC8,C0Wnhzeg,1,2,,,,0
+1220450400,Zavrc,Dravograd,AT1C7n8d,86fuGK70,1,0,,,,0
+1220450400,NK Krka,Aluminij,WGDgkDs1,8MCIbRV4,3,0,,,,0
+1220450400,NK Adria,Bonifika,Ygi8VSKk,C0Wnhzeg,1,5,,,,0
+1220450400,Mura,Sentjur,UcUjoAI7,CKf3x4SI,3,1,,,,0
+1220455800,Sencur,O. Ljubljana,2yjk7j71,zc0A80Mi,0,1,,,,0
+1221573600,Bonifika,Interblock,C0Wnhzeg,2yjk7j71,1,2,,,,0
+1221660000,Primorje,Zavrc,ttIVL12M,AT1C7n8d,5,0,,,,0
+1221660000,NK Krka,Nafta,WGDgkDs1,lMVQNkcq,1,3,,,,0
+1221660000,Mura,Maribor,UcUjoAI7,88sMeCH2,1,3,,,,0
+1221660000,Koper,O. Ljubljana,Ukh5nnRo,zc0A80Mi,1,1,Pen,2,1,0
+1221667200,Rudar,Celje,fcDVLdrL,juuH5vx4,2,1,,,,0
+1221667200,Domzale,Ivancna Gorica,8GL0cHSF,biRZFmQ2,1,4,,,,0
+1221670800,ND Gorica,Drava,CltD6KMc,4YZxDhVh,2,1,,,,0
+1224676800,Primorje,Interblock,ttIVL12M,2yjk7j71,2,3,,,,0
+1224676800,Koper,Nafta,Ukh5nnRo,lMVQNkcq,1,1,Pen,2,1,0
+1224691200,ND Gorica,Ivancna Gorica,CltD6KMc,biRZFmQ2,6,0,,,,0
+1224691200,Maribor,Rudar,88sMeCH2,fcDVLdrL,2,0,,,,0
+1239807600,Interblock,Maribor,2yjk7j71,88sMeCH2,2,2,,,,0
+1239818400,ND Gorica,Koper,CltD6KMc,Ukh5nnRo,2,4,,,,0
+1241015400,Koper,ND Gorica,Ukh5nnRo,CltD6KMc,0,1,,,,0
+1241028000,Maribor,Interblock,88sMeCH2,2yjk7j71,2,3,,,,0
+1243706400,Interblock,Koper,2yjk7j71,Ukh5nnRo,2,1,,,,0

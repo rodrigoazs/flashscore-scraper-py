@@ -1,43 +1,43 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1649012400,Al-Waab,Al Wakra,3,2,,,,0
-1649012400,Al-Shahaniya,Al Sailiya,2,4,,,,0
-1649012400,Al Bidda,Shamal,0,3,,,,0
-1649098800,Lusail,Al Khor,1,0,,,,0
-1649098800,Al Mesaimeer,Qatar SC,4,1,,,,0
-1649185200,Muaither SC,Al Ahli Doha,2,0,,,,0
-1649185200,Al-Kharitiyath,Al Markhiya,2,1,,,,0
-1649444400,Al-Waab,Al Sailiya,0,3,,,,0
-1649444400,Al-Shahaniya,Shamal,2,3,,,,0
-1649444400,Al Bidda,Al Wakra,4,1,,,,0
-1649530800,Lusail,Qatar SC,1,0,,,,0
-1649530800,Al Mesaimeer,Al Arabi,1,6,,,,0
-1649617200,Muaither SC,Umm-Salal,3,3,,,,0
-1649617200,Al-Kharitiyath,Al Ahli Doha,3,1,,,,0
-1649876400,Shamal,Al Sailiya,2,3,,,,0
-1649876400,Al Wakra,Al-Shahaniya,0,1,,,,0
-1649876400,Al Bidda,Al-Waab,2,1,,,,0
-1649962800,Qatar SC,Al Khor,3,2,,,,0
-1649962800,Al Arabi,Lusail,1,3,,,,0
-1650049200,Umm-Salal,Al-Kharitiyath,0,4,,,,0
-1650049200,Al Ahli Doha,Al Markhiya,3,4,,,,0
-1650308400,Al-Waab,Shamal,1,5,,,,0
-1650308400,Al-Shahaniya,Al Bidda,0,2,,,,0
-1650308400,Al Sailiya,Al Wakra,4,1,,,,0
-1650394800,Lusail,Al Mesaimeer,0,0,,,,0
-1650394800,Al Khor,Al Arabi,2,3,,,,0
-1650481200,Al-Kharitiyath,Muaither SC,1,5,,,,0
-1650481200,Al Markhiya,Umm-Salal,1,2,,,,0
-1650740400,Al-Shahaniya,Al-Waab,3,3,,,,0
-1650740400,Al Wakra,Shamal,1,7,,,,0
-1650740400,Al Bidda,Al Sailiya,2,2,,,,0
-1650826800,Al Mesaimeer,Al Khor,3,2,,,,0
-1650826800,Al Arabi,Qatar SC,4,1,,,,0
-1650913200,Umm-Salal,Al Ahli Doha,0,1,,,,0
-1650913200,Muaither SC,Al Markhiya,2,1,,,,0
-1651170600,Lusail,Al Bidda,1,0,,,,0
-1651170600,Al Sailiya,Al Mesaimeer,2,2,Pen,2,3,0
-1651257000,Muaither SC,Shamal,3,5,,,,0
-1651257000,Al Arabi,Al-Kharitiyath,2,1,,,,0
-1651680000,Shamal,Al Arabi,1,1,Pen,1,2,0
-1651680000,Al Mesaimeer,Lusail,0,2,,,,0
-1652025600,Lusail,Al Arabi,2,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1649012400,Al-Waab,Al Wakra,QZvLrxPu,QDBqG7dG,3,2,,,,0
+1649012400,Al-Shahaniya,Al Sailiya,bgdeNOhe,KSnTTcjp,2,4,,,,0
+1649012400,Al Bidda,Shamal,Q5mUio0T,h24xRRj2,0,3,,,,0
+1649098800,Lusail,Al Khor,8Sk5KE6e,2Zflp5CL,1,0,,,,0
+1649098800,Al Mesaimeer,Qatar SC,tlAYRYMm,Ya8sA3fB,4,1,,,,0
+1649185200,Muaither SC,Al Ahli Doha,QiQXuzbf,Grx0Ap3B,2,0,,,,0
+1649185200,Al-Kharitiyath,Al Markhiya,8KgAhGe1,GOJx53Bq,2,1,,,,0
+1649444400,Al-Waab,Al Sailiya,QZvLrxPu,KSnTTcjp,0,3,,,,0
+1649444400,Al-Shahaniya,Shamal,bgdeNOhe,h24xRRj2,2,3,,,,0
+1649444400,Al Bidda,Al Wakra,Q5mUio0T,QDBqG7dG,4,1,,,,0
+1649530800,Lusail,Qatar SC,8Sk5KE6e,Ya8sA3fB,1,0,,,,0
+1649530800,Al Mesaimeer,Al Arabi,tlAYRYMm,0SJW1Gbb,1,6,,,,0
+1649617200,Muaither SC,Umm-Salal,QiQXuzbf,SKQzk2kD,3,3,,,,0
+1649617200,Al-Kharitiyath,Al Ahli Doha,8KgAhGe1,Grx0Ap3B,3,1,,,,0
+1649876400,Shamal,Al Sailiya,h24xRRj2,KSnTTcjp,2,3,,,,0
+1649876400,Al Wakra,Al-Shahaniya,QDBqG7dG,bgdeNOhe,0,1,,,,0
+1649876400,Al Bidda,Al-Waab,Q5mUio0T,QZvLrxPu,2,1,,,,0
+1649962800,Qatar SC,Al Khor,Ya8sA3fB,2Zflp5CL,3,2,,,,0
+1649962800,Al Arabi,Lusail,0SJW1Gbb,8Sk5KE6e,1,3,,,,0
+1650049200,Umm-Salal,Al-Kharitiyath,SKQzk2kD,8KgAhGe1,0,4,,,,0
+1650049200,Al Ahli Doha,Al Markhiya,Grx0Ap3B,GOJx53Bq,3,4,,,,0
+1650308400,Al-Waab,Shamal,QZvLrxPu,h24xRRj2,1,5,,,,0
+1650308400,Al-Shahaniya,Al Bidda,bgdeNOhe,Q5mUio0T,0,2,,,,0
+1650308400,Al Sailiya,Al Wakra,KSnTTcjp,QDBqG7dG,4,1,,,,0
+1650394800,Lusail,Al Mesaimeer,8Sk5KE6e,tlAYRYMm,0,0,,,,0
+1650394800,Al Khor,Al Arabi,2Zflp5CL,0SJW1Gbb,2,3,,,,0
+1650481200,Al-Kharitiyath,Muaither SC,8KgAhGe1,QiQXuzbf,1,5,,,,0
+1650481200,Al Markhiya,Umm-Salal,GOJx53Bq,SKQzk2kD,1,2,,,,0
+1650740400,Al-Shahaniya,Al-Waab,bgdeNOhe,QZvLrxPu,3,3,,,,0
+1650740400,Al Wakra,Shamal,QDBqG7dG,h24xRRj2,1,7,,,,0
+1650740400,Al Bidda,Al Sailiya,Q5mUio0T,KSnTTcjp,2,2,,,,0
+1650826800,Al Mesaimeer,Al Khor,tlAYRYMm,2Zflp5CL,3,2,,,,0
+1650826800,Al Arabi,Qatar SC,0SJW1Gbb,Ya8sA3fB,4,1,,,,0
+1650913200,Umm-Salal,Al Ahli Doha,SKQzk2kD,Grx0Ap3B,0,1,,,,0
+1650913200,Muaither SC,Al Markhiya,QiQXuzbf,GOJx53Bq,2,1,,,,0
+1651170600,Lusail,Al Bidda,8Sk5KE6e,Q5mUio0T,1,0,,,,0
+1651170600,Al Sailiya,Al Mesaimeer,KSnTTcjp,tlAYRYMm,2,2,Pen,2,3,0
+1651257000,Muaither SC,Shamal,QiQXuzbf,h24xRRj2,3,5,,,,0
+1651257000,Al Arabi,Al-Kharitiyath,0SJW1Gbb,8KgAhGe1,2,1,,,,0
+1651680000,Shamal,Al Arabi,h24xRRj2,0SJW1Gbb,1,1,Pen,1,2,0
+1651680000,Al Mesaimeer,Lusail,tlAYRYMm,8Sk5KE6e,0,2,,,,0
+1652025600,Lusail,Al Arabi,8Sk5KE6e,0SJW1Gbb,2,3,,,,0

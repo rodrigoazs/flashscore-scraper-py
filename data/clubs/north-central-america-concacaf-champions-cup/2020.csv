@@ -1,27 +1,27 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1582074000,Portmore (Jam),Cruz Azul (Mex),1,2,,,,0
-1582081200,Motagua (Hon),Atlanta Utd (Usa),1,1,,,,0
-1582081200,Club Leon (Mex),Los Angeles FC (Usa),2,0,,,,0
-1582160400,Saprissa (Cos),CF Montreal (Can),2,2,,,,0
-1582160400,Alianza FC (Sal),Tigres UANL (Mex),2,1,,,,0
-1582167600,Comunicaciones (Gtm),Club America (Mex),1,1,,,,0
-1582246800,San Carlos (Cos),New York City (Usa),3,5,,,,0
-1582254000,Olimpia (Hon),Seattle Sounders (Usa),2,2,,,,0
-1582678800,Atlanta Utd (Usa),Motagua (Hon),3,0,,,,0
-1582686000,Cruz Azul (Mex),Portmore (Jam),4,0,,,,0
-1582758000,New York City (Usa),San Carlos (Cos),1,0,,,,0
-1582765200,Tigres UANL (Mex),Alianza FC (Sal),4,2,,,,0
-1582765200,CF Montreal (Can),Saprissa (Cos),0,0,,,,0
-1582772400,Club America (Mex),Comunicaciones (Gtm),1,1,Pen,2,1,0
-1582858800,Seattle Sounders (Usa),Olimpia (Hon),2,2,Pen,2,3,0
-1582858800,Los Angeles FC (Usa),Club Leon (Mex),3,0,,,,0
-1583884800,CF Montreal (Can),Olimpia (Hon),1,2,,,,0
-1583971200,New York City (Usa),Tigres UANL (Mex),0,1,,,,0
-1583980200,Club America (Mex),Atlanta Utd (Usa),3,0,,,,0
-1608080400,Olimpia (Hon),CF Montreal (Can),0,1,,,,1
-1608089400,Tigres UANL (Mex),New York City (Usa),4,0,,,,1
-1608166800,Atlanta Utd (Usa),Club America (Mex),1,0,,,,1
-1608175800,Los Angeles FC (Usa),Cruz Azul (Mex),2,1,,,,1
-1608426000,Tigres UANL (Mex),Olimpia (Hon),3,0,,,,1
-1608435000,Los Angeles FC (Usa),Club America (Mex),3,1,,,,1
-1608692400,Tigres UANL (Mex),Los Angeles FC (Usa),2,1,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1582074000,Portmore (Jam),Cruz Azul (Mex),KCGGnOpC,nqhLBCKD,1,2,,,,0
+1582081200,Motagua (Hon),Atlanta Utd (Usa),dtCxYreO,MeFN3n19,1,1,,,,0
+1582081200,Club Leon (Mex),Los Angeles FC (Usa),Uc00R8BH,nJbaxYrp,2,0,,,,0
+1582160400,Saprissa (Cos),CF Montreal (Can),tnwDCzLD,APghxIAJ,2,2,,,,0
+1582160400,Alianza FC (Sal),Tigres UANL (Mex),dfRdOmGt,zgtUoENa,2,1,,,,0
+1582167600,Comunicaciones (Gtm),Club America (Mex),O2l6wJsK,OGkmEu0T,1,1,,,,0
+1582246800,San Carlos (Cos),New York City (Usa),6XjLWQsI,GxTXAzv3,3,5,,,,0
+1582254000,Olimpia (Hon),Seattle Sounders (Usa),WvziCH8E,Q7Ql2Qbi,2,2,,,,0
+1582678800,Atlanta Utd (Usa),Motagua (Hon),MeFN3n19,dtCxYreO,3,0,,,,0
+1582686000,Cruz Azul (Mex),Portmore (Jam),nqhLBCKD,KCGGnOpC,4,0,,,,0
+1582758000,New York City (Usa),San Carlos (Cos),GxTXAzv3,6XjLWQsI,1,0,,,,0
+1582765200,Tigres UANL (Mex),Alianza FC (Sal),zgtUoENa,dfRdOmGt,4,2,,,,0
+1582765200,CF Montreal (Can),Saprissa (Cos),APghxIAJ,tnwDCzLD,0,0,,,,0
+1582772400,Club America (Mex),Comunicaciones (Gtm),OGkmEu0T,O2l6wJsK,1,1,Pen,2,1,0
+1582858800,Seattle Sounders (Usa),Olimpia (Hon),Q7Ql2Qbi,WvziCH8E,2,2,Pen,2,3,0
+1582858800,Los Angeles FC (Usa),Club Leon (Mex),nJbaxYrp,Uc00R8BH,3,0,,,,0
+1583884800,CF Montreal (Can),Olimpia (Hon),APghxIAJ,WvziCH8E,1,2,,,,0
+1583971200,New York City (Usa),Tigres UANL (Mex),GxTXAzv3,zgtUoENa,0,1,,,,0
+1583980200,Club America (Mex),Atlanta Utd (Usa),OGkmEu0T,MeFN3n19,3,0,,,,0
+1608080400,Olimpia (Hon),CF Montreal (Can),WvziCH8E,APghxIAJ,0,1,,,,1
+1608089400,Tigres UANL (Mex),New York City (Usa),zgtUoENa,GxTXAzv3,4,0,,,,1
+1608166800,Atlanta Utd (Usa),Club America (Mex),MeFN3n19,OGkmEu0T,1,0,,,,1
+1608175800,Los Angeles FC (Usa),Cruz Azul (Mex),nJbaxYrp,nqhLBCKD,2,1,,,,1
+1608426000,Tigres UANL (Mex),Olimpia (Hon),zgtUoENa,WvziCH8E,3,0,,,,1
+1608435000,Los Angeles FC (Usa),Club America (Mex),nJbaxYrp,OGkmEu0T,3,1,,,,1
+1608692400,Tigres UANL (Mex),Los Angeles FC (Usa),zgtUoENa,nJbaxYrp,2,1,,,,1

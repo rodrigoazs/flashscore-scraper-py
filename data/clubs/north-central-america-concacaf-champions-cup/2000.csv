@@ -1,9 +1,9 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-947984400,Toluca,Olimpia,0,1,,,,0
-947984400,Pachuca,Joe Public,1,0,,,,0
-948070800,Pachuca,Olimpia,0,4,,,,0
-948070800,Los Angeles Galaxy,Real Espana,0,0,AET,1,0,0
-948070800,DC United,Alajuelense,2,1,,,,0
-948416400,Pachuca,DC United,2,1,,,,0
-948416400,Olimpia,Los Angeles Galaxy,2,3,,,,0
-948243600,Los Angeles Galaxy,DC United,1,1,AET,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+947984400,Toluca,Olimpia,0pHVJYjM,WvziCH8E,0,1,,,,0
+947984400,Pachuca,Joe Public,zFZbB1JF,z1I22jc6,1,0,,,,0
+948070800,Pachuca,Olimpia,zFZbB1JF,WvziCH8E,0,4,,,,0
+948070800,Los Angeles Galaxy,Real Espana,nqhLBCKD,dQeZ4aH3,0,0,AET,1,0,0
+948070800,DC United,Alajuelense,QqhL41wo,4v3Y4ReF,2,1,,,,0
+948416400,Pachuca,DC United,zFZbB1JF,QqhL41wo,2,1,,,,0
+948416400,Olimpia,Los Angeles Galaxy,WvziCH8E,nqhLBCKD,2,3,,,,0
+948243600,Los Angeles Galaxy,DC United,nqhLBCKD,QqhL41wo,1,1,AET,2,1,0

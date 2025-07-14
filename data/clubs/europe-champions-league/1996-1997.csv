@@ -1,78 +1,78 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-839443500,Widzew Lodz,Brondby,2,1,,,,0
-839443500,SK Rapid,Dyn. Kyiv,2,0,,,,0
-839443500,Rangers,Alania Vladikavkaz,3,1,,,,0
-839443500,Panathinaikos,Rosenborg,1,0,,,,0
-839443500,Maccabi Tel Aviv,Fenerbahce,0,1,,,,0
-839443500,Grasshoppers,Slavia Prague,5,0,,,,0
-839443500,Goteborg,Ferencvaros,3,0,,,,0
-839443500,Club Brugge KV,FCSB,2,2,,,,0
-840653100,Slavia Prague,Grasshoppers,0,1,,,,0
-840653100,Rosenborg,Panathinaikos,1,0,AET,3,0,0
-840653100,Ferencvaros,Goteborg,1,1,,,,0
-840653100,Fenerbahce,Maccabi Tel Aviv,1,1,,,,0
-840653100,FCSB,Club Brugge KV,3,0,,,,0
-840653100,Dyn. Kyiv,SK Rapid,2,4,,,,0
-840653100,Brondby,Widzew Lodz,3,2,,,,0
-840653100,Alania Vladikavkaz,Rangers,2,7,,,,0
-842467500,SK Rapid,Fenerbahce,1,1,,,,0
-842467500,Juventus,Manchester Utd,1,0,,,,0
-842467500,Grasshoppers,Rangers,3,0,,,,0
-842467500,Goteborg,Rosenborg,2,3,,,,0
-842467500,Dortmund,Widzew Lodz,2,1,,,,0
-842467500,Auxerre,Ajax,0,1,,,,0
-842467500,Atl. Madrid,FCSB,4,0,,,,0
-842467500,AC Milan,FC Porto,2,3,,,,0
-843677100,Widzew Lodz,Atl. Madrid,1,4,,,,0
-843677100,Rosenborg,AC Milan,1,4,,,,0
-843677100,Rangers,Auxerre,1,2,,,,0
-843677100,Manchester Utd,SK Rapid,2,0,,,,0
-843677100,Fenerbahce,Juventus,0,1,,,,0
-843677100,FCSB,Dortmund,0,3,,,,0
-843677100,FC Porto,Goteborg,2,1,,,,0
-843677100,Ajax,Grasshoppers,0,1,,,,0
-845491500,SK Rapid,Juventus,1,1,,,,0
-845491500,Rosenborg,FC Porto,0,1,,,,0
-845491500,Goteborg,AC Milan,2,1,,,,0
-845491500,Fenerbahce,Manchester Utd,0,2,,,,0
-845491500,FCSB,Widzew Lodz,1,0,,,,0
-845491500,Auxerre,Grasshoppers,1,0,,,,0
-845491500,Atl. Madrid,Dortmund,0,1,,,,0
-845491500,Ajax,Rangers,4,1,,,,0
-846704700,Widzew Lodz,FCSB,2,0,,,,0
-846704700,Rangers,Ajax,0,1,,,,0
-846704700,Manchester Utd,Fenerbahce,0,1,,,,0
-846704700,Juventus,SK Rapid,5,0,,,,0
-846704700,Grasshoppers,Auxerre,3,1,,,,0
-846704700,FC Porto,Rosenborg,3,0,,,,0
-846704700,Dortmund,Atl. Madrid,1,2,,,,0
-846704700,AC Milan,Goteborg,4,2,,,,0
-848519100,Widzew Lodz,Dortmund,2,2,,,,0
-848519100,Rosenborg,Goteborg,1,0,,,,0
-848519100,Rangers,Grasshoppers,2,1,,,,0
-848519100,Manchester Utd,Juventus,0,1,,,,0
-848519100,Fenerbahce,SK Rapid,1,0,,,,0
-848519100,FCSB,Atl. Madrid,1,1,,,,0
-848519100,FC Porto,AC Milan,1,1,,,,0
-848519100,Ajax,Auxerre,1,2,,,,0
-849728700,SK Rapid,Manchester Utd,0,2,,,,0
-849728700,Juventus,Fenerbahce,2,0,,,,0
-849728700,Grasshoppers,Ajax,0,1,,,,0
-849728700,Goteborg,FC Porto,0,2,,,,0
-849728700,Dortmund,FCSB,5,3,,,,0
-849728700,Auxerre,Rangers,2,1,,,,0
-849728700,Atl. Madrid,Widzew Lodz,1,0,,,,0
-849728700,AC Milan,Rosenborg,1,2,,,,0
-857591100,Rosenborg,Juventus,1,1,,,,0
-857591100,Manchester Utd,FC Porto,4,0,,,,0
-857591100,Dortmund,Auxerre,3,1,,,,0
-857591100,Ajax,Atl. Madrid,1,1,,,,0
-858800700,Juventus,Rosenborg,2,0,,,,0
-858800700,FC Porto,Manchester Utd,0,0,,,,0
-858800700,Auxerre,Dortmund,0,1,,,,0
-858800700,Atl. Madrid,Ajax,1,1,AET,2,3,0
-860611500,Dortmund,Manchester Utd,1,0,,,,0
-860611500,Ajax,Juventus,1,2,,,,0
-861821100,Manchester Utd,Dortmund,0,1,,,,0
-861821100,Juventus,Ajax,4,1,,,,0
-864845100,Dortmund,Juventus,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+839443500,Widzew Lodz,Brondby,UTb1DTGS,YPeI5fwQ,2,1,,,,0
+839443500,SK Rapid,Dyn. Kyiv,QNSj0PU1,M1Cjh44S,2,0,,,,0
+839443500,Rangers,Alania Vladikavkaz,fFCBVa82,OCHmDtlK,3,1,,,,0
+839443500,Panathinaikos,Rosenborg,GM4Cu0wi,nq6bPf0N,1,0,,,,0
+839443500,Maccabi Tel Aviv,Fenerbahce,EgfVDm2G,dENdyFfa,0,1,,,,0
+839443500,Grasshoppers,Slavia Prague,WdBesfPo,8nl9JmVC,5,0,,,,0
+839443500,Goteborg,Ferencvaros,jqs0yJHC,U3aHptUA,3,0,,,,0
+839443500,Club Brugge KV,FCSB,44lq3LsP,SCh1iPaa,2,2,,,,0
+840653100,Slavia Prague,Grasshoppers,8nl9JmVC,WdBesfPo,0,1,,,,0
+840653100,Rosenborg,Panathinaikos,nq6bPf0N,GM4Cu0wi,1,0,AET,3,0,0
+840653100,Ferencvaros,Goteborg,U3aHptUA,jqs0yJHC,1,1,,,,0
+840653100,Fenerbahce,Maccabi Tel Aviv,dENdyFfa,EgfVDm2G,1,1,,,,0
+840653100,FCSB,Club Brugge KV,SCh1iPaa,44lq3LsP,3,0,,,,0
+840653100,Dyn. Kyiv,SK Rapid,M1Cjh44S,QNSj0PU1,2,4,,,,0
+840653100,Brondby,Widzew Lodz,YPeI5fwQ,UTb1DTGS,3,2,,,,0
+840653100,Alania Vladikavkaz,Rangers,OCHmDtlK,fFCBVa82,2,7,,,,0
+842467500,SK Rapid,Fenerbahce,QNSj0PU1,dENdyFfa,1,1,,,,0
+842467500,Juventus,Manchester Utd,EXzXDYgS,h2pPXz3k,1,0,,,,0
+842467500,Grasshoppers,Rangers,WdBesfPo,fFCBVa82,3,0,,,,0
+842467500,Goteborg,Rosenborg,jqs0yJHC,nq6bPf0N,2,3,,,,0
+842467500,Dortmund,Widzew Lodz,WrjrBuU2,UTb1DTGS,2,1,,,,0
+842467500,Auxerre,Ajax,tY3UBVrm,bZZPiwAI,0,1,,,,0
+842467500,Atl. Madrid,FCSB,nLBjwR1F,SCh1iPaa,4,0,,,,0
+842467500,AC Milan,FC Porto,fL3dmxxd,Kth3Rz1C,2,3,,,,0
+843677100,Widzew Lodz,Atl. Madrid,UTb1DTGS,nLBjwR1F,1,4,,,,0
+843677100,Rosenborg,AC Milan,nq6bPf0N,fL3dmxxd,1,4,,,,0
+843677100,Rangers,Auxerre,fFCBVa82,tY3UBVrm,1,2,,,,0
+843677100,Manchester Utd,SK Rapid,h2pPXz3k,QNSj0PU1,2,0,,,,0
+843677100,Fenerbahce,Juventus,dENdyFfa,EXzXDYgS,0,1,,,,0
+843677100,FCSB,Dortmund,SCh1iPaa,WrjrBuU2,0,3,,,,0
+843677100,FC Porto,Goteborg,Kth3Rz1C,jqs0yJHC,2,1,,,,0
+843677100,Ajax,Grasshoppers,bZZPiwAI,WdBesfPo,0,1,,,,0
+845491500,SK Rapid,Juventus,QNSj0PU1,EXzXDYgS,1,1,,,,0
+845491500,Rosenborg,FC Porto,nq6bPf0N,Kth3Rz1C,0,1,,,,0
+845491500,Goteborg,AC Milan,jqs0yJHC,fL3dmxxd,2,1,,,,0
+845491500,Fenerbahce,Manchester Utd,dENdyFfa,h2pPXz3k,0,2,,,,0
+845491500,FCSB,Widzew Lodz,SCh1iPaa,UTb1DTGS,1,0,,,,0
+845491500,Auxerre,Grasshoppers,tY3UBVrm,WdBesfPo,1,0,,,,0
+845491500,Atl. Madrid,Dortmund,nLBjwR1F,WrjrBuU2,0,1,,,,0
+845491500,Ajax,Rangers,bZZPiwAI,fFCBVa82,4,1,,,,0
+846704700,Widzew Lodz,FCSB,UTb1DTGS,SCh1iPaa,2,0,,,,0
+846704700,Rangers,Ajax,fFCBVa82,bZZPiwAI,0,1,,,,0
+846704700,Manchester Utd,Fenerbahce,h2pPXz3k,dENdyFfa,0,1,,,,0
+846704700,Juventus,SK Rapid,EXzXDYgS,QNSj0PU1,5,0,,,,0
+846704700,Grasshoppers,Auxerre,WdBesfPo,tY3UBVrm,3,1,,,,0
+846704700,FC Porto,Rosenborg,Kth3Rz1C,nq6bPf0N,3,0,,,,0
+846704700,Dortmund,Atl. Madrid,WrjrBuU2,nLBjwR1F,1,2,,,,0
+846704700,AC Milan,Goteborg,fL3dmxxd,jqs0yJHC,4,2,,,,0
+848519100,Widzew Lodz,Dortmund,UTb1DTGS,WrjrBuU2,2,2,,,,0
+848519100,Rosenborg,Goteborg,nq6bPf0N,jqs0yJHC,1,0,,,,0
+848519100,Rangers,Grasshoppers,fFCBVa82,WdBesfPo,2,1,,,,0
+848519100,Manchester Utd,Juventus,h2pPXz3k,EXzXDYgS,0,1,,,,0
+848519100,Fenerbahce,SK Rapid,dENdyFfa,QNSj0PU1,1,0,,,,0
+848519100,FCSB,Atl. Madrid,SCh1iPaa,nLBjwR1F,1,1,,,,0
+848519100,FC Porto,AC Milan,Kth3Rz1C,fL3dmxxd,1,1,,,,0
+848519100,Ajax,Auxerre,bZZPiwAI,tY3UBVrm,1,2,,,,0
+849728700,SK Rapid,Manchester Utd,QNSj0PU1,h2pPXz3k,0,2,,,,0
+849728700,Juventus,Fenerbahce,EXzXDYgS,dENdyFfa,2,0,,,,0
+849728700,Grasshoppers,Ajax,WdBesfPo,bZZPiwAI,0,1,,,,0
+849728700,Goteborg,FC Porto,jqs0yJHC,Kth3Rz1C,0,2,,,,0
+849728700,Dortmund,FCSB,WrjrBuU2,SCh1iPaa,5,3,,,,0
+849728700,Auxerre,Rangers,tY3UBVrm,fFCBVa82,2,1,,,,0
+849728700,Atl. Madrid,Widzew Lodz,nLBjwR1F,UTb1DTGS,1,0,,,,0
+849728700,AC Milan,Rosenborg,fL3dmxxd,nq6bPf0N,1,2,,,,0
+857591100,Rosenborg,Juventus,nq6bPf0N,EXzXDYgS,1,1,,,,0
+857591100,Manchester Utd,FC Porto,h2pPXz3k,Kth3Rz1C,4,0,,,,0
+857591100,Dortmund,Auxerre,WrjrBuU2,tY3UBVrm,3,1,,,,0
+857591100,Ajax,Atl. Madrid,bZZPiwAI,nLBjwR1F,1,1,,,,0
+858800700,Juventus,Rosenborg,EXzXDYgS,nq6bPf0N,2,0,,,,0
+858800700,FC Porto,Manchester Utd,Kth3Rz1C,h2pPXz3k,0,0,,,,0
+858800700,Auxerre,Dortmund,tY3UBVrm,WrjrBuU2,0,1,,,,0
+858800700,Atl. Madrid,Ajax,nLBjwR1F,bZZPiwAI,1,1,AET,2,3,0
+860611500,Dortmund,Manchester Utd,WrjrBuU2,h2pPXz3k,1,0,,,,0
+860611500,Ajax,Juventus,bZZPiwAI,EXzXDYgS,1,2,,,,0
+861821100,Manchester Utd,Dortmund,h2pPXz3k,WrjrBuU2,0,1,,,,0
+861821100,Juventus,Ajax,EXzXDYgS,bZZPiwAI,4,1,,,,0
+864845100,Dortmund,Juventus,WrjrBuU2,EXzXDYgS,3,1,,,,0

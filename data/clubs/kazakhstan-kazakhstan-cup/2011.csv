@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1302681600,Zhenis,Atyrau,0,2,,,,0
-1302681600,Kaspij Aktau,Kaisar Kyzylorda,0,3,,,,0
-1302685200,Sunkar,Vostok Oskemen,2,0,,,,0
-1302685200,Kyzylzhar,Ekibastuz,1,0,,,,0
-1302685200,CSKA Almaty,Tobol,1,1,Pen,1,2,0
-1302685200,Ak-Balak,Taraz,0,1,,,,0
-1302688800,Okzhetpes,Zhetysu Taldykorgan,1,1,Pen,2,1,0
-1302688800,FK Kyran,Taraz-Karatau 2,3,1,,,,0
-1302692400,Shakhtar Bulat,Gefest Karagandy,0,0,Pen,0,1,0
-1302692400,Kazakhmys,Spartak Semey,2,1,,,,0
-1302692400,Cesna Almaty,Kairat Almaty,0,5,,,,0
-1302692400,Aktobe Zhas,Ordabasy,1,8,,,,0
-1302696000,Ile-Saulet,Ertis Pavlodar,0,2,,,,0
-1302696000,FK Akzhayik,Aktobe,1,1,Pen,2,1,0
-1303284900,FK Kyran,Sunkar,0,1,,,,0
-1303297200,Tobol,Atyrau,1,1,AET,3,2,0
-1303297200,Taraz,FK Akzhayik,4,1,,,,0
-1303297200,Ordabasy,Kaisar Kyzylorda,2,1,,,,0
-1303297200,Kyzylzhar,Ertis Pavlodar,2,5,,,,0
-1303297200,Kazakhmys,Shakhter Karagandy,0,3,,,,0
-1303297200,Gefest Karagandy,Okzhetpes,0,1,,,,0
-1303302600,FC Astana,Kairat Almaty,1,1,Pen,1,2,0
-1305104400,Sunkar,Ordabasy,1,3,,,,0
-1305104400,Shakhter Karagandy,Taraz,2,4,,,,0
-1305104400,Ertis Pavlodar,Okzhetpes,1,0,,,,0
-1305118800,Tobol,Kairat Almaty,1,0,,,,0
-1320310800,Taraz,Ordabasy,3,1,,,,0
-1320318000,Ertis Pavlodar,Tobol,1,1,,,,0
-1320742800,Tobol,Ertis Pavlodar,3,2,,,,0
-1320742800,Ordabasy,Taraz,3,0,,,,0
-1321171200,Tobol,Ordabasy,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1302681600,Zhenis,Atyrau,zLEZgZeE,4lQxqw7K,0,2,,,,0
+1302681600,Kaspij Aktau,Kaisar Kyzylorda,b3cZyVv7,6TGNpzQl,0,3,,,,0
+1302685200,Sunkar,Vostok Oskemen,fBh5XyVM,UTlVqN6H,2,0,,,,0
+1302685200,Kyzylzhar,Ekibastuz,QiWrXtNo,x6rBrmDU,1,0,,,,0
+1302685200,CSKA Almaty,Tobol,rgfSCcdq,2u4B89Vd,1,1,Pen,1,2,0
+1302685200,Ak-Balak,Taraz,,M1habVsD,0,1,,,,0
+1302688800,Okzhetpes,Zhetysu Taldykorgan,fX1V1Bj4,KIZqh8Pq,1,1,Pen,2,1,0
+1302688800,FK Kyran,Taraz-Karatau 2,04q84ADf,WKTwFEIi,3,1,,,,0
+1302692400,Shakhtar Bulat,Gefest Karagandy,vkVDbpph,vaGygaPC,0,0,Pen,0,1,0
+1302692400,Kazakhmys,Spartak Semey,th63wWzn,hlqScORF,2,1,,,,0
+1302692400,Cesna Almaty,Kairat Almaty,,rwQpsSWo,0,5,,,,0
+1302692400,Aktobe Zhas,Ordabasy,KnkNHWWC,rB9GKJTe,1,8,,,,0
+1302696000,Ile-Saulet,Ertis Pavlodar,zJTM8s2U,YB20ndi2,0,2,,,,0
+1302696000,FK Akzhayik,Aktobe,6uZPCvr9,M1habVsD,1,1,Pen,2,1,0
+1303284900,FK Kyran,Sunkar,04q84ADf,fBh5XyVM,0,1,,,,0
+1303297200,Tobol,Atyrau,2u4B89Vd,4lQxqw7K,1,1,AET,3,2,0
+1303297200,Taraz,FK Akzhayik,M1habVsD,6uZPCvr9,4,1,,,,0
+1303297200,Ordabasy,Kaisar Kyzylorda,rB9GKJTe,6TGNpzQl,2,1,,,,0
+1303297200,Kyzylzhar,Ertis Pavlodar,QiWrXtNo,YB20ndi2,2,5,,,,0
+1303297200,Kazakhmys,Shakhter Karagandy,th63wWzn,AFnoRjlN,0,3,,,,0
+1303297200,Gefest Karagandy,Okzhetpes,vaGygaPC,fX1V1Bj4,0,1,,,,0
+1303302600,FC Astana,Kairat Almaty,llrJz3e1,rwQpsSWo,1,1,Pen,1,2,0
+1305104400,Sunkar,Ordabasy,fBh5XyVM,rB9GKJTe,1,3,,,,0
+1305104400,Shakhter Karagandy,Taraz,AFnoRjlN,M1habVsD,2,4,,,,0
+1305104400,Ertis Pavlodar,Okzhetpes,YB20ndi2,fX1V1Bj4,1,0,,,,0
+1305118800,Tobol,Kairat Almaty,2u4B89Vd,rwQpsSWo,1,0,,,,0
+1320310800,Taraz,Ordabasy,M1habVsD,rB9GKJTe,3,1,,,,0
+1320318000,Ertis Pavlodar,Tobol,YB20ndi2,2u4B89Vd,1,1,,,,0
+1320742800,Tobol,Ertis Pavlodar,2u4B89Vd,YB20ndi2,3,2,,,,0
+1320742800,Ordabasy,Taraz,rB9GKJTe,M1habVsD,3,0,,,,0
+1321171200,Tobol,Ordabasy,2u4B89Vd,rB9GKJTe,0,1,,,,0

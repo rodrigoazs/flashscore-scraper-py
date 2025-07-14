@@ -1,381 +1,381 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1494702000,Flamengo RJ,Atletico-MG,1,1,,,,0
-1494712800,Corinthians,Chapecoense-SC,1,1,,,,0
-1494770400,Fluminense,Santos,3,2,,,,0
-1494788400,Ponte Preta,Sport Recife,4,0,,,,0
-1494788400,Palmeiras,Vasco,4,0,,,,0
-1494788400,Cruzeiro,Sao Paulo,1,0,,,,0
-1494788400,Bahia,Athletico-PR,6,2,,,,0
-1494788400,Avai,Vitoria,0,0,,,,0
-1494799200,Gremio,Botafogo RJ,2,0,,,,0
-1494889200,Coritiba,Atletico GO,4,1,,,,0
-1495306800,Santos,Coritiba,1,0,,,,0
-1495317600,Chapecoense-SC,Palmeiras,1,0,,,,0
-1495317600,Atletico GO,Flamengo RJ,0,3,,,,0
-1495375200,Vasco,Bahia,2,1,,,,0
-1495393200,Vitoria,Corinthians,0,1,,,,0
-1495393200,Atletico-MG,Fluminense,1,2,,,,0
-1495393200,Athletico-PR,Gremio,0,2,,,,0
-1495400400,Botafogo RJ,Ponte Preta,2,0,,,,0
-1495404000,Sport Recife,Cruzeiro,1,1,,,,0
-1495494000,Sao Paulo,Avai,2,0,,,,0
-1495911600,Vasco,Fluminense,3,2,,,,0
-1495922400,Sao Paulo,Palmeiras,2,0,,,,0
-1495929600,Vitoria,Coritiba,0,1,,,,0
-1495980000,Atletico-MG,Ponte Preta,2,2,,,,0
-1495998000,Santos,Cruzeiro,0,1,,,,0
-1495998000,Atletico GO,Corinthians,0,1,,,,0
-1495998000,Athletico-PR,Flamengo RJ,1,1,,,,0
-1496005200,Sport Recife,Gremio,4,3,,,,0
-1496008800,Botafogo RJ,Bahia,1,0,,,,0
-1496098800,Chapecoense-SC,Avai,2,0,,,,0
-1496516400,Coritiba,Athletico-PR,1,0,,,,0
-1496523600,Fluminense,Vitoria,2,1,,,,0
-1496527200,Corinthians,Santos,2,0,,,,0
-1496584800,Flamengo RJ,Botafogo RJ,0,0,,,,0
-1496584800,Avai,Sport Recife,1,0,,,,0
-1496602800,Ponte Preta,Sao Paulo,1,0,,,,0
-1496602800,Palmeiras,Atletico-MG,0,0,,,,0
-1496602800,Gremio,Vasco,2,0,,,,0
-1496613600,Cruzeiro,Chapecoense-SC,0,2,,,,0
-1496703600,Bahia,Atletico GO,3,0,,,,0
-1496790000,Fluminense,Athletico-PR,1,1,,,,0
-1496874600,Coritiba,Palmeiras,1,0,,,,0
-1496874600,Atletico-MG,Avai,1,0,,,,0
-1496880000,Santos,Botafogo RJ,1,0,,,,0
-1496882700,Vasco,Corinthians,2,5,,,,0
-1496882700,Sport Recife,Flamengo RJ,2,0,,,,0
-1496961000,Sao Paulo,Vitoria,2,0,,,,0
-1496961000,Atletico GO,Ponte Preta,3,0,,,,0
-1496962800,Chapecoense-SC,Gremio,3,6,,,,0
-1496966400,Bahia,Cruzeiro,1,0,,,,0
-1497121200,Palmeiras,Fluminense,3,1,,,,0
-1497132000,Vasco,Sport Recife,2,1,,,,0
-1497189600,Botafogo RJ,Coritiba,2,2,,,,0
-1497207600,Vitoria,Atletico-MG,2,0,,,,0
-1497207600,Ponte Preta,Chapecoense-SC,3,2,,,,0
-1497207600,Corinthians,Sao Paulo,3,2,,,,0
-1497207600,Avai,Flamengo RJ,1,1,,,,0
-1497216600,Cruzeiro,Atletico GO,2,0,,,,0
-1497218400,Athletico-PR,Santos,0,2,,,,0
-1497308400,Gremio,Bahia,1,0,,,,0
-1497479400,Vitoria,Botafogo RJ,2,2,,,,0
-1497479400,Sport Recife,Sao Paulo,0,0,,,,0
-1497479400,Atletico-MG,Athletico-PR,0,1,,,,0
-1497479400,Atletico GO,Avai,3,1,,,,0
-1497484800,Flamengo RJ,Ponte Preta,2,0,,,,0
-1497487500,Santos,Palmeiras,1,0,,,,0
-1497487500,Corinthians,Cruzeiro,1,0,,,,0
-1497487500,Chapecoense-SC,Vasco,2,1,,,,0
-1497553200,Coritiba,Bahia,0,0,,,,0
-1497571200,Fluminense,Gremio,0,2,,,,0
-1497726000,Atletico GO,Athletico-PR,0,1,,,,0
-1497736800,Vasco,Avai,1,0,,,,0
-1497744000,Santos,Ponte Preta,0,0,,,,0
-1497794400,Coritiba,Corinthians,0,0,,,,0
-1497812400,Sao Paulo,Atletico-MG,1,2,,,,0
-1497812400,Fluminense,Flamengo RJ,2,2,,,,0
-1497812400,Chapecoense-SC,Botafogo RJ,0,2,,,,0
-1497812400,Bahia,Palmeiras,2,4,,,,0
-1497823200,Sport Recife,Vitoria,1,3,,,,0
-1497913200,Cruzeiro,Gremio,3,3,,,,0
-1498084200,Vitoria,Santos,0,2,,,,0
-1498089600,Palmeiras,Atletico GO,1,0,,,,0
-1498089600,Botafogo RJ,Vasco,3,1,,,,0
-1498092300,Avai,Fluminense,0,3,,,,0
-1498092300,Atletico-MG,Sport Recife,2,2,,,,0
-1498092300,Athletico-PR,Sao Paulo,1,0,,,,0
-1498170600,Ponte Preta,Cruzeiro,1,0,,,,0
-1498170600,Corinthians,Bahia,3,0,,,,0
-1498176000,Gremio,Coritiba,2,0,,,,0
-1498176000,Flamengo RJ,Chapecoense-SC,5,1,,,,0
-1498341600,Santos,Sport Recife,0,1,,,,0
-1498399200,Vasco,Atletico GO,1,0,,,,0
-1498417200,Sao Paulo,Fluminense,1,1,,,,0
-1498417200,Ponte Preta,Palmeiras,1,2,,,,0
-1498417200,Gremio,Corinthians,0,1,,,,0
-1498417200,Cruzeiro,Coritiba,2,0,,,,0
-1498417200,Athletico-PR,Vitoria,4,1,,,,0
-1498426200,Bahia,Flamengo RJ,0,1,,,,0
-1498428000,Chapecoense-SC,Atletico-MG,0,1,,,,0
-1498518000,Botafogo RJ,Avai,0,2,,,,0
-1498935600,Palmeiras,Gremio,1,0,,,,0
-1498946400,Atletico GO,Santos,1,1,,,,0
-1499022000,Vitoria,Bahia,0,0,,,,0
-1499022000,Sport Recife,Athletico-PR,1,0,,,,0
-1499022000,Flamengo RJ,Sao Paulo,2,0,,,,0
-1499022000,Corinthians,Botafogo RJ,1,0,,,,0
-1499022000,Atletico-MG,Cruzeiro,3,1,,,,0
-1499032800,Coritiba,Vasco,2,2,,,,0
-1499032800,Avai,Ponte Preta,0,0,,,,0
-1499122800,Fluminense,Chapecoense-SC,3,3,,,,0
-1499540400,Atletico GO,Vitoria,1,2,,,,0
-1499547600,Vasco,Flamengo RJ,0,1,,,,0
-1499551200,Corinthians,Ponte Preta,2,0,,,,0
-1499608800,Chapecoense-SC,Athletico-PR,1,1,,,,0
-1499626800,Gremio,Avai,0,2,,,,0
-1499626800,Cruzeiro,Palmeiras,3,1,,,,0
-1499626800,Bahia,Fluminense,1,1,,,,0
-1499637600,Santos,Sao Paulo,3,2,,,,0
-1499637600,Botafogo RJ,Atletico-MG,1,1,,,,0
-1499727600,Coritiba,Sport Recife,0,3,,,,0
-1499898600,Ponte Preta,Bahia,0,3,,,,0
-1499898600,Atletico-MG,Santos,0,1,,,,0
-1499904000,Fluminense,Botafogo RJ,0,1,,,,0
-1499906700,Vitoria,Vasco,1,4,,,,0
-1499906700,Palmeiras,Corinthians,0,2,,,,0
-1499906700,Athletico-PR,Cruzeiro,0,2,,,,0
-1499985000,Sport Recife,Chapecoense-SC,3,0,,,,0
-1499985000,Sao Paulo,Atletico GO,2,2,,,,0
-1499985000,Flamengo RJ,Gremio,0,1,,,,0
-1499990400,Avai,Coritiba,1,4,,,,0
-1500156000,Corinthians,Athletico-PR,2,2,,,,0
-1500213600,Palmeiras,Vitoria,4,2,,,,0
-1500231600,Vasco,Santos,0,0,,,,0
-1500231600,Gremio,Ponte Preta,3,1,,,,0
-1500231600,Cruzeiro,Flamengo RJ,1,1,,,,0
-1500231600,Chapecoense-SC,Sao Paulo,2,0,,,,0
-1500231600,Atletico GO,Atletico-MG,1,2,,,,0
-1500242400,Coritiba,Fluminense,1,2,,,,0
-1500242400,Bahia,Avai,1,1,,,,0
-1500332400,Botafogo RJ,Sport Recife,2,1,,,,0
-1500503400,Vitoria,Gremio,1,3,,,,0
-1500503400,Santos,Chapecoense-SC,1,0,,,,0
-1500508800,Ponte Preta,Coritiba,4,0,,,,0
-1500508800,Avai,Corinthians,0,0,,,,0
-1500511500,Sao Paulo,Vasco,1,0,,,,0
-1500511500,Flamengo RJ,Palmeiras,2,2,,,,0
-1500511500,Atletico-MG,Bahia,0,2,,,,0
-1500589800,Fluminense,Cruzeiro,1,1,,,,0
-1500591600,Sport Recife,Atletico GO,4,0,,,,0
-1500595200,Athletico-PR,Botafogo RJ,0,0,,,,0
-1500750000,Vitoria,Chapecoense-SC,1,2,,,,0
-1500760800,Flamengo RJ,Coritiba,2,1,,,,0
-1500818400,Santos,Bahia,3,0,,,,0
-1500836400,Sport Recife,Palmeiras,0,2,,,,0
-1500836400,Fluminense,Corinthians,0,1,,,,0
-1500836400,Avai,Cruzeiro,1,0,,,,0
-1500847200,Atletico-MG,Vasco,1,2,,,,0
-1500847200,Atletico GO,Botafogo RJ,1,1,,,,0
-1500847200,Athletico-PR,Ponte Preta,0,2,,,,0
-1500937200,Sao Paulo,Gremio,1,1,,,,0
-1501354800,Botafogo RJ,Sao Paulo,3,4,,,,0
-1501365600,Palmeiras,Avai,2,0,,,,0
-1501423200,Chapecoense-SC,Atletico GO,1,2,,,,0
-1501441200,Coritiba,Atletico-MG,0,2,,,,0
-1501441200,Corinthians,Flamengo RJ,1,1,,,,0
-1501441200,Bahia,Sport Recife,1,3,,,,0
-1501452000,Gremio,Santos,1,1,,,,0
-1501452000,Cruzeiro,Vitoria,0,0,,,,0
-1501542000,Vasco,Athletico-PR,0,1,,,,0
-1501713000,Sport Recife,Fluminense,2,2,,,,0
-1501713000,Chapecoense-SC,Bahia,1,1,,,,0
-1501718400,Vitoria,Ponte Preta,3,1,,,,0
-1501718400,Atletico-MG,Corinthians,0,2,,,,0
-1501721100,Santos,Flamengo RJ,3,2,,,,0
-1501721100,Botafogo RJ,Palmeiras,1,2,,,,0
-1501721100,Atletico GO,Gremio,0,1,,,,0
-1501799400,Sao Paulo,Coritiba,1,2,,,,0
-1501799400,Athletico-PR,Avai,5,0,,,,0
-1501801200,Vasco,Cruzeiro,0,3,,,,0
-1501970400,Fluminense,Atletico GO,3,1,,,,0
-1501970400,Corinthians,Sport Recife,3,1,,,,0
-1502028000,Flamengo RJ,Vitoria,0,2,,,,0
-1502046000,Palmeiras,Athletico-PR,0,1,,,,0
-1502046000,Gremio,Atletico-MG,2,0,,,,0
-1502046000,Cruzeiro,Botafogo RJ,0,0,,,,0
-1502046000,Coritiba,Chapecoense-SC,2,0,,,,0
-1502046000,Bahia,Sao Paulo,2,1,,,,0
-1502056800,Ponte Preta,Vasco,0,0,,,,0
-1502056800,Avai,Santos,0,0,,,,0
-1502319600,Ponte Preta,Fluminense,0,0,,,,0
-1502564400,Atletico GO,Coritiba,1,0,,,,0
-1502575200,Vitoria,Avai,0,1,,,,0
-1502632800,Sao Paulo,Cruzeiro,3,2,,,,0
-1502650800,Vasco,Palmeiras,1,1,,,,0
-1502650800,Sport Recife,Ponte Preta,0,0,,,,0
-1502650800,Atletico-MG,Flamengo RJ,2,0,,,,0
-1502661600,Botafogo RJ,Gremio,1,0,,,,0
-1502661600,Athletico-PR,Bahia,4,1,,,,0
-1502751600,Santos,Fluminense,0,0,,,,0
-1503169200,Corinthians,Vitoria,0,1,,,,0
-1503180000,Flamengo RJ,Atletico GO,2,0,,,,0
-1503237600,Gremio,Athletico-PR,0,0,,,,0
-1503255600,Ponte Preta,Botafogo RJ,2,1,,,,0
-1503255600,Cruzeiro,Sport Recife,2,0,,,,0
-1503255600,Bahia,Vasco,3,0,,,,0
-1503255600,Avai,Sao Paulo,1,1,,,,0
-1503266400,Palmeiras,Chapecoense-SC,0,2,,,,0
-1503266400,Coritiba,Santos,0,0,,,,0
-1503356400,Fluminense,Atletico-MG,2,1,,,,0
-1503527400,Chapecoense-SC,Corinthians,0,1,,,,0
-1503774000,Fluminense,Vasco,0,1,,,,0
-1503784800,Corinthians,Atletico GO,0,1,,,,0
-1503860400,Ponte Preta,Atletico-MG,1,2,,,,0
-1503860400,Palmeiras,Sao Paulo,4,2,,,,0
-1503860400,Flamengo RJ,Athletico-PR,2,0,,,,0
-1503860400,Bahia,Botafogo RJ,1,2,,,,0
-1503871200,Cruzeiro,Santos,1,1,,,,0
-1503871200,Avai,Chapecoense-SC,1,0,,,,0
-1503961200,Coritiba,Vitoria,0,1,,,,0
-1504378800,Gremio,Sport Recife,5,0,,,,0
-1504983600,Atletico-MG,Palmeiras,1,1,,,,0
-1504990800,Vasco,Gremio,1,0,,,,0
-1504994400,Sao Paulo,Ponte Preta,2,2,,,,0
-1505052000,Athletico-PR,Coritiba,1,1,,,,0
-1505070000,Vitoria,Fluminense,2,2,,,,0
-1505070000,Sport Recife,Avai,0,1,,,,0
-1505070000,Santos,Corinthians,2,0,,,,0
-1505080800,Chapecoense-SC,Cruzeiro,1,2,,,,0
-1505080800,Botafogo RJ,Flamengo RJ,2,0,,,,0
-1505170800,Atletico GO,Bahia,1,1,,,,0
-1505599200,Botafogo RJ,Santos,2,0,,,,0
-1505606400,Ponte Preta,Atletico GO,1,3,,,,0
-1505656800,Avai,Atletico-MG,1,1,,,,0
-1505674800,Vitoria,Sao Paulo,1,2,,,,0
-1505674800,Gremio,Chapecoense-SC,0,1,,,,0
-1505674800,Flamengo RJ,Sport Recife,2,0,,,,0
-1505674800,Corinthians,Vasco,1,0,,,,0
-1505674800,Athletico-PR,Fluminense,3,1,,,,0
-1505685600,Cruzeiro,Bahia,1,0,,,,0
-1505775600,Palmeiras,Coritiba,1,0,,,,0
-1506204000,Flamengo RJ,Avai,1,1,,,,0
-1506211200,Santos,Athletico-PR,1,0,,,,0
-1506261600,Sao Paulo,Corinthians,1,1,,,,0
-1506279600,Fluminense,Palmeiras,0,1,,,,0
-1506279600,Coritiba,Botafogo RJ,2,3,,,,0
-1506279600,Chapecoense-SC,Ponte Preta,1,0,,,,0
-1506279600,Atletico GO,Cruzeiro,1,2,,,,0
-1506290400,Bahia,Gremio,1,0,,,,0
-1506290400,Atletico-MG,Vitoria,1,3,,,,0
-1506380400,Sport Recife,Vasco,1,1,,,,0
-1506798000,Vasco,Chapecoense-SC,1,1,,,,0
-1506798000,Bahia,Coritiba,1,1,,,,0
-1506808800,Palmeiras,Santos,0,1,,,,0
-1506884400,Sao Paulo,Sport Recife,1,0,,,,0
-1506884400,Gremio,Fluminense,1,0,,,,0
-1506884400,Cruzeiro,Corinthians,1,1,,,,0
-1506884400,Botafogo RJ,Vitoria,2,3,,,,0
-1506884400,Avai,Atletico GO,0,2,,,,0
-1506895200,Athletico-PR,Atletico-MG,0,2,,,,0
-1506985200,Ponte Preta,Flamengo RJ,1,0,,,,0
-1507402800,Cruzeiro,Ponte Preta,2,1,,,,0
-1507761000,Botafogo RJ,Chapecoense-SC,2,1,,,,0
-1507761000,Athletico-PR,Atletico GO,2,2,,,,0
-1507766400,Corinthians,Coritiba,3,1,,,,0
-1507769100,Gremio,Cruzeiro,0,1,,,,0
-1507769100,Avai,Vasco,1,2,,,,0
-1507769100,Atletico-MG,Sao Paulo,1,0,,,,0
-1507838400,Vitoria,Sport Recife,1,2,,,,0
-1507838400,Ponte Preta,Santos,1,1,,,,0
-1507838400,Flamengo RJ,Fluminense,1,1,,,,0
-1507852800,Palmeiras,Bahia,2,2,,,,0
-1508018400,Vasco,Botafogo RJ,1,0,,,,0
-1508025600,Sao Paulo,Athletico-PR,2,1,,,,0
-1508094000,Sport Recife,Atletico-MG,1,1,,,,0
-1508094000,Fluminense,Avai,1,0,,,,0
-1508094000,Chapecoense-SC,Flamengo RJ,0,1,,,,0
-1508094000,Atletico GO,Palmeiras,1,3,,,,0
-1508101200,Coritiba,Gremio,0,1,,,,0
-1508101200,Bahia,Corinthians,2,0,,,,0
-1508191200,Santos,Vitoria,2,2,,,,0
-1508362200,Coritiba,Cruzeiro,1,0,,,,0
-1508362200,Atletico GO,Vasco,0,1,,,,0
-1508367600,Atletico-MG,Chapecoense-SC,2,3,,,,0
-1508370300,Fluminense,Sao Paulo,3,1,,,,0
-1508370300,Corinthians,Gremio,0,0,,,,0
-1508370300,Avai,Botafogo RJ,1,1,,,,0
-1508450400,Vitoria,Athletico-PR,2,3,,,,0
-1508450400,Palmeiras,Ponte Preta,2,0,,,,0
-1508454000,Sport Recife,Santos,1,1,,,,0
-1508454000,Flamengo RJ,Bahia,4,1,,,,0
-1508612400,Vasco,Coritiba,1,1,,,,0
-1508698800,Sao Paulo,Flamengo RJ,2,0,,,,0
-1508698800,Santos,Atletico GO,1,0,,,,0
-1508698800,Gremio,Palmeiras,1,3,,,,0
-1508698800,Cruzeiro,Atletico-MG,1,3,,,,0
-1508698800,Bahia,Vitoria,2,1,,,,0
-1508698800,Athletico-PR,Sport Recife,2,1,,,,0
-1508706000,Ponte Preta,Avai,1,2,,,,0
-1508706000,Chapecoense-SC,Fluminense,2,0,,,,0
-1508796000,Botafogo RJ,Corinthians,2,1,,,,0
-1509217200,Sao Paulo,Santos,2,1,,,,0
-1509224400,Flamengo RJ,Vasco,0,0,,,,0
-1509231600,Athletico-PR,Chapecoense-SC,0,0,,,,0
-1509303600,Ponte Preta,Corinthians,1,0,,,,0
-1509303600,Fluminense,Bahia,1,1,,,,0
-1509303600,Atletico-MG,Botafogo RJ,0,0,,,,0
-1509307200,Vitoria,Atletico GO,1,1,,,,0
-1509307200,Sport Recife,Coritiba,3,4,,,,0
-1509310800,Avai,Gremio,2,2,,,,0
-1509400800,Palmeiras,Cruzeiro,2,2,,,,0
-1509822000,Santos,Atletico-MG,3,1,,,,0
-1509829200,Botafogo RJ,Fluminense,1,2,,,,0
-1509829200,Atletico GO,Sao Paulo,0,1,,,,0
-1509836400,Coritiba,Avai,4,0,,,,0
-1509908400,Gremio,Flamengo RJ,3,1,,,,0
-1509908400,Cruzeiro,Athletico-PR,1,0,,,,0
-1509908400,Corinthians,Palmeiras,3,2,,,,0
-1509912000,Bahia,Ponte Preta,2,0,,,,0
-1509915600,Vasco,Vitoria,1,1,,,,0
-1509915600,Chapecoense-SC,Sport Recife,1,1,,,,0
-1510176600,Ponte Preta,Gremio,0,1,,,,0
-1510176600,Avai,Bahia,1,2,,,,0
-1510182000,Sport Recife,Botafogo RJ,1,2,,,,0
-1510182000,Athletico-PR,Corinthians,0,1,,,,0
-1510184700,Vitoria,Palmeiras,3,1,,,,0
-1510184700,Santos,Vasco,1,2,,,,0
-1510184700,Flamengo RJ,Cruzeiro,2,0,,,,0
-1510264800,Sao Paulo,Chapecoense-SC,2,2,,,,0
-1510264800,Atletico-MG,Atletico GO,3,2,,,,0
-1510268400,Fluminense,Coritiba,2,2,,,,0
-1510426800,Botafogo RJ,Athletico-PR,0,1,,,,0
-1510434000,Corinthians,Avai,1,0,,,,0
-1510513200,Vasco,Sao Paulo,1,1,,,,0
-1510513200,Palmeiras,Flamengo RJ,2,0,,,,0
-1510513200,Gremio,Vitoria,1,1,,,,0
-1510513200,Atletico GO,Sport Recife,2,0,,,,0
-1510516800,Bahia,Atletico-MG,2,2,,,,0
-1510520400,Cruzeiro,Fluminense,3,1,,,,0
-1510520400,Coritiba,Ponte Preta,1,1,,,,0
-1510610400,Chapecoense-SC,Santos,2,0,,,,0
-1510772400,Ponte Preta,Athletico-PR,2,1,,,,0
-1510781400,Gremio,Sao Paulo,1,0,,,,0
-1510781400,Cruzeiro,Avai,2,2,,,,0
-1510789500,Vasco,Atletico-MG,1,1,,,,0
-1510789500,Corinthians,Fluminense,3,1,,,,0
-1510869600,Palmeiras,Sport Recife,5,1,,,,0
-1510869600,Chapecoense-SC,Vitoria,2,1,,,,0
-1510869600,Botafogo RJ,Atletico GO,1,2,,,,0
-1510873200,Coritiba,Flamengo RJ,1,0,,,,0
-1510873200,Bahia,Santos,3,1,,,,0
-1511118000,Vitoria,Cruzeiro,1,1,,,,0
-1511118000,Sport Recife,Bahia,1,0,,,,0
-1511118000,Sao Paulo,Botafogo RJ,0,0,,,,0
-1511118000,Flamengo RJ,Corinthians,3,0,,,,0
-1511118000,Atletico GO,Chapecoense-SC,1,1,,,,0
-1511125200,Santos,Gremio,1,0,,,,0
-1511125200,Atletico-MG,Coritiba,3,0,,,,0
-1511125200,Athletico-PR,Vasco,3,1,,,,0
-1511204400,Fluminense,Ponte Preta,2,0,,,,0
-1511215200,Avai,Palmeiras,2,1,,,,0
-1511636400,Fluminense,Sport Recife,1,2,,,,0
-1511722800,Ponte Preta,Vitoria,2,3,,,,0
-1511722800,Gremio,Atletico GO,1,1,,,,0
-1511722800,Cruzeiro,Vasco,0,1,,,,0
-1511722800,Coritiba,Sao Paulo,1,2,,,,0
-1511722800,Corinthians,Atletico-MG,2,2,,,,0
-1511722800,Avai,Athletico-PR,1,0,,,,0
-1511730000,Flamengo RJ,Santos,1,2,,,,0
-1511730000,Bahia,Chapecoense-SC,0,1,,,,0
-1511820000,Palmeiras,Botafogo RJ,2,0,,,,0
-1512327600,Vitoria,Flamengo RJ,1,2,,,,0
-1512327600,Vasco,Ponte Preta,2,1,,,,0
-1512327600,Sport Recife,Corinthians,1,0,,,,0
-1512327600,Sao Paulo,Bahia,1,1,,,,0
-1512327600,Santos,Avai,1,1,,,,0
-1512327600,Chapecoense-SC,Coritiba,2,1,,,,0
-1512327600,Botafogo RJ,Cruzeiro,2,2,,,,0
-1512327600,Atletico-MG,Gremio,4,3,,,,0
-1512327600,Atletico GO,Fluminense,1,1,,,,0
-1512327600,Athletico-PR,Palmeiras,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1494702000,Flamengo RJ,Atletico-MG,2R2JjDQC,pCk2vaSD,1,1,,,,0
+1494712800,Corinthians,Chapecoense-SC,Sv3m8l2G,ALatFnbP,1,1,,,,0
+1494770400,Fluminense,Santos,WUfDDYk1,hv442jSk,3,2,,,,0
+1494788400,Ponte Preta,Sport Recife,4S2Tm4eJ,G2OQQubE,4,0,,,,0
+1494788400,Palmeiras,Vasco,ALgHCh57,bam8o1Nj,4,0,,,,0
+1494788400,Cruzeiro,Sao Paulo,SjJmyx86,AkTesf41,1,0,,,,0
+1494788400,Bahia,Athletico-PR,dKUmd286,QaMaOfUh,6,2,,,,0
+1494788400,Avai,Vitoria,2LNvhL4k,QwRlGht5,0,0,,,,0
+1494799200,Gremio,Botafogo RJ,tQsU6dGl,rJBthgZj,2,0,,,,0
+1494889200,Coritiba,Atletico GO,8f6Hj6B0,8f6Hj6B0,4,1,,,,0
+1495306800,Santos,Coritiba,hv442jSk,8f6Hj6B0,1,0,,,,0
+1495317600,Chapecoense-SC,Palmeiras,ALatFnbP,ALgHCh57,1,0,,,,0
+1495317600,Atletico GO,Flamengo RJ,8f6Hj6B0,2R2JjDQC,0,3,,,,0
+1495375200,Vasco,Bahia,bam8o1Nj,dKUmd286,2,1,,,,0
+1495393200,Vitoria,Corinthians,QwRlGht5,Sv3m8l2G,0,1,,,,0
+1495393200,Atletico-MG,Fluminense,pCk2vaSD,WUfDDYk1,1,2,,,,0
+1495393200,Athletico-PR,Gremio,QaMaOfUh,tQsU6dGl,0,2,,,,0
+1495400400,Botafogo RJ,Ponte Preta,rJBthgZj,4S2Tm4eJ,2,0,,,,0
+1495404000,Sport Recife,Cruzeiro,G2OQQubE,SjJmyx86,1,1,,,,0
+1495494000,Sao Paulo,Avai,AkTesf41,2LNvhL4k,2,0,,,,0
+1495911600,Vasco,Fluminense,bam8o1Nj,WUfDDYk1,3,2,,,,0
+1495922400,Sao Paulo,Palmeiras,AkTesf41,ALgHCh57,2,0,,,,0
+1495929600,Vitoria,Coritiba,QwRlGht5,8f6Hj6B0,0,1,,,,0
+1495980000,Atletico-MG,Ponte Preta,pCk2vaSD,4S2Tm4eJ,2,2,,,,0
+1495998000,Santos,Cruzeiro,hv442jSk,SjJmyx86,0,1,,,,0
+1495998000,Atletico GO,Corinthians,8f6Hj6B0,Sv3m8l2G,0,1,,,,0
+1495998000,Athletico-PR,Flamengo RJ,QaMaOfUh,2R2JjDQC,1,1,,,,0
+1496005200,Sport Recife,Gremio,G2OQQubE,tQsU6dGl,4,3,,,,0
+1496008800,Botafogo RJ,Bahia,rJBthgZj,dKUmd286,1,0,,,,0
+1496098800,Chapecoense-SC,Avai,ALatFnbP,2LNvhL4k,2,0,,,,0
+1496516400,Coritiba,Athletico-PR,8f6Hj6B0,QaMaOfUh,1,0,,,,0
+1496523600,Fluminense,Vitoria,WUfDDYk1,QwRlGht5,2,1,,,,0
+1496527200,Corinthians,Santos,Sv3m8l2G,hv442jSk,2,0,,,,0
+1496584800,Flamengo RJ,Botafogo RJ,2R2JjDQC,rJBthgZj,0,0,,,,0
+1496584800,Avai,Sport Recife,2LNvhL4k,G2OQQubE,1,0,,,,0
+1496602800,Ponte Preta,Sao Paulo,4S2Tm4eJ,AkTesf41,1,0,,,,0
+1496602800,Palmeiras,Atletico-MG,ALgHCh57,pCk2vaSD,0,0,,,,0
+1496602800,Gremio,Vasco,tQsU6dGl,bam8o1Nj,2,0,,,,0
+1496613600,Cruzeiro,Chapecoense-SC,SjJmyx86,ALatFnbP,0,2,,,,0
+1496703600,Bahia,Atletico GO,dKUmd286,8f6Hj6B0,3,0,,,,0
+1496790000,Fluminense,Athletico-PR,WUfDDYk1,QaMaOfUh,1,1,,,,0
+1496874600,Coritiba,Palmeiras,8f6Hj6B0,ALgHCh57,1,0,,,,0
+1496874600,Atletico-MG,Avai,pCk2vaSD,2LNvhL4k,1,0,,,,0
+1496880000,Santos,Botafogo RJ,hv442jSk,rJBthgZj,1,0,,,,0
+1496882700,Vasco,Corinthians,bam8o1Nj,Sv3m8l2G,2,5,,,,0
+1496882700,Sport Recife,Flamengo RJ,G2OQQubE,2R2JjDQC,2,0,,,,0
+1496961000,Sao Paulo,Vitoria,AkTesf41,QwRlGht5,2,0,,,,0
+1496961000,Atletico GO,Ponte Preta,8f6Hj6B0,4S2Tm4eJ,3,0,,,,0
+1496962800,Chapecoense-SC,Gremio,ALatFnbP,tQsU6dGl,3,6,,,,0
+1496966400,Bahia,Cruzeiro,dKUmd286,SjJmyx86,1,0,,,,0
+1497121200,Palmeiras,Fluminense,ALgHCh57,WUfDDYk1,3,1,,,,0
+1497132000,Vasco,Sport Recife,bam8o1Nj,G2OQQubE,2,1,,,,0
+1497189600,Botafogo RJ,Coritiba,rJBthgZj,8f6Hj6B0,2,2,,,,0
+1497207600,Vitoria,Atletico-MG,QwRlGht5,pCk2vaSD,2,0,,,,0
+1497207600,Ponte Preta,Chapecoense-SC,4S2Tm4eJ,ALatFnbP,3,2,,,,0
+1497207600,Corinthians,Sao Paulo,Sv3m8l2G,AkTesf41,3,2,,,,0
+1497207600,Avai,Flamengo RJ,2LNvhL4k,2R2JjDQC,1,1,,,,0
+1497216600,Cruzeiro,Atletico GO,SjJmyx86,8f6Hj6B0,2,0,,,,0
+1497218400,Athletico-PR,Santos,QaMaOfUh,hv442jSk,0,2,,,,0
+1497308400,Gremio,Bahia,tQsU6dGl,dKUmd286,1,0,,,,0
+1497479400,Vitoria,Botafogo RJ,QwRlGht5,rJBthgZj,2,2,,,,0
+1497479400,Sport Recife,Sao Paulo,G2OQQubE,AkTesf41,0,0,,,,0
+1497479400,Atletico-MG,Athletico-PR,pCk2vaSD,QaMaOfUh,0,1,,,,0
+1497479400,Atletico GO,Avai,8f6Hj6B0,2LNvhL4k,3,1,,,,0
+1497484800,Flamengo RJ,Ponte Preta,2R2JjDQC,4S2Tm4eJ,2,0,,,,0
+1497487500,Santos,Palmeiras,hv442jSk,ALgHCh57,1,0,,,,0
+1497487500,Corinthians,Cruzeiro,Sv3m8l2G,SjJmyx86,1,0,,,,0
+1497487500,Chapecoense-SC,Vasco,ALatFnbP,bam8o1Nj,2,1,,,,0
+1497553200,Coritiba,Bahia,8f6Hj6B0,dKUmd286,0,0,,,,0
+1497571200,Fluminense,Gremio,WUfDDYk1,tQsU6dGl,0,2,,,,0
+1497726000,Atletico GO,Athletico-PR,8f6Hj6B0,QaMaOfUh,0,1,,,,0
+1497736800,Vasco,Avai,bam8o1Nj,2LNvhL4k,1,0,,,,0
+1497744000,Santos,Ponte Preta,hv442jSk,4S2Tm4eJ,0,0,,,,0
+1497794400,Coritiba,Corinthians,8f6Hj6B0,Sv3m8l2G,0,0,,,,0
+1497812400,Sao Paulo,Atletico-MG,AkTesf41,pCk2vaSD,1,2,,,,0
+1497812400,Fluminense,Flamengo RJ,WUfDDYk1,2R2JjDQC,2,2,,,,0
+1497812400,Chapecoense-SC,Botafogo RJ,ALatFnbP,rJBthgZj,0,2,,,,0
+1497812400,Bahia,Palmeiras,dKUmd286,ALgHCh57,2,4,,,,0
+1497823200,Sport Recife,Vitoria,G2OQQubE,QwRlGht5,1,3,,,,0
+1497913200,Cruzeiro,Gremio,SjJmyx86,tQsU6dGl,3,3,,,,0
+1498084200,Vitoria,Santos,QwRlGht5,hv442jSk,0,2,,,,0
+1498089600,Palmeiras,Atletico GO,ALgHCh57,8f6Hj6B0,1,0,,,,0
+1498089600,Botafogo RJ,Vasco,rJBthgZj,bam8o1Nj,3,1,,,,0
+1498092300,Avai,Fluminense,2LNvhL4k,WUfDDYk1,0,3,,,,0
+1498092300,Atletico-MG,Sport Recife,pCk2vaSD,G2OQQubE,2,2,,,,0
+1498092300,Athletico-PR,Sao Paulo,QaMaOfUh,AkTesf41,1,0,,,,0
+1498170600,Ponte Preta,Cruzeiro,4S2Tm4eJ,SjJmyx86,1,0,,,,0
+1498170600,Corinthians,Bahia,Sv3m8l2G,dKUmd286,3,0,,,,0
+1498176000,Gremio,Coritiba,tQsU6dGl,8f6Hj6B0,2,0,,,,0
+1498176000,Flamengo RJ,Chapecoense-SC,2R2JjDQC,ALatFnbP,5,1,,,,0
+1498341600,Santos,Sport Recife,hv442jSk,G2OQQubE,0,1,,,,0
+1498399200,Vasco,Atletico GO,bam8o1Nj,8f6Hj6B0,1,0,,,,0
+1498417200,Sao Paulo,Fluminense,AkTesf41,WUfDDYk1,1,1,,,,0
+1498417200,Ponte Preta,Palmeiras,4S2Tm4eJ,ALgHCh57,1,2,,,,0
+1498417200,Gremio,Corinthians,tQsU6dGl,Sv3m8l2G,0,1,,,,0
+1498417200,Cruzeiro,Coritiba,SjJmyx86,8f6Hj6B0,2,0,,,,0
+1498417200,Athletico-PR,Vitoria,QaMaOfUh,QwRlGht5,4,1,,,,0
+1498426200,Bahia,Flamengo RJ,dKUmd286,2R2JjDQC,0,1,,,,0
+1498428000,Chapecoense-SC,Atletico-MG,ALatFnbP,pCk2vaSD,0,1,,,,0
+1498518000,Botafogo RJ,Avai,rJBthgZj,2LNvhL4k,0,2,,,,0
+1498935600,Palmeiras,Gremio,ALgHCh57,tQsU6dGl,1,0,,,,0
+1498946400,Atletico GO,Santos,8f6Hj6B0,hv442jSk,1,1,,,,0
+1499022000,Vitoria,Bahia,QwRlGht5,dKUmd286,0,0,,,,0
+1499022000,Sport Recife,Athletico-PR,G2OQQubE,QaMaOfUh,1,0,,,,0
+1499022000,Flamengo RJ,Sao Paulo,2R2JjDQC,AkTesf41,2,0,,,,0
+1499022000,Corinthians,Botafogo RJ,Sv3m8l2G,rJBthgZj,1,0,,,,0
+1499022000,Atletico-MG,Cruzeiro,pCk2vaSD,SjJmyx86,3,1,,,,0
+1499032800,Coritiba,Vasco,8f6Hj6B0,bam8o1Nj,2,2,,,,0
+1499032800,Avai,Ponte Preta,2LNvhL4k,4S2Tm4eJ,0,0,,,,0
+1499122800,Fluminense,Chapecoense-SC,WUfDDYk1,ALatFnbP,3,3,,,,0
+1499540400,Atletico GO,Vitoria,8f6Hj6B0,QwRlGht5,1,2,,,,0
+1499547600,Vasco,Flamengo RJ,bam8o1Nj,2R2JjDQC,0,1,,,,0
+1499551200,Corinthians,Ponte Preta,Sv3m8l2G,4S2Tm4eJ,2,0,,,,0
+1499608800,Chapecoense-SC,Athletico-PR,ALatFnbP,QaMaOfUh,1,1,,,,0
+1499626800,Gremio,Avai,tQsU6dGl,2LNvhL4k,0,2,,,,0
+1499626800,Cruzeiro,Palmeiras,SjJmyx86,ALgHCh57,3,1,,,,0
+1499626800,Bahia,Fluminense,dKUmd286,WUfDDYk1,1,1,,,,0
+1499637600,Santos,Sao Paulo,hv442jSk,AkTesf41,3,2,,,,0
+1499637600,Botafogo RJ,Atletico-MG,rJBthgZj,pCk2vaSD,1,1,,,,0
+1499727600,Coritiba,Sport Recife,8f6Hj6B0,G2OQQubE,0,3,,,,0
+1499898600,Ponte Preta,Bahia,4S2Tm4eJ,dKUmd286,0,3,,,,0
+1499898600,Atletico-MG,Santos,pCk2vaSD,hv442jSk,0,1,,,,0
+1499904000,Fluminense,Botafogo RJ,WUfDDYk1,rJBthgZj,0,1,,,,0
+1499906700,Vitoria,Vasco,QwRlGht5,bam8o1Nj,1,4,,,,0
+1499906700,Palmeiras,Corinthians,ALgHCh57,Sv3m8l2G,0,2,,,,0
+1499906700,Athletico-PR,Cruzeiro,QaMaOfUh,SjJmyx86,0,2,,,,0
+1499985000,Sport Recife,Chapecoense-SC,G2OQQubE,ALatFnbP,3,0,,,,0
+1499985000,Sao Paulo,Atletico GO,AkTesf41,8f6Hj6B0,2,2,,,,0
+1499985000,Flamengo RJ,Gremio,2R2JjDQC,tQsU6dGl,0,1,,,,0
+1499990400,Avai,Coritiba,2LNvhL4k,8f6Hj6B0,1,4,,,,0
+1500156000,Corinthians,Athletico-PR,Sv3m8l2G,QaMaOfUh,2,2,,,,0
+1500213600,Palmeiras,Vitoria,ALgHCh57,QwRlGht5,4,2,,,,0
+1500231600,Vasco,Santos,bam8o1Nj,hv442jSk,0,0,,,,0
+1500231600,Gremio,Ponte Preta,tQsU6dGl,4S2Tm4eJ,3,1,,,,0
+1500231600,Cruzeiro,Flamengo RJ,SjJmyx86,2R2JjDQC,1,1,,,,0
+1500231600,Chapecoense-SC,Sao Paulo,ALatFnbP,AkTesf41,2,0,,,,0
+1500231600,Atletico GO,Atletico-MG,8f6Hj6B0,pCk2vaSD,1,2,,,,0
+1500242400,Coritiba,Fluminense,8f6Hj6B0,WUfDDYk1,1,2,,,,0
+1500242400,Bahia,Avai,dKUmd286,2LNvhL4k,1,1,,,,0
+1500332400,Botafogo RJ,Sport Recife,rJBthgZj,G2OQQubE,2,1,,,,0
+1500503400,Vitoria,Gremio,QwRlGht5,tQsU6dGl,1,3,,,,0
+1500503400,Santos,Chapecoense-SC,hv442jSk,ALatFnbP,1,0,,,,0
+1500508800,Ponte Preta,Coritiba,4S2Tm4eJ,8f6Hj6B0,4,0,,,,0
+1500508800,Avai,Corinthians,2LNvhL4k,Sv3m8l2G,0,0,,,,0
+1500511500,Sao Paulo,Vasco,AkTesf41,bam8o1Nj,1,0,,,,0
+1500511500,Flamengo RJ,Palmeiras,2R2JjDQC,ALgHCh57,2,2,,,,0
+1500511500,Atletico-MG,Bahia,pCk2vaSD,dKUmd286,0,2,,,,0
+1500589800,Fluminense,Cruzeiro,WUfDDYk1,SjJmyx86,1,1,,,,0
+1500591600,Sport Recife,Atletico GO,G2OQQubE,8f6Hj6B0,4,0,,,,0
+1500595200,Athletico-PR,Botafogo RJ,QaMaOfUh,rJBthgZj,0,0,,,,0
+1500750000,Vitoria,Chapecoense-SC,QwRlGht5,ALatFnbP,1,2,,,,0
+1500760800,Flamengo RJ,Coritiba,2R2JjDQC,8f6Hj6B0,2,1,,,,0
+1500818400,Santos,Bahia,hv442jSk,dKUmd286,3,0,,,,0
+1500836400,Sport Recife,Palmeiras,G2OQQubE,ALgHCh57,0,2,,,,0
+1500836400,Fluminense,Corinthians,WUfDDYk1,Sv3m8l2G,0,1,,,,0
+1500836400,Avai,Cruzeiro,2LNvhL4k,SjJmyx86,1,0,,,,0
+1500847200,Atletico-MG,Vasco,pCk2vaSD,bam8o1Nj,1,2,,,,0
+1500847200,Atletico GO,Botafogo RJ,8f6Hj6B0,rJBthgZj,1,1,,,,0
+1500847200,Athletico-PR,Ponte Preta,QaMaOfUh,4S2Tm4eJ,0,2,,,,0
+1500937200,Sao Paulo,Gremio,AkTesf41,tQsU6dGl,1,1,,,,0
+1501354800,Botafogo RJ,Sao Paulo,rJBthgZj,AkTesf41,3,4,,,,0
+1501365600,Palmeiras,Avai,ALgHCh57,2LNvhL4k,2,0,,,,0
+1501423200,Chapecoense-SC,Atletico GO,ALatFnbP,8f6Hj6B0,1,2,,,,0
+1501441200,Coritiba,Atletico-MG,8f6Hj6B0,pCk2vaSD,0,2,,,,0
+1501441200,Corinthians,Flamengo RJ,Sv3m8l2G,2R2JjDQC,1,1,,,,0
+1501441200,Bahia,Sport Recife,dKUmd286,G2OQQubE,1,3,,,,0
+1501452000,Gremio,Santos,tQsU6dGl,hv442jSk,1,1,,,,0
+1501452000,Cruzeiro,Vitoria,SjJmyx86,QwRlGht5,0,0,,,,0
+1501542000,Vasco,Athletico-PR,bam8o1Nj,QaMaOfUh,0,1,,,,0
+1501713000,Sport Recife,Fluminense,G2OQQubE,WUfDDYk1,2,2,,,,0
+1501713000,Chapecoense-SC,Bahia,ALatFnbP,dKUmd286,1,1,,,,0
+1501718400,Vitoria,Ponte Preta,QwRlGht5,4S2Tm4eJ,3,1,,,,0
+1501718400,Atletico-MG,Corinthians,pCk2vaSD,Sv3m8l2G,0,2,,,,0
+1501721100,Santos,Flamengo RJ,hv442jSk,2R2JjDQC,3,2,,,,0
+1501721100,Botafogo RJ,Palmeiras,rJBthgZj,ALgHCh57,1,2,,,,0
+1501721100,Atletico GO,Gremio,8f6Hj6B0,tQsU6dGl,0,1,,,,0
+1501799400,Sao Paulo,Coritiba,AkTesf41,8f6Hj6B0,1,2,,,,0
+1501799400,Athletico-PR,Avai,QaMaOfUh,2LNvhL4k,5,0,,,,0
+1501801200,Vasco,Cruzeiro,bam8o1Nj,SjJmyx86,0,3,,,,0
+1501970400,Fluminense,Atletico GO,WUfDDYk1,8f6Hj6B0,3,1,,,,0
+1501970400,Corinthians,Sport Recife,Sv3m8l2G,G2OQQubE,3,1,,,,0
+1502028000,Flamengo RJ,Vitoria,2R2JjDQC,QwRlGht5,0,2,,,,0
+1502046000,Palmeiras,Athletico-PR,ALgHCh57,QaMaOfUh,0,1,,,,0
+1502046000,Gremio,Atletico-MG,tQsU6dGl,pCk2vaSD,2,0,,,,0
+1502046000,Cruzeiro,Botafogo RJ,SjJmyx86,rJBthgZj,0,0,,,,0
+1502046000,Coritiba,Chapecoense-SC,8f6Hj6B0,ALatFnbP,2,0,,,,0
+1502046000,Bahia,Sao Paulo,dKUmd286,AkTesf41,2,1,,,,0
+1502056800,Ponte Preta,Vasco,4S2Tm4eJ,bam8o1Nj,0,0,,,,0
+1502056800,Avai,Santos,2LNvhL4k,hv442jSk,0,0,,,,0
+1502319600,Ponte Preta,Fluminense,4S2Tm4eJ,WUfDDYk1,0,0,,,,0
+1502564400,Atletico GO,Coritiba,8f6Hj6B0,8f6Hj6B0,1,0,,,,0
+1502575200,Vitoria,Avai,QwRlGht5,2LNvhL4k,0,1,,,,0
+1502632800,Sao Paulo,Cruzeiro,AkTesf41,SjJmyx86,3,2,,,,0
+1502650800,Vasco,Palmeiras,bam8o1Nj,ALgHCh57,1,1,,,,0
+1502650800,Sport Recife,Ponte Preta,G2OQQubE,4S2Tm4eJ,0,0,,,,0
+1502650800,Atletico-MG,Flamengo RJ,pCk2vaSD,2R2JjDQC,2,0,,,,0
+1502661600,Botafogo RJ,Gremio,rJBthgZj,tQsU6dGl,1,0,,,,0
+1502661600,Athletico-PR,Bahia,QaMaOfUh,dKUmd286,4,1,,,,0
+1502751600,Santos,Fluminense,hv442jSk,WUfDDYk1,0,0,,,,0
+1503169200,Corinthians,Vitoria,Sv3m8l2G,QwRlGht5,0,1,,,,0
+1503180000,Flamengo RJ,Atletico GO,2R2JjDQC,8f6Hj6B0,2,0,,,,0
+1503237600,Gremio,Athletico-PR,tQsU6dGl,QaMaOfUh,0,0,,,,0
+1503255600,Ponte Preta,Botafogo RJ,4S2Tm4eJ,rJBthgZj,2,1,,,,0
+1503255600,Cruzeiro,Sport Recife,SjJmyx86,G2OQQubE,2,0,,,,0
+1503255600,Bahia,Vasco,dKUmd286,bam8o1Nj,3,0,,,,0
+1503255600,Avai,Sao Paulo,2LNvhL4k,AkTesf41,1,1,,,,0
+1503266400,Palmeiras,Chapecoense-SC,ALgHCh57,ALatFnbP,0,2,,,,0
+1503266400,Coritiba,Santos,8f6Hj6B0,hv442jSk,0,0,,,,0
+1503356400,Fluminense,Atletico-MG,WUfDDYk1,pCk2vaSD,2,1,,,,0
+1503527400,Chapecoense-SC,Corinthians,ALatFnbP,Sv3m8l2G,0,1,,,,0
+1503774000,Fluminense,Vasco,WUfDDYk1,bam8o1Nj,0,1,,,,0
+1503784800,Corinthians,Atletico GO,Sv3m8l2G,8f6Hj6B0,0,1,,,,0
+1503860400,Ponte Preta,Atletico-MG,4S2Tm4eJ,pCk2vaSD,1,2,,,,0
+1503860400,Palmeiras,Sao Paulo,ALgHCh57,AkTesf41,4,2,,,,0
+1503860400,Flamengo RJ,Athletico-PR,2R2JjDQC,QaMaOfUh,2,0,,,,0
+1503860400,Bahia,Botafogo RJ,dKUmd286,rJBthgZj,1,2,,,,0
+1503871200,Cruzeiro,Santos,SjJmyx86,hv442jSk,1,1,,,,0
+1503871200,Avai,Chapecoense-SC,2LNvhL4k,ALatFnbP,1,0,,,,0
+1503961200,Coritiba,Vitoria,8f6Hj6B0,QwRlGht5,0,1,,,,0
+1504378800,Gremio,Sport Recife,tQsU6dGl,G2OQQubE,5,0,,,,0
+1504983600,Atletico-MG,Palmeiras,pCk2vaSD,ALgHCh57,1,1,,,,0
+1504990800,Vasco,Gremio,bam8o1Nj,tQsU6dGl,1,0,,,,0
+1504994400,Sao Paulo,Ponte Preta,AkTesf41,4S2Tm4eJ,2,2,,,,0
+1505052000,Athletico-PR,Coritiba,QaMaOfUh,8f6Hj6B0,1,1,,,,0
+1505070000,Vitoria,Fluminense,QwRlGht5,WUfDDYk1,2,2,,,,0
+1505070000,Sport Recife,Avai,G2OQQubE,2LNvhL4k,0,1,,,,0
+1505070000,Santos,Corinthians,hv442jSk,Sv3m8l2G,2,0,,,,0
+1505080800,Chapecoense-SC,Cruzeiro,ALatFnbP,SjJmyx86,1,2,,,,0
+1505080800,Botafogo RJ,Flamengo RJ,rJBthgZj,2R2JjDQC,2,0,,,,0
+1505170800,Atletico GO,Bahia,8f6Hj6B0,dKUmd286,1,1,,,,0
+1505599200,Botafogo RJ,Santos,rJBthgZj,hv442jSk,2,0,,,,0
+1505606400,Ponte Preta,Atletico GO,4S2Tm4eJ,8f6Hj6B0,1,3,,,,0
+1505656800,Avai,Atletico-MG,2LNvhL4k,pCk2vaSD,1,1,,,,0
+1505674800,Vitoria,Sao Paulo,QwRlGht5,AkTesf41,1,2,,,,0
+1505674800,Gremio,Chapecoense-SC,tQsU6dGl,ALatFnbP,0,1,,,,0
+1505674800,Flamengo RJ,Sport Recife,2R2JjDQC,G2OQQubE,2,0,,,,0
+1505674800,Corinthians,Vasco,Sv3m8l2G,bam8o1Nj,1,0,,,,0
+1505674800,Athletico-PR,Fluminense,QaMaOfUh,WUfDDYk1,3,1,,,,0
+1505685600,Cruzeiro,Bahia,SjJmyx86,dKUmd286,1,0,,,,0
+1505775600,Palmeiras,Coritiba,ALgHCh57,8f6Hj6B0,1,0,,,,0
+1506204000,Flamengo RJ,Avai,2R2JjDQC,2LNvhL4k,1,1,,,,0
+1506211200,Santos,Athletico-PR,hv442jSk,QaMaOfUh,1,0,,,,0
+1506261600,Sao Paulo,Corinthians,AkTesf41,Sv3m8l2G,1,1,,,,0
+1506279600,Fluminense,Palmeiras,WUfDDYk1,ALgHCh57,0,1,,,,0
+1506279600,Coritiba,Botafogo RJ,8f6Hj6B0,rJBthgZj,2,3,,,,0
+1506279600,Chapecoense-SC,Ponte Preta,ALatFnbP,4S2Tm4eJ,1,0,,,,0
+1506279600,Atletico GO,Cruzeiro,8f6Hj6B0,SjJmyx86,1,2,,,,0
+1506290400,Bahia,Gremio,dKUmd286,tQsU6dGl,1,0,,,,0
+1506290400,Atletico-MG,Vitoria,pCk2vaSD,QwRlGht5,1,3,,,,0
+1506380400,Sport Recife,Vasco,G2OQQubE,bam8o1Nj,1,1,,,,0
+1506798000,Vasco,Chapecoense-SC,bam8o1Nj,ALatFnbP,1,1,,,,0
+1506798000,Bahia,Coritiba,dKUmd286,8f6Hj6B0,1,1,,,,0
+1506808800,Palmeiras,Santos,ALgHCh57,hv442jSk,0,1,,,,0
+1506884400,Sao Paulo,Sport Recife,AkTesf41,G2OQQubE,1,0,,,,0
+1506884400,Gremio,Fluminense,tQsU6dGl,WUfDDYk1,1,0,,,,0
+1506884400,Cruzeiro,Corinthians,SjJmyx86,Sv3m8l2G,1,1,,,,0
+1506884400,Botafogo RJ,Vitoria,rJBthgZj,QwRlGht5,2,3,,,,0
+1506884400,Avai,Atletico GO,2LNvhL4k,8f6Hj6B0,0,2,,,,0
+1506895200,Athletico-PR,Atletico-MG,QaMaOfUh,pCk2vaSD,0,2,,,,0
+1506985200,Ponte Preta,Flamengo RJ,4S2Tm4eJ,2R2JjDQC,1,0,,,,0
+1507402800,Cruzeiro,Ponte Preta,SjJmyx86,4S2Tm4eJ,2,1,,,,0
+1507761000,Botafogo RJ,Chapecoense-SC,rJBthgZj,ALatFnbP,2,1,,,,0
+1507761000,Athletico-PR,Atletico GO,QaMaOfUh,8f6Hj6B0,2,2,,,,0
+1507766400,Corinthians,Coritiba,Sv3m8l2G,8f6Hj6B0,3,1,,,,0
+1507769100,Gremio,Cruzeiro,tQsU6dGl,SjJmyx86,0,1,,,,0
+1507769100,Avai,Vasco,2LNvhL4k,bam8o1Nj,1,2,,,,0
+1507769100,Atletico-MG,Sao Paulo,pCk2vaSD,AkTesf41,1,0,,,,0
+1507838400,Vitoria,Sport Recife,QwRlGht5,G2OQQubE,1,2,,,,0
+1507838400,Ponte Preta,Santos,4S2Tm4eJ,hv442jSk,1,1,,,,0
+1507838400,Flamengo RJ,Fluminense,2R2JjDQC,WUfDDYk1,1,1,,,,0
+1507852800,Palmeiras,Bahia,ALgHCh57,dKUmd286,2,2,,,,0
+1508018400,Vasco,Botafogo RJ,bam8o1Nj,rJBthgZj,1,0,,,,0
+1508025600,Sao Paulo,Athletico-PR,AkTesf41,QaMaOfUh,2,1,,,,0
+1508094000,Sport Recife,Atletico-MG,G2OQQubE,pCk2vaSD,1,1,,,,0
+1508094000,Fluminense,Avai,WUfDDYk1,2LNvhL4k,1,0,,,,0
+1508094000,Chapecoense-SC,Flamengo RJ,ALatFnbP,2R2JjDQC,0,1,,,,0
+1508094000,Atletico GO,Palmeiras,8f6Hj6B0,ALgHCh57,1,3,,,,0
+1508101200,Coritiba,Gremio,8f6Hj6B0,tQsU6dGl,0,1,,,,0
+1508101200,Bahia,Corinthians,dKUmd286,Sv3m8l2G,2,0,,,,0
+1508191200,Santos,Vitoria,hv442jSk,QwRlGht5,2,2,,,,0
+1508362200,Coritiba,Cruzeiro,8f6Hj6B0,SjJmyx86,1,0,,,,0
+1508362200,Atletico GO,Vasco,8f6Hj6B0,bam8o1Nj,0,1,,,,0
+1508367600,Atletico-MG,Chapecoense-SC,pCk2vaSD,ALatFnbP,2,3,,,,0
+1508370300,Fluminense,Sao Paulo,WUfDDYk1,AkTesf41,3,1,,,,0
+1508370300,Corinthians,Gremio,Sv3m8l2G,tQsU6dGl,0,0,,,,0
+1508370300,Avai,Botafogo RJ,2LNvhL4k,rJBthgZj,1,1,,,,0
+1508450400,Vitoria,Athletico-PR,QwRlGht5,QaMaOfUh,2,3,,,,0
+1508450400,Palmeiras,Ponte Preta,ALgHCh57,4S2Tm4eJ,2,0,,,,0
+1508454000,Sport Recife,Santos,G2OQQubE,hv442jSk,1,1,,,,0
+1508454000,Flamengo RJ,Bahia,2R2JjDQC,dKUmd286,4,1,,,,0
+1508612400,Vasco,Coritiba,bam8o1Nj,8f6Hj6B0,1,1,,,,0
+1508698800,Sao Paulo,Flamengo RJ,AkTesf41,2R2JjDQC,2,0,,,,0
+1508698800,Santos,Atletico GO,hv442jSk,8f6Hj6B0,1,0,,,,0
+1508698800,Gremio,Palmeiras,tQsU6dGl,ALgHCh57,1,3,,,,0
+1508698800,Cruzeiro,Atletico-MG,SjJmyx86,pCk2vaSD,1,3,,,,0
+1508698800,Bahia,Vitoria,dKUmd286,QwRlGht5,2,1,,,,0
+1508698800,Athletico-PR,Sport Recife,QaMaOfUh,G2OQQubE,2,1,,,,0
+1508706000,Ponte Preta,Avai,4S2Tm4eJ,2LNvhL4k,1,2,,,,0
+1508706000,Chapecoense-SC,Fluminense,ALatFnbP,WUfDDYk1,2,0,,,,0
+1508796000,Botafogo RJ,Corinthians,rJBthgZj,Sv3m8l2G,2,1,,,,0
+1509217200,Sao Paulo,Santos,AkTesf41,hv442jSk,2,1,,,,0
+1509224400,Flamengo RJ,Vasco,2R2JjDQC,bam8o1Nj,0,0,,,,0
+1509231600,Athletico-PR,Chapecoense-SC,QaMaOfUh,ALatFnbP,0,0,,,,0
+1509303600,Ponte Preta,Corinthians,4S2Tm4eJ,Sv3m8l2G,1,0,,,,0
+1509303600,Fluminense,Bahia,WUfDDYk1,dKUmd286,1,1,,,,0
+1509303600,Atletico-MG,Botafogo RJ,pCk2vaSD,rJBthgZj,0,0,,,,0
+1509307200,Vitoria,Atletico GO,QwRlGht5,8f6Hj6B0,1,1,,,,0
+1509307200,Sport Recife,Coritiba,G2OQQubE,8f6Hj6B0,3,4,,,,0
+1509310800,Avai,Gremio,2LNvhL4k,tQsU6dGl,2,2,,,,0
+1509400800,Palmeiras,Cruzeiro,ALgHCh57,SjJmyx86,2,2,,,,0
+1509822000,Santos,Atletico-MG,hv442jSk,pCk2vaSD,3,1,,,,0
+1509829200,Botafogo RJ,Fluminense,rJBthgZj,WUfDDYk1,1,2,,,,0
+1509829200,Atletico GO,Sao Paulo,8f6Hj6B0,AkTesf41,0,1,,,,0
+1509836400,Coritiba,Avai,8f6Hj6B0,2LNvhL4k,4,0,,,,0
+1509908400,Gremio,Flamengo RJ,tQsU6dGl,2R2JjDQC,3,1,,,,0
+1509908400,Cruzeiro,Athletico-PR,SjJmyx86,QaMaOfUh,1,0,,,,0
+1509908400,Corinthians,Palmeiras,Sv3m8l2G,ALgHCh57,3,2,,,,0
+1509912000,Bahia,Ponte Preta,dKUmd286,4S2Tm4eJ,2,0,,,,0
+1509915600,Vasco,Vitoria,bam8o1Nj,QwRlGht5,1,1,,,,0
+1509915600,Chapecoense-SC,Sport Recife,ALatFnbP,G2OQQubE,1,1,,,,0
+1510176600,Ponte Preta,Gremio,4S2Tm4eJ,tQsU6dGl,0,1,,,,0
+1510176600,Avai,Bahia,2LNvhL4k,dKUmd286,1,2,,,,0
+1510182000,Sport Recife,Botafogo RJ,G2OQQubE,rJBthgZj,1,2,,,,0
+1510182000,Athletico-PR,Corinthians,QaMaOfUh,Sv3m8l2G,0,1,,,,0
+1510184700,Vitoria,Palmeiras,QwRlGht5,ALgHCh57,3,1,,,,0
+1510184700,Santos,Vasco,hv442jSk,bam8o1Nj,1,2,,,,0
+1510184700,Flamengo RJ,Cruzeiro,2R2JjDQC,SjJmyx86,2,0,,,,0
+1510264800,Sao Paulo,Chapecoense-SC,AkTesf41,ALatFnbP,2,2,,,,0
+1510264800,Atletico-MG,Atletico GO,pCk2vaSD,8f6Hj6B0,3,2,,,,0
+1510268400,Fluminense,Coritiba,WUfDDYk1,8f6Hj6B0,2,2,,,,0
+1510426800,Botafogo RJ,Athletico-PR,rJBthgZj,QaMaOfUh,0,1,,,,0
+1510434000,Corinthians,Avai,Sv3m8l2G,2LNvhL4k,1,0,,,,0
+1510513200,Vasco,Sao Paulo,bam8o1Nj,AkTesf41,1,1,,,,0
+1510513200,Palmeiras,Flamengo RJ,ALgHCh57,2R2JjDQC,2,0,,,,0
+1510513200,Gremio,Vitoria,tQsU6dGl,QwRlGht5,1,1,,,,0
+1510513200,Atletico GO,Sport Recife,8f6Hj6B0,G2OQQubE,2,0,,,,0
+1510516800,Bahia,Atletico-MG,dKUmd286,pCk2vaSD,2,2,,,,0
+1510520400,Cruzeiro,Fluminense,SjJmyx86,WUfDDYk1,3,1,,,,0
+1510520400,Coritiba,Ponte Preta,8f6Hj6B0,4S2Tm4eJ,1,1,,,,0
+1510610400,Chapecoense-SC,Santos,ALatFnbP,hv442jSk,2,0,,,,0
+1510772400,Ponte Preta,Athletico-PR,4S2Tm4eJ,QaMaOfUh,2,1,,,,0
+1510781400,Gremio,Sao Paulo,tQsU6dGl,AkTesf41,1,0,,,,0
+1510781400,Cruzeiro,Avai,SjJmyx86,2LNvhL4k,2,2,,,,0
+1510789500,Vasco,Atletico-MG,bam8o1Nj,pCk2vaSD,1,1,,,,0
+1510789500,Corinthians,Fluminense,Sv3m8l2G,WUfDDYk1,3,1,,,,0
+1510869600,Palmeiras,Sport Recife,ALgHCh57,G2OQQubE,5,1,,,,0
+1510869600,Chapecoense-SC,Vitoria,ALatFnbP,QwRlGht5,2,1,,,,0
+1510869600,Botafogo RJ,Atletico GO,rJBthgZj,8f6Hj6B0,1,2,,,,0
+1510873200,Coritiba,Flamengo RJ,8f6Hj6B0,2R2JjDQC,1,0,,,,0
+1510873200,Bahia,Santos,dKUmd286,hv442jSk,3,1,,,,0
+1511118000,Vitoria,Cruzeiro,QwRlGht5,SjJmyx86,1,1,,,,0
+1511118000,Sport Recife,Bahia,G2OQQubE,dKUmd286,1,0,,,,0
+1511118000,Sao Paulo,Botafogo RJ,AkTesf41,rJBthgZj,0,0,,,,0
+1511118000,Flamengo RJ,Corinthians,2R2JjDQC,Sv3m8l2G,3,0,,,,0
+1511118000,Atletico GO,Chapecoense-SC,8f6Hj6B0,ALatFnbP,1,1,,,,0
+1511125200,Santos,Gremio,hv442jSk,tQsU6dGl,1,0,,,,0
+1511125200,Atletico-MG,Coritiba,pCk2vaSD,8f6Hj6B0,3,0,,,,0
+1511125200,Athletico-PR,Vasco,QaMaOfUh,bam8o1Nj,3,1,,,,0
+1511204400,Fluminense,Ponte Preta,WUfDDYk1,4S2Tm4eJ,2,0,,,,0
+1511215200,Avai,Palmeiras,2LNvhL4k,ALgHCh57,2,1,,,,0
+1511636400,Fluminense,Sport Recife,WUfDDYk1,G2OQQubE,1,2,,,,0
+1511722800,Ponte Preta,Vitoria,4S2Tm4eJ,QwRlGht5,2,3,,,,0
+1511722800,Gremio,Atletico GO,tQsU6dGl,8f6Hj6B0,1,1,,,,0
+1511722800,Cruzeiro,Vasco,SjJmyx86,bam8o1Nj,0,1,,,,0
+1511722800,Coritiba,Sao Paulo,8f6Hj6B0,AkTesf41,1,2,,,,0
+1511722800,Corinthians,Atletico-MG,Sv3m8l2G,pCk2vaSD,2,2,,,,0
+1511722800,Avai,Athletico-PR,2LNvhL4k,QaMaOfUh,1,0,,,,0
+1511730000,Flamengo RJ,Santos,2R2JjDQC,hv442jSk,1,2,,,,0
+1511730000,Bahia,Chapecoense-SC,dKUmd286,ALatFnbP,0,1,,,,0
+1511820000,Palmeiras,Botafogo RJ,ALgHCh57,rJBthgZj,2,0,,,,0
+1512327600,Vitoria,Flamengo RJ,QwRlGht5,2R2JjDQC,1,2,,,,0
+1512327600,Vasco,Ponte Preta,bam8o1Nj,4S2Tm4eJ,2,1,,,,0
+1512327600,Sport Recife,Corinthians,G2OQQubE,Sv3m8l2G,1,0,,,,0
+1512327600,Sao Paulo,Bahia,AkTesf41,dKUmd286,1,1,,,,0
+1512327600,Santos,Avai,hv442jSk,2LNvhL4k,1,1,,,,0
+1512327600,Chapecoense-SC,Coritiba,ALatFnbP,8f6Hj6B0,2,1,,,,0
+1512327600,Botafogo RJ,Cruzeiro,rJBthgZj,SjJmyx86,2,2,,,,0
+1512327600,Atletico-MG,Gremio,pCk2vaSD,tQsU6dGl,4,3,,,,0
+1512327600,Atletico GO,Fluminense,8f6Hj6B0,WUfDDYk1,1,1,,,,0
+1512327600,Athletico-PR,Palmeiras,QaMaOfUh,ALgHCh57,3,0,,,,0

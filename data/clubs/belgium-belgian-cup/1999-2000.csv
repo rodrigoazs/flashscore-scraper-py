@@ -1,34 +1,34 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-940024800,Westerlo,KSK Beveren,3,1,,,,0
-940024800,Waregem,Cercle Brugge KSV,1,0,,,,0
-940024800,St. Truiden,Francs Borains,1,0,,,,0
-940024800,St. Liege,KRC Zuid-West-Vlaanderen,3,2,,,,0
-940024800,RAA Louvieroise,Mouscron,0,1,,,,0
-940024800,Oostende,Beerschot AC,0,1,,,,0
-940024800,Lokeren,Club Brugge KV,1,0,,,,0
-940024800,Lierse,K. FC Turnhout,6,1,,,,0
-940024800,KV Mechelen,Hekelgem,2,1,,,,0
-940024800,KFC Lommel SK,RWD Molenbeek,2,1,,,,0
-940024800,Gent,Dessel,3,1,,,,0
-940024800,Genk,Tongeren,3,0,,,,0
-940024800,Geel,Mons,1,2,,,,0
-940024800,Charleroi,Aalst,2,6,,,,0
-940024800,Antwerp,Heusden-Zolder,4,0,,,,0
-940024800,Anderlecht,KRC Harelbeke,1,4,,,,0
-945385200,St. Liege,Westerlo,2,1,,,,0
-945471600,Mouscron,St. Truiden,0,1,,,,0
-945471600,Lokeren,KV Mechelen,4,0,,,,0
-945471600,Antwerp,Lierse,1,2,,,,0
-945558000,Waregem,Gent,0,2,,,,0
-945558000,Mons,KFC Lommel SK,2,0,,,,0
-945558000,Genk,KRC Harelbeke,8,1,,,,0
-949446000,Aalst,Beerschot AC,4,1,,,,0
-951519600,St. Truiden,Aalst,2,1,,,,0
-951519600,St. Liege,Mons,1,0,,,,0
-951519600,Lierse,Lokeren,1,0,,,,0
-951606000,Genk,Gent,3,1,,,,0
-955490400,St. Liege,Lierse,2,1,,,,0
-955576800,Genk,St. Truiden,0,0,,,,0
-956959200,St. Truiden,Genk,0,1,,,,0
-957132000,Lierse,St. Liege,0,0,,,,0
-958255200,Genk,St. Liege,4,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+940024800,Westerlo,KSK Beveren,ht99hStl,tt0jGfcU,3,1,,,,0
+940024800,Waregem,Cercle Brugge KSV,fc7DY1B9,CS6nbsqF,1,0,,,,0
+940024800,St. Truiden,Francs Borains,OCiVKiPK,GpPHD4lg,1,0,,,,0
+940024800,St. Liege,KRC Zuid-West-Vlaanderen,tjZYJCwg,,3,2,,,,0
+940024800,RAA Louvieroise,Mouscron,YssI91Vs,4KjgYD22,0,1,,,,0
+940024800,Oostende,Beerschot AC,2caLaKsq,dvLIfKqM,0,1,,,,0
+940024800,Lokeren,Club Brugge KV,Iw55ueQk,44lq3LsP,1,0,,,,0
+940024800,Lierse,K. FC Turnhout,xQnxBzcF,0dmGukZ9,6,1,,,,0
+940024800,KV Mechelen,Hekelgem,zVJMgvaS,EF1k742D,2,1,,,,0
+940024800,KFC Lommel SK,RWD Molenbeek,,vy405kyP,2,1,,,,0
+940024800,Gent,Dessel,ETUaLGDL,M5lCtVJ3,3,1,,,,0
+940024800,Genk,Tongeren,YB0frRRP,dxvEjyF0,3,0,,,,0
+940024800,Geel,Mons,,EkA5g8Rs,1,2,,,,0
+940024800,Charleroi,Aalst,xCPMRLr8,AoqqSdQE,2,6,,,,0
+940024800,Antwerp,Heusden-Zolder,vuxu3x67,WhwXIDUP,4,0,,,,0
+940024800,Anderlecht,KRC Harelbeke,YVlGNJGc,lrorTzcq,1,4,,,,0
+945385200,St. Liege,Westerlo,tjZYJCwg,ht99hStl,2,1,,,,0
+945471600,Mouscron,St. Truiden,4KjgYD22,OCiVKiPK,0,1,,,,0
+945471600,Lokeren,KV Mechelen,Iw55ueQk,zVJMgvaS,4,0,,,,0
+945471600,Antwerp,Lierse,vuxu3x67,xQnxBzcF,1,2,,,,0
+945558000,Waregem,Gent,fc7DY1B9,ETUaLGDL,0,2,,,,0
+945558000,Mons,KFC Lommel SK,EkA5g8Rs,,2,0,,,,0
+945558000,Genk,KRC Harelbeke,YB0frRRP,lrorTzcq,8,1,,,,0
+949446000,Aalst,Beerschot AC,AoqqSdQE,dvLIfKqM,4,1,,,,0
+951519600,St. Truiden,Aalst,OCiVKiPK,AoqqSdQE,2,1,,,,0
+951519600,St. Liege,Mons,tjZYJCwg,EkA5g8Rs,1,0,,,,0
+951519600,Lierse,Lokeren,xQnxBzcF,Iw55ueQk,1,0,,,,0
+951606000,Genk,Gent,YB0frRRP,ETUaLGDL,3,1,,,,0
+955490400,St. Liege,Lierse,tjZYJCwg,xQnxBzcF,2,1,,,,0
+955576800,Genk,St. Truiden,YB0frRRP,OCiVKiPK,0,0,,,,0
+956959200,St. Truiden,Genk,OCiVKiPK,YB0frRRP,0,1,,,,0
+957132000,Lierse,St. Liege,xQnxBzcF,tjZYJCwg,0,0,,,,0
+958255200,Genk,St. Liege,YB0frRRP,tjZYJCwg,4,1,,,,0

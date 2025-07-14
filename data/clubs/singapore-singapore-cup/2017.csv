@@ -1,19 +1,19 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1496061000,Warriors,Boeung Ket,1,4,,,,0
-1496320200,Balestier Khalsa,NagaWorld,3,4,,,,0
-1497961800,Hougang,United City,1,0,,,,0
-1498048200,Geylang,Global FC,4,4,Pen,4,5,0
-1502191800,Boeung Ket,Global FC,1,3,,,,0
-1502364600,Tampines,Albirex Niigata,1,5,,,,0
-1502451000,Hougang,NagaWorld,4,1,,,,0
-1502451000,Global FC,Boeung Ket,1,2,,,,0
-1502623800,DPMM,Lion City,1,3,,,,0
-1502623800,Albirex Niigata,Tampines,2,0,,,,0
-1502710200,NagaWorld,Hougang,0,4,,,,0
-1502883000,Lion City,DPMM,3,1,,,,0
-1506511800,Global FC,Hougang,2,2,,,,0
-1506511800,Albirex Niigata,Lion City,3,1,,,,0
-1506771000,Lion City,Albirex Niigata,1,2,,,,0
-1506771000,Hougang,Global FC,1,2,,,,0
-1511611200,Albirex Niigata,Global FC,1,1,Pen,3,2,0
-1511697600,Lion City,Hougang,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1496061000,Warriors,Boeung Ket,nNKuYSHo,QTV00u0R,1,4,,,,0
+1496320200,Balestier Khalsa,NagaWorld,MZaTAD0m,6VXkf3Mu,3,4,,,,0
+1497961800,Hougang,United City,4fcEsivK,hjIcXIDC,1,0,,,,0
+1498048200,Geylang,Global FC,df9tRVup,EcEATQWg,4,4,Pen,4,5,0
+1502191800,Boeung Ket,Global FC,QTV00u0R,EcEATQWg,1,3,,,,0
+1502364600,Tampines,Albirex Niigata,d0hl69s2,MkSbZgY3,1,5,,,,0
+1502451000,Hougang,NagaWorld,4fcEsivK,6VXkf3Mu,4,1,,,,0
+1502451000,Global FC,Boeung Ket,EcEATQWg,QTV00u0R,1,2,,,,0
+1502623800,DPMM,Lion City,nP3yiII0,pW3pRTln,1,3,,,,0
+1502623800,Albirex Niigata,Tampines,MkSbZgY3,d0hl69s2,2,0,,,,0
+1502710200,NagaWorld,Hougang,6VXkf3Mu,4fcEsivK,0,4,,,,0
+1502883000,Lion City,DPMM,pW3pRTln,nP3yiII0,3,1,,,,0
+1506511800,Global FC,Hougang,EcEATQWg,4fcEsivK,2,2,,,,0
+1506511800,Albirex Niigata,Lion City,MkSbZgY3,pW3pRTln,3,1,,,,0
+1506771000,Lion City,Albirex Niigata,pW3pRTln,MkSbZgY3,1,2,,,,0
+1506771000,Hougang,Global FC,4fcEsivK,EcEATQWg,1,2,,,,0
+1511611200,Albirex Niigata,Global FC,MkSbZgY3,EcEATQWg,1,1,Pen,3,2,0
+1511697600,Lion City,Hougang,pW3pRTln,4fcEsivK,1,0,,,,0

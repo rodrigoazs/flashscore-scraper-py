@@ -1,26 +1,26 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1691096400,South East (Dom),Scholars (Cay),0,2,,,,0
-1691096400,Junior Stars (Sma),Jong Holland (Cur),1,2,,,,0
-1691106300,St. Pauls United (Sai),Metropolitan FA (Pur),0,2,,,,0
-1691172900,Dakota (Aru),SWA Sharks (Tca),2,0,,,,0
-1691182800,Sando (Tri),Solidarite Scolaire (Gua),4,0,,,,0
-1691182800,B1 Castries (Sai),Etoile Matoury (Fgu),0,4,,,,0
-1691192700,Universidad O&M (Dom),Robinhood (Sur),1,2,,,,0
-1691269200,South East (Dom),Golden Lion (Mar),1,11,,,,0
-1691269200,Junior Stars (Sma),Metropolitan FA (Pur),0,3,,,,0
-1691279100,St. Pauls United (Sai),Jong Holland (Cur),1,2,,,,0
-1691345700,Universidad O&M (Dom),Etoile Matoury (Fgu),1,2,,,,0
-1691355600,Sando (Tri),SWA Sharks (Tca),9,0,,,,0
-1691355600,B1 Castries (Sai),Robinhood (Sur),0,5,,,,0
-1691365500,Dakota (Aru),Solidarite Scolaire (Gua),1,0,,,,0
-1691432100,Scholars (Cay),Golden Lion (Mar),0,4,,,,0
-1691442000,St. Pauls United (Sai),Junior Stars (Sma),1,1,,,,0
-1691442000,Jong Holland (Cur),Metropolitan FA (Pur),0,2,,,,0
-1691518500,SWA Sharks (Tca),Solidarite Scolaire (Gua),1,1,,,,0
-1691518500,Sando (Tri),Dakota (Aru),3,0,,,,0
-1691528400,Universidad O&M (Dom),B1 Castries (Sai),8,2,,,,0
-1691528400,Etoile Matoury (Fgu),Robinhood (Sur),2,4,,,,0
-1691784000,Robinhood,Metropolitan FA,5,0,,,,0
-1691794800,Sando,Golden Lion,1,2,,,,0
-1691956800,Metropolitan FA,Sando,1,6,,,,0
-1691967600,Robinhood,Golden Lion,5,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1691096400,South East (Dom),Scholars (Cay),OSDcHelt,Ai2CyXSs,0,2,,,,0
+1691096400,Junior Stars (Sma),Jong Holland (Cur),4SYU41ED,IceI7FZg,1,2,,,,0
+1691106300,St. Pauls United (Sai),Metropolitan FA (Pur),zPxZm7f4,KUJEajm9,0,2,,,,0
+1691172900,Dakota (Aru),SWA Sharks (Tca),KGfMDpWS,2aMCTpiE,2,0,,,,0
+1691182800,Sando (Tri),Solidarite Scolaire (Gua),Gf6sycWq,xWZT6NdD,4,0,,,,0
+1691182800,B1 Castries (Sai),Etoile Matoury (Fgu),p0NkBAOk,67mmWfka,0,4,,,,0
+1691192700,Universidad O&M (Dom),Robinhood (Sur),hvlWeuiI,QBSRqXVB,1,2,,,,0
+1691269200,South East (Dom),Golden Lion (Mar),OSDcHelt,dtSyQHbT,1,11,,,,0
+1691269200,Junior Stars (Sma),Metropolitan FA (Pur),4SYU41ED,KUJEajm9,0,3,,,,0
+1691279100,St. Pauls United (Sai),Jong Holland (Cur),zPxZm7f4,IceI7FZg,1,2,,,,0
+1691345700,Universidad O&M (Dom),Etoile Matoury (Fgu),hvlWeuiI,67mmWfka,1,2,,,,0
+1691355600,Sando (Tri),SWA Sharks (Tca),Gf6sycWq,2aMCTpiE,9,0,,,,0
+1691355600,B1 Castries (Sai),Robinhood (Sur),p0NkBAOk,QBSRqXVB,0,5,,,,0
+1691365500,Dakota (Aru),Solidarite Scolaire (Gua),KGfMDpWS,xWZT6NdD,1,0,,,,0
+1691432100,Scholars (Cay),Golden Lion (Mar),Ai2CyXSs,dtSyQHbT,0,4,,,,0
+1691442000,St. Pauls United (Sai),Junior Stars (Sma),zPxZm7f4,4SYU41ED,1,1,,,,0
+1691442000,Jong Holland (Cur),Metropolitan FA (Pur),IceI7FZg,KUJEajm9,0,2,,,,0
+1691518500,SWA Sharks (Tca),Solidarite Scolaire (Gua),2aMCTpiE,xWZT6NdD,1,1,,,,0
+1691518500,Sando (Tri),Dakota (Aru),Gf6sycWq,KGfMDpWS,3,0,,,,0
+1691528400,Universidad O&M (Dom),B1 Castries (Sai),hvlWeuiI,p0NkBAOk,8,2,,,,0
+1691528400,Etoile Matoury (Fgu),Robinhood (Sur),67mmWfka,QBSRqXVB,2,4,,,,0
+1691784000,Robinhood,Metropolitan FA,QBSRqXVB,KUJEajm9,5,0,,,,0
+1691794800,Sando,Golden Lion,Gf6sycWq,dtSyQHbT,1,2,,,,0
+1691956800,Metropolitan FA,Sando,KUJEajm9,Gf6sycWq,1,6,,,,0
+1691967600,Robinhood,Golden Lion,QBSRqXVB,dtSyQHbT,5,1,,,,0

@@ -1,42 +1,42 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1579960800,Missile,FC Libreville,1,1,,,,0
-1579960800,Lozo,Pelican Lambarene,0,1,,,,0
-1579960800,Dikaki,Bouenguidi,1,2,,,,0
-1580047200,CF Mounana,Stade Migoveen,1,0,,,,0
-1580047200,Akanda,Mberi Sportif,0,0,,,,0
-1580567400,Pelican Lambarene,Stade Mandji,1,0,,,,0
-1580567400,Bitam,Lozo,0,0,,,,0
-1580569200,FC Libreville,Mangasport,2,2,,,,0
-1580653800,Oyem,CF Mounana,0,2,,,,0
-1580913000,Dikaki,Akanda,0,2,,,,0
-1580913000,Bouenguidi,Mberi Sportif,2,1,,,,0
-1581172200,Stade Migoveen,Oyem,1,1,,,,0
-1581172200,Stade Mandji,FC Libreville,0,0,,,,0
-1581172200,Missile,Bitam,0,3,,,,0
-1581172200,Mangasport,Pelican Lambarene,2,1,,,,0
-1581258600,Mberi Sportif,Dikaki,2,2,,,,0
-1581258600,Akanda,Bouenguidi,2,2,,,,0
-1581777000,Lozo,Stade Mandji,1,1,,,,0
-1581777000,FC Libreville,Pelican Lambarene,1,1,,,,0
-1581778800,Stade Migoveen,Mberi Sportif,1,1,,,,0
-1581778800,Missile,Mangasport,0,1,,,,0
-1581863400,Oyem,Dikaki,4,1,,,,0
-1581863400,CF Mounana,Akanda,3,0,,,,0
-1582381800,Mangasport,Lozo,1,0,,,,0
-1582381800,FC Libreville,Bitam,0,1,,,,0
-1582381800,Bouenguidi,Oyem,2,0,,,,0
-1582383600,Stade Mandji,Missile,3,0,,,,0
-1582468200,Mberi Sportif,CF Mounana,0,0,,,,0
-1582468200,Akanda,Stade Migoveen,0,0,,,,0
-1582900200,Stade Mandji,Mangasport,1,0,,,,0
-1582900200,Pelican Lambarene,FC Libreville,0,0,,,,0
-1582900200,Oyem,Akanda,0,0,,,,0
-1582900200,Lozo,Missile,1,1,,,,0
-1582902000,CF Mounana,Dikaki,1,0,,,,0
-1583073000,Stade Migoveen,Bouenguidi,0,1,,,,0
-1583591400,Mangasport,Bitam,2,1,,,,0
-1583591400,Dikaki,Stade Migoveen,0,0,,,,0
-1583591400,Bouenguidi,CF Mounana,2,1,,,,0
-1583593200,Pelican Lambarene,Missile,3,2,,,,0
-1583672400,FC Libreville,Lozo,1,1,,,,0
-1583679600,Mberi Sportif,Oyem,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1579960800,Missile,FC Libreville,IHZeMWDf,0zzecMUk,1,1,,,,0
+1579960800,Lozo,Pelican Lambarene,67iTc7LC,v7tpV7pf,0,1,,,,0
+1579960800,Dikaki,Bouenguidi,rcWbi2g4,zuRuF9Q6,1,2,,,,0
+1580047200,CF Mounana,Stade Migoveen,IHZeMWDf,KImYSWWm,1,0,,,,0
+1580047200,Akanda,Mberi Sportif,j5juR2Xf,IHZeMWDf,0,0,,,,0
+1580567400,Pelican Lambarene,Stade Mandji,v7tpV7pf,67iTc7LC,1,0,,,,0
+1580567400,Bitam,Lozo,d8YaLjT0,67iTc7LC,0,0,,,,0
+1580569200,FC Libreville,Mangasport,0zzecMUk,IHZeMWDf,2,2,,,,0
+1580653800,Oyem,CF Mounana,I9c75gRL,IHZeMWDf,0,2,,,,0
+1580913000,Dikaki,Akanda,rcWbi2g4,j5juR2Xf,0,2,,,,0
+1580913000,Bouenguidi,Mberi Sportif,zuRuF9Q6,IHZeMWDf,2,1,,,,0
+1581172200,Stade Migoveen,Oyem,KImYSWWm,I9c75gRL,1,1,,,,0
+1581172200,Stade Mandji,FC Libreville,67iTc7LC,0zzecMUk,0,0,,,,0
+1581172200,Missile,Bitam,IHZeMWDf,d8YaLjT0,0,3,,,,0
+1581172200,Mangasport,Pelican Lambarene,IHZeMWDf,v7tpV7pf,2,1,,,,0
+1581258600,Mberi Sportif,Dikaki,IHZeMWDf,rcWbi2g4,2,2,,,,0
+1581258600,Akanda,Bouenguidi,j5juR2Xf,zuRuF9Q6,2,2,,,,0
+1581777000,Lozo,Stade Mandji,67iTc7LC,67iTc7LC,1,1,,,,0
+1581777000,FC Libreville,Pelican Lambarene,0zzecMUk,v7tpV7pf,1,1,,,,0
+1581778800,Stade Migoveen,Mberi Sportif,KImYSWWm,IHZeMWDf,1,1,,,,0
+1581778800,Missile,Mangasport,IHZeMWDf,IHZeMWDf,0,1,,,,0
+1581863400,Oyem,Dikaki,I9c75gRL,rcWbi2g4,4,1,,,,0
+1581863400,CF Mounana,Akanda,IHZeMWDf,j5juR2Xf,3,0,,,,0
+1582381800,Mangasport,Lozo,IHZeMWDf,67iTc7LC,1,0,,,,0
+1582381800,FC Libreville,Bitam,0zzecMUk,d8YaLjT0,0,1,,,,0
+1582381800,Bouenguidi,Oyem,zuRuF9Q6,I9c75gRL,2,0,,,,0
+1582383600,Stade Mandji,Missile,67iTc7LC,IHZeMWDf,3,0,,,,0
+1582468200,Mberi Sportif,CF Mounana,IHZeMWDf,IHZeMWDf,0,0,,,,0
+1582468200,Akanda,Stade Migoveen,j5juR2Xf,KImYSWWm,0,0,,,,0
+1582900200,Stade Mandji,Mangasport,67iTc7LC,IHZeMWDf,1,0,,,,0
+1582900200,Pelican Lambarene,FC Libreville,v7tpV7pf,0zzecMUk,0,0,,,,0
+1582900200,Oyem,Akanda,I9c75gRL,j5juR2Xf,0,0,,,,0
+1582900200,Lozo,Missile,67iTc7LC,IHZeMWDf,1,1,,,,0
+1582902000,CF Mounana,Dikaki,IHZeMWDf,rcWbi2g4,1,0,,,,0
+1583073000,Stade Migoveen,Bouenguidi,KImYSWWm,zuRuF9Q6,0,1,,,,0
+1583591400,Mangasport,Bitam,IHZeMWDf,d8YaLjT0,2,1,,,,0
+1583591400,Dikaki,Stade Migoveen,rcWbi2g4,KImYSWWm,0,0,,,,0
+1583591400,Bouenguidi,CF Mounana,zuRuF9Q6,IHZeMWDf,2,1,,,,0
+1583593200,Pelican Lambarene,Missile,v7tpV7pf,IHZeMWDf,3,2,,,,0
+1583672400,FC Libreville,Lozo,0zzecMUk,67iTc7LC,1,1,,,,0
+1583679600,Mberi Sportif,Oyem,IHZeMWDf,I9c75gRL,0,1,,,,0

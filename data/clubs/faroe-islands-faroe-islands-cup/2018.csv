@@ -1,17 +1,17 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1524664800,Toftir,HB Torshavn,0,4,,,,0
-1524664800,TB Tvoroyri,Klaksvik,2,1,,,,0
-1524664800,Sandur,Giza/Hoyvik,4,0,,,,0
-1524668400,Undri,Streymur,0,3,,,,0
-1524668400,IF Fuglafjordur,B36 Torshavn,0,3,,,,0
-1524672000,NSI Runavik,AB Argir,0,1,,,,0
-1524675600,Skala Itrottarfelag,07 Vestur Sorvagur,1,0,,,,0
-1525885200,AB Argir,Streymur,2,2,Pen,3,2,0
-1525957200,B36 Torshavn,Skala Itrottarfelag,2,0,,,,0
-1525960800,Vikingur,TB Tvoroyri,0,2,,,,0
-1525968000,HB Torshavn,Sandur,6,0,,,,0
-1527694200,HB Torshavn,AB Argir,2,0,,,,0
-1527704100,B36 Torshavn,TB Tvoroyri,4,2,,,,0
-1528898400,TB Tvoroyri,B36 Torshavn,0,4,,,,0
-1528909200,AB Argir,HB Torshavn,1,4,,,,0
-1535222700,B36 Torshavn,HB Torshavn,2,2,Pen,3,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1524664800,Toftir,HB Torshavn,Sdd6AGnq,lGvMSKuF,0,4,,,,0
+1524664800,TB Tvoroyri,Klaksvik,4QTKNxoo,GnA0fkqU,2,1,,,,0
+1524664800,Sandur,Giza/Hoyvik,QTeOMRab,jes3ohYg,4,0,,,,0
+1524668400,Undri,Streymur,6TGWfJNl,S6wQRveL,0,3,,,,0
+1524668400,IF Fuglafjordur,B36 Torshavn,nTLUUUol,ljgDYnD5,0,3,,,,0
+1524672000,NSI Runavik,AB Argir,hhkDzDYF,ljgDYnD5,0,1,,,,0
+1524675600,Skala Itrottarfelag,07 Vestur Sorvagur,GA2XvLc7,S6wQRveL,1,0,,,,0
+1525885200,AB Argir,Streymur,ljgDYnD5,S6wQRveL,2,2,Pen,3,2,0
+1525957200,B36 Torshavn,Skala Itrottarfelag,ljgDYnD5,GA2XvLc7,2,0,,,,0
+1525960800,Vikingur,TB Tvoroyri,xScZ0U2I,4QTKNxoo,0,2,,,,0
+1525968000,HB Torshavn,Sandur,lGvMSKuF,QTeOMRab,6,0,,,,0
+1527694200,HB Torshavn,AB Argir,lGvMSKuF,ljgDYnD5,2,0,,,,0
+1527704100,B36 Torshavn,TB Tvoroyri,ljgDYnD5,4QTKNxoo,4,2,,,,0
+1528898400,TB Tvoroyri,B36 Torshavn,4QTKNxoo,ljgDYnD5,0,4,,,,0
+1528909200,AB Argir,HB Torshavn,ljgDYnD5,lGvMSKuF,1,4,,,,0
+1535222700,B36 Torshavn,HB Torshavn,ljgDYnD5,lGvMSKuF,2,2,Pen,3,2,0

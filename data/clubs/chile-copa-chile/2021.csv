@@ -1,74 +1,74 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1623783600,Valdivia,D. Puerto Montt,1,3,,,,0
-1623783600,Rodelindo,Coquimbo,0,1,,,,0
-1623783600,Recoleta,San Luis,3,1,,,,0
-1623783600,Limache,Barnechea,1,4,,,,0
-1623783600,Ind. Cauquenes,Arturo Fernandez Vial,1,3,,,,0
-1623783600,Iberia,Deportes Temuco,0,1,,,,0
-1623783600,General Velasquez,Rangers,0,1,,,,0
-1623783600,Deportes Colina,S. Morning,1,0,,,,0
-1623783600,Colchagua,CD Santa Cruz,1,6,,,,0
-1623783600,Cobreloa,Copiapo,2,1,,,,0
-1623794400,D. Concepcion,U. De Concepcion,1,0,,,,0
-1623801600,Deportes Iquique,San Marcos de Arica,2,2,Pen,3,2,0
-1623870000,San Antonio Unido,San Felipe,2,0,,,,0
-1623870000,Lautaro,Magallanes,0,3,Awrd,,,0
-1624321800,Curico Unido,Rangers,1,1,,,,0
-1624379400,Barnechea,Palestino,0,2,,,,0
-1624379400,Antofagasta,Coquimbo,0,0,,,,0
-1624399200,Arturo Fernandez Vial,Cobresal,0,0,,,,0
-1624406400,Deportes Iquique,U. Catolica,1,1,,,,0
-1624465800,Deportes Temuco,Union La Calera,0,0,,,,0
-1624465800,D. Puerto Montt,U. Espanola,0,2,,,,0
-1624476600,San Antonio Unido,Huachipato,0,0,,,,0
-1624476600,Melipilla,Nublense,0,1,,,,0
-1624476600,Deportes Colina,La Serena,1,2,,,,0
-1624483800,O'Higgins,Cobreloa,1,0,,,,0
-1624492800,Everton,CD Santa Cruz,3,0,,,,0
-1624546800,S. Wanderers,D. Concepcion,0,1,,,,0
-1624570200,U. De Chile,San Luis,1,0,,,,1
-1624667400,Rangers,Curico Unido,1,1,Pen,2,1,0
-1624719600,Cobresal,Arturo Fernandez Vial,2,2,Pen,2,3,0
-1624723200,Coquimbo,Antofagasta,1,0,,,,0
-1624734000,Huachipato,San Antonio Unido,3,2,,,,0
-1624744800,Union La Calera,Deportes Temuco,0,2,,,,0
-1624744800,CD Santa Cruz,Everton,1,1,,,,0
-1624753800,U. Catolica,Deportes Iquique,4,4,Pen,5,4,0
-1624806000,U. Espanola,D. Puerto Montt,2,3,,,,0
-1624809600,Cobreloa,O'Higgins,2,1,Pen,2,2,0
-1624820400,Palestino,Barnechea,5,2,,,,0
-1624820400,Nublense,Melipilla,0,0,,,,0
-1624820400,La Serena,Deportes Colina,5,0,,,,0
-1624831200,D. Concepcion,S. Wanderers,1,1,,,,0
-1624840200,San Luis,U. De Chile,1,3,,,,0
-1625068800,Magallanes,A. Italiano,4,0,,,,0
-1625079600,Palestino,D. Concepcion,4,0,,,,0
-1625090400,Rangers,Coquimbo,0,1,,,,0
-1625099400,Everton,U. Catolica,0,0,,,,0
-1625166000,Deportes Temuco,Huachipato,2,2,,,,0
-1625167800,La Serena,Colo Colo,1,3,,,,0
-1625176800,Nublense,O'Higgins,1,1,,,,0
-1625185800,U. De Chile,Arturo Fernandez Vial,1,1,,,,0
-1625338800,U. Catolica,Everton,0,2,,,,0
-1625338800,D. Concepcion,Palestino,0,4,,,,0
-1625416200,Coquimbo,Rangers,0,0,,,,0
-1625425200,Arturo Fernandez Vial,U. De Chile,1,1,Pen,2,1,0
-1625434200,O'Higgins,Nublense,2,2,Pen,2,3,0
-1625443200,Colo Colo,La Serena,4,0,,,,0
-1625511600,Huachipato,Deportes Temuco,2,0,,,,0
-1625511600,A. Italiano,Magallanes,3,0,,,,0
-1625770800,Palestino,Colo Colo,2,3,,,,0
-1625790600,Everton,Nublense,1,0,,,,0
-1625846400,Magallanes,U. Espanola,0,1,,,,0
-1625949000,Arturo Fernandez Vial,Coquimbo,0,0,,,,0
-1626040800,Nublense,Everton,1,1,,,,0
-1626049800,Colo Colo,Palestino,1,1,,,,0
-1626116400,U. Espanola,Magallanes,1,0,,,,0
-1628121600,U. Espanola,Huachipato,1,1,,,,0
-1628208000,Coquimbo,Arturo Fernandez Vial,3,0,,,,0
-1628726400,Huachipato,U. Espanola,0,1,,,,0
-1629320400,Colo Colo,U. Espanola,4,0,,,,0
-1629329400,Everton,Coquimbo,2,1,,,,0
-1630528200,Coquimbo,Everton,0,0,,,,0
-1630537200,U. Espanola,Colo Colo,2,3,,,,0
-1630787400,Colo Colo,Everton,2,0,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1623783600,Valdivia,D. Puerto Montt,v3GeNiqa,lGGssG8o,1,3,,,,0
+1623783600,Rodelindo,Coquimbo,jsI949jN,hMng3olL,0,1,,,,0
+1623783600,Recoleta,San Luis,z9vnNFI5,6PYUqcOT,3,1,,,,0
+1623783600,Limache,Barnechea,EawjMZXB,z1UcXQtj,1,4,,,,0
+1623783600,Ind. Cauquenes,Arturo Fernandez Vial,z9vnNFI5,2LeKvwQT,1,3,,,,0
+1623783600,Iberia,Deportes Temuco,AZCTXCE8,r3gSTAGA,0,1,,,,0
+1623783600,General Velasquez,Rangers,44hKIBkm,ADg61nKB,0,1,,,,0
+1623783600,Deportes Colina,S. Morning,EuTwbjPA,fwVbNTh9,1,0,,,,0
+1623783600,Colchagua,CD Santa Cruz,z9vnNFI5,AJxZzB1j,1,6,,,,0
+1623783600,Cobreloa,Copiapo,IXRjJEDH,tQ72aRuk,2,1,,,,0
+1623794400,D. Concepcion,U. De Concepcion,O478yA5B,Eq74Jcjl,1,0,,,,0
+1623801600,Deportes Iquique,San Marcos de Arica,2NbwlzJD,z1UcXQtj,2,2,Pen,3,2,0
+1623870000,San Antonio Unido,San Felipe,fc14MIQR,IXRjJEDH,2,0,,,,0
+1623870000,Lautaro,Magallanes,EawjMZXB,4ryZkWNl,0,3,Awrd,,,0
+1624321800,Curico Unido,Rangers,4xj1AAB3,ADg61nKB,1,1,,,,0
+1624379400,Barnechea,Palestino,z1UcXQtj,zPORy6uL,0,2,,,,0
+1624379400,Antofagasta,Coquimbo,zV3V5ijb,hMng3olL,0,0,,,,0
+1624399200,Arturo Fernandez Vial,Cobresal,2LeKvwQT,p8NClxtb,0,0,,,,0
+1624406400,Deportes Iquique,U. Catolica,2NbwlzJD,nRWWeW7h,1,1,,,,0
+1624465800,Deportes Temuco,Union La Calera,r3gSTAGA,WYtEUtB2,0,0,,,,0
+1624465800,D. Puerto Montt,U. Espanola,lGGssG8o,W0oo6a6a,0,2,,,,0
+1624476600,San Antonio Unido,Huachipato,fc14MIQR,xIMey4eD,0,0,,,,0
+1624476600,Melipilla,Nublense,nss625xc,dveS6wJe,0,1,,,,0
+1624476600,Deportes Colina,La Serena,EuTwbjPA,Mkzo6oBm,1,2,,,,0
+1624483800,O'Higgins,Cobreloa,fRWXW3MH,IXRjJEDH,1,0,,,,0
+1624492800,Everton,CD Santa Cruz,YoHxOTu3,AJxZzB1j,3,0,,,,0
+1624546800,S. Wanderers,D. Concepcion,Miq6wRQG,O478yA5B,0,1,,,,0
+1624570200,U. De Chile,San Luis,fuSaShZI,6PYUqcOT,1,0,,,,1
+1624667400,Rangers,Curico Unido,ADg61nKB,4xj1AAB3,1,1,Pen,2,1,0
+1624719600,Cobresal,Arturo Fernandez Vial,p8NClxtb,2LeKvwQT,2,2,Pen,2,3,0
+1624723200,Coquimbo,Antofagasta,hMng3olL,zV3V5ijb,1,0,,,,0
+1624734000,Huachipato,San Antonio Unido,xIMey4eD,fc14MIQR,3,2,,,,0
+1624744800,Union La Calera,Deportes Temuco,WYtEUtB2,r3gSTAGA,0,2,,,,0
+1624744800,CD Santa Cruz,Everton,AJxZzB1j,YoHxOTu3,1,1,,,,0
+1624753800,U. Catolica,Deportes Iquique,nRWWeW7h,2NbwlzJD,4,4,Pen,5,4,0
+1624806000,U. Espanola,D. Puerto Montt,W0oo6a6a,lGGssG8o,2,3,,,,0
+1624809600,Cobreloa,O'Higgins,IXRjJEDH,fRWXW3MH,2,1,Pen,2,2,0
+1624820400,Palestino,Barnechea,zPORy6uL,z1UcXQtj,5,2,,,,0
+1624820400,Nublense,Melipilla,dveS6wJe,nss625xc,0,0,,,,0
+1624820400,La Serena,Deportes Colina,Mkzo6oBm,EuTwbjPA,5,0,,,,0
+1624831200,D. Concepcion,S. Wanderers,O478yA5B,Miq6wRQG,1,1,,,,0
+1624840200,San Luis,U. De Chile,6PYUqcOT,fuSaShZI,1,3,,,,0
+1625068800,Magallanes,A. Italiano,4ryZkWNl,6kEqxN0C,4,0,,,,0
+1625079600,Palestino,D. Concepcion,zPORy6uL,O478yA5B,4,0,,,,0
+1625090400,Rangers,Coquimbo,ADg61nKB,hMng3olL,0,1,,,,0
+1625099400,Everton,U. Catolica,YoHxOTu3,nRWWeW7h,0,0,,,,0
+1625166000,Deportes Temuco,Huachipato,r3gSTAGA,xIMey4eD,2,2,,,,0
+1625167800,La Serena,Colo Colo,Mkzo6oBm,tnwDCzLD,1,3,,,,0
+1625176800,Nublense,O'Higgins,dveS6wJe,fRWXW3MH,1,1,,,,0
+1625185800,U. De Chile,Arturo Fernandez Vial,fuSaShZI,2LeKvwQT,1,1,,,,0
+1625338800,U. Catolica,Everton,nRWWeW7h,YoHxOTu3,0,2,,,,0
+1625338800,D. Concepcion,Palestino,O478yA5B,zPORy6uL,0,4,,,,0
+1625416200,Coquimbo,Rangers,hMng3olL,ADg61nKB,0,0,,,,0
+1625425200,Arturo Fernandez Vial,U. De Chile,2LeKvwQT,fuSaShZI,1,1,Pen,2,1,0
+1625434200,O'Higgins,Nublense,fRWXW3MH,dveS6wJe,2,2,Pen,2,3,0
+1625443200,Colo Colo,La Serena,tnwDCzLD,Mkzo6oBm,4,0,,,,0
+1625511600,Huachipato,Deportes Temuco,xIMey4eD,r3gSTAGA,2,0,,,,0
+1625511600,A. Italiano,Magallanes,6kEqxN0C,4ryZkWNl,3,0,,,,0
+1625770800,Palestino,Colo Colo,zPORy6uL,tnwDCzLD,2,3,,,,0
+1625790600,Everton,Nublense,YoHxOTu3,dveS6wJe,1,0,,,,0
+1625846400,Magallanes,U. Espanola,4ryZkWNl,W0oo6a6a,0,1,,,,0
+1625949000,Arturo Fernandez Vial,Coquimbo,2LeKvwQT,hMng3olL,0,0,,,,0
+1626040800,Nublense,Everton,dveS6wJe,YoHxOTu3,1,1,,,,0
+1626049800,Colo Colo,Palestino,tnwDCzLD,zPORy6uL,1,1,,,,0
+1626116400,U. Espanola,Magallanes,W0oo6a6a,4ryZkWNl,1,0,,,,0
+1628121600,U. Espanola,Huachipato,W0oo6a6a,xIMey4eD,1,1,,,,0
+1628208000,Coquimbo,Arturo Fernandez Vial,hMng3olL,2LeKvwQT,3,0,,,,0
+1628726400,Huachipato,U. Espanola,xIMey4eD,W0oo6a6a,0,1,,,,0
+1629320400,Colo Colo,U. Espanola,tnwDCzLD,W0oo6a6a,4,0,,,,0
+1629329400,Everton,Coquimbo,YoHxOTu3,hMng3olL,2,1,,,,0
+1630528200,Coquimbo,Everton,hMng3olL,YoHxOTu3,0,0,,,,0
+1630537200,U. Espanola,Colo Colo,W0oo6a6a,tnwDCzLD,2,3,,,,0
+1630787400,Colo Colo,Everton,tnwDCzLD,YoHxOTu3,2,0,,,,1

@@ -1,39 +1,39 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1505829600,Prijedor,Tekstilac,1,1,Pen,2,1,0
-1505916000,Zvijezda 09,Visoko,2,0,,,,0
-1505916000,Zivinice,Celik Zenica,2,2,Pen,2,3,0
-1505916000,Velez Mostar,Olimpik Sarajevo,1,3,,,,0
-1505916000,Tuzla City,Zrinjski,1,0,,,,0
-1505916000,TOSK Tesanj,GOSK Gabela,2,2,Pen,2,3,0
-1505916000,Svatovac Poljice,Slavija,1,1,Pen,2,1,0
-1505916000,Radnik Bijeljina,Siroki Brijeg,0,1,,,,0
-1505916000,Mladost DK,FK Sarajevo,0,0,Pen,1,0,0
-1505916000,Metalleghe,Zeljeznicar,0,1,,,,0
-1505916000,Ljubic Prnjavor,NK Vitez,0,6,,,,0
-1505916000,Leotar,Kozara,4,0,,,,0
-1505916000,Grude,Krupa,0,4,,,,0
-1505916000,FK Vitez,Borac Banja Luka,3,8,,,,0
-1505916000,Bratstvo Gracanica,Sutjeska Foca,6,1,,,,0
-1505916000,Azot Vitkovici,Sloboda,1,2,,,,0
-1508936400,Svatovac Poljice,Tuzla City,0,2,,,,0
-1508936400,Prijedor,Celik Zenica,2,1,,,,0
-1508936400,Olimpik Sarajevo,GOSK Gabela,4,0,,,,0
-1508936400,Bratstvo Gracanica,Sloboda,1,2,,,,0
-1508947200,Zeljeznicar,Mladost DK,2,1,,,,0
-1508947200,Siroki Brijeg,NK Vitez,3,0,,,,0
-1508949000,Borac Banja Luka,Krupa,0,2,,,,0
-1509541200,Leotar,Zvijezda 09,1,1,Pen,1,2,0
-1511352000,Tuzla City,Sloboda,0,0,,,,0
-1511352000,Prijedor,Krupa,0,3,,,,0
-1511352000,Olimpik Sarajevo,Zvijezda 09,1,2,,,,0
-1511956800,Zvijezda 09,Olimpik Sarajevo,0,0,,,,0
-1511956800,Sloboda,Tuzla City,2,0,,,,0
-1511956800,Krupa,Prijedor,3,2,,,,0
-1512057600,Siroki Brijeg,Zeljeznicar,0,1,,,,0
-1512648000,Zeljeznicar,Siroki Brijeg,2,0,,,,0
-1523457000,Zvijezda 09,Krupa,0,4,,,,0
-1523462400,Zeljeznicar,Sloboda,0,0,,,,0
-1524061800,Krupa,Zvijezda 09,2,0,,,,0
-1524067200,Sloboda,Zeljeznicar,1,4,,,,0
-1525275000,Zeljeznicar,Krupa,2,0,,,,0
-1525878000,Krupa,Zeljeznicar,0,4,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1505829600,Prijedor,Tekstilac,t6ohxKMt,lOYbSjrt,1,1,Pen,2,1,0
+1505916000,Zvijezda 09,Visoko,riRZh95F,bsCtXfEp,2,0,,,,0
+1505916000,Zivinice,Celik Zenica,pp3jr4IC,bX4T7xfj,2,2,Pen,2,3,0
+1505916000,Velez Mostar,Olimpik Sarajevo,6XE3AtXB,82fcjrKD,1,3,,,,0
+1505916000,Tuzla City,Zrinjski,QHNTWbrf,zg80Kwyr,1,0,,,,0
+1505916000,TOSK Tesanj,GOSK Gabela,rgzhwehk,8KcAgdAM,2,2,Pen,2,3,0
+1505916000,Svatovac Poljice,Slavija,vNjinzEo,hpcz0A3F,1,1,Pen,2,1,0
+1505916000,Radnik Bijeljina,Siroki Brijeg,rkMd9kXu,AyQfPETk,0,1,,,,0
+1505916000,Mladost DK,FK Sarajevo,pp3jr4IC,0E8MOvRd,0,0,Pen,1,0,0
+1505916000,Metalleghe,Zeljeznicar,rgQ0J9AG,YqMYOJSQ,0,1,,,,0
+1505916000,Ljubic Prnjavor,NK Vitez,K8ngvjsH,82fcjrKD,0,6,,,,0
+1505916000,Leotar,Kozara,KU7AlyK2,YqMYOJSQ,4,0,,,,0
+1505916000,Grude,Krupa,6slvhmFa,KEePLQOe,0,4,,,,0
+1505916000,FK Vitez,Borac Banja Luka,,pYGu6ZOp,3,8,,,,0
+1505916000,Bratstvo Gracanica,Sutjeska Foca,4lQueYR5,riRZh95F,6,1,,,,0
+1505916000,Azot Vitkovici,Sloboda,vNjinzEo,xCPMRLr8,1,2,,,,0
+1508936400,Svatovac Poljice,Tuzla City,vNjinzEo,QHNTWbrf,0,2,,,,0
+1508936400,Prijedor,Celik Zenica,t6ohxKMt,bX4T7xfj,2,1,,,,0
+1508936400,Olimpik Sarajevo,GOSK Gabela,82fcjrKD,8KcAgdAM,4,0,,,,0
+1508936400,Bratstvo Gracanica,Sloboda,4lQueYR5,xCPMRLr8,1,2,,,,0
+1508947200,Zeljeznicar,Mladost DK,YqMYOJSQ,pp3jr4IC,2,1,,,,0
+1508947200,Siroki Brijeg,NK Vitez,AyQfPETk,82fcjrKD,3,0,,,,0
+1508949000,Borac Banja Luka,Krupa,pYGu6ZOp,KEePLQOe,0,2,,,,0
+1509541200,Leotar,Zvijezda 09,KU7AlyK2,riRZh95F,1,1,Pen,1,2,0
+1511352000,Tuzla City,Sloboda,QHNTWbrf,xCPMRLr8,0,0,,,,0
+1511352000,Prijedor,Krupa,t6ohxKMt,KEePLQOe,0,3,,,,0
+1511352000,Olimpik Sarajevo,Zvijezda 09,82fcjrKD,riRZh95F,1,2,,,,0
+1511956800,Zvijezda 09,Olimpik Sarajevo,riRZh95F,82fcjrKD,0,0,,,,0
+1511956800,Sloboda,Tuzla City,xCPMRLr8,QHNTWbrf,2,0,,,,0
+1511956800,Krupa,Prijedor,KEePLQOe,t6ohxKMt,3,2,,,,0
+1512057600,Siroki Brijeg,Zeljeznicar,AyQfPETk,YqMYOJSQ,0,1,,,,0
+1512648000,Zeljeznicar,Siroki Brijeg,YqMYOJSQ,AyQfPETk,2,0,,,,0
+1523457000,Zvijezda 09,Krupa,riRZh95F,KEePLQOe,0,4,,,,0
+1523462400,Zeljeznicar,Sloboda,YqMYOJSQ,xCPMRLr8,0,0,,,,0
+1524061800,Krupa,Zvijezda 09,KEePLQOe,riRZh95F,2,0,,,,0
+1524067200,Sloboda,Zeljeznicar,xCPMRLr8,YqMYOJSQ,1,4,,,,0
+1525275000,Zeljeznicar,Krupa,YqMYOJSQ,KEePLQOe,2,0,,,,0
+1525878000,Krupa,Zeljeznicar,KEePLQOe,YqMYOJSQ,0,4,,,,0

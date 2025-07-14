@@ -1,15 +1,15 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1524671700,Yarmouk,Al Sahel,1,3,,,,0
-1524671700,Al Salmiya,Kazma SC,4,2,,,,0
-1524671700,Al Qadisiya,Al Arabi,0,3,,,,0
-1524758100,Khaitan,Al Sulaibikhat,0,0,Pen,0,1,0
-1524758100,Al Tadamon,Al-Fahaheel,1,3,,,,0
-1524758100,Al Shabab,Al Naser,0,2,,,,0
-1524758100,Al Jahra,Burgan,1,3,,,,0
-1525104000,Al Salmiya,Al Sulaibikhat,2,0,,,,0
-1525104000,Al Naser,Al-Fahaheel,4,1,,,,0
-1525104000,Al Kuwait,Al Sahel,6,0,,,,0
-1525104000,Al Arabi,Burgan,1,0,,,,0
-1525445100,Al Kuwait,Al Naser,1,0,,,,0
-1525455900,Al Arabi,Al Salmiya,1,1,Pen,2,1,0
-1525795200,Al Kuwait,Al Arabi,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1524671700,Yarmouk,Al Sahel,ncRCR6Oi,25qRGqb6,1,3,,,,0
+1524671700,Al Salmiya,Kazma SC,nBhEizB7,rFudGJm8,4,2,,,,0
+1524671700,Al Qadisiya,Al Arabi,A5kBMfAs,xfISJPfp,0,3,,,,0
+1524758100,Khaitan,Al Sulaibikhat,tdrVF3DC,G0DfWOcg,0,0,Pen,0,1,0
+1524758100,Al Tadamon,Al-Fahaheel,xGLGTwx0,25qRGqb6,1,3,,,,0
+1524758100,Al Shabab,Al Naser,t04gyghd,xAEjX4rm,0,2,,,,0
+1524758100,Al Jahra,Burgan,8UbUao0i,E1xLPnQn,1,3,,,,0
+1525104000,Al Salmiya,Al Sulaibikhat,nBhEizB7,G0DfWOcg,2,0,,,,0
+1525104000,Al Naser,Al-Fahaheel,xAEjX4rm,25qRGqb6,4,1,,,,0
+1525104000,Al Kuwait,Al Sahel,EoKvKrMO,25qRGqb6,6,0,,,,0
+1525104000,Al Arabi,Burgan,xfISJPfp,E1xLPnQn,1,0,,,,0
+1525445100,Al Kuwait,Al Naser,EoKvKrMO,xAEjX4rm,1,0,,,,0
+1525455900,Al Arabi,Al Salmiya,xfISJPfp,nBhEizB7,1,1,Pen,2,1,0
+1525795200,Al Kuwait,Al Arabi,EoKvKrMO,xfISJPfp,3,0,,,,0

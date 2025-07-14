@@ -1,80 +1,80 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1600777800,Sudtirol,Latte Dolce,2,1,,,,0
-1600799400,Ternana,AlbinoLeffe,1,2,,,,0
-1600867800,Piacenza,Teramo,1,2,,,,0
-1600869600,Carpi,Casarano,1,1,AET,1,3,0
-1600871400,Novara,Gelbison,3,1,,,,0
-1600871400,Alessandria,Sambenedettese,3,2,,,,0
-1600873200,Pontedera,Arezzo,1,2,,,,0
-1600873200,Livorno,Pro Patria,1,2,,,,0
-1600873200,Catanzaro,Virtus Francavilla,2,1,,,,0
-1600873200,Carrarese,Ambrosiana,4,0,,,,0
-1600875000,Bari,Trastevere Calcio,4,0,,,,0
-1600876800,Renate,Avellino,2,1,,,,0
-1600876800,Juve Stabia,Tritium,2,1,,,,0
-1600878600,Potenza,Triestina,0,2,,,,0
-1600878600,FeralpiSalo,Pineto,1,0,,,,0
-1600880400,Padova,Breno,2,0,,,,0
-1600880400,Catania,S. N. Notaresco,1,1,AET,1,2,0
-1600884000,Monopoli,Modena,1,0,,,,0
-1601405100,Monza,Triestina,3,0,,,,0
-1601467200,Reggina,Teramo,1,0,,,,0
-1601470800,Pisa,Juve Stabia,2,0,,,,0
-1601470800,Frosinone,Padova,1,3,,,,0
-1601470800,Cremonese,Arezzo,4,0,,,,0
-1601470800,Cosenza,Alessandria,0,0,Pen,1,0,0
-1601470800,Cittadella,Novara,3,1,,,,0
-1601472600,Pescara,S. N. Notaresco,1,1,Pen,2,1,0
-1601474400,Entella,AlbinoLeffe,2,1,,,,0
-1601478000,L.R. Vicenza,Pro Patria,1,1,AET,3,2,0
-1601478000,Empoli,Renate,2,1,,,,0
-1601478000,Ascoli,Perugia,1,4,,,,0
-1601481600,Venezia,Carrarese,2,0,,,,0
-1601481600,Salernitana,Sudtirol,3,0,,,,0
-1601481600,Reggiana,Monopoli,0,3,Awrd,,,0
-1601481600,Pordenone,Casarano,3,0,,,,0
-1601481600,Lecce,FeralpiSalo,2,0,,,,0
-1601481600,Chievo,Catanzaro,1,1,Pen,1,2,0
-1601488800,Brescia,Trapani,3,0,Awrd,,,0
-1601492400,Spal,Bari,0,0,Pen,1,0,0
-1603803600,Sampdoria,Salernitana,1,0,,,,0
-1603807200,Entella,Pisa,3,1,,,,0
-1603807200,Bologna,Reggina,2,0,,,,0
-1603818000,Pordenone,Monza,0,0,Pen,0,1,0
-1603890000,Torino,Lecce,1,1,AET,3,1,0
-1603891800,Cagliari,Cremonese,1,0,,,,0
-1603893600,Cosenza,Monopoli,2,1,,,,0
-1603893600,Cittadella,Spezia,0,2,,,,0
-1603897200,Brescia,Perugia,3,0,,,,0
-1603897200,Benevento,Empoli,2,4,,,,0
-1603900800,Verona,Venezia,2,2,Pen,4,3,0
-1603900800,Genoa,Catanzaro,2,1,,,,0
-1603900800,Crotone,Spal,0,0,Pen,1,2,0
-1603902600,Fiorentina,Padova,2,1,,,,0
-1603904400,Udinese,L.R. Vicenza,3,1,,,,0
-1603904400,Parma,Pescara,3,1,,,,0
-1606224600,Spal,Monza,2,0,,,,0
-1606311000,Parma,Cosenza,2,1,,,,0
-1606311000,Empoli,Brescia,3,0,Awrd,,,0
-1606321800,Udinese,Fiorentina,0,0,AET,0,1,0
-1606321800,Cagliari,Verona,2,1,,,,0
-1606321800,Bologna,Spezia,2,2,AET,2,4,0
-1606395600,Torino,Entella,2,0,,,,0
-1606406400,Sampdoria,Genoa,1,3,,,,0
-1610480700,AC Milan,Torino,0,0,Pen,1,0,0
-1610546400,Fiorentina,Inter,1,1,AET,1,2,0
-1610556300,Napoli,Empoli,3,2,,,,0
-1610567100,Juventus,Genoa,2,2,AET,3,2,0
-1610641800,Sassuolo,Spal,0,2,,,,0
-1610655300,Atalanta,Cagliari,3,1,,,,0
-1611087300,AS Roma,Spezia,0,3,Awrd,,,0
-1611260100,Lazio,Parma,2,1,,,,0
-1611690300,Inter,AC Milan,2,1,,,,0
-1611765900,Atalanta,Lazio,3,2,,,,0
-1611776700,Juventus,Spal,4,0,,,,0
-1611864000,Napoli,Spezia,4,2,,,,0
-1612295100,Inter,Juventus,1,2,,,,0
-1612381500,Napoli,Atalanta,0,0,,,,0
-1612899900,Juventus,Inter,0,0,,,,0
-1612986300,Atalanta,Napoli,3,1,,,,0
-1621450800,Atalanta,Juventus,1,2,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1600777800,Sudtirol,Latte Dolce,UJeBD3ZT,dxYsidUO,2,1,,,,0
+1600799400,Ternana,AlbinoLeffe,4h8hml0s,dxYsidUO,1,2,,,,0
+1600867800,Piacenza,Teramo,KfFUyYyC,0G50HD7l,1,2,,,,0
+1600869600,Carpi,Casarano,jkltiv4D,8WJPe0el,1,1,AET,1,3,0
+1600871400,Novara,Gelbison,IehoPOFd,vLRmnG3L,3,1,,,,0
+1600871400,Alessandria,Sambenedettese,boEYzhiI,8EtKyaF6,3,2,,,,0
+1600873200,Pontedera,Arezzo,zZymCJFJ,zBTDGGHj,1,2,,,,0
+1600873200,Livorno,Pro Patria,pYGW7C9s,Aipk5JL5,1,2,,,,0
+1600873200,Catanzaro,Virtus Francavilla,O6dImjhL,8dyaziOQ,2,1,,,,0
+1600873200,Carrarese,Ambrosiana,t4GQxEM5,bFuxLqRF,4,0,,,,0
+1600875000,Bari,Trastevere Calcio,dYPMS6QG,0USqmdlF,4,0,,,,0
+1600876800,Renate,Avellino,boEYzhiI,dp0XifTb,2,1,,,,0
+1600876800,Juve Stabia,Tritium,hEfwIASK,23fXK8za,2,1,,,,0
+1600878600,Potenza,Triestina,tfP9H5ON,KfFUyYyC,0,2,,,,0
+1600878600,FeralpiSalo,Pineto,vFhT6NNo,Uq53M2ue,1,0,,,,0
+1600880400,Padova,Breno,0lwy4Ij1,rFNNjRQc,2,0,,,,0
+1600880400,Catania,S. N. Notaresco,hnnCjjcF,fkXR3c8i,1,1,AET,1,2,0
+1600884000,Monopoli,Modena,Sl2pAhM7,OY47DkeT,1,0,,,,0
+1601405100,Monza,Triestina,nedmW6cD,KfFUyYyC,3,0,,,,0
+1601467200,Reggina,Teramo,fNvfBbuo,0G50HD7l,1,0,,,,0
+1601470800,Pisa,Juve Stabia,GMOw3SI3,hEfwIASK,2,0,,,,0
+1601470800,Frosinone,Padova,t4GQxEM5,0lwy4Ij1,1,3,,,,0
+1601470800,Cremonese,Arezzo,t4GQxEM5,zBTDGGHj,4,0,,,,0
+1601470800,Cosenza,Alessandria,j5ryYBSC,boEYzhiI,0,0,Pen,1,0,0
+1601470800,Cittadella,Novara,x89Kdsb3,IehoPOFd,3,1,,,,0
+1601472600,Pescara,S. N. Notaresco,0YEZEho5,fkXR3c8i,1,1,Pen,2,1,0
+1601474400,Entella,AlbinoLeffe,boEYzhiI,dxYsidUO,2,1,,,,0
+1601478000,L.R. Vicenza,Pro Patria,nPPuzM9e,Aipk5JL5,1,1,AET,3,2,0
+1601478000,Empoli,Renate,KbH8aCLf,boEYzhiI,2,1,,,,0
+1601478000,Ascoli,Perugia,CEqXYiD6,zBy2JPLp,1,4,,,,0
+1601481600,Venezia,Carrarese,AX567M6G,t4GQxEM5,2,0,,,,0
+1601481600,Salernitana,Sudtirol,dvgFSUQH,UJeBD3ZT,3,0,,,,0
+1601481600,Reggiana,Monopoli,xpwwMV0F,Sl2pAhM7,0,3,Awrd,,,0
+1601481600,Pordenone,Casarano,f9ZHLASH,8WJPe0el,3,0,,,,0
+1601481600,Lecce,FeralpiSalo,McvX4bye,vFhT6NNo,2,0,,,,0
+1601481600,Chievo,Catanzaro,fkHZWuUa,O6dImjhL,1,1,Pen,1,2,0
+1601488800,Brescia,Trapani,QuOACKLH,v97byQ4c,3,0,Awrd,,,0
+1601492400,Spal,Bari,SGp73XJK,dYPMS6QG,0,0,Pen,1,0,0
+1603803600,Sampdoria,Salernitana,WdmUvPiG,dvgFSUQH,1,0,,,,0
+1603807200,Entella,Pisa,boEYzhiI,GMOw3SI3,3,1,,,,0
+1603807200,Bologna,Reggina,McvX4bye,fNvfBbuo,2,0,,,,0
+1603818000,Pordenone,Monza,f9ZHLASH,nedmW6cD,0,0,Pen,0,1,0
+1603890000,Torino,Lecce,0lwy4Ij1,McvX4bye,1,1,AET,3,1,0
+1603891800,Cagliari,Cremonese,McvX4bye,t4GQxEM5,1,0,,,,0
+1603893600,Cosenza,Monopoli,j5ryYBSC,Sl2pAhM7,2,1,,,,0
+1603893600,Cittadella,Spezia,x89Kdsb3,SEcuqyiS,0,2,,,,0
+1603897200,Brescia,Perugia,QuOACKLH,zBy2JPLp,3,0,,,,0
+1603897200,Benevento,Empoli,2DHMwf7a,KbH8aCLf,2,4,,,,0
+1603900800,Verona,Venezia,Kxh373f3,AX567M6G,2,2,Pen,4,3,0
+1603900800,Genoa,Catanzaro,hCD6m1R3,O6dImjhL,2,1,,,,0
+1603900800,Crotone,Spal,Ma1dQfp5,SGp73XJK,0,0,Pen,1,2,0
+1603902600,Fiorentina,Padova,6XKdgOM6,0lwy4Ij1,2,1,,,,0
+1603904400,Udinese,L.R. Vicenza,SYw7EcY6,nPPuzM9e,3,1,,,,0
+1603904400,Parma,Pescara,fydXzLY6,0YEZEho5,3,1,,,,0
+1606224600,Spal,Monza,SGp73XJK,nedmW6cD,2,0,,,,0
+1606311000,Parma,Cosenza,fydXzLY6,j5ryYBSC,2,1,,,,0
+1606311000,Empoli,Brescia,KbH8aCLf,QuOACKLH,3,0,Awrd,,,0
+1606321800,Udinese,Fiorentina,SYw7EcY6,6XKdgOM6,0,0,AET,0,1,0
+1606321800,Cagliari,Verona,McvX4bye,Kxh373f3,2,1,,,,0
+1606321800,Bologna,Spezia,McvX4bye,SEcuqyiS,2,2,AET,2,4,0
+1606395600,Torino,Entella,0lwy4Ij1,boEYzhiI,2,0,,,,0
+1606406400,Sampdoria,Genoa,WdmUvPiG,hCD6m1R3,1,3,,,,0
+1610480700,AC Milan,Torino,fL3dmxxd,0lwy4Ij1,0,0,Pen,1,0,0
+1610546400,Fiorentina,Inter,6XKdgOM6,jDrBQiMS,1,1,AET,1,2,0
+1610556300,Napoli,Empoli,Qcs4tGVj,KbH8aCLf,3,2,,,,0
+1610567100,Juventus,Genoa,EXzXDYgS,hCD6m1R3,2,2,AET,3,2,0
+1610641800,Sassuolo,Spal,0lwy4Ij1,SGp73XJK,0,2,,,,0
+1610655300,Atalanta,Cagliari,rg6usZns,McvX4bye,3,1,,,,0
+1611087300,AS Roma,Spezia,GtNb9h2q,SEcuqyiS,0,3,Awrd,,,0
+1611260100,Lazio,Parma,fL3dmxxd,fydXzLY6,2,1,,,,0
+1611690300,Inter,AC Milan,jDrBQiMS,fL3dmxxd,2,1,,,,0
+1611765900,Atalanta,Lazio,rg6usZns,fL3dmxxd,3,2,,,,0
+1611776700,Juventus,Spal,EXzXDYgS,SGp73XJK,4,0,,,,0
+1611864000,Napoli,Spezia,Qcs4tGVj,SEcuqyiS,4,2,,,,0
+1612295100,Inter,Juventus,jDrBQiMS,EXzXDYgS,1,2,,,,0
+1612381500,Napoli,Atalanta,Qcs4tGVj,rg6usZns,0,0,,,,0
+1612899900,Juventus,Inter,EXzXDYgS,jDrBQiMS,0,0,,,,0
+1612986300,Atalanta,Napoli,rg6usZns,Qcs4tGVj,3,1,,,,0
+1621450800,Atalanta,Juventus,rg6usZns,EXzXDYgS,1,2,,,,1

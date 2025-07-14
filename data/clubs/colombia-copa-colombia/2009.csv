@@ -1,24 +1,24 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1251318600,Tigres,Quindio,0,0,,,,0
-1251318600,Junior,Ind. Medellin,2,1,,,,0
-1251333000,Santa Fe,Cucuta,4,0,,,,0
-1251333000,Atl. Nacional,Atl. La Sabana,4,1,,,,0
-1251334800,Dep. Pasto,Huila,1,0,,,,0
-1251336600,Bucaramanga,Millonarios,3,1,,,,0
-1251923400,Quindio,Tigres,3,0,,,,0
-1251923400,Huila,Dep. Pasto,2,1,Pen,2,2,0
-1251923400,Cucuta,Santa Fe,5,1,Pen,5,2,0
-1251937800,Millonarios,Bucaramanga,0,1,,,,0
-1251937800,Atl. La Sabana,Atl. Nacional,1,3,,,,0
-1252458000,Ind. Medellin,Junior,1,0,Pen,1,1,0
-1253147400,Quindio,Junior,0,0,,,,0
-1253149200,Atl. Nacional,Bucaramanga,2,0,,,,0
-1253151000,Dep. Pasto,Santa Fe,3,1,,,,0
-1253754000,Santa Fe,Dep. Pasto,2,1,,,,0
-1253754000,Junior,Quindio,2,2,Pen,3,2,0
-1253754000,Bucaramanga,Atl. Nacional,1,0,,,,0
-1256778000,Atl. Nacional,Santa Fe,2,1,,,,0
-1256779800,Dep. Pasto,Junior,3,1,,,,0
-1257366600,Junior,Dep. Pasto,1,2,,,,0
-1257383700,Santa Fe,Atl. Nacional,3,2,Pen,4,2,0
-1258593300,Santa Fe,Dep. Pasto,2,1,Pen,3,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1251318600,Tigres,Quindio,r7qn5qKU,Eam1BfjK,0,0,,,,0
+1251318600,Junior,Ind. Medellin,G2820wU0,plopiAtN,2,1,,,,0
+1251333000,Santa Fe,Cucuta,AaS9a4Ho,hCmseTFa,4,0,,,,0
+1251333000,Atl. Nacional,Atl. La Sabana,tnwDCzLD,foXhKjWf,4,1,,,,0
+1251334800,Dep. Pasto,Huila,hjn5AE5Q,W6vdbCVa,1,0,,,,0
+1251336600,Bucaramanga,Millonarios,0xyt4W2g,6kduDy6P,3,1,,,,0
+1251923400,Quindio,Tigres,Eam1BfjK,r7qn5qKU,3,0,,,,0
+1251923400,Huila,Dep. Pasto,W6vdbCVa,hjn5AE5Q,2,1,Pen,2,2,0
+1251923400,Cucuta,Santa Fe,hCmseTFa,AaS9a4Ho,5,1,Pen,5,2,0
+1251937800,Millonarios,Bucaramanga,6kduDy6P,0xyt4W2g,0,1,,,,0
+1251937800,Atl. La Sabana,Atl. Nacional,foXhKjWf,tnwDCzLD,1,3,,,,0
+1252458000,Ind. Medellin,Junior,plopiAtN,G2820wU0,1,0,Pen,1,1,0
+1253147400,Quindio,Junior,Eam1BfjK,G2820wU0,0,0,,,,0
+1253149200,Atl. Nacional,Bucaramanga,tnwDCzLD,0xyt4W2g,2,0,,,,0
+1253151000,Dep. Pasto,Santa Fe,hjn5AE5Q,AaS9a4Ho,3,1,,,,0
+1253754000,Santa Fe,Dep. Pasto,AaS9a4Ho,hjn5AE5Q,2,1,,,,0
+1253754000,Junior,Quindio,G2820wU0,Eam1BfjK,2,2,Pen,3,2,0
+1253754000,Bucaramanga,Atl. Nacional,0xyt4W2g,tnwDCzLD,1,0,,,,0
+1256778000,Atl. Nacional,Santa Fe,tnwDCzLD,AaS9a4Ho,2,1,,,,0
+1256779800,Dep. Pasto,Junior,hjn5AE5Q,G2820wU0,3,1,,,,0
+1257366600,Junior,Dep. Pasto,G2820wU0,hjn5AE5Q,1,2,,,,0
+1257383700,Santa Fe,Atl. Nacional,AaS9a4Ho,tnwDCzLD,3,2,Pen,4,2,0
+1258593300,Santa Fe,Dep. Pasto,AaS9a4Ho,hjn5AE5Q,2,1,Pen,3,1,0

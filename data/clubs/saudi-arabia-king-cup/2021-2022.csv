@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1639933200,Al Shabab,Damac,5,0,,,,0
-1640001900,Al Batin,Al Hazem,1,0,,,,0
-1640010900,Al Fateh,Al Ittihad,2,3,,,,0
-1640019600,Al Hilal,Al Raed,2,0,,,,0
-1640088300,Al Fayha,Abha,4,0,,,,0
-1640098200,Al Nassr,Al Ettifaq,1,0,,,,0
-1640098800,Al Taawon,Al Taee,3,2,,,,0
-1640100300,Al Ahli SC,Al-Faisaly,2,1,,,,0
-1645448100,Al Batin,Al Fayha,1,1,AET,1,2,0
-1645448400,Al Taawon,Al Ittihad,1,2,,,,0
-1645457100,Al Nassr,Al Hilal,1,2,,,,0
-1645465200,Al Shabab,Al Ahli SC,2,1,,,,0
-1649012400,Al Hilal,Al Shabab,1,1,AET,2,1,0
-1649098800,Al Fayha,Al Ittihad,1,0,,,,0
-1652985000,Al Hilal,Al Fayha,1,1,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1639933200,Al Shabab,Damac,S4ItXNi7,29Hb7UEa,5,0,,,,0
+1640001900,Al Batin,Al Hazem,pSPK8Cih,I5wzarII,1,0,,,,0
+1640010900,Al Fateh,Al Ittihad,ll4pyUYI,jeFu6Qy4,2,3,,,,0
+1640019600,Al Hilal,Al Raed,joUWHZ1t,8WX8K8kE,2,0,,,,0
+1640088300,Al Fayha,Abha,z58zJYcl,E9j3kB6r,4,0,,,,0
+1640098200,Al Nassr,Al Ettifaq,dr3R7wGl,ve6EavVg,1,0,,,,0
+1640098800,Al Taawon,Al Taee,zwr48VYG,GQAvU1Ht,3,2,,,,0
+1640100300,Al Ahli SC,Al-Faisaly,S6sY6w76,t0G26lU5,2,1,,,,0
+1645448100,Al Batin,Al Fayha,pSPK8Cih,z58zJYcl,1,1,AET,1,2,0
+1645448400,Al Taawon,Al Ittihad,zwr48VYG,jeFu6Qy4,1,2,,,,0
+1645457100,Al Nassr,Al Hilal,dr3R7wGl,joUWHZ1t,1,2,,,,0
+1645465200,Al Shabab,Al Ahli SC,S4ItXNi7,S6sY6w76,2,1,,,,0
+1649012400,Al Hilal,Al Shabab,joUWHZ1t,S4ItXNi7,1,1,AET,2,1,0
+1649098800,Al Fayha,Al Ittihad,z58zJYcl,jeFu6Qy4,1,0,,,,0
+1652985000,Al Hilal,Al Fayha,joUWHZ1t,z58zJYcl,1,1,Pen,1,2,0

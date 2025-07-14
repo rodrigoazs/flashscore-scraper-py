@@ -1,14 +1,14 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1715173200,Vital'O,Deira,1,0,,,,0
-1715173200,Le Messager Ngozi,Bumamuru,1,0,,,,0
-1715259600,Rukinzo,Kayanza,-,-,WO,,,0
-1715259600,Lumiere de Ngozi,Flambeau du Centre,1,1,,,,0
-1715432400,Deira,Vital'O,0,0,,,,0
-1715518800,Kayanza,Rukinzo,-,-,WO,,,0
-1715518800,Flambeau du Centre,Lumiere de Ngozi,3,1,,,,0
-1715518800,Bumamuru,Le Messager Ngozi,1,1,,,,0
-1716037200,Flambeau du Centre,Vital'O,2,0,,,,0
-1716123600,Le Messager Ngozi,Rukinzo,1,2,,,,0
-1716642000,Rukinzo,Le Messager Ngozi,2,1,,,,0
-1716728400,Vital'O,Flambeau du Centre,0,0,,,,0
-1718456400,Flambeau du Centre,Rukinzo,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1715173200,Vital'O,Deira,2V6jtVbj,xdwWzNgQ,1,0,,,,0
+1715173200,Le Messager Ngozi,Bumamuru,Q1R2BVUa,6obZXPrB,1,0,,,,0
+1715259600,Rukinzo,Kayanza,6ozUJqCk,6ozUJqCk,-,-,WO,,,0
+1715259600,Lumiere de Ngozi,Flambeau du Centre,jekkucYt,x2nFClZ5,1,1,,,,0
+1715432400,Deira,Vital'O,xdwWzNgQ,2V6jtVbj,0,0,,,,0
+1715518800,Kayanza,Rukinzo,6ozUJqCk,6ozUJqCk,-,-,WO,,,0
+1715518800,Flambeau du Centre,Lumiere de Ngozi,x2nFClZ5,jekkucYt,3,1,,,,0
+1715518800,Bumamuru,Le Messager Ngozi,6obZXPrB,Q1R2BVUa,1,1,,,,0
+1716037200,Flambeau du Centre,Vital'O,x2nFClZ5,2V6jtVbj,2,0,,,,0
+1716123600,Le Messager Ngozi,Rukinzo,Q1R2BVUa,6ozUJqCk,1,2,,,,0
+1716642000,Rukinzo,Le Messager Ngozi,6ozUJqCk,Q1R2BVUa,2,1,,,,0
+1716728400,Vital'O,Flambeau du Centre,2V6jtVbj,x2nFClZ5,0,0,,,,0
+1718456400,Flambeau du Centre,Rukinzo,x2nFClZ5,6ozUJqCk,1,2,,,,0

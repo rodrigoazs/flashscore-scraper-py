@@ -1,83 +1,83 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1531335600,Petroleros de Anzoategui,Furrial,3,3,,,,0
-1531335600,Los Andes,Inter de Barinas,4,1,,,,0
-1531335600,Libertador,Miranda,0,0,,,,0
-1531335600,Gran Valencia,Yaracuy,2,5,,,,0
-1531335600,El Vigia,Urena,1,2,,,,0
-1531335600,Angostura,AC Lala FC,3,2,,,,0
-1531339200,Titanes,JBL Zulia,4,0,,,,0
-1531594800,Yaracuy,Yaracuyanos,1,2,,,,0
-1531594800,Urena,Frontera,1,3,,,,0
-1531594800,JBL Zulia,Falcon,2,0,,,,0
-1531594800,Inter de Barinas,Llaneros,1,0,,,,0
-1531594800,Furrial,Margarita,0,1,,,,0
-1531594800,AC Lala FC,Chico de Guayana,1,0,,,,0
-1531681200,Miranda,Universidad Central,2,1,,,,0
-1531933200,Universidad Central,Libertador,0,3,,,,0
-1531940400,Yaracuyanos,Gran Valencia,4,0,,,,0
-1531940400,Margarita,Petroleros de Anzoategui,3,1,,,,0
-1531940400,Llaneros,Los Andes,3,1,,,,0
-1531940400,Frontera,El Vigia,2,1,,,,0
-1531940400,Falcon,Titanes,0,3,,,,0
-1531940400,Chico de Guayana,Angostura,3,4,,,,0
-1533754800,Miranda,Caracas,1,4,,,,0
-1533754800,Margarita,Dep. Anzoategui,0,1,,,,0
-1533754800,AC Lala FC,Monagas,1,1,,,,0
-1533756600,Yaracuyanos,Carabobo,1,0,,,,0
-1533756600,Llaneros,Portuguesa,1,2,,,,0
-1533756600,Libertador,Aragua,0,3,,,,0
-1533756600,Estudiantes Caracas,Atl. Venezuela,1,3,,,,0
-1533758400,Titanes,Zulia,1,2,,,,0
-1533758400,Angostura,Mineros,2,1,,,,0
-1533760200,Frontera,Dep. Tachira,0,1,,,,0
-1533762000,Urena,Estudiantes Merida,2,0,,,,0
-1533762000,Los Andes,Zamora,1,1,,,,0
-1533769200,Puerto Cabello,Metropolitanos,0,1,,,,0
-1533841200,Furrial,La Guaira,1,3,,,,0
-1533843000,Yaracuy,Lara,3,1,,,,0
-1533844800,JBL Zulia,Trujillanos,1,0,,,,0
-1534276800,Carabobo,Yaracuyanos,3,0,,,,0
-1534361400,Metropolitanos,Puerto Cabello,0,0,,,,0
-1534361400,Atl. Venezuela,Estudiantes Caracas,4,2,,,,0
-1534363200,Zulia,Titanes,0,0,,,,0
-1534363200,Trujillanos,JBL Zulia,1,2,,,,0
-1534363200,Portuguesa,Llaneros,1,3,,,,0
-1534363200,Lara,Yaracuy,1,2,,,,0
-1534363200,Caracas,Miranda,3,0,,,,0
-1534363200,Aragua,Libertador,1,2,,,,0
-1534366800,Dep. Tachira,Frontera,1,0,,,,0
-1534366800,Dep. Anzoategui,Margarita,3,1,,,,0
-1534370400,Monagas,AC Lala FC,5,1,,,,0
-1534374000,Zamora,Los Andes,2,1,,,,0
-1534424400,Mineros,Angostura,0,3,Awrd,,,0
-1534447800,La Guaira,Furrial,1,0,,,,0
-1535571000,Yaracuy,Carabobo,2,2,,,,0
-1535571000,Metropolitanos,Atl. Venezuela,1,1,,,,0
-1535571000,Llaneros,Urena,2,1,,,,0
-1535571000,JBL Zulia,Zulia,0,1,,,,0
-1535572800,Caracas,Aragua,0,2,,,,0
-1535572800,Angostura,Dep. Anzoategui,0,2,,,,0
-1535580000,Monagas,La Guaira,1,2,,,,0
-1535583600,Zamora,Dep. Tachira,2,1,,,,0
-1536157800,La Guaira,Monagas,2,1,,,,0
-1536175800,Atl. Venezuela,Metropolitanos,0,0,,,,0
-1536177600,Carabobo,Yaracuy,0,0,,,,0
-1536179400,Zulia,JBL Zulia,2,0,,,,0
-1536181200,Urena,Llaneros,2,1,Pen,2,2,0
-1536181200,Dep. Tachira,Zamora,1,1,,,,0
-1536181200,Dep. Anzoategui,Angostura,0,0,,,,0
-1536181200,Aragua,Caracas,1,0,,,,0
-1536525000,Zulia,Carabobo,1,1,,,,0
-1536526800,Dep. Anzoategui,La Guaira,1,1,,,,0
-1536526800,Aragua,Atl. Venezuela,2,0,,,,0
-1536530400,Zamora,Llaneros,1,0,,,,0
-1538577000,La Guaira,Dep. Anzoategui,1,1,Pen,1,2,0
-1538595000,Llaneros,Zamora,1,2,,,,0
-1538595000,Atl. Venezuela,Aragua,1,2,,,,0
-1538607600,Carabobo,Zulia,2,2,,,,0
-1539201600,Zulia,Zamora,2,0,,,,0
-1539205200,Dep. Anzoategui,Aragua,0,0,,,,0
-1539547200,Aragua,Dep. Anzoategui,3,2,,,,0
-1539554400,Zamora,Zulia,0,0,,,,0
-1540414800,Aragua,Zulia,1,2,,,,0
-1541016000,Zulia,Aragua,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1531335600,Petroleros de Anzoategui,Furrial,MPfASPU2,Oh7S3th2,3,3,,,,0
+1531335600,Los Andes,Inter de Barinas,6VuCmSO6,h8DUBAnO,4,1,,,,0
+1531335600,Libertador,Miranda,2yEbAT5k,K86NrQ27,0,0,,,,0
+1531335600,Gran Valencia,Yaracuy,C6NgKdLM,Oh7S3th2,2,5,,,,0
+1531335600,El Vigia,Urena,IkB687z2,2i892GfD,1,2,,,,0
+1531335600,Angostura,AC Lala FC,2DgfzFb3,2oitVFtP,3,2,,,,0
+1531339200,Titanes,JBL Zulia,nqC78WjD,A9BAee3n,4,0,,,,0
+1531594800,Yaracuy,Yaracuyanos,Oh7S3th2,xEhZwyEE,1,2,,,,0
+1531594800,Urena,Frontera,2i892GfD,CxxxGPVr,1,3,,,,0
+1531594800,JBL Zulia,Falcon,A9BAee3n,A9sVDVQB,2,0,,,,0
+1531594800,Inter de Barinas,Llaneros,h8DUBAnO,hCFsixCJ,1,0,,,,0
+1531594800,Furrial,Margarita,Oh7S3th2,dO4PgJVk,0,1,,,,0
+1531594800,AC Lala FC,Chico de Guayana,2oitVFtP,MPfASPU2,1,0,,,,0
+1531681200,Miranda,Universidad Central,K86NrQ27,IVEtsHRQ,2,1,,,,0
+1531933200,Universidad Central,Libertador,IVEtsHRQ,2yEbAT5k,0,3,,,,0
+1531940400,Yaracuyanos,Gran Valencia,xEhZwyEE,C6NgKdLM,4,0,,,,0
+1531940400,Margarita,Petroleros de Anzoategui,dO4PgJVk,MPfASPU2,3,1,,,,0
+1531940400,Llaneros,Los Andes,hCFsixCJ,6VuCmSO6,3,1,,,,0
+1531940400,Frontera,El Vigia,CxxxGPVr,IkB687z2,2,1,,,,0
+1531940400,Falcon,Titanes,A9sVDVQB,nqC78WjD,0,3,,,,0
+1531940400,Chico de Guayana,Angostura,MPfASPU2,2DgfzFb3,3,4,,,,0
+1533754800,Miranda,Caracas,K86NrQ27,0nhENufQ,1,4,,,,0
+1533754800,Margarita,Dep. Anzoategui,dO4PgJVk,v7Ysf0vj,0,1,,,,0
+1533754800,AC Lala FC,Monagas,2oitVFtP,2gmAxwcQ,1,1,,,,0
+1533756600,Yaracuyanos,Carabobo,xEhZwyEE,CtnfXRKE,1,0,,,,0
+1533756600,Llaneros,Portuguesa,hCFsixCJ,6LjVpO9s,1,2,,,,0
+1533756600,Libertador,Aragua,2yEbAT5k,W2EojdRP,0,3,,,,0
+1533756600,Estudiantes Caracas,Atl. Venezuela,tUT7dm6M,44SATReo,1,3,,,,0
+1533758400,Titanes,Zulia,nqC78WjD,C6NgKdLM,1,2,,,,0
+1533758400,Angostura,Mineros,2DgfzFb3,dUNUO9mq,2,1,,,,0
+1533760200,Frontera,Dep. Tachira,CxxxGPVr,OxmaT1W4,0,1,,,,0
+1533762000,Urena,Estudiantes Merida,2i892GfD,Kt2RJAvf,2,0,,,,0
+1533762000,Los Andes,Zamora,6VuCmSO6,0A6WRcTt,1,1,,,,0
+1533769200,Puerto Cabello,Metropolitanos,bkCHmVIM,tAwcOibj,0,1,,,,0
+1533841200,Furrial,La Guaira,Oh7S3th2,hCFsixCJ,1,3,,,,0
+1533843000,Yaracuy,Lara,Oh7S3th2,ERX7lx6a,3,1,,,,0
+1533844800,JBL Zulia,Trujillanos,A9BAee3n,lfuQn2PJ,1,0,,,,0
+1534276800,Carabobo,Yaracuyanos,CtnfXRKE,xEhZwyEE,3,0,,,,0
+1534361400,Metropolitanos,Puerto Cabello,tAwcOibj,bkCHmVIM,0,0,,,,0
+1534361400,Atl. Venezuela,Estudiantes Caracas,44SATReo,tUT7dm6M,4,2,,,,0
+1534363200,Zulia,Titanes,C6NgKdLM,nqC78WjD,0,0,,,,0
+1534363200,Trujillanos,JBL Zulia,lfuQn2PJ,A9BAee3n,1,2,,,,0
+1534363200,Portuguesa,Llaneros,6LjVpO9s,hCFsixCJ,1,3,,,,0
+1534363200,Lara,Yaracuy,ERX7lx6a,Oh7S3th2,1,2,,,,0
+1534363200,Caracas,Miranda,0nhENufQ,K86NrQ27,3,0,,,,0
+1534363200,Aragua,Libertador,W2EojdRP,2yEbAT5k,1,2,,,,0
+1534366800,Dep. Tachira,Frontera,OxmaT1W4,CxxxGPVr,1,0,,,,0
+1534366800,Dep. Anzoategui,Margarita,v7Ysf0vj,dO4PgJVk,3,1,,,,0
+1534370400,Monagas,AC Lala FC,2gmAxwcQ,2oitVFtP,5,1,,,,0
+1534374000,Zamora,Los Andes,0A6WRcTt,6VuCmSO6,2,1,,,,0
+1534424400,Mineros,Angostura,dUNUO9mq,2DgfzFb3,0,3,Awrd,,,0
+1534447800,La Guaira,Furrial,hCFsixCJ,Oh7S3th2,1,0,,,,0
+1535571000,Yaracuy,Carabobo,Oh7S3th2,CtnfXRKE,2,2,,,,0
+1535571000,Metropolitanos,Atl. Venezuela,tAwcOibj,44SATReo,1,1,,,,0
+1535571000,Llaneros,Urena,hCFsixCJ,2i892GfD,2,1,,,,0
+1535571000,JBL Zulia,Zulia,A9BAee3n,C6NgKdLM,0,1,,,,0
+1535572800,Caracas,Aragua,0nhENufQ,W2EojdRP,0,2,,,,0
+1535572800,Angostura,Dep. Anzoategui,2DgfzFb3,v7Ysf0vj,0,2,,,,0
+1535580000,Monagas,La Guaira,2gmAxwcQ,hCFsixCJ,1,2,,,,0
+1535583600,Zamora,Dep. Tachira,0A6WRcTt,OxmaT1W4,2,1,,,,0
+1536157800,La Guaira,Monagas,hCFsixCJ,2gmAxwcQ,2,1,,,,0
+1536175800,Atl. Venezuela,Metropolitanos,44SATReo,tAwcOibj,0,0,,,,0
+1536177600,Carabobo,Yaracuy,CtnfXRKE,Oh7S3th2,0,0,,,,0
+1536179400,Zulia,JBL Zulia,C6NgKdLM,A9BAee3n,2,0,,,,0
+1536181200,Urena,Llaneros,2i892GfD,hCFsixCJ,2,1,Pen,2,2,0
+1536181200,Dep. Tachira,Zamora,OxmaT1W4,0A6WRcTt,1,1,,,,0
+1536181200,Dep. Anzoategui,Angostura,v7Ysf0vj,2DgfzFb3,0,0,,,,0
+1536181200,Aragua,Caracas,W2EojdRP,0nhENufQ,1,0,,,,0
+1536525000,Zulia,Carabobo,C6NgKdLM,CtnfXRKE,1,1,,,,0
+1536526800,Dep. Anzoategui,La Guaira,v7Ysf0vj,hCFsixCJ,1,1,,,,0
+1536526800,Aragua,Atl. Venezuela,W2EojdRP,44SATReo,2,0,,,,0
+1536530400,Zamora,Llaneros,0A6WRcTt,hCFsixCJ,1,0,,,,0
+1538577000,La Guaira,Dep. Anzoategui,hCFsixCJ,v7Ysf0vj,1,1,Pen,1,2,0
+1538595000,Llaneros,Zamora,hCFsixCJ,0A6WRcTt,1,2,,,,0
+1538595000,Atl. Venezuela,Aragua,44SATReo,W2EojdRP,1,2,,,,0
+1538607600,Carabobo,Zulia,CtnfXRKE,C6NgKdLM,2,2,,,,0
+1539201600,Zulia,Zamora,C6NgKdLM,0A6WRcTt,2,0,,,,0
+1539205200,Dep. Anzoategui,Aragua,v7Ysf0vj,W2EojdRP,0,0,,,,0
+1539547200,Aragua,Dep. Anzoategui,W2EojdRP,v7Ysf0vj,3,2,,,,0
+1539554400,Zamora,Zulia,0A6WRcTt,C6NgKdLM,0,0,,,,0
+1540414800,Aragua,Zulia,W2EojdRP,C6NgKdLM,1,2,,,,0
+1541016000,Zulia,Aragua,C6NgKdLM,W2EojdRP,1,0,,,,0

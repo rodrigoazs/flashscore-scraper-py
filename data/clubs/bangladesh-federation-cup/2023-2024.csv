@@ -1,20 +1,20 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1703579400,Rahmatgonj MFS,Bangladesh Police,2,2,,,,0
-1703579400,Fortis,Bashundara Kings,0,1,,,,0
-1705394700,Mohammedan,Chittagong Abahani,2,1,,,,0
-1705394700,Abahani Limited,Brothers U.,6,0,,,,0
-1705999500,Sheikh Russel,Fortis,1,3,,,,0
-1705999500,Rahmatgonj MFS,Sheikh Jamal,1,4,,,,0
-1706604300,Chittagong Abahani,Abahani Limited,0,3,,,,0
-1706604300,Brothers U.,Mohammedan,1,2,,,,0
-1707210000,Bashundara Kings,Sheikh Russel,1,0,,,,0
-1707210000,Bangladesh Police,Sheikh Jamal,2,2,,,,0
-1707814800,Chittagong Abahani,Brothers U.,3,0,,,,0
-1707814800,Abahani Limited,Mohammedan,1,2,,,,0
-1712048400,Mohammedan,Sheikh Russel,2,1,,,,0
-1713258000,Bashundara Kings,Rahmatgonj MFS,2,0,,,,0
-1713862800,Sheikh Jamal,Bangladesh Police,0,3,,,,0
-1714467600,Fortis,Abahani Limited,1,3,,,,0
-1715072400,Mohammedan,Bangladesh Police,2,1,,,,0
-1715677200,Bashundara Kings,Abahani Limited,3,0,,,,0
-1716368400,Mohammedan,Bashundara Kings,1,1,AET,1,2,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1703579400,Rahmatgonj MFS,Bangladesh Police,tbLMJUrD,O2UYJujt,2,2,,,,0
+1703579400,Fortis,Bashundara Kings,fckengae,j7XSkexg,0,1,,,,0
+1705394700,Mohammedan,Chittagong Abahani,bPvqjH89,C2egob5m,2,1,,,,0
+1705394700,Abahani Limited,Brothers U.,zmwmkyOF,bPvqjH89,6,0,,,,0
+1705999500,Sheikh Russel,Fortis,bPvqjH89,fckengae,1,3,,,,0
+1705999500,Rahmatgonj MFS,Sheikh Jamal,tbLMJUrD,bPvqjH89,1,4,,,,0
+1706604300,Chittagong Abahani,Abahani Limited,C2egob5m,zmwmkyOF,0,3,,,,0
+1706604300,Brothers U.,Mohammedan,bPvqjH89,bPvqjH89,1,2,,,,0
+1707210000,Bashundara Kings,Sheikh Russel,j7XSkexg,bPvqjH89,1,0,,,,0
+1707210000,Bangladesh Police,Sheikh Jamal,O2UYJujt,bPvqjH89,2,2,,,,0
+1707814800,Chittagong Abahani,Brothers U.,C2egob5m,bPvqjH89,3,0,,,,0
+1707814800,Abahani Limited,Mohammedan,zmwmkyOF,bPvqjH89,1,2,,,,0
+1712048400,Mohammedan,Sheikh Russel,bPvqjH89,bPvqjH89,2,1,,,,0
+1713258000,Bashundara Kings,Rahmatgonj MFS,j7XSkexg,tbLMJUrD,2,0,,,,0
+1713862800,Sheikh Jamal,Bangladesh Police,bPvqjH89,O2UYJujt,0,3,,,,0
+1714467600,Fortis,Abahani Limited,fckengae,zmwmkyOF,1,3,,,,0
+1715072400,Mohammedan,Bangladesh Police,bPvqjH89,O2UYJujt,2,1,,,,0
+1715677200,Bashundara Kings,Abahani Limited,j7XSkexg,zmwmkyOF,3,0,,,,0
+1716368400,Mohammedan,Bashundara Kings,bPvqjH89,j7XSkexg,1,1,AET,1,2,1

@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1562099400,Orense,EL Nacional,1,1,,,,0
-1562185800,Delfin,Mushuc Runa,2,0,,,,0
-1562286600,Guayaquil City,Aucas,0,0,,,,0
-1562704200,Ind. Juniors,Dep. Cuenca,1,1,,,,0
-1562790600,America de Quito,Emelec,0,2,,,,0
-1562805000,Barcelona SC,Santa Rita,1,0,,,,0
-1563309000,Alianza de Guano,LDU Quito,0,0,,,,0
-1563408000,Macara,Tecnico U.,2,1,,,,0
-1563913800,Mushuc Runa,Delfin,1,0,,,,0
-1563989400,EL Nacional,Orense,0,0,,,,0
-1564012800,Dep. Cuenca,Ind. Juniors,1,1,Pen,1,2,0
-1564531200,Aucas,Guayaquil City,0,0,Pen,1,0,0
-1564605000,Santa Rita,Barcelona SC,2,1,,,,0
-1564617600,Tecnico U.,Macara,2,0,,,,0
-1565222400,Emelec,America de Quito,2,2,,,,0
-1565308800,LDU Quito,Alianza de Guano,5,1,,,,0
-1565814600,Ind. Juniors,Delfin,2,3,,,,0
-1566433800,EL Nacional,Barcelona SC,1,1,,,,0
-1567038600,Tecnico U.,Emelec,1,0,,,,0
-1567962000,Aucas,LDU Quito,0,0,,,,0
-1568852100,LDU Quito,Aucas,0,0,Pen,1,0,0
-1569357000,Delfin,Ind. Juniors,1,0,,,,0
-1569371400,Emelec,Tecnico U.,2,0,,,,0
-1569457800,Barcelona SC,EL Nacional,0,0,,,,0
-1570062600,Barcelona SC,Delfin,4,1,,,,0
-1571876100,LDU Quito,Emelec,2,0,,,,0
-1572469200,Delfin,Barcelona SC,3,0,,,,0
-1572481800,Emelec,LDU Quito,2,0,Pen,2,1,0
-1573419600,LDU Quito,Delfin,2,0,,,,0
-1573934400,Delfin,LDU Quito,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1562099400,Orense,EL Nacional,4zwgEgF1,YqMYOJSQ,1,1,,,,0
+1562185800,Delfin,Mushuc Runa,AZbnrnmj,fwqiIuZs,2,0,,,,0
+1562286600,Guayaquil City,Aucas,xtXtvCe4,Wz8yaA21,0,0,,,,0
+1562704200,Ind. Juniors,Dep. Cuenca,0xyuHYu9,UcMAfaUd,1,1,,,,0
+1562790600,America de Quito,Emelec,fuCXqOCS,ru7B2xn1,0,2,,,,0
+1562805000,Barcelona SC,Santa Rita,WErjuywa,4vJ00M30,1,0,,,,0
+1563309000,Alianza de Guano,LDU Quito,QNMO1UCH,dldy8uVh,0,0,,,,0
+1563408000,Macara,Tecnico U.,0rjUYb4J,dGIIEbtB,2,1,,,,0
+1563913800,Mushuc Runa,Delfin,fwqiIuZs,AZbnrnmj,1,0,,,,0
+1563989400,EL Nacional,Orense,YqMYOJSQ,4zwgEgF1,0,0,,,,0
+1564012800,Dep. Cuenca,Ind. Juniors,UcMAfaUd,0xyuHYu9,1,1,Pen,1,2,0
+1564531200,Aucas,Guayaquil City,Wz8yaA21,xtXtvCe4,0,0,Pen,1,0,0
+1564605000,Santa Rita,Barcelona SC,4vJ00M30,WErjuywa,2,1,,,,0
+1564617600,Tecnico U.,Macara,dGIIEbtB,0rjUYb4J,2,0,,,,0
+1565222400,Emelec,America de Quito,ru7B2xn1,fuCXqOCS,2,2,,,,0
+1565308800,LDU Quito,Alianza de Guano,dldy8uVh,QNMO1UCH,5,1,,,,0
+1565814600,Ind. Juniors,Delfin,0xyuHYu9,AZbnrnmj,2,3,,,,0
+1566433800,EL Nacional,Barcelona SC,YqMYOJSQ,WErjuywa,1,1,,,,0
+1567038600,Tecnico U.,Emelec,dGIIEbtB,ru7B2xn1,1,0,,,,0
+1567962000,Aucas,LDU Quito,Wz8yaA21,dldy8uVh,0,0,,,,0
+1568852100,LDU Quito,Aucas,dldy8uVh,Wz8yaA21,0,0,Pen,1,0,0
+1569357000,Delfin,Ind. Juniors,AZbnrnmj,0xyuHYu9,1,0,,,,0
+1569371400,Emelec,Tecnico U.,ru7B2xn1,dGIIEbtB,2,0,,,,0
+1569457800,Barcelona SC,EL Nacional,WErjuywa,YqMYOJSQ,0,0,,,,0
+1570062600,Barcelona SC,Delfin,WErjuywa,AZbnrnmj,4,1,,,,0
+1571876100,LDU Quito,Emelec,dldy8uVh,ru7B2xn1,2,0,,,,0
+1572469200,Delfin,Barcelona SC,AZbnrnmj,WErjuywa,3,0,,,,0
+1572481800,Emelec,LDU Quito,ru7B2xn1,dldy8uVh,2,0,Pen,2,1,0
+1573419600,LDU Quito,Delfin,dldy8uVh,AZbnrnmj,2,0,,,,0
+1573934400,Delfin,LDU Quito,AZbnrnmj,dldy8uVh,3,1,,,,0

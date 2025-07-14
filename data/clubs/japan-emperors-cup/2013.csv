@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1378288800,Kashiwa Reysol,Tsukuba Univ.,4,2,,,,0
-1378526400,Tochigi SC,Avispa Fukuoka,5,1,,,,0
-1378526400,Omiya Ardija,Okayama II,4,0,,,,0
-1378526400,Mito,Ehime,1,1,Pen,2,1,0
-1378526400,Kofu,Fukushima Utd,1,0,,,,0
-1378526400,Iwata,Saurcos Fukui,8,1,,,,0
-1378526400,Hokkaido Consadole Sapporo,Hokkaido University,4,1,,,,0
-1378526400,Albirex Niigata,Niigata University,1,1,AET,4,2,0
-1378530000,Montedio Yamagata,Toyama,1,1,Pen,3,2,0
-1378533600,Vegalta Sendai,Blaublitz,3,0,,,,0
-1378533600,Shimizu S-Pulse,Fujieda MYFC,2,0,,,,0
-1378537200,Yamaga,Kusatsu,2,2,AET,4,3,0
-1378537200,FC Tokyo,Yokogawa,0,0,AET,1,0,0
-1378540800,Kashima Antlers,Sony Sendai,3,0,,,,0
-1378612800,Yokohama FC,Kanazawa,0,1,,,,0
-1378612800,Vissel Kobe,Nara Club,3,1,,,,0
-1378612800,Shonan Bellmare,Ryukyu,4,0,,,,0
-1378612800,Sagan Tosu,Saga University,10,0,,,,0
-1378612800,Oita Trinita,Verspah Oita,2,0,,,,0
-1378612800,Gainare Tottori,Giravanz Kitakyushu,0,2,,,,0
-1378616400,Okayama,Gifu,2,1,,,,0
-1378620000,Sanfrecce Hiroshima,Fukuoka Univ.,1,0,,,,0
-1378620000,Nagoya Grampus,Nagano,0,2,,,,0
-1378620000,Gamba Osaka,Imabari,5,0,,,,0
-1378620000,Cerezo Osaka,Kansai,4,0,,,,0
-1378623600,Kyoto,Sagawa Printing,4,0,,,,0
-1378623600,Kumamoto,Tokushima,1,1,Pen,2,1,0
-1378623600,Chiba,Kamatamare,5,0,,,,0
-1378627200,Verdy,V-Varen Nagasaki,3,2,,,,0
-1378893600,Yokohama F. Marinos,Vanraure,5,1,,,,0
-1378893600,Urawa Reds,Tochigi Uva,2,1,,,,0
-1378893600,Kawasaki Frontale,Kochi,3,1,,,,0
-1381636800,Yamaga,Sagan Tosu,1,1,AET,1,3,0
-1381636800,Vegalta Sendai,Mito,1,1,Pen,2,1,0
-1381636800,Shonan Bellmare,Kofu,0,0,AET,0,1,0
-1381636800,Omiya Ardija,Gamba Osaka,0,0,Pen,1,0,0
-1381636800,Iwata,Hokkaido Consadole Sapporo,0,1,,,,0
-1381636800,Cerezo Osaka,Vissel Kobe,4,0,,,,0
-1381636800,Albirex Niigata,Oita Trinita,0,0,AET,0,1,0
-1381644000,Nagano,Giravanz Kitakyushu,0,0,Pen,1,0,0
-1381658400,Chiba,FC Tokyo,1,1,Pen,1,2,0
-1381723200,Kashima Antlers,Kyoto,2,1,,,,0
-1381730400,Shimizu S-Pulse,Kanazawa,3,2,,,,0
-1381730400,Sanfrecce Hiroshima,Kumamoto,2,0,,,,0
-1381917600,Yokohama F. Marinos,Tochigi SC,3,1,,,,0
-1381917600,Urawa Reds,Montedio Yamagata,2,3,,,,0
-1381917600,Kawasaki Frontale,Verdy,3,0,,,,0
-1381917600,Kashiwa Reysol,Okayama,1,0,,,,0
-1384574400,Shimizu S-Pulse,Vegalta Sendai,0,1,,,,0
-1384574400,Kashiwa Reysol,Oita Trinita,0,1,,,,0
-1384581600,Kashima Antlers,Sanfrecce Hiroshima,1,3,,,,0
-1384588800,Cerezo Osaka,Sagan Tosu,1,2,,,,0
-1384596000,Omiya Ardija,FC Tokyo,0,3,,,,0
-1384941600,Yokohama F. Marinos,Nagano,1,1,AET,2,1,0
-1384941600,Kofu,Hokkaido Consadole Sapporo,0,0,AET,1,0,0
-1384941600,Kawasaki Frontale,Montedio Yamagata,2,0,,,,0
-1387684800,Vegalta Sendai,FC Tokyo,1,1,AET,1,2,0
-1387684800,Sanfrecce Hiroshima,Kofu,1,1,Pen,2,1,0
-1387684800,Oita Trinita,Yokohama F. Marinos,1,1,AET,1,2,0
-1387692000,Sagan Tosu,Kawasaki Frontale,0,0,AET,2,0,0
-1388289900,Yokohama F. Marinos,Sagan Tosu,2,0,,,,0
-1388296800,FC Tokyo,Sanfrecce Hiroshima,0,0,Pen,0,1,0
-1357016400,Yokohama F. Marinos,Sanfrecce Hiroshima,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1378288800,Kashiwa Reysol,Tsukuba Univ.,A1NlaOLn,rBBY29tJ,4,2,,,,0
+1378526400,Tochigi SC,Avispa Fukuoka,GdkUvPh9,Eq74Jcjl,5,1,,,,0
+1378526400,Omiya Ardija,Okayama II,U58J6vtM,MopKWL5U,4,0,,,,0
+1378526400,Mito,Ehime,IBQiozJR,8dyaziOQ,1,1,Pen,2,1,0
+1378526400,Kofu,Fukushima Utd,Uc4CHyL0,EoSTw7Jk,1,0,,,,0
+1378526400,Iwata,Saurcos Fukui,j758IH5f,ULd0VSSk,8,1,,,,0
+1378526400,Hokkaido Consadole Sapporo,Hokkaido University,tGWvEQkr,4E1DHrVE,4,1,,,,0
+1378526400,Albirex Niigata,Niigata University,SEX2RAcn,rBBY29tJ,1,1,AET,4,2,0
+1378530000,Montedio Yamagata,Toyama,Uc4CHyL0,EqRSddb5,1,1,Pen,3,2,0
+1378533600,Vegalta Sendai,Blaublitz,rkzDkpKt,GIj6ZXII,3,0,,,,0
+1378533600,Shimizu S-Pulse,Fujieda MYFC,Uc4CHyL0,G8wuXgAR,2,0,,,,0
+1378537200,Yamaga,Kusatsu,l42wt9E1,nqlFOhVm,2,2,AET,4,3,0
+1378537200,FC Tokyo,Yokogawa,YwiAOSxC,b96nE1cj,0,0,AET,1,0,0
+1378540800,Kashima Antlers,Sony Sendai,4SARfF5k,YJ4l9tQE,3,0,,,,0
+1378612800,Yokohama FC,Kanazawa,0MUJCQpC,8SF4DwT6,0,1,,,,0
+1378612800,Vissel Kobe,Nara Club,4SU3kZUI,tUBt3qW2,3,1,,,,0
+1378612800,Shonan Bellmare,Ryukyu,ppTjXyRn,phF3MKTT,4,0,,,,0
+1378612800,Sagan Tosu,Saga University,WYtEUtB2,Kd2ar4oo,10,0,,,,0
+1378612800,Oita Trinita,Verspah Oita,dveS6wJe,AsoXkCJf,2,0,,,,0
+1378612800,Gainare Tottori,Giravanz Kitakyushu,dG41ubPK,dG41ubPK,0,2,,,,0
+1378616400,Okayama,Gifu,QaA7WY59,8dyaziOQ,2,1,,,,0
+1378620000,Sanfrecce Hiroshima,Fukuoka Univ.,pSNkZ1lS,QN29IOF8,1,0,,,,0
+1378620000,Nagoya Grampus,Nagano,n9XchkvQ,SWK853xr,0,2,,,,0
+1378620000,Gamba Osaka,Imabari,pCXiuGSm,6LA0qhxd,5,0,,,,0
+1378620000,Cerezo Osaka,Kansai,8l3GGez7,YZ0Ot7G1,4,0,,,,0
+1378623600,Kyoto,Sagawa Printing,z735vIvR,Kd2ar4oo,4,0,,,,0
+1378623600,Kumamoto,Tokushima,EqRSddb5,j9KqC5rP,1,1,Pen,2,1,0
+1378623600,Chiba,Kamatamare,z735vIvR,reoGX1jO,5,0,,,,0
+1378627200,Verdy,V-Varen Nagasaki,GjpDcRDi,IuWlSxkG,3,2,,,,0
+1378893600,Yokohama F. Marinos,Vanraure,plFsSE3r,xlcxOCQp,5,1,,,,0
+1378893600,Urawa Reds,Tochigi Uva,nqhLBCKD,UZBhGeEo,2,1,,,,0
+1378893600,Kawasaki Frontale,Kochi,j758IH5f,fZhpxTOB,3,1,,,,0
+1381636800,Yamaga,Sagan Tosu,l42wt9E1,WYtEUtB2,1,1,AET,1,3,0
+1381636800,Vegalta Sendai,Mito,rkzDkpKt,IBQiozJR,1,1,Pen,2,1,0
+1381636800,Shonan Bellmare,Kofu,ppTjXyRn,Uc4CHyL0,0,0,AET,0,1,0
+1381636800,Omiya Ardija,Gamba Osaka,U58J6vtM,pCXiuGSm,0,0,Pen,1,0,0
+1381636800,Iwata,Hokkaido Consadole Sapporo,j758IH5f,tGWvEQkr,0,1,,,,0
+1381636800,Cerezo Osaka,Vissel Kobe,8l3GGez7,4SU3kZUI,4,0,,,,0
+1381636800,Albirex Niigata,Oita Trinita,SEX2RAcn,dveS6wJe,0,0,AET,0,1,0
+1381644000,Nagano,Giravanz Kitakyushu,SWK853xr,dG41ubPK,0,0,Pen,1,0,0
+1381658400,Chiba,FC Tokyo,z735vIvR,YwiAOSxC,1,1,Pen,1,2,0
+1381723200,Kashima Antlers,Kyoto,4SARfF5k,z735vIvR,2,1,,,,0
+1381730400,Shimizu S-Pulse,Kanazawa,Uc4CHyL0,8SF4DwT6,3,2,,,,0
+1381730400,Sanfrecce Hiroshima,Kumamoto,pSNkZ1lS,EqRSddb5,2,0,,,,0
+1381917600,Yokohama F. Marinos,Tochigi SC,plFsSE3r,GdkUvPh9,3,1,,,,0
+1381917600,Urawa Reds,Montedio Yamagata,nqhLBCKD,Uc4CHyL0,2,3,,,,0
+1381917600,Kawasaki Frontale,Verdy,j758IH5f,GjpDcRDi,3,0,,,,0
+1381917600,Kashiwa Reysol,Okayama,A1NlaOLn,QaA7WY59,1,0,,,,0
+1384574400,Shimizu S-Pulse,Vegalta Sendai,Uc4CHyL0,rkzDkpKt,0,1,,,,0
+1384574400,Kashiwa Reysol,Oita Trinita,A1NlaOLn,dveS6wJe,0,1,,,,0
+1384581600,Kashima Antlers,Sanfrecce Hiroshima,4SARfF5k,pSNkZ1lS,1,3,,,,0
+1384588800,Cerezo Osaka,Sagan Tosu,8l3GGez7,WYtEUtB2,1,2,,,,0
+1384596000,Omiya Ardija,FC Tokyo,U58J6vtM,YwiAOSxC,0,3,,,,0
+1384941600,Yokohama F. Marinos,Nagano,plFsSE3r,SWK853xr,1,1,AET,2,1,0
+1384941600,Kofu,Hokkaido Consadole Sapporo,Uc4CHyL0,tGWvEQkr,0,0,AET,1,0,0
+1384941600,Kawasaki Frontale,Montedio Yamagata,j758IH5f,Uc4CHyL0,2,0,,,,0
+1387684800,Vegalta Sendai,FC Tokyo,rkzDkpKt,YwiAOSxC,1,1,AET,1,2,0
+1387684800,Sanfrecce Hiroshima,Kofu,pSNkZ1lS,Uc4CHyL0,1,1,Pen,2,1,0
+1387684800,Oita Trinita,Yokohama F. Marinos,dveS6wJe,plFsSE3r,1,1,AET,1,2,0
+1387692000,Sagan Tosu,Kawasaki Frontale,WYtEUtB2,j758IH5f,0,0,AET,2,0,0
+1388289900,Yokohama F. Marinos,Sagan Tosu,plFsSE3r,WYtEUtB2,2,0,,,,0
+1388296800,FC Tokyo,Sanfrecce Hiroshima,YwiAOSxC,pSNkZ1lS,0,0,Pen,0,1,0
+1357016400,Yokohama F. Marinos,Sanfrecce Hiroshima,plFsSE3r,pSNkZ1lS,2,0,,,,0

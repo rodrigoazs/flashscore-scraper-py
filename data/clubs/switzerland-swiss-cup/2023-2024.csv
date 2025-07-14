@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1692379800,Breitenrain,Young Boys,0,5,,,,0
-1692379800,Ajoie-Monterri,Delemont,0,3,,,,0
-1692381600,Lancy,Stade Nyonnais,2,1,,,,0
-1692381600,Etoile-Carouge,Sion,1,3,,,,0
-1692383400,Genolier-Begnins,Onex,0,0,AET,0,1,0
-1692453600,Wettswil-Bonstetten,Winterthur,0,2,,,,0
-1692453600,Hongg,Rapperswil-Jona,1,3,,,,0
-1692453600,Grand-Saconnex,Lausanne Ouchy,0,4,,,,0
-1692453600,FC Buchs,Bellinzona,0,4,,,,0
-1692453600,Affoltern,Baden,0,4,,,,0
-1692457200,Haute-Gruyere,Yverdon,0,9,,,,0
-1692457200,Dietikon,Aarau,0,1,,,,0
-1692459000,Schonenwerd-Niedergosgen,Greifensee,0,2,,,,0
-1692459000,Courtetelle,Black Stars,0,2,,,,0
-1692460800,Red Star Zurich,Zurich,0,2,,,,0
-1692460800,Porrentruy,Bosporus,0,2,,,,0
-1692460800,Meyrin,Servette,0,8,,,,0
-1692460800,Mendrisio,Kriens,1,3,,,,0
-1692460800,Gunzwil,Lugano,0,7,,,,0
-1692460800,Frutigen,Thun,0,5,,,,0
-1692460800,AC Malcantone,Tuggen,1,2,,,,0
-1692464400,Taverne,Bruhl,0,3,,,,0
-1692468000,Vevey,Lausanne,0,3,,,,0
-1692468000,Iliria,La Chaux-De-Fonds,0,2,,,,0
-1692532800,Saviese,Bulle,0,5,,,,0
-1692532800,Saint-Blaise,Basel,1,8,,,,0
-1692532800,Kleinhuningen,Xamax,0,8,,,,0
-1692532800,FC Winkeln SG,Luzern,0,6,,,,0
-1692532800,FC Widnau,St. Gallen,1,2,,,,0
-1692532800,Cham,Schaffhausen,1,3,,,,0
-1692540900,SV Schaffhausen,Grasshoppers,0,4,,,,0
-1692545400,Collina d'Oro,Wil,0,4,,,,0
-1694799000,Xamax,Young Boys,0,1,,,,0
-1694799000,Wil,Lausanne Ouchy,1,1,Pen,1,2,0
-1694802600,Sion,Grasshoppers,3,0,,,,0
-1694872800,Rapperswil-Jona,Yverdon,1,0,,,,0
-1694872800,Lancy,Lugano,0,3,,,,0
-1694878200,Kriens,Baden,4,0,,,,0
-1694878200,Black Stars,La Chaux-De-Fonds,4,1,,,,0
-1694881800,Thun,Luzern,1,1,AET,1,3,0
-1694883600,Bulle,Servette,1,4,,,,0
-1694885400,Bosporus,Basel,0,8,,,,0
-1694887200,Greifensee,Onex,1,2,,,,0
-1694953800,Delemont,St. Gallen,2,1,,,,0
-1694955600,Bruhl,Lausanne,0,4,,,,0
-1694959200,Tuggen,Zurich,0,3,,,,0
-1694959200,Bellinzona,Schaffhausen,1,1,AET,3,1,0
-1694959200,Aarau,Winterthur,1,2,,,,0
-1698773400,Bellinzona,Zurich,0,0,AET,0,1,0
-1698780600,Onex,Sion,1,6,,,,0
-1698861600,Rapperswil-Jona,Young Boys,0,2,,,,0
-1698863400,Servette,Lausanne Ouchy,1,1,Pen,2,1,0
-1698865200,Black Stars,Winterthur,2,6,,,,0
-1698867000,Lausanne,Lugano,0,4,,,,0
-1698867000,Kriens,Basel,0,1,,,,0
-1698867000,Delemont,Luzern,1,0,,,,0
-1709147700,Delemont,Servette,0,2,,,,0
-1709148600,Zurich,Winterthur,0,2,,,,0
-1709148600,Basel,Lugano,2,2,Pen,2,3,0
-1709148600,Sion,Young Boys,2,1,,,,0
-1714242600,Sion,Lugano,0,2,,,,0
-1714314600,Winterthur,Servette,0,1,,,,0
-1717329600,Servette,Lugano,0,0,Pen,1,0,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1692379800,Breitenrain,Young Boys,42VpIREP,KGWqWzzf,0,5,,,,0
+1692379800,Ajoie-Monterri,Delemont,fD52QgcC,nLy4dj0C,0,3,,,,0
+1692381600,Lancy,Stade Nyonnais,Qk1KtibK,Qom1CdYj,2,1,,,,0
+1692381600,Etoile-Carouge,Sion,pnt8DXVI,QsLBSppP,1,3,,,,0
+1692383400,Genolier-Begnins,Onex,SvDIAobA,dnkYZ3d2,0,0,AET,0,1,0
+1692453600,Wettswil-Bonstetten,Winterthur,YLNKxEKK,6P6dM30h,0,2,,,,0
+1692453600,Hongg,Rapperswil-Jona,hCyWmJSQ,bRaAAEna,1,3,,,,0
+1692453600,Grand-Saconnex,Lausanne Ouchy,Wnn5JW9A,tp21ECEq,0,4,,,,0
+1692453600,FC Buchs,Bellinzona,8h9orPMI,llYv6bVJ,0,4,,,,0
+1692453600,Affoltern,Baden,6ueZFMNa,63TN1CJD,0,4,,,,0
+1692457200,Haute-Gruyere,Yverdon,nTXZJGHO,S8tGctos,0,9,,,,0
+1692457200,Dietikon,Aarau,lQLZ37dT,nLy4dj0C,0,1,,,,0
+1692459000,Schonenwerd-Niedergosgen,Greifensee,ULIuk9L5,dWMroErO,0,2,,,,0
+1692459000,Courtetelle,Black Stars,thMkgYNj,C6ZmSpWn,0,2,,,,0
+1692460800,Red Star Zurich,Zurich,SQo5rq7R,zFgN5luK,0,2,,,,0
+1692460800,Porrentruy,Bosporus,SvDIAobA,n3GmmmjI,0,2,,,,0
+1692460800,Meyrin,Servette,hArnh4yq,vJvKsfHT,0,8,,,,0
+1692460800,Mendrisio,Kriens,69rjld00,n7K4dyrM,1,3,,,,0
+1692460800,Gunzwil,Lugano,QPXih5j3,0IhGjVDm,0,7,,,,0
+1692460800,Frutigen,Thun,v59yj07j,xbUiUE46,0,5,,,,0
+1692460800,AC Malcantone,Tuggen,IiIEIWGp,Mc262rFb,1,2,,,,0
+1692464400,Taverne,Bruhl,n3bgfrX8,n7K4dyrM,0,3,,,,0
+1692468000,Vevey,Lausanne,QqQHJeWi,IkaTiXpU,0,3,,,,0
+1692468000,Iliria,La Chaux-De-Fonds,n1RiY6iB,OvYZsi0d,0,2,,,,0
+1692532800,Saviese,Bulle,ATL0HJSG,lSprjIVm,0,5,,,,0
+1692532800,Saint-Blaise,Basel,dzPXASng,fPZDBkJI,1,8,,,,0
+1692532800,Kleinhuningen,Xamax,jiwOwwvf,ln9wF1MU,0,8,,,,0
+1692532800,FC Winkeln SG,Luzern,SvDIAobA,n7K4dyrM,0,6,,,,0
+1692532800,FC Widnau,St. Gallen,QgPzn4kL,fubIDuh0,1,2,,,,0
+1692532800,Cham,Schaffhausen,pzMOQXRe,EiyYrUhb,1,3,,,,0
+1692540900,SV Schaffhausen,Grasshoppers,vZIK7a8t,WdBesfPo,0,4,,,,0
+1692545400,Collina d'Oro,Wil,zR5jQfj5,lCjwt4LE,0,4,,,,0
+1694799000,Xamax,Young Boys,ln9wF1MU,KGWqWzzf,0,1,,,,0
+1694799000,Wil,Lausanne Ouchy,lCjwt4LE,tp21ECEq,1,1,Pen,1,2,0
+1694802600,Sion,Grasshoppers,QsLBSppP,WdBesfPo,3,0,,,,0
+1694872800,Rapperswil-Jona,Yverdon,bRaAAEna,S8tGctos,1,0,,,,0
+1694872800,Lancy,Lugano,Qk1KtibK,0IhGjVDm,0,3,,,,0
+1694878200,Kriens,Baden,n7K4dyrM,63TN1CJD,4,0,,,,0
+1694878200,Black Stars,La Chaux-De-Fonds,C6ZmSpWn,OvYZsi0d,4,1,,,,0
+1694881800,Thun,Luzern,xbUiUE46,n7K4dyrM,1,1,AET,1,3,0
+1694883600,Bulle,Servette,lSprjIVm,vJvKsfHT,1,4,,,,0
+1694885400,Bosporus,Basel,n3GmmmjI,fPZDBkJI,0,8,,,,0
+1694887200,Greifensee,Onex,dWMroErO,dnkYZ3d2,1,2,,,,0
+1694953800,Delemont,St. Gallen,nLy4dj0C,fubIDuh0,2,1,,,,0
+1694955600,Bruhl,Lausanne,n7K4dyrM,IkaTiXpU,0,4,,,,0
+1694959200,Tuggen,Zurich,Mc262rFb,zFgN5luK,0,3,,,,0
+1694959200,Bellinzona,Schaffhausen,llYv6bVJ,EiyYrUhb,1,1,AET,3,1,0
+1694959200,Aarau,Winterthur,nLy4dj0C,6P6dM30h,1,2,,,,0
+1698773400,Bellinzona,Zurich,llYv6bVJ,zFgN5luK,0,0,AET,0,1,0
+1698780600,Onex,Sion,dnkYZ3d2,QsLBSppP,1,6,,,,0
+1698861600,Rapperswil-Jona,Young Boys,bRaAAEna,KGWqWzzf,0,2,,,,0
+1698863400,Servette,Lausanne Ouchy,vJvKsfHT,tp21ECEq,1,1,Pen,2,1,0
+1698865200,Black Stars,Winterthur,C6ZmSpWn,6P6dM30h,2,6,,,,0
+1698867000,Lausanne,Lugano,IkaTiXpU,0IhGjVDm,0,4,,,,0
+1698867000,Kriens,Basel,n7K4dyrM,fPZDBkJI,0,1,,,,0
+1698867000,Delemont,Luzern,nLy4dj0C,n7K4dyrM,1,0,,,,0
+1709147700,Delemont,Servette,nLy4dj0C,vJvKsfHT,0,2,,,,0
+1709148600,Zurich,Winterthur,zFgN5luK,6P6dM30h,0,2,,,,0
+1709148600,Basel,Lugano,fPZDBkJI,0IhGjVDm,2,2,Pen,2,3,0
+1709148600,Sion,Young Boys,QsLBSppP,KGWqWzzf,2,1,,,,0
+1714242600,Sion,Lugano,QsLBSppP,0IhGjVDm,0,2,,,,0
+1714314600,Winterthur,Servette,6P6dM30h,vJvKsfHT,0,1,,,,0
+1717329600,Servette,Lugano,vJvKsfHT,0IhGjVDm,0,0,Pen,1,0,1

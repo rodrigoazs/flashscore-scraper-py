@@ -1,48 +1,48 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1275012900,Union La Calera,Everton,1,1,,,,0
-1275075000,Rangers,Curico Unido,1,1,,,,0
-1275148800,A. Italiano,Cobresal,2,1,,,,0
-1275159600,Lota Schwager,Huachipato,1,2,,,,0
-1275161400,San Felipe,S. Wanderers,2,1,,,,0
-1275161400,C.D.S. Naval,Nublense,0,2,,,,0
-1275163200,Pudahuel Barrancas,U. Espanola,5,8,,,,0
-1275170400,Coquimbo,La Serena,2,1,,,,0
-1275184800,Deportes Temuco,U. Catolica,0,5,,,,0
-1275235200,San Marcos de Arica,Deportes Iquique,5,4,,,,0
-1275235200,S. Morning,Palestino,2,6,,,,0
-1275235200,D. Puerto Montt,Osorno,0,0,,,,0
-1275237000,General Velasquez,San Luis,1,2,,,,0
-1275237000,Dep. Linares,O'Higgins,1,0,,,,0
-1275237000,Antofagasta,Cobreloa,0,0,,,,0
-1275436800,D. Concepcion,U. De Concepcion,1,0,,,,0
-1275519600,San Luis,General Velasquez,4,1,,,,0
-1275616800,U. Catolica,Deportes Temuco,5,3,,,,0
-1275696000,Huachipato,Lota Schwager,2,2,,,,0
-1275753600,U. Espanola,Pudahuel Barrancas,6,1,,,,0
-1275766200,Palestino,S. Morning,2,2,,,,0
-1275766200,Cobreloa,Antofagasta,1,0,,,,0
-1275768000,O'Higgins,Dep. Linares,3,0,Pen,3,1,0
-1275768000,Everton,Union La Calera,1,3,,,,0
-1275768000,Cobresal,A. Italiano,1,3,,,,0
-1275778800,Osorno,D. Puerto Montt,3,7,,,,0
-1275789600,Deportes Iquique,San Marcos de Arica,1,0,Pen,2,0,0
-1275850800,Nublense,C.D.S. Naval,2,0,,,,0
-1275852600,U. De Concepcion,D. Concepcion,1,2,,,,0
-1275852600,S. Wanderers,San Felipe,3,0,Pen,4,0,0
-1275852600,La Serena,Coquimbo,1,0,Pen,1,1,0
-1275852600,Curico Unido,Rangers,0,0,Pen,1,0,0
-1283443200,Coquimbo,U. Espanola,0,3,,,,0
-1283630400,Palestino,San Luis,3,0,,,,0
-1283630400,Dep. Linares,Nublense,0,4,,,,0
-1283700600,D. Puerto Montt,U. Catolica,4,2,,,,0
-1283716800,Union La Calera,S. Wanderers,1,0,,,,0
-1283976000,Curico Unido,A. Italiano,1,0,,,,0
-1283990400,D. Concepcion,Huachipato,1,1,Pen,2,1,0
-1283997600,Deportes Iquique,Cobreloa,2,1,,,,0
-1286481600,Curico Unido,Palestino,0,2,,,,0
-1286496000,D. Concepcion,Union La Calera,3,1,,,,0
-1286503200,Deportes Iquique,Nublense,2,0,,,,0
-1286809200,D. Puerto Montt,U. Espanola,2,1,,,,0
-1288220400,D. Puerto Montt,Deportes Iquique,2,3,,,,0
-1288227600,D. Concepcion,Palestino,0,0,Pen,1,0,0
-1291842000,Deportes Iquique,D. Concepcion,1,1,Pen,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1275012900,Union La Calera,Everton,WYtEUtB2,YoHxOTu3,1,1,,,,0
+1275075000,Rangers,Curico Unido,ADg61nKB,4xj1AAB3,1,1,,,,0
+1275148800,A. Italiano,Cobresal,6kEqxN0C,p8NClxtb,2,1,,,,0
+1275159600,Lota Schwager,Huachipato,niQjFGM5,xIMey4eD,1,2,,,,0
+1275161400,San Felipe,S. Wanderers,IXRjJEDH,Miq6wRQG,2,1,,,,0
+1275161400,C.D.S. Naval,Nublense,APZduFyj,dveS6wJe,0,2,,,,0
+1275163200,Pudahuel Barrancas,U. Espanola,,W0oo6a6a,5,8,,,,0
+1275170400,Coquimbo,La Serena,hMng3olL,Mkzo6oBm,2,1,,,,0
+1275184800,Deportes Temuco,U. Catolica,r3gSTAGA,nRWWeW7h,0,5,,,,0
+1275235200,San Marcos de Arica,Deportes Iquique,z1UcXQtj,2NbwlzJD,5,4,,,,0
+1275235200,S. Morning,Palestino,fwVbNTh9,zPORy6uL,2,6,,,,0
+1275235200,D. Puerto Montt,Osorno,lGGssG8o,E7wc25Kd,0,0,,,,0
+1275237000,General Velasquez,San Luis,44hKIBkm,6PYUqcOT,1,2,,,,0
+1275237000,Dep. Linares,O'Higgins,4Es6lDgT,fRWXW3MH,1,0,,,,0
+1275237000,Antofagasta,Cobreloa,zV3V5ijb,IXRjJEDH,0,0,,,,0
+1275436800,D. Concepcion,U. De Concepcion,O478yA5B,Eq74Jcjl,1,0,,,,0
+1275519600,San Luis,General Velasquez,6PYUqcOT,44hKIBkm,4,1,,,,0
+1275616800,U. Catolica,Deportes Temuco,nRWWeW7h,r3gSTAGA,5,3,,,,0
+1275696000,Huachipato,Lota Schwager,xIMey4eD,niQjFGM5,2,2,,,,0
+1275753600,U. Espanola,Pudahuel Barrancas,W0oo6a6a,,6,1,,,,0
+1275766200,Palestino,S. Morning,zPORy6uL,fwVbNTh9,2,2,,,,0
+1275766200,Cobreloa,Antofagasta,IXRjJEDH,zV3V5ijb,1,0,,,,0
+1275768000,O'Higgins,Dep. Linares,fRWXW3MH,4Es6lDgT,3,0,Pen,3,1,0
+1275768000,Everton,Union La Calera,YoHxOTu3,WYtEUtB2,1,3,,,,0
+1275768000,Cobresal,A. Italiano,p8NClxtb,6kEqxN0C,1,3,,,,0
+1275778800,Osorno,D. Puerto Montt,E7wc25Kd,lGGssG8o,3,7,,,,0
+1275789600,Deportes Iquique,San Marcos de Arica,2NbwlzJD,z1UcXQtj,1,0,Pen,2,0,0
+1275850800,Nublense,C.D.S. Naval,dveS6wJe,APZduFyj,2,0,,,,0
+1275852600,U. De Concepcion,D. Concepcion,Eq74Jcjl,O478yA5B,1,2,,,,0
+1275852600,S. Wanderers,San Felipe,Miq6wRQG,IXRjJEDH,3,0,Pen,4,0,0
+1275852600,La Serena,Coquimbo,Mkzo6oBm,hMng3olL,1,0,Pen,1,1,0
+1275852600,Curico Unido,Rangers,4xj1AAB3,ADg61nKB,0,0,Pen,1,0,0
+1283443200,Coquimbo,U. Espanola,hMng3olL,W0oo6a6a,0,3,,,,0
+1283630400,Palestino,San Luis,zPORy6uL,6PYUqcOT,3,0,,,,0
+1283630400,Dep. Linares,Nublense,4Es6lDgT,dveS6wJe,0,4,,,,0
+1283700600,D. Puerto Montt,U. Catolica,lGGssG8o,nRWWeW7h,4,2,,,,0
+1283716800,Union La Calera,S. Wanderers,WYtEUtB2,Miq6wRQG,1,0,,,,0
+1283976000,Curico Unido,A. Italiano,4xj1AAB3,6kEqxN0C,1,0,,,,0
+1283990400,D. Concepcion,Huachipato,O478yA5B,xIMey4eD,1,1,Pen,2,1,0
+1283997600,Deportes Iquique,Cobreloa,2NbwlzJD,IXRjJEDH,2,1,,,,0
+1286481600,Curico Unido,Palestino,4xj1AAB3,zPORy6uL,0,2,,,,0
+1286496000,D. Concepcion,Union La Calera,O478yA5B,WYtEUtB2,3,1,,,,0
+1286503200,Deportes Iquique,Nublense,2NbwlzJD,dveS6wJe,2,0,,,,0
+1286809200,D. Puerto Montt,U. Espanola,lGGssG8o,W0oo6a6a,2,1,,,,0
+1288220400,D. Puerto Montt,Deportes Iquique,lGGssG8o,2NbwlzJD,2,3,,,,0
+1288227600,D. Concepcion,Palestino,O478yA5B,zPORy6uL,0,0,Pen,1,0,0
+1291842000,Deportes Iquique,D. Concepcion,2NbwlzJD,O478yA5B,1,1,Pen,2,1,0

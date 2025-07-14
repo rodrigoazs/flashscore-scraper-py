@@ -1,20 +1,20 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1051007400,Woodlands Wellington,Sembawang Rangers,1,0,,,,0
-1051007400,Tanjong Pagar,Young Lions,1,1,,,,0
-1051007400,Sengkang Marine,Sinchi,4,4,,,,0
-1053426600,Balestier Khalsa,Tanjong Pagar,2,1,,,,0
-1054031400,Tampines,Sengkang Marine,3,1,,,,0
-1054636200,Sembawang Rangers,Lion City,0,2,,,,0
-1055241000,Sinchi,Tampines,4,2,,,,0
-1055845800,Warriors,Jurong,1,2,,,,0
-1056450600,Lion City,Woodlands Wellington,10,0,,,,0
-1057055400,Geylang,Warriors,2,1,,,,0
-1057660200,Young Lions,Balestier Khalsa,3,1,,,,0
-1057660200,Jurong,Geylang,3,3,,,,0
-1059474600,Sinchi,Woodlands Wellington,0,1,,,,0
-1060684200,Young Lions,Jurong,0,2,,,,0
-1062498600,Geylang,Balestier Khalsa,1,0,,,,0
-1063103400,Lion City,Tampines,3,0,,,,0
-1065436200,Lion City,Jurong,5,1,,,,0
-1065954600,Woodlands Wellington,Geylang,2,3,,,,0
-1067077800,Lion City,Geylang,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1051007400,Woodlands Wellington,Sembawang Rangers,CKls4Q5g,,1,0,,,,0
+1051007400,Tanjong Pagar,Young Lions,bwrRv2m2,jqXAnX3e,1,1,,,,0
+1051007400,Sengkang Marine,Sinchi,,,4,4,,,,0
+1053426600,Balestier Khalsa,Tanjong Pagar,MZaTAD0m,bwrRv2m2,2,1,,,,0
+1054031400,Tampines,Sengkang Marine,d0hl69s2,,3,1,,,,0
+1054636200,Sembawang Rangers,Lion City,,pW3pRTln,0,2,,,,0
+1055241000,Sinchi,Tampines,,d0hl69s2,4,2,,,,0
+1055845800,Warriors,Jurong,nNKuYSHo,,1,2,,,,0
+1056450600,Lion City,Woodlands Wellington,pW3pRTln,CKls4Q5g,10,0,,,,0
+1057055400,Geylang,Warriors,df9tRVup,nNKuYSHo,2,1,,,,0
+1057660200,Young Lions,Balestier Khalsa,jqXAnX3e,MZaTAD0m,3,1,,,,0
+1057660200,Jurong,Geylang,,df9tRVup,3,3,,,,0
+1059474600,Sinchi,Woodlands Wellington,,CKls4Q5g,0,1,,,,0
+1060684200,Young Lions,Jurong,jqXAnX3e,,0,2,,,,0
+1062498600,Geylang,Balestier Khalsa,df9tRVup,MZaTAD0m,1,0,,,,0
+1063103400,Lion City,Tampines,pW3pRTln,d0hl69s2,3,0,,,,0
+1065436200,Lion City,Jurong,pW3pRTln,,5,1,,,,0
+1065954600,Woodlands Wellington,Geylang,CKls4Q5g,df9tRVup,2,3,,,,0
+1067077800,Lion City,Geylang,pW3pRTln,df9tRVup,2,1,,,,0

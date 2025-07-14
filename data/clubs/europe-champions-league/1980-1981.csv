@@ -1,62 +1,62 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-337968000,Linfield,Nantes,0,1,,,,0
-338047200,Viking,Crvena zvezda,2,3,,,,0
-338047200,Vestmannaeyjar,Ostrava,1,1,,,,0
-338047200,Trabzonspor,Szombierki Bytom,2,1,,,,0
-338049000,Dinamo Tirana,Ajax,0,2,,,,0
-338050800,BFC Dynamo,APOEL,3,0,,,,0
-338053500,Limerick,Real Madrid,1,2,,,,0
-338056200,Olympiacos Piraeus,Bayern Munich,2,4,,,,0
-338056200,CSKA Sofia,Nottingham,1,0,,,,0
-338056200,Aberdeen,Austria Vienna,1,0,,,,0
-338058000,OPS,Liverpool,1,1,,,,0
-338058000,Halmstad,Esbjerg,0,0,,,,0
-338059800,Jeunesse Esch,Spartak Moscow,0,5,,,,0
-338061600,Club Brugge KV,Basel,0,1,,,,0
-338064300,Inter,Universitatea Craiova,2,0,,,,0
-338067000,Sporting CP,Honved,0,2,,,,0
-339253200,Universitatea Craiova,Inter,1,1,,,,0
-339253200,Ostrava,Vestmannaeyjar,1,0,,,,0
-339253200,Crvena zvezda,Viking,4,1,,,,0
-339255000,Szombierki Bytom,Trabzonspor,3,0,,,,0
-339265800,Honved,Sporting CP,1,0,,,,0
-339267600,Spartak Moscow,Jeunesse Esch,4,0,,,,0
-339273000,Nottingham,CSKA Sofia,0,1,,,,0
-339273000,Liverpool,OPS,10,1,,,,0
-339273000,Austria Vienna,Aberdeen,0,0,,,,0
-339274800,Esbjerg,Halmstad,3,2,,,,0
-339274800,Bayern Munich,Olympiacos Piraeus,3,0,,,,0
-339274800,Basel,Club Brugge KV,4,1,,,,0
-339274800,APOEL,BFC Dynamo,2,1,,,,0
-339275700,Ajax,Dinamo Tirana,1,0,,,,0
-339276600,Nantes,Linfield,2,0,,,,0
-339278400,Real Madrid,Limerick,5,1,,,,0
-341078400,Spartak Moscow,Esbjerg,3,0,,,,0
-341078400,Ostrava,BFC Dynamo,0,0,,,,0
-341082000,CSKA Sofia,Szombierki Bytom,4,0,,,,0
-341083800,Aberdeen,Liverpool,0,1,,,,0
-341089200,Bayern Munich,Ajax,5,1,,,,0
-341089200,Basel,Crvena zvezda,1,0,,,,0
-341091000,Real Madrid,Honved,1,0,,,,0
-341091000,Nantes,Inter,1,2,,,,0
-342288000,Szombierki Bytom,CSKA Sofia,0,1,,,,0
-342288000,Crvena zvezda,Basel,2,0,,,,0
-342288000,BFC Dynamo,Ostrava,1,1,,,,0
-342289800,Honved,Real Madrid,0,2,,,,0
-342293400,Liverpool,Aberdeen,4,0,,,,0
-342295200,Esbjerg,Spartak Moscow,2,0,,,,0
-342299700,Ajax,Bayern Munich,2,1,,,,0
-342301500,Inter,Nantes,1,1,,,,0
-352566000,Spartak Moscow,Real Madrid,0,0,,,,0
-352578600,Liverpool,CSKA Sofia,5,1,,,,0
-352580400,Bayern Munich,Ostrava,2,0,,,,0
-352583100,Inter,Crvena zvezda,1,1,,,,0
-353777400,Ostrava,Bayern Munich,2,4,,,,0
-353781000,Crvena zvezda,Inter,0,1,,,,0
-353782800,CSKA Sofia,Liverpool,0,1,,,,0
-353869200,Real Madrid,Spartak Moscow,2,0,,,,0
-355602600,Liverpool,Bayern Munich,0,0,,,,0
-355603500,Real Madrid,Inter,2,0,,,,0
-356810400,Bayern Munich,Liverpool,1,1,,,,0
-356813100,Inter,Real Madrid,1,0,,,,0
-359835300,Liverpool,Real Madrid,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+337968000,Linfield,Nantes,GUrKqyjt,YBWLmubi,0,1,,,,0
+338047200,Viking,Crvena zvezda,xvniPjZd,4OAEfiPE,2,3,,,,0
+338047200,Vestmannaeyjar,Ostrava,GhaBLUZO,KGvKypjo,1,1,,,,0
+338047200,Trabzonspor,Szombierki Bytom,MobtE80i,r5fxRTDb,2,1,,,,0
+338049000,Dinamo Tirana,Ajax,bBJMyX2M,bZZPiwAI,0,2,,,,0
+338050800,BFC Dynamo,APOEL,KlQEi9GE,dM5j1Xkq,3,0,,,,0
+338053500,Limerick,Real Madrid,U3TbWtrm,fcDVLdrL,1,2,,,,0
+338056200,Olympiacos Piraeus,Bayern Munich,lzmp9FUJ,SvLFaVNH,2,4,,,,0
+338056200,CSKA Sofia,Nottingham,fRtHs98a,ImKwLTtA,1,0,,,,0
+338056200,Aberdeen,Austria Vienna,SQqfdcHF,lUkqx2Vt,1,0,,,,0
+338058000,OPS,Liverpool,42ZyYd5s,KCp4zq5F,1,1,,,,0
+338058000,Halmstad,Esbjerg,Qw5ziF5q,82YZVz8L,0,0,,,,0
+338059800,Jeunesse Esch,Spartak Moscow,IqhLeVal,jqo4GJye,0,5,,,,0
+338061600,Club Brugge KV,Basel,44lq3LsP,fPZDBkJI,0,1,,,,0
+338064300,Inter,Universitatea Craiova,jDrBQiMS,0bWyIK0K,2,0,,,,0
+338067000,Sporting CP,Honved,Ys9o4HYr,0bbECxUd,0,2,,,,0
+339253200,Universitatea Craiova,Inter,0bWyIK0K,jDrBQiMS,1,1,,,,0
+339253200,Ostrava,Vestmannaeyjar,KGvKypjo,GhaBLUZO,1,0,,,,0
+339253200,Crvena zvezda,Viking,4OAEfiPE,xvniPjZd,4,1,,,,0
+339255000,Szombierki Bytom,Trabzonspor,r5fxRTDb,MobtE80i,3,0,,,,0
+339265800,Honved,Sporting CP,0bbECxUd,Ys9o4HYr,1,0,,,,0
+339267600,Spartak Moscow,Jeunesse Esch,jqo4GJye,IqhLeVal,4,0,,,,0
+339273000,Nottingham,CSKA Sofia,ImKwLTtA,fRtHs98a,0,1,,,,0
+339273000,Liverpool,OPS,KCp4zq5F,42ZyYd5s,10,1,,,,0
+339273000,Austria Vienna,Aberdeen,lUkqx2Vt,SQqfdcHF,0,0,,,,0
+339274800,Esbjerg,Halmstad,82YZVz8L,Qw5ziF5q,3,2,,,,0
+339274800,Bayern Munich,Olympiacos Piraeus,SvLFaVNH,lzmp9FUJ,3,0,,,,0
+339274800,Basel,Club Brugge KV,fPZDBkJI,44lq3LsP,4,1,,,,0
+339274800,APOEL,BFC Dynamo,dM5j1Xkq,KlQEi9GE,2,1,,,,0
+339275700,Ajax,Dinamo Tirana,bZZPiwAI,bBJMyX2M,1,0,,,,0
+339276600,Nantes,Linfield,YBWLmubi,GUrKqyjt,2,0,,,,0
+339278400,Real Madrid,Limerick,fcDVLdrL,U3TbWtrm,5,1,,,,0
+341078400,Spartak Moscow,Esbjerg,jqo4GJye,82YZVz8L,3,0,,,,0
+341078400,Ostrava,BFC Dynamo,KGvKypjo,KlQEi9GE,0,0,,,,0
+341082000,CSKA Sofia,Szombierki Bytom,fRtHs98a,r5fxRTDb,4,0,,,,0
+341083800,Aberdeen,Liverpool,SQqfdcHF,KCp4zq5F,0,1,,,,0
+341089200,Bayern Munich,Ajax,SvLFaVNH,bZZPiwAI,5,1,,,,0
+341089200,Basel,Crvena zvezda,fPZDBkJI,4OAEfiPE,1,0,,,,0
+341091000,Real Madrid,Honved,fcDVLdrL,0bbECxUd,1,0,,,,0
+341091000,Nantes,Inter,YBWLmubi,jDrBQiMS,1,2,,,,0
+342288000,Szombierki Bytom,CSKA Sofia,r5fxRTDb,fRtHs98a,0,1,,,,0
+342288000,Crvena zvezda,Basel,4OAEfiPE,fPZDBkJI,2,0,,,,0
+342288000,BFC Dynamo,Ostrava,KlQEi9GE,KGvKypjo,1,1,,,,0
+342289800,Honved,Real Madrid,0bbECxUd,fcDVLdrL,0,2,,,,0
+342293400,Liverpool,Aberdeen,KCp4zq5F,SQqfdcHF,4,0,,,,0
+342295200,Esbjerg,Spartak Moscow,82YZVz8L,jqo4GJye,2,0,,,,0
+342299700,Ajax,Bayern Munich,bZZPiwAI,SvLFaVNH,2,1,,,,0
+342301500,Inter,Nantes,jDrBQiMS,YBWLmubi,1,1,,,,0
+352566000,Spartak Moscow,Real Madrid,jqo4GJye,fcDVLdrL,0,0,,,,0
+352578600,Liverpool,CSKA Sofia,KCp4zq5F,fRtHs98a,5,1,,,,0
+352580400,Bayern Munich,Ostrava,SvLFaVNH,KGvKypjo,2,0,,,,0
+352583100,Inter,Crvena zvezda,jDrBQiMS,4OAEfiPE,1,1,,,,0
+353777400,Ostrava,Bayern Munich,KGvKypjo,SvLFaVNH,2,4,,,,0
+353781000,Crvena zvezda,Inter,4OAEfiPE,jDrBQiMS,0,1,,,,0
+353782800,CSKA Sofia,Liverpool,fRtHs98a,KCp4zq5F,0,1,,,,0
+353869200,Real Madrid,Spartak Moscow,fcDVLdrL,jqo4GJye,2,0,,,,0
+355602600,Liverpool,Bayern Munich,KCp4zq5F,SvLFaVNH,0,0,,,,0
+355603500,Real Madrid,Inter,fcDVLdrL,jDrBQiMS,2,0,,,,0
+356810400,Bayern Munich,Liverpool,SvLFaVNH,KCp4zq5F,1,1,,,,0
+356813100,Inter,Real Madrid,jDrBQiMS,fcDVLdrL,1,0,,,,0
+359835300,Liverpool,Real Madrid,KCp4zq5F,fcDVLdrL,1,0,,,,0

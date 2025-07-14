@@ -1,54 +1,54 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1653728400,Malorita,Ostrovets,1,2,,,,0
-1653728400,Bobovnya,Lokomotiv Gomel,2,3,,,,0
-1653739200,Stanles Pinsk,Zhlobin,3,2,,,,0
-1653739200,Mozyrskiy NPZ,Orsha,0,1,,,,0
-1653742800,Shchuchyn,Smorgon,2,5,,,,0
-1653742800,Gorki,Baranovici,1,2,,,,0
-1653744600,BumProm Gomel,Molodechno,0,1,,,,0
-1653746400,Neman Belkard,Zhodino Yuzhnoe,1,6,,,,0
-1653750000,Uni X Labs,Naftan,0,4,,,,0
-1653750000,Technolog Mogilev,Miory,3,0,,,,0
-1653825600,Edinstvo Dzerzhinsk,Gazovik Vitebsk,0,2,,,,0
-1653829200,Polotsk,ML Vitebsk,0,9,,,,0
-1653829200,Niva Dolbizno,Lida,1,1,Pen,1,2,0
-1653832800,Svislach,Volna Pinsk,0,9,,,,0
-1653832800,Starye Dorogi,Osipovichi,1,2,,,,0
-1653832800,Krumkachy,FC Slonim,3,3,AET,4,3,0
-1655821800,Smorgon,Slutsk,1,3,,,,0
-1655823600,ML Vitebsk,Vitebsk,2,2,AET,2,3,0
-1655825400,Osipovichi,Neman,1,3,,,,0
-1655827200,Stanles Pinsk,BATE,1,2,,,,0
-1655904600,Baranovici,Energetik-BGU,1,1,AET,1,3,0
-1655906400,Zhodino Yuzhnoe,Zhodino,0,2,,,,0
-1655908200,Molodechno,Slavia Mozyr,0,3,,,,0
-1655909100,Lokomotiv Gomel,Dynamo Brest,0,1,,,,0
-1655910000,Krumkachy,Isloch,0,3,,,,0
-1655911800,Orsha,FC Gomel,1,3,,,,0
-1655913600,Ostrovets,Shakhtyor Soligorsk,1,2,,,,0
-1655915400,Technolog Mogilev,Belshina,2,4,,,,0
-1655917200,Volna Pinsk,Din. Minsk,1,1,Pen,2,3,0
-1655994600,Gazovik Vitebsk,Dnepr Mogilev,0,5,,,,0
-1655996400,Lida,Arsenal Dzyarzhynsk,1,3,,,,0
-1655998200,Naftan,FC Minsk,0,1,,,,0
-1659189600,Dynamo Brest,Vitebsk,1,1,Pen,1,2,0
-1659196800,Neman,Arsenal Dzyarzhynsk,2,1,,,,0
-1659200400,Zhodino,Isloch,1,0,,,,0
-1659286800,Dnepr Mogilev,Slavia Mozyr,0,2,,,,0
-1668790800,FC Gomel,Belshina,0,0,Pen,0,1,0
-1669456800,Slutsk,Din. Minsk,1,0,,,,0
-1669464000,FC Minsk,Shakhtyor Soligorsk,1,2,,,,0
-1669474800,Energetik-BGU,BATE,0,2,,,,0
-1677927600,Zhodino,Shakhtyor Soligorsk,2,1,,,,0
-1677934800,Belshina,BATE,0,5,,,,0
-1678014000,Vitebsk,Neman,0,0,,,,0
-1678021200,Slavia Mozyr,Slutsk,2,0,,,,0
-1678539600,Shakhtyor Soligorsk,Zhodino,1,0,Pen,1,1,0
-1678548600,BATE,Belshina,5,0,,,,0
-1678618800,Slutsk,Slavia Mozyr,1,0,,,,0
-1678627800,Neman,Vitebsk,2,1,,,,0
-1681830000,Slavia Mozyr,Zhodino,0,1,,,,0
-1681916400,Neman,BATE,1,1,,,,0
-1683730800,Zhodino,Slavia Mozyr,0,0,,,,0
-1683739800,BATE,Neman,0,0,Pen,1,0,0
-1685289600,BATE,Zhodino,0,2,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1653728400,Malorita,Ostrovets,A7bNIOws,0fjEP02N,1,2,,,,0
+1653728400,Bobovnya,Lokomotiv Gomel,lbcRHrgm,O2QBcAHa,2,3,,,,0
+1653739200,Stanles Pinsk,Zhlobin,KfcFvdlS,WA0zmJPd,3,2,,,,0
+1653739200,Mozyrskiy NPZ,Orsha,A7bNIOws,8jKzhszp,0,1,,,,0
+1653742800,Shchuchyn,Smorgon,A7bNIOws,bBFPiWrD,2,5,,,,0
+1653742800,Gorki,Baranovici,SEDZ2amh,63NqBPho,1,2,,,,0
+1653744600,BumProm Gomel,Molodechno,I5eVia8U,vPy7FsDN,0,1,,,,0
+1653746400,Neman Belkard,Zhodino Yuzhnoe,A7bNIOws,vkFDLrdd,1,6,,,,0
+1653750000,Uni X Labs,Naftan,bH4lg0KE,E7NOD7nb,0,4,,,,0
+1653750000,Technolog Mogilev,Miory,tzoLIEP5,lbcRHrgm,3,0,,,,0
+1653825600,Edinstvo Dzerzhinsk,Gazovik Vitebsk,lbcRHrgm,bm5Z2ZYO,0,2,,,,0
+1653829200,Polotsk,ML Vitebsk,WA0zmJPd,n7x0aVqt,0,9,,,,0
+1653829200,Niva Dolbizno,Lida,40UH5io0,SlMW1IRD,1,1,Pen,1,2,0
+1653832800,Svislach,Volna Pinsk,A7bNIOws,SvZj82Kc,0,9,,,,0
+1653832800,Starye Dorogi,Osipovichi,A7bNIOws,hKJmiP1d,1,2,,,,0
+1653832800,Krumkachy,FC Slonim,CKnYYQa9,tdK9vIsA,3,3,AET,4,3,0
+1655821800,Smorgon,Slutsk,bBFPiWrD,l6uHH2BF,1,3,,,,0
+1655823600,ML Vitebsk,Vitebsk,n7x0aVqt,jy73afvM,2,2,AET,2,3,0
+1655825400,Osipovichi,Neman,hKJmiP1d,Y74BTQZ8,1,3,,,,0
+1655827200,Stanles Pinsk,BATE,KfcFvdlS,2uzi9uYj,1,2,,,,0
+1655904600,Baranovici,Energetik-BGU,63NqBPho,UotIUo8H,1,1,AET,1,3,0
+1655906400,Zhodino Yuzhnoe,Zhodino,vkFDLrdd,23zIqwQ6,0,2,,,,0
+1655908200,Molodechno,Slavia Mozyr,vPy7FsDN,KtzYA4l8,0,3,,,,0
+1655909100,Lokomotiv Gomel,Dynamo Brest,O2QBcAHa,OSiGCyjG,0,1,,,,0
+1655910000,Krumkachy,Isloch,CKnYYQa9,WjYPq7GL,0,3,,,,0
+1655911800,Orsha,FC Gomel,8jKzhszp,8IAnrpV2,1,3,,,,0
+1655913600,Ostrovets,Shakhtyor Soligorsk,0fjEP02N,AT53cBWn,1,2,,,,0
+1655915400,Technolog Mogilev,Belshina,tzoLIEP5,xYOcPFCn,2,4,,,,0
+1655917200,Volna Pinsk,Din. Minsk,SvZj82Kc,xUKWlpRC,1,1,Pen,2,3,0
+1655994600,Gazovik Vitebsk,Dnepr Mogilev,bm5Z2ZYO,n3EODL5E,0,5,,,,0
+1655996400,Lida,Arsenal Dzyarzhynsk,SlMW1IRD,OKT2ewbj,1,3,,,,0
+1655998200,Naftan,FC Minsk,E7NOD7nb,KU5prZRt,0,1,,,,0
+1659189600,Dynamo Brest,Vitebsk,OSiGCyjG,jy73afvM,1,1,Pen,1,2,0
+1659196800,Neman,Arsenal Dzyarzhynsk,Y74BTQZ8,OKT2ewbj,2,1,,,,0
+1659200400,Zhodino,Isloch,23zIqwQ6,WjYPq7GL,1,0,,,,0
+1659286800,Dnepr Mogilev,Slavia Mozyr,n3EODL5E,KtzYA4l8,0,2,,,,0
+1668790800,FC Gomel,Belshina,8IAnrpV2,xYOcPFCn,0,0,Pen,0,1,0
+1669456800,Slutsk,Din. Minsk,l6uHH2BF,xUKWlpRC,1,0,,,,0
+1669464000,FC Minsk,Shakhtyor Soligorsk,KU5prZRt,AT53cBWn,1,2,,,,0
+1669474800,Energetik-BGU,BATE,UotIUo8H,2uzi9uYj,0,2,,,,0
+1677927600,Zhodino,Shakhtyor Soligorsk,23zIqwQ6,AT53cBWn,2,1,,,,0
+1677934800,Belshina,BATE,xYOcPFCn,2uzi9uYj,0,5,,,,0
+1678014000,Vitebsk,Neman,jy73afvM,Y74BTQZ8,0,0,,,,0
+1678021200,Slavia Mozyr,Slutsk,KtzYA4l8,l6uHH2BF,2,0,,,,0
+1678539600,Shakhtyor Soligorsk,Zhodino,AT53cBWn,23zIqwQ6,1,0,Pen,1,1,0
+1678548600,BATE,Belshina,2uzi9uYj,xYOcPFCn,5,0,,,,0
+1678618800,Slutsk,Slavia Mozyr,l6uHH2BF,KtzYA4l8,1,0,,,,0
+1678627800,Neman,Vitebsk,Y74BTQZ8,jy73afvM,2,1,,,,0
+1681830000,Slavia Mozyr,Zhodino,KtzYA4l8,23zIqwQ6,0,1,,,,0
+1681916400,Neman,BATE,Y74BTQZ8,2uzi9uYj,1,1,,,,0
+1683730800,Zhodino,Slavia Mozyr,23zIqwQ6,KtzYA4l8,0,0,,,,0
+1683739800,BATE,Neman,2uzi9uYj,Y74BTQZ8,0,0,Pen,1,0,0
+1685289600,BATE,Zhodino,2uzi9uYj,23zIqwQ6,0,2,,,,1

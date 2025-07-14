@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1555412400,Shevardeni Tbilisi,Bolnisi,1,2,,,,0
-1555412400,Samtredia,Dila Gori,3,2,,,,0
-1555412400,Legioni,Tbilisi City,1,2,,,,0
-1555412400,Iberia 2010,Merani Martvili,0,2,,,,0
-1555412400,FC Gareji Sagarejo,Chiatura,2,0,,,,0
-1555412400,Egrisi Senaki,Dinamo Tbilisi,1,4,,,,0
-1555430400,Iberia 1999,Dinamo Batumi,1,0,,,,0
-1555496100,Dinamo Batumi 2,Rustavi,0,2,,,,0
-1555498800,Zugdidi,Tskhinvali,1,1,AET,3,2,0
-1555498800,Telavi,WIT Georgia,3,0,,,,0
-1555498800,Gagra,Shukura,2,0,,,,0
-1555498800,Borjomi,Torpedo Kutaisi,1,4,,,,0
-1555498800,Betlemi,Guria,1,2,,,,0
-1555502400,Zestafoni,Merani Tbilisi,0,2,,,,0
-1555513200,Spaeri,Kolkheti 1913,5,1,,,,0
-1555516800,Loco. Tbilisi,Chikhura,1,0,,,,0
-1560862800,Tbilisi City,Zugdidi,3,1,,,,0
-1560862800,Samtredia,Iberia 1999,1,2,,,,0
-1560862800,Merani Martvili,Guria,3,0,,,,0
-1560862800,FC Gareji Sagarejo,Spaeri,3,3,Pen,4,3,0
-1560949200,Telavi,Loco. Tbilisi,0,1,,,,0
-1560949200,Gagra,Torpedo Kutaisi,2,3,,,,0
-1560956400,Merani Tbilisi,Dinamo Tbilisi,0,0,AET,1,0,0
-1560960000,Rustavi,Bolnisi,2,0,,,,0
-1569322800,Merani Martvili,Loco. Tbilisi,1,1,AET,1,2,0
-1569333600,Merani Tbilisi,Iberia 1999,0,0,AET,0,1,0
-1569409200,Rustavi,Torpedo Kutaisi,0,0,Pen,0,1,0
-1569409200,FC Gareji Sagarejo,Tbilisi City,2,1,,,,0
-1571824800,FC Gareji Sagarejo,Loco. Tbilisi,2,3,,,,0
-1571826600,Iberia 1999,Torpedo Kutaisi,2,0,,,,0
-1575804600,Iberia 1999,Loco. Tbilisi,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1555412400,Shevardeni Tbilisi,Bolnisi,6aT5jKya,OEhZqrON,1,2,,,,0
+1555412400,Samtredia,Dila Gori,8lqbyXv8,WfpuTxB8,3,2,,,,0
+1555412400,Legioni,Tbilisi City,WQ6EdQSa,WvdjqzuG,1,2,,,,0
+1555412400,Iberia 2010,Merani Martvili,fVS0liCC,drR8zYr0,0,2,,,,0
+1555412400,FC Gareji Sagarejo,Chiatura,nHkIJjVl,0diXU30c,2,0,,,,0
+1555412400,Egrisi Senaki,Dinamo Tbilisi,QeOLgZzn,MqwiOmp3,1,4,,,,0
+1555430400,Iberia 1999,Dinamo Batumi,rVsp3mPF,vZdRBggj,1,0,,,,0
+1555496100,Dinamo Batumi 2,Rustavi,SSWaJMej,WvdjqzuG,0,2,,,,0
+1555498800,Zugdidi,Tskhinvali,2qEOAq7a,bZmYBGs9,1,1,AET,3,2,0
+1555498800,Telavi,WIT Georgia,Crw6ZJam,0WLerOuQ,3,0,,,,0
+1555498800,Gagra,Shukura,KrkUCdS2,0diXU30c,2,0,,,,0
+1555498800,Borjomi,Torpedo Kutaisi,GIzeT3pB,6FX7qLsb,1,4,,,,0
+1555498800,Betlemi,Guria,bqeypUE6,dxlxqBhr,1,2,,,,0
+1555502400,Zestafoni,Merani Tbilisi,GU4hlIMk,Q7lMIApe,0,2,,,,0
+1555513200,Spaeri,Kolkheti 1913,6oURetIB,bZmYBGs9,5,1,,,,0
+1555516800,Loco. Tbilisi,Chikhura,0diXU30c,rThaYtoQ,1,0,,,,0
+1560862800,Tbilisi City,Zugdidi,WvdjqzuG,2qEOAq7a,3,1,,,,0
+1560862800,Samtredia,Iberia 1999,8lqbyXv8,rVsp3mPF,1,2,,,,0
+1560862800,Merani Martvili,Guria,drR8zYr0,dxlxqBhr,3,0,,,,0
+1560862800,FC Gareji Sagarejo,Spaeri,nHkIJjVl,6oURetIB,3,3,Pen,4,3,0
+1560949200,Telavi,Loco. Tbilisi,Crw6ZJam,0diXU30c,0,1,,,,0
+1560949200,Gagra,Torpedo Kutaisi,KrkUCdS2,6FX7qLsb,2,3,,,,0
+1560956400,Merani Tbilisi,Dinamo Tbilisi,Q7lMIApe,MqwiOmp3,0,0,AET,1,0,0
+1560960000,Rustavi,Bolnisi,WvdjqzuG,OEhZqrON,2,0,,,,0
+1569322800,Merani Martvili,Loco. Tbilisi,drR8zYr0,0diXU30c,1,1,AET,1,2,0
+1569333600,Merani Tbilisi,Iberia 1999,Q7lMIApe,rVsp3mPF,0,0,AET,0,1,0
+1569409200,Rustavi,Torpedo Kutaisi,WvdjqzuG,6FX7qLsb,0,0,Pen,0,1,0
+1569409200,FC Gareji Sagarejo,Tbilisi City,nHkIJjVl,WvdjqzuG,2,1,,,,0
+1571824800,FC Gareji Sagarejo,Loco. Tbilisi,nHkIJjVl,0diXU30c,2,3,,,,0
+1571826600,Iberia 1999,Torpedo Kutaisi,rVsp3mPF,6FX7qLsb,2,0,,,,0
+1575804600,Iberia 1999,Loco. Tbilisi,rVsp3mPF,0diXU30c,3,1,,,,0

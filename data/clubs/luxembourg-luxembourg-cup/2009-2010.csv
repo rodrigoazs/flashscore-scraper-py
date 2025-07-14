@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1235673000,Schifflange,Kaerjeng,1,3,,,,0
-1235739600,Jeunesse Canach,Racing Luxembourg,2,1,,,,0
-1235746800,Wiltz,Rumelange,2,2,Pen,2,3,0
-1235746800,Steinfort,Ettelbruck,0,1,,,,0
-1235746800,Mondorf,Luxembourg City,0,2,,,,0
-1235746800,Lintgen,CS Petange,1,1,AET,1,3,0
-1235746800,Esch,Hesperange,0,1,,,,0
-1235746800,Erpeldange,Dudelange,1,3,,,,0
-1235746800,Bissen,Differdange,1,6,,,,0
-1235746800,Avenir Beggen,Fola,1,2,,,,0
-1235754000,Diekirch,Jeunesse Esch,3,2,,,,0
-1237314600,Gasperich,Niedercorn,0,7,,,,0
-1237314600,Echternach,Mondercange,2,2,AET,2,4,0
-1237314600,Clemency,Jeunesse Schieren,2,0,,,,0
-1237316400,Mertzig,Grevenmacher,2,4,,,,0
-1237316400,Mertert/Wasserbillig,Oberkorn,0,1,,,,0
-1238680800,Mondercange,Niedercorn,0,0,Pen,1,0,0
-1238695200,Ettelbruck,CS Petange,1,1,AET,2,1,0
-1238767200,Oberkorn,Differdange,0,3,,,,0
-1238767200,Luxembourg City,Dudelange,1,2,,,,0
-1238767200,Jeunesse Canach,Rumelange,0,0,Pen,1,0,0
-1238767200,Fola,Kaerjeng,1,1,AET,4,2,0
-1238767200,Diekirch,Hesperange,1,2,,,,0
-1238767200,Clemency,Grevenmacher,1,1,AET,1,4,0
-1241193600,Differdange,Mondercange,3,0,,,,0
-1241272800,Grevenmacher,Jeunesse Canach,4,2,,,,0
-1241272800,Ettelbruck,Hesperange,2,1,,,,0
-1241272800,Dudelange,Fola,2,2,Pen,2,3,0
-1243272600,Grevenmacher,Fola,5,1,,,,0
-1243359000,Differdange,Ettelbruck,3,1,,,,0
-1243695600,Grevenmacher,Differdange,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1235673000,Schifflange,Kaerjeng,xj4ilfwQ,YB20ndi2,1,3,,,,0
+1235739600,Jeunesse Canach,Racing Luxembourg,d4EgGGA5,fBhtpSEp,2,1,,,,0
+1235746800,Wiltz,Rumelange,j9bYxxH3,IkoY0gOk,2,2,Pen,2,3,0
+1235746800,Steinfort,Ettelbruck,pM4tNHHL,OhFbPUqL,0,1,,,,0
+1235746800,Mondorf,Luxembourg City,86hNCjlr,p0TgvuMN,0,2,,,,0
+1235746800,Lintgen,CS Petange,feQfIYSN,2XLGErqk,1,1,AET,1,3,0
+1235746800,Esch,Hesperange,QelqBqRP,Y72Z4YSk,0,1,,,,0
+1235746800,Erpeldange,Dudelange,tOKKD2be,rkYlaIFp,1,3,,,,0
+1235746800,Bissen,Differdange,xp9MKGr2,GlTeTYJC,1,6,,,,0
+1235746800,Avenir Beggen,Fola,4jwwMQjF,fogO2tc3,1,2,,,,0
+1235754000,Diekirch,Jeunesse Esch,f3h4W85q,IqhLeVal,3,2,,,,0
+1237314600,Gasperich,Niedercorn,08NC7xlk,2qE2OlaR,0,7,,,,0
+1237314600,Echternach,Mondercange,nHkIJjVl,pWmUeo8b,2,2,AET,2,4,0
+1237314600,Clemency,Jeunesse Schieren,0h9CLrTA,4nNPhgjh,2,0,,,,0
+1237316400,Mertzig,Grevenmacher,K4zaWlZi,YB20ndi2,2,4,,,,0
+1237316400,Mertert/Wasserbillig,Oberkorn,nwDEYiZu,bBeRDcSa,0,1,,,,0
+1238680800,Mondercange,Niedercorn,pWmUeo8b,2qE2OlaR,0,0,Pen,1,0,0
+1238695200,Ettelbruck,CS Petange,OhFbPUqL,2XLGErqk,1,1,AET,2,1,0
+1238767200,Oberkorn,Differdange,bBeRDcSa,GlTeTYJC,0,3,,,,0
+1238767200,Luxembourg City,Dudelange,p0TgvuMN,rkYlaIFp,1,2,,,,0
+1238767200,Jeunesse Canach,Rumelange,d4EgGGA5,IkoY0gOk,0,0,Pen,1,0,0
+1238767200,Fola,Kaerjeng,fogO2tc3,YB20ndi2,1,1,AET,4,2,0
+1238767200,Diekirch,Hesperange,f3h4W85q,Y72Z4YSk,1,2,,,,0
+1238767200,Clemency,Grevenmacher,0h9CLrTA,YB20ndi2,1,1,AET,1,4,0
+1241193600,Differdange,Mondercange,GlTeTYJC,pWmUeo8b,3,0,,,,0
+1241272800,Grevenmacher,Jeunesse Canach,YB20ndi2,d4EgGGA5,4,2,,,,0
+1241272800,Ettelbruck,Hesperange,OhFbPUqL,Y72Z4YSk,2,1,,,,0
+1241272800,Dudelange,Fola,rkYlaIFp,fogO2tc3,2,2,Pen,2,3,0
+1243272600,Grevenmacher,Fola,YB20ndi2,fogO2tc3,5,1,,,,0
+1243359000,Differdange,Ettelbruck,GlTeTYJC,OhFbPUqL,3,1,,,,0
+1243695600,Grevenmacher,Differdange,YB20ndi2,GlTeTYJC,0,1,,,,0

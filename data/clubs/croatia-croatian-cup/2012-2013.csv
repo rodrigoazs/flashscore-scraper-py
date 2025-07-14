@@ -1,55 +1,55 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1346162400,Vrsar,Tomislav DA,5,0,,,,0
-1346162400,Virovitica,RNK Split,1,4,,,,0
-1346248800,Zelina,NK Mladost,9,0,,,,0
-1346248800,Slunj,Zadrugar,2,1,,,,0
-1346248800,Repusnica,Tordinci,1,2,,,,0
-1346248800,Ravnice,Visnjevac,1,1,Pen,1,2,0
-1346248800,Novalja,Zagorec K.,3,1,,,,0
-1346248800,Lozovac,Nedelisce,0,3,,,,0
-1346248800,Libertas,Zdralovi,2,1,,,,0
-1346248800,Koprivnica,Vuteks Sloga,0,0,Pen,1,0,0
-1346248800,Ivancica,Oriolik,2,2,Pen,3,2,0
-1346248800,GOSK Dubrovnik,Omladinac,3,0,Awrd,,,0
-1346248800,Gorica,Slakovec,4,0,,,,0
-1346248800,Bjelovar,Vinodol,1,2,,,,0
-1346252400,Lok. Zagreb,Pleternica,7,0,,,,0
-1346256000,Zadar,Belisce,5,1,,,,0
-1348579800,Vrsar,D. Zagreb,0,3,,,,0
-1348579800,Gorica,Zapresic,3,0,,,,0
-1348585200,Lok. Zagreb,Segesta,4,2,,,,0
-1348666200,Zelina,Karlovac,3,0,,,,0
-1348666200,Visnjevac,Istra 1961,1,2,,,,0
-1348666200,Vinodol,Cibalia,0,2,,,,0
-1348666200,Tordinci,NK Zagreb,0,4,,,,0
-1348666200,Slunj,Hajduk Split,0,4,,,,0
-1348666200,Novalja,Osijek,0,1,,,,0
-1348666200,Nedelisce,Rijeka,0,0,AET,1,0,0
-1348666200,Libertas,Varazdin,3,0,,,,0
-1348666200,Koprivnica,NK Pomorac,1,1,AET,2,1,0
-1348666200,Ivancica,Slaven Belupo,1,2,,,,0
-1348666200,GOSK Dubrovnik,Sibenik,0,0,Pen,2,1,0
-1348669800,Zadar,Konavljanin,2,0,,,,0
-1348675200,RNK Split,Zagora,5,1,,,,0
-1351605600,NK Zagreb,Zelina,1,2,,,,0
-1351605600,D. Zagreb,Zadar,2,2,AET,2,3,0
-1351612800,Slaven Belupo,Koprivnica,0,0,AET,2,0,0
-1351612800,Osijek,Istra 1961,1,1,AET,3,2,0
-1351612800,Lok. Zagreb,Libertas,3,2,,,,0
-1351690200,GOSK Dubrovnik,Nedelisce,0,0,AET,2,0,0
-1351699200,Hajduk Split,RNK Split,2,1,,,,0
-1351699200,Cibalia,Gorica,1,0,,,,0
-1353414600,GOSK Dubrovnik,Lok. Zagreb,0,1,,,,0
-1353427200,Zadar,Slaven Belupo,1,0,,,,0
-1353513600,Cibalia,Osijek,1,1,,,,0
-1354019400,Zelina,Hajduk Split,1,1,,,,0
-1354021200,Lok. Zagreb,GOSK Dubrovnik,0,0,,,,0
-1354032000,Osijek,Cibalia,1,3,,,,0
-1354118400,Slaven Belupo,Zadar,3,1,,,,0
-1355328000,Hajduk Split,Zelina,2,0,,,,0
-1365008400,Cibalia,Lok. Zagreb,1,1,,,,0
-1365606000,Slaven Belupo,Hajduk Split,1,2,,,,0
-1366218000,Lok. Zagreb,Cibalia,3,0,,,,0
-1366218000,Hajduk Split,Slaven Belupo,1,1,,,,0
-1368034200,Hajduk Split,Lok. Zagreb,2,1,,,,0
-1369246500,Lok. Zagreb,Hajduk Split,3,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1346162400,Vrsar,Tomislav DA,vsHsSWST,QuM72wgm,5,0,,,,0
+1346162400,Virovitica,RNK Split,hYUQW0Q6,zy7OCEpO,1,4,,,,0
+1346248800,Zelina,NK Mladost,KCtdjVjL,vsHsSWST,9,0,,,,0
+1346248800,Slunj,Zadrugar,vsHsSWST,r9KVUYrB,2,1,,,,0
+1346248800,Repusnica,Tordinci,A15Ml3wa,vsHsSWST,1,2,,,,0
+1346248800,Ravnice,Visnjevac,j9pBsCSG,QJfOSVdr,1,1,Pen,1,2,0
+1346248800,Novalja,Zagorec K.,MmBIllYB,I7IhpUKs,3,1,,,,0
+1346248800,Lozovac,Nedelisce,,M71CKrQd,0,3,,,,0
+1346248800,Libertas,Zdralovi,OrOnnAU3,OtNCFOTr,2,1,,,,0
+1346248800,Koprivnica,Vuteks Sloga,hIpnkcid,nZKHWgzc,0,0,Pen,1,0,0
+1346248800,Ivancica,Oriolik,YowWZXIR,CniMfo1o,2,2,Pen,3,2,0
+1346248800,GOSK Dubrovnik,Omladinac,pblQwXyI,vFndqoeq,3,0,Awrd,,,0
+1346248800,Gorica,Slakovec,fu4DkIs2,6Jc75gYp,4,0,,,,0
+1346248800,Bjelovar,Vinodol,UPhyZXn8,YmtYWHVu,1,2,,,,0
+1346252400,Lok. Zagreb,Pleternica,McKSPis2,Qw9dXBlR,7,0,,,,0
+1346256000,Zadar,Belisce,EBDRDbzn,ER5SBYaU,5,1,,,,0
+1348579800,Vrsar,D. Zagreb,vsHsSWST,GU4hlIMk,0,3,,,,0
+1348579800,Gorica,Zapresic,fu4DkIs2,fuSaShZI,3,0,,,,0
+1348585200,Lok. Zagreb,Segesta,McKSPis2,nZALE08p,4,2,,,,0
+1348666200,Zelina,Karlovac,KCtdjVjL,WSBTfTaU,3,0,,,,0
+1348666200,Visnjevac,Istra 1961,QJfOSVdr,S0dWTsz4,1,2,,,,0
+1348666200,Vinodol,Cibalia,YmtYWHVu,x4Xh4Pu0,0,2,,,,0
+1348666200,Tordinci,NK Zagreb,vsHsSWST,dGpvXbgG,0,4,,,,0
+1348666200,Slunj,Hajduk Split,vsHsSWST,Mc6FcsjL,0,4,,,,0
+1348666200,Novalja,Osijek,MmBIllYB,x4Xh4Pu0,0,1,,,,0
+1348666200,Nedelisce,Rijeka,M71CKrQd,YDFGOnMF,0,0,AET,1,0,0
+1348666200,Libertas,Varazdin,OrOnnAU3,CCW2Z0Rb,3,0,,,,0
+1348666200,Koprivnica,NK Pomorac,hIpnkcid,OYlPxDI8,1,1,AET,2,1,0
+1348666200,Ivancica,Slaven Belupo,YowWZXIR,xluSzFWQ,1,2,,,,0
+1348666200,GOSK Dubrovnik,Sibenik,pblQwXyI,YgThBW79,0,0,Pen,2,1,0
+1348669800,Zadar,Konavljanin,EBDRDbzn,dSvEVQkJ,2,0,,,,0
+1348675200,RNK Split,Zagora,zy7OCEpO,GvnQg73g,5,1,,,,0
+1351605600,NK Zagreb,Zelina,dGpvXbgG,KCtdjVjL,1,2,,,,0
+1351605600,D. Zagreb,Zadar,GU4hlIMk,EBDRDbzn,2,2,AET,2,3,0
+1351612800,Slaven Belupo,Koprivnica,xluSzFWQ,hIpnkcid,0,0,AET,2,0,0
+1351612800,Osijek,Istra 1961,x4Xh4Pu0,S0dWTsz4,1,1,AET,3,2,0
+1351612800,Lok. Zagreb,Libertas,McKSPis2,OrOnnAU3,3,2,,,,0
+1351690200,GOSK Dubrovnik,Nedelisce,pblQwXyI,M71CKrQd,0,0,AET,2,0,0
+1351699200,Hajduk Split,RNK Split,Mc6FcsjL,zy7OCEpO,2,1,,,,0
+1351699200,Cibalia,Gorica,x4Xh4Pu0,fu4DkIs2,1,0,,,,0
+1353414600,GOSK Dubrovnik,Lok. Zagreb,pblQwXyI,McKSPis2,0,1,,,,0
+1353427200,Zadar,Slaven Belupo,EBDRDbzn,xluSzFWQ,1,0,,,,0
+1353513600,Cibalia,Osijek,x4Xh4Pu0,x4Xh4Pu0,1,1,,,,0
+1354019400,Zelina,Hajduk Split,KCtdjVjL,Mc6FcsjL,1,1,,,,0
+1354021200,Lok. Zagreb,GOSK Dubrovnik,McKSPis2,pblQwXyI,0,0,,,,0
+1354032000,Osijek,Cibalia,x4Xh4Pu0,x4Xh4Pu0,1,3,,,,0
+1354118400,Slaven Belupo,Zadar,xluSzFWQ,EBDRDbzn,3,1,,,,0
+1355328000,Hajduk Split,Zelina,Mc6FcsjL,KCtdjVjL,2,0,,,,0
+1365008400,Cibalia,Lok. Zagreb,x4Xh4Pu0,McKSPis2,1,1,,,,0
+1365606000,Slaven Belupo,Hajduk Split,xluSzFWQ,Mc6FcsjL,1,2,,,,0
+1366218000,Lok. Zagreb,Cibalia,McKSPis2,x4Xh4Pu0,3,0,,,,0
+1366218000,Hajduk Split,Slaven Belupo,Mc6FcsjL,xluSzFWQ,1,1,,,,0
+1368034200,Hajduk Split,Lok. Zagreb,Mc6FcsjL,McKSPis2,2,1,,,,0
+1369246500,Lok. Zagreb,Hajduk Split,McKSPis2,Mc6FcsjL,3,3,,,,0

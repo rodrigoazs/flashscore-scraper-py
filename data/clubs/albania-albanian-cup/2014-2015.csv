@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1409324400,Himara,KF Bilisht,3,1,,,,0
-1409324400,Albpetrol,Vora,0,1,,,,0
-1412166600,Vora,Kukesi,1,4,,,,0
-1412166600,Velipoja,Kastrioti,1,1,,,,0
-1412166600,Tomori Berat,Terbuni,1,2,,,,0
-1412166600,Shkumbini Peqin,KF Elbasani,2,2,,,,0
-1412166600,Pogradeci,Butrinti Sarande,2,0,,,,0
-1412166600,Mamurrasi,Vllaznia,0,2,,,,0
-1412166600,Librazhd,KF Tirana,0,3,,,,0
-1412166600,Kucove,Laci,0,2,,,,0
-1412166600,Koplik,Besa Kavaje,0,0,,,,0
-1412166600,Kamza,Flamurtari,0,0,,,,0
-1412166600,Iliria Kruja,Partizani,0,3,,,,0
-1412166600,Himara,Skenderbeu,1,10,,,,0
-1412166600,Dinamo Tirana,Apolonia Fier,0,4,,,,0
-1412166600,Burreli,Lushnja,0,1,,,,0
-1412166600,Beselidhja Lezha,Teuta,0,2,,,,0
-1412166600,AF Luftetari,Bylis,2,1,,,,0
-1413979200,Vllaznia,Mamurrasi,1,2,,,,0
-1413979200,Teuta,Beselidhja Lezha,3,2,,,,0
-1413979200,Terbuni,Tomori Berat,1,1,,,,0
-1413979200,Skenderbeu,Himara,10,0,,,,0
-1413979200,Partizani,Iliria Kruja,2,1,,,,0
-1413979200,Lushnja,Burreli,1,0,,,,0
-1413979200,Laci,Kucove,3,1,,,,0
-1413979200,Kukesi,Vora,6,1,,,,0
-1413979200,KF Tirana,Librazhd,1,1,,,,0
-1413979200,KF Elbasani,Shkumbini Peqin,1,0,,,,0
-1413979200,Kastrioti,Velipoja,2,1,,,,0
-1413979200,Flamurtari,Kamza,5,0,,,,0
-1413979200,Bylis,AF Luftetari,3,1,,,,0
-1413979200,Butrinti Sarande,Pogradeci,0,0,,,,0
-1413979200,Besa Kavaje,Koplik,2,2,,,,0
-1413979200,Apolonia Fier,Dinamo Tirana,4,0,,,,0
-1415192400,Terbuni,Skenderbeu,0,0,,,,0
-1415192400,Pogradeci,Kukesi,0,2,,,,0
-1415192400,Lushnja,Partizani,0,1,,,,0
-1415192400,Koplik,Flamurtari,1,6,,,,0
-1415192400,KF Elbasani,Laci,2,3,,,,0
-1415192400,Kastrioti,Vllaznia,0,4,,,,0
-1415192400,Bylis,KF Tirana,0,1,,,,0
-1415192400,Apolonia Fier,Teuta,2,1,,,,0
-1416400200,Vllaznia,Kastrioti,0,0,,,,0
-1416400200,Teuta,Apolonia Fier,0,0,,,,0
-1416400200,Partizani,Lushnja,4,1,,,,0
-1416400200,Laci,KF Elbasani,2,0,,,,0
-1416400200,Kukesi,Pogradeci,5,2,,,,0
-1416400200,Flamurtari,Koplik,3,0,,,,0
-1416486600,Skenderbeu,Terbuni,6,1,,,,0
-1416486600,KF Tirana,Bylis,6,0,,,,0
-1423054800,Vllaznia,Kukesi,0,2,,,,0
-1423054800,Partizani,Laci,2,0,,,,0
-1423054800,KF Tirana,Apolonia Fier,2,2,,,,0
-1423065600,Flamurtari,Skenderbeu,1,1,,,,0
-1424264400,Skenderbeu,Flamurtari,3,1,,,,0
-1424264400,Laci,Partizani,2,0,AET,3,0,0
-1424264400,Kukesi,Vllaznia,0,0,,,,0
-1424275200,Apolonia Fier,KF Tirana,0,3,,,,0
-1428494400,Kukesi,Skenderbeu,1,0,,,,0
-1428505200,KF Tirana,Laci,0,0,,,,0
-1429709400,Laci,KF Tirana,1,0,,,,0
-1429716600,Skenderbeu,Kukesi,1,1,,,,0
-1432922400,Kukesi,Laci,1,2,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1409324400,Himara,KF Bilisht,UH6CkNqH,vqMNBv4d,3,1,,,,0
+1409324400,Albpetrol,Vora,0hNJCKlj,dbTgASCR,0,1,,,,0
+1412166600,Vora,Kukesi,dbTgASCR,xYAyYwqs,1,4,,,,0
+1412166600,Velipoja,Kastrioti,UH6CkNqH,0Ko5ckvj,1,1,,,,0
+1412166600,Tomori Berat,Terbuni,MuuFbsFh,fDaCV8qm,1,2,,,,0
+1412166600,Shkumbini Peqin,KF Elbasani,0x7eIv8h,0fr2YS50,2,2,,,,0
+1412166600,Pogradeci,Butrinti Sarande,Kpv29qKr,885GlsaN,2,0,,,,0
+1412166600,Mamurrasi,Vllaznia,0fr2YS50,v5LfxjB6,0,2,,,,0
+1412166600,Librazhd,KF Tirana,29ebI4SF,4n770DLk,0,3,,,,0
+1412166600,Kucove,Laci,48lyb8G4,YRn3qYc4,0,2,,,,0
+1412166600,Koplik,Besa Kavaje,IBE9d49S,AwFmkDUE,0,0,,,,0
+1412166600,Kamza,Flamurtari,08sVKsph,2wkwcX52,0,0,,,,0
+1412166600,Iliria Kruja,Partizani,29ebI4SF,4praOw3K,0,3,,,,0
+1412166600,Himara,Skenderbeu,UH6CkNqH,Qethn5bT,1,10,,,,0
+1412166600,Dinamo Tirana,Apolonia Fier,bBJMyX2M,8In8358e,0,4,,,,0
+1412166600,Burreli,Lushnja,ImbcyEHR,Q1oNR2wr,0,1,,,,0
+1412166600,Beselidhja Lezha,Teuta,0fr2YS50,lriBSRvS,0,2,,,,0
+1412166600,AF Luftetari,Bylis,29ebI4SF,UFH5j7Qh,2,1,,,,0
+1413979200,Vllaznia,Mamurrasi,v5LfxjB6,0fr2YS50,1,2,,,,0
+1413979200,Teuta,Beselidhja Lezha,lriBSRvS,0fr2YS50,3,2,,,,0
+1413979200,Terbuni,Tomori Berat,fDaCV8qm,MuuFbsFh,1,1,,,,0
+1413979200,Skenderbeu,Himara,Qethn5bT,UH6CkNqH,10,0,,,,0
+1413979200,Partizani,Iliria Kruja,4praOw3K,29ebI4SF,2,1,,,,0
+1413979200,Lushnja,Burreli,Q1oNR2wr,ImbcyEHR,1,0,,,,0
+1413979200,Laci,Kucove,YRn3qYc4,48lyb8G4,3,1,,,,0
+1413979200,Kukesi,Vora,xYAyYwqs,dbTgASCR,6,1,,,,0
+1413979200,KF Tirana,Librazhd,4n770DLk,29ebI4SF,1,1,,,,0
+1413979200,KF Elbasani,Shkumbini Peqin,0fr2YS50,0x7eIv8h,1,0,,,,0
+1413979200,Kastrioti,Velipoja,0Ko5ckvj,UH6CkNqH,2,1,,,,0
+1413979200,Flamurtari,Kamza,2wkwcX52,08sVKsph,5,0,,,,0
+1413979200,Bylis,AF Luftetari,UFH5j7Qh,29ebI4SF,3,1,,,,0
+1413979200,Butrinti Sarande,Pogradeci,885GlsaN,Kpv29qKr,0,0,,,,0
+1413979200,Besa Kavaje,Koplik,AwFmkDUE,IBE9d49S,2,2,,,,0
+1413979200,Apolonia Fier,Dinamo Tirana,8In8358e,bBJMyX2M,4,0,,,,0
+1415192400,Terbuni,Skenderbeu,fDaCV8qm,Qethn5bT,0,0,,,,0
+1415192400,Pogradeci,Kukesi,Kpv29qKr,xYAyYwqs,0,2,,,,0
+1415192400,Lushnja,Partizani,Q1oNR2wr,4praOw3K,0,1,,,,0
+1415192400,Koplik,Flamurtari,IBE9d49S,2wkwcX52,1,6,,,,0
+1415192400,KF Elbasani,Laci,0fr2YS50,YRn3qYc4,2,3,,,,0
+1415192400,Kastrioti,Vllaznia,0Ko5ckvj,v5LfxjB6,0,4,,,,0
+1415192400,Bylis,KF Tirana,UFH5j7Qh,4n770DLk,0,1,,,,0
+1415192400,Apolonia Fier,Teuta,8In8358e,lriBSRvS,2,1,,,,0
+1416400200,Vllaznia,Kastrioti,v5LfxjB6,0Ko5ckvj,0,0,,,,0
+1416400200,Teuta,Apolonia Fier,lriBSRvS,8In8358e,0,0,,,,0
+1416400200,Partizani,Lushnja,4praOw3K,Q1oNR2wr,4,1,,,,0
+1416400200,Laci,KF Elbasani,YRn3qYc4,0fr2YS50,2,0,,,,0
+1416400200,Kukesi,Pogradeci,xYAyYwqs,Kpv29qKr,5,2,,,,0
+1416400200,Flamurtari,Koplik,2wkwcX52,IBE9d49S,3,0,,,,0
+1416486600,Skenderbeu,Terbuni,Qethn5bT,fDaCV8qm,6,1,,,,0
+1416486600,KF Tirana,Bylis,4n770DLk,UFH5j7Qh,6,0,,,,0
+1423054800,Vllaznia,Kukesi,v5LfxjB6,xYAyYwqs,0,2,,,,0
+1423054800,Partizani,Laci,4praOw3K,YRn3qYc4,2,0,,,,0
+1423054800,KF Tirana,Apolonia Fier,4n770DLk,8In8358e,2,2,,,,0
+1423065600,Flamurtari,Skenderbeu,2wkwcX52,Qethn5bT,1,1,,,,0
+1424264400,Skenderbeu,Flamurtari,Qethn5bT,2wkwcX52,3,1,,,,0
+1424264400,Laci,Partizani,YRn3qYc4,4praOw3K,2,0,AET,3,0,0
+1424264400,Kukesi,Vllaznia,xYAyYwqs,v5LfxjB6,0,0,,,,0
+1424275200,Apolonia Fier,KF Tirana,8In8358e,4n770DLk,0,3,,,,0
+1428494400,Kukesi,Skenderbeu,xYAyYwqs,Qethn5bT,1,0,,,,0
+1428505200,KF Tirana,Laci,4n770DLk,YRn3qYc4,0,0,,,,0
+1429709400,Laci,KF Tirana,YRn3qYc4,4n770DLk,1,0,,,,0
+1429716600,Skenderbeu,Kukesi,Qethn5bT,xYAyYwqs,1,1,,,,0
+1432922400,Kukesi,Laci,xYAyYwqs,YRn3qYc4,1,2,,,,1

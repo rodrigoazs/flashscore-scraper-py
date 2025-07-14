@@ -1,56 +1,56 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-999856800,Kopetdag Asgabat,Nasaf Qarshi,0,1,,,,0
-1000029600,Nasaf Qarshi,Kopetdag Asgabat,3,0,,,,0
-1002880800,Jableh,Al Kuwait,0,0,,,,0
-1003572000,Nasaf Qarshi,Umed Dushanbe,4,1,,,,0
-1003658400,Police Tero,Warriors,3,0,,,,0
-1003917600,Song Lam Nghe An,Saunders,-,-,Awrd,,,0
-1003917600,Selangor,Dalian Shide,0,2,,,,0
-1003917600,New Radiant,Muktijoddha Sangsad,1,2,,,,0
-1003917600,Kashima Antlers,Persija Jakarta,4,1,,,,0
-1004004000,Warriors,Police Tero,1,5,,,,0
-1004004000,Happy Valley,Lam Pak,7,0,,,,0
-1004090400,Esteghlal F.C.,Al Hikma,-,-,Awrd,,,0
-1004090400,Al Zawraa,Al Wakra,3,0,,,,0
-1004176800,Umed Dushanbe,Nasaf Qarshi,2,3,,,,0
-1005130800,Saunders,Song Lam Nghe An,-,-,Awrd,,,0
-1005130800,Muktijoddha Sangsad,New Radiant,1,0,,,,0
-1005130800,Lam Pak,Happy Valley,0,5,,,,0
-1005130800,Dalian Shide,Selangor,5,0,,,,0
-1005130800,Al Quds,Al Ahli Sana'a,0,0,,,,0
-1005303600,Al Ahli Sana'a,Al Quds,1,2,,,,0
-1005303600,Al Ahli,Al Ittihad,-,-,Awrd,,,0
-1005476400,Al Hikma,Esteghlal F.C.,-,-,Awrd,,,0
-1005735600,Al Kuwait,Jableh,2,0,,,,0
-1006340400,Seoul,Muktijoddha Sangsad,8,0,,,,0
-1006340400,Happy Valley,Dalian Shide,2,0,,,,0
-1006599600,Suwon Bluewings,Saunders,18,0,,,,0
-1006599600,Kashima Antlers,Police Tero,3,0,,,,0
-1006945200,Muktijoddha Sangsad,Seoul,0,3,,,,0
-1006945200,Dalian Shide,Happy Valley,8,1,,,,0
-1007031600,Al Ittihad,Al Ahli,-,-,Awrd,,,0
-1007118000,Al Wakra,Al Zawraa,1,4,,,,0
-1007204400,Saunders,Suwon Bluewings,-,-,Awrd,,,0
-1008932400,Al Kuwait,Al Quds,3,2,,,,0
-1008932400,Al Ittihad,Esteghlal F.C.,3,2,,,,0
-1009278000,Al Wahda,Al Zawraa,1,2,,,,0
-1009623600,Al Zawraa,Al Wahda,1,2,Pen,1,3,0
-1010142000,Esteghlal F.C.,Al Ittihad,2,1,,,,0
-1010142000,Al Quds,Al Kuwait,1,6,,,,0
-1012906800,Police Tero,Kashima Antlers,0,1,,,,0
-1012993200,Al Wahda,Esteghlal F.C.,3,5,,,,0
-1012993200,Al Kuwait,Nasaf Qarshi,1,1,,,,0
-1013166000,Nasaf Qarshi,Esteghlal F.C.,1,1,,,,0
-1013166000,Al Wahda,Al Kuwait,2,2,,,,0
-1013338800,Al Wahda,Nasaf Qarshi,1,2,,,,0
-1013338800,Al Kuwait,Esteghlal F.C.,0,3,,,,0
-1013943600,Suwon Bluewings,Seoul,0,0,,,,0
-1013943600,Dalian Shide,Kashima Antlers,0,0,,,,0
-1014116400,Seoul,Dalian Shide,1,1,,,,0
-1014116400,Kashima Antlers,Suwon Bluewings,0,2,,,,0
-1014289200,Suwon Bluewings,Dalian Shide,2,0,,,,0
-1014289200,Seoul,Kashima Antlers,1,1,,,,0
-1017828000,Suwon Bluewings,Nasaf Qarshi,3,0,,,,0
-1017828000,Esteghlal F.C.,Seoul,1,2,,,,0
-1018000800,Suwon Bluewings,Seoul,0,0,Pen,1,0,0
-1018000800,Esteghlal F.C.,Nasaf Qarshi,5,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+999856800,Kopetdag Asgabat,Nasaf Qarshi,fTgrUyoT,MwERIUFm,0,1,,,,0
+1000029600,Nasaf Qarshi,Kopetdag Asgabat,MwERIUFm,fTgrUyoT,3,0,,,,0
+1002880800,Jableh,Al Kuwait,xMpp7wKs,EoKvKrMO,0,0,,,,0
+1003572000,Nasaf Qarshi,Umed Dushanbe,MwERIUFm,,4,1,,,,0
+1003658400,Police Tero,Warriors,vVSiDfbI,nNKuYSHo,3,0,,,,0
+1003917600,Song Lam Nghe An,Saunders,EiT1Wpdd,ObKhLZVC,-,-,Awrd,,,0
+1003917600,Selangor,Dalian Shide,M5v0Fw3E,fgNUPaDK,0,2,,,,0
+1003917600,New Radiant,Muktijoddha Sangsad,I3AAkQIK,bPvqjH89,1,2,,,,0
+1003917600,Kashima Antlers,Persija Jakarta,4SARfF5k,65biHEjh,4,1,,,,0
+1004004000,Warriors,Police Tero,nNKuYSHo,vVSiDfbI,1,5,,,,0
+1004004000,Happy Valley,Lam Pak,ncgqFvN6,bXj7QfGI,7,0,,,,0
+1004090400,Esteghlal F.C.,Al Hikma,Sdd6AGnq,nuxPmTXp,-,-,Awrd,,,0
+1004090400,Al Zawraa,Al Wakra,2g5GC7oP,QDBqG7dG,3,0,,,,0
+1004176800,Umed Dushanbe,Nasaf Qarshi,,MwERIUFm,2,3,,,,0
+1005130800,Saunders,Song Lam Nghe An,ObKhLZVC,EiT1Wpdd,-,-,Awrd,,,0
+1005130800,Muktijoddha Sangsad,New Radiant,bPvqjH89,I3AAkQIK,1,0,,,,0
+1005130800,Lam Pak,Happy Valley,bXj7QfGI,ncgqFvN6,0,5,,,,0
+1005130800,Dalian Shide,Selangor,fgNUPaDK,M5v0Fw3E,5,0,,,,0
+1005130800,Al Quds,Al Ahli Sana'a,KrFtrFEF,nPmODXEC,0,0,,,,0
+1005303600,Al Ahli Sana'a,Al Quds,nPmODXEC,KrFtrFEF,1,2,,,,0
+1005303600,Al Ahli,Al Ittihad,6ucmGLnJ,jeFu6Qy4,-,-,Awrd,,,0
+1005476400,Al Hikma,Esteghlal F.C.,nuxPmTXp,Sdd6AGnq,-,-,Awrd,,,0
+1005735600,Al Kuwait,Jableh,EoKvKrMO,xMpp7wKs,2,0,,,,0
+1006340400,Seoul,Muktijoddha Sangsad,8rKfsneA,bPvqjH89,8,0,,,,0
+1006340400,Happy Valley,Dalian Shide,ncgqFvN6,fgNUPaDK,2,0,,,,0
+1006599600,Suwon Bluewings,Saunders,nuOc3CG5,ObKhLZVC,18,0,,,,0
+1006599600,Kashima Antlers,Police Tero,4SARfF5k,vVSiDfbI,3,0,,,,0
+1006945200,Muktijoddha Sangsad,Seoul,bPvqjH89,8rKfsneA,0,3,,,,0
+1006945200,Dalian Shide,Happy Valley,fgNUPaDK,ncgqFvN6,8,1,,,,0
+1007031600,Al Ittihad,Al Ahli,jeFu6Qy4,6ucmGLnJ,-,-,Awrd,,,0
+1007118000,Al Wakra,Al Zawraa,QDBqG7dG,2g5GC7oP,1,4,,,,0
+1007204400,Saunders,Suwon Bluewings,ObKhLZVC,nuOc3CG5,-,-,Awrd,,,0
+1008932400,Al Kuwait,Al Quds,EoKvKrMO,KrFtrFEF,3,2,,,,0
+1008932400,Al Ittihad,Esteghlal F.C.,jeFu6Qy4,Sdd6AGnq,3,2,,,,0
+1009278000,Al Wahda,Al Zawraa,YXHWp1ah,2g5GC7oP,1,2,,,,0
+1009623600,Al Zawraa,Al Wahda,2g5GC7oP,YXHWp1ah,1,2,Pen,1,3,0
+1010142000,Esteghlal F.C.,Al Ittihad,Sdd6AGnq,jeFu6Qy4,2,1,,,,0
+1010142000,Al Quds,Al Kuwait,KrFtrFEF,EoKvKrMO,1,6,,,,0
+1012906800,Police Tero,Kashima Antlers,vVSiDfbI,4SARfF5k,0,1,,,,0
+1012993200,Al Wahda,Esteghlal F.C.,YXHWp1ah,Sdd6AGnq,3,5,,,,0
+1012993200,Al Kuwait,Nasaf Qarshi,EoKvKrMO,MwERIUFm,1,1,,,,0
+1013166000,Nasaf Qarshi,Esteghlal F.C.,MwERIUFm,Sdd6AGnq,1,1,,,,0
+1013166000,Al Wahda,Al Kuwait,YXHWp1ah,EoKvKrMO,2,2,,,,0
+1013338800,Al Wahda,Nasaf Qarshi,YXHWp1ah,MwERIUFm,1,2,,,,0
+1013338800,Al Kuwait,Esteghlal F.C.,EoKvKrMO,Sdd6AGnq,0,3,,,,0
+1013943600,Suwon Bluewings,Seoul,nuOc3CG5,8rKfsneA,0,0,,,,0
+1013943600,Dalian Shide,Kashima Antlers,fgNUPaDK,4SARfF5k,0,0,,,,0
+1014116400,Seoul,Dalian Shide,8rKfsneA,fgNUPaDK,1,1,,,,0
+1014116400,Kashima Antlers,Suwon Bluewings,4SARfF5k,nuOc3CG5,0,2,,,,0
+1014289200,Suwon Bluewings,Dalian Shide,nuOc3CG5,fgNUPaDK,2,0,,,,0
+1014289200,Seoul,Kashima Antlers,8rKfsneA,4SARfF5k,1,1,,,,0
+1017828000,Suwon Bluewings,Nasaf Qarshi,nuOc3CG5,MwERIUFm,3,0,,,,0
+1017828000,Esteghlal F.C.,Seoul,Sdd6AGnq,8rKfsneA,1,2,,,,0
+1018000800,Suwon Bluewings,Seoul,nuOc3CG5,8rKfsneA,0,0,Pen,1,0,0
+1018000800,Esteghlal F.C.,Nasaf Qarshi,Sdd6AGnq,MwERIUFm,5,2,,,,0

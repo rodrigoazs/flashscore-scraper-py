@@ -1,52 +1,52 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1738717200,Real Hope,Cruz Azul,0,2,,,,0
-1738803600,Forge,Monterrey,0,2,,,,0
-1738810800,Esteli,Tigres UANL,1,0,,,,0
-1738890000,Cibao,Guadalajara Chivas,1,1,,,,0
-1738897200,Cavalry,UNAM Pumas,2,1,,,,0
-1739322000,Monterrey,Forge,3,0,,,,0
-1739329200,Cruz Azul,Real Hope,5,0,,,,0
-1739408400,Guadalajara Chivas,Cibao,3,0,,,,0
-1739415600,Tigres UANL,Esteli,3,0,,,,0
-1739494800,UNAM Pumas,Cavalry,2,0,,,,0
-1739934000,Colorado Rapids,Los Angeles FC,2,1,,,,0
-1740007800,Herediano,Real Salt Lake,0,0,,,,0
-1740013200,Sporting Kansas City,Inter Miami,0,1,,,,0
-1740013200,Antigua,Seattle Sounders,1,3,,,,0
-1740020400,Motagua,FC Cincinnati,1,4,,,,0
-1740099600,Saprissa,Vancouver Whitecaps,2,1,,,,0
-1740531600,Inter Miami,Sporting Kansas City,3,1,,,,0
-1740538800,Los Angeles FC,Colorado Rapids,1,0,,,,0
-1740612600,FC Cincinnati,Motagua,1,1,,,,0
-1740619800,Real Salt Lake,Herediano,1,2,,,,0
-1740627000,Seattle Sounders,Antigua,3,1,,,,0
-1740711600,Vancouver Whitecaps,Saprissa,2,0,,,,0
-1741131000,FC Cincinnati,Tigres UANL,1,1,,,,0
-1741138200,UNAM Pumas,Alajuelense,2,0,,,,0
-1741145400,Los Angeles FC,Columbus Crew,3,0,,,,0
-1741224600,Herediano,Los Angeles Galaxy,1,0,,,,0
-1741224600,Guadalajara Chivas,Club America,1,0,,,,0
-1741231800,Vancouver Whitecaps,Monterrey,1,1,,,,0
-1741231800,Seattle Sounders,Cruz Azul,0,0,,,,0
-1741309200,Inter Miami,Cavalier,2,0,,,,0
-1741739400,Cruz Azul,Seattle Sounders,4,1,,,,0
-1741739400,Columbus Crew,Los Angeles FC,2,1,,,,0
-1741746600,Tigres UANL,FC Cincinnati,3,1,,,,0
-1741825800,Monterrey,Vancouver Whitecaps,2,2,,,,0
-1741833000,Los Angeles Galaxy,Herediano,4,1,,,,0
-1741833000,Club America,Guadalajara Chivas,4,0,,,,0
-1741910400,Cavalier,Inter Miami,0,2,,,,0
-1741917600,Alajuelense,UNAM Pumas,1,1,,,,0
-1743556500,Club America,Cruz Azul,0,0,,,,0
-1743563700,Los Angeles Galaxy,Tigres UANL,0,0,,,,0
-1743643800,Vancouver Whitecaps,UNAM Pumas,1,1,,,,0
-1743651000,Los Angeles FC,Inter Miami,1,0,,,,0
-1744160400,Tigres UANL,Los Angeles Galaxy,3,2,,,,0
-1744169400,Cruz Azul,Club America,2,1,,,,0
-1744243200,Inter Miami,Los Angeles FC,3,1,,,,0
-1744252200,UNAM Pumas,Vancouver Whitecaps,2,2,,,,0
-1745460000,Tigres UANL,Cruz Azul,1,1,,,,0
-1745548200,Vancouver Whitecaps,Inter Miami,2,0,,,,0
-1746057600,Inter Miami,Vancouver Whitecaps,1,3,,,,0
-1746151200,Cruz Azul,Tigres UANL,1,0,,,,0
-1748826000,Cruz Azul,Vancouver Whitecaps,5,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1738717200,Real Hope,Cruz Azul,I3fT7Mcc,nqhLBCKD,0,2,,,,0
+1738803600,Forge,Monterrey,hxk14kfC,MVPKYVvK,0,2,,,,0
+1738810800,Esteli,Tigres UANL,8vfD2YGb,zgtUoENa,1,0,,,,0
+1738890000,Cibao,Guadalajara Chivas,hvlWeuiI,lEs0thDm,1,1,,,,0
+1738897200,Cavalry,UNAM Pumas,WSm5399I,WdwQoCtd,2,1,,,,0
+1739322000,Monterrey,Forge,MVPKYVvK,hxk14kfC,3,0,,,,0
+1739329200,Cruz Azul,Real Hope,nqhLBCKD,I3fT7Mcc,5,0,,,,0
+1739408400,Guadalajara Chivas,Cibao,lEs0thDm,hvlWeuiI,3,0,,,,0
+1739415600,Tigres UANL,Esteli,zgtUoENa,8vfD2YGb,3,0,,,,0
+1739494800,UNAM Pumas,Cavalry,WdwQoCtd,WSm5399I,2,0,,,,0
+1739934000,Colorado Rapids,Los Angeles FC,fyzFgPy8,nJbaxYrp,2,1,,,,0
+1740007800,Herediano,Real Salt Lake,zJ9gvDHG,vgy39tSd,0,0,,,,0
+1740013200,Sporting Kansas City,Inter Miami,88w2wUnG,UwKTVGeG,0,1,,,,0
+1740013200,Antigua,Seattle Sounders,8GkSmkbF,Q7Ql2Qbi,1,3,,,,0
+1740020400,Motagua,FC Cincinnati,dtCxYreO,rFeme8rt,1,4,,,,0
+1740099600,Saprissa,Vancouver Whitecaps,tnwDCzLD,nJrkMuTE,2,1,,,,0
+1740531600,Inter Miami,Sporting Kansas City,UwKTVGeG,88w2wUnG,3,1,,,,0
+1740538800,Los Angeles FC,Colorado Rapids,nJbaxYrp,fyzFgPy8,1,0,,,,0
+1740612600,FC Cincinnati,Motagua,rFeme8rt,dtCxYreO,1,1,,,,0
+1740619800,Real Salt Lake,Herediano,vgy39tSd,zJ9gvDHG,1,2,,,,0
+1740627000,Seattle Sounders,Antigua,Q7Ql2Qbi,8GkSmkbF,3,1,,,,0
+1740711600,Vancouver Whitecaps,Saprissa,nJrkMuTE,tnwDCzLD,2,0,,,,0
+1741131000,FC Cincinnati,Tigres UANL,rFeme8rt,zgtUoENa,1,1,,,,0
+1741138200,UNAM Pumas,Alajuelense,WdwQoCtd,4v3Y4ReF,2,0,,,,0
+1741145400,Los Angeles FC,Columbus Crew,nJbaxYrp,OrE2LMh8,3,0,,,,0
+1741224600,Herediano,Los Angeles Galaxy,zJ9gvDHG,nqhLBCKD,1,0,,,,0
+1741224600,Guadalajara Chivas,Club America,lEs0thDm,OGkmEu0T,1,0,,,,0
+1741231800,Vancouver Whitecaps,Monterrey,nJrkMuTE,MVPKYVvK,1,1,,,,0
+1741231800,Seattle Sounders,Cruz Azul,Q7Ql2Qbi,nqhLBCKD,0,0,,,,0
+1741309200,Inter Miami,Cavalier,UwKTVGeG,KCGGnOpC,2,0,,,,0
+1741739400,Cruz Azul,Seattle Sounders,nqhLBCKD,Q7Ql2Qbi,4,1,,,,0
+1741739400,Columbus Crew,Los Angeles FC,OrE2LMh8,nJbaxYrp,2,1,,,,0
+1741746600,Tigres UANL,FC Cincinnati,zgtUoENa,rFeme8rt,3,1,,,,0
+1741825800,Monterrey,Vancouver Whitecaps,MVPKYVvK,nJrkMuTE,2,2,,,,0
+1741833000,Los Angeles Galaxy,Herediano,nqhLBCKD,zJ9gvDHG,4,1,,,,0
+1741833000,Club America,Guadalajara Chivas,OGkmEu0T,lEs0thDm,4,0,,,,0
+1741910400,Cavalier,Inter Miami,KCGGnOpC,UwKTVGeG,0,2,,,,0
+1741917600,Alajuelense,UNAM Pumas,4v3Y4ReF,WdwQoCtd,1,1,,,,0
+1743556500,Club America,Cruz Azul,OGkmEu0T,nqhLBCKD,0,0,,,,0
+1743563700,Los Angeles Galaxy,Tigres UANL,nqhLBCKD,zgtUoENa,0,0,,,,0
+1743643800,Vancouver Whitecaps,UNAM Pumas,nJrkMuTE,WdwQoCtd,1,1,,,,0
+1743651000,Los Angeles FC,Inter Miami,nJbaxYrp,UwKTVGeG,1,0,,,,0
+1744160400,Tigres UANL,Los Angeles Galaxy,zgtUoENa,nqhLBCKD,3,2,,,,0
+1744169400,Cruz Azul,Club America,nqhLBCKD,OGkmEu0T,2,1,,,,0
+1744243200,Inter Miami,Los Angeles FC,UwKTVGeG,nJbaxYrp,3,1,,,,0
+1744252200,UNAM Pumas,Vancouver Whitecaps,WdwQoCtd,nJrkMuTE,2,2,,,,0
+1745460000,Tigres UANL,Cruz Azul,zgtUoENa,nqhLBCKD,1,1,,,,0
+1745548200,Vancouver Whitecaps,Inter Miami,nJrkMuTE,UwKTVGeG,2,0,,,,0
+1746057600,Inter Miami,Vancouver Whitecaps,UwKTVGeG,nJrkMuTE,1,3,,,,0
+1746151200,Cruz Azul,Tigres UANL,nqhLBCKD,zgtUoENa,1,0,,,,0
+1748826000,Cruz Azul,Vancouver Whitecaps,nqhLBCKD,nJrkMuTE,5,0,,,,0

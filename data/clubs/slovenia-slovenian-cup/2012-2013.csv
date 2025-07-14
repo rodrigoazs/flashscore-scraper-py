@@ -1,33 +1,33 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1345561200,Salovci,ND Gorica,1,6,,,,0
-1345561200,NK Jesenice,Zavrc,0,3,Awrd,,,0
-1345647600,Turnisce,Ankaran,0,8,,,,0
-1345647600,Tromejnik,Koper,0,2,,,,0
-1345647600,Smarje,Aluminij,2,4,,,,0
-1345647600,Pesnica,Domzale,1,2,,,,0
-1345647600,Odranci,Bela Krajina,3,2,,,,0
-1345647600,Kamnik,Dravinja,1,3,,,,0
-1345647600,Dravograd,Rudar,1,3,,,,0
-1345647600,Cerknica,Triglav,0,3,,,,0
-1345647600,Brda,Sencur,1,1,Pen,2,1,0
-1348063200,Tolmin,ND Gorica,1,1,AET,1,4,0
-1348063200,Odranci,Triglav,0,0,AET,0,2,0
-1348063200,Mura,O. Ljubljana,0,3,,,,0
-1348063200,Dravinja,Domzale,2,1,,,,0
-1348063200,Brda,Celje,0,3,,,,0
-1348063200,Aluminij,Rudar,1,1,Pen,2,1,0
-1348066800,Ankaran,Koper,0,3,,,,0
-1351083600,Triglav,Koper,0,1,,,,0
-1351083600,Aluminij,ND Gorica,1,2,,,,0
-1351090800,Celje,Dravinja,2,0,,,,0
-1351688400,ND Gorica,Aluminij,0,2,,,,0
-1351702800,Koper,Triglav,0,1,AET,0,2,0
-1351706400,Zavrc,Maribor,0,2,,,,0
-1353499200,Dravinja,Celje,0,1,,,,0
-1361986200,O. Ljubljana,Maribor,1,3,,,,0
-1362585600,Maribor,O. Ljubljana,0,1,,,,0
-1367420400,Triglav,Maribor,2,2,,,,0
-1367420400,Aluminij,Celje,1,1,,,,0
-1368028800,Celje,Aluminij,0,0,,,,0
-1368036000,Maribor,Triglav,3,0,,,,0
-1369853100,Maribor,Celje,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1345561200,Salovci,ND Gorica,E3kgP8eM,CltD6KMc,1,6,,,,0
+1345561200,NK Jesenice,Zavrc,2PoM0MEI,AT1C7n8d,0,3,Awrd,,,0
+1345647600,Turnisce,Ankaran,KhGz8pzt,vcT321w1,0,8,,,,0
+1345647600,Tromejnik,Koper,tIBpfmKf,Ukh5nnRo,0,2,,,,0
+1345647600,Smarje,Aluminij,EyHIooSb,8MCIbRV4,2,4,,,,0
+1345647600,Pesnica,Domzale,vwBYgxnt,8GL0cHSF,1,2,,,,0
+1345647600,Odranci,Bela Krajina,2yjk7j71,zk01QcC8,3,2,,,,0
+1345647600,Kamnik,Dravinja,Wti2FgqO,Eua5PHRE,1,3,,,,0
+1345647600,Dravograd,Rudar,86fuGK70,fcDVLdrL,1,3,,,,0
+1345647600,Cerknica,Triglav,,SObuJ8lK,0,3,,,,0
+1345647600,Brda,Sencur,hf6xykcS,2yjk7j71,1,1,Pen,2,1,0
+1348063200,Tolmin,ND Gorica,WUxnvDKb,CltD6KMc,1,1,AET,1,4,0
+1348063200,Odranci,Triglav,2yjk7j71,SObuJ8lK,0,0,AET,0,2,0
+1348063200,Mura,O. Ljubljana,UcUjoAI7,zc0A80Mi,0,3,,,,0
+1348063200,Dravinja,Domzale,Eua5PHRE,8GL0cHSF,2,1,,,,0
+1348063200,Brda,Celje,hf6xykcS,juuH5vx4,0,3,,,,0
+1348063200,Aluminij,Rudar,8MCIbRV4,fcDVLdrL,1,1,Pen,2,1,0
+1348066800,Ankaran,Koper,vcT321w1,Ukh5nnRo,0,3,,,,0
+1351083600,Triglav,Koper,SObuJ8lK,Ukh5nnRo,0,1,,,,0
+1351083600,Aluminij,ND Gorica,8MCIbRV4,CltD6KMc,1,2,,,,0
+1351090800,Celje,Dravinja,juuH5vx4,Eua5PHRE,2,0,,,,0
+1351688400,ND Gorica,Aluminij,CltD6KMc,8MCIbRV4,0,2,,,,0
+1351702800,Koper,Triglav,Ukh5nnRo,SObuJ8lK,0,1,AET,0,2,0
+1351706400,Zavrc,Maribor,AT1C7n8d,88sMeCH2,0,2,,,,0
+1353499200,Dravinja,Celje,Eua5PHRE,juuH5vx4,0,1,,,,0
+1361986200,O. Ljubljana,Maribor,zc0A80Mi,88sMeCH2,1,3,,,,0
+1362585600,Maribor,O. Ljubljana,88sMeCH2,zc0A80Mi,0,1,,,,0
+1367420400,Triglav,Maribor,SObuJ8lK,88sMeCH2,2,2,,,,0
+1367420400,Aluminij,Celje,8MCIbRV4,juuH5vx4,1,1,,,,0
+1368028800,Celje,Aluminij,juuH5vx4,8MCIbRV4,0,0,,,,0
+1368036000,Maribor,Triglav,88sMeCH2,SObuJ8lK,3,0,,,,0
+1369853100,Maribor,Celje,88sMeCH2,juuH5vx4,1,0,,,,0

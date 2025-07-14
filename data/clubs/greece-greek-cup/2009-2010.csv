@@ -1,74 +1,74 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1250949600,Saronikos FC,Thermaikos FC,3,0,Awrd,,,0
-1250949600,Rodos,Korinthos,0,1,,,,0
-1250949600,Pyrsos,Athens Kallithea,1,1,Pen,1,2,0
-1250949600,Platanias FC,Niki Volos,2,2,Pen,4,3,0
-1250949600,Makedonikos,Filippiada,2,0,,,,0
-1250949600,Kranoulas,Zakynthos,0,0,Pen,1,0,0
-1250949600,Fostiras,Atsalenios,0,3,Awrd,,,0
-1250949600,Epanomi,Rouf FC,0,0,AET,2,0,0
-1250949600,Aspropyrgos Enosis,Aias,3,1,,,,0
-1250949600,AO Trikala,Kastoria,3,0,Awrd,,,0
-1251036000,Visaltiakos,Keravnos,2,1,,,,0
-1251036000,Veria,Paraskevi,1,0,,,,0
-1251036000,PAO Neoi Epivates,Panegialios FC,4,2,,,,0
-1251036000,Panargiakos,Vyzas FC,1,1,AET,2,1,0
-1251036000,Panachaiki,Chersonissos,0,0,Pen,1,0,0
-1251036000,Fokikos FC,Odysseas,0,0,AET,0,1,0
-1251036000,Eordaikos,Kozani FC,1,0,,,,0
-1251036000,AS Giannitsa,Chaidari,4,3,,,,0
-1251899100,Visaltiakos,Kerkyra,2,0,,,,0
-1251899100,Panargiakos,O. Volos,0,4,,,,0
-1251900000,Veria,Panetolikos,0,2,,,,0
-1251900000,Saronikos FC,Ethnikos Piraeus,0,0,AET,0,1,0
-1251900000,Platanias FC,Thrasivoulos,2,3,,,,0
-1251900000,PAO Neoi Epivates,Ilioupoli,1,0,,,,0
-1251900000,Odysseas,A. Asteras,2,2,Pen,2,3,0
-1251900000,Makedonikos,Panserraikos,0,0,AET,0,1,0
-1251900000,Kranoulas,Ionikos,1,3,,,,0
-1251900000,Korinthos,Kalamata,2,3,,,,0
-1251900000,Atsalenios,E. Asteras,1,4,,,,0
-1251900000,Athens Kallithea,Kalamaria,3,0,Awrd,,,0
-1251900000,Aspropyrgos Enosis,Diagoras,1,1,Pen,2,1,0
-1251900000,AS Giannitsa,OFI Crete,0,2,,,,0
-1251900000,AO Trikala,Karditsa,1,0,,,,0
-1251986400,Panachaiki,PAE Egaleo,0,0,AET,0,2,0
-1251986400,Epanomi,Pierikos,1,1,Pen,1,2,0
-1251986400,Eordaikos,Doxa Dramas,1,1,AET,3,1,0
-1253714400,PAO Neoi Epivates,Thrasivoulos,0,1,,,,0
-1253714400,Aspropyrgos Enosis,E. Asteras,1,1,AET,2,1,0
-1256645700,Panetolikos,Panionios,0,0,Pen,0,1,0
-1256645700,Kalamata,Giannina,0,3,,,,0
-1256655600,Panserraikos,Olympiacos Piraeus,3,1,,,,0
-1256662800,PAE Egaleo,Asteras Tripolis,0,3,,,,0
-1256732100,Visaltiakos,Atromitos,0,0,Pen,0,1,0
-1256732100,Pierikos,Ergotelis,1,1,Pen,3,2,0
-1256732100,OFI Crete,PAOK,0,1,,,,0
-1256732100,Ionikos,Levadiakos,1,2,,,,0
-1256732100,Ethnikos Piraeus,Xanthi FC,1,2,,,,0
-1256732100,Athens Kallithea,Panthrakikos,1,0,,,,0
-1256732100,A. Asteras,Kavala,0,3,,,,0
-1256742000,O. Volos,AEL Larissa,2,1,,,,0
-1256742000,Eordaikos,Panathinaikos,0,3,,,,0
-1256749200,Aspropyrgos Enosis,Aris,3,4,,,,0
-1256828400,Thrasivoulos,AEK Athens FC,0,0,AET,1,0,0
-1256828400,AO Trikala,Iraklis 1908,1,0,,,,0
-1263394800,Panathinaikos,Pierikos,2,1,,,,0
-1263394800,Levadiakos,Kavala,0,0,Pen,0,1,0
-1263394800,Athens Kallithea,AO Trikala,1,1,Pen,2,1,0
-1263394800,Aris,Asteras Tripolis,2,0,,,,0
-1263999600,Xanthi FC,O. Volos,2,0,,,,0
-1263999600,Thrasivoulos,Panionios,0,1,,,,0
-1263999600,Panserraikos,PAOK,0,2,,,,0
-1263999600,Atromitos,Giannina,0,0,AET,0,1,0
-1265122800,Giannina,PAOK,4,0,,,,0
-1265209200,Panathinaikos,Athens Kallithea,2,0,,,,0
-1265814000,Xanthi FC,Aris,1,1,,,,0
-1265900400,Kavala,Panionios,0,0,,,,0
-1266415200,Panionios,Kavala,1,1,AET,1,2,0
-1266415200,Aris,Xanthi FC,3,0,,,,0
-1268838000,Aris,Kavala,3,1,,,,0
-1269442800,Panathinaikos,Giannina,3,1,,,,0
-1269529200,Kavala,Aris,1,1,,,,0
-1270648800,Giannina,Panathinaikos,0,0,,,,0
-1272130200,Panathinaikos,Aris,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1250949600,Saronikos FC,Thermaikos FC,,xfISJPfp,3,0,Awrd,,,0
+1250949600,Rodos,Korinthos,00HnIXxB,KdCPwcaU,0,1,,,,0
+1250949600,Pyrsos,Athens Kallithea,txCSuI6D,pv20TE28,1,1,Pen,1,2,0
+1250949600,Platanias FC,Niki Volos,G2rer9h7,CCM3rL5o,2,2,Pen,4,3,0
+1250949600,Makedonikos,Filippiada,4CdOVsMu,OtJ2j0YK,2,0,,,,0
+1250949600,Kranoulas,Zakynthos,WYAL20aM,QJ68Rrzi,0,0,Pen,1,0,0
+1250949600,Fostiras,Atsalenios,KU9NSqCt,EuZLJyTp,0,3,Awrd,,,0
+1250949600,Epanomi,Rouf FC,SvaBR4yD,ry9APsUk,0,0,AET,2,0,0
+1250949600,Aspropyrgos Enosis,Aias,tMokOBLM,nXeNeZXq,3,1,,,,0
+1250949600,AO Trikala,Kastoria,Y9cVROA3,Otyz1q6A,3,0,Awrd,,,0
+1251036000,Visaltiakos,Keravnos,,,2,1,,,,0
+1251036000,Veria,Paraskevi,fBhYYDfj,SnD98F5K,1,0,,,,0
+1251036000,PAO Neoi Epivates,Panegialios FC,YoitmBIn,SxpC5zp7,4,2,,,,0
+1251036000,Panargiakos,Vyzas FC,UaV8J2lH,tIulntIi,1,1,AET,2,1,0
+1251036000,Panachaiki,Chersonissos,MqaurgnI,,0,0,Pen,1,0,0
+1251036000,Fokikos FC,Odysseas,bNRfpIwF,GUSxeymd,0,0,AET,0,1,0
+1251036000,Eordaikos,Kozani FC,pEdT8N0j,ptm9HhI5,1,0,,,,0
+1251036000,AS Giannitsa,Chaidari,d4MWL4iC,tS0v1lL2,4,3,,,,0
+1251899100,Visaltiakos,Kerkyra,,xdDwEC0B,2,0,,,,0
+1251899100,Panargiakos,O. Volos,UaV8J2lH,4pIxMs1T,0,4,,,,0
+1251900000,Veria,Panetolikos,fBhYYDfj,n3f8T6c2,0,2,,,,0
+1251900000,Saronikos FC,Ethnikos Piraeus,,fRvdGgWl,0,0,AET,0,1,0
+1251900000,Platanias FC,Thrasivoulos,G2rer9h7,zyRZyCkA,2,3,,,,0
+1251900000,PAO Neoi Epivates,Ilioupoli,YoitmBIn,G8e3RIPQ,1,0,,,,0
+1251900000,Odysseas,A. Asteras,GUSxeymd,r3eSU1yn,2,2,Pen,2,3,0
+1251900000,Makedonikos,Panserraikos,4CdOVsMu,8OJEOksa,0,0,AET,0,1,0
+1251900000,Kranoulas,Ionikos,WYAL20aM,KjL4wCLc,1,3,,,,0
+1251900000,Korinthos,Kalamata,KdCPwcaU,nkoJZaf4,2,3,,,,0
+1251900000,Atsalenios,E. Asteras,EuZLJyTp,vVSiDfbI,1,4,,,,0
+1251900000,Athens Kallithea,Kalamaria,pv20TE28,pdaFZERg,3,0,Awrd,,,0
+1251900000,Aspropyrgos Enosis,Diagoras,tMokOBLM,rcpXJkCc,1,1,Pen,2,1,0
+1251900000,AS Giannitsa,OFI Crete,d4MWL4iC,hOZ2RkTP,0,2,,,,0
+1251900000,AO Trikala,Karditsa,Y9cVROA3,ENPn0NrK,1,0,,,,0
+1251986400,Panachaiki,PAE Egaleo,MqaurgnI,n9kl6zsF,0,0,AET,0,2,0
+1251986400,Epanomi,Pierikos,SvaBR4yD,nPFCDTyl,1,1,Pen,1,2,0
+1251986400,Eordaikos,Doxa Dramas,pEdT8N0j,QgTiyJG8,1,1,AET,3,1,0
+1253714400,PAO Neoi Epivates,Thrasivoulos,YoitmBIn,zyRZyCkA,0,1,,,,0
+1253714400,Aspropyrgos Enosis,E. Asteras,tMokOBLM,vVSiDfbI,1,1,AET,2,1,0
+1256645700,Panetolikos,Panionios,n3f8T6c2,rJD60RuT,0,0,Pen,0,1,0
+1256645700,Kalamata,Giannina,nkoJZaf4,Ct0X2apU,0,3,,,,0
+1256655600,Panserraikos,Olympiacos Piraeus,8OJEOksa,lzmp9FUJ,3,1,,,,0
+1256662800,PAE Egaleo,Asteras Tripolis,n9kl6zsF,SKrEYwI8,0,3,,,,0
+1256732100,Visaltiakos,Atromitos,,2ahZzWpF,0,0,Pen,0,1,0
+1256732100,Pierikos,Ergotelis,nPFCDTyl,63P4RnDE,1,1,Pen,3,2,0
+1256732100,OFI Crete,PAOK,hOZ2RkTP,pvWT1yik,0,1,,,,0
+1256732100,Ionikos,Levadiakos,KjL4wCLc,x4qSHSA3,1,2,,,,0
+1256732100,Ethnikos Piraeus,Xanthi FC,fRvdGgWl,KOjUYEZE,1,2,,,,0
+1256732100,Athens Kallithea,Panthrakikos,pv20TE28,MeBb6502,1,0,,,,0
+1256732100,A. Asteras,Kavala,r3eSU1yn,8EvGGttj,0,3,,,,0
+1256742000,O. Volos,AEL Larissa,4pIxMs1T,bspvajO9,2,1,,,,0
+1256742000,Eordaikos,Panathinaikos,pEdT8N0j,GM4Cu0wi,0,3,,,,0
+1256749200,Aspropyrgos Enosis,Aris,tMokOBLM,0E6BYcd0,3,4,,,,0
+1256828400,Thrasivoulos,AEK Athens FC,zyRZyCkA,Aq4Rjd2q,0,0,AET,1,0,0
+1256828400,AO Trikala,Iraklis 1908,Y9cVROA3,2V0U0cEB,1,0,,,,0
+1263394800,Panathinaikos,Pierikos,GM4Cu0wi,nPFCDTyl,2,1,,,,0
+1263394800,Levadiakos,Kavala,x4qSHSA3,8EvGGttj,0,0,Pen,0,1,0
+1263394800,Athens Kallithea,AO Trikala,pv20TE28,Y9cVROA3,1,1,Pen,2,1,0
+1263394800,Aris,Asteras Tripolis,0E6BYcd0,SKrEYwI8,2,0,,,,0
+1263999600,Xanthi FC,O. Volos,KOjUYEZE,4pIxMs1T,2,0,,,,0
+1263999600,Thrasivoulos,Panionios,zyRZyCkA,rJD60RuT,0,1,,,,0
+1263999600,Panserraikos,PAOK,8OJEOksa,pvWT1yik,0,2,,,,0
+1263999600,Atromitos,Giannina,2ahZzWpF,Ct0X2apU,0,0,AET,0,1,0
+1265122800,Giannina,PAOK,Ct0X2apU,pvWT1yik,4,0,,,,0
+1265209200,Panathinaikos,Athens Kallithea,GM4Cu0wi,pv20TE28,2,0,,,,0
+1265814000,Xanthi FC,Aris,KOjUYEZE,0E6BYcd0,1,1,,,,0
+1265900400,Kavala,Panionios,8EvGGttj,rJD60RuT,0,0,,,,0
+1266415200,Panionios,Kavala,rJD60RuT,8EvGGttj,1,1,AET,1,2,0
+1266415200,Aris,Xanthi FC,0E6BYcd0,KOjUYEZE,3,0,,,,0
+1268838000,Aris,Kavala,0E6BYcd0,8EvGGttj,3,1,,,,0
+1269442800,Panathinaikos,Giannina,GM4Cu0wi,Ct0X2apU,3,1,,,,0
+1269529200,Kavala,Aris,8EvGGttj,0E6BYcd0,1,1,,,,0
+1270648800,Giannina,Panathinaikos,Ct0X2apU,GM4Cu0wi,0,0,,,,0
+1272130200,Panathinaikos,Aris,GM4Cu0wi,0E6BYcd0,1,0,,,,0

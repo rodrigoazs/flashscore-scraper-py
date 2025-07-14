@@ -1,26 +1,26 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1602167400,Ittihad Kalba,Al Jazira,2,1,,,,0
-1602167400,Hatta,Bani Yas,0,2,,,,0
-1602176400,Al Fujairah,Ajman,1,0,,,,0
-1602253800,Shabab Al-Ahli Dubai,Al Dhafra,1,1,,,,0
-1602253800,Al Ain,Khorfakkan,2,4,,,,0
-1602262800,Al Wahda,Al Wasl,1,2,,,,0
-1605189600,Bani Yas,Hatta,1,1,,,,0
-1605189600,Ajman,Al Fujairah,1,2,,,,0
-1605200400,Al Jazira,Ittihad Kalba,1,1,,,,0
-1605276000,Khorfakkan,Al Ain,0,0,,,,0
-1605276000,Al Dhafra,Shabab Al-Ahli Dubai,0,3,,,,0
-1605286800,Al Wasl,Al Wahda,2,0,,,,0
-1610024400,Khorfakkan,Shabab Al-Ahli Dubai,2,4,,,,0
-1610035200,Al Nasr,Al Fujairah,1,1,,,,0
-1610110800,Bani Yas,Ittihad Kalba,1,1,,,,0
-1610121600,Al Sharjah,Al Wasl,0,0,,,,0
-1611580500,Al Fujairah,Al Nasr,0,1,,,,0
-1611590400,Ittihad Kalba,Bani Yas,1,1,Pen,2,1,0
-1611666900,Shabab Al-Ahli Dubai,Khorfakkan,5,0,,,,0
-1611676800,Al Wasl,Al Sharjah,2,0,,,,0
-1612877400,Al Nasr,Ittihad Kalba,1,2,,,,0
-1612887300,Al Wasl,Shabab Al-Ahli Dubai,0,2,,,,0
-1614691800,Ittihad Kalba,Al Nasr,1,2,Pen,1,3,0
-1614701700,Shabab Al-Ahli Dubai,Al Wasl,3,1,,,,0
-1617980700,Shabab Al-Ahli Dubai,Al Nasr,0,0,Pen,1,0,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1602167400,Ittihad Kalba,Al Jazira,lUHDtcYu,lWIXXvLm,2,1,,,,0
+1602167400,Hatta,Bani Yas,QVAzX6rD,OfEmUdKC,0,2,,,,0
+1602176400,Al Fujairah,Ajman,GOsncUhM,prt8JLTG,1,0,,,,0
+1602253800,Shabab Al-Ahli Dubai,Al Dhafra,8zUcYY2j,Uy7I7TU5,1,1,,,,0
+1602253800,Al Ain,Khorfakkan,OKa9P8WR,OQU9zTMb,2,4,,,,0
+1602262800,Al Wahda,Al Wasl,YXHWp1ah,K8vlWhPS,1,2,,,,0
+1605189600,Bani Yas,Hatta,OfEmUdKC,QVAzX6rD,1,1,,,,0
+1605189600,Ajman,Al Fujairah,prt8JLTG,GOsncUhM,1,2,,,,0
+1605200400,Al Jazira,Ittihad Kalba,lWIXXvLm,lUHDtcYu,1,1,,,,0
+1605276000,Khorfakkan,Al Ain,OQU9zTMb,OKa9P8WR,0,0,,,,0
+1605276000,Al Dhafra,Shabab Al-Ahli Dubai,Uy7I7TU5,8zUcYY2j,0,3,,,,0
+1605286800,Al Wasl,Al Wahda,K8vlWhPS,YXHWp1ah,2,0,,,,0
+1610024400,Khorfakkan,Shabab Al-Ahli Dubai,OQU9zTMb,8zUcYY2j,2,4,,,,0
+1610035200,Al Nasr,Al Fujairah,K8vlWhPS,GOsncUhM,1,1,,,,0
+1610110800,Bani Yas,Ittihad Kalba,OfEmUdKC,lUHDtcYu,1,1,,,,0
+1610121600,Al Sharjah,Al Wasl,2w51PaQ7,K8vlWhPS,0,0,,,,0
+1611580500,Al Fujairah,Al Nasr,GOsncUhM,K8vlWhPS,0,1,,,,0
+1611590400,Ittihad Kalba,Bani Yas,lUHDtcYu,OfEmUdKC,1,1,Pen,2,1,0
+1611666900,Shabab Al-Ahli Dubai,Khorfakkan,8zUcYY2j,OQU9zTMb,5,0,,,,0
+1611676800,Al Wasl,Al Sharjah,K8vlWhPS,2w51PaQ7,2,0,,,,0
+1612877400,Al Nasr,Ittihad Kalba,K8vlWhPS,lUHDtcYu,1,2,,,,0
+1612887300,Al Wasl,Shabab Al-Ahli Dubai,K8vlWhPS,8zUcYY2j,0,2,,,,0
+1614691800,Ittihad Kalba,Al Nasr,lUHDtcYu,K8vlWhPS,1,2,Pen,1,3,0
+1614701700,Shabab Al-Ahli Dubai,Al Wasl,8zUcYY2j,K8vlWhPS,3,1,,,,0
+1617980700,Shabab Al-Ahli Dubai,Al Nasr,8zUcYY2j,K8vlWhPS,0,0,Pen,1,0,1

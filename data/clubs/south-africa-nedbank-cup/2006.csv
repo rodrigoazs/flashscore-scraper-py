@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1141839000,Cape Town Spurs,Platinum Stars,3,1,,,,0
-1141839000,Black Leopards,Royal AM,2,0,,,,0
-1142011800,Bidvest Wits,Durban City,0,1,,,,0
-1142098200,Santos,Island FC,6,0,,,,0
-1142098200,Orlando Pirates,Free State Stars,1,0,,,,0
-1142098200,Naughty Boys,Pietersburg Pillars,3,4,,,,0
-1142098200,Kaizer Chiefs,Supersport Utd,3,1,,,,0
-1142098200,Golden Arrows,Mamelodi Sundowns,0,1,,,,0
-1142098200,Charlton FC,FC AK,0,5,,,,0
-1142098200,Alexandra United,Bloemfontein Young Tigers,0,1,,,,0
-1142184600,Witbank,Province,1,0,,,,0
-1142184600,Sasolburg Juventus,Blackburn,1,1,Pen,1,2,0
-1142184600,PJ Stars Kings,Jomo Cosmos,0,0,Pen,1,0,0
-1142184600,Leandra,Atlie,0,1,,,,0
-1142184600,Hanover Park,Maritzburg City,1,2,,,,0
-1142184600,Dynamos,Moroka Swallows,1,2,,,,0
-1143307800,Orlando Pirates,PJ Stars Kings,2,0,,,,0
-1143307800,Kaizer Chiefs,Pietersburg Pillars,5,4,,,,0
-1143307800,Cape Town Spurs,Durban City,1,1,Pen,1,2,0
-1143307800,Black Leopards,Witbank,2,0,,,,0
-1143390600,Moroka Swallows,Santos,1,2,,,,0
-1143390600,Mamelodi Sundowns,FC AK,1,0,,,,0
-1143390600,Hanover Park,Atlie,2,1,,,,0
-1143390600,Blackburn,Bloemfontein Young Tigers,0,3,,,,0
-1145118600,Kaizer Chiefs,Black Leopards,1,0,,,,0
-1145118600,Durban City,Santos,2,1,,,,0
-1145205000,Hanover Park,Orlando Pirates,2,5,,,,0
-1145205000,Bloemfontein Young Tigers,Mamelodi Sundowns,0,4,,,,0
-1146328200,Mamelodi Sundowns,Kaizer Chiefs,0,0,Pen,0,1,0
-1146414600,Orlando Pirates,Durban City,2,1,,,,0
-1148142600,Kaizer Chiefs,Orlando Pirates,0,0,Pen,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1141839000,Cape Town Spurs,Platinum Stars,QJM4feF8,p6867egJ,3,1,,,,0
+1141839000,Black Leopards,Royal AM,8l3GGez7,nu2KFFkD,2,0,,,,0
+1142011800,Bidvest Wits,Durban City,8hmaPcYe,6RTAg0C5,0,1,,,,0
+1142098200,Santos,Island FC,nu2KFFkD,,6,0,,,,0
+1142098200,Orlando Pirates,Free State Stars,KAV9ypMU,6LfbbTwj,1,0,,,,0
+1142098200,Naughty Boys,Pietersburg Pillars,,,3,4,,,,0
+1142098200,Kaizer Chiefs,Supersport Utd,MeBJ238q,4UX5t7jk,3,1,,,,0
+1142098200,Golden Arrows,Mamelodi Sundowns,8l3GGez7,x2G2Q2c3,0,1,,,,0
+1142098200,Charlton FC,FC AK,,,0,5,,,,0
+1142098200,Alexandra United,Bloemfontein Young Tigers,,d2qS1nzp,0,1,,,,0
+1142184600,Witbank,Province,Gr4RZ4HN,,1,0,,,,0
+1142184600,Sasolburg Juventus,Blackburn,,dp0XifTb,1,1,Pen,1,2,0
+1142184600,PJ Stars Kings,Jomo Cosmos,,8l3GGez7,0,0,Pen,1,0,0
+1142184600,Leandra,Atlie,,6yPAEmXH,0,1,,,,0
+1142184600,Hanover Park,Maritzburg City,,,1,2,,,,0
+1142184600,Dynamos,Moroka Swallows,nuAqtRls,tWjTbMwC,1,2,,,,0
+1143307800,Orlando Pirates,PJ Stars Kings,KAV9ypMU,,2,0,,,,0
+1143307800,Kaizer Chiefs,Pietersburg Pillars,MeBJ238q,,5,4,,,,0
+1143307800,Cape Town Spurs,Durban City,QJM4feF8,6RTAg0C5,1,1,Pen,1,2,0
+1143307800,Black Leopards,Witbank,8l3GGez7,Gr4RZ4HN,2,0,,,,0
+1143390600,Moroka Swallows,Santos,tWjTbMwC,nu2KFFkD,1,2,,,,0
+1143390600,Mamelodi Sundowns,FC AK,x2G2Q2c3,,1,0,,,,0
+1143390600,Hanover Park,Atlie,,6yPAEmXH,2,1,,,,0
+1143390600,Blackburn,Bloemfontein Young Tigers,dp0XifTb,d2qS1nzp,0,3,,,,0
+1145118600,Kaizer Chiefs,Black Leopards,MeBJ238q,8l3GGez7,1,0,,,,0
+1145118600,Durban City,Santos,6RTAg0C5,nu2KFFkD,2,1,,,,0
+1145205000,Hanover Park,Orlando Pirates,,KAV9ypMU,2,5,,,,0
+1145205000,Bloemfontein Young Tigers,Mamelodi Sundowns,d2qS1nzp,x2G2Q2c3,0,4,,,,0
+1146328200,Mamelodi Sundowns,Kaizer Chiefs,x2G2Q2c3,MeBJ238q,0,0,Pen,0,1,0
+1146414600,Orlando Pirates,Durban City,KAV9ypMU,6RTAg0C5,2,1,,,,0
+1148142600,Kaizer Chiefs,Orlando Pirates,MeBJ238q,KAV9ypMU,0,0,Pen,1,0,0

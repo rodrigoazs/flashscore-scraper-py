@@ -1,331 +1,331 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1315665000,Samsunspor,Genclerbirligi,3,2,,,,0
-1315665000,Eskisehirspor,Besiktas,2,1,,,,0
-1315674000,Manisaspor,Trabzonspor,1,1,,,,0
-1315674000,Ankaragucu,Mersin,1,2,,,,0
-1315751400,Kardemir Karabuk,Sivasspor,2,1,,,,0
-1315751400,Bursaspor,Kayserispor,3,0,,,,0
-1315760400,Basaksehir,Galatasaray,2,0,,,,0
-1315760400,Antalyaspor,Gaziantepspor,1,0,,,,0
-1315846800,Fenerbahce,Orduspor,1,0,,,,0
-1316192400,Kayserispor,Antalyaspor,0,1,,,,0
-1316192400,Gaziantepspor,Fenerbahce,1,3,,,,0
-1316269800,Genclerbirligi,Kardemir Karabuk,2,1,,,,0
-1316278800,Trabzonspor,Basaksehir,0,1,,,,0
-1316278800,Orduspor,Manisaspor,1,0,,,,0
-1316350800,Mersin,Bursaspor,1,3,,,,0
-1316356200,Sivasspor,Eskisehirspor,0,4,,,,0
-1316365200,Galatasaray,Samsunspor,3,1,,,,0
-1316451600,Besiktas,Ankaragucu,3,1,,,,0
-1316538000,Gaziantepspor,Kayserispor,1,2,,,,0
-1316538000,Fenerbahce,Manisaspor,1,1,,,,0
-1316538000,Basaksehir,Orduspor,1,1,,,,0
-1316619900,Kardemir Karabuk,Galatasaray,1,1,,,,0
-1316624400,Eskisehirspor,Genclerbirligi,0,0,,,,0
-1316624400,Antalyaspor,Mersin,1,2,,,,0
-1316628900,Samsunspor,Trabzonspor,1,1,,,,0
-1316710800,Bursaspor,Besiktas,1,2,,,,0
-1316710800,Ankaragucu,Sivasspor,1,2,,,,0
-1316797200,Kayserispor,Fenerbahce,0,1,,,,0
-1316876400,Mersin,Gaziantepspor,2,0,,,,0
-1316883600,Trabzonspor,Kardemir Karabuk,3,1,,,,0
-1316883600,Manisaspor,Basaksehir,0,2,,,,0
-1316961000,Sivasspor,Bursaspor,3,0,,,,0
-1316961000,Orduspor,Samsunspor,0,0,,,,0
-1316970000,Genclerbirligi,Ankaragucu,1,1,,,,0
-1316970000,Besiktas,Antalyaspor,1,0,,,,0
-1317056400,Galatasaray,Eskisehirspor,2,0,,,,0
-1317402000,Bursaspor,Genclerbirligi,4,0,,,,0
-1317470400,Kardemir Karabuk,Orduspor,1,2,,,,0
-1317484800,Fenerbahce,Basaksehir,4,2,,,,0
-1317488400,Antalyaspor,Sivasspor,2,2,,,,0
-1317556800,Samsunspor,Manisaspor,1,2,,,,0
-1317571200,Kayserispor,Mersin,2,2,,,,0
-1317571200,Eskisehirspor,Trabzonspor,0,2,,,,0
-1317571200,Ankaragucu,Galatasaray,0,3,,,,0
-1317661200,Gaziantepspor,Besiktas,0,0,,,,0
-1318611600,Trabzonspor,Ankaragucu,3,2,,,,0
-1318680000,Orduspor,Eskisehirspor,2,1,,,,0
-1318694400,Sivasspor,Gaziantepspor,0,0,,,,0
-1318694400,Besiktas,Kayserispor,0,2,,,,0
-1318766400,Genclerbirligi,Antalyaspor,3,0,,,,0
-1318766400,Basaksehir,Samsunspor,3,0,,,,0
-1318780800,Manisaspor,Kardemir Karabuk,2,1,,,,0
-1318780800,Galatasaray,Bursaspor,2,1,,,,0
-1318870800,Mersin,Fenerbahce,1,2,,,,0
-1319216400,Antalyaspor,Galatasaray,0,0,,,,0
-1319284800,Eskisehirspor,Manisaspor,0,2,,,,0
-1319299200,Kardemir Karabuk,Basaksehir,2,0,,,,0
-1319299200,Bursaspor,Trabzonspor,1,1,,,,0
-1319371200,Kayserispor,Sivasspor,6,2,,,,0
-1319371200,Ankaragucu,Orduspor,0,2,,,,0
-1319385600,Gaziantepspor,Genclerbirligi,3,0,,,,0
-1319385600,Fenerbahce,Samsunspor,0,0,,,,0
-1319475600,Mersin,Besiktas,0,1,,,,0
-1319641200,Samsunspor,Kardemir Karabuk,0,0,,,,0
-1319641200,Basaksehir,Eskisehirspor,2,2,,,,0
-1319643000,Orduspor,Bursaspor,1,1,,,,0
-1319650200,Trabzonspor,Antalyaspor,2,2,,,,0
-1319650200,Galatasaray,Gaziantepspor,2,4,,,,0
-1319727600,Genclerbirligi,Kayserispor,1,0,,,,0
-1319729400,Sivasspor,Mersin,1,0,,,,0
-1319736600,Manisaspor,Ankaragucu,2,0,,,,0
-1319736600,Besiktas,Fenerbahce,2,2,,,,0
-1319889600,Antalyaspor,Orduspor,1,1,,,,0
-1319904000,Gaziantepspor,Trabzonspor,0,1,,,,0
-1319904000,Eskisehirspor,Samsunspor,1,0,,,,0
-1319979600,Bursaspor,Manisaspor,0,0,,,,0
-1319983200,Kayserispor,Galatasaray,0,2,,,,0
-1319994000,Besiktas,Sivasspor,3,1,,,,0
-1319994000,Ankaragucu,Basaksehir,1,2,,,,0
-1320084000,Mersin,Genclerbirligi,2,1,,,,0
-1320084000,Fenerbahce,Kardemir Karabuk,1,0,,,,0
-1320429600,Sivasspor,Fenerbahce,2,0,,,,0
-1320429600,Samsunspor,Ankaragucu,2,2,,,,0
-1320490800,Orduspor,Gaziantepspor,0,0,,,,0
-1320490800,Manisaspor,Antalyaspor,1,0,,,,0
-1320501600,Kardemir Karabuk,Eskisehirspor,1,2,,,,0
-1320512400,Galatasaray,Mersin,0,0,,,,0
-1320577200,Basaksehir,Bursaspor,0,0,,,,0
-1320588000,Trabzonspor,Kayserispor,2,1,,,,0
-1320598800,Genclerbirligi,Besiktas,4,2,,,,0
-1321639200,Mersin,Trabzonspor,1,1,,,,0
-1321700400,Ankaragucu,Kardemir Karabuk,2,1,,,,0
-1321711200,Kayserispor,Orduspor,1,0,,,,0
-1321722000,Fenerbahce,Eskisehirspor,1,0,,,,0
-1321786800,Sivasspor,Genclerbirligi,1,1,,,,0
-1321786800,Antalyaspor,Basaksehir,2,1,,,,0
-1321797600,Gaziantepspor,Manisaspor,1,1,,,,0
-1321808400,Besiktas,Galatasaray,0,0,,,,0
-1321898400,Bursaspor,Samsunspor,1,0,,,,0
-1322244000,Genclerbirligi,Fenerbahce,0,0,,,,0
-1322305200,Samsunspor,Antalyaspor,1,0,,,,0
-1322316000,Orduspor,Mersin,0,1,,,,0
-1322326800,Galatasaray,Sivasspor,2,1,,,,0
-1322391600,Eskisehirspor,Ankaragucu,3,2,,,,0
-1322391600,Basaksehir,Gaziantepspor,3,1,,,,0
-1322402400,Manisaspor,Kayserispor,1,0,,,,0
-1322413200,Trabzonspor,Besiktas,0,1,,,,0
-1322503200,Kardemir Karabuk,Bursaspor,3,1,,,,0
-1322848800,Sivasspor,Trabzonspor,2,2,,,,0
-1322910000,Gaziantepspor,Samsunspor,1,0,,,,0
-1322920800,Genclerbirligi,Galatasaray,0,1,,,,0
-1322931600,Fenerbahce,Ankaragucu,4,2,,,,0
-1322996400,Kayserispor,Basaksehir,1,0,,,,0
-1322996400,Antalyaspor,Kardemir Karabuk,2,1,,,,0
-1323007200,Mersin,Manisaspor,0,0,,,,0
-1323018000,Bursaspor,Eskisehirspor,0,1,,,,0
-1323108000,Besiktas,Orduspor,2,1,,,,0
-1323273600,Kardemir Karabuk,Gaziantepspor,0,0,,,,0
-1323273600,Eskisehirspor,Antalyaspor,1,0,,,,0
-1323279000,Galatasaray,Fenerbahce,3,1,,,,0
-1323360000,Samsunspor,Kayserispor,0,1,,,,0
-1323360000,Basaksehir,Mersin,0,0,,,,0
-1323360000,Ankaragucu,Bursaspor,0,0,,,,0
-1323369000,Orduspor,Sivasspor,1,2,,,,0
-1323369000,Manisaspor,Besiktas,1,4,,,,0
-1323536400,Gaziantepspor,Eskisehirspor,0,1,,,,0
-1323601200,Genclerbirligi,Orduspor,3,1,,,,0
-1323601200,Antalyaspor,Ankaragucu,1,0,,,,0
-1323612000,Mersin,Samsunspor,1,0,,,,0
-1323612000,Besiktas,Basaksehir,1,1,,,,0
-1323622800,Trabzonspor,Galatasaray,0,3,,,,0
-1323705600,Sivasspor,Manisaspor,2,2,,,,0
-1323705600,Kayserispor,Kardemir Karabuk,2,0,,,,0
-1323712800,Bursaspor,Fenerbahce,0,2,,,,0
-1323877500,Trabzonspor,Genclerbirligi,1,2,,,,0
-1324058400,Orduspor,Galatasaray,0,2,,,,0
-1324119600,Kardemir Karabuk,Mersin,3,5,,,,0
-1324119600,Ankaragucu,Gaziantepspor,0,0,,,,0
-1324130400,Eskisehirspor,Kayserispor,1,0,,,,0
-1324141200,Bursaspor,Antalyaspor,0,0,,,,0
-1324206000,Manisaspor,Genclerbirligi,0,1,,,,0
-1324206000,Basaksehir,Sivasspor,1,1,,,,0
-1324216800,Samsunspor,Besiktas,1,1,,,,0
-1324227600,Fenerbahce,Trabzonspor,1,0,,,,0
-1324483200,Mersin,Eskisehirspor,0,0,,,,0
-1324483200,Kayserispor,Ankaragucu,3,0,,,,0
-1324483200,Antalyaspor,Fenerbahce,0,0,,,,0
-1324492200,Sivasspor,Samsunspor,3,2,,,,0
-1324492200,Galatasaray,Manisaspor,1,0,,,,0
-1324569600,Trabzonspor,Orduspor,4,1,,,,0
-1324569600,Genclerbirligi,Basaksehir,4,0,,,,0
-1324578600,Gaziantepspor,Bursaspor,2,2,,,,0
-1324578600,Besiktas,Kardemir Karabuk,1,0,,,,0
-1325606400,Trabzonspor,Manisaspor,2,1,,,,0
-1325606400,Sivasspor,Kardemir Karabuk,3,0,,,,0
-1325606400,Kayserispor,Bursaspor,0,2,,,,0
-1325615400,Mersin,Ankaragucu,1,2,,,,0
-1325615400,Galatasaray,Basaksehir,4,1,,,,0
-1325692800,Orduspor,Fenerbahce,1,1,,,,0
-1325692800,Genclerbirligi,Samsunspor,1,1,,,,0
-1325701800,Gaziantepspor,Antalyaspor,1,0,,,,0
-1325701800,Besiktas,Eskisehirspor,2,0,,,,0
-1325944800,Bursaspor,Mersin,1,0,,,,0
-1325944800,Basaksehir,Trabzonspor,0,2,,,,0
-1325955600,Samsunspor,Galatasaray,2,4,,,,0
-1326020400,Manisaspor,Orduspor,0,0,,,,0
-1326020400,Kardemir Karabuk,Genclerbirligi,2,1,,,,0
-1326031200,Eskisehirspor,Sivasspor,1,1,,,,0
-1326031200,Antalyaspor,Kayserispor,1,0,,,,0
-1326042000,Ankaragucu,Besiktas,0,0,,,,0
-1326132000,Fenerbahce,Gaziantepspor,3,1,,,,0
-1326549600,Genclerbirligi,Eskisehirspor,2,1,,,,0
-1326560400,Galatasaray,Kardemir Karabuk,5,1,,,,0
-1326625200,Sivasspor,Ankaragucu,3,0,,,,0
-1326625200,Orduspor,Basaksehir,1,0,,,,0
-1326636000,Trabzonspor,Samsunspor,4,0,,,,0
-1326636000,Mersin,Antalyaspor,0,2,,,,0
-1326646800,Besiktas,Bursaspor,3,1,,,,0
-1326736800,Manisaspor,Fenerbahce,1,2,,,,0
-1326736800,Kayserispor,Gaziantepspor,1,1,,,,0
-1327082400,Gaziantepspor,Mersin,1,0,,,,0
-1327082400,Antalyaspor,Besiktas,1,2,,,,0
-1327143600,Samsunspor,Orduspor,2,0,,,,0
-1327143600,Basaksehir,Manisaspor,3,2,,,,0
-1327154400,Kardemir Karabuk,Trabzonspor,2,1,,,,0
-1327154400,Bursaspor,Sivasspor,1,2,,,,0
-1327165200,Fenerbahce,Kayserispor,4,0,,,,0
-1327240800,Ankaragucu,Genclerbirligi,0,1,,,,0
-1327251600,Eskisehirspor,Galatasaray,0,0,,,,0
-1327420800,Sivasspor,Antalyaspor,2,1,,,,0
-1327420800,Manisaspor,Samsunspor,1,1,,,,0
-1327429800,Mersin,Kayserispor,1,2,,,,0
-1327429800,Besiktas,Gaziantepspor,3,2,,,,0
-1327498200,Genclerbirligi,Bursaspor,2,2,,,,0
-1327507200,Trabzonspor,Eskisehirspor,4,1,,,,0
-1327507200,Orduspor,Kardemir Karabuk,3,2,,,,0
-1327507200,Basaksehir,Fenerbahce,3,2,,,,0
-1327516200,Galatasaray,Ankaragucu,4,0,,,,0
-1327759200,Antalyaspor,Genclerbirligi,2,2,,,,0
-1327770000,Bursaspor,Galatasaray,1,0,,,,0
-1327834800,Samsunspor,Basaksehir,2,4,,,,0
-1327834800,Kardemir Karabuk,Manisaspor,2,1,,,,0
-1327834800,Eskisehirspor,Orduspor,0,1,,,,0
-1327845600,Gaziantepspor,Sivasspor,2,1,,,,0
-1327845600,Ankaragucu,Trabzonspor,0,4,,,,0
-1327856400,Fenerbahce,Mersin,2,1,,,,0
-1327946400,Kayserispor,Besiktas,1,0,,,,0
-1328112000,Orduspor,Ankaragucu,2,0,,,,0
-1328112000,Genclerbirligi,Gaziantepspor,1,0,,,,0
-1328121000,Trabzonspor,Bursaspor,2,1,,,,0
-1328121000,Galatasaray,Antalyaspor,1,1,,,,0
-1328198400,Sivasspor,Kayserispor,1,1,,,,0
-1328198400,Samsunspor,Fenerbahce,3,1,,,,0
-1328207400,Manisaspor,Eskisehirspor,2,3,,,,0
-1328207400,Besiktas,Mersin,0,1,,,,0
-1328364000,Antalyaspor,Trabzonspor,2,1,,,,0
-1328374800,Gaziantepspor,Galatasaray,1,2,,,,0
-1328439600,Mersin,Sivasspor,1,5,,,,0
-1328450400,Kayserispor,Genclerbirligi,2,3,,,,0
-1328450400,Bursaspor,Orduspor,0,0,,,,0
-1328461200,Fenerbahce,Besiktas,2,0,,,,0
-1328544000,Eskisehirspor,Basaksehir,3,1,,,,0
-1328551200,Kardemir Karabuk,Samsunspor,2,1,,,,0
-1328551200,Ankaragucu,Manisaspor,0,1,,,,0
-1328796000,Basaksehir,Kardemir Karabuk,2,2,,,,0
-1328803200,Sivasspor,Besiktas,1,1,,,,0
-1328896800,Trabzonspor,Gaziantepspor,4,1,,,,0
-1328968800,Genclerbirligi,Mersin,1,2,,,,0
-1328979600,Galatasaray,Kayserispor,1,0,,,,0
-1329044400,Orduspor,Antalyaspor,3,2,,,,0
-1329044400,Basaksehir,Ankaragucu,3,0,,,,0
-1329055200,Samsunspor,Eskisehirspor,3,1,,,,0
-1329055200,Manisaspor,Bursaspor,1,3,,,,0
-1329066000,Kardemir Karabuk,Fenerbahce,2,1,,,,0
-1329501600,Mersin,Galatasaray,1,3,,,,0
-1329562800,Ankaragucu,Samsunspor,0,3,,,,0
-1329573600,Antalyaspor,Manisaspor,2,1,,,,0
-1329584400,Fenerbahce,Sivasspor,4,2,,,,0
-1329649200,Gaziantepspor,Orduspor,1,0,,,,0
-1329660000,Kayserispor,Trabzonspor,3,3,,,,0
-1329660000,Eskisehirspor,Kardemir Karabuk,1,2,,,,0
-1329670800,Besiktas,Genclerbirligi,3,2,,,,0
-1329760800,Bursaspor,Basaksehir,2,1,,,,0
-1330106400,Orduspor,Kayserispor,1,0,,,,0
-1330167600,Kardemir Karabuk,Ankaragucu,3,2,,,,0
-1330178400,Samsunspor,Bursaspor,0,3,,,,0
-1330178400,Manisaspor,Gaziantepspor,0,2,,,,0
-1330189200,Eskisehirspor,Fenerbahce,2,1,,,,0
-1330254000,Genclerbirligi,Sivasspor,3,3,,,,0
-1330254000,Basaksehir,Antalyaspor,4,0,,,,0
-1330264800,Trabzonspor,Mersin,2,3,,,,0
-1330275600,Galatasaray,Besiktas,3,2,,,,0
-1330772400,Ankaragucu,Eskisehirspor,2,5,,,,0
-1330783200,Mersin,Orduspor,1,0,,,,0
-1330783200,Antalyaspor,Samsunspor,0,2,,,,0
-1330794000,Fenerbahce,Genclerbirligi,6,1,,,,0
-1330866000,Kayserispor,Manisaspor,2,0,,,,0
-1330866000,Gaziantepspor,Basaksehir,5,0,,,,0
-1330866000,Bursaspor,Kardemir Karabuk,3,0,,,,0
-1330880400,Besiktas,Trabzonspor,1,2,,,,0
-1330970400,Sivasspor,Galatasaray,0,4,,,,0
-1331316000,Ankaragucu,Fenerbahce,0,2,,,,0
-1331388000,Basaksehir,Kayserispor,1,0,,,,0
-1331398800,Galatasaray,Genclerbirligi,2,0,,,,0
-1331463600,Samsunspor,Gaziantepspor,0,0,,,,0
-1331463600,Manisaspor,Mersin,2,0,,,,0
-1331463600,Kardemir Karabuk,Antalyaspor,2,1,,,,0
-1331474400,Orduspor,Besiktas,1,1,,,,0
-1331485200,Eskisehirspor,Bursaspor,1,1,,,,0
-1331575200,Trabzonspor,Sivasspor,2,1,,,,0
-1331920800,Genclerbirligi,Trabzonspor,1,1,,,,0
-1331989200,Sivasspor,Orduspor,1,1,,,,0
-1331989200,Antalyaspor,Eskisehirspor,0,0,,,,0
-1331998200,Bursaspor,Ankaragucu,2,1,,,,0
-1332007200,Fenerbahce,Galatasaray,2,2,,,,0
-1332075600,Mersin,Basaksehir,2,0,,,,0
-1332090000,Kayserispor,Samsunspor,2,0,,,,0
-1332090000,Gaziantepspor,Kardemir Karabuk,3,0,,,,0
-1332180000,Besiktas,Manisaspor,4,1,,,,0
-1332608400,Fenerbahce,Bursaspor,1,0,,,,0
-1332678600,Samsunspor,Mersin,2,0,,,,0
-1332678600,Orduspor,Genclerbirligi,0,0,,,,0
-1332678600,Manisaspor,Sivasspor,1,3,,,,0
-1332678600,Kardemir Karabuk,Kayserispor,1,0,,,,0
-1332678600,Eskisehirspor,Gaziantepspor,0,2,,,,0
-1332678600,Ankaragucu,Antalyaspor,0,3,,,,0
-1332691200,Galatasaray,Trabzonspor,1,1,,,,0
-1332781200,Basaksehir,Besiktas,2,2,,,,0
-1333126800,Mersin,Kardemir Karabuk,0,2,,,,0
-1333126800,Gaziantepspor,Ankaragucu,1,0,,,,0
-1333197000,Sivasspor,Basaksehir,0,1,,,,0
-1333197000,Kayserispor,Eskisehirspor,2,2,,,,0
-1333197000,Genclerbirligi,Manisaspor,3,0,,,,0
-1333209600,Galatasaray,Orduspor,2,0,,,,0
-1333281600,Besiktas,Samsunspor,0,1,,,,0
-1333281600,Antalyaspor,Bursaspor,1,3,,,,0
-1333296000,Trabzonspor,Fenerbahce,1,1,,,,0
-1333731600,Kardemir Karabuk,Besiktas,1,1,,,,0
-1333801800,Ankaragucu,Kayserispor,0,5,,,,0
-1333814400,Samsunspor,Sivasspor,1,2,,,,0
-1333814400,Fenerbahce,Antalyaspor,2,0,,,,0
-1333814400,Eskisehirspor,Mersin,2,0,,,,0
-1333814400,Bursaspor,Gaziantepspor,0,2,,,,0
-1333814400,Basaksehir,Genclerbirligi,1,0,,,,0
-1333888200,Orduspor,Trabzonspor,0,0,,,,0
-1333900800,Manisaspor,Galatasaray,0,4,,,,0
-1334403000,Basaksehir,Eskisehirspor,1,1,,,,0
-1334419200,Besiktas,Galatasaray,0,2,,,,0
-1334489400,Sivasspor,Bursaspor,4,0,,,,0
-1334505600,Fenerbahce,Trabzonspor,2,0,,,,0
-1335009600,Eskisehirspor,Sivasspor,1,1,,,,0
-1335009600,Bursaspor,Basaksehir,3,2,,,,0
-1335024000,Trabzonspor,Besiktas,1,0,,,,0
-1335110400,Galatasaray,Fenerbahce,1,2,,,,0
-1335614400,Basaksehir,Sivasspor,4,2,,,,0
-1335628800,Trabzonspor,Galatasaray,2,4,,,,0
-1335700800,Eskisehirspor,Bursaspor,2,0,,,,0
-1335715200,Fenerbahce,Besiktas,2,1,,,,0
-1335970800,Sivasspor,Basaksehir,1,2,,,,0
-1335978000,Galatasaray,Trabzonspor,0,0,,,,0
-1336057200,Bursaspor,Eskisehirspor,3,2,,,,0
-1336064400,Besiktas,Fenerbahce,1,0,,,,0
-1336305600,Eskisehirspor,Basaksehir,3,1,,,,0
-1336305600,Bursaspor,Sivasspor,2,0,,,,0
-1336320000,Trabzonspor,Fenerbahce,1,3,,,,0
-1336320000,Galatasaray,Besiktas,2,2,,,,0
-1336755600,Besiktas,Trabzonspor,1,1,,,,0
-1336827600,Sivasspor,Eskisehirspor,1,3,,,,0
-1336827600,Basaksehir,Bursaspor,0,4,,,,0
-1336838400,Fenerbahce,Galatasaray,0,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1315665000,Samsunspor,Genclerbirligi,StKLPBm2,G6WxyD8F,3,2,,,,0
+1315665000,Eskisehirspor,Besiktas,MB1nlDk2,UcWWlFia,2,1,,,,0
+1315674000,Manisaspor,Trabzonspor,G6WxyD8F,MobtE80i,1,1,,,,0
+1315674000,Ankaragucu,Mersin,bsGXFuaP,ObO9Alc0,1,2,,,,0
+1315751400,Kardemir Karabuk,Sivasspor,G6WxyD8F,xxsr0CP0,2,1,,,,0
+1315751400,Bursaspor,Kayserispor,YmCZKGcR,MB1nlDk2,3,0,,,,0
+1315760400,Basaksehir,Galatasaray,W6dgKOQi,dEXkR0Wq,2,0,,,,0
+1315760400,Antalyaspor,Gaziantepspor,ptkIYGIF,vVd6drcE,1,0,,,,0
+1315846800,Fenerbahce,Orduspor,dENdyFfa,MB1nlDk2,1,0,,,,0
+1316192400,Kayserispor,Antalyaspor,MB1nlDk2,ptkIYGIF,0,1,,,,0
+1316192400,Gaziantepspor,Fenerbahce,vVd6drcE,dENdyFfa,1,3,,,,0
+1316269800,Genclerbirligi,Kardemir Karabuk,G6WxyD8F,G6WxyD8F,2,1,,,,0
+1316278800,Trabzonspor,Basaksehir,MobtE80i,W6dgKOQi,0,1,,,,0
+1316278800,Orduspor,Manisaspor,MB1nlDk2,G6WxyD8F,1,0,,,,0
+1316350800,Mersin,Bursaspor,ObO9Alc0,YmCZKGcR,1,3,,,,0
+1316356200,Sivasspor,Eskisehirspor,xxsr0CP0,MB1nlDk2,0,4,,,,0
+1316365200,Galatasaray,Samsunspor,dEXkR0Wq,StKLPBm2,3,1,,,,0
+1316451600,Besiktas,Ankaragucu,UcWWlFia,bsGXFuaP,3,1,,,,0
+1316538000,Gaziantepspor,Kayserispor,vVd6drcE,MB1nlDk2,1,2,,,,0
+1316538000,Fenerbahce,Manisaspor,dENdyFfa,G6WxyD8F,1,1,,,,0
+1316538000,Basaksehir,Orduspor,W6dgKOQi,MB1nlDk2,1,1,,,,0
+1316619900,Kardemir Karabuk,Galatasaray,G6WxyD8F,dEXkR0Wq,1,1,,,,0
+1316624400,Eskisehirspor,Genclerbirligi,MB1nlDk2,G6WxyD8F,0,0,,,,0
+1316624400,Antalyaspor,Mersin,ptkIYGIF,ObO9Alc0,1,2,,,,0
+1316628900,Samsunspor,Trabzonspor,StKLPBm2,MobtE80i,1,1,,,,0
+1316710800,Bursaspor,Besiktas,YmCZKGcR,UcWWlFia,1,2,,,,0
+1316710800,Ankaragucu,Sivasspor,bsGXFuaP,xxsr0CP0,1,2,,,,0
+1316797200,Kayserispor,Fenerbahce,MB1nlDk2,dENdyFfa,0,1,,,,0
+1316876400,Mersin,Gaziantepspor,ObO9Alc0,vVd6drcE,2,0,,,,0
+1316883600,Trabzonspor,Kardemir Karabuk,MobtE80i,G6WxyD8F,3,1,,,,0
+1316883600,Manisaspor,Basaksehir,G6WxyD8F,W6dgKOQi,0,2,,,,0
+1316961000,Sivasspor,Bursaspor,xxsr0CP0,YmCZKGcR,3,0,,,,0
+1316961000,Orduspor,Samsunspor,MB1nlDk2,StKLPBm2,0,0,,,,0
+1316970000,Genclerbirligi,Ankaragucu,G6WxyD8F,bsGXFuaP,1,1,,,,0
+1316970000,Besiktas,Antalyaspor,UcWWlFia,ptkIYGIF,1,0,,,,0
+1317056400,Galatasaray,Eskisehirspor,dEXkR0Wq,MB1nlDk2,2,0,,,,0
+1317402000,Bursaspor,Genclerbirligi,YmCZKGcR,G6WxyD8F,4,0,,,,0
+1317470400,Kardemir Karabuk,Orduspor,G6WxyD8F,MB1nlDk2,1,2,,,,0
+1317484800,Fenerbahce,Basaksehir,dENdyFfa,W6dgKOQi,4,2,,,,0
+1317488400,Antalyaspor,Sivasspor,ptkIYGIF,xxsr0CP0,2,2,,,,0
+1317556800,Samsunspor,Manisaspor,StKLPBm2,G6WxyD8F,1,2,,,,0
+1317571200,Kayserispor,Mersin,MB1nlDk2,ObO9Alc0,2,2,,,,0
+1317571200,Eskisehirspor,Trabzonspor,MB1nlDk2,MobtE80i,0,2,,,,0
+1317571200,Ankaragucu,Galatasaray,bsGXFuaP,dEXkR0Wq,0,3,,,,0
+1317661200,Gaziantepspor,Besiktas,vVd6drcE,UcWWlFia,0,0,,,,0
+1318611600,Trabzonspor,Ankaragucu,MobtE80i,bsGXFuaP,3,2,,,,0
+1318680000,Orduspor,Eskisehirspor,MB1nlDk2,MB1nlDk2,2,1,,,,0
+1318694400,Sivasspor,Gaziantepspor,xxsr0CP0,vVd6drcE,0,0,,,,0
+1318694400,Besiktas,Kayserispor,UcWWlFia,MB1nlDk2,0,2,,,,0
+1318766400,Genclerbirligi,Antalyaspor,G6WxyD8F,ptkIYGIF,3,0,,,,0
+1318766400,Basaksehir,Samsunspor,W6dgKOQi,StKLPBm2,3,0,,,,0
+1318780800,Manisaspor,Kardemir Karabuk,G6WxyD8F,G6WxyD8F,2,1,,,,0
+1318780800,Galatasaray,Bursaspor,dEXkR0Wq,YmCZKGcR,2,1,,,,0
+1318870800,Mersin,Fenerbahce,ObO9Alc0,dENdyFfa,1,2,,,,0
+1319216400,Antalyaspor,Galatasaray,ptkIYGIF,dEXkR0Wq,0,0,,,,0
+1319284800,Eskisehirspor,Manisaspor,MB1nlDk2,G6WxyD8F,0,2,,,,0
+1319299200,Kardemir Karabuk,Basaksehir,G6WxyD8F,W6dgKOQi,2,0,,,,0
+1319299200,Bursaspor,Trabzonspor,YmCZKGcR,MobtE80i,1,1,,,,0
+1319371200,Kayserispor,Sivasspor,MB1nlDk2,xxsr0CP0,6,2,,,,0
+1319371200,Ankaragucu,Orduspor,bsGXFuaP,MB1nlDk2,0,2,,,,0
+1319385600,Gaziantepspor,Genclerbirligi,vVd6drcE,G6WxyD8F,3,0,,,,0
+1319385600,Fenerbahce,Samsunspor,dENdyFfa,StKLPBm2,0,0,,,,0
+1319475600,Mersin,Besiktas,ObO9Alc0,UcWWlFia,0,1,,,,0
+1319641200,Samsunspor,Kardemir Karabuk,StKLPBm2,G6WxyD8F,0,0,,,,0
+1319641200,Basaksehir,Eskisehirspor,W6dgKOQi,MB1nlDk2,2,2,,,,0
+1319643000,Orduspor,Bursaspor,MB1nlDk2,YmCZKGcR,1,1,,,,0
+1319650200,Trabzonspor,Antalyaspor,MobtE80i,ptkIYGIF,2,2,,,,0
+1319650200,Galatasaray,Gaziantepspor,dEXkR0Wq,vVd6drcE,2,4,,,,0
+1319727600,Genclerbirligi,Kayserispor,G6WxyD8F,MB1nlDk2,1,0,,,,0
+1319729400,Sivasspor,Mersin,xxsr0CP0,ObO9Alc0,1,0,,,,0
+1319736600,Manisaspor,Ankaragucu,G6WxyD8F,bsGXFuaP,2,0,,,,0
+1319736600,Besiktas,Fenerbahce,UcWWlFia,dENdyFfa,2,2,,,,0
+1319889600,Antalyaspor,Orduspor,ptkIYGIF,MB1nlDk2,1,1,,,,0
+1319904000,Gaziantepspor,Trabzonspor,vVd6drcE,MobtE80i,0,1,,,,0
+1319904000,Eskisehirspor,Samsunspor,MB1nlDk2,StKLPBm2,1,0,,,,0
+1319979600,Bursaspor,Manisaspor,YmCZKGcR,G6WxyD8F,0,0,,,,0
+1319983200,Kayserispor,Galatasaray,MB1nlDk2,dEXkR0Wq,0,2,,,,0
+1319994000,Besiktas,Sivasspor,UcWWlFia,xxsr0CP0,3,1,,,,0
+1319994000,Ankaragucu,Basaksehir,bsGXFuaP,W6dgKOQi,1,2,,,,0
+1320084000,Mersin,Genclerbirligi,ObO9Alc0,G6WxyD8F,2,1,,,,0
+1320084000,Fenerbahce,Kardemir Karabuk,dENdyFfa,G6WxyD8F,1,0,,,,0
+1320429600,Sivasspor,Fenerbahce,xxsr0CP0,dENdyFfa,2,0,,,,0
+1320429600,Samsunspor,Ankaragucu,StKLPBm2,bsGXFuaP,2,2,,,,0
+1320490800,Orduspor,Gaziantepspor,MB1nlDk2,vVd6drcE,0,0,,,,0
+1320490800,Manisaspor,Antalyaspor,G6WxyD8F,ptkIYGIF,1,0,,,,0
+1320501600,Kardemir Karabuk,Eskisehirspor,G6WxyD8F,MB1nlDk2,1,2,,,,0
+1320512400,Galatasaray,Mersin,dEXkR0Wq,ObO9Alc0,0,0,,,,0
+1320577200,Basaksehir,Bursaspor,W6dgKOQi,YmCZKGcR,0,0,,,,0
+1320588000,Trabzonspor,Kayserispor,MobtE80i,MB1nlDk2,2,1,,,,0
+1320598800,Genclerbirligi,Besiktas,G6WxyD8F,UcWWlFia,4,2,,,,0
+1321639200,Mersin,Trabzonspor,ObO9Alc0,MobtE80i,1,1,,,,0
+1321700400,Ankaragucu,Kardemir Karabuk,bsGXFuaP,G6WxyD8F,2,1,,,,0
+1321711200,Kayserispor,Orduspor,MB1nlDk2,MB1nlDk2,1,0,,,,0
+1321722000,Fenerbahce,Eskisehirspor,dENdyFfa,MB1nlDk2,1,0,,,,0
+1321786800,Sivasspor,Genclerbirligi,xxsr0CP0,G6WxyD8F,1,1,,,,0
+1321786800,Antalyaspor,Basaksehir,ptkIYGIF,W6dgKOQi,2,1,,,,0
+1321797600,Gaziantepspor,Manisaspor,vVd6drcE,G6WxyD8F,1,1,,,,0
+1321808400,Besiktas,Galatasaray,UcWWlFia,dEXkR0Wq,0,0,,,,0
+1321898400,Bursaspor,Samsunspor,YmCZKGcR,StKLPBm2,1,0,,,,0
+1322244000,Genclerbirligi,Fenerbahce,G6WxyD8F,dENdyFfa,0,0,,,,0
+1322305200,Samsunspor,Antalyaspor,StKLPBm2,ptkIYGIF,1,0,,,,0
+1322316000,Orduspor,Mersin,MB1nlDk2,ObO9Alc0,0,1,,,,0
+1322326800,Galatasaray,Sivasspor,dEXkR0Wq,xxsr0CP0,2,1,,,,0
+1322391600,Eskisehirspor,Ankaragucu,MB1nlDk2,bsGXFuaP,3,2,,,,0
+1322391600,Basaksehir,Gaziantepspor,W6dgKOQi,vVd6drcE,3,1,,,,0
+1322402400,Manisaspor,Kayserispor,G6WxyD8F,MB1nlDk2,1,0,,,,0
+1322413200,Trabzonspor,Besiktas,MobtE80i,UcWWlFia,0,1,,,,0
+1322503200,Kardemir Karabuk,Bursaspor,G6WxyD8F,YmCZKGcR,3,1,,,,0
+1322848800,Sivasspor,Trabzonspor,xxsr0CP0,MobtE80i,2,2,,,,0
+1322910000,Gaziantepspor,Samsunspor,vVd6drcE,StKLPBm2,1,0,,,,0
+1322920800,Genclerbirligi,Galatasaray,G6WxyD8F,dEXkR0Wq,0,1,,,,0
+1322931600,Fenerbahce,Ankaragucu,dENdyFfa,bsGXFuaP,4,2,,,,0
+1322996400,Kayserispor,Basaksehir,MB1nlDk2,W6dgKOQi,1,0,,,,0
+1322996400,Antalyaspor,Kardemir Karabuk,ptkIYGIF,G6WxyD8F,2,1,,,,0
+1323007200,Mersin,Manisaspor,ObO9Alc0,G6WxyD8F,0,0,,,,0
+1323018000,Bursaspor,Eskisehirspor,YmCZKGcR,MB1nlDk2,0,1,,,,0
+1323108000,Besiktas,Orduspor,UcWWlFia,MB1nlDk2,2,1,,,,0
+1323273600,Kardemir Karabuk,Gaziantepspor,G6WxyD8F,vVd6drcE,0,0,,,,0
+1323273600,Eskisehirspor,Antalyaspor,MB1nlDk2,ptkIYGIF,1,0,,,,0
+1323279000,Galatasaray,Fenerbahce,dEXkR0Wq,dENdyFfa,3,1,,,,0
+1323360000,Samsunspor,Kayserispor,StKLPBm2,MB1nlDk2,0,1,,,,0
+1323360000,Basaksehir,Mersin,W6dgKOQi,ObO9Alc0,0,0,,,,0
+1323360000,Ankaragucu,Bursaspor,bsGXFuaP,YmCZKGcR,0,0,,,,0
+1323369000,Orduspor,Sivasspor,MB1nlDk2,xxsr0CP0,1,2,,,,0
+1323369000,Manisaspor,Besiktas,G6WxyD8F,UcWWlFia,1,4,,,,0
+1323536400,Gaziantepspor,Eskisehirspor,vVd6drcE,MB1nlDk2,0,1,,,,0
+1323601200,Genclerbirligi,Orduspor,G6WxyD8F,MB1nlDk2,3,1,,,,0
+1323601200,Antalyaspor,Ankaragucu,ptkIYGIF,bsGXFuaP,1,0,,,,0
+1323612000,Mersin,Samsunspor,ObO9Alc0,StKLPBm2,1,0,,,,0
+1323612000,Besiktas,Basaksehir,UcWWlFia,W6dgKOQi,1,1,,,,0
+1323622800,Trabzonspor,Galatasaray,MobtE80i,dEXkR0Wq,0,3,,,,0
+1323705600,Sivasspor,Manisaspor,xxsr0CP0,G6WxyD8F,2,2,,,,0
+1323705600,Kayserispor,Kardemir Karabuk,MB1nlDk2,G6WxyD8F,2,0,,,,0
+1323712800,Bursaspor,Fenerbahce,YmCZKGcR,dENdyFfa,0,2,,,,0
+1323877500,Trabzonspor,Genclerbirligi,MobtE80i,G6WxyD8F,1,2,,,,0
+1324058400,Orduspor,Galatasaray,MB1nlDk2,dEXkR0Wq,0,2,,,,0
+1324119600,Kardemir Karabuk,Mersin,G6WxyD8F,ObO9Alc0,3,5,,,,0
+1324119600,Ankaragucu,Gaziantepspor,bsGXFuaP,vVd6drcE,0,0,,,,0
+1324130400,Eskisehirspor,Kayserispor,MB1nlDk2,MB1nlDk2,1,0,,,,0
+1324141200,Bursaspor,Antalyaspor,YmCZKGcR,ptkIYGIF,0,0,,,,0
+1324206000,Manisaspor,Genclerbirligi,G6WxyD8F,G6WxyD8F,0,1,,,,0
+1324206000,Basaksehir,Sivasspor,W6dgKOQi,xxsr0CP0,1,1,,,,0
+1324216800,Samsunspor,Besiktas,StKLPBm2,UcWWlFia,1,1,,,,0
+1324227600,Fenerbahce,Trabzonspor,dENdyFfa,MobtE80i,1,0,,,,0
+1324483200,Mersin,Eskisehirspor,ObO9Alc0,MB1nlDk2,0,0,,,,0
+1324483200,Kayserispor,Ankaragucu,MB1nlDk2,bsGXFuaP,3,0,,,,0
+1324483200,Antalyaspor,Fenerbahce,ptkIYGIF,dENdyFfa,0,0,,,,0
+1324492200,Sivasspor,Samsunspor,xxsr0CP0,StKLPBm2,3,2,,,,0
+1324492200,Galatasaray,Manisaspor,dEXkR0Wq,G6WxyD8F,1,0,,,,0
+1324569600,Trabzonspor,Orduspor,MobtE80i,MB1nlDk2,4,1,,,,0
+1324569600,Genclerbirligi,Basaksehir,G6WxyD8F,W6dgKOQi,4,0,,,,0
+1324578600,Gaziantepspor,Bursaspor,vVd6drcE,YmCZKGcR,2,2,,,,0
+1324578600,Besiktas,Kardemir Karabuk,UcWWlFia,G6WxyD8F,1,0,,,,0
+1325606400,Trabzonspor,Manisaspor,MobtE80i,G6WxyD8F,2,1,,,,0
+1325606400,Sivasspor,Kardemir Karabuk,xxsr0CP0,G6WxyD8F,3,0,,,,0
+1325606400,Kayserispor,Bursaspor,MB1nlDk2,YmCZKGcR,0,2,,,,0
+1325615400,Mersin,Ankaragucu,ObO9Alc0,bsGXFuaP,1,2,,,,0
+1325615400,Galatasaray,Basaksehir,dEXkR0Wq,W6dgKOQi,4,1,,,,0
+1325692800,Orduspor,Fenerbahce,MB1nlDk2,dENdyFfa,1,1,,,,0
+1325692800,Genclerbirligi,Samsunspor,G6WxyD8F,StKLPBm2,1,1,,,,0
+1325701800,Gaziantepspor,Antalyaspor,vVd6drcE,ptkIYGIF,1,0,,,,0
+1325701800,Besiktas,Eskisehirspor,UcWWlFia,MB1nlDk2,2,0,,,,0
+1325944800,Bursaspor,Mersin,YmCZKGcR,ObO9Alc0,1,0,,,,0
+1325944800,Basaksehir,Trabzonspor,W6dgKOQi,MobtE80i,0,2,,,,0
+1325955600,Samsunspor,Galatasaray,StKLPBm2,dEXkR0Wq,2,4,,,,0
+1326020400,Manisaspor,Orduspor,G6WxyD8F,MB1nlDk2,0,0,,,,0
+1326020400,Kardemir Karabuk,Genclerbirligi,G6WxyD8F,G6WxyD8F,2,1,,,,0
+1326031200,Eskisehirspor,Sivasspor,MB1nlDk2,xxsr0CP0,1,1,,,,0
+1326031200,Antalyaspor,Kayserispor,ptkIYGIF,MB1nlDk2,1,0,,,,0
+1326042000,Ankaragucu,Besiktas,bsGXFuaP,UcWWlFia,0,0,,,,0
+1326132000,Fenerbahce,Gaziantepspor,dENdyFfa,vVd6drcE,3,1,,,,0
+1326549600,Genclerbirligi,Eskisehirspor,G6WxyD8F,MB1nlDk2,2,1,,,,0
+1326560400,Galatasaray,Kardemir Karabuk,dEXkR0Wq,G6WxyD8F,5,1,,,,0
+1326625200,Sivasspor,Ankaragucu,xxsr0CP0,bsGXFuaP,3,0,,,,0
+1326625200,Orduspor,Basaksehir,MB1nlDk2,W6dgKOQi,1,0,,,,0
+1326636000,Trabzonspor,Samsunspor,MobtE80i,StKLPBm2,4,0,,,,0
+1326636000,Mersin,Antalyaspor,ObO9Alc0,ptkIYGIF,0,2,,,,0
+1326646800,Besiktas,Bursaspor,UcWWlFia,YmCZKGcR,3,1,,,,0
+1326736800,Manisaspor,Fenerbahce,G6WxyD8F,dENdyFfa,1,2,,,,0
+1326736800,Kayserispor,Gaziantepspor,MB1nlDk2,vVd6drcE,1,1,,,,0
+1327082400,Gaziantepspor,Mersin,vVd6drcE,ObO9Alc0,1,0,,,,0
+1327082400,Antalyaspor,Besiktas,ptkIYGIF,UcWWlFia,1,2,,,,0
+1327143600,Samsunspor,Orduspor,StKLPBm2,MB1nlDk2,2,0,,,,0
+1327143600,Basaksehir,Manisaspor,W6dgKOQi,G6WxyD8F,3,2,,,,0
+1327154400,Kardemir Karabuk,Trabzonspor,G6WxyD8F,MobtE80i,2,1,,,,0
+1327154400,Bursaspor,Sivasspor,YmCZKGcR,xxsr0CP0,1,2,,,,0
+1327165200,Fenerbahce,Kayserispor,dENdyFfa,MB1nlDk2,4,0,,,,0
+1327240800,Ankaragucu,Genclerbirligi,bsGXFuaP,G6WxyD8F,0,1,,,,0
+1327251600,Eskisehirspor,Galatasaray,MB1nlDk2,dEXkR0Wq,0,0,,,,0
+1327420800,Sivasspor,Antalyaspor,xxsr0CP0,ptkIYGIF,2,1,,,,0
+1327420800,Manisaspor,Samsunspor,G6WxyD8F,StKLPBm2,1,1,,,,0
+1327429800,Mersin,Kayserispor,ObO9Alc0,MB1nlDk2,1,2,,,,0
+1327429800,Besiktas,Gaziantepspor,UcWWlFia,vVd6drcE,3,2,,,,0
+1327498200,Genclerbirligi,Bursaspor,G6WxyD8F,YmCZKGcR,2,2,,,,0
+1327507200,Trabzonspor,Eskisehirspor,MobtE80i,MB1nlDk2,4,1,,,,0
+1327507200,Orduspor,Kardemir Karabuk,MB1nlDk2,G6WxyD8F,3,2,,,,0
+1327507200,Basaksehir,Fenerbahce,W6dgKOQi,dENdyFfa,3,2,,,,0
+1327516200,Galatasaray,Ankaragucu,dEXkR0Wq,bsGXFuaP,4,0,,,,0
+1327759200,Antalyaspor,Genclerbirligi,ptkIYGIF,G6WxyD8F,2,2,,,,0
+1327770000,Bursaspor,Galatasaray,YmCZKGcR,dEXkR0Wq,1,0,,,,0
+1327834800,Samsunspor,Basaksehir,StKLPBm2,W6dgKOQi,2,4,,,,0
+1327834800,Kardemir Karabuk,Manisaspor,G6WxyD8F,G6WxyD8F,2,1,,,,0
+1327834800,Eskisehirspor,Orduspor,MB1nlDk2,MB1nlDk2,0,1,,,,0
+1327845600,Gaziantepspor,Sivasspor,vVd6drcE,xxsr0CP0,2,1,,,,0
+1327845600,Ankaragucu,Trabzonspor,bsGXFuaP,MobtE80i,0,4,,,,0
+1327856400,Fenerbahce,Mersin,dENdyFfa,ObO9Alc0,2,1,,,,0
+1327946400,Kayserispor,Besiktas,MB1nlDk2,UcWWlFia,1,0,,,,0
+1328112000,Orduspor,Ankaragucu,MB1nlDk2,bsGXFuaP,2,0,,,,0
+1328112000,Genclerbirligi,Gaziantepspor,G6WxyD8F,vVd6drcE,1,0,,,,0
+1328121000,Trabzonspor,Bursaspor,MobtE80i,YmCZKGcR,2,1,,,,0
+1328121000,Galatasaray,Antalyaspor,dEXkR0Wq,ptkIYGIF,1,1,,,,0
+1328198400,Sivasspor,Kayserispor,xxsr0CP0,MB1nlDk2,1,1,,,,0
+1328198400,Samsunspor,Fenerbahce,StKLPBm2,dENdyFfa,3,1,,,,0
+1328207400,Manisaspor,Eskisehirspor,G6WxyD8F,MB1nlDk2,2,3,,,,0
+1328207400,Besiktas,Mersin,UcWWlFia,ObO9Alc0,0,1,,,,0
+1328364000,Antalyaspor,Trabzonspor,ptkIYGIF,MobtE80i,2,1,,,,0
+1328374800,Gaziantepspor,Galatasaray,vVd6drcE,dEXkR0Wq,1,2,,,,0
+1328439600,Mersin,Sivasspor,ObO9Alc0,xxsr0CP0,1,5,,,,0
+1328450400,Kayserispor,Genclerbirligi,MB1nlDk2,G6WxyD8F,2,3,,,,0
+1328450400,Bursaspor,Orduspor,YmCZKGcR,MB1nlDk2,0,0,,,,0
+1328461200,Fenerbahce,Besiktas,dENdyFfa,UcWWlFia,2,0,,,,0
+1328544000,Eskisehirspor,Basaksehir,MB1nlDk2,W6dgKOQi,3,1,,,,0
+1328551200,Kardemir Karabuk,Samsunspor,G6WxyD8F,StKLPBm2,2,1,,,,0
+1328551200,Ankaragucu,Manisaspor,bsGXFuaP,G6WxyD8F,0,1,,,,0
+1328796000,Basaksehir,Kardemir Karabuk,W6dgKOQi,G6WxyD8F,2,2,,,,0
+1328803200,Sivasspor,Besiktas,xxsr0CP0,UcWWlFia,1,1,,,,0
+1328896800,Trabzonspor,Gaziantepspor,MobtE80i,vVd6drcE,4,1,,,,0
+1328968800,Genclerbirligi,Mersin,G6WxyD8F,ObO9Alc0,1,2,,,,0
+1328979600,Galatasaray,Kayserispor,dEXkR0Wq,MB1nlDk2,1,0,,,,0
+1329044400,Orduspor,Antalyaspor,MB1nlDk2,ptkIYGIF,3,2,,,,0
+1329044400,Basaksehir,Ankaragucu,W6dgKOQi,bsGXFuaP,3,0,,,,0
+1329055200,Samsunspor,Eskisehirspor,StKLPBm2,MB1nlDk2,3,1,,,,0
+1329055200,Manisaspor,Bursaspor,G6WxyD8F,YmCZKGcR,1,3,,,,0
+1329066000,Kardemir Karabuk,Fenerbahce,G6WxyD8F,dENdyFfa,2,1,,,,0
+1329501600,Mersin,Galatasaray,ObO9Alc0,dEXkR0Wq,1,3,,,,0
+1329562800,Ankaragucu,Samsunspor,bsGXFuaP,StKLPBm2,0,3,,,,0
+1329573600,Antalyaspor,Manisaspor,ptkIYGIF,G6WxyD8F,2,1,,,,0
+1329584400,Fenerbahce,Sivasspor,dENdyFfa,xxsr0CP0,4,2,,,,0
+1329649200,Gaziantepspor,Orduspor,vVd6drcE,MB1nlDk2,1,0,,,,0
+1329660000,Kayserispor,Trabzonspor,MB1nlDk2,MobtE80i,3,3,,,,0
+1329660000,Eskisehirspor,Kardemir Karabuk,MB1nlDk2,G6WxyD8F,1,2,,,,0
+1329670800,Besiktas,Genclerbirligi,UcWWlFia,G6WxyD8F,3,2,,,,0
+1329760800,Bursaspor,Basaksehir,YmCZKGcR,W6dgKOQi,2,1,,,,0
+1330106400,Orduspor,Kayserispor,MB1nlDk2,MB1nlDk2,1,0,,,,0
+1330167600,Kardemir Karabuk,Ankaragucu,G6WxyD8F,bsGXFuaP,3,2,,,,0
+1330178400,Samsunspor,Bursaspor,StKLPBm2,YmCZKGcR,0,3,,,,0
+1330178400,Manisaspor,Gaziantepspor,G6WxyD8F,vVd6drcE,0,2,,,,0
+1330189200,Eskisehirspor,Fenerbahce,MB1nlDk2,dENdyFfa,2,1,,,,0
+1330254000,Genclerbirligi,Sivasspor,G6WxyD8F,xxsr0CP0,3,3,,,,0
+1330254000,Basaksehir,Antalyaspor,W6dgKOQi,ptkIYGIF,4,0,,,,0
+1330264800,Trabzonspor,Mersin,MobtE80i,ObO9Alc0,2,3,,,,0
+1330275600,Galatasaray,Besiktas,dEXkR0Wq,UcWWlFia,3,2,,,,0
+1330772400,Ankaragucu,Eskisehirspor,bsGXFuaP,MB1nlDk2,2,5,,,,0
+1330783200,Mersin,Orduspor,ObO9Alc0,MB1nlDk2,1,0,,,,0
+1330783200,Antalyaspor,Samsunspor,ptkIYGIF,StKLPBm2,0,2,,,,0
+1330794000,Fenerbahce,Genclerbirligi,dENdyFfa,G6WxyD8F,6,1,,,,0
+1330866000,Kayserispor,Manisaspor,MB1nlDk2,G6WxyD8F,2,0,,,,0
+1330866000,Gaziantepspor,Basaksehir,vVd6drcE,W6dgKOQi,5,0,,,,0
+1330866000,Bursaspor,Kardemir Karabuk,YmCZKGcR,G6WxyD8F,3,0,,,,0
+1330880400,Besiktas,Trabzonspor,UcWWlFia,MobtE80i,1,2,,,,0
+1330970400,Sivasspor,Galatasaray,xxsr0CP0,dEXkR0Wq,0,4,,,,0
+1331316000,Ankaragucu,Fenerbahce,bsGXFuaP,dENdyFfa,0,2,,,,0
+1331388000,Basaksehir,Kayserispor,W6dgKOQi,MB1nlDk2,1,0,,,,0
+1331398800,Galatasaray,Genclerbirligi,dEXkR0Wq,G6WxyD8F,2,0,,,,0
+1331463600,Samsunspor,Gaziantepspor,StKLPBm2,vVd6drcE,0,0,,,,0
+1331463600,Manisaspor,Mersin,G6WxyD8F,ObO9Alc0,2,0,,,,0
+1331463600,Kardemir Karabuk,Antalyaspor,G6WxyD8F,ptkIYGIF,2,1,,,,0
+1331474400,Orduspor,Besiktas,MB1nlDk2,UcWWlFia,1,1,,,,0
+1331485200,Eskisehirspor,Bursaspor,MB1nlDk2,YmCZKGcR,1,1,,,,0
+1331575200,Trabzonspor,Sivasspor,MobtE80i,xxsr0CP0,2,1,,,,0
+1331920800,Genclerbirligi,Trabzonspor,G6WxyD8F,MobtE80i,1,1,,,,0
+1331989200,Sivasspor,Orduspor,xxsr0CP0,MB1nlDk2,1,1,,,,0
+1331989200,Antalyaspor,Eskisehirspor,ptkIYGIF,MB1nlDk2,0,0,,,,0
+1331998200,Bursaspor,Ankaragucu,YmCZKGcR,bsGXFuaP,2,1,,,,0
+1332007200,Fenerbahce,Galatasaray,dENdyFfa,dEXkR0Wq,2,2,,,,0
+1332075600,Mersin,Basaksehir,ObO9Alc0,W6dgKOQi,2,0,,,,0
+1332090000,Kayserispor,Samsunspor,MB1nlDk2,StKLPBm2,2,0,,,,0
+1332090000,Gaziantepspor,Kardemir Karabuk,vVd6drcE,G6WxyD8F,3,0,,,,0
+1332180000,Besiktas,Manisaspor,UcWWlFia,G6WxyD8F,4,1,,,,0
+1332608400,Fenerbahce,Bursaspor,dENdyFfa,YmCZKGcR,1,0,,,,0
+1332678600,Samsunspor,Mersin,StKLPBm2,ObO9Alc0,2,0,,,,0
+1332678600,Orduspor,Genclerbirligi,MB1nlDk2,G6WxyD8F,0,0,,,,0
+1332678600,Manisaspor,Sivasspor,G6WxyD8F,xxsr0CP0,1,3,,,,0
+1332678600,Kardemir Karabuk,Kayserispor,G6WxyD8F,MB1nlDk2,1,0,,,,0
+1332678600,Eskisehirspor,Gaziantepspor,MB1nlDk2,vVd6drcE,0,2,,,,0
+1332678600,Ankaragucu,Antalyaspor,bsGXFuaP,ptkIYGIF,0,3,,,,0
+1332691200,Galatasaray,Trabzonspor,dEXkR0Wq,MobtE80i,1,1,,,,0
+1332781200,Basaksehir,Besiktas,W6dgKOQi,UcWWlFia,2,2,,,,0
+1333126800,Mersin,Kardemir Karabuk,ObO9Alc0,G6WxyD8F,0,2,,,,0
+1333126800,Gaziantepspor,Ankaragucu,vVd6drcE,bsGXFuaP,1,0,,,,0
+1333197000,Sivasspor,Basaksehir,xxsr0CP0,W6dgKOQi,0,1,,,,0
+1333197000,Kayserispor,Eskisehirspor,MB1nlDk2,MB1nlDk2,2,2,,,,0
+1333197000,Genclerbirligi,Manisaspor,G6WxyD8F,G6WxyD8F,3,0,,,,0
+1333209600,Galatasaray,Orduspor,dEXkR0Wq,MB1nlDk2,2,0,,,,0
+1333281600,Besiktas,Samsunspor,UcWWlFia,StKLPBm2,0,1,,,,0
+1333281600,Antalyaspor,Bursaspor,ptkIYGIF,YmCZKGcR,1,3,,,,0
+1333296000,Trabzonspor,Fenerbahce,MobtE80i,dENdyFfa,1,1,,,,0
+1333731600,Kardemir Karabuk,Besiktas,G6WxyD8F,UcWWlFia,1,1,,,,0
+1333801800,Ankaragucu,Kayserispor,bsGXFuaP,MB1nlDk2,0,5,,,,0
+1333814400,Samsunspor,Sivasspor,StKLPBm2,xxsr0CP0,1,2,,,,0
+1333814400,Fenerbahce,Antalyaspor,dENdyFfa,ptkIYGIF,2,0,,,,0
+1333814400,Eskisehirspor,Mersin,MB1nlDk2,ObO9Alc0,2,0,,,,0
+1333814400,Bursaspor,Gaziantepspor,YmCZKGcR,vVd6drcE,0,2,,,,0
+1333814400,Basaksehir,Genclerbirligi,W6dgKOQi,G6WxyD8F,1,0,,,,0
+1333888200,Orduspor,Trabzonspor,MB1nlDk2,MobtE80i,0,0,,,,0
+1333900800,Manisaspor,Galatasaray,G6WxyD8F,dEXkR0Wq,0,4,,,,0
+1334403000,Basaksehir,Eskisehirspor,W6dgKOQi,MB1nlDk2,1,1,,,,0
+1334419200,Besiktas,Galatasaray,UcWWlFia,dEXkR0Wq,0,2,,,,0
+1334489400,Sivasspor,Bursaspor,xxsr0CP0,YmCZKGcR,4,0,,,,0
+1334505600,Fenerbahce,Trabzonspor,dENdyFfa,MobtE80i,2,0,,,,0
+1335009600,Eskisehirspor,Sivasspor,MB1nlDk2,xxsr0CP0,1,1,,,,0
+1335009600,Bursaspor,Basaksehir,YmCZKGcR,W6dgKOQi,3,2,,,,0
+1335024000,Trabzonspor,Besiktas,MobtE80i,UcWWlFia,1,0,,,,0
+1335110400,Galatasaray,Fenerbahce,dEXkR0Wq,dENdyFfa,1,2,,,,0
+1335614400,Basaksehir,Sivasspor,W6dgKOQi,xxsr0CP0,4,2,,,,0
+1335628800,Trabzonspor,Galatasaray,MobtE80i,dEXkR0Wq,2,4,,,,0
+1335700800,Eskisehirspor,Bursaspor,MB1nlDk2,YmCZKGcR,2,0,,,,0
+1335715200,Fenerbahce,Besiktas,dENdyFfa,UcWWlFia,2,1,,,,0
+1335970800,Sivasspor,Basaksehir,xxsr0CP0,W6dgKOQi,1,2,,,,0
+1335978000,Galatasaray,Trabzonspor,dEXkR0Wq,MobtE80i,0,0,,,,0
+1336057200,Bursaspor,Eskisehirspor,YmCZKGcR,MB1nlDk2,3,2,,,,0
+1336064400,Besiktas,Fenerbahce,UcWWlFia,dENdyFfa,1,0,,,,0
+1336305600,Eskisehirspor,Basaksehir,MB1nlDk2,W6dgKOQi,3,1,,,,0
+1336305600,Bursaspor,Sivasspor,YmCZKGcR,xxsr0CP0,2,0,,,,0
+1336320000,Trabzonspor,Fenerbahce,MobtE80i,dENdyFfa,1,3,,,,0
+1336320000,Galatasaray,Besiktas,dEXkR0Wq,UcWWlFia,2,2,,,,0
+1336755600,Besiktas,Trabzonspor,UcWWlFia,MobtE80i,1,1,,,,0
+1336827600,Sivasspor,Eskisehirspor,xxsr0CP0,MB1nlDk2,1,3,,,,0
+1336827600,Basaksehir,Bursaspor,W6dgKOQi,YmCZKGcR,0,4,,,,0
+1336838400,Fenerbahce,Galatasaray,dENdyFfa,dEXkR0Wq,0,0,,,,0

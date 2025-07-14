@@ -1,22 +1,22 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1319287800,Al-Ahli/Sedab,Al Mdeebe,1,1,Pen,2,1,0
-1319298300,Salalah SC,Al Seeb,0,0,Pen,1,0,0
-1319298300,Oman Club,Sohar,0,1,,,,0
-1319373900,Al Orouba,Mirbat,3,0,,,,0
-1319384700,Sur Club,Fanja SC,2,1,,,,0
-1319460600,Saham,Al-Ittihad,1,1,AET,1,2,0
-1319467800,Yankul,Al Talia,0,3,,,,0
-1319471400,Al Nahda,Dhofar,0,1,,,,0
-1320157200,Sohar,Al-Ittihad,0,0,,,,0
-1320157200,Al Orouba,Sur Club,0,0,,,,0
-1320240600,Al Talia,Salalah SC,0,1,,,,0
-1320248700,Al-Ahli/Sedab,Dhofar,1,3,,,,0
-1321539300,Salalah SC,Al Talia,0,1,Pen,1,1,0
-1321625400,Al-Ittihad,Sohar,1,0,,,,0
-1321634400,Dhofar,Al-Ahli/Sedab,0,0,,,,0
-1321711200,Al Orouba,Sur Club,1,2,,,,0
-1322748900,Sur Club,Al-Ittihad,3,3,,,,0
-1322756100,Dhofar,Salalah SC,1,1,,,,0
-1323268200,Al-Ittihad,Sur Club,0,0,,,,0
-1323278100,Salalah SC,Dhofar,0,2,,,,0
-1324913400,Dhofar,Al-Ittihad,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1319287800,Al-Ahli/Sedab,Al Mdeebe,WbpYXCFI,,1,1,Pen,2,1,0
+1319298300,Salalah SC,Al Seeb,p43mBZR6,2FI4qe8C,0,0,Pen,1,0,0
+1319298300,Oman Club,Sohar,QTo3Gsm1,lzFPYVm9,0,1,,,,0
+1319373900,Al Orouba,Mirbat,G0L5KheQ,v55eKuYK,3,0,,,,0
+1319384700,Sur Club,Fanja SC,QBtY82ON,j7gWRm4i,2,1,,,,0
+1319460600,Saham,Al-Ittihad,l8K8eTW1,Grbzlm1k,1,1,AET,1,2,0
+1319467800,Yankul,Al Talia,0ff1BlZn,Khpf7noh,0,3,,,,0
+1319471400,Al Nahda,Dhofar,SrFXHN94,QidGtpJG,0,1,,,,0
+1320157200,Sohar,Al-Ittihad,lzFPYVm9,Grbzlm1k,0,0,,,,0
+1320157200,Al Orouba,Sur Club,G0L5KheQ,QBtY82ON,0,0,,,,0
+1320240600,Al Talia,Salalah SC,Khpf7noh,p43mBZR6,0,1,,,,0
+1320248700,Al-Ahli/Sedab,Dhofar,WbpYXCFI,QidGtpJG,1,3,,,,0
+1321539300,Salalah SC,Al Talia,p43mBZR6,Khpf7noh,0,1,Pen,1,1,0
+1321625400,Al-Ittihad,Sohar,Grbzlm1k,lzFPYVm9,1,0,,,,0
+1321634400,Dhofar,Al-Ahli/Sedab,QidGtpJG,WbpYXCFI,0,0,,,,0
+1321711200,Al Orouba,Sur Club,G0L5KheQ,QBtY82ON,1,2,,,,0
+1322748900,Sur Club,Al-Ittihad,QBtY82ON,Grbzlm1k,3,3,,,,0
+1322756100,Dhofar,Salalah SC,QidGtpJG,p43mBZR6,1,1,,,,0
+1323268200,Al-Ittihad,Sur Club,Grbzlm1k,QBtY82ON,0,0,,,,0
+1323278100,Salalah SC,Dhofar,p43mBZR6,QidGtpJG,0,2,,,,0
+1324913400,Dhofar,Al-Ittihad,QidGtpJG,Grbzlm1k,1,0,,,,0

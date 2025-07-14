@@ -1,558 +1,558 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1312569900,Hull,Blackpool,0,1,,,,0
-1312630200,Coventry,Leicester,0,1,,,,0
-1312639200,Reading,Millwall,2,2,,,,0
-1312639200,Peterborough,Crystal Palace,2,1,,,,0
-1312639200,Nottingham,Barnsley,0,0,,,,0
-1312639200,Middlesbrough,Portsmouth,2,2,,,,0
-1312639200,Derby,Birmingham,2,1,,,,0
-1312639200,Burnley,Watford,2,2,,,,0
-1312639200,Bristol City,Ipswich,0,3,,,,0
-1312639200,Brighton,Doncaster,2,1,,,,0
-1312647600,Southampton,Leeds,3,1,,,,0
-1312718400,West Ham,Cardiff,0,1,,,,0
-1313244000,Watford,Derby,0,1,,,,0
-1313244000,Portsmouth,Brighton,0,1,,,,0
-1313244000,Millwall,Nottingham,2,0,,,,0
-1313244000,Leicester,Reading,0,2,,,,0
-1313244000,Leeds,Middlesbrough,0,1,,,,0
-1313244000,Ipswich,Hull,0,1,,,,0
-1313244000,Doncaster,West Ham,0,1,,,,0
-1313244000,Crystal Palace,Burnley,2,0,,,,0
-1313244000,Birmingham,Coventry,1,0,,,,0
-1313244000,Barnsley,Southampton,0,1,,,,0
-1313330400,Cardiff,Bristol City,3,1,,,,0
-1313330400,Blackpool,Peterborough,2,1,,,,0
-1313520300,Watford,West Ham,0,4,,,,0
-1313520300,Portsmouth,Reading,1,0,,,,0
-1313520300,Leeds,Hull,4,1,,,,0
-1313520300,Ipswich,Southampton,2,5,,,,0
-1313520300,Doncaster,Nottingham,0,1,,,,0
-1313520300,Barnsley,Middlesbrough,1,3,,,,0
-1313521200,Crystal Palace,Coventry,2,1,,,,0
-1313606700,Millwall,Peterborough,2,2,,,,0
-1313606700,Leicester,Bristol City,1,2,,,,0
-1313606700,Cardiff,Brighton,1,3,,,,0
-1313607600,Blackpool,Derby,0,1,,,,0
-1313848800,Southampton,Millwall,1,0,,,,0
-1313848800,Reading,Barnsley,1,2,,,,0
-1313848800,Nottingham,Leicester,2,2,,,,0
-1313848800,Hull,Crystal Palace,0,1,,,,0
-1313848800,Derby,Doncaster,3,0,,,,0
-1313848800,Coventry,Watford,0,0,,,,0
-1313848800,Burnley,Cardiff,1,1,,,,0
-1313848800,Bristol City,Portsmouth,0,0,,,,0
-1313848800,Brighton,Blackpool,2,2,,,,0
-1313857200,Peterborough,Ipswich,7,1,,,,0
-1313928900,West Ham,Leeds,2,2,,,,0
-1313935200,Middlesbrough,Birmingham,3,1,,,,0
-1314453600,Portsmouth,Cardiff,1,1,,,,0
-1314453600,Millwall,Barnsley,0,0,,,,0
-1314453600,Middlesbrough,Coventry,1,1,,,,0
-1314453600,Leicester,Southampton,3,2,,,,0
-1314453600,Ipswich,Leeds,2,1,,,,0
-1314453600,Hull,Reading,1,0,,,,0
-1314453600,Doncaster,Bristol City,1,1,,,,0
-1314453600,Derby,Burnley,1,2,,,,0
-1314453600,Crystal Palace,Blackpool,1,1,,,,0
-1314453600,Brighton,Peterborough,2,0,,,,0
-1314533700,Nottingham,West Ham,1,4,,,,0
-1314540000,Watford,Birmingham,2,2,,,,0
-1315663200,West Ham,Portsmouth,4,3,,,,0
-1315663200,Southampton,Nottingham,3,2,,,,0
-1315663200,Reading,Watford,0,2,,,,0
-1315663200,Peterborough,Hull,0,1,,,,0
-1315663200,Leeds,Crystal Palace,3,2,,,,0
-1315663200,Cardiff,Doncaster,2,0,,,,0
-1315663200,Burnley,Middlesbrough,0,2,,,,0
-1315663200,Bristol City,Brighton,0,1,,,,0
-1315663200,Blackpool,Ipswich,2,0,,,,0
-1315663200,Barnsley,Leicester,1,1,,,,0
-1315671600,Coventry,Derby,2,0,,,,0
-1315740600,Birmingham,Millwall,3,0,,,,0
-1316259000,Millwall,West Ham,0,0,,,,0
-1316260800,Nottingham,Derby,1,2,,,,0
-1316268000,Reading,Doncaster,2,0,,,,0
-1316268000,Peterborough,Burnley,2,1,,,,0
-1316268000,Leicester,Brighton,1,0,,,,0
-1316268000,Leeds,Bristol City,2,1,,,,0
-1316268000,Hull,Portsmouth,1,0,,,,0
-1316268000,Crystal Palace,Middlesbrough,0,1,,,,0
-1316268000,Blackpool,Cardiff,1,1,,,,0
-1316268000,Barnsley,Watford,1,1,,,,0
-1316354400,Southampton,Birmingham,4,1,,,,0
-1316457900,Ipswich,Coventry,3,0,,,,0
-1316803500,Brighton,Leeds,3,3,,,,0
-1316872800,West Ham,Peterborough,1,0,,,,0
-1316872800,Portsmouth,Blackpool,1,0,,,,0
-1316872800,Middlesbrough,Ipswich,0,0,,,,0
-1316872800,Doncaster,Crystal Palace,1,0,,,,0
-1316872800,Derby,Millwall,3,0,,,,0
-1316872800,Coventry,Reading,1,1,,,,0
-1316872800,Burnley,Southampton,1,1,,,,0
-1316872800,Bristol City,Hull,1,1,,,,0
-1316872800,Birmingham,Barnsley,1,1,,,,0
-1316880900,Watford,Nottingham,0,1,,,,0
-1316952900,Cardiff,Leicester,0,0,,,,0
-1317149100,West Ham,Ipswich,0,1,,,,0
-1317149100,Watford,Millwall,2,1,,,,0
-1317149100,Portsmouth,Peterborough,2,3,,,,0
-1317149100,Doncaster,Hull,1,1,,,,0
-1317149100,Derby,Barnsley,1,1,,,,0
-1317149100,Coventry,Blackpool,2,2,,,,0
-1317149100,Burnley,Nottingham,5,1,,,,0
-1317149100,Bristol City,Reading,2,3,,,,0
-1317149100,Brighton,Crystal Palace,1,3,,,,0
-1317235500,Middlesbrough,Leicester,0,0,,,,0
-1317235500,Cardiff,Southampton,2,1,,,,0
-1317477600,Southampton,Watford,4,0,,,,0
-1317477600,Reading,Middlesbrough,0,0,,,,0
-1317477600,Peterborough,Doncaster,1,2,,,,0
-1317477600,Millwall,Burnley,0,1,,,,0
-1317477600,Leeds,Portsmouth,1,0,,,,0
-1317477600,Ipswich,Brighton,3,1,,,,0
-1317477600,Hull,Cardiff,2,1,,,,0
-1317477600,Crystal Palace,West Ham,2,2,,,,0
-1317477600,Blackpool,Bristol City,5,0,,,,0
-1317477600,Barnsley,Coventry,2,0,,,,0
-1317486000,Leicester,Derby,4,0,,,,0
-1317564000,Nottingham,Birmingham,1,3,,,,0
-1318617900,Doncaster,Leeds,0,3,,,,0
-1318687200,West Ham,Blackpool,4,0,,,,0
-1318687200,Watford,Crystal Palace,0,2,,,,0
-1318687200,Middlesbrough,Millwall,1,1,,,,0
-1318687200,Derby,Southampton,1,1,,,,0
-1318687200,Coventry,Nottingham,1,0,,,,0
-1318687200,Cardiff,Ipswich,2,2,,,,0
-1318687200,Burnley,Reading,0,1,,,,0
-1318687200,Bristol City,Peterborough,1,2,,,,0
-1318695600,Portsmouth,Barnsley,2,0,,,,0
-1318696200,Brighton,Hull,0,0,,,,0
-1318766400,Birmingham,Leicester,2,0,,,,0
-1318963500,Southampton,West Ham,1,0,,,,0
-1318963500,Peterborough,Cardiff,4,3,,,,0
-1318963500,Nottingham,Middlesbrough,2,0,,,,0
-1318963500,Millwall,Brighton,1,1,,,,0
-1318963500,Leeds,Coventry,1,1,,,,0
-1318963500,Ipswich,Portsmouth,1,0,,,,0
-1318963500,Barnsley,Burnley,2,0,,,,0
-1318964400,Reading,Derby,2,2,,,,0
-1318964400,Crystal Palace,Bristol City,1,0,,,,0
-1318964400,Blackpool,Doncaster,2,1,,,,0
-1319049900,Leicester,Watford,2,0,,,,0
-1319281200,Peterborough,Leeds,2,3,,,,0
-1319292000,Portsmouth,Doncaster,3,1,,,,0
-1319292000,Middlesbrough,Derby,2,0,,,,0
-1319292000,Leicester,Millwall,0,3,,,,0
-1319292000,Ipswich,Crystal Palace,0,1,,,,0
-1319292000,Hull,Watford,3,2,,,,0
-1319292000,Coventry,Burnley,1,2,,,,0
-1319292000,Cardiff,Barnsley,5,3,,,,0
-1319292000,Blackpool,Nottingham,1,2,,,,0
-1319300400,Reading,Southampton,1,1,,,,0
-1319378400,Bristol City,Birmingham,0,2,,,,0
-1319481900,Brighton,West Ham,0,1,,,,0
-1319654700,Birmingham,Leeds,1,0,,,,0
-1319896800,West Ham,Leicester,3,2,,,,0
-1319896800,Watford,Peterborough,3,2,,,,0
-1319896800,Southampton,Middlesbrough,3,0,,,,0
-1319896800,Nottingham,Hull,0,1,,,,0
-1319896800,Millwall,Ipswich,4,1,,,,0
-1319896800,Doncaster,Coventry,1,1,,,,0
-1319896800,Derby,Portsmouth,3,1,,,,0
-1319896800,Crystal Palace,Reading,0,0,,,,0
-1319896800,Birmingham,Brighton,0,0,,,,0
-1319896800,Barnsley,Bristol City,1,2,,,,0
-1319905200,Burnley,Blackpool,3,1,,,,0
-1319980500,Leeds,Cardiff,1,1,,,,0
-1320176700,West Ham,Bristol City,0,0,,,,0
-1320176700,Watford,Brighton,1,0,,,,0
-1320176700,Southampton,Peterborough,2,1,,,,0
-1320176700,Nottingham,Reading,1,0,,,,0
-1320176700,Millwall,Coventry,3,0,,,,0
-1320176700,Doncaster,Middlesbrough,1,3,,,,0
-1320176700,Burnley,Leicester,1,3,,,,0
-1320176700,Barnsley,Hull,2,1,,,,0
-1320177600,Crystal Palace,Portsmouth,0,0,,,,0
-1320263100,Leeds,Blackpool,0,5,,,,0
-1320263100,Derby,Cardiff,0,3,,,,0
-1320505200,Portsmouth,Nottingham,3,0,,,,0
-1320505200,Peterborough,Derby,3,2,,,,0
-1320505200,Ipswich,Doncaster,2,3,,,,0
-1320505200,Hull,West Ham,0,2,,,,0
-1320505200,Coventry,Southampton,2,4,,,,0
-1320505200,Cardiff,Crystal Palace,2,0,,,,0
-1320505200,Bristol City,Burnley,3,1,,,,0
-1320505200,Blackpool,Millwall,1,0,,,,0
-1320513600,Middlesbrough,Watford,1,0,,,,0
-1320591600,Reading,Birmingham,1,0,,,,0
-1320591600,Leicester,Leeds,0,1,,,,0
-1320591600,Brighton,Barnsley,2,0,,,,0
-1321706700,Burnley,Leeds,1,2,,,,0
-1321714800,Watford,Portsmouth,2,0,,,,0
-1321714800,Southampton,Brighton,3,0,,,,0
-1321714800,Reading,Cardiff,1,2,,,,0
-1321714800,Nottingham,Ipswich,3,2,,,,0
-1321714800,Middlesbrough,Blackpool,2,2,,,,0
-1321714800,Derby,Hull,0,2,,,,0
-1321714800,Coventry,West Ham,1,2,,,,0
-1321714800,Birmingham,Peterborough,1,1,,,,0
-1321714800,Barnsley,Doncaster,2,0,,,,0
-1321794900,Millwall,Bristol City,1,2,,,,0
-1321801200,Leicester,Crystal Palace,3,0,,,,0
-1321991100,Coventry,Cardiff,1,1,,,,0
-1321991100,Birmingham,Burnley,2,1,,,,0
-1322319600,Portsmouth,Leicester,1,1,,,,0
-1322319600,Peterborough,Middlesbrough,1,1,,,,0
-1322319600,Leeds,Barnsley,1,2,,,,0
-1322319600,Ipswich,Reading,2,3,,,,0
-1322319600,Hull,Burnley,2,3,,,,0
-1322319600,Doncaster,Watford,0,0,,,,0
-1322319600,Crystal Palace,Millwall,0,0,,,,0
-1322319600,Cardiff,Nottingham,1,0,,,,0
-1322319600,Bristol City,Southampton,2,0,,,,0
-1322319600,Brighton,Coventry,2,1,,,,0
-1322319600,Blackpool,Birmingham,2,2,,,,0
-1322328000,West Ham,Derby,3,1,,,,0
-1322595900,Watford,Bristol City,2,2,,,,0
-1322595900,Southampton,Hull,2,1,,,,0
-1322595900,Nottingham,Leeds,0,4,,,,0
-1322595900,Millwall,Doncaster,3,2,,,,0
-1322595900,Middlesbrough,West Ham,0,2,,,,0
-1322595900,Leicester,Blackpool,2,0,,,,0
-1322595900,Derby,Brighton,0,1,,,,0
-1322595900,Burnley,Ipswich,4,0,,,,0
-1322596800,Reading,Peterborough,3,2,,,,0
-1322855100,Crystal Palace,Derby,1,1,,,,0
-1322915400,Leeds,Millwall,2,0,,,,0
-1322924400,West Ham,Burnley,1,2,,,,0
-1322924400,Portsmouth,Coventry,2,1,,,,0
-1322924400,Peterborough,Barnsley,3,4,,,,0
-1322924400,Ipswich,Watford,1,2,,,,0
-1322924400,Hull,Leicester,2,1,,,,0
-1322924400,Doncaster,Southampton,1,0,,,,0
-1322924400,Brighton,Nottingham,1,0,,,,0
-1322924400,Blackpool,Reading,1,0,,,,0
-1322932800,Bristol City,Middlesbrough,0,1,,,,0
-1323001800,Cardiff,Birmingham,1,0,,,,0
-1323200700,Barnsley,Crystal Palace,2,1,,,,0
-1323287100,Hull,Birmingham,2,1,,,,0
-1323521100,Southampton,Blackpool,2,2,,,,0
-1323529200,Watford,Leeds,1,1,,,,0
-1323529200,Reading,West Ham,3,0,,,,0
-1323529200,Nottingham,Crystal Palace,0,1,,,,0
-1323529200,Millwall,Cardiff,0,0,,,,0
-1323529200,Middlesbrough,Brighton,1,0,,,,0
-1323529200,Leicester,Peterborough,1,1,,,,0
-1323529200,Derby,Bristol City,2,1,,,,0
-1323529200,Coventry,Hull,0,1,,,,0
-1323529200,Burnley,Portsmouth,0,1,,,,0
-1323529200,Birmingham,Doncaster,2,1,,,,0
-1323537600,Barnsley,Ipswich,3,5,,,,0
-1324134000,West Ham,Barnsley,1,0,,,,0
-1324134000,Peterborough,Coventry,1,0,,,,0
-1324134000,Leeds,Reading,0,1,,,,0
-1324134000,Ipswich,Derby,1,0,,,,0
-1324134000,Hull,Millwall,2,0,,,,0
-1324134000,Doncaster,Leicester,2,1,,,,0
-1324134000,Cardiff,Middlesbrough,2,3,,,,0
-1324134000,Bristol City,Nottingham,0,0,,,,0
-1324134000,Brighton,Burnley,0,1,,,,0
-1324134000,Blackpool,Watford,0,0,,,,0
-1324213200,Portsmouth,Southampton,1,1,,,,0
-1324323900,Crystal Palace,Birmingham,1,0,,,,0
-1324900800,Watford,Cardiff,1,1,,,,0
-1324904400,Southampton,Crystal Palace,2,0,,,,0
-1324904400,Millwall,Portsmouth,1,0,,,,0
-1324904400,Derby,Leeds,1,0,,,,0
-1324911600,Reading,Brighton,3,0,,,,0
-1324911600,Nottingham,Peterborough,0,1,,,,0
-1324911600,Middlesbrough,Hull,1,0,,,,0
-1324911600,Leicester,Ipswich,1,1,,,,0
-1324911600,Coventry,Bristol City,1,0,,,,0
-1324911600,Burnley,Doncaster,3,0,,,,0
-1324911600,Barnsley,Blackpool,1,3,,,,0
-1324920600,Birmingham,West Ham,1,1,,,,0
-1325274300,Southampton,Bristol City,0,1,,,,0
-1325333700,Leicester,Portsmouth,1,1,,,,0
-1325336400,Watford,Doncaster,4,1,,,,0
-1325336400,Millwall,Crystal Palace,0,1,,,,0
-1325336400,Derby,West Ham,2,1,,,,0
-1325336400,Barnsley,Leeds,4,1,,,,0
-1325343600,Reading,Ipswich,1,0,,,,0
-1325343600,Nottingham,Cardiff,0,1,,,,0
-1325343600,Middlesbrough,Peterborough,1,1,,,,0
-1325343600,Coventry,Brighton,2,0,,,,0
-1325343600,Burnley,Hull,1,0,,,,0
-1325343600,Birmingham,Blackpool,3,0,,,,0
-1325509200,Crystal Palace,Leicester,1,2,,,,0
-1325516400,West Ham,Coventry,1,0,,,,0
-1325516400,Portsmouth,Watford,2,0,,,,0
-1325516400,Peterborough,Birmingham,1,1,,,,0
-1325516400,Leeds,Burnley,2,1,,,,0
-1325516400,Ipswich,Nottingham,1,3,,,,0
-1325516400,Hull,Derby,0,1,,,,0
-1325516400,Doncaster,Barnsley,2,0,,,,0
-1325516400,Cardiff,Reading,3,1,,,,0
-1325516400,Brighton,Southampton,3,0,,,,0
-1325516400,Blackpool,Middlesbrough,3,0,,,,0
-1325619900,Bristol City,Millwall,1,0,,,,0
-1326311100,Birmingham,Ipswich,2,1,,,,0
-1326553200,Portsmouth,West Ham,0,1,,,,0
-1326553200,Nottingham,Southampton,0,3,,,,0
-1326553200,Millwall,Birmingham,0,6,,,,0
-1326553200,Middlesbrough,Burnley,0,2,,,,0
-1326553200,Leicester,Barnsley,1,2,,,,0
-1326553200,Ipswich,Blackpool,2,2,,,,0
-1326553200,Hull,Peterborough,1,0,,,,0
-1326553200,Doncaster,Cardiff,0,0,,,,0
-1326553200,Derby,Coventry,1,0,,,,0
-1326553200,Crystal Palace,Leeds,1,1,,,,0
-1326553200,Brighton,Bristol City,2,0,,,,0
-1326561600,Watford,Reading,1,2,,,,0
-1327158000,West Ham,Nottingham,2,1,,,,0
-1327158000,Reading,Hull,0,1,,,,0
-1327158000,Peterborough,Brighton,1,2,,,,0
-1327158000,Leeds,Ipswich,3,1,,,,0
-1327158000,Coventry,Middlesbrough,3,1,,,,0
-1327158000,Cardiff,Portsmouth,3,2,,,,0
-1327158000,Burnley,Derby,0,0,,,,0
-1327158000,Bristol City,Doncaster,2,1,,,,0
-1327158000,Blackpool,Crystal Palace,2,1,,,,0
-1327158000,Birmingham,Watford,3,0,,,,0
-1327158000,Barnsley,Millwall,1,3,,,,0
-1327347900,Southampton,Leicester,0,2,,,,0
-1327762800,Reading,Bristol City,1,0,,,,0
-1327762800,Peterborough,Portsmouth,0,3,,,,0
-1328039100,Southampton,Cardiff,1,1,,,,0
-1328039100,Nottingham,Burnley,0,2,,,,0
-1328039100,Millwall,Watford,0,2,,,,0
-1328039100,Leeds,Birmingham,1,4,,,,0
-1328039100,Ipswich,West Ham,5,1,,,,0
-1328039100,Hull,Doncaster,0,0,,,,0
-1328039100,Barnsley,Derby,3,2,,,,0
-1328040000,Crystal Palace,Brighton,1,1,,,,0
-1328040000,Blackpool,Coventry,2,1,,,,0
-1328125500,Leicester,Middlesbrough,2,2,,,,0
-1328358600,West Ham,Millwall,2,1,,,,0
-1328367600,Watford,Barnsley,2,1,,,,0
-1328367600,Middlesbrough,Crystal Palace,0,0,,,,0
-1328367600,Coventry,Ipswich,2,3,,,,0
-1328367600,Cardiff,Blackpool,1,3,,,,0
-1328367600,Burnley,Peterborough,1,1,,,,0
-1328367600,Bristol City,Leeds,0,3,,,,0
-1328367600,Brighton,Leicester,1,0,,,,0
-1328376000,Birmingham,Southampton,0,0,,,,0
-1328643900,Birmingham,Portsmouth,1,0,,,,0
-1328972400,Southampton,Burnley,2,0,,,,0
-1328972400,Reading,Coventry,2,0,,,,0
-1328972400,Nottingham,Watford,1,1,,,,0
-1328972400,Millwall,Derby,0,0,,,,0
-1328972400,Leicester,Cardiff,2,1,,,,0
-1328972400,Leeds,Brighton,1,2,,,,0
-1328972400,Hull,Bristol City,3,0,,,,0
-1328980800,Blackpool,Portsmouth,1,1,,,,0
-1329248700,West Ham,Southampton,1,1,,,,0
-1329248700,Watford,Leicester,3,2,,,,0
-1329248700,Portsmouth,Ipswich,0,1,,,,0
-1329248700,Middlesbrough,Nottingham,2,1,,,,0
-1329248700,Doncaster,Blackpool,1,3,,,,0
-1329248700,Derby,Reading,0,1,,,,0
-1329248700,Coventry,Leeds,2,1,,,,0
-1329248700,Cardiff,Peterborough,3,1,,,,0
-1329248700,Burnley,Barnsley,2,0,,,,0
-1329248700,Bristol City,Crystal Palace,2,2,,,,0
-1329248700,Brighton,Millwall,2,2,,,,0
-1329248700,Birmingham,Hull,0,0,,,,0
-1329508800,Reading,Burnley,1,0,,,,0
-1329577200,Southampton,Derby,4,0,,,,0
-1329577200,Peterborough,Bristol City,3,0,,,,0
-1329577200,Nottingham,Coventry,2,0,,,,0
-1329577200,Leeds,Doncaster,3,2,,,,0
-1329577200,Ipswich,Cardiff,3,0,,,,0
-1329577200,Crystal Palace,Watford,4,0,,,,0
-1329577200,Barnsley,Portsmouth,2,0,,,,0
-1329853500,Millwall,Middlesbrough,1,3,,,,0
-1329853500,Barnsley,Birmingham,1,3,,,,0
-1329854400,Blackpool,West Ham,1,4,,,,0
-1329939900,Hull,Brighton,0,0,,,,0
-1330026300,Derby,Leicester,0,1,,,,0
-1330173900,West Ham,Crystal Palace,0,0,,,,0
-1330182000,Watford,Southampton,0,3,,,,0
-1330182000,Portsmouth,Leeds,0,0,,,,0
-1330182000,Middlesbrough,Reading,0,2,,,,0
-1330182000,Doncaster,Peterborough,1,1,,,,0
-1330182000,Coventry,Barnsley,1,0,,,,0
-1330182000,Burnley,Millwall,1,3,,,,0
-1330182000,Bristol City,Blackpool,1,3,,,,0
-1330182000,Brighton,Ipswich,3,0,,,,0
-1330182000,Birmingham,Nottingham,1,2,,,,0
-1330717500,Blackpool,Hull,1,1,,,,0
-1330786800,Watford,Burnley,3,2,,,,0
-1330786800,Portsmouth,Middlesbrough,1,3,,,,0
-1330786800,Millwall,Reading,1,2,,,,0
-1330786800,Leicester,Coventry,2,0,,,,0
-1330786800,Ipswich,Bristol City,3,0,,,,0
-1330786800,Doncaster,Brighton,1,1,,,,0
-1330786800,Crystal Palace,Peterborough,1,0,,,,0
-1330786800,Birmingham,Derby,2,2,,,,0
-1330786800,Barnsley,Nottingham,1,1,,,,0
-1330795200,Leeds,Southampton,0,1,,,,0
-1330865100,Cardiff,West Ham,0,2,,,,0
-1331063100,Southampton,Ipswich,1,1,,,,0
-1331063100,Peterborough,Millwall,0,3,,,,0
-1331063100,Nottingham,Doncaster,1,2,,,,0
-1331063100,Middlesbrough,Barnsley,2,0,,,,0
-1331063100,Hull,Leeds,0,0,,,,0
-1331063100,Derby,Blackpool,2,1,,,,0
-1331063100,Coventry,Crystal Palace,1,1,,,,0
-1331063100,Bristol City,Leicester,3,2,,,,0
-1331064000,Reading,Portsmouth,1,0,,,,0
-1331149500,West Ham,Watford,1,1,,,,0
-1331149500,Brighton,Cardiff,2,2,,,,0
-1331382600,Coventry,Birmingham,1,1,,,,0
-1331391600,West Ham,Doncaster,1,1,,,,0
-1331391600,Southampton,Barnsley,2,0,,,,0
-1331391600,Reading,Leicester,3,1,,,,0
-1331391600,Peterborough,Blackpool,3,1,,,,0
-1331391600,Nottingham,Millwall,3,1,,,,0
-1331391600,Hull,Ipswich,2,2,,,,0
-1331391600,Derby,Watford,1,2,,,,0
-1331391600,Burnley,Crystal Palace,1,1,,,,0
-1331391600,Brighton,Portsmouth,2,0,,,,0
-1331400000,Bristol City,Cardiff,1,2,,,,0
-1331468100,Middlesbrough,Leeds,0,2,,,,0
-1331667900,Leicester,Birmingham,3,1,,,,0
-1331667900,Doncaster,Reading,1,1,,,,0
-1331667900,Derby,Nottingham,1,0,,,,0
-1331667900,Cardiff,Hull,0,3,,,,0
-1331996400,Watford,Coventry,0,0,,,,0
-1331996400,Portsmouth,Bristol City,0,0,,,,0
-1331996400,Millwall,Southampton,2,3,,,,0
-1331996400,Leeds,West Ham,1,1,,,,0
-1331996400,Ipswich,Peterborough,3,2,,,,0
-1331996400,Doncaster,Derby,1,2,,,,0
-1331996400,Crystal Palace,Hull,0,0,,,,0
-1331996400,Blackpool,Brighton,3,1,,,,0
-1331996400,Birmingham,Middlesbrough,3,0,,,,0
-1331996400,Barnsley,Reading,0,4,,,,0
-1332082800,Cardiff,Burnley,0,0,,,,0
-1332272700,West Ham,Middlesbrough,1,1,,,,0
-1332272700,Portsmouth,Birmingham,4,1,,,,0
-1332272700,Peterborough,Reading,3,1,,,,0
-1332272700,Leeds,Nottingham,3,7,,,,0
-1332272700,Hull,Southampton,0,2,,,,0
-1332272700,Doncaster,Millwall,0,3,,,,0
-1332272700,Bristol City,Watford,0,2,,,,0
-1332272700,Brighton,Derby,2,0,,,,0
-1332273600,Crystal Palace,Barnsley,1,0,,,,0
-1332359100,Ipswich,Burnley,1,0,,,,0
-1332359100,Cardiff,Coventry,2,2,,,,0
-1332360000,Blackpool,Leicester,3,3,,,,0
-1332601200,Watford,Ipswich,2,1,,,,0
-1332601200,Southampton,Doncaster,2,0,,,,0
-1332601200,Reading,Blackpool,3,1,,,,0
-1332601200,Nottingham,Brighton,1,1,,,,0
-1332601200,Millwall,Leeds,0,1,,,,0
-1332601200,Middlesbrough,Bristol City,1,1,,,,0
-1332601200,Leicester,Hull,2,1,,,,0
-1332601200,Derby,Crystal Palace,3,2,,,,0
-1332601200,Coventry,Portsmouth,2,0,,,,0
-1332601200,Burnley,West Ham,2,2,,,,0
-1332601200,Barnsley,Peterborough,1,0,,,,0
-1332673200,Birmingham,Cardiff,1,1,,,,0
-1332873900,Portsmouth,Hull,2,0,,,,0
-1332873900,Peterborough,West Ham,0,2,,,,0
-1332873900,Leicester,Nottingham,0,0,,,,0
-1332873900,Ipswich,Middlesbrough,1,1,,,,0
-1332874800,Crystal Palace,Doncaster,1,1,,,,0
-1333133100,Doncaster,Birmingham,1,3,,,,0
-1333193400,Cardiff,Millwall,0,0,,,,0
-1333202400,West Ham,Reading,2,4,,,,0
-1333202400,Portsmouth,Burnley,1,5,,,,0
-1333202400,Peterborough,Leicester,1,0,,,,0
-1333202400,Leeds,Watford,0,2,,,,0
-1333202400,Ipswich,Barnsley,1,0,,,,0
-1333202400,Hull,Coventry,0,2,,,,0
-1333202400,Crystal Palace,Nottingham,0,3,,,,0
-1333202400,Bristol City,Derby,1,1,,,,0
-1333202400,Brighton,Middlesbrough,1,1,,,,0
-1333211100,Blackpool,Southampton,3,0,,,,0
-1333478700,Burnley,Birmingham,1,3,,,,0
-1333717200,Reading,Leeds,2,0,,,,0
-1333720800,Watford,Blackpool,0,2,,,,0
-1333720800,Burnley,Brighton,1,0,,,,0
-1333728900,Barnsley,West Ham,0,4,,,,0
-1333800000,Southampton,Portsmouth,2,2,,,,0
-1333807200,Millwall,Hull,2,0,,,,0
-1333807200,Middlesbrough,Cardiff,0,2,,,,0
-1333807200,Leicester,Doncaster,4,0,,,,0
-1333807200,Derby,Ipswich,0,0,,,,0
-1333807200,Coventry,Peterborough,2,2,,,,0
-1333807200,Birmingham,Crystal Palace,3,1,,,,0
-1333815600,Nottingham,Bristol City,0,1,,,,0
-1333980000,Peterborough,Nottingham,0,1,,,,0
-1333980000,Leeds,Derby,0,2,,,,0
-1333980000,Ipswich,Leicester,1,2,,,,0
-1333980000,Hull,Middlesbrough,2,1,,,,0
-1333980000,Doncaster,Burnley,1,2,,,,0
-1333980000,Crystal Palace,Southampton,0,2,,,,0
-1333980000,Cardiff,Watford,1,1,,,,0
-1333980000,Bristol City,Coventry,3,1,,,,0
-1333980000,Blackpool,Barnsley,1,1,,,,0
-1333988400,West Ham,Birmingham,3,3,,,,0
-1334083500,Portsmouth,Millwall,0,1,,,,0
-1334083500,Brighton,Reading,0,1,,,,0
-1334342700,Southampton,Reading,1,3,,,,0
-1334412000,West Ham,Brighton,6,0,,,,0
-1334412000,Watford,Hull,1,1,,,,0
-1334412000,Nottingham,Blackpool,0,0,,,,0
-1334412000,Millwall,Leicester,2,1,,,,0
-1334412000,Leeds,Peterborough,4,1,,,,0
-1334412000,Doncaster,Portsmouth,3,4,,,,0
-1334412000,Derby,Middlesbrough,0,1,,,,0
-1334412000,Crystal Palace,Ipswich,1,1,,,,0
-1334412000,Burnley,Coventry,1,1,,,,0
-1334412000,Birmingham,Bristol City,2,2,,,,0
-1334412000,Barnsley,Cardiff,0,1,,,,0
-1334688300,Portsmouth,Crystal Palace,2,1,,,,0
-1334688300,Peterborough,Southampton,1,3,,,,0
-1334688300,Middlesbrough,Doncaster,0,0,,,,0
-1334688300,Leicester,Burnley,0,0,,,,0
-1334688300,Ipswich,Birmingham,1,1,,,,0
-1334688300,Hull,Barnsley,3,1,,,,0
-1334688300,Coventry,Millwall,0,1,,,,0
-1334688300,Cardiff,Derby,2,0,,,,0
-1334688300,Bristol City,West Ham,1,1,,,,0
-1334688300,Brighton,Watford,2,2,,,,0
-1334689200,Reading,Nottingham,1,0,,,,0
-1334689200,Blackpool,Leeds,1,0,,,,0
-1335007800,Cardiff,Leeds,1,1,,,,0
-1335016800,Reading,Crystal Palace,2,2,,,,0
-1335016800,Portsmouth,Derby,1,2,,,,0
-1335016800,Peterborough,Watford,2,2,,,,0
-1335016800,Ipswich,Millwall,0,3,,,,0
-1335016800,Hull,Nottingham,2,1,,,,0
-1335016800,Coventry,Doncaster,0,2,,,,0
-1335016800,Bristol City,Barnsley,2,0,,,,0
-1335016800,Brighton,Birmingham,1,1,,,,0
-1335016800,Blackpool,Burnley,4,0,,,,0
-1335025200,Middlesbrough,Southampton,2,1,,,,0
-1335206700,Leicester,West Ham,1,2,,,,0
-1335612600,West Ham,Hull,2,1,,,,0
-1335612600,Watford,Middlesbrough,2,1,,,,0
-1335612600,Southampton,Coventry,4,0,,,,0
-1335612600,Nottingham,Portsmouth,2,0,,,,0
-1335612600,Millwall,Blackpool,2,2,,,,0
-1335612600,Leeds,Leicester,1,2,,,,0
-1335612600,Doncaster,Ipswich,2,3,,,,0
-1335612600,Derby,Peterborough,1,1,,,,0
-1335612600,Crystal Palace,Cardiff,1,2,,,,0
-1335612600,Burnley,Bristol City,1,1,,,,0
-1335612600,Birmingham,Reading,2,0,,,,0
-1335612600,Barnsley,Brighton,0,0,,,,0
-1336070700,Cardiff,West Ham,0,2,,,,0
-1336157100,Blackpool,Birmingham,1,0,,,,0
-1336404600,West Ham,Cardiff,3,0,,,,0
-1336589100,Birmingham,Blackpool,2,2,,,,0
-1337436000,Blackpool,West Ham,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1312569900,Hull,Blackpool,bJFnYpTt,dvLIfKqM,0,1,,,,0
+1312630200,Coventry,Leicester,UuasdTpt,UNZg5BP0,0,1,,,,0
+1312639200,Reading,Millwall,dvLIfKqM,4UX5t7jk,2,2,,,,0
+1312639200,Peterborough,Crystal Palace,vuxu3x67,pzMOQXRe,2,1,,,,0
+1312639200,Nottingham,Barnsley,ImKwLTtA,WdTjExSq,0,0,,,,0
+1312639200,Middlesbrough,Portsmouth,vcNAdtF9,nkTKkN30,2,2,,,,0
+1312639200,Derby,Birmingham,Ykwr8Dur,fuIfr9AH,2,1,,,,0
+1312639200,Burnley,Watford,6PhTI7J6,QHkJrpz6,2,2,,,,0
+1312639200,Bristol City,Ipswich,OdaWmcNh,jXzj6iAf,0,3,,,,0
+1312639200,Brighton,Doncaster,b92lfEJC,fPeDmpgE,2,1,,,,0
+1312647600,Southampton,Leeds,raLYxovi,O4P6Zhap,3,1,,,,0
+1312718400,West Ham,Cardiff,Q9DJHs4l,Iytof9Vn,0,1,,,,0
+1313244000,Watford,Derby,QHkJrpz6,Ykwr8Dur,0,1,,,,0
+1313244000,Portsmouth,Brighton,nkTKkN30,b92lfEJC,0,1,,,,0
+1313244000,Millwall,Nottingham,4UX5t7jk,ImKwLTtA,2,0,,,,0
+1313244000,Leicester,Reading,UNZg5BP0,dvLIfKqM,0,2,,,,0
+1313244000,Leeds,Middlesbrough,O4P6Zhap,vcNAdtF9,0,1,,,,0
+1313244000,Ipswich,Hull,jXzj6iAf,bJFnYpTt,0,1,,,,0
+1313244000,Doncaster,West Ham,fPeDmpgE,Q9DJHs4l,0,1,,,,0
+1313244000,Crystal Palace,Burnley,pzMOQXRe,6PhTI7J6,2,0,,,,0
+1313244000,Birmingham,Coventry,fuIfr9AH,UuasdTpt,1,0,,,,0
+1313244000,Barnsley,Southampton,WdTjExSq,raLYxovi,0,1,,,,0
+1313330400,Cardiff,Bristol City,Iytof9Vn,OdaWmcNh,3,1,,,,0
+1313330400,Blackpool,Peterborough,dvLIfKqM,vuxu3x67,2,1,,,,0
+1313520300,Watford,West Ham,QHkJrpz6,Q9DJHs4l,0,4,,,,0
+1313520300,Portsmouth,Reading,nkTKkN30,dvLIfKqM,1,0,,,,0
+1313520300,Leeds,Hull,O4P6Zhap,bJFnYpTt,4,1,,,,0
+1313520300,Ipswich,Southampton,jXzj6iAf,raLYxovi,2,5,,,,0
+1313520300,Doncaster,Nottingham,fPeDmpgE,ImKwLTtA,0,1,,,,0
+1313520300,Barnsley,Middlesbrough,WdTjExSq,vcNAdtF9,1,3,,,,0
+1313521200,Crystal Palace,Coventry,pzMOQXRe,UuasdTpt,2,1,,,,0
+1313606700,Millwall,Peterborough,4UX5t7jk,vuxu3x67,2,2,,,,0
+1313606700,Leicester,Bristol City,UNZg5BP0,OdaWmcNh,1,2,,,,0
+1313606700,Cardiff,Brighton,Iytof9Vn,b92lfEJC,1,3,,,,0
+1313607600,Blackpool,Derby,dvLIfKqM,Ykwr8Dur,0,1,,,,0
+1313848800,Southampton,Millwall,raLYxovi,4UX5t7jk,1,0,,,,0
+1313848800,Reading,Barnsley,dvLIfKqM,WdTjExSq,1,2,,,,0
+1313848800,Nottingham,Leicester,ImKwLTtA,UNZg5BP0,2,2,,,,0
+1313848800,Hull,Crystal Palace,bJFnYpTt,pzMOQXRe,0,1,,,,0
+1313848800,Derby,Doncaster,Ykwr8Dur,fPeDmpgE,3,0,,,,0
+1313848800,Coventry,Watford,UuasdTpt,QHkJrpz6,0,0,,,,0
+1313848800,Burnley,Cardiff,6PhTI7J6,Iytof9Vn,1,1,,,,0
+1313848800,Bristol City,Portsmouth,OdaWmcNh,nkTKkN30,0,0,,,,0
+1313848800,Brighton,Blackpool,b92lfEJC,dvLIfKqM,2,2,,,,0
+1313857200,Peterborough,Ipswich,vuxu3x67,jXzj6iAf,7,1,,,,0
+1313928900,West Ham,Leeds,Q9DJHs4l,O4P6Zhap,2,2,,,,0
+1313935200,Middlesbrough,Birmingham,vcNAdtF9,fuIfr9AH,3,1,,,,0
+1314453600,Portsmouth,Cardiff,nkTKkN30,Iytof9Vn,1,1,,,,0
+1314453600,Millwall,Barnsley,4UX5t7jk,WdTjExSq,0,0,,,,0
+1314453600,Middlesbrough,Coventry,vcNAdtF9,UuasdTpt,1,1,,,,0
+1314453600,Leicester,Southampton,UNZg5BP0,raLYxovi,3,2,,,,0
+1314453600,Ipswich,Leeds,jXzj6iAf,O4P6Zhap,2,1,,,,0
+1314453600,Hull,Reading,bJFnYpTt,dvLIfKqM,1,0,,,,0
+1314453600,Doncaster,Bristol City,fPeDmpgE,OdaWmcNh,1,1,,,,0
+1314453600,Derby,Burnley,Ykwr8Dur,6PhTI7J6,1,2,,,,0
+1314453600,Crystal Palace,Blackpool,pzMOQXRe,dvLIfKqM,1,1,,,,0
+1314453600,Brighton,Peterborough,b92lfEJC,vuxu3x67,2,0,,,,0
+1314533700,Nottingham,West Ham,ImKwLTtA,Q9DJHs4l,1,4,,,,0
+1314540000,Watford,Birmingham,QHkJrpz6,fuIfr9AH,2,2,,,,0
+1315663200,West Ham,Portsmouth,Q9DJHs4l,nkTKkN30,4,3,,,,0
+1315663200,Southampton,Nottingham,raLYxovi,ImKwLTtA,3,2,,,,0
+1315663200,Reading,Watford,dvLIfKqM,QHkJrpz6,0,2,,,,0
+1315663200,Peterborough,Hull,vuxu3x67,bJFnYpTt,0,1,,,,0
+1315663200,Leeds,Crystal Palace,O4P6Zhap,pzMOQXRe,3,2,,,,0
+1315663200,Cardiff,Doncaster,Iytof9Vn,fPeDmpgE,2,0,,,,0
+1315663200,Burnley,Middlesbrough,6PhTI7J6,vcNAdtF9,0,2,,,,0
+1315663200,Bristol City,Brighton,OdaWmcNh,b92lfEJC,0,1,,,,0
+1315663200,Blackpool,Ipswich,dvLIfKqM,jXzj6iAf,2,0,,,,0
+1315663200,Barnsley,Leicester,WdTjExSq,UNZg5BP0,1,1,,,,0
+1315671600,Coventry,Derby,UuasdTpt,Ykwr8Dur,2,0,,,,0
+1315740600,Birmingham,Millwall,fuIfr9AH,4UX5t7jk,3,0,,,,0
+1316259000,Millwall,West Ham,4UX5t7jk,Q9DJHs4l,0,0,,,,0
+1316260800,Nottingham,Derby,ImKwLTtA,Ykwr8Dur,1,2,,,,0
+1316268000,Reading,Doncaster,dvLIfKqM,fPeDmpgE,2,0,,,,0
+1316268000,Peterborough,Burnley,vuxu3x67,6PhTI7J6,2,1,,,,0
+1316268000,Leicester,Brighton,UNZg5BP0,b92lfEJC,1,0,,,,0
+1316268000,Leeds,Bristol City,O4P6Zhap,OdaWmcNh,2,1,,,,0
+1316268000,Hull,Portsmouth,bJFnYpTt,nkTKkN30,1,0,,,,0
+1316268000,Crystal Palace,Middlesbrough,pzMOQXRe,vcNAdtF9,0,1,,,,0
+1316268000,Blackpool,Cardiff,dvLIfKqM,Iytof9Vn,1,1,,,,0
+1316268000,Barnsley,Watford,WdTjExSq,QHkJrpz6,1,1,,,,0
+1316354400,Southampton,Birmingham,raLYxovi,fuIfr9AH,4,1,,,,0
+1316457900,Ipswich,Coventry,jXzj6iAf,UuasdTpt,3,0,,,,0
+1316803500,Brighton,Leeds,b92lfEJC,O4P6Zhap,3,3,,,,0
+1316872800,West Ham,Peterborough,Q9DJHs4l,vuxu3x67,1,0,,,,0
+1316872800,Portsmouth,Blackpool,nkTKkN30,dvLIfKqM,1,0,,,,0
+1316872800,Middlesbrough,Ipswich,vcNAdtF9,jXzj6iAf,0,0,,,,0
+1316872800,Doncaster,Crystal Palace,fPeDmpgE,pzMOQXRe,1,0,,,,0
+1316872800,Derby,Millwall,Ykwr8Dur,4UX5t7jk,3,0,,,,0
+1316872800,Coventry,Reading,UuasdTpt,dvLIfKqM,1,1,,,,0
+1316872800,Burnley,Southampton,6PhTI7J6,raLYxovi,1,1,,,,0
+1316872800,Bristol City,Hull,OdaWmcNh,bJFnYpTt,1,1,,,,0
+1316872800,Birmingham,Barnsley,fuIfr9AH,WdTjExSq,1,1,,,,0
+1316880900,Watford,Nottingham,QHkJrpz6,ImKwLTtA,0,1,,,,0
+1316952900,Cardiff,Leicester,Iytof9Vn,UNZg5BP0,0,0,,,,0
+1317149100,West Ham,Ipswich,Q9DJHs4l,jXzj6iAf,0,1,,,,0
+1317149100,Watford,Millwall,QHkJrpz6,4UX5t7jk,2,1,,,,0
+1317149100,Portsmouth,Peterborough,nkTKkN30,vuxu3x67,2,3,,,,0
+1317149100,Doncaster,Hull,fPeDmpgE,bJFnYpTt,1,1,,,,0
+1317149100,Derby,Barnsley,Ykwr8Dur,WdTjExSq,1,1,,,,0
+1317149100,Coventry,Blackpool,UuasdTpt,dvLIfKqM,2,2,,,,0
+1317149100,Burnley,Nottingham,6PhTI7J6,ImKwLTtA,5,1,,,,0
+1317149100,Bristol City,Reading,OdaWmcNh,dvLIfKqM,2,3,,,,0
+1317149100,Brighton,Crystal Palace,b92lfEJC,pzMOQXRe,1,3,,,,0
+1317235500,Middlesbrough,Leicester,vcNAdtF9,UNZg5BP0,0,0,,,,0
+1317235500,Cardiff,Southampton,Iytof9Vn,raLYxovi,2,1,,,,0
+1317477600,Southampton,Watford,raLYxovi,QHkJrpz6,4,0,,,,0
+1317477600,Reading,Middlesbrough,dvLIfKqM,vcNAdtF9,0,0,,,,0
+1317477600,Peterborough,Doncaster,vuxu3x67,fPeDmpgE,1,2,,,,0
+1317477600,Millwall,Burnley,4UX5t7jk,6PhTI7J6,0,1,,,,0
+1317477600,Leeds,Portsmouth,O4P6Zhap,nkTKkN30,1,0,,,,0
+1317477600,Ipswich,Brighton,jXzj6iAf,b92lfEJC,3,1,,,,0
+1317477600,Hull,Cardiff,bJFnYpTt,Iytof9Vn,2,1,,,,0
+1317477600,Crystal Palace,West Ham,pzMOQXRe,Q9DJHs4l,2,2,,,,0
+1317477600,Blackpool,Bristol City,dvLIfKqM,OdaWmcNh,5,0,,,,0
+1317477600,Barnsley,Coventry,WdTjExSq,UuasdTpt,2,0,,,,0
+1317486000,Leicester,Derby,UNZg5BP0,Ykwr8Dur,4,0,,,,0
+1317564000,Nottingham,Birmingham,ImKwLTtA,fuIfr9AH,1,3,,,,0
+1318617900,Doncaster,Leeds,fPeDmpgE,O4P6Zhap,0,3,,,,0
+1318687200,West Ham,Blackpool,Q9DJHs4l,dvLIfKqM,4,0,,,,0
+1318687200,Watford,Crystal Palace,QHkJrpz6,pzMOQXRe,0,2,,,,0
+1318687200,Middlesbrough,Millwall,vcNAdtF9,4UX5t7jk,1,1,,,,0
+1318687200,Derby,Southampton,Ykwr8Dur,raLYxovi,1,1,,,,0
+1318687200,Coventry,Nottingham,UuasdTpt,ImKwLTtA,1,0,,,,0
+1318687200,Cardiff,Ipswich,Iytof9Vn,jXzj6iAf,2,2,,,,0
+1318687200,Burnley,Reading,6PhTI7J6,dvLIfKqM,0,1,,,,0
+1318687200,Bristol City,Peterborough,OdaWmcNh,vuxu3x67,1,2,,,,0
+1318695600,Portsmouth,Barnsley,nkTKkN30,WdTjExSq,2,0,,,,0
+1318696200,Brighton,Hull,b92lfEJC,bJFnYpTt,0,0,,,,0
+1318766400,Birmingham,Leicester,fuIfr9AH,UNZg5BP0,2,0,,,,0
+1318963500,Southampton,West Ham,raLYxovi,Q9DJHs4l,1,0,,,,0
+1318963500,Peterborough,Cardiff,vuxu3x67,Iytof9Vn,4,3,,,,0
+1318963500,Nottingham,Middlesbrough,ImKwLTtA,vcNAdtF9,2,0,,,,0
+1318963500,Millwall,Brighton,4UX5t7jk,b92lfEJC,1,1,,,,0
+1318963500,Leeds,Coventry,O4P6Zhap,UuasdTpt,1,1,,,,0
+1318963500,Ipswich,Portsmouth,jXzj6iAf,nkTKkN30,1,0,,,,0
+1318963500,Barnsley,Burnley,WdTjExSq,6PhTI7J6,2,0,,,,0
+1318964400,Reading,Derby,dvLIfKqM,Ykwr8Dur,2,2,,,,0
+1318964400,Crystal Palace,Bristol City,pzMOQXRe,OdaWmcNh,1,0,,,,0
+1318964400,Blackpool,Doncaster,dvLIfKqM,fPeDmpgE,2,1,,,,0
+1319049900,Leicester,Watford,UNZg5BP0,QHkJrpz6,2,0,,,,0
+1319281200,Peterborough,Leeds,vuxu3x67,O4P6Zhap,2,3,,,,0
+1319292000,Portsmouth,Doncaster,nkTKkN30,fPeDmpgE,3,1,,,,0
+1319292000,Middlesbrough,Derby,vcNAdtF9,Ykwr8Dur,2,0,,,,0
+1319292000,Leicester,Millwall,UNZg5BP0,4UX5t7jk,0,3,,,,0
+1319292000,Ipswich,Crystal Palace,jXzj6iAf,pzMOQXRe,0,1,,,,0
+1319292000,Hull,Watford,bJFnYpTt,QHkJrpz6,3,2,,,,0
+1319292000,Coventry,Burnley,UuasdTpt,6PhTI7J6,1,2,,,,0
+1319292000,Cardiff,Barnsley,Iytof9Vn,WdTjExSq,5,3,,,,0
+1319292000,Blackpool,Nottingham,dvLIfKqM,ImKwLTtA,1,2,,,,0
+1319300400,Reading,Southampton,dvLIfKqM,raLYxovi,1,1,,,,0
+1319378400,Bristol City,Birmingham,OdaWmcNh,fuIfr9AH,0,2,,,,0
+1319481900,Brighton,West Ham,b92lfEJC,Q9DJHs4l,0,1,,,,0
+1319654700,Birmingham,Leeds,fuIfr9AH,O4P6Zhap,1,0,,,,0
+1319896800,West Ham,Leicester,Q9DJHs4l,UNZg5BP0,3,2,,,,0
+1319896800,Watford,Peterborough,QHkJrpz6,vuxu3x67,3,2,,,,0
+1319896800,Southampton,Middlesbrough,raLYxovi,vcNAdtF9,3,0,,,,0
+1319896800,Nottingham,Hull,ImKwLTtA,bJFnYpTt,0,1,,,,0
+1319896800,Millwall,Ipswich,4UX5t7jk,jXzj6iAf,4,1,,,,0
+1319896800,Doncaster,Coventry,fPeDmpgE,UuasdTpt,1,1,,,,0
+1319896800,Derby,Portsmouth,Ykwr8Dur,nkTKkN30,3,1,,,,0
+1319896800,Crystal Palace,Reading,pzMOQXRe,dvLIfKqM,0,0,,,,0
+1319896800,Birmingham,Brighton,fuIfr9AH,b92lfEJC,0,0,,,,0
+1319896800,Barnsley,Bristol City,WdTjExSq,OdaWmcNh,1,2,,,,0
+1319905200,Burnley,Blackpool,6PhTI7J6,dvLIfKqM,3,1,,,,0
+1319980500,Leeds,Cardiff,O4P6Zhap,Iytof9Vn,1,1,,,,0
+1320176700,West Ham,Bristol City,Q9DJHs4l,OdaWmcNh,0,0,,,,0
+1320176700,Watford,Brighton,QHkJrpz6,b92lfEJC,1,0,,,,0
+1320176700,Southampton,Peterborough,raLYxovi,vuxu3x67,2,1,,,,0
+1320176700,Nottingham,Reading,ImKwLTtA,dvLIfKqM,1,0,,,,0
+1320176700,Millwall,Coventry,4UX5t7jk,UuasdTpt,3,0,,,,0
+1320176700,Doncaster,Middlesbrough,fPeDmpgE,vcNAdtF9,1,3,,,,0
+1320176700,Burnley,Leicester,6PhTI7J6,UNZg5BP0,1,3,,,,0
+1320176700,Barnsley,Hull,WdTjExSq,bJFnYpTt,2,1,,,,0
+1320177600,Crystal Palace,Portsmouth,pzMOQXRe,nkTKkN30,0,0,,,,0
+1320263100,Leeds,Blackpool,O4P6Zhap,dvLIfKqM,0,5,,,,0
+1320263100,Derby,Cardiff,Ykwr8Dur,Iytof9Vn,0,3,,,,0
+1320505200,Portsmouth,Nottingham,nkTKkN30,ImKwLTtA,3,0,,,,0
+1320505200,Peterborough,Derby,vuxu3x67,Ykwr8Dur,3,2,,,,0
+1320505200,Ipswich,Doncaster,jXzj6iAf,fPeDmpgE,2,3,,,,0
+1320505200,Hull,West Ham,bJFnYpTt,Q9DJHs4l,0,2,,,,0
+1320505200,Coventry,Southampton,UuasdTpt,raLYxovi,2,4,,,,0
+1320505200,Cardiff,Crystal Palace,Iytof9Vn,pzMOQXRe,2,0,,,,0
+1320505200,Bristol City,Burnley,OdaWmcNh,6PhTI7J6,3,1,,,,0
+1320505200,Blackpool,Millwall,dvLIfKqM,4UX5t7jk,1,0,,,,0
+1320513600,Middlesbrough,Watford,vcNAdtF9,QHkJrpz6,1,0,,,,0
+1320591600,Reading,Birmingham,dvLIfKqM,fuIfr9AH,1,0,,,,0
+1320591600,Leicester,Leeds,UNZg5BP0,O4P6Zhap,0,1,,,,0
+1320591600,Brighton,Barnsley,b92lfEJC,WdTjExSq,2,0,,,,0
+1321706700,Burnley,Leeds,6PhTI7J6,O4P6Zhap,1,2,,,,0
+1321714800,Watford,Portsmouth,QHkJrpz6,nkTKkN30,2,0,,,,0
+1321714800,Southampton,Brighton,raLYxovi,b92lfEJC,3,0,,,,0
+1321714800,Reading,Cardiff,dvLIfKqM,Iytof9Vn,1,2,,,,0
+1321714800,Nottingham,Ipswich,ImKwLTtA,jXzj6iAf,3,2,,,,0
+1321714800,Middlesbrough,Blackpool,vcNAdtF9,dvLIfKqM,2,2,,,,0
+1321714800,Derby,Hull,Ykwr8Dur,bJFnYpTt,0,2,,,,0
+1321714800,Coventry,West Ham,UuasdTpt,Q9DJHs4l,1,2,,,,0
+1321714800,Birmingham,Peterborough,fuIfr9AH,vuxu3x67,1,1,,,,0
+1321714800,Barnsley,Doncaster,WdTjExSq,fPeDmpgE,2,0,,,,0
+1321794900,Millwall,Bristol City,4UX5t7jk,OdaWmcNh,1,2,,,,0
+1321801200,Leicester,Crystal Palace,UNZg5BP0,pzMOQXRe,3,0,,,,0
+1321991100,Coventry,Cardiff,UuasdTpt,Iytof9Vn,1,1,,,,0
+1321991100,Birmingham,Burnley,fuIfr9AH,6PhTI7J6,2,1,,,,0
+1322319600,Portsmouth,Leicester,nkTKkN30,UNZg5BP0,1,1,,,,0
+1322319600,Peterborough,Middlesbrough,vuxu3x67,vcNAdtF9,1,1,,,,0
+1322319600,Leeds,Barnsley,O4P6Zhap,WdTjExSq,1,2,,,,0
+1322319600,Ipswich,Reading,jXzj6iAf,dvLIfKqM,2,3,,,,0
+1322319600,Hull,Burnley,bJFnYpTt,6PhTI7J6,2,3,,,,0
+1322319600,Doncaster,Watford,fPeDmpgE,QHkJrpz6,0,0,,,,0
+1322319600,Crystal Palace,Millwall,pzMOQXRe,4UX5t7jk,0,0,,,,0
+1322319600,Cardiff,Nottingham,Iytof9Vn,ImKwLTtA,1,0,,,,0
+1322319600,Bristol City,Southampton,OdaWmcNh,raLYxovi,2,0,,,,0
+1322319600,Brighton,Coventry,b92lfEJC,UuasdTpt,2,1,,,,0
+1322319600,Blackpool,Birmingham,dvLIfKqM,fuIfr9AH,2,2,,,,0
+1322328000,West Ham,Derby,Q9DJHs4l,Ykwr8Dur,3,1,,,,0
+1322595900,Watford,Bristol City,QHkJrpz6,OdaWmcNh,2,2,,,,0
+1322595900,Southampton,Hull,raLYxovi,bJFnYpTt,2,1,,,,0
+1322595900,Nottingham,Leeds,ImKwLTtA,O4P6Zhap,0,4,,,,0
+1322595900,Millwall,Doncaster,4UX5t7jk,fPeDmpgE,3,2,,,,0
+1322595900,Middlesbrough,West Ham,vcNAdtF9,Q9DJHs4l,0,2,,,,0
+1322595900,Leicester,Blackpool,UNZg5BP0,dvLIfKqM,2,0,,,,0
+1322595900,Derby,Brighton,Ykwr8Dur,b92lfEJC,0,1,,,,0
+1322595900,Burnley,Ipswich,6PhTI7J6,jXzj6iAf,4,0,,,,0
+1322596800,Reading,Peterborough,dvLIfKqM,vuxu3x67,3,2,,,,0
+1322855100,Crystal Palace,Derby,pzMOQXRe,Ykwr8Dur,1,1,,,,0
+1322915400,Leeds,Millwall,O4P6Zhap,4UX5t7jk,2,0,,,,0
+1322924400,West Ham,Burnley,Q9DJHs4l,6PhTI7J6,1,2,,,,0
+1322924400,Portsmouth,Coventry,nkTKkN30,UuasdTpt,2,1,,,,0
+1322924400,Peterborough,Barnsley,vuxu3x67,WdTjExSq,3,4,,,,0
+1322924400,Ipswich,Watford,jXzj6iAf,QHkJrpz6,1,2,,,,0
+1322924400,Hull,Leicester,bJFnYpTt,UNZg5BP0,2,1,,,,0
+1322924400,Doncaster,Southampton,fPeDmpgE,raLYxovi,1,0,,,,0
+1322924400,Brighton,Nottingham,b92lfEJC,ImKwLTtA,1,0,,,,0
+1322924400,Blackpool,Reading,dvLIfKqM,dvLIfKqM,1,0,,,,0
+1322932800,Bristol City,Middlesbrough,OdaWmcNh,vcNAdtF9,0,1,,,,0
+1323001800,Cardiff,Birmingham,Iytof9Vn,fuIfr9AH,1,0,,,,0
+1323200700,Barnsley,Crystal Palace,WdTjExSq,pzMOQXRe,2,1,,,,0
+1323287100,Hull,Birmingham,bJFnYpTt,fuIfr9AH,2,1,,,,0
+1323521100,Southampton,Blackpool,raLYxovi,dvLIfKqM,2,2,,,,0
+1323529200,Watford,Leeds,QHkJrpz6,O4P6Zhap,1,1,,,,0
+1323529200,Reading,West Ham,dvLIfKqM,Q9DJHs4l,3,0,,,,0
+1323529200,Nottingham,Crystal Palace,ImKwLTtA,pzMOQXRe,0,1,,,,0
+1323529200,Millwall,Cardiff,4UX5t7jk,Iytof9Vn,0,0,,,,0
+1323529200,Middlesbrough,Brighton,vcNAdtF9,b92lfEJC,1,0,,,,0
+1323529200,Leicester,Peterborough,UNZg5BP0,vuxu3x67,1,1,,,,0
+1323529200,Derby,Bristol City,Ykwr8Dur,OdaWmcNh,2,1,,,,0
+1323529200,Coventry,Hull,UuasdTpt,bJFnYpTt,0,1,,,,0
+1323529200,Burnley,Portsmouth,6PhTI7J6,nkTKkN30,0,1,,,,0
+1323529200,Birmingham,Doncaster,fuIfr9AH,fPeDmpgE,2,1,,,,0
+1323537600,Barnsley,Ipswich,WdTjExSq,jXzj6iAf,3,5,,,,0
+1324134000,West Ham,Barnsley,Q9DJHs4l,WdTjExSq,1,0,,,,0
+1324134000,Peterborough,Coventry,vuxu3x67,UuasdTpt,1,0,,,,0
+1324134000,Leeds,Reading,O4P6Zhap,dvLIfKqM,0,1,,,,0
+1324134000,Ipswich,Derby,jXzj6iAf,Ykwr8Dur,1,0,,,,0
+1324134000,Hull,Millwall,bJFnYpTt,4UX5t7jk,2,0,,,,0
+1324134000,Doncaster,Leicester,fPeDmpgE,UNZg5BP0,2,1,,,,0
+1324134000,Cardiff,Middlesbrough,Iytof9Vn,vcNAdtF9,2,3,,,,0
+1324134000,Bristol City,Nottingham,OdaWmcNh,ImKwLTtA,0,0,,,,0
+1324134000,Brighton,Burnley,b92lfEJC,6PhTI7J6,0,1,,,,0
+1324134000,Blackpool,Watford,dvLIfKqM,QHkJrpz6,0,0,,,,0
+1324213200,Portsmouth,Southampton,nkTKkN30,raLYxovi,1,1,,,,0
+1324323900,Crystal Palace,Birmingham,pzMOQXRe,fuIfr9AH,1,0,,,,0
+1324900800,Watford,Cardiff,QHkJrpz6,Iytof9Vn,1,1,,,,0
+1324904400,Southampton,Crystal Palace,raLYxovi,pzMOQXRe,2,0,,,,0
+1324904400,Millwall,Portsmouth,4UX5t7jk,nkTKkN30,1,0,,,,0
+1324904400,Derby,Leeds,Ykwr8Dur,O4P6Zhap,1,0,,,,0
+1324911600,Reading,Brighton,dvLIfKqM,b92lfEJC,3,0,,,,0
+1324911600,Nottingham,Peterborough,ImKwLTtA,vuxu3x67,0,1,,,,0
+1324911600,Middlesbrough,Hull,vcNAdtF9,bJFnYpTt,1,0,,,,0
+1324911600,Leicester,Ipswich,UNZg5BP0,jXzj6iAf,1,1,,,,0
+1324911600,Coventry,Bristol City,UuasdTpt,OdaWmcNh,1,0,,,,0
+1324911600,Burnley,Doncaster,6PhTI7J6,fPeDmpgE,3,0,,,,0
+1324911600,Barnsley,Blackpool,WdTjExSq,dvLIfKqM,1,3,,,,0
+1324920600,Birmingham,West Ham,fuIfr9AH,Q9DJHs4l,1,1,,,,0
+1325274300,Southampton,Bristol City,raLYxovi,OdaWmcNh,0,1,,,,0
+1325333700,Leicester,Portsmouth,UNZg5BP0,nkTKkN30,1,1,,,,0
+1325336400,Watford,Doncaster,QHkJrpz6,fPeDmpgE,4,1,,,,0
+1325336400,Millwall,Crystal Palace,4UX5t7jk,pzMOQXRe,0,1,,,,0
+1325336400,Derby,West Ham,Ykwr8Dur,Q9DJHs4l,2,1,,,,0
+1325336400,Barnsley,Leeds,WdTjExSq,O4P6Zhap,4,1,,,,0
+1325343600,Reading,Ipswich,dvLIfKqM,jXzj6iAf,1,0,,,,0
+1325343600,Nottingham,Cardiff,ImKwLTtA,Iytof9Vn,0,1,,,,0
+1325343600,Middlesbrough,Peterborough,vcNAdtF9,vuxu3x67,1,1,,,,0
+1325343600,Coventry,Brighton,UuasdTpt,b92lfEJC,2,0,,,,0
+1325343600,Burnley,Hull,6PhTI7J6,bJFnYpTt,1,0,,,,0
+1325343600,Birmingham,Blackpool,fuIfr9AH,dvLIfKqM,3,0,,,,0
+1325509200,Crystal Palace,Leicester,pzMOQXRe,UNZg5BP0,1,2,,,,0
+1325516400,West Ham,Coventry,Q9DJHs4l,UuasdTpt,1,0,,,,0
+1325516400,Portsmouth,Watford,nkTKkN30,QHkJrpz6,2,0,,,,0
+1325516400,Peterborough,Birmingham,vuxu3x67,fuIfr9AH,1,1,,,,0
+1325516400,Leeds,Burnley,O4P6Zhap,6PhTI7J6,2,1,,,,0
+1325516400,Ipswich,Nottingham,jXzj6iAf,ImKwLTtA,1,3,,,,0
+1325516400,Hull,Derby,bJFnYpTt,Ykwr8Dur,0,1,,,,0
+1325516400,Doncaster,Barnsley,fPeDmpgE,WdTjExSq,2,0,,,,0
+1325516400,Cardiff,Reading,Iytof9Vn,dvLIfKqM,3,1,,,,0
+1325516400,Brighton,Southampton,b92lfEJC,raLYxovi,3,0,,,,0
+1325516400,Blackpool,Middlesbrough,dvLIfKqM,vcNAdtF9,3,0,,,,0
+1325619900,Bristol City,Millwall,OdaWmcNh,4UX5t7jk,1,0,,,,0
+1326311100,Birmingham,Ipswich,fuIfr9AH,jXzj6iAf,2,1,,,,0
+1326553200,Portsmouth,West Ham,nkTKkN30,Q9DJHs4l,0,1,,,,0
+1326553200,Nottingham,Southampton,ImKwLTtA,raLYxovi,0,3,,,,0
+1326553200,Millwall,Birmingham,4UX5t7jk,fuIfr9AH,0,6,,,,0
+1326553200,Middlesbrough,Burnley,vcNAdtF9,6PhTI7J6,0,2,,,,0
+1326553200,Leicester,Barnsley,UNZg5BP0,WdTjExSq,1,2,,,,0
+1326553200,Ipswich,Blackpool,jXzj6iAf,dvLIfKqM,2,2,,,,0
+1326553200,Hull,Peterborough,bJFnYpTt,vuxu3x67,1,0,,,,0
+1326553200,Doncaster,Cardiff,fPeDmpgE,Iytof9Vn,0,0,,,,0
+1326553200,Derby,Coventry,Ykwr8Dur,UuasdTpt,1,0,,,,0
+1326553200,Crystal Palace,Leeds,pzMOQXRe,O4P6Zhap,1,1,,,,0
+1326553200,Brighton,Bristol City,b92lfEJC,OdaWmcNh,2,0,,,,0
+1326561600,Watford,Reading,QHkJrpz6,dvLIfKqM,1,2,,,,0
+1327158000,West Ham,Nottingham,Q9DJHs4l,ImKwLTtA,2,1,,,,0
+1327158000,Reading,Hull,dvLIfKqM,bJFnYpTt,0,1,,,,0
+1327158000,Peterborough,Brighton,vuxu3x67,b92lfEJC,1,2,,,,0
+1327158000,Leeds,Ipswich,O4P6Zhap,jXzj6iAf,3,1,,,,0
+1327158000,Coventry,Middlesbrough,UuasdTpt,vcNAdtF9,3,1,,,,0
+1327158000,Cardiff,Portsmouth,Iytof9Vn,nkTKkN30,3,2,,,,0
+1327158000,Burnley,Derby,6PhTI7J6,Ykwr8Dur,0,0,,,,0
+1327158000,Bristol City,Doncaster,OdaWmcNh,fPeDmpgE,2,1,,,,0
+1327158000,Blackpool,Crystal Palace,dvLIfKqM,pzMOQXRe,2,1,,,,0
+1327158000,Birmingham,Watford,fuIfr9AH,QHkJrpz6,3,0,,,,0
+1327158000,Barnsley,Millwall,WdTjExSq,4UX5t7jk,1,3,,,,0
+1327347900,Southampton,Leicester,raLYxovi,UNZg5BP0,0,2,,,,0
+1327762800,Reading,Bristol City,dvLIfKqM,OdaWmcNh,1,0,,,,0
+1327762800,Peterborough,Portsmouth,vuxu3x67,nkTKkN30,0,3,,,,0
+1328039100,Southampton,Cardiff,raLYxovi,Iytof9Vn,1,1,,,,0
+1328039100,Nottingham,Burnley,ImKwLTtA,6PhTI7J6,0,2,,,,0
+1328039100,Millwall,Watford,4UX5t7jk,QHkJrpz6,0,2,,,,0
+1328039100,Leeds,Birmingham,O4P6Zhap,fuIfr9AH,1,4,,,,0
+1328039100,Ipswich,West Ham,jXzj6iAf,Q9DJHs4l,5,1,,,,0
+1328039100,Hull,Doncaster,bJFnYpTt,fPeDmpgE,0,0,,,,0
+1328039100,Barnsley,Derby,WdTjExSq,Ykwr8Dur,3,2,,,,0
+1328040000,Crystal Palace,Brighton,pzMOQXRe,b92lfEJC,1,1,,,,0
+1328040000,Blackpool,Coventry,dvLIfKqM,UuasdTpt,2,1,,,,0
+1328125500,Leicester,Middlesbrough,UNZg5BP0,vcNAdtF9,2,2,,,,0
+1328358600,West Ham,Millwall,Q9DJHs4l,4UX5t7jk,2,1,,,,0
+1328367600,Watford,Barnsley,QHkJrpz6,WdTjExSq,2,1,,,,0
+1328367600,Middlesbrough,Crystal Palace,vcNAdtF9,pzMOQXRe,0,0,,,,0
+1328367600,Coventry,Ipswich,UuasdTpt,jXzj6iAf,2,3,,,,0
+1328367600,Cardiff,Blackpool,Iytof9Vn,dvLIfKqM,1,3,,,,0
+1328367600,Burnley,Peterborough,6PhTI7J6,vuxu3x67,1,1,,,,0
+1328367600,Bristol City,Leeds,OdaWmcNh,O4P6Zhap,0,3,,,,0
+1328367600,Brighton,Leicester,b92lfEJC,UNZg5BP0,1,0,,,,0
+1328376000,Birmingham,Southampton,fuIfr9AH,raLYxovi,0,0,,,,0
+1328643900,Birmingham,Portsmouth,fuIfr9AH,nkTKkN30,1,0,,,,0
+1328972400,Southampton,Burnley,raLYxovi,6PhTI7J6,2,0,,,,0
+1328972400,Reading,Coventry,dvLIfKqM,UuasdTpt,2,0,,,,0
+1328972400,Nottingham,Watford,ImKwLTtA,QHkJrpz6,1,1,,,,0
+1328972400,Millwall,Derby,4UX5t7jk,Ykwr8Dur,0,0,,,,0
+1328972400,Leicester,Cardiff,UNZg5BP0,Iytof9Vn,2,1,,,,0
+1328972400,Leeds,Brighton,O4P6Zhap,b92lfEJC,1,2,,,,0
+1328972400,Hull,Bristol City,bJFnYpTt,OdaWmcNh,3,0,,,,0
+1328980800,Blackpool,Portsmouth,dvLIfKqM,nkTKkN30,1,1,,,,0
+1329248700,West Ham,Southampton,Q9DJHs4l,raLYxovi,1,1,,,,0
+1329248700,Watford,Leicester,QHkJrpz6,UNZg5BP0,3,2,,,,0
+1329248700,Portsmouth,Ipswich,nkTKkN30,jXzj6iAf,0,1,,,,0
+1329248700,Middlesbrough,Nottingham,vcNAdtF9,ImKwLTtA,2,1,,,,0
+1329248700,Doncaster,Blackpool,fPeDmpgE,dvLIfKqM,1,3,,,,0
+1329248700,Derby,Reading,Ykwr8Dur,dvLIfKqM,0,1,,,,0
+1329248700,Coventry,Leeds,UuasdTpt,O4P6Zhap,2,1,,,,0
+1329248700,Cardiff,Peterborough,Iytof9Vn,vuxu3x67,3,1,,,,0
+1329248700,Burnley,Barnsley,6PhTI7J6,WdTjExSq,2,0,,,,0
+1329248700,Bristol City,Crystal Palace,OdaWmcNh,pzMOQXRe,2,2,,,,0
+1329248700,Brighton,Millwall,b92lfEJC,4UX5t7jk,2,2,,,,0
+1329248700,Birmingham,Hull,fuIfr9AH,bJFnYpTt,0,0,,,,0
+1329508800,Reading,Burnley,dvLIfKqM,6PhTI7J6,1,0,,,,0
+1329577200,Southampton,Derby,raLYxovi,Ykwr8Dur,4,0,,,,0
+1329577200,Peterborough,Bristol City,vuxu3x67,OdaWmcNh,3,0,,,,0
+1329577200,Nottingham,Coventry,ImKwLTtA,UuasdTpt,2,0,,,,0
+1329577200,Leeds,Doncaster,O4P6Zhap,fPeDmpgE,3,2,,,,0
+1329577200,Ipswich,Cardiff,jXzj6iAf,Iytof9Vn,3,0,,,,0
+1329577200,Crystal Palace,Watford,pzMOQXRe,QHkJrpz6,4,0,,,,0
+1329577200,Barnsley,Portsmouth,WdTjExSq,nkTKkN30,2,0,,,,0
+1329853500,Millwall,Middlesbrough,4UX5t7jk,vcNAdtF9,1,3,,,,0
+1329853500,Barnsley,Birmingham,WdTjExSq,fuIfr9AH,1,3,,,,0
+1329854400,Blackpool,West Ham,dvLIfKqM,Q9DJHs4l,1,4,,,,0
+1329939900,Hull,Brighton,bJFnYpTt,b92lfEJC,0,0,,,,0
+1330026300,Derby,Leicester,Ykwr8Dur,UNZg5BP0,0,1,,,,0
+1330173900,West Ham,Crystal Palace,Q9DJHs4l,pzMOQXRe,0,0,,,,0
+1330182000,Watford,Southampton,QHkJrpz6,raLYxovi,0,3,,,,0
+1330182000,Portsmouth,Leeds,nkTKkN30,O4P6Zhap,0,0,,,,0
+1330182000,Middlesbrough,Reading,vcNAdtF9,dvLIfKqM,0,2,,,,0
+1330182000,Doncaster,Peterborough,fPeDmpgE,vuxu3x67,1,1,,,,0
+1330182000,Coventry,Barnsley,UuasdTpt,WdTjExSq,1,0,,,,0
+1330182000,Burnley,Millwall,6PhTI7J6,4UX5t7jk,1,3,,,,0
+1330182000,Bristol City,Blackpool,OdaWmcNh,dvLIfKqM,1,3,,,,0
+1330182000,Brighton,Ipswich,b92lfEJC,jXzj6iAf,3,0,,,,0
+1330182000,Birmingham,Nottingham,fuIfr9AH,ImKwLTtA,1,2,,,,0
+1330717500,Blackpool,Hull,dvLIfKqM,bJFnYpTt,1,1,,,,0
+1330786800,Watford,Burnley,QHkJrpz6,6PhTI7J6,3,2,,,,0
+1330786800,Portsmouth,Middlesbrough,nkTKkN30,vcNAdtF9,1,3,,,,0
+1330786800,Millwall,Reading,4UX5t7jk,dvLIfKqM,1,2,,,,0
+1330786800,Leicester,Coventry,UNZg5BP0,UuasdTpt,2,0,,,,0
+1330786800,Ipswich,Bristol City,jXzj6iAf,OdaWmcNh,3,0,,,,0
+1330786800,Doncaster,Brighton,fPeDmpgE,b92lfEJC,1,1,,,,0
+1330786800,Crystal Palace,Peterborough,pzMOQXRe,vuxu3x67,1,0,,,,0
+1330786800,Birmingham,Derby,fuIfr9AH,Ykwr8Dur,2,2,,,,0
+1330786800,Barnsley,Nottingham,WdTjExSq,ImKwLTtA,1,1,,,,0
+1330795200,Leeds,Southampton,O4P6Zhap,raLYxovi,0,1,,,,0
+1330865100,Cardiff,West Ham,Iytof9Vn,Q9DJHs4l,0,2,,,,0
+1331063100,Southampton,Ipswich,raLYxovi,jXzj6iAf,1,1,,,,0
+1331063100,Peterborough,Millwall,vuxu3x67,4UX5t7jk,0,3,,,,0
+1331063100,Nottingham,Doncaster,ImKwLTtA,fPeDmpgE,1,2,,,,0
+1331063100,Middlesbrough,Barnsley,vcNAdtF9,WdTjExSq,2,0,,,,0
+1331063100,Hull,Leeds,bJFnYpTt,O4P6Zhap,0,0,,,,0
+1331063100,Derby,Blackpool,Ykwr8Dur,dvLIfKqM,2,1,,,,0
+1331063100,Coventry,Crystal Palace,UuasdTpt,pzMOQXRe,1,1,,,,0
+1331063100,Bristol City,Leicester,OdaWmcNh,UNZg5BP0,3,2,,,,0
+1331064000,Reading,Portsmouth,dvLIfKqM,nkTKkN30,1,0,,,,0
+1331149500,West Ham,Watford,Q9DJHs4l,QHkJrpz6,1,1,,,,0
+1331149500,Brighton,Cardiff,b92lfEJC,Iytof9Vn,2,2,,,,0
+1331382600,Coventry,Birmingham,UuasdTpt,fuIfr9AH,1,1,,,,0
+1331391600,West Ham,Doncaster,Q9DJHs4l,fPeDmpgE,1,1,,,,0
+1331391600,Southampton,Barnsley,raLYxovi,WdTjExSq,2,0,,,,0
+1331391600,Reading,Leicester,dvLIfKqM,UNZg5BP0,3,1,,,,0
+1331391600,Peterborough,Blackpool,vuxu3x67,dvLIfKqM,3,1,,,,0
+1331391600,Nottingham,Millwall,ImKwLTtA,4UX5t7jk,3,1,,,,0
+1331391600,Hull,Ipswich,bJFnYpTt,jXzj6iAf,2,2,,,,0
+1331391600,Derby,Watford,Ykwr8Dur,QHkJrpz6,1,2,,,,0
+1331391600,Burnley,Crystal Palace,6PhTI7J6,pzMOQXRe,1,1,,,,0
+1331391600,Brighton,Portsmouth,b92lfEJC,nkTKkN30,2,0,,,,0
+1331400000,Bristol City,Cardiff,OdaWmcNh,Iytof9Vn,1,2,,,,0
+1331468100,Middlesbrough,Leeds,vcNAdtF9,O4P6Zhap,0,2,,,,0
+1331667900,Leicester,Birmingham,UNZg5BP0,fuIfr9AH,3,1,,,,0
+1331667900,Doncaster,Reading,fPeDmpgE,dvLIfKqM,1,1,,,,0
+1331667900,Derby,Nottingham,Ykwr8Dur,ImKwLTtA,1,0,,,,0
+1331667900,Cardiff,Hull,Iytof9Vn,bJFnYpTt,0,3,,,,0
+1331996400,Watford,Coventry,QHkJrpz6,UuasdTpt,0,0,,,,0
+1331996400,Portsmouth,Bristol City,nkTKkN30,OdaWmcNh,0,0,,,,0
+1331996400,Millwall,Southampton,4UX5t7jk,raLYxovi,2,3,,,,0
+1331996400,Leeds,West Ham,O4P6Zhap,Q9DJHs4l,1,1,,,,0
+1331996400,Ipswich,Peterborough,jXzj6iAf,vuxu3x67,3,2,,,,0
+1331996400,Doncaster,Derby,fPeDmpgE,Ykwr8Dur,1,2,,,,0
+1331996400,Crystal Palace,Hull,pzMOQXRe,bJFnYpTt,0,0,,,,0
+1331996400,Blackpool,Brighton,dvLIfKqM,b92lfEJC,3,1,,,,0
+1331996400,Birmingham,Middlesbrough,fuIfr9AH,vcNAdtF9,3,0,,,,0
+1331996400,Barnsley,Reading,WdTjExSq,dvLIfKqM,0,4,,,,0
+1332082800,Cardiff,Burnley,Iytof9Vn,6PhTI7J6,0,0,,,,0
+1332272700,West Ham,Middlesbrough,Q9DJHs4l,vcNAdtF9,1,1,,,,0
+1332272700,Portsmouth,Birmingham,nkTKkN30,fuIfr9AH,4,1,,,,0
+1332272700,Peterborough,Reading,vuxu3x67,dvLIfKqM,3,1,,,,0
+1332272700,Leeds,Nottingham,O4P6Zhap,ImKwLTtA,3,7,,,,0
+1332272700,Hull,Southampton,bJFnYpTt,raLYxovi,0,2,,,,0
+1332272700,Doncaster,Millwall,fPeDmpgE,4UX5t7jk,0,3,,,,0
+1332272700,Bristol City,Watford,OdaWmcNh,QHkJrpz6,0,2,,,,0
+1332272700,Brighton,Derby,b92lfEJC,Ykwr8Dur,2,0,,,,0
+1332273600,Crystal Palace,Barnsley,pzMOQXRe,WdTjExSq,1,0,,,,0
+1332359100,Ipswich,Burnley,jXzj6iAf,6PhTI7J6,1,0,,,,0
+1332359100,Cardiff,Coventry,Iytof9Vn,UuasdTpt,2,2,,,,0
+1332360000,Blackpool,Leicester,dvLIfKqM,UNZg5BP0,3,3,,,,0
+1332601200,Watford,Ipswich,QHkJrpz6,jXzj6iAf,2,1,,,,0
+1332601200,Southampton,Doncaster,raLYxovi,fPeDmpgE,2,0,,,,0
+1332601200,Reading,Blackpool,dvLIfKqM,dvLIfKqM,3,1,,,,0
+1332601200,Nottingham,Brighton,ImKwLTtA,b92lfEJC,1,1,,,,0
+1332601200,Millwall,Leeds,4UX5t7jk,O4P6Zhap,0,1,,,,0
+1332601200,Middlesbrough,Bristol City,vcNAdtF9,OdaWmcNh,1,1,,,,0
+1332601200,Leicester,Hull,UNZg5BP0,bJFnYpTt,2,1,,,,0
+1332601200,Derby,Crystal Palace,Ykwr8Dur,pzMOQXRe,3,2,,,,0
+1332601200,Coventry,Portsmouth,UuasdTpt,nkTKkN30,2,0,,,,0
+1332601200,Burnley,West Ham,6PhTI7J6,Q9DJHs4l,2,2,,,,0
+1332601200,Barnsley,Peterborough,WdTjExSq,vuxu3x67,1,0,,,,0
+1332673200,Birmingham,Cardiff,fuIfr9AH,Iytof9Vn,1,1,,,,0
+1332873900,Portsmouth,Hull,nkTKkN30,bJFnYpTt,2,0,,,,0
+1332873900,Peterborough,West Ham,vuxu3x67,Q9DJHs4l,0,2,,,,0
+1332873900,Leicester,Nottingham,UNZg5BP0,ImKwLTtA,0,0,,,,0
+1332873900,Ipswich,Middlesbrough,jXzj6iAf,vcNAdtF9,1,1,,,,0
+1332874800,Crystal Palace,Doncaster,pzMOQXRe,fPeDmpgE,1,1,,,,0
+1333133100,Doncaster,Birmingham,fPeDmpgE,fuIfr9AH,1,3,,,,0
+1333193400,Cardiff,Millwall,Iytof9Vn,4UX5t7jk,0,0,,,,0
+1333202400,West Ham,Reading,Q9DJHs4l,dvLIfKqM,2,4,,,,0
+1333202400,Portsmouth,Burnley,nkTKkN30,6PhTI7J6,1,5,,,,0
+1333202400,Peterborough,Leicester,vuxu3x67,UNZg5BP0,1,0,,,,0
+1333202400,Leeds,Watford,O4P6Zhap,QHkJrpz6,0,2,,,,0
+1333202400,Ipswich,Barnsley,jXzj6iAf,WdTjExSq,1,0,,,,0
+1333202400,Hull,Coventry,bJFnYpTt,UuasdTpt,0,2,,,,0
+1333202400,Crystal Palace,Nottingham,pzMOQXRe,ImKwLTtA,0,3,,,,0
+1333202400,Bristol City,Derby,OdaWmcNh,Ykwr8Dur,1,1,,,,0
+1333202400,Brighton,Middlesbrough,b92lfEJC,vcNAdtF9,1,1,,,,0
+1333211100,Blackpool,Southampton,dvLIfKqM,raLYxovi,3,0,,,,0
+1333478700,Burnley,Birmingham,6PhTI7J6,fuIfr9AH,1,3,,,,0
+1333717200,Reading,Leeds,dvLIfKqM,O4P6Zhap,2,0,,,,0
+1333720800,Watford,Blackpool,QHkJrpz6,dvLIfKqM,0,2,,,,0
+1333720800,Burnley,Brighton,6PhTI7J6,b92lfEJC,1,0,,,,0
+1333728900,Barnsley,West Ham,WdTjExSq,Q9DJHs4l,0,4,,,,0
+1333800000,Southampton,Portsmouth,raLYxovi,nkTKkN30,2,2,,,,0
+1333807200,Millwall,Hull,4UX5t7jk,bJFnYpTt,2,0,,,,0
+1333807200,Middlesbrough,Cardiff,vcNAdtF9,Iytof9Vn,0,2,,,,0
+1333807200,Leicester,Doncaster,UNZg5BP0,fPeDmpgE,4,0,,,,0
+1333807200,Derby,Ipswich,Ykwr8Dur,jXzj6iAf,0,0,,,,0
+1333807200,Coventry,Peterborough,UuasdTpt,vuxu3x67,2,2,,,,0
+1333807200,Birmingham,Crystal Palace,fuIfr9AH,pzMOQXRe,3,1,,,,0
+1333815600,Nottingham,Bristol City,ImKwLTtA,OdaWmcNh,0,1,,,,0
+1333980000,Peterborough,Nottingham,vuxu3x67,ImKwLTtA,0,1,,,,0
+1333980000,Leeds,Derby,O4P6Zhap,Ykwr8Dur,0,2,,,,0
+1333980000,Ipswich,Leicester,jXzj6iAf,UNZg5BP0,1,2,,,,0
+1333980000,Hull,Middlesbrough,bJFnYpTt,vcNAdtF9,2,1,,,,0
+1333980000,Doncaster,Burnley,fPeDmpgE,6PhTI7J6,1,2,,,,0
+1333980000,Crystal Palace,Southampton,pzMOQXRe,raLYxovi,0,2,,,,0
+1333980000,Cardiff,Watford,Iytof9Vn,QHkJrpz6,1,1,,,,0
+1333980000,Bristol City,Coventry,OdaWmcNh,UuasdTpt,3,1,,,,0
+1333980000,Blackpool,Barnsley,dvLIfKqM,WdTjExSq,1,1,,,,0
+1333988400,West Ham,Birmingham,Q9DJHs4l,fuIfr9AH,3,3,,,,0
+1334083500,Portsmouth,Millwall,nkTKkN30,4UX5t7jk,0,1,,,,0
+1334083500,Brighton,Reading,b92lfEJC,dvLIfKqM,0,1,,,,0
+1334342700,Southampton,Reading,raLYxovi,dvLIfKqM,1,3,,,,0
+1334412000,West Ham,Brighton,Q9DJHs4l,b92lfEJC,6,0,,,,0
+1334412000,Watford,Hull,QHkJrpz6,bJFnYpTt,1,1,,,,0
+1334412000,Nottingham,Blackpool,ImKwLTtA,dvLIfKqM,0,0,,,,0
+1334412000,Millwall,Leicester,4UX5t7jk,UNZg5BP0,2,1,,,,0
+1334412000,Leeds,Peterborough,O4P6Zhap,vuxu3x67,4,1,,,,0
+1334412000,Doncaster,Portsmouth,fPeDmpgE,nkTKkN30,3,4,,,,0
+1334412000,Derby,Middlesbrough,Ykwr8Dur,vcNAdtF9,0,1,,,,0
+1334412000,Crystal Palace,Ipswich,pzMOQXRe,jXzj6iAf,1,1,,,,0
+1334412000,Burnley,Coventry,6PhTI7J6,UuasdTpt,1,1,,,,0
+1334412000,Birmingham,Bristol City,fuIfr9AH,OdaWmcNh,2,2,,,,0
+1334412000,Barnsley,Cardiff,WdTjExSq,Iytof9Vn,0,1,,,,0
+1334688300,Portsmouth,Crystal Palace,nkTKkN30,pzMOQXRe,2,1,,,,0
+1334688300,Peterborough,Southampton,vuxu3x67,raLYxovi,1,3,,,,0
+1334688300,Middlesbrough,Doncaster,vcNAdtF9,fPeDmpgE,0,0,,,,0
+1334688300,Leicester,Burnley,UNZg5BP0,6PhTI7J6,0,0,,,,0
+1334688300,Ipswich,Birmingham,jXzj6iAf,fuIfr9AH,1,1,,,,0
+1334688300,Hull,Barnsley,bJFnYpTt,WdTjExSq,3,1,,,,0
+1334688300,Coventry,Millwall,UuasdTpt,4UX5t7jk,0,1,,,,0
+1334688300,Cardiff,Derby,Iytof9Vn,Ykwr8Dur,2,0,,,,0
+1334688300,Bristol City,West Ham,OdaWmcNh,Q9DJHs4l,1,1,,,,0
+1334688300,Brighton,Watford,b92lfEJC,QHkJrpz6,2,2,,,,0
+1334689200,Reading,Nottingham,dvLIfKqM,ImKwLTtA,1,0,,,,0
+1334689200,Blackpool,Leeds,dvLIfKqM,O4P6Zhap,1,0,,,,0
+1335007800,Cardiff,Leeds,Iytof9Vn,O4P6Zhap,1,1,,,,0
+1335016800,Reading,Crystal Palace,dvLIfKqM,pzMOQXRe,2,2,,,,0
+1335016800,Portsmouth,Derby,nkTKkN30,Ykwr8Dur,1,2,,,,0
+1335016800,Peterborough,Watford,vuxu3x67,QHkJrpz6,2,2,,,,0
+1335016800,Ipswich,Millwall,jXzj6iAf,4UX5t7jk,0,3,,,,0
+1335016800,Hull,Nottingham,bJFnYpTt,ImKwLTtA,2,1,,,,0
+1335016800,Coventry,Doncaster,UuasdTpt,fPeDmpgE,0,2,,,,0
+1335016800,Bristol City,Barnsley,OdaWmcNh,WdTjExSq,2,0,,,,0
+1335016800,Brighton,Birmingham,b92lfEJC,fuIfr9AH,1,1,,,,0
+1335016800,Blackpool,Burnley,dvLIfKqM,6PhTI7J6,4,0,,,,0
+1335025200,Middlesbrough,Southampton,vcNAdtF9,raLYxovi,2,1,,,,0
+1335206700,Leicester,West Ham,UNZg5BP0,Q9DJHs4l,1,2,,,,0
+1335612600,West Ham,Hull,Q9DJHs4l,bJFnYpTt,2,1,,,,0
+1335612600,Watford,Middlesbrough,QHkJrpz6,vcNAdtF9,2,1,,,,0
+1335612600,Southampton,Coventry,raLYxovi,UuasdTpt,4,0,,,,0
+1335612600,Nottingham,Portsmouth,ImKwLTtA,nkTKkN30,2,0,,,,0
+1335612600,Millwall,Blackpool,4UX5t7jk,dvLIfKqM,2,2,,,,0
+1335612600,Leeds,Leicester,O4P6Zhap,UNZg5BP0,1,2,,,,0
+1335612600,Doncaster,Ipswich,fPeDmpgE,jXzj6iAf,2,3,,,,0
+1335612600,Derby,Peterborough,Ykwr8Dur,vuxu3x67,1,1,,,,0
+1335612600,Crystal Palace,Cardiff,pzMOQXRe,Iytof9Vn,1,2,,,,0
+1335612600,Burnley,Bristol City,6PhTI7J6,OdaWmcNh,1,1,,,,0
+1335612600,Birmingham,Reading,fuIfr9AH,dvLIfKqM,2,0,,,,0
+1335612600,Barnsley,Brighton,WdTjExSq,b92lfEJC,0,0,,,,0
+1336070700,Cardiff,West Ham,Iytof9Vn,Q9DJHs4l,0,2,,,,0
+1336157100,Blackpool,Birmingham,dvLIfKqM,fuIfr9AH,1,0,,,,0
+1336404600,West Ham,Cardiff,Q9DJHs4l,Iytof9Vn,3,0,,,,0
+1336589100,Birmingham,Blackpool,fuIfr9AH,dvLIfKqM,2,2,,,,0
+1337436000,Blackpool,West Ham,dvLIfKqM,Q9DJHs4l,1,2,,,,0

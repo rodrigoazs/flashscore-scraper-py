@@ -1,30 +1,30 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1008716400,Olympiacos Piraeus,PAE Egaleo,5,1,,,,0
-1008716400,Kilkisiakos,AEK Athens FC,0,1,,,,0
-1008716400,Iraklis 1908,Panathinaikos,1,0,,,,0
-1008716400,Ionikos,Xanthi FC,0,0,,,,0
-1008716400,E. Asteras,Proodeftiki,4,0,,,,0
-1008716400,Atromitos,PAOK,0,3,,,,0
-1008716400,Athens Kallithea,OFI Crete,2,1,,,,0
-1008716400,Aris,Panachaiki,0,0,,,,0
-1011135600,Xanthi FC,Ionikos,1,0,,,,0
-1011135600,Proodeftiki,E. Asteras,2,0,,,,0
-1011135600,PAOK,Atromitos,1,0,,,,0
-1011135600,Panathinaikos,Iraklis 1908,2,1,,,,0
-1011135600,Panachaiki,Aris,1,1,AET,1,2,0
-1011135600,PAE Egaleo,Olympiacos Piraeus,0,3,,,,0
-1011135600,OFI Crete,Athens Kallithea,0,1,,,,0
-1011135600,AEK Athens FC,Kilkisiakos,6,0,,,,0
-1012345200,Xanthi FC,Aris,0,1,,,,0
-1012345200,Olympiacos Piraeus,Athens Kallithea,3,0,,,,0
-1012345200,E. Asteras,Iraklis 1908,1,1,,,,0
-1012345200,AEK Athens FC,PAOK,2,1,,,,0
-1013006700,Aris,Xanthi FC,1,2,,,,0
-1013014800,PAOK,AEK Athens FC,0,4,,,,0
-1013085000,Athens Kallithea,Olympiacos Piraeus,0,4,,,,0
-1013101200,Iraklis 1908,E. Asteras,3,0,,,,0
-1016029800,Xanthi FC,AEK Athens FC,0,0,,,,0
-1016037000,Olympiacos Piraeus,Iraklis 1908,3,2,,,,0
-1018443600,AEK Athens FC,Xanthi FC,0,0,AET,1,0,0
-1018452600,Iraklis 1908,Olympiacos Piraeus,0,3,,,,0
-1019926800,AEK Athens FC,Olympiacos Piraeus,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1008716400,Olympiacos Piraeus,PAE Egaleo,lzmp9FUJ,n9kl6zsF,5,1,,,,0
+1008716400,Kilkisiakos,AEK Athens FC,r3eSU1yn,Aq4Rjd2q,0,1,,,,0
+1008716400,Iraklis 1908,Panathinaikos,2V0U0cEB,GM4Cu0wi,1,0,,,,0
+1008716400,Ionikos,Xanthi FC,KjL4wCLc,KOjUYEZE,0,0,,,,0
+1008716400,E. Asteras,Proodeftiki,vVSiDfbI,KU9NSqCt,4,0,,,,0
+1008716400,Atromitos,PAOK,2ahZzWpF,pvWT1yik,0,3,,,,0
+1008716400,Athens Kallithea,OFI Crete,pv20TE28,hOZ2RkTP,2,1,,,,0
+1008716400,Aris,Panachaiki,0E6BYcd0,MqaurgnI,0,0,,,,0
+1011135600,Xanthi FC,Ionikos,KOjUYEZE,KjL4wCLc,1,0,,,,0
+1011135600,Proodeftiki,E. Asteras,KU9NSqCt,vVSiDfbI,2,0,,,,0
+1011135600,PAOK,Atromitos,pvWT1yik,2ahZzWpF,1,0,,,,0
+1011135600,Panathinaikos,Iraklis 1908,GM4Cu0wi,2V0U0cEB,2,1,,,,0
+1011135600,Panachaiki,Aris,MqaurgnI,0E6BYcd0,1,1,AET,1,2,0
+1011135600,PAE Egaleo,Olympiacos Piraeus,n9kl6zsF,lzmp9FUJ,0,3,,,,0
+1011135600,OFI Crete,Athens Kallithea,hOZ2RkTP,pv20TE28,0,1,,,,0
+1011135600,AEK Athens FC,Kilkisiakos,Aq4Rjd2q,r3eSU1yn,6,0,,,,0
+1012345200,Xanthi FC,Aris,KOjUYEZE,0E6BYcd0,0,1,,,,0
+1012345200,Olympiacos Piraeus,Athens Kallithea,lzmp9FUJ,pv20TE28,3,0,,,,0
+1012345200,E. Asteras,Iraklis 1908,vVSiDfbI,2V0U0cEB,1,1,,,,0
+1012345200,AEK Athens FC,PAOK,Aq4Rjd2q,pvWT1yik,2,1,,,,0
+1013006700,Aris,Xanthi FC,0E6BYcd0,KOjUYEZE,1,2,,,,0
+1013014800,PAOK,AEK Athens FC,pvWT1yik,Aq4Rjd2q,0,4,,,,0
+1013085000,Athens Kallithea,Olympiacos Piraeus,pv20TE28,lzmp9FUJ,0,4,,,,0
+1013101200,Iraklis 1908,E. Asteras,2V0U0cEB,vVSiDfbI,3,0,,,,0
+1016029800,Xanthi FC,AEK Athens FC,KOjUYEZE,Aq4Rjd2q,0,0,,,,0
+1016037000,Olympiacos Piraeus,Iraklis 1908,lzmp9FUJ,2V0U0cEB,3,2,,,,0
+1018443600,AEK Athens FC,Xanthi FC,Aq4Rjd2q,KOjUYEZE,0,0,AET,1,0,0
+1018452600,Iraklis 1908,Olympiacos Piraeus,2V0U0cEB,lzmp9FUJ,0,3,,,,0
+1019926800,AEK Athens FC,Olympiacos Piraeus,Aq4Rjd2q,lzmp9FUJ,2,1,,,,0

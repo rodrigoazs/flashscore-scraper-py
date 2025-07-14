@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1158685200,Achilles 29,FC Volendam,0,0,Pen,1,0,0
-1158688800,Ter Leede,Telstar,1,1,AET,1,2,0
-1158688800,Sparta Nijkerk,Haarlem,1,6,,,,0
-1158688800,Roosendaal,Helmond,3,1,,,,0
-1158688800,Rijnsburgse Boys,Sittard,1,0,,,,0
-1158688800,IJsselmeervogels,NAC Breda,2,4,,,,0
-1158688800,HSC '21,Den Bosch,3,4,,,,0
-1158688800,Hardenberg,Maastricht,1,4,,,,0
-1158688800,Genemuiden,Almere City,2,2,AET,3,2,0
-1158688800,Flevo Boys,Willem II,0,2,,,,0
-1158688800,FC Emmen,Zwolle,1,0,,,,0
-1158688800,Excelsior 31,G.A. Eagles,0,1,,,,0
-1158688800,Eindhoven FC,Heracles,1,1,AET,3,2,0
-1158688800,De Graafschap,Venlo,3,1,,,,0
-1158688800,ASWH,Cambuur,2,2,AET,4,2,0
-1158689700,Utrecht,Apeldoorn,3,1,,,,0
-1158775200,Turkiyemspor,Den Haag,1,6,,,,0
-1158775200,ONS Sneek,Jong AZ,0,2,,,,0
-1158775200,Meerssen,WHC,3,3,AET,6,3,0
-1158775200,Kozakken Boys,PSV,0,2,,,,0
-1158775200,Groningen,Oss,2,1,,,,0
-1158775200,EVV,Nijmegen,0,2,,,,0
-1158775200,DOTO,Twente,1,7,,,,0
-1158775200,De Treffers,Sparta Rotterdam,2,6,,,,0
-1158775200,Be Quick 28,VVOG,4,1,,,,0
-1158775200,Argon,Vitesse,1,3,,,,0
-1158776100,Jong Waalwijk,Ajax,2,5,,,,0
-1158861600,Waalwijk,Dordrecht,3,2,,,,0
-1158861600,Veendam,Feyenoord,2,3,,,,0
-1158861600,RKSV Schijndel,Excelsior,0,0,AET,0,1,0
-1158861600,Bennekom/Tecpool,AZ Alkmaar,0,10,,,,0
-1158862500,Heerenveen,Roda,0,2,,,,0
-1162926000,Roosendaal,Eindhoven FC,4,0,,,,0
-1162926000,Maastricht,Telstar,3,1,,,,0
-1162926000,G.A. Eagles,Excelsior,2,0,,,,0
-1162926000,De Graafschap,FC Emmen,1,0,,,,0
-1162926000,Be Quick 28,Willem II,2,5,,,,0
-1162928700,Groningen,NAC Breda,1,3,,,,0
-1163012400,Twente,Nijmegen,3,1,,,,0
-1163012400,Roda,ASWH,5,0,,,,0
-1163012400,AZ Alkmaar,Meerssen,10,1,,,,0
-1163012400,Achilles 29,Sparta Rotterdam,0,4,,,,0
-1163015100,Waalwijk,Feyenoord,1,1,AET,3,2,0
-1163098800,Vitesse,PSV,0,4,,,,0
-1163098800,Utrecht,Rijnsburgse Boys,5,0,,,,0
-1163098800,Jong AZ,Genemuiden,8,1,,,,0
-1163098800,Haarlem,Den Bosch,1,0,,,,0
-1163101500,Ajax,Den Haag,2,0,,,,0
-1169578800,Willem II,De Graafschap,4,2,,,,0
-1169581500,AZ Alkmaar,Maastricht,5,0,,,,0
-1169665200,Utrecht,Roosendaal,1,0,,,,0
-1169665200,Twente,NAC Breda,1,2,,,,0
-1169665200,Sparta Rotterdam,Waalwijk,2,2,AET,2,3,0
-1169667900,Ajax,Haarlem,4,0,,,,0
-1169751600,Roda,Jong AZ,2,1,,,,0
-1169754300,PSV,G.A. Eagles,3,2,,,,0
-1172685600,Waalwijk,Roda,1,0,,,,0
-1172689200,Utrecht,AZ Alkmaar,1,2,,,,0
-1172691900,Willem II,Ajax,0,2,,,,0
-1172691900,NAC Breda,PSV,3,0,,,,0
-1176921900,Ajax,Waalwijk,3,1,,,,0
-1177008300,AZ Alkmaar,NAC Breda,6,0,,,,0
-1178467200,AZ Alkmaar,Ajax,1,1,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1158685200,Achilles 29,FC Volendam,0KLVhfmp,WYtEUtB2,0,0,Pen,1,0,0
+1158688800,Ter Leede,Telstar,UiaUKRlB,xxe4Fem8,1,1,AET,1,2,0
+1158688800,Sparta Nijkerk,Haarlem,ryHaUBmU,dIRDp3n3,1,6,,,,0
+1158688800,Roosendaal,Helmond,n7dWR5qB,0xgNcJ5q,3,1,,,,0
+1158688800,Rijnsburgse Boys,Sittard,bi1q8Nnc,EFoqxv3t,1,0,,,,0
+1158688800,IJsselmeervogels,NAC Breda,6XlsK9Aa,voRxy8ml,2,4,,,,0
+1158688800,HSC '21,Den Bosch,8GHynrVe,hjhCDZHK,3,4,,,,0
+1158688800,Hardenberg,Maastricht,6Vo5YR2L,xxo08ycd,1,4,,,,0
+1158688800,Genemuiden,Almere City,8vWZpnXf,tWILcQKb,2,2,AET,3,2,0
+1158688800,Flevo Boys,Willem II,OMrBwBoq,WQMFphXe,0,2,,,,0
+1158688800,FC Emmen,Zwolle,W6vdbCVa,vFbzuVd5,1,0,,,,0
+1158688800,Excelsior 31,G.A. Eagles,jZwOLTpp,x4Xh4Pu0,0,1,,,,0
+1158688800,Eindhoven FC,Heracles,4AP4EkmH,vuxu3x67,1,1,AET,3,2,0
+1158688800,De Graafschap,Venlo,ObzPyqoA,vuxu3x67,3,1,,,,0
+1158688800,ASWH,Cambuur,GOVZlCPu,0fjMSYzR,2,2,AET,4,2,0
+1158689700,Utrecht,Apeldoorn,4vob7cTR,UPMdbcD9,3,1,,,,0
+1158775200,Turkiyemspor,Den Haag,xY6rp4Am,vuxu3x67,1,6,,,,0
+1158775200,ONS Sneek,Jong AZ,jNNPs1WL,hlL2Vgjf,0,2,,,,0
+1158775200,Meerssen,WHC,jNNPs1WL,UDMTtLoS,3,3,AET,6,3,0
+1158775200,Kozakken Boys,PSV,2TPhVds8,j5zA1baQ,0,2,,,,0
+1158775200,Groningen,Oss,E5fitKGe,ETnGYiOH,2,1,,,,0
+1158775200,EVV,Nijmegen,E73HgDGd,4vob7cTR,0,2,,,,0
+1158775200,DOTO,Twente,I1VAD2Gu,4vob7cTR,1,7,,,,0
+1158775200,De Treffers,Sparta Rotterdam,CWOLrsHF,rTjpk23j,2,6,,,,0
+1158775200,Be Quick 28,VVOG,YuQHqN19,jDKr6VBi,4,1,,,,0
+1158775200,Argon,Vitesse,0GNzkHT9,hxcLpNd6,1,3,,,,0
+1158776100,Jong Waalwijk,Ajax,hAQfkKfl,bZZPiwAI,2,5,,,,0
+1158861600,Waalwijk,Dordrecht,YsXoN1Be,GSg8EF2E,3,2,,,,0
+1158861600,Veendam,Feyenoord,p49lY1vT,Wz6bfhxO,2,3,,,,0
+1158861600,RKSV Schijndel,Excelsior,WjY8DaXO,GOuuvzfL,0,0,AET,0,1,0
+1158861600,Bennekom/Tecpool,AZ Alkmaar,zasXVY7t,4vob7cTR,0,10,,,,0
+1158862500,Heerenveen,Roda,4vob7cTR,pWP3d9yH,0,2,,,,0
+1162926000,Roosendaal,Eindhoven FC,n7dWR5qB,4AP4EkmH,4,0,,,,0
+1162926000,Maastricht,Telstar,xxo08ycd,xxe4Fem8,3,1,,,,0
+1162926000,G.A. Eagles,Excelsior,x4Xh4Pu0,GOuuvzfL,2,0,,,,0
+1162926000,De Graafschap,FC Emmen,ObzPyqoA,W6vdbCVa,1,0,,,,0
+1162926000,Be Quick 28,Willem II,YuQHqN19,WQMFphXe,2,5,,,,0
+1162928700,Groningen,NAC Breda,E5fitKGe,voRxy8ml,1,3,,,,0
+1163012400,Twente,Nijmegen,4vob7cTR,4vob7cTR,3,1,,,,0
+1163012400,Roda,ASWH,pWP3d9yH,GOVZlCPu,5,0,,,,0
+1163012400,AZ Alkmaar,Meerssen,4vob7cTR,jNNPs1WL,10,1,,,,0
+1163012400,Achilles 29,Sparta Rotterdam,0KLVhfmp,rTjpk23j,0,4,,,,0
+1163015100,Waalwijk,Feyenoord,YsXoN1Be,Wz6bfhxO,1,1,AET,3,2,0
+1163098800,Vitesse,PSV,hxcLpNd6,j5zA1baQ,0,4,,,,0
+1163098800,Utrecht,Rijnsburgse Boys,4vob7cTR,bi1q8Nnc,5,0,,,,0
+1163098800,Jong AZ,Genemuiden,hlL2Vgjf,8vWZpnXf,8,1,,,,0
+1163098800,Haarlem,Den Bosch,dIRDp3n3,hjhCDZHK,1,0,,,,0
+1163101500,Ajax,Den Haag,bZZPiwAI,vuxu3x67,2,0,,,,0
+1169578800,Willem II,De Graafschap,WQMFphXe,ObzPyqoA,4,2,,,,0
+1169581500,AZ Alkmaar,Maastricht,4vob7cTR,xxo08ycd,5,0,,,,0
+1169665200,Utrecht,Roosendaal,4vob7cTR,n7dWR5qB,1,0,,,,0
+1169665200,Twente,NAC Breda,4vob7cTR,voRxy8ml,1,2,,,,0
+1169665200,Sparta Rotterdam,Waalwijk,rTjpk23j,YsXoN1Be,2,2,AET,2,3,0
+1169667900,Ajax,Haarlem,bZZPiwAI,dIRDp3n3,4,0,,,,0
+1169751600,Roda,Jong AZ,pWP3d9yH,hlL2Vgjf,2,1,,,,0
+1169754300,PSV,G.A. Eagles,j5zA1baQ,x4Xh4Pu0,3,2,,,,0
+1172685600,Waalwijk,Roda,YsXoN1Be,pWP3d9yH,1,0,,,,0
+1172689200,Utrecht,AZ Alkmaar,4vob7cTR,4vob7cTR,1,2,,,,0
+1172691900,Willem II,Ajax,WQMFphXe,bZZPiwAI,0,2,,,,0
+1172691900,NAC Breda,PSV,voRxy8ml,j5zA1baQ,3,0,,,,0
+1176921900,Ajax,Waalwijk,bZZPiwAI,YsXoN1Be,3,1,,,,0
+1177008300,AZ Alkmaar,NAC Breda,4vob7cTR,voRxy8ml,6,0,,,,0
+1178467200,AZ Alkmaar,Ajax,4vob7cTR,bZZPiwAI,1,1,Pen,1,2,0

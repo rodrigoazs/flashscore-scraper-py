@@ -1,69 +1,69 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1605942000,Eastern AA,Resources Capital,5,0,,,,0
-1605951000,Pegasus,Southern District,0,4,,,,0
-1606028400,Hong Kong Rangers,Happy Valley,2,2,,,,0
-1606037400,Kitchee,Lee Man Warriors,2,2,,,,0
-1606546800,Southern District,Hong Kong Rangers,3,3,,,,0
-1606555800,Resources Capital,Pegasus,0,1,,,,0
-1606633200,Kitchee,Happy Valley,1,1,,,,0
-1606642200,Lee Man Warriors,Eastern AA,2,3,,,,0
-1614423600,Southern District,Kitchee,1,2,,,,0
-1614423600,Happy Valley,Eastern AA,1,1,,,,0
-1614495600,Pegasus,Hong Kong Rangers,2,0,,,,0
-1614510000,Resources Capital,Lee Man Warriors,1,5,,,,0
-1614859200,Kitchee,Pegasus,2,0,,,,0
-1614945600,Southern District,Eastern AA,0,5,,,,0
-1615014000,Resources Capital,Hong Kong Rangers,1,2,,,,0
-1615100400,Lee Man Warriors,Happy Valley,0,0,,,,0
-1615377600,Eastern AA,Kitchee,0,1,,,,0
-1615618800,Lee Man Warriors,Southern District,2,1,,,,0
-1615705200,Happy Valley,Resources Capital,0,1,,,,0
-1615714200,Hong Kong Rangers,Kitchee,0,0,,,,0
-1615809600,Eastern AA,Pegasus,0,0,,,,0
-1616155200,Kitchee,Eastern AA,1,1,,,,0
-1616310000,Resources Capital,Southern District,1,0,,,,0
-1616310000,Pegasus,Happy Valley,1,0,,,,0
-1616319000,Lee Man Warriors,Hong Kong Rangers,0,0,,,,0
-1616583600,Pegasus,Kitchee,1,2,,,,0
-1616828400,Hong Kong Rangers,Eastern AA,1,3,,,,0
-1616837400,Happy Valley,Southern District,1,1,,,,0
-1616914800,Pegasus,Lee Man Warriors,1,2,,,,0
-1616923800,Resources Capital,Kitchee,0,3,,,,0
-1617433200,Resources Capital,Eastern AA,0,5,,,,0
-1617442200,Lee Man Warriors,Kitchee,0,2,,,,0
-1617519600,Happy Valley,Hong Kong Rangers,2,1,,,,0
-1617606000,Southern District,Pegasus,2,3,,,,0
-1618038000,Southern District,Happy Valley,3,3,,,,0
-1618124400,Kitchee,Resources Capital,3,0,,,,0
-1618133400,Lee Man Warriors,Pegasus,1,3,,,,0
-1618228800,Eastern AA,Hong Kong Rangers,2,2,,,,0
-1618574400,Happy Valley,Kitchee,1,3,,,,0
-1618642800,Eastern AA,Lee Man Warriors,3,2,,,,0
-1618729200,Hong Kong Rangers,Southern District,1,2,,,,0
-1618738200,Pegasus,Resources Capital,3,2,,,,0
-1619179200,Southern District,Lee Man Warriors,1,2,,,,0
-1619247600,Pegasus,Eastern AA,0,1,,,,0
-1619256600,Resources Capital,Happy Valley,3,0,,,,0
-1619524800,Hong Kong Rangers,Lee Man Warriors,1,0,,,,0
-1619784000,Eastern AA,Southern District,2,1,,,,0
-1619938800,Hong Kong Rangers,Resources Capital,0,1,,,,0
-1619938800,Happy Valley,Lee Man Warriors,1,4,,,,0
-1620198000,Southern District,Resources Capital,4,1,,,,0
-1620302400,Happy Valley,Pegasus,1,3,,,,0
-1620388800,Kitchee,Hong Kong Rangers,3,1,,,,0
-1620543600,Lee Man Warriors,Resources Capital,4,0,,,,0
-1620561600,Eastern AA,Happy Valley,2,1,,,,0
-1620648000,Kitchee,Southern District,4,1,,,,0
-1620734400,Hong Kong Rangers,Pegasus,0,2,,,,0
-1621062000,Eastern AA,Pegasus,4,0,,,,0
-1621071000,Kitchee,Lee Man Warriors,0,1,,,,0
-1621148400,Southern District,Happy Valley,2,1,,,,0
-1621157400,Resources Capital,Hong Kong Rangers,0,6,,,,0
-1621339200,Lee Man Warriors,Eastern AA,2,1,,,,0
-1621407600,Pegasus,Kitchee,2,1,,,,0
-1621670400,Hong Kong Rangers,Southern District,2,2,,,,0
-1621679400,Happy Valley,Resources Capital,7,2,,,,0
-1621756800,Kitchee,Eastern AA,2,0,,,,0
-1621771200,Pegasus,Lee Man Warriors,1,5,,,,0
-1622367000,Southern District,Resources Capital,1,2,,,,0
-1622367000,Hong Kong Rangers,Happy Valley,3,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1605942000,Eastern AA,Resources Capital,ncgqFvN6,bwMc5hZE,5,0,,,,0
+1605951000,Pegasus,Southern District,KSdNlW5m,dnP37qkH,0,4,,,,0
+1606028400,Hong Kong Rangers,Happy Valley,f5cCdGda,ncgqFvN6,2,2,,,,0
+1606037400,Kitchee,Lee Man Warriors,YBnXkHJq,fDBRm9z7,2,2,,,,0
+1606546800,Southern District,Hong Kong Rangers,dnP37qkH,f5cCdGda,3,3,,,,0
+1606555800,Resources Capital,Pegasus,bwMc5hZE,KSdNlW5m,0,1,,,,0
+1606633200,Kitchee,Happy Valley,YBnXkHJq,ncgqFvN6,1,1,,,,0
+1606642200,Lee Man Warriors,Eastern AA,fDBRm9z7,ncgqFvN6,2,3,,,,0
+1614423600,Southern District,Kitchee,dnP37qkH,YBnXkHJq,1,2,,,,0
+1614423600,Happy Valley,Eastern AA,ncgqFvN6,ncgqFvN6,1,1,,,,0
+1614495600,Pegasus,Hong Kong Rangers,KSdNlW5m,f5cCdGda,2,0,,,,0
+1614510000,Resources Capital,Lee Man Warriors,bwMc5hZE,fDBRm9z7,1,5,,,,0
+1614859200,Kitchee,Pegasus,YBnXkHJq,KSdNlW5m,2,0,,,,0
+1614945600,Southern District,Eastern AA,dnP37qkH,ncgqFvN6,0,5,,,,0
+1615014000,Resources Capital,Hong Kong Rangers,bwMc5hZE,f5cCdGda,1,2,,,,0
+1615100400,Lee Man Warriors,Happy Valley,fDBRm9z7,ncgqFvN6,0,0,,,,0
+1615377600,Eastern AA,Kitchee,ncgqFvN6,YBnXkHJq,0,1,,,,0
+1615618800,Lee Man Warriors,Southern District,fDBRm9z7,dnP37qkH,2,1,,,,0
+1615705200,Happy Valley,Resources Capital,ncgqFvN6,bwMc5hZE,0,1,,,,0
+1615714200,Hong Kong Rangers,Kitchee,f5cCdGda,YBnXkHJq,0,0,,,,0
+1615809600,Eastern AA,Pegasus,ncgqFvN6,KSdNlW5m,0,0,,,,0
+1616155200,Kitchee,Eastern AA,YBnXkHJq,ncgqFvN6,1,1,,,,0
+1616310000,Resources Capital,Southern District,bwMc5hZE,dnP37qkH,1,0,,,,0
+1616310000,Pegasus,Happy Valley,KSdNlW5m,ncgqFvN6,1,0,,,,0
+1616319000,Lee Man Warriors,Hong Kong Rangers,fDBRm9z7,f5cCdGda,0,0,,,,0
+1616583600,Pegasus,Kitchee,KSdNlW5m,YBnXkHJq,1,2,,,,0
+1616828400,Hong Kong Rangers,Eastern AA,f5cCdGda,ncgqFvN6,1,3,,,,0
+1616837400,Happy Valley,Southern District,ncgqFvN6,dnP37qkH,1,1,,,,0
+1616914800,Pegasus,Lee Man Warriors,KSdNlW5m,fDBRm9z7,1,2,,,,0
+1616923800,Resources Capital,Kitchee,bwMc5hZE,YBnXkHJq,0,3,,,,0
+1617433200,Resources Capital,Eastern AA,bwMc5hZE,ncgqFvN6,0,5,,,,0
+1617442200,Lee Man Warriors,Kitchee,fDBRm9z7,YBnXkHJq,0,2,,,,0
+1617519600,Happy Valley,Hong Kong Rangers,ncgqFvN6,f5cCdGda,2,1,,,,0
+1617606000,Southern District,Pegasus,dnP37qkH,KSdNlW5m,2,3,,,,0
+1618038000,Southern District,Happy Valley,dnP37qkH,ncgqFvN6,3,3,,,,0
+1618124400,Kitchee,Resources Capital,YBnXkHJq,bwMc5hZE,3,0,,,,0
+1618133400,Lee Man Warriors,Pegasus,fDBRm9z7,KSdNlW5m,1,3,,,,0
+1618228800,Eastern AA,Hong Kong Rangers,ncgqFvN6,f5cCdGda,2,2,,,,0
+1618574400,Happy Valley,Kitchee,ncgqFvN6,YBnXkHJq,1,3,,,,0
+1618642800,Eastern AA,Lee Man Warriors,ncgqFvN6,fDBRm9z7,3,2,,,,0
+1618729200,Hong Kong Rangers,Southern District,f5cCdGda,dnP37qkH,1,2,,,,0
+1618738200,Pegasus,Resources Capital,KSdNlW5m,bwMc5hZE,3,2,,,,0
+1619179200,Southern District,Lee Man Warriors,dnP37qkH,fDBRm9z7,1,2,,,,0
+1619247600,Pegasus,Eastern AA,KSdNlW5m,ncgqFvN6,0,1,,,,0
+1619256600,Resources Capital,Happy Valley,bwMc5hZE,ncgqFvN6,3,0,,,,0
+1619524800,Hong Kong Rangers,Lee Man Warriors,f5cCdGda,fDBRm9z7,1,0,,,,0
+1619784000,Eastern AA,Southern District,ncgqFvN6,dnP37qkH,2,1,,,,0
+1619938800,Hong Kong Rangers,Resources Capital,f5cCdGda,bwMc5hZE,0,1,,,,0
+1619938800,Happy Valley,Lee Man Warriors,ncgqFvN6,fDBRm9z7,1,4,,,,0
+1620198000,Southern District,Resources Capital,dnP37qkH,bwMc5hZE,4,1,,,,0
+1620302400,Happy Valley,Pegasus,ncgqFvN6,KSdNlW5m,1,3,,,,0
+1620388800,Kitchee,Hong Kong Rangers,YBnXkHJq,f5cCdGda,3,1,,,,0
+1620543600,Lee Man Warriors,Resources Capital,fDBRm9z7,bwMc5hZE,4,0,,,,0
+1620561600,Eastern AA,Happy Valley,ncgqFvN6,ncgqFvN6,2,1,,,,0
+1620648000,Kitchee,Southern District,YBnXkHJq,dnP37qkH,4,1,,,,0
+1620734400,Hong Kong Rangers,Pegasus,f5cCdGda,KSdNlW5m,0,2,,,,0
+1621062000,Eastern AA,Pegasus,ncgqFvN6,KSdNlW5m,4,0,,,,0
+1621071000,Kitchee,Lee Man Warriors,YBnXkHJq,fDBRm9z7,0,1,,,,0
+1621148400,Southern District,Happy Valley,dnP37qkH,ncgqFvN6,2,1,,,,0
+1621157400,Resources Capital,Hong Kong Rangers,bwMc5hZE,f5cCdGda,0,6,,,,0
+1621339200,Lee Man Warriors,Eastern AA,fDBRm9z7,ncgqFvN6,2,1,,,,0
+1621407600,Pegasus,Kitchee,KSdNlW5m,YBnXkHJq,2,1,,,,0
+1621670400,Hong Kong Rangers,Southern District,f5cCdGda,dnP37qkH,2,2,,,,0
+1621679400,Happy Valley,Resources Capital,ncgqFvN6,bwMc5hZE,7,2,,,,0
+1621756800,Kitchee,Eastern AA,YBnXkHJq,ncgqFvN6,2,0,,,,0
+1621771200,Pegasus,Lee Man Warriors,KSdNlW5m,fDBRm9z7,1,5,,,,0
+1622367000,Southern District,Resources Capital,dnP37qkH,bwMc5hZE,1,2,,,,0
+1622367000,Hong Kong Rangers,Happy Valley,f5cCdGda,ncgqFvN6,3,3,,,,0

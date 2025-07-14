@@ -1,21 +1,21 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1269100800,Royn Hvalba,Hoyvik,1,2,,,,0
-1269100800,Midvagur,Skala Itrottarfelag,0,2,,,,0
-1269108000,Giza,Undri,1,2,,,,0
-1269694800,Undri,IF Fuglafjordur,0,1,,,,0
-1269698400,Toftir,07 Vestur Sorvagur,3,0,,,,0
-1269698400,Hoyvik,TB Tvoroyri,2,0,,,,0
-1269698400,HB Torshavn,B36 Torshavn,0,1,,,,0
-1269705600,Sandur,Vikingur,2,2,AET,2,4,0
-1269707400,Streymur,NSI Runavik,0,0,AET,1,0,0
-1269712800,AB Argir,Klaksvik,1,1,AET,3,1,0
-1271872800,FC Suduroy,Skala Itrottarfelag,6,1,,,,0
-1272203100,FC Suduroy,Streymur,1,4,,,,0
-1272204000,Vikingur,AB Argir,1,1,Pen,2,1,0
-1272204000,IF Fuglafjordur,Toftir,2,2,AET,3,2,0
-1272211200,Hoyvik,B36 Torshavn,1,7,,,,0
-1274376600,IF Fuglafjordur,Vikingur,1,2,,,,0
-1274376600,B36 Torshavn,Streymur,2,1,,,,0
-1276011000,Vikingur,IF Fuglafjordur,0,3,,,,0
-1276012800,Streymur,B36 Torshavn,2,0,,,,0
-1281114000,Streymur,IF Fuglafjordur,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1269100800,Royn Hvalba,Hoyvik,pKFzfwwe,dKh1wFlc,1,2,,,,0
+1269100800,Midvagur,Skala Itrottarfelag,pKFzfwwe,GA2XvLc7,0,2,,,,0
+1269108000,Giza,Undri,,6TGWfJNl,1,2,,,,0
+1269694800,Undri,IF Fuglafjordur,6TGWfJNl,nTLUUUol,0,1,,,,0
+1269698400,Toftir,07 Vestur Sorvagur,Sdd6AGnq,S6wQRveL,3,0,,,,0
+1269698400,Hoyvik,TB Tvoroyri,dKh1wFlc,4QTKNxoo,2,0,,,,0
+1269698400,HB Torshavn,B36 Torshavn,lGvMSKuF,ljgDYnD5,0,1,,,,0
+1269705600,Sandur,Vikingur,QTeOMRab,xScZ0U2I,2,2,AET,2,4,0
+1269707400,Streymur,NSI Runavik,S6wQRveL,hhkDzDYF,0,0,AET,1,0,0
+1269712800,AB Argir,Klaksvik,ljgDYnD5,GnA0fkqU,1,1,AET,3,1,0
+1271872800,FC Suduroy,Skala Itrottarfelag,bFVnRQV3,GA2XvLc7,6,1,,,,0
+1272203100,FC Suduroy,Streymur,bFVnRQV3,S6wQRveL,1,4,,,,0
+1272204000,Vikingur,AB Argir,xScZ0U2I,ljgDYnD5,1,1,Pen,2,1,0
+1272204000,IF Fuglafjordur,Toftir,nTLUUUol,Sdd6AGnq,2,2,AET,3,2,0
+1272211200,Hoyvik,B36 Torshavn,dKh1wFlc,ljgDYnD5,1,7,,,,0
+1274376600,IF Fuglafjordur,Vikingur,nTLUUUol,xScZ0U2I,1,2,,,,0
+1274376600,B36 Torshavn,Streymur,ljgDYnD5,S6wQRveL,2,1,,,,0
+1276011000,Vikingur,IF Fuglafjordur,xScZ0U2I,nTLUUUol,0,3,,,,0
+1276012800,Streymur,B36 Torshavn,S6wQRveL,ljgDYnD5,2,0,,,,0
+1281114000,Streymur,IF Fuglafjordur,S6wQRveL,nTLUUUol,1,0,,,,0

@@ -1,26 +1,26 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1647248400,Maharlika,Kaya,0,1,,,,0
-1647853200,Maharlika,Mendiola FC 1991,2,1,,,,0
-1648112400,United City,Maharlika,4,0,,,,0
-1648454400,Azkals,Mendiola FC 1991,3,0,,,,0
-1648466100,Kaya,United City,1,1,,,,0
-1648717200,United City,Azkals,4,0,,,,0
-1649062800,Mendiola FC 1991,United City,0,0,,,,0
-1649664000,Mendiola FC 1991,Kaya,0,1,,,,0
-1649675700,Azkals,Stallion,1,1,,,,0
-1650441600,Mendiola FC 1991,Stallion,0,0,,,,0
-1650453300,Kaya,Azkals,4,0,,,,0
-1650873600,Stallion,Cebu FC,0,2,,,,0
-1650885300,Azkals,Maharlika,3,1,,,,0
-1651136400,Cebu FC,Azkals,3,0,Awrd,,,0
-1651478400,Stallion,Kaya,2,3,,,,0
-1651490100,Cebu FC,Mendiola FC 1991,3,1,,,,0
-1651741200,Cebu FC,Maharlika,2,1,,,,0
-1652000400,United City,Cebu FC,1,1,,,,0
-1652012100,Maharlika,Stallion,1,1,,,,0
-1652346000,Kaya,Cebu FC,3,0,,,,0
-1652357700,Stallion,United City,0,0,,,,0
-1652778000,Kaya,Stallion,1,0,,,,0
-1652792400,Cebu FC,United City,0,1,,,,0
-1653210000,Stallion,Cebu FC,2,1,,,,0
-1653222600,United City,Kaya,3,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1647248400,Maharlika,Kaya,t27gfr1S,WKgeQBsR,0,1,,,,0
+1647853200,Maharlika,Mendiola FC 1991,t27gfr1S,YebDX3ys,2,1,,,,0
+1648112400,United City,Maharlika,hjIcXIDC,t27gfr1S,4,0,,,,0
+1648454400,Azkals,Mendiola FC 1991,thAGeqJn,YebDX3ys,3,0,,,,0
+1648466100,Kaya,United City,WKgeQBsR,hjIcXIDC,1,1,,,,0
+1648717200,United City,Azkals,hjIcXIDC,thAGeqJn,4,0,,,,0
+1649062800,Mendiola FC 1991,United City,YebDX3ys,hjIcXIDC,0,0,,,,0
+1649664000,Mendiola FC 1991,Kaya,YebDX3ys,WKgeQBsR,0,1,,,,0
+1649675700,Azkals,Stallion,thAGeqJn,KAuUVZn2,1,1,,,,0
+1650441600,Mendiola FC 1991,Stallion,YebDX3ys,KAuUVZn2,0,0,,,,0
+1650453300,Kaya,Azkals,WKgeQBsR,thAGeqJn,4,0,,,,0
+1650873600,Stallion,Cebu FC,KAuUVZn2,xnYd7uI6,0,2,,,,0
+1650885300,Azkals,Maharlika,thAGeqJn,t27gfr1S,3,1,,,,0
+1651136400,Cebu FC,Azkals,xnYd7uI6,thAGeqJn,3,0,Awrd,,,0
+1651478400,Stallion,Kaya,KAuUVZn2,WKgeQBsR,2,3,,,,0
+1651490100,Cebu FC,Mendiola FC 1991,xnYd7uI6,YebDX3ys,3,1,,,,0
+1651741200,Cebu FC,Maharlika,xnYd7uI6,t27gfr1S,2,1,,,,0
+1652000400,United City,Cebu FC,hjIcXIDC,xnYd7uI6,1,1,,,,0
+1652012100,Maharlika,Stallion,t27gfr1S,KAuUVZn2,1,1,,,,0
+1652346000,Kaya,Cebu FC,WKgeQBsR,xnYd7uI6,3,0,,,,0
+1652357700,Stallion,United City,KAuUVZn2,hjIcXIDC,0,0,,,,0
+1652778000,Kaya,Stallion,WKgeQBsR,KAuUVZn2,1,0,,,,0
+1652792400,Cebu FC,United City,xnYd7uI6,hjIcXIDC,0,1,,,,0
+1653210000,Stallion,Cebu FC,KAuUVZn2,xnYd7uI6,2,1,,,,0
+1653222600,United City,Kaya,hjIcXIDC,WKgeQBsR,3,2,,,,0

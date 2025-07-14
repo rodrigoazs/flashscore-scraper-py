@@ -1,85 +1,85 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1558771200,Kaya,Green Archers,4,0,,,,0
-1558782000,United City,Stallion,2,2,,,,0
-1559115000,Stallion,Kaya,0,2,,,,0
-1559116800,Philippine Air Force,United City,0,5,,,,0
-1559127600,Green Archers,Global FC,1,0,,,,0
-1559374200,Philippine Air Force,Stallion,0,3,,,,0
-1559374200,Global FC,United City,0,8,,,,0
-1559460600,Mendiola FC 1991,Green Archers,1,5,,,,0
-1559979000,Mendiola FC 1991,Philippine Air Force,1,1,,,,0
-1560583800,Stallion,Mendiola FC 1991,6,1,,,,0
-1560585600,Kaya,Global FC,1,0,,,,0
-1560929400,Global FC,Philippine Air Force,3,1,,,,0
-1560931200,Mendiola FC 1991,Kaya,3,6,,,,0
-1560942000,Green Archers,Stallion,0,0,,,,0
-1561188600,Global FC,Mendiola FC 1991,0,3,Awrd,,,0
-1561275000,Philippine Air Force,Green Archers,0,3,,,,0
-1561793400,Stallion,Global FC,5,1,,,,0
-1561795200,Kaya,Philippine Air Force,5,0,,,,0
-1561806000,United City,Mendiola FC 1991,4,0,,,,0
-1562139000,Green Archers,United City,3,4,,,,0
-1562398200,Green Archers,Kaya,0,0,,,,0
-1562484600,Philippine Air Force,Mendiola FC 1991,1,3,,,,0
-1562743800,United City,Kaya,2,1,,,,0
-1563003000,United City,Philippine Air Force,12,0,,,,0
-1563003000,Stallion,Kaya,0,1,,,,0
-1563089400,Global FC,Green Archers,0,9,,,,0
-1563348600,Stallion,Philippine Air Force,6,2,,,,0
-1563350400,United City,Global FC,3,0,Awrd,,,0
-1563607800,Mendiola FC 1991,Stallion,0,1,,,,0
-1563694200,United City,Green Archers,2,0,,,,0
-1563953400,Green Archers,Mendiola FC 1991,2,5,,,,0
-1564214400,Philippine Air Force,Global FC,3,2,,,,0
-1564214400,Kaya,Mendiola FC 1991,5,0,,,,0
-1564299000,Stallion,Green Archers,0,0,,,,0
-1564819200,Mendiola FC 1991,Global FC,4,0,,,,0
-1564830000,United City,Kaya,1,0,,,,0
-1564909200,Green Archers,Philippine Air Force,4,0,,,,0
-1565424000,Mendiola FC 1991,United City,2,5,,,,0
-1565434800,Global FC,Stallion,1,4,,,,0
-1565508600,Philippine Air Force,Kaya,0,5,,,,0
-1565767800,Mendiola FC 1991,Philippine Air Force,0,1,,,,0
-1565769600,Green Archers,Kaya,0,1,,,,0
-1565780400,United City,Stallion,5,0,,,,0
-1566028800,Philippine Air Force,United City,0,3,,,,0
-1566039600,Green Archers,Global FC,1,1,,,,0
-1566374400,Global FC,Kaya,0,2,,,,0
-1566385200,Mendiola FC 1991,United City,1,4,,,,0
-1566633600,Philippine Air Force,Green Archers,1,4,,,,0
-1566644400,Kaya,Stallion,1,0,,,,0
-1566977400,Stallion,Mendiola FC 1991,0,0,,,,0
-1566979200,Global FC,United City,0,13,,,,0
-1567238400,Global FC,Philippine Air Force,1,1,,,,0
-1567249200,Green Archers,Stallion,0,7,,,,0
-1567843200,Mendiola FC 1991,Green Archers,1,2,,,,0
-1567854000,Kaya,Global FC,5,1,,,,0
-1567927800,Philippine Air Force,Stallion,0,2,,,,0
-1568188800,Philippine Air Force,Global FC,4,1,,,,0
-1568448000,Global FC,Mendiola FC 1991,1,1,,,,0
-1568458800,United City,Philippine Air Force,7,0,,,,0
-1568791800,Kaya,United City,0,2,,,,0
-1568793600,Mendiola FC 1991,Stallion,0,0,,,,0
-1569137400,Stallion,United City,0,2,,,,0
-1569137400,Philippine Air Force,Kaya,1,2,,,,0
-1569139200,Global FC,Green Archers,2,2,,,,0
-1569396600,Stallion,Global FC,9,1,,,,0
-1569396600,Kaya,Philippine Air Force,5,0,,,,0
-1569655800,Stallion,United City,1,1,,,,0
-1569744000,Philippine Air Force,Mendiola FC 1991,1,4,,,,0
-1569754800,Global FC,Kaya,0,3,Awrd,,,0
-1570009500,Mendiola FC 1991,Kaya,0,0,,,,0
-1570014000,Green Archers,United City,1,2,,,,0
-1570147200,Stallion,Philippine Air Force,4,1,,,,0
-1570348800,Green Archers,Mendiola FC 1991,1,0,,,,0
-1570359600,United City,Global FC,3,0,Awrd,,,0
-1570608000,Kaya,Mendiola FC 1991,5,1,,,,0
-1570611600,Stallion,Green Archers,0,1,,,,0
-1570867200,Kaya,Stallion,3,1,,,,0
-1570878000,United City,Green Archers,3,1,,,,0
-1570953600,Mendiola FC 1991,Global FC,3,0,Awrd,,,0
-1571212800,Kaya,Green Archers,3,1,,,,0
-1571223600,United City,Mendiola FC 1991,3,0,,,,0
-1571470200,Global FC,Stallion,0,3,Awrd,,,0
-1571472000,Kaya,United City,0,3,,,,0
-1571482800,Green Archers,Philippine Air Force,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1558771200,Kaya,Green Archers,WKgeQBsR,EqifAZUH,4,0,,,,0
+1558782000,United City,Stallion,hjIcXIDC,KAuUVZn2,2,2,,,,0
+1559115000,Stallion,Kaya,KAuUVZn2,WKgeQBsR,0,2,,,,0
+1559116800,Philippine Air Force,United City,UFgDzzLj,hjIcXIDC,0,5,,,,0
+1559127600,Green Archers,Global FC,EqifAZUH,EcEATQWg,1,0,,,,0
+1559374200,Philippine Air Force,Stallion,UFgDzzLj,KAuUVZn2,0,3,,,,0
+1559374200,Global FC,United City,EcEATQWg,hjIcXIDC,0,8,,,,0
+1559460600,Mendiola FC 1991,Green Archers,YebDX3ys,EqifAZUH,1,5,,,,0
+1559979000,Mendiola FC 1991,Philippine Air Force,YebDX3ys,UFgDzzLj,1,1,,,,0
+1560583800,Stallion,Mendiola FC 1991,KAuUVZn2,YebDX3ys,6,1,,,,0
+1560585600,Kaya,Global FC,WKgeQBsR,EcEATQWg,1,0,,,,0
+1560929400,Global FC,Philippine Air Force,EcEATQWg,UFgDzzLj,3,1,,,,0
+1560931200,Mendiola FC 1991,Kaya,YebDX3ys,WKgeQBsR,3,6,,,,0
+1560942000,Green Archers,Stallion,EqifAZUH,KAuUVZn2,0,0,,,,0
+1561188600,Global FC,Mendiola FC 1991,EcEATQWg,YebDX3ys,0,3,Awrd,,,0
+1561275000,Philippine Air Force,Green Archers,UFgDzzLj,EqifAZUH,0,3,,,,0
+1561793400,Stallion,Global FC,KAuUVZn2,EcEATQWg,5,1,,,,0
+1561795200,Kaya,Philippine Air Force,WKgeQBsR,UFgDzzLj,5,0,,,,0
+1561806000,United City,Mendiola FC 1991,hjIcXIDC,YebDX3ys,4,0,,,,0
+1562139000,Green Archers,United City,EqifAZUH,hjIcXIDC,3,4,,,,0
+1562398200,Green Archers,Kaya,EqifAZUH,WKgeQBsR,0,0,,,,0
+1562484600,Philippine Air Force,Mendiola FC 1991,UFgDzzLj,YebDX3ys,1,3,,,,0
+1562743800,United City,Kaya,hjIcXIDC,WKgeQBsR,2,1,,,,0
+1563003000,United City,Philippine Air Force,hjIcXIDC,UFgDzzLj,12,0,,,,0
+1563003000,Stallion,Kaya,KAuUVZn2,WKgeQBsR,0,1,,,,0
+1563089400,Global FC,Green Archers,EcEATQWg,EqifAZUH,0,9,,,,0
+1563348600,Stallion,Philippine Air Force,KAuUVZn2,UFgDzzLj,6,2,,,,0
+1563350400,United City,Global FC,hjIcXIDC,EcEATQWg,3,0,Awrd,,,0
+1563607800,Mendiola FC 1991,Stallion,YebDX3ys,KAuUVZn2,0,1,,,,0
+1563694200,United City,Green Archers,hjIcXIDC,EqifAZUH,2,0,,,,0
+1563953400,Green Archers,Mendiola FC 1991,EqifAZUH,YebDX3ys,2,5,,,,0
+1564214400,Philippine Air Force,Global FC,UFgDzzLj,EcEATQWg,3,2,,,,0
+1564214400,Kaya,Mendiola FC 1991,WKgeQBsR,YebDX3ys,5,0,,,,0
+1564299000,Stallion,Green Archers,KAuUVZn2,EqifAZUH,0,0,,,,0
+1564819200,Mendiola FC 1991,Global FC,YebDX3ys,EcEATQWg,4,0,,,,0
+1564830000,United City,Kaya,hjIcXIDC,WKgeQBsR,1,0,,,,0
+1564909200,Green Archers,Philippine Air Force,EqifAZUH,UFgDzzLj,4,0,,,,0
+1565424000,Mendiola FC 1991,United City,YebDX3ys,hjIcXIDC,2,5,,,,0
+1565434800,Global FC,Stallion,EcEATQWg,KAuUVZn2,1,4,,,,0
+1565508600,Philippine Air Force,Kaya,UFgDzzLj,WKgeQBsR,0,5,,,,0
+1565767800,Mendiola FC 1991,Philippine Air Force,YebDX3ys,UFgDzzLj,0,1,,,,0
+1565769600,Green Archers,Kaya,EqifAZUH,WKgeQBsR,0,1,,,,0
+1565780400,United City,Stallion,hjIcXIDC,KAuUVZn2,5,0,,,,0
+1566028800,Philippine Air Force,United City,UFgDzzLj,hjIcXIDC,0,3,,,,0
+1566039600,Green Archers,Global FC,EqifAZUH,EcEATQWg,1,1,,,,0
+1566374400,Global FC,Kaya,EcEATQWg,WKgeQBsR,0,2,,,,0
+1566385200,Mendiola FC 1991,United City,YebDX3ys,hjIcXIDC,1,4,,,,0
+1566633600,Philippine Air Force,Green Archers,UFgDzzLj,EqifAZUH,1,4,,,,0
+1566644400,Kaya,Stallion,WKgeQBsR,KAuUVZn2,1,0,,,,0
+1566977400,Stallion,Mendiola FC 1991,KAuUVZn2,YebDX3ys,0,0,,,,0
+1566979200,Global FC,United City,EcEATQWg,hjIcXIDC,0,13,,,,0
+1567238400,Global FC,Philippine Air Force,EcEATQWg,UFgDzzLj,1,1,,,,0
+1567249200,Green Archers,Stallion,EqifAZUH,KAuUVZn2,0,7,,,,0
+1567843200,Mendiola FC 1991,Green Archers,YebDX3ys,EqifAZUH,1,2,,,,0
+1567854000,Kaya,Global FC,WKgeQBsR,EcEATQWg,5,1,,,,0
+1567927800,Philippine Air Force,Stallion,UFgDzzLj,KAuUVZn2,0,2,,,,0
+1568188800,Philippine Air Force,Global FC,UFgDzzLj,EcEATQWg,4,1,,,,0
+1568448000,Global FC,Mendiola FC 1991,EcEATQWg,YebDX3ys,1,1,,,,0
+1568458800,United City,Philippine Air Force,hjIcXIDC,UFgDzzLj,7,0,,,,0
+1568791800,Kaya,United City,WKgeQBsR,hjIcXIDC,0,2,,,,0
+1568793600,Mendiola FC 1991,Stallion,YebDX3ys,KAuUVZn2,0,0,,,,0
+1569137400,Stallion,United City,KAuUVZn2,hjIcXIDC,0,2,,,,0
+1569137400,Philippine Air Force,Kaya,UFgDzzLj,WKgeQBsR,1,2,,,,0
+1569139200,Global FC,Green Archers,EcEATQWg,EqifAZUH,2,2,,,,0
+1569396600,Stallion,Global FC,KAuUVZn2,EcEATQWg,9,1,,,,0
+1569396600,Kaya,Philippine Air Force,WKgeQBsR,UFgDzzLj,5,0,,,,0
+1569655800,Stallion,United City,KAuUVZn2,hjIcXIDC,1,1,,,,0
+1569744000,Philippine Air Force,Mendiola FC 1991,UFgDzzLj,YebDX3ys,1,4,,,,0
+1569754800,Global FC,Kaya,EcEATQWg,WKgeQBsR,0,3,Awrd,,,0
+1570009500,Mendiola FC 1991,Kaya,YebDX3ys,WKgeQBsR,0,0,,,,0
+1570014000,Green Archers,United City,EqifAZUH,hjIcXIDC,1,2,,,,0
+1570147200,Stallion,Philippine Air Force,KAuUVZn2,UFgDzzLj,4,1,,,,0
+1570348800,Green Archers,Mendiola FC 1991,EqifAZUH,YebDX3ys,1,0,,,,0
+1570359600,United City,Global FC,hjIcXIDC,EcEATQWg,3,0,Awrd,,,0
+1570608000,Kaya,Mendiola FC 1991,WKgeQBsR,YebDX3ys,5,1,,,,0
+1570611600,Stallion,Green Archers,KAuUVZn2,EqifAZUH,0,1,,,,0
+1570867200,Kaya,Stallion,WKgeQBsR,KAuUVZn2,3,1,,,,0
+1570878000,United City,Green Archers,hjIcXIDC,EqifAZUH,3,1,,,,0
+1570953600,Mendiola FC 1991,Global FC,YebDX3ys,EcEATQWg,3,0,Awrd,,,0
+1571212800,Kaya,Green Archers,WKgeQBsR,EqifAZUH,3,1,,,,0
+1571223600,United City,Mendiola FC 1991,hjIcXIDC,YebDX3ys,3,0,,,,0
+1571470200,Global FC,Stallion,EcEATQWg,KAuUVZn2,0,3,Awrd,,,0
+1571472000,Kaya,United City,WKgeQBsR,hjIcXIDC,0,3,,,,0
+1571482800,Green Archers,Philippine Air Force,EqifAZUH,UFgDzzLj,1,0,,,,0

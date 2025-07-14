@@ -1,26 +1,26 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1706781600,Tampines,DPMM,1,1,,,,0
-1706781600,Albirex Niigata,Hougang,1,2,,,,0
-1706868000,Tanjong Pagar,Pathum United,1,2,,,,0
-1706868000,Geylang,Balestier Khalsa,4,5,,,,0
-1707991200,Young Lions,DPMM,0,2,,,,0
-1707991200,Albirex Niigata,Tampines,1,2,,,,0
-1708077600,Pathum United,Geylang,2,2,,,,0
-1708077600,Lion City,Tanjong Pagar,4,1,,,,0
-1709287200,Hougang,Young Lions,0,3,,,,0
-1709382600,Balestier Khalsa,Pathum United,1,2,,,,0
-1709469000,DPMM,Albirex Niigata,3,1,,,,0
-1710505800,Tanjong Pagar,Geylang,1,0,,,,0
-1710505800,DPMM,Hougang,1,5,,,,0
-1710592200,Tampines,Young Lions,4,1,,,,0
-1710592200,Lion City,Balestier Khalsa,4,1,,,,0
-1711542600,Geylang,Lion City,1,3,,,,0
-1711629000,Young Lions,Albirex Niigata,7,1,,,,0
-1711715400,Hougang,Tampines,1,5,,,,0
-1711715400,Balestier Khalsa,Tanjong Pagar,3,0,,,,0
-1711805400,Pathum United,Lion City,1,1,,,,0
-1713267900,Pathum United,Tampines,1,1,,,,0
-1716291900,DPMM,Lion City,2,3,,,,0
-1716810300,Tampines,Pathum United,2,2,AET,3,2,0
-1716810300,Lion City,DPMM,2,0,,,,0
-1717149600,Tampines,Lion City,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1706781600,Tampines,DPMM,d0hl69s2,nP3yiII0,1,1,,,,0
+1706781600,Albirex Niigata,Hougang,MkSbZgY3,4fcEsivK,1,2,,,,0
+1706868000,Tanjong Pagar,Pathum United,bwrRv2m2,44nCYsyI,1,2,,,,0
+1706868000,Geylang,Balestier Khalsa,df9tRVup,MZaTAD0m,4,5,,,,0
+1707991200,Young Lions,DPMM,jqXAnX3e,nP3yiII0,0,2,,,,0
+1707991200,Albirex Niigata,Tampines,MkSbZgY3,d0hl69s2,1,2,,,,0
+1708077600,Pathum United,Geylang,44nCYsyI,df9tRVup,2,2,,,,0
+1708077600,Lion City,Tanjong Pagar,pW3pRTln,bwrRv2m2,4,1,,,,0
+1709287200,Hougang,Young Lions,4fcEsivK,jqXAnX3e,0,3,,,,0
+1709382600,Balestier Khalsa,Pathum United,MZaTAD0m,44nCYsyI,1,2,,,,0
+1709469000,DPMM,Albirex Niigata,nP3yiII0,MkSbZgY3,3,1,,,,0
+1710505800,Tanjong Pagar,Geylang,bwrRv2m2,df9tRVup,1,0,,,,0
+1710505800,DPMM,Hougang,nP3yiII0,4fcEsivK,1,5,,,,0
+1710592200,Tampines,Young Lions,d0hl69s2,jqXAnX3e,4,1,,,,0
+1710592200,Lion City,Balestier Khalsa,pW3pRTln,MZaTAD0m,4,1,,,,0
+1711542600,Geylang,Lion City,df9tRVup,pW3pRTln,1,3,,,,0
+1711629000,Young Lions,Albirex Niigata,jqXAnX3e,MkSbZgY3,7,1,,,,0
+1711715400,Hougang,Tampines,4fcEsivK,d0hl69s2,1,5,,,,0
+1711715400,Balestier Khalsa,Tanjong Pagar,MZaTAD0m,bwrRv2m2,3,0,,,,0
+1711805400,Pathum United,Lion City,44nCYsyI,pW3pRTln,1,1,,,,0
+1713267900,Pathum United,Tampines,44nCYsyI,d0hl69s2,1,1,,,,0
+1716291900,DPMM,Lion City,nP3yiII0,pW3pRTln,2,3,,,,0
+1716810300,Tampines,Pathum United,d0hl69s2,44nCYsyI,2,2,AET,3,2,0
+1716810300,Lion City,DPMM,pW3pRTln,nP3yiII0,2,0,,,,0
+1717149600,Tampines,Lion City,d0hl69s2,pW3pRTln,0,1,,,,0

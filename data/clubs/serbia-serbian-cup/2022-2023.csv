@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1664370000,Radnicki S. Mitrovica,Partizan,1,1,Pen,2,1,0
-1664460000,Macva,Crvena zvezda,0,2,,,,0
-1665579600,FK Indjija,Napredak,0,2,,,,0
-1666177200,Javor,Radnicki Nis,0,0,Pen,0,1,0
-1666182600,Zlatibor Cajetina,Cukaricki,0,2,,,,0
-1666182600,Zeleznicar Pancevo,RFK Novi Sad,3,0,,,,0
-1666182600,Zarkovo,Kolubara,1,1,Pen,1,2,0
-1666182600,Radnicki Beograd,Mladost,2,1,,,,0
-1666182600,Polet Ljubic,Radnik,0,1,,,,0
-1666182600,Loznica,TSC,1,2,,,,0
-1666182600,Kabel Novi Sad,Metalac,0,0,Pen,0,1,0
-1666182600,Jagodina,Novi Pazar,1,2,,,,0
-1666182600,IMT Novi Beograd,Radnicki 1923,2,1,,,,0
-1666186200,Mladost GAT,Vozdovac,2,0,,,,0
-1666195200,Rad Beograd,Sp. Subotica,0,2,,,,0
-1667314800,Graficar Beograd,Vojvodina,1,1,Pen,1,2,0
-1667995200,Radnicki Beograd,Radnik,1,2,,,,0
-1668007800,TSC,Zeleznicar Pancevo,2,0,,,,0
-1668007800,Radnicki Nis,IMT Novi Beograd,3,0,,,,0
-1668007800,Novi Pazar,Kolubara,2,1,,,,0
-1668015000,Vojvodina,Mladost GAT,2,1,,,,0
-1678888800,Radnicki S. Mitrovica,Crvena zvezda,1,3,,,,0
-1678896000,Metalac,Cukaricki,0,2,,,,0
-1678903200,Sp. Subotica,Napredak,0,1,,,,0
-1683131400,Napredak,Crvena zvezda,0,0,Pen,0,1,0
-1683208800,TSC,Novi Pazar,4,0,,,,0
-1683208800,Radnik,Cukaricki,0,1,,,,0
-1683217800,Radnicki Nis,Vojvodina,0,1,,,,0
-1684341000,TSC,Crvena zvezda,0,3,,,,0
-1684414800,Vojvodina,Cukaricki,0,1,,,,0
-1685041200,Crvena zvezda,Cukaricki,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1664370000,Radnicki S. Mitrovica,Partizan,MP012TRq,prjDOVbf,1,1,Pen,2,1,0
+1664460000,Macva,Crvena zvezda,zcv8L3W6,4OAEfiPE,0,2,,,,0
+1665579600,FK Indjija,Napredak,Eo460EB4,8nlTy2Ch,0,2,,,,0
+1666177200,Javor,Radnicki Nis,CCS7YFlf,0xuBz0P9,0,0,Pen,0,1,0
+1666182600,Zlatibor Cajetina,Cukaricki,xnMTdtp9,IgHOZc1o,0,2,,,,0
+1666182600,Zeleznicar Pancevo,RFK Novi Sad,lfohNJc2,SlQLqYrJ,3,0,,,,0
+1666182600,Zarkovo,Kolubara,xSXmdVWm,dK4C0ryK,1,1,Pen,1,2,0
+1666182600,Radnicki Beograd,Mladost,YgiLtZOS,8nlTy2Ch,2,1,,,,0
+1666182600,Polet Ljubic,Radnik,8jrJujcT,Msvqovsp,0,1,,,,0
+1666182600,Loznica,TSC,fJYyLslS,hYxysB3L,1,2,,,,0
+1666182600,Kabel Novi Sad,Metalac,biTmHri0,2ajBCmYJ,0,0,Pen,0,1,0
+1666182600,Jagodina,Novi Pazar,Mot7ytA3,O60GxbhB,1,2,,,,0
+1666182600,IMT Novi Beograd,Radnicki 1923,fFj1sltd,riDF60zN,2,1,,,,0
+1666186200,Mladost GAT,Vozdovac,rHIVKBxo,StKOlgDr,2,0,,,,0
+1666195200,Rad Beograd,Sp. Subotica,0xuBz0P9,0xuBz0P9,0,2,,,,0
+1667314800,Graficar Beograd,Vojvodina,Yel16CKi,W6nj7k39,1,1,Pen,1,2,0
+1667995200,Radnicki Beograd,Radnik,YgiLtZOS,Msvqovsp,1,2,,,,0
+1668007800,TSC,Zeleznicar Pancevo,hYxysB3L,lfohNJc2,2,0,,,,0
+1668007800,Radnicki Nis,IMT Novi Beograd,0xuBz0P9,fFj1sltd,3,0,,,,0
+1668007800,Novi Pazar,Kolubara,O60GxbhB,dK4C0ryK,2,1,,,,0
+1668015000,Vojvodina,Mladost GAT,W6nj7k39,rHIVKBxo,2,1,,,,0
+1678888800,Radnicki S. Mitrovica,Crvena zvezda,MP012TRq,4OAEfiPE,1,3,,,,0
+1678896000,Metalac,Cukaricki,2ajBCmYJ,IgHOZc1o,0,2,,,,0
+1678903200,Sp. Subotica,Napredak,0xuBz0P9,8nlTy2Ch,0,1,,,,0
+1683131400,Napredak,Crvena zvezda,8nlTy2Ch,4OAEfiPE,0,0,Pen,0,1,0
+1683208800,TSC,Novi Pazar,hYxysB3L,O60GxbhB,4,0,,,,0
+1683208800,Radnik,Cukaricki,Msvqovsp,IgHOZc1o,0,1,,,,0
+1683217800,Radnicki Nis,Vojvodina,0xuBz0P9,W6nj7k39,0,1,,,,0
+1684341000,TSC,Crvena zvezda,hYxysB3L,4OAEfiPE,0,3,,,,0
+1684414800,Vojvodina,Cukaricki,W6nj7k39,IgHOZc1o,0,1,,,,0
+1685041200,Crvena zvezda,Cukaricki,4OAEfiPE,IgHOZc1o,2,1,,,,0

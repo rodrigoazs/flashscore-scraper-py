@@ -1,201 +1,111 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1186326000,Renova,Milano Kumanovo,1,2,,,,0
-1186326000,Pelister,Sileks,1,0,,,,0
-1186326000,Makedonija GP,Bashkimi,3,0,,,,0
-1186326000,Cem. Skopje,Shkendija,1,1,,,,0
-1186498800,Vardar,Napredok,5,1,,,,0
-1186498800,Pobeda,Rabotnicki,0,0,,,,0
-1186844400,Milano Kumanovo,Cem. Skopje,5,1,,,,0
-1186930800,Shkendija,Vardar,0,1,,,,0
-1186930800,Rabotnicki,Renova,3,0,,,,0
-1186930800,Napredok,Pelister,1,1,,,,0
-1186930800,Makedonija GP,Pobeda,2,1,,,,0
-1186930800,Bashkimi,Sileks,0,2,,,,0
-1187535600,Vardar,Milano Kumanovo,0,0,,,,0
-1187535600,Sileks,Napredok,1,1,,,,0
-1187535600,Renova,Makedonija GP,2,1,,,,0
-1187535600,Pobeda,Bashkimi,2,1,,,,0
-1187535600,Pelister,Shkendija,3,0,,,,0
-1187535600,Cem. Skopje,Rabotnicki,0,1,,,,0
-1188052200,Milano Kumanovo,Pelister,3,0,,,,0
-1188054000,Rabotnicki,Vardar,1,0,,,,0
-1188140400,Shkendija,Sileks,0,1,,,,0
-1188140400,Pobeda,Renova,0,0,,,,0
-1188140400,Makedonija GP,Cem. Skopje,1,0,,,,0
-1188140400,Bashkimi,Napredok,4,1,,,,0
-1188741600,Vardar,Makedonija GP,4,1,,,,0
-1188741600,Sileks,Milano Kumanovo,0,0,,,,0
-1188741600,Renova,Bashkimi,1,1,,,,0
-1188741600,Napredok,Shkendija,2,0,,,,0
-1188741600,Cem. Skopje,Pobeda,0,2,,,,0
-1188914400,Pelister,Rabotnicki,0,0,,,,0
-1189951200,Renova,Cem. Skopje,2,0,,,,0
-1189951200,Rabotnicki,Sileks,4,1,,,,0
-1189951200,Pobeda,Vardar,0,0,,,,0
-1189951200,Milano Kumanovo,Napredok,3,1,,,,0
-1189951200,Makedonija GP,Pelister,0,2,,,,0
-1189951200,Bashkimi,Shkendija,1,0,,,,0
-1190554200,Vardar,Renova,1,0,,,,0
-1190554200,Sileks,Makedonija GP,1,0,,,,0
-1190554200,Shkendija,Milano Kumanovo,1,3,,,,0
-1190554200,Pelister,Pobeda,1,1,,,,0
-1190554200,Cem. Skopje,Bashkimi,3,0,,,,0
-1190727000,Napredok,Rabotnicki,0,2,,,,0
-1191070800,Rabotnicki,Shkendija,2,0,,,,0
-1191157200,Renova,Pelister,1,0,,,,0
-1191157200,Pobeda,Sileks,1,0,,,,0
-1191157200,Makedonija GP,Napredok,1,0,,,,0
-1191157200,Cem. Skopje,Vardar,2,2,,,,0
-1191157200,Bashkimi,Milano Kumanovo,2,2,,,,0
-1191762000,Vardar,Bashkimi,6,1,,,,0
-1191762000,Sileks,Renova,0,0,,,,0
-1191762000,Shkendija,Makedonija GP,0,0,,,,0
-1191762000,Pelister,Cem. Skopje,2,1,,,,0
-1191762000,Napredok,Pobeda,1,1,,,,0
-1191848400,Milano Kumanovo,Rabotnicki,1,2,,,,0
-1192107600,Renova,Napredok,2,1,,,,0
-1192107600,Pobeda,Shkendija,1,1,,,,0
-1192107600,Makedonija GP,Milano Kumanovo,3,0,,,,0
-1192107600,Cem. Skopje,Sileks,1,1,,,,0
-1192107600,Bashkimi,Rabotnicki,0,4,,,,0
-1192125600,Vardar,Pelister,1,0,,,,0
-1192881600,Rabotnicki,Makedonija GP,3,0,,,,0
-1192881600,Milano Kumanovo,Pobeda,4,0,,,,0
-1192968000,Sileks,Vardar,1,1,,,,0
-1192968000,Shkendija,Renova,0,2,,,,0
-1192968000,Pelister,Bashkimi,1,0,,,,0
-1192968000,Napredok,Cem. Skopje,2,1,,,,0
-1193486400,Milano Kumanovo,Renova,3,0,,,,0
-1193576400,Sileks,Pelister,2,3,,,,0
-1193576400,Shkendija,Cem. Skopje,1,0,,,,0
-1193576400,Rabotnicki,Pobeda,4,2,,,,0
-1193576400,Napredok,Vardar,0,0,,,,0
-1193576400,Bashkimi,Makedonija GP,5,4,,,,0
-1194181200,Vardar,Shkendija,4,1,,,,0
-1194181200,Sileks,Bashkimi,4,3,,,,0
-1194181200,Renova,Rabotnicki,0,1,,,,0
-1194181200,Pobeda,Makedonija GP,4,1,,,,0
-1194181200,Pelister,Napredok,1,1,,,,0
-1194181200,Cem. Skopje,Milano Kumanovo,1,2,,,,0
-1194699600,Milano Kumanovo,Vardar,1,0,,,,0
-1194786000,Shkendija,Pelister,1,0,,,,0
-1194786000,Rabotnicki,Cem. Skopje,0,0,,,,0
-1194786000,Napredok,Sileks,2,1,,,,0
-1194786000,Makedonija GP,Renova,2,1,,,,0
-1194786000,Bashkimi,Pobeda,3,4,,,,0
-1195905600,Vardar,Rabotnicki,0,0,,,,0
-1195992000,Sileks,Shkendija,1,1,,,,0
-1195992000,Renova,Pobeda,2,0,,,,0
-1195992000,Pelister,Milano Kumanovo,3,0,,,,0
-1195992000,Napredok,Bashkimi,2,0,,,,0
-1195992000,Cem. Skopje,Makedonija GP,0,1,,,,0
-1196596800,Shkendija,Napredok,2,1,,,,0
-1196596800,Rabotnicki,Pelister,1,0,,,,0
-1196596800,Pobeda,Cem. Skopje,4,3,,,,0
-1196596800,Milano Kumanovo,Sileks,4,0,,,,0
-1196596800,Makedonija GP,Vardar,1,1,,,,0
-1196596800,Bashkimi,Renova,1,3,,,,0
-1197201600,Vardar,Pobeda,0,0,,,,0
-1197201600,Sileks,Rabotnicki,1,2,,,,0
-1197201600,Shkendija,Bashkimi,1,0,,,,0
-1197201600,Pelister,Makedonija GP,1,0,,,,0
-1197201600,Napredok,Milano Kumanovo,2,1,,,,0
-1197201600,Cem. Skopje,Renova,1,0,,,,0
-1197806400,Renova,Vardar,1,1,,,,0
-1197806400,Rabotnicki,Napredok,3,0,,,,0
-1197806400,Pobeda,Pelister,2,1,,,,0
-1197806400,Milano Kumanovo,Shkendija,1,0,,,,0
-1197806400,Makedonija GP,Sileks,1,1,,,,0
-1197806400,Bashkimi,Cem. Skopje,0,2,,,,0
-1204376400,Milano Kumanovo,Bashkimi,4,2,,,,0
-1204462800,Vardar,Cem. Skopje,1,0,,,,0
-1204462800,Sileks,Pobeda,1,0,,,,0
-1204462800,Shkendija,Rabotnicki,1,2,,,,0
-1204462800,Pelister,Renova,1,1,,,,0
-1204462800,Napredok,Makedonija GP,1,0,,,,0
-1205067600,Renova,Sileks,1,1,,,,0
-1205067600,Rabotnicki,Milano Kumanovo,1,0,,,,0
-1205067600,Pobeda,Napredok,4,1,,,,0
-1205067600,Makedonija GP,Shkendija,4,1,,,,0
-1205067600,Cem. Skopje,Pelister,0,1,,,,0
-1205067600,Bashkimi,Vardar,1,1,,,,0
-1205586000,Rabotnicki,Bashkimi,1,0,,,,0
-1205679600,Sileks,Cem. Skopje,2,0,,,,0
-1205679600,Shkendija,Pobeda,3,0,Awrd,,,0
-1205679600,Pelister,Vardar,2,1,,,,0
-1205679600,Napredok,Renova,3,1,,,,0
-1205679600,Milano Kumanovo,Makedonija GP,5,0,,,,0
-1206190800,Vardar,Sileks,1,0,,,,0
-1206190800,Renova,Shkendija,1,0,,,,0
-1206190800,Pobeda,Milano Kumanovo,4,1,,,,0
-1206190800,Makedonija GP,Rabotnicki,0,0,,,,0
-1206190800,Cem. Skopje,Napredok,0,0,,,,0
-1206190800,Bashkimi,Pelister,0,0,,,,0
-1206795600,Vardar,Sileks,2,1,,,,0
-1206795600,Renova,Bashkimi,0,0,,,,0
-1206795600,Rabotnicki,Makedonija GP,1,0,,,,0
-1206795600,Pobeda,Cem. Skopje,1,1,,,,0
-1206795600,Pelister,Shkendija,1,0,,,,0
-1206795600,Milano Kumanovo,Napredok,3,0,,,,0
-1207144800,Sileks,Milano Kumanovo,0,1,,,,0
-1207144800,Shkendija,Vardar,1,0,,,,0
-1207144800,Napredok,Rabotnicki,0,0,,,,0
-1207144800,Cem. Skopje,Pelister,0,1,,,,0
-1207144800,Bashkimi,Pobeda,2,0,,,,0
-1207231200,Renova,Makedonija GP,2,0,,,,0
-1207404000,Rabotnicki,Sileks,1,0,,,,0
-1207404000,Milano Kumanovo,Shkendija,4,0,,,,0
-1207404000,Makedonija GP,Napredok,1,0,,,,0
-1207490400,Vardar,Cem. Skopje,1,1,,,,0
-1207490400,Pobeda,Renova,0,1,,,,0
-1207490400,Pelister,Bashkimi,1,3,,,,0
-1208008800,Renova,Pelister,2,1,,,,0
-1208095200,Sileks,Napredok,0,0,,,,0
-1208095200,Shkendija,Rabotnicki,0,3,Awrd,,,0
-1208095200,Pobeda,Makedonija GP,2,0,,,,0
-1208095200,Cem. Skopje,Milano Kumanovo,2,1,,,,0
-1208095200,Bashkimi,Vardar,2,0,,,,0
-1208613600,Rabotnicki,Cem. Skopje,2,0,,,,0
-1208613600,Milano Kumanovo,Bashkimi,2,1,,,,0
-1208700000,Vardar,Renova,3,1,,,,0
-1208700000,Pelister,Pobeda,4,0,,,,0
-1208700000,Napredok,Shkendija,4,3,,,,0
-1208700000,Makedonija GP,Sileks,0,0,,,,0
-1208959200,Shkendija,Sileks,1,2,,,,0
-1208959200,Renova,Milano Kumanovo,1,2,,,,0
-1208959200,Pobeda,Vardar,0,2,,,,0
-1208959200,Pelister,Makedonija GP,2,0,,,,0
-1208959200,Cem. Skopje,Napredok,1,0,,,,0
-1208959200,Bashkimi,Rabotnicki,1,0,,,,0
-1209218400,Sileks,Cem. Skopje,2,0,,,,0
-1209218400,Rabotnicki,Renova,2,0,,,,0
-1209218400,Napredok,Bashkimi,1,0,,,,0
-1209218400,Milano Kumanovo,Pobeda,2,1,,,,0
-1209218400,Makedonija GP,Shkendija,1,0,,,,0
-1209219300,Vardar,Pelister,1,3,,,,0
-1209825000,Vardar,Makedonija GP,0,1,,,,0
-1209825000,Pobeda,Rabotnicki,2,0,,,,0
-1209911400,Renova,Napredok,0,0,,,,0
-1209911400,Pelister,Milano Kumanovo,3,2,,,,0
-1209911400,Cem. Skopje,Shkendija,1,1,,,,0
-1209911400,Bashkimi,Sileks,2,0,,,,0
-1210516200,Sileks,Renova,3,0,,,,0
-1210516200,Shkendija,Bashkimi,4,3,,,,0
-1210516200,Rabotnicki,Pelister,0,0,,,,0
-1210516200,Napredok,Pobeda,4,3,,,,0
-1210516200,Milano Kumanovo,Vardar,9,1,,,,0
-1210516200,Makedonija GP,Cem. Skopje,2,0,,,,0
-1211122800,Vardar,Rabotnicki,1,2,,,,0
-1211122800,Renova,Shkendija,2,0,,,,0
-1211122800,Pobeda,Sileks,1,1,,,,0
-1211122800,Pelister,Napredok,1,0,,,,0
-1211122800,Milano Kumanovo,Makedonija GP,2,0,,,,0
-1211122800,Bashkimi,Cem. Skopje,1,1,,,,0
-1212246000,Sileks,Pelister,2,1,,,,0
-1212246000,Shkendija,Pobeda,1,5,,,,0
-1212246000,Rabotnicki,Milano Kumanovo,3,1,,,,0
-1212246000,Napredok,Vardar,5,3,,,,0
-1212246000,Makedonija GP,Bashkimi,3,0,,,,0
-1212246000,Cem. Skopje,Renova,0,3,,,,0
-1212935400,Sileks,Belasica,2,0,,,,0
-1212935400,Bashkimi,Miravci,4,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1196596800,Shkendija,Napredok,f3OURrqn,WrtPD2cR,2,1,,,,0
+1196596800,Rabotnicki,Pelister,Cdxq7Y31,2JKzUeUK,1,0,,,,0
+1196596800,Pobeda,Cem. Skopje,8lHNgCuQ,Wd7TDfbj,4,3,,,,0
+1196596800,Milano Kumanovo,Sileks,COn47dFf,Ys5PBeU0,4,0,,,,0
+1196596800,Makedonija GP,Vardar,n5NSVHa8,86OeMIIr,1,1,,,,0
+1196596800,Bashkimi,Renova,8ISTYn2F,WrjrBuU2,1,3,,,,0
+1197201600,Vardar,Pobeda,86OeMIIr,8lHNgCuQ,0,0,,,,0
+1197201600,Sileks,Rabotnicki,Ys5PBeU0,Cdxq7Y31,1,2,,,,0
+1197201600,Shkendija,Bashkimi,f3OURrqn,8ISTYn2F,1,0,,,,0
+1197201600,Pelister,Makedonija GP,2JKzUeUK,n5NSVHa8,1,0,,,,0
+1197201600,Napredok,Milano Kumanovo,WrtPD2cR,COn47dFf,2,1,,,,0
+1197201600,Cem. Skopje,Renova,Wd7TDfbj,WrjrBuU2,1,0,,,,0
+1197806400,Renova,Vardar,WrjrBuU2,86OeMIIr,1,1,,,,0
+1197806400,Rabotnicki,Napredok,Cdxq7Y31,WrtPD2cR,3,0,,,,0
+1197806400,Pobeda,Pelister,8lHNgCuQ,2JKzUeUK,2,1,,,,0
+1197806400,Milano Kumanovo,Shkendija,COn47dFf,f3OURrqn,1,0,,,,0
+1197806400,Makedonija GP,Sileks,n5NSVHa8,Ys5PBeU0,1,1,,,,0
+1197806400,Bashkimi,Cem. Skopje,8ISTYn2F,Wd7TDfbj,0,2,,,,0
+1204376400,Milano Kumanovo,Bashkimi,COn47dFf,8ISTYn2F,4,2,,,,0
+1204462800,Vardar,Cem. Skopje,86OeMIIr,Wd7TDfbj,1,0,,,,0
+1204462800,Sileks,Pobeda,Ys5PBeU0,8lHNgCuQ,1,0,,,,0
+1204462800,Shkendija,Rabotnicki,f3OURrqn,Cdxq7Y31,1,2,,,,0
+1204462800,Pelister,Renova,2JKzUeUK,WrjrBuU2,1,1,,,,0
+1204462800,Napredok,Makedonija GP,WrtPD2cR,n5NSVHa8,1,0,,,,0
+1205067600,Renova,Sileks,WrjrBuU2,Ys5PBeU0,1,1,,,,0
+1205067600,Rabotnicki,Milano Kumanovo,Cdxq7Y31,COn47dFf,1,0,,,,0
+1205067600,Pobeda,Napredok,8lHNgCuQ,WrtPD2cR,4,1,,,,0
+1205067600,Makedonija GP,Shkendija,n5NSVHa8,f3OURrqn,4,1,,,,0
+1205067600,Cem. Skopje,Pelister,Wd7TDfbj,2JKzUeUK,0,1,,,,0
+1205067600,Bashkimi,Vardar,8ISTYn2F,86OeMIIr,1,1,,,,0
+1205586000,Rabotnicki,Bashkimi,Cdxq7Y31,8ISTYn2F,1,0,,,,0
+1205679600,Sileks,Cem. Skopje,Ys5PBeU0,Wd7TDfbj,2,0,,,,0
+1205679600,Shkendija,Pobeda,f3OURrqn,8lHNgCuQ,3,0,Awrd,,,0
+1205679600,Pelister,Vardar,2JKzUeUK,86OeMIIr,2,1,,,,0
+1205679600,Napredok,Renova,WrtPD2cR,WrjrBuU2,3,1,,,,0
+1205679600,Milano Kumanovo,Makedonija GP,COn47dFf,n5NSVHa8,5,0,,,,0
+1206190800,Vardar,Sileks,86OeMIIr,Ys5PBeU0,1,0,,,,0
+1206190800,Renova,Shkendija,WrjrBuU2,f3OURrqn,1,0,,,,0
+1206190800,Pobeda,Milano Kumanovo,8lHNgCuQ,COn47dFf,4,1,,,,0
+1206190800,Makedonija GP,Rabotnicki,n5NSVHa8,Cdxq7Y31,0,0,,,,0
+1206190800,Cem. Skopje,Napredok,Wd7TDfbj,WrtPD2cR,0,0,,,,0
+1206190800,Bashkimi,Pelister,8ISTYn2F,2JKzUeUK,0,0,,,,0
+1206795600,Vardar,Sileks,86OeMIIr,Ys5PBeU0,2,1,,,,0
+1206795600,Renova,Bashkimi,WrjrBuU2,8ISTYn2F,0,0,,,,0
+1206795600,Rabotnicki,Makedonija GP,Cdxq7Y31,n5NSVHa8,1,0,,,,0
+1206795600,Pobeda,Cem. Skopje,8lHNgCuQ,Wd7TDfbj,1,1,,,,0
+1206795600,Pelister,Shkendija,2JKzUeUK,f3OURrqn,1,0,,,,0
+1206795600,Milano Kumanovo,Napredok,COn47dFf,WrtPD2cR,3,0,,,,0
+1207144800,Sileks,Milano Kumanovo,Ys5PBeU0,COn47dFf,0,1,,,,0
+1207144800,Shkendija,Vardar,f3OURrqn,86OeMIIr,1,0,,,,0
+1207144800,Napredok,Rabotnicki,WrtPD2cR,Cdxq7Y31,0,0,,,,0
+1207144800,Cem. Skopje,Pelister,Wd7TDfbj,2JKzUeUK,0,1,,,,0
+1207144800,Bashkimi,Pobeda,8ISTYn2F,8lHNgCuQ,2,0,,,,0
+1207231200,Renova,Makedonija GP,WrjrBuU2,n5NSVHa8,2,0,,,,0
+1207404000,Rabotnicki,Sileks,Cdxq7Y31,Ys5PBeU0,1,0,,,,0
+1207404000,Milano Kumanovo,Shkendija,COn47dFf,f3OURrqn,4,0,,,,0
+1207404000,Makedonija GP,Napredok,n5NSVHa8,WrtPD2cR,1,0,,,,0
+1207490400,Vardar,Cem. Skopje,86OeMIIr,Wd7TDfbj,1,1,,,,0
+1207490400,Pobeda,Renova,8lHNgCuQ,WrjrBuU2,0,1,,,,0
+1207490400,Pelister,Bashkimi,2JKzUeUK,8ISTYn2F,1,3,,,,0
+1208008800,Renova,Pelister,WrjrBuU2,2JKzUeUK,2,1,,,,0
+1208095200,Sileks,Napredok,Ys5PBeU0,WrtPD2cR,0,0,,,,0
+1208095200,Shkendija,Rabotnicki,f3OURrqn,Cdxq7Y31,0,3,Awrd,,,0
+1208095200,Pobeda,Makedonija GP,8lHNgCuQ,n5NSVHa8,2,0,,,,0
+1208095200,Cem. Skopje,Milano Kumanovo,Wd7TDfbj,COn47dFf,2,1,,,,0
+1208095200,Bashkimi,Vardar,8ISTYn2F,86OeMIIr,2,0,,,,0
+1208613600,Rabotnicki,Cem. Skopje,Cdxq7Y31,Wd7TDfbj,2,0,,,,0
+1208613600,Milano Kumanovo,Bashkimi,COn47dFf,8ISTYn2F,2,1,,,,0
+1208700000,Vardar,Renova,86OeMIIr,WrjrBuU2,3,1,,,,0
+1208700000,Pelister,Pobeda,2JKzUeUK,8lHNgCuQ,4,0,,,,0
+1208700000,Napredok,Shkendija,WrtPD2cR,f3OURrqn,4,3,,,,0
+1208700000,Makedonija GP,Sileks,n5NSVHa8,Ys5PBeU0,0,0,,,,0
+1208959200,Shkendija,Sileks,f3OURrqn,Ys5PBeU0,1,2,,,,0
+1208959200,Renova,Milano Kumanovo,WrjrBuU2,COn47dFf,1,2,,,,0
+1208959200,Pobeda,Vardar,8lHNgCuQ,86OeMIIr,0,2,,,,0
+1208959200,Pelister,Makedonija GP,2JKzUeUK,n5NSVHa8,2,0,,,,0
+1208959200,Cem. Skopje,Napredok,Wd7TDfbj,WrtPD2cR,1,0,,,,0
+1208959200,Bashkimi,Rabotnicki,8ISTYn2F,Cdxq7Y31,1,0,,,,0
+1209218400,Sileks,Cem. Skopje,Ys5PBeU0,Wd7TDfbj,2,0,,,,0
+1209218400,Rabotnicki,Renova,Cdxq7Y31,WrjrBuU2,2,0,,,,0
+1209218400,Napredok,Bashkimi,WrtPD2cR,8ISTYn2F,1,0,,,,0
+1209218400,Milano Kumanovo,Pobeda,COn47dFf,8lHNgCuQ,2,1,,,,0
+1209218400,Makedonija GP,Shkendija,n5NSVHa8,f3OURrqn,1,0,,,,0
+1209219300,Vardar,Pelister,86OeMIIr,2JKzUeUK,1,3,,,,0
+1209825000,Vardar,Makedonija GP,86OeMIIr,n5NSVHa8,0,1,,,,0
+1209825000,Pobeda,Rabotnicki,8lHNgCuQ,Cdxq7Y31,2,0,,,,0
+1209911400,Renova,Napredok,WrjrBuU2,WrtPD2cR,0,0,,,,0
+1209911400,Pelister,Milano Kumanovo,2JKzUeUK,COn47dFf,3,2,,,,0
+1209911400,Cem. Skopje,Shkendija,Wd7TDfbj,f3OURrqn,1,1,,,,0
+1209911400,Bashkimi,Sileks,8ISTYn2F,Ys5PBeU0,2,0,,,,0
+1210516200,Sileks,Renova,Ys5PBeU0,WrjrBuU2,3,0,,,,0
+1210516200,Shkendija,Bashkimi,f3OURrqn,8ISTYn2F,4,3,,,,0
+1210516200,Rabotnicki,Pelister,Cdxq7Y31,2JKzUeUK,0,0,,,,0
+1210516200,Napredok,Pobeda,WrtPD2cR,8lHNgCuQ,4,3,,,,0
+1210516200,Milano Kumanovo,Vardar,COn47dFf,86OeMIIr,9,1,,,,0
+1210516200,Makedonija GP,Cem. Skopje,n5NSVHa8,Wd7TDfbj,2,0,,,,0
+1211122800,Vardar,Rabotnicki,86OeMIIr,Cdxq7Y31,1,2,,,,0
+1211122800,Renova,Shkendija,WrjrBuU2,f3OURrqn,2,0,,,,0
+1211122800,Pobeda,Sileks,8lHNgCuQ,Ys5PBeU0,1,1,,,,0
+1211122800,Pelister,Napredok,2JKzUeUK,WrtPD2cR,1,0,,,,0
+1211122800,Milano Kumanovo,Makedonija GP,COn47dFf,n5NSVHa8,2,0,,,,0
+1211122800,Bashkimi,Cem. Skopje,8ISTYn2F,Wd7TDfbj,1,1,,,,0
+1212246000,Sileks,Pelister,Ys5PBeU0,2JKzUeUK,2,1,,,,0
+1212246000,Shkendija,Pobeda,f3OURrqn,8lHNgCuQ,1,5,,,,0
+1212246000,Rabotnicki,Milano Kumanovo,Cdxq7Y31,COn47dFf,3,1,,,,0
+1212246000,Napredok,Vardar,WrtPD2cR,86OeMIIr,5,3,,,,0
+1212246000,Makedonija GP,Bashkimi,n5NSVHa8,8ISTYn2F,3,0,,,,0
+1212246000,Cem. Skopje,Renova,Wd7TDfbj,WrjrBuU2,0,3,,,,0
+1212935400,Sileks,Belasica,Ys5PBeU0,fFzddrH7,2,0,,,,0
+1212935400,Bashkimi,Miravci,8ISTYn2F,Opio8Wie,4,1,,,,0

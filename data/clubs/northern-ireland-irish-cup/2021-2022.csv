@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1610048700,Glenavon,Crusaders,0,4,,,,0
-1610112600,Queens Univ.,Newington,2,0,,,,0
-1610112600,Knockbreda,Dungannon,0,2,,,,0
-1610118000,Warrenpoint,Newry City,1,2,,,,0
-1610118000,Portadown,Limavady,2,0,,,,0
-1610118000,Linfield,Oxford Sunnyside FC,4,0,,,,0
-1610118000,Institute,Portstewart,0,1,,,,0
-1610118000,H&W Welders,Annagh,1,2,,,,0
-1610118000,Dergview,Glentoran,2,3,,,,0
-1610118000,Coleraine,Windmill,6,0,,,,0
-1610118000,Cliftonville,Islandmagee,5,0,,,,0
-1610118000,Bangor FC,Larne,0,5,,,,0
-1610118000,Ballymena,Loughgall,2,0,,,,0
-1610118000,Ballyclare,Carrick Rangers,0,2,,,,0
-1610118000,Ballinamallard,Ards Rangers,0,0,AET,2,0,0
-1612467900,Newry City,Ards,1,0,,,,0
-1612467900,Larne,Linfield,2,0,,,,0
-1612531800,Queens Univ.,Glentoran,0,4,,,,0
-1612537200,Dungannon,Annagh,4,1,,,,0
-1612537200,Coleraine,Portadown,2,0,,,,0
-1612537200,Carrick Rangers,Cliftonville,0,1,,,,0
-1612537200,Ballinamallard,Crusaders,0,1,,,,0
-1613418300,Ballymena,Portstewart,3,0,,,,0
-1614887100,Cliftonville,Coleraine,2,1,,,,0
-1614956400,Glentoran,Newry City,1,0,,,,0
-1614956400,Crusaders,Dungannon,4,2,,,,0
-1614956400,Ballymena,Larne,3,3,Pen,4,3,0
-1617302700,Cliftonville,Crusaders,1,2,,,,0
-1619462700,Ballymena,Newry City,1,0,,,,0
-1620394200,Ballymena,Crusaders,1,1,AET,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1610048700,Glenavon,Crusaders,M5KEPeqR,6BBVz3Rq,0,4,,,,0
+1610112600,Queens Univ.,Newington,K4pLpL0b,tdOZ8ytr,2,0,,,,0
+1610112600,Knockbreda,Dungannon,bmudod0I,xOaZHl96,0,2,,,,0
+1610118000,Warrenpoint,Newry City,vmx8DHXQ,MFZ0SgDq,1,2,,,,0
+1610118000,Portadown,Limavady,C6HCzrGT,pYbCLS4D,2,0,,,,0
+1610118000,Linfield,Oxford Sunnyside FC,GUrKqyjt,jo0SyIxG,4,0,,,,0
+1610118000,Institute,Portstewart,zaBJ6qAa,lMaYesoj,0,1,,,,0
+1610118000,H&W Welders,Annagh,MHEAETHP,0hisEehN,1,2,,,,0
+1610118000,Dergview,Glentoran,vmx8DHXQ,l2qiVD1D,2,3,,,,0
+1610118000,Coleraine,Windmill,l2RHTltM,ldfNJfha,6,0,,,,0
+1610118000,Cliftonville,Islandmagee,OGT1hbmr,K8nYWSz2,5,0,,,,0
+1610118000,Bangor FC,Larne,Ia6rz2Nr,6DWdsjIR,0,5,,,,0
+1610118000,Ballymena,Loughgall,S0fpxPRE,0dw4EcIK,2,0,,,,0
+1610118000,Ballyclare,Carrick Rangers,jcMcJGzT,xOaZHl96,0,2,,,,0
+1610118000,Ballinamallard,Ards Rangers,0dw4EcIK,hvW2PSTQ,0,0,AET,2,0,0
+1612467900,Newry City,Ards,MFZ0SgDq,vmx8DHXQ,1,0,,,,0
+1612467900,Larne,Linfield,6DWdsjIR,GUrKqyjt,2,0,,,,0
+1612531800,Queens Univ.,Glentoran,K4pLpL0b,l2qiVD1D,0,4,,,,0
+1612537200,Dungannon,Annagh,xOaZHl96,0hisEehN,4,1,,,,0
+1612537200,Coleraine,Portadown,l2RHTltM,C6HCzrGT,2,0,,,,0
+1612537200,Carrick Rangers,Cliftonville,xOaZHl96,OGT1hbmr,0,1,,,,0
+1612537200,Ballinamallard,Crusaders,0dw4EcIK,6BBVz3Rq,0,1,,,,0
+1613418300,Ballymena,Portstewart,S0fpxPRE,lMaYesoj,3,0,,,,0
+1614887100,Cliftonville,Coleraine,OGT1hbmr,l2RHTltM,2,1,,,,0
+1614956400,Glentoran,Newry City,l2qiVD1D,MFZ0SgDq,1,0,,,,0
+1614956400,Crusaders,Dungannon,6BBVz3Rq,xOaZHl96,4,2,,,,0
+1614956400,Ballymena,Larne,S0fpxPRE,6DWdsjIR,3,3,Pen,4,3,0
+1617302700,Cliftonville,Crusaders,OGT1hbmr,6BBVz3Rq,1,2,,,,0
+1619462700,Ballymena,Newry City,S0fpxPRE,MFZ0SgDq,1,0,,,,0
+1620394200,Ballymena,Crusaders,S0fpxPRE,6BBVz3Rq,1,1,AET,1,2,0

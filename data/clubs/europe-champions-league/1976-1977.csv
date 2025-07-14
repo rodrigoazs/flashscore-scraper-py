@@ -1,62 +1,62 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-211572000,Sliema,TPS,2,1,,,,0
-211572000,Koge,Bayern Munich,0,5,,,,0
-211573800,Liverpool,Crusaders,2,0,,,,0
-211644000,Viking,Ostrava,2,1,,,,0
-211644000,Stal Mielec,Real Madrid,1,2,,,,0
-211644000,Ferencvaros,Jeunesse Esch,5,1,,,,0
-211646700,Omonia,PAOK,0,2,,,,0
-211654800,Dyn. Kyiv,Partizan,3,0,,,,0
-211654800,CSKA Sofia,St Etienne,0,0,,,,0
-211658400,Akranes,Trabzonspor,1,3,,,,0
-211660200,Rangers,Zurich,1,1,,,,0
-211660200,Austria Vienna,B. Monchengladbach,1,0,,,,0
-211662000,SG Dynamo Dresden,Benfica,2,0,,,,0
-211662000,Club Brugge KV,FCSB,2,1,,,,0
-211663800,Torino,Malmo FF,2,1,,,,0
-211665600,Dundalk,PSV,1,1,,,,0
-212770800,TPS,Sliema,1,0,,,,0
-212770800,Crusaders,Liverpool,0,5,,,,0
-212850000,Ostrava,Viking,2,0,,,,0
-212850000,Jeunesse Esch,Ferencvaros,2,6,,,,0
-212850000,FCSB,Club Brugge KV,1,1,,,,0
-212855400,Trabzonspor,Akranes,3,2,,,,0
-212864400,Partizan,Dyn. Kyiv,0,2,,,,0
-212868000,Malmo FF,Torino,1,1,,,,0
-212869800,PAOK,Omonia,1,1,,,,0
-212869800,B. Monchengladbach,Austria Vienna,3,0,,,,0
-212871600,Zurich,Rangers,1,0,,,,0
-212871600,PSV,Dundalk,6,0,,,,0
-212871600,Bayern Munich,Koge,2,1,,,,0
-212873400,St Etienne,CSKA Sofia,1,0,,,,0
-212877000,Benfica,SG Dynamo Dresden,0,0,,,,0
-212880600,Real Madrid,Stal Mielec,1,0,,,,0
-214664400,Trabzonspor,Liverpool,1,0,,,,0
-214664400,Ferencvaros,SG Dynamo Dresden,1,0,,,,0
-214675200,Ostrava,Bayern Munich,2,1,,,,0
-214678800,Dyn. Kyiv,PAOK,4,0,,,,0
-214686000,Zurich,TPS,2,0,,,,0
-214687800,Torino,B. Monchengladbach,1,2,,,,0
-214687800,St Etienne,PSV,1,0,,,,0
-214691400,Real Madrid,Club Brugge KV,0,0,,,,0
-215884800,TPS,Zurich,0,1,,,,0
-215884800,SG Dynamo Dresden,Ferencvaros,4,0,,,,0
-215886600,PAOK,Dyn. Kyiv,0,2,,,,0
-215893800,Liverpool,Trabzonspor,3,0,,,,0
-215895600,PSV,St Etienne,0,0,,,,0
-215895600,Club Brugge KV,Real Madrid,2,0,,,,0
-215895600,Bayern Munich,Ostrava,5,0,,,,0
-215895600,B. Monchengladbach,Torino,0,0,,,,0
-226177200,Zurich,SG Dynamo Dresden,2,1,,,,0
-226177200,Bayern Munich,Dyn. Kyiv,1,0,,,,0
-226177200,B. Monchengladbach,Club Brugge KV,2,2,,,,0
-226179000,St Etienne,Liverpool,1,0,,,,0
-227376000,SG Dynamo Dresden,Zurich,3,2,,,,0
-227379600,Dyn. Kyiv,Bayern Munich,2,0,,,,0
-227386800,Club Brugge KV,B. Monchengladbach,0,1,,,,0
-227388600,Liverpool,St Etienne,3,1,,,,0
-229194000,Zurich,Liverpool,1,3,,,,0
-229194000,Dyn. Kyiv,B. Monchengladbach,1,0,,,,0
-230409000,Liverpool,Zurich,3,0,,,,0
-230410800,B. Monchengladbach,Dyn. Kyiv,2,0,,,,0
-233436600,Liverpool,B. Monchengladbach,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+211572000,Sliema,TPS,YFbDUeTh,GlTeTYJC,2,1,,,,0
+211572000,Koge,Bayern Munich,dMuamJsA,SvLFaVNH,0,5,,,,0
+211573800,Liverpool,Crusaders,KCp4zq5F,6BBVz3Rq,2,0,,,,0
+211644000,Viking,Ostrava,xvniPjZd,KGvKypjo,2,1,,,,0
+211644000,Stal Mielec,Real Madrid,tfVka94A,fcDVLdrL,1,2,,,,0
+211644000,Ferencvaros,Jeunesse Esch,U3aHptUA,IqhLeVal,5,1,,,,0
+211646700,Omonia,PAOK,8GeT5Kmk,pvWT1yik,0,2,,,,0
+211654800,Dyn. Kyiv,Partizan,M1Cjh44S,prjDOVbf,3,0,,,,0
+211654800,CSKA Sofia,St Etienne,fRtHs98a,8Ca53MKO,0,0,,,,0
+211658400,Akranes,Trabzonspor,4hhcealo,MobtE80i,1,3,,,,0
+211660200,Rangers,Zurich,fFCBVa82,zFgN5luK,1,1,,,,0
+211660200,Austria Vienna,B. Monchengladbach,lUkqx2Vt,ncmj9JbF,1,0,,,,0
+211662000,SG Dynamo Dresden,Benfica,YP5eX03i,GEKimEim,2,0,,,,0
+211662000,Club Brugge KV,FCSB,44lq3LsP,SCh1iPaa,2,1,,,,0
+211663800,Torino,Malmo FF,0lwy4Ij1,YmCZKGcR,2,1,,,,0
+211665600,Dundalk,PSV,4zJqyaPk,j5zA1baQ,1,1,,,,0
+212770800,TPS,Sliema,GlTeTYJC,YFbDUeTh,1,0,,,,0
+212770800,Crusaders,Liverpool,6BBVz3Rq,KCp4zq5F,0,5,,,,0
+212850000,Ostrava,Viking,KGvKypjo,xvniPjZd,2,0,,,,0
+212850000,Jeunesse Esch,Ferencvaros,IqhLeVal,U3aHptUA,2,6,,,,0
+212850000,FCSB,Club Brugge KV,SCh1iPaa,44lq3LsP,1,1,,,,0
+212855400,Trabzonspor,Akranes,MobtE80i,4hhcealo,3,2,,,,0
+212864400,Partizan,Dyn. Kyiv,prjDOVbf,M1Cjh44S,0,2,,,,0
+212868000,Malmo FF,Torino,YmCZKGcR,0lwy4Ij1,1,1,,,,0
+212869800,PAOK,Omonia,pvWT1yik,8GeT5Kmk,1,1,,,,0
+212869800,B. Monchengladbach,Austria Vienna,ncmj9JbF,lUkqx2Vt,3,0,,,,0
+212871600,Zurich,Rangers,zFgN5luK,fFCBVa82,1,0,,,,0
+212871600,PSV,Dundalk,j5zA1baQ,4zJqyaPk,6,0,,,,0
+212871600,Bayern Munich,Koge,SvLFaVNH,dMuamJsA,2,1,,,,0
+212873400,St Etienne,CSKA Sofia,8Ca53MKO,fRtHs98a,1,0,,,,0
+212877000,Benfica,SG Dynamo Dresden,GEKimEim,YP5eX03i,0,0,,,,0
+212880600,Real Madrid,Stal Mielec,fcDVLdrL,tfVka94A,1,0,,,,0
+214664400,Trabzonspor,Liverpool,MobtE80i,KCp4zq5F,1,0,,,,0
+214664400,Ferencvaros,SG Dynamo Dresden,U3aHptUA,YP5eX03i,1,0,,,,0
+214675200,Ostrava,Bayern Munich,KGvKypjo,SvLFaVNH,2,1,,,,0
+214678800,Dyn. Kyiv,PAOK,M1Cjh44S,pvWT1yik,4,0,,,,0
+214686000,Zurich,TPS,zFgN5luK,GlTeTYJC,2,0,,,,0
+214687800,Torino,B. Monchengladbach,0lwy4Ij1,ncmj9JbF,1,2,,,,0
+214687800,St Etienne,PSV,8Ca53MKO,j5zA1baQ,1,0,,,,0
+214691400,Real Madrid,Club Brugge KV,fcDVLdrL,44lq3LsP,0,0,,,,0
+215884800,TPS,Zurich,GlTeTYJC,zFgN5luK,0,1,,,,0
+215884800,SG Dynamo Dresden,Ferencvaros,YP5eX03i,U3aHptUA,4,0,,,,0
+215886600,PAOK,Dyn. Kyiv,pvWT1yik,M1Cjh44S,0,2,,,,0
+215893800,Liverpool,Trabzonspor,KCp4zq5F,MobtE80i,3,0,,,,0
+215895600,PSV,St Etienne,j5zA1baQ,8Ca53MKO,0,0,,,,0
+215895600,Club Brugge KV,Real Madrid,44lq3LsP,fcDVLdrL,2,0,,,,0
+215895600,Bayern Munich,Ostrava,SvLFaVNH,KGvKypjo,5,0,,,,0
+215895600,B. Monchengladbach,Torino,ncmj9JbF,0lwy4Ij1,0,0,,,,0
+226177200,Zurich,SG Dynamo Dresden,zFgN5luK,YP5eX03i,2,1,,,,0
+226177200,Bayern Munich,Dyn. Kyiv,SvLFaVNH,M1Cjh44S,1,0,,,,0
+226177200,B. Monchengladbach,Club Brugge KV,ncmj9JbF,44lq3LsP,2,2,,,,0
+226179000,St Etienne,Liverpool,8Ca53MKO,KCp4zq5F,1,0,,,,0
+227376000,SG Dynamo Dresden,Zurich,YP5eX03i,zFgN5luK,3,2,,,,0
+227379600,Dyn. Kyiv,Bayern Munich,M1Cjh44S,SvLFaVNH,2,0,,,,0
+227386800,Club Brugge KV,B. Monchengladbach,44lq3LsP,ncmj9JbF,0,1,,,,0
+227388600,Liverpool,St Etienne,KCp4zq5F,8Ca53MKO,3,1,,,,0
+229194000,Zurich,Liverpool,zFgN5luK,KCp4zq5F,1,3,,,,0
+229194000,Dyn. Kyiv,B. Monchengladbach,M1Cjh44S,ncmj9JbF,1,0,,,,0
+230409000,Liverpool,Zurich,KCp4zq5F,zFgN5luK,3,0,,,,0
+230410800,B. Monchengladbach,Dyn. Kyiv,ncmj9JbF,M1Cjh44S,2,0,,,,0
+233436600,Liverpool,B. Monchengladbach,KCp4zq5F,ncmj9JbF,3,1,,,,0

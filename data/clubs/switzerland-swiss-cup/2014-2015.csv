@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1408798800,Baden,St. Gallen,0,3,,,,0
-1408802400,Terre Sainte,Biel,0,1,,,,0
-1408802400,Cham,Dudingen,2,1,,,,0
-1408802400,Breitenrain,Thun,2,3,,,,0
-1408806000,YF Juventus,Lausanne,1,3,,,,0
-1408806000,Rothrist,Le Mont,0,1,,,,0
-1408806000,Old Boys,Lugano,1,2,,,,0
-1408806000,Muri,Wohlen,0,3,,,,0
-1408806000,Lausanne Ouchy,Munsingen,0,1,,,,0
-1408806000,Italien,Basel,0,4,,,,0
-1408806000,Eschenbach,Winterthur,1,3,,,,0
-1408806000,Buochs,Frauenfeld,1,0,,,,0
-1408807800,Payerne,Schotz,1,4,,,,0
-1408809600,Veltheim,Henau,2,2,AET,2,3,0
-1408809600,Pratteln,Black Stars,0,8,,,,0
-1408809600,Mendrisio,Chiasso,0,2,,,,0
-1408809600,Dietikon,Wil,0,4,,,,0
-1408810500,Vedeggio,Grasshoppers,0,2,,,,0
-1408815000,Xamax,Etoile-Carouge,0,0,Pen,2,1,0
-1408815000,Hergiswil,Tuggen,2,1,,,,0
-1408881600,Sirnach,Servette,0,8,,,,0
-1408881600,Perly-Certoux,Schaffhausen,2,4,,,,0
-1408881600,Nottwil,Koniz,0,5,,,,0
-1408883400,Konolfingen,Luzern,0,9,,,,0
-1408885200,Tagerwilen,Visp,4,1,,,,0
-1408885200,Schonbuhl,Zurich,0,7,,,,0
-1408885200,Murten,Stade Nyonnais,0,4,,,,0
-1408885200,La Chaux-De-Fonds,Sion,1,3,,,,0
-1408885200,Greifensee,Subingen,2,1,,,,0
-1408885200,Bavois,Young Boys,0,1,,,,0
-1408887000,Taverne,Aarau,1,7,,,,0
-1408887000,Audax-Friul,Locarno,0,2,,,,0
-1411147800,Lausanne,Thun,0,1,,,,0
-1411225200,Tagerwilen,Lugano,3,9,,,,0
-1411225200,Munsingen,Locarno,1,0,,,,0
-1411227000,Schaffhausen,Luzern,3,3,AET,3,5,0
-1411227000,Chiasso,Aarau,0,1,,,,0
-1411227000,Buochs,Young Boys,1,0,,,,0
-1411227000,Biel,Sion,0,1,,,,0
-1411228800,Henau,Wil,2,2,AET,2,3,0
-1411234200,Hergiswil,Schotz,1,3,,,,0
-1411300800,Xamax,Grasshoppers,3,5,,,,0
-1411300800,Winterthur,Basel,0,4,,,,0
-1411300800,Black Stars,Zurich,1,1,AET,1,2,0
-1411304400,Servette,Wohlen,1,2,,,,0
-1411304400,Greifensee,Cham,2,3,,,,0
-1411306200,Le Mont,St. Gallen,1,2,,,,0
-1411308000,Stade Nyonnais,Koniz,1,2,,,,0
-1414607400,Luzern,Aarau,1,2,,,,0
-1414607400,Lugano,Grasshoppers,0,0,AET,0,1,0
-1414608300,Wohlen,Basel,1,3,,,,0
-1414609200,St. Gallen,Thun,1,1,AET,2,1,0
-1414693800,Munsingen,Wil,3,2,,,,0
-1414693800,Koniz,Sion,0,3,,,,0
-1414693800,Buochs,Schotz,2,0,,,,0
-1417631400,Cham,Zurich,0,5,,,,0
-1425493800,Munsingen,Basel,1,6,,,,0
-1425496500,Zurich,Grasshoppers,0,0,AET,1,0,0
-1425497400,Sion,Aarau,2,1,,,,0
-1426100400,Buochs,St. Gallen,0,5,,,,0
-1428431400,Zurich,Sion,0,1,,,,0
-1428516900,St. Gallen,Basel,1,3,,,,0
-1433678400,Basel,Sion,0,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1408798800,Baden,St. Gallen,63TN1CJD,fubIDuh0,0,3,,,,0
+1408802400,Terre Sainte,Biel,APHBYBiC,xOaZHl96,0,1,,,,0
+1408802400,Cham,Dudingen,pzMOQXRe,C8nJVJrC,2,1,,,,0
+1408802400,Breitenrain,Thun,42VpIREP,xbUiUE46,2,3,,,,0
+1408806000,YF Juventus,Lausanne,Ya0cpVgR,IkaTiXpU,1,3,,,,0
+1408806000,Rothrist,Le Mont,2Jj9KHWB,IXgFn7Qf,0,1,,,,0
+1408806000,Old Boys,Lugano,Ya0cpVgR,0IhGjVDm,1,2,,,,0
+1408806000,Muri,Wohlen,ShhYWNs1,4KGFKeq4,0,3,,,,0
+1408806000,Lausanne Ouchy,Munsingen,tp21ECEq,OnUEO8s5,0,1,,,,0
+1408806000,Italien,Basel,dGjRTElg,fPZDBkJI,0,4,,,,0
+1408806000,Eschenbach,Winterthur,Is1MKii7,6P6dM30h,1,3,,,,0
+1408806000,Buochs,Frauenfeld,Is1MKii7,IPiNUfZn,1,0,,,,0
+1408807800,Payerne,Schotz,W0u0wqgN,v9aRYoSB,1,4,,,,0
+1408809600,Veltheim,Henau,MVH4YAST,IPiNUfZn,2,2,AET,2,3,0
+1408809600,Pratteln,Black Stars,AVEPFTCQ,C6ZmSpWn,0,8,,,,0
+1408809600,Mendrisio,Chiasso,69rjld00,GEbwH8OC,0,2,,,,0
+1408809600,Dietikon,Wil,lQLZ37dT,lCjwt4LE,0,4,,,,0
+1408810500,Vedeggio,Grasshoppers,zm1miy25,WdBesfPo,0,2,,,,0
+1408815000,Xamax,Etoile-Carouge,ln9wF1MU,pnt8DXVI,0,0,Pen,2,1,0
+1408815000,Hergiswil,Tuggen,nqv3Z8H5,Mc262rFb,2,1,,,,0
+1408881600,Sirnach,Servette,63DyLuTs,vJvKsfHT,0,8,,,,0
+1408881600,Perly-Certoux,Schaffhausen,Y3WG1US1,EiyYrUhb,2,4,,,,0
+1408881600,Nottwil,Koniz,htsS0nvi,z3ZBvmAa,0,5,,,,0
+1408883400,Konolfingen,Luzern,,n7K4dyrM,0,9,,,,0
+1408885200,Tagerwilen,Visp,0paNDKz0,Kpf8lU7G,4,1,,,,0
+1408885200,Schonbuhl,Zurich,0dmnRulf,zFgN5luK,0,7,,,,0
+1408885200,Murten,Stade Nyonnais,E7FSzHWg,Qom1CdYj,0,4,,,,0
+1408885200,La Chaux-De-Fonds,Sion,OvYZsi0d,QsLBSppP,1,3,,,,0
+1408885200,Greifensee,Subingen,dWMroErO,djwcM6EO,2,1,,,,0
+1408885200,Bavois,Young Boys,8YpBfFRA,KGWqWzzf,0,1,,,,0
+1408887000,Taverne,Aarau,n3bgfrX8,nLy4dj0C,1,7,,,,0
+1408887000,Audax-Friul,Locarno,Y3bm4LXM,n7K4dyrM,0,2,,,,0
+1411147800,Lausanne,Thun,IkaTiXpU,xbUiUE46,0,1,,,,0
+1411225200,Tagerwilen,Lugano,0paNDKz0,0IhGjVDm,3,9,,,,0
+1411225200,Munsingen,Locarno,OnUEO8s5,n7K4dyrM,1,0,,,,0
+1411227000,Schaffhausen,Luzern,EiyYrUhb,n7K4dyrM,3,3,AET,3,5,0
+1411227000,Chiasso,Aarau,GEbwH8OC,nLy4dj0C,0,1,,,,0
+1411227000,Buochs,Young Boys,Is1MKii7,KGWqWzzf,1,0,,,,0
+1411227000,Biel,Sion,xOaZHl96,QsLBSppP,0,1,,,,0
+1411228800,Henau,Wil,IPiNUfZn,lCjwt4LE,2,2,AET,2,3,0
+1411234200,Hergiswil,Schotz,nqv3Z8H5,v9aRYoSB,1,3,,,,0
+1411300800,Xamax,Grasshoppers,ln9wF1MU,WdBesfPo,3,5,,,,0
+1411300800,Winterthur,Basel,6P6dM30h,fPZDBkJI,0,4,,,,0
+1411300800,Black Stars,Zurich,C6ZmSpWn,zFgN5luK,1,1,AET,1,2,0
+1411304400,Servette,Wohlen,vJvKsfHT,4KGFKeq4,1,2,,,,0
+1411304400,Greifensee,Cham,dWMroErO,pzMOQXRe,2,3,,,,0
+1411306200,Le Mont,St. Gallen,IXgFn7Qf,fubIDuh0,1,2,,,,0
+1411308000,Stade Nyonnais,Koniz,Qom1CdYj,z3ZBvmAa,1,2,,,,0
+1414607400,Luzern,Aarau,n7K4dyrM,nLy4dj0C,1,2,,,,0
+1414607400,Lugano,Grasshoppers,0IhGjVDm,WdBesfPo,0,0,AET,0,1,0
+1414608300,Wohlen,Basel,4KGFKeq4,fPZDBkJI,1,3,,,,0
+1414609200,St. Gallen,Thun,fubIDuh0,xbUiUE46,1,1,AET,2,1,0
+1414693800,Munsingen,Wil,OnUEO8s5,lCjwt4LE,3,2,,,,0
+1414693800,Koniz,Sion,z3ZBvmAa,QsLBSppP,0,3,,,,0
+1414693800,Buochs,Schotz,Is1MKii7,v9aRYoSB,2,0,,,,0
+1417631400,Cham,Zurich,pzMOQXRe,zFgN5luK,0,5,,,,0
+1425493800,Munsingen,Basel,OnUEO8s5,fPZDBkJI,1,6,,,,0
+1425496500,Zurich,Grasshoppers,zFgN5luK,WdBesfPo,0,0,AET,1,0,0
+1425497400,Sion,Aarau,QsLBSppP,nLy4dj0C,2,1,,,,0
+1426100400,Buochs,St. Gallen,Is1MKii7,fubIDuh0,0,5,,,,0
+1428431400,Zurich,Sion,zFgN5luK,QsLBSppP,0,1,,,,0
+1428516900,St. Gallen,Basel,fubIDuh0,fPZDBkJI,1,3,,,,0
+1433678400,Basel,Sion,fPZDBkJI,QsLBSppP,0,3,,,,0

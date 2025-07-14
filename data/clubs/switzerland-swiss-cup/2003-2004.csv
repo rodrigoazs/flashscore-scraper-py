@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1063922400,Brugg,Baden,0,1,,,,0
-1063995300,Alle,Basel,1,5,,,,0
-1064008800,Zug,Schaffhausen,1,3,,,,0
-1064008800,Wangen,Solothurn,1,2,,,,0
-1064008800,Wangen,Delemont,2,0,,,,0
-1064008800,Sursee,Bulle,1,1,AET,2,1,0
-1064008800,Stabio,Chiasso,2,2,AET,3,2,0
-1064008800,St. Denis,Yverdon,0,7,,,,0
-1064008800,Siviriez,Oberwallis Naters,1,4,,,,0
-1064008800,Sarnen,Kriens,0,2,,,,0
-1064008800,Regensdorf,FC Effretikon,1,0,,,,0
-1064008800,Moutier,Luzern,0,3,,,,0
-1064008800,Montreux-Sports,FC UGS,0,2,,,,0
-1064008800,Martigny,Munsingen,4,2,,,,0
-1064008800,IC Zurigo,Wohlen,0,0,AET,0,1,0
-1064008800,FC Winkeln SG,AC Malcantone,0,4,,,,0
-1064008800,FC Lutry,Meyrin,1,10,,,,0
-1064008800,FC Herisa,Bellinzona,2,0,,,,0
-1064008800,Etoile-Carouge,Vevey,5,1,,,,0
-1064008800,Ebnat-Kappel,Tuggen,0,7,,,,0
-1064008800,Dornach,Concordia,1,2,,,,0
-1064008800,Dietikon,Winterthur,1,3,,,,0
-1064067300,YF Juventus,Grasshoppers,1,2,,,,0
-1064067300,Wiesendangen,Zurich,0,6,,,,0
-1064067300,FC Othmarsingen,Aarau,0,4,,,,0
-1064067300,FC Baulmes,Xamax,2,5,,,,0
-1064067300,FC Allmendingen,Thun,0,7,,,,0
-1064067300,Collombey,Young Boys,0,2,,,,0
-1064067300,Chur,St. Gallen,0,2,,,,0
-1064067300,Biaschesi,Wil,1,3,,,,0
-1064095200,FC Cortaillod,La Chaux-De-Fonds,0,4,,,,0
-1064147400,Collex-Bossy,Servette,0,4,,,,0
-1066411800,Kriens,Winterthur,1,2,,,,0
-1066411800,Etoile-Carouge,Meyrin,0,0,,,,0
-1066428000,Tuggen,Solothurn,4,1,,,,0
-1066428000,Martigny,Yverdon,0,0,,,,0
-1066486500,Wohlen,Wil,0,2,,,,0
-1066486500,Wangen,Zurich,0,1,,,,0
-1066486500,Stabio,Thun,0,2,,,,0
-1066486500,Schaffhausen,Aarau,1,1,AET,1,2,0
-1066486500,Regensdorf,St. Gallen,2,5,,,,0
-1066514400,Siviriez,Bulle,0,3,,,,0
-1066514400,FC Herisa,Baden,3,1,,,,0
-1066566600,Luzern,Grasshoppers,0,4,,,,0
-1066566600,La Chaux-De-Fonds,Young Boys,0,4,,,,0
-1066566600,Concordia,Xamax,2,3,,,,0
-1066566600,AC Malcantone,Servette,2,2,AET,3,2,0
-1066572900,FC UGS,Basel,1,4,,,,0
-1068246000,Tuggen,Meyrin,1,2,,,,0
-1068304500,Yverdon,Wil,0,1,,,,0
-1068304500,Winterthur,Xamax,2,3,,,,0
-1068384600,Grasshoppers,Basel,1,0,,,,0
-1068384600,FC Herisa,Zurich,2,4,,,,0
-1068384600,Bulle,Thun,0,4,,,,0
-1068384600,AC Malcantone,Young Boys,2,1,,,,0
-1068384600,Aarau,St. Gallen,1,1,AET,1,2,0
-1070803800,Xamax,Grasshoppers,0,3,,,,0
-1070803800,Thun,St. Gallen,2,2,AET,2,3,0
-1070803800,Meyrin,Zurich,0,3,,,,0
-1070803800,AC Malcantone,Wil,0,2,,,,0
-1078341300,Grasshoppers,Zurich,5,5,AET,6,5,0
-1078427700,St. Gallen,Wil,1,2,,,,0
-1081774800,Grasshoppers,Wil,2,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1063922400,Brugg,Baden,,63TN1CJD,0,1,,,,0
+1063995300,Alle,Basel,,fPZDBkJI,1,5,,,,0
+1064008800,Zug,Schaffhausen,l0O1R4I6,EiyYrUhb,1,3,,,,0
+1064008800,Wangen,Solothurn,0WP62wXp,Uy18dKhK,1,2,,,,0
+1064008800,Wangen,Delemont,0WP62wXp,nLy4dj0C,2,0,,,,0
+1064008800,Sursee,Bulle,Mq9r0uSO,lSprjIVm,1,1,AET,2,1,0
+1064008800,Stabio,Chiasso,,GEbwH8OC,2,2,AET,3,2,0
+1064008800,St. Denis,Yverdon,SvDIAobA,S8tGctos,0,7,,,,0
+1064008800,Siviriez,Oberwallis Naters,,SIqnkxof,1,4,,,,0
+1064008800,Sarnen,Kriens,Y9XrgGum,n7K4dyrM,0,2,,,,0
+1064008800,Regensdorf,FC Effretikon,drugjHzp,,1,0,,,,0
+1064008800,Moutier,Luzern,drHIHjWj,n7K4dyrM,0,3,,,,0
+1064008800,Montreux-Sports,FC UGS,,lUiNHhXQ,0,2,,,,0
+1064008800,Martigny,Munsingen,WxcdJXqj,OnUEO8s5,4,2,,,,0
+1064008800,IC Zurigo,Wohlen,,4KGFKeq4,0,0,AET,0,1,0
+1064008800,FC Winkeln SG,AC Malcantone,SvDIAobA,IiIEIWGp,0,4,,,,0
+1064008800,FC Lutry,Meyrin,,hArnh4yq,1,10,,,,0
+1064008800,FC Herisa,Bellinzona,,llYv6bVJ,2,0,,,,0
+1064008800,Etoile-Carouge,Vevey,pnt8DXVI,QqQHJeWi,5,1,,,,0
+1064008800,Ebnat-Kappel,Tuggen,,Mc262rFb,0,7,,,,0
+1064008800,Dornach,Concordia,h2CfkGfI,beXtRf2l,1,2,,,,0
+1064008800,Dietikon,Winterthur,lQLZ37dT,6P6dM30h,1,3,,,,0
+1064067300,YF Juventus,Grasshoppers,Ya0cpVgR,WdBesfPo,1,2,,,,0
+1064067300,Wiesendangen,Zurich,hntI0U5l,zFgN5luK,0,6,,,,0
+1064067300,FC Othmarsingen,Aarau,,nLy4dj0C,0,4,,,,0
+1064067300,FC Baulmes,Xamax,lOUjifAa,ln9wF1MU,2,5,,,,0
+1064067300,FC Allmendingen,Thun,,xbUiUE46,0,7,,,,0
+1064067300,Collombey,Young Boys,,KGWqWzzf,0,2,,,,0
+1064067300,Chur,St. Gallen,4zq5jCMc,fubIDuh0,0,2,,,,0
+1064067300,Biaschesi,Wil,,lCjwt4LE,1,3,,,,0
+1064095200,FC Cortaillod,La Chaux-De-Fonds,,OvYZsi0d,0,4,,,,0
+1064147400,Collex-Bossy,Servette,67DZBzH6,vJvKsfHT,0,4,,,,0
+1066411800,Kriens,Winterthur,n7K4dyrM,6P6dM30h,1,2,,,,0
+1066411800,Etoile-Carouge,Meyrin,pnt8DXVI,hArnh4yq,0,0,,,,0
+1066428000,Tuggen,Solothurn,Mc262rFb,Uy18dKhK,4,1,,,,0
+1066428000,Martigny,Yverdon,WxcdJXqj,S8tGctos,0,0,,,,0
+1066486500,Wohlen,Wil,4KGFKeq4,lCjwt4LE,0,2,,,,0
+1066486500,Wangen,Zurich,0WP62wXp,zFgN5luK,0,1,,,,0
+1066486500,Stabio,Thun,,xbUiUE46,0,2,,,,0
+1066486500,Schaffhausen,Aarau,EiyYrUhb,nLy4dj0C,1,1,AET,1,2,0
+1066486500,Regensdorf,St. Gallen,drugjHzp,fubIDuh0,2,5,,,,0
+1066514400,Siviriez,Bulle,,lSprjIVm,0,3,,,,0
+1066514400,FC Herisa,Baden,,63TN1CJD,3,1,,,,0
+1066566600,Luzern,Grasshoppers,n7K4dyrM,WdBesfPo,0,4,,,,0
+1066566600,La Chaux-De-Fonds,Young Boys,OvYZsi0d,KGWqWzzf,0,4,,,,0
+1066566600,Concordia,Xamax,beXtRf2l,ln9wF1MU,2,3,,,,0
+1066566600,AC Malcantone,Servette,IiIEIWGp,vJvKsfHT,2,2,AET,3,2,0
+1066572900,FC UGS,Basel,lUiNHhXQ,fPZDBkJI,1,4,,,,0
+1068246000,Tuggen,Meyrin,Mc262rFb,hArnh4yq,1,2,,,,0
+1068304500,Yverdon,Wil,S8tGctos,lCjwt4LE,0,1,,,,0
+1068304500,Winterthur,Xamax,6P6dM30h,ln9wF1MU,2,3,,,,0
+1068384600,Grasshoppers,Basel,WdBesfPo,fPZDBkJI,1,0,,,,0
+1068384600,FC Herisa,Zurich,,zFgN5luK,2,4,,,,0
+1068384600,Bulle,Thun,lSprjIVm,xbUiUE46,0,4,,,,0
+1068384600,AC Malcantone,Young Boys,IiIEIWGp,KGWqWzzf,2,1,,,,0
+1068384600,Aarau,St. Gallen,nLy4dj0C,fubIDuh0,1,1,AET,1,2,0
+1070803800,Xamax,Grasshoppers,ln9wF1MU,WdBesfPo,0,3,,,,0
+1070803800,Thun,St. Gallen,xbUiUE46,fubIDuh0,2,2,AET,2,3,0
+1070803800,Meyrin,Zurich,hArnh4yq,zFgN5luK,0,3,,,,0
+1070803800,AC Malcantone,Wil,IiIEIWGp,lCjwt4LE,0,2,,,,0
+1078341300,Grasshoppers,Zurich,WdBesfPo,zFgN5luK,5,5,AET,6,5,0
+1078427700,St. Gallen,Wil,fubIDuh0,lCjwt4LE,1,2,,,,0
+1081774800,Grasshoppers,Wil,WdBesfPo,lCjwt4LE,2,3,,,,0

@@ -1,70 +1,70 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1520416800,Vissel Kobe,V-Varen Nagasaki,2,2,,,,0
-1520416800,Vegalta Sendai,Albirex Niigata,1,1,,,,0
-1520416800,Shonan Bellmare,Sagan Tosu,1,0,,,,0
-1520416800,Shimizu S-Pulse,Iwata,1,0,,,,0
-1520416800,Nagoya Grampus,Urawa Reds,1,4,,,,0
-1520416800,Kofu,Hokkaido Consadole Sapporo,3,0,,,,0
-1520416800,Gamba Osaka,Sanfrecce Hiroshima,0,4,,,,0
-1520418600,Yokohama F. Marinos,FC Tokyo,1,0,,,,0
-1521021600,V-Varen Nagasaki,Shonan Bellmare,2,1,,,,0
-1521021600,Kofu,Shimizu S-Pulse,1,0,,,,0
-1521021600,Hokkaido Consadole Sapporo,Iwata,0,1,,,,0
-1521021600,FC Tokyo,Albirex Niigata,1,0,,,,0
-1521023400,Yokohama F. Marinos,Vegalta Sendai,0,0,,,,0
-1521023400,Urawa Reds,Gamba Osaka,1,4,,,,0
-1521023400,Sanfrecce Hiroshima,Nagoya Grampus,2,1,,,,0
-1521025200,Sagan Tosu,Vissel Kobe,0,2,,,,0
-1522836000,Vegalta Sendai,FC Tokyo,3,0,,,,0
-1522836000,V-Varen Nagasaki,Sagan Tosu,3,2,,,,0
-1522836000,Shonan Bellmare,Vissel Kobe,0,3,,,,0
-1522836000,Shimizu S-Pulse,Hokkaido Consadole Sapporo,2,1,,,,0
-1522836000,Sanfrecce Hiroshima,Urawa Reds,0,0,,,,0
-1522836000,Nagoya Grampus,Gamba Osaka,1,4,,,,0
-1522836000,Iwata,Kofu,3,2,,,,0
-1522836000,Albirex Niigata,Yokohama F. Marinos,1,3,,,,0
-1524045600,V-Varen Nagasaki,Vissel Kobe,1,2,,,,0
-1524045600,Shimizu S-Pulse,Kofu,1,1,,,,0
-1524045600,Nagoya Grampus,Sanfrecce Hiroshima,2,1,,,,0
-1524045600,Iwata,Hokkaido Consadole Sapporo,2,3,,,,0
-1524045600,Gamba Osaka,Urawa Reds,0,1,,,,0
-1524045600,FC Tokyo,Yokohama F. Marinos,2,2,,,,0
-1524045600,Albirex Niigata,Vegalta Sendai,3,1,,,,0
-1524049200,Sagan Tosu,Shonan Bellmare,0,0,,,,0
-1525860000,Vissel Kobe,Shonan Bellmare,3,4,,,,0
-1525860000,Vegalta Sendai,Yokohama F. Marinos,4,2,,,,0
-1525860000,Sanfrecce Hiroshima,Gamba Osaka,2,3,,,,0
-1525860000,Iwata,Shimizu S-Pulse,2,1,,,,0
-1525860000,Hokkaido Consadole Sapporo,Kofu,0,3,,,,0
-1525860000,Albirex Niigata,FC Tokyo,3,2,,,,0
-1525861800,Urawa Reds,Nagoya Grampus,2,0,,,,0
-1525863600,Sagan Tosu,V-Varen Nagasaki,2,1,,,,0
-1526464800,Yokohama F. Marinos,Albirex Niigata,2,1,,,,0
-1526464800,Vissel Kobe,Sagan Tosu,1,1,,,,0
-1526464800,Urawa Reds,Sanfrecce Hiroshima,1,0,,,,0
-1526464800,Shonan Bellmare,V-Varen Nagasaki,2,0,,,,0
-1526464800,Kofu,Iwata,0,1,,,,0
-1526464800,Hokkaido Consadole Sapporo,Shimizu S-Pulse,0,3,,,,0
-1526464800,Gamba Osaka,Nagoya Grampus,1,4,,,,0
-1526464800,FC Tokyo,Vegalta Sendai,0,1,,,,0
-1527915600,Yokohama F. Marinos,Vissel Kobe,4,2,,,,0
-1527919200,Kofu,Urawa Reds,2,0,,,,0
-1527922800,Gamba Osaka,Iwata,1,0,,,,0
-1527933600,Shonan Bellmare,Vegalta Sendai,3,0,,,,0
-1528520400,Vissel Kobe,Yokohama F. Marinos,1,1,,,,0
-1528524000,Vegalta Sendai,Shonan Bellmare,3,1,,,,0
-1528527600,Urawa Reds,Kofu,2,1,,,,0
-1528527600,Iwata,Gamba Osaka,2,3,,,,0
-1536141600,Shonan Bellmare,Cerezo Osaka,3,0,,,,0
-1536141600,Kofu,Kashiwa Reysol,2,2,,,,0
-1536141600,Kashima Antlers,Kawasaki Frontale,1,1,,,,0
-1536141600,Gamba Osaka,Yokohama F. Marinos,0,4,,,,0
-1536487200,Yokohama F. Marinos,Gamba Osaka,3,1,,,,0
-1536487200,Kawasaki Frontale,Kashima Antlers,1,3,,,,0
-1536487200,Kashiwa Reysol,Kofu,1,1,,,,0
-1536487200,Cerezo Osaka,Shonan Bellmare,2,2,,,,0
-1539165600,Kashiwa Reysol,Shonan Bellmare,1,1,,,,0
-1539165600,Kashima Antlers,Yokohama F. Marinos,1,2,,,,0
-1539493200,Yokohama F. Marinos,Kashima Antlers,2,2,,,,0
-1539500400,Shonan Bellmare,Kashiwa Reysol,1,1,Pen,3,2,0
-1540613100,Shonan Bellmare,Yokohama F. Marinos,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1520416800,Vissel Kobe,V-Varen Nagasaki,4SU3kZUI,IuWlSxkG,2,2,,,,0
+1520416800,Vegalta Sendai,Albirex Niigata,rkzDkpKt,SEX2RAcn,1,1,,,,0
+1520416800,Shonan Bellmare,Sagan Tosu,ppTjXyRn,WYtEUtB2,1,0,,,,0
+1520416800,Shimizu S-Pulse,Iwata,Uc4CHyL0,j758IH5f,1,0,,,,0
+1520416800,Nagoya Grampus,Urawa Reds,n9XchkvQ,nqhLBCKD,1,4,,,,0
+1520416800,Kofu,Hokkaido Consadole Sapporo,Uc4CHyL0,tGWvEQkr,3,0,,,,0
+1520416800,Gamba Osaka,Sanfrecce Hiroshima,pCXiuGSm,pSNkZ1lS,0,4,,,,0
+1520418600,Yokohama F. Marinos,FC Tokyo,plFsSE3r,YwiAOSxC,1,0,,,,0
+1521021600,V-Varen Nagasaki,Shonan Bellmare,IuWlSxkG,ppTjXyRn,2,1,,,,0
+1521021600,Kofu,Shimizu S-Pulse,Uc4CHyL0,Uc4CHyL0,1,0,,,,0
+1521021600,Hokkaido Consadole Sapporo,Iwata,tGWvEQkr,j758IH5f,0,1,,,,0
+1521021600,FC Tokyo,Albirex Niigata,YwiAOSxC,SEX2RAcn,1,0,,,,0
+1521023400,Yokohama F. Marinos,Vegalta Sendai,plFsSE3r,rkzDkpKt,0,0,,,,0
+1521023400,Urawa Reds,Gamba Osaka,nqhLBCKD,pCXiuGSm,1,4,,,,0
+1521023400,Sanfrecce Hiroshima,Nagoya Grampus,pSNkZ1lS,n9XchkvQ,2,1,,,,0
+1521025200,Sagan Tosu,Vissel Kobe,WYtEUtB2,4SU3kZUI,0,2,,,,0
+1522836000,Vegalta Sendai,FC Tokyo,rkzDkpKt,YwiAOSxC,3,0,,,,0
+1522836000,V-Varen Nagasaki,Sagan Tosu,IuWlSxkG,WYtEUtB2,3,2,,,,0
+1522836000,Shonan Bellmare,Vissel Kobe,ppTjXyRn,4SU3kZUI,0,3,,,,0
+1522836000,Shimizu S-Pulse,Hokkaido Consadole Sapporo,Uc4CHyL0,tGWvEQkr,2,1,,,,0
+1522836000,Sanfrecce Hiroshima,Urawa Reds,pSNkZ1lS,nqhLBCKD,0,0,,,,0
+1522836000,Nagoya Grampus,Gamba Osaka,n9XchkvQ,pCXiuGSm,1,4,,,,0
+1522836000,Iwata,Kofu,j758IH5f,Uc4CHyL0,3,2,,,,0
+1522836000,Albirex Niigata,Yokohama F. Marinos,SEX2RAcn,plFsSE3r,1,3,,,,0
+1524045600,V-Varen Nagasaki,Vissel Kobe,IuWlSxkG,4SU3kZUI,1,2,,,,0
+1524045600,Shimizu S-Pulse,Kofu,Uc4CHyL0,Uc4CHyL0,1,1,,,,0
+1524045600,Nagoya Grampus,Sanfrecce Hiroshima,n9XchkvQ,pSNkZ1lS,2,1,,,,0
+1524045600,Iwata,Hokkaido Consadole Sapporo,j758IH5f,tGWvEQkr,2,3,,,,0
+1524045600,Gamba Osaka,Urawa Reds,pCXiuGSm,nqhLBCKD,0,1,,,,0
+1524045600,FC Tokyo,Yokohama F. Marinos,YwiAOSxC,plFsSE3r,2,2,,,,0
+1524045600,Albirex Niigata,Vegalta Sendai,SEX2RAcn,rkzDkpKt,3,1,,,,0
+1524049200,Sagan Tosu,Shonan Bellmare,WYtEUtB2,ppTjXyRn,0,0,,,,0
+1525860000,Vissel Kobe,Shonan Bellmare,4SU3kZUI,ppTjXyRn,3,4,,,,0
+1525860000,Vegalta Sendai,Yokohama F. Marinos,rkzDkpKt,plFsSE3r,4,2,,,,0
+1525860000,Sanfrecce Hiroshima,Gamba Osaka,pSNkZ1lS,pCXiuGSm,2,3,,,,0
+1525860000,Iwata,Shimizu S-Pulse,j758IH5f,Uc4CHyL0,2,1,,,,0
+1525860000,Hokkaido Consadole Sapporo,Kofu,tGWvEQkr,Uc4CHyL0,0,3,,,,0
+1525860000,Albirex Niigata,FC Tokyo,SEX2RAcn,YwiAOSxC,3,2,,,,0
+1525861800,Urawa Reds,Nagoya Grampus,nqhLBCKD,n9XchkvQ,2,0,,,,0
+1525863600,Sagan Tosu,V-Varen Nagasaki,WYtEUtB2,IuWlSxkG,2,1,,,,0
+1526464800,Yokohama F. Marinos,Albirex Niigata,plFsSE3r,SEX2RAcn,2,1,,,,0
+1526464800,Vissel Kobe,Sagan Tosu,4SU3kZUI,WYtEUtB2,1,1,,,,0
+1526464800,Urawa Reds,Sanfrecce Hiroshima,nqhLBCKD,pSNkZ1lS,1,0,,,,0
+1526464800,Shonan Bellmare,V-Varen Nagasaki,ppTjXyRn,IuWlSxkG,2,0,,,,0
+1526464800,Kofu,Iwata,Uc4CHyL0,j758IH5f,0,1,,,,0
+1526464800,Hokkaido Consadole Sapporo,Shimizu S-Pulse,tGWvEQkr,Uc4CHyL0,0,3,,,,0
+1526464800,Gamba Osaka,Nagoya Grampus,pCXiuGSm,n9XchkvQ,1,4,,,,0
+1526464800,FC Tokyo,Vegalta Sendai,YwiAOSxC,rkzDkpKt,0,1,,,,0
+1527915600,Yokohama F. Marinos,Vissel Kobe,plFsSE3r,4SU3kZUI,4,2,,,,0
+1527919200,Kofu,Urawa Reds,Uc4CHyL0,nqhLBCKD,2,0,,,,0
+1527922800,Gamba Osaka,Iwata,pCXiuGSm,j758IH5f,1,0,,,,0
+1527933600,Shonan Bellmare,Vegalta Sendai,ppTjXyRn,rkzDkpKt,3,0,,,,0
+1528520400,Vissel Kobe,Yokohama F. Marinos,4SU3kZUI,plFsSE3r,1,1,,,,0
+1528524000,Vegalta Sendai,Shonan Bellmare,rkzDkpKt,ppTjXyRn,3,1,,,,0
+1528527600,Urawa Reds,Kofu,nqhLBCKD,Uc4CHyL0,2,1,,,,0
+1528527600,Iwata,Gamba Osaka,j758IH5f,pCXiuGSm,2,3,,,,0
+1536141600,Shonan Bellmare,Cerezo Osaka,ppTjXyRn,8l3GGez7,3,0,,,,0
+1536141600,Kofu,Kashiwa Reysol,Uc4CHyL0,A1NlaOLn,2,2,,,,0
+1536141600,Kashima Antlers,Kawasaki Frontale,4SARfF5k,j758IH5f,1,1,,,,0
+1536141600,Gamba Osaka,Yokohama F. Marinos,pCXiuGSm,plFsSE3r,0,4,,,,0
+1536487200,Yokohama F. Marinos,Gamba Osaka,plFsSE3r,pCXiuGSm,3,1,,,,0
+1536487200,Kawasaki Frontale,Kashima Antlers,j758IH5f,4SARfF5k,1,3,,,,0
+1536487200,Kashiwa Reysol,Kofu,A1NlaOLn,Uc4CHyL0,1,1,,,,0
+1536487200,Cerezo Osaka,Shonan Bellmare,8l3GGez7,ppTjXyRn,2,2,,,,0
+1539165600,Kashiwa Reysol,Shonan Bellmare,A1NlaOLn,ppTjXyRn,1,1,,,,0
+1539165600,Kashima Antlers,Yokohama F. Marinos,4SARfF5k,plFsSE3r,1,2,,,,0
+1539493200,Yokohama F. Marinos,Kashima Antlers,plFsSE3r,4SARfF5k,2,2,,,,0
+1539500400,Shonan Bellmare,Kashiwa Reysol,ppTjXyRn,A1NlaOLn,1,1,Pen,3,2,0
+1540613100,Shonan Bellmare,Yokohama F. Marinos,ppTjXyRn,plFsSE3r,1,0,,,,0

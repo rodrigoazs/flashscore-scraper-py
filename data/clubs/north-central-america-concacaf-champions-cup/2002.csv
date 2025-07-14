@@ -1,30 +1,30 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1013562000,Alajuelense,Club America,1,0,,,,0
-1015117200,W Connection,Sporting Kansas City,0,1,,,,0
-1015117200,Comunicaciones,DC United,4,0,,,,0
-1015376400,Club America,Alajuelense,0,2,,,,0
-1015376400,Atl. Morelia,Saprissa,2,0,,,,0
-1015981200,Olimpia,San Jose Earthquakes,0,1,,,,0
-1015981200,Defence Force,Pachuca,1,0,,,,0
-1015981200,DC United,Comunicaciones,2,1,,,,0
-1016067600,Tauro,Santos Laguna,1,1,,,,0
-1016240400,Sporting Kansas City,W Connection,2,0,,,,0
-1016240400,San Jose Earthquakes,Olimpia,3,1,,,,0
-1016240400,Municipal,Chicago Fire,0,1,,,,0
-1016586000,Saprissa,Atl. Morelia,1,1,,,,0
-1016931600,Chicago Fire,Municipal,2,0,,,,0
-1017190800,Santos Laguna,Tauro,4,2,,,,0
-1017190800,Pachuca,Defence Force,4,0,,,,0
-1018396800,Santos Laguna,Sporting Kansas City,2,1,,,,0
-1018742400,Comunicaciones,Alajuelense,2,3,,,,0
-1019001600,Pachuca,San Jose Earthquakes,3,0,,,,0
-1019606400,Sporting Kansas City,Santos Laguna,2,0,,,,0
-1019606400,San Jose Earthquakes,Pachuca,1,0,,,,0
-1019606400,Alajuelense,Comunicaciones,0,3,,,,0
-1025395200,Atl. Morelia,Chicago Fire,2,0,,,,0
-1026259200,Chicago Fire,Atl. Morelia,2,1,,,,0
-1028678400,Atl. Morelia,Sporting Kansas City,6,1,,,,0
-1028678400,Alajuelense,Pachuca,2,1,,,,0
-1030492800,Sporting Kansas City,Atl. Morelia,1,1,,,,0
-1030492800,Pachuca,Alajuelense,2,0,,,,0
-1032307200,Atl. Morelia,Pachuca,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1013562000,Alajuelense,Club America,4v3Y4ReF,OGkmEu0T,1,0,,,,0
+1015117200,W Connection,Sporting Kansas City,zePXmSvq,88w2wUnG,0,1,,,,0
+1015117200,Comunicaciones,DC United,O2l6wJsK,QqhL41wo,4,0,,,,0
+1015376400,Club America,Alajuelense,OGkmEu0T,4v3Y4ReF,0,2,,,,0
+1015376400,Atl. Morelia,Saprissa,vupRtYdp,tnwDCzLD,2,0,,,,0
+1015981200,Olimpia,San Jose Earthquakes,WvziCH8E,GpqxHjf5,0,1,,,,0
+1015981200,Defence Force,Pachuca,S6Z92CmM,zFZbB1JF,1,0,,,,0
+1015981200,DC United,Comunicaciones,QqhL41wo,O2l6wJsK,2,1,,,,0
+1016067600,Tauro,Santos Laguna,vTLj5hDm,bmPslben,1,1,,,,0
+1016240400,Sporting Kansas City,W Connection,88w2wUnG,zePXmSvq,2,0,,,,0
+1016240400,San Jose Earthquakes,Olimpia,GpqxHjf5,WvziCH8E,3,1,,,,0
+1016240400,Municipal,Chicago Fire,vTLj5hDm,0lw00xPr,0,1,,,,0
+1016586000,Saprissa,Atl. Morelia,tnwDCzLD,vupRtYdp,1,1,,,,0
+1016931600,Chicago Fire,Municipal,0lw00xPr,vTLj5hDm,2,0,,,,0
+1017190800,Santos Laguna,Tauro,bmPslben,vTLj5hDm,4,2,,,,0
+1017190800,Pachuca,Defence Force,zFZbB1JF,S6Z92CmM,4,0,,,,0
+1018396800,Santos Laguna,Sporting Kansas City,bmPslben,88w2wUnG,2,1,,,,0
+1018742400,Comunicaciones,Alajuelense,O2l6wJsK,4v3Y4ReF,2,3,,,,0
+1019001600,Pachuca,San Jose Earthquakes,zFZbB1JF,GpqxHjf5,3,0,,,,0
+1019606400,Sporting Kansas City,Santos Laguna,88w2wUnG,bmPslben,2,0,,,,0
+1019606400,San Jose Earthquakes,Pachuca,GpqxHjf5,zFZbB1JF,1,0,,,,0
+1019606400,Alajuelense,Comunicaciones,4v3Y4ReF,O2l6wJsK,0,3,,,,0
+1025395200,Atl. Morelia,Chicago Fire,vupRtYdp,0lw00xPr,2,0,,,,0
+1026259200,Chicago Fire,Atl. Morelia,0lw00xPr,vupRtYdp,2,1,,,,0
+1028678400,Atl. Morelia,Sporting Kansas City,vupRtYdp,88w2wUnG,6,1,,,,0
+1028678400,Alajuelense,Pachuca,4v3Y4ReF,zFZbB1JF,2,1,,,,0
+1030492800,Sporting Kansas City,Atl. Morelia,88w2wUnG,vupRtYdp,1,1,,,,0
+1030492800,Pachuca,Alajuelense,zFZbB1JF,4v3Y4ReF,2,0,,,,0
+1032307200,Atl. Morelia,Pachuca,vupRtYdp,zFZbB1JF,0,1,,,,0

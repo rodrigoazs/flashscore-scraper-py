@@ -1,38 +1,38 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1597501800,Vasieni,Cahul,0,5,,,,0
-1597501800,Soroca,Falesti,2,3,,,,0
-1597501800,Socol Copceac,Olimp Comrat,2,1,,,,0
-1597501800,Singerei,Granicerul,2,0,,,,0
-1597501800,Saksan,Sucleia,3,3,AET,3,4,0
-1597501800,Pepeni,Victoria,0,7,,,,0
-1597501800,Maiak Chirsova,Tighina,1,2,,,,0
-1597501800,Ialoveni,Real Succes,2,0,,,,0
-1597501800,FCM Ungheni,Drochia,5,0,,,,0
-1597501800,Edinet,Balti,0,1,,,,0
-1597501800,Cimislia,Sparta Selemet,1,5,,,,0
-1597501800,Bogzesti,Speranis,1,1,AET,1,2,0
-1597588200,Visoca,Iskra Ribnita,1,3,,,,0
-1597588200,Manoilesti,Sireti,1,4,,,,0
-1598621400,Tighina,Dacia Buiucani,0,4,,,,0
-1598621400,Iskra Ribnita,Sireti,4,0,,,,0
-1598621400,Balti,Floresti,0,2,,,,0
-1598707800,Speranis,Sucleia,3,1,,,,0
-1598707800,Socol Copceac,Sparta Selemet,2,0,,,,0
-1598707800,Ialoveni,Cahul,0,5,,,,0
-1598707800,FCM Ungheni,Singerei,3,2,,,,0
-1598707800,Falesti,Victoria,1,5,,,,0
-1603796400,Milsami,Victoria,7,1,,,,0
-1603814400,Codru Lozova,Cahul,1,0,,,,0
-1603882800,Zimbru Chisinau,Floresti,0,1,,,,0
-1603882800,Speranta Nisporeni,Dacia Buiucani,1,1,AET,2,1,0
-1603882800,Speranis,Sf.Gheorghe,0,4,,,,0
-1603882800,Petrocub,FCM Ungheni,4,1,,,,0
-1603882800,Dinamo-Auto,Socol Copceac,13,0,,,,0
-1603890000,Sheriff Tiraspol,Iskra Ribnita,2,1,,,,0
-1618826400,Floresti,Petrocub,1,1,AET,1,2,0
-1618826400,Dinamo-Auto,Codru Lozova,1,1,AET,2,1,0
-1618912800,Sf.Gheorghe,Speranta Nisporeni,1,1,AET,5,1,0
-1618923600,Sheriff Tiraspol,Milsami,4,1,,,,0
-1620129600,Dinamo-Auto,Sf.Gheorghe,1,1,AET,1,2,0
-1620136800,Sheriff Tiraspol,Petrocub,3,1,,,,0
-1622394000,Sheriff Tiraspol,Sf.Gheorghe,0,0,Pen,0,1,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1597501800,Vasieni,Cahul,MN77Zwsf,StxbsfGB,0,5,,,,0
+1597501800,Soroca,Falesti,bTrpXaCE,GKgzQUqg,2,3,,,,0
+1597501800,Socol Copceac,Olimp Comrat,jqkjMnqI,ChjnNSTB,2,1,,,,0
+1597501800,Singerei,Granicerul,Iq89zWiT,vg95yCxN,2,0,,,,0
+1597501800,Saksan,Sucleia,xtLCk61r,MN77Zwsf,3,3,AET,3,4,0
+1597501800,Pepeni,Victoria,GIhTcNKT,GKgzQUqg,0,7,,,,0
+1597501800,Maiak Chirsova,Tighina,vg95yCxN,bThpLBvc,1,2,,,,0
+1597501800,Ialoveni,Real Succes,rX83zKRm,lvTfNEmR,2,0,,,,0
+1597501800,FCM Ungheni,Drochia,6LUIdcYb,0xHu3Dom,5,0,,,,0
+1597501800,Edinet,Balti,ddlFUp3p,pCqeyvGJ,0,1,,,,0
+1597501800,Cimislia,Sparta Selemet,pCqeyvGJ,nHw4XhBH,1,5,,,,0
+1597501800,Bogzesti,Speranis,MN77Zwsf,jqkjMnqI,1,1,AET,1,2,0
+1597588200,Visoca,Iskra Ribnita,pCqeyvGJ,Iq89zWiT,1,3,,,,0
+1597588200,Manoilesti,Sireti,pCqeyvGJ,UmLdVP3G,1,4,,,,0
+1598621400,Tighina,Dacia Buiucani,bThpLBvc,jDSW8vGo,0,4,,,,0
+1598621400,Iskra Ribnita,Sireti,Iq89zWiT,UmLdVP3G,4,0,,,,0
+1598621400,Balti,Floresti,pCqeyvGJ,CSpFv788,0,2,,,,0
+1598707800,Speranis,Sucleia,jqkjMnqI,MN77Zwsf,3,1,,,,0
+1598707800,Socol Copceac,Sparta Selemet,jqkjMnqI,nHw4XhBH,2,0,,,,0
+1598707800,Ialoveni,Cahul,rX83zKRm,StxbsfGB,0,5,,,,0
+1598707800,FCM Ungheni,Singerei,6LUIdcYb,Iq89zWiT,3,2,,,,0
+1598707800,Falesti,Victoria,GKgzQUqg,GKgzQUqg,1,5,,,,0
+1603796400,Milsami,Victoria,G6lyZe2l,GKgzQUqg,7,1,,,,0
+1603814400,Codru Lozova,Cahul,Iq89zWiT,StxbsfGB,1,0,,,,0
+1603882800,Zimbru Chisinau,Floresti,QcBOsqL0,CSpFv788,0,1,,,,0
+1603882800,Speranta Nisporeni,Dacia Buiucani,bNXyIOQ7,jDSW8vGo,1,1,AET,2,1,0
+1603882800,Speranis,Sf.Gheorghe,jqkjMnqI,E5dQHTcd,0,4,,,,0
+1603882800,Petrocub,FCM Ungheni,0KH3wM5q,6LUIdcYb,4,1,,,,0
+1603882800,Dinamo-Auto,Socol Copceac,GKJk5gu7,jqkjMnqI,13,0,,,,0
+1603890000,Sheriff Tiraspol,Iskra Ribnita,zVD8QVhN,Iq89zWiT,2,1,,,,0
+1618826400,Floresti,Petrocub,CSpFv788,0KH3wM5q,1,1,AET,1,2,0
+1618826400,Dinamo-Auto,Codru Lozova,GKJk5gu7,Iq89zWiT,1,1,AET,2,1,0
+1618912800,Sf.Gheorghe,Speranta Nisporeni,E5dQHTcd,bNXyIOQ7,1,1,AET,5,1,0
+1618923600,Sheriff Tiraspol,Milsami,zVD8QVhN,G6lyZe2l,4,1,,,,0
+1620129600,Dinamo-Auto,Sf.Gheorghe,GKJk5gu7,E5dQHTcd,1,1,AET,1,2,0
+1620136800,Sheriff Tiraspol,Petrocub,zVD8QVhN,0KH3wM5q,3,1,,,,0
+1622394000,Sheriff Tiraspol,Sf.Gheorghe,zVD8QVhN,E5dQHTcd,0,0,Pen,0,1,1

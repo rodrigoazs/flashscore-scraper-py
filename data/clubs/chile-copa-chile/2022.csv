@@ -1,78 +1,78 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1648335600,La Higuera,S. Wanderers,0,4,,,,0
-1648411200,Provincial Ranco,D. Puerto Montt,1,4,,,,0
-1648411200,Iberia,Deportes Temuco,0,2,,,,0
-1648411200,General Velasquez,CD Santa Cruz,3,0,,,,0
-1648413000,San Bernardo Unido,Magallanes,0,6,,,,0
-1648413000,San Antonio Unido,San Luis,0,0,Pen,1,0,0
-1648414800,Provincial Ovalle,Copiapo,3,2,,,,0
-1648414800,Lautaro,S. Morning,0,1,,,,0
-1648414800,Ind. Cauquenes,Rangers,2,2,Pen,3,2,0
-1648414800,Cobreloa,Deportes Iquique,2,0,,,,0
-1648415700,D. Concepcion,Arturo Fernandez Vial,0,2,,,,0
-1648425600,Trasandino,San Felipe,1,3,,,,0
-1648499400,Rodelindo,Melipilla,0,2,,,,0
-1648501200,Real San Joaquin,Barnechea,0,3,,,,0
-1648501200,Limache,Recoleta,2,1,,,,0
-1648501200,Colo Colito,U. De Concepcion,0,9,,,,0
-1655406000,A. Italiano,San Antonio Unido,1,2,,,,0
-1655506800,Curico Unido,S. Wanderers,1,1,,,,0
-1655569800,Magallanes,Everton,1,1,,,,0
-1655578800,S. Morning,Union La Calera,1,2,,,,0
-1655578800,Cobresal,Barnechea,2,1,,,,0
-1655580600,San Felipe,U. Catolica,1,3,,,,0
-1655586000,Nublense,Ind. Cauquenes,1,2,,,,0
-1655587800,U. De Concepcion,La Serena,4,3,,,,0
-1655589600,D. Puerto Montt,Huachipato,2,2,,,,0
-1655589600,Colo Colo,Deportes Temuco,0,0,,,,0
-1655654400,Limache,Antofagasta,1,2,,,,0
-1655656200,Melipilla,Coquimbo,0,0,,,,0
-1655656200,Cobreloa,Palestino,0,1,,,,0
-1655667000,General Velasquez,U. De Chile,1,2,,,,0
-1655676000,U. Espanola,Provincial Ovalle,5,0,,,,0
-1655676000,Arturo Fernandez Vial,O'Higgins,1,0,,,,0
-1656021600,Deportes Temuco,Colo Colo,1,5,,,,0
-1656111600,San Antonio Unido,A. Italiano,1,3,,,,0
-1656174600,La Serena,U. De Concepcion,1,2,,,,0
-1656183600,Provincial Ovalle,U. Espanola,0,1,,,,0
-1656183600,Ind. Cauquenes,Nublense,0,1,Pen,0,2,0
-1656183600,Everton,Magallanes,1,2,,,,0
-1656183600,Barnechea,Cobresal,1,1,,,,0
-1656192600,U. Catolica,San Felipe,3,0,,,,0
-1656201600,O'Higgins,Arturo Fernandez Vial,2,0,,,,0
-1656261000,Antofagasta,Limache,2,1,,,,0
-1656270000,S. Wanderers,Curico Unido,1,1,Pen,1,2,0
-1656270000,Palestino,Cobreloa,0,1,Pen,0,2,0
-1656277200,Union La Calera,S. Morning,0,1,Pen,0,2,0
-1656279000,Huachipato,D. Puerto Montt,3,0,,,,0
-1656279000,Coquimbo,Melipilla,2,1,,,,0
-1656360000,U. De Chile,General Velasquez,2,2,,,,0
-1660676400,S. Morning,Cobreloa,0,0,,,,0
-1660687200,A. Italiano,U. Catolica,0,2,,,,0
-1660696200,U. De Concepcion,Magallanes,0,2,,,,0
-1660770000,Antofagasta,Curico Unido,4,2,,,,0
-1660773600,Nublense,Colo Colo,2,1,,,,0
-1660782600,O'Higgins,U. Espanola,1,3,,,,0
-1660860000,Huachipato,Coquimbo,1,0,,,,0
-1660869000,Cobresal,U. De Chile,1,1,,,,0
-1661015700,Magallanes,U. De Concepcion,4,1,,,,0
-1661024700,Cobreloa,S. Morning,1,0,,,,0
-1661034600,U. Catolica,A. Italiano,3,0,,,,0
-1661097600,Curico Unido,Antofagasta,2,1,,,,0
-1661117400,Colo Colo,Nublense,1,1,,,,0
-1661126400,U. Espanola,O'Higgins,1,0,,,,0
-1661205600,U. De Chile,Cobresal,1,0,,,,0
-1661214600,Coquimbo,Huachipato,0,0,,,,0
-1663947000,Magallanes,Cobreloa,0,0,,,,0
-1663974000,Antofagasta,U. Espanola,1,2,,,,0
-1664060400,Huachipato,Nublense,1,0,,,,0
-1664137800,U. De Chile,U. Catolica,1,0,,,,0
-1664312400,U. Espanola,Antofagasta,4,1,,,,0
-1664321400,Nublense,Huachipato,2,1,Pen,2,2,0
-1664483400,Cobreloa,Magallanes,1,1,Pen,1,2,0
-1665615600,Huachipato,Magallanes,0,1,,,,0
-1665698400,U. Catolica,U. De Chile,2,2,,,,0
-1665932400,Magallanes,Huachipato,1,1,,,,0
-1666818000,U. De Chile,U. Espanola,0,0,,,,0
-1667426400,U. Espanola,U. De Chile,1,0,,,,0
-1668373200,U. Espanola,Magallanes,2,2,Pen,2,3,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1648335600,La Higuera,S. Wanderers,Gbnm1ZVK,Miq6wRQG,0,4,,,,0
+1648411200,Provincial Ranco,D. Puerto Montt,Gbnm1ZVK,lGGssG8o,1,4,,,,0
+1648411200,Iberia,Deportes Temuco,AZCTXCE8,r3gSTAGA,0,2,,,,0
+1648411200,General Velasquez,CD Santa Cruz,44hKIBkm,AJxZzB1j,3,0,,,,0
+1648413000,San Bernardo Unido,Magallanes,naxzCA6h,4ryZkWNl,0,6,,,,0
+1648413000,San Antonio Unido,San Luis,fc14MIQR,6PYUqcOT,0,0,Pen,1,0,0
+1648414800,Provincial Ovalle,Copiapo,WMA7vHmt,tQ72aRuk,3,2,,,,0
+1648414800,Lautaro,S. Morning,EawjMZXB,fwVbNTh9,0,1,,,,0
+1648414800,Ind. Cauquenes,Rangers,z9vnNFI5,ADg61nKB,2,2,Pen,3,2,0
+1648414800,Cobreloa,Deportes Iquique,IXRjJEDH,2NbwlzJD,2,0,,,,0
+1648415700,D. Concepcion,Arturo Fernandez Vial,O478yA5B,2LeKvwQT,0,2,,,,0
+1648425600,Trasandino,San Felipe,hrAhMDx6,IXRjJEDH,1,3,,,,0
+1648499400,Rodelindo,Melipilla,jsI949jN,nss625xc,0,2,,,,0
+1648501200,Real San Joaquin,Barnechea,04ZmlwLE,z1UcXQtj,0,3,,,,0
+1648501200,Limache,Recoleta,EawjMZXB,z9vnNFI5,2,1,,,,0
+1648501200,Colo Colito,U. De Concepcion,Gbnm1ZVK,Eq74Jcjl,0,9,,,,0
+1655406000,A. Italiano,San Antonio Unido,6kEqxN0C,fc14MIQR,1,2,,,,0
+1655506800,Curico Unido,S. Wanderers,4xj1AAB3,Miq6wRQG,1,1,,,,0
+1655569800,Magallanes,Everton,4ryZkWNl,YoHxOTu3,1,1,,,,0
+1655578800,S. Morning,Union La Calera,fwVbNTh9,WYtEUtB2,1,2,,,,0
+1655578800,Cobresal,Barnechea,p8NClxtb,z1UcXQtj,2,1,,,,0
+1655580600,San Felipe,U. Catolica,IXRjJEDH,nRWWeW7h,1,3,,,,0
+1655586000,Nublense,Ind. Cauquenes,dveS6wJe,z9vnNFI5,1,2,,,,0
+1655587800,U. De Concepcion,La Serena,Eq74Jcjl,Mkzo6oBm,4,3,,,,0
+1655589600,D. Puerto Montt,Huachipato,lGGssG8o,xIMey4eD,2,2,,,,0
+1655589600,Colo Colo,Deportes Temuco,tnwDCzLD,r3gSTAGA,0,0,,,,0
+1655654400,Limache,Antofagasta,EawjMZXB,zV3V5ijb,1,2,,,,0
+1655656200,Melipilla,Coquimbo,nss625xc,hMng3olL,0,0,,,,0
+1655656200,Cobreloa,Palestino,IXRjJEDH,zPORy6uL,0,1,,,,0
+1655667000,General Velasquez,U. De Chile,44hKIBkm,fuSaShZI,1,2,,,,0
+1655676000,U. Espanola,Provincial Ovalle,W0oo6a6a,WMA7vHmt,5,0,,,,0
+1655676000,Arturo Fernandez Vial,O'Higgins,2LeKvwQT,fRWXW3MH,1,0,,,,0
+1656021600,Deportes Temuco,Colo Colo,r3gSTAGA,tnwDCzLD,1,5,,,,0
+1656111600,San Antonio Unido,A. Italiano,fc14MIQR,6kEqxN0C,1,3,,,,0
+1656174600,La Serena,U. De Concepcion,Mkzo6oBm,Eq74Jcjl,1,2,,,,0
+1656183600,Provincial Ovalle,U. Espanola,WMA7vHmt,W0oo6a6a,0,1,,,,0
+1656183600,Ind. Cauquenes,Nublense,z9vnNFI5,dveS6wJe,0,1,Pen,0,2,0
+1656183600,Everton,Magallanes,YoHxOTu3,4ryZkWNl,1,2,,,,0
+1656183600,Barnechea,Cobresal,z1UcXQtj,p8NClxtb,1,1,,,,0
+1656192600,U. Catolica,San Felipe,nRWWeW7h,IXRjJEDH,3,0,,,,0
+1656201600,O'Higgins,Arturo Fernandez Vial,fRWXW3MH,2LeKvwQT,2,0,,,,0
+1656261000,Antofagasta,Limache,zV3V5ijb,EawjMZXB,2,1,,,,0
+1656270000,S. Wanderers,Curico Unido,Miq6wRQG,4xj1AAB3,1,1,Pen,1,2,0
+1656270000,Palestino,Cobreloa,zPORy6uL,IXRjJEDH,0,1,Pen,0,2,0
+1656277200,Union La Calera,S. Morning,WYtEUtB2,fwVbNTh9,0,1,Pen,0,2,0
+1656279000,Huachipato,D. Puerto Montt,xIMey4eD,lGGssG8o,3,0,,,,0
+1656279000,Coquimbo,Melipilla,hMng3olL,nss625xc,2,1,,,,0
+1656360000,U. De Chile,General Velasquez,fuSaShZI,44hKIBkm,2,2,,,,0
+1660676400,S. Morning,Cobreloa,fwVbNTh9,IXRjJEDH,0,0,,,,0
+1660687200,A. Italiano,U. Catolica,6kEqxN0C,nRWWeW7h,0,2,,,,0
+1660696200,U. De Concepcion,Magallanes,Eq74Jcjl,4ryZkWNl,0,2,,,,0
+1660770000,Antofagasta,Curico Unido,zV3V5ijb,4xj1AAB3,4,2,,,,0
+1660773600,Nublense,Colo Colo,dveS6wJe,tnwDCzLD,2,1,,,,0
+1660782600,O'Higgins,U. Espanola,fRWXW3MH,W0oo6a6a,1,3,,,,0
+1660860000,Huachipato,Coquimbo,xIMey4eD,hMng3olL,1,0,,,,0
+1660869000,Cobresal,U. De Chile,p8NClxtb,fuSaShZI,1,1,,,,0
+1661015700,Magallanes,U. De Concepcion,4ryZkWNl,Eq74Jcjl,4,1,,,,0
+1661024700,Cobreloa,S. Morning,IXRjJEDH,fwVbNTh9,1,0,,,,0
+1661034600,U. Catolica,A. Italiano,nRWWeW7h,6kEqxN0C,3,0,,,,0
+1661097600,Curico Unido,Antofagasta,4xj1AAB3,zV3V5ijb,2,1,,,,0
+1661117400,Colo Colo,Nublense,tnwDCzLD,dveS6wJe,1,1,,,,0
+1661126400,U. Espanola,O'Higgins,W0oo6a6a,fRWXW3MH,1,0,,,,0
+1661205600,U. De Chile,Cobresal,fuSaShZI,p8NClxtb,1,0,,,,0
+1661214600,Coquimbo,Huachipato,hMng3olL,xIMey4eD,0,0,,,,0
+1663947000,Magallanes,Cobreloa,4ryZkWNl,IXRjJEDH,0,0,,,,0
+1663974000,Antofagasta,U. Espanola,zV3V5ijb,W0oo6a6a,1,2,,,,0
+1664060400,Huachipato,Nublense,xIMey4eD,dveS6wJe,1,0,,,,0
+1664137800,U. De Chile,U. Catolica,fuSaShZI,nRWWeW7h,1,0,,,,0
+1664312400,U. Espanola,Antofagasta,W0oo6a6a,zV3V5ijb,4,1,,,,0
+1664321400,Nublense,Huachipato,dveS6wJe,xIMey4eD,2,1,Pen,2,2,0
+1664483400,Cobreloa,Magallanes,IXRjJEDH,4ryZkWNl,1,1,Pen,1,2,0
+1665615600,Huachipato,Magallanes,xIMey4eD,4ryZkWNl,0,1,,,,0
+1665698400,U. Catolica,U. De Chile,nRWWeW7h,fuSaShZI,2,2,,,,0
+1665932400,Magallanes,Huachipato,4ryZkWNl,xIMey4eD,1,1,,,,0
+1666818000,U. De Chile,U. Espanola,fuSaShZI,W0oo6a6a,0,0,,,,0
+1667426400,U. Espanola,U. De Chile,W0oo6a6a,fuSaShZI,1,0,,,,0
+1668373200,U. Espanola,Magallanes,W0oo6a6a,4ryZkWNl,2,2,Pen,2,3,0

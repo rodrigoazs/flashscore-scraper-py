@@ -1,39 +1,39 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1031677200,Wisla Plock,Gornik Zabrze,2,1,AET,3,1,0
-1031677200,Lech Poznan,Ruch Chorzow,2,0,,,,0
-1031695200,Zielona Gora,Radomsko,0,0,AET,0,2,0
-1031695200,Zaglebie Sosnowiec,Stomil Olsztyn,1,3,,,,0
-1031695200,Skierniewice,Polar Wroclaw,3,5,,,,0
-1031695200,Olimpia Elblag,Ceramika Opoczno,0,6,,,,0
-1031695200,Hetman Zamosc,Slask Wroclaw,2,0,,,,0
-1031749200,Szczakowianka,Wisla,1,3,,,,0
-1031749200,Polkowice,Groclin,0,1,,,,0
-1031749200,Ozarow,Odra Wodzislaw,0,2,,,,0
-1031749200,GKS Belchatow,Amica Wronki,2,3,,,,0
-1031763600,Zaglebie,GKS Katowice,4,1,,,,0
-1031763600,Ostrowiec Swietokrzyski,Polonia Warszawa,2,1,,,,0
-1031763600,Okecie,Legia,0,3,,,,0
-1031763600,LKS Lodz,Pogon Szczecin,1,3,,,,0
-1032973200,Jagiellonia,Widzew Lodz,1,2,,,,0
-1034352000,Wisla Plock,Ostrowiec Swietokrzyski,1,0,,,,0
-1034780400,Legia,Radomsko,0,1,,,,0
-1035374400,Polar Wroclaw,Amica Wronki,1,0,,,,0
-1035388800,Wisla,Groclin,5,0,,,,0
-1035982800,Stomil Olsztyn,Odra Wodzislaw,0,1,,,,0
-1035982800,Hetman Zamosc,Pogon Szczecin,1,1,AET,1,2,0
-1035997200,Widzew Lodz,Zaglebie,4,2,,,,0
-1035997200,Lech Poznan,Ceramika Opoczno,1,2,,,,0
-1036585800,Pogon Szczecin,Radomsko,2,0,,,,0
-1036585800,Odra Wodzislaw,Wisla Plock,1,0,,,,0
-1036602000,Widzew Lodz,Polar Wroclaw,2,0,,,,0
-1036602000,Ceramika Opoczno,Wisla,2,2,,,,0
-1038654000,Wisla Plock,Odra Wodzislaw,3,0,,,,0
-1038654000,Radomsko,Pogon Szczecin,3,0,,,,0
-1038654000,Polar Wroclaw,Widzew Lodz,3,5,,,,0
-1038754800,Wisla,Ceramika Opoczno,5,0,,,,0
-1050505200,Widzew Lodz,Wisla,1,2,,,,0
-1050505200,Radomsko,Wisla Plock,0,1,,,,0
-1051113600,Wisla,Widzew Lodz,1,1,,,,0
-1051120800,Wisla Plock,Radomsko,1,1,,,,0
-1052323200,Wisla,Wisla Plock,0,1,,,,0
-1052928000,Wisla Plock,Wisla,0,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1031677200,Wisla Plock,Gornik Zabrze,S4zZQGfc,WtiGCgXQ,2,1,AET,3,1,0
+1031677200,Lech Poznan,Ruch Chorzow,lCvEmFL0,2FYvdV3F,2,0,,,,0
+1031695200,Zielona Gora,Radomsko,04T7xIwT,tMiAwHos,0,0,AET,0,2,0
+1031695200,Zaglebie Sosnowiec,Stomil Olsztyn,Ykwr8Dur,nuSpyoEL,1,3,,,,0
+1031695200,Skierniewice,Polar Wroclaw,2gREfHhi,tUm0ABwN,3,5,,,,0
+1031695200,Olimpia Elblag,Ceramika Opoczno,QPVxgHgK,K2LYcykg,0,6,,,,0
+1031695200,Hetman Zamosc,Slask Wroclaw,SU7ueJe2,CrPl0Jrc,2,0,,,,0
+1031749200,Szczakowianka,Wisla,dMXsEw3T,Wdonsod0,1,3,,,,0
+1031749200,Polkowice,Groclin,zN7pM03G,INIrM9aD,0,1,,,,0
+1031749200,Ozarow,Odra Wodzislaw,dOKHShgi,ld8AStcI,0,2,,,,0
+1031749200,GKS Belchatow,Amica Wronki,t2JBIzI7,ImE3sZrC,2,3,,,,0
+1031763600,Zaglebie,GKS Katowice,Ykwr8Dur,4GUthy9Q,4,1,,,,0
+1031763600,Ostrowiec Swietokrzyski,Polonia Warszawa,23lHGsL8,pjvOeKFg,2,1,,,,0
+1031763600,Okecie,Legia,jTUAYK5e,rgYuXGKm,0,3,,,,0
+1031763600,LKS Lodz,Pogon Szczecin,CrgYOGj7,vLZ2ZgBC,1,3,,,,0
+1032973200,Jagiellonia,Widzew Lodz,MgIRKEyG,UTb1DTGS,1,2,,,,0
+1034352000,Wisla Plock,Ostrowiec Swietokrzyski,S4zZQGfc,23lHGsL8,1,0,,,,0
+1034780400,Legia,Radomsko,rgYuXGKm,tMiAwHos,0,1,,,,0
+1035374400,Polar Wroclaw,Amica Wronki,tUm0ABwN,ImE3sZrC,1,0,,,,0
+1035388800,Wisla,Groclin,Wdonsod0,INIrM9aD,5,0,,,,0
+1035982800,Stomil Olsztyn,Odra Wodzislaw,nuSpyoEL,ld8AStcI,0,1,,,,0
+1035982800,Hetman Zamosc,Pogon Szczecin,SU7ueJe2,vLZ2ZgBC,1,1,AET,1,2,0
+1035997200,Widzew Lodz,Zaglebie,UTb1DTGS,Ykwr8Dur,4,2,,,,0
+1035997200,Lech Poznan,Ceramika Opoczno,lCvEmFL0,K2LYcykg,1,2,,,,0
+1036585800,Pogon Szczecin,Radomsko,vLZ2ZgBC,tMiAwHos,2,0,,,,0
+1036585800,Odra Wodzislaw,Wisla Plock,ld8AStcI,S4zZQGfc,1,0,,,,0
+1036602000,Widzew Lodz,Polar Wroclaw,UTb1DTGS,tUm0ABwN,2,0,,,,0
+1036602000,Ceramika Opoczno,Wisla,K2LYcykg,Wdonsod0,2,2,,,,0
+1038654000,Wisla Plock,Odra Wodzislaw,S4zZQGfc,ld8AStcI,3,0,,,,0
+1038654000,Radomsko,Pogon Szczecin,tMiAwHos,vLZ2ZgBC,3,0,,,,0
+1038654000,Polar Wroclaw,Widzew Lodz,tUm0ABwN,UTb1DTGS,3,5,,,,0
+1038754800,Wisla,Ceramika Opoczno,Wdonsod0,K2LYcykg,5,0,,,,0
+1050505200,Widzew Lodz,Wisla,UTb1DTGS,Wdonsod0,1,2,,,,0
+1050505200,Radomsko,Wisla Plock,tMiAwHos,S4zZQGfc,0,1,,,,0
+1051113600,Wisla,Widzew Lodz,Wdonsod0,UTb1DTGS,1,1,,,,0
+1051120800,Wisla Plock,Radomsko,S4zZQGfc,tMiAwHos,1,1,,,,0
+1052323200,Wisla,Wisla Plock,Wdonsod0,S4zZQGfc,0,1,,,,0
+1052928000,Wisla Plock,Wisla,S4zZQGfc,Wdonsod0,0,3,,,,0

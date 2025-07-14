@@ -1,181 +1,181 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1520074800,Kuressaare,Narva,0,5,,,,0
-1520074800,Flora,Tulevik,1,0,,,,0
-1520085600,Levadia,Paide,1,1,,,,0
-1520096400,Tallinna Kalev,Tammeka,0,1,,,,0
-1520168400,Kalju,Parnu JK Vaprus,7,0,,,,0
-1520616600,Flora,Paide,6,0,,,,0
-1520679600,Tulevik,Tallinna Kalev,1,0,,,,0
-1520679600,Parnu JK Vaprus,Tammeka,0,1,,,,0
-1520690400,Narva,Kalju,2,2,,,,0
-1520773200,Levadia,Kuressaare,4,0,,,,0
-1520958600,Paide,Parnu JK Vaprus,2,2,,,,0
-1520965800,Tallinna Kalev,Narva,1,2,,,,0
-1521046800,Tammeka,Levadia,0,3,,,,0
-1521046800,Kuressaare,Tulevik,3,1,,,,0
-1521048600,Kalju,Flora,2,0,,,,0
-1521221400,Narva,Paide,1,0,,,,0
-1521284400,Tallinna Kalev,Kuressaare,5,0,,,,0
-1521284400,Flora,Parnu JK Vaprus,5,0,,,,0
-1521295200,Tulevik,Levadia,0,7,,,,0
-1521378000,Kalju,Tammeka,1,0,,,,0
-1522427400,Kuressaare,Tammeka,0,4,,,,0
-1522490400,Parnu JK Vaprus,Tulevik,1,1,,,,0
-1522490400,Paide,Kalju,1,4,,,,0
-1522501200,Levadia,Narva,5,0,,,,0
-1522584000,Flora,Tallinna Kalev,1,0,,,,0
-1522769400,Tammeka,Paide,5,2,,,,0
-1522776600,Narva,Tulevik,2,0,,,,0
-1522857600,Tallinna Kalev,Parnu JK Vaprus,4,2,,,,0
-1522857600,Kuressaare,Flora,0,7,,,,0
-1522859400,Levadia,Kalju,2,2,,,,0
-1523095200,Parnu JK Vaprus,Levadia,0,5,,,,0
-1523095200,Paide,Kuressaare,3,1,,,,0
-1523106000,Flora,Narva,0,0,,,,0
-1523114100,Tulevik,Tammeka,0,2,,,,0
-1523188800,Kalju,Tallinna Kalev,3,0,,,,0
-1523637000,Tallinna Kalev,Paide,2,3,,,,0
-1523700000,Tulevik,Kalju,0,6,,,,0
-1523700000,Tammeka,Narva,1,1,,,,0
-1523710800,Levadia,Flora,2,1,,,,0
-1523793600,Parnu JK Vaprus,Kuressaare,1,1,,,,0
-1524241800,Tammeka,Parnu JK Vaprus,4,2,,,,0
-1524304800,Tulevik,Flora,0,6,,,,0
-1524304800,Kuressaare,Kalju,0,3,,,,0
-1524315600,Narva,Tallinna Kalev,2,2,,,,0
-1524398400,Paide,Levadia,1,3,,,,0
-1524846600,Kalju,Narva,5,2,,,,0
-1524909600,Paide,Flora,0,2,,,,0
-1524909600,Kuressaare,Tallinna Kalev,1,0,,,,0
-1524920400,Levadia,Tammeka,3,1,,,,0
-1525003200,Tulevik,Parnu JK Vaprus,2,1,,,,0
-1525168800,Tammeka,Kuressaare,1,2,,,,0
-1525179600,Narva,Levadia,1,1,,,,0
-1525276800,Tallinna Kalev,Tulevik,1,2,,,,0
-1525276800,Parnu JK Vaprus,Paide,1,1,,,,0
-1525278600,Flora,Kalju,3,3,,,,0
-1525449600,Narva,Kuressaare,3,0,,,,0
-1525514400,Tallinna Kalev,Flora,1,3,,,,0
-1525525200,Levadia,Tulevik,5,0,,,,0
-1525536000,Parnu JK Vaprus,Kalju,0,6,,,,0
-1525608000,Paide,Tammeka,3,3,,,,0
-1526054400,Levadia,Tallinna Kalev,3,0,,,,0
-1526056200,Tammeka,Kalju,1,1,,,,0
-1526119200,Parnu JK Vaprus,Flora,1,8,,,,0
-1526130000,Tulevik,Narva,0,6,,,,0
-1526212800,Kuressaare,Paide,1,4,,,,0
-1526400000,Narva,Tammeka,4,1,,,,0
-1526400000,Kalju,Levadia,2,1,,,,0
-1526486400,Flora,Kuressaare,2,1,,,,0
-1526659200,Tulevik,Paide,1,1,,,,0
-1526817600,Parnu JK Vaprus,Tallinna Kalev,0,4,,,,0
-1527003000,Paide,Narva,0,2,,,,0
-1527010200,Tammeka,Tulevik,0,0,,,,0
-1527091200,Tallinna Kalev,Kalju,2,2,,,,0
-1527091200,Kuressaare,Parnu JK Vaprus,1,3,,,,0
-1527093000,Flora,Levadia,2,2,,,,0
-1527328800,Tulevik,Kuressaare,1,3,,,,0
-1527328800,Levadia,Parnu JK Vaprus,6,1,,,,0
-1527339600,Narva,Flora,2,4,,,,0
-1527350400,Kalju,Paide,3,2,,,,0
-1527422400,Tallinna Kalev,Tammeka,2,1,,,,0
-1528212600,Paide,Tulevik,4,0,,,,0
-1528219800,Tallinna Kalev,Levadia,0,4,,,,0
-1528300800,Narva,Parnu JK Vaprus,6,0,,,,0
-1528300800,Kalju,Kuressaare,8,3,,,,0
-1528302600,Flora,Tammeka,3,1,,,,0
-1528817400,Kalju,Tulevik,8,2,,,,0
-1528819200,Parnu JK Vaprus,Narva,0,4,,,,0
-1528819200,Kuressaare,Levadia,1,1,,,,0
-1528824600,Paide,Tallinna Kalev,2,0,,,,0
-1528907400,Tammeka,Flora,0,3,,,,0
-1532104200,Flora,Tulevik,4,0,,,,0
-1532178000,Tallinna Kalev,Kuressaare,3,0,,,,0
-1532264400,Levadia,Paide,4,0,,,,0
-1532275200,Parnu JK Vaprus,Tammeka,1,1,,,,0
-1532275200,Narva,Kalju,0,3,,,,0
-1532709000,Tulevik,Tallinna Kalev,2,2,,,,0
-1532782800,Tammeka,Narva,2,1,,,,0
-1532782800,Kalju,Levadia,1,0,,,,0
-1532869200,Paide,Kuressaare,2,1,,,,0
-1533313800,Tulevik,Parnu JK Vaprus,1,1,,,,0
-1533387600,Narva,Paide,1,2,,,,0
-1533474000,Kalju,Tallinna Kalev,1,1,,,,0
-1533484800,Levadia,Tammeka,0,1,,,,0
-1533484800,Kuressaare,Flora,0,4,,,,0
-1533916800,Paide,Flora,3,3,,,,0
-1533918600,Kalju,Kuressaare,4,0,,,,0
-1533992400,Tammeka,Tulevik,1,0,,,,0
-1533992400,Levadia,Narva,6,1,,,,0
-1534078800,Parnu JK Vaprus,Tallinna Kalev,2,4,,,,0
-1534521600,Narva,Tulevik,4,1,,,,0
-1534523400,Kuressaare,Tammeka,1,3,,,,0
-1534597200,Paide,Kalju,0,3,,,,0
-1534672800,Parnu JK Vaprus,Levadia,0,4,,,,0
-1534694400,Flora,Tallinna Kalev,3,1,,,,0
-1535128200,Flora,Tammeka,5,0,,,,0
-1535191200,Tulevik,Paide,0,3,,,,0
-1535191200,Kalju,Parnu JK Vaprus,4,0,,,,0
-1535202000,Levadia,Kuressaare,4,0,,,,0
-1535212800,Tallinna Kalev,Narva,0,1,,,,0
-1535470200,Tulevik,Kalju,2,5,,,,0
-1535470200,Kuressaare,Narva,0,3,,,,0
-1535472000,Parnu JK Vaprus,Paide,0,3,,,,0
-1535477400,Tammeka,Tallinna Kalev,1,0,,,,0
-1535560200,Flora,Levadia,3,0,,,,0
-1535733000,Narva,Parnu JK Vaprus,1,1,,,,0
-1535796000,Paide,Tammeka,2,1,,,,0
-1535796000,Kuressaare,Tulevik,1,4,,,,0
-1535806800,Levadia,Tallinna Kalev,3,2,,,,0
-1535904000,Kalju,Flora,1,1,,,,0
-1536942600,Tammeka,Kalju,0,1,,,,0
-1537005600,Tallinna Kalev,Paide,1,2,,,,0
-1537016400,Flora,Narva,2,2,,,,0
-1537027200,Parnu JK Vaprus,Kuressaare,3,1,,,,0
-1537099200,Tulevik,Levadia,0,4,,,,0
-1537282800,Kuressaare,Kalju,2,4,,,,0
-1537291800,Narva,Tammeka,2,1,,,,0
-1537367400,Levadia,Parnu JK Vaprus,4,0,,,,0
-1537372800,Tallinna Kalev,Tulevik,0,2,,,,0
-1537374600,Flora,Paide,7,2,,,,0
-1537610400,Tulevik,Tammeka,3,2,,,,0
-1537610400,Kuressaare,Levadia,0,5,,,,0
-1537621200,Paide,Narva,2,5,,,,0
-1537632000,Flora,Parnu JK Vaprus,3,0,,,,0
-1537704000,Tallinna Kalev,Kalju,0,2,,,,0
-1538152200,Narva,Kuressaare,2,1,,,,0
-1538215200,Paide,Levadia,1,4,,,,0
-1538226000,Kalju,Tulevik,4,0,,,,0
-1538236800,Tammeka,Parnu JK Vaprus,5,0,,,,0
-1538308800,Tallinna Kalev,Flora,2,2,,,,0
-1538494200,Kuressaare,Paide,1,3,,,,0
-1538501400,Parnu JK Vaprus,Tulevik,0,3,,,,0
-1538582400,Tammeka,Flora,0,4,,,,0
-1538582400,Narva,Tallinna Kalev,3,2,,,,0
-1538584200,Levadia,Kalju,0,0,,,,0
-1538820000,Tulevik,Kuressaare,1,2,,,,0
-1538820000,Parnu JK Vaprus,Narva,0,1,,,,0
-1538830800,Tallinna Kalev,Levadia,1,4,,,,0
-1538841600,Tammeka,Paide,1,1,,,,0
-1538913600,Flora,Kalju,2,2,,,,0
-1540029600,Paide,Parnu JK Vaprus,2,1,,,,0
-1540029600,Kuressaare,Tallinna Kalev,3,3,,,,0
-1540040400,Narva,Flora,1,2,,,,0
-1540116000,Levadia,Tulevik,2,1,,,,0
-1540123200,Kalju,Tammeka,2,2,,,,0
-1540310400,Parnu JK Vaprus,Flora,0,6,,,,0
-1540571400,Kalju,Paide,0,0,,,,0
-1540634400,Tallinna Kalev,Parnu JK Vaprus,5,0,,,,0
-1540634400,Flora,Kuressaare,4,0,,,,0
-1540724400,Tulevik,Narva,4,1,,,,0
-1540731600,Tammeka,Levadia,0,3,,,,0
-1541179800,Parnu JK Vaprus,Kalju,0,5,,,,0
-1541242800,Tulevik,Flora,1,3,,,,0
-1541242800,Tammeka,Kuressaare,6,1,,,,0
-1541253600,Narva,Levadia,1,2,,,,0
-1541336400,Paide,Tallinna Kalev,2,2,,,,0
-1541847600,Tammeka,Tallinna Kalev,2,1,,,,0
-1541847600,Paide,Tulevik,4,1,,,,0
-1541847600,Levadia,Flora,2,1,,,,0
-1541847600,Kuressaare,Parnu JK Vaprus,2,1,,,,0
-1541847600,Kalju,Narva,4,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1520074800,Kuressaare,Narva,SlfZ6qG2,xv6lkb7q,0,5,,,,0
+1520074800,Flora,Tulevik,jes3ohYg,n17Y23th,1,0,,,,0
+1520085600,Levadia,Paide,x28DBGvr,lGvMSKuF,1,1,,,,0
+1520096400,Tallinna Kalev,Tammeka,2yt6rfeJ,lGvMSKuF,0,1,,,,0
+1520168400,Kalju,Parnu JK Vaprus,2PLiHUjM,O8o4uq5U,7,0,,,,0
+1520616600,Flora,Paide,jes3ohYg,lGvMSKuF,6,0,,,,0
+1520679600,Tulevik,Tallinna Kalev,n17Y23th,2yt6rfeJ,1,0,,,,0
+1520679600,Parnu JK Vaprus,Tammeka,O8o4uq5U,lGvMSKuF,0,1,,,,0
+1520690400,Narva,Kalju,xv6lkb7q,2PLiHUjM,2,2,,,,0
+1520773200,Levadia,Kuressaare,x28DBGvr,SlfZ6qG2,4,0,,,,0
+1520958600,Paide,Parnu JK Vaprus,lGvMSKuF,O8o4uq5U,2,2,,,,0
+1520965800,Tallinna Kalev,Narva,2yt6rfeJ,xv6lkb7q,1,2,,,,0
+1521046800,Tammeka,Levadia,lGvMSKuF,x28DBGvr,0,3,,,,0
+1521046800,Kuressaare,Tulevik,SlfZ6qG2,n17Y23th,3,1,,,,0
+1521048600,Kalju,Flora,2PLiHUjM,jes3ohYg,2,0,,,,0
+1521221400,Narva,Paide,xv6lkb7q,lGvMSKuF,1,0,,,,0
+1521284400,Tallinna Kalev,Kuressaare,2yt6rfeJ,SlfZ6qG2,5,0,,,,0
+1521284400,Flora,Parnu JK Vaprus,jes3ohYg,O8o4uq5U,5,0,,,,0
+1521295200,Tulevik,Levadia,n17Y23th,x28DBGvr,0,7,,,,0
+1521378000,Kalju,Tammeka,2PLiHUjM,lGvMSKuF,1,0,,,,0
+1522427400,Kuressaare,Tammeka,SlfZ6qG2,lGvMSKuF,0,4,,,,0
+1522490400,Parnu JK Vaprus,Tulevik,O8o4uq5U,n17Y23th,1,1,,,,0
+1522490400,Paide,Kalju,lGvMSKuF,2PLiHUjM,1,4,,,,0
+1522501200,Levadia,Narva,x28DBGvr,xv6lkb7q,5,0,,,,0
+1522584000,Flora,Tallinna Kalev,jes3ohYg,2yt6rfeJ,1,0,,,,0
+1522769400,Tammeka,Paide,lGvMSKuF,lGvMSKuF,5,2,,,,0
+1522776600,Narva,Tulevik,xv6lkb7q,n17Y23th,2,0,,,,0
+1522857600,Tallinna Kalev,Parnu JK Vaprus,2yt6rfeJ,O8o4uq5U,4,2,,,,0
+1522857600,Kuressaare,Flora,SlfZ6qG2,jes3ohYg,0,7,,,,0
+1522859400,Levadia,Kalju,x28DBGvr,2PLiHUjM,2,2,,,,0
+1523095200,Parnu JK Vaprus,Levadia,O8o4uq5U,x28DBGvr,0,5,,,,0
+1523095200,Paide,Kuressaare,lGvMSKuF,SlfZ6qG2,3,1,,,,0
+1523106000,Flora,Narva,jes3ohYg,xv6lkb7q,0,0,,,,0
+1523114100,Tulevik,Tammeka,n17Y23th,lGvMSKuF,0,2,,,,0
+1523188800,Kalju,Tallinna Kalev,2PLiHUjM,2yt6rfeJ,3,0,,,,0
+1523637000,Tallinna Kalev,Paide,2yt6rfeJ,lGvMSKuF,2,3,,,,0
+1523700000,Tulevik,Kalju,n17Y23th,2PLiHUjM,0,6,,,,0
+1523700000,Tammeka,Narva,lGvMSKuF,xv6lkb7q,1,1,,,,0
+1523710800,Levadia,Flora,x28DBGvr,jes3ohYg,2,1,,,,0
+1523793600,Parnu JK Vaprus,Kuressaare,O8o4uq5U,SlfZ6qG2,1,1,,,,0
+1524241800,Tammeka,Parnu JK Vaprus,lGvMSKuF,O8o4uq5U,4,2,,,,0
+1524304800,Tulevik,Flora,n17Y23th,jes3ohYg,0,6,,,,0
+1524304800,Kuressaare,Kalju,SlfZ6qG2,2PLiHUjM,0,3,,,,0
+1524315600,Narva,Tallinna Kalev,xv6lkb7q,2yt6rfeJ,2,2,,,,0
+1524398400,Paide,Levadia,lGvMSKuF,x28DBGvr,1,3,,,,0
+1524846600,Kalju,Narva,2PLiHUjM,xv6lkb7q,5,2,,,,0
+1524909600,Paide,Flora,lGvMSKuF,jes3ohYg,0,2,,,,0
+1524909600,Kuressaare,Tallinna Kalev,SlfZ6qG2,2yt6rfeJ,1,0,,,,0
+1524920400,Levadia,Tammeka,x28DBGvr,lGvMSKuF,3,1,,,,0
+1525003200,Tulevik,Parnu JK Vaprus,n17Y23th,O8o4uq5U,2,1,,,,0
+1525168800,Tammeka,Kuressaare,lGvMSKuF,SlfZ6qG2,1,2,,,,0
+1525179600,Narva,Levadia,xv6lkb7q,x28DBGvr,1,1,,,,0
+1525276800,Tallinna Kalev,Tulevik,2yt6rfeJ,n17Y23th,1,2,,,,0
+1525276800,Parnu JK Vaprus,Paide,O8o4uq5U,lGvMSKuF,1,1,,,,0
+1525278600,Flora,Kalju,jes3ohYg,2PLiHUjM,3,3,,,,0
+1525449600,Narva,Kuressaare,xv6lkb7q,SlfZ6qG2,3,0,,,,0
+1525514400,Tallinna Kalev,Flora,2yt6rfeJ,jes3ohYg,1,3,,,,0
+1525525200,Levadia,Tulevik,x28DBGvr,n17Y23th,5,0,,,,0
+1525536000,Parnu JK Vaprus,Kalju,O8o4uq5U,2PLiHUjM,0,6,,,,0
+1525608000,Paide,Tammeka,lGvMSKuF,lGvMSKuF,3,3,,,,0
+1526054400,Levadia,Tallinna Kalev,x28DBGvr,2yt6rfeJ,3,0,,,,0
+1526056200,Tammeka,Kalju,lGvMSKuF,2PLiHUjM,1,1,,,,0
+1526119200,Parnu JK Vaprus,Flora,O8o4uq5U,jes3ohYg,1,8,,,,0
+1526130000,Tulevik,Narva,n17Y23th,xv6lkb7q,0,6,,,,0
+1526212800,Kuressaare,Paide,SlfZ6qG2,lGvMSKuF,1,4,,,,0
+1526400000,Narva,Tammeka,xv6lkb7q,lGvMSKuF,4,1,,,,0
+1526400000,Kalju,Levadia,2PLiHUjM,x28DBGvr,2,1,,,,0
+1526486400,Flora,Kuressaare,jes3ohYg,SlfZ6qG2,2,1,,,,0
+1526659200,Tulevik,Paide,n17Y23th,lGvMSKuF,1,1,,,,0
+1526817600,Parnu JK Vaprus,Tallinna Kalev,O8o4uq5U,2yt6rfeJ,0,4,,,,0
+1527003000,Paide,Narva,lGvMSKuF,xv6lkb7q,0,2,,,,0
+1527010200,Tammeka,Tulevik,lGvMSKuF,n17Y23th,0,0,,,,0
+1527091200,Tallinna Kalev,Kalju,2yt6rfeJ,2PLiHUjM,2,2,,,,0
+1527091200,Kuressaare,Parnu JK Vaprus,SlfZ6qG2,O8o4uq5U,1,3,,,,0
+1527093000,Flora,Levadia,jes3ohYg,x28DBGvr,2,2,,,,0
+1527328800,Tulevik,Kuressaare,n17Y23th,SlfZ6qG2,1,3,,,,0
+1527328800,Levadia,Parnu JK Vaprus,x28DBGvr,O8o4uq5U,6,1,,,,0
+1527339600,Narva,Flora,xv6lkb7q,jes3ohYg,2,4,,,,0
+1527350400,Kalju,Paide,2PLiHUjM,lGvMSKuF,3,2,,,,0
+1527422400,Tallinna Kalev,Tammeka,2yt6rfeJ,lGvMSKuF,2,1,,,,0
+1528212600,Paide,Tulevik,lGvMSKuF,n17Y23th,4,0,,,,0
+1528219800,Tallinna Kalev,Levadia,2yt6rfeJ,x28DBGvr,0,4,,,,0
+1528300800,Narva,Parnu JK Vaprus,xv6lkb7q,O8o4uq5U,6,0,,,,0
+1528300800,Kalju,Kuressaare,2PLiHUjM,SlfZ6qG2,8,3,,,,0
+1528302600,Flora,Tammeka,jes3ohYg,lGvMSKuF,3,1,,,,0
+1528817400,Kalju,Tulevik,2PLiHUjM,n17Y23th,8,2,,,,0
+1528819200,Parnu JK Vaprus,Narva,O8o4uq5U,xv6lkb7q,0,4,,,,0
+1528819200,Kuressaare,Levadia,SlfZ6qG2,x28DBGvr,1,1,,,,0
+1528824600,Paide,Tallinna Kalev,lGvMSKuF,2yt6rfeJ,2,0,,,,0
+1528907400,Tammeka,Flora,lGvMSKuF,jes3ohYg,0,3,,,,0
+1532104200,Flora,Tulevik,jes3ohYg,n17Y23th,4,0,,,,0
+1532178000,Tallinna Kalev,Kuressaare,2yt6rfeJ,SlfZ6qG2,3,0,,,,0
+1532264400,Levadia,Paide,x28DBGvr,lGvMSKuF,4,0,,,,0
+1532275200,Parnu JK Vaprus,Tammeka,O8o4uq5U,lGvMSKuF,1,1,,,,0
+1532275200,Narva,Kalju,xv6lkb7q,2PLiHUjM,0,3,,,,0
+1532709000,Tulevik,Tallinna Kalev,n17Y23th,2yt6rfeJ,2,2,,,,0
+1532782800,Tammeka,Narva,lGvMSKuF,xv6lkb7q,2,1,,,,0
+1532782800,Kalju,Levadia,2PLiHUjM,x28DBGvr,1,0,,,,0
+1532869200,Paide,Kuressaare,lGvMSKuF,SlfZ6qG2,2,1,,,,0
+1533313800,Tulevik,Parnu JK Vaprus,n17Y23th,O8o4uq5U,1,1,,,,0
+1533387600,Narva,Paide,xv6lkb7q,lGvMSKuF,1,2,,,,0
+1533474000,Kalju,Tallinna Kalev,2PLiHUjM,2yt6rfeJ,1,1,,,,0
+1533484800,Levadia,Tammeka,x28DBGvr,lGvMSKuF,0,1,,,,0
+1533484800,Kuressaare,Flora,SlfZ6qG2,jes3ohYg,0,4,,,,0
+1533916800,Paide,Flora,lGvMSKuF,jes3ohYg,3,3,,,,0
+1533918600,Kalju,Kuressaare,2PLiHUjM,SlfZ6qG2,4,0,,,,0
+1533992400,Tammeka,Tulevik,lGvMSKuF,n17Y23th,1,0,,,,0
+1533992400,Levadia,Narva,x28DBGvr,xv6lkb7q,6,1,,,,0
+1534078800,Parnu JK Vaprus,Tallinna Kalev,O8o4uq5U,2yt6rfeJ,2,4,,,,0
+1534521600,Narva,Tulevik,xv6lkb7q,n17Y23th,4,1,,,,0
+1534523400,Kuressaare,Tammeka,SlfZ6qG2,lGvMSKuF,1,3,,,,0
+1534597200,Paide,Kalju,lGvMSKuF,2PLiHUjM,0,3,,,,0
+1534672800,Parnu JK Vaprus,Levadia,O8o4uq5U,x28DBGvr,0,4,,,,0
+1534694400,Flora,Tallinna Kalev,jes3ohYg,2yt6rfeJ,3,1,,,,0
+1535128200,Flora,Tammeka,jes3ohYg,lGvMSKuF,5,0,,,,0
+1535191200,Tulevik,Paide,n17Y23th,lGvMSKuF,0,3,,,,0
+1535191200,Kalju,Parnu JK Vaprus,2PLiHUjM,O8o4uq5U,4,0,,,,0
+1535202000,Levadia,Kuressaare,x28DBGvr,SlfZ6qG2,4,0,,,,0
+1535212800,Tallinna Kalev,Narva,2yt6rfeJ,xv6lkb7q,0,1,,,,0
+1535470200,Tulevik,Kalju,n17Y23th,2PLiHUjM,2,5,,,,0
+1535470200,Kuressaare,Narva,SlfZ6qG2,xv6lkb7q,0,3,,,,0
+1535472000,Parnu JK Vaprus,Paide,O8o4uq5U,lGvMSKuF,0,3,,,,0
+1535477400,Tammeka,Tallinna Kalev,lGvMSKuF,2yt6rfeJ,1,0,,,,0
+1535560200,Flora,Levadia,jes3ohYg,x28DBGvr,3,0,,,,0
+1535733000,Narva,Parnu JK Vaprus,xv6lkb7q,O8o4uq5U,1,1,,,,0
+1535796000,Paide,Tammeka,lGvMSKuF,lGvMSKuF,2,1,,,,0
+1535796000,Kuressaare,Tulevik,SlfZ6qG2,n17Y23th,1,4,,,,0
+1535806800,Levadia,Tallinna Kalev,x28DBGvr,2yt6rfeJ,3,2,,,,0
+1535904000,Kalju,Flora,2PLiHUjM,jes3ohYg,1,1,,,,0
+1536942600,Tammeka,Kalju,lGvMSKuF,2PLiHUjM,0,1,,,,0
+1537005600,Tallinna Kalev,Paide,2yt6rfeJ,lGvMSKuF,1,2,,,,0
+1537016400,Flora,Narva,jes3ohYg,xv6lkb7q,2,2,,,,0
+1537027200,Parnu JK Vaprus,Kuressaare,O8o4uq5U,SlfZ6qG2,3,1,,,,0
+1537099200,Tulevik,Levadia,n17Y23th,x28DBGvr,0,4,,,,0
+1537282800,Kuressaare,Kalju,SlfZ6qG2,2PLiHUjM,2,4,,,,0
+1537291800,Narva,Tammeka,xv6lkb7q,lGvMSKuF,2,1,,,,0
+1537367400,Levadia,Parnu JK Vaprus,x28DBGvr,O8o4uq5U,4,0,,,,0
+1537372800,Tallinna Kalev,Tulevik,2yt6rfeJ,n17Y23th,0,2,,,,0
+1537374600,Flora,Paide,jes3ohYg,lGvMSKuF,7,2,,,,0
+1537610400,Tulevik,Tammeka,n17Y23th,lGvMSKuF,3,2,,,,0
+1537610400,Kuressaare,Levadia,SlfZ6qG2,x28DBGvr,0,5,,,,0
+1537621200,Paide,Narva,lGvMSKuF,xv6lkb7q,2,5,,,,0
+1537632000,Flora,Parnu JK Vaprus,jes3ohYg,O8o4uq5U,3,0,,,,0
+1537704000,Tallinna Kalev,Kalju,2yt6rfeJ,2PLiHUjM,0,2,,,,0
+1538152200,Narva,Kuressaare,xv6lkb7q,SlfZ6qG2,2,1,,,,0
+1538215200,Paide,Levadia,lGvMSKuF,x28DBGvr,1,4,,,,0
+1538226000,Kalju,Tulevik,2PLiHUjM,n17Y23th,4,0,,,,0
+1538236800,Tammeka,Parnu JK Vaprus,lGvMSKuF,O8o4uq5U,5,0,,,,0
+1538308800,Tallinna Kalev,Flora,2yt6rfeJ,jes3ohYg,2,2,,,,0
+1538494200,Kuressaare,Paide,SlfZ6qG2,lGvMSKuF,1,3,,,,0
+1538501400,Parnu JK Vaprus,Tulevik,O8o4uq5U,n17Y23th,0,3,,,,0
+1538582400,Tammeka,Flora,lGvMSKuF,jes3ohYg,0,4,,,,0
+1538582400,Narva,Tallinna Kalev,xv6lkb7q,2yt6rfeJ,3,2,,,,0
+1538584200,Levadia,Kalju,x28DBGvr,2PLiHUjM,0,0,,,,0
+1538820000,Tulevik,Kuressaare,n17Y23th,SlfZ6qG2,1,2,,,,0
+1538820000,Parnu JK Vaprus,Narva,O8o4uq5U,xv6lkb7q,0,1,,,,0
+1538830800,Tallinna Kalev,Levadia,2yt6rfeJ,x28DBGvr,1,4,,,,0
+1538841600,Tammeka,Paide,lGvMSKuF,lGvMSKuF,1,1,,,,0
+1538913600,Flora,Kalju,jes3ohYg,2PLiHUjM,2,2,,,,0
+1540029600,Paide,Parnu JK Vaprus,lGvMSKuF,O8o4uq5U,2,1,,,,0
+1540029600,Kuressaare,Tallinna Kalev,SlfZ6qG2,2yt6rfeJ,3,3,,,,0
+1540040400,Narva,Flora,xv6lkb7q,jes3ohYg,1,2,,,,0
+1540116000,Levadia,Tulevik,x28DBGvr,n17Y23th,2,1,,,,0
+1540123200,Kalju,Tammeka,2PLiHUjM,lGvMSKuF,2,2,,,,0
+1540310400,Parnu JK Vaprus,Flora,O8o4uq5U,jes3ohYg,0,6,,,,0
+1540571400,Kalju,Paide,2PLiHUjM,lGvMSKuF,0,0,,,,0
+1540634400,Tallinna Kalev,Parnu JK Vaprus,2yt6rfeJ,O8o4uq5U,5,0,,,,0
+1540634400,Flora,Kuressaare,jes3ohYg,SlfZ6qG2,4,0,,,,0
+1540724400,Tulevik,Narva,n17Y23th,xv6lkb7q,4,1,,,,0
+1540731600,Tammeka,Levadia,lGvMSKuF,x28DBGvr,0,3,,,,0
+1541179800,Parnu JK Vaprus,Kalju,O8o4uq5U,2PLiHUjM,0,5,,,,0
+1541242800,Tulevik,Flora,n17Y23th,jes3ohYg,1,3,,,,0
+1541242800,Tammeka,Kuressaare,lGvMSKuF,SlfZ6qG2,6,1,,,,0
+1541253600,Narva,Levadia,xv6lkb7q,x28DBGvr,1,2,,,,0
+1541336400,Paide,Tallinna Kalev,lGvMSKuF,2yt6rfeJ,2,2,,,,0
+1541847600,Tammeka,Tallinna Kalev,lGvMSKuF,2yt6rfeJ,2,1,,,,0
+1541847600,Paide,Tulevik,lGvMSKuF,n17Y23th,4,1,,,,0
+1541847600,Levadia,Flora,x28DBGvr,jes3ohYg,2,1,,,,0
+1541847600,Kuressaare,Parnu JK Vaprus,SlfZ6qG2,O8o4uq5U,2,1,,,,0
+1541847600,Kalju,Narva,2PLiHUjM,xv6lkb7q,4,1,,,,0

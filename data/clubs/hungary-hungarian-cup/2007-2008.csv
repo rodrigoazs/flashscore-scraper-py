@@ -1,76 +1,76 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1188252000,Ferencvaros,Paks,0,0,,,,0
-1188252000,Eger SE,DVTK,0,3,,,,0
-1188338400,Veszprem,Integral DAC,2,3,,,,0
-1188338400,Velence,Zsambek,4,0,,,,0
-1188338400,Szekszardi,Siofok,2,2,,,,0
-1188338400,Sarosd,REAC,2,8,,,,0
-1188338400,Putnok,Baktaloranthaza,2,0,,,,0
-1188338400,Penzugyor,Ujbuda,2,2,,,,0
-1188338400,Nagyecsed,Mezokovesd-Zsory,0,2,,,,0
-1188338400,Mosonmagyarovari TE,Tatabanya,2,3,,,,0
-1188338400,Mor,Budafoki,4,0,,,,0
-1188338400,Martfui,Bekescsaba 1912,1,8,,,,0
-1188338400,Letenye SE,Balatonlelle,2,2,,,,0
-1188338400,Komloi,Kaposvar,1,3,,,,0
-1188338400,Kemecse,Kazincbarcikai,0,1,,,,0
-1188338400,Kaposvolgye,Pecsi MFC,3,1,,,,0
-1188338400,Gyirmot,Haladas,4,2,,,,0
-1188338400,Felcsut,Ujpest,3,1,,,,0
-1188338400,Demecser,Cigand SE,0,1,,,,0
-1188338400,Celldomolki Vse,Sopron,0,3,,,,0
-1188338400,Budaorsi SC,Soroksar,1,0,,,,0
-1188338400,Bonyhad,Zalaegerszegi,0,10,,,,0
-1188338400,BKV Elore,Videoton,0,5,,,,0
-1188338400,Andrashida,Barcsi SC,1,0,,,,0
-1188943200,Oroshaza,Kecskemeti TE,1,2,,,,0
-1188943200,Janoshidai SE,Gyor,0,7,,,,0
-1188943200,Hatvan,Vasas,0,10,,,,0
-1188943200,Asotthalmi TE,Tisza Volan SC,0,5,,,,0
-1189000800,Bocs,Nyiregyhaza,0,2,,,,0
-1190725200,Kazincbarcikai,REAC,2,1,,,,0
-1190809800,Budaorsi SC,Kaposvolgye,1,1,Pen,1,2,0
-1190811600,Velence,Videoton,0,12,,,,0
-1190811600,Tisza Volan SC,Honved,1,4,,,,0
-1190811600,Szekszardi,Letenye SE,7,0,,,,0
-1190811600,Putnok,MTK Budapest,0,0,,,,0
-1190811600,Penzugyor,Kaposvar,1,7,,,,0
-1190811600,Mor,Sopron,1,2,,,,0
-1190811600,Mezokovesd-Zsory,DVTK,1,3,,,,0
-1190811600,Kecskemeti TE,Debrecen,2,4,,,,0
-1190811600,Integral DAC,Zalaegerszegi,2,1,,,,0
-1190811600,Cigand SE,Vasas,0,5,,,,0
-1190811600,Andrashida,Gyor,0,3,,,,0
-1190822400,Gyirmot,Tatabanya,2,2,,,,0
-1190822400,Felcsut,Ferencvaros,0,1,,,,0
-1190822400,Bekescsaba 1912,Nyiregyhaza,2,5,,,,0
-1193142600,Szekszardi,Integral DAC,0,4,,,,0
-1193229000,Putnok,Vasas,1,3,,,,0
-1193229000,Kazincbarcikai,DVTK,3,1,,,,0
-1193229000,Kaposvolgye,Debrecen,2,5,,,,0
-1193229000,Gyor,Videoton,1,1,,,,0
-1193241600,Gyirmot,Nyiregyhaza,2,0,,,,0
-1193241600,Ferencvaros,Kaposvar,2,2,,,,0
-1193245200,Honved,Sopron,2,1,,,,0
-1194364800,DVTK,Kazincbarcikai,1,1,,,,0
-1194436800,Debrecen,Kaposvolgye,6,2,,,,0
-1194438600,Nyiregyhaza,Gyirmot,1,0,,,,0
-1194451200,Vasas,Putnok,3,1,,,,0
-1194451200,Integral DAC,Szekszardi,7,0,,,,0
-1194454800,Videoton,Gyor,3,2,,,,0
-1194454800,Sopron,Honved,0,3,,,,0
-1194454800,Kaposvar,Ferencvaros,2,1,,,,0
-1205848800,Kazincbarcikai,Honved,2,2,,,,0
-1205942400,Integral DAC,Vasas,0,1,,,,0
-1205946000,Videoton,Debrecen,2,1,,,,0
-1205949600,Gyirmot,Kaposvar,2,4,,,,0
-1206460800,Vasas,Integral DAC,1,2,,,,0
-1206464400,Kaposvar,Gyirmot,3,0,,,,0
-1206468000,Honved,Kazincbarcikai,4,2,,,,0
-1206637200,Debrecen,Videoton,3,1,,,,0
-1207065600,Honved,Kaposvar,4,0,,,,0
-1207148400,Integral DAC,Debrecen,1,4,,,,0
-1207670400,Debrecen,Integral DAC,6,0,,,,0
-1207756800,Kaposvar,Honved,1,2,,,,0
-1211990400,Honved,Debrecen,0,7,,,,0
-1212595200,Debrecen,Honved,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1188252000,Ferencvaros,Paks,U3aHptUA,KQLmg0CN,0,0,,,,0
+1188252000,Eger SE,DVTK,vZdK4Ad9,QwVphY9e,0,3,,,,0
+1188338400,Veszprem,Integral DAC,vowUzD7B,,2,3,,,,0
+1188338400,Velence,Zsambek,8Y4Xib3f,Q9FCxaUG,4,0,,,,0
+1188338400,Szekszardi,Siofok,86SIp0t9,jNsOhlxL,2,2,,,,0
+1188338400,Sarosd,REAC,4U1bUyVm,xMKkVy4d,2,8,,,,0
+1188338400,Putnok,Baktaloranthaza,dWMUxrXk,2F0RLDsL,2,0,,,,0
+1188338400,Penzugyor,Ujbuda,E3ZsPYg3,hIEvCdFe,2,2,,,,0
+1188338400,Nagyecsed,Mezokovesd-Zsory,2DJqQ5LD,j3F8BTaT,0,2,,,,0
+1188338400,Mosonmagyarovari TE,Tatabanya,fk9Mq5pl,YXyLZhye,2,3,,,,0
+1188338400,Mor,Budafoki,,A5kBMfAs,4,0,,,,0
+1188338400,Martfui,Bekescsaba 1912,UeJ6plTT,EwC2WVw6,1,8,,,,0
+1188338400,Letenye SE,Balatonlelle,,hrj9DTGD,2,2,,,,0
+1188338400,Komloi,Kaposvar,n15zCpRl,vZ6gsKf8,1,3,,,,0
+1188338400,Kemecse,Kazincbarcikai,CW6UsqF0,pE6MegdU,0,1,,,,0
+1188338400,Kaposvolgye,Pecsi MFC,p2U3O2VB,IP5ctvAE,3,1,,,,0
+1188338400,Gyirmot,Haladas,zDzvQEvc,Gxgti1jl,4,2,,,,0
+1188338400,Felcsut,Ujpest,,fRhD1w4R,3,1,,,,0
+1188338400,Demecser,Cigand SE,,GpXKtMM8,0,1,,,,0
+1188338400,Celldomolki Vse,Sopron,UoQB3l07,QHmm1BRu,0,3,,,,0
+1188338400,Budaorsi SC,Soroksar,YkXnsxGG,OfzhuaGa,1,0,,,,0
+1188338400,Bonyhad,Zalaegerszegi,WnIQks78,K6VrDp5l,0,10,,,,0
+1188338400,BKV Elore,Videoton,dY9d4gsj,r9YXWu9h,0,5,,,,0
+1188338400,Andrashida,Barcsi SC,6sI5rLpa,,1,0,,,,0
+1188943200,Oroshaza,Kecskemeti TE,j1A6VkgC,SMkitFdf,1,2,,,,0
+1188943200,Janoshidai SE,Gyor,,E54OB8CP,0,7,,,,0
+1188943200,Hatvan,Vasas,MBL1Dg4C,vZxvDf2E,0,10,,,,0
+1188943200,Asotthalmi TE,Tisza Volan SC,,MBZ8qx65,0,5,,,,0
+1189000800,Bocs,Nyiregyhaza,,pxcIObkB,0,2,,,,0
+1190725200,Kazincbarcikai,REAC,pE6MegdU,xMKkVy4d,2,1,,,,0
+1190809800,Budaorsi SC,Kaposvolgye,YkXnsxGG,p2U3O2VB,1,1,Pen,1,2,0
+1190811600,Velence,Videoton,8Y4Xib3f,r9YXWu9h,0,12,,,,0
+1190811600,Tisza Volan SC,Honved,MBZ8qx65,0bbECxUd,1,4,,,,0
+1190811600,Szekszardi,Letenye SE,86SIp0t9,,7,0,,,,0
+1190811600,Putnok,MTK Budapest,dWMUxrXk,06r6gWo9,0,0,,,,0
+1190811600,Penzugyor,Kaposvar,E3ZsPYg3,vZ6gsKf8,1,7,,,,0
+1190811600,Mor,Sopron,,QHmm1BRu,1,2,,,,0
+1190811600,Mezokovesd-Zsory,DVTK,j3F8BTaT,QwVphY9e,1,3,,,,0
+1190811600,Kecskemeti TE,Debrecen,SMkitFdf,CMHdHsML,2,4,,,,0
+1190811600,Integral DAC,Zalaegerszegi,,K6VrDp5l,2,1,,,,0
+1190811600,Cigand SE,Vasas,GpXKtMM8,vZxvDf2E,0,5,,,,0
+1190811600,Andrashida,Gyor,6sI5rLpa,E54OB8CP,0,3,,,,0
+1190822400,Gyirmot,Tatabanya,zDzvQEvc,YXyLZhye,2,2,,,,0
+1190822400,Felcsut,Ferencvaros,,U3aHptUA,0,1,,,,0
+1190822400,Bekescsaba 1912,Nyiregyhaza,EwC2WVw6,pxcIObkB,2,5,,,,0
+1193142600,Szekszardi,Integral DAC,86SIp0t9,,0,4,,,,0
+1193229000,Putnok,Vasas,dWMUxrXk,vZxvDf2E,1,3,,,,0
+1193229000,Kazincbarcikai,DVTK,pE6MegdU,QwVphY9e,3,1,,,,0
+1193229000,Kaposvolgye,Debrecen,p2U3O2VB,CMHdHsML,2,5,,,,0
+1193229000,Gyor,Videoton,E54OB8CP,r9YXWu9h,1,1,,,,0
+1193241600,Gyirmot,Nyiregyhaza,zDzvQEvc,pxcIObkB,2,0,,,,0
+1193241600,Ferencvaros,Kaposvar,U3aHptUA,vZ6gsKf8,2,2,,,,0
+1193245200,Honved,Sopron,0bbECxUd,QHmm1BRu,2,1,,,,0
+1194364800,DVTK,Kazincbarcikai,QwVphY9e,pE6MegdU,1,1,,,,0
+1194436800,Debrecen,Kaposvolgye,CMHdHsML,p2U3O2VB,6,2,,,,0
+1194438600,Nyiregyhaza,Gyirmot,pxcIObkB,zDzvQEvc,1,0,,,,0
+1194451200,Vasas,Putnok,vZxvDf2E,dWMUxrXk,3,1,,,,0
+1194451200,Integral DAC,Szekszardi,,86SIp0t9,7,0,,,,0
+1194454800,Videoton,Gyor,r9YXWu9h,E54OB8CP,3,2,,,,0
+1194454800,Sopron,Honved,QHmm1BRu,0bbECxUd,0,3,,,,0
+1194454800,Kaposvar,Ferencvaros,vZ6gsKf8,U3aHptUA,2,1,,,,0
+1205848800,Kazincbarcikai,Honved,pE6MegdU,0bbECxUd,2,2,,,,0
+1205942400,Integral DAC,Vasas,,vZxvDf2E,0,1,,,,0
+1205946000,Videoton,Debrecen,r9YXWu9h,CMHdHsML,2,1,,,,0
+1205949600,Gyirmot,Kaposvar,zDzvQEvc,vZ6gsKf8,2,4,,,,0
+1206460800,Vasas,Integral DAC,vZxvDf2E,,1,2,,,,0
+1206464400,Kaposvar,Gyirmot,vZ6gsKf8,zDzvQEvc,3,0,,,,0
+1206468000,Honved,Kazincbarcikai,0bbECxUd,pE6MegdU,4,2,,,,0
+1206637200,Debrecen,Videoton,CMHdHsML,r9YXWu9h,3,1,,,,0
+1207065600,Honved,Kaposvar,0bbECxUd,vZ6gsKf8,4,0,,,,0
+1207148400,Integral DAC,Debrecen,,CMHdHsML,1,4,,,,0
+1207670400,Debrecen,Integral DAC,CMHdHsML,,6,0,,,,0
+1207756800,Kaposvar,Honved,vZ6gsKf8,0bbECxUd,1,2,,,,0
+1211990400,Honved,Debrecen,0bbECxUd,CMHdHsML,0,7,,,,0
+1212595200,Debrecen,Honved,CMHdHsML,0bbECxUd,2,1,,,,0

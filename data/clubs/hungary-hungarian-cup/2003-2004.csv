@@ -1,59 +1,59 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1060959600,Kaposvolgye,Ujpest,2,1,,,,0
-1060984800,Tuzser Se,Szolnoki MAV,2,1,,,,0
-1060984800,Tarnok,Bodajk,1,2,,,,0
-1060984800,Szirmabesenyo,Soroksar,0,3,,,,0
-1060984800,Szentlorinc,Kaposvar,2,1,,,,0
-1060984800,Rakoczifalva,Kecskemeti TE,0,4,,,,0
-1060984800,Nagyszentjanos,Lombard Papa,1,6,,,,0
-1060984800,Mad,Nyiregyhaza,0,3,,,,0
-1060984800,Letavertes,Karcagi,1,3,,,,0
-1060984800,Keszthely,Celldomolki Vse,6,1,,,,0
-1060984800,Jaszberenyi,Szentesi,0,2,,,,0
-1060984800,Integral DAC,Heviz,4,1,,,,0
-1060984800,Gyirmot,Honved,0,4,,,,0
-1060984800,Felcsut,Lombard Papa,2,1,,,,0
-1060984800,Ersekvadkert,Vasas,0,3,,,,0
-1060984800,Dunaszentgyorgy,Barcsi SC,2,4,,,,0
-1060984800,Cegledi,Budafoki,1,0,,,,0
-1060984800,Besenyotelek FC,Balassagyarmat,0,3,,,,0
-1060984800,Bag 96,BKV Elore,3,4,,,,0
-1060984800,Abaujszanto,Mateszalkai MTK,1,2,,,,0
-1061046000,Szekszardi,Pecsi MFC,0,4,,,,0
-1061046000,Penzugyor,Videoton,0,4,,,,0
-1061046000,Mosonmagyarovari TE,Haladas,0,2,,,,0
-1061046000,Makoi,Bekescsaba 1912,2,1,,,,0
-1061046000,Kistarcsai,Siofok,0,4,,,,0
-1061046000,Balatonlelle,Zalaegerszegi,1,3,,,,0
-1061056800,Tapolcai Honved,Sopron,0,2,,,,0
-1062597600,Vasas,Debrecen,2,0,,,,0
-1062597600,Tuzser Se,Siofok,2,1,,,,0
-1062597600,Szentlorinc,Barcsi SC,2,0,,,,0
-1062597600,Soroksar,Honved,1,1,AET,1,2,0
-1062597600,Oroshaza,Videoton,0,4,,,,0
-1062597600,Mateszalkai MTK,Pecsi MFC,1,2,,,,0
-1062597600,Lombard Papa,Zalaegerszegi,0,2,,,,0
-1062597600,Keszthely,Integral DAC,1,3,,,,0
-1062597600,Kecskemeti TE,MTK Budapest,0,3,,,,0
-1062597600,Karcagi,Kaposvolgye,3,2,,,,0
-1062597600,Felcsut,Szentesi,1,2,,,,0
-1062597600,Cegledi,Makoi,0,0,AET,1,0,0
-1062597600,Bodajk,Gyor,2,0,,,,0
-1062597600,BKV Elore,Haladas,1,1,AET,2,1,0
-1062597600,Balassagyarmat,Sopron,1,1,AET,1,3,0
-1063803600,Nyiregyhaza,Ferencvaros,1,1,AET,1,2,0
-1067428800,Tuzser Se,BKV Elore,1,0,,,,0
-1067428800,Szentlorinc,Sopron,0,0,AET,0,1,0
-1067428800,Cegledi,Vasas,0,0,AET,0,1,0
-1067428800,Bodajk,Pecsi MFC,1,0,,,,0
-1067443200,Szentesi,Honved,0,3,,,,0
-1067443200,MTK Budapest,Ferencvaros,1,2,,,,0
-1067443200,Karcagi,Zalaegerszegi,1,6,,,,0
-1067443200,Integral DAC,Videoton,2,4,,,,0
-1079530200,Bodajk,Ferencvaros,1,3,,,,0
-1079532000,Tuzser Se,Honved,0,3,,,,0
-1079539200,Zalaegerszegi,Videoton,1,0,,,,0
-1079541000,Vasas,Sopron,2,1,,,,0
-1081958400,Vasas,Ferencvaros,1,2,,,,0
-1081958400,Honved,Zalaegerszegi,2,1,,,,0
-1083771000,Ferencvaros,Honved,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1060959600,Kaposvolgye,Ujpest,p2U3O2VB,fRhD1w4R,2,1,,,,0
+1060984800,Tuzser Se,Szolnoki MAV,,hEhfZQIn,2,1,,,,0
+1060984800,Tarnok,Bodajk,,GjAiJaeR,1,2,,,,0
+1060984800,Szirmabesenyo,Soroksar,,OfzhuaGa,0,3,,,,0
+1060984800,Szentlorinc,Kaposvar,tAcSz2Nj,vZ6gsKf8,2,1,,,,0
+1060984800,Rakoczifalva,Kecskemeti TE,,SMkitFdf,0,4,,,,0
+1060984800,Nagyszentjanos,Lombard Papa,,IP5ctvAE,1,6,,,,0
+1060984800,Mad,Nyiregyhaza,,pxcIObkB,0,3,,,,0
+1060984800,Letavertes,Karcagi,WWTx7Vs8,n76Rx4s3,1,3,,,,0
+1060984800,Keszthely,Celldomolki Vse,,UoQB3l07,6,1,,,,0
+1060984800,Jaszberenyi,Szentesi,WGeW4TRa,0xiztKxt,0,2,,,,0
+1060984800,Integral DAC,Heviz,,vT9FC9bB,4,1,,,,0
+1060984800,Gyirmot,Honved,zDzvQEvc,0bbECxUd,0,4,,,,0
+1060984800,Felcsut,Lombard Papa,,IP5ctvAE,2,1,,,,0
+1060984800,Ersekvadkert,Vasas,AqKuF0kd,vZxvDf2E,0,3,,,,0
+1060984800,Dunaszentgyorgy,Barcsi SC,,,2,4,,,,0
+1060984800,Cegledi,Budafoki,KKzlL3JD,A5kBMfAs,1,0,,,,0
+1060984800,Besenyotelek FC,Balassagyarmat,,6sI5rLpa,0,3,,,,0
+1060984800,Bag 96,BKV Elore,0pioDK7I,dY9d4gsj,3,4,,,,0
+1060984800,Abaujszanto,Mateszalkai MTK,,KdthnxoC,1,2,,,,0
+1061046000,Szekszardi,Pecsi MFC,86SIp0t9,IP5ctvAE,0,4,,,,0
+1061046000,Penzugyor,Videoton,E3ZsPYg3,r9YXWu9h,0,4,,,,0
+1061046000,Mosonmagyarovari TE,Haladas,fk9Mq5pl,Gxgti1jl,0,2,,,,0
+1061046000,Makoi,Bekescsaba 1912,Yw1yA5bG,EwC2WVw6,2,1,,,,0
+1061046000,Kistarcsai,Siofok,,jNsOhlxL,0,4,,,,0
+1061046000,Balatonlelle,Zalaegerszegi,hrj9DTGD,K6VrDp5l,1,3,,,,0
+1061056800,Tapolcai Honved,Sopron,,QHmm1BRu,0,2,,,,0
+1062597600,Vasas,Debrecen,vZxvDf2E,CMHdHsML,2,0,,,,0
+1062597600,Tuzser Se,Siofok,,jNsOhlxL,2,1,,,,0
+1062597600,Szentlorinc,Barcsi SC,tAcSz2Nj,,2,0,,,,0
+1062597600,Soroksar,Honved,OfzhuaGa,0bbECxUd,1,1,AET,1,2,0
+1062597600,Oroshaza,Videoton,j1A6VkgC,r9YXWu9h,0,4,,,,0
+1062597600,Mateszalkai MTK,Pecsi MFC,KdthnxoC,IP5ctvAE,1,2,,,,0
+1062597600,Lombard Papa,Zalaegerszegi,IP5ctvAE,K6VrDp5l,0,2,,,,0
+1062597600,Keszthely,Integral DAC,,,1,3,,,,0
+1062597600,Kecskemeti TE,MTK Budapest,SMkitFdf,06r6gWo9,0,3,,,,0
+1062597600,Karcagi,Kaposvolgye,n76Rx4s3,p2U3O2VB,3,2,,,,0
+1062597600,Felcsut,Szentesi,,0xiztKxt,1,2,,,,0
+1062597600,Cegledi,Makoi,KKzlL3JD,Yw1yA5bG,0,0,AET,1,0,0
+1062597600,Bodajk,Gyor,GjAiJaeR,E54OB8CP,2,0,,,,0
+1062597600,BKV Elore,Haladas,dY9d4gsj,Gxgti1jl,1,1,AET,2,1,0
+1062597600,Balassagyarmat,Sopron,6sI5rLpa,QHmm1BRu,1,1,AET,1,3,0
+1063803600,Nyiregyhaza,Ferencvaros,pxcIObkB,U3aHptUA,1,1,AET,1,2,0
+1067428800,Tuzser Se,BKV Elore,,dY9d4gsj,1,0,,,,0
+1067428800,Szentlorinc,Sopron,tAcSz2Nj,QHmm1BRu,0,0,AET,0,1,0
+1067428800,Cegledi,Vasas,KKzlL3JD,vZxvDf2E,0,0,AET,0,1,0
+1067428800,Bodajk,Pecsi MFC,GjAiJaeR,IP5ctvAE,1,0,,,,0
+1067443200,Szentesi,Honved,0xiztKxt,0bbECxUd,0,3,,,,0
+1067443200,MTK Budapest,Ferencvaros,06r6gWo9,U3aHptUA,1,2,,,,0
+1067443200,Karcagi,Zalaegerszegi,n76Rx4s3,K6VrDp5l,1,6,,,,0
+1067443200,Integral DAC,Videoton,,r9YXWu9h,2,4,,,,0
+1079530200,Bodajk,Ferencvaros,GjAiJaeR,U3aHptUA,1,3,,,,0
+1079532000,Tuzser Se,Honved,,0bbECxUd,0,3,,,,0
+1079539200,Zalaegerszegi,Videoton,K6VrDp5l,r9YXWu9h,1,0,,,,0
+1079541000,Vasas,Sopron,vZxvDf2E,QHmm1BRu,2,1,,,,0
+1081958400,Vasas,Ferencvaros,vZxvDf2E,U3aHptUA,1,2,,,,0
+1081958400,Honved,Zalaegerszegi,0bbECxUd,K6VrDp5l,2,1,,,,0
+1083771000,Ferencvaros,Honved,U3aHptUA,0bbECxUd,3,1,,,,0

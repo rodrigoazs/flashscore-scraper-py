@@ -1,33 +1,33 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1724185800,12 de Octubre SD,Sportivo Trinidense,1,3,,,,0
-1724194800,Sport Union,Guarani,0,7,,,,0
-1724263200,Guarani Paraguari,24 de Setiembre,1,1,Pen,1,2,0
-1724272200,3 de Febrero,General Caballero JLM,0,0,Pen,1,0,0
-1725474600,Atl. Tembetary,2 de Mayo,0,2,,,,0
-1725490800,Cristobal Colon FC,Nacional Asuncion,0,5,,,,0
-1725571800,Salto del Guaira,Sp. Luqueno,1,3,,,,0
-1725580800,Colegiales,Olimpia Asuncion,0,3,,,,0
-1725742800,Club Sportivo Limpeno,Sol de America,0,2,,,,0
-1725751800,Deportivo Santani,Libertad Asuncion,0,1,,,,0
-1725834600,Benjamin Aceval,Ameliano,1,2,,,,0
-1725915600,Sp. Carapegua,Fernando de la Mora,2,1,,,,0
-1725924600,Independiente FBC,Sportivo Iteno,0,0,Pen,0,1,0
-1726693200,Martin Ledesma,Guairena,0,1,,,,0
-1726702200,Recoleta,Cerro Porteno,2,2,Pen,2,3,0
-1726788600,Encarnacion FC,Tacuary,0,0,Pen,1,0,0
-1727816400,Sportivo Iteno,Sp. Carapegua,0,1,,,,0
-1727825400,Sportivo Trinidense,Sp. Luqueno,2,2,Pen,2,3,0
-1727902800,Ameliano,Guarani,1,1,Pen,1,2,0
-1727911800,Encarnacion FC,Libertad Asuncion,0,2,,,,0
-1728428400,Olimpia Asuncion,3 de Febrero,2,0,,,,0
-1728505800,Nacional Asuncion,2 de Mayo,2,1,,,,0
-1728514800,Cerro Porteno,Sol de America,1,2,,,,0
-1729108800,24 de Setiembre,Guairena,0,1,,,,0
-1729801800,Sp. Luqueno,Guairena,1,0,,,,0
-1729810800,Guarani,Sp. Carapegua,1,0,,,,0
-1730320200,Sol de America,Libertad Asuncion,0,0,Pen,0,1,0
-1730329200,Olimpia Asuncion,Nacional Asuncion,0,2,,,,0
-1731537000,Libertad Asuncion,Sp. Luqueno,2,0,,,,0
-1732141800,Nacional Asuncion,Guarani,2,1,,,,0
-1733265000,Sp. Luqueno,Guarani,0,0,Pen,1,0,0
-1733524200,Libertad Asuncion,Nacional Asuncion,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1724185800,12 de Octubre SD,Sportivo Trinidense,pG5GHggB,f95SHpIq,1,3,,,,0
+1724194800,Sport Union,Guarani,GEtXpzX5,G0qum5Ko,0,7,,,,0
+1724263200,Guarani Paraguari,24 de Setiembre,nP35waE1,xpyPtwq4,1,1,Pen,1,2,0
+1724272200,3 de Febrero,General Caballero JLM,WnYHA9YO,voVnm15G,0,0,Pen,1,0,0
+1725474600,Atl. Tembetary,2 de Mayo,h4RQtct9,0fWrlsjA,0,2,,,,0
+1725490800,Cristobal Colon FC,Nacional Asuncion,0MSgWzqt,6PG8meHs,0,5,,,,0
+1725571800,Salto del Guaira,Sp. Luqueno,IB64Ejuh,4GUthy9Q,1,3,,,,0
+1725580800,Colegiales,Olimpia Asuncion,6PpqhbT9,UPd1WAes,0,3,,,,0
+1725742800,Club Sportivo Limpeno,Sol de America,z3DabmCQ,UJLaZhBP,0,2,,,,0
+1725751800,Deportivo Santani,Libertad Asuncion,vZlYXIJP,UwvYANk9,0,1,,,,0
+1725834600,Benjamin Aceval,Ameliano,S8l2I82Q,zLKsTEF7,1,2,,,,0
+1725915600,Sp. Carapegua,Fernando de la Mora,z96RnWye,vqrpfFH7,2,1,,,,0
+1725924600,Independiente FBC,Sportivo Iteno,4GUthy9Q,h8Jni9DI,0,0,Pen,0,1,0
+1726693200,Martin Ledesma,Guairena,hf8RanJa,vqrpfFH7,0,1,,,,0
+1726702200,Recoleta,Cerro Porteno,WpTP4Ior,SOY3p1Si,2,2,Pen,2,3,0
+1726788600,Encarnacion FC,Tacuary,hpVKiseK,OtymR74A,0,0,Pen,1,0,0
+1727816400,Sportivo Iteno,Sp. Carapegua,h8Jni9DI,z96RnWye,0,1,,,,0
+1727825400,Sportivo Trinidense,Sp. Luqueno,f95SHpIq,4GUthy9Q,2,2,Pen,2,3,0
+1727902800,Ameliano,Guarani,zLKsTEF7,G0qum5Ko,1,1,Pen,1,2,0
+1727911800,Encarnacion FC,Libertad Asuncion,hpVKiseK,UwvYANk9,0,2,,,,0
+1728428400,Olimpia Asuncion,3 de Febrero,UPd1WAes,WnYHA9YO,2,0,,,,0
+1728505800,Nacional Asuncion,2 de Mayo,6PG8meHs,0fWrlsjA,2,1,,,,0
+1728514800,Cerro Porteno,Sol de America,SOY3p1Si,UJLaZhBP,1,2,,,,0
+1729108800,24 de Setiembre,Guairena,xpyPtwq4,vqrpfFH7,0,1,,,,0
+1729801800,Sp. Luqueno,Guairena,4GUthy9Q,vqrpfFH7,1,0,,,,0
+1729810800,Guarani,Sp. Carapegua,G0qum5Ko,z96RnWye,1,0,,,,0
+1730320200,Sol de America,Libertad Asuncion,UJLaZhBP,UwvYANk9,0,0,Pen,0,1,0
+1730329200,Olimpia Asuncion,Nacional Asuncion,UPd1WAes,6PG8meHs,0,2,,,,0
+1731537000,Libertad Asuncion,Sp. Luqueno,UwvYANk9,4GUthy9Q,2,0,,,,0
+1732141800,Nacional Asuncion,Guarani,6PG8meHs,G0qum5Ko,2,1,,,,0
+1733265000,Sp. Luqueno,Guarani,4GUthy9Q,G0qum5Ko,0,0,Pen,1,0,0
+1733524200,Libertad Asuncion,Nacional Asuncion,UwvYANk9,6PG8meHs,1,0,,,,0

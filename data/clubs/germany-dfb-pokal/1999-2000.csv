@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-933372000,VfL Osnabruck,Cottbus,0,1,,,,0
-933372000,Verl,B. Monchengladbach,0,0,AET,1,0,0
-933372000,Singen,Oberhausen,3,2,,,,0
-933372000,Plauen,Alemannia Aachen,1,0,,,,0
-933372000,Jena,Greuther Furth,1,2,,,,0
-933372000,Hamm,Stutt. Kickers,0,4,,,,0
-933372000,Darmstadt,Chemnitzer,2,4,,,,0
-933458400,Wuppertal,Offenbach,1,2,,,,0
-933458400,Dusseldorf,Nurnberg,2,0,,,,0
-933890400,Uerdingen,TB Berlin,0,4,,,,0
-933890400,Reutlingen,Bochum,2,3,,,,0
-933890400,Norderstedt,Stuttgart,0,3,,,,0
-933890400,Hallescher,Mainz,1,2,,,,0
-933890400,FC Gutersloh,Cottbus,0,1,,,,0
-933890400,Eintracht Trier,Karlsruher SC,1,1,AET,2,1,0
-933976800,Werder Bremen II,Fortuna Koln,3,1,,,,0
-933976800,Singen,Greuther Furth,1,3,,,,0
-933976800,SG Wattenscheid,FC Koln,1,7,,,,0
-933976800,Schonberg,VfR Mannheim,0,3,,,,0
-933976800,Plauen,Stutt. Kickers,1,2,,,,0
-933976800,Pirmasens,Munich 1860,0,3,,,,0
-933976800,Pforzheim,Freiburg,0,2,,,,0
-933976800,Meppen,Offenbach,2,1,,,,0
-933976800,Langerwehe,Chemnitzer,0,6,,,,0
-933976800,Landshut,Hansa Rostock,0,2,,,,0
-933976800,BFC Dynamo,Arminia Bielefeld,0,2,,,,0
-933976800,Babelsberg,Unterhaching,1,0,,,,0
-934063200,Verl,Eintracht Frankfurt,0,4,,,,0
-934063200,Rosenheim,St. Pauli,1,2,,,,0
-934063200,Lubeck,Hannover,0,1,,,,0
-934063200,Dusseldorf,Ulm,0,2,,,,0
-934149600,Saarbrucken,Schalke,0,1,,,,0
-939679200,Werder Bremen,Kaiserslautern,2,2,AET,3,2,0
-939679200,VfR Mannheim,Bayer Leverkusen,2,2,AET,3,2,0
-939679200,Stutt. Kickers,Dortmund,3,1,,,,0
-939679200,St. Pauli,Ulm,0,2,,,,0
-939679200,Hannover,Arminia Bielefeld,1,2,,,,0
-939679200,Greuther Furth,Hansa Rostock,1,3,,,,0
-939679200,FC Koln,Eintracht Frankfurt,2,1,,,,0
-939679200,Babelsberg,Freiburg,2,2,AET,2,4,0
-939765600,Werder Bremen II,Stuttgart,0,1,,,,0
-939765600,TB Berlin,Hertha Berlin,2,2,AET,2,3,0
-939765600,Meppen,Bayern Munich,1,4,,,,0
-939765600,Mainz,Hamburger SV,2,0,,,,0
-939765600,Eintracht Trier,Munich 1860,2,1,,,,0
-939765600,Cottbus,Schalke,2,2,AET,3,2,0
-939765600,Chemnitzer,Wolfsburg,2,3,,,,0
-939765600,Bochum,Duisburg,1,1,AET,2,1,0
-943916400,Stuttgart,FC Koln,4,0,,,,0
-943916400,Mainz,Hertha Berlin,1,1,AET,2,1,0
-943916400,Freiburg,Cottbus,2,0,,,,0
-943916400,Eintracht Trier,Hansa Rostock,0,4,,,,0
-944002800,Werder Bremen,Ulm,2,1,,,,0
-944002800,VfR Mannheim,Bayern Munich,0,3,,,,0
-944002800,Stutt. Kickers,Arminia Bielefeld,2,2,AET,3,2,0
-944002800,Bochum,Wolfsburg,5,4,,,,0
-945730800,Bochum,Werder Bremen,1,2,,,,0
-945817200,Stutt. Kickers,Freiburg,1,0,,,,0
-945817200,Hansa Rostock,Stuttgart,2,1,,,,0
-945817200,Bayern Munich,Mainz,3,0,,,,0
-950569200,Werder Bremen,Stutt. Kickers,1,1,AET,2,1,0
-950655600,Bayern Munich,Hansa Rostock,3,2,,,,0
-957564000,Bayern Munich,Werder Bremen,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+933372000,VfL Osnabruck,Cottbus,8f6ISvUl,KGl8021M,0,1,,,,0
+933372000,Verl,B. Monchengladbach,WSgajufh,ncmj9JbF,0,0,AET,1,0,0
+933372000,Singen,Oberhausen,WUUUvFTr,Qmnf8wEL,3,2,,,,0
+933372000,Plauen,Alemannia Aachen,82GJYIXO,4hz8si14,1,0,,,,0
+933372000,Jena,Greuther Furth,fs1P17M8,KfqGWN71,1,2,,,,0
+933372000,Hamm,Stutt. Kickers,0It8jVb1,My5qjuKd,0,4,,,,0
+933372000,Darmstadt,Chemnitzer,hnEPJbbt,ncNaLxYl,2,4,,,,0
+933458400,Wuppertal,Offenbach,t2JBIzI7,ncNaLxYl,1,2,,,,0
+933458400,Dusseldorf,Nurnberg,Qmnf8wEL,ncmj9JbF,2,0,,,,0
+933890400,Uerdingen,TB Berlin,4Us12CDi,4pvrieMi,0,4,,,,0
+933890400,Reutlingen,Bochum,AmUVGXR5,86lnAaq9,2,3,,,,0
+933890400,Norderstedt,Stuttgart,r5ftH3Kc,f1Z3XxZa,0,3,,,,0
+933890400,Hallescher,Mainz,h4sLpjpo,bsE5kOg9,1,2,,,,0
+933890400,FC Gutersloh,Cottbus,pY4l4DSn,KGl8021M,0,1,,,,0
+933890400,Eintracht Trier,Karlsruher SC,QPmyi0mg,Qmnf8wEL,1,1,AET,2,1,0
+933976800,Werder Bremen II,Fortuna Koln,0EUGvquC,4vL7JG21,3,1,,,,0
+933976800,Singen,Greuther Furth,WUUUvFTr,KfqGWN71,1,3,,,,0
+933976800,SG Wattenscheid,FC Koln,E7oqZdct,86lnAaq9,1,7,,,,0
+933976800,Schonberg,VfR Mannheim,jHzARQdN,lnykcOoF,0,3,,,,0
+933976800,Plauen,Stutt. Kickers,82GJYIXO,My5qjuKd,1,2,,,,0
+933976800,Pirmasens,Munich 1860,23WJfVPG,86lnAaq9,0,3,,,,0
+933976800,Pforzheim,Freiburg,f9TZQCp6,86lnAaq9,0,2,,,,0
+933976800,Meppen,Offenbach,baDaGjjh,ncNaLxYl,2,1,,,,0
+933976800,Langerwehe,Chemnitzer,vqAU1F97,ncNaLxYl,0,6,,,,0
+933976800,Landshut,Hansa Rostock,IJG2MdTc,McvX4bye,0,2,,,,0
+933976800,BFC Dynamo,Arminia Bielefeld,KlQEi9GE,GOBDm2OL,0,2,,,,0
+933976800,Babelsberg,Unterhaching,86OeMIIr,v9581eMG,1,0,,,,0
+934063200,Verl,Eintracht Frankfurt,WSgajufh,86lnAaq9,0,4,,,,0
+934063200,Rosenheim,St. Pauli,bJoFMb44,ncmj9JbF,1,2,,,,0
+934063200,Lubeck,Hannover,r5trb9zO,n7lWn9DL,0,1,,,,0
+934063200,Dusseldorf,Ulm,Qmnf8wEL,YZIbQEj6,0,2,,,,0
+934149600,Saarbrucken,Schalke,rcKPySRa,I7p2Damb,0,1,,,,0
+939679200,Werder Bremen,Kaiserslautern,EVomMG4o,xW7EDdNP,2,2,AET,3,2,0
+939679200,VfR Mannheim,Bayer Leverkusen,lnykcOoF,WrjrBuU2,2,2,AET,3,2,0
+939679200,Stutt. Kickers,Dortmund,My5qjuKd,WrjrBuU2,3,1,,,,0
+939679200,St. Pauli,Ulm,ncmj9JbF,YZIbQEj6,0,2,,,,0
+939679200,Hannover,Arminia Bielefeld,n7lWn9DL,GOBDm2OL,1,2,,,,0
+939679200,Greuther Furth,Hansa Rostock,KfqGWN71,McvX4bye,1,3,,,,0
+939679200,FC Koln,Eintracht Frankfurt,86lnAaq9,86lnAaq9,2,1,,,,0
+939679200,Babelsberg,Freiburg,86OeMIIr,86lnAaq9,2,2,AET,2,4,0
+939765600,Werder Bremen II,Stuttgart,0EUGvquC,f1Z3XxZa,0,1,,,,0
+939765600,TB Berlin,Hertha Berlin,4pvrieMi,WrjrBuU2,2,2,AET,2,3,0
+939765600,Meppen,Bayern Munich,baDaGjjh,SvLFaVNH,1,4,,,,0
+939765600,Mainz,Hamburger SV,bsE5kOg9,86lnAaq9,2,0,,,,0
+939765600,Eintracht Trier,Munich 1860,QPmyi0mg,86lnAaq9,2,1,,,,0
+939765600,Cottbus,Schalke,KGl8021M,I7p2Damb,2,2,AET,3,2,0
+939765600,Chemnitzer,Wolfsburg,ncNaLxYl,KjF1j4v3,2,3,,,,0
+939765600,Bochum,Duisburg,86lnAaq9,llQ95ECr,1,1,AET,2,1,0
+943916400,Stuttgart,FC Koln,f1Z3XxZa,86lnAaq9,4,0,,,,0
+943916400,Mainz,Hertha Berlin,bsE5kOg9,WrjrBuU2,1,1,AET,2,1,0
+943916400,Freiburg,Cottbus,86lnAaq9,KGl8021M,2,0,,,,0
+943916400,Eintracht Trier,Hansa Rostock,QPmyi0mg,McvX4bye,0,4,,,,0
+944002800,Werder Bremen,Ulm,EVomMG4o,YZIbQEj6,2,1,,,,0
+944002800,VfR Mannheim,Bayern Munich,lnykcOoF,SvLFaVNH,0,3,,,,0
+944002800,Stutt. Kickers,Arminia Bielefeld,My5qjuKd,GOBDm2OL,2,2,AET,3,2,0
+944002800,Bochum,Wolfsburg,86lnAaq9,KjF1j4v3,5,4,,,,0
+945730800,Bochum,Werder Bremen,86lnAaq9,EVomMG4o,1,2,,,,0
+945817200,Stutt. Kickers,Freiburg,My5qjuKd,86lnAaq9,1,0,,,,0
+945817200,Hansa Rostock,Stuttgart,McvX4bye,f1Z3XxZa,2,1,,,,0
+945817200,Bayern Munich,Mainz,SvLFaVNH,bsE5kOg9,3,0,,,,0
+950569200,Werder Bremen,Stutt. Kickers,EVomMG4o,My5qjuKd,1,1,AET,2,1,0
+950655600,Bayern Munich,Hansa Rostock,SvLFaVNH,McvX4bye,3,2,,,,0
+957564000,Bayern Munich,Werder Bremen,SvLFaVNH,EVomMG4o,3,0,,,,0

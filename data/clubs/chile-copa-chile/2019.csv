@@ -1,76 +1,76 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1553373000,Trasandino,San Luis,0,0,Pen,1,0,0
-1553373000,San Antonio Unido,La Serena,1,2,,,,0
-1553373000,Deportes Rengo,Barnechea,2,3,,,,0
-1553373000,Deportes Colina,S. Morning,1,3,,,,0
-1553374800,Iberia,Nublense,1,2,,,,0
-1553374800,Deportes Vallenar,Copiapo,2,1,,,,0
-1553382000,Arturo Fernandez Vial,Deportes Temuco,2,2,Pen,2,3,0
-1553439600,Osorno,D. Puerto Montt,1,3,,,,0
-1553459400,San Marcos de Arica,Cobreloa,3,1,,,,0
-1553459400,Recoleta,San Felipe,0,0,Pen,0,1,0
-1553459400,Pilmahue,Valdivia,0,2,,,,0
-1553459400,Lautaro,Melipilla,0,3,,,,0
-1553459400,Ind. Cauquenes,Rangers,2,2,Pen,2,3,0
-1553459400,General Velasquez,Magallanes,1,4,,,,0
-1553459400,D. Concepcion,S. Wanderers,1,4,,,,0
-1553459400,Colchagua,CD Santa Cruz,1,1,Pen,1,2,0
-1559264400,San Marcos de Arica,Deportes Iquique,0,2,,,,0
-1559763000,Palestino,S. Morning,0,3,Awrd,,,0
-1559763000,Deportes Iquique,San Marcos de Arica,2,0,,,,0
-1560020400,Trasandino,Everton,0,1,,,,0
-1560020400,Rangers,U. De Chile,0,2,,,,0
-1560022200,Melipilla,U. Espanola,0,0,,,,0
-1560022200,Magallanes,Union La Calera,0,2,,,,0
-1560029400,S. Wanderers,A. Italiano,1,2,,,,0
-1560031200,Deportes Vallenar,Cobresal,1,0,,,,0
-1560031200,CD Santa Cruz,O'Higgins,3,2,,,,0
-1560038400,La Serena,U. Catolica,1,0,,,,0
-1560096000,Barnechea,Antofagasta,1,2,,,,0
-1560097800,Deportes Temuco,Huachipato,2,1,,,,0
-1560106800,San Felipe,Coquimbo,3,1,,,,0
-1560106800,D. Puerto Montt,Colo Colo,2,0,,,,0
-1560108600,S. Morning,Palestino,1,1,,,,0
-1560108600,Nublense,Curico Unido,0,1,,,,0
-1560110400,Valdivia,U. De Concepcion,0,0,,,,0
-1560290400,A. Italiano,S. Wanderers,3,1,,,,0
-1560377700,U. De Chile,Rangers,1,1,,,,0
-1560380400,U. De Concepcion,Valdivia,1,1,Pen,1,2,0
-1560382200,O'Higgins,CD Santa Cruz,4,1,,,,0
-1560382200,Curico Unido,Nublense,1,2,Pen,1,3,0
-1560456000,Antofagasta,Barnechea,1,2,Pen,1,3,0
-1560461400,Union La Calera,Magallanes,3,2,,,,0
-1560468600,Coquimbo,San Felipe,1,1,,,,0
-1560470400,Colo Colo,D. Puerto Montt,4,2,Pen,5,2,0
-1562454000,Everton,Trasandino,1,0,,,,0
-1562515200,Huachipato,Deportes Temuco,1,1,,,,0
-1562698800,Cobresal,Deportes Vallenar,3,0,,,,0
-1562716800,U. Catolica,La Serena,2,1,Pen,3,1,0
-1562803200,U. Espanola,Melipilla,0,0,Pen,1,0,0
-1563053400,U. Espanola,Valdivia,0,0,,,,0
-1563053400,Everton,O'Higgins,1,0,,,,0
-1563062400,A. Italiano,San Felipe,0,0,,,,0
-1563120000,Deportes Iquique,Cobresal,1,1,,,,0
-1563130800,Deportes Temuco,U. De Chile,0,1,,,,0
-1563139800,Union La Calera,Nublense,1,1,,,,0
-1563148800,Colo Colo,Barnechea,3,0,,,,0
-1563307200,S. Morning,U. Catolica,0,2,,,,0
-1563640200,San Felipe,A. Italiano,0,1,,,,0
-1563649200,U. De Chile,Deportes Temuco,2,0,,,,0
-1563649200,Cobresal,Deportes Iquique,3,1,,,,0
-1563658200,O'Higgins,Everton,1,1,,,,0
-1563724800,Barnechea,Colo Colo,0,3,,,,0
-1563735600,Nublense,Union La Calera,1,1,Pen,1,2,0
-1565222400,U. Catolica,S. Morning,3,1,,,,0
-1567638000,Valdivia,U. Espanola,0,2,,,,0
-1567882800,Cobresal,U. De Chile,3,1,,,,0
-1567891800,Colo Colo,Everton,2,1,,,,0
-1567965600,Union La Calera,U. Catolica,2,1,,,,0
-1567974600,A. Italiano,U. Espanola,0,1,,,,0
-1570834800,U. De Chile,Cobresal,4,1,,,,0
-1570904100,Everton,Colo Colo,1,2,,,,0
-1570913100,U. Espanola,A. Italiano,2,1,,,,0
-1570922100,U. Catolica,Union La Calera,2,0,,,,0
-1547845200,U. Catolica,Colo Colo,1,1,Pen,1,2,0
-1547854200,U. De Chile,U. Espanola,-,-,WO,,,0
-1548192600,U. De Chile,Colo Colo,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1553373000,Trasandino,San Luis,hrAhMDx6,6PYUqcOT,0,0,Pen,1,0,0
+1553373000,San Antonio Unido,La Serena,fc14MIQR,Mkzo6oBm,1,2,,,,0
+1553373000,Deportes Rengo,Barnechea,rgW8zfoU,z1UcXQtj,2,3,,,,0
+1553373000,Deportes Colina,S. Morning,EuTwbjPA,fwVbNTh9,1,3,,,,0
+1553374800,Iberia,Nublense,AZCTXCE8,dveS6wJe,1,2,,,,0
+1553374800,Deportes Vallenar,Copiapo,EawjMZXB,tQ72aRuk,2,1,,,,0
+1553382000,Arturo Fernandez Vial,Deportes Temuco,2LeKvwQT,r3gSTAGA,2,2,Pen,2,3,0
+1553439600,Osorno,D. Puerto Montt,E7wc25Kd,lGGssG8o,1,3,,,,0
+1553459400,San Marcos de Arica,Cobreloa,z1UcXQtj,IXRjJEDH,3,1,,,,0
+1553459400,Recoleta,San Felipe,z9vnNFI5,IXRjJEDH,0,0,Pen,0,1,0
+1553459400,Pilmahue,Valdivia,rgW8zfoU,v3GeNiqa,0,2,,,,0
+1553459400,Lautaro,Melipilla,EawjMZXB,nss625xc,0,3,,,,0
+1553459400,Ind. Cauquenes,Rangers,z9vnNFI5,ADg61nKB,2,2,Pen,2,3,0
+1553459400,General Velasquez,Magallanes,44hKIBkm,4ryZkWNl,1,4,,,,0
+1553459400,D. Concepcion,S. Wanderers,O478yA5B,Miq6wRQG,1,4,,,,0
+1553459400,Colchagua,CD Santa Cruz,z9vnNFI5,AJxZzB1j,1,1,Pen,1,2,0
+1559264400,San Marcos de Arica,Deportes Iquique,z1UcXQtj,2NbwlzJD,0,2,,,,0
+1559763000,Palestino,S. Morning,zPORy6uL,fwVbNTh9,0,3,Awrd,,,0
+1559763000,Deportes Iquique,San Marcos de Arica,2NbwlzJD,z1UcXQtj,2,0,,,,0
+1560020400,Trasandino,Everton,hrAhMDx6,YoHxOTu3,0,1,,,,0
+1560020400,Rangers,U. De Chile,ADg61nKB,fuSaShZI,0,2,,,,0
+1560022200,Melipilla,U. Espanola,nss625xc,W0oo6a6a,0,0,,,,0
+1560022200,Magallanes,Union La Calera,4ryZkWNl,WYtEUtB2,0,2,,,,0
+1560029400,S. Wanderers,A. Italiano,Miq6wRQG,6kEqxN0C,1,2,,,,0
+1560031200,Deportes Vallenar,Cobresal,EawjMZXB,p8NClxtb,1,0,,,,0
+1560031200,CD Santa Cruz,O'Higgins,AJxZzB1j,fRWXW3MH,3,2,,,,0
+1560038400,La Serena,U. Catolica,Mkzo6oBm,nRWWeW7h,1,0,,,,0
+1560096000,Barnechea,Antofagasta,z1UcXQtj,zV3V5ijb,1,2,,,,0
+1560097800,Deportes Temuco,Huachipato,r3gSTAGA,xIMey4eD,2,1,,,,0
+1560106800,San Felipe,Coquimbo,IXRjJEDH,hMng3olL,3,1,,,,0
+1560106800,D. Puerto Montt,Colo Colo,lGGssG8o,tnwDCzLD,2,0,,,,0
+1560108600,S. Morning,Palestino,fwVbNTh9,zPORy6uL,1,1,,,,0
+1560108600,Nublense,Curico Unido,dveS6wJe,4xj1AAB3,0,1,,,,0
+1560110400,Valdivia,U. De Concepcion,v3GeNiqa,Eq74Jcjl,0,0,,,,0
+1560290400,A. Italiano,S. Wanderers,6kEqxN0C,Miq6wRQG,3,1,,,,0
+1560377700,U. De Chile,Rangers,fuSaShZI,ADg61nKB,1,1,,,,0
+1560380400,U. De Concepcion,Valdivia,Eq74Jcjl,v3GeNiqa,1,1,Pen,1,2,0
+1560382200,O'Higgins,CD Santa Cruz,fRWXW3MH,AJxZzB1j,4,1,,,,0
+1560382200,Curico Unido,Nublense,4xj1AAB3,dveS6wJe,1,2,Pen,1,3,0
+1560456000,Antofagasta,Barnechea,zV3V5ijb,z1UcXQtj,1,2,Pen,1,3,0
+1560461400,Union La Calera,Magallanes,WYtEUtB2,4ryZkWNl,3,2,,,,0
+1560468600,Coquimbo,San Felipe,hMng3olL,IXRjJEDH,1,1,,,,0
+1560470400,Colo Colo,D. Puerto Montt,tnwDCzLD,lGGssG8o,4,2,Pen,5,2,0
+1562454000,Everton,Trasandino,YoHxOTu3,hrAhMDx6,1,0,,,,0
+1562515200,Huachipato,Deportes Temuco,xIMey4eD,r3gSTAGA,1,1,,,,0
+1562698800,Cobresal,Deportes Vallenar,p8NClxtb,EawjMZXB,3,0,,,,0
+1562716800,U. Catolica,La Serena,nRWWeW7h,Mkzo6oBm,2,1,Pen,3,1,0
+1562803200,U. Espanola,Melipilla,W0oo6a6a,nss625xc,0,0,Pen,1,0,0
+1563053400,U. Espanola,Valdivia,W0oo6a6a,v3GeNiqa,0,0,,,,0
+1563053400,Everton,O'Higgins,YoHxOTu3,fRWXW3MH,1,0,,,,0
+1563062400,A. Italiano,San Felipe,6kEqxN0C,IXRjJEDH,0,0,,,,0
+1563120000,Deportes Iquique,Cobresal,2NbwlzJD,p8NClxtb,1,1,,,,0
+1563130800,Deportes Temuco,U. De Chile,r3gSTAGA,fuSaShZI,0,1,,,,0
+1563139800,Union La Calera,Nublense,WYtEUtB2,dveS6wJe,1,1,,,,0
+1563148800,Colo Colo,Barnechea,tnwDCzLD,z1UcXQtj,3,0,,,,0
+1563307200,S. Morning,U. Catolica,fwVbNTh9,nRWWeW7h,0,2,,,,0
+1563640200,San Felipe,A. Italiano,IXRjJEDH,6kEqxN0C,0,1,,,,0
+1563649200,U. De Chile,Deportes Temuco,fuSaShZI,r3gSTAGA,2,0,,,,0
+1563649200,Cobresal,Deportes Iquique,p8NClxtb,2NbwlzJD,3,1,,,,0
+1563658200,O'Higgins,Everton,fRWXW3MH,YoHxOTu3,1,1,,,,0
+1563724800,Barnechea,Colo Colo,z1UcXQtj,tnwDCzLD,0,3,,,,0
+1563735600,Nublense,Union La Calera,dveS6wJe,WYtEUtB2,1,1,Pen,1,2,0
+1565222400,U. Catolica,S. Morning,nRWWeW7h,fwVbNTh9,3,1,,,,0
+1567638000,Valdivia,U. Espanola,v3GeNiqa,W0oo6a6a,0,2,,,,0
+1567882800,Cobresal,U. De Chile,p8NClxtb,fuSaShZI,3,1,,,,0
+1567891800,Colo Colo,Everton,tnwDCzLD,YoHxOTu3,2,1,,,,0
+1567965600,Union La Calera,U. Catolica,WYtEUtB2,nRWWeW7h,2,1,,,,0
+1567974600,A. Italiano,U. Espanola,6kEqxN0C,W0oo6a6a,0,1,,,,0
+1570834800,U. De Chile,Cobresal,fuSaShZI,p8NClxtb,4,1,,,,0
+1570904100,Everton,Colo Colo,YoHxOTu3,tnwDCzLD,1,2,,,,0
+1570913100,U. Espanola,A. Italiano,W0oo6a6a,6kEqxN0C,2,1,,,,0
+1570922100,U. Catolica,Union La Calera,nRWWeW7h,WYtEUtB2,2,0,,,,0
+1547845200,U. Catolica,Colo Colo,nRWWeW7h,tnwDCzLD,1,1,Pen,1,2,0
+1547854200,U. De Chile,U. Espanola,fuSaShZI,W0oo6a6a,-,-,WO,,,0
+1548192600,U. De Chile,Colo Colo,fuSaShZI,tnwDCzLD,1,2,,,,0

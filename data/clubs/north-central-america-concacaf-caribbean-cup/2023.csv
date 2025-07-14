@@ -1,29 +1,29 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1692828360,Harbour View (Jam),Dunbeholden (Jam),1,0,,,,0
-1692921960,Defence Force (Tri),Cavalier (Jam),1,1,,,,0
-1692925560,Cibao (Dom),Atletico Pantoja (Dom),1,1,,,,0
-1692972000,Moca (Dom),Port Of Spain (Tri),1,0,,,,0
-1693433160,Golden Lion (Mar),Defence Force (Tri),0,1,,,,0
-1693440360,Atletico Pantoja (Dom),Dunbeholden (Jam),1,1,,,,0
-1693519560,Cavalier (Jam),Port Of Spain (Tri),2,1,,,,0
-1693526760,Robinhood (Sur),Cibao (Dom),1,0,,,,0
-1695168360,Cavalier (Jam),Moca (Dom),3,0,,,,0
-1695247560,Port Of Spain (Tri),Golden Lion (Mar),2,3,,,,0
-1695254760,Atletico Pantoja (Dom),Harbour View (Jam),1,1,,,,0
-1695341160,Dunbeholden (Jam),Robinhood (Sur),0,2,,,,0
-1695773160,Moca (Dom),Golden Lion (Mar),3,0,,,,0
-1695859560,Harbour View (Jam),Robinhood (Sur),3,2,,,,0
-1695938760,Port Of Spain (Tri),Defence Force (Tri),1,1,,,,0
-1695945960,Dunbeholden (Jam),Cibao (Dom),2,1,,,,0
-1696464360,Golden Lion (Mar),Cavalier (Jam),2,5,,,,0
-1696464360,Defence Force (Tri),Moca (Dom),0,2,,,,0
-1696550760,Robinhood (Sur),Atletico Pantoja (Dom),3,1,,,,0
-1696550760,Cibao (Dom),Harbour View (Jam),2,1,,,,0
-1698192000,Harbour View (Jam),Cavalier (Jam),0,5,,,,0
-1698271200,Moca (Dom),Robinhood (Sur),1,0,,,,0
-1698796800,Cavalier (Jam),Harbour View (Jam),0,0,,,,0
-1698969600,Robinhood (Sur),Moca (Dom),1,0,Pen,2,0,0
-1701212400,Harbour View (Jam),Moca (Dom),1,2,,,,0
-1701385200,Robinhood (Sur),Cavalier (Jam),1,0,,,,0
-1701817200,Moca (Dom),Harbour View (Jam),1,1,,,,0
-1701907200,Cavalier (Jam),Robinhood (Sur),0,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1692828360,Harbour View (Jam),Dunbeholden (Jam),KCGGnOpC,rHnjTrtl,1,0,,,,0
+1692921960,Defence Force (Tri),Cavalier (Jam),S6Z92CmM,KCGGnOpC,1,1,,,,0
+1692925560,Cibao (Dom),Atletico Pantoja (Dom),hvlWeuiI,AHFMV5v8,1,1,,,,0
+1692972000,Moca (Dom),Port Of Spain (Tri),4xEHelxl,Y1V24SLk,1,0,,,,0
+1693433160,Golden Lion (Mar),Defence Force (Tri),dtSyQHbT,S6Z92CmM,0,1,,,,0
+1693440360,Atletico Pantoja (Dom),Dunbeholden (Jam),AHFMV5v8,rHnjTrtl,1,1,,,,0
+1693519560,Cavalier (Jam),Port Of Spain (Tri),KCGGnOpC,Y1V24SLk,2,1,,,,0
+1693526760,Robinhood (Sur),Cibao (Dom),QBSRqXVB,hvlWeuiI,1,0,,,,0
+1695168360,Cavalier (Jam),Moca (Dom),KCGGnOpC,4xEHelxl,3,0,,,,0
+1695247560,Port Of Spain (Tri),Golden Lion (Mar),Y1V24SLk,dtSyQHbT,2,3,,,,0
+1695254760,Atletico Pantoja (Dom),Harbour View (Jam),AHFMV5v8,KCGGnOpC,1,1,,,,0
+1695341160,Dunbeholden (Jam),Robinhood (Sur),rHnjTrtl,QBSRqXVB,0,2,,,,0
+1695773160,Moca (Dom),Golden Lion (Mar),4xEHelxl,dtSyQHbT,3,0,,,,0
+1695859560,Harbour View (Jam),Robinhood (Sur),KCGGnOpC,QBSRqXVB,3,2,,,,0
+1695938760,Port Of Spain (Tri),Defence Force (Tri),Y1V24SLk,S6Z92CmM,1,1,,,,0
+1695945960,Dunbeholden (Jam),Cibao (Dom),rHnjTrtl,hvlWeuiI,2,1,,,,0
+1696464360,Golden Lion (Mar),Cavalier (Jam),dtSyQHbT,KCGGnOpC,2,5,,,,0
+1696464360,Defence Force (Tri),Moca (Dom),S6Z92CmM,4xEHelxl,0,2,,,,0
+1696550760,Robinhood (Sur),Atletico Pantoja (Dom),QBSRqXVB,AHFMV5v8,3,1,,,,0
+1696550760,Cibao (Dom),Harbour View (Jam),hvlWeuiI,KCGGnOpC,2,1,,,,0
+1698192000,Harbour View (Jam),Cavalier (Jam),KCGGnOpC,KCGGnOpC,0,5,,,,0
+1698271200,Moca (Dom),Robinhood (Sur),4xEHelxl,QBSRqXVB,1,0,,,,0
+1698796800,Cavalier (Jam),Harbour View (Jam),KCGGnOpC,KCGGnOpC,0,0,,,,0
+1698969600,Robinhood (Sur),Moca (Dom),QBSRqXVB,4xEHelxl,1,0,Pen,2,0,0
+1701212400,Harbour View (Jam),Moca (Dom),KCGGnOpC,4xEHelxl,1,2,,,,0
+1701385200,Robinhood (Sur),Cavalier (Jam),QBSRqXVB,KCGGnOpC,1,0,,,,0
+1701817200,Moca (Dom),Harbour View (Jam),4xEHelxl,KCGGnOpC,1,1,,,,0
+1701907200,Cavalier (Jam),Robinhood (Sur),KCGGnOpC,QBSRqXVB,0,2,,,,0

@@ -1,48 +1,48 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1534604400,Primorac Biograd,Zagora,3,1,,,,0
-1534861800,Rudar Labin,Krk,0,3,,,,0
-1535464800,Nehaj Senj,Granicar Zupanja,4,1,,,,0
-1535472000,Dragovoljac,Varazdin,0,3,,,,0
-1535551200,Zagorec K.,Libertas,9,0,,,,0
-1535551200,Visnjevac,Vrapce,1,2,,,,0
-1535551200,Suhopolje,Kurilovec,2,3,,,,0
-1535551200,Radnik Krizevci,Rovinj,2,0,,,,0
-1535551200,Pleternica,Segesta,1,0,,,,0
-1535551200,Nedelisce,Sloga NG,2,4,,,,0
-1535551200,Medjimurje Cakovec,Sava Strmec,5,0,,,,0
-1535551200,Koprivnica,Sloga Mravince,1,3,,,,0
-1535551200,Jadran LP,Bjelovar,1,0,,,,0
-1535551200,Bijelo Brdo,Vukovar 1991,0,0,Pen,0,1,0
-1535551200,Bednja Beletinec,NK P.,2,0,,,,0
-1535562000,Karlovac,Marsonia,1,2,,,,0
-1537277400,Bednja Beletinec,Zapresic,0,3,,,,0
-1537363800,Zagorec K.,Osijek,0,3,,,,0
-1537882200,Vukovar 1991,Zadar,3,3,AET,3,5,0
-1537882200,Kurilovec,Slaven Belupo,0,2,,,,0
-1537968600,Zelina,GOSK Dubrovnik,2,0,,,,0
-1537968600,Vrapce,Hajduk Split,0,2,,,,0
-1537968600,Sloga NG,Istra 1961,2,4,,,,0
-1537968600,Sloga Mravince,D. Zagreb,0,1,,,,0
-1537968600,Radnik Krizevci,Rijeka,0,9,,,,0
-1537968600,Primorac Biograd,Lok. Zagreb,0,1,,,,0
-1537968600,Pleternica,Jaska Vinogradar,0,4,,,,0
-1537968600,Nehaj Senj,Sibenik,2,2,Pen,2,3,0
-1537968600,Marsonia,NK Zagreb,3,0,,,,0
-1537968600,Krk,Cibalia,1,0,,,,0
-1537968600,Jadran LP,RNK Split,3,1,,,,0
-1537977600,Varazdin,Medjimurje Cakovec,2,0,,,,0
-1540915200,Zapresic,Istra 1961,2,1,,,,0
-1540915200,Zadar,Lok. Zagreb,1,3,,,,0
-1540990800,Zelina,D. Zagreb,0,4,,,,0
-1540990800,Marsonia,Slaven Belupo,0,1,,,,0
-1540990800,Krk,Osijek,1,5,,,,0
-1540990800,Jaska Vinogradar,Jadran LP,4,2,,,,0
-1540998000,Sibenik,Hajduk Split,1,1,AET,1,2,0
-1541008800,Varazdin,Rijeka,1,2,,,,0
-1543939200,Zapresic,Jaska Vinogradar,3,0,,,,0
-1543948200,Lok. Zagreb,Rijeka,1,2,,,,0
-1544025600,Osijek,Hajduk Split,2,1,,,,0
-1544034600,D. Zagreb,Slaven Belupo,1,0,,,,0
-1556035200,D. Zagreb,Osijek,2,0,,,,0
-1556121600,Zapresic,Rijeka,1,2,,,,0
-1558540800,D. Zagreb,Rijeka,1,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1534604400,Primorac Biograd,Zagora,dp8KDfVH,GvnQg73g,3,1,,,,0
+1534861800,Rudar Labin,Krk,CbyhgEC8,8dBlZXJE,0,3,,,,0
+1535464800,Nehaj Senj,Granicar Zupanja,b3DnZCVj,CUo8A66t,4,1,,,,0
+1535472000,Dragovoljac,Varazdin,r9KVUYrB,CCW2Z0Rb,0,3,,,,0
+1535551200,Zagorec K.,Libertas,I7IhpUKs,OrOnnAU3,9,0,,,,0
+1535551200,Visnjevac,Vrapce,QJfOSVdr,pKqc1VX5,1,2,,,,0
+1535551200,Suhopolje,Kurilovec,EaRpUB2U,QJfOSVdr,2,3,,,,0
+1535551200,Radnik Krizevci,Rovinj,WYO2BUR7,CvuxWyon,2,0,,,,0
+1535551200,Pleternica,Segesta,Qw9dXBlR,nZALE08p,1,0,,,,0
+1535551200,Nedelisce,Sloga NG,M71CKrQd,2eO85Pc4,2,4,,,,0
+1535551200,Medjimurje Cakovec,Sava Strmec,rkMd9kXu,SAaGxh8G,5,0,,,,0
+1535551200,Koprivnica,Sloga Mravince,hIpnkcid,6PnUOTZF,1,3,,,,0
+1535551200,Jadran LP,Bjelovar,4Cr55QVj,UPhyZXn8,1,0,,,,0
+1535551200,Bijelo Brdo,Vukovar 1991,xQzYcpTj,QmEhB75o,0,0,Pen,0,1,0
+1535551200,Bednja Beletinec,NK P.,vmpDLEkF,nmAhYiZK,2,0,,,,0
+1535562000,Karlovac,Marsonia,WSBTfTaU,Gl59jbSe,1,2,,,,0
+1537277400,Bednja Beletinec,Zapresic,vmpDLEkF,fuSaShZI,0,3,,,,0
+1537363800,Zagorec K.,Osijek,I7IhpUKs,x4Xh4Pu0,0,3,,,,0
+1537882200,Vukovar 1991,Zadar,QmEhB75o,EBDRDbzn,3,3,AET,3,5,0
+1537882200,Kurilovec,Slaven Belupo,QJfOSVdr,xluSzFWQ,0,2,,,,0
+1537968600,Zelina,GOSK Dubrovnik,KCtdjVjL,pblQwXyI,2,0,,,,0
+1537968600,Vrapce,Hajduk Split,pKqc1VX5,Mc6FcsjL,0,2,,,,0
+1537968600,Sloga NG,Istra 1961,2eO85Pc4,S0dWTsz4,2,4,,,,0
+1537968600,Sloga Mravince,D. Zagreb,6PnUOTZF,GU4hlIMk,0,1,,,,0
+1537968600,Radnik Krizevci,Rijeka,WYO2BUR7,YDFGOnMF,0,9,,,,0
+1537968600,Primorac Biograd,Lok. Zagreb,dp8KDfVH,McKSPis2,0,1,,,,0
+1537968600,Pleternica,Jaska Vinogradar,Qw9dXBlR,08mOQ28q,0,4,,,,0
+1537968600,Nehaj Senj,Sibenik,b3DnZCVj,YgThBW79,2,2,Pen,2,3,0
+1537968600,Marsonia,NK Zagreb,Gl59jbSe,dGpvXbgG,3,0,,,,0
+1537968600,Krk,Cibalia,8dBlZXJE,x4Xh4Pu0,1,0,,,,0
+1537968600,Jadran LP,RNK Split,4Cr55QVj,zy7OCEpO,3,1,,,,0
+1537977600,Varazdin,Medjimurje Cakovec,CCW2Z0Rb,rkMd9kXu,2,0,,,,0
+1540915200,Zapresic,Istra 1961,fuSaShZI,S0dWTsz4,2,1,,,,0
+1540915200,Zadar,Lok. Zagreb,EBDRDbzn,McKSPis2,1,3,,,,0
+1540990800,Zelina,D. Zagreb,KCtdjVjL,GU4hlIMk,0,4,,,,0
+1540990800,Marsonia,Slaven Belupo,Gl59jbSe,xluSzFWQ,0,1,,,,0
+1540990800,Krk,Osijek,8dBlZXJE,x4Xh4Pu0,1,5,,,,0
+1540990800,Jaska Vinogradar,Jadran LP,08mOQ28q,4Cr55QVj,4,2,,,,0
+1540998000,Sibenik,Hajduk Split,YgThBW79,Mc6FcsjL,1,1,AET,1,2,0
+1541008800,Varazdin,Rijeka,CCW2Z0Rb,YDFGOnMF,1,2,,,,0
+1543939200,Zapresic,Jaska Vinogradar,fuSaShZI,08mOQ28q,3,0,,,,0
+1543948200,Lok. Zagreb,Rijeka,McKSPis2,YDFGOnMF,1,2,,,,0
+1544025600,Osijek,Hajduk Split,x4Xh4Pu0,Mc6FcsjL,2,1,,,,0
+1544034600,D. Zagreb,Slaven Belupo,GU4hlIMk,xluSzFWQ,1,0,,,,0
+1556035200,D. Zagreb,Osijek,GU4hlIMk,x4Xh4Pu0,2,0,,,,0
+1556121600,Zapresic,Rijeka,fuSaShZI,YDFGOnMF,1,2,,,,0
+1558540800,D. Zagreb,Rijeka,GU4hlIMk,YDFGOnMF,1,3,,,,0

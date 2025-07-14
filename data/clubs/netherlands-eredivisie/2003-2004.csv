@@ -1,331 +1,331 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1060970400,Roda,PSV,2,2,,,,0
-1061056800,Willem II,AZ Alkmaar,1,0,,,,0
-1061056800,Waalwijk,Den Haag,1,0,,,,0
-1061056800,Twente,Roosendaal,3,1,,,,0
-1061143200,Vitesse,Ajax,1,2,,,,0
-1061143200,Utrecht,Zwolle,1,0,,,,0
-1061143200,Groningen,NAC Breda,1,0,,,,0
-1061143200,Feyenoord,Nijmegen,2,1,,,,0
-1061143200,FC Volendam,Heerenveen,0,1,,,,0
-1061575200,AZ Alkmaar,Twente,3,0,,,,0
-1061658000,Den Haag,Utrecht,1,1,,,,0
-1061659800,Roosendaal,Ajax,0,1,,,,0
-1061659800,PSV,Willem II,6,1,,,,0
-1061659800,NAC Breda,Vitesse,2,0,,,,0
-1061659800,Heerenveen,Feyenoord,1,0,,,,0
-1061728200,Zwolle,Waalwijk,0,3,,,,0
-1061728200,Nijmegen,Roda,1,3,,,,0
-1061728200,FC Volendam,Groningen,3,0,,,,0
-1062180000,Willem II,Heerenveen,2,0,,,,0
-1062180000,Vitesse,AZ Alkmaar,1,2,,,,0
-1062264600,Twente,PSV,0,2,,,,0
-1062264600,Roda,Roosendaal,0,2,,,,0
-1062325800,Feyenoord,NAC Breda,2,1,,,,0
-1062333000,Waalwijk,FC Volendam,3,0,,,,0
-1062333000,Utrecht,Nijmegen,0,1,,,,0
-1062333000,Groningen,Den Haag,2,0,,,,0
-1062333000,Ajax,Zwolle,1,0,,,,0
-1063389600,Den Haag,FC Volendam,1,1,,,,0
-1063474200,Zwolle,Roda,0,0,,,,0
-1063474200,Roosendaal,Vitesse,1,1,,,,0
-1063474200,PSV,Utrecht,2,1,,,,0
-1063474200,Heerenveen,Groningen,1,0,,,,0
-1063476900,Ajax,Waalwijk,4,1,,,,0
-1063535400,AZ Alkmaar,Feyenoord,2,2,,,,0
-1063542600,Nijmegen,Twente,2,1,,,,0
-1063542600,NAC Breda,Willem II,1,1,,,,0
-1063994400,FC Volendam,Nijmegen,2,3,,,,0
-1064079000,Willem II,Zwolle,2,1,,,,0
-1064079000,Den Haag,Roosendaal,1,2,,,,0
-1064080800,Vitesse,Roda,1,1,,,,0
-1064080800,Twente,Waalwijk,2,1,,,,0
-1064080800,AZ Alkmaar,Heerenveen,3,1,,,,0
-1064140200,Feyenoord,PSV,1,3,,,,0
-1064147400,NAC Breda,Ajax,4,2,,,,0
-1064147400,Groningen,Utrecht,1,1,,,,0
-1064683800,Roosendaal,FC Volendam,1,1,,,,0
-1064683800,PSV,AZ Alkmaar,0,1,,,,0
-1064683800,Heerenveen,Twente,3,0,,,,0
-1064750400,Roda,Groningen,0,0,,,,0
-1064752200,Zwolle,Feyenoord,0,3,,,,0
-1064752200,Waalwijk,NAC Breda,2,0,,,,0
-1064752200,Utrecht,Vitesse,1,3,,,,0
-1064752200,Nijmegen,Den Haag,1,2,,,,0
-1064752200,Ajax,Willem II,6,0,,,,0
-1065204000,Vitesse,Twente,3,5,,,,0
-1065288600,Willem II,Roda,0,2,,,,0
-1065288600,NAC Breda,Utrecht,1,2,,,,0
-1065288600,Heerenveen,Waalwijk,1,0,,,,0
-1065288600,Den Haag,PSV,0,4,,,,0
-1065290400,AZ Alkmaar,Nijmegen,2,0,,,,0
-1065357000,Groningen,Ajax,1,3,,,,0
-1065357000,Feyenoord,Roosendaal,2,0,,,,0
-1065357000,FC Volendam,Zwolle,2,2,,,,0
-1066414500,Ajax,FC Volendam,5,1,,,,0
-1066498200,Roosendaal,Willem II,0,0,,,,0
-1066498200,PSV,Heerenveen,2,0,,,,0
-1066500000,Waalwijk,Vitesse,2,2,,,,0
-1066559400,Roda,Feyenoord,1,1,,,,0
-1066566600,Zwolle,Den Haag,1,2,,,,0
-1066566600,Utrecht,AZ Alkmaar,0,3,,,,0
-1066566600,Twente,Groningen,5,3,,,,0
-1066566600,Nijmegen,NAC Breda,0,3,,,,0
-1067018400,FC Volendam,Roda,2,1,,,,0
-1067103000,Heerenveen,Nijmegen,1,2,,,,0
-1067103000,Groningen,Vitesse,2,1,,,,0
-1067103000,Den Haag,NAC Breda,1,1,,,,0
-1067104800,Waalwijk,Roosendaal,1,2,,,,0
-1067104800,AZ Alkmaar,Zwolle,4,0,,,,0
-1067167800,PSV,Ajax,2,2,,,,0
-1067175000,Twente,Utrecht,2,2,,,,0
-1067175000,Feyenoord,Willem II,2,1,,,,0
-1067626800,Roda,Den Haag,5,1,,,,0
-1067711400,Roosendaal,Nijmegen,1,0,,,,0
-1067711400,NAC Breda,PSV,1,3,,,,0
-1067713200,Vitesse,FC Volendam,2,2,,,,0
-1067714100,Ajax,AZ Alkmaar,3,2,,,,0
-1067779800,Zwolle,Twente,1,0,,,,0
-1067779800,Willem II,Waalwijk,4,1,,,,0
-1067779800,Utrecht,Heerenveen,2,1,,,,0
-1067779800,Groningen,Feyenoord,3,3,,,,0
-1068231600,Vitesse,Willem II,2,2,,,,0
-1068316200,Roda,Twente,2,1,,,,0
-1068316200,PSV,Roosendaal,1,1,,,,0
-1068316200,NAC Breda,AZ Alkmaar,1,2,,,,0
-1068316200,Heerenveen,Zwolle,1,1,,,,0
-1068377400,FC Volendam,Feyenoord,1,3,,,,0
-1068384600,Utrecht,Waalwijk,1,0,,,,0
-1068384600,Nijmegen,Groningen,2,3,,,,0
-1068384600,Den Haag,Ajax,1,4,,,,0
-1069441200,Waalwijk,Groningen,1,1,,,,0
-1069525800,Zwolle,NAC Breda,0,2,,,,0
-1069525800,Willem II,FC Volendam,6,0,,,,0
-1069527600,Nijmegen,PSV,2,3,,,,0
-1069527600,Feyenoord,Vitesse,3,0,,,,0
-1069527600,AZ Alkmaar,Roda,1,5,,,,0
-1069594200,Twente,Den Haag,4,0,,,,0
-1069594200,Roosendaal,Utrecht,1,1,,,,0
-1069594200,Ajax,Heerenveen,3,1,,,,0
-1070044200,Groningen,Roosendaal,2,0,,,,0
-1070130600,Zwolle,PSV,0,4,,,,0
-1070130600,Willem II,Nijmegen,3,0,,,,0
-1070130600,Den Haag,Vitesse,1,1,,,,0
-1070132400,Twente,NAC Breda,2,1,,,,0
-1070191800,Ajax,Feyenoord,2,0,,,,0
-1070199000,Waalwijk,AZ Alkmaar,1,1,,,,0
-1070199000,Utrecht,Roda,3,1,,,,0
-1070478000,Heerenveen,Den Haag,2,0,,,,0
-1070478000,FC Volendam,Twente,2,0,,,,0
-1070478000,AZ Alkmaar,Groningen,2,1,,,,0
-1070735400,Willem II,Utrecht,0,2,,,,0
-1070735400,PSV,FC Volendam,7,0,,,,0
-1070737200,Nijmegen,Waalwijk,1,1,,,,0
-1070803800,Vitesse,Zwolle,5,2,,,,0
-1070803800,Roosendaal,AZ Alkmaar,1,0,,,,0
-1070803800,NAC Breda,Heerenveen,2,3,,,,0
-1070803800,Feyenoord,Den Haag,4,1,,,,0
-1071255600,Roda,NAC Breda,2,2,,,,0
-1071342000,Twente,Feyenoord,4,2,,,,0
-1071342000,Roosendaal,Heerenveen,1,1,,,,0
-1071342000,PSV,Waalwijk,3,1,,,,0
-1071342000,Den Haag,Willem II,0,1,,,,0
-1071401400,FC Volendam,AZ Alkmaar,0,6,,,,0
-1071408600,Zwolle,Groningen,1,1,,,,0
-1071408600,Nijmegen,Vitesse,2,0,,,,0
-1071408600,Ajax,Utrecht,1,0,,,,0
-1071945000,Vitesse,PSV,0,0,,,,0
-1071945000,NAC Breda,Roosendaal,3,2,,,,0
-1071945000,Heerenveen,Roda,2,1,,,,0
-1071946800,Nijmegen,Zwolle,1,0,,,,0
-1072006200,Twente,Ajax,2,0,,,,0
-1072013400,Waalwijk,Feyenoord,0,0,,,,0
-1072013400,Utrecht,FC Volendam,3,0,,,,0
-1072013400,Groningen,Willem II,1,2,,,,0
-1074711600,Roda,Ajax,1,2,,,,0
-1074884400,AZ Alkmaar,Den Haag,0,1,,,,0
-1074969000,Zwolle,Roosendaal,0,3,,,,0
-1074969000,Willem II,Twente,2,3,,,,0
-1074969000,Roda,Waalwijk,2,1,,,,0
-1074969000,NAC Breda,FC Volendam,3,2,,,,0
-1074970800,Vitesse,Heerenveen,0,1,,,,0
-1075030200,Groningen,PSV,0,2,,,,0
-1075037400,Feyenoord,Utrecht,3,2,,,,0
-1075037400,Ajax,Nijmegen,1,0,,,,0
-1075316400,Utrecht,Roosendaal,0,1,,,,0
-1075316400,Twente,Vitesse,0,0,,,,0
-1075316400,PSV,Zwolle,5,1,,,,0
-1075316400,Nijmegen,Feyenoord,1,2,,,,0
-1075316400,FC Volendam,Waalwijk,0,4,,,,0
-1075316400,AZ Alkmaar,Willem II,0,0,,,,0
-1075575600,Waalwijk,Nijmegen,1,2,,,,0
-1075575600,Roda,AZ Alkmaar,3,1,,,,0
-1075575600,PSV,Vitesse,3,0,,,,0
-1075635000,Feyenoord,Twente,3,2,,,,0
-1075642200,Zwolle,Utrecht,1,1,,,,0
-1075642200,Willem II,NAC Breda,1,1,,,,0
-1075642200,Groningen,FC Volendam,0,1,,,,0
-1075642200,Ajax,Den Haag,4,0,,,,0
-1076094000,Roosendaal,Waalwijk,1,3,,,,0
-1076178600,Heerenveen,NAC Breda,3,4,,,,0
-1076180400,Twente,Zwolle,2,0,,,,0
-1076180400,AZ Alkmaar,FC Volendam,3,0,,,,0
-1076239800,Ajax,PSV,2,1,,,,0
-1076247000,Willem II,Den Haag,1,0,,,,0
-1076247000,Vitesse,Feyenoord,0,0,,,,0
-1076247000,Groningen,Nijmegen,2,0,,,,0
-1076526000,Waalwijk,Heerenveen,0,0,,,,0
-1076526000,Utrecht,Willem II,2,2,,,,0
-1076526000,Roosendaal,Roda,1,4,,,,0
-1076526000,Feyenoord,AZ Alkmaar,0,3,,,,0
-1076526000,Den Haag,Groningen,3,1,,,,0
-1076785200,Vitesse,Roosendaal,1,2,,,,0
-1076785200,PSV,Twente,1,0,,,,0
-1076785200,NAC Breda,Roda,0,0,,,,0
-1076785200,Heerenveen,Willem II,1,1,,,,0
-1076851800,Waalwijk,Zwolle,2,0,,,,0
-1076851800,Nijmegen,Utrecht,4,0,,,,0
-1076851800,FC Volendam,Ajax,0,2,,,,0
-1076851800,Den Haag,Feyenoord,2,2,,,,0
-1077303600,Roda,FC Volendam,1,0,,,,0
-1077388200,Zwolle,Nijmegen,2,1,,,,0
-1077388200,Heerenveen,PSV,3,2,,,,0
-1077390000,Vitesse,Groningen,1,2,,,,0
-1077390000,AZ Alkmaar,Roosendaal,2,1,,,,0
-1077456600,Utrecht,NAC Breda,1,2,,,,0
-1077456600,Ajax,Twente,1,0,,,,0
-1077735600,NAC Breda,Groningen,1,1,,,,0
-1077735600,Heerenveen,Ajax,4,1,,,,0
-1077735600,Den Haag,Roda,1,0,,,,0
-1077908400,Zwolle,Vitesse,1,1,,,,0
-1077993000,Roosendaal,NAC Breda,1,1,,,,0
-1077994800,Twente,AZ Alkmaar,4,1,,,,0
-1077994800,Nijmegen,Heerenveen,1,2,,,,0
-1077967800,Utrecht,Ajax,1,0,,,,0
-1077975000,Willem II,Feyenoord,0,3,,,,0
-1077975000,PSV,Roda,1,2,,,,0
-1077975000,Groningen,Waalwijk,1,2,,,,0
-1077975000,FC Volendam,Den Haag,0,2,,,,0
-1078513200,NAC Breda,Twente,0,1,,,,0
-1078597800,Willem II,Groningen,2,0,,,,0
-1078597800,Waalwijk,Ajax,0,1,,,,0
-1078597800,Roda,Zwolle,1,1,,,,0
-1078597800,Den Haag,AZ Alkmaar,2,3,,,,0
-1078599600,Nijmegen,Roosendaal,1,2,,,,0
-1078659000,Utrecht,PSV,0,4,,,,0
-1078666200,Feyenoord,Heerenveen,2,2,,,,0
-1078666200,FC Volendam,Vitesse,0,0,,,,0
-1079118000,Twente,Nijmegen,2,5,,,,0
-1079202600,Roosendaal,Groningen,1,0,,,,0
-1079202600,NAC Breda,Zwolle,3,1,,,,0
-1079202600,Heerenveen,FC Volendam,2,1,,,,0
-1079263800,PSV,Feyenoord,0,1,,,,0
-1079263800,AZ Alkmaar,Utrecht,1,2,,,,0
-1079271000,Waalwijk,Willem II,1,1,,,,0
-1079271000,Vitesse,Den Haag,1,0,,,,0
-1079271000,Ajax,Roda,4,2,,,,0
-1079721000,Groningen,Heerenveen,0,0,,,,0
-1079807400,Zwolle,FC Volendam,3,0,,,,0
-1079807400,Roda,Willem II,6,1,,,,0
-1079807400,PSV,NAC Breda,1,1,,,,0
-1079809200,Nijmegen,AZ Alkmaar,0,2,,,,0
-1079868600,Feyenoord,Waalwijk,1,0,,,,0
-1079875800,Utrecht,Twente,2,0,,,,0
-1079875800,Roosendaal,Den Haag,0,0,,,,0
-1079875800,Ajax,Vitesse,5,0,,,,0
-1080327600,Den Haag,Zwolle,1,1,,,,0
-1080412200,NAC Breda,Nijmegen,5,2,,,,0
-1080412200,Heerenveen,Roosendaal,1,0,,,,0
-1080414000,Vitesse,Waalwijk,3,3,,,,0
-1080469800,FC Volendam,Utrecht,1,2,,,,0
-1080469800,AZ Alkmaar,Ajax,1,1,,,,0
-1080477000,Willem II,PSV,3,1,,,,0
-1080477000,Groningen,Twente,1,0,,,,0
-1080477000,Feyenoord,Roda,3,0,,,,0
-1080928800,Nijmegen,Willem II,4,0,,,,0
-1081013400,Waalwijk,PSV,0,4,,,,0
-1081013400,Roosendaal,Zwolle,1,1,,,,0
-1081013400,Roda,Heerenveen,0,1,,,,0
-1081015200,Twente,FC Volendam,1,2,,,,0
-1081015200,AZ Alkmaar,Vitesse,2,1,,,,0
-1081074600,NAC Breda,Feyenoord,0,3,,,,0
-1081076400,Utrecht,Den Haag,5,3,,,,0
-1081081800,Ajax,Groningen,2,1,,,,0
-1081533600,Roda,Nijmegen,4,0,,,,0
-1081618200,Zwolle,AZ Alkmaar,2,0,,,,0
-1081618200,Heerenveen,Utrecht,4,0,,,,0
-1081618200,Den Haag,Waalwijk,1,3,,,,0
-1081620000,FC Volendam,Willem II,0,1,,,,0
-1081679400,Feyenoord,Ajax,1,1,,,,0
-1081686600,Vitesse,NAC Breda,2,2,,,,0
-1081686600,Roosendaal,Twente,1,2,,,,0
-1081686600,PSV,Groningen,5,0,,,,0
-1082138400,Willem II,Vitesse,1,1,,,,0
-1082223000,Zwolle,Heerenveen,1,0,,,,0
-1082223000,PSV,Nijmegen,3,0,,,,0
-1082223000,Den Haag,Twente,1,0,,,,0
-1082224800,Waalwijk,Roda,1,1,,,,0
-1082284200,Utrecht,Feyenoord,0,3,,,,0
-1082291400,Groningen,AZ Alkmaar,1,1,,,,0
-1082291400,FC Volendam,NAC Breda,4,2,,,,0
-1082291400,Ajax,Roosendaal,1,1,,,,0
-1082743200,Roda,Utrecht,1,1,,,,0
-1082827800,Roosendaal,PSV,0,3,,,,0
-1082827800,Heerenveen,Vitesse,0,0,,,,0
-1082829600,Twente,Willem II,2,0,,,,0
-1082829600,AZ Alkmaar,Waalwijk,7,0,,,,0
-1082896200,Nijmegen,Ajax,0,0,,,,0
-1082896200,NAC Breda,Den Haag,1,0,,,,0
-1082896200,Groningen,Zwolle,2,2,,,,0
-1082896200,Feyenoord,FC Volendam,2,0,,,,0
-1083432600,Willem II,Roosendaal,3,0,,,,0
-1083432600,Den Haag,Heerenveen,1,0,,,,0
-1083434400,Twente,Roda,1,2,,,,0
-1083434400,AZ Alkmaar,NAC Breda,2,2,,,,0
-1083501000,Zwolle,Ajax,0,5,,,,0
-1083501000,Waalwijk,Utrecht,1,0,,,,0
-1083501000,Vitesse,Nijmegen,2,2,,,,0
-1083501000,Feyenoord,Groningen,1,2,,,,0
-1083501000,FC Volendam,PSV,0,5,,,,0
-1084105800,Zwolle,Willem II,0,0,,,,0
-1084105800,Waalwijk,Twente,3,3,,,,0
-1084105800,Utrecht,Groningen,2,0,,,,0
-1084105800,Roosendaal,Feyenoord,1,4,,,,0
-1084105800,Roda,Vitesse,2,0,,,,0
-1084105800,PSV,Den Haag,3,2,,,,0
-1084105800,Nijmegen,FC Volendam,1,1,,,,0
-1084105800,Heerenveen,AZ Alkmaar,1,0,,,,0
-1084105800,Ajax,NAC Breda,2,0,,,,0
-1084710600,Willem II,Ajax,2,5,,,,0
-1084710600,Vitesse,Utrecht,3,0,,,,0
-1084710600,Twente,Heerenveen,2,0,,,,0
-1084710600,NAC Breda,Waalwijk,5,3,,,,0
-1084710600,Groningen,Roda,2,2,,,,0
-1084710600,Feyenoord,Zwolle,7,1,,,,0
-1084710600,FC Volendam,Roosendaal,2,1,,,,0
-1084710600,Den Haag,Nijmegen,4,1,,,,0
-1084710600,AZ Alkmaar,PSV,2,4,,,,0
-1084989600,Venlo,Helmond,6,0,,,,0
-1084989600,Sparta Rotterdam,Vitesse,1,3,,,,0
-1084989600,Heracles,FC Volendam,4,0,,,,0
-1084989600,De Graafschap,Excelsior,0,0,,,,0
-1085247000,Helmond,Sparta Rotterdam,2,2,,,,0
-1085247000,FC Volendam,De Graafschap,0,1,,,,0
-1085247000,Excelsior,Heracles,0,1,,,,0
-1085248800,Vitesse,Venlo,5,0,,,,0
-1085508000,Venlo,Sparta Rotterdam,0,2,,,,0
-1085508000,Heracles,De Graafschap,2,0,,,,0
-1085508000,Helmond,Vitesse,2,2,,,,0
-1085508000,Excelsior,FC Volendam,2,1,,,,0
-1085767200,Vitesse,Helmond,1,0,,,,0
-1085767200,Sparta Rotterdam,Venlo,1,1,,,,0
-1085767200,FC Volendam,Excelsior,1,2,,,,0
-1085767200,De Graafschap,Heracles,2,0,,,,0
-1086006600,Venlo,Vitesse,1,1,,,,0
-1086006600,Sparta Rotterdam,Helmond,2,2,,,,0
-1086019200,Heracles,Excelsior,2,2,,,,0
-1086019200,De Graafschap,FC Volendam,4,0,,,,0
-1086285600,Vitesse,Sparta Rotterdam,2,0,,,,0
-1086285600,Helmond,Venlo,1,3,,,,0
-1086285600,FC Volendam,Heracles,2,2,,,,0
-1086285600,Excelsior,De Graafschap,2,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1060970400,Roda,PSV,pWP3d9yH,j5zA1baQ,2,2,,,,0
+1061056800,Willem II,AZ Alkmaar,WQMFphXe,4vob7cTR,1,0,,,,0
+1061056800,Waalwijk,Den Haag,YsXoN1Be,vuxu3x67,1,0,,,,0
+1061056800,Twente,Roosendaal,4vob7cTR,n7dWR5qB,3,1,,,,0
+1061143200,Vitesse,Ajax,hxcLpNd6,bZZPiwAI,1,2,,,,0
+1061143200,Utrecht,Zwolle,4vob7cTR,vFbzuVd5,1,0,,,,0
+1061143200,Groningen,NAC Breda,E5fitKGe,voRxy8ml,1,0,,,,0
+1061143200,Feyenoord,Nijmegen,Wz6bfhxO,4vob7cTR,2,1,,,,0
+1061143200,FC Volendam,Heerenveen,WYtEUtB2,4vob7cTR,0,1,,,,0
+1061575200,AZ Alkmaar,Twente,4vob7cTR,4vob7cTR,3,0,,,,0
+1061658000,Den Haag,Utrecht,vuxu3x67,4vob7cTR,1,1,,,,0
+1061659800,Roosendaal,Ajax,n7dWR5qB,bZZPiwAI,0,1,,,,0
+1061659800,PSV,Willem II,j5zA1baQ,WQMFphXe,6,1,,,,0
+1061659800,NAC Breda,Vitesse,voRxy8ml,hxcLpNd6,2,0,,,,0
+1061659800,Heerenveen,Feyenoord,4vob7cTR,Wz6bfhxO,1,0,,,,0
+1061728200,Zwolle,Waalwijk,vFbzuVd5,YsXoN1Be,0,3,,,,0
+1061728200,Nijmegen,Roda,4vob7cTR,pWP3d9yH,1,3,,,,0
+1061728200,FC Volendam,Groningen,WYtEUtB2,E5fitKGe,3,0,,,,0
+1062180000,Willem II,Heerenveen,WQMFphXe,4vob7cTR,2,0,,,,0
+1062180000,Vitesse,AZ Alkmaar,hxcLpNd6,4vob7cTR,1,2,,,,0
+1062264600,Twente,PSV,4vob7cTR,j5zA1baQ,0,2,,,,0
+1062264600,Roda,Roosendaal,pWP3d9yH,n7dWR5qB,0,2,,,,0
+1062325800,Feyenoord,NAC Breda,Wz6bfhxO,voRxy8ml,2,1,,,,0
+1062333000,Waalwijk,FC Volendam,YsXoN1Be,WYtEUtB2,3,0,,,,0
+1062333000,Utrecht,Nijmegen,4vob7cTR,4vob7cTR,0,1,,,,0
+1062333000,Groningen,Den Haag,E5fitKGe,vuxu3x67,2,0,,,,0
+1062333000,Ajax,Zwolle,bZZPiwAI,vFbzuVd5,1,0,,,,0
+1063389600,Den Haag,FC Volendam,vuxu3x67,WYtEUtB2,1,1,,,,0
+1063474200,Zwolle,Roda,vFbzuVd5,pWP3d9yH,0,0,,,,0
+1063474200,Roosendaal,Vitesse,n7dWR5qB,hxcLpNd6,1,1,,,,0
+1063474200,PSV,Utrecht,j5zA1baQ,4vob7cTR,2,1,,,,0
+1063474200,Heerenveen,Groningen,4vob7cTR,E5fitKGe,1,0,,,,0
+1063476900,Ajax,Waalwijk,bZZPiwAI,YsXoN1Be,4,1,,,,0
+1063535400,AZ Alkmaar,Feyenoord,4vob7cTR,Wz6bfhxO,2,2,,,,0
+1063542600,Nijmegen,Twente,4vob7cTR,4vob7cTR,2,1,,,,0
+1063542600,NAC Breda,Willem II,voRxy8ml,WQMFphXe,1,1,,,,0
+1063994400,FC Volendam,Nijmegen,WYtEUtB2,4vob7cTR,2,3,,,,0
+1064079000,Willem II,Zwolle,WQMFphXe,vFbzuVd5,2,1,,,,0
+1064079000,Den Haag,Roosendaal,vuxu3x67,n7dWR5qB,1,2,,,,0
+1064080800,Vitesse,Roda,hxcLpNd6,pWP3d9yH,1,1,,,,0
+1064080800,Twente,Waalwijk,4vob7cTR,YsXoN1Be,2,1,,,,0
+1064080800,AZ Alkmaar,Heerenveen,4vob7cTR,4vob7cTR,3,1,,,,0
+1064140200,Feyenoord,PSV,Wz6bfhxO,j5zA1baQ,1,3,,,,0
+1064147400,NAC Breda,Ajax,voRxy8ml,bZZPiwAI,4,2,,,,0
+1064147400,Groningen,Utrecht,E5fitKGe,4vob7cTR,1,1,,,,0
+1064683800,Roosendaal,FC Volendam,n7dWR5qB,WYtEUtB2,1,1,,,,0
+1064683800,PSV,AZ Alkmaar,j5zA1baQ,4vob7cTR,0,1,,,,0
+1064683800,Heerenveen,Twente,4vob7cTR,4vob7cTR,3,0,,,,0
+1064750400,Roda,Groningen,pWP3d9yH,E5fitKGe,0,0,,,,0
+1064752200,Zwolle,Feyenoord,vFbzuVd5,Wz6bfhxO,0,3,,,,0
+1064752200,Waalwijk,NAC Breda,YsXoN1Be,voRxy8ml,2,0,,,,0
+1064752200,Utrecht,Vitesse,4vob7cTR,hxcLpNd6,1,3,,,,0
+1064752200,Nijmegen,Den Haag,4vob7cTR,vuxu3x67,1,2,,,,0
+1064752200,Ajax,Willem II,bZZPiwAI,WQMFphXe,6,0,,,,0
+1065204000,Vitesse,Twente,hxcLpNd6,4vob7cTR,3,5,,,,0
+1065288600,Willem II,Roda,WQMFphXe,pWP3d9yH,0,2,,,,0
+1065288600,NAC Breda,Utrecht,voRxy8ml,4vob7cTR,1,2,,,,0
+1065288600,Heerenveen,Waalwijk,4vob7cTR,YsXoN1Be,1,0,,,,0
+1065288600,Den Haag,PSV,vuxu3x67,j5zA1baQ,0,4,,,,0
+1065290400,AZ Alkmaar,Nijmegen,4vob7cTR,4vob7cTR,2,0,,,,0
+1065357000,Groningen,Ajax,E5fitKGe,bZZPiwAI,1,3,,,,0
+1065357000,Feyenoord,Roosendaal,Wz6bfhxO,n7dWR5qB,2,0,,,,0
+1065357000,FC Volendam,Zwolle,WYtEUtB2,vFbzuVd5,2,2,,,,0
+1066414500,Ajax,FC Volendam,bZZPiwAI,WYtEUtB2,5,1,,,,0
+1066498200,Roosendaal,Willem II,n7dWR5qB,WQMFphXe,0,0,,,,0
+1066498200,PSV,Heerenveen,j5zA1baQ,4vob7cTR,2,0,,,,0
+1066500000,Waalwijk,Vitesse,YsXoN1Be,hxcLpNd6,2,2,,,,0
+1066559400,Roda,Feyenoord,pWP3d9yH,Wz6bfhxO,1,1,,,,0
+1066566600,Zwolle,Den Haag,vFbzuVd5,vuxu3x67,1,2,,,,0
+1066566600,Utrecht,AZ Alkmaar,4vob7cTR,4vob7cTR,0,3,,,,0
+1066566600,Twente,Groningen,4vob7cTR,E5fitKGe,5,3,,,,0
+1066566600,Nijmegen,NAC Breda,4vob7cTR,voRxy8ml,0,3,,,,0
+1067018400,FC Volendam,Roda,WYtEUtB2,pWP3d9yH,2,1,,,,0
+1067103000,Heerenveen,Nijmegen,4vob7cTR,4vob7cTR,1,2,,,,0
+1067103000,Groningen,Vitesse,E5fitKGe,hxcLpNd6,2,1,,,,0
+1067103000,Den Haag,NAC Breda,vuxu3x67,voRxy8ml,1,1,,,,0
+1067104800,Waalwijk,Roosendaal,YsXoN1Be,n7dWR5qB,1,2,,,,0
+1067104800,AZ Alkmaar,Zwolle,4vob7cTR,vFbzuVd5,4,0,,,,0
+1067167800,PSV,Ajax,j5zA1baQ,bZZPiwAI,2,2,,,,0
+1067175000,Twente,Utrecht,4vob7cTR,4vob7cTR,2,2,,,,0
+1067175000,Feyenoord,Willem II,Wz6bfhxO,WQMFphXe,2,1,,,,0
+1067626800,Roda,Den Haag,pWP3d9yH,vuxu3x67,5,1,,,,0
+1067711400,Roosendaal,Nijmegen,n7dWR5qB,4vob7cTR,1,0,,,,0
+1067711400,NAC Breda,PSV,voRxy8ml,j5zA1baQ,1,3,,,,0
+1067713200,Vitesse,FC Volendam,hxcLpNd6,WYtEUtB2,2,2,,,,0
+1067714100,Ajax,AZ Alkmaar,bZZPiwAI,4vob7cTR,3,2,,,,0
+1067779800,Zwolle,Twente,vFbzuVd5,4vob7cTR,1,0,,,,0
+1067779800,Willem II,Waalwijk,WQMFphXe,YsXoN1Be,4,1,,,,0
+1067779800,Utrecht,Heerenveen,4vob7cTR,4vob7cTR,2,1,,,,0
+1067779800,Groningen,Feyenoord,E5fitKGe,Wz6bfhxO,3,3,,,,0
+1068231600,Vitesse,Willem II,hxcLpNd6,WQMFphXe,2,2,,,,0
+1068316200,Roda,Twente,pWP3d9yH,4vob7cTR,2,1,,,,0
+1068316200,PSV,Roosendaal,j5zA1baQ,n7dWR5qB,1,1,,,,0
+1068316200,NAC Breda,AZ Alkmaar,voRxy8ml,4vob7cTR,1,2,,,,0
+1068316200,Heerenveen,Zwolle,4vob7cTR,vFbzuVd5,1,1,,,,0
+1068377400,FC Volendam,Feyenoord,WYtEUtB2,Wz6bfhxO,1,3,,,,0
+1068384600,Utrecht,Waalwijk,4vob7cTR,YsXoN1Be,1,0,,,,0
+1068384600,Nijmegen,Groningen,4vob7cTR,E5fitKGe,2,3,,,,0
+1068384600,Den Haag,Ajax,vuxu3x67,bZZPiwAI,1,4,,,,0
+1069441200,Waalwijk,Groningen,YsXoN1Be,E5fitKGe,1,1,,,,0
+1069525800,Zwolle,NAC Breda,vFbzuVd5,voRxy8ml,0,2,,,,0
+1069525800,Willem II,FC Volendam,WQMFphXe,WYtEUtB2,6,0,,,,0
+1069527600,Nijmegen,PSV,4vob7cTR,j5zA1baQ,2,3,,,,0
+1069527600,Feyenoord,Vitesse,Wz6bfhxO,hxcLpNd6,3,0,,,,0
+1069527600,AZ Alkmaar,Roda,4vob7cTR,pWP3d9yH,1,5,,,,0
+1069594200,Twente,Den Haag,4vob7cTR,vuxu3x67,4,0,,,,0
+1069594200,Roosendaal,Utrecht,n7dWR5qB,4vob7cTR,1,1,,,,0
+1069594200,Ajax,Heerenveen,bZZPiwAI,4vob7cTR,3,1,,,,0
+1070044200,Groningen,Roosendaal,E5fitKGe,n7dWR5qB,2,0,,,,0
+1070130600,Zwolle,PSV,vFbzuVd5,j5zA1baQ,0,4,,,,0
+1070130600,Willem II,Nijmegen,WQMFphXe,4vob7cTR,3,0,,,,0
+1070130600,Den Haag,Vitesse,vuxu3x67,hxcLpNd6,1,1,,,,0
+1070132400,Twente,NAC Breda,4vob7cTR,voRxy8ml,2,1,,,,0
+1070191800,Ajax,Feyenoord,bZZPiwAI,Wz6bfhxO,2,0,,,,0
+1070199000,Waalwijk,AZ Alkmaar,YsXoN1Be,4vob7cTR,1,1,,,,0
+1070199000,Utrecht,Roda,4vob7cTR,pWP3d9yH,3,1,,,,0
+1070478000,Heerenveen,Den Haag,4vob7cTR,vuxu3x67,2,0,,,,0
+1070478000,FC Volendam,Twente,WYtEUtB2,4vob7cTR,2,0,,,,0
+1070478000,AZ Alkmaar,Groningen,4vob7cTR,E5fitKGe,2,1,,,,0
+1070735400,Willem II,Utrecht,WQMFphXe,4vob7cTR,0,2,,,,0
+1070735400,PSV,FC Volendam,j5zA1baQ,WYtEUtB2,7,0,,,,0
+1070737200,Nijmegen,Waalwijk,4vob7cTR,YsXoN1Be,1,1,,,,0
+1070803800,Vitesse,Zwolle,hxcLpNd6,vFbzuVd5,5,2,,,,0
+1070803800,Roosendaal,AZ Alkmaar,n7dWR5qB,4vob7cTR,1,0,,,,0
+1070803800,NAC Breda,Heerenveen,voRxy8ml,4vob7cTR,2,3,,,,0
+1070803800,Feyenoord,Den Haag,Wz6bfhxO,vuxu3x67,4,1,,,,0
+1071255600,Roda,NAC Breda,pWP3d9yH,voRxy8ml,2,2,,,,0
+1071342000,Twente,Feyenoord,4vob7cTR,Wz6bfhxO,4,2,,,,0
+1071342000,Roosendaal,Heerenveen,n7dWR5qB,4vob7cTR,1,1,,,,0
+1071342000,PSV,Waalwijk,j5zA1baQ,YsXoN1Be,3,1,,,,0
+1071342000,Den Haag,Willem II,vuxu3x67,WQMFphXe,0,1,,,,0
+1071401400,FC Volendam,AZ Alkmaar,WYtEUtB2,4vob7cTR,0,6,,,,0
+1071408600,Zwolle,Groningen,vFbzuVd5,E5fitKGe,1,1,,,,0
+1071408600,Nijmegen,Vitesse,4vob7cTR,hxcLpNd6,2,0,,,,0
+1071408600,Ajax,Utrecht,bZZPiwAI,4vob7cTR,1,0,,,,0
+1071945000,Vitesse,PSV,hxcLpNd6,j5zA1baQ,0,0,,,,0
+1071945000,NAC Breda,Roosendaal,voRxy8ml,n7dWR5qB,3,2,,,,0
+1071945000,Heerenveen,Roda,4vob7cTR,pWP3d9yH,2,1,,,,0
+1071946800,Nijmegen,Zwolle,4vob7cTR,vFbzuVd5,1,0,,,,0
+1072006200,Twente,Ajax,4vob7cTR,bZZPiwAI,2,0,,,,0
+1072013400,Waalwijk,Feyenoord,YsXoN1Be,Wz6bfhxO,0,0,,,,0
+1072013400,Utrecht,FC Volendam,4vob7cTR,WYtEUtB2,3,0,,,,0
+1072013400,Groningen,Willem II,E5fitKGe,WQMFphXe,1,2,,,,0
+1074711600,Roda,Ajax,pWP3d9yH,bZZPiwAI,1,2,,,,0
+1074884400,AZ Alkmaar,Den Haag,4vob7cTR,vuxu3x67,0,1,,,,0
+1074969000,Zwolle,Roosendaal,vFbzuVd5,n7dWR5qB,0,3,,,,0
+1074969000,Willem II,Twente,WQMFphXe,4vob7cTR,2,3,,,,0
+1074969000,Roda,Waalwijk,pWP3d9yH,YsXoN1Be,2,1,,,,0
+1074969000,NAC Breda,FC Volendam,voRxy8ml,WYtEUtB2,3,2,,,,0
+1074970800,Vitesse,Heerenveen,hxcLpNd6,4vob7cTR,0,1,,,,0
+1075030200,Groningen,PSV,E5fitKGe,j5zA1baQ,0,2,,,,0
+1075037400,Feyenoord,Utrecht,Wz6bfhxO,4vob7cTR,3,2,,,,0
+1075037400,Ajax,Nijmegen,bZZPiwAI,4vob7cTR,1,0,,,,0
+1075316400,Utrecht,Roosendaal,4vob7cTR,n7dWR5qB,0,1,,,,0
+1075316400,Twente,Vitesse,4vob7cTR,hxcLpNd6,0,0,,,,0
+1075316400,PSV,Zwolle,j5zA1baQ,vFbzuVd5,5,1,,,,0
+1075316400,Nijmegen,Feyenoord,4vob7cTR,Wz6bfhxO,1,2,,,,0
+1075316400,FC Volendam,Waalwijk,WYtEUtB2,YsXoN1Be,0,4,,,,0
+1075316400,AZ Alkmaar,Willem II,4vob7cTR,WQMFphXe,0,0,,,,0
+1075575600,Waalwijk,Nijmegen,YsXoN1Be,4vob7cTR,1,2,,,,0
+1075575600,Roda,AZ Alkmaar,pWP3d9yH,4vob7cTR,3,1,,,,0
+1075575600,PSV,Vitesse,j5zA1baQ,hxcLpNd6,3,0,,,,0
+1075635000,Feyenoord,Twente,Wz6bfhxO,4vob7cTR,3,2,,,,0
+1075642200,Zwolle,Utrecht,vFbzuVd5,4vob7cTR,1,1,,,,0
+1075642200,Willem II,NAC Breda,WQMFphXe,voRxy8ml,1,1,,,,0
+1075642200,Groningen,FC Volendam,E5fitKGe,WYtEUtB2,0,1,,,,0
+1075642200,Ajax,Den Haag,bZZPiwAI,vuxu3x67,4,0,,,,0
+1076094000,Roosendaal,Waalwijk,n7dWR5qB,YsXoN1Be,1,3,,,,0
+1076178600,Heerenveen,NAC Breda,4vob7cTR,voRxy8ml,3,4,,,,0
+1076180400,Twente,Zwolle,4vob7cTR,vFbzuVd5,2,0,,,,0
+1076180400,AZ Alkmaar,FC Volendam,4vob7cTR,WYtEUtB2,3,0,,,,0
+1076239800,Ajax,PSV,bZZPiwAI,j5zA1baQ,2,1,,,,0
+1076247000,Willem II,Den Haag,WQMFphXe,vuxu3x67,1,0,,,,0
+1076247000,Vitesse,Feyenoord,hxcLpNd6,Wz6bfhxO,0,0,,,,0
+1076247000,Groningen,Nijmegen,E5fitKGe,4vob7cTR,2,0,,,,0
+1076526000,Waalwijk,Heerenveen,YsXoN1Be,4vob7cTR,0,0,,,,0
+1076526000,Utrecht,Willem II,4vob7cTR,WQMFphXe,2,2,,,,0
+1076526000,Roosendaal,Roda,n7dWR5qB,pWP3d9yH,1,4,,,,0
+1076526000,Feyenoord,AZ Alkmaar,Wz6bfhxO,4vob7cTR,0,3,,,,0
+1076526000,Den Haag,Groningen,vuxu3x67,E5fitKGe,3,1,,,,0
+1076785200,Vitesse,Roosendaal,hxcLpNd6,n7dWR5qB,1,2,,,,0
+1076785200,PSV,Twente,j5zA1baQ,4vob7cTR,1,0,,,,0
+1076785200,NAC Breda,Roda,voRxy8ml,pWP3d9yH,0,0,,,,0
+1076785200,Heerenveen,Willem II,4vob7cTR,WQMFphXe,1,1,,,,0
+1076851800,Waalwijk,Zwolle,YsXoN1Be,vFbzuVd5,2,0,,,,0
+1076851800,Nijmegen,Utrecht,4vob7cTR,4vob7cTR,4,0,,,,0
+1076851800,FC Volendam,Ajax,WYtEUtB2,bZZPiwAI,0,2,,,,0
+1076851800,Den Haag,Feyenoord,vuxu3x67,Wz6bfhxO,2,2,,,,0
+1077303600,Roda,FC Volendam,pWP3d9yH,WYtEUtB2,1,0,,,,0
+1077388200,Zwolle,Nijmegen,vFbzuVd5,4vob7cTR,2,1,,,,0
+1077388200,Heerenveen,PSV,4vob7cTR,j5zA1baQ,3,2,,,,0
+1077390000,Vitesse,Groningen,hxcLpNd6,E5fitKGe,1,2,,,,0
+1077390000,AZ Alkmaar,Roosendaal,4vob7cTR,n7dWR5qB,2,1,,,,0
+1077456600,Utrecht,NAC Breda,4vob7cTR,voRxy8ml,1,2,,,,0
+1077456600,Ajax,Twente,bZZPiwAI,4vob7cTR,1,0,,,,0
+1077735600,NAC Breda,Groningen,voRxy8ml,E5fitKGe,1,1,,,,0
+1077735600,Heerenveen,Ajax,4vob7cTR,bZZPiwAI,4,1,,,,0
+1077735600,Den Haag,Roda,vuxu3x67,pWP3d9yH,1,0,,,,0
+1077908400,Zwolle,Vitesse,vFbzuVd5,hxcLpNd6,1,1,,,,0
+1077993000,Roosendaal,NAC Breda,n7dWR5qB,voRxy8ml,1,1,,,,0
+1077994800,Twente,AZ Alkmaar,4vob7cTR,4vob7cTR,4,1,,,,0
+1077994800,Nijmegen,Heerenveen,4vob7cTR,4vob7cTR,1,2,,,,0
+1077967800,Utrecht,Ajax,4vob7cTR,bZZPiwAI,1,0,,,,0
+1077975000,Willem II,Feyenoord,WQMFphXe,Wz6bfhxO,0,3,,,,0
+1077975000,PSV,Roda,j5zA1baQ,pWP3d9yH,1,2,,,,0
+1077975000,Groningen,Waalwijk,E5fitKGe,YsXoN1Be,1,2,,,,0
+1077975000,FC Volendam,Den Haag,WYtEUtB2,vuxu3x67,0,2,,,,0
+1078513200,NAC Breda,Twente,voRxy8ml,4vob7cTR,0,1,,,,0
+1078597800,Willem II,Groningen,WQMFphXe,E5fitKGe,2,0,,,,0
+1078597800,Waalwijk,Ajax,YsXoN1Be,bZZPiwAI,0,1,,,,0
+1078597800,Roda,Zwolle,pWP3d9yH,vFbzuVd5,1,1,,,,0
+1078597800,Den Haag,AZ Alkmaar,vuxu3x67,4vob7cTR,2,3,,,,0
+1078599600,Nijmegen,Roosendaal,4vob7cTR,n7dWR5qB,1,2,,,,0
+1078659000,Utrecht,PSV,4vob7cTR,j5zA1baQ,0,4,,,,0
+1078666200,Feyenoord,Heerenveen,Wz6bfhxO,4vob7cTR,2,2,,,,0
+1078666200,FC Volendam,Vitesse,WYtEUtB2,hxcLpNd6,0,0,,,,0
+1079118000,Twente,Nijmegen,4vob7cTR,4vob7cTR,2,5,,,,0
+1079202600,Roosendaal,Groningen,n7dWR5qB,E5fitKGe,1,0,,,,0
+1079202600,NAC Breda,Zwolle,voRxy8ml,vFbzuVd5,3,1,,,,0
+1079202600,Heerenveen,FC Volendam,4vob7cTR,WYtEUtB2,2,1,,,,0
+1079263800,PSV,Feyenoord,j5zA1baQ,Wz6bfhxO,0,1,,,,0
+1079263800,AZ Alkmaar,Utrecht,4vob7cTR,4vob7cTR,1,2,,,,0
+1079271000,Waalwijk,Willem II,YsXoN1Be,WQMFphXe,1,1,,,,0
+1079271000,Vitesse,Den Haag,hxcLpNd6,vuxu3x67,1,0,,,,0
+1079271000,Ajax,Roda,bZZPiwAI,pWP3d9yH,4,2,,,,0
+1079721000,Groningen,Heerenveen,E5fitKGe,4vob7cTR,0,0,,,,0
+1079807400,Zwolle,FC Volendam,vFbzuVd5,WYtEUtB2,3,0,,,,0
+1079807400,Roda,Willem II,pWP3d9yH,WQMFphXe,6,1,,,,0
+1079807400,PSV,NAC Breda,j5zA1baQ,voRxy8ml,1,1,,,,0
+1079809200,Nijmegen,AZ Alkmaar,4vob7cTR,4vob7cTR,0,2,,,,0
+1079868600,Feyenoord,Waalwijk,Wz6bfhxO,YsXoN1Be,1,0,,,,0
+1079875800,Utrecht,Twente,4vob7cTR,4vob7cTR,2,0,,,,0
+1079875800,Roosendaal,Den Haag,n7dWR5qB,vuxu3x67,0,0,,,,0
+1079875800,Ajax,Vitesse,bZZPiwAI,hxcLpNd6,5,0,,,,0
+1080327600,Den Haag,Zwolle,vuxu3x67,vFbzuVd5,1,1,,,,0
+1080412200,NAC Breda,Nijmegen,voRxy8ml,4vob7cTR,5,2,,,,0
+1080412200,Heerenveen,Roosendaal,4vob7cTR,n7dWR5qB,1,0,,,,0
+1080414000,Vitesse,Waalwijk,hxcLpNd6,YsXoN1Be,3,3,,,,0
+1080469800,FC Volendam,Utrecht,WYtEUtB2,4vob7cTR,1,2,,,,0
+1080469800,AZ Alkmaar,Ajax,4vob7cTR,bZZPiwAI,1,1,,,,0
+1080477000,Willem II,PSV,WQMFphXe,j5zA1baQ,3,1,,,,0
+1080477000,Groningen,Twente,E5fitKGe,4vob7cTR,1,0,,,,0
+1080477000,Feyenoord,Roda,Wz6bfhxO,pWP3d9yH,3,0,,,,0
+1080928800,Nijmegen,Willem II,4vob7cTR,WQMFphXe,4,0,,,,0
+1081013400,Waalwijk,PSV,YsXoN1Be,j5zA1baQ,0,4,,,,0
+1081013400,Roosendaal,Zwolle,n7dWR5qB,vFbzuVd5,1,1,,,,0
+1081013400,Roda,Heerenveen,pWP3d9yH,4vob7cTR,0,1,,,,0
+1081015200,Twente,FC Volendam,4vob7cTR,WYtEUtB2,1,2,,,,0
+1081015200,AZ Alkmaar,Vitesse,4vob7cTR,hxcLpNd6,2,1,,,,0
+1081074600,NAC Breda,Feyenoord,voRxy8ml,Wz6bfhxO,0,3,,,,0
+1081076400,Utrecht,Den Haag,4vob7cTR,vuxu3x67,5,3,,,,0
+1081081800,Ajax,Groningen,bZZPiwAI,E5fitKGe,2,1,,,,0
+1081533600,Roda,Nijmegen,pWP3d9yH,4vob7cTR,4,0,,,,0
+1081618200,Zwolle,AZ Alkmaar,vFbzuVd5,4vob7cTR,2,0,,,,0
+1081618200,Heerenveen,Utrecht,4vob7cTR,4vob7cTR,4,0,,,,0
+1081618200,Den Haag,Waalwijk,vuxu3x67,YsXoN1Be,1,3,,,,0
+1081620000,FC Volendam,Willem II,WYtEUtB2,WQMFphXe,0,1,,,,0
+1081679400,Feyenoord,Ajax,Wz6bfhxO,bZZPiwAI,1,1,,,,0
+1081686600,Vitesse,NAC Breda,hxcLpNd6,voRxy8ml,2,2,,,,0
+1081686600,Roosendaal,Twente,n7dWR5qB,4vob7cTR,1,2,,,,0
+1081686600,PSV,Groningen,j5zA1baQ,E5fitKGe,5,0,,,,0
+1082138400,Willem II,Vitesse,WQMFphXe,hxcLpNd6,1,1,,,,0
+1082223000,Zwolle,Heerenveen,vFbzuVd5,4vob7cTR,1,0,,,,0
+1082223000,PSV,Nijmegen,j5zA1baQ,4vob7cTR,3,0,,,,0
+1082223000,Den Haag,Twente,vuxu3x67,4vob7cTR,1,0,,,,0
+1082224800,Waalwijk,Roda,YsXoN1Be,pWP3d9yH,1,1,,,,0
+1082284200,Utrecht,Feyenoord,4vob7cTR,Wz6bfhxO,0,3,,,,0
+1082291400,Groningen,AZ Alkmaar,E5fitKGe,4vob7cTR,1,1,,,,0
+1082291400,FC Volendam,NAC Breda,WYtEUtB2,voRxy8ml,4,2,,,,0
+1082291400,Ajax,Roosendaal,bZZPiwAI,n7dWR5qB,1,1,,,,0
+1082743200,Roda,Utrecht,pWP3d9yH,4vob7cTR,1,1,,,,0
+1082827800,Roosendaal,PSV,n7dWR5qB,j5zA1baQ,0,3,,,,0
+1082827800,Heerenveen,Vitesse,4vob7cTR,hxcLpNd6,0,0,,,,0
+1082829600,Twente,Willem II,4vob7cTR,WQMFphXe,2,0,,,,0
+1082829600,AZ Alkmaar,Waalwijk,4vob7cTR,YsXoN1Be,7,0,,,,0
+1082896200,Nijmegen,Ajax,4vob7cTR,bZZPiwAI,0,0,,,,0
+1082896200,NAC Breda,Den Haag,voRxy8ml,vuxu3x67,1,0,,,,0
+1082896200,Groningen,Zwolle,E5fitKGe,vFbzuVd5,2,2,,,,0
+1082896200,Feyenoord,FC Volendam,Wz6bfhxO,WYtEUtB2,2,0,,,,0
+1083432600,Willem II,Roosendaal,WQMFphXe,n7dWR5qB,3,0,,,,0
+1083432600,Den Haag,Heerenveen,vuxu3x67,4vob7cTR,1,0,,,,0
+1083434400,Twente,Roda,4vob7cTR,pWP3d9yH,1,2,,,,0
+1083434400,AZ Alkmaar,NAC Breda,4vob7cTR,voRxy8ml,2,2,,,,0
+1083501000,Zwolle,Ajax,vFbzuVd5,bZZPiwAI,0,5,,,,0
+1083501000,Waalwijk,Utrecht,YsXoN1Be,4vob7cTR,1,0,,,,0
+1083501000,Vitesse,Nijmegen,hxcLpNd6,4vob7cTR,2,2,,,,0
+1083501000,Feyenoord,Groningen,Wz6bfhxO,E5fitKGe,1,2,,,,0
+1083501000,FC Volendam,PSV,WYtEUtB2,j5zA1baQ,0,5,,,,0
+1084105800,Zwolle,Willem II,vFbzuVd5,WQMFphXe,0,0,,,,0
+1084105800,Waalwijk,Twente,YsXoN1Be,4vob7cTR,3,3,,,,0
+1084105800,Utrecht,Groningen,4vob7cTR,E5fitKGe,2,0,,,,0
+1084105800,Roosendaal,Feyenoord,n7dWR5qB,Wz6bfhxO,1,4,,,,0
+1084105800,Roda,Vitesse,pWP3d9yH,hxcLpNd6,2,0,,,,0
+1084105800,PSV,Den Haag,j5zA1baQ,vuxu3x67,3,2,,,,0
+1084105800,Nijmegen,FC Volendam,4vob7cTR,WYtEUtB2,1,1,,,,0
+1084105800,Heerenveen,AZ Alkmaar,4vob7cTR,4vob7cTR,1,0,,,,0
+1084105800,Ajax,NAC Breda,bZZPiwAI,voRxy8ml,2,0,,,,0
+1084710600,Willem II,Ajax,WQMFphXe,bZZPiwAI,2,5,,,,0
+1084710600,Vitesse,Utrecht,hxcLpNd6,4vob7cTR,3,0,,,,0
+1084710600,Twente,Heerenveen,4vob7cTR,4vob7cTR,2,0,,,,0
+1084710600,NAC Breda,Waalwijk,voRxy8ml,YsXoN1Be,5,3,,,,0
+1084710600,Groningen,Roda,E5fitKGe,pWP3d9yH,2,2,,,,0
+1084710600,Feyenoord,Zwolle,Wz6bfhxO,vFbzuVd5,7,1,,,,0
+1084710600,FC Volendam,Roosendaal,WYtEUtB2,n7dWR5qB,2,1,,,,0
+1084710600,Den Haag,Nijmegen,vuxu3x67,4vob7cTR,4,1,,,,0
+1084710600,AZ Alkmaar,PSV,4vob7cTR,j5zA1baQ,2,4,,,,0
+1084989600,Venlo,Helmond,vuxu3x67,0xgNcJ5q,6,0,,,,0
+1084989600,Sparta Rotterdam,Vitesse,rTjpk23j,hxcLpNd6,1,3,,,,0
+1084989600,Heracles,FC Volendam,vuxu3x67,WYtEUtB2,4,0,,,,0
+1084989600,De Graafschap,Excelsior,ObzPyqoA,GOuuvzfL,0,0,,,,0
+1085247000,Helmond,Sparta Rotterdam,0xgNcJ5q,rTjpk23j,2,2,,,,0
+1085247000,FC Volendam,De Graafschap,WYtEUtB2,ObzPyqoA,0,1,,,,0
+1085247000,Excelsior,Heracles,GOuuvzfL,vuxu3x67,0,1,,,,0
+1085248800,Vitesse,Venlo,hxcLpNd6,vuxu3x67,5,0,,,,0
+1085508000,Venlo,Sparta Rotterdam,vuxu3x67,rTjpk23j,0,2,,,,0
+1085508000,Heracles,De Graafschap,vuxu3x67,ObzPyqoA,2,0,,,,0
+1085508000,Helmond,Vitesse,0xgNcJ5q,hxcLpNd6,2,2,,,,0
+1085508000,Excelsior,FC Volendam,GOuuvzfL,WYtEUtB2,2,1,,,,0
+1085767200,Vitesse,Helmond,hxcLpNd6,0xgNcJ5q,1,0,,,,0
+1085767200,Sparta Rotterdam,Venlo,rTjpk23j,vuxu3x67,1,1,,,,0
+1085767200,FC Volendam,Excelsior,WYtEUtB2,GOuuvzfL,1,2,,,,0
+1085767200,De Graafschap,Heracles,ObzPyqoA,vuxu3x67,2,0,,,,0
+1086006600,Venlo,Vitesse,vuxu3x67,hxcLpNd6,1,1,,,,0
+1086006600,Sparta Rotterdam,Helmond,rTjpk23j,0xgNcJ5q,2,2,,,,0
+1086019200,Heracles,Excelsior,vuxu3x67,GOuuvzfL,2,2,,,,0
+1086019200,De Graafschap,FC Volendam,ObzPyqoA,WYtEUtB2,4,0,,,,0
+1086285600,Vitesse,Sparta Rotterdam,hxcLpNd6,rTjpk23j,2,0,,,,0
+1086285600,Helmond,Venlo,0xgNcJ5q,vuxu3x67,1,3,,,,0
+1086285600,FC Volendam,Heracles,WYtEUtB2,vuxu3x67,2,2,,,,0
+1086285600,Excelsior,De Graafschap,GOuuvzfL,ObzPyqoA,2,3,,,,0

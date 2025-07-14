@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1527181200,Siauliai FA,Suduva,0,7,,,,0
-1527262200,Marijampole City,FC Pakruojis,1,1,AET,1,2,0
-1527264000,Elektrenu Versme,Tera Vilnius,3,1,,,,0
-1527328800,Sakuona Plikiai,Nevezis Kedainiai,1,5,,,,0
-1527339600,Babrungas,Sveikata,5,3,,,,0
-1527346800,Viltis Vilnius,Utenis,1,0,,,,0
-1527346800,Kedainiai,Stumbras,0,6,,,,0
-1527346800,FK Minija,Zalgiris,0,3,,,,0
-1527350400,Vilniaus Vytis,Atlantas,1,7,,,,0
-1527433200,Pramogos Gargzdu,Banga,1,2,,,,0
-1527433200,FK Panevezys,Palanga,0,0,Pen,0,1,0
-1527436800,Hegelmann,Kupiskis,0,1,,,,0
-1527438600,Panerys,Riteriai,0,1,,,,0
-1527440400,TOP Kickers,Kauno Zalgiris,2,7,,,,0
-1527519600,Saulininkas Siauliai,Jonava,2,11,,,,0
-1527519600,Saned J.,Dainava Alytus,0,9,,,,0
-1529748000,Riteriai,Suduva,0,3,,,,0
-1529748000,Kupiskis,Kauno Zalgiris,1,7,,,,0
-1529834400,Nevezis Kedainiai,Palanga,0,4,,,,0
-1530352800,Banga,FC Pakruojis,1,0,,,,0
-1530439200,Jonava,Zalgiris,0,5,,,,0
-1530439200,Elektrenu Versme,Dainava Alytus,0,10,,,,0
-1530439200,Babrungas,Viltis Vilnius,2,3,,,,0
-1533661200,Atlantas,Stumbras,1,3,,,,0
-1535731200,Banga,Dainava Alytus,1,2,,,,0
-1535796000,Viltis Vilnius,Stumbras,0,3,,,,0
-1535882400,Suduva,Zalgiris,1,4,,,,0
-1535905800,Kauno Zalgiris,Palanga,2,0,,,,0
-1537005600,Kauno Zalgiris,Zalgiris,0,3,,,,0
-1537092000,Dainava Alytus,Stumbras,0,4,,,,0
-1538301600,Stumbras,Zalgiris,0,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1527181200,Siauliai FA,Suduva,8j4GrWnF,zeD1tvmN,0,7,,,,0
+1527262200,Marijampole City,FC Pakruojis,OU4xNqTS,j9CS1PVT,1,1,AET,1,2,0
+1527264000,Elektrenu Versme,Tera Vilnius,tKrV0k4J,pU2mHM9O,3,1,,,,0
+1527328800,Sakuona Plikiai,Nevezis Kedainiai,j7TZK9GP,xlaz5QOI,1,5,,,,0
+1527339600,Babrungas,Sveikata,AkoReUjd,2wXXcSAf,5,3,,,,0
+1527346800,Viltis Vilnius,Utenis,zJTyhWme,GIIj2pH0,1,0,,,,0
+1527346800,Kedainiai,Stumbras,GAh9aquU,Yg3Qwrxa,0,6,,,,0
+1527346800,FK Minija,Zalgiris,tp21ECEq,CK4bnx4C,0,3,,,,0
+1527350400,Vilniaus Vytis,Atlantas,nZzLtO34,tGWvEQkr,1,7,,,,0
+1527433200,Pramogos Gargzdu,Banga,SvZDxLfK,tGWvEQkr,1,2,,,,0
+1527433200,FK Panevezys,Palanga,OlLDanjn,4vkZ9lY0,0,0,Pen,0,1,0
+1527436800,Hegelmann,Kupiskis,x6Y6RKeG,lvuVU66n,0,1,,,,0
+1527438600,Panerys,Riteriai,GMzRWDQB,jJXyKvW1,0,1,,,,0
+1527440400,TOP Kickers,Kauno Zalgiris,,hjhLeNs8,2,7,,,,0
+1527519600,Saulininkas Siauliai,Jonava,fHFRGjWS,2PkRYezG,2,11,,,,0
+1527519600,Saned J.,Dainava Alytus,ltW8vcQ7,x28DBGvr,0,9,,,,0
+1529748000,Riteriai,Suduva,jJXyKvW1,zeD1tvmN,0,3,,,,0
+1529748000,Kupiskis,Kauno Zalgiris,lvuVU66n,hjhLeNs8,1,7,,,,0
+1529834400,Nevezis Kedainiai,Palanga,xlaz5QOI,4vkZ9lY0,0,4,,,,0
+1530352800,Banga,FC Pakruojis,tGWvEQkr,j9CS1PVT,1,0,,,,0
+1530439200,Jonava,Zalgiris,2PkRYezG,CK4bnx4C,0,5,,,,0
+1530439200,Elektrenu Versme,Dainava Alytus,tKrV0k4J,x28DBGvr,0,10,,,,0
+1530439200,Babrungas,Viltis Vilnius,AkoReUjd,zJTyhWme,2,3,,,,0
+1533661200,Atlantas,Stumbras,tGWvEQkr,Yg3Qwrxa,1,3,,,,0
+1535731200,Banga,Dainava Alytus,tGWvEQkr,x28DBGvr,1,2,,,,0
+1535796000,Viltis Vilnius,Stumbras,zJTyhWme,Yg3Qwrxa,0,3,,,,0
+1535882400,Suduva,Zalgiris,zeD1tvmN,CK4bnx4C,1,4,,,,0
+1535905800,Kauno Zalgiris,Palanga,hjhLeNs8,4vkZ9lY0,2,0,,,,0
+1537005600,Kauno Zalgiris,Zalgiris,hjhLeNs8,CK4bnx4C,0,3,,,,0
+1537092000,Dainava Alytus,Stumbras,x28DBGvr,Yg3Qwrxa,0,4,,,,0
+1538301600,Stumbras,Zalgiris,Yg3Qwrxa,CK4bnx4C,0,3,,,,0

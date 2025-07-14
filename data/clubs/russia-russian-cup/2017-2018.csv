@@ -1,85 +1,85 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1500807600,Znamya Truda,Murom,1,1,Pen,2,1,0
-1500811200,Metallurg Asha,Zenit-Izhevsk,1,1,AET,1,3,0
-1500811200,Krasnogorsk,Ryazan,2,0,,,,0
-1500814800,Syzran,Delin Izhevsk,4,2,,,,0
-1500814800,S. Kostroma,Tekstilshtik,1,5,,,,0
-1500814800,Pskov 747,Zvezda St. Peterburg,2,0,,,,0
-1500814800,Olimp-Dolgoprudny,Ararat Moscow,1,3,,,,0
-1500814800,Kamaz,Ulyanovsk,1,1,AET,1,2,0
-1500814800,D. Bryansk,Dnepr Smolensk,2,1,,,,0
-1500818400,Veles Moscow,Torpedo Moscow,0,1,,,,0
-1500818400,Kolomna,Saturn Ramenskoye,0,1,,,,0
-1500818400,Khimik-Arsenal,Kaluga,0,3,,,,0
-1500818400,Chertanovo M.,FK Strogino Moscow,2,1,,,,0
-1500820200,Lada Togliatti,Saratov,1,3,,,,0
-1500825600,Energomash Belgorod,Lipetsk,1,0,,,,0
-1500886800,Belogorsk,Smena Komsomolsk,0,2,,,,0
-1500904800,SKA Rostov,Armavir,0,5,,,,0
-1500904800,FK Chayka,Afips,0,1,,,,0
-1500904800,Angust Nazran,Legion Makhachkala,2,0,,,,0
-1500906600,R. Volgograd 2,Dynamo Stavropol,0,1,,,,0
-1500908400,Maykop,Chernomorets Novorossijsk,2,4,,,,0
-1500910200,Spartak Nalchik,Mashuk,1,0,,,,0
-1500912000,D. Kostroma,Vladimir,2,3,,,,0
-1501574400,Smena Komsomolsk,Sakhalin,1,0,,,,0
-1501581600,Zenit Irkutsk,Chita,1,5,,,,0
-1501588800,Omsk,Dynamo Barnaul,3,2,,,,0
-1502114400,Znamya Truda,Krasnogorsk,2,1,,,,0
-1502114400,Ulyanovsk,Syzran,0,0,Pen,1,2,0
-1502118000,Saratov,Zenit-Izhevsk,1,1,Pen,3,2,0
-1502118000,Kaluga,Energomash Belgorod,1,2,,,,0
-1502119800,Torpedo Moscow,Chertanovo M.,1,2,,,,0
-1502119800,Tekstilshtik,Vladimir,0,0,Pen,0,1,0
-1502119800,D. Bryansk,Pskov 747,2,0,,,,0
-1502121600,Ararat Moscow,Saturn Ramenskoye,1,0,,,,0
-1502200800,Angust Nazran,Spartak Nalchik,2,2,AET,2,3,0
-1502208000,Chernomorets Novorossijsk,Afips,0,0,AET,2,0,0
-1502208000,Armavir,Dynamo Stavropol,4,0,,,,0
-1503480600,Chita,Yenisey,1,1,Pen,1,2,0
-1503487800,Omsk,Tomsk,0,4,,,,0
-1503495000,Znamya Truda,Fakel Voronezh,0,1,,,,0
-1503496800,Tyumen,Sibir Novosibirsk,2,1,,,,0
-1503496800,Chertanovo M.,Dynamo Petersburg,0,2,,,,0
-1503500400,Syzran,Krylya Sovetov,0,2,,,,0
-1503500400,Saratov,Orenburg,1,3,,,,0
-1503500400,R. Volgograd,Volgar-Astrakhan,0,2,,,,0
-1503502200,Vladimir,Pari NN,0,1,,,,0
-1503502200,Spartak Nalchik,Chernomorets Novorossijsk,0,0,Pen,2,1,0
-1503502200,D. Bryansk,Kursk,0,1,,,,0
-1503504000,Khimki,Shinnik Yaroslavl,0,2,,,,0
-1503504000,Energomash Belgorod,Tambov,0,1,,,,0
-1503504000,Armavir,Kuban,0,0,Pen,0,1,0
-1503504000,Ararat Moscow,Baltika,2,1,,,,0
-1503559800,Smena Komsomolsk,Luch,0,0,Pen,0,1,0
-1505898000,Luch,FK Anzi Makhackala,2,0,,,,0
-1505908800,Tomsk,Krasnodar,2,1,,,,0
-1505908800,Tambov,Arsenal Tula,1,0,,,,0
-1505908800,Shinnik Yaroslavl,Ural,3,0,,,,0
-1505908800,Orenburg,Rubin Kazan,0,2,,,,0
-1505916000,Tyumen,Tosno,1,2,,,,0
-1505916000,Kursk,CSKA Moscow,0,0,AET,1,0,0
-1505919600,Volgar-Astrakhan,FK Rostov,0,2,,,,0
-1505921400,Spartak Nalchik,Dynamo Moscow,0,0,Pen,1,0,0
-1505923200,Kuban,Spartak Moscow,0,2,,,,0
-1505995200,Yenisey,Akhmat Grozny,3,0,,,,0
-1506006000,Pari NN,Ufa,1,1,Pen,2,1,0
-1506007800,Krylya Sovetov,Lokomotiv Moscow,2,2,AET,3,2,0
-1506009600,Fakel Voronezh,Amkar,0,4,,,,0
-1506009600,Ararat Moscow,SKA Khabarovsk,1,2,,,,0
-1506013200,Dynamo Petersburg,Zenit,2,2,AET,3,2,0
-1508920200,SKA Khabarovsk,Dynamo Petersburg,2,0,,,,0
-1508922000,Luch,Yenisey,2,1,,,,0
-1508929200,Tambov,Kursk,0,2,,,,0
-1508932800,Shinnik Yaroslavl,Pari NN,4,0,,,,0
-1508945400,FK Rostov,Amkar,1,1,Pen,1,2,0
-1508947200,Tosno,Tomsk,0,0,Pen,1,0,0
-1508947200,Spartak Moscow,Spartak Nalchik,5,2,,,,0
-1508947200,Rubin Kazan,Krylya Sovetov,1,2,,,,0
-1519720200,SKA Khabarovsk,Shinnik Yaroslavl,0,0,Pen,0,1,0
-1519741800,Amkar,Kursk,0,0,Pen,0,1,0
-1519835400,Tosno,Luch,2,1,,,,0
-1522852200,Krylya Sovetov,Spartak Moscow,1,3,,,,0
-1524063600,Kursk,Shinnik Yaroslavl,1,0,,,,0
-1524065400,Spartak Moscow,Tosno,1,1,Pen,1,2,0
-1525881600,Tosno,Kursk,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1500807600,Znamya Truda,Murom,EeydDXHB,2uKgVBuI,1,1,Pen,2,1,0
+1500811200,Metallurg Asha,Zenit-Izhevsk,,A3joVOhN,1,1,AET,1,3,0
+1500811200,Krasnogorsk,Ryazan,AqdzK8zB,Iax6Qj6I,2,0,,,,0
+1500814800,Syzran,Delin Izhevsk,rqBW81d5,nNITfKAf,4,2,,,,0
+1500814800,S. Kostroma,Tekstilshtik,vwkjP4tm,bkOy8IPC,1,5,,,,0
+1500814800,Pskov 747,Zvezda St. Peterburg,80No915r,WCisW4wH,2,0,,,,0
+1500814800,Olimp-Dolgoprudny,Ararat Moscow,S8nZZqsS,vunwx6xl,1,3,,,,0
+1500814800,Kamaz,Ulyanovsk,vD9TzUeh,EZFoiZCl,1,1,AET,1,2,0
+1500814800,D. Bryansk,Dnepr Smolensk,A3joVOhN,lM3xI7Ct,2,1,,,,0
+1500818400,Veles Moscow,Torpedo Moscow,zcKZKJda,UsdRiD7F,0,1,,,,0
+1500818400,Kolomna,Saturn Ramenskoye,Qw5ytOUI,f340SjwF,0,1,,,,0
+1500818400,Khimik-Arsenal,Kaluga,nPVlteN2,jDGhthUE,0,3,,,,0
+1500818400,Chertanovo M.,FK Strogino Moscow,4xQZ33gc,8rjTldt1,2,1,,,,0
+1500820200,Lada Togliatti,Saratov,tU1H0h7t,6RczGYa4,1,3,,,,0
+1500825600,Energomash Belgorod,Lipetsk,A594wNGf,OGmExzbe,1,0,,,,0
+1500886800,Belogorsk,Smena Komsomolsk,0l72fjM0,p0asEJaC,0,2,,,,0
+1500904800,SKA Rostov,Armavir,65SNKkFk,S25zpI5L,0,5,,,,0
+1500904800,FK Chayka,Afips,Qw5ytOUI,UDfbiAqs,0,1,,,,0
+1500904800,Angust Nazran,Legion Makhachkala,S25zpI5L,b5ttkWT0,2,0,,,,0
+1500906600,R. Volgograd 2,Dynamo Stavropol,OMxvPUat,OdcjwIfS,0,1,,,,0
+1500908400,Maykop,Chernomorets Novorossijsk,pQlAwGrk,YaM6mDZH,2,4,,,,0
+1500910200,Spartak Nalchik,Mashuk,2LTy0FL1,zkpd2YhL,1,0,,,,0
+1500912000,D. Kostroma,Vladimir,4fiu769b,bi3CgRMq,2,3,,,,0
+1501574400,Smena Komsomolsk,Sakhalin,p0asEJaC,A3joVOhN,1,0,,,,0
+1501581600,Zenit Irkutsk,Chita,E9UQzeRt,WYzdsnvi,1,5,,,,0
+1501588800,Omsk,Dynamo Barnaul,S25zpI5L,AL7Sovy9,3,2,,,,0
+1502114400,Znamya Truda,Krasnogorsk,EeydDXHB,AqdzK8zB,2,1,,,,0
+1502114400,Ulyanovsk,Syzran,EZFoiZCl,rqBW81d5,0,0,Pen,1,2,0
+1502118000,Saratov,Zenit-Izhevsk,6RczGYa4,A3joVOhN,1,1,Pen,3,2,0
+1502118000,Kaluga,Energomash Belgorod,jDGhthUE,A594wNGf,1,2,,,,0
+1502119800,Torpedo Moscow,Chertanovo M.,UsdRiD7F,4xQZ33gc,1,2,,,,0
+1502119800,Tekstilshtik,Vladimir,bkOy8IPC,bi3CgRMq,0,0,Pen,0,1,0
+1502119800,D. Bryansk,Pskov 747,A3joVOhN,80No915r,2,0,,,,0
+1502121600,Ararat Moscow,Saturn Ramenskoye,vunwx6xl,f340SjwF,1,0,,,,0
+1502200800,Angust Nazran,Spartak Nalchik,S25zpI5L,2LTy0FL1,2,2,AET,2,3,0
+1502208000,Chernomorets Novorossijsk,Afips,YaM6mDZH,UDfbiAqs,0,0,AET,2,0,0
+1502208000,Armavir,Dynamo Stavropol,S25zpI5L,OdcjwIfS,4,0,,,,0
+1503480600,Chita,Yenisey,WYzdsnvi,rXEsfrI0,1,1,Pen,1,2,0
+1503487800,Omsk,Tomsk,S25zpI5L,OUUX0e6e,0,4,,,,0
+1503495000,Znamya Truda,Fakel Voronezh,EeydDXHB,xS55LjqJ,0,1,,,,0
+1503496800,Tyumen,Sibir Novosibirsk,QFEqP0Qf,hKXB7z2J,2,1,,,,0
+1503496800,Chertanovo M.,Dynamo Petersburg,4xQZ33gc,6P03B6Y6,0,2,,,,0
+1503500400,Syzran,Krylya Sovetov,rqBW81d5,OUUX0e6e,0,2,,,,0
+1503500400,Saratov,Orenburg,6RczGYa4,2aQho05a,1,3,,,,0
+1503500400,R. Volgograd,Volgar-Astrakhan,2DyrOlFn,GzvdgzS5,0,2,,,,0
+1503502200,Vladimir,Pari NN,bi3CgRMq,vsiJUDoK,0,1,,,,0
+1503502200,Spartak Nalchik,Chernomorets Novorossijsk,2LTy0FL1,YaM6mDZH,0,0,Pen,2,1,0
+1503502200,D. Bryansk,Kursk,A3joVOhN,tboMzES7,0,1,,,,0
+1503504000,Khimki,Shinnik Yaroslavl,2LTy0FL1,rB3ucgaU,0,2,,,,0
+1503504000,Energomash Belgorod,Tambov,A594wNGf,rBP4Wuhs,0,1,,,,0
+1503504000,Armavir,Kuban,S25zpI5L,UB7Gfweh,0,0,Pen,0,1,0
+1503504000,Ararat Moscow,Baltika,vunwx6xl,xzIYVtuE,2,1,,,,0
+1503559800,Smena Komsomolsk,Luch,p0asEJaC,2LTy0FL1,0,0,Pen,0,1,0
+1505898000,Luch,FK Anzi Makhackala,2LTy0FL1,UZNHUPL0,2,0,,,,0
+1505908800,Tomsk,Krasnodar,OUUX0e6e,vTLj5hDm,2,1,,,,0
+1505908800,Tambov,Arsenal Tula,rBP4Wuhs,04cZ6kQB,1,0,,,,0
+1505908800,Shinnik Yaroslavl,Ural,rB3ucgaU,WCLHJNjM,3,0,,,,0
+1505908800,Orenburg,Rubin Kazan,2aQho05a,Cj3YnyW9,0,2,,,,0
+1505916000,Tyumen,Tosno,QFEqP0Qf,8zjihhYR,1,2,,,,0
+1505916000,Kursk,CSKA Moscow,tboMzES7,nHLPS3jD,0,0,AET,1,0,0
+1505919600,Volgar-Astrakhan,FK Rostov,GzvdgzS5,CpEF1IjD,0,2,,,,0
+1505921400,Spartak Nalchik,Dynamo Moscow,2LTy0FL1,WrST4g30,0,0,Pen,1,0,0
+1505923200,Kuban,Spartak Moscow,UB7Gfweh,jqo4GJye,0,2,,,,0
+1505995200,Yenisey,Akhmat Grozny,rXEsfrI0,pGHenz7m,3,0,,,,0
+1506006000,Pari NN,Ufa,vsiJUDoK,GYQf1EUi,1,1,Pen,2,1,0
+1506007800,Krylya Sovetov,Lokomotiv Moscow,OUUX0e6e,8QMLTqy7,2,2,AET,3,2,0
+1506009600,Fakel Voronezh,Amkar,xS55LjqJ,8GkSmkbF,0,4,,,,0
+1506009600,Ararat Moscow,SKA Khabarovsk,vunwx6xl,MFyKmVnp,1,2,,,,0
+1506013200,Dynamo Petersburg,Zenit,6P03B6Y6,QPqvtC2B,2,2,AET,3,2,0
+1508920200,SKA Khabarovsk,Dynamo Petersburg,MFyKmVnp,6P03B6Y6,2,0,,,,0
+1508922000,Luch,Yenisey,2LTy0FL1,rXEsfrI0,2,1,,,,0
+1508929200,Tambov,Kursk,rBP4Wuhs,tboMzES7,0,2,,,,0
+1508932800,Shinnik Yaroslavl,Pari NN,rB3ucgaU,vsiJUDoK,4,0,,,,0
+1508945400,FK Rostov,Amkar,CpEF1IjD,8GkSmkbF,1,1,Pen,1,2,0
+1508947200,Tosno,Tomsk,8zjihhYR,OUUX0e6e,0,0,Pen,1,0,0
+1508947200,Spartak Moscow,Spartak Nalchik,jqo4GJye,2LTy0FL1,5,2,,,,0
+1508947200,Rubin Kazan,Krylya Sovetov,Cj3YnyW9,OUUX0e6e,1,2,,,,0
+1519720200,SKA Khabarovsk,Shinnik Yaroslavl,MFyKmVnp,rB3ucgaU,0,0,Pen,0,1,0
+1519741800,Amkar,Kursk,8GkSmkbF,tboMzES7,0,0,Pen,0,1,0
+1519835400,Tosno,Luch,8zjihhYR,2LTy0FL1,2,1,,,,0
+1522852200,Krylya Sovetov,Spartak Moscow,OUUX0e6e,jqo4GJye,1,3,,,,0
+1524063600,Kursk,Shinnik Yaroslavl,tboMzES7,rB3ucgaU,1,0,,,,0
+1524065400,Spartak Moscow,Tosno,jqo4GJye,8zjihhYR,1,1,Pen,1,2,0
+1525881600,Tosno,Kursk,8zjihhYR,tboMzES7,2,1,,,,0

@@ -1,42 +1,42 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1032300000,Svendborg,Sonderjyske,2,6,,,,0
-1032300000,Snede,Kolding IF,0,1,,,,0
-1032300000,Prespa,Hvidovre IF,1,0,,,,0
-1032300000,Nykobing,Bronshoj,1,3,,,,0
-1032300000,Nordjylland,Vejle,2,3,,,,0
-1032300000,Niva-Kokkedal,B 1913,2,1,,,,0
-1032300000,Naesby,Skive,1,1,AET,1,2,0
-1032300000,Kalundborg GB,Naestved,2,3,,,,0
-1032300000,Holstebro,Horsens,2,0,,,,0
-1032300000,Bornholm,BK Frem,1,4,,,,0
-1032300000,B 1909,Skjold,1,1,AET,2,5,0
-1032300000,Aarhus Fremad,Vendsyssel,4,1,,,,0
-1032364800,Randers FC,Fredericia,3,0,,,,0
-1032386400,Lyngby,Herfolge,0,3,,,,0
-1032904800,Skjold,Randers FC,4,2,,,,0
-1032904800,Prespa,Skive,1,5,,,,0
-1032904800,Niva-Kokkedal,Naestved,1,5,,,,0
-1032904800,Kolding IF,Silkeborg,0,4,,,,0
-1032904800,Koge,Esbjerg,1,3,,,,0
-1032904800,Holstebro,Nordsjaelland,0,2,,,,0
-1032904800,Bronshoj,Herfolge,3,3,AET,3,4,0
-1032904800,Aarhus Fremad,BK Frem,2,1,,,,0
-1032969600,Vejle,Sonderjyske,1,0,,,,0
-1034703300,Viborg,Aarhus,3,0,,,,0
-1036585800,Skive,Nordsjaelland,0,2,,,,0
-1036605600,Skjold,Esbjerg,1,2,,,,0
-1036605600,Naestved,Vejle,1,1,AET,2,1,0
-1036605600,Herfolge,FC Copenhagen,0,2,,,,0
-1036605600,AB Copenhagen,Midtjylland,1,2,,,,0
-1036605600,Aalborg,Silkeborg,3,0,,,,0
-1036609500,Brondby,Odense,1,1,Pen,2,1,0
-1037190600,Aarhus Fremad,Viborg,0,3,,,,0
-1049904000,Naestved,Aalborg,1,4,,,,0
-1049907600,Viborg,Nordsjaelland,5,2,,,,0
-1049907600,Midtjylland,Esbjerg,3,1,,,,0
-1049907600,Brondby,FC Copenhagen,1,0,,,,0
-1051203600,Viborg,Midtjylland,0,0,,,,0
-1051203600,Brondby,Aalborg,1,0,,,,0
-1052411400,Aalborg,Brondby,1,3,,,,0
-1052417700,Midtjylland,Viborg,3,2,,,,0
-1054213200,Brondby,Midtjylland,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1032300000,Svendborg,Sonderjyske,tx8icCYQ,jTh33WB7,2,6,,,,0
+1032300000,Snede,Kolding IF,IkH0O9Ib,jolgOE7C,0,1,,,,0
+1032300000,Prespa,Hvidovre IF,zL8ZeC9q,UusW87Jh,1,0,,,,0
+1032300000,Nykobing,Bronshoj,xvj9SV6l,EN37tsj4,1,3,,,,0
+1032300000,Nordjylland,Vejle,zLzunNN3,lvRNDH7M,2,3,,,,0
+1032300000,Niva-Kokkedal,B 1913,xdFXDEFI,00iyKDPO,2,1,,,,0
+1032300000,Naesby,Skive,2BUJp8Jj,nBfONfwf,1,1,AET,1,2,0
+1032300000,Kalundborg GB,Naestved,foqyBu7l,4KznqEKQ,2,3,,,,0
+1032300000,Holstebro,Horsens,MkSbZgY3,hGuhahGg,2,0,,,,0
+1032300000,Bornholm,BK Frem,vTBifhrQ,2gi3wAla,1,4,,,,0
+1032300000,B 1909,Skjold,p2hGv6co,APuIT0Q8,1,1,AET,2,5,0
+1032300000,Aarhus Fremad,Vendsyssel,IDqsYBbo,OIhSqdR4,4,1,,,,0
+1032364800,Randers FC,Fredericia,SOY3p1Si,2BUJp8Jj,3,0,,,,0
+1032386400,Lyngby,Herfolge,j9C0y7Tm,SrqG8pyg,0,3,,,,0
+1032904800,Skjold,Randers FC,APuIT0Q8,SOY3p1Si,4,2,,,,0
+1032904800,Prespa,Skive,zL8ZeC9q,nBfONfwf,1,5,,,,0
+1032904800,Niva-Kokkedal,Naestved,xdFXDEFI,4KznqEKQ,1,5,,,,0
+1032904800,Kolding IF,Silkeborg,jolgOE7C,Wrzf6bGu,0,4,,,,0
+1032904800,Koge,Esbjerg,dMuamJsA,82YZVz8L,1,3,,,,0
+1032904800,Holstebro,Nordsjaelland,MkSbZgY3,2g7AFAbb,0,2,,,,0
+1032904800,Bronshoj,Herfolge,EN37tsj4,SrqG8pyg,3,3,AET,3,4,0
+1032904800,Aarhus Fremad,BK Frem,IDqsYBbo,2gi3wAla,2,1,,,,0
+1032969600,Vejle,Sonderjyske,lvRNDH7M,jTh33WB7,1,0,,,,0
+1034703300,Viborg,Aarhus,fevSzE3L,hGuhahGg,3,0,,,,0
+1036585800,Skive,Nordsjaelland,nBfONfwf,2g7AFAbb,0,2,,,,0
+1036605600,Skjold,Esbjerg,APuIT0Q8,82YZVz8L,1,2,,,,0
+1036605600,Naestved,Vejle,4KznqEKQ,lvRNDH7M,1,1,AET,2,1,0
+1036605600,Herfolge,FC Copenhagen,SrqG8pyg,xv6lkb7q,0,2,,,,0
+1036605600,AB Copenhagen,Midtjylland,KYJ6FHSq,nw9UOsY3,1,2,,,,0
+1036605600,Aalborg,Silkeborg,jDG0G1yS,Wrzf6bGu,3,0,,,,0
+1036609500,Brondby,Odense,YPeI5fwQ,xv6lkb7q,1,1,Pen,2,1,0
+1037190600,Aarhus Fremad,Viborg,IDqsYBbo,fevSzE3L,0,3,,,,0
+1049904000,Naestved,Aalborg,4KznqEKQ,jDG0G1yS,1,4,,,,0
+1049907600,Viborg,Nordsjaelland,fevSzE3L,2g7AFAbb,5,2,,,,0
+1049907600,Midtjylland,Esbjerg,nw9UOsY3,82YZVz8L,3,1,,,,0
+1049907600,Brondby,FC Copenhagen,YPeI5fwQ,xv6lkb7q,1,0,,,,0
+1051203600,Viborg,Midtjylland,fevSzE3L,nw9UOsY3,0,0,,,,0
+1051203600,Brondby,Aalborg,YPeI5fwQ,jDG0G1yS,1,0,,,,0
+1052411400,Aalborg,Brondby,jDG0G1yS,YPeI5fwQ,1,3,,,,0
+1052417700,Midtjylland,Viborg,nw9UOsY3,fevSzE3L,3,2,,,,0
+1054213200,Brondby,Midtjylland,YPeI5fwQ,nw9UOsY3,3,0,,,,0

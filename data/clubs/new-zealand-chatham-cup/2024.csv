@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1720162800,Ferrymead Bays,Coastal Spirit,2,2,AET,3,5,0
-1720227600,Cambridge,Auckland City,1,4,,,,0
-1720231200,Wellington Olympic,Stop Out,8,0,,,,0
-1720231200,Melville,Hibiscus Coast,0,1,,,,0
-1720231200,Manurewa,Onehunga Mangere,2,2,AET,3,2,0
-1720243800,Western Springs,Birkenhead,2,2,Pen,3,4,0
-1720317600,Otago University,Dunedin City Royals,3,2,,,,0
-1720317600,Napier City,Miramar,2,1,,,,0
-1722045600,Wellington Olympic,Manurewa,4,0,,,,0
-1722045600,Hibiscus Coast,Coastal Spirit,2,2,Pen,3,4,0
-1722060000,Otago University,Auckland City,1,5,,,,0
-1722132000,Napier City,Birkenhead,1,2,,,,0
-1723942800,Coastal Spirit,Wellington Olympic,1,5,,,,0
-1723946400,Auckland City,Birkenhead,2,2,AET,4,2,0
-1725692400,Wellington Olympic,Auckland City,1,1,Pen,2,1,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1720162800,Ferrymead Bays,Coastal Spirit,G8kbEr7I,0rWLehDC,2,2,AET,3,5,0
+1720227600,Cambridge,Auckland City,h0Zi5l07,E7VNOejE,1,4,,,,0
+1720231200,Wellington Olympic,Stop Out,SQPHwrbB,SO4QWJV6,8,0,,,,0
+1720231200,Melville,Hibiscus Coast,Ymd6OyQ8,zwrfKm3n,0,1,,,,0
+1720231200,Manurewa,Onehunga Mangere,jHl4jKAN,KMuoVvih,2,2,AET,3,2,0
+1720243800,Western Springs,Birkenhead,21FNgQUq,fcc2PHA2,2,2,Pen,3,4,0
+1720317600,Otago University,Dunedin City Royals,8OwXLcp1,jRJOWZFG,3,2,,,,0
+1720317600,Napier City,Miramar,fcc2PHA2,fcc2PHA2,2,1,,,,0
+1722045600,Wellington Olympic,Manurewa,SQPHwrbB,jHl4jKAN,4,0,,,,0
+1722045600,Hibiscus Coast,Coastal Spirit,zwrfKm3n,0rWLehDC,2,2,Pen,3,4,0
+1722060000,Otago University,Auckland City,8OwXLcp1,E7VNOejE,1,5,,,,0
+1722132000,Napier City,Birkenhead,fcc2PHA2,fcc2PHA2,1,2,,,,0
+1723942800,Coastal Spirit,Wellington Olympic,0rWLehDC,SQPHwrbB,1,5,,,,0
+1723946400,Auckland City,Birkenhead,E7VNOejE,fcc2PHA2,2,2,AET,4,2,0
+1725692400,Wellington Olympic,Auckland City,SQPHwrbB,E7VNOejE,1,1,Pen,2,1,1

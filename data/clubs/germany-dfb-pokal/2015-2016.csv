@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1438966800,Erndtebruck,Darmstadt,0,5,,,,0
-1438966800,BFC Dynamo,FSV Frankfurt,0,2,,,,0
-1438970400,Elversberg,Augsburg,1,1,AET,1,3,0
-1439040600,Wurzburger Kickers,Werder Bremen,0,0,AET,0,2,0
-1439040600,Viktoria Koln,Union Berlin,2,1,,,,0
-1439040600,Stutt. Kickers,Wolfsburg,1,4,,,,0
-1439040600,Meppen,FC Koln,0,4,,,,0
-1439040600,Lotte,Bayer Leverkusen,0,3,,,,0
-1439040600,Hallescher,Braunschweig,0,1,,,,0
-1439040600,Duisburg,Schalke,0,5,,,,0
-1439040600,Bremer,Eintracht Frankfurt,0,3,,,,0
-1439040600,Aue,Greuther Furth,1,0,,,,0
-1439049600,Munich 1860,Hoffenheim,2,0,,,,0
-1439058600,Reutlingen,Karlsruher SC,3,1,,,,0
-1439058600,Holstein Kiel,Stuttgart,1,2,,,,0
-1439123400,Salmrohr,Bochum,0,5,,,,0
-1439123400,Jena,Hamburger SV,2,2,AET,3,2,0
-1439123400,Chemnitzer,Dortmund,0,2,,,,0
-1439123400,Barmbek-Uhlenhorst,Freiburg,0,5,,,,0
-1439123400,Bahlinger,Sandhausen,0,0,Pen,0,1,0
-1439128800,Unterhaching,Ingolstadt,2,1,,,,0
-1439128800,RW Essen,Dusseldorf,0,0,Pen,0,1,0
-1439128800,Pirmasens,Heidenheim,1,4,,,,0
-1439128800,Nottingen,Bayern Munich,1,3,,,,0
-1439128800,Lubeck,Paderborn,1,2,,,,0
-1439137800,Kassel,Hannover,0,2,,,,0
-1439137800,Hansa Rostock,Kaiserslautern,0,0,Pen,0,1,0
-1439145000,Cottbus,Mainz,0,3,,,,0
-1439224200,VfL Osnabruck,RB Leipzig,0,2,Awrd,,,0
-1439224200,Arminia Bielefeld,Hertha Berlin,0,2,,,,0
-1439224200,Aalen,Nurnberg,0,0,Pen,0,1,0
-1439231400,St. Pauli,B. Monchengladbach,1,4,,,,0
-1445968800,Nurnberg,Dusseldorf,5,1,,,,0
-1445968800,Mainz,Munich 1860,1,2,,,,0
-1445968800,FSV Frankfurt,Hertha Berlin,1,1,AET,1,2,0
-1445968800,Aue,Eintracht Frankfurt,1,0,,,,0
-1445974200,Wolfsburg,Bayern Munich,1,3,,,,0
-1445974200,Unterhaching,RB Leipzig,3,0,,,,0
-1445974200,Darmstadt,Hannover,2,1,,,,0
-1445974200,Bochum,Kaiserslautern,1,0,,,,0
-1446055200,Viktoria Koln,Bayer Leverkusen,0,6,,,,0
-1446055200,Sandhausen,Heidenheim,0,0,Pen,0,1,0
-1446055200,Freiburg,Augsburg,0,3,,,,0
-1446055200,Dortmund,Paderborn,7,1,,,,0
-1446060600,Werder Bremen,FC Koln,1,0,,,,0
-1446060600,Schalke,B. Monchengladbach,0,2,,,,0
-1446060600,Reutlingen,Braunschweig,0,4,,,,0
-1446060600,Jena,Stuttgart,0,2,,,,0
-1450202400,Unterhaching,Bayer Leverkusen,1,3,,,,0
-1450202400,B. Monchengladbach,Werder Bremen,3,4,,,,0
-1450207800,Bayern Munich,Darmstadt,1,0,,,,0
-1450207800,Aue,Heidenheim,0,2,,,,0
-1450288800,Stuttgart,Braunschweig,1,1,AET,3,2,0
-1450288800,Nurnberg,Hertha Berlin,0,2,,,,0
-1450294200,Munich 1860,Bochum,0,2,,,,0
-1450294200,Augsburg,Dortmund,0,2,,,,0
-1455040800,Bayer Leverkusen,Werder Bremen,1,3,,,,0
-1455046200,Stuttgart,Dortmund,1,3,,,,0
-1455127200,Heidenheim,Hertha Berlin,2,3,,,,0
-1455132600,Bochum,Bayern Munich,0,3,,,,0
-1461090600,Bayern Munich,Werder Bremen,2,0,,,,0
-1461177000,Hertha Berlin,Dortmund,0,3,,,,0
-1463853600,Bayern Munich,Dortmund,0,0,Pen,1,0,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1438966800,Erndtebruck,Darmstadt,40hfjXs6,hnEPJbbt,0,5,,,,0
+1438966800,BFC Dynamo,FSV Frankfurt,KlQEi9GE,hvd9EEze,0,2,,,,0
+1438970400,Elversberg,Augsburg,QsgNMFNg,Qmnf8wEL,1,1,AET,1,3,0
+1439040600,Wurzburger Kickers,Werder Bremen,4Ek3P0Ko,EVomMG4o,0,0,AET,0,2,0
+1439040600,Viktoria Koln,Union Berlin,h0wZ9zwk,ncmj9JbF,2,1,,,,0
+1439040600,Stutt. Kickers,Wolfsburg,My5qjuKd,KjF1j4v3,1,4,,,,0
+1439040600,Meppen,FC Koln,baDaGjjh,86lnAaq9,0,4,,,,0
+1439040600,Lotte,Bayer Leverkusen,r7oqkvI5,WrjrBuU2,0,3,,,,0
+1439040600,Hallescher,Braunschweig,h4sLpjpo,rBP4Wuhs,0,1,,,,0
+1439040600,Duisburg,Schalke,llQ95ECr,I7p2Damb,0,5,,,,0
+1439040600,Bremer,Eintracht Frankfurt,8CseWfsa,86lnAaq9,0,3,,,,0
+1439040600,Aue,Greuther Furth,hWRlo72J,KfqGWN71,1,0,,,,0
+1439049600,Munich 1860,Hoffenheim,86lnAaq9,n7lWn9DL,2,0,,,,0
+1439058600,Reutlingen,Karlsruher SC,AmUVGXR5,Qmnf8wEL,3,1,,,,0
+1439058600,Holstein Kiel,Stuttgart,EcK7yLm6,f1Z3XxZa,1,2,,,,0
+1439123400,Salmrohr,Bochum,23WJfVPG,86lnAaq9,0,5,,,,0
+1439123400,Jena,Hamburger SV,fs1P17M8,86lnAaq9,2,2,AET,3,2,0
+1439123400,Chemnitzer,Dortmund,ncNaLxYl,WrjrBuU2,0,2,,,,0
+1439123400,Barmbek-Uhlenhorst,Freiburg,EeT43pjb,86lnAaq9,0,5,,,,0
+1439123400,Bahlinger,Sandhausen,lnykcOoF,WxLb2GDg,0,0,Pen,0,1,0
+1439128800,Unterhaching,Ingolstadt,v9581eMG,Qmnf8wEL,2,1,,,,0
+1439128800,RW Essen,Dusseldorf,YFzpTQGt,Qmnf8wEL,0,0,Pen,0,1,0
+1439128800,Pirmasens,Heidenheim,23WJfVPG,ncNaLxYl,1,4,,,,0
+1439128800,Nottingen,Bayern Munich,lnykcOoF,SvLFaVNH,1,3,,,,0
+1439128800,Lubeck,Paderborn,r5trb9zO,Qmnf8wEL,1,2,,,,0
+1439137800,Kassel,Hannover,EykG4git,n7lWn9DL,0,2,,,,0
+1439137800,Hansa Rostock,Kaiserslautern,McvX4bye,xW7EDdNP,0,0,Pen,0,1,0
+1439145000,Cottbus,Mainz,KGl8021M,bsE5kOg9,0,3,,,,0
+1439224200,VfL Osnabruck,RB Leipzig,8f6ISvUl,WvvSE8Dm,0,2,Awrd,,,0
+1439224200,Arminia Bielefeld,Hertha Berlin,GOBDm2OL,WrjrBuU2,0,2,,,,0
+1439224200,Aalen,Nurnberg,CtdsEaSI,ncmj9JbF,0,0,Pen,0,1,0
+1439231400,St. Pauli,B. Monchengladbach,ncmj9JbF,ncmj9JbF,1,4,,,,0
+1445968800,Nurnberg,Dusseldorf,ncmj9JbF,Qmnf8wEL,5,1,,,,0
+1445968800,Mainz,Munich 1860,bsE5kOg9,86lnAaq9,1,2,,,,0
+1445968800,FSV Frankfurt,Hertha Berlin,hvd9EEze,WrjrBuU2,1,1,AET,1,2,0
+1445968800,Aue,Eintracht Frankfurt,hWRlo72J,86lnAaq9,1,0,,,,0
+1445974200,Wolfsburg,Bayern Munich,KjF1j4v3,SvLFaVNH,1,3,,,,0
+1445974200,Unterhaching,RB Leipzig,v9581eMG,WvvSE8Dm,3,0,,,,0
+1445974200,Darmstadt,Hannover,hnEPJbbt,n7lWn9DL,2,1,,,,0
+1445974200,Bochum,Kaiserslautern,86lnAaq9,xW7EDdNP,1,0,,,,0
+1446055200,Viktoria Koln,Bayer Leverkusen,h0wZ9zwk,WrjrBuU2,0,6,,,,0
+1446055200,Sandhausen,Heidenheim,WxLb2GDg,ncNaLxYl,0,0,Pen,0,1,0
+1446055200,Freiburg,Augsburg,86lnAaq9,Qmnf8wEL,0,3,,,,0
+1446055200,Dortmund,Paderborn,WrjrBuU2,Qmnf8wEL,7,1,,,,0
+1446060600,Werder Bremen,FC Koln,EVomMG4o,86lnAaq9,1,0,,,,0
+1446060600,Schalke,B. Monchengladbach,I7p2Damb,ncmj9JbF,0,2,,,,0
+1446060600,Reutlingen,Braunschweig,AmUVGXR5,rBP4Wuhs,0,4,,,,0
+1446060600,Jena,Stuttgart,fs1P17M8,f1Z3XxZa,0,2,,,,0
+1450202400,Unterhaching,Bayer Leverkusen,v9581eMG,WrjrBuU2,1,3,,,,0
+1450202400,B. Monchengladbach,Werder Bremen,ncmj9JbF,EVomMG4o,3,4,,,,0
+1450207800,Bayern Munich,Darmstadt,SvLFaVNH,hnEPJbbt,1,0,,,,0
+1450207800,Aue,Heidenheim,hWRlo72J,ncNaLxYl,0,2,,,,0
+1450288800,Stuttgart,Braunschweig,f1Z3XxZa,rBP4Wuhs,1,1,AET,3,2,0
+1450288800,Nurnberg,Hertha Berlin,ncmj9JbF,WrjrBuU2,0,2,,,,0
+1450294200,Munich 1860,Bochum,86lnAaq9,86lnAaq9,0,2,,,,0
+1450294200,Augsburg,Dortmund,Qmnf8wEL,WrjrBuU2,0,2,,,,0
+1455040800,Bayer Leverkusen,Werder Bremen,WrjrBuU2,EVomMG4o,1,3,,,,0
+1455046200,Stuttgart,Dortmund,f1Z3XxZa,WrjrBuU2,1,3,,,,0
+1455127200,Heidenheim,Hertha Berlin,ncNaLxYl,WrjrBuU2,2,3,,,,0
+1455132600,Bochum,Bayern Munich,86lnAaq9,SvLFaVNH,0,3,,,,0
+1461090600,Bayern Munich,Werder Bremen,SvLFaVNH,EVomMG4o,2,0,,,,0
+1461177000,Hertha Berlin,Dortmund,WrjrBuU2,WrjrBuU2,0,3,,,,0
+1463853600,Bayern Munich,Dortmund,SvLFaVNH,WrjrBuU2,0,0,Pen,1,0,1

@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1469611800,Shamrock Rovers Darwin,Brisbane Strikers,0,6,,,,0
-1469611800,Hume City,Marconi Stallions,0,0,Pen,2,1,0
-1469611800,Cairns,Edgeworth E.,0,3,,,,0
-1469611800,Blacktown City,Sydney Utd,2,2,AET,6,2,0
-1470132000,Wellington Phoenix,WS Wanderers,2,3,,,,0
-1470132000,Green Gully,Central Coast Mariners,2,1,,,,0
-1470133800,NE Metrostars,Bentleigh Greens,2,2,Pen,3,4,0
-1470133800,Floreat Athena,Melbourne City,1,2,,,,0
-1470216600,Redlands,Adelaide United,1,1,AET,2,1,0
-1470216600,Newcastle Jets,Melbourne Victory,1,3,,,,0
-1470216600,Canberra Olympic,Surfers P.,1,0,,,,0
-1470216600,Bonnyrigg White Eagles,Manly Utd,3,0,,,,0
-1470821400,Wollongong Wolves,Sydney FC,0,3,,,,0
-1470821400,Melbourne Knights,Cockburn City,2,1,,,,0
-1470821400,Devonport,Lambton J.,1,0,,,,0
-1470821400,Brisbane Roar,Perth Glory,0,2,,,,0
-1472031000,Hume City,Melbourne Victory,0,1,,,,0
-1472031000,Canberra Olympic,Redlands,2,0,,,,0
-1472031000,Brisbane Strikers,Melbourne City,1,2,,,,0
-1472031000,Blacktown City,Bonnyrigg White Eagles,3,0,,,,0
-1472551200,Melbourne Knights,Green Gully,1,3,,,,0
-1472551200,Edgeworth E.,WS Wanderers,1,5,,,,0
-1472551200,Devonport,Bentleigh Greens,0,0,AET,0,1,0
-1472553000,Perth Glory,Sydney FC,0,0,AET,0,2,0
-1474450200,Melbourne City,WS Wanderers,4,1,,,,0
-1474450200,Blacktown City,Sydney FC,0,3,,,,0
-1474968600,Canberra Olympic,Green Gully,1,0,,,,0
-1474968600,Bentleigh Greens,Melbourne Victory,0,2,,,,0
-1476865800,Canberra Olympic,Sydney FC,0,3,,,,0
-1477384200,Melbourne Victory,Melbourne City,0,2,,,,0
-1480494600,Melbourne City,Sydney FC,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1469611800,Shamrock Rovers Darwin,Brisbane Strikers,bDQ4AQY3,fZ2M152P,0,6,,,,0
+1469611800,Hume City,Marconi Stallions,QkynLpK7,MBZARsdo,0,0,Pen,2,1,0
+1469611800,Cairns,Edgeworth E.,MPMRnwYF,2JY3p2Cc,0,3,,,,0
+1469611800,Blacktown City,Sydney Utd,dn5fFKUf,v59iEWvF,2,2,AET,6,2,0
+1470132000,Wellington Phoenix,WS Wanderers,rL2rkgzd,ELjhZ8l9,2,3,,,,0
+1470132000,Green Gully,Central Coast Mariners,dIVgk6uj,WloyQSJM,2,1,,,,0
+1470133800,NE Metrostars,Bentleigh Greens,St4UQozr,hf8k38gO,2,2,Pen,3,4,0
+1470133800,Floreat Athena,Melbourne City,URDUuhRK,rL2rkgzd,1,2,,,,0
+1470216600,Redlands,Adelaide United,I7URiLb3,j7XSkexg,1,1,AET,2,1,0
+1470216600,Newcastle Jets,Melbourne Victory,AowXufJO,jm1g2SD5,1,3,,,,0
+1470216600,Canberra Olympic,Surfers P.,2JY3p2Cc,QRMY7Pwa,1,0,,,,0
+1470216600,Bonnyrigg White Eagles,Manly Utd,fgoTRsRB,ClpsWkIB,3,0,,,,0
+1470821400,Wollongong Wolves,Sydney FC,nuKJ7qCF,WU4sOyqK,0,3,,,,0
+1470821400,Melbourne Knights,Cockburn City,MDQDlb6B,Oj6QqlfH,2,1,,,,0
+1470821400,Devonport,Lambton J.,IVIHHed1,h2UVib4o,1,0,,,,0
+1470821400,Brisbane Roar,Perth Glory,OlyE5V4J,8p3P7cak,0,2,,,,0
+1472031000,Hume City,Melbourne Victory,QkynLpK7,jm1g2SD5,0,1,,,,0
+1472031000,Canberra Olympic,Redlands,2JY3p2Cc,I7URiLb3,2,0,,,,0
+1472031000,Brisbane Strikers,Melbourne City,fZ2M152P,rL2rkgzd,1,2,,,,0
+1472031000,Blacktown City,Bonnyrigg White Eagles,dn5fFKUf,fgoTRsRB,3,0,,,,0
+1472551200,Melbourne Knights,Green Gully,MDQDlb6B,dIVgk6uj,1,3,,,,0
+1472551200,Edgeworth E.,WS Wanderers,2JY3p2Cc,ELjhZ8l9,1,5,,,,0
+1472551200,Devonport,Bentleigh Greens,IVIHHed1,hf8k38gO,0,0,AET,0,1,0
+1472553000,Perth Glory,Sydney FC,8p3P7cak,WU4sOyqK,0,0,AET,0,2,0
+1474450200,Melbourne City,WS Wanderers,rL2rkgzd,ELjhZ8l9,4,1,,,,0
+1474450200,Blacktown City,Sydney FC,dn5fFKUf,WU4sOyqK,0,3,,,,0
+1474968600,Canberra Olympic,Green Gully,2JY3p2Cc,dIVgk6uj,1,0,,,,0
+1474968600,Bentleigh Greens,Melbourne Victory,hf8k38gO,jm1g2SD5,0,2,,,,0
+1476865800,Canberra Olympic,Sydney FC,2JY3p2Cc,WU4sOyqK,0,3,,,,0
+1477384200,Melbourne Victory,Melbourne City,jm1g2SD5,rL2rkgzd,0,2,,,,0
+1480494600,Melbourne City,Sydney FC,rL2rkgzd,WU4sOyqK,1,0,,,,0

@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1046988000,Tivoli,Necaxa,0,0,,,,0
-1046988000,FAS,Club America,3,1,,,,0
-1047506400,Toluca,W Connection,3,2,,,,0
-1047506400,Comunicaciones,Atl. Morelia,1,0,,,,0
-1047852000,Municipal,San Jose Earthquakes,4,2,,,,0
-1047852000,Motagua,Los Angeles Galaxy,2,2,,,,0
-1047852000,Arabe Unido,Columbus Crew,2,1,,,,0
-1048111200,Necaxa,Tivoli,1,0,,,,0
-1048456800,Los Angeles Galaxy,Motagua,1,0,,,,0
-1048456800,Columbus Crew,Arabe Unido,3,0,,,,0
-1048456800,Alajuelense,New England Revolution,4,0,,,,0
-1048716000,San Jose Earthquakes,Municipal,2,1,,,,0
-1048716000,New England Revolution,Alajuelense,3,1,,,,0
-1048716000,Club America,FAS,3,0,,,,0
-1048716000,Atl. Morelia,Comunicaciones,4,0,,,,0
-1049317200,W Connection,Toluca,3,3,,,,0
-1049922000,Municipal,Toluca,1,2,,,,0
-1049922000,Los Angeles Galaxy,Necaxa,1,4,,,,0
-1049922000,Atl. Morelia,Columbus Crew,6,0,,,,0
-1050526800,Toluca,Municipal,2,1,,,,0
-1050526800,Necaxa,Los Angeles Galaxy,2,1,,,,0
-1050526800,Columbus Crew,Atl. Morelia,2,0,,,,0
-1050526800,Alajuelense,Club America,3,1,,,,0
-1051131600,Club America,Alajuelense,4,0,,,,0
-1051736400,Toluca,Club America,1,4,,,,0
-1051736400,Necaxa,Atl. Morelia,0,0,,,,0
-1052341200,Atl. Morelia,Necaxa,6,0,,,,0
-1052946000,Club America,Toluca,0,4,,,,0
-1059080400,Toluca,Atl. Morelia,2,1,,,,0
-1063832400,Atl. Morelia,Toluca,3,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1046988000,Tivoli,Necaxa,OpFfB9jq,8rY7at7H,0,0,,,,0
+1046988000,FAS,Club America,IJKf4CSg,OGkmEu0T,3,1,,,,0
+1047506400,Toluca,W Connection,0pHVJYjM,zePXmSvq,3,2,,,,0
+1047506400,Comunicaciones,Atl. Morelia,O2l6wJsK,vupRtYdp,1,0,,,,0
+1047852000,Municipal,San Jose Earthquakes,vTLj5hDm,GpqxHjf5,4,2,,,,0
+1047852000,Motagua,Los Angeles Galaxy,dtCxYreO,nqhLBCKD,2,2,,,,0
+1047852000,Arabe Unido,Columbus Crew,IJKf4CSg,OrE2LMh8,2,1,,,,0
+1048111200,Necaxa,Tivoli,8rY7at7H,OpFfB9jq,1,0,,,,0
+1048456800,Los Angeles Galaxy,Motagua,nqhLBCKD,dtCxYreO,1,0,,,,0
+1048456800,Columbus Crew,Arabe Unido,OrE2LMh8,IJKf4CSg,3,0,,,,0
+1048456800,Alajuelense,New England Revolution,4v3Y4ReF,KI53uaQC,4,0,,,,0
+1048716000,San Jose Earthquakes,Municipal,GpqxHjf5,vTLj5hDm,2,1,,,,0
+1048716000,New England Revolution,Alajuelense,KI53uaQC,4v3Y4ReF,3,1,,,,0
+1048716000,Club America,FAS,OGkmEu0T,IJKf4CSg,3,0,,,,0
+1048716000,Atl. Morelia,Comunicaciones,vupRtYdp,O2l6wJsK,4,0,,,,0
+1049317200,W Connection,Toluca,zePXmSvq,0pHVJYjM,3,3,,,,0
+1049922000,Municipal,Toluca,vTLj5hDm,0pHVJYjM,1,2,,,,0
+1049922000,Los Angeles Galaxy,Necaxa,nqhLBCKD,8rY7at7H,1,4,,,,0
+1049922000,Atl. Morelia,Columbus Crew,vupRtYdp,OrE2LMh8,6,0,,,,0
+1050526800,Toluca,Municipal,0pHVJYjM,vTLj5hDm,2,1,,,,0
+1050526800,Necaxa,Los Angeles Galaxy,8rY7at7H,nqhLBCKD,2,1,,,,0
+1050526800,Columbus Crew,Atl. Morelia,OrE2LMh8,vupRtYdp,2,0,,,,0
+1050526800,Alajuelense,Club America,4v3Y4ReF,OGkmEu0T,3,1,,,,0
+1051131600,Club America,Alajuelense,OGkmEu0T,4v3Y4ReF,4,0,,,,0
+1051736400,Toluca,Club America,0pHVJYjM,OGkmEu0T,1,4,,,,0
+1051736400,Necaxa,Atl. Morelia,8rY7at7H,vupRtYdp,0,0,,,,0
+1052341200,Atl. Morelia,Necaxa,vupRtYdp,8rY7at7H,6,0,,,,0
+1052946000,Club America,Toluca,OGkmEu0T,0pHVJYjM,0,4,,,,0
+1059080400,Toluca,Atl. Morelia,0pHVJYjM,vupRtYdp,2,1,,,,0
+1063832400,Atl. Morelia,Toluca,vupRtYdp,0pHVJYjM,3,3,,,,0

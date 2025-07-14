@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1651935600,Smouha,Alo Egypt,2,1,,,,0
-1651935600,El Daklyeh,Aswan SC,2,2,Pen,3,2,0
-1651946400,Ceramica Cleopatra,Dekernes,5,0,,,,0
-1652022000,National Bank Egypt,Shoban Moslemen Qena,3,2,,,,0
-1652022000,Enppi,La Viena,3,0,,,,0
-1652032800,Arab Contractors,Al Hammam,4,0,,,,0
-1652032800,Al Masry,Asyut Petroleum,3,1,,,,0
-1652108400,Zamalek,Proxy,2,2,AET,3,2,0
-1652119200,Al Ittihad,Al-Sekka,0,0,AET,2,0,0
-1652194800,Pharco,WE SC,1,0,,,,0
-1652205600,Modern Sport,Tala El Ustoul,4,1,,,,0
-1652284800,El Gaish,El Sharqiya Zagazig,3,0,,,,0
-1652799600,Pyramids,Raya,2,0,,,,0
-1653404400,El Ismaily,Nogoom FC,0,2,,,,0
-1653753600,Haras El Hodood,Ghazl El Mahallah,3,2,,,,0
-1653762600,Enppi,Modern Sport,1,1,Pen,2,1,0
-1655911800,Al Ittihad,Pyramids,0,1,,,,0
-1655922600,Ceramica Cleopatra,Arab Contractors,0,1,,,,0
-1655998200,El Gaish,National Bank Egypt,1,1,Pen,1,2,0
-1656009000,Zamalek,Pharco,3,1,,,,0
-1656084600,Nogoom FC,Smouha,1,0,,,,0
-1656178200,Al Ahly,Suez SC,1,0,,,,0
-1656869400,National Bank Egypt,Pyramids,0,3,,,,0
-1656946800,Nogoom FC,Enppi,1,3,,,,0
-1656955800,Zamalek,Arab Contractors,6,1,,,,0
-1657128600,Al Masry,Haras El Hodood,2,2,AET,3,2,0
-1659196800,Al Ahly,El Daklyeh,2,0,,,,0
-1659538800,Al Ahly,Al Masry,1,1,AET,2,1,0
-1664906400,Al Ahly,Enppi,3,0,,,,0
-1667926800,Zamalek,Pyramids,1,1,Pen,4,3,0
-1678296600,Zamalek,Al Ahly,0,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1651935600,Smouha,Alo Egypt,Y1Z3w2bI,hnt5RDU5,2,1,,,,0
+1651935600,El Daklyeh,Aswan SC,l4Qdre7N,tIwwEvBL,2,2,Pen,3,2,0
+1651946400,Ceramica Cleopatra,Dekernes,nsVKnzpo,0OqQEDZl,5,0,,,,0
+1652022000,National Bank Egypt,Shoban Moslemen Qena,pjUF9hEb,4fR8fhOg,3,2,,,,0
+1652022000,Enppi,La Viena,UXviHTBE,SWxorfRd,3,0,,,,0
+1652032800,Arab Contractors,Al Hammam,vJb36ZBF,0Yrtb3Ak,4,0,,,,0
+1652032800,Al Masry,Asyut Petroleum,K8vlWhPS,xYpJaFv3,3,1,,,,0
+1652108400,Zamalek,Proxy,EJgyrHTR,zaZRfcTP,2,2,AET,3,2,0
+1652119200,Al Ittihad,Al-Sekka,bgfz00t5,d8SflmrH,0,0,AET,2,0,0
+1652194800,Pharco,WE SC,dxOryHtQ,YPaND3wR,1,0,,,,0
+1652205600,Modern Sport,Tala El Ustoul,zuoIGyJI,jmsodma6,4,1,,,,0
+1652284800,El Gaish,El Sharqiya Zagazig,zcdwYkPa,0Gyb9L24,3,0,,,,0
+1652799600,Pyramids,Raya,61CV5LkU,Mqgze3g9,2,0,,,,0
+1653404400,El Ismaily,Nogoom FC,hjU5IpqO,AJxZzB1j,0,2,,,,0
+1653753600,Haras El Hodood,Ghazl El Mahallah,WOiN3YjQ,AXTgaM87,3,2,,,,0
+1653762600,Enppi,Modern Sport,UXviHTBE,zuoIGyJI,1,1,Pen,2,1,0
+1655911800,Al Ittihad,Pyramids,bgfz00t5,61CV5LkU,0,1,,,,0
+1655922600,Ceramica Cleopatra,Arab Contractors,nsVKnzpo,vJb36ZBF,0,1,,,,0
+1655998200,El Gaish,National Bank Egypt,zcdwYkPa,pjUF9hEb,1,1,Pen,1,2,0
+1656009000,Zamalek,Pharco,EJgyrHTR,dxOryHtQ,3,1,,,,0
+1656084600,Nogoom FC,Smouha,AJxZzB1j,Y1Z3w2bI,1,0,,,,0
+1656178200,Al Ahly,Suez SC,CWnyifXm,27Y2YqA3,1,0,,,,0
+1656869400,National Bank Egypt,Pyramids,pjUF9hEb,61CV5LkU,0,3,,,,0
+1656946800,Nogoom FC,Enppi,AJxZzB1j,UXviHTBE,1,3,,,,0
+1656955800,Zamalek,Arab Contractors,EJgyrHTR,vJb36ZBF,6,1,,,,0
+1657128600,Al Masry,Haras El Hodood,K8vlWhPS,WOiN3YjQ,2,2,AET,3,2,0
+1659196800,Al Ahly,El Daklyeh,CWnyifXm,l4Qdre7N,2,0,,,,0
+1659538800,Al Ahly,Al Masry,CWnyifXm,K8vlWhPS,1,1,AET,2,1,0
+1664906400,Al Ahly,Enppi,CWnyifXm,UXviHTBE,3,0,,,,0
+1667926800,Zamalek,Pyramids,EJgyrHTR,61CV5LkU,1,1,Pen,4,3,0
+1678296600,Zamalek,Al Ahly,EJgyrHTR,CWnyifXm,0,2,,,,0

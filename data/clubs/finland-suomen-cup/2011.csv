@@ -1,82 +1,82 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1298714400,PK-35/VJS,MPS,2,1,,,,0
-1298725200,Jazz Pori,TPV,3,0,Awrd,,,0
-1298728800,HDS Helsinki,Futura,1,0,,,,0
-1299252600,KTP,Klubi 04,1,3,,,,0
-1299326400,AC Kajaani,Santa Claus,0,0,Pen,0,1,0
-1299346200,Zulimanit,PK-37,1,0,AET,1,0,0
-1299522600,SUMU 2,HIFK,1,8,,,,0
-1299601800,KPV Kokkola II,GBK Kokkola,1,2,,,,0
-1299605400,MaPS,MuSa,6,1,,,,0
-1299613500,Harma,Ilves-Kissat,3,1,,,,0
-1299866400,Helsingin,JaPS,0,6,,,,0
-1299917700,VIFK,SJK,1,3,,,,0
-1299919500,JPS Jyvaskyla,Riverball,2,3,,,,0
-1299925800,POHU,Sudet,1,2,,,,0
-1299925800,KaaPo,NoPS,0,1,,,,0
-1299936600,TiPS,Lahti,0,2,,,,0
-1299938400,JBK,HauPa,2,0,,,,0
-1299938400,Ekenas,PK-35 Vantaa,4,2,,,,0
-1299944700,TuTo,Hameenlinna,1,1,Pen,2,3,0
-1299945600,VG-62 Naantali,Vaajakoski,1,3,,,,0
-1299945600,Poxyt,BK-46,0,3,,,,0
-1300010400,Lahen,KooTeePee,0,1,,,,0
-1300019400,PPV/1,LPS,2,3,,,,0
-1300024800,HPS,Espoo,1,3,,,,0
-1300033800,Keski-Uusimaa,KaPa,3,3,,,,0
-1300037400,SiPS,ViPa,0,4,,,,0
-1300125600,RiRa,Gnistan,2,5,,,,0
-1300206600,Lahti/69,Atlantis,2,1,,,,0
-1300293000,STPS,Mikkeli,0,9,,,,0
-1300384800,KuFu-98,JIPPO,0,0,Pen,1,2,0
-1300552200,SAPA 2,LoPa,0,2,,,,0
-1300563000,Vantaa,Viikingit,0,4,,,,0
-1300617900,Ilves,P-Iirot Rauma,2,3,,,,0
-1300627800,GBK Kokkola,Santa Claus,2,2,AET,4,3,0
-1300730400,FCD,Kiffen,0,2,,,,0
-1301139000,PK-35/VJS,Klubi 04,3,1,,,,0
-1301142600,SJK,Jazz Pori,4,0,,,,0
-1301142600,JBK,P-Iirot Rauma,6,0,,,,0
-1301144400,LPS,KaPa,1,1,AET,4,1,0
-1301148000,Lahti/69,Hameenlinna,1,3,,,,0
-1301148000,Ekenas,HIFK,1,1,Pen,2,1,0
-1301149800,MaPS,Vaajakoski,4,2,,,,0
-1301153400,Mikkeli,JIPPO,0,1,,,,0
-1301160600,HDS Helsinki,Sudet,1,1,Pen,1,2,0
-1301227200,Riverball,AC Oulu,2,2,AET,3,6,0
-1301230800,Rovaniemi,VPS,0,1,,,,0
-1301230800,BK-46,Lahti,0,1,,,,0
-1301246100,NoPS,MyPa,0,9,,,,0
-1301329800,Zulimanit,ViPa,1,2,,,,0
-1301486400,Viikingit,Mariehamn,0,1,,,,0
-1301499000,JaPS,KooTeePee,0,3,,,,0
-1301508000,Kiffen,Espoo,0,1,,,,0
-1301596200,Harma,Gnistan,1,1,Pen,1,2,0
-1301754600,LoPa,Haka,0,4,,,,0
-1302274800,Inter Turku,Haka,0,0,Pen,0,1,0
-1302343200,PK-35/VJS,Hameenlinna,2,0,,,,0
-1302346800,JIPPO,JBK,0,0,Pen,1,0,0
-1302352200,GBK Kokkola,MaPS,1,1,AET,3,1,0
-1302362100,ViPa,Jaro,1,4,,,,0
-1302368400,Gnistan,Sudet,3,0,,,,0
-1302431400,SJK,KooTeePee,3,0,,,,0
-1302431400,LPS,Mariehamn,0,8,,,,0
-1302436800,Ekenas,KuPS,0,2,,,,0
-1302622200,TPS,VPS,1,1,Pen,3,2,0
-1302703200,MyPa,AC Oulu,2,0,,,,0
-1302703200,Lahti,Espoo,2,1,,,,0
-1302877800,PK-35/VJS,JJK Jyvaskyla,0,8,,,,0
-1302879600,Mariehamn,Honka,1,0,,,,0
-1302951600,JIPPO,Tampere Utd,1,1,AET,2,1,0
-1302957000,Gnistan,KuPS,2,6,,,,0
-1303050600,MyPa,Jaro,3,1,,,,0
-1303052400,GBK Kokkola,Haka,0,2,,,,0
-1303394400,Lahti,TPS,2,0,,,,0
-1303556400,SJK,HJK,0,4,,,,0
-1304001000,MyPa,HJK,1,2,,,,0
-1304004600,Mariehamn,JIPPO,4,0,,,,0
-1304004600,Haka,KuPS,0,2,,,,0
-1304085600,Lahti,JJK Jyvaskyla,4,3,,,,0
-1306423800,Mariehamn,KuPS,0,3,,,,0
-1306423800,HJK,Lahti,3,0,,,,0
-1316867400,KuPS,HJK,0,0,AET,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1298714400,PK-35/VJS,MPS,pfGo1dDH,2kND98C6,2,1,,,,0
+1298725200,Jazz Pori,TPV,2ZlfMMDL,QyGb2mBG,3,0,Awrd,,,0
+1298728800,HDS Helsinki,Futura,hhgqzc0f,OMIIvzhg,1,0,,,,0
+1299252600,KTP,Klubi 04,6clVGmml,joSKJXz3,1,3,,,,0
+1299326400,AC Kajaani,Santa Claus,WCsAlEhL,8jjfVyQJ,0,0,Pen,0,1,0
+1299346200,Zulimanit,PK-37,fBA5su8K,A5NQVAWs,1,0,AET,1,0,0
+1299522600,SUMU 2,HIFK,,S6wQRveL,1,8,,,,0
+1299601800,KPV Kokkola II,GBK Kokkola,WdapVR2a,S6wQRveL,1,2,,,,0
+1299605400,MaPS,MuSa,Uwn345kA,ERgO0JWN,6,1,,,,0
+1299613500,Harma,Ilves-Kissat,dAVgY6Rq,bH8jpS5d,3,1,,,,0
+1299866400,Helsingin,JaPS,E1fuywol,dObvuURo,0,6,,,,0
+1299917700,VIFK,SJK,nTLUUUol,nNbzs3cc,1,3,,,,0
+1299919500,JPS Jyvaskyla,Riverball,pb8X62D3,6Va7eAcq,2,3,,,,0
+1299925800,POHU,Sudet,zVidL828,86OeMIIr,1,2,,,,0
+1299925800,KaaPo,NoPS,KYNc97IR,UD6R4K5p,0,1,,,,0
+1299936600,TiPS,Lahti,86OeMIIr,tGlVXFkM,0,2,,,,0
+1299938400,JBK,HauPa,nTLUUUol,z3Bu3VS3,2,0,,,,0
+1299938400,Ekenas,PK-35 Vantaa,bPIAEyrj,fXc0KYv8,4,2,,,,0
+1299944700,TuTo,Hameenlinna,MyuyPuLa,0GLVocmM,1,1,Pen,2,3,0
+1299945600,VG-62 Naantali,Vaajakoski,IHgjfrTl,vFQ0x4aP,1,3,,,,0
+1299945600,Poxyt,BK-46,MHlDlNqI,S6wQRveL,0,3,,,,0
+1300010400,Lahen,KooTeePee,AJGyB8A6,6cxUQbAR,0,1,,,,0
+1300019400,PPV/1,LPS,S0Eq9nuJ,EFX6BajI,2,3,,,,0
+1300024800,HPS,Espoo,fgZBcz91,WAUj5S7M,1,3,,,,0
+1300033800,Keski-Uusimaa,KaPa,bNsGwGJ2,nTLUUUol,3,3,,,,0
+1300037400,SiPS,ViPa,GY2SxZQC,Crub28td,0,4,,,,0
+1300125600,RiRa,Gnistan,zBeyxJVs,KQVDA2o1,2,5,,,,0
+1300206600,Lahti/69,Atlantis,tGlVXFkM,fc1riUtG,2,1,,,,0
+1300293000,STPS,Mikkeli,4MqzK783,dObvuURo,0,9,,,,0
+1300384800,KuFu-98,JIPPO,pUQhmLVK,8ODzVZHi,0,0,Pen,1,2,0
+1300552200,SAPA 2,LoPa,Q7vqi4KT,ObdYXwp6,0,2,,,,0
+1300563000,Vantaa,Viikingit,Ol7y6MS9,42ZyYd5s,0,4,,,,0
+1300617900,Ilves,P-Iirot Rauma,OMIIvzhg,8KmYiqo4,2,3,,,,0
+1300627800,GBK Kokkola,Santa Claus,S6wQRveL,8jjfVyQJ,2,2,AET,4,3,0
+1300730400,FCD,Kiffen,zFZgJW2Q,hSmzswm2,0,2,,,,0
+1301139000,PK-35/VJS,Klubi 04,pfGo1dDH,joSKJXz3,3,1,,,,0
+1301142600,SJK,Jazz Pori,nNbzs3cc,2ZlfMMDL,4,0,,,,0
+1301142600,JBK,P-Iirot Rauma,nTLUUUol,8KmYiqo4,6,0,,,,0
+1301144400,LPS,KaPa,EFX6BajI,nTLUUUol,1,1,AET,4,1,0
+1301148000,Lahti/69,Hameenlinna,tGlVXFkM,0GLVocmM,1,3,,,,0
+1301148000,Ekenas,HIFK,bPIAEyrj,S6wQRveL,1,1,Pen,2,1,0
+1301149800,MaPS,Vaajakoski,Uwn345kA,vFQ0x4aP,4,2,,,,0
+1301153400,Mikkeli,JIPPO,dObvuURo,8ODzVZHi,0,1,,,,0
+1301160600,HDS Helsinki,Sudet,hhgqzc0f,86OeMIIr,1,1,Pen,1,2,0
+1301227200,Riverball,AC Oulu,6Va7eAcq,6cxUQbAR,2,2,AET,3,6,0
+1301230800,Rovaniemi,VPS,zVgW5cY1,WYtEUtB2,0,1,,,,0
+1301230800,BK-46,Lahti,S6wQRveL,tGlVXFkM,0,1,,,,0
+1301246100,NoPS,MyPa,UD6R4K5p,hGuhahGg,0,9,,,,0
+1301329800,Zulimanit,ViPa,fBA5su8K,Crub28td,1,2,,,,0
+1301486400,Viikingit,Mariehamn,42ZyYd5s,xv6lkb7q,0,1,,,,0
+1301499000,JaPS,KooTeePee,dObvuURo,6cxUQbAR,0,3,,,,0
+1301508000,Kiffen,Espoo,hSmzswm2,WAUj5S7M,0,1,,,,0
+1301596200,Harma,Gnistan,dAVgY6Rq,KQVDA2o1,1,1,Pen,1,2,0
+1301754600,LoPa,Haka,ObdYXwp6,KtjRAU38,0,4,,,,0
+1302274800,Inter Turku,Haka,lGvMSKuF,KtjRAU38,0,0,Pen,0,1,0
+1302343200,PK-35/VJS,Hameenlinna,pfGo1dDH,0GLVocmM,2,0,,,,0
+1302346800,JIPPO,JBK,8ODzVZHi,nTLUUUol,0,0,Pen,1,0,0
+1302352200,GBK Kokkola,MaPS,S6wQRveL,Uwn345kA,1,1,AET,3,1,0
+1302362100,ViPa,Jaro,Crub28td,hGuhahGg,1,4,,,,0
+1302368400,Gnistan,Sudet,KQVDA2o1,86OeMIIr,3,0,,,,0
+1302431400,SJK,KooTeePee,nNbzs3cc,6cxUQbAR,3,0,,,,0
+1302431400,LPS,Mariehamn,EFX6BajI,xv6lkb7q,0,8,,,,0
+1302436800,Ekenas,KuPS,bPIAEyrj,MPMRnwYF,0,2,,,,0
+1302622200,TPS,VPS,GlTeTYJC,WYtEUtB2,1,1,Pen,3,2,0
+1302703200,MyPa,AC Oulu,hGuhahGg,6cxUQbAR,2,0,,,,0
+1302703200,Lahti,Espoo,tGlVXFkM,WAUj5S7M,2,1,,,,0
+1302877800,PK-35/VJS,JJK Jyvaskyla,pfGo1dDH,xv6lkb7q,0,8,,,,0
+1302879600,Mariehamn,Honka,xv6lkb7q,MVJgU4O3,1,0,,,,0
+1302951600,JIPPO,Tampere Utd,8ODzVZHi,IFb9tqla,1,1,AET,2,1,0
+1302957000,Gnistan,KuPS,KQVDA2o1,MPMRnwYF,2,6,,,,0
+1303050600,MyPa,Jaro,hGuhahGg,hGuhahGg,3,1,,,,0
+1303052400,GBK Kokkola,Haka,S6wQRveL,KtjRAU38,0,2,,,,0
+1303394400,Lahti,TPS,tGlVXFkM,GlTeTYJC,2,0,,,,0
+1303556400,SJK,HJK,nNbzs3cc,xO7wlFSD,0,4,,,,0
+1304001000,MyPa,HJK,hGuhahGg,xO7wlFSD,1,2,,,,0
+1304004600,Mariehamn,JIPPO,xv6lkb7q,8ODzVZHi,4,0,,,,0
+1304004600,Haka,KuPS,KtjRAU38,MPMRnwYF,0,2,,,,0
+1304085600,Lahti,JJK Jyvaskyla,tGlVXFkM,xv6lkb7q,4,3,,,,0
+1306423800,Mariehamn,KuPS,xv6lkb7q,MPMRnwYF,0,3,,,,0
+1306423800,HJK,Lahti,xO7wlFSD,tGlVXFkM,3,0,,,,0
+1316867400,KuPS,HJK,MPMRnwYF,xO7wlFSD,0,0,AET,1,2,0

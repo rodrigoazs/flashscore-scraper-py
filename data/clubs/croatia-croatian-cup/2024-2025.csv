@@ -1,49 +1,49 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1724769000,Jadran Porec,Radnik Krizevci,0,0,Pen,1,0,0
-1724769000,Gaj Mace,Karlovac,1,1,AET,2,1,0
-1724855400,Zrinski Osjecko,Moslavina,4,0,,,,0
-1724855400,Tomislav DA,Sloga Borovo,5,0,,,,0
-1724855400,Sloga NG,Bjelovar,0,1,,,,0
-1724855400,Sava Strmec,NK P.,0,7,,,,0
-1724855400,Samobor,Ferdinandovac,10,0,,,,0
-1724855400,Neretvanac,Bedem Ivankovo,2,0,,,,0
-1724855400,Nehaj Senj,Croatia Dakovo,0,4,,,,0
-1724855400,Medjimurec,Varteks Varazdin,1,1,Pen,1,2,0
-1724855400,Kustosija,NK Polet,3,0,,,,0
-1724855400,HV Posedarje,Slavonija Pozega,1,2,,,,0
-1724855400,Dugopolje,Jarun,0,0,Pen,1,0,0
-1724855400,Bilogora,Zagora,1,0,,,,0
-1724855400,Bednja Beletinec,Orijent,2,1,,,,0
-1724855400,Banjole,Mladost Petrinja,2,0,,,,0
-1725978600,Zrinski Osjecko,Sibenik,0,2,,,,0
-1725978600,Tomislav DA,Istra 1961,0,2,,,,0
-1725978600,Jadran Porec,Zdralovi,0,2,,,,0
-1726065000,Slavonija Pozega,Oriolik,3,0,,,,0
-1726065000,Samobor,Lok. Zagreb,2,4,,,,0
-1726065000,NK P.,Rudes,1,2,,,,0
-1726065000,Kustosija,Slaven Belupo,0,1,,,,0
-1726065000,Gaj Mace,Varazdin,1,2,,,,0
-1726065000,Dugopolje,Bijelo Brdo,1,0,,,,0
-1726065000,Croatia Dakovo,Gorica,0,0,Pen,1,2,0
-1726065000,Bjelovar,Jaska Vinogradar,4,0,,,,0
-1726065000,Bednja Beletinec,Belisce,3,0,,,,0
-1726583400,Bilogora,Hajduk Split,0,4,,,,0
-1726669800,Varteks Varazdin,Osijek,1,3,,,,0
-1726677000,Neretvanac,Rijeka,1,3,,,,0
-1727272800,Banjole,D. Zagreb,1,3,,,,0
-1729609200,Slavonija Pozega,Osijek,1,2,,,,1
-1729618200,Bednja Beletinec,Rijeka,0,3,,,,0
-1730293200,Zdralovi,Hajduk Split,0,3,,,,1
-1730293200,Rudes,Istra 1961,1,2,,,,0
-1731600000,Varazdin,Gorica,1,1,Pen,1,2,0
-1731769200,Sibenik,Slaven Belupo,1,2,,,,0
-1732710600,Dugopolje,Lok. Zagreb,0,1,,,,0
-1739280600,Bjelovar,D. Zagreb,2,3,,,,0
-1740585600,Hajduk Split,Rijeka,1,3,,,,0
-1740595500,D. Zagreb,Osijek,0,1,,,,0
-1741104000,Istra 1961,Lok. Zagreb,3,0,,,,0
-1741190400,Slaven Belupo,Gorica,1,1,AET,3,1,0
-1743606000,Slaven Belupo,Osijek,0,0,Pen,1,0,0
-1743616800,Rijeka,Istra 1961,1,0,,,,0
-1747238400,Slaven Belupo,Rijeka,1,1,,,,0
-1748538000,Rijeka,Slaven Belupo,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1724769000,Jadran Porec,Radnik Krizevci,xIA2LlgK,WYO2BUR7,0,0,Pen,1,0,0
+1724769000,Gaj Mace,Karlovac,E1IidLVb,WSBTfTaU,1,1,AET,2,1,0
+1724855400,Zrinski Osjecko,Moslavina,hACPqNzf,CUoHOOam,4,0,,,,0
+1724855400,Tomislav DA,Sloga Borovo,QuM72wgm,t6NoNpgK,5,0,,,,0
+1724855400,Sloga NG,Bjelovar,2eO85Pc4,UPhyZXn8,0,1,,,,0
+1724855400,Sava Strmec,NK P.,SAaGxh8G,nmAhYiZK,0,7,,,,0
+1724855400,Samobor,Ferdinandovac,Q7vqi4KT,YowWZXIR,10,0,,,,0
+1724855400,Neretvanac,Bedem Ivankovo,dp8KDfVH,CniMfo1o,2,0,,,,0
+1724855400,Nehaj Senj,Croatia Dakovo,b3DnZCVj,2adB09O7,0,4,,,,0
+1724855400,Medjimurec,Varteks Varazdin,SWK6Lx6A,nmKIPn4A,1,1,Pen,1,2,0
+1724855400,Kustosija,NK Polet,A5NQVAWs,jodcfuRJ,3,0,,,,0
+1724855400,HV Posedarje,Slavonija Pozega,zy7OCEpO,ER5SBYaU,1,2,,,,0
+1724855400,Dugopolje,Jarun,SOQfJgM4,Ig9GEzGB,0,0,Pen,1,0,0
+1724855400,Bilogora,Zagora,8QI3VkLQ,GvnQg73g,1,0,,,,0
+1724855400,Bednja Beletinec,Orijent,vmpDLEkF,GnWxvLG3,2,1,,,,0
+1724855400,Banjole,Mladost Petrinja,nFWV3eNK,Ktjm3oJ4,2,0,,,,0
+1725978600,Zrinski Osjecko,Sibenik,hACPqNzf,YgThBW79,0,2,,,,0
+1725978600,Tomislav DA,Istra 1961,QuM72wgm,S0dWTsz4,0,2,,,,0
+1725978600,Jadran Porec,Zdralovi,xIA2LlgK,OtNCFOTr,0,2,,,,0
+1726065000,Slavonija Pozega,Oriolik,ER5SBYaU,CniMfo1o,3,0,,,,0
+1726065000,Samobor,Lok. Zagreb,Q7vqi4KT,McKSPis2,2,4,,,,0
+1726065000,NK P.,Rudes,nmAhYiZK,rkMd9kXu,1,2,,,,0
+1726065000,Kustosija,Slaven Belupo,A5NQVAWs,xluSzFWQ,0,1,,,,0
+1726065000,Gaj Mace,Varazdin,E1IidLVb,CCW2Z0Rb,1,2,,,,0
+1726065000,Dugopolje,Bijelo Brdo,SOQfJgM4,xQzYcpTj,1,0,,,,0
+1726065000,Croatia Dakovo,Gorica,2adB09O7,fu4DkIs2,0,0,Pen,1,2,0
+1726065000,Bjelovar,Jaska Vinogradar,UPhyZXn8,08mOQ28q,4,0,,,,0
+1726065000,Bednja Beletinec,Belisce,vmpDLEkF,ER5SBYaU,3,0,,,,0
+1726583400,Bilogora,Hajduk Split,8QI3VkLQ,Mc6FcsjL,0,4,,,,0
+1726669800,Varteks Varazdin,Osijek,nmKIPn4A,x4Xh4Pu0,1,3,,,,0
+1726677000,Neretvanac,Rijeka,dp8KDfVH,YDFGOnMF,1,3,,,,0
+1727272800,Banjole,D. Zagreb,nFWV3eNK,GU4hlIMk,1,3,,,,0
+1729609200,Slavonija Pozega,Osijek,ER5SBYaU,x4Xh4Pu0,1,2,,,,1
+1729618200,Bednja Beletinec,Rijeka,vmpDLEkF,YDFGOnMF,0,3,,,,0
+1730293200,Zdralovi,Hajduk Split,OtNCFOTr,Mc6FcsjL,0,3,,,,1
+1730293200,Rudes,Istra 1961,rkMd9kXu,S0dWTsz4,1,2,,,,0
+1731600000,Varazdin,Gorica,CCW2Z0Rb,fu4DkIs2,1,1,Pen,1,2,0
+1731769200,Sibenik,Slaven Belupo,YgThBW79,xluSzFWQ,1,2,,,,0
+1732710600,Dugopolje,Lok. Zagreb,SOQfJgM4,McKSPis2,0,1,,,,0
+1739280600,Bjelovar,D. Zagreb,UPhyZXn8,GU4hlIMk,2,3,,,,0
+1740585600,Hajduk Split,Rijeka,Mc6FcsjL,YDFGOnMF,1,3,,,,0
+1740595500,D. Zagreb,Osijek,GU4hlIMk,x4Xh4Pu0,0,1,,,,0
+1741104000,Istra 1961,Lok. Zagreb,S0dWTsz4,McKSPis2,3,0,,,,0
+1741190400,Slaven Belupo,Gorica,xluSzFWQ,fu4DkIs2,1,1,AET,3,1,0
+1743606000,Slaven Belupo,Osijek,xluSzFWQ,x4Xh4Pu0,0,0,Pen,1,0,0
+1743616800,Rijeka,Istra 1961,YDFGOnMF,S0dWTsz4,1,0,,,,0
+1747238400,Slaven Belupo,Rijeka,xluSzFWQ,YDFGOnMF,1,1,,,,0
+1748538000,Rijeka,Slaven Belupo,YDFGOnMF,xluSzFWQ,1,0,,,,0

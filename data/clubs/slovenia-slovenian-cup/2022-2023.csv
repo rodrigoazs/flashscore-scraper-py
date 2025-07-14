@@ -1,64 +1,64 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1664380800,Celje,Dravinja,5,0,,,,0
-1665581400,Ziri,Triglav,0,2,,,,0
-1665583200,Visoko,Britof,2,3,,,,0
-1665583200,Rogaska,Sampion Celje,4,2,,,,0
-1666098000,Primorje,Tolmin,3,1,,,,0
-1666107000,Domzale,Ilirija,3,1,,,,0
-1666108800,Maribor,Limbus-Pekre,9,0,,,,0
-1666110600,Aluminij,SD Bukovci,11,0,,,,0
-1666184400,Tabor '69,Dob,0,3,,,,0
-1666184400,Slatina,Rakican,7,0,,,,0
-1666184400,Rudar,Brezice,10,0,,,,0
-1666184400,Radomlje,Bravo,0,2,,,,0
-1666184400,NK Krka,Litija,8,0,,,,0
-1666184400,NK Gancani,Mura,1,2,,,,0
-1666184400,NK Carda Martjanci,NK Serdica,2,3,,,,0
-1666184400,Izola,Koper,0,2,,,,0
-1666184400,Idrija,Fama Vipava,1,0,,,,0
-1666184400,Cven,Verzej,2,0,,,,0
-1666186200,Turnisce,Odranci,-,-,WO,,,0
-1666186200,Panonija Gaberje,Hotiza,1,4,,,,0
-1666186200,Jesenice,Sencur,1,1,Pen,1,2,0
-1666186200,Fuzinar,Jurovski Dol,4,1,,,,0
-1666188000,Zavrc,Apace,-,-,WO,,,0
-1666188000,Tabor Sezana,Komen,9,1,,,,0
-1666188000,Podvinci,Videm,0,2,,,,0
-1666188000,NK Bistrica,Oplotnica,13,0,,,,0
-1666188000,Cirkulane,Polskava,2,0,,,,0
-1666193400,O. Ljubljana,Ivancna Gorica,5,0,,,,0
-1666193400,Dobrovce,Korotan,3,3,Pen,4,3,0
-1666195200,NK Polana,Nafta,0,2,,,,0
-1666197000,NK Ljubljana,Zagorje,1,1,Pen,1,2,0
-1666270800,Ljutomer,Beltinci,0,0,Pen,1,0,0
-1667910600,Hotiza,Domzale,0,7,,,,0
-1667910600,Fuzinar,Cven,4,1,,,,0
-1667934000,Nafta,Triglav,0,0,Pen,2,1,0
-1667997000,Zavrc,NK Serdica,2,0,,,,0
-1667997000,Videm,Dob,2,2,Pen,3,2,0
-1667997000,Slatina,NK Bistrica,0,3,Awrd,,,0
-1667997000,Rogaska,Odranci,7,0,,,,0
-1667997000,Primorje,Zagorje,8,0,,,,0
-1667997000,Idrija,Aluminij,1,5,,,,0
-1667997000,Bravo,Britof,9,0,,,,0
-1668009600,Celje,Mura,2,1,,,,0
-1668013200,O. Ljubljana,Ljutomer,4,1,,,,0
-1668021300,Maribor,NK Krka,3,1,,,,0
-1668083400,Tabor Sezana,Sencur,1,1,AET,2,1,0
-1668096000,Rudar,Dobrovce,4,1,,,,0
-1668106800,Koper,Cirkulane,6,0,,,,0
-1678194000,Primorje,Zavrc,6,1,,,,0
-1678201200,Celje,Videm,3,0,,,,0
-1678208400,Koper,Domzale,0,0,AET,2,0,0
-1678280400,Tabor Sezana,Rogaska,0,1,,,,0
-1678284000,Rudar,Maribor,0,4,,,,0
-1678287600,Aluminij,Fuzinar,4,2,,,,0
-1678294800,Nafta,O. Ljubljana,1,3,,,,0
-1678368600,NK Bistrica,Bravo,1,0,,,,0
-1680703200,Aluminij,Koper,1,0,,,,0
-1680718500,Maribor,Primorje,3,1,,,,0
-1680789600,Rogaska,NK Bistrica,0,2,,,,0
-1680804900,O. Ljubljana,Celje,0,0,Pen,1,0,0
-1682433000,NK Bistrica,Maribor,1,3,,,,0
-1682523000,O. Ljubljana,Aluminij,2,1,,,,0
-1683397800,O. Ljubljana,Maribor,0,0,AET,2,1,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1664380800,Celje,Dravinja,juuH5vx4,Eua5PHRE,5,0,,,,0
+1665581400,Ziri,Triglav,CfyC5Nim,SObuJ8lK,0,2,,,,0
+1665583200,Visoko,Britof,OQte9H5i,2gmAxwcQ,2,3,,,,0
+1665583200,Rogaska,Sampion Celje,Aow8ZUdr,I1V0Gz9n,4,2,,,,0
+1666098000,Primorje,Tolmin,ttIVL12M,WUxnvDKb,3,1,,,,0
+1666107000,Domzale,Ilirija,8GL0cHSF,GYzACV3C,3,1,,,,0
+1666108800,Maribor,Limbus-Pekre,88sMeCH2,vVnRVm8F,9,0,,,,0
+1666110600,Aluminij,SD Bukovci,8MCIbRV4,IDg17BKD,11,0,,,,0
+1666184400,Tabor '69,Dob,CGvg8ZKD,zk01QcC8,0,3,,,,0
+1666184400,Slatina,Rakican,h2IF5Xoi,6BTYNroS,7,0,,,,0
+1666184400,Rudar,Brezice,fcDVLdrL,EB9Z0sEO,10,0,,,,0
+1666184400,Radomlje,Bravo,On6HHpDI,h2vTJgFJ,0,2,,,,0
+1666184400,NK Krka,Litija,WGDgkDs1,4IDFGFcR,8,0,,,,0
+1666184400,NK Gancani,Mura,IDg17BKD,UcUjoAI7,1,2,,,,0
+1666184400,NK Carda Martjanci,NK Serdica,QoDjNfZL,t8vsrRD6,2,3,,,,0
+1666184400,Izola,Koper,0Kwhi4m2,Ukh5nnRo,0,2,,,,0
+1666184400,Idrija,Fama Vipava,2kBoB439,KAVZThnH,1,0,,,,0
+1666184400,Cven,Verzej,ILoVU7NL,r3uHKOhm,2,0,,,,0
+1666186200,Turnisce,Odranci,KhGz8pzt,2yjk7j71,-,-,WO,,,0
+1666186200,Panonija Gaberje,Hotiza,j7wc7gzK,KQicL3Ju,1,4,,,,0
+1666186200,Jesenice,Sencur,Ucx16DkQ,2yjk7j71,1,1,Pen,1,2,0
+1666186200,Fuzinar,Jurovski Dol,xbMi5asE,j7wc7gzK,4,1,,,,0
+1666188000,Zavrc,Apace,AT1C7n8d,EuX9czik,-,-,WO,,,0
+1666188000,Tabor Sezana,Komen,Qwe4rAuT,zkY5bGyq,9,1,,,,0
+1666188000,Podvinci,Videm,rVD0IIGn,x8FWPl6b,0,2,,,,0
+1666188000,NK Bistrica,Oplotnica,MuJlmpmb,zkY5bGyq,13,0,,,,0
+1666188000,Cirkulane,Polskava,rVD0IIGn,EuX9czik,2,0,,,,0
+1666193400,O. Ljubljana,Ivancna Gorica,zc0A80Mi,biRZFmQ2,5,0,,,,0
+1666193400,Dobrovce,Korotan,0M6vqwOJ,Me9Dm1LT,3,3,Pen,4,3,0
+1666195200,NK Polana,Nafta,Ik9HqAEU,lMVQNkcq,0,2,,,,0
+1666197000,NK Ljubljana,Zagorje,EuX9czik,ttIVL12M,1,1,Pen,1,2,0
+1666270800,Ljutomer,Beltinci,WOiN3YjQ,EB9Z0sEO,0,0,Pen,1,0,0
+1667910600,Hotiza,Domzale,KQicL3Ju,8GL0cHSF,0,7,,,,0
+1667910600,Fuzinar,Cven,xbMi5asE,ILoVU7NL,4,1,,,,0
+1667934000,Nafta,Triglav,lMVQNkcq,SObuJ8lK,0,0,Pen,2,1,0
+1667997000,Zavrc,NK Serdica,AT1C7n8d,t8vsrRD6,2,0,,,,0
+1667997000,Videm,Dob,x8FWPl6b,zk01QcC8,2,2,Pen,3,2,0
+1667997000,Slatina,NK Bistrica,h2IF5Xoi,MuJlmpmb,0,3,Awrd,,,0
+1667997000,Rogaska,Odranci,Aow8ZUdr,2yjk7j71,7,0,,,,0
+1667997000,Primorje,Zagorje,ttIVL12M,ttIVL12M,8,0,,,,0
+1667997000,Idrija,Aluminij,2kBoB439,8MCIbRV4,1,5,,,,0
+1667997000,Bravo,Britof,h2vTJgFJ,2gmAxwcQ,9,0,,,,0
+1668009600,Celje,Mura,juuH5vx4,UcUjoAI7,2,1,,,,0
+1668013200,O. Ljubljana,Ljutomer,zc0A80Mi,WOiN3YjQ,4,1,,,,0
+1668021300,Maribor,NK Krka,88sMeCH2,WGDgkDs1,3,1,,,,0
+1668083400,Tabor Sezana,Sencur,Qwe4rAuT,2yjk7j71,1,1,AET,2,1,0
+1668096000,Rudar,Dobrovce,fcDVLdrL,0M6vqwOJ,4,1,,,,0
+1668106800,Koper,Cirkulane,Ukh5nnRo,rVD0IIGn,6,0,,,,0
+1678194000,Primorje,Zavrc,ttIVL12M,AT1C7n8d,6,1,,,,0
+1678201200,Celje,Videm,juuH5vx4,x8FWPl6b,3,0,,,,0
+1678208400,Koper,Domzale,Ukh5nnRo,8GL0cHSF,0,0,AET,2,0,0
+1678280400,Tabor Sezana,Rogaska,Qwe4rAuT,Aow8ZUdr,0,1,,,,0
+1678284000,Rudar,Maribor,fcDVLdrL,88sMeCH2,0,4,,,,0
+1678287600,Aluminij,Fuzinar,8MCIbRV4,xbMi5asE,4,2,,,,0
+1678294800,Nafta,O. Ljubljana,lMVQNkcq,zc0A80Mi,1,3,,,,0
+1678368600,NK Bistrica,Bravo,MuJlmpmb,h2vTJgFJ,1,0,,,,0
+1680703200,Aluminij,Koper,8MCIbRV4,Ukh5nnRo,1,0,,,,0
+1680718500,Maribor,Primorje,88sMeCH2,ttIVL12M,3,1,,,,0
+1680789600,Rogaska,NK Bistrica,Aow8ZUdr,MuJlmpmb,0,2,,,,0
+1680804900,O. Ljubljana,Celje,zc0A80Mi,juuH5vx4,0,0,Pen,1,0,0
+1682433000,NK Bistrica,Maribor,MuJlmpmb,88sMeCH2,1,3,,,,0
+1682523000,O. Ljubljana,Aluminij,zc0A80Mi,8MCIbRV4,2,1,,,,0
+1683397800,O. Ljubljana,Maribor,zc0A80Mi,88sMeCH2,0,0,AET,2,1,1

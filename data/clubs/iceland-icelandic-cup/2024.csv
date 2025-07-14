@@ -1,76 +1,76 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1711980000,Augnablik,Alftanes,7,1,,,,0
-1711996200,Lettir,IH Hafnarfjordur,2,7,,,,0
-1712258100,Ymir,Thorlakur,11,0,,,,0
-1712258100,Selfoss,Stokkseyri,-,-,WO,,,0
-1712258100,Kria,Ulfarnir,1,2,,,,0
-1712259000,Midas,RB Keflavik,1,3,,,,0
-1712260800,Ellidi,Olafsvik,0,3,,,,0
-1712262600,Alafoss,KFG Gardabaer,0,6,,,,0
-1712338200,Spyrnir,Hottur / Huginn,0,5,,,,0
-1712341800,Hafnir,KM Reykjavik,12,0,,,,0
-1712344500,Tindastoll,Samherjar,7,0,,,,0
-1712344500,Smari,Arbaer,1,1,Pen,2,3,0
-1712344500,KH Hlidarendi,Reynir,5,1,,,,0
-1712344500,Haukar,Afrika Reykjavik,20,0,,,,0
-1712344500,Hamar,Hviti,2,2,AET,2,5,0
-1712412000,Vaengirs,Isafjordur,6,2,,,,0
-1712412000,SR Reykjavik,Kormakur/Hvot,2,4,,,,0
-1712412000,KV Reykjavik,KFS,3,0,,,,0
-1712412000,KFR,KFK Kopavogur,4,8,,,,0
-1712412000,Kari,IBU,5,0,,,,0
-1712415600,Arborg,Reynir Hellissandur,12,0,,,,0
-1712417400,Vidir,Sindri,1,1,AET,2,1,0
-1712419200,Throttur Vogar,KA Asvellir,1,3,,,,0
-1712433600,Skallagrimur,Aegir,1,3,,,,0
-1712780100,Olafsvik,Keflavik,2,3,,,,0
-1712949300,Selfoss,Kari,3,1,,,,0
-1712949300,Hviti,Grindavik,0,3,,,,0
-1712950200,Dalvik/Reynir,Fjallabyggd,2,0,,,,0
-1712952900,Hafnir,Ulfarnir,3,0,,,,0
-1712953800,IH Hafnarfjordur,Ymir,3,3,Pen,5,4,0
-1713009600,Tindastoll,Magni,1,1,Pen,2,1,0
-1713013200,Leiknir,Afturelding,1,4,,,,0
-1713013200,KA Asvellir,RB Keflavik,3,3,AET,6,3,0
-1713013200,Arborg,Arbaer,1,2,,,,0
-1713016800,Vestmannaeyjar,KFG Gardabaer,5,1,,,,0
-1713016800,Vaengirs,Throttur,1,7,,,,0
-1713016800,Grotta,Njardvik,3,2,,,,0
-1713020400,KH Hlidarendi,Fjolnir,1,1,AET,2,4,0
-1713022200,KV Reykjavik,IR Reykjavik,1,7,,,,0
-1713024000,Hottur / Huginn,Volsungur,2,0,,,,0
-1713024000,Aegir,Haukar,2,3,,,,0
-1713103200,Augnablik,Kormakur/Hvot,5,2,,,,0
-1713106800,Thor Akureyri,KFA,5,1,,,,0
-1713119400,KFK Kopavogur,Vidir,0,3,,,,0
-1713899700,Fjolnir,Selfoss,4,2,,,,0
-1713986100,Valur,Hafnarfjordur,3,0,,,,0
-1713986100,Throttur,Kopavogur,1,2,,,,0
-1713986100,KA Asvellir,KR Reykjavik,2,9,,,,0
-1713988800,Augnablik,Stjarnan,1,2,,,,0
-1714053600,Vestmannaeyjar,Grindavik,1,2,,,,0
-1714053600,Hottur / Huginn,Fylkir,0,1,,,,0
-1714053600,Haukar,Vestri,2,4,,,,0
-1714053600,Arbaer,Fram,0,3,,,,0
-1714057200,Vikingur Reykjavik,Vidir,4,1,,,,0
-1714057200,KA Akureyri,IR Reykjavik,1,1,AET,2,1,0
-1714057200,Grotta,Thor Akureyri,0,3,,,,0
-1714057200,Akranes,Tindastoll,3,0,,,,0
-1714057200,Afturelding,Dalvik/Reynir,4,1,,,,0
-1714062600,IH Hafnarfjordur,Hafnir,4,2,,,,0
-1714072500,Keflavik,Breidablik,2,1,,,,0
-1715706000,Fjolnir,Thor Akureyri,0,2,,,,0
-1715796000,KA Akureyri,Vestri,3,1,,,,0
-1715883300,Keflavik,Akranes,3,1,,,,0
-1715886900,Grindavik,Vikingur Reykjavik,1,4,,,,0
-1715886900,Fylkir,Kopavogur,3,1,,,,0
-1715887800,Stjarnan,KR Reykjavik,5,3,,,,0
-1715973300,Fram,IH Hafnarfjordur,3,0,,,,0
-1715974200,Afturelding,Valur,1,3,,,,0
-1717948800,Keflavik,Valur,2,2,Pen,3,4,0
-1718215200,Thor Akureyri,Stjarnan,0,1,,,,0
-1718301600,KA Akureyri,Fram,3,0,,,,0
-1718306100,Vikingur Reykjavik,Fylkir,3,1,,,,0
-1719943200,KA Akureyri,Valur,3,2,,,,0
-1720035000,Vikingur Reykjavik,Stjarnan,1,1,Pen,2,1,0
-1726934400,KA Akureyri,Vikingur Reykjavik,2,0,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1711980000,Augnablik,Alftanes,GrWnNC8T,hMbcUrYn,7,1,,,,0
+1711996200,Lettir,IH Hafnarfjordur,be3zNYqJ,MX0iJlXI,2,7,,,,0
+1712258100,Ymir,Thorlakur,4dxTRzfb,2XP0CWyi,11,0,,,,0
+1712258100,Selfoss,Stokkseyri,vVtcIMuQ,4MRPviD8,-,-,WO,,,0
+1712258100,Kria,Ulfarnir,KAZzQEOA,rmyXQf94,1,2,,,,0
+1712259000,Midas,RB Keflavik,KAZzQEOA,bPfggRSA,1,3,,,,0
+1712260800,Ellidi,Olafsvik,xhXrOhgN,6PrjRERe,0,3,,,,0
+1712262600,Alafoss,KFG Gardabaer,GrWnNC8T,n5VfpeeC,0,6,,,,0
+1712338200,Spyrnir,Hottur / Huginn,6ueZFMNa,p8LlMFG6,0,5,,,,0
+1712341800,Hafnir,KM Reykjavik,pWgwFtw6,b1YvPYwH,12,0,,,,0
+1712344500,Tindastoll,Samherjar,A5sPk3Xc,fVS0liCC,7,0,,,,0
+1712344500,Smari,Arbaer,MmVKzBV9,pWgwFtw6,1,1,Pen,2,3,0
+1712344500,KH Hlidarendi,Reynir,b1YvPYwH,lURlevyR,5,1,,,,0
+1712344500,Haukar,Afrika Reykjavik,AZnOPGmc,EVagVOIt,20,0,,,,0
+1712344500,Hamar,Hviti,fifS9oRq,xhXrOhgN,2,2,AET,2,5,0
+1712412000,Vaengirs,Isafjordur,OE6VKtq7,pUrKaIA5,6,2,,,,0
+1712412000,SR Reykjavik,Kormakur/Hvot,KAZzQEOA,dOKLCWwr,2,4,,,,0
+1712412000,KV Reykjavik,KFS,SMqfYKur,b1YvPYwH,3,0,,,,0
+1712412000,KFR,KFK Kopavogur,b1YvPYwH,pWgwFtw6,4,8,,,,0
+1712412000,Kari,IBU,8r8kiWIb,foisyf0B,5,0,,,,0
+1712415600,Arborg,Reynir Hellissandur,Uqc1T2mg,A1JBNaFe,12,0,,,,0
+1712417400,Vidir,Sindri,2H9ZyTVd,0EjcWZNN,1,1,AET,2,1,0
+1712419200,Throttur Vogar,KA Asvellir,A5NQVAWs,OCcs2ISG,1,3,,,,0
+1712433600,Skallagrimur,Aegir,rmyXQf94,MHlDlNqI,1,3,,,,0
+1712780100,Olafsvik,Keflavik,6PrjRERe,OhPjY7JU,2,3,,,,0
+1712949300,Selfoss,Kari,vVtcIMuQ,8r8kiWIb,3,1,,,,0
+1712949300,Hviti,Grindavik,xhXrOhgN,UakDSYpT,0,3,,,,0
+1712950200,Dalvik/Reynir,Fjallabyggd,Y38sXtLo,viAU8Mim,2,0,,,,0
+1712952900,Hafnir,Ulfarnir,pWgwFtw6,rmyXQf94,3,0,,,,0
+1712953800,IH Hafnarfjordur,Ymir,MX0iJlXI,4dxTRzfb,3,3,Pen,5,4,0
+1713009600,Tindastoll,Magni,A5sPk3Xc,zFcrvlsh,1,1,Pen,2,1,0
+1713013200,Leiknir,Afturelding,GvStD1NM,xYrsq4Q9,1,4,,,,0
+1713013200,KA Asvellir,RB Keflavik,OCcs2ISG,bPfggRSA,3,3,AET,6,3,0
+1713013200,Arborg,Arbaer,Uqc1T2mg,pWgwFtw6,1,2,,,,0
+1713016800,Vestmannaeyjar,KFG Gardabaer,GhaBLUZO,n5VfpeeC,5,1,,,,0
+1713016800,Vaengirs,Throttur,OE6VKtq7,zw0oiUbh,1,7,,,,0
+1713016800,Grotta,Njardvik,G0BCkS3I,KImYSWWm,3,2,,,,0
+1713020400,KH Hlidarendi,Fjolnir,b1YvPYwH,Grlam9Tu,1,1,AET,2,4,0
+1713022200,KV Reykjavik,IR Reykjavik,SMqfYKur,rgYuXGKm,1,7,,,,0
+1713024000,Hottur / Huginn,Volsungur,p8LlMFG6,jFyMbXvK,2,0,,,,0
+1713024000,Aegir,Haukar,MHlDlNqI,AZnOPGmc,2,3,,,,0
+1713103200,Augnablik,Kormakur/Hvot,GrWnNC8T,dOKLCWwr,5,2,,,,0
+1713106800,Thor Akureyri,KFA,88ByecJ3,xvzLLuIA,5,1,,,,0
+1713119400,KFK Kopavogur,Vidir,pWgwFtw6,2H9ZyTVd,0,3,,,,0
+1713899700,Fjolnir,Selfoss,Grlam9Tu,vVtcIMuQ,4,2,,,,0
+1713986100,Valur,Hafnarfjordur,juoTB6Rh,K4lZsY9J,3,0,,,,0
+1713986100,Throttur,Kopavogur,zw0oiUbh,rgYuXGKm,1,2,,,,0
+1713986100,KA Asvellir,KR Reykjavik,OCcs2ISG,GYYKuYKt,2,9,,,,0
+1713988800,Augnablik,Stjarnan,GrWnNC8T,juoTB6Rh,1,2,,,,0
+1714053600,Vestmannaeyjar,Grindavik,GhaBLUZO,UakDSYpT,1,2,,,,0
+1714053600,Hottur / Huginn,Fylkir,p8LlMFG6,YFWSwCkg,0,1,,,,0
+1714053600,Haukar,Vestri,AZnOPGmc,A5NQVAWs,2,4,,,,0
+1714053600,Arbaer,Fram,pWgwFtw6,fL3dmxxd,0,3,,,,0
+1714057200,Vikingur Reykjavik,Vidir,ATBUwpjA,2H9ZyTVd,4,1,,,,0
+1714057200,KA Akureyri,IR Reykjavik,IP5ctvAE,rgYuXGKm,1,1,AET,2,1,0
+1714057200,Grotta,Thor Akureyri,G0BCkS3I,88ByecJ3,0,3,,,,0
+1714057200,Akranes,Tindastoll,4hhcealo,A5sPk3Xc,3,0,,,,0
+1714057200,Afturelding,Dalvik/Reynir,xYrsq4Q9,Y38sXtLo,4,1,,,,0
+1714062600,IH Hafnarfjordur,Hafnir,MX0iJlXI,pWgwFtw6,4,2,,,,0
+1714072500,Keflavik,Breidablik,OhPjY7JU,UPMdbcD9,2,1,,,,0
+1715706000,Fjolnir,Thor Akureyri,Grlam9Tu,88ByecJ3,0,2,,,,0
+1715796000,KA Akureyri,Vestri,IP5ctvAE,A5NQVAWs,3,1,,,,0
+1715883300,Keflavik,Akranes,OhPjY7JU,4hhcealo,3,1,,,,0
+1715886900,Grindavik,Vikingur Reykjavik,UakDSYpT,ATBUwpjA,1,4,,,,0
+1715886900,Fylkir,Kopavogur,YFWSwCkg,rgYuXGKm,3,1,,,,0
+1715887800,Stjarnan,KR Reykjavik,juoTB6Rh,GYYKuYKt,5,3,,,,0
+1715973300,Fram,IH Hafnarfjordur,fL3dmxxd,MX0iJlXI,3,0,,,,0
+1715974200,Afturelding,Valur,xYrsq4Q9,juoTB6Rh,1,3,,,,0
+1717948800,Keflavik,Valur,OhPjY7JU,juoTB6Rh,2,2,Pen,3,4,0
+1718215200,Thor Akureyri,Stjarnan,88ByecJ3,juoTB6Rh,0,1,,,,0
+1718301600,KA Akureyri,Fram,IP5ctvAE,fL3dmxxd,3,0,,,,0
+1718306100,Vikingur Reykjavik,Fylkir,ATBUwpjA,YFWSwCkg,3,1,,,,0
+1719943200,KA Akureyri,Valur,IP5ctvAE,juoTB6Rh,3,2,,,,0
+1720035000,Vikingur Reykjavik,Stjarnan,ATBUwpjA,juoTB6Rh,1,1,Pen,2,1,0
+1726934400,KA Akureyri,Vikingur Reykjavik,IP5ctvAE,ATBUwpjA,2,0,,,,1

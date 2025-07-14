@@ -1,25 +1,25 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1579921200,Soaga (Sam),Veitongo (Ton),2,0,,,,0
-1580180400,Tupapa (Coi),Soaga (Sam),0,0,,,,0
-1580439600,Veitongo (Ton),Tupapa (Coi),2,2,,,,0
-1581724800,Lae City (Pap),Henderson Eels (Sol),3,3,,,,0
-1581739200,Lautoka (Fij),Malampa Revivors (Van),1,1,,,,0
-1581818400,ABM Galaxy (Van),Hienghene (Nca),4,1,,,,0
-1581829200,Eastern Suburbs (Nzl),Hekari Utd (Pap),2,1,,,,0
-1581984000,Lautoka (Fij),Lae City (Pap),0,7,,,,0
-1581998400,Malampa Revivors (Van),Henderson Eels (Sol),2,2,,,,0
-1582077600,ABM Galaxy (Van),Eastern Suburbs (Nzl),2,2,,,,0
-1582088400,Hienghene (Nca),Hekari Utd (Pap),2,2,,,,0
-1582243200,Henderson Eels (Sol),Lautoka (Fij),3,2,,,,0
-1582257600,Malampa Revivors (Van),Lae City (Pap),3,0,,,,0
-1582336800,Hienghene (Nca),Eastern Suburbs (Nzl),0,4,,,,0
-1582347600,Hekari Utd (Pap),ABM Galaxy (Van),2,1,,,,0
-1583038800,Solomon Warriors (Sol),Tiare (Tah),1,0,,,,0
-1583118000,Ba (Fij),Auckland City (Nzl),0,6,,,,0
-1583128800,Soaga (Sam),Venus (Tah),0,6,,,,0
-1583312400,Magenta (Nca),Tiare (Tah),3,2,,,,0
-1583377200,Soaga (Sam),Ba (Fij),4,3,,,,0
-1583388000,Venus (Tah),Auckland City (Nzl),0,1,,,,0
-1583568000,Magenta (Nca),Solomon Warriors (Sol),2,0,,,,0
-1583636400,Auckland City (Nzl),Soaga (Sam),2,0,,,,0
-1583647200,Venus (Tah),Ba (Fij),4,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1579921200,Soaga (Sam),Veitongo (Ton),EolyjeGf,G689Zsd3,2,0,,,,0
+1580180400,Tupapa (Coi),Soaga (Sam),WUCWRIXm,EolyjeGf,0,0,,,,0
+1580439600,Veitongo (Ton),Tupapa (Coi),G689Zsd3,WUCWRIXm,2,2,,,,0
+1581724800,Lae City (Pap),Henderson Eels (Sol),OfQt6HMB,fuCXqOCS,3,3,,,,0
+1581739200,Lautoka (Fij),Malampa Revivors (Van),YajMy4UH,tE1csI3A,1,1,,,,0
+1581818400,ABM Galaxy (Van),Hienghene (Nca),KnsZENSI,0Mr6bQGB,4,1,,,,0
+1581829200,Eastern Suburbs (Nzl),Hekari Utd (Pap),ILJej0g8,EFVWv0e5,2,1,,,,0
+1581984000,Lautoka (Fij),Lae City (Pap),YajMy4UH,OfQt6HMB,0,7,,,,0
+1581998400,Malampa Revivors (Van),Henderson Eels (Sol),tE1csI3A,fuCXqOCS,2,2,,,,0
+1582077600,ABM Galaxy (Van),Eastern Suburbs (Nzl),KnsZENSI,ILJej0g8,2,2,,,,0
+1582088400,Hienghene (Nca),Hekari Utd (Pap),0Mr6bQGB,EFVWv0e5,2,2,,,,0
+1582243200,Henderson Eels (Sol),Lautoka (Fij),fuCXqOCS,YajMy4UH,3,2,,,,0
+1582257600,Malampa Revivors (Van),Lae City (Pap),tE1csI3A,OfQt6HMB,3,0,,,,0
+1582336800,Hienghene (Nca),Eastern Suburbs (Nzl),0Mr6bQGB,ILJej0g8,0,4,,,,0
+1582347600,Hekari Utd (Pap),ABM Galaxy (Van),EFVWv0e5,KnsZENSI,2,1,,,,0
+1583038800,Solomon Warriors (Sol),Tiare (Tah),0SkIuSnk,COEPNt3c,1,0,,,,0
+1583118000,Ba (Fij),Auckland City (Nzl),tE1csI3A,E7VNOejE,0,6,,,,0
+1583128800,Soaga (Sam),Venus (Tah),EolyjeGf,SOSC5LRG,0,6,,,,0
+1583312400,Magenta (Nca),Tiare (Tah),QsL6ehoB,COEPNt3c,3,2,,,,0
+1583377200,Soaga (Sam),Ba (Fij),EolyjeGf,tE1csI3A,4,3,,,,0
+1583388000,Venus (Tah),Auckland City (Nzl),SOSC5LRG,E7VNOejE,0,1,,,,0
+1583568000,Magenta (Nca),Solomon Warriors (Sol),QsL6ehoB,0SkIuSnk,2,0,,,,0
+1583636400,Auckland City (Nzl),Soaga (Sam),E7VNOejE,EolyjeGf,2,0,,,,0
+1583647200,Venus (Tah),Ba (Fij),SOSC5LRG,tE1csI3A,4,2,,,,0

@@ -1,15 +1,15 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1140649200,Olimpia,Toluca,0,2,,,,0
-1140656400,Portmore,Club America,1,2,,,,0
-1140658200,New England Revolution,Alajuelense,0,0,,,,0
-1140665400,Los Angeles Galaxy,Saprissa,0,0,,,,0
-1141852020,Toluca,Olimpia,2,1,,,,0
-1141866180,Club America,Portmore,5,2,,,,0
-1141869600,Alajuelense,New England Revolution,1,0,,,,0
-1141870020,Saprissa,Los Angeles Galaxy,2,2,AET,3,2,0
-1143059400,Toluca,Saprissa,2,0,,,,0
-1143165900,Alajuelense,Club America,1,2,,,,0
-1143677100,Club America,Alajuelense,0,0,,,,0
-1143684300,Saprissa,Toluca,3,2,,,,0
-1144872360,Toluca,Club America,0,0,,,,0
-1145498700,Club America,Toluca,0,0,AET,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1140649200,Olimpia,Toluca,WvziCH8E,0pHVJYjM,0,2,,,,0
+1140656400,Portmore,Club America,KCGGnOpC,OGkmEu0T,1,2,,,,0
+1140658200,New England Revolution,Alajuelense,KI53uaQC,4v3Y4ReF,0,0,,,,0
+1140665400,Los Angeles Galaxy,Saprissa,nqhLBCKD,tnwDCzLD,0,0,,,,0
+1141852020,Toluca,Olimpia,0pHVJYjM,WvziCH8E,2,1,,,,0
+1141866180,Club America,Portmore,OGkmEu0T,KCGGnOpC,5,2,,,,0
+1141869600,Alajuelense,New England Revolution,4v3Y4ReF,KI53uaQC,1,0,,,,0
+1141870020,Saprissa,Los Angeles Galaxy,tnwDCzLD,nqhLBCKD,2,2,AET,3,2,0
+1143059400,Toluca,Saprissa,0pHVJYjM,tnwDCzLD,2,0,,,,0
+1143165900,Alajuelense,Club America,4v3Y4ReF,OGkmEu0T,1,2,,,,0
+1143677100,Club America,Alajuelense,OGkmEu0T,4v3Y4ReF,0,0,,,,0
+1143684300,Saprissa,Toluca,tnwDCzLD,0pHVJYjM,3,2,,,,0
+1144872360,Toluca,Club America,0pHVJYjM,OGkmEu0T,0,0,,,,0
+1145498700,Club America,Toluca,OGkmEu0T,0pHVJYjM,0,0,AET,2,1,0

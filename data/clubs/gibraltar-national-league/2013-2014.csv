@@ -1,57 +1,57 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1381168800,Glacis United,Lions Gibraltar,3,2,,,,0
-1381514400,Lynx,St Josephs,3,1,,,,0
-1382796000,Europa FC,Gibraltar Phoenix,3,1,,,,0
-1383332400,Lions Gibraltar,Manchester 62,3,1,,,,0
-1383404400,St Josephs,Europa FC,0,1,,,,0
-1383411600,Glacis United,Gibraltar Phoenix,3,0,,,,0
-1383591600,Lynx,Lincoln Red Imps,0,0,,,,0
-1383937200,Gibraltar Phoenix,Lions Gibraltar,2,6,,,,0
-1384009200,Europa FC,Lincoln Red Imps,1,1,,,,0
-1384016400,Manchester 62,Lynx,3,2,,,,0
-1384023600,Glacis United,St Josephs,1,0,,,,0
-1385146800,Manchester 62,Gibraltar Phoenix,5,0,,,,0
-1385218800,Lynx,Europa FC,3,2,,,,0
-1385226000,Lincoln Red Imps,Glacis United,4,0,,,,0
-1385406000,Lions Gibraltar,St Josephs,3,2,,,,0
-1385751600,Glacis United,Europa FC,0,2,,,,0
-1385823600,St Josephs,Manchester 62,0,3,,,,0
-1385830800,Gibraltar Phoenix,Lynx,0,7,,,,0
-1386010800,Lions Gibraltar,Lincoln Red Imps,0,4,,,,0
-1386183600,Gibraltar Phoenix,St Josephs,0,4,,,,0
-1386356400,Europa FC,Manchester 62,1,1,,,,0
-1386514800,Lions Gibraltar,Lynx,0,2,,,,0
-1386961200,Europa FC,Lions Gibraltar,1,1,,,,0
-1387033200,Manchester 62,Lincoln Red Imps,0,1,,,,0
-1387040400,Lynx,Glacis United,4,1,,,,0
-1390064400,Manchester 62,Glacis United,2,1,,,,0
-1390071600,Lincoln Red Imps,St Josephs,5,0,,,,0
-1391878800,Gibraltar Phoenix,Lincoln Red Imps,0,16,,,,0
-1392058800,Lions Gibraltar,Glacis United,3,4,,,,0
-1392404400,Manchester 62,Europa FC,2,0,,,,0
-1392476400,St Josephs,Lynx,2,3,,,,0
-1392483600,Lincoln Red Imps,Gibraltar Phoenix,16,1,,,,0
-1394823600,Gibraltar Phoenix,Europa FC,0,11,,,,0
-1394895600,Glacis United,Manchester 62,0,7,,,,0
-1394902800,St Josephs,Lincoln Red Imps,0,4,,,,0
-1395082800,Lynx,Lions Gibraltar,1,0,,,,0
-1395428400,Lincoln Red Imps,Lynx,3,0,,,,0
-1395500400,Manchester 62,Lions Gibraltar,4,0,,,,0
-1395507600,Europa FC,St Josephs,2,4,,,,0
-1395687600,Gibraltar Phoenix,Glacis United,2,3,,,,0
-1396033200,Lincoln Red Imps,Europa FC,4,2,,,,0
-1396105200,Lions Gibraltar,Gibraltar Phoenix,1,0,,,,0
-1396112400,St Josephs,Glacis United,0,0,,,,0
-1396456200,Lynx,Manchester 62,1,1,,,,0
-1396706400,Europa FC,Lynx,3,0,,,,0
-1396713600,Glacis United,Lincoln Red Imps,0,3,,,,0
-1396893600,Gibraltar Phoenix,Manchester 62,0,5,,,,0
-1397239200,Europa FC,Glacis United,1,2,,,,0
-1397311200,Lynx,Gibraltar Phoenix,8,2,,,,0
-1397318400,Manchester 62,St Josephs,2,0,,,,0
-1397498400,Lincoln Red Imps,Lions Gibraltar,4,1,,,,0
-1399053600,Glacis United,Lynx,0,2,,,,0
-1399125600,St Josephs,Gibraltar Phoenix,6,1,,,,0
-1399132800,Lions Gibraltar,Europa FC,1,1,,,,0
-1399140000,Lincoln Red Imps,Manchester 62,1,1,,,,0
-1399485600,St Josephs,Lions Gibraltar,4,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1381168800,Glacis United,Lions Gibraltar,6aBJEs1O,6aBJEs1O,3,2,,,,0
+1381514400,Lynx,St Josephs,8MryApd5,Glsdgqq4,3,1,,,,0
+1382796000,Europa FC,Gibraltar Phoenix,j1Y9DEbN,prhJzI53,3,1,,,,0
+1383332400,Lions Gibraltar,Manchester 62,6aBJEs1O,KMoKJlti,3,1,,,,0
+1383404400,St Josephs,Europa FC,Glsdgqq4,j1Y9DEbN,0,1,,,,0
+1383411600,Glacis United,Gibraltar Phoenix,6aBJEs1O,prhJzI53,3,0,,,,0
+1383591600,Lynx,Lincoln Red Imps,8MryApd5,86hNCjlr,0,0,,,,0
+1383937200,Gibraltar Phoenix,Lions Gibraltar,prhJzI53,6aBJEs1O,2,6,,,,0
+1384009200,Europa FC,Lincoln Red Imps,j1Y9DEbN,86hNCjlr,1,1,,,,0
+1384016400,Manchester 62,Lynx,KMoKJlti,8MryApd5,3,2,,,,0
+1384023600,Glacis United,St Josephs,6aBJEs1O,Glsdgqq4,1,0,,,,0
+1385146800,Manchester 62,Gibraltar Phoenix,KMoKJlti,prhJzI53,5,0,,,,0
+1385218800,Lynx,Europa FC,8MryApd5,j1Y9DEbN,3,2,,,,0
+1385226000,Lincoln Red Imps,Glacis United,86hNCjlr,6aBJEs1O,4,0,,,,0
+1385406000,Lions Gibraltar,St Josephs,6aBJEs1O,Glsdgqq4,3,2,,,,0
+1385751600,Glacis United,Europa FC,6aBJEs1O,j1Y9DEbN,0,2,,,,0
+1385823600,St Josephs,Manchester 62,Glsdgqq4,KMoKJlti,0,3,,,,0
+1385830800,Gibraltar Phoenix,Lynx,prhJzI53,8MryApd5,0,7,,,,0
+1386010800,Lions Gibraltar,Lincoln Red Imps,6aBJEs1O,86hNCjlr,0,4,,,,0
+1386183600,Gibraltar Phoenix,St Josephs,prhJzI53,Glsdgqq4,0,4,,,,0
+1386356400,Europa FC,Manchester 62,j1Y9DEbN,KMoKJlti,1,1,,,,0
+1386514800,Lions Gibraltar,Lynx,6aBJEs1O,8MryApd5,0,2,,,,0
+1386961200,Europa FC,Lions Gibraltar,j1Y9DEbN,6aBJEs1O,1,1,,,,0
+1387033200,Manchester 62,Lincoln Red Imps,KMoKJlti,86hNCjlr,0,1,,,,0
+1387040400,Lynx,Glacis United,8MryApd5,6aBJEs1O,4,1,,,,0
+1390064400,Manchester 62,Glacis United,KMoKJlti,6aBJEs1O,2,1,,,,0
+1390071600,Lincoln Red Imps,St Josephs,86hNCjlr,Glsdgqq4,5,0,,,,0
+1391878800,Gibraltar Phoenix,Lincoln Red Imps,prhJzI53,86hNCjlr,0,16,,,,0
+1392058800,Lions Gibraltar,Glacis United,6aBJEs1O,6aBJEs1O,3,4,,,,0
+1392404400,Manchester 62,Europa FC,KMoKJlti,j1Y9DEbN,2,0,,,,0
+1392476400,St Josephs,Lynx,Glsdgqq4,8MryApd5,2,3,,,,0
+1392483600,Lincoln Red Imps,Gibraltar Phoenix,86hNCjlr,prhJzI53,16,1,,,,0
+1394823600,Gibraltar Phoenix,Europa FC,prhJzI53,j1Y9DEbN,0,11,,,,0
+1394895600,Glacis United,Manchester 62,6aBJEs1O,KMoKJlti,0,7,,,,0
+1394902800,St Josephs,Lincoln Red Imps,Glsdgqq4,86hNCjlr,0,4,,,,0
+1395082800,Lynx,Lions Gibraltar,8MryApd5,6aBJEs1O,1,0,,,,0
+1395428400,Lincoln Red Imps,Lynx,86hNCjlr,8MryApd5,3,0,,,,0
+1395500400,Manchester 62,Lions Gibraltar,KMoKJlti,6aBJEs1O,4,0,,,,0
+1395507600,Europa FC,St Josephs,j1Y9DEbN,Glsdgqq4,2,4,,,,0
+1395687600,Gibraltar Phoenix,Glacis United,prhJzI53,6aBJEs1O,2,3,,,,0
+1396033200,Lincoln Red Imps,Europa FC,86hNCjlr,j1Y9DEbN,4,2,,,,0
+1396105200,Lions Gibraltar,Gibraltar Phoenix,6aBJEs1O,prhJzI53,1,0,,,,0
+1396112400,St Josephs,Glacis United,Glsdgqq4,6aBJEs1O,0,0,,,,0
+1396456200,Lynx,Manchester 62,8MryApd5,KMoKJlti,1,1,,,,0
+1396706400,Europa FC,Lynx,j1Y9DEbN,8MryApd5,3,0,,,,0
+1396713600,Glacis United,Lincoln Red Imps,6aBJEs1O,86hNCjlr,0,3,,,,0
+1396893600,Gibraltar Phoenix,Manchester 62,prhJzI53,KMoKJlti,0,5,,,,0
+1397239200,Europa FC,Glacis United,j1Y9DEbN,6aBJEs1O,1,2,,,,0
+1397311200,Lynx,Gibraltar Phoenix,8MryApd5,prhJzI53,8,2,,,,0
+1397318400,Manchester 62,St Josephs,KMoKJlti,Glsdgqq4,2,0,,,,0
+1397498400,Lincoln Red Imps,Lions Gibraltar,86hNCjlr,6aBJEs1O,4,1,,,,0
+1399053600,Glacis United,Lynx,6aBJEs1O,8MryApd5,0,2,,,,0
+1399125600,St Josephs,Gibraltar Phoenix,Glsdgqq4,prhJzI53,6,1,,,,0
+1399132800,Lions Gibraltar,Europa FC,6aBJEs1O,j1Y9DEbN,1,1,,,,0
+1399140000,Lincoln Red Imps,Manchester 62,86hNCjlr,KMoKJlti,1,1,,,,0
+1399485600,St Josephs,Lions Gibraltar,Glsdgqq4,6aBJEs1O,4,2,,,,0

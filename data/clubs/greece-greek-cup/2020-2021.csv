@@ -1,40 +1,40 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1603885500,Paxon,Acheron Kanalaki,0,8,,,,0
-1603886400,Mesotopos,Agios Ierotheos,0,2,,,,0
-1603886400,Agios Leontas,Pallixouriakos,0,3,,,,0
-1603889100,Talos Melidoniou,Kyanos A. V.,0,8,,,,0
-1603889100,Panthrakikos,Anatoli Serron,1,0,,,,0
-1603889100,Panthiraikos,Kokkinou,3,0,Awrd,,,0
-1603889100,Mesolongi AE,Atromitos Patras,2,0,,,,0
-1603889100,Keratsini,Aris Archangelou,1,1,Pen,3,2,0
-1603889100,Karitsa,Ethnikos Giannitsa,2,0,,,,0
-1603889100,Kalivion,Atromitos Palamas,1,2,,,,0
-1603889100,Iraklis Xylokastrou,Koronida Koiladas,0,0,Pen,1,0,0
-1603889100,Ellispontos,Hephaestus Vrontamas,0,1,,,,0
-1603889100,Anagennisi Arta,Potamia,4,1,,,,0
-1603889100,Agios Nikolaos,Minotavros,1,1,Pen,2,1,0
-1611147600,Volos,OFI Crete,2,0,,,,0
-1611147600,Aris,Asteras Tripolis,2,0,,,,0
-1611155700,PAOK,AEL Larissa,5,0,,,,0
-1611163800,Panetolikos,Olympiacos Piraeus,0,3,,,,0
-1611171000,AEK Athens FC,Apollon Smyrnis,2,0,,,,0
-1611250200,Giannina,Atromitos,2,2,,,,0
-1612357200,Atromitos,Giannina,2,3,,,,0
-1612365300,Olympiacos Piraeus,Panetolikos,3,0,,,,0
-1612373400,AEL Larissa,PAOK,1,2,,,,0
-1612443600,OFI Crete,Volos,1,1,,,,0
-1612451700,Asteras Tripolis,Aris,0,2,,,,0
-1612459800,Apollon Smyrnis,AEK Athens FC,2,1,,,,0
-1612969200,AEK Athens FC,Volos,4,2,,,,0
-1612976400,PAOK,Lamia,5,2,,,,0
-1612985400,Olympiacos Piraeus,Aris,2,1,,,,0
-1613653200,Giannina,Panathinaikos,2,1,,,,0
-1614787200,Lamia,PAOK,1,1,,,,0
-1614794400,Panathinaikos,Giannina,1,2,,,,0
-1614873600,Volos,AEK Athens FC,1,0,,,,0
-1614880800,Aris,Olympiacos Piraeus,1,1,,,,0
-1617807600,Giannina,Olympiacos Piraeus,1,1,,,,0
-1617814800,AEK Athens FC,PAOK,0,1,,,,0
-1619625600,Olympiacos Piraeus,Giannina,3,1,,,,0
-1619712000,PAOK,AEK Athens FC,2,1,,,,0
-1621706400,Olympiacos Piraeus,PAOK,1,2,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1603885500,Paxon,Acheron Kanalaki,8nGI6isf,Es0ad1kK,0,8,,,,0
+1603886400,Mesotopos,Agios Ierotheos,2HXP30kt,8tVb4G12,0,2,,,,0
+1603886400,Agios Leontas,Pallixouriakos,2HXP30kt,dAqyfDKN,0,3,,,,0
+1603889100,Talos Melidoniou,Kyanos A. V.,nwFM5Bd0,QXVfW2n3,0,8,,,,0
+1603889100,Panthrakikos,Anatoli Serron,MeBb6502,6e7UEwBm,1,0,,,,0
+1603889100,Panthiraikos,Kokkinou,W4uxidgB,nwFM5Bd0,3,0,Awrd,,,0
+1603889100,Mesolongi AE,Atromitos Patras,Q1HEakpH,MwdexYAB,2,0,,,,0
+1603889100,Keratsini,Aris Archangelou,bHhzTu6b,8nGI6isf,1,1,Pen,3,2,0
+1603889100,Karitsa,Ethnikos Giannitsa,4dO4dpo3,tjm4jvd4,2,0,,,,0
+1603889100,Kalivion,Atromitos Palamas,6e7UEwBm,r3eSU1yn,1,2,,,,0
+1603889100,Iraklis Xylokastrou,Koronida Koiladas,nwFM5Bd0,AaEu4cQ3,0,0,Pen,1,0,0
+1603889100,Ellispontos,Hephaestus Vrontamas,8nGI6isf,6e7UEwBm,0,1,,,,0
+1603889100,Anagennisi Arta,Potamia,MgfWTLjh,0UfayhQH,4,1,,,,0
+1603889100,Agios Nikolaos,Minotavros,t4joEoWJ,nwFM5Bd0,1,1,Pen,2,1,0
+1611147600,Volos,OFI Crete,0OmT6UWt,hOZ2RkTP,2,0,,,,0
+1611147600,Aris,Asteras Tripolis,0E6BYcd0,SKrEYwI8,2,0,,,,0
+1611155700,PAOK,AEL Larissa,pvWT1yik,bspvajO9,5,0,,,,0
+1611163800,Panetolikos,Olympiacos Piraeus,n3f8T6c2,lzmp9FUJ,0,3,,,,0
+1611171000,AEK Athens FC,Apollon Smyrnis,Aq4Rjd2q,r98VPCRj,2,0,,,,0
+1611250200,Giannina,Atromitos,Ct0X2apU,2ahZzWpF,2,2,,,,0
+1612357200,Atromitos,Giannina,2ahZzWpF,Ct0X2apU,2,3,,,,0
+1612365300,Olympiacos Piraeus,Panetolikos,lzmp9FUJ,n3f8T6c2,3,0,,,,0
+1612373400,AEL Larissa,PAOK,bspvajO9,pvWT1yik,1,2,,,,0
+1612443600,OFI Crete,Volos,hOZ2RkTP,0OmT6UWt,1,1,,,,0
+1612451700,Asteras Tripolis,Aris,SKrEYwI8,0E6BYcd0,0,2,,,,0
+1612459800,Apollon Smyrnis,AEK Athens FC,r98VPCRj,Aq4Rjd2q,2,1,,,,0
+1612969200,AEK Athens FC,Volos,Aq4Rjd2q,0OmT6UWt,4,2,,,,0
+1612976400,PAOK,Lamia,pvWT1yik,KY7O0YUR,5,2,,,,0
+1612985400,Olympiacos Piraeus,Aris,lzmp9FUJ,0E6BYcd0,2,1,,,,0
+1613653200,Giannina,Panathinaikos,Ct0X2apU,GM4Cu0wi,2,1,,,,0
+1614787200,Lamia,PAOK,KY7O0YUR,pvWT1yik,1,1,,,,0
+1614794400,Panathinaikos,Giannina,GM4Cu0wi,Ct0X2apU,1,2,,,,0
+1614873600,Volos,AEK Athens FC,0OmT6UWt,Aq4Rjd2q,1,0,,,,0
+1614880800,Aris,Olympiacos Piraeus,0E6BYcd0,lzmp9FUJ,1,1,,,,0
+1617807600,Giannina,Olympiacos Piraeus,Ct0X2apU,lzmp9FUJ,1,1,,,,0
+1617814800,AEK Athens FC,PAOK,Aq4Rjd2q,pvWT1yik,0,1,,,,0
+1619625600,Olympiacos Piraeus,Giannina,lzmp9FUJ,Ct0X2apU,3,1,,,,0
+1619712000,PAOK,AEK Athens FC,pvWT1yik,Aq4Rjd2q,2,1,,,,0
+1621706400,Olympiacos Piraeus,PAOK,lzmp9FUJ,pvWT1yik,1,2,,,,1

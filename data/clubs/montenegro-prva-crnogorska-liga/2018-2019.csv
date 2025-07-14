@@ -1,185 +1,185 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1533310200,Iskra,Buducnost,0,1,,,,0
-1533396600,Zeta,Petrovac,0,0,,,,0
-1533396600,Grbalj,Lovcen,0,1,,,,0
-1533398400,Titograd,Rudar,0,0,,,,0
-1533492000,Sutjeska,Mornar Bar,1,1,,,,0
-1533999600,Rudar,Zeta,0,0,,,,0
-1534001400,Lovcen,Sutjeska,1,1,,,,0
-1534001400,Iskra,Titograd,0,1,,,,0
-1534003200,Petrovac,Grbalj,0,1,,,,0
-1534093200,Buducnost,Mornar Bar,3,0,,,,0
-1534347000,Zeta,Iskra,1,3,,,,0
-1534347000,Titograd,Buducnost,1,0,,,,0
-1534347000,Mornar Bar,Lovcen,2,4,,,,0
-1534347000,Grbalj,Rudar,0,1,,,,0
-1534352400,Sutjeska,Petrovac,2,1,,,,0
-1534604400,Titograd,Zeta,2,1,,,,0
-1534604400,Rudar,Sutjeska,1,2,,,,0
-1534604400,Iskra,Grbalj,0,0,,,,0
-1534613400,Petrovac,Mornar Bar,1,0,,,,0
-1534698000,Buducnost,Lovcen,0,0,,,,0
-1535209200,Zeta,Buducnost,0,1,,,,0
-1535209200,Mornar Bar,Rudar,1,1,,,,0
-1535209200,Lovcen,Petrovac,1,3,,,,0
-1535209200,Grbalj,Titograd,0,1,,,,0
-1535212800,Sutjeska,Iskra,1,2,,,,0
-1535810400,Zeta,Grbalj,0,0,,,,0
-1535810400,Rudar,Lovcen,0,0,,,,0
-1535810400,Iskra,Mornar Bar,2,0,,,,0
-1535824800,Buducnost,Petrovac,1,1,,,,0
-1535900400,Titograd,Sutjeska,0,0,,,,0
-1537018200,Sutjeska,Zeta,0,1,,,,0
-1537018200,Mornar Bar,Titograd,0,1,,,,0
-1537018200,Lovcen,Iskra,0,2,,,,0
-1537018200,Grbalj,Buducnost,0,1,,,,0
-1537020000,Petrovac,Rudar,3,1,,,,0
-1537362000,Zeta,Mornar Bar,2,0,,,,0
-1537362000,Titograd,Lovcen,0,0,,,,0
-1537362000,Iskra,Petrovac,0,1,,,,0
-1537362000,Grbalj,Sutjeska,0,1,,,,0
-1537372800,Buducnost,Rudar,0,0,,,,0
-1537621200,Rudar,Iskra,0,0,,,,0
-1537623000,Lovcen,Zeta,0,2,,,,0
-1537635600,Petrovac,Titograd,1,2,,,,0
-1537707600,Sutjeska,Buducnost,2,1,,,,0
-1537709400,Mornar Bar,Grbalj,1,1,,,,0
-1538226000,Rudar,Titograd,3,1,,,,0
-1538226000,Mornar Bar,Sutjeska,0,1,,,,0
-1538226000,Lovcen,Grbalj,0,5,,,,0
-1538226000,Buducnost,Iskra,1,0,,,,0
-1538236800,Petrovac,Zeta,0,1,,,,0
-1538829000,Zeta,Rudar,0,0,,,,0
-1538829000,Titograd,Iskra,1,1,,,,0
-1538829000,Sutjeska,Lovcen,1,1,,,,0
-1538829000,Mornar Bar,Buducnost,0,1,,,,0
-1538829000,Grbalj,Petrovac,4,0,,,,0
-1540035000,Rudar,Grbalj,0,0,,,,0
-1540035000,Petrovac,Sutjeska,1,0,,,,0
-1540035000,Lovcen,Mornar Bar,0,1,,,,0
-1540035000,Iskra,Zeta,1,2,,,,0
-1540044000,Buducnost,Titograd,2,1,,,,0
-1540638000,Zeta,Titograd,1,0,,,,0
-1540639800,Sutjeska,Rudar,2,0,,,,0
-1540639800,Mornar Bar,Petrovac,0,1,,,,0
-1540639800,Lovcen,Buducnost,0,0,,,,0
-1540639800,Grbalj,Iskra,0,0,,,,0
-1541248200,Titograd,Grbalj,0,2,,,,0
-1541248200,Rudar,Mornar Bar,1,1,,,,0
-1541248200,Iskra,Sutjeska,0,4,,,,0
-1541255400,Buducnost,Zeta,0,2,,,,0
-1541259000,Petrovac,Lovcen,1,0,,,,0
-1541851200,Sutjeska,Titograd,3,0,,,,0
-1541851200,Petrovac,Buducnost,1,1,,,,0
-1541851200,Mornar Bar,Iskra,1,1,,,,0
-1541851200,Lovcen,Rudar,1,3,,,,0
-1541851200,Grbalj,Zeta,1,1,,,,0
-1543060800,Zeta,Sutjeska,0,0,,,,0
-1543060800,Titograd,Mornar Bar,1,0,,,,0
-1543060800,Rudar,Petrovac,0,4,,,,0
-1543060800,Iskra,Lovcen,1,3,,,,0
-1543060800,Buducnost,Grbalj,1,1,,,,0
-1543665600,Sutjeska,Grbalj,3,0,,,,0
-1543665600,Rudar,Buducnost,2,1,,,,0
-1543665600,Mornar Bar,Zeta,0,0,,,,0
-1543665600,Lovcen,Titograd,2,2,,,,0
-1543674600,Petrovac,Iskra,1,2,,,,0
-1544011200,Zeta,Lovcen,3,0,,,,0
-1544011200,Titograd,Petrovac,3,0,,,,0
-1544011200,Iskra,Rudar,1,1,,,,0
-1544011200,Grbalj,Mornar Bar,2,0,,,,0
-1544025600,Buducnost,Sutjeska,1,1,,,,0
-1544270400,Zeta,Petrovac,0,0,,,,0
-1544270400,Titograd,Rudar,1,0,,,,0
-1544270400,Sutjeska,Mornar Bar,2,1,,,,0
-1544270400,Grbalj,Lovcen,3,2,,,,0
-1544356800,Iskra,Buducnost,0,0,,,,0
-1550581200,Rudar,Zeta,1,1,,,,0
-1550581200,Petrovac,Grbalj,3,3,,,,0
-1550581200,Lovcen,Sutjeska,1,3,,,,0
-1550581200,Iskra,Titograd,2,3,,,,0
-1550581200,Buducnost,Mornar Bar,5,0,,,,0
-1551178800,Mornar Bar,Lovcen,0,0,,,,0
-1551186000,Zeta,Iskra,0,2,,,,0
-1551186000,Titograd,Buducnost,1,2,,,,0
-1551186000,Sutjeska,Petrovac,2,1,,,,0
-1551186000,Grbalj,Rudar,1,1,,,,0
-1551528000,Titograd,Zeta,0,2,,,,0
-1551531600,Rudar,Sutjeska,1,1,,,,0
-1551531600,Petrovac,Mornar Bar,2,1,,,,0
-1551531600,Iskra,Grbalj,1,1,,,,0
-1551531600,Buducnost,Lovcen,7,0,,,,0
-1552042800,Mornar Bar,Rudar,0,0,,,,0
-1552138200,Zeta,Buducnost,0,3,,,,0
-1552138200,Lovcen,Petrovac,1,3,,,,0
-1552138200,Grbalj,Titograd,1,0,,,,0
-1552140000,Sutjeska,Iskra,2,0,,,,0
-1552480200,Titograd,Sutjeska,0,1,,,,0
-1552485600,Zeta,Grbalj,1,0,,,,0
-1552485600,Rudar,Lovcen,2,1,,,,0
-1552485600,Iskra,Mornar Bar,1,1,,,,0
-1552485600,Buducnost,Petrovac,3,0,,,,0
-1552824000,Sutjeska,Zeta,1,0,,,,0
-1552831200,Petrovac,Rudar,3,2,,,,0
-1552831200,Mornar Bar,Titograd,0,3,,,,0
-1552831200,Lovcen,Iskra,1,2,,,,0
-1552831200,Grbalj,Buducnost,1,1,,,,0
-1553954400,Buducnost,Rudar,1,0,,,,0
-1553956200,Zeta,Mornar Bar,2,0,,,,0
-1553956200,Titograd,Lovcen,3,2,,,,0
-1553956200,Iskra,Petrovac,2,1,,,,0
-1553956200,Grbalj,Sutjeska,0,0,,,,0
-1554298200,Rudar,Iskra,1,1,,,,0
-1554298200,Petrovac,Titograd,0,1,,,,0
-1554298200,Mornar Bar,Grbalj,2,4,,,,0
-1554298200,Lovcen,Zeta,1,0,,,,0
-1554301800,Sutjeska,Buducnost,2,2,,,,0
-1554557400,Rudar,Titograd,2,2,,,,0
-1554645600,Petrovac,Zeta,0,2,,,,0
-1554645600,Mornar Bar,Sutjeska,0,3,,,,0
-1554645600,Lovcen,Grbalj,1,1,,,,0
-1554645600,Buducnost,Iskra,3,1,,,,0
-1555164000,Zeta,Rudar,2,1,,,,0
-1555164000,Titograd,Iskra,1,2,,,,0
-1555164000,Sutjeska,Lovcen,4,0,,,,0
-1555164000,Mornar Bar,Buducnost,0,1,,,,0
-1555164000,Grbalj,Petrovac,2,0,,,,0
-1555765200,Iskra,Zeta,0,1,,,,0
-1555770600,Rudar,Grbalj,3,0,,,,0
-1555770600,Lovcen,Mornar Bar,1,0,,,,0
-1555857000,Petrovac,Sutjeska,0,1,,,,0
-1555857000,Buducnost,Titograd,4,0,,,,0
-1556373600,Zeta,Titograd,1,1,,,,0
-1556375400,Sutjeska,Rudar,4,0,,,,0
-1556375400,Mornar Bar,Petrovac,1,5,,,,0
-1556375400,Lovcen,Buducnost,1,1,,,,0
-1556375400,Grbalj,Iskra,2,1,,,,0
-1556978400,Buducnost,Zeta,0,0,,,,0
-1556982000,Titograd,Grbalj,2,2,,,,0
-1556982000,Rudar,Mornar Bar,3,1,,,,0
-1556982000,Petrovac,Lovcen,0,0,,,,0
-1556982000,Iskra,Sutjeska,1,1,,,,0
-1557583200,Sutjeska,Titograd,1,2,,,,0
-1557586800,Petrovac,Buducnost,0,0,,,,0
-1557586800,Mornar Bar,Iskra,1,3,,,,0
-1557586800,Lovcen,Rudar,0,1,,,,0
-1557586800,Grbalj,Zeta,0,0,,,,0
-1557932400,Zeta,Sutjeska,1,1,,,,0
-1557932400,Titograd,Mornar Bar,6,1,,,,0
-1557932400,Rudar,Petrovac,0,1,,,,0
-1557932400,Iskra,Lovcen,2,0,,,,0
-1557932400,Buducnost,Grbalj,5,3,,,,0
-1558278000,Sutjeska,Grbalj,2,0,,,,0
-1558278000,Rudar,Buducnost,2,2,,,,0
-1558278000,Petrovac,Iskra,0,4,,,,0
-1558278000,Mornar Bar,Zeta,0,3,,,,0
-1558278000,Lovcen,Titograd,1,3,,,,0
-1558798200,Zeta,Lovcen,3,2,,,,0
-1558798200,Titograd,Petrovac,1,1,,,,0
-1558798200,Iskra,Rudar,5,1,,,,0
-1558798200,Grbalj,Mornar Bar,4,0,,,,0
-1558798200,Buducnost,Sutjeska,0,2,,,,0
-1559143800,Bokelj,Rudar,0,2,,,,0
-1559489400,Rudar,Bokelj,2,1,,,,0
-1559662200,Lovcen,Kom Podgorica,0,1,,,,0
-1560180600,Kom Podgorica,Lovcen,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1533310200,Iskra,Buducnost,0ASINSdB,zVJMgvaS,0,1,,,,0
+1533396600,Zeta,Petrovac,vLDFhvIU,ABpmWgn7,0,0,,,,0
+1533396600,Grbalj,Lovcen,YmnqXZW0,ABpmWgn7,0,1,,,,0
+1533398400,Titograd,Rudar,ABpmWgn7,KfNVySaO,0,0,,,,0
+1533492000,Sutjeska,Mornar Bar,zVJMgvaS,2JKzUeUK,1,1,,,,0
+1533999600,Rudar,Zeta,KfNVySaO,vLDFhvIU,0,0,,,,0
+1534001400,Lovcen,Sutjeska,ABpmWgn7,zVJMgvaS,1,1,,,,0
+1534001400,Iskra,Titograd,0ASINSdB,ABpmWgn7,0,1,,,,0
+1534003200,Petrovac,Grbalj,ABpmWgn7,YmnqXZW0,0,1,,,,0
+1534093200,Buducnost,Mornar Bar,zVJMgvaS,2JKzUeUK,3,0,,,,0
+1534347000,Zeta,Iskra,vLDFhvIU,0ASINSdB,1,3,,,,0
+1534347000,Titograd,Buducnost,ABpmWgn7,zVJMgvaS,1,0,,,,0
+1534347000,Mornar Bar,Lovcen,2JKzUeUK,ABpmWgn7,2,4,,,,0
+1534347000,Grbalj,Rudar,YmnqXZW0,KfNVySaO,0,1,,,,0
+1534352400,Sutjeska,Petrovac,zVJMgvaS,ABpmWgn7,2,1,,,,0
+1534604400,Titograd,Zeta,ABpmWgn7,vLDFhvIU,2,1,,,,0
+1534604400,Rudar,Sutjeska,KfNVySaO,zVJMgvaS,1,2,,,,0
+1534604400,Iskra,Grbalj,0ASINSdB,YmnqXZW0,0,0,,,,0
+1534613400,Petrovac,Mornar Bar,ABpmWgn7,2JKzUeUK,1,0,,,,0
+1534698000,Buducnost,Lovcen,zVJMgvaS,ABpmWgn7,0,0,,,,0
+1535209200,Zeta,Buducnost,vLDFhvIU,zVJMgvaS,0,1,,,,0
+1535209200,Mornar Bar,Rudar,2JKzUeUK,KfNVySaO,1,1,,,,0
+1535209200,Lovcen,Petrovac,ABpmWgn7,ABpmWgn7,1,3,,,,0
+1535209200,Grbalj,Titograd,YmnqXZW0,ABpmWgn7,0,1,,,,0
+1535212800,Sutjeska,Iskra,zVJMgvaS,0ASINSdB,1,2,,,,0
+1535810400,Zeta,Grbalj,vLDFhvIU,YmnqXZW0,0,0,,,,0
+1535810400,Rudar,Lovcen,KfNVySaO,ABpmWgn7,0,0,,,,0
+1535810400,Iskra,Mornar Bar,0ASINSdB,2JKzUeUK,2,0,,,,0
+1535824800,Buducnost,Petrovac,zVJMgvaS,ABpmWgn7,1,1,,,,0
+1535900400,Titograd,Sutjeska,ABpmWgn7,zVJMgvaS,0,0,,,,0
+1537018200,Sutjeska,Zeta,zVJMgvaS,vLDFhvIU,0,1,,,,0
+1537018200,Mornar Bar,Titograd,2JKzUeUK,ABpmWgn7,0,1,,,,0
+1537018200,Lovcen,Iskra,ABpmWgn7,0ASINSdB,0,2,,,,0
+1537018200,Grbalj,Buducnost,YmnqXZW0,zVJMgvaS,0,1,,,,0
+1537020000,Petrovac,Rudar,ABpmWgn7,KfNVySaO,3,1,,,,0
+1537362000,Zeta,Mornar Bar,vLDFhvIU,2JKzUeUK,2,0,,,,0
+1537362000,Titograd,Lovcen,ABpmWgn7,ABpmWgn7,0,0,,,,0
+1537362000,Iskra,Petrovac,0ASINSdB,ABpmWgn7,0,1,,,,0
+1537362000,Grbalj,Sutjeska,YmnqXZW0,zVJMgvaS,0,1,,,,0
+1537372800,Buducnost,Rudar,zVJMgvaS,KfNVySaO,0,0,,,,0
+1537621200,Rudar,Iskra,KfNVySaO,0ASINSdB,0,0,,,,0
+1537623000,Lovcen,Zeta,ABpmWgn7,vLDFhvIU,0,2,,,,0
+1537635600,Petrovac,Titograd,ABpmWgn7,ABpmWgn7,1,2,,,,0
+1537707600,Sutjeska,Buducnost,zVJMgvaS,zVJMgvaS,2,1,,,,0
+1537709400,Mornar Bar,Grbalj,2JKzUeUK,YmnqXZW0,1,1,,,,0
+1538226000,Rudar,Titograd,KfNVySaO,ABpmWgn7,3,1,,,,0
+1538226000,Mornar Bar,Sutjeska,2JKzUeUK,zVJMgvaS,0,1,,,,0
+1538226000,Lovcen,Grbalj,ABpmWgn7,YmnqXZW0,0,5,,,,0
+1538226000,Buducnost,Iskra,zVJMgvaS,0ASINSdB,1,0,,,,0
+1538236800,Petrovac,Zeta,ABpmWgn7,vLDFhvIU,0,1,,,,0
+1538829000,Zeta,Rudar,vLDFhvIU,KfNVySaO,0,0,,,,0
+1538829000,Titograd,Iskra,ABpmWgn7,0ASINSdB,1,1,,,,0
+1538829000,Sutjeska,Lovcen,zVJMgvaS,ABpmWgn7,1,1,,,,0
+1538829000,Mornar Bar,Buducnost,2JKzUeUK,zVJMgvaS,0,1,,,,0
+1538829000,Grbalj,Petrovac,YmnqXZW0,ABpmWgn7,4,0,,,,0
+1540035000,Rudar,Grbalj,KfNVySaO,YmnqXZW0,0,0,,,,0
+1540035000,Petrovac,Sutjeska,ABpmWgn7,zVJMgvaS,1,0,,,,0
+1540035000,Lovcen,Mornar Bar,ABpmWgn7,2JKzUeUK,0,1,,,,0
+1540035000,Iskra,Zeta,0ASINSdB,vLDFhvIU,1,2,,,,0
+1540044000,Buducnost,Titograd,zVJMgvaS,ABpmWgn7,2,1,,,,0
+1540638000,Zeta,Titograd,vLDFhvIU,ABpmWgn7,1,0,,,,0
+1540639800,Sutjeska,Rudar,zVJMgvaS,KfNVySaO,2,0,,,,0
+1540639800,Mornar Bar,Petrovac,2JKzUeUK,ABpmWgn7,0,1,,,,0
+1540639800,Lovcen,Buducnost,ABpmWgn7,zVJMgvaS,0,0,,,,0
+1540639800,Grbalj,Iskra,YmnqXZW0,0ASINSdB,0,0,,,,0
+1541248200,Titograd,Grbalj,ABpmWgn7,YmnqXZW0,0,2,,,,0
+1541248200,Rudar,Mornar Bar,KfNVySaO,2JKzUeUK,1,1,,,,0
+1541248200,Iskra,Sutjeska,0ASINSdB,zVJMgvaS,0,4,,,,0
+1541255400,Buducnost,Zeta,zVJMgvaS,vLDFhvIU,0,2,,,,0
+1541259000,Petrovac,Lovcen,ABpmWgn7,ABpmWgn7,1,0,,,,0
+1541851200,Sutjeska,Titograd,zVJMgvaS,ABpmWgn7,3,0,,,,0
+1541851200,Petrovac,Buducnost,ABpmWgn7,zVJMgvaS,1,1,,,,0
+1541851200,Mornar Bar,Iskra,2JKzUeUK,0ASINSdB,1,1,,,,0
+1541851200,Lovcen,Rudar,ABpmWgn7,KfNVySaO,1,3,,,,0
+1541851200,Grbalj,Zeta,YmnqXZW0,vLDFhvIU,1,1,,,,0
+1543060800,Zeta,Sutjeska,vLDFhvIU,zVJMgvaS,0,0,,,,0
+1543060800,Titograd,Mornar Bar,ABpmWgn7,2JKzUeUK,1,0,,,,0
+1543060800,Rudar,Petrovac,KfNVySaO,ABpmWgn7,0,4,,,,0
+1543060800,Iskra,Lovcen,0ASINSdB,ABpmWgn7,1,3,,,,0
+1543060800,Buducnost,Grbalj,zVJMgvaS,YmnqXZW0,1,1,,,,0
+1543665600,Sutjeska,Grbalj,zVJMgvaS,YmnqXZW0,3,0,,,,0
+1543665600,Rudar,Buducnost,KfNVySaO,zVJMgvaS,2,1,,,,0
+1543665600,Mornar Bar,Zeta,2JKzUeUK,vLDFhvIU,0,0,,,,0
+1543665600,Lovcen,Titograd,ABpmWgn7,ABpmWgn7,2,2,,,,0
+1543674600,Petrovac,Iskra,ABpmWgn7,0ASINSdB,1,2,,,,0
+1544011200,Zeta,Lovcen,vLDFhvIU,ABpmWgn7,3,0,,,,0
+1544011200,Titograd,Petrovac,ABpmWgn7,ABpmWgn7,3,0,,,,0
+1544011200,Iskra,Rudar,0ASINSdB,KfNVySaO,1,1,,,,0
+1544011200,Grbalj,Mornar Bar,YmnqXZW0,2JKzUeUK,2,0,,,,0
+1544025600,Buducnost,Sutjeska,zVJMgvaS,zVJMgvaS,1,1,,,,0
+1544270400,Zeta,Petrovac,vLDFhvIU,ABpmWgn7,0,0,,,,0
+1544270400,Titograd,Rudar,ABpmWgn7,KfNVySaO,1,0,,,,0
+1544270400,Sutjeska,Mornar Bar,zVJMgvaS,2JKzUeUK,2,1,,,,0
+1544270400,Grbalj,Lovcen,YmnqXZW0,ABpmWgn7,3,2,,,,0
+1544356800,Iskra,Buducnost,0ASINSdB,zVJMgvaS,0,0,,,,0
+1550581200,Rudar,Zeta,KfNVySaO,vLDFhvIU,1,1,,,,0
+1550581200,Petrovac,Grbalj,ABpmWgn7,YmnqXZW0,3,3,,,,0
+1550581200,Lovcen,Sutjeska,ABpmWgn7,zVJMgvaS,1,3,,,,0
+1550581200,Iskra,Titograd,0ASINSdB,ABpmWgn7,2,3,,,,0
+1550581200,Buducnost,Mornar Bar,zVJMgvaS,2JKzUeUK,5,0,,,,0
+1551178800,Mornar Bar,Lovcen,2JKzUeUK,ABpmWgn7,0,0,,,,0
+1551186000,Zeta,Iskra,vLDFhvIU,0ASINSdB,0,2,,,,0
+1551186000,Titograd,Buducnost,ABpmWgn7,zVJMgvaS,1,2,,,,0
+1551186000,Sutjeska,Petrovac,zVJMgvaS,ABpmWgn7,2,1,,,,0
+1551186000,Grbalj,Rudar,YmnqXZW0,KfNVySaO,1,1,,,,0
+1551528000,Titograd,Zeta,ABpmWgn7,vLDFhvIU,0,2,,,,0
+1551531600,Rudar,Sutjeska,KfNVySaO,zVJMgvaS,1,1,,,,0
+1551531600,Petrovac,Mornar Bar,ABpmWgn7,2JKzUeUK,2,1,,,,0
+1551531600,Iskra,Grbalj,0ASINSdB,YmnqXZW0,1,1,,,,0
+1551531600,Buducnost,Lovcen,zVJMgvaS,ABpmWgn7,7,0,,,,0
+1552042800,Mornar Bar,Rudar,2JKzUeUK,KfNVySaO,0,0,,,,0
+1552138200,Zeta,Buducnost,vLDFhvIU,zVJMgvaS,0,3,,,,0
+1552138200,Lovcen,Petrovac,ABpmWgn7,ABpmWgn7,1,3,,,,0
+1552138200,Grbalj,Titograd,YmnqXZW0,ABpmWgn7,1,0,,,,0
+1552140000,Sutjeska,Iskra,zVJMgvaS,0ASINSdB,2,0,,,,0
+1552480200,Titograd,Sutjeska,ABpmWgn7,zVJMgvaS,0,1,,,,0
+1552485600,Zeta,Grbalj,vLDFhvIU,YmnqXZW0,1,0,,,,0
+1552485600,Rudar,Lovcen,KfNVySaO,ABpmWgn7,2,1,,,,0
+1552485600,Iskra,Mornar Bar,0ASINSdB,2JKzUeUK,1,1,,,,0
+1552485600,Buducnost,Petrovac,zVJMgvaS,ABpmWgn7,3,0,,,,0
+1552824000,Sutjeska,Zeta,zVJMgvaS,vLDFhvIU,1,0,,,,0
+1552831200,Petrovac,Rudar,ABpmWgn7,KfNVySaO,3,2,,,,0
+1552831200,Mornar Bar,Titograd,2JKzUeUK,ABpmWgn7,0,3,,,,0
+1552831200,Lovcen,Iskra,ABpmWgn7,0ASINSdB,1,2,,,,0
+1552831200,Grbalj,Buducnost,YmnqXZW0,zVJMgvaS,1,1,,,,0
+1553954400,Buducnost,Rudar,zVJMgvaS,KfNVySaO,1,0,,,,0
+1553956200,Zeta,Mornar Bar,vLDFhvIU,2JKzUeUK,2,0,,,,0
+1553956200,Titograd,Lovcen,ABpmWgn7,ABpmWgn7,3,2,,,,0
+1553956200,Iskra,Petrovac,0ASINSdB,ABpmWgn7,2,1,,,,0
+1553956200,Grbalj,Sutjeska,YmnqXZW0,zVJMgvaS,0,0,,,,0
+1554298200,Rudar,Iskra,KfNVySaO,0ASINSdB,1,1,,,,0
+1554298200,Petrovac,Titograd,ABpmWgn7,ABpmWgn7,0,1,,,,0
+1554298200,Mornar Bar,Grbalj,2JKzUeUK,YmnqXZW0,2,4,,,,0
+1554298200,Lovcen,Zeta,ABpmWgn7,vLDFhvIU,1,0,,,,0
+1554301800,Sutjeska,Buducnost,zVJMgvaS,zVJMgvaS,2,2,,,,0
+1554557400,Rudar,Titograd,KfNVySaO,ABpmWgn7,2,2,,,,0
+1554645600,Petrovac,Zeta,ABpmWgn7,vLDFhvIU,0,2,,,,0
+1554645600,Mornar Bar,Sutjeska,2JKzUeUK,zVJMgvaS,0,3,,,,0
+1554645600,Lovcen,Grbalj,ABpmWgn7,YmnqXZW0,1,1,,,,0
+1554645600,Buducnost,Iskra,zVJMgvaS,0ASINSdB,3,1,,,,0
+1555164000,Zeta,Rudar,vLDFhvIU,KfNVySaO,2,1,,,,0
+1555164000,Titograd,Iskra,ABpmWgn7,0ASINSdB,1,2,,,,0
+1555164000,Sutjeska,Lovcen,zVJMgvaS,ABpmWgn7,4,0,,,,0
+1555164000,Mornar Bar,Buducnost,2JKzUeUK,zVJMgvaS,0,1,,,,0
+1555164000,Grbalj,Petrovac,YmnqXZW0,ABpmWgn7,2,0,,,,0
+1555765200,Iskra,Zeta,0ASINSdB,vLDFhvIU,0,1,,,,0
+1555770600,Rudar,Grbalj,KfNVySaO,YmnqXZW0,3,0,,,,0
+1555770600,Lovcen,Mornar Bar,ABpmWgn7,2JKzUeUK,1,0,,,,0
+1555857000,Petrovac,Sutjeska,ABpmWgn7,zVJMgvaS,0,1,,,,0
+1555857000,Buducnost,Titograd,zVJMgvaS,ABpmWgn7,4,0,,,,0
+1556373600,Zeta,Titograd,vLDFhvIU,ABpmWgn7,1,1,,,,0
+1556375400,Sutjeska,Rudar,zVJMgvaS,KfNVySaO,4,0,,,,0
+1556375400,Mornar Bar,Petrovac,2JKzUeUK,ABpmWgn7,1,5,,,,0
+1556375400,Lovcen,Buducnost,ABpmWgn7,zVJMgvaS,1,1,,,,0
+1556375400,Grbalj,Iskra,YmnqXZW0,0ASINSdB,2,1,,,,0
+1556978400,Buducnost,Zeta,zVJMgvaS,vLDFhvIU,0,0,,,,0
+1556982000,Titograd,Grbalj,ABpmWgn7,YmnqXZW0,2,2,,,,0
+1556982000,Rudar,Mornar Bar,KfNVySaO,2JKzUeUK,3,1,,,,0
+1556982000,Petrovac,Lovcen,ABpmWgn7,ABpmWgn7,0,0,,,,0
+1556982000,Iskra,Sutjeska,0ASINSdB,zVJMgvaS,1,1,,,,0
+1557583200,Sutjeska,Titograd,zVJMgvaS,ABpmWgn7,1,2,,,,0
+1557586800,Petrovac,Buducnost,ABpmWgn7,zVJMgvaS,0,0,,,,0
+1557586800,Mornar Bar,Iskra,2JKzUeUK,0ASINSdB,1,3,,,,0
+1557586800,Lovcen,Rudar,ABpmWgn7,KfNVySaO,0,1,,,,0
+1557586800,Grbalj,Zeta,YmnqXZW0,vLDFhvIU,0,0,,,,0
+1557932400,Zeta,Sutjeska,vLDFhvIU,zVJMgvaS,1,1,,,,0
+1557932400,Titograd,Mornar Bar,ABpmWgn7,2JKzUeUK,6,1,,,,0
+1557932400,Rudar,Petrovac,KfNVySaO,ABpmWgn7,0,1,,,,0
+1557932400,Iskra,Lovcen,0ASINSdB,ABpmWgn7,2,0,,,,0
+1557932400,Buducnost,Grbalj,zVJMgvaS,YmnqXZW0,5,3,,,,0
+1558278000,Sutjeska,Grbalj,zVJMgvaS,YmnqXZW0,2,0,,,,0
+1558278000,Rudar,Buducnost,KfNVySaO,zVJMgvaS,2,2,,,,0
+1558278000,Petrovac,Iskra,ABpmWgn7,0ASINSdB,0,4,,,,0
+1558278000,Mornar Bar,Zeta,2JKzUeUK,vLDFhvIU,0,3,,,,0
+1558278000,Lovcen,Titograd,ABpmWgn7,ABpmWgn7,1,3,,,,0
+1558798200,Zeta,Lovcen,vLDFhvIU,ABpmWgn7,3,2,,,,0
+1558798200,Titograd,Petrovac,ABpmWgn7,ABpmWgn7,1,1,,,,0
+1558798200,Iskra,Rudar,0ASINSdB,KfNVySaO,5,1,,,,0
+1558798200,Grbalj,Mornar Bar,YmnqXZW0,2JKzUeUK,4,0,,,,0
+1558798200,Buducnost,Sutjeska,zVJMgvaS,zVJMgvaS,0,2,,,,0
+1559143800,Bokelj,Rudar,ABpmWgn7,KfNVySaO,0,2,,,,0
+1559489400,Rudar,Bokelj,KfNVySaO,ABpmWgn7,2,1,,,,0
+1559662200,Lovcen,Kom Podgorica,ABpmWgn7,4Uy7FtTH,0,1,,,,0
+1560180600,Kom Podgorica,Lovcen,4Uy7FtTH,ABpmWgn7,1,0,,,,0

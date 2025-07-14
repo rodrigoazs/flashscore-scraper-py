@@ -1,66 +1,66 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1547829000,Ilves,KuPS,4,1,,,,0
-1548435600,SJK,VPS,1,2,,,,0
-1548435600,KPV Kokkola,KuPS,1,1,,,,0
-1548440100,TPS,TPV,2,0,,,,0
-1548504000,KTP,AC Kajaani,4,1,,,,0
-1548504000,Honka,Lahti,0,1,,,,0
-1548505800,Ilves,Rovaniemi,1,1,,,,0
-1548505800,Haka,MyPa,2,2,,,,0
-1548517500,Inter Turku,Mariehamn,2,1,,,,0
-1548518400,MuSa,Jaro,1,1,,,,0
-1548774000,HJK,HIFK,1,0,,,,0
-1549044900,TPS,Ekenas,3,1,,,,0
-1549105200,MyPa,Jaro,0,0,,,,0
-1549108800,Lahti,HIFK,2,1,,,,0
-1549108800,HJK,Mariehamn,2,2,,,,0
-1549110600,Ilves,SJK,2,1,,,,0
-1549110600,Haka,AC Oulu,2,1,,,,0
-1549119600,TPV,AC Kajaani,6,0,,,,0
-1549122300,VPS,KuPS,1,0,,,,0
-1549645200,KPV Kokkola,Ilves,1,2,,,,0
-1549710000,Inter Turku,HJK,1,0,,,,0
-1549713600,KuPS,SJK,2,2,,,,0
-1549713600,KTP,TPS,3,2,,,,0
-1549718100,Jaro,AC Oulu,1,3,,,,0
-1549720800,HIFK,Honka,1,2,,,,0
-1549721700,Ekenas,TPV,3,5,,,,0
-1549727100,VPS,Rovaniemi,2,1,,,,0
-1549796400,MyPa,MuSa,1,4,,,,0
-1549818000,Mariehamn,Lahti,1,0,,,,0
-1550248200,MuSa,Haka,2,0,,,,0
-1550318400,Rovaniemi,SJK,3,2,,,,0
-1550318400,Inter Turku,Lahti,1,2,,,,0
-1550319300,Ekenas,KTP,1,0,,,,0
-1550331900,VPS,KPV Kokkola,0,1,,,,0
-1550336400,AC Kajaani,TPS,2,1,,,,0
-1550588400,HJK,Honka,2,3,,,,0
-1550854800,SJK,KPV Kokkola,1,1,,,,0
-1550919600,HIFK,Inter Turku,1,3,,,,0
-1550923200,Lahti,HJK,1,4,,,,0
-1550923200,Honka,Mariehamn,0,0,,,,0
-1550925000,Ilves,VPS,3,0,,,,0
-1550927700,Jaro,Haka,0,3,,,,0
-1550928600,AC Oulu,MyPa,0,0,,,,0
-1550934000,TPV,KTP,1,1,,,,0
-1550937600,AC Kajaani,Ekenas,2,1,,,,0
-1551371400,Rovaniemi,KPV Kokkola,0,2,,,,0
-1551528000,Honka,Inter Turku,2,0,,,,0
-1551533400,AC Oulu,MuSa,4,0,,,,0
-1551614400,Rovaniemi,KuPS,3,2,,,,0
-1551628800,Mariehamn,HIFK,3,0,,,,0
-1552669200,VJS,KPV Kokkola,0,3,,,,0
-1552669200,Gnistan,VPS,1,1,AET,1,3,0
-1552739400,Haka,Rovaniemi,0,1,,,,0
-1552741200,KTP,Ilves,0,2,,,,0
-1552743000,AC Oulu,Honka,0,1,,,,0
-1552744800,TPV,Mariehamn,0,2,,,,0
-1552744800,Kiisto,Lahti,0,5,,,,0
-1552827600,Hercules,Inter Turku,0,2,,,,0
-1553950800,Inter Turku,VPS,1,2,,,,0
-1553954400,Rovaniemi,KPV Kokkola,1,2,,,,0
-1553954400,Honka,Ilves,1,1,Pen,1,2,0
-1554044400,Mariehamn,Lahti,1,1,AET,3,1,0
-1558020600,VPS,Mariehamn,1,3,,,,0
-1558020600,KPV Kokkola,Ilves,2,3,,,,0
-1560603600,Mariehamn,Ilves,0,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1547829000,Ilves,KuPS,OMIIvzhg,MPMRnwYF,4,1,,,,0
+1548435600,SJK,VPS,nNbzs3cc,WYtEUtB2,1,2,,,,0
+1548435600,KPV Kokkola,KuPS,WdapVR2a,MPMRnwYF,1,1,,,,0
+1548440100,TPS,TPV,GlTeTYJC,QyGb2mBG,2,0,,,,0
+1548504000,KTP,AC Kajaani,6clVGmml,WCsAlEhL,4,1,,,,0
+1548504000,Honka,Lahti,MVJgU4O3,tGlVXFkM,0,1,,,,0
+1548505800,Ilves,Rovaniemi,OMIIvzhg,zVgW5cY1,1,1,,,,0
+1548505800,Haka,MyPa,KtjRAU38,hGuhahGg,2,2,,,,0
+1548517500,Inter Turku,Mariehamn,lGvMSKuF,xv6lkb7q,2,1,,,,0
+1548518400,MuSa,Jaro,ERgO0JWN,hGuhahGg,1,1,,,,0
+1548774000,HJK,HIFK,xO7wlFSD,S6wQRveL,1,0,,,,0
+1549044900,TPS,Ekenas,GlTeTYJC,bPIAEyrj,3,1,,,,0
+1549105200,MyPa,Jaro,hGuhahGg,hGuhahGg,0,0,,,,0
+1549108800,Lahti,HIFK,tGlVXFkM,S6wQRveL,2,1,,,,0
+1549108800,HJK,Mariehamn,xO7wlFSD,xv6lkb7q,2,2,,,,0
+1549110600,Ilves,SJK,OMIIvzhg,nNbzs3cc,2,1,,,,0
+1549110600,Haka,AC Oulu,KtjRAU38,6cxUQbAR,2,1,,,,0
+1549119600,TPV,AC Kajaani,QyGb2mBG,WCsAlEhL,6,0,,,,0
+1549122300,VPS,KuPS,WYtEUtB2,MPMRnwYF,1,0,,,,0
+1549645200,KPV Kokkola,Ilves,WdapVR2a,OMIIvzhg,1,2,,,,0
+1549710000,Inter Turku,HJK,lGvMSKuF,xO7wlFSD,1,0,,,,0
+1549713600,KuPS,SJK,MPMRnwYF,nNbzs3cc,2,2,,,,0
+1549713600,KTP,TPS,6clVGmml,GlTeTYJC,3,2,,,,0
+1549718100,Jaro,AC Oulu,hGuhahGg,6cxUQbAR,1,3,,,,0
+1549720800,HIFK,Honka,S6wQRveL,MVJgU4O3,1,2,,,,0
+1549721700,Ekenas,TPV,bPIAEyrj,QyGb2mBG,3,5,,,,0
+1549727100,VPS,Rovaniemi,WYtEUtB2,zVgW5cY1,2,1,,,,0
+1549796400,MyPa,MuSa,hGuhahGg,ERgO0JWN,1,4,,,,0
+1549818000,Mariehamn,Lahti,xv6lkb7q,tGlVXFkM,1,0,,,,0
+1550248200,MuSa,Haka,ERgO0JWN,KtjRAU38,2,0,,,,0
+1550318400,Rovaniemi,SJK,zVgW5cY1,nNbzs3cc,3,2,,,,0
+1550318400,Inter Turku,Lahti,lGvMSKuF,tGlVXFkM,1,2,,,,0
+1550319300,Ekenas,KTP,bPIAEyrj,6clVGmml,1,0,,,,0
+1550331900,VPS,KPV Kokkola,WYtEUtB2,WdapVR2a,0,1,,,,0
+1550336400,AC Kajaani,TPS,WCsAlEhL,GlTeTYJC,2,1,,,,0
+1550588400,HJK,Honka,xO7wlFSD,MVJgU4O3,2,3,,,,0
+1550854800,SJK,KPV Kokkola,nNbzs3cc,WdapVR2a,1,1,,,,0
+1550919600,HIFK,Inter Turku,S6wQRveL,lGvMSKuF,1,3,,,,0
+1550923200,Lahti,HJK,tGlVXFkM,xO7wlFSD,1,4,,,,0
+1550923200,Honka,Mariehamn,MVJgU4O3,xv6lkb7q,0,0,,,,0
+1550925000,Ilves,VPS,OMIIvzhg,WYtEUtB2,3,0,,,,0
+1550927700,Jaro,Haka,hGuhahGg,KtjRAU38,0,3,,,,0
+1550928600,AC Oulu,MyPa,6cxUQbAR,hGuhahGg,0,0,,,,0
+1550934000,TPV,KTP,QyGb2mBG,6clVGmml,1,1,,,,0
+1550937600,AC Kajaani,Ekenas,WCsAlEhL,bPIAEyrj,2,1,,,,0
+1551371400,Rovaniemi,KPV Kokkola,zVgW5cY1,WdapVR2a,0,2,,,,0
+1551528000,Honka,Inter Turku,MVJgU4O3,lGvMSKuF,2,0,,,,0
+1551533400,AC Oulu,MuSa,6cxUQbAR,ERgO0JWN,4,0,,,,0
+1551614400,Rovaniemi,KuPS,zVgW5cY1,MPMRnwYF,3,2,,,,0
+1551628800,Mariehamn,HIFK,xv6lkb7q,S6wQRveL,3,0,,,,0
+1552669200,VJS,KPV Kokkola,CjsZWFij,WdapVR2a,0,3,,,,0
+1552669200,Gnistan,VPS,KQVDA2o1,WYtEUtB2,1,1,AET,1,3,0
+1552739400,Haka,Rovaniemi,KtjRAU38,zVgW5cY1,0,1,,,,0
+1552741200,KTP,Ilves,6clVGmml,OMIIvzhg,0,2,,,,0
+1552743000,AC Oulu,Honka,6cxUQbAR,MVJgU4O3,0,1,,,,0
+1552744800,TPV,Mariehamn,QyGb2mBG,xv6lkb7q,0,2,,,,0
+1552744800,Kiisto,Lahti,6cxUQbAR,tGlVXFkM,0,5,,,,0
+1552827600,Hercules,Inter Turku,2HgNHwLP,lGvMSKuF,0,2,,,,0
+1553950800,Inter Turku,VPS,lGvMSKuF,WYtEUtB2,1,2,,,,0
+1553954400,Rovaniemi,KPV Kokkola,zVgW5cY1,WdapVR2a,1,2,,,,0
+1553954400,Honka,Ilves,MVJgU4O3,OMIIvzhg,1,1,Pen,1,2,0
+1554044400,Mariehamn,Lahti,xv6lkb7q,tGlVXFkM,1,1,AET,3,1,0
+1558020600,VPS,Mariehamn,WYtEUtB2,xv6lkb7q,1,3,,,,0
+1558020600,KPV Kokkola,Ilves,WdapVR2a,OMIIvzhg,2,3,,,,0
+1560603600,Mariehamn,Ilves,xv6lkb7q,OMIIvzhg,0,2,,,,0

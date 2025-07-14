@@ -1,48 +1,48 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1303048800,FK Djambala,FK Yangiyer,0,1,,,,0
-1303048800,Erkurgan,Registan Samarkand,1,0,,,,0
-1303990200,FK Khiva,Bunyodkor,1,3,,,,0
-1304076600,FK Chust Pakhtakor,Navbahor Namangan,0,1,,,,0
-1304077800,Oktepa Tashkent,Metallurg Bekabad,0,2,,,,0
-1304077800,FK Kasansay,Din. Samarkand,1,4,,,,0
-1304078400,Orol Nukus,Sogdiana,1,2,,,,0
-1304078400,Nasaf Qarshi II,Qizilqum,0,4,,,,0
-1304078400,Imkon Oltiariq,Buxoro,2,1,,,,0
-1304078400,Gulistan,Xorazm Urganch,2,0,,,,0
-1304078400,FK Yangiyer,Mashal Muborak,0,1,,,,0
-1304078400,Erkurgan,OKMK,1,0,,,,0
-1304080200,Spartak Tashkent,Pakhtakor,0,5,,,,0
-1304080200,Mashal Muborak II,Neftchi Fargona,1,2,,,,0
-1304085600,FK Shurchi Lochin,Andijan,0,1,,,,0
-1304085600,Din. Gallakor,Lok. Tashkent,2,5,,,,0
-1304163000,Osiyo Tashkent,Nasaf Qarshi,0,3,,,,0
-1304168400,Zarafshon NTsZ,Shortan Guzor,1,4,,,,0
-1304683200,Imkon Oltiariq,Din. Samarkand,1,0,,,,0
-1304686800,Bunyodkor,Erkurgan,5,0,,,,0
-1304769600,Metallurg Bekabad,Nasaf Qarshi,0,1,,,,0
-1304771400,Sogdiana,Gulistan,3,0,,,,0
-1304771400,Mashal Muborak,Lok. Tashkent,2,1,,,,0
-1304776800,Neftchi Fargona,Qizilqum,3,0,,,,0
-1306245600,Pakhtakor,Andijan,3,1,,,,0
-1307185200,Navbahor Namangan,Shortan Guzor,1,2,,,,0
-1307361600,Erkurgan,Bunyodkor,1,1,,,,0
-1308918600,Qizilqum,Neftchi Fargona,2,2,,,,0
-1308927600,Nasaf Qarshi,Metallurg Bekabad,4,0,,,,0
-1309005000,Lok. Tashkent,Mashal Muborak,0,0,,,,0
-1309005900,Din. Samarkand,Imkon Oltiariq,3,1,,,,0
-1309010400,Shortan Guzor,Navbahor Namangan,3,0,,,,0
-1309010400,Gulistan,Sogdiana,4,2,,,,0
-1309179600,Andijan,Pakhtakor,1,4,,,,0
-1309266000,Sogdiana,Bunyodkor,1,3,,,,0
-1309269600,Mashal Muborak,Nasaf Qarshi,0,2,,,,0
-1309618800,Nasaf Qarshi,Mashal Muborak,1,0,,,,0
-1309618800,Bunyodkor,Sogdiana,2,0,,,,0
-1312291800,Neftchi Fargona,Pakhtakor,0,1,,,,0
-1312293600,Shortan Guzor,Din. Samarkand,4,0,,,,0
-1312297200,Bunyodkor,Nasaf Qarshi,1,0,,,,0
-1313584200,Din. Samarkand,Shortan Guzor,3,2,,,,0
-1313589600,Pakhtakor,Neftchi Fargona,2,1,,,,0
-1313593200,Nasaf Qarshi,Bunyodkor,1,0,Pen,2,0,0
-1317211200,Shortan Guzor,Pakhtakor,1,1,,,,0
-1318939200,Pakhtakor,Shortan Guzor,0,0,,,,0
-1321178400,Pakhtakor,Nasaf Qarshi,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1303048800,FK Djambala,FK Yangiyer,,j1j3lZXM,0,1,,,,0
+1303048800,Erkurgan,Registan Samarkand,,,1,0,,,,0
+1303990200,FK Khiva,Bunyodkor,,bgIYokVk,1,3,,,,0
+1304076600,FK Chust Pakhtakor,Navbahor Namangan,,6wCD7ZKQ,0,1,,,,0
+1304077800,Oktepa Tashkent,Metallurg Bekabad,z5z3O3hj,x4JlpwW4,0,2,,,,0
+1304077800,FK Kasansay,Din. Samarkand,,OKaAFlaK,1,4,,,,0
+1304078400,Orol Nukus,Sogdiana,,8fjo62dk,1,2,,,,0
+1304078400,Nasaf Qarshi II,Qizilqum,YXH1RUrr,CxnGCe84,0,4,,,,0
+1304078400,Imkon Oltiariq,Buxoro,,AmjSnLa0,2,1,,,,0
+1304078400,Gulistan,Xorazm Urganch,b90CwzNL,KrVwWP90,2,0,,,,0
+1304078400,FK Yangiyer,Mashal Muborak,j1j3lZXM,fVAPlTiH,0,1,,,,0
+1304078400,Erkurgan,OKMK,,EPflwKJK,1,0,,,,0
+1304080200,Spartak Tashkent,Pakhtakor,,6qXe6T4n,0,5,,,,0
+1304080200,Mashal Muborak II,Neftchi Fargona,4tAZkCXn,tKbQtiAt,1,2,,,,0
+1304085600,FK Shurchi Lochin,Andijan,,Otel1TYN,0,1,,,,0
+1304085600,Din. Gallakor,Lok. Tashkent,,vcV4K3Ct,2,5,,,,0
+1304163000,Osiyo Tashkent,Nasaf Qarshi,,MwERIUFm,0,3,,,,0
+1304168400,Zarafshon NTsZ,Shortan Guzor,,ze9vZcQ5,1,4,,,,0
+1304683200,Imkon Oltiariq,Din. Samarkand,,OKaAFlaK,1,0,,,,0
+1304686800,Bunyodkor,Erkurgan,bgIYokVk,,5,0,,,,0
+1304769600,Metallurg Bekabad,Nasaf Qarshi,x4JlpwW4,MwERIUFm,0,1,,,,0
+1304771400,Sogdiana,Gulistan,8fjo62dk,b90CwzNL,3,0,,,,0
+1304771400,Mashal Muborak,Lok. Tashkent,fVAPlTiH,vcV4K3Ct,2,1,,,,0
+1304776800,Neftchi Fargona,Qizilqum,tKbQtiAt,CxnGCe84,3,0,,,,0
+1306245600,Pakhtakor,Andijan,6qXe6T4n,Otel1TYN,3,1,,,,0
+1307185200,Navbahor Namangan,Shortan Guzor,6wCD7ZKQ,ze9vZcQ5,1,2,,,,0
+1307361600,Erkurgan,Bunyodkor,,bgIYokVk,1,1,,,,0
+1308918600,Qizilqum,Neftchi Fargona,CxnGCe84,tKbQtiAt,2,2,,,,0
+1308927600,Nasaf Qarshi,Metallurg Bekabad,MwERIUFm,x4JlpwW4,4,0,,,,0
+1309005000,Lok. Tashkent,Mashal Muborak,vcV4K3Ct,fVAPlTiH,0,0,,,,0
+1309005900,Din. Samarkand,Imkon Oltiariq,OKaAFlaK,,3,1,,,,0
+1309010400,Shortan Guzor,Navbahor Namangan,ze9vZcQ5,6wCD7ZKQ,3,0,,,,0
+1309010400,Gulistan,Sogdiana,b90CwzNL,8fjo62dk,4,2,,,,0
+1309179600,Andijan,Pakhtakor,Otel1TYN,6qXe6T4n,1,4,,,,0
+1309266000,Sogdiana,Bunyodkor,8fjo62dk,bgIYokVk,1,3,,,,0
+1309269600,Mashal Muborak,Nasaf Qarshi,fVAPlTiH,MwERIUFm,0,2,,,,0
+1309618800,Nasaf Qarshi,Mashal Muborak,MwERIUFm,fVAPlTiH,1,0,,,,0
+1309618800,Bunyodkor,Sogdiana,bgIYokVk,8fjo62dk,2,0,,,,0
+1312291800,Neftchi Fargona,Pakhtakor,tKbQtiAt,6qXe6T4n,0,1,,,,0
+1312293600,Shortan Guzor,Din. Samarkand,ze9vZcQ5,OKaAFlaK,4,0,,,,0
+1312297200,Bunyodkor,Nasaf Qarshi,bgIYokVk,MwERIUFm,1,0,,,,0
+1313584200,Din. Samarkand,Shortan Guzor,OKaAFlaK,ze9vZcQ5,3,2,,,,0
+1313589600,Pakhtakor,Neftchi Fargona,6qXe6T4n,tKbQtiAt,2,1,,,,0
+1313593200,Nasaf Qarshi,Bunyodkor,MwERIUFm,bgIYokVk,1,0,Pen,2,0,0
+1317211200,Shortan Guzor,Pakhtakor,ze9vZcQ5,6qXe6T4n,1,1,,,,0
+1318939200,Pakhtakor,Shortan Guzor,6qXe6T4n,ze9vZcQ5,0,0,,,,0
+1321178400,Pakhtakor,Nasaf Qarshi,6qXe6T4n,MwERIUFm,3,1,,,,0

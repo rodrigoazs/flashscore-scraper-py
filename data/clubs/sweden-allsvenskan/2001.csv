@@ -1,185 +1,185 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-986594400,Hammarby,Sundsvall,1,0,,,,0
-986680800,Norrkoping,Elfsborg,0,3,,,,0
-986680800,Hacken,Halmstad,2,1,,,,0
-986767200,Malmo FF,AIK,2,0,,,,0
-986767200,Goteborg,Helsingborg,2,1,,,,0
-987112800,Trelleborg,Norrkoping,0,1,,,,0
-987372000,Sundsvall,Hacken,1,0,,,,0
-987372000,Elfsborg,Malmo FF,0,2,,,,0
-987372000,AIK,Orebro,0,0,,,,0
-987458400,Helsingborg,Djurgarden,1,0,,,,0
-987544800,Orgryte,Hammarby,3,3,,,,0
-987544800,Halmstad,Goteborg,0,0,,,,0
-987804000,Helsingborg,Sundsvall,3,0,,,,0
-987804000,Halmstad,Elfsborg,5,0,,,,0
-987804000,Goteborg,Orebro,3,1,,,,0
-987804000,Djurgarden,Malmo FF,0,4,,,,0
-987890400,Trelleborg,Orgryte,1,4,,,,0
-987890400,Norrkoping,AIK,1,3,,,,0
-987890400,Hacken,Hammarby,0,0,,,,0
-988236000,Orebro,Orgryte,1,1,,,,0
-988495200,Sundsvall,Halmstad,3,1,,,,0
-988495200,Orebro,Djurgarden,2,2,,,,0
-988495200,AIK,Trelleborg,2,1,,,,0
-988581600,Orgryte,Helsingborg,1,0,,,,0
-988668000,Malmo FF,Norrkoping,0,0,,,,0
-988668000,Hammarby,Goteborg,1,1,,,,0
-989100000,Norrkoping,Sundsvall,0,0,,,,0
-989100000,Hacken,Malmo FF,2,1,,,,0
-989100000,Djurgarden,Orgryte,0,0,,,,0
-989186400,Trelleborg,Halmstad,0,3,,,,0
-989186400,Hammarby,Orebro,3,0,,,,0
-989186400,Goteborg,AIK,1,0,,,,0
-989272800,Helsingborg,Elfsborg,3,0,Awrd,,,0
-989445600,Djurgarden,Trelleborg,0,0,,,,0
-989704800,Sundsvall,Trelleborg,0,1,,,,0
-989704800,Orgryte,Norrkoping,1,2,,,,0
-989704800,Halmstad,Helsingborg,2,2,,,,0
-989791200,Orebro,Hacken,2,2,,,,0
-989791200,Malmo FF,Goteborg,0,6,,,,0
-989791200,Elfsborg,Hammarby,0,3,Awrd,,,0
-989877600,AIK,Djurgarden,1,1,,,,0
-990050400,Elfsborg,Hacken,3,1,,,,0
-990309600,Trelleborg,Elfsborg,3,0,Awrd,,,0
-990309600,Orebro,Malmo FF,2,0,,,,0
-990309600,Goteborg,Sundsvall,1,1,,,,0
-990396000,Norrkoping,Helsingborg,1,1,,,,0
-990396000,Hacken,Orgryte,0,3,,,,0
-990396000,Djurgarden,Halmstad,2,1,,,,0
-990482400,Hammarby,AIK,0,0,,,,0
-990914400,Sundsvall,Djurgarden,0,0,,,,0
-990914400,Malmo FF,Hammarby,1,0,,,,0
-990914400,Halmstad,Norrkoping,4,0,,,,0
-991000800,Orgryte,Goteborg,0,2,,,,0
-991000800,Helsingborg,Trelleborg,3,0,,,,0
-991000800,Elfsborg,Orebro,1,0,,,,0
-991000800,AIK,Hacken,2,0,,,,0
-992124000,Sundsvall,Elfsborg,1,3,,,,0
-992124000,Helsingborg,AIK,2,0,,,,0
-992124000,Halmstad,Orgryte,0,1,,,,0
-992210400,Trelleborg,Malmo FF,0,4,,,,0
-992210400,Norrkoping,Orebro,1,5,,,,0
-992210400,Goteborg,Hacken,1,1,,,,0
-992296800,Djurgarden,Hammarby,2,0,,,,0
-992383200,AIK,Halmstad,2,3,,,,0
-992728800,Orgryte,Sundsvall,2,0,,,,0
-992728800,Hammarby,Norrkoping,1,1,,,,0
-992815200,Orebro,Trelleborg,3,2,,,,0
-992815200,Hacken,Djurgarden,1,2,,,,0
-992815200,Elfsborg,Goteborg,3,2,,,,0
-992901600,Malmo FF,Helsingborg,0,1,,,,0
-992988000,Sundsvall,AIK,1,2,,,,0
-993074400,Orgryte,Elfsborg,1,1,,,,0
-993333600,Norrkoping,Hacken,1,1,,,,0
-993420000,Trelleborg,Hammarby,2,3,,,,0
-993420000,Helsingborg,Orebro,2,2,,,,0
-993420000,Djurgarden,Goteborg,3,1,,,,0
-993506400,Halmstad,Malmo FF,4,2,,,,0
-993592800,AIK,Orgryte,2,2,,,,0
-993938400,Hacken,Trelleborg,2,2,,,,0
-993938400,Elfsborg,Djurgarden,1,2,,,,0
-994024800,Orebro,Halmstad,1,1,,,,0
-994024800,Malmo FF,Sundsvall,2,0,,,,0
-994024800,Hammarby,Helsingborg,3,1,,,,0
-994111200,Goteborg,Norrkoping,2,1,,,,0
-994197600,AIK,Elfsborg,3,1,,,,0
-994456800,Orebro,Sundsvall,1,1,,,,0
-994543200,Orgryte,Malmo FF,1,4,,,,0
-994543200,Norrkoping,Djurgarden,2,0,,,,0
-994802400,Orgryte,AIK,1,0,,,,0
-995148000,Trelleborg,Goteborg,0,0,,,,0
-995148000,Halmstad,Hammarby,1,2,,,,0
-995148000,Hacken,Helsingborg,2,2,,,,0
-995666400,Halmstad,Orebro,3,0,,,,0
-995752800,Trelleborg,Hacken,0,4,,,,0
-995752800,Djurgarden,Elfsborg,3,0,,,,0
-995839200,Sundsvall,Malmo FF,2,1,,,,0
-995839200,Norrkoping,Goteborg,2,3,,,,0
-995925600,Helsingborg,Hammarby,1,3,,,,0
-996357600,Malmo FF,Halmstad,3,3,,,,0
-996357600,Hacken,Norrkoping,0,2,,,,0
-996357600,AIK,Sundsvall,2,0,,,,0
-996444000,Orebro,Helsingborg,3,3,,,,0
-996444000,Hammarby,Trelleborg,4,1,,,,0
-996444000,Elfsborg,Orgryte,0,3,Awrd,,,0
-996530400,Goteborg,Djurgarden,0,2,,,,0
-996876000,Halmstad,AIK,2,2,,,,0
-996962400,Sundsvall,Orgryte,2,2,,,,0
-996962400,Goteborg,Elfsborg,2,2,,,,0
-996962400,Djurgarden,Hacken,2,1,,,,0
-997048800,Trelleborg,Orebro,1,1,,,,0
-997048800,Norrkoping,Hammarby,1,2,,,,0
-997048800,Helsingborg,Malmo FF,1,1,,,,0
-997308000,Hammarby,Djurgarden,0,1,,,,0
-997308000,Hacken,Goteborg,3,0,,,,0
-997567200,Orgryte,Halmstad,0,2,,,,0
-997567200,Orebro,Norrkoping,5,3,,,,0
-997567200,Malmo FF,Trelleborg,1,3,,,,0
-997567200,Elfsborg,Sundsvall,3,2,,,,0
-997567200,AIK,Helsingborg,2,2,,,,0
-998085600,Hammarby,Halmstad,1,0,,,,0
-998172000,Helsingborg,Hacken,1,0,,,,0
-998172000,Elfsborg,AIK,1,2,,,,0
-998258400,Sundsvall,Orebro,1,4,,,,0
-998258400,Goteborg,Trelleborg,3,2,,,,0
-998258400,Djurgarden,Norrkoping,0,2,,,,0
-998431200,Malmo FF,Orgryte,2,1,,,,0
-998776800,Norrkoping,Malmo FF,1,1,,,,0
-998776800,Halmstad,Sundsvall,1,1,,,,0
-998776800,Hacken,Elfsborg,2,3,,,,0
-998863200,Trelleborg,AIK,1,1,,,,0
-998863200,Helsingborg,Orgryte,5,0,,,,0
-998863200,Goteborg,Hammarby,1,0,,,,0
-999727200,Djurgarden,Orebro,2,0,,,,0
-999900000,Elfsborg,Halmstad,0,2,,,,0
-999986400,Sundsvall,Helsingborg,2,2,,,,0
-999986400,AIK,Norrkoping,1,1,,,,0
-1000072800,Orgryte,Trelleborg,2,1,,,,0
-1000072800,Orebro,Goteborg,1,2,,,,0
-1000072800,Hammarby,Hacken,2,2,,,,0
-1000159200,Malmo FF,Djurgarden,1,3,,,,0
-1000591200,Trelleborg,Sundsvall,2,3,,,,0
-1000591200,Hammarby,Elfsborg,1,0,,,,0
-1000591200,Hacken,Orebro,2,6,,,,0
-1000677600,Norrkoping,Orgryte,0,0,,,,0
-1000677600,Goteborg,Malmo FF,4,0,,,,0
-1000850400,Djurgarden,AIK,1,2,,,,0
-1001257200,Sundsvall,Norrkoping,3,0,,,,0
-1001257200,Elfsborg,Helsingborg,1,1,,,,0
-1001350800,Orgryte,Djurgarden,1,1,,,,0
-1001350800,Orebro,Hammarby,0,3,,,,0
-1001350800,Malmo FF,Hacken,2,2,,,,0
-1001350800,Halmstad,Trelleborg,5,2,,,,0
-1001437200,AIK,Goteborg,1,1,,,,0
-1001854800,Trelleborg,Helsingborg,0,3,,,,0
-1001854800,Orebro,Elfsborg,4,1,,,,0
-1001854800,Hacken,AIK,1,6,,,,0
-1001955600,Norrkoping,Halmstad,0,3,,,,0
-1001955600,Hammarby,Malmo FF,4,1,,,,0
-1001955600,Goteborg,Orgryte,1,1,,,,0
-1002042000,Djurgarden,Sundsvall,1,1,,,,0
-1002733200,Helsingborg,Halmstad,1,0,,,,0
-1003064400,Orgryte,Hacken,2,0,,,,0
-1003064400,Helsingborg,Norrkoping,0,1,,,,0
-1003064400,Halmstad,Djurgarden,0,0,,,,0
-1003163400,Sundsvall,Goteborg,1,0,,,,0
-1003163400,Malmo FF,Orebro,1,3,,,,0
-1003163400,Elfsborg,Trelleborg,2,0,,,,0
-1003165200,AIK,Hammarby,5,2,,,,0
-1003669200,Norrkoping,Trelleborg,5,0,,,,0
-1003669200,Hammarby,Orgryte,3,2,,,,0
-1003669200,Hacken,Sundsvall,2,1,,,,0
-1003770000,Orebro,AIK,1,2,,,,0
-1003770000,Malmo FF,Elfsborg,3,1,,,,0
-1003770000,Djurgarden,Helsingborg,3,2,,,,0
-1003856400,Goteborg,Halmstad,2,1,,,,0
-1004182200,Trelleborg,Djurgarden,0,3,,,,0
-1004182200,Sundsvall,Hammarby,1,0,,,,0
-1004182200,Orgryte,Orebro,1,0,,,,0
-1004182200,Helsingborg,Goteborg,3,0,,,,0
-1004182200,Halmstad,Hacken,2,2,,,,0
-1004182200,Elfsborg,Norrkoping,1,0,,,,0
-1004182200,AIK,Malmo FF,2,0,,,,0
-1004540400,Mjallby,Norrkoping,2,1,,,,0
-1004799600,Norrkoping,Mjallby,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+986594400,Hammarby,Sundsvall,EamQtThn,rFwxlpm5,1,0,,,,0
+986680800,Norrkoping,Elfsborg,W2EojdRP,tl2CILaH,0,3,,,,0
+986680800,Hacken,Halmstad,Ew0jDlyt,Qw5ziF5q,2,1,,,,0
+986767200,Malmo FF,AIK,YmCZKGcR,2c38J1pB,2,0,,,,0
+986767200,Goteborg,Helsingborg,jqs0yJHC,2TRrus0k,2,1,,,,0
+987112800,Trelleborg,Norrkoping,Y551C19F,W2EojdRP,0,1,,,,0
+987372000,Sundsvall,Hacken,rFwxlpm5,Ew0jDlyt,1,0,,,,0
+987372000,Elfsborg,Malmo FF,tl2CILaH,YmCZKGcR,0,2,,,,0
+987372000,AIK,Orebro,2c38J1pB,Kv1GHuFN,0,0,,,,0
+987458400,Helsingborg,Djurgarden,2TRrus0k,lvoaqOtj,1,0,,,,0
+987544800,Orgryte,Hammarby,KQTvUQwK,EamQtThn,3,3,,,,0
+987544800,Halmstad,Goteborg,Qw5ziF5q,jqs0yJHC,0,0,,,,0
+987804000,Helsingborg,Sundsvall,2TRrus0k,rFwxlpm5,3,0,,,,0
+987804000,Halmstad,Elfsborg,Qw5ziF5q,tl2CILaH,5,0,,,,0
+987804000,Goteborg,Orebro,jqs0yJHC,Kv1GHuFN,3,1,,,,0
+987804000,Djurgarden,Malmo FF,lvoaqOtj,YmCZKGcR,0,4,,,,0
+987890400,Trelleborg,Orgryte,Y551C19F,KQTvUQwK,1,4,,,,0
+987890400,Norrkoping,AIK,W2EojdRP,2c38J1pB,1,3,,,,0
+987890400,Hacken,Hammarby,Ew0jDlyt,EamQtThn,0,0,,,,0
+988236000,Orebro,Orgryte,Kv1GHuFN,KQTvUQwK,1,1,,,,0
+988495200,Sundsvall,Halmstad,rFwxlpm5,Qw5ziF5q,3,1,,,,0
+988495200,Orebro,Djurgarden,Kv1GHuFN,lvoaqOtj,2,2,,,,0
+988495200,AIK,Trelleborg,2c38J1pB,Y551C19F,2,1,,,,0
+988581600,Orgryte,Helsingborg,KQTvUQwK,2TRrus0k,1,0,,,,0
+988668000,Malmo FF,Norrkoping,YmCZKGcR,W2EojdRP,0,0,,,,0
+988668000,Hammarby,Goteborg,EamQtThn,jqs0yJHC,1,1,,,,0
+989100000,Norrkoping,Sundsvall,W2EojdRP,rFwxlpm5,0,0,,,,0
+989100000,Hacken,Malmo FF,Ew0jDlyt,YmCZKGcR,2,1,,,,0
+989100000,Djurgarden,Orgryte,lvoaqOtj,KQTvUQwK,0,0,,,,0
+989186400,Trelleborg,Halmstad,Y551C19F,Qw5ziF5q,0,3,,,,0
+989186400,Hammarby,Orebro,EamQtThn,Kv1GHuFN,3,0,,,,0
+989186400,Goteborg,AIK,jqs0yJHC,2c38J1pB,1,0,,,,0
+989272800,Helsingborg,Elfsborg,2TRrus0k,tl2CILaH,3,0,Awrd,,,0
+989445600,Djurgarden,Trelleborg,lvoaqOtj,Y551C19F,0,0,,,,0
+989704800,Sundsvall,Trelleborg,rFwxlpm5,Y551C19F,0,1,,,,0
+989704800,Orgryte,Norrkoping,KQTvUQwK,W2EojdRP,1,2,,,,0
+989704800,Halmstad,Helsingborg,Qw5ziF5q,2TRrus0k,2,2,,,,0
+989791200,Orebro,Hacken,Kv1GHuFN,Ew0jDlyt,2,2,,,,0
+989791200,Malmo FF,Goteborg,YmCZKGcR,jqs0yJHC,0,6,,,,0
+989791200,Elfsborg,Hammarby,tl2CILaH,EamQtThn,0,3,Awrd,,,0
+989877600,AIK,Djurgarden,2c38J1pB,lvoaqOtj,1,1,,,,0
+990050400,Elfsborg,Hacken,tl2CILaH,Ew0jDlyt,3,1,,,,0
+990309600,Trelleborg,Elfsborg,Y551C19F,tl2CILaH,3,0,Awrd,,,0
+990309600,Orebro,Malmo FF,Kv1GHuFN,YmCZKGcR,2,0,,,,0
+990309600,Goteborg,Sundsvall,jqs0yJHC,rFwxlpm5,1,1,,,,0
+990396000,Norrkoping,Helsingborg,W2EojdRP,2TRrus0k,1,1,,,,0
+990396000,Hacken,Orgryte,Ew0jDlyt,KQTvUQwK,0,3,,,,0
+990396000,Djurgarden,Halmstad,lvoaqOtj,Qw5ziF5q,2,1,,,,0
+990482400,Hammarby,AIK,EamQtThn,2c38J1pB,0,0,,,,0
+990914400,Sundsvall,Djurgarden,rFwxlpm5,lvoaqOtj,0,0,,,,0
+990914400,Malmo FF,Hammarby,YmCZKGcR,EamQtThn,1,0,,,,0
+990914400,Halmstad,Norrkoping,Qw5ziF5q,W2EojdRP,4,0,,,,0
+991000800,Orgryte,Goteborg,KQTvUQwK,jqs0yJHC,0,2,,,,0
+991000800,Helsingborg,Trelleborg,2TRrus0k,Y551C19F,3,0,,,,0
+991000800,Elfsborg,Orebro,tl2CILaH,Kv1GHuFN,1,0,,,,0
+991000800,AIK,Hacken,2c38J1pB,Ew0jDlyt,2,0,,,,0
+992124000,Sundsvall,Elfsborg,rFwxlpm5,tl2CILaH,1,3,,,,0
+992124000,Helsingborg,AIK,2TRrus0k,2c38J1pB,2,0,,,,0
+992124000,Halmstad,Orgryte,Qw5ziF5q,KQTvUQwK,0,1,,,,0
+992210400,Trelleborg,Malmo FF,Y551C19F,YmCZKGcR,0,4,,,,0
+992210400,Norrkoping,Orebro,W2EojdRP,Kv1GHuFN,1,5,,,,0
+992210400,Goteborg,Hacken,jqs0yJHC,Ew0jDlyt,1,1,,,,0
+992296800,Djurgarden,Hammarby,lvoaqOtj,EamQtThn,2,0,,,,0
+992383200,AIK,Halmstad,2c38J1pB,Qw5ziF5q,2,3,,,,0
+992728800,Orgryte,Sundsvall,KQTvUQwK,rFwxlpm5,2,0,,,,0
+992728800,Hammarby,Norrkoping,EamQtThn,W2EojdRP,1,1,,,,0
+992815200,Orebro,Trelleborg,Kv1GHuFN,Y551C19F,3,2,,,,0
+992815200,Hacken,Djurgarden,Ew0jDlyt,lvoaqOtj,1,2,,,,0
+992815200,Elfsborg,Goteborg,tl2CILaH,jqs0yJHC,3,2,,,,0
+992901600,Malmo FF,Helsingborg,YmCZKGcR,2TRrus0k,0,1,,,,0
+992988000,Sundsvall,AIK,rFwxlpm5,2c38J1pB,1,2,,,,0
+993074400,Orgryte,Elfsborg,KQTvUQwK,tl2CILaH,1,1,,,,0
+993333600,Norrkoping,Hacken,W2EojdRP,Ew0jDlyt,1,1,,,,0
+993420000,Trelleborg,Hammarby,Y551C19F,EamQtThn,2,3,,,,0
+993420000,Helsingborg,Orebro,2TRrus0k,Kv1GHuFN,2,2,,,,0
+993420000,Djurgarden,Goteborg,lvoaqOtj,jqs0yJHC,3,1,,,,0
+993506400,Halmstad,Malmo FF,Qw5ziF5q,YmCZKGcR,4,2,,,,0
+993592800,AIK,Orgryte,2c38J1pB,KQTvUQwK,2,2,,,,0
+993938400,Hacken,Trelleborg,Ew0jDlyt,Y551C19F,2,2,,,,0
+993938400,Elfsborg,Djurgarden,tl2CILaH,lvoaqOtj,1,2,,,,0
+994024800,Orebro,Halmstad,Kv1GHuFN,Qw5ziF5q,1,1,,,,0
+994024800,Malmo FF,Sundsvall,YmCZKGcR,rFwxlpm5,2,0,,,,0
+994024800,Hammarby,Helsingborg,EamQtThn,2TRrus0k,3,1,,,,0
+994111200,Goteborg,Norrkoping,jqs0yJHC,W2EojdRP,2,1,,,,0
+994197600,AIK,Elfsborg,2c38J1pB,tl2CILaH,3,1,,,,0
+994456800,Orebro,Sundsvall,Kv1GHuFN,rFwxlpm5,1,1,,,,0
+994543200,Orgryte,Malmo FF,KQTvUQwK,YmCZKGcR,1,4,,,,0
+994543200,Norrkoping,Djurgarden,W2EojdRP,lvoaqOtj,2,0,,,,0
+994802400,Orgryte,AIK,KQTvUQwK,2c38J1pB,1,0,,,,0
+995148000,Trelleborg,Goteborg,Y551C19F,jqs0yJHC,0,0,,,,0
+995148000,Halmstad,Hammarby,Qw5ziF5q,EamQtThn,1,2,,,,0
+995148000,Hacken,Helsingborg,Ew0jDlyt,2TRrus0k,2,2,,,,0
+995666400,Halmstad,Orebro,Qw5ziF5q,Kv1GHuFN,3,0,,,,0
+995752800,Trelleborg,Hacken,Y551C19F,Ew0jDlyt,0,4,,,,0
+995752800,Djurgarden,Elfsborg,lvoaqOtj,tl2CILaH,3,0,,,,0
+995839200,Sundsvall,Malmo FF,rFwxlpm5,YmCZKGcR,2,1,,,,0
+995839200,Norrkoping,Goteborg,W2EojdRP,jqs0yJHC,2,3,,,,0
+995925600,Helsingborg,Hammarby,2TRrus0k,EamQtThn,1,3,,,,0
+996357600,Malmo FF,Halmstad,YmCZKGcR,Qw5ziF5q,3,3,,,,0
+996357600,Hacken,Norrkoping,Ew0jDlyt,W2EojdRP,0,2,,,,0
+996357600,AIK,Sundsvall,2c38J1pB,rFwxlpm5,2,0,,,,0
+996444000,Orebro,Helsingborg,Kv1GHuFN,2TRrus0k,3,3,,,,0
+996444000,Hammarby,Trelleborg,EamQtThn,Y551C19F,4,1,,,,0
+996444000,Elfsborg,Orgryte,tl2CILaH,KQTvUQwK,0,3,Awrd,,,0
+996530400,Goteborg,Djurgarden,jqs0yJHC,lvoaqOtj,0,2,,,,0
+996876000,Halmstad,AIK,Qw5ziF5q,2c38J1pB,2,2,,,,0
+996962400,Sundsvall,Orgryte,rFwxlpm5,KQTvUQwK,2,2,,,,0
+996962400,Goteborg,Elfsborg,jqs0yJHC,tl2CILaH,2,2,,,,0
+996962400,Djurgarden,Hacken,lvoaqOtj,Ew0jDlyt,2,1,,,,0
+997048800,Trelleborg,Orebro,Y551C19F,Kv1GHuFN,1,1,,,,0
+997048800,Norrkoping,Hammarby,W2EojdRP,EamQtThn,1,2,,,,0
+997048800,Helsingborg,Malmo FF,2TRrus0k,YmCZKGcR,1,1,,,,0
+997308000,Hammarby,Djurgarden,EamQtThn,lvoaqOtj,0,1,,,,0
+997308000,Hacken,Goteborg,Ew0jDlyt,jqs0yJHC,3,0,,,,0
+997567200,Orgryte,Halmstad,KQTvUQwK,Qw5ziF5q,0,2,,,,0
+997567200,Orebro,Norrkoping,Kv1GHuFN,W2EojdRP,5,3,,,,0
+997567200,Malmo FF,Trelleborg,YmCZKGcR,Y551C19F,1,3,,,,0
+997567200,Elfsborg,Sundsvall,tl2CILaH,rFwxlpm5,3,2,,,,0
+997567200,AIK,Helsingborg,2c38J1pB,2TRrus0k,2,2,,,,0
+998085600,Hammarby,Halmstad,EamQtThn,Qw5ziF5q,1,0,,,,0
+998172000,Helsingborg,Hacken,2TRrus0k,Ew0jDlyt,1,0,,,,0
+998172000,Elfsborg,AIK,tl2CILaH,2c38J1pB,1,2,,,,0
+998258400,Sundsvall,Orebro,rFwxlpm5,Kv1GHuFN,1,4,,,,0
+998258400,Goteborg,Trelleborg,jqs0yJHC,Y551C19F,3,2,,,,0
+998258400,Djurgarden,Norrkoping,lvoaqOtj,W2EojdRP,0,2,,,,0
+998431200,Malmo FF,Orgryte,YmCZKGcR,KQTvUQwK,2,1,,,,0
+998776800,Norrkoping,Malmo FF,W2EojdRP,YmCZKGcR,1,1,,,,0
+998776800,Halmstad,Sundsvall,Qw5ziF5q,rFwxlpm5,1,1,,,,0
+998776800,Hacken,Elfsborg,Ew0jDlyt,tl2CILaH,2,3,,,,0
+998863200,Trelleborg,AIK,Y551C19F,2c38J1pB,1,1,,,,0
+998863200,Helsingborg,Orgryte,2TRrus0k,KQTvUQwK,5,0,,,,0
+998863200,Goteborg,Hammarby,jqs0yJHC,EamQtThn,1,0,,,,0
+999727200,Djurgarden,Orebro,lvoaqOtj,Kv1GHuFN,2,0,,,,0
+999900000,Elfsborg,Halmstad,tl2CILaH,Qw5ziF5q,0,2,,,,0
+999986400,Sundsvall,Helsingborg,rFwxlpm5,2TRrus0k,2,2,,,,0
+999986400,AIK,Norrkoping,2c38J1pB,W2EojdRP,1,1,,,,0
+1000072800,Orgryte,Trelleborg,KQTvUQwK,Y551C19F,2,1,,,,0
+1000072800,Orebro,Goteborg,Kv1GHuFN,jqs0yJHC,1,2,,,,0
+1000072800,Hammarby,Hacken,EamQtThn,Ew0jDlyt,2,2,,,,0
+1000159200,Malmo FF,Djurgarden,YmCZKGcR,lvoaqOtj,1,3,,,,0
+1000591200,Trelleborg,Sundsvall,Y551C19F,rFwxlpm5,2,3,,,,0
+1000591200,Hammarby,Elfsborg,EamQtThn,tl2CILaH,1,0,,,,0
+1000591200,Hacken,Orebro,Ew0jDlyt,Kv1GHuFN,2,6,,,,0
+1000677600,Norrkoping,Orgryte,W2EojdRP,KQTvUQwK,0,0,,,,0
+1000677600,Goteborg,Malmo FF,jqs0yJHC,YmCZKGcR,4,0,,,,0
+1000850400,Djurgarden,AIK,lvoaqOtj,2c38J1pB,1,2,,,,0
+1001257200,Sundsvall,Norrkoping,rFwxlpm5,W2EojdRP,3,0,,,,0
+1001257200,Elfsborg,Helsingborg,tl2CILaH,2TRrus0k,1,1,,,,0
+1001350800,Orgryte,Djurgarden,KQTvUQwK,lvoaqOtj,1,1,,,,0
+1001350800,Orebro,Hammarby,Kv1GHuFN,EamQtThn,0,3,,,,0
+1001350800,Malmo FF,Hacken,YmCZKGcR,Ew0jDlyt,2,2,,,,0
+1001350800,Halmstad,Trelleborg,Qw5ziF5q,Y551C19F,5,2,,,,0
+1001437200,AIK,Goteborg,2c38J1pB,jqs0yJHC,1,1,,,,0
+1001854800,Trelleborg,Helsingborg,Y551C19F,2TRrus0k,0,3,,,,0
+1001854800,Orebro,Elfsborg,Kv1GHuFN,tl2CILaH,4,1,,,,0
+1001854800,Hacken,AIK,Ew0jDlyt,2c38J1pB,1,6,,,,0
+1001955600,Norrkoping,Halmstad,W2EojdRP,Qw5ziF5q,0,3,,,,0
+1001955600,Hammarby,Malmo FF,EamQtThn,YmCZKGcR,4,1,,,,0
+1001955600,Goteborg,Orgryte,jqs0yJHC,KQTvUQwK,1,1,,,,0
+1002042000,Djurgarden,Sundsvall,lvoaqOtj,rFwxlpm5,1,1,,,,0
+1002733200,Helsingborg,Halmstad,2TRrus0k,Qw5ziF5q,1,0,,,,0
+1003064400,Orgryte,Hacken,KQTvUQwK,Ew0jDlyt,2,0,,,,0
+1003064400,Helsingborg,Norrkoping,2TRrus0k,W2EojdRP,0,1,,,,0
+1003064400,Halmstad,Djurgarden,Qw5ziF5q,lvoaqOtj,0,0,,,,0
+1003163400,Sundsvall,Goteborg,rFwxlpm5,jqs0yJHC,1,0,,,,0
+1003163400,Malmo FF,Orebro,YmCZKGcR,Kv1GHuFN,1,3,,,,0
+1003163400,Elfsborg,Trelleborg,tl2CILaH,Y551C19F,2,0,,,,0
+1003165200,AIK,Hammarby,2c38J1pB,EamQtThn,5,2,,,,0
+1003669200,Norrkoping,Trelleborg,W2EojdRP,Y551C19F,5,0,,,,0
+1003669200,Hammarby,Orgryte,EamQtThn,KQTvUQwK,3,2,,,,0
+1003669200,Hacken,Sundsvall,Ew0jDlyt,rFwxlpm5,2,1,,,,0
+1003770000,Orebro,AIK,Kv1GHuFN,2c38J1pB,1,2,,,,0
+1003770000,Malmo FF,Elfsborg,YmCZKGcR,tl2CILaH,3,1,,,,0
+1003770000,Djurgarden,Helsingborg,lvoaqOtj,2TRrus0k,3,2,,,,0
+1003856400,Goteborg,Halmstad,jqs0yJHC,Qw5ziF5q,2,1,,,,0
+1004182200,Trelleborg,Djurgarden,Y551C19F,lvoaqOtj,0,3,,,,0
+1004182200,Sundsvall,Hammarby,rFwxlpm5,EamQtThn,1,0,,,,0
+1004182200,Orgryte,Orebro,KQTvUQwK,Kv1GHuFN,1,0,,,,0
+1004182200,Helsingborg,Goteborg,2TRrus0k,jqs0yJHC,3,0,,,,0
+1004182200,Halmstad,Hacken,Qw5ziF5q,Ew0jDlyt,2,2,,,,0
+1004182200,Elfsborg,Norrkoping,tl2CILaH,W2EojdRP,1,0,,,,0
+1004182200,AIK,Malmo FF,2c38J1pB,YmCZKGcR,2,0,,,,0
+1004540400,Mjallby,Norrkoping,tl2CILaH,W2EojdRP,2,1,,,,0
+1004799600,Norrkoping,Mjallby,W2EojdRP,tl2CILaH,3,1,,,,0

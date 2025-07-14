@@ -1,61 +1,61 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1710021600,Cosmopolites,Tempete,1,0,,,,0
-1710097200,Ouanaminthe,Fica,1,0,,,,0
-1710097200,Cavaly,Juventus,1,0,,,,0
-1710104400,Capoise,Real Hope,1,0,,,,0
-1710104400,Baltimore,Triomphe Liancourt,0,0,,,,0
-1710360000,Racing des Gonaives,Capoise,2,0,,,,0
-1710367200,Rivartibonitienne,Baltimore,1,0,,,,0
-1710446400,Cavaly,America des Cayes,3,3,,,,0
-1710453600,Triomphe Liancourt,Cosmopolites,1,1,,,,0
-1710705600,Racing des Gonaives,Real Hope,1,2,,,,0
-1710705600,Fica,Capoise,1,1,,,,0
-1710705600,America des Cayes,Juventus,1,0,,,,0
-1710709200,Baltimore,Tempete,0,0,,,,0
-1710964800,Triomphe Liancourt,Rivartibonitienne,1,0,,,,0
-1711227600,Tempete,Rivartibonitienne,0,0,,,,0
-1711310400,Real Hope,Fica,2,0,,,,0
-1711310400,Ouanaminthe,Racing des Gonaives,0,0,,,,0
-1711310400,Juventus,Racing Haitien,1,2,,,,0
-1711314000,Cosmopolites,Baltimore,0,1,,,,0
-1711656000,Real Hope,Ouanaminthe,0,1,,,,0
-1711656000,America des Cayes,Racing Haitien,5,0,,,,0
-1711828800,Fica,Racing des Gonaives,0,0,,,,0
-1711832400,Rivartibonitienne,Cosmopolites,0,1,,,,0
-1711915200,Cavaly,Racing Haitien,1,1,,,,0
-1711915200,Capoise,Ouanaminthe,2,0,,,,0
-1711918800,Tempete,Triomphe Liancourt,0,0,,,,0
-1712437200,Triomphe Liancourt,Baltimore,0,1,,,,0
-1712520000,Real Hope,Capoise,1,0,,,,0
-1712520000,Juventus,Cavaly,1,1,,,,0
-1712520000,Fica,Ouanaminthe,1,0,,,,0
-1712523600,Tempete,Cosmopolites,1,1,,,,0
-1712779200,Capoise,Racing des Gonaives,1,1,,,,0
-1712782800,Baltimore,Rivartibonitienne,1,0,,,,0
-1712865600,Ouanaminthe,Real Hope,1,0,,,,0
-1712869200,Cosmopolites,Triomphe Liancourt,0,1,,,,0
-1713124800,Real Hope,Racing des Gonaives,3,1,,,,0
-1713124800,Capoise,Fica,1,0,,,,0
-1713128400,Tempete,Baltimore,1,1,,,,0
-1713387600,Rivartibonitienne,Triomphe Liancourt,2,0,,,,0
-1713646800,Rivartibonitienne,Tempete,0,1,,,,0
-1713729600,Racing Haitien,Juventus,0,0,,,,0
-1713729600,Racing des Gonaives,Ouanaminthe,3,2,,,,0
-1713729600,Fica,Real Hope,0,2,,,,0
-1713729600,America des Cayes,Cavaly,2,0,,,,0
-1713733200,Baltimore,Cosmopolites,0,1,,,,0
-1713988800,Racing Haitien,America des Cayes,0,0,,,,0
-1714251600,Cosmopolites,Rivartibonitienne,0,0,,,,0
-1714334400,Racing Haitien,Cavaly,0,2,,,,0
-1714334400,Racing des Gonaives,Fica,1,0,,,,0
-1714334400,Ouanaminthe,Capoise,1,0,,,,0
-1714334400,Juventus,America des Cayes,0,4,,,,0
-1714338000,Triomphe Liancourt,Tempete,0,1,,,,0
-1715886000,Baltimore,Ouanaminthe,1,1,,,,0
-1715893200,Tempete,Real Hope,0,2,,,,0
-1716145200,Cavaly,Tempete,0,1,,,,0
-1716208200,America des Cayes,Baltimore,1,0,,,,0
-1716404400,Ouanaminthe,America des Cayes,3,1,,,,0
-1716411600,Real Hope,Cavaly,2,0,,,,0
-1716750000,Tempete,America des Cayes,0,1,,,,0
-1716757200,Real Hope,Ouanaminthe,1,1,Pen,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1710021600,Cosmopolites,Tempete,0QOVjYPd,hE6BPRI3,1,0,,,,0
+1710097200,Ouanaminthe,Fica,AiWXHFvl,hE6BPRI3,1,0,,,,0
+1710097200,Cavaly,Juventus,EN77Q73c,CrTzmp8m,1,0,,,,0
+1710104400,Capoise,Real Hope,hE6BPRI3,I3fT7Mcc,1,0,,,,0
+1710104400,Baltimore,Triomphe Liancourt,CSOgZqIm,G6UVHI9E,0,0,,,,0
+1710360000,Racing des Gonaives,Capoise,hE6BPRI3,hE6BPRI3,2,0,,,,0
+1710367200,Rivartibonitienne,Baltimore,nuEaJhN0,CSOgZqIm,1,0,,,,0
+1710446400,Cavaly,America des Cayes,EN77Q73c,hYzo4N02,3,3,,,,0
+1710453600,Triomphe Liancourt,Cosmopolites,G6UVHI9E,0QOVjYPd,1,1,,,,0
+1710705600,Racing des Gonaives,Real Hope,hE6BPRI3,I3fT7Mcc,1,2,,,,0
+1710705600,Fica,Capoise,hE6BPRI3,hE6BPRI3,1,1,,,,0
+1710705600,America des Cayes,Juventus,hYzo4N02,CrTzmp8m,1,0,,,,0
+1710709200,Baltimore,Tempete,CSOgZqIm,hE6BPRI3,0,0,,,,0
+1710964800,Triomphe Liancourt,Rivartibonitienne,G6UVHI9E,nuEaJhN0,1,0,,,,0
+1711227600,Tempete,Rivartibonitienne,hE6BPRI3,nuEaJhN0,0,0,,,,0
+1711310400,Real Hope,Fica,I3fT7Mcc,hE6BPRI3,2,0,,,,0
+1711310400,Ouanaminthe,Racing des Gonaives,AiWXHFvl,hE6BPRI3,0,0,,,,0
+1711310400,Juventus,Racing Haitien,CrTzmp8m,EN77Q73c,1,2,,,,0
+1711314000,Cosmopolites,Baltimore,0QOVjYPd,CSOgZqIm,0,1,,,,0
+1711656000,Real Hope,Ouanaminthe,I3fT7Mcc,AiWXHFvl,0,1,,,,0
+1711656000,America des Cayes,Racing Haitien,hYzo4N02,EN77Q73c,5,0,,,,0
+1711828800,Fica,Racing des Gonaives,hE6BPRI3,hE6BPRI3,0,0,,,,0
+1711832400,Rivartibonitienne,Cosmopolites,nuEaJhN0,0QOVjYPd,0,1,,,,0
+1711915200,Cavaly,Racing Haitien,EN77Q73c,EN77Q73c,1,1,,,,0
+1711915200,Capoise,Ouanaminthe,hE6BPRI3,AiWXHFvl,2,0,,,,0
+1711918800,Tempete,Triomphe Liancourt,hE6BPRI3,G6UVHI9E,0,0,,,,0
+1712437200,Triomphe Liancourt,Baltimore,G6UVHI9E,CSOgZqIm,0,1,,,,0
+1712520000,Real Hope,Capoise,I3fT7Mcc,hE6BPRI3,1,0,,,,0
+1712520000,Juventus,Cavaly,CrTzmp8m,EN77Q73c,1,1,,,,0
+1712520000,Fica,Ouanaminthe,hE6BPRI3,AiWXHFvl,1,0,,,,0
+1712523600,Tempete,Cosmopolites,hE6BPRI3,0QOVjYPd,1,1,,,,0
+1712779200,Capoise,Racing des Gonaives,hE6BPRI3,hE6BPRI3,1,1,,,,0
+1712782800,Baltimore,Rivartibonitienne,CSOgZqIm,nuEaJhN0,1,0,,,,0
+1712865600,Ouanaminthe,Real Hope,AiWXHFvl,I3fT7Mcc,1,0,,,,0
+1712869200,Cosmopolites,Triomphe Liancourt,0QOVjYPd,G6UVHI9E,0,1,,,,0
+1713124800,Real Hope,Racing des Gonaives,I3fT7Mcc,hE6BPRI3,3,1,,,,0
+1713124800,Capoise,Fica,hE6BPRI3,hE6BPRI3,1,0,,,,0
+1713128400,Tempete,Baltimore,hE6BPRI3,CSOgZqIm,1,1,,,,0
+1713387600,Rivartibonitienne,Triomphe Liancourt,nuEaJhN0,G6UVHI9E,2,0,,,,0
+1713646800,Rivartibonitienne,Tempete,nuEaJhN0,hE6BPRI3,0,1,,,,0
+1713729600,Racing Haitien,Juventus,EN77Q73c,CrTzmp8m,0,0,,,,0
+1713729600,Racing des Gonaives,Ouanaminthe,hE6BPRI3,AiWXHFvl,3,2,,,,0
+1713729600,Fica,Real Hope,hE6BPRI3,I3fT7Mcc,0,2,,,,0
+1713729600,America des Cayes,Cavaly,hYzo4N02,EN77Q73c,2,0,,,,0
+1713733200,Baltimore,Cosmopolites,CSOgZqIm,0QOVjYPd,0,1,,,,0
+1713988800,Racing Haitien,America des Cayes,EN77Q73c,hYzo4N02,0,0,,,,0
+1714251600,Cosmopolites,Rivartibonitienne,0QOVjYPd,nuEaJhN0,0,0,,,,0
+1714334400,Racing Haitien,Cavaly,EN77Q73c,EN77Q73c,0,2,,,,0
+1714334400,Racing des Gonaives,Fica,hE6BPRI3,hE6BPRI3,1,0,,,,0
+1714334400,Ouanaminthe,Capoise,AiWXHFvl,hE6BPRI3,1,0,,,,0
+1714334400,Juventus,America des Cayes,CrTzmp8m,hYzo4N02,0,4,,,,0
+1714338000,Triomphe Liancourt,Tempete,G6UVHI9E,hE6BPRI3,0,1,,,,0
+1715886000,Baltimore,Ouanaminthe,CSOgZqIm,AiWXHFvl,1,1,,,,0
+1715893200,Tempete,Real Hope,hE6BPRI3,I3fT7Mcc,0,2,,,,0
+1716145200,Cavaly,Tempete,EN77Q73c,hE6BPRI3,0,1,,,,0
+1716208200,America des Cayes,Baltimore,hYzo4N02,CSOgZqIm,1,0,,,,0
+1716404400,Ouanaminthe,America des Cayes,AiWXHFvl,hYzo4N02,3,1,,,,0
+1716411600,Real Hope,Cavaly,I3fT7Mcc,EN77Q73c,2,0,,,,0
+1716750000,Tempete,America des Cayes,hE6BPRI3,hYzo4N02,0,1,,,,0
+1716757200,Real Hope,Ouanaminthe,I3fT7Mcc,AiWXHFvl,1,1,Pen,2,1,0

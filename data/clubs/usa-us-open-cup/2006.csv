@@ -1,40 +1,40 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1150394400,Wilmington Hammerheads,Virginia,3,1,,,,0
-1150394400,Sonoma County,Ogden,1,1,,,,0
-1150394400,North Carolina Fusion U23,Cape Cod,4,3,,,,0
-1150394400,Michigan Bucks,Pittsburgh,2,0,,,,0
-1150394400,Menace,FC Dallas,3,2,,,,0
-1150394400,Laredo Heat,Dallas Roma,2,2,,,,0
-1150394400,Chicago Lightning,Milford,0,1,,,,0
-1150394400,Arizona FC,BYU Cougars,5,1,,,,0
-1151517600,Wilmington Hammerheads,Charlotte Eagles,3,1,,,,0
-1151517600,Richmond Kickers,North Carolina Fusion U23,0,1,,,,0
-1151517600,New Hampshire,Milford,4,1,,,,0
-1151517600,Minnesota United,Menace,0,1,,,,0
-1151517600,Michigan Bucks,Cincinnati Riverhawks,2,1,,,,0
-1151517600,Dallas Roma,Fort Lauderdale Strikers,1,0,,,,0
-1151517600,Charleston,Sonoma County,1,0,,,,0
-1151517600,Arizona FC,Virginia,0,1,,,,0
-1152640800,Real Salt Lake,Virginia,1,2,,,,0
-1152727200,Wilmington Hammerheads,Atlanta SC,2,1,,,,0
-1152727200,Sporting Kansas City,Menace,2,1,,,,0
-1152727200,Rochester New York,New Hampshire,5,1,,,,0
-1152727200,North Carolina Fusion U23,Seattle Sounders,3,2,,,,0
-1152727200,Michigan Bucks,Columbus Crew,1,4,,,,0
-1152727200,Chivas USA,Dallas Roma,0,0,,,,0
-1152727200,Charleston,Portland Timbers,3,1,,,,0
-1154455200,Los Angeles Galaxy,Dallas Roma,2,0,,,,0
-1154541600,Wilmington Hammerheads,New York Red Bulls,1,2,,,,0
-1154541600,Rochester New York,New England Revolution,0,0,,,,0
-1154541600,Real Salt Lake,Colorado Rapids,0,1,,,,0
-1154541600,Houston Dynamo,North Carolina Fusion U23,4,2,,,,0
-1154541600,Columbus Crew,DC United,1,2,,,,0
-1154541600,Chicago Fire,Sporting Kansas City,2,0,,,,0
-1154541600,Charleston,FC Dallas,3,3,,,,0
-1156356000,Los Angeles Galaxy,Colorado Rapids,3,1,,,,0
-1156356000,Houston Dynamo,FC Dallas,3,0,,,,0
-1156356000,DC United,New York Red Bulls,3,1,,,,0
-1156356000,Chicago Fire,New England Revolution,2,1,,,,0
-1157565600,Los Angeles Galaxy,Houston Dynamo,3,1,,,,0
-1157565600,Chicago Fire,DC United,3,0,,,,0
-1159380000,Chicago Fire,Los Angeles Galaxy,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1150394400,Wilmington Hammerheads,Virginia,KGIw5tHD,b9UR9rcD,3,1,,,,0
+1150394400,Sonoma County,Ogden,OUSepk9i,,1,1,,,,0
+1150394400,North Carolina Fusion U23,Cape Cod,jN3NLZxo,OMba2iWB,4,3,,,,0
+1150394400,Michigan Bucks,Pittsburgh,K0fhO9FB,z5dOqhXs,2,0,,,,0
+1150394400,Menace,FC Dallas,U9hzsjH0,W2EojdRP,3,2,,,,0
+1150394400,Laredo Heat,Dallas Roma,lCn3ZdsC,,2,2,,,,0
+1150394400,Chicago Lightning,Milford,EVDgx9L4,,0,1,,,,0
+1150394400,Arizona FC,BYU Cougars,GjAtZPzA,QcuEL5Wj,5,1,,,,0
+1151517600,Wilmington Hammerheads,Charlotte Eagles,KGIw5tHD,S6gH6Tkg,3,1,,,,0
+1151517600,Richmond Kickers,North Carolina Fusion U23,QPDlz5Uc,jN3NLZxo,0,1,,,,0
+1151517600,New Hampshire,Milford,,,4,1,,,,0
+1151517600,Minnesota United,Menace,CEokxMWO,U9hzsjH0,0,1,,,,0
+1151517600,Michigan Bucks,Cincinnati Riverhawks,K0fhO9FB,,2,1,,,,0
+1151517600,Dallas Roma,Fort Lauderdale Strikers,,2c38J1pB,1,0,,,,0
+1151517600,Charleston,Sonoma County,xIOhFH4B,OUSepk9i,1,0,,,,0
+1151517600,Arizona FC,Virginia,GjAtZPzA,b9UR9rcD,0,1,,,,0
+1152640800,Real Salt Lake,Virginia,vgy39tSd,b9UR9rcD,1,2,,,,0
+1152727200,Wilmington Hammerheads,Atlanta SC,KGIw5tHD,UPn7aGHL,2,1,,,,0
+1152727200,Sporting Kansas City,Menace,88w2wUnG,U9hzsjH0,2,1,,,,0
+1152727200,Rochester New York,New Hampshire,63scElQr,,5,1,,,,0
+1152727200,North Carolina Fusion U23,Seattle Sounders,jN3NLZxo,Q7Ql2Qbi,3,2,,,,0
+1152727200,Michigan Bucks,Columbus Crew,K0fhO9FB,OrE2LMh8,1,4,,,,0
+1152727200,Chivas USA,Dallas Roma,W2EojdRP,,0,0,,,,0
+1152727200,Charleston,Portland Timbers,xIOhFH4B,xf2WUeO1,3,1,,,,0
+1154455200,Los Angeles Galaxy,Dallas Roma,nqhLBCKD,,2,0,,,,0
+1154541600,Wilmington Hammerheads,New York Red Bulls,KGIw5tHD,h8cXfa4q,1,2,,,,0
+1154541600,Rochester New York,New England Revolution,63scElQr,KI53uaQC,0,0,,,,0
+1154541600,Real Salt Lake,Colorado Rapids,vgy39tSd,fyzFgPy8,0,1,,,,0
+1154541600,Houston Dynamo,North Carolina Fusion U23,YLT3ZeZm,jN3NLZxo,4,2,,,,0
+1154541600,Columbus Crew,DC United,OrE2LMh8,QqhL41wo,1,2,,,,0
+1154541600,Chicago Fire,Sporting Kansas City,0lw00xPr,88w2wUnG,2,0,,,,0
+1154541600,Charleston,FC Dallas,xIOhFH4B,W2EojdRP,3,3,,,,0
+1156356000,Los Angeles Galaxy,Colorado Rapids,nqhLBCKD,fyzFgPy8,3,1,,,,0
+1156356000,Houston Dynamo,FC Dallas,YLT3ZeZm,W2EojdRP,3,0,,,,0
+1156356000,DC United,New York Red Bulls,QqhL41wo,h8cXfa4q,3,1,,,,0
+1156356000,Chicago Fire,New England Revolution,0lw00xPr,KI53uaQC,2,1,,,,0
+1157565600,Los Angeles Galaxy,Houston Dynamo,nqhLBCKD,YLT3ZeZm,3,1,,,,0
+1157565600,Chicago Fire,DC United,0lw00xPr,QqhL41wo,3,0,,,,0
+1159380000,Chicago Fire,Los Angeles Galaxy,0lw00xPr,nqhLBCKD,3,1,,,,0

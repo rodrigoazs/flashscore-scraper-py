@@ -1,48 +1,48 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1601384400,Zagorets,Hebar,2,1,,,,0
-1601384400,Spartak Varna,Lok. Sofia,2,1,,,,0
-1601384400,Rodopa Smolyan,Pirin Blagoevgrad,0,2,,,,0
-1601470800,Troyan,Kariana Erden,0,4,,,,0
-1601470800,Svetkavitsa,Sozopol,1,4,,,,0
-1601470800,Sevlievo,Lok. Gorna,6,0,,,,0
-1601470800,Oborishte,Dobrudzha,1,0,,,,0
-1601470800,Nadezhda Dobroslavci,Minyor Pernik,2,1,,,,0
-1601470800,Gorski Izvor,Septemvri Simitli,4,2,,,,0
-1601470800,Drenovets,Strumska Slava,1,1,AET,2,1,0
-1601470800,Chernomorets Balchik,Vitosha Bistritsa,3,0,Awrd,,,0
-1601470800,Botev Ihtiman,Neftochimic Burgas,2,0,,,,0
-1601479800,Dunav Ruse,Yantra Gabrovo,0,2,,,,0
-1601557200,Sveti Nikola,Svoge,0,4,,,,0
-1601557200,Belasitsa,Lovech,1,0,,,,0
-1603195200,Kariana Erden,Tsarsko Selo,0,1,,,,0
-1603279800,Partizan Cerven Brjag,Levski Sofia,1,4,,,,0
-1603281600,Yantra Gabrovo,Cherno More,1,6,,,,0
-1603281600,Sevlievo,Slavia Sofia,1,5,,,,0
-1603281600,Gorski Izvor,Montana,1,2,,,,0
-1603281600,Drenovets,CSKA 1948 Sofia,0,6,,,,0
-1603290600,Pirin Blagoevgrad,Beroe,3,4,,,,0
-1603368000,Sozopol,Etar,0,0,Pen,0,1,0
-1603368000,Oborishte,Botev Plovdiv,0,4,,,,0
-1603368000,Nadezhda Dobroslavci,Botev Vratsa,0,2,,,,0
-1603368000,Chernomorets Balchik,Septemvri Sofia,1,0,,,,0
-1604403000,Zagorets,Lok. Plovdiv,2,2,AET,3,4,0
-1604489400,Spartak Varna,Arda,1,2,,,,0
-1605361500,Botev Ihtiman,CSKA Sofia,0,5,,,,0
-1613046600,Svoge,Ludogorets,1,3,,,,0
-1614612600,Lok. Plovdiv,Belasitsa,2,1,,,,0
-1614699000,Etar,Arda,0,1,,,,0
-1614699000,CSKA Sofia,Cherno More,3,1,,,,0
-1614765600,Botev Plovdiv,CSKA 1948 Sofia,1,1,AET,1,2,0
-1614776400,Tsarsko Selo,Ludogorets,1,2,,,,0
-1614787200,Levski Sofia,Beroe,3,1,,,,0
-1614859200,Botev Vratsa,Chernomorets Balchik,3,0,,,,0
-1614871800,Slavia Sofia,Montana,1,1,Pen,2,1,0
-1615910400,Ludogorets,Lok. Plovdiv,1,1,AET,2,1,0
-1615987800,CSKA 1948 Sofia,Arda,0,1,,,,0
-1615998600,Slavia Sofia,Levski Sofia,2,1,,,,0
-1616079600,CSKA Sofia,Botev Vratsa,4,0,,,,0
-1617726600,Arda,Slavia Sofia,0,0,,,,0
-1617813000,CSKA Sofia,Ludogorets,1,1,,,,0
-1618327800,Slavia Sofia,Arda,0,1,,,,0
-1618414200,Ludogorets,CSKA Sofia,1,2,,,,0
-1621441800,Arda,CSKA Sofia,0,1,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1601384400,Zagorets,Hebar,GKDD4MU9,noVyCcOe,2,1,,,,0
+1601384400,Spartak Varna,Lok. Sofia,boO56d81,fZdE6zOJ,2,1,,,,0
+1601384400,Rodopa Smolyan,Pirin Blagoevgrad,8tahlraS,lQJ6Oljn,0,2,,,,0
+1601470800,Troyan,Kariana Erden,O8kdh0Ri,zZHScYoH,0,4,,,,0
+1601470800,Svetkavitsa,Sozopol,dUPdsSKC,tdOZ8ytr,1,4,,,,0
+1601470800,Sevlievo,Lok. Gorna,fLoFfsdH,Khns8S2D,6,0,,,,0
+1601470800,Oborishte,Dobrudzha,xvl7d3R4,bspvajO9,1,0,,,,0
+1601470800,Nadezhda Dobroslavci,Minyor Pernik,fLoFfsdH,EFkXvQ25,2,1,,,,0
+1601470800,Gorski Izvor,Septemvri Simitli,bZPE0zNp,hvpXRlc6,4,2,,,,0
+1601470800,Drenovets,Strumska Slava,GUnBeNtB,0br13g7s,1,1,AET,2,1,0
+1601470800,Chernomorets Balchik,Vitosha Bistritsa,AwouEpe3,ENPU0l2d,3,0,Awrd,,,0
+1601470800,Botev Ihtiman,Neftochimic Burgas,0do9Mfz9,pYbCLS4D,2,0,,,,0
+1601479800,Dunav Ruse,Yantra Gabrovo,pdm5M2VL,hErf3isQ,0,2,,,,0
+1601557200,Sveti Nikola,Svoge,K21id9SP,KnNw8eel,0,4,,,,0
+1601557200,Belasitsa,Lovech,xWDZsqLb,CAglwgEF,1,0,,,,0
+1603195200,Kariana Erden,Tsarsko Selo,zZHScYoH,ULhYevso,0,1,,,,0
+1603279800,Partizan Cerven Brjag,Levski Sofia,8tg270ij,OvIM8T6I,1,4,,,,0
+1603281600,Yantra Gabrovo,Cherno More,hErf3isQ,tjkFB7mQ,1,6,,,,0
+1603281600,Sevlievo,Slavia Sofia,fLoFfsdH,dxlxqBhr,1,5,,,,0
+1603281600,Gorski Izvor,Montana,bZPE0zNp,fZdE6zOJ,1,2,,,,0
+1603281600,Drenovets,CSKA 1948 Sofia,GUnBeNtB,dIoxO1fK,0,6,,,,0
+1603290600,Pirin Blagoevgrad,Beroe,lQJ6Oljn,fmfS2lRL,3,4,,,,0
+1603368000,Sozopol,Etar,tdOZ8ytr,vmEtyZKD,0,0,Pen,0,1,0
+1603368000,Oborishte,Botev Plovdiv,xvl7d3R4,UVZMFjiK,0,4,,,,0
+1603368000,Nadezhda Dobroslavci,Botev Vratsa,fLoFfsdH,vTHHOmI9,0,2,,,,0
+1603368000,Chernomorets Balchik,Septemvri Sofia,AwouEpe3,Oj0MPYxU,1,0,,,,0
+1604403000,Zagorets,Lok. Plovdiv,GKDD4MU9,KtjRAU38,2,2,AET,3,4,0
+1604489400,Spartak Varna,Arda,boO56d81,rDh19Ixb,1,2,,,,0
+1605361500,Botev Ihtiman,CSKA Sofia,0do9Mfz9,fRtHs98a,0,5,,,,0
+1613046600,Svoge,Ludogorets,KnNw8eel,n1yhZU94,1,3,,,,0
+1614612600,Lok. Plovdiv,Belasitsa,KtjRAU38,xWDZsqLb,2,1,,,,0
+1614699000,Etar,Arda,vmEtyZKD,rDh19Ixb,0,1,,,,0
+1614699000,CSKA Sofia,Cherno More,fRtHs98a,tjkFB7mQ,3,1,,,,0
+1614765600,Botev Plovdiv,CSKA 1948 Sofia,UVZMFjiK,dIoxO1fK,1,1,AET,1,2,0
+1614776400,Tsarsko Selo,Ludogorets,ULhYevso,n1yhZU94,1,2,,,,0
+1614787200,Levski Sofia,Beroe,OvIM8T6I,fmfS2lRL,3,1,,,,0
+1614859200,Botev Vratsa,Chernomorets Balchik,vTHHOmI9,AwouEpe3,3,0,,,,0
+1614871800,Slavia Sofia,Montana,dxlxqBhr,fZdE6zOJ,1,1,Pen,2,1,0
+1615910400,Ludogorets,Lok. Plovdiv,n1yhZU94,KtjRAU38,1,1,AET,2,1,0
+1615987800,CSKA 1948 Sofia,Arda,dIoxO1fK,rDh19Ixb,0,1,,,,0
+1615998600,Slavia Sofia,Levski Sofia,dxlxqBhr,OvIM8T6I,2,1,,,,0
+1616079600,CSKA Sofia,Botev Vratsa,fRtHs98a,vTHHOmI9,4,0,,,,0
+1617726600,Arda,Slavia Sofia,rDh19Ixb,dxlxqBhr,0,0,,,,0
+1617813000,CSKA Sofia,Ludogorets,fRtHs98a,n1yhZU94,1,1,,,,0
+1618327800,Slavia Sofia,Arda,dxlxqBhr,rDh19Ixb,0,1,,,,0
+1618414200,Ludogorets,CSKA Sofia,n1yhZU94,fRtHs98a,1,2,,,,0
+1621441800,Arda,CSKA Sofia,rDh19Ixb,fRtHs98a,0,1,,,,1

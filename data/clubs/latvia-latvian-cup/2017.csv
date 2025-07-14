@@ -1,47 +1,47 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1495980000,SK Cesis,Karosta,0,3,,,,0
-1496250000,Sirius,Plavinas,0,2,,,,0
-1496419200,JFC Dobele,Ludzas,1,0,,,,0
-1496422800,Talsu/Laidze,Roja / Kolka,3,1,,,,0
-1496502000,Balvu,FK Limbazi,5,0,,,,0
-1496577600,Nica FC,Caramba,0,1,,,,0
-1496583000,Bauskas,Gulbene,0,3,,,,0
-1496584800,Salacgriva,Ogres Novada Sporta Centrs,0,10,,,,0
-1496592000,DSVK Traktors,Salaspils FK,1,1,Pen,2,1,0
-1496680200,Upesciems,New Project,2,0,,,,0
-1496680200,Alberts,Monarhs,1,2,,,,0
-1497106800,Nikers,Saldus/Brocenu,5,1,,,,0
-1497178800,Caramba,Grobina,4,5,,,,0
-1497790800,Plavinas,Aliance,2,1,,,,0
-1497790800,Gulbene,Karosta,1,5,,,,0
-1497889800,Fk Jurnieks Riga,BFK Salaspils,3,0,Awrd,,,0
-1497974400,Valmiera,Priekuli,8,0,,,,0
-1498147200,Ogres Novada Sporta Centrs,Rezekne,0,3,,,,0
-1498147200,Lielupe,Jekabpils SC,1,8,,,,0
-1498395600,Monarhs,Balvu,6,0,,,,0
-1498399200,RTU,Ogre,6,1,,,,0
-1498412700,DSVK Traktors,Preilu BJSS,0,6,,,,0
-1498492800,Upesciems,AFA Olaine,-,-,WO,,,0
-1498910400,Rezekne,BFC Daugavpils,0,2,,,,0
-1498914000,Nikers,AFA Olaine,0,7,,,,0
-1498921200,Karosta,Talsu/Laidze,5,3,,,,0
-1498921200,Fk Jurnieks Riga,Jekabpils SC,2,5,,,,0
-1498923000,Valmiera,RTU,2,1,,,,0
-1499000400,Preilu BJSS,Plavinas,6,0,,,,0
-1499000400,Monarhs,JFC Dobele,12,0,,,,0
-1499443200,Grobina,Spartaks,0,2,,,,0
-1499518800,Karosta,Babite,-,-,WO,,,0
-1499518800,AFA Olaine,RFS,0,0,AET,0,4,0
-1499526000,Valmiera,Metta,0,3,,,,0
-1499598000,Monarhs,Ventspils,1,9,,,,0
-1499605200,Preilu BJSS,Riga FC,0,5,,,,0
-1499612400,Jekabpils SC,Jelgava,0,8,,,,0
-1499698800,BFC Daugavpils,FK Liepaja,0,1,,,,0
-1499860800,Grobina,Bebri,-,-,WO,,,0
-1502892000,Ventspils,FK Liepaja,1,2,,,,0
-1502895600,Karosta,RFS,0,7,,,,0
-1502985600,Spartaks,Metta,0,0,AET,1,0,0
-1505318400,Riga FC,Jelgava,2,2,Pen,3,2,0
-1505923200,Riga FC,Spartaks,1,1,AET,2,1,0
-1505923200,FK Liepaja,RFS,4,1,,,,0
-1508342400,FK Liepaja,Riga FC,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1495980000,SK Cesis,Karosta,,OEIRt6pq,0,3,,,,0
+1496250000,Sirius,Plavinas,,40Sv87qG,0,2,,,,0
+1496419200,JFC Dobele,Ludzas,,A5XbRBS5,1,0,,,,0
+1496422800,Talsu/Laidze,Roja / Kolka,ruRUrrmt,,3,1,,,,0
+1496502000,Balvu,FK Limbazi,lULddU19,bDhCLHai,5,0,,,,0
+1496577600,Nica FC,Caramba,,nRf9RtI5,0,1,,,,0
+1496583000,Bauskas,Gulbene,Y7vbvql4,z735vIvR,0,3,,,,0
+1496584800,Salacgriva,Ogres Novada Sporta Centrs,8EY1yIA2,,0,10,,,,0
+1496592000,DSVK Traktors,Salaspils FK,nRf9RtI5,bg8X4XYH,1,1,Pen,2,1,0
+1496680200,Upesciems,New Project,bRZ6YZnb,nRf9RtI5,2,0,,,,0
+1496680200,Alberts,Monarhs,EPhva3GT,MkjPNbHU,1,2,,,,0
+1497106800,Nikers,Saldus/Brocenu,QHgDQ0XB,lnVW9TE3,5,1,,,,0
+1497178800,Caramba,Grobina,nRf9RtI5,02zeHdqh,4,5,,,,0
+1497790800,Plavinas,Aliance,40Sv87qG,48hHPKnI,2,1,,,,0
+1497790800,Gulbene,Karosta,z735vIvR,OEIRt6pq,1,5,,,,0
+1497889800,Fk Jurnieks Riga,BFK Salaspils,48hHPKnI,,3,0,Awrd,,,0
+1497974400,Valmiera,Priekuli,63LcsWgs,UJTEXvL1,8,0,,,,0
+1498147200,Ogres Novada Sporta Centrs,Rezekne,,YunHGuYA,0,3,,,,0
+1498147200,Lielupe,Jekabpils SC,jBgLtRmi,YunHGuYA,1,8,,,,0
+1498395600,Monarhs,Balvu,MkjPNbHU,lULddU19,6,0,,,,0
+1498399200,RTU,Ogre,MkjPNbHU,nybdOQVC,6,1,,,,0
+1498412700,DSVK Traktors,Preilu BJSS,nRf9RtI5,pU2mHM9O,0,6,,,,0
+1498492800,Upesciems,AFA Olaine,bRZ6YZnb,Ycwif2Tq,-,-,WO,,,0
+1498910400,Rezekne,BFC Daugavpils,YunHGuYA,0Si1Ct09,0,2,,,,0
+1498914000,Nikers,AFA Olaine,QHgDQ0XB,Ycwif2Tq,0,7,,,,0
+1498921200,Karosta,Talsu/Laidze,OEIRt6pq,ruRUrrmt,5,3,,,,0
+1498921200,Fk Jurnieks Riga,Jekabpils SC,48hHPKnI,YunHGuYA,2,5,,,,0
+1498923000,Valmiera,RTU,63LcsWgs,MkjPNbHU,2,1,,,,0
+1499000400,Preilu BJSS,Plavinas,pU2mHM9O,40Sv87qG,6,0,,,,0
+1499000400,Monarhs,JFC Dobele,MkjPNbHU,,12,0,,,,0
+1499443200,Grobina,Spartaks,02zeHdqh,xKNcwgvn,0,2,,,,0
+1499518800,Karosta,Babite,OEIRt6pq,SbZspY49,-,-,WO,,,0
+1499518800,AFA Olaine,RFS,Ycwif2Tq,Uye1gatQ,0,0,AET,0,4,0
+1499526000,Valmiera,Metta,63LcsWgs,xICJ1EZ7,0,3,,,,0
+1499598000,Monarhs,Ventspils,MkjPNbHU,IROavVX5,1,9,,,,0
+1499605200,Preilu BJSS,Riga FC,pU2mHM9O,EmoyoZps,0,5,,,,0
+1499612400,Jekabpils SC,Jelgava,YunHGuYA,finrn2xp,0,8,,,,0
+1499698800,BFC Daugavpils,FK Liepaja,0Si1Ct09,tfJgPT4F,0,1,,,,0
+1499860800,Grobina,Bebri,02zeHdqh,z5MwDX5A,-,-,WO,,,0
+1502892000,Ventspils,FK Liepaja,IROavVX5,tfJgPT4F,1,2,,,,0
+1502895600,Karosta,RFS,OEIRt6pq,Uye1gatQ,0,7,,,,0
+1502985600,Spartaks,Metta,xKNcwgvn,xICJ1EZ7,0,0,AET,1,0,0
+1505318400,Riga FC,Jelgava,EmoyoZps,finrn2xp,2,2,Pen,3,2,0
+1505923200,Riga FC,Spartaks,EmoyoZps,xKNcwgvn,1,1,AET,2,1,0
+1505923200,FK Liepaja,RFS,tfJgPT4F,Uye1gatQ,4,1,,,,0
+1508342400,FK Liepaja,Riga FC,tfJgPT4F,EmoyoZps,2,0,,,,0

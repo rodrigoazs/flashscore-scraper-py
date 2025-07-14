@@ -1,62 +1,62 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-53791200,Wacker Innsbruck,Benfica,0,4,,,,0
-53791200,Marseille,Gornik Zabrze,2,1,,,,0
-53791200,Din. Bucuresti,Trnava,0,0,,,,0
-53793000,CSKA Sofia,Partizani,3,0,,,,0
-53802000,Lahden Reipas,Grasshoppers,1,1,,,,0
-53803800,Cork Hibernians,B. Monchengladbach,0,5,,,,0
-53805600,Stromsgodset,Arsenal,1,3,,,,0
-53805600,Galatasaray,CSKA Moscow,1,1,,,,0
-53807400,Boldklubben 1903,Celtic,2,1,,,,0
-53809200,Ujpest,Malmo FF,4,0,,,,0
-53809200,St. Liege,Linfield,2,0,,,,0
-53810100,Ajax,SG Dynamo Dresden,2,0,,,,0
-53811000,Feyenoord,Ol. Nicosia,8,0,,,,0
-53814300,Inter,AEK Athens FC,4,1,,,,0
-53818200,Valencia,Hajduk Split,0,0,,,,0
-54419400,Ol. Nicosia,Feyenoord,0,9,,,,0
-54743400,Akranes,Sliema,0,4,,,,0
-54999900,Sliema,Akranes,0,0,,,,0
-55001700,Trnava,Din. Bucuresti,2,2,,,,0
-55002600,Partizani,CSKA Sofia,0,1,,,,0
-55009800,CSKA Moscow,Galatasaray,3,0,,,,0
-55011600,Hajduk Split,Valencia,1,1,,,,0
-55014300,Linfield,St. Liege,2,3,,,,0
-55015200,Malmo FF,Ujpest,1,0,,,,0
-55017000,SG Dynamo Dresden,Ajax,0,0,,,,0
-55018800,B. Monchengladbach,Cork Hibernians,2,1,,,,0
-55019700,Grasshoppers,Lahden Reipas,8,0,,,,0
-55020600,Arsenal,Stromsgodset,4,0,,,,0
-55022400,Celtic,Boldklubben 1903,3,0,,,,0
-55022400,AEK Athens FC,Inter,3,2,,,,0
-55024200,Gornik Zabrze,Marseille,1,1,,,,0
-55028700,Benfica,Wacker Innsbruck,3,1,,,,0
-56812500,Din. Bucuresti,Feyenoord,0,3,,,,0
-56824200,CSKA Moscow,St. Liege,1,0,,,,0
-56833200,Grasshoppers,Arsenal,0,2,,,,0
-56833200,Celtic,Sliema,5,0,,,,0
-56835000,Valencia,Ujpest,0,1,,,,0
-56835000,Marseille,Ajax,1,2,,,,0
-56843100,Benfica,CSKA Sofia,2,1,,,,0
-58023900,Sliema,Celtic,1,2,,,,0
-58032000,Ujpest,Valencia,2,1,,,,0
-58033800,CSKA Sofia,Benfica,0,0,,,,0
-58041000,Arsenal,Grasshoppers,3,0,,,,0
-58042800,St. Liege,CSKA Moscow,2,0,,,,0
-58043700,Ajax,Marseille,4,1,,,,0
-58044600,Feyenoord,Din. Bucuresti,2,0,,,,0
-58047300,Inter,B. Monchengladbach,4,2,,,,0
-60462900,B. Monchengladbach,Inter,0,0,,,,0
-68920200,Ujpest,Celtic,1,2,,,,0
-68930100,Ajax,Arsenal,2,1,,,,0
-68931000,Feyenoord,Benfica,1,0,,,,0
-68933700,Inter,St. Liege,1,0,,,,0
-70137000,Arsenal,Ajax,0,1,,,,0
-70138800,St. Liege,Inter,2,1,,,,0
-70142400,Celtic,Ujpest,1,1,,,,0
-70148700,Benfica,Feyenoord,5,1,,,,0
-71349300,Ajax,Benfica,1,0,,,,0
-71352000,Inter,Celtic,0,0,,,,0
-72561600,Celtic,Inter,0,0,Pen,0,1,0
-72567900,Benfica,Ajax,0,0,,,,0
-76188600,Ajax,Inter,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+53791200,Wacker Innsbruck,Benfica,UsfS2kBR,GEKimEim,0,4,,,,0
+53791200,Marseille,Gornik Zabrze,voNnDKJK,WtiGCgXQ,2,1,,,,0
+53791200,Din. Bucuresti,Trnava,EyedO184,M5OsNcYB,0,0,,,,0
+53793000,CSKA Sofia,Partizani,fRtHs98a,4praOw3K,3,0,,,,0
+53802000,Lahden Reipas,Grasshoppers,GEnKWM8M,WdBesfPo,1,1,,,,0
+53803800,Cork Hibernians,B. Monchengladbach,2B2NXHMh,ncmj9JbF,0,5,,,,0
+53805600,Stromsgodset,Arsenal,E5rgQKuN,vcNAdtF9,1,3,,,,0
+53805600,Galatasaray,CSKA Moscow,dEXkR0Wq,nHLPS3jD,1,1,,,,0
+53807400,Boldklubben 1903,Celtic,b9d2LIDp,xGFNNID8,2,1,,,,0
+53809200,Ujpest,Malmo FF,fRhD1w4R,YmCZKGcR,4,0,,,,0
+53809200,St. Liege,Linfield,tjZYJCwg,GUrKqyjt,2,0,,,,0
+53810100,Ajax,SG Dynamo Dresden,bZZPiwAI,YP5eX03i,2,0,,,,0
+53811000,Feyenoord,Ol. Nicosia,Wz6bfhxO,l2Xtf5Mh,8,0,,,,0
+53814300,Inter,AEK Athens FC,jDrBQiMS,Aq4Rjd2q,4,1,,,,0
+53818200,Valencia,Hajduk Split,MHrRLNUo,Mc6FcsjL,0,0,,,,0
+54419400,Ol. Nicosia,Feyenoord,l2Xtf5Mh,Wz6bfhxO,0,9,,,,0
+54743400,Akranes,Sliema,4hhcealo,YFbDUeTh,0,4,,,,0
+54999900,Sliema,Akranes,YFbDUeTh,4hhcealo,0,0,,,,0
+55001700,Trnava,Din. Bucuresti,M5OsNcYB,EyedO184,2,2,,,,0
+55002600,Partizani,CSKA Sofia,4praOw3K,fRtHs98a,0,1,,,,0
+55009800,CSKA Moscow,Galatasaray,nHLPS3jD,dEXkR0Wq,3,0,,,,0
+55011600,Hajduk Split,Valencia,Mc6FcsjL,MHrRLNUo,1,1,,,,0
+55014300,Linfield,St. Liege,GUrKqyjt,tjZYJCwg,2,3,,,,0
+55015200,Malmo FF,Ujpest,YmCZKGcR,fRhD1w4R,1,0,,,,0
+55017000,SG Dynamo Dresden,Ajax,YP5eX03i,bZZPiwAI,0,0,,,,0
+55018800,B. Monchengladbach,Cork Hibernians,ncmj9JbF,2B2NXHMh,2,1,,,,0
+55019700,Grasshoppers,Lahden Reipas,WdBesfPo,GEnKWM8M,8,0,,,,0
+55020600,Arsenal,Stromsgodset,vcNAdtF9,E5rgQKuN,4,0,,,,0
+55022400,Celtic,Boldklubben 1903,xGFNNID8,b9d2LIDp,3,0,,,,0
+55022400,AEK Athens FC,Inter,Aq4Rjd2q,jDrBQiMS,3,2,,,,0
+55024200,Gornik Zabrze,Marseille,WtiGCgXQ,voNnDKJK,1,1,,,,0
+55028700,Benfica,Wacker Innsbruck,GEKimEim,UsfS2kBR,3,1,,,,0
+56812500,Din. Bucuresti,Feyenoord,EyedO184,Wz6bfhxO,0,3,,,,0
+56824200,CSKA Moscow,St. Liege,nHLPS3jD,tjZYJCwg,1,0,,,,0
+56833200,Grasshoppers,Arsenal,WdBesfPo,vcNAdtF9,0,2,,,,0
+56833200,Celtic,Sliema,xGFNNID8,YFbDUeTh,5,0,,,,0
+56835000,Valencia,Ujpest,MHrRLNUo,fRhD1w4R,0,1,,,,0
+56835000,Marseille,Ajax,voNnDKJK,bZZPiwAI,1,2,,,,0
+56843100,Benfica,CSKA Sofia,GEKimEim,fRtHs98a,2,1,,,,0
+58023900,Sliema,Celtic,YFbDUeTh,xGFNNID8,1,2,,,,0
+58032000,Ujpest,Valencia,fRhD1w4R,MHrRLNUo,2,1,,,,0
+58033800,CSKA Sofia,Benfica,fRtHs98a,GEKimEim,0,0,,,,0
+58041000,Arsenal,Grasshoppers,vcNAdtF9,WdBesfPo,3,0,,,,0
+58042800,St. Liege,CSKA Moscow,tjZYJCwg,nHLPS3jD,2,0,,,,0
+58043700,Ajax,Marseille,bZZPiwAI,voNnDKJK,4,1,,,,0
+58044600,Feyenoord,Din. Bucuresti,Wz6bfhxO,EyedO184,2,0,,,,0
+58047300,Inter,B. Monchengladbach,jDrBQiMS,ncmj9JbF,4,2,,,,0
+60462900,B. Monchengladbach,Inter,ncmj9JbF,jDrBQiMS,0,0,,,,0
+68920200,Ujpest,Celtic,fRhD1w4R,xGFNNID8,1,2,,,,0
+68930100,Ajax,Arsenal,bZZPiwAI,vcNAdtF9,2,1,,,,0
+68931000,Feyenoord,Benfica,Wz6bfhxO,GEKimEim,1,0,,,,0
+68933700,Inter,St. Liege,jDrBQiMS,tjZYJCwg,1,0,,,,0
+70137000,Arsenal,Ajax,vcNAdtF9,bZZPiwAI,0,1,,,,0
+70138800,St. Liege,Inter,tjZYJCwg,jDrBQiMS,2,1,,,,0
+70142400,Celtic,Ujpest,xGFNNID8,fRhD1w4R,1,1,,,,0
+70148700,Benfica,Feyenoord,GEKimEim,Wz6bfhxO,5,1,,,,0
+71349300,Ajax,Benfica,bZZPiwAI,GEKimEim,1,0,,,,0
+71352000,Inter,Celtic,jDrBQiMS,xGFNNID8,0,0,,,,0
+72561600,Celtic,Inter,xGFNNID8,jDrBQiMS,0,0,Pen,0,1,0
+72567900,Benfica,Ajax,GEKimEim,bZZPiwAI,0,0,,,,0
+76188600,Ajax,Inter,bZZPiwAI,jDrBQiMS,2,0,,,,0

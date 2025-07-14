@@ -1,33 +1,33 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1701163800,MOIK Baku,Cebrayil,4,0,,,,0
-1701163800,Karvan,Difai Agsu,1,0,,,,0
-1701163800,Araz Saatli,Iravan,1,4,,,,0
-1701169200,Safa Baku,Sabail,0,7,,,,0
-1701176400,Turan,Goygol,5,1,,,,0
-1701250200,Sahdag Qusar,Lokbatan,0,1,,,,0
-1701250200,Kapaz,Baku Sporting,0,0,AET,2,0,0
-1701255600,Kur-Araz,Araz,1,6,,,,0
-1701266400,Lerik,Sumqayit,0,6,,,,0
-1701336600,Zaqatala,Shamakhi,0,1,,,,0
-1701336600,Imisli FK,Mingachevir,1,0,,,,0
-1702893600,Kapaz,Sabah Baku,3,4,,,,0
-1702904400,Sumqayit,Karvan,3,1,,,,0
-1702976400,Iravan,Araz,2,8,,,,0
-1702987200,Imisli FK,Gabala,0,1,,,,0
-1703066400,Sabail,Shamakhi,6,0,,,,0
-1703077200,Zira,Turan,2,1,,,,0
-1703152800,Qarabag,MOIK Baku,1,0,,,,0
-1703167200,Neftci Baku,Lokbatan,4,0,,,,0
-1706612400,Sabail,Zira,1,2,,,,0
-1706626800,Sabah Baku,Qarabag,1,7,,,,0
-1706702400,Araz,Gabala,1,1,,,,0
-1706713200,Sumqayit,Neftci Baku,2,3,,,,0
-1707397200,Zira,Sabail,3,0,,,,0
-1707408000,Qarabag,Sabah Baku,3,4,,,,0
-1707480000,Gabala,Araz,2,0,,,,0
-1707490800,Neftci Baku,Sumqayit,1,1,,,,0
-1712073600,Neftci Baku,Qarabag,0,4,,,,0
-1712156400,Zira,Gabala,2,1,,,,0
-1713963600,Gabala,Zira,0,2,,,,0
-1713974400,Qarabag,Neftci Baku,4,1,,,,0
-1717344000,Qarabag,Zira,2,1,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1701163800,MOIK Baku,Cebrayil,OvMLJ256,8zvXSnhO,4,0,,,,0
+1701163800,Karvan,Difai Agsu,d6u4MqH0,65Ok97Nn,1,0,,,,0
+1701163800,Araz Saatli,Iravan,IFn6TGi4,v1DYOeUI,1,4,,,,0
+1701169200,Safa Baku,Sabail,bDI5USyj,pxLJhy1b,0,7,,,,0
+1701176400,Turan,Goygol,6q5JXBKQ,j5vSioBm,5,1,,,,0
+1701250200,Sahdag Qusar,Lokbatan,lCd4PKLe,GbduZDiN,0,1,,,,0
+1701250200,Kapaz,Baku Sporting,82dkiD1Q,MXlmhEq3,0,0,AET,2,0,0
+1701255600,Kur-Araz,Araz,4CKgGAoq,lx8sGPaF,1,6,,,,0
+1701266400,Lerik,Sumqayit,OhR50jSg,bTtBKGFR,0,6,,,,0
+1701336600,Zaqatala,Shamakhi,GSwuEtYe,M9hXKgAI,0,1,,,,0
+1701336600,Imisli FK,Mingachevir,xluvcQ6E,xluvcQ6E,1,0,,,,0
+1702893600,Kapaz,Sabah Baku,82dkiD1Q,O8TAkqbq,3,4,,,,0
+1702904400,Sumqayit,Karvan,bTtBKGFR,d6u4MqH0,3,1,,,,0
+1702976400,Iravan,Araz,v1DYOeUI,lx8sGPaF,2,8,,,,0
+1702987200,Imisli FK,Gabala,xluvcQ6E,Kt8HTC4e,0,1,,,,0
+1703066400,Sabail,Shamakhi,pxLJhy1b,M9hXKgAI,6,0,,,,0
+1703077200,Zira,Turan,nalsMvvG,6q5JXBKQ,2,1,,,,0
+1703152800,Qarabag,MOIK Baku,W0XY6C3I,OvMLJ256,1,0,,,,0
+1703167200,Neftci Baku,Lokbatan,C4C6wm62,GbduZDiN,4,0,,,,0
+1706612400,Sabail,Zira,pxLJhy1b,nalsMvvG,1,2,,,,0
+1706626800,Sabah Baku,Qarabag,O8TAkqbq,W0XY6C3I,1,7,,,,0
+1706702400,Araz,Gabala,lx8sGPaF,Kt8HTC4e,1,1,,,,0
+1706713200,Sumqayit,Neftci Baku,bTtBKGFR,C4C6wm62,2,3,,,,0
+1707397200,Zira,Sabail,nalsMvvG,pxLJhy1b,3,0,,,,0
+1707408000,Qarabag,Sabah Baku,W0XY6C3I,O8TAkqbq,3,4,,,,0
+1707480000,Gabala,Araz,Kt8HTC4e,lx8sGPaF,2,0,,,,0
+1707490800,Neftci Baku,Sumqayit,C4C6wm62,bTtBKGFR,1,1,,,,0
+1712073600,Neftci Baku,Qarabag,C4C6wm62,W0XY6C3I,0,4,,,,0
+1712156400,Zira,Gabala,nalsMvvG,Kt8HTC4e,2,1,,,,0
+1713963600,Gabala,Zira,Kt8HTC4e,nalsMvvG,0,2,,,,0
+1713974400,Qarabag,Neftci Baku,W0XY6C3I,C4C6wm62,4,1,,,,0
+1717344000,Qarabag,Zira,W0XY6C3I,nalsMvvG,2,1,,,,1

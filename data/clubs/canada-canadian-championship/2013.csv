@@ -1,7 +1,7 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1366847100,Toronto FC,CF Montreal,2,0,,,,0
-1366854300,Edmonton,Vancouver Whitecaps,2,3,,,,0
-1367451900,CF Montreal,Toronto FC,6,0,,,,0
-1367460900,Vancouver Whitecaps,Edmonton,2,0,,,,0
-1368661500,CF Montreal,Vancouver Whitecaps,0,0,,,,0
-1369880100,Vancouver Whitecaps,CF Montreal,2,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1366847100,Toronto FC,CF Montreal,tnwDCzLD,APghxIAJ,2,0,,,,0
+1366854300,Edmonton,Vancouver Whitecaps,O644KsV4,nJrkMuTE,2,3,,,,0
+1367451900,CF Montreal,Toronto FC,APghxIAJ,tnwDCzLD,6,0,,,,0
+1367460900,Vancouver Whitecaps,Edmonton,nJrkMuTE,O644KsV4,2,0,,,,0
+1368661500,CF Montreal,Vancouver Whitecaps,APghxIAJ,nJrkMuTE,0,0,,,,0
+1369880100,Vancouver Whitecaps,CF Montreal,nJrkMuTE,APghxIAJ,2,2,,,,0

@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1239730200,Thanda Royal Zulu,Peace Lovers,1,1,AET,2,1,0
-1239730200,Platinum Stars,Als Puk Tawana,2,3,,,,0
-1239730200,Orlando Pirates,Royal AM,2,1,,,,0
-1239904800,Atlie,Bidvest Wits,2,2,AET,2,3,0
-1239973200,Santos,Jomo Cosmos,1,1,Pen,1,2,0
-1239973200,Pretoria U.,Stellenbosch,5,1,,,,0
-1239973200,M Tigers,Black Leopards,1,2,,,,0
-1239984000,Tower Utd,Free State Stars,1,6,,,,0
-1239992100,Moroka Swallows,Golden Arrows,2,0,,,,0
-1239992100,Durban City,AmaZulu,0,1,,,,0
-1240059600,Supersport Utd,Kaizer Chiefs,1,2,,,,0
-1240059600,Mr Price Parkhurst,Winners Park,1,3,,,,0
-1240059600,Island FC,Mamelodi Sundowns,1,3,,,,0
-1240059600,Ikapa Sporting,Ubuntu Cape Town,1,2,,,,0
-1240059600,FC Royals,Black Aces,2,2,Pen,2,3,0
-1240059600,Cape Town Spurs,Wings Utd,5,0,,,,0
-1240578000,Cape Town Spurs,Free State Stars,1,1,Pen,1,2,0
-1240596900,Moroka Swallows,AmaZulu,2,2,Pen,2,3,0
-1240664400,Ubuntu Cape Town,Kaizer Chiefs,2,0,,,,0
-1240664400,Jomo Cosmos,Pretoria U.,1,1,Pen,1,2,0
-1241182800,Bidvest Wits,Thanda Royal Zulu,4,1,,,,0
-1241201700,Orlando Pirates,Als Puk Tawana,4,0,,,,0
-1241269200,Winners Park,Black Aces,0,1,,,,0
-1241269200,Mamelodi Sundowns,Black Leopards,1,0,,,,0
-1241787600,Bidvest Wits,Ubuntu Cape Town,0,0,Pen,1,0,0
-1241806500,AmaZulu,Pretoria U.,2,1,,,,0
-1241874000,Mamelodi Sundowns,Orlando Pirates,1,1,AET,3,1,0
-1241874000,Free State Stars,Black Aces,2,0,,,,0
-1242392400,Free State Stars,Bidvest Wits,1,1,AET,1,3,0
-1242411300,AmaZulu,Mamelodi Sundowns,1,1,Pen,2,1,0
-1242999000,AmaZulu,Bidvest Wits,0,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1239730200,Thanda Royal Zulu,Peace Lovers,rg2yT6oF,vXy0WjLk,1,1,AET,2,1,0
+1239730200,Platinum Stars,Als Puk Tawana,p6867egJ,,2,3,,,,0
+1239730200,Orlando Pirates,Royal AM,KAV9ypMU,nu2KFFkD,2,1,,,,0
+1239904800,Atlie,Bidvest Wits,6yPAEmXH,8hmaPcYe,2,2,AET,2,3,0
+1239973200,Santos,Jomo Cosmos,nu2KFFkD,8l3GGez7,1,1,Pen,1,2,0
+1239973200,Pretoria U.,Stellenbosch,QV8muo4m,K2asz6S7,5,1,,,,0
+1239973200,M Tigers,Black Leopards,,8l3GGez7,1,2,,,,0
+1239984000,Tower Utd,Free State Stars,,6LfbbTwj,1,6,,,,0
+1239992100,Moroka Swallows,Golden Arrows,tWjTbMwC,8l3GGez7,2,0,,,,0
+1239992100,Durban City,AmaZulu,6RTAg0C5,6Fg6xWE0,0,1,,,,0
+1240059600,Supersport Utd,Kaizer Chiefs,4UX5t7jk,MeBJ238q,1,2,,,,0
+1240059600,Mr Price Parkhurst,Winners Park,,,1,3,,,,0
+1240059600,Island FC,Mamelodi Sundowns,,x2G2Q2c3,1,3,,,,0
+1240059600,Ikapa Sporting,Ubuntu Cape Town,,QV8muo4m,1,2,,,,0
+1240059600,FC Royals,Black Aces,,QV8muo4m,2,2,Pen,2,3,0
+1240059600,Cape Town Spurs,Wings Utd,QJM4feF8,,5,0,,,,0
+1240578000,Cape Town Spurs,Free State Stars,QJM4feF8,6LfbbTwj,1,1,Pen,1,2,0
+1240596900,Moroka Swallows,AmaZulu,tWjTbMwC,6Fg6xWE0,2,2,Pen,2,3,0
+1240664400,Ubuntu Cape Town,Kaizer Chiefs,QV8muo4m,MeBJ238q,2,0,,,,0
+1240664400,Jomo Cosmos,Pretoria U.,8l3GGez7,QV8muo4m,1,1,Pen,1,2,0
+1241182800,Bidvest Wits,Thanda Royal Zulu,8hmaPcYe,rg2yT6oF,4,1,,,,0
+1241201700,Orlando Pirates,Als Puk Tawana,KAV9ypMU,,4,0,,,,0
+1241269200,Winners Park,Black Aces,,QV8muo4m,0,1,,,,0
+1241269200,Mamelodi Sundowns,Black Leopards,x2G2Q2c3,8l3GGez7,1,0,,,,0
+1241787600,Bidvest Wits,Ubuntu Cape Town,8hmaPcYe,QV8muo4m,0,0,Pen,1,0,0
+1241806500,AmaZulu,Pretoria U.,6Fg6xWE0,QV8muo4m,2,1,,,,0
+1241874000,Mamelodi Sundowns,Orlando Pirates,x2G2Q2c3,KAV9ypMU,1,1,AET,3,1,0
+1241874000,Free State Stars,Black Aces,6LfbbTwj,QV8muo4m,2,0,,,,0
+1242392400,Free State Stars,Bidvest Wits,6LfbbTwj,8hmaPcYe,1,1,AET,1,3,0
+1242411300,AmaZulu,Mamelodi Sundowns,6Fg6xWE0,x2G2Q2c3,1,1,Pen,2,1,0
+1242999000,AmaZulu,Bidvest Wits,6Fg6xWE0,8hmaPcYe,0,3,,,,0

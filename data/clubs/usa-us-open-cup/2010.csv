@@ -1,22 +1,22 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1271205000,Sporting Kansas City,Colorado Rapids,1,2,,,,0
-1271296800,San Jose Earthquakes,Real Salt Lake,2,2,Pen,3,4,0
-1272412800,New York Red Bulls,Philadelphia Union,2,1,,,,0
-1272497400,DC United,FC Dallas,4,2,,,,0
-1273708800,New York Red Bulls,New England Revolution,3,0,,,,0
-1274918400,New York Red Bulls,Colorado Rapids,3,0,,,,0
-1277852400,Penn,New York Red Bulls,0,0,AET,1,0,0
-1277854200,Columbus Crew,Rochester New York,2,1,,,,0
-1277857800,Houston Dynamo,Fort Lauderdale Strikers,1,0,,,,0
-1277857800,Chicago Fire,Charleston,0,0,Pen,0,1,0
-1277865000,Los Angeles Galaxy,AC St. Louis,2,0,,,,0
-1277865000,Chivas USA,Austin,1,0,,,,0
-1277940600,DC United,Richmond Kickers,2,0,,,,0
-1277951400,Portland Timbers,Seattle Sounders,1,1,Pen,1,2,0
-1278459000,Columbus Crew,Charleston,3,0,,,,0
-1278462600,Houston Dynamo,Chivas USA,1,3,,,,0
-1278554400,Seattle Sounders,Los Angeles Galaxy,2,0,,,,0
-1279755000,DC United,Penn,2,0,,,,0
-1283383800,DC United,Columbus Crew,1,1,AET,1,2,0
-1283394600,Seattle Sounders,Chivas USA,3,1,,,,0
-1286330400,Seattle Sounders,Columbus Crew,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1271205000,Sporting Kansas City,Colorado Rapids,88w2wUnG,fyzFgPy8,1,2,,,,0
+1271296800,San Jose Earthquakes,Real Salt Lake,GpqxHjf5,vgy39tSd,2,2,Pen,3,4,0
+1272412800,New York Red Bulls,Philadelphia Union,h8cXfa4q,juuH5vx4,2,1,,,,0
+1272497400,DC United,FC Dallas,QqhL41wo,W2EojdRP,4,2,,,,0
+1273708800,New York Red Bulls,New England Revolution,h8cXfa4q,KI53uaQC,3,0,,,,0
+1274918400,New York Red Bulls,Colorado Rapids,h8cXfa4q,fyzFgPy8,3,0,,,,0
+1277852400,Penn,New York Red Bulls,QH5WAnm2,h8cXfa4q,0,0,AET,1,0,0
+1277854200,Columbus Crew,Rochester New York,OrE2LMh8,63scElQr,2,1,,,,0
+1277857800,Houston Dynamo,Fort Lauderdale Strikers,YLT3ZeZm,2c38J1pB,1,0,,,,0
+1277857800,Chicago Fire,Charleston,0lw00xPr,xIOhFH4B,0,0,Pen,0,1,0
+1277865000,Los Angeles Galaxy,AC St. Louis,nqhLBCKD,txMg14L5,2,0,,,,0
+1277865000,Chivas USA,Austin,W2EojdRP,SGCFdXuR,1,0,,,,0
+1277940600,DC United,Richmond Kickers,QqhL41wo,QPDlz5Uc,2,0,,,,0
+1277951400,Portland Timbers,Seattle Sounders,xf2WUeO1,Q7Ql2Qbi,1,1,Pen,1,2,0
+1278459000,Columbus Crew,Charleston,OrE2LMh8,xIOhFH4B,3,0,,,,0
+1278462600,Houston Dynamo,Chivas USA,YLT3ZeZm,W2EojdRP,1,3,,,,0
+1278554400,Seattle Sounders,Los Angeles Galaxy,Q7Ql2Qbi,nqhLBCKD,2,0,,,,0
+1279755000,DC United,Penn,QqhL41wo,QH5WAnm2,2,0,,,,0
+1283383800,DC United,Columbus Crew,QqhL41wo,OrE2LMh8,1,1,AET,1,2,0
+1283394600,Seattle Sounders,Chivas USA,Q7Ql2Qbi,W2EojdRP,3,1,,,,0
+1286330400,Seattle Sounders,Columbus Crew,Q7Ql2Qbi,OrE2LMh8,2,1,,,,0

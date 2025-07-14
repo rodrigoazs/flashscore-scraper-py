@@ -1,33 +1,33 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1630530000,5 de Octubre,Deportivo Santani,0,3,,,,0
-1630539000,Atletico Juventud,Libertad Asuncion,0,2,,,,0
-1631566800,Atl. Tembetary,Hayes,2,1,,,,0
-1631575800,Sportivo Iteno,Mariscal Estigarribia,1,1,Pen,2,1,0
-1631654100,Guarani de Trinidad,Sastreno,3,0,,,,0
-1631731500,General Caballero JLM,Cerro Porteno,1,1,Pen,1,2,0
-1631740500,Resistencia,Cristobal Colon,8,4,,,,0
-1631749500,Cristobal Colon FC,Olimpia Asuncion,2,3,,,,0
-1631826000,Guairena,Oriental,2,1,,,,0
-1631835000,3 de Febrero,12 de Octubre,0,1,,,,0
-1632258000,Karai Chive,River Plate,2,4,,,,0
-1632267000,Ameliano,Independiente FBC,2,1,,,,0
-1632341700,Fernando de la Mora,Sp. Luqueno,2,3,,,,0
-1632356100,Rubio Nu,Sol de America,3,4,,,,0
-1632425400,2 de Mayo,22 de Setiembre,3,0,,,,0
-1632434400,1 de Marzo Pilar,Tacuary,1,4,,,,0
-1633465800,Sp. Luqueno,12 de Octubre,1,1,Pen,2,1,0
-1633474800,Olimpia Asuncion,Resistencia,2,1,,,,0
-1633552200,River Plate,Atl. Tembetary,0,1,,,,0
-1633561200,Cerro Porteno,Sol de America,0,2,,,,0
-1634151600,Tacuary,Sportivo Iteno,0,0,Pen,1,0,0
-1634159700,2 de Mayo,Deportivo Santani,1,1,Pen,1,2,0
-1634761800,Libertad Asuncion,Guarani de Trinidad,5,0,,,,0
-1634770800,Ameliano,Guairena,0,0,Pen,0,1,0
-1635972300,Libertad Asuncion,Sp. Luqueno,2,0,,,,0
-1635981300,Atl. Tembetary,Tacuary,1,1,Pen,2,1,0
-1636058700,Olimpia Asuncion,Guairena,2,0,,,,0
-1636583400,Sol de America,Deportivo Santani,1,0,,,,0
-1636924500,Olimpia Asuncion,Libertad Asuncion,1,1,Pen,2,1,0
-1636932600,Sol de America,Atl. Tembetary,0,0,Pen,1,0,0
-1638309600,Atl. Tembetary,Libertad Asuncion,0,2,,,,0
-1638396000,Sol de America,Olimpia Asuncion,2,2,Pen,2,3,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1630530000,5 de Octubre,Deportivo Santani,lIFu00xp,vZlYXIJP,0,3,,,,0
+1630539000,Atletico Juventud,Libertad Asuncion,6PlyD2P9,UwvYANk9,0,2,,,,0
+1631566800,Atl. Tembetary,Hayes,h4RQtct9,lM1tH8co,2,1,,,,0
+1631575800,Sportivo Iteno,Mariscal Estigarribia,h8Jni9DI,bNi0eNYO,1,1,Pen,2,1,0
+1631654100,Guarani de Trinidad,Sastreno,tdQGkHFP,GUAiwdB0,3,0,,,,0
+1631731500,General Caballero JLM,Cerro Porteno,voVnm15G,SOY3p1Si,1,1,Pen,1,2,0
+1631740500,Resistencia,Cristobal Colon,byFMtarp,bNi0eNYO,8,4,,,,0
+1631749500,Cristobal Colon FC,Olimpia Asuncion,0MSgWzqt,UPd1WAes,2,3,,,,0
+1631826000,Guairena,Oriental,vqrpfFH7,rwCh94hO,2,1,,,,0
+1631835000,3 de Febrero,12 de Octubre,WnYHA9YO,UJLaZhBP,0,1,,,,0
+1632258000,Karai Chive,River Plate,bNi0eNYO,vu4jMcqa,2,4,,,,0
+1632267000,Ameliano,Independiente FBC,zLKsTEF7,4GUthy9Q,2,1,,,,0
+1632341700,Fernando de la Mora,Sp. Luqueno,vqrpfFH7,4GUthy9Q,2,3,,,,0
+1632356100,Rubio Nu,Sol de America,Crka1xm9,UJLaZhBP,3,4,,,,0
+1632425400,2 de Mayo,22 de Setiembre,0fWrlsjA,Wp7Vb6Y5,3,0,,,,0
+1632434400,1 de Marzo Pilar,Tacuary,bNi0eNYO,OtymR74A,1,4,,,,0
+1633465800,Sp. Luqueno,12 de Octubre,4GUthy9Q,UJLaZhBP,1,1,Pen,2,1,0
+1633474800,Olimpia Asuncion,Resistencia,UPd1WAes,byFMtarp,2,1,,,,0
+1633552200,River Plate,Atl. Tembetary,vu4jMcqa,h4RQtct9,0,1,,,,0
+1633561200,Cerro Porteno,Sol de America,SOY3p1Si,UJLaZhBP,0,2,,,,0
+1634151600,Tacuary,Sportivo Iteno,OtymR74A,h8Jni9DI,0,0,Pen,1,0,0
+1634159700,2 de Mayo,Deportivo Santani,0fWrlsjA,vZlYXIJP,1,1,Pen,1,2,0
+1634761800,Libertad Asuncion,Guarani de Trinidad,UwvYANk9,tdQGkHFP,5,0,,,,0
+1634770800,Ameliano,Guairena,zLKsTEF7,vqrpfFH7,0,0,Pen,0,1,0
+1635972300,Libertad Asuncion,Sp. Luqueno,UwvYANk9,4GUthy9Q,2,0,,,,0
+1635981300,Atl. Tembetary,Tacuary,h4RQtct9,OtymR74A,1,1,Pen,2,1,0
+1636058700,Olimpia Asuncion,Guairena,UPd1WAes,vqrpfFH7,2,0,,,,0
+1636583400,Sol de America,Deportivo Santani,UJLaZhBP,vZlYXIJP,1,0,,,,0
+1636924500,Olimpia Asuncion,Libertad Asuncion,UPd1WAes,UwvYANk9,1,1,Pen,2,1,0
+1636932600,Sol de America,Atl. Tembetary,UJLaZhBP,h4RQtct9,0,0,Pen,1,0,0
+1638309600,Atl. Tembetary,Libertad Asuncion,h4RQtct9,UwvYANk9,0,2,,,,0
+1638396000,Sol de America,Olimpia Asuncion,UJLaZhBP,UPd1WAes,2,2,Pen,2,3,0

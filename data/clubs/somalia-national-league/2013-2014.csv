@@ -1,57 +1,57 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1383913800,Heegan,Gaadiidka,3,2,,,,0
-1384086600,Horseed,Dekedda,0,3,,,,0
-1384173000,Jeenyo,Savaana,2,0,,,,0
-1384259400,Elman,Mogadishu City,1,3,,,,0
-1384432200,Dekedda,Heegan,1,2,,,,0
-1384518600,Gaadiidka,Savaana,1,0,,,,0
-1384777800,Horseed,Mogadishu City,2,2,,,,0
-1388579400,Jeenyo,Elman,0,2,,,,0
-1388665800,Heegan,Savaana,4,2,,,,0
-1388752200,Dekedda,Mogadishu City,2,4,,,,0
-1389011400,Gaadiidka,Elman,0,3,,,,0
-1389097800,Horseed,Jeenyo,2,4,,,,0
-1389270600,Mogadishu City,Heegan,1,0,,,,0
-1389357000,Savaana,Elman,1,2,,,,0
-1389616200,Dekedda,Jeenyo,0,3,,,,0
-1389702600,Gaadiidka,Horseed,2,2,,,,0
-1389875400,Heegan,Elman,1,2,,,,0
-1389961800,Mogadishu City,Jeenyo,1,1,,,,0
-1390221000,Savaana,Horseed,1,3,,,,0
-1390307400,Dekedda,Gaadiidka,1,1,,,,0
-1390480200,Jeenyo,Heegan,0,1,,,,0
-1390566600,Elman,Horseed,3,3,,,,0
-1390825800,Mogadishu City,Gaadiidka,3,2,,,,0
-1390912200,Savaana,Dekedda,0,1,,,,0
-1391085000,Jeenyo,Gaadiidka,2,0,,,,0
-1391171400,Heegan,Horseed,3,0,,,,0
-1391419800,Elman,Dekedda,2,0,,,,0
-1391506200,Mogadishu City,Savaana,4,1,,,,0
-1392640200,Gaadiidka,Heegan,1,2,,,,0
-1392726600,Dekedda,Horseed,0,1,,,,0
-1392899400,Savaana,Jeenyo,1,1,,,,0
-1392985800,Mogadishu City,Elman,0,0,,,,0
-1393245000,Heegan,Dekedda,1,2,,,,0
-1393331400,Savaana,Gaadiidka,0,2,,,,0
-1393504200,Mogadishu City,Horseed,2,0,,,,0
-1393590600,Elman,Jeenyo,2,5,,,,0
-1393849800,Savaana,Heegan,1,3,,,,0
-1393936200,Mogadishu City,Dekedda,2,1,,,,0
-1394109000,Elman,Gaadiidka,3,1,,,,0
-1394195400,Jeenyo,Horseed,1,0,,,,0
-1394454600,Heegan,Mogadishu City,0,2,,,,0
-1394541000,Elman,Savaana,7,0,,,,0
-1394713800,Jeenyo,Dekedda,1,1,,,,0
-1394800200,Horseed,Gaadiidka,3,2,,,,0
-1395318600,Elman,Heegan,2,2,,,,0
-1395405000,Jeenyo,Mogadishu City,1,1,,,,0
-1395664200,Horseed,Savaana,6,1,,,,0
-1395750600,Gaadiidka,Dekedda,0,0,,,,0
-1395923400,Heegan,Jeenyo,1,1,,,,0
-1396009800,Horseed,Elman,1,1,,,,0
-1396269000,Gaadiidka,Mogadishu City,1,2,,,,0
-1396355400,Dekedda,Savaana,1,2,,,,0
-1396528200,Horseed,Heegan,3,3,,,,0
-1396614600,Gaadiidka,Jeenyo,3,1,,,,0
-1396701000,Dekedda,Elman,0,3,,,,0
-1396960200,Savaana,Mogadishu City,1,7,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1383913800,Heegan,Gaadiidka,GfYKRR71,x4ZGS7he,3,2,,,,0
+1384086600,Horseed,Dekedda,GfYKRR71,x4ZGS7he,0,3,,,,0
+1384173000,Jeenyo,Savaana,GfYKRR71,GfYKRR71,2,0,,,,0
+1384259400,Elman,Mogadishu City,GfYKRR71,6oAU20Sf,1,3,,,,0
+1384432200,Dekedda,Heegan,x4ZGS7he,GfYKRR71,1,2,,,,0
+1384518600,Gaadiidka,Savaana,x4ZGS7he,GfYKRR71,1,0,,,,0
+1384777800,Horseed,Mogadishu City,GfYKRR71,6oAU20Sf,2,2,,,,0
+1388579400,Jeenyo,Elman,GfYKRR71,GfYKRR71,0,2,,,,0
+1388665800,Heegan,Savaana,GfYKRR71,GfYKRR71,4,2,,,,0
+1388752200,Dekedda,Mogadishu City,x4ZGS7he,6oAU20Sf,2,4,,,,0
+1389011400,Gaadiidka,Elman,x4ZGS7he,GfYKRR71,0,3,,,,0
+1389097800,Horseed,Jeenyo,GfYKRR71,GfYKRR71,2,4,,,,0
+1389270600,Mogadishu City,Heegan,6oAU20Sf,GfYKRR71,1,0,,,,0
+1389357000,Savaana,Elman,GfYKRR71,GfYKRR71,1,2,,,,0
+1389616200,Dekedda,Jeenyo,x4ZGS7he,GfYKRR71,0,3,,,,0
+1389702600,Gaadiidka,Horseed,x4ZGS7he,GfYKRR71,2,2,,,,0
+1389875400,Heegan,Elman,GfYKRR71,GfYKRR71,1,2,,,,0
+1389961800,Mogadishu City,Jeenyo,6oAU20Sf,GfYKRR71,1,1,,,,0
+1390221000,Savaana,Horseed,GfYKRR71,GfYKRR71,1,3,,,,0
+1390307400,Dekedda,Gaadiidka,x4ZGS7he,x4ZGS7he,1,1,,,,0
+1390480200,Jeenyo,Heegan,GfYKRR71,GfYKRR71,0,1,,,,0
+1390566600,Elman,Horseed,GfYKRR71,GfYKRR71,3,3,,,,0
+1390825800,Mogadishu City,Gaadiidka,6oAU20Sf,x4ZGS7he,3,2,,,,0
+1390912200,Savaana,Dekedda,GfYKRR71,x4ZGS7he,0,1,,,,0
+1391085000,Jeenyo,Gaadiidka,GfYKRR71,x4ZGS7he,2,0,,,,0
+1391171400,Heegan,Horseed,GfYKRR71,GfYKRR71,3,0,,,,0
+1391419800,Elman,Dekedda,GfYKRR71,x4ZGS7he,2,0,,,,0
+1391506200,Mogadishu City,Savaana,6oAU20Sf,GfYKRR71,4,1,,,,0
+1392640200,Gaadiidka,Heegan,x4ZGS7he,GfYKRR71,1,2,,,,0
+1392726600,Dekedda,Horseed,x4ZGS7he,GfYKRR71,0,1,,,,0
+1392899400,Savaana,Jeenyo,GfYKRR71,GfYKRR71,1,1,,,,0
+1392985800,Mogadishu City,Elman,6oAU20Sf,GfYKRR71,0,0,,,,0
+1393245000,Heegan,Dekedda,GfYKRR71,x4ZGS7he,1,2,,,,0
+1393331400,Savaana,Gaadiidka,GfYKRR71,x4ZGS7he,0,2,,,,0
+1393504200,Mogadishu City,Horseed,6oAU20Sf,GfYKRR71,2,0,,,,0
+1393590600,Elman,Jeenyo,GfYKRR71,GfYKRR71,2,5,,,,0
+1393849800,Savaana,Heegan,GfYKRR71,GfYKRR71,1,3,,,,0
+1393936200,Mogadishu City,Dekedda,6oAU20Sf,x4ZGS7he,2,1,,,,0
+1394109000,Elman,Gaadiidka,GfYKRR71,x4ZGS7he,3,1,,,,0
+1394195400,Jeenyo,Horseed,GfYKRR71,GfYKRR71,1,0,,,,0
+1394454600,Heegan,Mogadishu City,GfYKRR71,6oAU20Sf,0,2,,,,0
+1394541000,Elman,Savaana,GfYKRR71,GfYKRR71,7,0,,,,0
+1394713800,Jeenyo,Dekedda,GfYKRR71,x4ZGS7he,1,1,,,,0
+1394800200,Horseed,Gaadiidka,GfYKRR71,x4ZGS7he,3,2,,,,0
+1395318600,Elman,Heegan,GfYKRR71,GfYKRR71,2,2,,,,0
+1395405000,Jeenyo,Mogadishu City,GfYKRR71,6oAU20Sf,1,1,,,,0
+1395664200,Horseed,Savaana,GfYKRR71,GfYKRR71,6,1,,,,0
+1395750600,Gaadiidka,Dekedda,x4ZGS7he,x4ZGS7he,0,0,,,,0
+1395923400,Heegan,Jeenyo,GfYKRR71,GfYKRR71,1,1,,,,0
+1396009800,Horseed,Elman,GfYKRR71,GfYKRR71,1,1,,,,0
+1396269000,Gaadiidka,Mogadishu City,x4ZGS7he,6oAU20Sf,1,2,,,,0
+1396355400,Dekedda,Savaana,x4ZGS7he,GfYKRR71,1,2,,,,0
+1396528200,Horseed,Heegan,GfYKRR71,GfYKRR71,3,3,,,,0
+1396614600,Gaadiidka,Jeenyo,x4ZGS7he,GfYKRR71,3,1,,,,0
+1396701000,Dekedda,Elman,x4ZGS7he,GfYKRR71,0,3,,,,0
+1396960200,Savaana,Mogadishu City,GfYKRR71,6oAU20Sf,1,7,,,,0

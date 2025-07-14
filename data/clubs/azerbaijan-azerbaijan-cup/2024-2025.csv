@@ -1,33 +1,33 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1730131200,Turan,Hypers Guba,7,2,,,,0
-1730196000,MOIK Baku,Shimal,3,1,,,,0
-1730203200,Sahdag Qusar,Araz,0,4,,,,0
-1730203200,Agdash,Kapaz,0,6,,,,0
-1730210400,Dinamo Baki,Sabail,0,6,,,,0
-1730282400,Shamakhi,Shamkir,6,1,,,,0
-1730282400,Mingachevir,Zaqatala,1,0,,,,0
-1730282400,Lokbatan,Karvan,3,0,,,,0
-1730286000,Safa Baku,Difai Agsu,2,2,AET,2,3,0
-1730368800,Imisli FK,Cebrayil,5,1,,,,0
-1730372400,Gabala,Baku Sporting,4,0,,,,0
-1733223600,Lokbatan,Sabail,0,2,,,,0
-1733227200,Araz,Mingachevir,3,1,,,,0
-1733234400,Turan,Sabah Baku,1,1,Pen,2,3,0
-1733313600,Kapaz,Imisli FK,1,0,,,,0
-1733313600,Gabala,Qarabag,0,2,,,,0
-1733320800,Neftci Baku,Difai Agsu,6,0,,,,0
-1733324400,Zira,Shamakhi,3,1,,,,0
-1733324400,Sumqayit,MOIK Baku,1,1,AET,3,1,0
-1738756800,Kapaz,Neftci Baku,0,2,,,,0
-1738765800,Sabah Baku,Sumqayit,0,0,,,,0
-1738843200,Araz,Zira,1,0,,,,0
-1738852200,Sabail,Qarabag,0,1,,,,0
-1740657600,Qarabag,Sabail,3,1,,,,0
-1740670200,Sumqayit,Sabah Baku,0,4,,,,0
-1740744000,Zira,Araz,0,2,,,,0
-1740756600,Neftci Baku,Kapaz,1,0,,,,0
-1743598800,Araz,Qarabag,1,0,,,,0
-1743607800,Neftci Baku,Sabah Baku,1,2,,,,0
-1745413200,Qarabag,Araz,3,0,,,,0
-1745424000,Sabah Baku,Neftci Baku,1,1,,,,0
-1748703600,Qarabag,Sabah Baku,2,2,AET,2,3,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1730131200,Turan,Hypers Guba,6q5JXBKQ,EgG2JwU3,7,2,,,,0
+1730196000,MOIK Baku,Shimal,OvMLJ256,hG3I21Tp,3,1,,,,0
+1730203200,Sahdag Qusar,Araz,lCd4PKLe,lx8sGPaF,0,4,,,,0
+1730203200,Agdash,Kapaz,21Dsravr,82dkiD1Q,0,6,,,,0
+1730210400,Dinamo Baki,Sabail,r5451dv8,pxLJhy1b,0,6,,,,0
+1730282400,Shamakhi,Shamkir,M9hXKgAI,GWX1nXzN,6,1,,,,0
+1730282400,Mingachevir,Zaqatala,xluvcQ6E,GSwuEtYe,1,0,,,,0
+1730282400,Lokbatan,Karvan,GbduZDiN,d6u4MqH0,3,0,,,,0
+1730286000,Safa Baku,Difai Agsu,bDI5USyj,65Ok97Nn,2,2,AET,2,3,0
+1730368800,Imisli FK,Cebrayil,xluvcQ6E,8zvXSnhO,5,1,,,,0
+1730372400,Gabala,Baku Sporting,Kt8HTC4e,MXlmhEq3,4,0,,,,0
+1733223600,Lokbatan,Sabail,GbduZDiN,pxLJhy1b,0,2,,,,0
+1733227200,Araz,Mingachevir,lx8sGPaF,xluvcQ6E,3,1,,,,0
+1733234400,Turan,Sabah Baku,6q5JXBKQ,O8TAkqbq,1,1,Pen,2,3,0
+1733313600,Kapaz,Imisli FK,82dkiD1Q,xluvcQ6E,1,0,,,,0
+1733313600,Gabala,Qarabag,Kt8HTC4e,W0XY6C3I,0,2,,,,0
+1733320800,Neftci Baku,Difai Agsu,C4C6wm62,65Ok97Nn,6,0,,,,0
+1733324400,Zira,Shamakhi,nalsMvvG,M9hXKgAI,3,1,,,,0
+1733324400,Sumqayit,MOIK Baku,bTtBKGFR,OvMLJ256,1,1,AET,3,1,0
+1738756800,Kapaz,Neftci Baku,82dkiD1Q,C4C6wm62,0,2,,,,0
+1738765800,Sabah Baku,Sumqayit,O8TAkqbq,bTtBKGFR,0,0,,,,0
+1738843200,Araz,Zira,lx8sGPaF,nalsMvvG,1,0,,,,0
+1738852200,Sabail,Qarabag,pxLJhy1b,W0XY6C3I,0,1,,,,0
+1740657600,Qarabag,Sabail,W0XY6C3I,pxLJhy1b,3,1,,,,0
+1740670200,Sumqayit,Sabah Baku,bTtBKGFR,O8TAkqbq,0,4,,,,0
+1740744000,Zira,Araz,nalsMvvG,lx8sGPaF,0,2,,,,0
+1740756600,Neftci Baku,Kapaz,C4C6wm62,82dkiD1Q,1,0,,,,0
+1743598800,Araz,Qarabag,lx8sGPaF,W0XY6C3I,1,0,,,,0
+1743607800,Neftci Baku,Sabah Baku,C4C6wm62,O8TAkqbq,1,2,,,,0
+1745413200,Qarabag,Araz,W0XY6C3I,lx8sGPaF,3,0,,,,0
+1745424000,Sabah Baku,Neftci Baku,O8TAkqbq,C4C6wm62,1,1,,,,0
+1748703600,Qarabag,Sabah Baku,W0XY6C3I,O8TAkqbq,2,2,AET,2,3,1

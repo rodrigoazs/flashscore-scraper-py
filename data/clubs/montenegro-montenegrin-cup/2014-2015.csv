@@ -1,44 +1,44 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1411563600,Zabjelo,Decic,2,4,,,,0
-1411563600,Sutjeska,Iskra,2,0,,,,0
-1411563600,Rudar,Jedinstvo,5,0,,,,0
-1411563600,Radovici,Berane,0,1,,,,0
-1411563600,Polimlje Murino,Grbalj,0,2,,,,0
-1411563600,Kom Podgorica,Mogren,1,4,,,,0
-1411563600,Jezero,Buducnost,1,2,,,,0
-1411563600,Igalo,Arsenal Tivat,3,1,,,,0
-1411563600,Ibar,Bokelj,3,0,,,,0
-1411563600,Hajduk Bar,Mornar Bar,0,2,,,,0
-1411563600,FK Cetinje,Zeta,1,3,,,,0
-1411563600,Cijevna,Radnicki Berane,2,0,,,,0
-1411563600,Celik Niksic,Petrovac,0,1,,,,0
-1411650000,Graficar Podgorica,Pljevlja 1997,0,1,,,,0
-1412168400,Zeta,Decic,6,0,,,,0
-1412168400,Pljevlja 1997,Buducnost,0,4,,,,0
-1412168400,Mornar Bar,Cijevna,3,2,,,,0
-1412168400,Mogren,Titograd,1,5,,,,0
-1412168400,Lovcen,Rudar,0,0,,,,0
-1412168400,Ibar,Petrovac,1,1,,,,0
-1412168400,Grbalj,Igalo,2,0,,,,0
-1412168400,Berane,Sutjeska,3,2,,,,0
-1413979200,Titograd,Mogren,1,2,,,,0
-1413979200,Sutjeska,Berane,2,0,,,,0
-1413979200,Rudar,Lovcen,0,1,,,,0
-1413979200,Petrovac,Ibar,2,0,,,,0
-1413979200,Igalo,Grbalj,2,3,,,,0
-1413979200,Decic,Zeta,1,3,,,,0
-1413979200,Cijevna,Mornar Bar,0,3,,,,0
-1413979200,Buducnost,Pljevlja 1997,9,0,,,,0
-1415188800,Zeta,Titograd,0,0,,,,0
-1415188800,Sutjeska,Mornar Bar,3,0,,,,0
-1415188800,Petrovac,Lovcen,1,0,,,,0
-1415188800,Grbalj,Buducnost,0,0,,,,0
-1417003200,Titograd,Zeta,0,0,Pen,1,0,0
-1417003200,Mornar Bar,Sutjeska,2,0,,,,0
-1417003200,Lovcen,Petrovac,1,1,,,,0
-1417012200,Buducnost,Grbalj,1,0,,,,0
-1428499800,Sutjeska,Titograd,0,2,,,,0
-1428512400,Petrovac,Buducnost,0,0,,,,0
-1429707600,Titograd,Sutjeska,2,0,,,,0
-1429707600,Buducnost,Petrovac,0,1,,,,0
-1432146600,Titograd,Petrovac,1,1,AET,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1411563600,Zabjelo,Decic,E7RYvl1h,UstD1joU,2,4,,,,0
+1411563600,Sutjeska,Iskra,zVJMgvaS,0ASINSdB,2,0,,,,0
+1411563600,Rudar,Jedinstvo,KfNVySaO,2JKzUeUK,5,0,,,,0
+1411563600,Radovici,Berane,Ui9ohC3h,YmnqXZW0,0,1,,,,0
+1411563600,Polimlje Murino,Grbalj,Ui9ohC3h,YmnqXZW0,0,2,,,,0
+1411563600,Kom Podgorica,Mogren,4Uy7FtTH,zVJMgvaS,1,4,,,,0
+1411563600,Jezero,Buducnost,ljgDYnD5,zVJMgvaS,1,2,,,,0
+1411563600,Igalo,Arsenal Tivat,8xsLFjVh,25w9qSfP,3,1,,,,0
+1411563600,Ibar,Bokelj,Aaf9ZSca,ABpmWgn7,3,0,,,,0
+1411563600,Hajduk Bar,Mornar Bar,4bmQHUa1,2JKzUeUK,0,2,,,,0
+1411563600,FK Cetinje,Zeta,AyvhK6wb,vLDFhvIU,1,3,,,,0
+1411563600,Cijevna,Radnicki Berane,Aaf9ZSca,tGYTvMQr,2,0,,,,0
+1411563600,Celik Niksic,Petrovac,bRJp42Nu,ABpmWgn7,0,1,,,,0
+1411650000,Graficar Podgorica,Pljevlja 1997,8tPBHaJA,Wti2FgqO,0,1,,,,0
+1412168400,Zeta,Decic,vLDFhvIU,UstD1joU,6,0,,,,0
+1412168400,Pljevlja 1997,Buducnost,Wti2FgqO,zVJMgvaS,0,4,,,,0
+1412168400,Mornar Bar,Cijevna,2JKzUeUK,Aaf9ZSca,3,2,,,,0
+1412168400,Mogren,Titograd,zVJMgvaS,ABpmWgn7,1,5,,,,0
+1412168400,Lovcen,Rudar,ABpmWgn7,KfNVySaO,0,0,,,,0
+1412168400,Ibar,Petrovac,Aaf9ZSca,ABpmWgn7,1,1,,,,0
+1412168400,Grbalj,Igalo,YmnqXZW0,8xsLFjVh,2,0,,,,0
+1412168400,Berane,Sutjeska,YmnqXZW0,zVJMgvaS,3,2,,,,0
+1413979200,Titograd,Mogren,ABpmWgn7,zVJMgvaS,1,2,,,,0
+1413979200,Sutjeska,Berane,zVJMgvaS,YmnqXZW0,2,0,,,,0
+1413979200,Rudar,Lovcen,KfNVySaO,ABpmWgn7,0,1,,,,0
+1413979200,Petrovac,Ibar,ABpmWgn7,Aaf9ZSca,2,0,,,,0
+1413979200,Igalo,Grbalj,8xsLFjVh,YmnqXZW0,2,3,,,,0
+1413979200,Decic,Zeta,UstD1joU,vLDFhvIU,1,3,,,,0
+1413979200,Cijevna,Mornar Bar,Aaf9ZSca,2JKzUeUK,0,3,,,,0
+1413979200,Buducnost,Pljevlja 1997,zVJMgvaS,Wti2FgqO,9,0,,,,0
+1415188800,Zeta,Titograd,vLDFhvIU,ABpmWgn7,0,0,,,,0
+1415188800,Sutjeska,Mornar Bar,zVJMgvaS,2JKzUeUK,3,0,,,,0
+1415188800,Petrovac,Lovcen,ABpmWgn7,ABpmWgn7,1,0,,,,0
+1415188800,Grbalj,Buducnost,YmnqXZW0,zVJMgvaS,0,0,,,,0
+1417003200,Titograd,Zeta,ABpmWgn7,vLDFhvIU,0,0,Pen,1,0,0
+1417003200,Mornar Bar,Sutjeska,2JKzUeUK,zVJMgvaS,2,0,,,,0
+1417003200,Lovcen,Petrovac,ABpmWgn7,ABpmWgn7,1,1,,,,0
+1417012200,Buducnost,Grbalj,zVJMgvaS,YmnqXZW0,1,0,,,,0
+1428499800,Sutjeska,Titograd,zVJMgvaS,ABpmWgn7,0,2,,,,0
+1428512400,Petrovac,Buducnost,ABpmWgn7,zVJMgvaS,0,0,,,,0
+1429707600,Titograd,Sutjeska,ABpmWgn7,zVJMgvaS,2,0,,,,0
+1429707600,Buducnost,Petrovac,zVJMgvaS,ABpmWgn7,0,1,,,,0
+1432146600,Titograd,Petrovac,ABpmWgn7,ABpmWgn7,1,1,AET,2,1,0

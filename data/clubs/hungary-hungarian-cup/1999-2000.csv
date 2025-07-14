@@ -1,26 +1,26 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-939679200,Paszto SK,Vasas,2,3,,,,0
-939679200,Foti,DVTK,1,0,,,,0
-939679200,Baktaloranthaza,Honved,1,3,,,,0
-939765600,Zalaegerszegi,Ferencvaros,0,0,AET,0,1,0
-939765600,Videoton,Veszprem,0,1,,,,0
-939765600,Tapioszentmarton,III. Keruleti TVE,2,1,,,,0
-939765600,Szeged,BVSC-Zuglo,0,1,,,,0
-939765600,MTK Budapest,Gazszer FC,2,0,,,,0
-939765600,Lombard Papa,Eger SE,0,1,,,,0
-939765600,Kazincbarcikai,Vac,1,3,,,,0
-939765600,Kaposfured,Jaszberenyi,2,2,,,,0
-939765600,Debrecen,BKV Elore,2,1,,,,0
-939765600,Csepel,Dunaujvaros FC,0,3,,,,0
-939765600,Celldomolki Vse,Siofok,0,2,,,,0
-939765600,Bodajk,Ujpest,0,3,,,,0
-940284000,Gyor,Haladas,1,0,,,,0
-941061600,Veszprem,Debrecen,0,3,,,,0
-941061600,Kaposfured,Tapioszentmarton,4,5,,,,0
-941061600,Eger SE,Vac,1,2,,,,0
-941583600,Dunaujvaros FC,Siofok,3,0,,,,0
-941583600,BVSC-Zuglo,Foti,3,0,,,,0
-944002800,Vasas,Ferencvaros,4,1,,,,0
-945212400,Honved,Ujpest,0,1,,,,0
-945212400,Gyor,MTK Budapest,0,1,,,,0
-957304800,MTK Budapest,Vasas,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+939679200,Paszto SK,Vasas,,vZxvDf2E,2,3,,,,0
+939679200,Foti,DVTK,,QwVphY9e,1,0,,,,0
+939679200,Baktaloranthaza,Honved,2F0RLDsL,0bbECxUd,1,3,,,,0
+939765600,Zalaegerszegi,Ferencvaros,K6VrDp5l,U3aHptUA,0,0,AET,0,1,0
+939765600,Videoton,Veszprem,r9YXWu9h,vowUzD7B,0,1,,,,0
+939765600,Tapioszentmarton,III. Keruleti TVE,,jFwixDgE,2,1,,,,0
+939765600,Szeged,BVSC-Zuglo,4Eieg1S8,QDBYa0tA,0,1,,,,0
+939765600,MTK Budapest,Gazszer FC,06r6gWo9,,2,0,,,,0
+939765600,Lombard Papa,Eger SE,IP5ctvAE,vZdK4Ad9,0,1,,,,0
+939765600,Kazincbarcikai,Vac,pE6MegdU,U5xeyX8K,1,3,,,,0
+939765600,Kaposfured,Jaszberenyi,,WGeW4TRa,2,2,,,,0
+939765600,Debrecen,BKV Elore,CMHdHsML,dY9d4gsj,2,1,,,,0
+939765600,Csepel,Dunaujvaros FC,84awLPUn,xnMFZ4MP,0,3,,,,0
+939765600,Celldomolki Vse,Siofok,UoQB3l07,jNsOhlxL,0,2,,,,0
+939765600,Bodajk,Ujpest,GjAiJaeR,fRhD1w4R,0,3,,,,0
+940284000,Gyor,Haladas,E54OB8CP,Gxgti1jl,1,0,,,,0
+941061600,Veszprem,Debrecen,vowUzD7B,CMHdHsML,0,3,,,,0
+941061600,Kaposfured,Tapioszentmarton,,,4,5,,,,0
+941061600,Eger SE,Vac,vZdK4Ad9,U5xeyX8K,1,2,,,,0
+941583600,Dunaujvaros FC,Siofok,xnMFZ4MP,jNsOhlxL,3,0,,,,0
+941583600,BVSC-Zuglo,Foti,QDBYa0tA,,3,0,,,,0
+944002800,Vasas,Ferencvaros,vZxvDf2E,U3aHptUA,4,1,,,,0
+945212400,Honved,Ujpest,0bbECxUd,fRhD1w4R,0,1,,,,0
+945212400,Gyor,MTK Budapest,E54OB8CP,06r6gWo9,0,1,,,,0
+957304800,MTK Budapest,Vasas,06r6gWo9,vZxvDf2E,3,1,,,,0

@@ -1,17 +1,17 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1721377800,Persib Bandung,PSM Makassar,2,0,,,,0
-1721392200,Borneo,Persis Solo,2,0,,,,0
-1721550600,Bali United,Arema FC,0,1,,,,0
-1721565000,Madura United,Persija Jakarta,1,2,,,,0
-1721637000,Persis Solo,PSM Makassar,2,2,,,,0
-1721651400,Persib Bandung,Borneo,0,1,,,,0
-1721809800,Bali United,Madura United,2,3,,,,0
-1721824200,Persija Jakarta,Arema FC,2,2,,,,0
-1721896200,Borneo,PSM Makassar,1,1,,,,0
-1721910600,Persib Bandung,Persis Solo,0,1,,,,0
-1721982600,Madura United,Arema FC,0,5,,,,0
-1721997000,Bali United,Persija Jakarta,3,0,,,,0
-1722342600,Borneo,Persija Jakarta,2,1,,,,0
-1722429000,Arema FC,Persis Solo,2,0,,,,0
-1722688200,Persija Jakarta,Persis Solo,0,1,,,,0
-1722774600,Borneo,Arema FC,1,1,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1721377800,Persib Bandung,PSM Makassar,vXPj9hic,KMc81nfp,2,0,,,,0
+1721392200,Borneo,Persis Solo,lSvymcJg,UHp0ZgHn,2,0,,,,0
+1721550600,Bali United,Arema FC,pdceGY5b,nm2W7Uxp,0,1,,,,0
+1721565000,Madura United,Persija Jakarta,dEkqbGa9,65biHEjh,1,2,,,,0
+1721637000,Persis Solo,PSM Makassar,UHp0ZgHn,KMc81nfp,2,2,,,,0
+1721651400,Persib Bandung,Borneo,vXPj9hic,lSvymcJg,0,1,,,,0
+1721809800,Bali United,Madura United,pdceGY5b,dEkqbGa9,2,3,,,,0
+1721824200,Persija Jakarta,Arema FC,65biHEjh,nm2W7Uxp,2,2,,,,0
+1721896200,Borneo,PSM Makassar,lSvymcJg,KMc81nfp,1,1,,,,0
+1721910600,Persib Bandung,Persis Solo,vXPj9hic,UHp0ZgHn,0,1,,,,0
+1721982600,Madura United,Arema FC,dEkqbGa9,nm2W7Uxp,0,5,,,,0
+1721997000,Bali United,Persija Jakarta,pdceGY5b,65biHEjh,3,0,,,,0
+1722342600,Borneo,Persija Jakarta,lSvymcJg,65biHEjh,2,1,,,,0
+1722429000,Arema FC,Persis Solo,nm2W7Uxp,UHp0ZgHn,2,0,,,,0
+1722688200,Persija Jakarta,Persis Solo,65biHEjh,UHp0ZgHn,0,1,,,,0
+1722774600,Borneo,Arema FC,lSvymcJg,nm2W7Uxp,1,1,Pen,1,2,0

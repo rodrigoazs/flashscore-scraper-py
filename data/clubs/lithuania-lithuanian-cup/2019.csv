@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1558710000,Kupiskis,FK Minija,0,0,Pen,0,1,0
-1558711800,Marijampole,Dainava Alytus,3,3,AET,4,3,0
-1558711800,FC Pakruojis,Nevezis Kedainiai,1,3,,,,0
-1558713600,Sveikata,Marijampole City,1,0,,,,0
-1558713600,Kedainiai,Siauliai FA,1,2,,,,0
-1558792800,Tera Vilnius,Banga,0,2,,,,0
-1558800000,Navigatoriai Vilnius,Dziugas Telsiai,1,1,Pen,1,2,0
-1558800000,FSK Radviliskis,Stumbras,1,2,,,,0
-1558864800,Kauno Zalgiris,Riteriai,1,1,Pen,2,1,0
-1558868400,Ekranas,Suduva,2,3,,,,0
-1558879200,Viltis Vilnius,Vilniaus Vytis,2,3,,,,0
-1558879200,Gelezinis Vilkas,Babrungas,0,4,,,,0
-1558879200,Atlantas,Zalgiris,0,2,,,,0
-1558890000,Ateitis Vilnius,Palanga,0,1,,,,0
-1558974600,Hegelmann,FK Panevezys,0,4,,,,0
-1559060100,Kaisiadorys,Spartakas Vilnius,4,4,AET,4,5,0
-1560873600,Spartakas Vilnius,Banga,0,3,,,,0
-1560877200,Babrungas,Palanga,0,4,,,,0
-1560960000,Zalgiris,Stumbras,3,0,Awrd,,,0
-1560960000,Marijampole,Suduva,1,4,,,,0
-1561474800,FK Minija,Kauno Zalgiris,1,2,,,,0
-1561561200,Dziugas Telsiai,Vilniaus Vytis,2,1,,,,0
-1561564800,Sveikata,Nevezis Kedainiai,0,1,,,,0
-1561564800,Siauliai FA,FK Panevezys,1,1,AET,1,6,0
-1566916200,Nevezis Kedainiai,Zalgiris,1,5,,,,0
-1566919800,Banga,Kauno Zalgiris,1,1,Pen,3,2,0
-1567002600,Dziugas Telsiai,Palanga,1,1,Pen,1,2,0
-1567954800,Suduva,FK Panevezys,1,0,,,,0
-1568734200,Suduva,Zalgiris,2,2,AET,4,2,0
-1568820600,Banga,Palanga,2,0,,,,0
-1569762000,Banga,Suduva,0,4,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1558710000,Kupiskis,FK Minija,lvuVU66n,tp21ECEq,0,0,Pen,0,1,0
+1558711800,Marijampole,Dainava Alytus,jknxMSGo,x28DBGvr,3,3,AET,4,3,0
+1558711800,FC Pakruojis,Nevezis Kedainiai,j9CS1PVT,xlaz5QOI,1,3,,,,0
+1558713600,Sveikata,Marijampole City,2wXXcSAf,OU4xNqTS,1,0,,,,0
+1558713600,Kedainiai,Siauliai FA,GAh9aquU,8j4GrWnF,1,2,,,,0
+1558792800,Tera Vilnius,Banga,pU2mHM9O,tGWvEQkr,0,2,,,,0
+1558800000,Navigatoriai Vilnius,Dziugas Telsiai,hIbfcqvo,YZpdiAPs,1,1,Pen,1,2,0
+1558800000,FSK Radviliskis,Stumbras,2XgxU84O,Yg3Qwrxa,1,2,,,,0
+1558864800,Kauno Zalgiris,Riteriai,hjhLeNs8,jJXyKvW1,1,1,Pen,2,1,0
+1558868400,Ekranas,Suduva,KGWqWzzf,zeD1tvmN,2,3,,,,0
+1558879200,Viltis Vilnius,Vilniaus Vytis,zJTyhWme,nZzLtO34,2,3,,,,0
+1558879200,Gelezinis Vilkas,Babrungas,pYnri7U5,AkoReUjd,0,4,,,,0
+1558879200,Atlantas,Zalgiris,tGWvEQkr,CK4bnx4C,0,2,,,,0
+1558890000,Ateitis Vilnius,Palanga,6onaoiI2,4vkZ9lY0,0,1,,,,0
+1558974600,Hegelmann,FK Panevezys,x6Y6RKeG,OlLDanjn,0,4,,,,0
+1559060100,Kaisiadorys,Spartakas Vilnius,hIbfcqvo,Mqc0gKbc,4,4,AET,4,5,0
+1560873600,Spartakas Vilnius,Banga,Mqc0gKbc,tGWvEQkr,0,3,,,,0
+1560877200,Babrungas,Palanga,AkoReUjd,4vkZ9lY0,0,4,,,,0
+1560960000,Zalgiris,Stumbras,CK4bnx4C,Yg3Qwrxa,3,0,Awrd,,,0
+1560960000,Marijampole,Suduva,jknxMSGo,zeD1tvmN,1,4,,,,0
+1561474800,FK Minija,Kauno Zalgiris,tp21ECEq,hjhLeNs8,1,2,,,,0
+1561561200,Dziugas Telsiai,Vilniaus Vytis,YZpdiAPs,nZzLtO34,2,1,,,,0
+1561564800,Sveikata,Nevezis Kedainiai,2wXXcSAf,xlaz5QOI,0,1,,,,0
+1561564800,Siauliai FA,FK Panevezys,8j4GrWnF,OlLDanjn,1,1,AET,1,6,0
+1566916200,Nevezis Kedainiai,Zalgiris,xlaz5QOI,CK4bnx4C,1,5,,,,0
+1566919800,Banga,Kauno Zalgiris,tGWvEQkr,hjhLeNs8,1,1,Pen,3,2,0
+1567002600,Dziugas Telsiai,Palanga,YZpdiAPs,4vkZ9lY0,1,1,Pen,1,2,0
+1567954800,Suduva,FK Panevezys,zeD1tvmN,OlLDanjn,1,0,,,,0
+1568734200,Suduva,Zalgiris,zeD1tvmN,CK4bnx4C,2,2,AET,4,2,0
+1568820600,Banga,Palanga,tGWvEQkr,4vkZ9lY0,2,0,,,,0
+1569762000,Banga,Suduva,tGWvEQkr,zeD1tvmN,0,4,,,,0

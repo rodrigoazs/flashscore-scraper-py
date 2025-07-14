@@ -1,44 +1,44 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1691064900,Mohun Bagan,Bangladesh Army,5,0,,,,0
-1691152200,North East Utd,Lajong,4,0,,,,0
-1691226000,Bodoland FC,Rajasthan United,0,1,,,,0
-1691234100,Mohammedan,Mumbai City,1,3,,,,0
-1691312400,Delhi FC,Hyderabad,1,1,,,,0
-1691320500,East Bengal,Bangladesh Army,2,2,,,,0
-1691400600,Odisha FC,Army Red,0,1,,,,0
-1691411400,Mohun Bagan,Punjab,2,0,,,,0
-1691487000,Goa,Lajong,6,0,,,,0
-1691497800,Mumbai City,Jamshedpur,5,0,,,,0
-1691571600,Delhi FC,Nepal Army,1,1,,,,0
-1691579700,Gokulam,Indian Air Force,2,0,,,,0
-1691659800,Hyderabad,Chennaiyin,1,3,,,,0
-1691670600,Punjab,Bangladesh Army,0,0,,,,0
-1691746200,Mohammedan,Indian Navy,2,1,,,,0
-1691757000,Odisha FC,Rajasthan United,2,1,,,,0
-1691830800,North East Utd,Goa,2,2,,,,0
-1691838900,Mohun Bagan,East Bengal,0,1,,,,0
-1691917200,Kerala Blasters,Gokulam,3,4,,,,0
-1691925300,Downtown Heroes,Lajong,1,2,,,,0
-1692005400,Chennaiyin,Nepal Army,3,0,,,,0
-1692016200,Bengaluru FC,Indian Air Force,1,1,,,,0
-1692178200,Goa,Downtown Heroes,3,0,,,,0
-1692189000,East Bengal,Punjab,1,0,,,,0
-1692264600,Jamshedpur,Indian Navy,1,0,,,,0
-1692275400,Bodoland FC,Army Red,1,2,,,,0
-1692351000,Delhi FC,Chennaiyin,1,2,,,,0
-1692361800,Bengaluru FC,Kerala Blasters,2,2,,,,0
-1692435600,Mumbai City,Indian Navy,4,0,,,,0
-1692443700,Bodoland FC,Odisha FC,2,1,,,,0
-1692522000,North East Utd,Downtown Heroes,3,1,,,,0
-1692530100,Mohammedan,Jamshedpur,6,0,,,,0
-1692610200,Kerala Blasters,Indian Air Force,5,0,,,,0
-1692621000,Rajasthan United,Army Red,0,0,,,,0
-1692696600,Hyderabad,Nepal Army,3,0,,,,0
-1692707400,Bengaluru FC,Gokulam,2,0,,,,0
-1692880200,Army Red,North East Utd,0,1,,,,0
-1692966600,East Bengal,Gokulam,2,1,,,,0
-1693053000,Goa,Chennaiyin,4,1,,,,0
-1693139400,Mumbai City,Mohun Bagan,1,3,,,,0
-1693312200,North East Utd,East Bengal,2,2,Pen,2,3,0
-1693485000,Goa,Mohun Bagan,1,2,,,,0
-1693737000,East Bengal,Mohun Bagan,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1691064900,Mohun Bagan,Bangladesh Army,6mJliLLj,tSKs4JaP,5,0,,,,0
+1691152200,North East Utd,Lajong,URNmjRbg,SO0ni1IB,4,0,,,,0
+1691226000,Bodoland FC,Rajasthan United,IahDU3jG,dCbRX2m8,0,1,,,,0
+1691234100,Mohammedan,Mumbai City,8E48ZVwH,bk07S9TB,1,3,,,,0
+1691312400,Delhi FC,Hyderabad,SzH1VlXh,6auKd00m,1,1,,,,0
+1691320500,East Bengal,Bangladesh Army,UszV04Qg,tSKs4JaP,2,2,,,,0
+1691400600,Odisha FC,Army Red,COxht5b5,rJ5YDcQg,0,1,,,,0
+1691411400,Mohun Bagan,Punjab,6mJliLLj,jLhAB3Wu,2,0,,,,0
+1691487000,Goa,Lajong,GdaqjtST,SO0ni1IB,6,0,,,,0
+1691497800,Mumbai City,Jamshedpur,bk07S9TB,4xbRHIEb,5,0,,,,0
+1691571600,Delhi FC,Nepal Army,SzH1VlXh,WhaH3Nmk,1,1,,,,0
+1691579700,Gokulam,Indian Air Force,CMiScAzU,h2fDsePe,2,0,,,,0
+1691659800,Hyderabad,Chennaiyin,6auKd00m,AkyQ8yz9,1,3,,,,0
+1691670600,Punjab,Bangladesh Army,jLhAB3Wu,tSKs4JaP,0,0,,,,0
+1691746200,Mohammedan,Indian Navy,8E48ZVwH,Mi9OXNrn,2,1,,,,0
+1691757000,Odisha FC,Rajasthan United,COxht5b5,dCbRX2m8,2,1,,,,0
+1691830800,North East Utd,Goa,URNmjRbg,GdaqjtST,2,2,,,,0
+1691838900,Mohun Bagan,East Bengal,6mJliLLj,UszV04Qg,0,1,,,,0
+1691917200,Kerala Blasters,Gokulam,f5R8609I,CMiScAzU,3,4,,,,0
+1691925300,Downtown Heroes,Lajong,hAMcL7XN,SO0ni1IB,1,2,,,,0
+1692005400,Chennaiyin,Nepal Army,AkyQ8yz9,WhaH3Nmk,3,0,,,,0
+1692016200,Bengaluru FC,Indian Air Force,vXXubWbe,h2fDsePe,1,1,,,,0
+1692178200,Goa,Downtown Heroes,GdaqjtST,hAMcL7XN,3,0,,,,0
+1692189000,East Bengal,Punjab,UszV04Qg,jLhAB3Wu,1,0,,,,0
+1692264600,Jamshedpur,Indian Navy,4xbRHIEb,Mi9OXNrn,1,0,,,,0
+1692275400,Bodoland FC,Army Red,IahDU3jG,rJ5YDcQg,1,2,,,,0
+1692351000,Delhi FC,Chennaiyin,SzH1VlXh,AkyQ8yz9,1,2,,,,0
+1692361800,Bengaluru FC,Kerala Blasters,vXXubWbe,f5R8609I,2,2,,,,0
+1692435600,Mumbai City,Indian Navy,bk07S9TB,Mi9OXNrn,4,0,,,,0
+1692443700,Bodoland FC,Odisha FC,IahDU3jG,COxht5b5,2,1,,,,0
+1692522000,North East Utd,Downtown Heroes,URNmjRbg,hAMcL7XN,3,1,,,,0
+1692530100,Mohammedan,Jamshedpur,8E48ZVwH,4xbRHIEb,6,0,,,,0
+1692610200,Kerala Blasters,Indian Air Force,f5R8609I,h2fDsePe,5,0,,,,0
+1692621000,Rajasthan United,Army Red,dCbRX2m8,rJ5YDcQg,0,0,,,,0
+1692696600,Hyderabad,Nepal Army,6auKd00m,WhaH3Nmk,3,0,,,,0
+1692707400,Bengaluru FC,Gokulam,vXXubWbe,CMiScAzU,2,0,,,,0
+1692880200,Army Red,North East Utd,rJ5YDcQg,URNmjRbg,0,1,,,,0
+1692966600,East Bengal,Gokulam,UszV04Qg,CMiScAzU,2,1,,,,0
+1693053000,Goa,Chennaiyin,GdaqjtST,AkyQ8yz9,4,1,,,,0
+1693139400,Mumbai City,Mohun Bagan,bk07S9TB,6mJliLLj,1,3,,,,0
+1693312200,North East Utd,East Bengal,URNmjRbg,UszV04Qg,2,2,Pen,2,3,0
+1693485000,Goa,Mohun Bagan,GdaqjtST,6mJliLLj,1,2,,,,0
+1693737000,East Bengal,Mohun Bagan,UszV04Qg,6mJliLLj,0,1,,,,0

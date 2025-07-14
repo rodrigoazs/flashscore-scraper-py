@@ -1,30 +1,30 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1697288400,Masafi,Al Jazira Hamra,1,2,,,,0
-1697288400,Al Fujairah,Dibba Al Fujairah,0,1,,,,0
-1697288700,Masfut,Al Thaid,1,3,,,,0
-1697289000,Al Dhafra,Al Urooba,1,1,AET,2,3,0
-1697374800,Dibba Al Hisn,Al Rams,3,0,,,,0
-1697375100,United FC,Dubai City,2,2,Pen,2,3,0
-1697375100,Al Hamriyah,Gulf Heroes,1,1,AET,1,2,0
-1697375100,Al Arabi,Al-Taawon,3,0,,,,0
-1699706400,Dibba Al Fujairah,Al Urooba,4,0,,,,0
-1699706400,Al Jazira Hamra,Al Thaid,3,0,,,,0
-1699792800,Dibba Al Hisn,Dubai City,0,0,AET,3,1,0
-1699793100,Al Arabi,Gulf Heroes,2,2,Pen,3,2,0
-1701606900,Dibba Al Hisn,Al Arabi,0,1,,,,0
-1701606900,Dibba Al Fujairah,Al Jazira Hamra,1,0,,,,0
-1708089900,Al Jazira,Al Arabi,1,0,,,,0
-1708100400,Hatta,Ajman,0,1,,,,0
-1708176300,Al Wasl,Emirates Club,7,1,,,,0
-1708176300,Al Sharjah,Al Bataeh,2,1,,,,0
-1708186800,Al Nasr,Khorfakkan,1,0,,,,0
-1708262400,Ittihad Kalba,Dibba Al Fujairah,3,0,,,,0
-1708262700,Shabab Al-Ahli Dubai,Bani Yas,1,1,AET,2,1,0
-1708273200,Al Ain,Al Wahda,1,0,,,,0
-1712079000,Al Jazira,Al Wasl,0,3,,,,0
-1712079000,Ajman,Al Nasr,1,2,,,,0
-1712165400,Ittihad Kalba,Al Ain,2,1,,,,0
-1712165400,Al Sharjah,Shabab Al-Ahli Dubai,3,4,,,,0
-1714490400,Al Wasl,Ittihad Kalba,4,1,,,,0
-1714576800,Al Nasr,Shabab Al-Ahli Dubai,2,2,AET,4,3,0
-1715959800,Al Wasl,Al Nasr,4,0,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1697288400,Masafi,Al Jazira Hamra,UoIViBG0,riRr7RbM,1,2,,,,0
+1697288400,Al Fujairah,Dibba Al Fujairah,GOsncUhM,COCcK4Lc,0,1,,,,0
+1697288700,Masfut,Al Thaid,nVGlhKAq,jeJRhi1f,1,3,,,,0
+1697289000,Al Dhafra,Al Urooba,Uy7I7TU5,2JG9UkI7,1,1,AET,2,3,0
+1697374800,Dibba Al Hisn,Al Rams,OSNa5roI,riRr7RbM,3,0,,,,0
+1697375100,United FC,Dubai City,fcsIsfw8,8n4j8mYd,2,2,Pen,2,3,0
+1697375100,Al Hamriyah,Gulf Heroes,jeJRhi1f,8n4j8mYd,1,1,AET,1,2,0
+1697375100,Al Arabi,Al-Taawon,ERBvby7K,2qzp7p0H,3,0,,,,0
+1699706400,Dibba Al Fujairah,Al Urooba,COCcK4Lc,2JG9UkI7,4,0,,,,0
+1699706400,Al Jazira Hamra,Al Thaid,riRr7RbM,jeJRhi1f,3,0,,,,0
+1699792800,Dibba Al Hisn,Dubai City,OSNa5roI,8n4j8mYd,0,0,AET,3,1,0
+1699793100,Al Arabi,Gulf Heroes,ERBvby7K,8n4j8mYd,2,2,Pen,3,2,0
+1701606900,Dibba Al Hisn,Al Arabi,OSNa5roI,ERBvby7K,0,1,,,,0
+1701606900,Dibba Al Fujairah,Al Jazira Hamra,COCcK4Lc,riRr7RbM,1,0,,,,0
+1708089900,Al Jazira,Al Arabi,lWIXXvLm,ERBvby7K,1,0,,,,0
+1708100400,Hatta,Ajman,QVAzX6rD,prt8JLTG,0,1,,,,0
+1708176300,Al Wasl,Emirates Club,K8vlWhPS,MHQFRCXq,7,1,,,,0
+1708176300,Al Sharjah,Al Bataeh,2w51PaQ7,xrtBiP1b,2,1,,,,0
+1708186800,Al Nasr,Khorfakkan,K8vlWhPS,OQU9zTMb,1,0,,,,0
+1708262400,Ittihad Kalba,Dibba Al Fujairah,lUHDtcYu,COCcK4Lc,3,0,,,,0
+1708262700,Shabab Al-Ahli Dubai,Bani Yas,8zUcYY2j,OfEmUdKC,1,1,AET,2,1,0
+1708273200,Al Ain,Al Wahda,OKa9P8WR,YXHWp1ah,1,0,,,,0
+1712079000,Al Jazira,Al Wasl,lWIXXvLm,K8vlWhPS,0,3,,,,0
+1712079000,Ajman,Al Nasr,prt8JLTG,K8vlWhPS,1,2,,,,0
+1712165400,Ittihad Kalba,Al Ain,lUHDtcYu,OKa9P8WR,2,1,,,,0
+1712165400,Al Sharjah,Shabab Al-Ahli Dubai,2w51PaQ7,8zUcYY2j,3,4,,,,0
+1714490400,Al Wasl,Ittihad Kalba,K8vlWhPS,lUHDtcYu,4,1,,,,0
+1714576800,Al Nasr,Shabab Al-Ahli Dubai,K8vlWhPS,8zUcYY2j,2,2,AET,4,3,0
+1715959800,Al Wasl,Al Nasr,K8vlWhPS,K8vlWhPS,4,0,,,,1

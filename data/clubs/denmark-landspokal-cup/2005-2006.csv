@@ -1,42 +1,42 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1124812800,Soro Freja,Slagelse,1,3,,,,0
-1124812800,Sanderum BK,Dalum IF,1,5,,,,0
-1124899200,Viby,Vendsyssel,1,4,,,,0
-1124899200,Saedding/Guldager,Randers FC,0,13,,,,0
-1124899200,Naestved,Kalundborg GB,4,2,,,,0
-1124899200,Holbaek,Lyngby,1,3,,,,0
-1124899200,Hellerup,F. Amager,3,0,,,,0
-1124899200,Fredericia,Kolding IF,3,4,,,,0
-1124899200,Dollefjelde-Musse,Skjold,3,2,,,,0
-1124899200,BK Frem,Vejle,2,1,,,,0
-1124899200,B 1909,B 1913,1,0,,,,0
-1124899200,Allerod,B.93,1,4,,,,0
-1124899200,AB Copenhagen,Koge,3,2,,,,0
-1125507600,Nykobing,Herfolge,2,4,,,,0
-1126710000,Slagelse,Vendsyssel,2,1,,,,0
-1126710000,Dollefjelde-Musse,Lyngby,2,5,,,,0
-1126710000,Dalum IF,Silkeborg,0,0,AET,0,1,0
-1126717200,Sonderjyske,Horsens,1,2,,,,0
-1126717200,Randers FC,Aarhus,2,0,,,,0
-1126717200,Nordsjaelland,Viborg,0,3,,,,0
-1126717200,Naestved,Herfolge,1,3,,,,0
-1126717200,BK Frem,AB Copenhagen,1,1,AET,2,1,0
-1126717200,B 1909,Hellerup,1,1,Pen,2,1,0
-1127322000,B.93,Kolding IF,3,5,,,,0
-1129136400,Randers FC,Horsens,2,0,,,,0
-1129737600,Brondby,Silkeborg,2,1,,,,0
-1129739400,B 1909,Herfolge,5,2,,,,0
-1129741200,Slagelse,FC Copenhagen,2,2,AET,2,3,0
-1129741200,Lyngby,Esbjerg,0,0,AET,0,1,0
-1129741200,Kolding IF,Odense,1,1,AET,1,2,0
-1129741200,BK Frem,Viborg,1,1,AET,2,1,0
-1129741200,Aalborg,Midtjylland,1,1,AET,2,1,0
-1141567200,Aalborg,Odense,2,2,Pen,3,2,0
-1141574400,Brondby,FC Copenhagen,0,0,AET,1,0,0
-1142172000,Randers FC,BK Frem,3,0,,,,0
-1142445600,B 1909,Esbjerg,1,3,,,,0
-1145552400,Randers FC,Aalborg,0,0,,,,0
-1145556000,Esbjerg,Brondby,5,2,,,,0
-1146157200,Aalborg,Randers FC,1,1,,,,0
-1146160800,Brondby,Esbjerg,1,0,,,,0
-1147366800,Esbjerg,Randers FC,0,0,AET,0,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1124812800,Soro Freja,Slagelse,UkYd25t6,lGGFXV6I,1,3,,,,0
+1124812800,Sanderum BK,Dalum IF,8MS3XWJh,htPICTlS,1,5,,,,0
+1124899200,Viby,Vendsyssel,O6zVxtaP,OIhSqdR4,1,4,,,,0
+1124899200,Saedding/Guldager,Randers FC,t25AY7UK,SOY3p1Si,0,13,,,,0
+1124899200,Naestved,Kalundborg GB,4KznqEKQ,foqyBu7l,4,2,,,,0
+1124899200,Holbaek,Lyngby,OGuS5rLB,j9C0y7Tm,1,3,,,,0
+1124899200,Hellerup,F. Amager,UFaDtLwT,QNrz0V5B,3,0,,,,0
+1124899200,Fredericia,Kolding IF,2BUJp8Jj,jolgOE7C,3,4,,,,0
+1124899200,Dollefjelde-Musse,Skjold,MBqljUeT,APuIT0Q8,3,2,,,,0
+1124899200,BK Frem,Vejle,2gi3wAla,lvRNDH7M,2,1,,,,0
+1124899200,B 1909,B 1913,p2hGv6co,00iyKDPO,1,0,,,,0
+1124899200,Allerod,B.93,MBqljUeT,ShWpgPya,1,4,,,,0
+1124899200,AB Copenhagen,Koge,KYJ6FHSq,dMuamJsA,3,2,,,,0
+1125507600,Nykobing,Herfolge,xvj9SV6l,SrqG8pyg,2,4,,,,0
+1126710000,Slagelse,Vendsyssel,lGGFXV6I,OIhSqdR4,2,1,,,,0
+1126710000,Dollefjelde-Musse,Lyngby,MBqljUeT,j9C0y7Tm,2,5,,,,0
+1126710000,Dalum IF,Silkeborg,htPICTlS,Wrzf6bGu,0,0,AET,0,1,0
+1126717200,Sonderjyske,Horsens,jTh33WB7,hGuhahGg,1,2,,,,0
+1126717200,Randers FC,Aarhus,SOY3p1Si,hGuhahGg,2,0,,,,0
+1126717200,Nordsjaelland,Viborg,2g7AFAbb,fevSzE3L,0,3,,,,0
+1126717200,Naestved,Herfolge,4KznqEKQ,SrqG8pyg,1,3,,,,0
+1126717200,BK Frem,AB Copenhagen,2gi3wAla,KYJ6FHSq,1,1,AET,2,1,0
+1126717200,B 1909,Hellerup,p2hGv6co,UFaDtLwT,1,1,Pen,2,1,0
+1127322000,B.93,Kolding IF,ShWpgPya,jolgOE7C,3,5,,,,0
+1129136400,Randers FC,Horsens,SOY3p1Si,hGuhahGg,2,0,,,,0
+1129737600,Brondby,Silkeborg,YPeI5fwQ,Wrzf6bGu,2,1,,,,0
+1129739400,B 1909,Herfolge,p2hGv6co,SrqG8pyg,5,2,,,,0
+1129741200,Slagelse,FC Copenhagen,lGGFXV6I,xv6lkb7q,2,2,AET,2,3,0
+1129741200,Lyngby,Esbjerg,j9C0y7Tm,82YZVz8L,0,0,AET,0,1,0
+1129741200,Kolding IF,Odense,jolgOE7C,xv6lkb7q,1,1,AET,1,2,0
+1129741200,BK Frem,Viborg,2gi3wAla,fevSzE3L,1,1,AET,2,1,0
+1129741200,Aalborg,Midtjylland,jDG0G1yS,nw9UOsY3,1,1,AET,2,1,0
+1141567200,Aalborg,Odense,jDG0G1yS,xv6lkb7q,2,2,Pen,3,2,0
+1141574400,Brondby,FC Copenhagen,YPeI5fwQ,xv6lkb7q,0,0,AET,1,0,0
+1142172000,Randers FC,BK Frem,SOY3p1Si,2gi3wAla,3,0,,,,0
+1142445600,B 1909,Esbjerg,p2hGv6co,82YZVz8L,1,3,,,,0
+1145552400,Randers FC,Aalborg,SOY3p1Si,jDG0G1yS,0,0,,,,0
+1145556000,Esbjerg,Brondby,82YZVz8L,YPeI5fwQ,5,2,,,,0
+1146157200,Aalborg,Randers FC,jDG0G1yS,SOY3p1Si,1,1,,,,0
+1146160800,Brondby,Esbjerg,YPeI5fwQ,82YZVz8L,1,0,,,,0
+1147366800,Esbjerg,Randers FC,82YZVz8L,SOY3p1Si,0,0,AET,0,1,0

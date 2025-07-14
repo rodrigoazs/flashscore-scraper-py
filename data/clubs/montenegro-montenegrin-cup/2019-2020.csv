@@ -1,34 +1,34 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1567002600,Zeta,Decic,2,2,Pen,3,2,0
-1567002600,Rudar,Otrant,1,0,,,,0
-1567002600,Radovici,Titograd,0,11,,,,0
-1567002600,Mladost DG,Drezga,2,4,,,,0
-1567002600,Komovi,Ibar,0,4,,,,0
-1567002600,Jedinstvo,Kom Podgorica,1,0,,,,0
-1567002600,Grbalj,Arsenal Tivat,4,0,,,,0
-1567002600,Gorstak,Petnjica,0,5,,,,0
-1567002600,FK Cetinje,FK Podgorica,0,7,,,,0
-1567002600,Bokelj,Jezero,1,0,,,,0
-1569416400,Mornar Bar,Iskra,0,2,,,,0
-1570019400,Sutjeska,Lovcen,4,0,,,,0
-1570019400,Rudar,Buducnost,0,0,,,,0
-1570019400,Petrovac,Drezga,2,0,,,,0
-1570019400,Petnjica,FK Podgorica,0,3,Awrd,,,0
-1570019400,Ibar,Zeta,0,0,,,,0
-1570019400,Grbalj,Iskra,3,1,,,,0
-1570019400,Bokelj,Titograd,1,2,,,,0
-1571830200,Zeta,Ibar,3,0,,,,0
-1571830200,Titograd,Bokelj,2,1,,,,0
-1571830200,Lovcen,Sutjeska,0,3,,,,0
-1571830200,Iskra,Grbalj,4,1,,,,0
-1571830200,Drezga,Petrovac,2,0,Pen,2,1,0
-1571830200,Buducnost,Rudar,2,1,,,,0
-1571842800,FK Podgorica,Petnjica,3,0,Awrd,,,0
-1573043400,Jedinstvo,Buducnost,0,1,,,,0
-1574856000,Zeta,Sutjeska,0,0,,,,0
-1574856000,Titograd,Petrovac,0,0,,,,0
-1574866800,FK Podgorica,Iskra,0,0,,,,0
-1574870400,Buducnost,Jedinstvo,7,0,,,,0
-1576411200,Sutjeska,Zeta,1,0,,,,0
-1576411200,Petrovac,Titograd,2,0,,,,0
-1576411200,Iskra,FK Podgorica,1,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1567002600,Zeta,Decic,vLDFhvIU,UstD1joU,2,2,Pen,3,2,0
+1567002600,Rudar,Otrant,KfNVySaO,6VRjOi1H,1,0,,,,0
+1567002600,Radovici,Titograd,Ui9ohC3h,ABpmWgn7,0,11,,,,0
+1567002600,Mladost DG,Drezga,WdVjEXps,4bmQHUa1,2,4,,,,0
+1567002600,Komovi,Ibar,rTzEhcxl,Aaf9ZSca,0,4,,,,0
+1567002600,Jedinstvo,Kom Podgorica,2JKzUeUK,4Uy7FtTH,1,0,,,,0
+1567002600,Grbalj,Arsenal Tivat,YmnqXZW0,25w9qSfP,4,0,,,,0
+1567002600,Gorstak,Petnjica,6wtoJLq3,SlfZ6qG2,0,5,,,,0
+1567002600,FK Cetinje,FK Podgorica,AyvhK6wb,IRdZ5ayn,0,7,,,,0
+1567002600,Bokelj,Jezero,ABpmWgn7,ljgDYnD5,1,0,,,,0
+1569416400,Mornar Bar,Iskra,2JKzUeUK,0ASINSdB,0,2,,,,0
+1570019400,Sutjeska,Lovcen,zVJMgvaS,ABpmWgn7,4,0,,,,0
+1570019400,Rudar,Buducnost,KfNVySaO,zVJMgvaS,0,0,,,,0
+1570019400,Petrovac,Drezga,ABpmWgn7,4bmQHUa1,2,0,,,,0
+1570019400,Petnjica,FK Podgorica,SlfZ6qG2,IRdZ5ayn,0,3,Awrd,,,0
+1570019400,Ibar,Zeta,Aaf9ZSca,vLDFhvIU,0,0,,,,0
+1570019400,Grbalj,Iskra,YmnqXZW0,0ASINSdB,3,1,,,,0
+1570019400,Bokelj,Titograd,ABpmWgn7,ABpmWgn7,1,2,,,,0
+1571830200,Zeta,Ibar,vLDFhvIU,Aaf9ZSca,3,0,,,,0
+1571830200,Titograd,Bokelj,ABpmWgn7,ABpmWgn7,2,1,,,,0
+1571830200,Lovcen,Sutjeska,ABpmWgn7,zVJMgvaS,0,3,,,,0
+1571830200,Iskra,Grbalj,0ASINSdB,YmnqXZW0,4,1,,,,0
+1571830200,Drezga,Petrovac,4bmQHUa1,ABpmWgn7,2,0,Pen,2,1,0
+1571830200,Buducnost,Rudar,zVJMgvaS,KfNVySaO,2,1,,,,0
+1571842800,FK Podgorica,Petnjica,IRdZ5ayn,SlfZ6qG2,3,0,Awrd,,,0
+1573043400,Jedinstvo,Buducnost,2JKzUeUK,zVJMgvaS,0,1,,,,0
+1574856000,Zeta,Sutjeska,vLDFhvIU,zVJMgvaS,0,0,,,,0
+1574856000,Titograd,Petrovac,ABpmWgn7,ABpmWgn7,0,0,,,,0
+1574866800,FK Podgorica,Iskra,IRdZ5ayn,0ASINSdB,0,0,,,,0
+1574870400,Buducnost,Jedinstvo,zVJMgvaS,2JKzUeUK,7,0,,,,0
+1576411200,Sutjeska,Zeta,zVJMgvaS,vLDFhvIU,1,0,,,,0
+1576411200,Petrovac,Titograd,ABpmWgn7,ABpmWgn7,2,0,,,,0
+1576411200,Iskra,FK Podgorica,0ASINSdB,IRdZ5ayn,1,1,,,,0

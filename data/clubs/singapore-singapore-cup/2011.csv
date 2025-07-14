@@ -1,23 +1,23 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1307705400,Hougang,Harimau Muda,0,0,AET,1,0,0
-1307791800,Gombak,Balestier Khalsa,2,1,,,,0
-1307878200,South Melbourne,Albirex Niigata,0,3,,,,0
-1307964600,Geylang,Tampines,1,2,,,,0
-1308051000,Lion City,Woodlands Wellington,5,1,,,,0
-1308137400,Etoile,Tanjong Pagar,2,0,,,,0
-1308223800,Warriors,Phnom Penh Crown,4,0,,,,0
-1308310200,Samut Prakan City,Okktha,1,2,,,,0
-1313323200,Warriors,Albirex Niigata,0,0,,,,0
-1313323200,Tampines,Lion City,3,3,,,,0
-1313496000,Hougang,Okktha,3,0,,,,0
-1313582400,Gombak,Etoile,0,1,,,,0
-1313668800,Lion City,Tampines,0,0,Pen,1,0,0
-1313668800,Albirex Niigata,Warriors,2,2,Pen,3,2,0
-1313755200,Okktha,Hougang,3,1,,,,0
-1313841600,Etoile,Gombak,3,1,,,,0
-1316431800,Lion City,Etoile,1,1,,,,0
-1316518200,Albirex Niigata,Hougang,2,2,,,,0
-1316691000,Etoile,Lion City,0,1,,,,0
-1316777400,Hougang,Albirex Niigata,1,1,AET,2,3,0
-1321693200,Etoile,Hougang,3,0,,,,0
-1321703100,Lion City,Albirex Niigata,0,0,AET,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1307705400,Hougang,Harimau Muda,4fcEsivK,OSwVSK8m,0,0,AET,1,0,0
+1307791800,Gombak,Balestier Khalsa,I19RPt17,MZaTAD0m,2,1,,,,0
+1307878200,South Melbourne,Albirex Niigata,bTzLAEkQ,MkSbZgY3,0,3,,,,0
+1307964600,Geylang,Tampines,df9tRVup,d0hl69s2,1,2,,,,0
+1308051000,Lion City,Woodlands Wellington,pW3pRTln,CKls4Q5g,5,1,,,,0
+1308137400,Etoile,Tanjong Pagar,MkSbZgY3,bwrRv2m2,2,0,,,,0
+1308223800,Warriors,Phnom Penh Crown,nNKuYSHo,CnwIgY1c,4,0,,,,0
+1308310200,Samut Prakan City,Okktha,jes3ohYg,,1,2,,,,0
+1313323200,Warriors,Albirex Niigata,nNKuYSHo,MkSbZgY3,0,0,,,,0
+1313323200,Tampines,Lion City,d0hl69s2,pW3pRTln,3,3,,,,0
+1313496000,Hougang,Okktha,4fcEsivK,,3,0,,,,0
+1313582400,Gombak,Etoile,I19RPt17,MkSbZgY3,0,1,,,,0
+1313668800,Lion City,Tampines,pW3pRTln,d0hl69s2,0,0,Pen,1,0,0
+1313668800,Albirex Niigata,Warriors,MkSbZgY3,nNKuYSHo,2,2,Pen,3,2,0
+1313755200,Okktha,Hougang,,4fcEsivK,3,1,,,,0
+1313841600,Etoile,Gombak,MkSbZgY3,I19RPt17,3,1,,,,0
+1316431800,Lion City,Etoile,pW3pRTln,MkSbZgY3,1,1,,,,0
+1316518200,Albirex Niigata,Hougang,MkSbZgY3,4fcEsivK,2,2,,,,0
+1316691000,Etoile,Lion City,MkSbZgY3,pW3pRTln,0,1,,,,0
+1316777400,Hougang,Albirex Niigata,4fcEsivK,MkSbZgY3,1,1,AET,2,3,0
+1321693200,Etoile,Hougang,MkSbZgY3,4fcEsivK,3,0,,,,0
+1321703100,Lion City,Albirex Niigata,pW3pRTln,MkSbZgY3,0,0,AET,1,0,0

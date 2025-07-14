@@ -1,25 +1,25 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1649152800,Quang Nam,Binh Duong,1,0,,,,0
-1649156400,Hong Linh Ha Tinh,Nam Dinh,3,2,,,,0
-1649235600,Hue,Sai Gon FC,0,5,,,,0
-1649239200,Long An,Khanh Hoa,1,0,,,,0
-1649320200,Phu Dong Ninh Binh,Hai Phong,1,3,,,,0
-1649325600,Binh Phuoc,Song Lam Nghe An,2,1,,,,0
-1649329200,PVF-CAND,Phu Tho,5,0,,,,0
-1649329200,Can Tho,Dak Lak,3,1,,,,0
-1649333700,Hanoi FC,Cong An Ha Noi,4,0,,,,0
-1649498400,Gia Lai,Hong Linh Ha Tinh,0,0,Pen,1,0,0
-1649584800,Thanh Hoa,Long An,4,0,,,,0
-1649592900,Ho Chi Minh,Sai Gon FC,1,1,Pen,1,2,0
-1649671200,Da Nang,Hanoi FC,1,2,,,,0
-1649671200,Binh Phuoc,Quang Nam,3,0,,,,0
-1649674800,Binh Dinh,Hai Phong,1,0,,,,0
-1649674800,Ba Ria Vung Tau,PVF-CAND,0,0,Pen,1,0,0
-1649679300,Viettel,Can Tho,5,0,,,,0
-1662544800,Thanh Hoa,Ba Ria Vung Tau,3,1,,,,0
-1662548400,Gia Lai,Sai Gon FC,1,1,Pen,2,1,0
-1662631200,Binh Phuoc,Hanoi FC,0,5,,,,0
-1662639300,Viettel,Binh Dinh,0,0,Pen,0,1,0
-1669197600,Gia Lai,Hanoi FC,0,2,,,,0
-1669197600,Binh Dinh,Thanh Hoa,4,0,,,,0
-1669543200,Hanoi FC,Binh Dinh,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1649152800,Quang Nam,Binh Duong,KIg2K6gS,zX43sNzb,1,0,,,,0
+1649156400,Hong Linh Ha Tinh,Nam Dinh,thEj2sdN,4YgEdVnq,3,2,,,,0
+1649235600,Hue,Sai Gon FC,Kz5IDlTA,OSBxo5A0,0,5,,,,0
+1649239200,Long An,Khanh Hoa,jeFu6Qy4,2ZMuMDJM,1,0,,,,0
+1649320200,Phu Dong Ninh Binh,Hai Phong,hbdjuDhT,dr1Rx2yJ,1,3,,,,0
+1649325600,Binh Phuoc,Song Lam Nghe An,W4eJW2n0,EiT1Wpdd,2,1,,,,0
+1649329200,PVF-CAND,Phu Tho,QVl4SuN4,vcLqLXYS,5,0,,,,0
+1649329200,Can Tho,Dak Lak,OrOyNg4G,4xEHelxl,3,1,,,,0
+1649333700,Hanoi FC,Cong An Ha Noi,Ek0C3Mkc,KnmSRxvE,4,0,,,,0
+1649498400,Gia Lai,Hong Linh Ha Tinh,Q1sXdNBU,thEj2sdN,0,0,Pen,1,0,0
+1649584800,Thanh Hoa,Long An,fw9MeDYe,jeFu6Qy4,4,0,,,,0
+1649592900,Ho Chi Minh,Sai Gon FC,0nzZbYGl,OSBxo5A0,1,1,Pen,1,2,0
+1649671200,Da Nang,Hanoi FC,EiT1Wpdd,Ek0C3Mkc,1,2,,,,0
+1649671200,Binh Phuoc,Quang Nam,W4eJW2n0,KIg2K6gS,3,0,,,,0
+1649674800,Binh Dinh,Hai Phong,thEj2sdN,dr1Rx2yJ,1,0,,,,0
+1649674800,Ba Ria Vung Tau,PVF-CAND,6LA0qhxd,QVl4SuN4,0,0,Pen,1,0,0
+1649679300,Viettel,Can Tho,vcLqLXYS,OrOyNg4G,5,0,,,,0
+1662544800,Thanh Hoa,Ba Ria Vung Tau,fw9MeDYe,6LA0qhxd,3,1,,,,0
+1662548400,Gia Lai,Sai Gon FC,Q1sXdNBU,OSBxo5A0,1,1,Pen,2,1,0
+1662631200,Binh Phuoc,Hanoi FC,W4eJW2n0,Ek0C3Mkc,0,5,,,,0
+1662639300,Viettel,Binh Dinh,vcLqLXYS,thEj2sdN,0,0,Pen,0,1,0
+1669197600,Gia Lai,Hanoi FC,Q1sXdNBU,Ek0C3Mkc,0,2,,,,0
+1669197600,Binh Dinh,Thanh Hoa,thEj2sdN,fw9MeDYe,4,0,,,,0
+1669543200,Hanoi FC,Binh Dinh,Ek0C3Mkc,thEj2sdN,2,0,,,,0

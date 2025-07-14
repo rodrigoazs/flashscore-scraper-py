@@ -1,106 +1,106 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1580854500,Nacional Potosi (Bol),FBC Melgar (Per),0,2,,,,0
-1580854500,Coquimbo (Chi),Aragua (Ven),3,0,,,,0
-1580862600,Velez Sarsfield (Arg),Aucas (Ecu),1,0,,,,0
-1580862600,Fluminense (Bra),Union La Calera (Chi),1,1,,,,0
-1580940900,Mineros (Ven),Sp. Luqueno (Par),2,3,,,,0
-1580940900,Fenix (Uru),EL Nacional (Ecu),1,0,,,,0
-1580949000,Vasco (Bra),Oriente Petrolero (Bol),1,0,,,,0
-1580949000,Atl. Nacional (Col),Huracan (Arg),3,0,,,,0
-1581027300,Blooming (Bol),Emelec (Ecu),0,3,,,,0
-1581035400,Union de Santa Fe (Arg),Atletico-MG (Bra),3,0,,,,0
-1581035400,Millonarios (Col),Always Ready (Bol),2,0,,,,0
-1581459300,Grau (Per),River Plate (Uru),1,2,,,,0
-1581459300,Argentinos Jrs (Arg),Sport Huancayo (Per),1,1,,,,0
-1581467400,Sol de America (Par),Goias (Bra),1,0,,,,0
-1581467400,Dep. Cali (Col),River Plate (Par),2,1,,,,0
-1581545700,Lanus (Arg),U. Catolica (Ecu),3,0,,,,0
-1581545700,Huachipato (Chi),Dep. Pasto (Col),1,0,,,,0
-1581553800,Llaneros (Ven),Liverpool M. (Uru),0,2,,,,0
-1581553800,Bahia (Bra),Nacional Asuncion (Par),3,0,,,,0
-1581632100,Zamora (Ven),Plaza Colonia (Uru),1,0,,,,0
-1581640200,Independiente (Arg),Fortaleza (Bra),1,0,,,,0
-1581640200,Cusco (Per),A. Italiano (Chi),2,0,,,,0
-1582064100,Union La Calera (Chi),Fluminense (Bra),0,0,,,,0
-1582064100,Aragua (Ven),Coquimbo (Chi),1,0,,,,0
-1582072200,FBC Melgar (Per),Nacional Potosi (Bol),0,2,Pen,1,2,0
-1582072200,Aucas (Ecu),Velez Sarsfield (Arg),2,1,,,,0
-1582150500,Sp. Luqueno (Par),Mineros (Ven),2,2,,,,0
-1582150500,Huracan (Arg),Atl. Nacional (Col),1,1,,,,0
-1582158600,Oriente Petrolero (Bol),Vasco (Bra),0,0,,,,0
-1582236900,Emelec (Ecu),Blooming (Bol),2,0,,,,0
-1582236900,Always Ready (Bol),Millonarios (Col),1,0,,,,0
-1582245000,EL Nacional (Ecu),Fenix (Uru),2,2,,,,0
-1582245000,Atletico-MG (Bra),Union de Santa Fe (Arg),2,0,,,,0
-1582668900,River Plate (Uru),Grau (Per),1,0,,,,0
-1582677000,Sport Huancayo (Per),Argentinos Jrs (Arg),0,0,,,,0
-1582677000,River Plate (Par),Dep. Cali (Col),1,3,,,,0
-1582677000,Goias (Bra),Sol de America (Par),0,1,,,,0
-1582755300,Nacional Asuncion (Par),Bahia (Bra),1,3,,,,0
-1582755300,Liverpool M. (Uru),Llaneros (Ven),5,0,,,,0
-1582763400,U. Catolica (Ecu),Lanus (Arg),2,0,,,,0
-1582763400,Dep. Pasto (Col),Huachipato (Chi),0,1,,,,0
-1582841700,Plaza Colonia (Uru),Zamora (Ven),3,0,,,,0
-1582849800,Fortaleza (Bra),Independiente (Arg),2,1,,,,0
-1582849800,A. Italiano (Chi),Cusco (Per),3,0,,,,0
-1603836900,Sport Huancayo (Per),Liverpool M. (Uru),1,1,,,,0
-1603836900,A. Italiano (Chi),Bolivar (Bol),2,1,,,,0
-1603845000,Union La Calera (Chi),Deportes Tolima (Col),0,0,,,,0
-1603923300,Sp. Luqueno (Par),Defensa y Justicia (Arg),1,2,,,,0
-1603923300,Lanus (Arg),Sao Paulo (Bra),3,2,,,,0
-1603923300,Fenix (Uru),Huachipato (Chi),3,1,,,,0
-1603923300,Atl. Nacional (Col),River Plate (Uru),1,1,,,,0
-1603931400,Velez Sarsfield (Arg),Penarol (Uru),0,0,,,,0
-1603931400,Vasco (Bra),Caracas (Ven),1,0,,,,0
-1603931400,Millonarios (Col),Dep. Cali (Col),1,2,,,,0
-1604009700,Union de Santa Fe (Arg),Emelec (Ecu),0,1,,,,0
-1604009700,Sol de America (Par),U. Catolica (Chi),0,0,,,,0
-1604009700,Coquimbo (Chi),Estudiantes Merida (Ven),3,0,,,,0
-1604017800,Plaza Colonia (Uru),Junior (Col),0,1,,,,0
-1604017800,Independiente (Arg),Atl. Tucuman (Arg),1,0,,,,0
-1604017800,FBC Melgar (Per),Bahia (Bra),1,0,,,,0
-1604441700,Liverpool M. (Uru),Sport Huancayo (Per),1,2,,,,0
-1604441700,Bolivar (Bol),A. Italiano (Chi),3,0,,,,0
-1604449800,Deportes Tolima (Col),Union La Calera (Chi),1,1,,,,0
-1604528100,Sao Paulo (Bra),Lanus (Arg),4,3,,,,0
-1604528100,River Plate (Uru),Atl. Nacional (Col),3,1,,,,0
-1604528100,Huachipato (Chi),Fenix (Uru),1,1,,,,0
-1604528100,Defensa y Justicia (Arg),Sp. Luqueno (Par),1,1,,,,0
-1604536200,Penarol (Uru),Velez Sarsfield (Arg),1,1,,,,0
-1604536200,Dep. Cali (Col),Millonarios (Col),1,2,Pen,2,2,0
-1604536200,Caracas (Ven),Vasco (Bra),0,0,,,,0
-1604614500,Estudiantes Merida (Ven),Coquimbo (Chi),0,2,,,,0
-1604614500,Emelec (Ecu),Union de Santa Fe (Arg),1,2,,,,0
-1604622600,U. Catolica (Chi),Sol de America (Par),2,1,,,,0
-1604622600,Junior (Col),Plaza Colonia (Uru),0,0,,,,0
-1604622600,Bahia (Bra),FBC Melgar (Per),4,0,,,,0
-1604622600,Atl. Tucuman (Arg),Independiente (Arg),1,1,,,,0
-1606256100,Bahia (Bra),Union de Santa Fe (Arg),1,0,,,,0
-1606264200,Velez Sarsfield (Arg),Dep. Cali (Col),2,0,,,,0
-1606342500,Bolivar (Bol),Lanus (Arg),2,1,,,,0
-1606350600,Fenix (Uru),Independiente (Arg),1,4,,,,0
-1606350600,Coquimbo (Chi),Sport Huancayo (Per),0,0,,,,0
-1606428900,River Plate (Uru),U. Catolica (Chi),1,2,,,,0
-1606437000,Junior (Col),Union La Calera (Chi),2,1,,,,0
-1606437000,Defensa y Justicia (Arg),Vasco (Bra),1,1,,,,0
-1606860900,Union de Santa Fe (Arg),Bahia (Bra),0,0,,,,0
-1606869000,Dep. Cali (Col),Velez Sarsfield (Arg),1,5,,,,0
-1606947300,Lanus (Arg),Bolivar (Bol),6,2,,,,0
-1606955400,Sport Huancayo (Per),Coquimbo (Chi),0,2,,,,0
-1606955400,Independiente (Arg),Fenix (Uru),1,0,,,,0
-1607033700,Union La Calera (Chi),Junior (Col),2,1,Pen,2,2,0
-1607041800,Vasco (Bra),Defensa y Justicia (Arg),0,1,,,,0
-1607041800,U. Catolica (Chi),River Plate (Uru),0,1,,,,0
-1607473800,Velez Sarsfield (Arg),U. Catolica (Chi),1,2,,,,0
-1607552100,Bahia (Bra),Defensa y Justicia (Arg),2,3,,,,0
-1607560200,Junior (Col),Coquimbo (Chi),1,2,,,,0
-1607638500,Lanus (Arg),Independiente (Arg),0,0,,,,0
-1608078600,U. Catolica (Chi),Velez Sarsfield (Arg),1,3,,,,0
-1608156900,Defensa y Justicia (Arg),Bahia (Bra),1,0,,,,0
-1608165000,Coquimbo (Chi),Junior (Col),0,1,,,,0
-1608243300,Independiente (Arg),Lanus (Arg),1,3,,,,0
-1578357000,Velez Sarsfield (Arg),Lanus (Arg),0,1,,,,0
-1578867300,Coquimbo (Chi),Defensa y Justicia (Arg),0,0,,,,0
-1578961800,Lanus (Arg),Velez Sarsfield (Arg),3,0,,,,0
-1579217400,Defensa y Justicia (Arg),Coquimbo (Chi),4,2,,,,0
-1579809600,Lanus (Arg),Defensa y Justicia (Arg),0,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1580854500,Nacional Potosi (Bol),FBC Melgar (Per),ht99hStl,AccabXmc,0,2,,,,0
+1580854500,Coquimbo (Chi),Aragua (Ven),hMng3olL,W2EojdRP,3,0,,,,0
+1580862600,Velez Sarsfield (Arg),Aucas (Ecu),YF2zL4v9,Wz8yaA21,1,0,,,,0
+1580862600,Fluminense (Bra),Union La Calera (Chi),WUfDDYk1,WYtEUtB2,1,1,,,,0
+1580940900,Mineros (Ven),Sp. Luqueno (Par),dUNUO9mq,4GUthy9Q,2,3,,,,0
+1580940900,Fenix (Uru),EL Nacional (Ecu),tWWbnBbh,YqMYOJSQ,1,0,,,,0
+1580949000,Vasco (Bra),Oriente Petrolero (Bol),bam8o1Nj,dAJb3Ws0,1,0,,,,0
+1580949000,Atl. Nacional (Col),Huracan (Arg),tnwDCzLD,xdPGGCcs,3,0,,,,0
+1581027300,Blooming (Bol),Emelec (Ecu),6u7MmjSt,ru7B2xn1,0,3,,,,0
+1581035400,Union de Santa Fe (Arg),Atletico-MG (Bra),OS9FbeGg,pCk2vaSD,3,0,,,,0
+1581035400,Millonarios (Col),Always Ready (Bol),6kduDy6P,Ycu4vmIa,2,0,,,,0
+1581459300,Grau (Per),River Plate (Uru),IaKc0OzC,0jIiQC1Q,1,2,,,,0
+1581459300,Argentinos Jrs (Arg),Sport Huancayo (Per),ALgHCh57,6ayjGGhJ,1,1,,,,0
+1581467400,Sol de America (Par),Goias (Bra),UJLaZhBP,G2OQQubE,1,0,,,,0
+1581467400,Dep. Cali (Col),River Plate (Par),IHPA1GDt,vu4jMcqa,2,1,,,,0
+1581545700,Lanus (Arg),U. Catolica (Ecu),xQnxBzcF,Kt2BHCfq,3,0,,,,0
+1581545700,Huachipato (Chi),Dep. Pasto (Col),xIMey4eD,hjn5AE5Q,1,0,,,,0
+1581553800,Llaneros (Ven),Liverpool M. (Uru),hCFsixCJ,ziBT4qwJ,0,2,,,,0
+1581553800,Bahia (Bra),Nacional Asuncion (Par),dKUmd286,6PG8meHs,3,0,,,,0
+1581632100,Zamora (Ven),Plaza Colonia (Uru),0A6WRcTt,SARVQmpJ,1,0,,,,0
+1581640200,Independiente (Arg),Fortaleza (Bra),ALgHCh57,8r8ETTNO,1,0,,,,0
+1581640200,Cusco (Per),A. Italiano (Chi),06OeOzI0,6kEqxN0C,2,0,,,,0
+1582064100,Union La Calera (Chi),Fluminense (Bra),WYtEUtB2,WUfDDYk1,0,0,,,,0
+1582064100,Aragua (Ven),Coquimbo (Chi),W2EojdRP,hMng3olL,1,0,,,,0
+1582072200,FBC Melgar (Per),Nacional Potosi (Bol),AccabXmc,ht99hStl,0,2,Pen,1,2,0
+1582072200,Aucas (Ecu),Velez Sarsfield (Arg),Wz8yaA21,YF2zL4v9,2,1,,,,0
+1582150500,Sp. Luqueno (Par),Mineros (Ven),4GUthy9Q,dUNUO9mq,2,2,,,,0
+1582150500,Huracan (Arg),Atl. Nacional (Col),xdPGGCcs,tnwDCzLD,1,1,,,,0
+1582158600,Oriente Petrolero (Bol),Vasco (Bra),dAJb3Ws0,bam8o1Nj,0,0,,,,0
+1582236900,Emelec (Ecu),Blooming (Bol),ru7B2xn1,6u7MmjSt,2,0,,,,0
+1582236900,Always Ready (Bol),Millonarios (Col),Ycu4vmIa,6kduDy6P,1,0,,,,0
+1582245000,EL Nacional (Ecu),Fenix (Uru),YqMYOJSQ,tWWbnBbh,2,2,,,,0
+1582245000,Atletico-MG (Bra),Union de Santa Fe (Arg),pCk2vaSD,OS9FbeGg,2,0,,,,0
+1582668900,River Plate (Uru),Grau (Per),0jIiQC1Q,IaKc0OzC,1,0,,,,0
+1582677000,Sport Huancayo (Per),Argentinos Jrs (Arg),6ayjGGhJ,ALgHCh57,0,0,,,,0
+1582677000,River Plate (Par),Dep. Cali (Col),vu4jMcqa,IHPA1GDt,1,3,,,,0
+1582677000,Goias (Bra),Sol de America (Par),G2OQQubE,UJLaZhBP,0,1,,,,0
+1582755300,Nacional Asuncion (Par),Bahia (Bra),6PG8meHs,dKUmd286,1,3,,,,0
+1582755300,Liverpool M. (Uru),Llaneros (Ven),ziBT4qwJ,hCFsixCJ,5,0,,,,0
+1582763400,U. Catolica (Ecu),Lanus (Arg),Kt2BHCfq,xQnxBzcF,2,0,,,,0
+1582763400,Dep. Pasto (Col),Huachipato (Chi),hjn5AE5Q,xIMey4eD,0,1,,,,0
+1582841700,Plaza Colonia (Uru),Zamora (Ven),SARVQmpJ,0A6WRcTt,3,0,,,,0
+1582849800,Fortaleza (Bra),Independiente (Arg),8r8ETTNO,ALgHCh57,2,1,,,,0
+1582849800,A. Italiano (Chi),Cusco (Per),6kEqxN0C,06OeOzI0,3,0,,,,0
+1603836900,Sport Huancayo (Per),Liverpool M. (Uru),6ayjGGhJ,ziBT4qwJ,1,1,,,,0
+1603836900,A. Italiano (Chi),Bolivar (Bol),6kEqxN0C,KxxHBfzK,2,1,,,,0
+1603845000,Union La Calera (Chi),Deportes Tolima (Col),WYtEUtB2,bXlV9lJE,0,0,,,,0
+1603923300,Sp. Luqueno (Par),Defensa y Justicia (Arg),4GUthy9Q,QcmznTSR,1,2,,,,0
+1603923300,Lanus (Arg),Sao Paulo (Bra),xQnxBzcF,AkTesf41,3,2,,,,0
+1603923300,Fenix (Uru),Huachipato (Chi),tWWbnBbh,xIMey4eD,3,1,,,,0
+1603923300,Atl. Nacional (Col),River Plate (Uru),tnwDCzLD,0jIiQC1Q,1,1,,,,0
+1603931400,Velez Sarsfield (Arg),Penarol (Uru),YF2zL4v9,nqhLBCKD,0,0,,,,0
+1603931400,Vasco (Bra),Caracas (Ven),bam8o1Nj,0nhENufQ,1,0,,,,0
+1603931400,Millonarios (Col),Dep. Cali (Col),6kduDy6P,IHPA1GDt,1,2,,,,0
+1604009700,Union de Santa Fe (Arg),Emelec (Ecu),OS9FbeGg,ru7B2xn1,0,1,,,,0
+1604009700,Sol de America (Par),U. Catolica (Chi),UJLaZhBP,nRWWeW7h,0,0,,,,0
+1604009700,Coquimbo (Chi),Estudiantes Merida (Ven),hMng3olL,Kt2RJAvf,3,0,,,,0
+1604017800,Plaza Colonia (Uru),Junior (Col),SARVQmpJ,G2820wU0,0,1,,,,0
+1604017800,Independiente (Arg),Atl. Tucuman (Arg),ALgHCh57,QitRwNMT,1,0,,,,0
+1604017800,FBC Melgar (Per),Bahia (Bra),AccabXmc,dKUmd286,1,0,,,,0
+1604441700,Liverpool M. (Uru),Sport Huancayo (Per),ziBT4qwJ,6ayjGGhJ,1,2,,,,0
+1604441700,Bolivar (Bol),A. Italiano (Chi),KxxHBfzK,6kEqxN0C,3,0,,,,0
+1604449800,Deportes Tolima (Col),Union La Calera (Chi),bXlV9lJE,WYtEUtB2,1,1,,,,0
+1604528100,Sao Paulo (Bra),Lanus (Arg),AkTesf41,xQnxBzcF,4,3,,,,0
+1604528100,River Plate (Uru),Atl. Nacional (Col),0jIiQC1Q,tnwDCzLD,3,1,,,,0
+1604528100,Huachipato (Chi),Fenix (Uru),xIMey4eD,tWWbnBbh,1,1,,,,0
+1604528100,Defensa y Justicia (Arg),Sp. Luqueno (Par),QcmznTSR,4GUthy9Q,1,1,,,,0
+1604536200,Penarol (Uru),Velez Sarsfield (Arg),nqhLBCKD,YF2zL4v9,1,1,,,,0
+1604536200,Dep. Cali (Col),Millonarios (Col),IHPA1GDt,6kduDy6P,1,2,Pen,2,2,0
+1604536200,Caracas (Ven),Vasco (Bra),0nhENufQ,bam8o1Nj,0,0,,,,0
+1604614500,Estudiantes Merida (Ven),Coquimbo (Chi),Kt2RJAvf,hMng3olL,0,2,,,,0
+1604614500,Emelec (Ecu),Union de Santa Fe (Arg),ru7B2xn1,OS9FbeGg,1,2,,,,0
+1604622600,U. Catolica (Chi),Sol de America (Par),nRWWeW7h,UJLaZhBP,2,1,,,,0
+1604622600,Junior (Col),Plaza Colonia (Uru),G2820wU0,SARVQmpJ,0,0,,,,0
+1604622600,Bahia (Bra),FBC Melgar (Per),dKUmd286,AccabXmc,4,0,,,,0
+1604622600,Atl. Tucuman (Arg),Independiente (Arg),QitRwNMT,ALgHCh57,1,1,,,,0
+1606256100,Bahia (Bra),Union de Santa Fe (Arg),dKUmd286,OS9FbeGg,1,0,,,,0
+1606264200,Velez Sarsfield (Arg),Dep. Cali (Col),YF2zL4v9,IHPA1GDt,2,0,,,,0
+1606342500,Bolivar (Bol),Lanus (Arg),KxxHBfzK,xQnxBzcF,2,1,,,,0
+1606350600,Fenix (Uru),Independiente (Arg),tWWbnBbh,ALgHCh57,1,4,,,,0
+1606350600,Coquimbo (Chi),Sport Huancayo (Per),hMng3olL,6ayjGGhJ,0,0,,,,0
+1606428900,River Plate (Uru),U. Catolica (Chi),0jIiQC1Q,nRWWeW7h,1,2,,,,0
+1606437000,Junior (Col),Union La Calera (Chi),G2820wU0,WYtEUtB2,2,1,,,,0
+1606437000,Defensa y Justicia (Arg),Vasco (Bra),QcmznTSR,bam8o1Nj,1,1,,,,0
+1606860900,Union de Santa Fe (Arg),Bahia (Bra),OS9FbeGg,dKUmd286,0,0,,,,0
+1606869000,Dep. Cali (Col),Velez Sarsfield (Arg),IHPA1GDt,YF2zL4v9,1,5,,,,0
+1606947300,Lanus (Arg),Bolivar (Bol),xQnxBzcF,KxxHBfzK,6,2,,,,0
+1606955400,Sport Huancayo (Per),Coquimbo (Chi),6ayjGGhJ,hMng3olL,0,2,,,,0
+1606955400,Independiente (Arg),Fenix (Uru),ALgHCh57,tWWbnBbh,1,0,,,,0
+1607033700,Union La Calera (Chi),Junior (Col),WYtEUtB2,G2820wU0,2,1,Pen,2,2,0
+1607041800,Vasco (Bra),Defensa y Justicia (Arg),bam8o1Nj,QcmznTSR,0,1,,,,0
+1607041800,U. Catolica (Chi),River Plate (Uru),nRWWeW7h,0jIiQC1Q,0,1,,,,0
+1607473800,Velez Sarsfield (Arg),U. Catolica (Chi),YF2zL4v9,nRWWeW7h,1,2,,,,0
+1607552100,Bahia (Bra),Defensa y Justicia (Arg),dKUmd286,QcmznTSR,2,3,,,,0
+1607560200,Junior (Col),Coquimbo (Chi),G2820wU0,hMng3olL,1,2,,,,0
+1607638500,Lanus (Arg),Independiente (Arg),xQnxBzcF,ALgHCh57,0,0,,,,0
+1608078600,U. Catolica (Chi),Velez Sarsfield (Arg),nRWWeW7h,YF2zL4v9,1,3,,,,0
+1608156900,Defensa y Justicia (Arg),Bahia (Bra),QcmznTSR,dKUmd286,1,0,,,,0
+1608165000,Coquimbo (Chi),Junior (Col),hMng3olL,G2820wU0,0,1,,,,0
+1608243300,Independiente (Arg),Lanus (Arg),ALgHCh57,xQnxBzcF,1,3,,,,0
+1578357000,Velez Sarsfield (Arg),Lanus (Arg),YF2zL4v9,xQnxBzcF,0,1,,,,0
+1578867300,Coquimbo (Chi),Defensa y Justicia (Arg),hMng3olL,QcmznTSR,0,0,,,,0
+1578961800,Lanus (Arg),Velez Sarsfield (Arg),xQnxBzcF,YF2zL4v9,3,0,,,,0
+1579217400,Defensa y Justicia (Arg),Coquimbo (Chi),QcmznTSR,hMng3olL,4,2,,,,0
+1579809600,Lanus (Arg),Defensa y Justicia (Arg),xQnxBzcF,QcmznTSR,0,3,,,,0

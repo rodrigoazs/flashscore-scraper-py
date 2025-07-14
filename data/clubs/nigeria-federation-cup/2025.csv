@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1743580800,Kwara,Gombe,1,0,,,,0
-1743584400,Wikki Tourist,Rovers FC,1,0,,,,0
-1743584400,Nasarawa,Ijele,5,0,,,,0
-1743595200,Osun,E-World United,1,1,Pen,2,1,0
-1743595200,Mighty Jets,Akwa United,0,2,,,,0
-1743598800,Beyond Limits FC,Rivers United,2,1,,,,0
-1743606000,Warri Wolves,Shooting,-,-,WO,,,0
-1743606000,Sunshine Stars,Plateau United,0,1,,,,0
-1743606000,Lobi Stars,Solution,1,2,,,,0
-1743606000,Ikorodu City,Crown FC,3,1,,,,0
-1743606000,Heartland,Rangers Int'l,1,1,Pen,1,2,0
-1743606000,El Kanemi,Enyimba,0,1,,,,0
-1743606000,Bendel,Adamawa Utd,3,0,,,,0
-1743606000,Bayelsa United,Basira,2,0,,,,0
-1743606000,Abakaliki,Katsina Utd,0,0,Pen,1,0,0
-1743692400,Inter Lagos,Danburan,-,-,WO,,,0
-1744794000,Solution,Kwara,0,3,,,,0
-1744794000,Nasarawa,Bayelsa United,1,1,Pen,2,1,0
-1744804800,Warri Wolves,Wikki Tourist,1,1,Pen,1,2,0
-1744804800,Plateau United,Osun,2,1,,,,0
-1744806600,Ikorodu City,Beyond Limits FC,2,0,,,,0
-1744815600,Enyimba,Abakaliki,0,2,,,,0
-1744815600,Bendel,Rangers Int'l,0,1,,,,0
-1744815600,Akwa United,Inter Lagos,1,0,,,,0
-1746284400,Wikki Tourist,Ikorodu City,0,1,,,,0
-1746284400,Plateau United,Rangers Int'l,0,1,,,,0
-1746284400,Akwa United,Kwara,2,2,Pen,2,3,0
-1746284400,Abakaliki,Nasarawa,1,1,Pen,2,1,0
-1747836000,Abakaliki,Ikorodu City,0,0,Pen,1,0,0
-1747839600,Kwara,Rangers Int'l,1,0,,,,0
-1751122800,Abakaliki,Kwara,0,0,Pen,0,1,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1743580800,Kwara,Gombe,tUg7DWkH,tUg7DWkH,1,0,,,,0
+1743584400,Wikki Tourist,Rovers FC,G2zabaGS,McdJXDyh,1,0,,,,0
+1743584400,Nasarawa,Ijele,jLtZzIk3,YPkt5PNo,5,0,,,,0
+1743595200,Osun,E-World United,ldn82KQn,zF3PESOo,1,1,Pen,2,1,0
+1743595200,Mighty Jets,Akwa United,hdDswQDJ,2we3ECzB,0,2,,,,0
+1743598800,Beyond Limits FC,Rivers United,rPfBXfBH,b9ILLhyC,2,1,,,,0
+1743606000,Warri Wolves,Shooting,WAE6XaLc,vafZSxgs,-,-,WO,,,0
+1743606000,Sunshine Stars,Plateau United,KrkUCdS2,jZRvn4Ng,0,1,,,,0
+1743606000,Lobi Stars,Solution,tUg7DWkH,zwK9stAh,1,2,,,,0
+1743606000,Ikorodu City,Crown FC,dKY2CJMr,Uw8p6Ok8,3,1,,,,0
+1743606000,Heartland,Rangers Int'l,tUg7DWkH,2we3ECzB,1,1,Pen,1,2,0
+1743606000,El Kanemi,Enyimba,MqcMMHCH,OjrXHMiH,0,1,,,,0
+1743606000,Bendel,Adamawa Utd,0ASSpGr9,S8CDq6K7,3,0,,,,0
+1743606000,Bayelsa United,Basira,0tRQIga2,MFu2NvhC,2,0,,,,0
+1743606000,Abakaliki,Katsina Utd,QTgTC1Ii,jZRvn4Ng,0,0,Pen,1,0,0
+1743692400,Inter Lagos,Danburan,A59BTFZI,CIwyMDIm,-,-,WO,,,0
+1744794000,Solution,Kwara,zwK9stAh,tUg7DWkH,0,3,,,,0
+1744794000,Nasarawa,Bayelsa United,jLtZzIk3,0tRQIga2,1,1,Pen,2,1,0
+1744804800,Warri Wolves,Wikki Tourist,WAE6XaLc,G2zabaGS,1,1,Pen,1,2,0
+1744804800,Plateau United,Osun,jZRvn4Ng,ldn82KQn,2,1,,,,0
+1744806600,Ikorodu City,Beyond Limits FC,dKY2CJMr,rPfBXfBH,2,0,,,,0
+1744815600,Enyimba,Abakaliki,OjrXHMiH,QTgTC1Ii,0,2,,,,0
+1744815600,Bendel,Rangers Int'l,0ASSpGr9,2we3ECzB,0,1,,,,0
+1744815600,Akwa United,Inter Lagos,2we3ECzB,A59BTFZI,1,0,,,,0
+1746284400,Wikki Tourist,Ikorodu City,G2zabaGS,dKY2CJMr,0,1,,,,0
+1746284400,Plateau United,Rangers Int'l,jZRvn4Ng,2we3ECzB,0,1,,,,0
+1746284400,Akwa United,Kwara,2we3ECzB,tUg7DWkH,2,2,Pen,2,3,0
+1746284400,Abakaliki,Nasarawa,QTgTC1Ii,jLtZzIk3,1,1,Pen,2,1,0
+1747836000,Abakaliki,Ikorodu City,QTgTC1Ii,dKY2CJMr,0,0,Pen,1,0,0
+1747839600,Kwara,Rangers Int'l,tUg7DWkH,2we3ECzB,1,0,,,,0
+1751122800,Abakaliki,Kwara,QTgTC1Ii,tUg7DWkH,0,0,Pen,0,1,1

@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-996012000,SalPa,Inter Turku,1,3,,,,0
-996012000,Rovaniemi,Tampere Utd,1,2,,,,0
-996012000,Pyrkiva Turku,MyPa,0,4,,,,0
-996098400,Vantaa,Jokerit FC,0,2,,,,0
-996098400,TPS,VPS,2,1,,,,0
-996098400,Mikkeli,Lahti,0,5,,,,0
-996098400,HJK,Atlantis,1,1,AET,1,2,0
-997912800,Rakuunat,Haka,0,2,,,,0
-1000850400,Lahti,Atlantis,0,2,,,,0
-1000850400,Jokerit FC,MyPa,1,2,,,,0
-1000850400,Inter Turku,Tampere Utd,0,1,,,,0
-1003010400,Haka,TPS,4,1,,,,0
-1004632200,Tampere Utd,MyPa,4,4,AET,6,4,0
-1004632200,Haka,Atlantis,1,2,,,,0
-1005580800,Atlantis,Tampere Utd,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+996012000,SalPa,Inter Turku,dS4bSWIh,lGvMSKuF,1,3,,,,0
+996012000,Rovaniemi,Tampere Utd,zVgW5cY1,IFb9tqla,1,2,,,,0
+996012000,Pyrkiva Turku,MyPa,CAgSzMko,hGuhahGg,0,4,,,,0
+996098400,Vantaa,Jokerit FC,Ol7y6MS9,MXxDlJVc,0,2,,,,0
+996098400,TPS,VPS,GlTeTYJC,WYtEUtB2,2,1,,,,0
+996098400,Mikkeli,Lahti,dObvuURo,tGlVXFkM,0,5,,,,0
+996098400,HJK,Atlantis,xO7wlFSD,fc1riUtG,1,1,AET,1,2,0
+997912800,Rakuunat,Haka,trNUGL9k,KtjRAU38,0,2,,,,0
+1000850400,Lahti,Atlantis,tGlVXFkM,fc1riUtG,0,2,,,,0
+1000850400,Jokerit FC,MyPa,MXxDlJVc,hGuhahGg,1,2,,,,0
+1000850400,Inter Turku,Tampere Utd,lGvMSKuF,IFb9tqla,0,1,,,,0
+1003010400,Haka,TPS,KtjRAU38,GlTeTYJC,4,1,,,,0
+1004632200,Tampere Utd,MyPa,IFb9tqla,hGuhahGg,4,4,AET,6,4,0
+1004632200,Haka,Atlantis,KtjRAU38,fc1riUtG,1,2,,,,0
+1005580800,Atlantis,Tampere Utd,fc1riUtG,IFb9tqla,1,0,,,,0

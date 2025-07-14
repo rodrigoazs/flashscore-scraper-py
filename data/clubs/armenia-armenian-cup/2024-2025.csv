@@ -1,26 +1,26 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1724157000,Bentonit,Lernayin Artsakh,0,7,,,,0
-1724157000,Araks Ararat,FC Gandzasar,0,2,,,,0
-1724243400,Andranik,Van,0,3,,,,0
-1724252400,BKMA,Cilicia,6,1,,,,0
-1724329800,Nikarm,Syunik,0,11,,,,0
-1724329800,Mika Jerevan,Vayk,2,1,,,,0
-1727780400,Mika Jerevan,Lernayin Artsakh,0,0,AET,0,2,0
-1727794800,Shirak Gyumri,Van,0,3,,,,0
-1727874000,West Armenia,Syunik,2,1,,,,0
-1727881200,Ararat Yerevan,FC Gandzasar,1,1,Pen,1,2,0
-1727964000,BKMA,Urartu,0,4,,,,0
-1739966400,Noah,Alashkert,2,0,,,,0
-1741176000,Urartu,Ararat-Armenia,0,1,,,,0
-1741176000,Pyunik Yerevan,Lernayin Artsakh,7,2,,,,0
-1741258800,Van,West Armenia,3,0,,,,0
-1741269600,FC Gandzasar,Noah,0,3,,,,0
-1743508800,Lernayin Artsakh,Pyunik Yerevan,2,5,,,,0
-1743519600,Ararat-Armenia,Urartu,2,1,,,,0
-1743595200,West Armenia,Van,2,3,,,,0
-1743602400,Noah,FC Gandzasar,4,0,,,,0
-1744727400,Pyunik Yerevan,Ararat-Armenia,0,2,,,,0
-1744813800,Noah,Van,2,0,,,,0
-1745937000,Ararat-Armenia,Pyunik Yerevan,0,2,Pen,1,2,0
-1746010800,Van,Noah,1,0,,,,0
-1747148400,Noah,Ararat-Armenia,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1724157000,Bentonit,Lernayin Artsakh,WtXhFNKr,MFZ0SgDq,0,7,,,,0
+1724157000,Araks Ararat,FC Gandzasar,AXT6JNnB,bRaFgJQI,0,2,,,,0
+1724243400,Andranik,Van,8p7ehSTl,bD2dwPED,0,3,,,,0
+1724252400,BKMA,Cilicia,fylJcjMq,6cMs3Wdo,6,1,,,,0
+1724329800,Nikarm,Syunik,dMHT6CQi,ji1LkT8q,0,11,,,,0
+1724329800,Mika Jerevan,Vayk,dvLIfKqM,CrZL38Sa,2,1,,,,0
+1727780400,Mika Jerevan,Lernayin Artsakh,dvLIfKqM,MFZ0SgDq,0,0,AET,0,2,0
+1727794800,Shirak Gyumri,Van,2ajBCmYJ,bD2dwPED,0,3,,,,0
+1727874000,West Armenia,Syunik,QF2ujxY6,ji1LkT8q,2,1,,,,0
+1727881200,Ararat Yerevan,FC Gandzasar,dUsGVqCN,bRaFgJQI,1,1,Pen,1,2,0
+1727964000,BKMA,Urartu,fylJcjMq,bi5W0N3n,0,4,,,,0
+1739966400,Noah,Alashkert,2mU8GaB3,Y1ZCBtLt,2,0,,,,0
+1741176000,Urartu,Ararat-Armenia,bi5W0N3n,6FB0mgsP,0,1,,,,0
+1741176000,Pyunik Yerevan,Lernayin Artsakh,zkO8QgRo,MFZ0SgDq,7,2,,,,0
+1741258800,Van,West Armenia,bD2dwPED,QF2ujxY6,3,0,,,,0
+1741269600,FC Gandzasar,Noah,bRaFgJQI,2mU8GaB3,0,3,,,,0
+1743508800,Lernayin Artsakh,Pyunik Yerevan,MFZ0SgDq,zkO8QgRo,2,5,,,,0
+1743519600,Ararat-Armenia,Urartu,6FB0mgsP,bi5W0N3n,2,1,,,,0
+1743595200,West Armenia,Van,QF2ujxY6,bD2dwPED,2,3,,,,0
+1743602400,Noah,FC Gandzasar,2mU8GaB3,bRaFgJQI,4,0,,,,0
+1744727400,Pyunik Yerevan,Ararat-Armenia,zkO8QgRo,6FB0mgsP,0,2,,,,0
+1744813800,Noah,Van,2mU8GaB3,bD2dwPED,2,0,,,,0
+1745937000,Ararat-Armenia,Pyunik Yerevan,6FB0mgsP,zkO8QgRo,0,2,Pen,1,2,0
+1746010800,Van,Noah,bD2dwPED,2mU8GaB3,1,0,,,,0
+1747148400,Noah,Ararat-Armenia,2mU8GaB3,6FB0mgsP,3,1,,,,0

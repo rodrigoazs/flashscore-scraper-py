@@ -1,60 +1,60 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-400874400,Dundalk,Liverpool,1,4,,,,0
-400941000,Aston Villa,Besiktas,3,1,,,,0
-400948200,KF Tirana,Linfield,1,0,,,,0
-400949100,Hibernians,Widzew Lodz,1,4,,,,0
-400955400,Vikingur Reykjavik,Real Sociedad,0,1,,,,0
-400957200,Hvidovre IF,Juventus,1,4,,,,0
-400957200,D. Zagreb,Sporting CP,1,0,,,,0
-400959000,Din. Bucuresti,Dukla Prague,2,0,,,,0
-400959000,Celtic,Ajax,2,2,,,,0
-400959000,Avenir Beggen,SK Rapid,0,5,,,,0
-400960800,St. Liege,Gyor,5,0,,,,0
-400960800,Grasshoppers,Dyn. Kyiv,0,1,,,,0
-400960800,BFC Dynamo,Hamburger SV,1,1,,,,0
-400962600,Omonia,HJK,2,0,,,,0
-400962600,Monaco,CSKA Sofia,0,0,,,,0
-400964400,Olympiacos Piraeus,Oster,2,0,,,,0
-402085800,Liverpool,Dundalk,1,0,,,,0
-402154200,Besiktas,Aston Villa,0,0,,,,0
-402163200,Gyor,St. Liege,3,0,,,,0
-402164100,Widzew Lodz,Hibernians,3,1,,,,0
-402165000,CSKA Sofia,Monaco,0,0,AET,2,0,0
-402166800,Dyn. Kyiv,Grasshoppers,3,0,,,,0
-402170400,SK Rapid,Avenir Beggen,8,0,,,,0
-402170400,HJK,Omonia,3,0,,,,0
-402172200,Oster,Olympiacos Piraeus,1,0,,,,0
-402172200,Linfield,KF Tirana,2,1,,,,0
-402174000,Real Sociedad,Vikingur Reykjavik,3,2,,,,0
-402174000,Hamburger SV,BFC Dynamo,2,0,,,,0
-402174000,Dukla Prague,Din. Bucuresti,2,0,AET,2,1,0
-402174900,Ajax,Celtic,1,2,,,,0
-402175800,Juventus,Hvidovre IF,3,3,,,,0
-402179400,Sporting CP,D. Zagreb,3,0,,,,0
-403978500,Din. Bucuresti,Aston Villa,0,2,,,,0
-403978500,CSKA Sofia,Sporting CP,2,2,,,,0
-403984800,HJK,Liverpool,1,0,,,,0
-403986600,SK Rapid,Widzew Lodz,2,1,,,,0
-403988400,St. Liege,Juventus,1,1,,,,0
-403988400,Real Sociedad,Celtic,2,0,,,,0
-403988400,Hamburger SV,Olympiacos Piraeus,1,0,,,,0
-405187200,Widzew Lodz,SK Rapid,5,3,,,,0
-405194400,Olympiacos Piraeus,Hamburger SV,0,4,,,,0
-405196200,Celtic,Real Sociedad,2,1,,,,0
-405196200,Aston Villa,Din. Bucuresti,4,2,,,,0
-405199800,Liverpool,HJK,5,0,,,,0
-405199800,Juventus,St. Liege,2,0,,,,0
-405203400,Sporting CP,CSKA Sofia,0,0,,,,0
-415468800,Widzew Lodz,Liverpool,2,0,,,,0
-415476000,Dyn. Kyiv,Hamburger SV,0,3,,,,0
-415477800,Aston Villa,Juventus,1,2,,,,0
-415485000,Sporting CP,Real Sociedad,1,0,,,,0
-416687400,Liverpool,Widzew Lodz,3,2,,,,0
-416689200,Real Sociedad,Sporting CP,2,0,,,,0
-416689200,Hamburger SV,Dyn. Kyiv,1,2,,,,0
-416691000,Juventus,Aston Villa,3,1,,,,0
-418501800,Real Sociedad,Hamburger SV,1,1,,,,0
-418501800,Juventus,Widzew Lodz,2,0,,,,0
-419709600,Widzew Lodz,Juventus,2,2,,,,0
-419709600,Hamburger SV,Real Sociedad,2,1,,,,0
-422738100,Hamburger SV,Juventus,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+400874400,Dundalk,Liverpool,4zJqyaPk,KCp4zq5F,1,4,,,,0
+400941000,Aston Villa,Besiktas,jwz95gs0,UcWWlFia,3,1,,,,0
+400948200,KF Tirana,Linfield,4n770DLk,GUrKqyjt,1,0,,,,0
+400949100,Hibernians,Widzew Lodz,WrjrBuU2,UTb1DTGS,1,4,,,,0
+400955400,Vikingur Reykjavik,Real Sociedad,ATBUwpjA,vJb36ZBF,0,1,,,,0
+400957200,Hvidovre IF,Juventus,UusW87Jh,EXzXDYgS,1,4,,,,0
+400957200,D. Zagreb,Sporting CP,GU4hlIMk,Ys9o4HYr,1,0,,,,0
+400959000,Din. Bucuresti,Dukla Prague,EyedO184,jFFA0URI,2,0,,,,0
+400959000,Celtic,Ajax,xGFNNID8,bZZPiwAI,2,2,,,,0
+400959000,Avenir Beggen,SK Rapid,4jwwMQjF,QNSj0PU1,0,5,,,,0
+400960800,St. Liege,Gyor,tjZYJCwg,E54OB8CP,5,0,,,,0
+400960800,Grasshoppers,Dyn. Kyiv,WdBesfPo,M1Cjh44S,0,1,,,,0
+400960800,BFC Dynamo,Hamburger SV,KlQEi9GE,86lnAaq9,1,1,,,,0
+400962600,Omonia,HJK,8GeT5Kmk,xO7wlFSD,2,0,,,,0
+400962600,Monaco,CSKA Sofia,44KQTmnj,fRtHs98a,0,0,,,,0
+400964400,Olympiacos Piraeus,Oster,lzmp9FUJ,OhPYORgk,2,0,,,,0
+402085800,Liverpool,Dundalk,KCp4zq5F,4zJqyaPk,1,0,,,,0
+402154200,Besiktas,Aston Villa,UcWWlFia,jwz95gs0,0,0,,,,0
+402163200,Gyor,St. Liege,E54OB8CP,tjZYJCwg,3,0,,,,0
+402164100,Widzew Lodz,Hibernians,UTb1DTGS,WrjrBuU2,3,1,,,,0
+402165000,CSKA Sofia,Monaco,fRtHs98a,44KQTmnj,0,0,AET,2,0,0
+402166800,Dyn. Kyiv,Grasshoppers,M1Cjh44S,WdBesfPo,3,0,,,,0
+402170400,SK Rapid,Avenir Beggen,QNSj0PU1,4jwwMQjF,8,0,,,,0
+402170400,HJK,Omonia,xO7wlFSD,8GeT5Kmk,3,0,,,,0
+402172200,Oster,Olympiacos Piraeus,OhPYORgk,lzmp9FUJ,1,0,,,,0
+402172200,Linfield,KF Tirana,GUrKqyjt,4n770DLk,2,1,,,,0
+402174000,Real Sociedad,Vikingur Reykjavik,vJb36ZBF,ATBUwpjA,3,2,,,,0
+402174000,Hamburger SV,BFC Dynamo,86lnAaq9,KlQEi9GE,2,0,,,,0
+402174000,Dukla Prague,Din. Bucuresti,jFFA0URI,EyedO184,2,0,AET,2,1,0
+402174900,Ajax,Celtic,bZZPiwAI,xGFNNID8,1,2,,,,0
+402175800,Juventus,Hvidovre IF,EXzXDYgS,UusW87Jh,3,3,,,,0
+402179400,Sporting CP,D. Zagreb,Ys9o4HYr,GU4hlIMk,3,0,,,,0
+403978500,Din. Bucuresti,Aston Villa,EyedO184,jwz95gs0,0,2,,,,0
+403978500,CSKA Sofia,Sporting CP,fRtHs98a,Ys9o4HYr,2,2,,,,0
+403984800,HJK,Liverpool,xO7wlFSD,KCp4zq5F,1,0,,,,0
+403986600,SK Rapid,Widzew Lodz,QNSj0PU1,UTb1DTGS,2,1,,,,0
+403988400,St. Liege,Juventus,tjZYJCwg,EXzXDYgS,1,1,,,,0
+403988400,Real Sociedad,Celtic,vJb36ZBF,xGFNNID8,2,0,,,,0
+403988400,Hamburger SV,Olympiacos Piraeus,86lnAaq9,lzmp9FUJ,1,0,,,,0
+405187200,Widzew Lodz,SK Rapid,UTb1DTGS,QNSj0PU1,5,3,,,,0
+405194400,Olympiacos Piraeus,Hamburger SV,lzmp9FUJ,86lnAaq9,0,4,,,,0
+405196200,Celtic,Real Sociedad,xGFNNID8,vJb36ZBF,2,1,,,,0
+405196200,Aston Villa,Din. Bucuresti,jwz95gs0,EyedO184,4,2,,,,0
+405199800,Liverpool,HJK,KCp4zq5F,xO7wlFSD,5,0,,,,0
+405199800,Juventus,St. Liege,EXzXDYgS,tjZYJCwg,2,0,,,,0
+405203400,Sporting CP,CSKA Sofia,Ys9o4HYr,fRtHs98a,0,0,,,,0
+415468800,Widzew Lodz,Liverpool,UTb1DTGS,KCp4zq5F,2,0,,,,0
+415476000,Dyn. Kyiv,Hamburger SV,M1Cjh44S,86lnAaq9,0,3,,,,0
+415477800,Aston Villa,Juventus,jwz95gs0,EXzXDYgS,1,2,,,,0
+415485000,Sporting CP,Real Sociedad,Ys9o4HYr,vJb36ZBF,1,0,,,,0
+416687400,Liverpool,Widzew Lodz,KCp4zq5F,UTb1DTGS,3,2,,,,0
+416689200,Real Sociedad,Sporting CP,vJb36ZBF,Ys9o4HYr,2,0,,,,0
+416689200,Hamburger SV,Dyn. Kyiv,86lnAaq9,M1Cjh44S,1,2,,,,0
+416691000,Juventus,Aston Villa,EXzXDYgS,jwz95gs0,3,1,,,,0
+418501800,Real Sociedad,Hamburger SV,vJb36ZBF,86lnAaq9,1,1,,,,0
+418501800,Juventus,Widzew Lodz,EXzXDYgS,UTb1DTGS,2,0,,,,0
+419709600,Widzew Lodz,Juventus,UTb1DTGS,EXzXDYgS,2,2,,,,0
+419709600,Hamburger SV,Real Sociedad,86lnAaq9,vJb36ZBF,2,1,,,,0
+422738100,Hamburger SV,Juventus,86lnAaq9,EXzXDYgS,1,0,,,,0

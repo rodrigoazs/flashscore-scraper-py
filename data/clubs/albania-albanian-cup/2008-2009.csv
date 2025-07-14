@@ -1,60 +1,60 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1225285200,Velipoja,Burreli,1,1,,,,0
-1225285200,Turbina Cerrik,Lushnja,0,0,,,,0
-1225285200,Tomori Berat,KF Elbasani,1,3,,,,0
-1225285200,Terbuni,KF Tirana,1,1,,,,0
-1225285200,Tepelena,Partizani,1,5,,,,0
-1225285200,Skrapari,Beselidhja Lezha,2,2,,,,0
-1225285200,Pogradeci,Teuta,0,1,,,,0
-1225285200,Librazhd,Vllaznia,0,4,,,,0
-1225285200,Laci,Skenderbeu,2,1,,,,0
-1225285200,Kucove,Flamurtari,1,6,,,,0
-1225285200,KF Bilisht,Bylis,0,1,,,,0
-1225285200,Kamza,Apolonia Fier,0,3,,,,0
-1225285200,Iliria Kruja,Besa Kavaje,0,2,,,,0
-1225285200,Gramozi,Shkumbini Peqin,0,2,,,,0
-1225285200,Albpetrol,Dinamo Tirana,0,1,,,,0
-1225285200,AF Luftetari,Kastrioti,1,1,,,,0
-1226406600,Vllaznia,Librazhd,4,1,,,,0
-1226406600,Teuta,Pogradeci,2,0,,,,0
-1226406600,Skenderbeu,Laci,3,1,,,,0
-1226406600,Shkumbini Peqin,Gramozi,4,0,,,,0
-1226406600,Lushnja,Turbina Cerrik,2,0,,,,0
-1226406600,KF Tirana,Terbuni,1,0,,,,0
-1226406600,KF Elbasani,Tomori Berat,5,0,,,,0
-1226406600,Kastrioti,AF Luftetari,2,0,,,,0
-1226406600,Flamurtari,Kucove,3,2,,,,0
-1226406600,Bylis,KF Bilisht,3,0,,,,0
-1226406600,Burreli,Velipoja,1,0,,,,0
-1226406600,Beselidhja Lezha,Skrapari,2,1,,,,0
-1226406600,Besa Kavaje,Iliria Kruja,4,0,,,,0
-1226406600,Apolonia Fier,Kamza,5,0,,,,0
-1228309200,Teuta,Vllaznia,1,0,,,,0
-1228309200,Skenderbeu,Dinamo Tirana,1,0,,,,0
-1228309200,Lushnja,KF Tirana,1,4,,,,0
-1228309200,Kastrioti,Besa Kavaje,1,2,,,,0
-1228309200,Bylis,Flamurtari,1,1,,,,0
-1228309200,Burreli,Partizani,0,1,,,,0
-1228309200,Beselidhja Lezha,KF Elbasani,2,2,,,,0
-1228309200,Apolonia Fier,Shkumbini Peqin,0,0,,,,0
-1229517000,Vllaznia,Teuta,3,1,,,,0
-1229517000,Shkumbini Peqin,Apolonia Fier,2,0,,,,0
-1229517000,Partizani,Burreli,5,0,,,,0
-1229517000,KF Tirana,Lushnja,5,0,,,,0
-1229517000,KF Elbasani,Beselidhja Lezha,2,0,,,,0
-1229517000,Flamurtari,Bylis,2,1,,,,0
-1229517000,Dinamo Tirana,Skenderbeu,4,0,,,,0
-1229517000,Besa Kavaje,Kastrioti,3,0,,,,0
-1235568600,Vllaznia,Dinamo Tirana,1,2,,,,0
-1235568600,Shkumbini Peqin,Besa Kavaje,1,1,,,,0
-1235568600,KF Tirana,KF Elbasani,0,0,,,,0
-1236778200,Partizani,Flamurtari,1,0,Pen,2,0,0
-1236778200,KF Elbasani,KF Tirana,0,2,,,,0
-1236778200,Dinamo Tirana,Vllaznia,0,2,Awrd,,,0
-1236778200,Besa Kavaje,Shkumbini Peqin,0,1,,,,0
-1239199200,Partizani,Flamurtari,0,0,AET,0,1,0
-1239805800,Flamurtari,Shkumbini Peqin,1,0,,,,0
-1239813000,Vllaznia,KF Tirana,0,0,,,,0
-1241013600,Shkumbini Peqin,Flamurtari,1,1,,,,0
-1241022600,KF Tirana,Vllaznia,0,0,AET,1,0,0
-1241618400,KF Tirana,Flamurtari,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1225285200,Velipoja,Burreli,UH6CkNqH,ImbcyEHR,1,1,,,,0
+1225285200,Turbina Cerrik,Lushnja,ramucSVA,Q1oNR2wr,0,0,,,,0
+1225285200,Tomori Berat,KF Elbasani,MuuFbsFh,0fr2YS50,1,3,,,,0
+1225285200,Terbuni,KF Tirana,fDaCV8qm,4n770DLk,1,1,,,,0
+1225285200,Tepelena,Partizani,rsGcBU66,4praOw3K,1,5,,,,0
+1225285200,Skrapari,Beselidhja Lezha,KlU1IASB,0fr2YS50,2,2,,,,0
+1225285200,Pogradeci,Teuta,Kpv29qKr,lriBSRvS,0,1,,,,0
+1225285200,Librazhd,Vllaznia,29ebI4SF,v5LfxjB6,0,4,,,,0
+1225285200,Laci,Skenderbeu,YRn3qYc4,Qethn5bT,2,1,,,,0
+1225285200,Kucove,Flamurtari,48lyb8G4,2wkwcX52,1,6,,,,0
+1225285200,KF Bilisht,Bylis,vqMNBv4d,UFH5j7Qh,0,1,,,,0
+1225285200,Kamza,Apolonia Fier,08sVKsph,8In8358e,0,3,,,,0
+1225285200,Iliria Kruja,Besa Kavaje,29ebI4SF,AwFmkDUE,0,2,,,,0
+1225285200,Gramozi,Shkumbini Peqin,0hNJCKlj,0x7eIv8h,0,2,,,,0
+1225285200,Albpetrol,Dinamo Tirana,0hNJCKlj,bBJMyX2M,0,1,,,,0
+1225285200,AF Luftetari,Kastrioti,29ebI4SF,0Ko5ckvj,1,1,,,,0
+1226406600,Vllaznia,Librazhd,v5LfxjB6,29ebI4SF,4,1,,,,0
+1226406600,Teuta,Pogradeci,lriBSRvS,Kpv29qKr,2,0,,,,0
+1226406600,Skenderbeu,Laci,Qethn5bT,YRn3qYc4,3,1,,,,0
+1226406600,Shkumbini Peqin,Gramozi,0x7eIv8h,0hNJCKlj,4,0,,,,0
+1226406600,Lushnja,Turbina Cerrik,Q1oNR2wr,ramucSVA,2,0,,,,0
+1226406600,KF Tirana,Terbuni,4n770DLk,fDaCV8qm,1,0,,,,0
+1226406600,KF Elbasani,Tomori Berat,0fr2YS50,MuuFbsFh,5,0,,,,0
+1226406600,Kastrioti,AF Luftetari,0Ko5ckvj,29ebI4SF,2,0,,,,0
+1226406600,Flamurtari,Kucove,2wkwcX52,48lyb8G4,3,2,,,,0
+1226406600,Bylis,KF Bilisht,UFH5j7Qh,vqMNBv4d,3,0,,,,0
+1226406600,Burreli,Velipoja,ImbcyEHR,UH6CkNqH,1,0,,,,0
+1226406600,Beselidhja Lezha,Skrapari,0fr2YS50,KlU1IASB,2,1,,,,0
+1226406600,Besa Kavaje,Iliria Kruja,AwFmkDUE,29ebI4SF,4,0,,,,0
+1226406600,Apolonia Fier,Kamza,8In8358e,08sVKsph,5,0,,,,0
+1228309200,Teuta,Vllaznia,lriBSRvS,v5LfxjB6,1,0,,,,0
+1228309200,Skenderbeu,Dinamo Tirana,Qethn5bT,bBJMyX2M,1,0,,,,0
+1228309200,Lushnja,KF Tirana,Q1oNR2wr,4n770DLk,1,4,,,,0
+1228309200,Kastrioti,Besa Kavaje,0Ko5ckvj,AwFmkDUE,1,2,,,,0
+1228309200,Bylis,Flamurtari,UFH5j7Qh,2wkwcX52,1,1,,,,0
+1228309200,Burreli,Partizani,ImbcyEHR,4praOw3K,0,1,,,,0
+1228309200,Beselidhja Lezha,KF Elbasani,0fr2YS50,0fr2YS50,2,2,,,,0
+1228309200,Apolonia Fier,Shkumbini Peqin,8In8358e,0x7eIv8h,0,0,,,,0
+1229517000,Vllaznia,Teuta,v5LfxjB6,lriBSRvS,3,1,,,,0
+1229517000,Shkumbini Peqin,Apolonia Fier,0x7eIv8h,8In8358e,2,0,,,,0
+1229517000,Partizani,Burreli,4praOw3K,ImbcyEHR,5,0,,,,0
+1229517000,KF Tirana,Lushnja,4n770DLk,Q1oNR2wr,5,0,,,,0
+1229517000,KF Elbasani,Beselidhja Lezha,0fr2YS50,0fr2YS50,2,0,,,,0
+1229517000,Flamurtari,Bylis,2wkwcX52,UFH5j7Qh,2,1,,,,0
+1229517000,Dinamo Tirana,Skenderbeu,bBJMyX2M,Qethn5bT,4,0,,,,0
+1229517000,Besa Kavaje,Kastrioti,AwFmkDUE,0Ko5ckvj,3,0,,,,0
+1235568600,Vllaznia,Dinamo Tirana,v5LfxjB6,bBJMyX2M,1,2,,,,0
+1235568600,Shkumbini Peqin,Besa Kavaje,0x7eIv8h,AwFmkDUE,1,1,,,,0
+1235568600,KF Tirana,KF Elbasani,4n770DLk,0fr2YS50,0,0,,,,0
+1236778200,Partizani,Flamurtari,4praOw3K,2wkwcX52,1,0,Pen,2,0,0
+1236778200,KF Elbasani,KF Tirana,0fr2YS50,4n770DLk,0,2,,,,0
+1236778200,Dinamo Tirana,Vllaznia,bBJMyX2M,v5LfxjB6,0,2,Awrd,,,0
+1236778200,Besa Kavaje,Shkumbini Peqin,AwFmkDUE,0x7eIv8h,0,1,,,,0
+1239199200,Partizani,Flamurtari,4praOw3K,2wkwcX52,0,0,AET,0,1,0
+1239805800,Flamurtari,Shkumbini Peqin,2wkwcX52,0x7eIv8h,1,0,,,,0
+1239813000,Vllaznia,KF Tirana,v5LfxjB6,4n770DLk,0,0,,,,0
+1241013600,Shkumbini Peqin,Flamurtari,0x7eIv8h,2wkwcX52,1,1,,,,0
+1241022600,KF Tirana,Vllaznia,4n770DLk,v5LfxjB6,0,0,AET,1,0,0
+1241618400,KF Tirana,Flamurtari,4n770DLk,2wkwcX52,1,2,,,,0

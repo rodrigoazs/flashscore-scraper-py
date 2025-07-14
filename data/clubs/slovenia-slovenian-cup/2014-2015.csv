@@ -1,34 +1,34 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1408456800,Tabor Sezana,Aluminij,2,0,,,,0
-1408543200,Tromejnik,O. Ljubljana,0,4,,,,0
-1408543200,Smarje,NK Krka,2,4,,,,0
-1408543200,Odranci,NK Kranj,0,4,,,,0
-1408543200,NK Smartno,Domzale,0,5,,,,0
-1408543200,Nafta,Sencur,0,0,AET,0,1,0
-1408543200,Lenart,Triglav,0,5,,,,0
-1408543200,Jadran Dekani,Zavrc,0,2,,,,0
-1408543200,Drava,Verzej,2,2,AET,2,3,0
-1408543200,Dob,Celje,1,6,,,,0
-1408546800,NK Adria,Radomlje,1,6,,,,0
-1408550400,Korotan,Brda,0,0,AET,2,0,0
-1410876000,NK Kranj,Celje,1,2,,,,0
-1410883200,Korotan,O. Ljubljana,0,4,,,,0
-1410962400,Triglav,Domzale,2,2,Pen,3,4,0
-1410962400,Tabor Sezana,Koper,0,1,,,,0
-1410966000,Sencur,Zavrc,0,2,,,,0
-1410966000,Rudar,NK Krka,0,1,,,,0
-1412773200,Verzej,ND Gorica,0,2,,,,0
-1413982800,Zavrc,Celje,2,3,,,,0
-1413990000,ND Gorica,Koper,3,1,,,,0
-1413993600,Domzale,O. Ljubljana,0,1,,,,0
-1414515600,O. Ljubljana,Domzale,1,3,,,,0
-1414522800,Maribor,Radomlje,1,0,,,,0
-1414600200,Koper,ND Gorica,3,1,AET,4,1,0
-1414602000,Celje,Zavrc,2,1,,,,0
-1416402000,NK Krka,Maribor,1,2,,,,0
-1417624200,Maribor,NK Krka,4,2,,,,0
-1429023600,Koper,Domzale,1,0,,,,0
-1429110000,Maribor,Celje,2,3,,,,0
-1429628400,Celje,Maribor,0,0,,,,0
-1429714800,Domzale,Koper,1,1,,,,0
-1432146600,Koper,Celje,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1408456800,Tabor Sezana,Aluminij,Qwe4rAuT,8MCIbRV4,2,0,,,,0
+1408543200,Tromejnik,O. Ljubljana,tIBpfmKf,zc0A80Mi,0,4,,,,0
+1408543200,Smarje,NK Krka,EyHIooSb,WGDgkDs1,2,4,,,,0
+1408543200,Odranci,NK Kranj,2yjk7j71,E37YyVsM,0,4,,,,0
+1408543200,NK Smartno,Domzale,Eua5PHRE,8GL0cHSF,0,5,,,,0
+1408543200,Nafta,Sencur,lMVQNkcq,2yjk7j71,0,0,AET,0,1,0
+1408543200,Lenart,Triglav,f1NQS8xB,SObuJ8lK,0,5,,,,0
+1408543200,Jadran Dekani,Zavrc,n3UXADzS,AT1C7n8d,0,2,,,,0
+1408543200,Drava,Verzej,4YZxDhVh,r3uHKOhm,2,2,AET,2,3,0
+1408543200,Dob,Celje,zk01QcC8,juuH5vx4,1,6,,,,0
+1408546800,NK Adria,Radomlje,Ygi8VSKk,On6HHpDI,1,6,,,,0
+1408550400,Korotan,Brda,Me9Dm1LT,hf6xykcS,0,0,AET,2,0,0
+1410876000,NK Kranj,Celje,E37YyVsM,juuH5vx4,1,2,,,,0
+1410883200,Korotan,O. Ljubljana,Me9Dm1LT,zc0A80Mi,0,4,,,,0
+1410962400,Triglav,Domzale,SObuJ8lK,8GL0cHSF,2,2,Pen,3,4,0
+1410962400,Tabor Sezana,Koper,Qwe4rAuT,Ukh5nnRo,0,1,,,,0
+1410966000,Sencur,Zavrc,2yjk7j71,AT1C7n8d,0,2,,,,0
+1410966000,Rudar,NK Krka,fcDVLdrL,WGDgkDs1,0,1,,,,0
+1412773200,Verzej,ND Gorica,r3uHKOhm,CltD6KMc,0,2,,,,0
+1413982800,Zavrc,Celje,AT1C7n8d,juuH5vx4,2,3,,,,0
+1413990000,ND Gorica,Koper,CltD6KMc,Ukh5nnRo,3,1,,,,0
+1413993600,Domzale,O. Ljubljana,8GL0cHSF,zc0A80Mi,0,1,,,,0
+1414515600,O. Ljubljana,Domzale,zc0A80Mi,8GL0cHSF,1,3,,,,0
+1414522800,Maribor,Radomlje,88sMeCH2,On6HHpDI,1,0,,,,0
+1414600200,Koper,ND Gorica,Ukh5nnRo,CltD6KMc,3,1,AET,4,1,0
+1414602000,Celje,Zavrc,juuH5vx4,AT1C7n8d,2,1,,,,0
+1416402000,NK Krka,Maribor,WGDgkDs1,88sMeCH2,1,2,,,,0
+1417624200,Maribor,NK Krka,88sMeCH2,WGDgkDs1,4,2,,,,0
+1429023600,Koper,Domzale,Ukh5nnRo,8GL0cHSF,1,0,,,,0
+1429110000,Maribor,Celje,88sMeCH2,juuH5vx4,2,3,,,,0
+1429628400,Celje,Maribor,juuH5vx4,88sMeCH2,0,0,,,,0
+1429714800,Domzale,Koper,8GL0cHSF,Ukh5nnRo,1,1,,,,0
+1432146600,Koper,Celje,Ukh5nnRo,juuH5vx4,2,0,,,,0

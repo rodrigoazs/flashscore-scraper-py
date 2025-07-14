@@ -1,18 +1,18 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-923263200,Midtjylland,Aalborg,0,1,,,,0
-923263200,Glostrup FK,Lyngby,2,4,,,,0
-923263200,F. Amager,Viborg,3,9,,,,0
-923263200,Esbjerg,Odense,1,0,,,,0
-923263200,B.93,Brondby,0,4,,,,0
-923263200,Aarhus,Vejle,2,2,AET,3,2,0
-923349600,FC Copenhagen,Silkeborg,2,0,,,,0
-923349600,AB Copenhagen,Herfolge,1,0,,,,0
-923868000,Lyngby,Viborg,2,2,AET,2,3,0
-923868000,FC Copenhagen,AB Copenhagen,1,2,,,,0
-923868000,Esbjerg,Aalborg,1,2,,,,0
-923868000,Aarhus,Brondby,0,1,,,,0
-925768800,Viborg,Brondby,1,0,,,,0
-925768800,AB Copenhagen,Aalborg,1,1,,,,0
-926892000,Aalborg,AB Copenhagen,2,1,,,,0
-926978400,Brondby,Viborg,1,1,,,,0
-928188000,Viborg,Aalborg,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+923263200,Midtjylland,Aalborg,nw9UOsY3,jDG0G1yS,0,1,,,,0
+923263200,Glostrup FK,Lyngby,KzaNyCw9,j9C0y7Tm,2,4,,,,0
+923263200,F. Amager,Viborg,QNrz0V5B,fevSzE3L,3,9,,,,0
+923263200,Esbjerg,Odense,82YZVz8L,xv6lkb7q,1,0,,,,0
+923263200,B.93,Brondby,ShWpgPya,YPeI5fwQ,0,4,,,,0
+923263200,Aarhus,Vejle,hGuhahGg,lvRNDH7M,2,2,AET,3,2,0
+923349600,FC Copenhagen,Silkeborg,xv6lkb7q,Wrzf6bGu,2,0,,,,0
+923349600,AB Copenhagen,Herfolge,KYJ6FHSq,SrqG8pyg,1,0,,,,0
+923868000,Lyngby,Viborg,j9C0y7Tm,fevSzE3L,2,2,AET,2,3,0
+923868000,FC Copenhagen,AB Copenhagen,xv6lkb7q,KYJ6FHSq,1,2,,,,0
+923868000,Esbjerg,Aalborg,82YZVz8L,jDG0G1yS,1,2,,,,0
+923868000,Aarhus,Brondby,hGuhahGg,YPeI5fwQ,0,1,,,,0
+925768800,Viborg,Brondby,fevSzE3L,YPeI5fwQ,1,0,,,,0
+925768800,AB Copenhagen,Aalborg,KYJ6FHSq,jDG0G1yS,1,1,,,,0
+926892000,Aalborg,AB Copenhagen,jDG0G1yS,KYJ6FHSq,2,1,,,,0
+926978400,Brondby,Viborg,YPeI5fwQ,fevSzE3L,1,1,,,,0
+928188000,Viborg,Aalborg,fevSzE3L,jDG0G1yS,1,0,,,,0

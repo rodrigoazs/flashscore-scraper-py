@@ -1,245 +1,245 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-994197600,St. Gallen,Lausanne,3,0,,,,0
-994197600,Sion,Basel,8,1,,,,0
-994456800,Young Boys,Lugano,1,1,,,,0
-994456800,Servette,Zurich,0,2,,,,0
-994456800,Luzern,Xamax,0,0,,,,0
-994456800,Grasshoppers,Aarau,1,0,,,,0
-994802400,Lugano,Sion,0,1,,,,0
-994802400,Lausanne,Young Boys,2,3,,,,0
-994802400,Basel,Servette,3,1,,,,0
-995061600,Zurich,St. Gallen,3,2,,,,0
-995061600,Xamax,Sion,0,0,,,,0
-995061600,Lugano,Grasshoppers,5,3,,,,0
-995061600,Aarau,Luzern,3,2,,,,0
-995320800,Sion,Aarau,0,1,,,,0
-995407200,St. Gallen,Basel,3,3,,,,0
-995407200,Servette,Xamax,2,0,,,,0
-995407200,Luzern,Lugano,1,2,,,,0
-995407200,Lausanne,Zurich,1,1,,,,0
-995407200,Grasshoppers,Young Boys,1,1,,,,0
-995666400,Xamax,St. Gallen,3,0,,,,0
-995666400,Grasshoppers,Luzern,6,0,,,,0
-995666400,Aarau,Servette,1,1,,,,0
-995752800,Young Boys,Zurich,1,1,,,,0
-996184800,Luzern,Young Boys,0,4,,,,0
-996271200,Zurich,Basel,2,0,,,,0
-996271200,St. Gallen,Aarau,1,1,,,,0
-996271200,Sion,Grasshoppers,2,1,,,,0
-996271200,Servette,Lugano,1,0,,,,0
-996876000,Young Boys,Sion,3,2,,,,0
-996876000,Xamax,Basel,1,0,,,,0
-996876000,Luzern,Servette,1,1,,,,0
-996876000,Grasshoppers,St. Gallen,6,1,,,,0
-996876000,Aarau,Zurich,2,3,,,,0
-997221600,Lugano,Lausanne,2,1,,,,0
-997480800,Zurich,Xamax,1,1,,,,0
-997480800,Sion,Luzern,3,1,,,,0
-997480800,Servette,Grasshoppers,1,1,,,,0
-997480800,Lausanne,Aarau,0,3,,,,0
-997480800,Basel,Young Boys,3,1,,,,0
-997567200,St. Gallen,Lugano,0,1,,,,0
-997999200,Young Boys,Xamax,2,0,,,,0
-998085600,Luzern,St. Gallen,1,3,,,,0
-998085600,Grasshoppers,Lausanne,1,2,,,,0
-998085600,Aarau,Basel,1,1,,,,0
-998344800,Sion,Servette,1,3,,,,0
-998344800,Lugano,Zurich,1,1,,,,0
-998344800,Lausanne,Xamax,1,1,,,,0
-998690400,Zurich,Grasshoppers,1,3,,,,0
-998690400,Xamax,Aarau,0,0,,,,0
-998690400,Servette,Young Boys,3,0,,,,0
-998690400,Lausanne,Luzern,3,2,,,,0
-998690400,Basel,Lugano,5,1,,,,0
-998776800,St. Gallen,Sion,3,0,,,,0
-999813600,Lugano,Xamax,3,1,,,,0
-999900000,Young Boys,Aarau,2,1,,,,0
-999900000,Sion,Lausanne,1,0,,,,0
-999900000,Servette,St. Gallen,1,2,,,,0
-999900000,Luzern,Zurich,3,0,,,,0
-999900000,Grasshoppers,Basel,1,0,,,,0
-1000504800,Zurich,Sion,0,0,,,,0
-1000504800,St. Gallen,Young Boys,4,1,,,,0
-1000504800,Aarau,Lugano,3,1,,,,0
-1000591200,Xamax,Grasshoppers,1,4,,,,0
-1000591200,Basel,Luzern,4,1,,,,0
-1000677600,Lausanne,Servette,0,3,,,,0
-1001169900,Lugano,Young Boys,0,0,,,,0
-1001179800,Xamax,Luzern,4,1,,,,0
-1001179800,Basel,Sion,2,1,,,,0
-1001254500,Zurich,Servette,0,3,,,,0
-1001254500,Lausanne,St. Gallen,1,1,,,,0
-1001254500,Aarau,Grasshoppers,1,0,,,,0
-1001525400,Basel,Lausanne,3,1,,,,0
-1001774700,Young Boys,Lausanne,7,0,,,,0
-1001784600,Sion,Xamax,0,4,,,,0
-1001859300,St. Gallen,Zurich,3,1,,,,0
-1001859300,Grasshoppers,Lugano,2,5,,,,0
-1001957400,Servette,Basel,1,4,,,,0
-1002735000,Zurich,Lausanne,1,0,,,,0
-1002735000,Young Boys,Grasshoppers,1,3,,,,0
-1002735000,Xamax,Servette,1,3,,,,0
-1002735000,Lugano,Luzern,5,0,,,,0
-1002735000,Basel,St. Gallen,2,2,,,,0
-1002735000,Aarau,Sion,2,2,,,,0
-1002984300,Luzern,Grasshoppers,2,1,,,,0
-1002994200,Sion,Lugano,5,0,,,,0
-1002994200,Servette,Aarau,3,3,,,,0
-1003068900,Zurich,Young Boys,0,0,,,,0
-1003068900,St. Gallen,Xamax,4,3,,,,0
-1003068900,Lausanne,Basel,2,4,,,,0
-1003253400,Luzern,Aarau,2,1,,,,0
-1003589100,Basel,Zurich,2,1,,,,0
-1003590000,Young Boys,Luzern,5,1,,,,0
-1003599000,Xamax,Lausanne,2,1,,,,0
-1003667400,Lugano,Servette,1,1,,,,0
-1003673700,Grasshoppers,Sion,0,3,,,,0
-1003673700,Aarau,St. Gallen,0,1,,,,0
-1004193900,St. Gallen,Grasshoppers,0,0,,,,0
-1004203800,Servette,Luzern,2,0,,,,0
-1004203800,Basel,Xamax,5,1,,,,0
-1004282100,Zurich,Aarau,1,0,,,,0
-1004282100,Sion,Young Boys,1,0,,,,0
-1004282100,Lausanne,Lugano,1,2,,,,0
-1004802300,Young Boys,Basel,2,2,,,,0
-1004805000,Aarau,Lausanne,2,0,,,,0
-1004812200,Luzern,Sion,2,6,,,,0
-1004880600,Lugano,St. Gallen,1,1,,,,0
-1004886900,Xamax,Zurich,1,1,,,,0
-1004886900,Grasshoppers,Servette,3,0,,,,0
-1006011900,Basel,Aarau,1,0,,,,0
-1006014600,St. Gallen,Luzern,1,1,,,,0
-1006014600,Lausanne,Grasshoppers,2,4,,,,0
-1006021800,Servette,Sion,2,3,,,,0
-1006090200,Xamax,Young Boys,0,0,,,,0
-1006096500,Zurich,Lugano,2,3,,,,0
-1006616700,Sion,St. Gallen,0,1,,,,0
-1006619400,Luzern,Lausanne,1,3,,,,0
-1006619400,Aarau,Xamax,1,2,,,,0
-1006693200,Young Boys,Servette,0,1,,,,0
-1006695000,Lugano,Basel,1,2,,,,0
-1006701300,Grasshoppers,Zurich,0,0,,,,0
-1007221500,Zurich,Luzern,1,1,,,,0
-1007221500,Xamax,Lugano,1,3,,,,0
-1007221500,St. Gallen,Servette,2,2,,,,0
-1007221500,Aarau,Young Boys,2,0,,,,0
-1007224200,Lausanne,Sion,2,1,,,,0
-1007299800,Basel,Grasshoppers,4,5,,,,0
-1007904600,Young Boys,St. Gallen,1,0,,,,0
-1007904600,Sion,Zurich,0,1,,,,0
-1007904600,Servette,Lausanne,1,1,,,,0
-1007904600,Luzern,Basel,0,1,,,,0
-1007904600,Lugano,Aarau,1,0,,,,0
-1007904600,Grasshoppers,Xamax,4,1,,,,0
-1014479100,St. Gallen,Grasshoppers,2,2,,,,0
-1014557400,Young Boys,Sion,4,0,,,,0
-1014557400,Lugano,Basel,2,5,,,,0
-1014562800,Xamax,Aarau,3,1,,,,0
-1014562800,Winterthur,Thun,1,2,,,,0
-1014562800,Luzern,Wil,1,2,,,,0
-1014562800,Delemont,Lausanne,4,0,,,,0
-1014563700,Zurich,Servette,0,2,,,,0
-1015081200,Wil,Winterthur,2,0,,,,0
-1015081200,Thun,Luzern,4,2,,,,0
-1015081200,Lausanne,Xamax,1,1,,,,0
-1015081200,Aarau,Delemont,2,0,,,,0
-1015083900,Basel,Zurich,1,0,,,,0
-1015086600,Grasshoppers,Young Boys,1,1,,,,0
-1015162200,Sion,St. Gallen,0,2,,,,0
-1015168500,Servette,Lugano,1,0,,,,0
-1015426800,Xamax,Thun,4,0,,,,0
-1015426800,Winterthur,Aarau,2,2,,,,0
-1015426800,Luzern,Lausanne,1,2,,,,0
-1015426800,Delemont,Wil,1,0,,,,0
-1015439400,Zurich,Sion,2,1,,,,0
-1015439400,Young Boys,Servette,3,1,,,,0
-1015439400,Lugano,Grasshoppers,1,0,,,,0
-1015688700,Grasshoppers,Zurich,3,0,,,,0
-1015698600,Servette,St. Gallen,2,2,,,,0
-1015698600,Basel,Young Boys,2,0,,,,0
-1015772400,Wil,Xamax,0,0,,,,0
-1015772400,Thun,Delemont,1,1,,,,0
-1015772400,Lausanne,Winterthur,4,1,,,,0
-1015772400,Aarau,Luzern,2,1,,,,0
-1016219700,Servette,Grasshoppers,1,5,,,,0
-1016293500,Zurich,St. Gallen,1,0,,,,0
-1016303400,Basel,Sion,4,0,,,,0
-1016371800,Lugano,Young Boys,2,1,,,,0
-1016377200,Winterthur,Delemont,0,0,,,,0
-1016377200,Wil,Aarau,2,2,,,,0
-1016377200,Thun,Lausanne,2,0,,,,0
-1016377200,Luzern,Xamax,2,2,,,,0
-1016647200,Sion,Lugano,1,4,,,,0
-1016895600,Xamax,Winterthur,2,0,,,,0
-1016895600,Lausanne,Wil,2,0,,,,0
-1016895600,Delemont,Luzern,0,0,,,,0
-1016895600,Aarau,Thun,1,3,,,,0
-1016898300,St. Gallen,Lugano,0,0,,,,0
-1016976600,Young Boys,Zurich,3,2,,,,0
-1016976600,Sion,Servette,2,3,,,,0
-1016982900,Grasshoppers,Basel,1,0,,,,0
-1017500400,Winterthur,Luzern,3,2,,,,0
-1017500400,Wil,Thun,2,0,,,,0
-1017500400,Delemont,Xamax,1,2,,,,0
-1017500400,Aarau,Lausanne,0,3,,,,0
-1017503100,Young Boys,St. Gallen,1,0,,,,0
-1017505800,Grasshoppers,Sion,1,0,,,,0
-1017513000,Lugano,Zurich,2,0,,,,0
-1017662400,Servette,Basel,1,2,,,,0
-1017941400,St. Gallen,Basel,1,3,,,,0
-1018101600,Xamax,Delemont,4,0,,,,0
-1018101600,Thun,Wil,1,2,,,,0
-1018101600,Luzern,Winterthur,4,1,,,,0
-1018101600,Lausanne,Aarau,0,1,,,,0
-1018114200,Sion,Grasshoppers,0,2,,,,0
-1018188900,Zurich,Lugano,0,2,,,,0
-1018188900,St. Gallen,Young Boys,3,1,,,,0
-1018188900,Basel,Servette,3,2,,,,0
-1018709100,Lugano,St. Gallen,1,0,,,,0
-1018710000,Servette,Sion,4,1,,,,0
-1018792800,Basel,Grasshoppers,4,1,,,,0
-1018792800,Winterthur,Xamax,1,1,,,,0
-1018792800,Wil,Lausanne,0,0,,,,0
-1018792800,Thun,Aarau,0,1,,,,0
-1018792800,Luzern,Delemont,4,1,,,,0
-1018793700,Zurich,Young Boys,2,0,,,,0
-1019240100,Grasshoppers,Servette,2,2,,,,0
-1019311200,Xamax,Luzern,3,2,,,,0
-1019311200,Lausanne,Thun,1,0,,,,0
-1019311200,Delemont,Winterthur,1,0,,,,0
-1019311200,Aarau,Wil,0,1,,,,0
-1019313900,Sion,Basel,0,3,,,,0
-1019316600,St. Gallen,Zurich,0,1,,,,0
-1019323800,Young Boys,Lugano,2,2,,,,0
-1019656800,Xamax,Wil,2,0,,,,0
-1019656800,Winterthur,Lausanne,1,4,,,,0
-1019656800,Luzern,Aarau,2,2,,,,0
-1019656800,Delemont,Thun,0,0,,,,0
-1019667600,Young Boys,Basel,0,3,,,,0
-1019667600,St. Gallen,Servette,1,3,,,,0
-1019755800,Zurich,Grasshoppers,1,1,,,,0
-1019755800,Lugano,Sion,2,0,,,,0
-1019918700,Basel,St. Gallen,1,2,,,,0
-1019928600,Servette,Young Boys,0,0,,,,0
-1020002400,Wil,Delemont,3,1,,,,0
-1020002400,Thun,Xamax,2,0,,,,0
-1020002400,Lausanne,Luzern,1,0,,,,0
-1020002400,Aarau,Winterthur,3,0,,,,0
-1020003300,Sion,Zurich,1,1,,,,0
-1020003300,Grasshoppers,Lugano,2,1,,,,0
-1020520800,Xamax,Lausanne,1,0,,,,0
-1020520800,Winterthur,Wil,1,1,,,,0
-1020520800,Luzern,Thun,3,3,,,,0
-1020520800,Delemont,Aarau,2,1,,,,0
-1020522600,Young Boys,Grasshoppers,1,4,,,,0
-1020528000,Zurich,Basel,3,1,,,,0
-1020528000,St. Gallen,Sion,2,1,,,,0
-1020528000,Lugano,Servette,1,3,,,,0
-1020866400,Wil,Luzern,2,2,,,,0
-1020866400,Thun,Winterthur,1,0,,,,0
-1020866400,Lausanne,Delemont,3,2,,,,0
-1020866400,Aarau,Xamax,2,1,,,,0
-1020881700,Sion,Young Boys,3,1,,,,0
-1020881700,Servette,Zurich,0,1,,,,0
-1020881700,Grasshoppers,St. Gallen,3,3,,,,0
-1020881700,Basel,Lugano,4,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+994197600,St. Gallen,Lausanne,fubIDuh0,IkaTiXpU,3,0,,,,0
+994197600,Sion,Basel,QsLBSppP,fPZDBkJI,8,1,,,,0
+994456800,Young Boys,Lugano,KGWqWzzf,0IhGjVDm,1,1,,,,0
+994456800,Servette,Zurich,vJvKsfHT,zFgN5luK,0,2,,,,0
+994456800,Luzern,Xamax,n7K4dyrM,ln9wF1MU,0,0,,,,0
+994456800,Grasshoppers,Aarau,WdBesfPo,nLy4dj0C,1,0,,,,0
+994802400,Lugano,Sion,0IhGjVDm,QsLBSppP,0,1,,,,0
+994802400,Lausanne,Young Boys,IkaTiXpU,KGWqWzzf,2,3,,,,0
+994802400,Basel,Servette,fPZDBkJI,vJvKsfHT,3,1,,,,0
+995061600,Zurich,St. Gallen,zFgN5luK,fubIDuh0,3,2,,,,0
+995061600,Xamax,Sion,ln9wF1MU,QsLBSppP,0,0,,,,0
+995061600,Lugano,Grasshoppers,0IhGjVDm,WdBesfPo,5,3,,,,0
+995061600,Aarau,Luzern,nLy4dj0C,n7K4dyrM,3,2,,,,0
+995320800,Sion,Aarau,QsLBSppP,nLy4dj0C,0,1,,,,0
+995407200,St. Gallen,Basel,fubIDuh0,fPZDBkJI,3,3,,,,0
+995407200,Servette,Xamax,vJvKsfHT,ln9wF1MU,2,0,,,,0
+995407200,Luzern,Lugano,n7K4dyrM,0IhGjVDm,1,2,,,,0
+995407200,Lausanne,Zurich,IkaTiXpU,zFgN5luK,1,1,,,,0
+995407200,Grasshoppers,Young Boys,WdBesfPo,KGWqWzzf,1,1,,,,0
+995666400,Xamax,St. Gallen,ln9wF1MU,fubIDuh0,3,0,,,,0
+995666400,Grasshoppers,Luzern,WdBesfPo,n7K4dyrM,6,0,,,,0
+995666400,Aarau,Servette,nLy4dj0C,vJvKsfHT,1,1,,,,0
+995752800,Young Boys,Zurich,KGWqWzzf,zFgN5luK,1,1,,,,0
+996184800,Luzern,Young Boys,n7K4dyrM,KGWqWzzf,0,4,,,,0
+996271200,Zurich,Basel,zFgN5luK,fPZDBkJI,2,0,,,,0
+996271200,St. Gallen,Aarau,fubIDuh0,nLy4dj0C,1,1,,,,0
+996271200,Sion,Grasshoppers,QsLBSppP,WdBesfPo,2,1,,,,0
+996271200,Servette,Lugano,vJvKsfHT,0IhGjVDm,1,0,,,,0
+996876000,Young Boys,Sion,KGWqWzzf,QsLBSppP,3,2,,,,0
+996876000,Xamax,Basel,ln9wF1MU,fPZDBkJI,1,0,,,,0
+996876000,Luzern,Servette,n7K4dyrM,vJvKsfHT,1,1,,,,0
+996876000,Grasshoppers,St. Gallen,WdBesfPo,fubIDuh0,6,1,,,,0
+996876000,Aarau,Zurich,nLy4dj0C,zFgN5luK,2,3,,,,0
+997221600,Lugano,Lausanne,0IhGjVDm,IkaTiXpU,2,1,,,,0
+997480800,Zurich,Xamax,zFgN5luK,ln9wF1MU,1,1,,,,0
+997480800,Sion,Luzern,QsLBSppP,n7K4dyrM,3,1,,,,0
+997480800,Servette,Grasshoppers,vJvKsfHT,WdBesfPo,1,1,,,,0
+997480800,Lausanne,Aarau,IkaTiXpU,nLy4dj0C,0,3,,,,0
+997480800,Basel,Young Boys,fPZDBkJI,KGWqWzzf,3,1,,,,0
+997567200,St. Gallen,Lugano,fubIDuh0,0IhGjVDm,0,1,,,,0
+997999200,Young Boys,Xamax,KGWqWzzf,ln9wF1MU,2,0,,,,0
+998085600,Luzern,St. Gallen,n7K4dyrM,fubIDuh0,1,3,,,,0
+998085600,Grasshoppers,Lausanne,WdBesfPo,IkaTiXpU,1,2,,,,0
+998085600,Aarau,Basel,nLy4dj0C,fPZDBkJI,1,1,,,,0
+998344800,Sion,Servette,QsLBSppP,vJvKsfHT,1,3,,,,0
+998344800,Lugano,Zurich,0IhGjVDm,zFgN5luK,1,1,,,,0
+998344800,Lausanne,Xamax,IkaTiXpU,ln9wF1MU,1,1,,,,0
+998690400,Zurich,Grasshoppers,zFgN5luK,WdBesfPo,1,3,,,,0
+998690400,Xamax,Aarau,ln9wF1MU,nLy4dj0C,0,0,,,,0
+998690400,Servette,Young Boys,vJvKsfHT,KGWqWzzf,3,0,,,,0
+998690400,Lausanne,Luzern,IkaTiXpU,n7K4dyrM,3,2,,,,0
+998690400,Basel,Lugano,fPZDBkJI,0IhGjVDm,5,1,,,,0
+998776800,St. Gallen,Sion,fubIDuh0,QsLBSppP,3,0,,,,0
+999813600,Lugano,Xamax,0IhGjVDm,ln9wF1MU,3,1,,,,0
+999900000,Young Boys,Aarau,KGWqWzzf,nLy4dj0C,2,1,,,,0
+999900000,Sion,Lausanne,QsLBSppP,IkaTiXpU,1,0,,,,0
+999900000,Servette,St. Gallen,vJvKsfHT,fubIDuh0,1,2,,,,0
+999900000,Luzern,Zurich,n7K4dyrM,zFgN5luK,3,0,,,,0
+999900000,Grasshoppers,Basel,WdBesfPo,fPZDBkJI,1,0,,,,0
+1000504800,Zurich,Sion,zFgN5luK,QsLBSppP,0,0,,,,0
+1000504800,St. Gallen,Young Boys,fubIDuh0,KGWqWzzf,4,1,,,,0
+1000504800,Aarau,Lugano,nLy4dj0C,0IhGjVDm,3,1,,,,0
+1000591200,Xamax,Grasshoppers,ln9wF1MU,WdBesfPo,1,4,,,,0
+1000591200,Basel,Luzern,fPZDBkJI,n7K4dyrM,4,1,,,,0
+1000677600,Lausanne,Servette,IkaTiXpU,vJvKsfHT,0,3,,,,0
+1001169900,Lugano,Young Boys,0IhGjVDm,KGWqWzzf,0,0,,,,0
+1001179800,Xamax,Luzern,ln9wF1MU,n7K4dyrM,4,1,,,,0
+1001179800,Basel,Sion,fPZDBkJI,QsLBSppP,2,1,,,,0
+1001254500,Zurich,Servette,zFgN5luK,vJvKsfHT,0,3,,,,0
+1001254500,Lausanne,St. Gallen,IkaTiXpU,fubIDuh0,1,1,,,,0
+1001254500,Aarau,Grasshoppers,nLy4dj0C,WdBesfPo,1,0,,,,0
+1001525400,Basel,Lausanne,fPZDBkJI,IkaTiXpU,3,1,,,,0
+1001774700,Young Boys,Lausanne,KGWqWzzf,IkaTiXpU,7,0,,,,0
+1001784600,Sion,Xamax,QsLBSppP,ln9wF1MU,0,4,,,,0
+1001859300,St. Gallen,Zurich,fubIDuh0,zFgN5luK,3,1,,,,0
+1001859300,Grasshoppers,Lugano,WdBesfPo,0IhGjVDm,2,5,,,,0
+1001957400,Servette,Basel,vJvKsfHT,fPZDBkJI,1,4,,,,0
+1002735000,Zurich,Lausanne,zFgN5luK,IkaTiXpU,1,0,,,,0
+1002735000,Young Boys,Grasshoppers,KGWqWzzf,WdBesfPo,1,3,,,,0
+1002735000,Xamax,Servette,ln9wF1MU,vJvKsfHT,1,3,,,,0
+1002735000,Lugano,Luzern,0IhGjVDm,n7K4dyrM,5,0,,,,0
+1002735000,Basel,St. Gallen,fPZDBkJI,fubIDuh0,2,2,,,,0
+1002735000,Aarau,Sion,nLy4dj0C,QsLBSppP,2,2,,,,0
+1002984300,Luzern,Grasshoppers,n7K4dyrM,WdBesfPo,2,1,,,,0
+1002994200,Sion,Lugano,QsLBSppP,0IhGjVDm,5,0,,,,0
+1002994200,Servette,Aarau,vJvKsfHT,nLy4dj0C,3,3,,,,0
+1003068900,Zurich,Young Boys,zFgN5luK,KGWqWzzf,0,0,,,,0
+1003068900,St. Gallen,Xamax,fubIDuh0,ln9wF1MU,4,3,,,,0
+1003068900,Lausanne,Basel,IkaTiXpU,fPZDBkJI,2,4,,,,0
+1003253400,Luzern,Aarau,n7K4dyrM,nLy4dj0C,2,1,,,,0
+1003589100,Basel,Zurich,fPZDBkJI,zFgN5luK,2,1,,,,0
+1003590000,Young Boys,Luzern,KGWqWzzf,n7K4dyrM,5,1,,,,0
+1003599000,Xamax,Lausanne,ln9wF1MU,IkaTiXpU,2,1,,,,0
+1003667400,Lugano,Servette,0IhGjVDm,vJvKsfHT,1,1,,,,0
+1003673700,Grasshoppers,Sion,WdBesfPo,QsLBSppP,0,3,,,,0
+1003673700,Aarau,St. Gallen,nLy4dj0C,fubIDuh0,0,1,,,,0
+1004193900,St. Gallen,Grasshoppers,fubIDuh0,WdBesfPo,0,0,,,,0
+1004203800,Servette,Luzern,vJvKsfHT,n7K4dyrM,2,0,,,,0
+1004203800,Basel,Xamax,fPZDBkJI,ln9wF1MU,5,1,,,,0
+1004282100,Zurich,Aarau,zFgN5luK,nLy4dj0C,1,0,,,,0
+1004282100,Sion,Young Boys,QsLBSppP,KGWqWzzf,1,0,,,,0
+1004282100,Lausanne,Lugano,IkaTiXpU,0IhGjVDm,1,2,,,,0
+1004802300,Young Boys,Basel,KGWqWzzf,fPZDBkJI,2,2,,,,0
+1004805000,Aarau,Lausanne,nLy4dj0C,IkaTiXpU,2,0,,,,0
+1004812200,Luzern,Sion,n7K4dyrM,QsLBSppP,2,6,,,,0
+1004880600,Lugano,St. Gallen,0IhGjVDm,fubIDuh0,1,1,,,,0
+1004886900,Xamax,Zurich,ln9wF1MU,zFgN5luK,1,1,,,,0
+1004886900,Grasshoppers,Servette,WdBesfPo,vJvKsfHT,3,0,,,,0
+1006011900,Basel,Aarau,fPZDBkJI,nLy4dj0C,1,0,,,,0
+1006014600,St. Gallen,Luzern,fubIDuh0,n7K4dyrM,1,1,,,,0
+1006014600,Lausanne,Grasshoppers,IkaTiXpU,WdBesfPo,2,4,,,,0
+1006021800,Servette,Sion,vJvKsfHT,QsLBSppP,2,3,,,,0
+1006090200,Xamax,Young Boys,ln9wF1MU,KGWqWzzf,0,0,,,,0
+1006096500,Zurich,Lugano,zFgN5luK,0IhGjVDm,2,3,,,,0
+1006616700,Sion,St. Gallen,QsLBSppP,fubIDuh0,0,1,,,,0
+1006619400,Luzern,Lausanne,n7K4dyrM,IkaTiXpU,1,3,,,,0
+1006619400,Aarau,Xamax,nLy4dj0C,ln9wF1MU,1,2,,,,0
+1006693200,Young Boys,Servette,KGWqWzzf,vJvKsfHT,0,1,,,,0
+1006695000,Lugano,Basel,0IhGjVDm,fPZDBkJI,1,2,,,,0
+1006701300,Grasshoppers,Zurich,WdBesfPo,zFgN5luK,0,0,,,,0
+1007221500,Zurich,Luzern,zFgN5luK,n7K4dyrM,1,1,,,,0
+1007221500,Xamax,Lugano,ln9wF1MU,0IhGjVDm,1,3,,,,0
+1007221500,St. Gallen,Servette,fubIDuh0,vJvKsfHT,2,2,,,,0
+1007221500,Aarau,Young Boys,nLy4dj0C,KGWqWzzf,2,0,,,,0
+1007224200,Lausanne,Sion,IkaTiXpU,QsLBSppP,2,1,,,,0
+1007299800,Basel,Grasshoppers,fPZDBkJI,WdBesfPo,4,5,,,,0
+1007904600,Young Boys,St. Gallen,KGWqWzzf,fubIDuh0,1,0,,,,0
+1007904600,Sion,Zurich,QsLBSppP,zFgN5luK,0,1,,,,0
+1007904600,Servette,Lausanne,vJvKsfHT,IkaTiXpU,1,1,,,,0
+1007904600,Luzern,Basel,n7K4dyrM,fPZDBkJI,0,1,,,,0
+1007904600,Lugano,Aarau,0IhGjVDm,nLy4dj0C,1,0,,,,0
+1007904600,Grasshoppers,Xamax,WdBesfPo,ln9wF1MU,4,1,,,,0
+1014479100,St. Gallen,Grasshoppers,fubIDuh0,WdBesfPo,2,2,,,,0
+1014557400,Young Boys,Sion,KGWqWzzf,QsLBSppP,4,0,,,,0
+1014557400,Lugano,Basel,0IhGjVDm,fPZDBkJI,2,5,,,,0
+1014562800,Xamax,Aarau,ln9wF1MU,nLy4dj0C,3,1,,,,0
+1014562800,Winterthur,Thun,6P6dM30h,xbUiUE46,1,2,,,,0
+1014562800,Luzern,Wil,n7K4dyrM,lCjwt4LE,1,2,,,,0
+1014562800,Delemont,Lausanne,nLy4dj0C,IkaTiXpU,4,0,,,,0
+1014563700,Zurich,Servette,zFgN5luK,vJvKsfHT,0,2,,,,0
+1015081200,Wil,Winterthur,lCjwt4LE,6P6dM30h,2,0,,,,0
+1015081200,Thun,Luzern,xbUiUE46,n7K4dyrM,4,2,,,,0
+1015081200,Lausanne,Xamax,IkaTiXpU,ln9wF1MU,1,1,,,,0
+1015081200,Aarau,Delemont,nLy4dj0C,nLy4dj0C,2,0,,,,0
+1015083900,Basel,Zurich,fPZDBkJI,zFgN5luK,1,0,,,,0
+1015086600,Grasshoppers,Young Boys,WdBesfPo,KGWqWzzf,1,1,,,,0
+1015162200,Sion,St. Gallen,QsLBSppP,fubIDuh0,0,2,,,,0
+1015168500,Servette,Lugano,vJvKsfHT,0IhGjVDm,1,0,,,,0
+1015426800,Xamax,Thun,ln9wF1MU,xbUiUE46,4,0,,,,0
+1015426800,Winterthur,Aarau,6P6dM30h,nLy4dj0C,2,2,,,,0
+1015426800,Luzern,Lausanne,n7K4dyrM,IkaTiXpU,1,2,,,,0
+1015426800,Delemont,Wil,nLy4dj0C,lCjwt4LE,1,0,,,,0
+1015439400,Zurich,Sion,zFgN5luK,QsLBSppP,2,1,,,,0
+1015439400,Young Boys,Servette,KGWqWzzf,vJvKsfHT,3,1,,,,0
+1015439400,Lugano,Grasshoppers,0IhGjVDm,WdBesfPo,1,0,,,,0
+1015688700,Grasshoppers,Zurich,WdBesfPo,zFgN5luK,3,0,,,,0
+1015698600,Servette,St. Gallen,vJvKsfHT,fubIDuh0,2,2,,,,0
+1015698600,Basel,Young Boys,fPZDBkJI,KGWqWzzf,2,0,,,,0
+1015772400,Wil,Xamax,lCjwt4LE,ln9wF1MU,0,0,,,,0
+1015772400,Thun,Delemont,xbUiUE46,nLy4dj0C,1,1,,,,0
+1015772400,Lausanne,Winterthur,IkaTiXpU,6P6dM30h,4,1,,,,0
+1015772400,Aarau,Luzern,nLy4dj0C,n7K4dyrM,2,1,,,,0
+1016219700,Servette,Grasshoppers,vJvKsfHT,WdBesfPo,1,5,,,,0
+1016293500,Zurich,St. Gallen,zFgN5luK,fubIDuh0,1,0,,,,0
+1016303400,Basel,Sion,fPZDBkJI,QsLBSppP,4,0,,,,0
+1016371800,Lugano,Young Boys,0IhGjVDm,KGWqWzzf,2,1,,,,0
+1016377200,Winterthur,Delemont,6P6dM30h,nLy4dj0C,0,0,,,,0
+1016377200,Wil,Aarau,lCjwt4LE,nLy4dj0C,2,2,,,,0
+1016377200,Thun,Lausanne,xbUiUE46,IkaTiXpU,2,0,,,,0
+1016377200,Luzern,Xamax,n7K4dyrM,ln9wF1MU,2,2,,,,0
+1016647200,Sion,Lugano,QsLBSppP,0IhGjVDm,1,4,,,,0
+1016895600,Xamax,Winterthur,ln9wF1MU,6P6dM30h,2,0,,,,0
+1016895600,Lausanne,Wil,IkaTiXpU,lCjwt4LE,2,0,,,,0
+1016895600,Delemont,Luzern,nLy4dj0C,n7K4dyrM,0,0,,,,0
+1016895600,Aarau,Thun,nLy4dj0C,xbUiUE46,1,3,,,,0
+1016898300,St. Gallen,Lugano,fubIDuh0,0IhGjVDm,0,0,,,,0
+1016976600,Young Boys,Zurich,KGWqWzzf,zFgN5luK,3,2,,,,0
+1016976600,Sion,Servette,QsLBSppP,vJvKsfHT,2,3,,,,0
+1016982900,Grasshoppers,Basel,WdBesfPo,fPZDBkJI,1,0,,,,0
+1017500400,Winterthur,Luzern,6P6dM30h,n7K4dyrM,3,2,,,,0
+1017500400,Wil,Thun,lCjwt4LE,xbUiUE46,2,0,,,,0
+1017500400,Delemont,Xamax,nLy4dj0C,ln9wF1MU,1,2,,,,0
+1017500400,Aarau,Lausanne,nLy4dj0C,IkaTiXpU,0,3,,,,0
+1017503100,Young Boys,St. Gallen,KGWqWzzf,fubIDuh0,1,0,,,,0
+1017505800,Grasshoppers,Sion,WdBesfPo,QsLBSppP,1,0,,,,0
+1017513000,Lugano,Zurich,0IhGjVDm,zFgN5luK,2,0,,,,0
+1017662400,Servette,Basel,vJvKsfHT,fPZDBkJI,1,2,,,,0
+1017941400,St. Gallen,Basel,fubIDuh0,fPZDBkJI,1,3,,,,0
+1018101600,Xamax,Delemont,ln9wF1MU,nLy4dj0C,4,0,,,,0
+1018101600,Thun,Wil,xbUiUE46,lCjwt4LE,1,2,,,,0
+1018101600,Luzern,Winterthur,n7K4dyrM,6P6dM30h,4,1,,,,0
+1018101600,Lausanne,Aarau,IkaTiXpU,nLy4dj0C,0,1,,,,0
+1018114200,Sion,Grasshoppers,QsLBSppP,WdBesfPo,0,2,,,,0
+1018188900,Zurich,Lugano,zFgN5luK,0IhGjVDm,0,2,,,,0
+1018188900,St. Gallen,Young Boys,fubIDuh0,KGWqWzzf,3,1,,,,0
+1018188900,Basel,Servette,fPZDBkJI,vJvKsfHT,3,2,,,,0
+1018709100,Lugano,St. Gallen,0IhGjVDm,fubIDuh0,1,0,,,,0
+1018710000,Servette,Sion,vJvKsfHT,QsLBSppP,4,1,,,,0
+1018792800,Basel,Grasshoppers,fPZDBkJI,WdBesfPo,4,1,,,,0
+1018792800,Winterthur,Xamax,6P6dM30h,ln9wF1MU,1,1,,,,0
+1018792800,Wil,Lausanne,lCjwt4LE,IkaTiXpU,0,0,,,,0
+1018792800,Thun,Aarau,xbUiUE46,nLy4dj0C,0,1,,,,0
+1018792800,Luzern,Delemont,n7K4dyrM,nLy4dj0C,4,1,,,,0
+1018793700,Zurich,Young Boys,zFgN5luK,KGWqWzzf,2,0,,,,0
+1019240100,Grasshoppers,Servette,WdBesfPo,vJvKsfHT,2,2,,,,0
+1019311200,Xamax,Luzern,ln9wF1MU,n7K4dyrM,3,2,,,,0
+1019311200,Lausanne,Thun,IkaTiXpU,xbUiUE46,1,0,,,,0
+1019311200,Delemont,Winterthur,nLy4dj0C,6P6dM30h,1,0,,,,0
+1019311200,Aarau,Wil,nLy4dj0C,lCjwt4LE,0,1,,,,0
+1019313900,Sion,Basel,QsLBSppP,fPZDBkJI,0,3,,,,0
+1019316600,St. Gallen,Zurich,fubIDuh0,zFgN5luK,0,1,,,,0
+1019323800,Young Boys,Lugano,KGWqWzzf,0IhGjVDm,2,2,,,,0
+1019656800,Xamax,Wil,ln9wF1MU,lCjwt4LE,2,0,,,,0
+1019656800,Winterthur,Lausanne,6P6dM30h,IkaTiXpU,1,4,,,,0
+1019656800,Luzern,Aarau,n7K4dyrM,nLy4dj0C,2,2,,,,0
+1019656800,Delemont,Thun,nLy4dj0C,xbUiUE46,0,0,,,,0
+1019667600,Young Boys,Basel,KGWqWzzf,fPZDBkJI,0,3,,,,0
+1019667600,St. Gallen,Servette,fubIDuh0,vJvKsfHT,1,3,,,,0
+1019755800,Zurich,Grasshoppers,zFgN5luK,WdBesfPo,1,1,,,,0
+1019755800,Lugano,Sion,0IhGjVDm,QsLBSppP,2,0,,,,0
+1019918700,Basel,St. Gallen,fPZDBkJI,fubIDuh0,1,2,,,,0
+1019928600,Servette,Young Boys,vJvKsfHT,KGWqWzzf,0,0,,,,0
+1020002400,Wil,Delemont,lCjwt4LE,nLy4dj0C,3,1,,,,0
+1020002400,Thun,Xamax,xbUiUE46,ln9wF1MU,2,0,,,,0
+1020002400,Lausanne,Luzern,IkaTiXpU,n7K4dyrM,1,0,,,,0
+1020002400,Aarau,Winterthur,nLy4dj0C,6P6dM30h,3,0,,,,0
+1020003300,Sion,Zurich,QsLBSppP,zFgN5luK,1,1,,,,0
+1020003300,Grasshoppers,Lugano,WdBesfPo,0IhGjVDm,2,1,,,,0
+1020520800,Xamax,Lausanne,ln9wF1MU,IkaTiXpU,1,0,,,,0
+1020520800,Winterthur,Wil,6P6dM30h,lCjwt4LE,1,1,,,,0
+1020520800,Luzern,Thun,n7K4dyrM,xbUiUE46,3,3,,,,0
+1020520800,Delemont,Aarau,nLy4dj0C,nLy4dj0C,2,1,,,,0
+1020522600,Young Boys,Grasshoppers,KGWqWzzf,WdBesfPo,1,4,,,,0
+1020528000,Zurich,Basel,zFgN5luK,fPZDBkJI,3,1,,,,0
+1020528000,St. Gallen,Sion,fubIDuh0,QsLBSppP,2,1,,,,0
+1020528000,Lugano,Servette,0IhGjVDm,vJvKsfHT,1,3,,,,0
+1020866400,Wil,Luzern,lCjwt4LE,n7K4dyrM,2,2,,,,0
+1020866400,Thun,Winterthur,xbUiUE46,6P6dM30h,1,0,,,,0
+1020866400,Lausanne,Delemont,IkaTiXpU,nLy4dj0C,3,2,,,,0
+1020866400,Aarau,Xamax,nLy4dj0C,ln9wF1MU,2,1,,,,0
+1020881700,Sion,Young Boys,QsLBSppP,KGWqWzzf,3,1,,,,0
+1020881700,Servette,Zurich,vJvKsfHT,zFgN5luK,0,1,,,,0
+1020881700,Grasshoppers,St. Gallen,WdBesfPo,fubIDuh0,3,3,,,,0
+1020881700,Basel,Lugano,fPZDBkJI,0IhGjVDm,4,3,,,,0

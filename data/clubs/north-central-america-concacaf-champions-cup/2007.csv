@@ -1,15 +1,15 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1171328400,W Connection,Guadalajara Chivas,2,1,,,,0
-1172019600,Puntarenas FC,Houston Dynamo,1,0,,,,0
-1172019600,Olimpia,DC United,1,4,,,,0
-1172106000,Pachuca,Marquense,2,0,,,,0
-1172624400,Marquense,Pachuca,0,1,,,,0
-1172624400,Guadalajara Chivas,W Connection,3,0,,,,0
-1172710800,Houston Dynamo,Puntarenas FC,2,0,,,,0
-1172710800,DC United,Olimpia,3,2,,,,0
-1173920400,Houston Dynamo,Pachuca,2,0,,,,0
-1173920400,DC United,Guadalajara Chivas,1,1,,,,0
-1175558400,Guadalajara Chivas,DC United,2,1,,,,0
-1175731200,Pachuca,Houston Dynamo,4,2,,,,0
-1176854400,Guadalajara Chivas,Pachuca,2,2,,,,0
-1177459200,Pachuca,Guadalajara Chivas,0,0,Pen,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1171328400,W Connection,Guadalajara Chivas,zePXmSvq,lEs0thDm,2,1,,,,0
+1172019600,Puntarenas FC,Houston Dynamo,z1YXka2H,YLT3ZeZm,1,0,,,,0
+1172019600,Olimpia,DC United,WvziCH8E,QqhL41wo,1,4,,,,0
+1172106000,Pachuca,Marquense,zFZbB1JF,UPjOlVr9,2,0,,,,0
+1172624400,Marquense,Pachuca,UPjOlVr9,zFZbB1JF,0,1,,,,0
+1172624400,Guadalajara Chivas,W Connection,lEs0thDm,zePXmSvq,3,0,,,,0
+1172710800,Houston Dynamo,Puntarenas FC,YLT3ZeZm,z1YXka2H,2,0,,,,0
+1172710800,DC United,Olimpia,QqhL41wo,WvziCH8E,3,2,,,,0
+1173920400,Houston Dynamo,Pachuca,YLT3ZeZm,zFZbB1JF,2,0,,,,0
+1173920400,DC United,Guadalajara Chivas,QqhL41wo,lEs0thDm,1,1,,,,0
+1175558400,Guadalajara Chivas,DC United,lEs0thDm,QqhL41wo,2,1,,,,0
+1175731200,Pachuca,Houston Dynamo,zFZbB1JF,YLT3ZeZm,4,2,,,,0
+1176854400,Guadalajara Chivas,Pachuca,lEs0thDm,zFZbB1JF,2,2,,,,0
+1177459200,Pachuca,Guadalajara Chivas,zFZbB1JF,lEs0thDm,0,0,Pen,1,0,0

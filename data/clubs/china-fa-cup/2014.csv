@@ -1,51 +1,51 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1397541600,Dalian Wanqianguan,Qingdao FC,2,3,,,,0
-1397543400,Shenyan Dongjin,Beijing Technology,0,4,,,,0
-1397545200,Zhaoqing Hengtai,Hunan Billows,0,0,Pen,0,1,0
-1397545200,Suzhou Jinfu,Beijing Sport University,2,2,Pen,3,2,0
-1397545200,Qingdao Kunpeng,Guangdong,0,2,,,,0
-1397559600,Dalian Chaoyue,Tianjin Tianhai,1,1,Pen,1,2,0
-1397629800,Riverside Garden,Shenyang Zhongze,0,6,,,,0
-1397631600,Yunnan Feihu F.C.,Chengdu Tiancheng,2,1,,,,0
-1397631600,Tianjin Locomotive,Chongqing Liangjiang Athletic,0,2,,,,0
-1397631600,Sichuan Lidashi,Qingdao Hainiu,0,3,,,,0
-1397631600,Jiangxi Lushan,Yanbian Longding,0,1,,,,0
-1397631600,Guizhou,Hebei,2,0,,,,0
-1397633400,Meizhou Hakka,Cangzhou,4,0,,,,0
-1397647800,Wuhan Hongxing,Wuhan FC,1,0,,,,0
-1397647800,Meixian Juncheng,Shenzhen,1,1,Pen,1,2,0
-1397647800,Hangzhou Zhipu,Xinjiang Tianshan,3,2,,,,0
-1405252800,Guizhou,Guangzhou City,1,3,,,,0
-1405407600,Beijing Technology,Zhejiang Professional,2,2,Pen,2,3,0
-1405409400,Yanbian Longding,Dalian Pro,2,0,,,,0
-1405411200,Shenzhen,Shandong Taishan,0,5,,,,0
-1405411200,Meizhou Hakka,Shanghai Shenxin,1,2,,,,0
-1405423800,Tianjin Tianhai,Beijing Renhe,0,2,,,,0
-1405423800,Shenyang Zhongze,Beijing Guoan,0,1,,,,0
-1405423800,Qingdao FC,Tianjin Jinmen Tiger,4,1,,,,0
-1405423800,Hunan Billows,Jiangsu Suning,1,2,,,,0
-1405423800,Chongqing Liangjiang Athletic,Shanghai Shenhua,0,3,,,,0
-1405425600,Guangdong,Guangzhou FC,0,1,,,,0
-1405495800,Qingdao Hainiu,Changchun Yatai,3,2,,,,0
-1405497600,Yunnan Feihu F.C.,Shaoxing Keqiao Yuejia,0,0,Pen,1,0,0
-1405499400,Wuhan Hongxing,Shanghai Port,0,0,Pen,1,0,0
-1405510200,Suzhou Jinfu,Liaoning,0,0,Pen,1,0,0
-1405510500,Hangzhou Zhipu,Henan Songshan Longmen,0,4,,,,0
-1406100600,Yanbian Longding,Shanghai Shenhua,1,2,,,,0
-1406100600,Qingdao Hainiu,Zhejiang Professional,0,0,Pen,1,0,0
-1406102400,Yunnan Feihu F.C.,Jiangsu Suning,1,2,,,,0
-1406115000,Beijing Renhe,Beijing Guoan,0,3,,,,0
-1406116800,Guangzhou City,Shandong Taishan,0,1,,,,0
-1406189100,Wuhan Hongxing,Qingdao FC,2,2,Pen,2,3,0
-1406201400,Suzhou Jinfu,Shanghai Shenxin,1,2,,,,0
-1406203200,Henan Songshan Longmen,Guangzhou FC,2,1,,,,0
-1407310200,Qingdao Hainiu,Jiangsu Suning,1,2,,,,0
-1407324600,Qingdao FC,Henan Songshan Longmen,1,1,Pen,2,1,0
-1407324600,Beijing Guoan,Shandong Taishan,1,1,Pen,1,2,0
-1407325500,Shanghai Shenhua,Shanghai Shenxin,4,2,,,,0
-1412163000,Shandong Taishan,Qingdao FC,3,0,,,,0
-1412163900,Shanghai Shenhua,Jiangsu Suning,0,2,,,,0
-1413975600,Qingdao FC,Shandong Taishan,0,3,,,,0
-1414064100,Jiangsu Suning,Shanghai Shenhua,3,0,,,,0
-1415518500,Shandong Taishan,Jiangsu Suning,4,2,,,,0
-1416639600,Jiangsu Suning,Shandong Taishan,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1397541600,Dalian Wanqianguan,Qingdao FC,,IcVGZjaT,2,3,,,,0
+1397543400,Shenyan Dongjin,Beijing Technology,MXCHmeIM,IwoOwT3M,0,4,,,,0
+1397545200,Zhaoqing Hengtai,Hunan Billows,,GAl6qbUk,0,0,Pen,0,1,0
+1397545200,Suzhou Jinfu,Beijing Sport University,,4GUSfyLN,2,2,Pen,3,2,0
+1397545200,Qingdao Kunpeng,Guangdong,EHnQZYp6,vmnKv9lG,0,2,,,,0
+1397559600,Dalian Chaoyue,Tianjin Tianhai,,vTDpGngO,1,1,Pen,1,2,0
+1397629800,Riverside Garden,Shenyang Zhongze,,llGdPdE6,0,6,,,,0
+1397631600,Yunnan Feihu F.C.,Chengdu Tiancheng,td2gHRa2,fgNUPaDK,2,1,,,,0
+1397631600,Tianjin Locomotive,Chongqing Liangjiang Athletic,nJIpa6rA,IwoOwT3M,0,2,,,,0
+1397631600,Sichuan Lidashi,Qingdao Hainiu,,h4caPP9m,0,3,,,,0
+1397631600,Jiangxi Lushan,Yanbian Longding,WtcR44US,MDOGhig8,0,1,,,,0
+1397631600,Guizhou,Hebei,OhFbPUqL,lMgch5pg,2,0,,,,0
+1397633400,Meizhou Hakka,Cangzhou,69CHvUVa,MTEwiRTq,4,0,,,,0
+1397647800,Wuhan Hongxing,Wuhan FC,,pbC5VOeU,1,0,,,,0
+1397647800,Meixian Juncheng,Shenzhen,pOPkhUmn,A1TBw3zO,1,1,Pen,1,2,0
+1397647800,Hangzhou Zhipu,Xinjiang Tianshan,,Str9E0eP,3,2,,,,0
+1405252800,Guizhou,Guangzhou City,OhFbPUqL,niM2dYV4,1,3,,,,0
+1405407600,Beijing Technology,Zhejiang Professional,IwoOwT3M,j1jME9Xt,2,2,Pen,2,3,0
+1405409400,Yanbian Longding,Dalian Pro,MDOGhig8,f151I1Xc,2,0,,,,0
+1405411200,Shenzhen,Shandong Taishan,A1TBw3zO,Of01Mw8S,0,5,,,,0
+1405411200,Meizhou Hakka,Shanghai Shenxin,69CHvUVa,fgNUPaDK,1,2,,,,0
+1405423800,Tianjin Tianhai,Beijing Renhe,vTDpGngO,x60uiMCN,0,2,,,,0
+1405423800,Shenyang Zhongze,Beijing Guoan,llGdPdE6,fgNUPaDK,0,1,,,,0
+1405423800,Qingdao FC,Tianjin Jinmen Tiger,IcVGZjaT,A5sD8c6B,4,1,,,,0
+1405423800,Hunan Billows,Jiangsu Suning,GAl6qbUk,tnFE8H64,1,2,,,,0
+1405423800,Chongqing Liangjiang Athletic,Shanghai Shenhua,IwoOwT3M,xEhCoufj,0,3,,,,0
+1405425600,Guangdong,Guangzhou FC,vmnKv9lG,fgNUPaDK,0,1,,,,0
+1405495800,Qingdao Hainiu,Changchun Yatai,h4caPP9m,G2OQQubE,3,2,,,,0
+1405497600,Yunnan Feihu F.C.,Shaoxing Keqiao Yuejia,td2gHRa2,QZnlcN79,0,0,Pen,1,0,0
+1405499400,Wuhan Hongxing,Shanghai Port,,4Iubiv1h,0,0,Pen,1,0,0
+1405510200,Suzhou Jinfu,Liaoning,,fgNUPaDK,0,0,Pen,1,0,0
+1405510500,Hangzhou Zhipu,Henan Songshan Longmen,,fgNUPaDK,0,4,,,,0
+1406100600,Yanbian Longding,Shanghai Shenhua,MDOGhig8,xEhCoufj,1,2,,,,0
+1406100600,Qingdao Hainiu,Zhejiang Professional,h4caPP9m,j1jME9Xt,0,0,Pen,1,0,0
+1406102400,Yunnan Feihu F.C.,Jiangsu Suning,td2gHRa2,tnFE8H64,1,2,,,,0
+1406115000,Beijing Renhe,Beijing Guoan,x60uiMCN,fgNUPaDK,0,3,,,,0
+1406116800,Guangzhou City,Shandong Taishan,niM2dYV4,Of01Mw8S,0,1,,,,0
+1406189100,Wuhan Hongxing,Qingdao FC,,IcVGZjaT,2,2,Pen,2,3,0
+1406201400,Suzhou Jinfu,Shanghai Shenxin,,fgNUPaDK,1,2,,,,0
+1406203200,Henan Songshan Longmen,Guangzhou FC,fgNUPaDK,fgNUPaDK,2,1,,,,0
+1407310200,Qingdao Hainiu,Jiangsu Suning,h4caPP9m,tnFE8H64,1,2,,,,0
+1407324600,Qingdao FC,Henan Songshan Longmen,IcVGZjaT,fgNUPaDK,1,1,Pen,2,1,0
+1407324600,Beijing Guoan,Shandong Taishan,fgNUPaDK,Of01Mw8S,1,1,Pen,1,2,0
+1407325500,Shanghai Shenhua,Shanghai Shenxin,xEhCoufj,fgNUPaDK,4,2,,,,0
+1412163000,Shandong Taishan,Qingdao FC,Of01Mw8S,IcVGZjaT,3,0,,,,0
+1412163900,Shanghai Shenhua,Jiangsu Suning,xEhCoufj,tnFE8H64,0,2,,,,0
+1413975600,Qingdao FC,Shandong Taishan,IcVGZjaT,Of01Mw8S,0,3,,,,0
+1414064100,Jiangsu Suning,Shanghai Shenhua,tnFE8H64,xEhCoufj,3,0,,,,0
+1415518500,Shandong Taishan,Jiangsu Suning,Of01Mw8S,tnFE8H64,4,2,,,,0
+1416639600,Jiangsu Suning,Shandong Taishan,tnFE8H64,Of01Mw8S,2,1,,,,0

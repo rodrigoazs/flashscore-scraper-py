@@ -1,58 +1,58 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1468022400,La Serena,S. Wanderers,3,1,,,,0
-1468080000,Nublense,Colo Colo,0,0,,,,0
-1468090800,Copiapo,Cobresal,0,1,,,,0
-1468092600,Union La Calera,San Luis,2,2,,,,0
-1468101600,Rangers,O'Higgins,1,3,,,,0
-1468101600,D. Puerto Montt,Deportes Temuco,0,2,,,,0
-1468101600,Coquimbo,Palestino,0,6,,,,0
-1468166400,Magallanes,U. Espanola,1,2,,,,0
-1468166400,Deportes Iquique,San Marcos de Arica,2,0,,,,0
-1468179000,Iberia,Huachipato,1,5,,,,0
-1468180800,Cobreloa,Antofagasta,1,0,,,,0
-1468186200,Curico Unido,A. Italiano,1,1,,,,0
-1468279800,S. Morning,U. Catolica,2,0,,,,0
-1468440000,San Felipe,Everton,1,3,,,,0
-1468625400,A. Italiano,Curico Unido,1,0,,,,0
-1468684800,San Luis,Union La Calera,2,1,,,,0
-1468695600,O'Higgins,Rangers,3,1,,,,0
-1468695600,Huachipato,Iberia,1,1,,,,0
-1468695600,Deportes Temuco,D. Puerto Montt,3,1,,,,0
-1468695600,Cobresal,Copiapo,3,1,,,,0
-1468697400,Palestino,Coquimbo,1,0,,,,0
-1468704600,U. Espanola,Magallanes,0,1,Pen,1,1,0
-1468771200,U. Catolica,S. Morning,3,0,,,,0
-1468782000,San Marcos de Arica,Deportes Iquique,2,2,,,,0
-1468782000,S. Wanderers,La Serena,2,1,,,,0
-1468785600,Antofagasta,Cobreloa,1,1,,,,0
-1468791000,Colo Colo,Nublense,2,1,,,,0
-1469057400,Everton,San Felipe,3,0,,,,0
-1473975000,U. Espanola,O'Higgins,4,0,,,,0
-1473980400,Cobreloa,La Serena,3,0,,,,0
-1473982200,A. Italiano,Copiapo,3,1,,,,0
-1474048800,Huachipato,Colo Colo,2,1,,,,0
-1474484400,Deportes Iquique,U. De Chile,1,1,,,,0
-1474493400,O'Higgins,U. Espanola,1,2,,,,0
-1474497000,U. De Concepcion,San Luis,0,1,,,,0
-1474502400,U. Catolica,Deportes Temuco,2,1,,,,0
-1475017200,Colo Colo,Huachipato,3,1,,,,0
-1475089200,Copiapo,A. Italiano,2,2,,,,0
-1475094600,Deportes Temuco,U. Catolica,1,2,,,,0
-1475100000,La Serena,Cobreloa,0,0,,,,0
-1475103600,U. De Chile,Deportes Iquique,2,2,Pen,3,2,0
-1475866800,Palestino,Everton,0,1,,,,0
-1475964000,San Luis,U. De Concepcion,1,0,,,,0
-1476831600,San Luis,A. Italiano,2,4,,,,0
-1476919800,U. Catolica,U. De Chile,2,0,,,,0
-1477004400,Cobreloa,Colo Colo,1,2,,,,0
-1477351800,U. De Chile,U. Catolica,3,3,,,,0
-1477436400,A. Italiano,San Luis,1,3,Pen,2,3,0
-1477521000,Colo Colo,Cobreloa,3,1,,,,0
-1478215800,Everton,Palestino,1,1,,,,0
-1478820600,U. Espanola,Everton,1,2,,,,0
-1479166200,Everton,U. Espanola,0,0,,,,0
-1479942000,U. Catolica,Colo Colo,0,1,,,,0
-1479943800,Everton,A. Italiano,3,2,,,,0
-1480546800,Colo Colo,U. Catolica,2,0,,,,0
-1480548600,A. Italiano,Everton,0,1,,,,0
-1481756400,Colo Colo,Everton,4,0,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1468022400,La Serena,S. Wanderers,Mkzo6oBm,Miq6wRQG,3,1,,,,0
+1468080000,Nublense,Colo Colo,dveS6wJe,tnwDCzLD,0,0,,,,0
+1468090800,Copiapo,Cobresal,tQ72aRuk,p8NClxtb,0,1,,,,0
+1468092600,Union La Calera,San Luis,WYtEUtB2,6PYUqcOT,2,2,,,,0
+1468101600,Rangers,O'Higgins,ADg61nKB,fRWXW3MH,1,3,,,,0
+1468101600,D. Puerto Montt,Deportes Temuco,lGGssG8o,r3gSTAGA,0,2,,,,0
+1468101600,Coquimbo,Palestino,hMng3olL,zPORy6uL,0,6,,,,0
+1468166400,Magallanes,U. Espanola,4ryZkWNl,W0oo6a6a,1,2,,,,0
+1468166400,Deportes Iquique,San Marcos de Arica,2NbwlzJD,z1UcXQtj,2,0,,,,0
+1468179000,Iberia,Huachipato,AZCTXCE8,xIMey4eD,1,5,,,,0
+1468180800,Cobreloa,Antofagasta,IXRjJEDH,zV3V5ijb,1,0,,,,0
+1468186200,Curico Unido,A. Italiano,4xj1AAB3,6kEqxN0C,1,1,,,,0
+1468279800,S. Morning,U. Catolica,fwVbNTh9,nRWWeW7h,2,0,,,,0
+1468440000,San Felipe,Everton,IXRjJEDH,YoHxOTu3,1,3,,,,0
+1468625400,A. Italiano,Curico Unido,6kEqxN0C,4xj1AAB3,1,0,,,,0
+1468684800,San Luis,Union La Calera,6PYUqcOT,WYtEUtB2,2,1,,,,0
+1468695600,O'Higgins,Rangers,fRWXW3MH,ADg61nKB,3,1,,,,0
+1468695600,Huachipato,Iberia,xIMey4eD,AZCTXCE8,1,1,,,,0
+1468695600,Deportes Temuco,D. Puerto Montt,r3gSTAGA,lGGssG8o,3,1,,,,0
+1468695600,Cobresal,Copiapo,p8NClxtb,tQ72aRuk,3,1,,,,0
+1468697400,Palestino,Coquimbo,zPORy6uL,hMng3olL,1,0,,,,0
+1468704600,U. Espanola,Magallanes,W0oo6a6a,4ryZkWNl,0,1,Pen,1,1,0
+1468771200,U. Catolica,S. Morning,nRWWeW7h,fwVbNTh9,3,0,,,,0
+1468782000,San Marcos de Arica,Deportes Iquique,z1UcXQtj,2NbwlzJD,2,2,,,,0
+1468782000,S. Wanderers,La Serena,Miq6wRQG,Mkzo6oBm,2,1,,,,0
+1468785600,Antofagasta,Cobreloa,zV3V5ijb,IXRjJEDH,1,1,,,,0
+1468791000,Colo Colo,Nublense,tnwDCzLD,dveS6wJe,2,1,,,,0
+1469057400,Everton,San Felipe,YoHxOTu3,IXRjJEDH,3,0,,,,0
+1473975000,U. Espanola,O'Higgins,W0oo6a6a,fRWXW3MH,4,0,,,,0
+1473980400,Cobreloa,La Serena,IXRjJEDH,Mkzo6oBm,3,0,,,,0
+1473982200,A. Italiano,Copiapo,6kEqxN0C,tQ72aRuk,3,1,,,,0
+1474048800,Huachipato,Colo Colo,xIMey4eD,tnwDCzLD,2,1,,,,0
+1474484400,Deportes Iquique,U. De Chile,2NbwlzJD,fuSaShZI,1,1,,,,0
+1474493400,O'Higgins,U. Espanola,fRWXW3MH,W0oo6a6a,1,2,,,,0
+1474497000,U. De Concepcion,San Luis,Eq74Jcjl,6PYUqcOT,0,1,,,,0
+1474502400,U. Catolica,Deportes Temuco,nRWWeW7h,r3gSTAGA,2,1,,,,0
+1475017200,Colo Colo,Huachipato,tnwDCzLD,xIMey4eD,3,1,,,,0
+1475089200,Copiapo,A. Italiano,tQ72aRuk,6kEqxN0C,2,2,,,,0
+1475094600,Deportes Temuco,U. Catolica,r3gSTAGA,nRWWeW7h,1,2,,,,0
+1475100000,La Serena,Cobreloa,Mkzo6oBm,IXRjJEDH,0,0,,,,0
+1475103600,U. De Chile,Deportes Iquique,fuSaShZI,2NbwlzJD,2,2,Pen,3,2,0
+1475866800,Palestino,Everton,zPORy6uL,YoHxOTu3,0,1,,,,0
+1475964000,San Luis,U. De Concepcion,6PYUqcOT,Eq74Jcjl,1,0,,,,0
+1476831600,San Luis,A. Italiano,6PYUqcOT,6kEqxN0C,2,4,,,,0
+1476919800,U. Catolica,U. De Chile,nRWWeW7h,fuSaShZI,2,0,,,,0
+1477004400,Cobreloa,Colo Colo,IXRjJEDH,tnwDCzLD,1,2,,,,0
+1477351800,U. De Chile,U. Catolica,fuSaShZI,nRWWeW7h,3,3,,,,0
+1477436400,A. Italiano,San Luis,6kEqxN0C,6PYUqcOT,1,3,Pen,2,3,0
+1477521000,Colo Colo,Cobreloa,tnwDCzLD,IXRjJEDH,3,1,,,,0
+1478215800,Everton,Palestino,YoHxOTu3,zPORy6uL,1,1,,,,0
+1478820600,U. Espanola,Everton,W0oo6a6a,YoHxOTu3,1,2,,,,0
+1479166200,Everton,U. Espanola,YoHxOTu3,W0oo6a6a,0,0,,,,0
+1479942000,U. Catolica,Colo Colo,nRWWeW7h,tnwDCzLD,0,1,,,,0
+1479943800,Everton,A. Italiano,YoHxOTu3,6kEqxN0C,3,2,,,,0
+1480546800,Colo Colo,U. Catolica,tnwDCzLD,nRWWeW7h,2,0,,,,0
+1480548600,A. Italiano,Everton,6kEqxN0C,YoHxOTu3,0,1,,,,0
+1481756400,Colo Colo,Everton,tnwDCzLD,YoHxOTu3,4,0,,,,1

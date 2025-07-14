@@ -1,54 +1,54 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1277301600,Lokomotiv Gomel,Kletsk,3,2,,,,0
-1277301600,Energetik-BGU,Gorodeja,0,3,,,,0
-1277303400,Spartak Shklov,Slavia Mozyr,1,3,,,,0
-1277303400,Orsha,Slutsk,1,4,,,,0
-1277305200,Zhlobin,Rechitsa,1,6,,,,0
-1277305200,Vertical,Rudensk,1,2,,,,0
-1277305200,Torpedo Minsk,Veras,0,7,,,,0
-1277305200,Osipovichi,Belcard Grodno,1,1,Pen,2,1,0
-1277305200,Isloch,Chimik Svetlogorsk,0,2,,,,0
-1277305200,Gazovik Vitebsk,Kommunalnik Slonim,1,1,AET,2,3,0
-1277305200,FC Slonim,Lida,0,1,,,,0
-1277305200,Dzerzhinsk,Baranovici,0,1,,,,0
-1277305200,Byaroza 2010,SKVICH Minsk,0,0,Pen,0,1,0
-1277308800,Smolevichi,Polotsk,0,1,,,,0
-1277308800,Neman Mosty,Smorgon,1,2,,,,0
-1277391600,Technolog Mogilev,Molodechno,0,4,,,,0
-1278514800,Baranovici,BATE,0,3,,,,0
-1279368000,Gorodeja,Mikashevichi,3,0,,,,0
-1279375200,Lokomotiv Gomel,Neman,1,5,,,,0
-1279378800,Veras,Shakhtyor Soligorsk,0,3,,,,0
-1279378800,Slutsk,FC Minsk,0,7,,,,0
-1279378800,Polotsk,DSK Gomel,0,1,,,,0
-1279378800,Osipovichi,Volna Pinsk,0,7,,,,0
-1279378800,Molodechno,FC Gomel,0,5,,,,0
-1279378800,Lida,Belshina,1,3,,,,0
-1279378800,Chimik Svetlogorsk,Vitebsk,2,2,AET,2,3,0
-1279465200,SKVICH Minsk,Partizan Minsk,1,1,Pen,1,2,0
-1279465200,Rudensk,Dnepr Mogilev,2,1,,,,0
-1279465200,Rechitsa,Dynamo Brest,0,2,,,,0
-1279465200,Kommunalnik Slonim,Zhodino,2,0,,,,0
-1279467000,Slavia Mozyr,Naftan,0,1,,,,0
-1279468800,Smorgon,Din. Minsk,1,2,,,,0
-1285158600,Naftan,Gorodeja,4,2,,,,0
-1285160400,Rudensk,FC Gomel,0,5,,,,0
-1285160400,FC Minsk,DSK Gomel,1,1,AET,3,1,0
-1285160400,Belshina,Kommunalnik Slonim,1,1,AET,2,1,0
-1285164000,Vitebsk,Neman,1,1,Pen,1,2,0
-1285171200,Shakhtyor Soligorsk,Volna Pinsk,0,0,AET,4,0,0
-1288180800,Partizan Minsk,Din. Minsk,1,0,,,,0
-1290866400,BATE,Dynamo Brest,0,1,,,,0
-1298986200,Shakhtyor Soligorsk,Dynamo Brest,2,1,,,,0
-1299067200,Belshina,FC Minsk,0,1,,,,0
-1299078000,Partizan Minsk,FC Gomel,0,0,,,,0
-1299085200,Neman,Naftan,1,1,,,,0
-1299330000,Dynamo Brest,Shakhtyor Soligorsk,1,1,,,,0
-1299412800,Naftan,Neman,0,2,,,,0
-1299416400,FC Gomel,Partizan Minsk,3,2,,,,0
-1299427200,FC Minsk,Belshina,0,2,,,,0
-1300021200,Belshina,Neman,0,1,,,,0
-1300024800,FC Gomel,Shakhtyor Soligorsk,2,1,,,,0
-1300626000,Shakhtyor Soligorsk,FC Gomel,1,2,,,,0
-1300629600,Neman,Belshina,0,0,,,,0
-1306677000,Neman,FC Gomel,0,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1277301600,Lokomotiv Gomel,Kletsk,O2QBcAHa,W8VgOEx5,3,2,,,,0
+1277301600,Energetik-BGU,Gorodeja,UotIUo8H,O092XFIM,0,3,,,,0
+1277303400,Spartak Shklov,Slavia Mozyr,pU2mHM9O,KtzYA4l8,1,3,,,,0
+1277303400,Orsha,Slutsk,8jKzhszp,l6uHH2BF,1,4,,,,0
+1277305200,Zhlobin,Rechitsa,WA0zmJPd,WOkPxrcn,1,6,,,,0
+1277305200,Vertical,Rudensk,OtNCFOTr,WOkPxrcn,1,2,,,,0
+1277305200,Torpedo Minsk,Veras,0QIR4uLh,40Sv87qG,0,7,,,,0
+1277305200,Osipovichi,Belcard Grodno,hKJmiP1d,dSvEVQkJ,1,1,Pen,2,1,0
+1277305200,Isloch,Chimik Svetlogorsk,WjYPq7GL,AebtC1G9,0,2,,,,0
+1277305200,Gazovik Vitebsk,Kommunalnik Slonim,bm5Z2ZYO,WYQphRLr,1,1,AET,2,3,0
+1277305200,FC Slonim,Lida,tdK9vIsA,SlMW1IRD,0,1,,,,0
+1277305200,Dzerzhinsk,Baranovici,d2975gtg,63NqBPho,0,1,,,,0
+1277305200,Byaroza 2010,SKVICH Minsk,2i86WZXS,CY3qRN5i,0,0,Pen,0,1,0
+1277308800,Smolevichi,Polotsk,neGx7frc,WA0zmJPd,0,1,,,,0
+1277308800,Neman Mosty,Smorgon,AFMJzx8S,bBFPiWrD,1,2,,,,0
+1277391600,Technolog Mogilev,Molodechno,tzoLIEP5,vPy7FsDN,0,4,,,,0
+1278514800,Baranovici,BATE,63NqBPho,2uzi9uYj,0,3,,,,0
+1279368000,Gorodeja,Mikashevichi,O092XFIM,tOKKD2be,3,0,,,,0
+1279375200,Lokomotiv Gomel,Neman,O2QBcAHa,Y74BTQZ8,1,5,,,,0
+1279378800,Veras,Shakhtyor Soligorsk,40Sv87qG,AT53cBWn,0,3,,,,0
+1279378800,Slutsk,FC Minsk,l6uHH2BF,KU5prZRt,0,7,,,,0
+1279378800,Polotsk,DSK Gomel,WA0zmJPd,Gx7aHdhk,0,1,,,,0
+1279378800,Osipovichi,Volna Pinsk,hKJmiP1d,SvZj82Kc,0,7,,,,0
+1279378800,Molodechno,FC Gomel,vPy7FsDN,8IAnrpV2,0,5,,,,0
+1279378800,Lida,Belshina,SlMW1IRD,xYOcPFCn,1,3,,,,0
+1279378800,Chimik Svetlogorsk,Vitebsk,AebtC1G9,jy73afvM,2,2,AET,2,3,0
+1279465200,SKVICH Minsk,Partizan Minsk,CY3qRN5i,zVJMgvaS,1,1,Pen,1,2,0
+1279465200,Rudensk,Dnepr Mogilev,WOkPxrcn,n3EODL5E,2,1,,,,0
+1279465200,Rechitsa,Dynamo Brest,WOkPxrcn,OSiGCyjG,0,2,,,,0
+1279465200,Kommunalnik Slonim,Zhodino,WYQphRLr,23zIqwQ6,2,0,,,,0
+1279467000,Slavia Mozyr,Naftan,KtzYA4l8,E7NOD7nb,0,1,,,,0
+1279468800,Smorgon,Din. Minsk,bBFPiWrD,xUKWlpRC,1,2,,,,0
+1285158600,Naftan,Gorodeja,E7NOD7nb,O092XFIM,4,2,,,,0
+1285160400,Rudensk,FC Gomel,WOkPxrcn,8IAnrpV2,0,5,,,,0
+1285160400,FC Minsk,DSK Gomel,KU5prZRt,Gx7aHdhk,1,1,AET,3,1,0
+1285160400,Belshina,Kommunalnik Slonim,xYOcPFCn,WYQphRLr,1,1,AET,2,1,0
+1285164000,Vitebsk,Neman,jy73afvM,Y74BTQZ8,1,1,Pen,1,2,0
+1285171200,Shakhtyor Soligorsk,Volna Pinsk,AT53cBWn,SvZj82Kc,0,0,AET,4,0,0
+1288180800,Partizan Minsk,Din. Minsk,zVJMgvaS,xUKWlpRC,1,0,,,,0
+1290866400,BATE,Dynamo Brest,2uzi9uYj,OSiGCyjG,0,1,,,,0
+1298986200,Shakhtyor Soligorsk,Dynamo Brest,AT53cBWn,OSiGCyjG,2,1,,,,0
+1299067200,Belshina,FC Minsk,xYOcPFCn,KU5prZRt,0,1,,,,0
+1299078000,Partizan Minsk,FC Gomel,zVJMgvaS,8IAnrpV2,0,0,,,,0
+1299085200,Neman,Naftan,Y74BTQZ8,E7NOD7nb,1,1,,,,0
+1299330000,Dynamo Brest,Shakhtyor Soligorsk,OSiGCyjG,AT53cBWn,1,1,,,,0
+1299412800,Naftan,Neman,E7NOD7nb,Y74BTQZ8,0,2,,,,0
+1299416400,FC Gomel,Partizan Minsk,8IAnrpV2,zVJMgvaS,3,2,,,,0
+1299427200,FC Minsk,Belshina,KU5prZRt,xYOcPFCn,0,2,,,,0
+1300021200,Belshina,Neman,xYOcPFCn,Y74BTQZ8,0,1,,,,0
+1300024800,FC Gomel,Shakhtyor Soligorsk,8IAnrpV2,AT53cBWn,2,1,,,,0
+1300626000,Shakhtyor Soligorsk,FC Gomel,AT53cBWn,8IAnrpV2,1,2,,,,0
+1300629600,Neman,Belshina,Y74BTQZ8,xYOcPFCn,0,0,,,,0
+1306677000,Neman,FC Gomel,Y74BTQZ8,8IAnrpV2,0,2,,,,0

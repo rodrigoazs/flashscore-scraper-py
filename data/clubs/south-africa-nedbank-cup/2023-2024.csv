@@ -1,40 +1,40 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1701781200,Platinum City,Marumo Gallants,3,1,,,,0
-1701781200,Orbit College,JDR Stars,0,1,,,,0
-1701781200,Magesi,Pretoria Callies,0,1,,,,0
-1701781200,Casric Stars,Hungry Lions,0,2,,,,0
-1701783000,Baroka,NB La Masia,2,2,Pen,3,4,0
-1701867600,Venda,Pretoria U.,1,1,Pen,1,2,0
-1701867600,Milford FC,Upington City,2,0,,,,0
-1701867600,Durban City,Black Leopards,2,1,,,,0
-1708448400,Supersport Utd,Cape Town City,1,1,Pen,2,1,0
-1708448400,NB La Masia,Mamelodi Sundowns,1,6,,,,0
-1708534800,Pretoria U.,Cape Town Spurs,1,0,,,,0
-1708534800,Highlands,Sekhukhune,0,0,Pen,1,2,0
-1708621200,AmaZulu,Royal AM,1,0,,,,0
-1708707600,Stellenbosch,Pretoria Callies,1,1,Pen,2,1,0
-1708707600,Golden Arrows,TS Galaxy,1,2,,,,0
-1708779600,Ravens,Spain,1,1,Pen,2,1,0
-1708779600,Platinum City,Swallows,0,0,Pen,0,1,0
-1708779600,JDR Stars,Hungry Lions,0,0,AET,0,1,0
-1708779600,Crystal Lake,Orlando Pirates,0,6,,,,0
-1708790400,Richards Bay,Polokwane,3,2,,,,0
-1708866000,NC Professionals,Chippa Utd.,1,2,,,,0
-1708866000,D'General,Madridtas,2,0,,,,0
-1708866000,Durban City,Paarl United,3,0,,,,0
-1708876800,Kaizer Chiefs,Milford FC,0,0,Pen,0,1,0
-1710349200,Pretoria U.,Swallows,2,1,,,,0
-1710435600,Sekhukhune,AmaZulu,0,2,,,,0
-1710522000,Milford FC,Stellenbosch,1,6,,,,0
-1710594000,Richards Bay,Supersport Utd,1,3,,,,0
-1710594000,Chippa Utd.,Ravens,1,1,AET,2,1,0
-1710604800,Orlando Pirates,Hungry Lions,4,0,,,,0
-1710680400,D'General,TS Galaxy,0,3,,,,0
-1710691200,Mamelodi Sundowns,Durban City,2,0,,,,0
-1712941200,Pretoria U.,Mamelodi Sundowns,1,1,Pen,1,2,0
-1713013200,Stellenbosch,Supersport Utd,4,0,,,,0
-1713024000,AmaZulu,Orlando Pirates,2,4,,,,0
-1713099600,TS Galaxy,Chippa Utd.,0,2,,,,0
-1714827600,Chippa Utd.,Orlando Pirates,1,3,,,,0
-1714914000,Stellenbosch,Mamelodi Sundowns,1,2,,,,0
-1717246800,Mamelodi Sundowns,Orlando Pirates,1,2,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1701781200,Platinum City,Marumo Gallants,Ymvu6oHm,40UZaJLO,3,1,,,,0
+1701781200,Orbit College,JDR Stars,d2qS1nzp,O4whVBfT,0,1,,,,0
+1701781200,Magesi,Pretoria Callies,biVLbP9r,W4Lh3Qc8,0,1,,,,0
+1701781200,Casric Stars,Hungry Lions,0xq9P7Pa,UZ7T21fE,0,2,,,,0
+1701783000,Baroka,NB La Masia,StEzXyoG,t8QjYKwe,2,2,Pen,3,4,0
+1701867600,Venda,Pretoria U.,Ymvu6oHm,QV8muo4m,1,1,Pen,1,2,0
+1701867600,Milford FC,Upington City,C6eX876G,hjvnl8cs,2,0,,,,0
+1701867600,Durban City,Black Leopards,6RTAg0C5,8l3GGez7,2,1,,,,0
+1708448400,Supersport Utd,Cape Town City,4UX5t7jk,MPjOzN1I,1,1,Pen,2,1,0
+1708448400,NB La Masia,Mamelodi Sundowns,t8QjYKwe,x2G2Q2c3,1,6,,,,0
+1708534800,Pretoria U.,Cape Town Spurs,QV8muo4m,QJM4feF8,1,0,,,,0
+1708534800,Highlands,Sekhukhune,EJDTjQbJ,4lOQacKt,0,0,Pen,1,2,0
+1708621200,AmaZulu,Royal AM,6Fg6xWE0,nu2KFFkD,1,0,,,,0
+1708707600,Stellenbosch,Pretoria Callies,K2asz6S7,W4Lh3Qc8,1,1,Pen,2,1,0
+1708707600,Golden Arrows,TS Galaxy,8l3GGez7,EJm9aI2J,1,2,,,,0
+1708779600,Ravens,Spain,dtMusEaR,,1,1,Pen,2,1,0
+1708779600,Platinum City,Swallows,Ymvu6oHm,GleYn96t,0,0,Pen,0,1,0
+1708779600,JDR Stars,Hungry Lions,O4whVBfT,UZ7T21fE,0,0,AET,0,1,0
+1708779600,Crystal Lake,Orlando Pirates,,KAV9ypMU,0,6,,,,0
+1708790400,Richards Bay,Polokwane,d2qS1nzp,U3PAwmEl,3,2,,,,0
+1708866000,NC Professionals,Chippa Utd.,WYddGXlr,zLGv32Ri,1,2,,,,0
+1708866000,D'General,Madridtas,ba3nJWwA,2mtIs08S,2,0,,,,0
+1708866000,Durban City,Paarl United,6RTAg0C5,GMnGJxEG,3,0,,,,0
+1708876800,Kaizer Chiefs,Milford FC,MeBJ238q,C6eX876G,0,0,Pen,0,1,0
+1710349200,Pretoria U.,Swallows,QV8muo4m,GleYn96t,2,1,,,,0
+1710435600,Sekhukhune,AmaZulu,4lOQacKt,6Fg6xWE0,0,2,,,,0
+1710522000,Milford FC,Stellenbosch,C6eX876G,K2asz6S7,1,6,,,,0
+1710594000,Richards Bay,Supersport Utd,d2qS1nzp,4UX5t7jk,1,3,,,,0
+1710594000,Chippa Utd.,Ravens,zLGv32Ri,dtMusEaR,1,1,AET,2,1,0
+1710604800,Orlando Pirates,Hungry Lions,KAV9ypMU,UZ7T21fE,4,0,,,,0
+1710680400,D'General,TS Galaxy,ba3nJWwA,EJm9aI2J,0,3,,,,0
+1710691200,Mamelodi Sundowns,Durban City,x2G2Q2c3,6RTAg0C5,2,0,,,,0
+1712941200,Pretoria U.,Mamelodi Sundowns,QV8muo4m,x2G2Q2c3,1,1,Pen,1,2,0
+1713013200,Stellenbosch,Supersport Utd,K2asz6S7,4UX5t7jk,4,0,,,,0
+1713024000,AmaZulu,Orlando Pirates,6Fg6xWE0,KAV9ypMU,2,4,,,,0
+1713099600,TS Galaxy,Chippa Utd.,EJm9aI2J,zLGv32Ri,0,2,,,,0
+1714827600,Chippa Utd.,Orlando Pirates,zLGv32Ri,KAV9ypMU,1,3,,,,0
+1714914000,Stellenbosch,Mamelodi Sundowns,K2asz6S7,x2G2Q2c3,1,2,,,,0
+1717246800,Mamelodi Sundowns,Orlando Pirates,x2G2Q2c3,KAV9ypMU,1,2,,,,1

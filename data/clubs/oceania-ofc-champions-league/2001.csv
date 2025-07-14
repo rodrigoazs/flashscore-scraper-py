@@ -1,30 +1,30 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-979023600,Lotohaapai,Wollongong Wolves,0,16,,,,0
-979023600,Lahi,Napier City,0,2,,,,0
-979023600,Labasa,Laugu,1,3,,,,0
-979110000,Venus,PanSa,2,0,,,,0
-979110000,Tafea,Titavi,5,1,,,,0
-979196400,Wollongong Wolves,Labasa,5,0,,,,0
-979196400,Napier City,Laugu,1,1,,,,0
-979196400,Lahi,Lotohaapai,5,2,,,,0
-979282800,Titavi,Venus,0,6,,,,0
-979282800,PanSa,Tupapa,0,2,,,,0
-979369200,Lotohaapai,Napier City,0,9,,,,0
-979369200,Laugu,Wollongong Wolves,0,10,,,,0
-979369200,Labasa,Lahi,1,3,,,,0
-979455600,Venus,Tupapa,10,1,,,,0
-979455600,Tafea,PanSa,2,0,,,,0
-979542000,Wollongong Wolves,Lahi,6,0,,,,0
-979542000,Laugu,Lotohaapai,7,0,,,,0
-979542000,Labasa,Napier City,0,4,,,,0
-979628400,Tupapa,Tafea,0,9,,,,0
-979628400,PanSa,Titavi,0,2,,,,0
-979714800,Napier City,Wollongong Wolves,0,1,,,,0
-979714800,Lotohaapai,Labasa,2,5,,,,0
-979714800,Lahi,Laugu,2,8,,,,0
-979801200,Titavi,Tupapa,2,0,,,,0
-979801200,Tafea,Venus,6,0,,,,0
-979956000,Wollongong Wolves,Venus,4,2,,,,0
-979965000,Tafea,Napier City,4,2,,,,0
-980128800,Venus,Napier City,2,3,,,,0
-980137800,Wollongong Wolves,Tafea,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+979023600,Lotohaapai,Wollongong Wolves,6Ld0aIU5,nuKJ7qCF,0,16,,,,0
+979023600,Lahi,Napier City,,fcc2PHA2,0,2,,,,0
+979023600,Labasa,Laugu,YajMy4UH,,1,3,,,,0
+979110000,Venus,PanSa,SOSC5LRG,,2,0,,,,0
+979110000,Tafea,Titavi,hp3nk3Ne,,5,1,,,,0
+979196400,Wollongong Wolves,Labasa,nuKJ7qCF,YajMy4UH,5,0,,,,0
+979196400,Napier City,Laugu,fcc2PHA2,,1,1,,,,0
+979196400,Lahi,Lotohaapai,,6Ld0aIU5,5,2,,,,0
+979282800,Titavi,Venus,,SOSC5LRG,0,6,,,,0
+979282800,PanSa,Tupapa,,WUCWRIXm,0,2,,,,0
+979369200,Lotohaapai,Napier City,6Ld0aIU5,fcc2PHA2,0,9,,,,0
+979369200,Laugu,Wollongong Wolves,,nuKJ7qCF,0,10,,,,0
+979369200,Labasa,Lahi,YajMy4UH,,1,3,,,,0
+979455600,Venus,Tupapa,SOSC5LRG,WUCWRIXm,10,1,,,,0
+979455600,Tafea,PanSa,hp3nk3Ne,,2,0,,,,0
+979542000,Wollongong Wolves,Lahi,nuKJ7qCF,,6,0,,,,0
+979542000,Laugu,Lotohaapai,,6Ld0aIU5,7,0,,,,0
+979542000,Labasa,Napier City,YajMy4UH,fcc2PHA2,0,4,,,,0
+979628400,Tupapa,Tafea,WUCWRIXm,hp3nk3Ne,0,9,,,,0
+979628400,PanSa,Titavi,,,0,2,,,,0
+979714800,Napier City,Wollongong Wolves,fcc2PHA2,nuKJ7qCF,0,1,,,,0
+979714800,Lotohaapai,Labasa,6Ld0aIU5,YajMy4UH,2,5,,,,0
+979714800,Lahi,Laugu,,,2,8,,,,0
+979801200,Titavi,Tupapa,,WUCWRIXm,2,0,,,,0
+979801200,Tafea,Venus,hp3nk3Ne,SOSC5LRG,6,0,,,,0
+979956000,Wollongong Wolves,Venus,nuKJ7qCF,SOSC5LRG,4,2,,,,0
+979965000,Tafea,Napier City,hp3nk3Ne,fcc2PHA2,4,2,,,,0
+980128800,Venus,Napier City,SOSC5LRG,fcc2PHA2,2,3,,,,0
+980137800,Wollongong Wolves,Tafea,nuKJ7qCF,hp3nk3Ne,1,0,,,,0

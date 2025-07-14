@@ -1,9 +1,9 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1339941600,Hurriyya,Al Wahda,0,0,,,,0
-1339941600,Foutoua,Al-Ittihad Aleppo,0,3,,,,0
-1339941600,Al-Jazeera,Al Taliya,3,0,Awrd,,,0
-1339941600,Al Majd,Al Shorta,2,1,,,,0
-1340200800,Al-Ittihad Aleppo,Foutoua,0,3,Awrd,,,0
-1340200800,Al Wahda,Hurriyya,3,0,,,,0
-1340200800,Al Taliya,Al-Jazeera,0,3,Awrd,,,0
-1340200800,Al Shorta,Al Majd,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1339941600,Hurriyya,Al Wahda,xMpp7wKs,ID9vdxZP,0,0,,,,0
+1339941600,Foutoua,Al-Ittihad Aleppo,SjuCZONf,MH0Vdx1R,0,3,,,,0
+1339941600,Al-Jazeera,Al Taliya,MH0Vdx1R,pf2RcIoL,3,0,Awrd,,,0
+1339941600,Al Majd,Al Shorta,MH0Vdx1R,pf2RcIoL,2,1,,,,0
+1340200800,Al-Ittihad Aleppo,Foutoua,MH0Vdx1R,SjuCZONf,0,3,Awrd,,,0
+1340200800,Al Wahda,Hurriyya,ID9vdxZP,xMpp7wKs,3,0,,,,0
+1340200800,Al Taliya,Al-Jazeera,pf2RcIoL,MH0Vdx1R,0,3,Awrd,,,0
+1340200800,Al Shorta,Al Majd,pf2RcIoL,MH0Vdx1R,3,0,,,,0

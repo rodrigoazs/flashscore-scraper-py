@@ -1,39 +1,39 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1191937500,Athens Kallithea,Kalamaria,1,2,,,,0
-1192015800,Thrasivoulos,PAOK,4,2,,,,0
-1192015800,Preveza,Veria,1,2,,,,0
-1192015800,O. Volos,Atromitos,1,1,Pen,1,2,0
-1192015800,Ethnikos Katerinis,Levadiakos,1,0,,,,0
-1192020300,PAE Egaleo,Xanthi FC,1,2,,,,0
-1192102200,Messiniakos,Asteras Tripolis,0,2,,,,0
-1192102200,Ilioupoli,AEL Larissa,0,4,,,,0
-1192102200,A. Asteras,Ergotelis,1,0,,,,0
-1192110300,Ag. Dimitrios,Aris,0,0,AET,0,1,0
-1193755500,O. Volos,Iraklis 1908,0,1,,,,0
-1193832000,Kastoria,Panionios,2,3,,,,0
-1193845500,E. Asteras,Panathinaikos,1,3,,,,0
-1193928300,Ethnikos Piraeus,OFI Crete,1,1,AET,1,2,0
-1193931900,Fostiras,AEK Athens FC,0,2,,,,0
-1196869500,Diagoras,Olympiacos Piraeus,1,2,,,,0
-1199883600,Thrasivoulos,Preveza,3,0,,,,0
-1199883600,A. Asteras,OFI Crete,1,1,,,,0
-1199893500,Ethnikos Katerinis,Aris,0,3,,,,0
-1199901600,Xanthi FC,AEK Athens FC,2,0,,,,0
-1199980200,Kalamaria,AEL Larissa,1,2,,,,0
-1200502200,Asteras Tripolis,Atromitos,0,1,,,,0
-1200511800,Olympiacos Piraeus,Panathinaikos,4,0,,,,0
-1200585000,Iraklis 1908,Panionios,1,0,,,,0
-1202911200,OFI Crete,A. Asteras,5,0,,,,0
-1204127100,Xanthi FC,Aris,0,0,,,,0
-1204135200,Olympiacos Piraeus,Iraklis 1908,2,0,,,,0
-1204212600,Atromitos,OFI Crete,3,1,,,,0
-1204727400,Thrasivoulos,AEL Larissa,1,0,,,,0
-1205933400,AEL Larissa,Thrasivoulos,1,3,,,,0
-1205941500,OFI Crete,Atromitos,2,1,,,,0
-1205949600,Iraklis 1908,Olympiacos Piraeus,2,2,,,,0
-1206027900,Aris,Xanthi FC,1,0,,,,0
-1207143900,Thrasivoulos,Olympiacos Piraeus,2,3,,,,0
-1207152000,Aris,Atromitos,1,0,,,,0
-1208360700,Atromitos,Aris,1,2,,,,0
-1208368800,Olympiacos Piraeus,Thrasivoulos,3,1,,,,0
-1211040000,Olympiacos Piraeus,Aris,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1191937500,Athens Kallithea,Kalamaria,pv20TE28,pdaFZERg,1,2,,,,0
+1192015800,Thrasivoulos,PAOK,zyRZyCkA,pvWT1yik,4,2,,,,0
+1192015800,Preveza,Veria,nXsy7y10,fBhYYDfj,1,2,,,,0
+1192015800,O. Volos,Atromitos,4pIxMs1T,2ahZzWpF,1,1,Pen,1,2,0
+1192015800,Ethnikos Katerinis,Levadiakos,fi8i9pR2,x4qSHSA3,1,0,,,,0
+1192020300,PAE Egaleo,Xanthi FC,n9kl6zsF,KOjUYEZE,1,2,,,,0
+1192102200,Messiniakos,Asteras Tripolis,Q1cUxcX3,SKrEYwI8,0,2,,,,0
+1192102200,Ilioupoli,AEL Larissa,G8e3RIPQ,bspvajO9,0,4,,,,0
+1192102200,A. Asteras,Ergotelis,r3eSU1yn,63P4RnDE,1,0,,,,0
+1192110300,Ag. Dimitrios,Aris,zPhhIbBM,0E6BYcd0,0,0,AET,0,1,0
+1193755500,O. Volos,Iraklis 1908,4pIxMs1T,2V0U0cEB,0,1,,,,0
+1193832000,Kastoria,Panionios,Otyz1q6A,rJD60RuT,2,3,,,,0
+1193845500,E. Asteras,Panathinaikos,vVSiDfbI,GM4Cu0wi,1,3,,,,0
+1193928300,Ethnikos Piraeus,OFI Crete,fRvdGgWl,hOZ2RkTP,1,1,AET,1,2,0
+1193931900,Fostiras,AEK Athens FC,KU9NSqCt,Aq4Rjd2q,0,2,,,,0
+1196869500,Diagoras,Olympiacos Piraeus,rcpXJkCc,lzmp9FUJ,1,2,,,,0
+1199883600,Thrasivoulos,Preveza,zyRZyCkA,nXsy7y10,3,0,,,,0
+1199883600,A. Asteras,OFI Crete,r3eSU1yn,hOZ2RkTP,1,1,,,,0
+1199893500,Ethnikos Katerinis,Aris,fi8i9pR2,0E6BYcd0,0,3,,,,0
+1199901600,Xanthi FC,AEK Athens FC,KOjUYEZE,Aq4Rjd2q,2,0,,,,0
+1199980200,Kalamaria,AEL Larissa,pdaFZERg,bspvajO9,1,2,,,,0
+1200502200,Asteras Tripolis,Atromitos,SKrEYwI8,2ahZzWpF,0,1,,,,0
+1200511800,Olympiacos Piraeus,Panathinaikos,lzmp9FUJ,GM4Cu0wi,4,0,,,,0
+1200585000,Iraklis 1908,Panionios,2V0U0cEB,rJD60RuT,1,0,,,,0
+1202911200,OFI Crete,A. Asteras,hOZ2RkTP,r3eSU1yn,5,0,,,,0
+1204127100,Xanthi FC,Aris,KOjUYEZE,0E6BYcd0,0,0,,,,0
+1204135200,Olympiacos Piraeus,Iraklis 1908,lzmp9FUJ,2V0U0cEB,2,0,,,,0
+1204212600,Atromitos,OFI Crete,2ahZzWpF,hOZ2RkTP,3,1,,,,0
+1204727400,Thrasivoulos,AEL Larissa,zyRZyCkA,bspvajO9,1,0,,,,0
+1205933400,AEL Larissa,Thrasivoulos,bspvajO9,zyRZyCkA,1,3,,,,0
+1205941500,OFI Crete,Atromitos,hOZ2RkTP,2ahZzWpF,2,1,,,,0
+1205949600,Iraklis 1908,Olympiacos Piraeus,2V0U0cEB,lzmp9FUJ,2,2,,,,0
+1206027900,Aris,Xanthi FC,0E6BYcd0,KOjUYEZE,1,0,,,,0
+1207143900,Thrasivoulos,Olympiacos Piraeus,zyRZyCkA,lzmp9FUJ,2,3,,,,0
+1207152000,Aris,Atromitos,0E6BYcd0,2ahZzWpF,1,0,,,,0
+1208360700,Atromitos,Aris,2ahZzWpF,0E6BYcd0,1,2,,,,0
+1208368800,Olympiacos Piraeus,Thrasivoulos,lzmp9FUJ,zyRZyCkA,3,1,,,,0
+1211040000,Olympiacos Piraeus,Aris,lzmp9FUJ,0E6BYcd0,2,0,,,,0

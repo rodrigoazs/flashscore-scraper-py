@@ -1,19 +1,19 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1666871100,Lion City,Balestier Khalsa,3,3,,,,0
-1666871100,Albirex Niigata,Young Lions,4,0,,,,0
-1666957500,Tanjong Pagar,Hougang,3,1,,,,0
-1666957500,Geylang,Tampines,2,3,,,,0
-1667216700,Young Lions,Lion City,1,1,,,,0
-1667216700,Albirex Niigata,Balestier Khalsa,1,0,,,,0
-1667303100,Tampines,Tanjong Pagar,4,1,,,,0
-1667303100,Hougang,Geylang,4,1,,,,0
-1667640600,Lion City,Albirex Niigata,1,2,,,,0
-1667640600,Balestier Khalsa,Young Lions,5,2,,,,0
-1667727000,Tanjong Pagar,Geylang,2,1,,,,0
-1667727000,Hougang,Tampines,1,0,,,,0
-1668167100,Tampines,Balestier Khalsa,8,1,,,,0
-1668167100,Albirex Niigata,Hougang,3,3,,,,0
-1668512700,Hougang,Albirex Niigata,4,2,,,,0
-1668512700,Balestier Khalsa,Tampines,0,1,,,,0
-1668771900,Albirex Niigata,Balestier Khalsa,3,2,,,,0
-1668850200,Hougang,Tampines,3,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1666871100,Lion City,Balestier Khalsa,pW3pRTln,MZaTAD0m,3,3,,,,0
+1666871100,Albirex Niigata,Young Lions,MkSbZgY3,jqXAnX3e,4,0,,,,0
+1666957500,Tanjong Pagar,Hougang,bwrRv2m2,4fcEsivK,3,1,,,,0
+1666957500,Geylang,Tampines,df9tRVup,d0hl69s2,2,3,,,,0
+1667216700,Young Lions,Lion City,jqXAnX3e,pW3pRTln,1,1,,,,0
+1667216700,Albirex Niigata,Balestier Khalsa,MkSbZgY3,MZaTAD0m,1,0,,,,0
+1667303100,Tampines,Tanjong Pagar,d0hl69s2,bwrRv2m2,4,1,,,,0
+1667303100,Hougang,Geylang,4fcEsivK,df9tRVup,4,1,,,,0
+1667640600,Lion City,Albirex Niigata,pW3pRTln,MkSbZgY3,1,2,,,,0
+1667640600,Balestier Khalsa,Young Lions,MZaTAD0m,jqXAnX3e,5,2,,,,0
+1667727000,Tanjong Pagar,Geylang,bwrRv2m2,df9tRVup,2,1,,,,0
+1667727000,Hougang,Tampines,4fcEsivK,d0hl69s2,1,0,,,,0
+1668167100,Tampines,Balestier Khalsa,d0hl69s2,MZaTAD0m,8,1,,,,0
+1668167100,Albirex Niigata,Hougang,MkSbZgY3,4fcEsivK,3,3,,,,0
+1668512700,Hougang,Albirex Niigata,4fcEsivK,MkSbZgY3,4,2,,,,0
+1668512700,Balestier Khalsa,Tampines,MZaTAD0m,d0hl69s2,0,1,,,,0
+1668771900,Albirex Niigata,Balestier Khalsa,MkSbZgY3,MZaTAD0m,3,2,,,,0
+1668850200,Hougang,Tampines,4fcEsivK,d0hl69s2,3,2,,,,0

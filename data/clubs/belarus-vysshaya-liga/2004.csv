@@ -1,242 +1,242 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1081980000,Zhodino,Partizan Minsk,3,0,,,,0
-1081980000,Vitebsk,Torpedo Minsk,0,1,,,,0
-1081980000,Slavia Mozyr,Darida,3,1,,,,0
-1081980000,Shakhtyor Soligorsk,Neman,0,0,,,,0
-1081980000,Energetik-BGU,FC Gomel,3,3,,,,0
-1081980000,Dnepr Mogilev,Dynamo Brest,0,0,,,,0
-1081980000,Belshina,Din. Minsk,1,3,,,,0
-1081980000,BATE,Naftan,1,1,,,,0
-1082325600,Torpedo Minsk,Belshina,3,0,,,,0
-1082325600,Partizan Minsk,Energetik-BGU,0,0,,,,0
-1082325600,Neman,BATE,1,1,,,,0
-1082325600,Naftan,Vitebsk,0,3,,,,0
-1082325600,FC Gomel,Shakhtyor Soligorsk,1,0,,,,0
-1082325600,Dynamo Brest,Slavia Mozyr,0,1,,,,0
-1082325600,Dnepr Mogilev,Zhodino,0,1,,,,0
-1082325600,Din. Minsk,Darida,2,2,,,,0
-1082800800,Zhodino,Dynamo Brest,2,1,,,,0
-1082800800,Slavia Mozyr,Din. Minsk,1,3,,,,0
-1082800800,Shakhtyor Soligorsk,Partizan Minsk,3,3,,,,0
-1082800800,Neman,Vitebsk,1,1,,,,0
-1082800800,Energetik-BGU,Dnepr Mogilev,2,0,,,,0
-1082800800,Darida,Torpedo Minsk,0,1,,,,0
-1082800800,Belshina,Naftan,0,0,,,,0
-1082800800,BATE,FC Gomel,3,1,,,,0
-1083405600,Zhodino,Energetik-BGU,5,2,,,,0
-1083405600,Torpedo Minsk,Slavia Mozyr,1,0,,,,0
-1083405600,Partizan Minsk,BATE,0,3,,,,0
-1083405600,Neman,Belshina,1,1,,,,0
-1083405600,Naftan,Darida,1,2,,,,0
-1083405600,FC Gomel,Vitebsk,2,0,,,,0
-1083405600,Dynamo Brest,Din. Minsk,0,3,,,,0
-1083405600,Dnepr Mogilev,Shakhtyor Soligorsk,1,1,,,,0
-1083848400,Vitebsk,Partizan Minsk,2,2,,,,0
-1083852000,Energetik-BGU,Dynamo Brest,1,1,,,,0
-1083853800,Shakhtyor Soligorsk,Zhodino,2,1,,,,0
-1083855600,Slavia Mozyr,Naftan,2,0,,,,0
-1083855600,Din. Minsk,Torpedo Minsk,0,1,,,,0
-1083855600,Darida,Neman,1,0,,,,0
-1083855600,Belshina,FC Gomel,1,4,,,,0
-1083855600,BATE,Dnepr Mogilev,1,0,,,,0
-1084269600,Zhodino,BATE,0,2,,,,0
-1084269600,Partizan Minsk,Belshina,2,1,,,,0
-1084269600,Neman,Slavia Mozyr,1,0,,,,0
-1084269600,Naftan,Din. Minsk,1,3,,,,0
-1084269600,FC Gomel,Darida,1,1,,,,0
-1084269600,Dynamo Brest,Torpedo Minsk,3,1,,,,0
-1084269600,Dnepr Mogilev,Vitebsk,1,0,,,,0
-1084284000,Energetik-BGU,Shakhtyor Soligorsk,0,0,,,,0
-1084978800,Din. Minsk,Neman,1,0,,,,0
-1084978800,BATE,Energetik-BGU,2,3,,,,0
-1085061600,Torpedo Minsk,Naftan,2,1,,,,0
-1085063400,Shakhtyor Soligorsk,Dynamo Brest,5,2,,,,0
-1085065200,Vitebsk,Zhodino,0,0,,,,0
-1085065200,Darida,Partizan Minsk,2,0,,,,0
-1085065200,Belshina,Dnepr Mogilev,0,1,,,,0
-1085067000,Slavia Mozyr,FC Gomel,1,0,,,,0
-1086530400,Partizan Minsk,Slavia Mozyr,1,4,,,,0
-1086534000,Zhodino,Belshina,3,0,,,,0
-1086534000,Dnepr Mogilev,Darida,0,1,,,,0
-1086618600,Shakhtyor Soligorsk,BATE,5,1,,,,0
-1086620400,Neman,Torpedo Minsk,2,2,,,,0
-1086620400,Energetik-BGU,Vitebsk,1,4,,,,0
-1086620400,Dynamo Brest,Naftan,3,0,,,,0
-1086622200,FC Gomel,Din. Minsk,2,0,,,,0
-1086966000,Darida,Zhodino,1,2,,,,0
-1087045200,Vitebsk,Shakhtyor Soligorsk,0,3,,,,0
-1087045200,BATE,Dynamo Brest,2,1,,,,0
-1087047000,Din. Minsk,Partizan Minsk,1,0,,,,0
-1087048800,Naftan,Neman,3,1,,,,0
-1087048800,Belshina,Energetik-BGU,4,1,,,,0
-1087052400,Torpedo Minsk,FC Gomel,2,4,,,,0
-1087052400,Slavia Mozyr,Dnepr Mogilev,2,0,,,,0
-1087392600,Partizan Minsk,Torpedo Minsk,0,3,,,,0
-1087394400,Energetik-BGU,Darida,1,1,,,,0
-1087396200,Shakhtyor Soligorsk,Belshina,2,0,,,,0
-1087396200,BATE,Vitebsk,3,2,,,,0
-1087398000,Zhodino,Slavia Mozyr,3,1,,,,0
-1087398000,Dynamo Brest,Neman,2,0,,,,0
-1087398000,Dnepr Mogilev,Din. Minsk,0,1,,,,0
-1087399800,FC Gomel,Naftan,2,2,,,,0
-1087984800,Zhodino,Din. Minsk,0,1,,,,0
-1087999200,Belshina,BATE,0,5,,,,0
-1088001000,Vitebsk,Dynamo Brest,2,3,,,,0
-1088002800,Torpedo Minsk,Dnepr Mogilev,5,1,,,,0
-1088002800,Slavia Mozyr,Energetik-BGU,0,0,,,,0
-1088002800,Naftan,Partizan Minsk,2,2,,,,0
-1088004600,Neman,FC Gomel,4,1,,,,0
-1088089200,Darida,Shakhtyor Soligorsk,2,2,,,,0
-1088521200,Partizan Minsk,Neman,0,2,,,,0
-1088604000,Energetik-BGU,Din. Minsk,0,3,,,,0
-1088605800,Vitebsk,Belshina,2,1,,,,0
-1088605800,Shakhtyor Soligorsk,Slavia Mozyr,2,1,,,,0
-1088607600,Dynamo Brest,FC Gomel,0,1,,,,0
-1088607600,Dnepr Mogilev,Naftan,0,3,,,,0
-1088607600,BATE,Darida,4,1,,,,0
-1088611200,Zhodino,Torpedo Minsk,1,0,,,,0
-1089036000,Energetik-BGU,Torpedo Minsk,1,0,,,,0
-1089039600,Slavia Mozyr,BATE,0,1,,,,0
-1089039600,Naftan,Zhodino,2,3,,,,0
-1089039600,Darida,Vitebsk,0,3,,,,0
-1089039600,Belshina,Dynamo Brest,0,0,,,,0
-1089041400,Neman,Dnepr Mogilev,2,1,,,,0
-1089041400,FC Gomel,Partizan Minsk,2,1,,,,0
-1089212400,Din. Minsk,Shakhtyor Soligorsk,1,0,,,,0
-1089367200,Zhodino,Neman,1,0,,,,0
-1089367200,Vitebsk,Slavia Mozyr,2,1,,,,0
-1089367200,Energetik-BGU,Naftan,2,4,,,,0
-1089367200,Dynamo Brest,Partizan Minsk,4,0,,,,0
-1089367200,Belshina,Darida,2,2,,,,0
-1089388800,Dnepr Mogilev,FC Gomel,1,2,,,,0
-1089556200,Shakhtyor Soligorsk,Torpedo Minsk,0,0,,,,0
-1090072800,Neman,Energetik-BGU,2,0,,,,0
-1090072800,Darida,Dynamo Brest,0,1,,,,0
-1090076400,Slavia Mozyr,Belshina,2,1,,,,0
-1090076400,Partizan Minsk,Dnepr Mogilev,0,1,,,,0
-1090144800,Torpedo Minsk,BATE,0,3,,,,0
-1090144800,Naftan,Shakhtyor Soligorsk,0,1,,,,0
-1090422000,Din. Minsk,Vitebsk,2,1,,,,0
-1090767600,FC Gomel,Zhodino,3,0,,,,0
-1091372400,Partizan Minsk,Zhodino,0,5,,,,0
-1091372400,FC Gomel,Energetik-BGU,0,0,,,,0
-1091372400,Dynamo Brest,Dnepr Mogilev,3,1,,,,0
-1091376000,Din. Minsk,Belshina,5,0,,,,0
-1091460600,Torpedo Minsk,Vitebsk,2,1,,,,0
-1091462400,Darida,Slavia Mozyr,3,0,,,,0
-1091545200,Neman,Shakhtyor Soligorsk,1,2,,,,0
-1091545200,Naftan,BATE,0,2,,,,0
-1091887200,Energetik-BGU,Partizan Minsk,3,0,,,,0
-1091890800,Zhodino,Dnepr Mogilev,3,0,,,,0
-1091890800,Slavia Mozyr,Dynamo Brest,1,0,,,,0
-1091890800,Darida,Din. Minsk,0,4,,,,0
-1091890800,Belshina,Torpedo Minsk,0,1,,,,0
-1091975400,Shakhtyor Soligorsk,FC Gomel,2,1,,,,0
-1091977200,Vitebsk,Naftan,1,0,,,,0
-1091977200,BATE,Neman,1,0,,,,0
-1092322800,BATE,Din. Minsk,1,1,,,,0
-1093183200,FC Gomel,BATE,0,1,,,,0
-1093183200,Dynamo Brest,Zhodino,2,2,,,,0
-1093185000,Torpedo Minsk,Darida,1,0,,,,0
-1093186800,Vitebsk,Neman,1,2,,,,0
-1093186800,Partizan Minsk,Shakhtyor Soligorsk,1,4,,,,0
-1093186800,Naftan,Belshina,3,0,,,,0
-1093186800,Dnepr Mogilev,Energetik-BGU,2,1,,,,0
-1093186800,Din. Minsk,Slavia Mozyr,4,2,,,,0
-1093528800,Energetik-BGU,Zhodino,0,2,,,,0
-1093530600,Shakhtyor Soligorsk,Dnepr Mogilev,1,0,,,,0
-1093530600,Darida,Naftan,1,3,,,,0
-1093530600,Belshina,Neman,0,3,,,,0
-1093530600,BATE,Partizan Minsk,3,0,,,,0
-1093532400,Vitebsk,FC Gomel,0,1,,,,0
-1093532400,Slavia Mozyr,Torpedo Minsk,2,2,,,,0
-1093532400,Din. Minsk,Dynamo Brest,3,0,,,,0
-1093874400,Zhodino,Shakhtyor Soligorsk,1,2,,,,0
-1093874400,Torpedo Minsk,Din. Minsk,2,0,,,,0
-1093874400,FC Gomel,Belshina,4,1,,,,0
-1093874400,Dynamo Brest,Energetik-BGU,2,2,,,,0
-1093876200,Neman,Darida,2,2,,,,0
-1093876200,Naftan,Slavia Mozyr,3,1,,,,0
-1093876200,Dnepr Mogilev,BATE,0,1,,,,0
-1093878000,Partizan Minsk,Vitebsk,6,0,,,,0
-1094994000,BATE,Zhodino,2,1,,,,0
-1094995800,Torpedo Minsk,Dynamo Brest,2,3,,,,0
-1094995800,Shakhtyor Soligorsk,Energetik-BGU,1,0,,,,0
-1094995800,Darida,FC Gomel,1,1,,,,0
-1094997600,Vitebsk,Dnepr Mogilev,0,1,,,,0
-1094997600,Slavia Mozyr,Neman,1,3,,,,0
-1094997600,Belshina,Partizan Minsk,1,2,,,,0
-1095001200,Din. Minsk,Naftan,6,1,,,,0
-1095343200,Partizan Minsk,Darida,2,0,,,,0
-1095426000,Naftan,Torpedo Minsk,2,2,,,,0
-1095426000,FC Gomel,Slavia Mozyr,2,1,,,,0
-1095426000,Energetik-BGU,BATE,0,2,,,,0
-1095429600,Zhodino,Vitebsk,4,1,,,,0
-1095429600,Neman,Din. Minsk,0,2,,,,0
-1095429600,Dynamo Brest,Shakhtyor Soligorsk,0,0,,,,0
-1095429600,Dnepr Mogilev,Belshina,2,0,,,,0
-1095771600,Torpedo Minsk,Neman,1,2,,,,0
-1095771600,Naftan,Dynamo Brest,3,1,,,,0
-1095771600,Belshina,Zhodino,0,1,,,,0
-1095771600,BATE,Shakhtyor Soligorsk,0,1,,,,0
-1095773400,Slavia Mozyr,Partizan Minsk,1,1,,,,0
-1095773400,Darida,Dnepr Mogilev,1,1,,,,0
-1095778800,Vitebsk,Energetik-BGU,2,1,,,,0
-1095778800,Din. Minsk,FC Gomel,1,0,,,,0
-1096462800,Zhodino,Darida,2,0,,,,0
-1096462800,Partizan Minsk,Din. Minsk,0,0,,,,0
-1096462800,FC Gomel,Torpedo Minsk,0,0,,,,0
-1096462800,Dynamo Brest,BATE,1,1,,,,0
-1096464600,Shakhtyor Soligorsk,Vitebsk,4,1,,,,0
-1096466400,Neman,Naftan,0,2,,,,0
-1096466400,Dnepr Mogilev,Slavia Mozyr,3,1,,,,0
-1096552800,Energetik-BGU,Belshina,2,1,,,,0
-1096806600,Torpedo Minsk,Partizan Minsk,0,0,,,,0
-1096808400,Slavia Mozyr,Zhodino,0,2,,,,0
-1096808400,Neman,Dynamo Brest,0,1,,,,0
-1096808400,Naftan,FC Gomel,1,0,,,,0
-1096812000,Vitebsk,BATE,0,1,,,,0
-1096815600,Din. Minsk,Dnepr Mogilev,2,1,,,,0
-1096893000,Darida,Energetik-BGU,3,1,,,,0
-1096894800,Belshina,Shakhtyor Soligorsk,1,2,,,,0
-1097928000,Energetik-BGU,Slavia Mozyr,2,0,,,,0
-1098014400,FC Gomel,Neman,1,0,,,,0
-1098014400,Dynamo Brest,Vitebsk,0,1,,,,0
-1098014400,BATE,Belshina,2,1,,,,0
-1098016200,Shakhtyor Soligorsk,Darida,4,1,,,,0
-1098018000,Partizan Minsk,Naftan,2,1,,,,0
-1098021600,Dnepr Mogilev,Torpedo Minsk,1,0,,,,0
-1098025200,Din. Minsk,Zhodino,2,1,,,,0
-1098360000,Torpedo Minsk,Zhodino,1,0,,,,0
-1098360000,Slavia Mozyr,Shakhtyor Soligorsk,0,5,,,,0
-1098360000,Neman,Partizan Minsk,0,0,,,,0
-1098360000,Naftan,Dnepr Mogilev,0,2,,,,0
-1098360000,FC Gomel,Dynamo Brest,1,1,,,,0
-1098360000,Darida,BATE,2,3,,,,0
-1098360000,Belshina,Vitebsk,2,1,,,,0
-1098370800,Din. Minsk,Energetik-BGU,4,0,,,,0
-1098705600,Zhodino,Naftan,3,1,,,,0
-1098705600,Vitebsk,Darida,1,3,,,,0
-1098705600,Torpedo Minsk,Energetik-BGU,0,1,,,,0
-1098705600,Shakhtyor Soligorsk,Din. Minsk,0,1,,,,0
-1098705600,Partizan Minsk,FC Gomel,5,2,,,,0
-1098705600,Dynamo Brest,Belshina,2,2,,,,0
-1098705600,BATE,Slavia Mozyr,4,0,,,,0
-1098709200,Dnepr Mogilev,Neman,3,2,,,,0
-1099229400,Torpedo Minsk,Shakhtyor Soligorsk,0,0,,,,0
-1099229400,Slavia Mozyr,Vitebsk,3,1,,,,0
-1099229400,Partizan Minsk,Dynamo Brest,1,2,,,,0
-1099229400,Neman,Zhodino,2,1,,,,0
-1099229400,Naftan,Energetik-BGU,5,1,,,,0
-1099229400,FC Gomel,Dnepr Mogilev,0,4,,,,0
-1099229400,Din. Minsk,BATE,2,0,,,,0
-1099229400,Darida,Belshina,1,0,,,,0
-1099832400,Zhodino,FC Gomel,4,0,,,,0
-1099832400,Vitebsk,Din. Minsk,1,3,,,,0
-1099832400,Shakhtyor Soligorsk,Naftan,1,0,,,,0
-1099832400,Energetik-BGU,Neman,0,3,,,,0
-1099832400,Dynamo Brest,Darida,0,3,,,,0
-1099832400,Dnepr Mogilev,Partizan Minsk,1,1,,,,0
-1099832400,Belshina,Slavia Mozyr,0,0,,,,0
-1099832400,BATE,Torpedo Minsk,3,1,,,,0
-1100178000,Vitebsk,Partizan Minsk,1,4,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1081980000,Zhodino,Partizan Minsk,23zIqwQ6,zVJMgvaS,3,0,,,,0
+1081980000,Vitebsk,Torpedo Minsk,jy73afvM,0QIR4uLh,0,1,,,,0
+1081980000,Slavia Mozyr,Darida,KtzYA4l8,,3,1,,,,0
+1081980000,Shakhtyor Soligorsk,Neman,AT53cBWn,Y74BTQZ8,0,0,,,,0
+1081980000,Energetik-BGU,FC Gomel,UotIUo8H,8IAnrpV2,3,3,,,,0
+1081980000,Dnepr Mogilev,Dynamo Brest,n3EODL5E,OSiGCyjG,0,0,,,,0
+1081980000,Belshina,Din. Minsk,xYOcPFCn,xUKWlpRC,1,3,,,,0
+1081980000,BATE,Naftan,2uzi9uYj,E7NOD7nb,1,1,,,,0
+1082325600,Torpedo Minsk,Belshina,0QIR4uLh,xYOcPFCn,3,0,,,,0
+1082325600,Partizan Minsk,Energetik-BGU,zVJMgvaS,UotIUo8H,0,0,,,,0
+1082325600,Neman,BATE,Y74BTQZ8,2uzi9uYj,1,1,,,,0
+1082325600,Naftan,Vitebsk,E7NOD7nb,jy73afvM,0,3,,,,0
+1082325600,FC Gomel,Shakhtyor Soligorsk,8IAnrpV2,AT53cBWn,1,0,,,,0
+1082325600,Dynamo Brest,Slavia Mozyr,OSiGCyjG,KtzYA4l8,0,1,,,,0
+1082325600,Dnepr Mogilev,Zhodino,n3EODL5E,23zIqwQ6,0,1,,,,0
+1082325600,Din. Minsk,Darida,xUKWlpRC,,2,2,,,,0
+1082800800,Zhodino,Dynamo Brest,23zIqwQ6,OSiGCyjG,2,1,,,,0
+1082800800,Slavia Mozyr,Din. Minsk,KtzYA4l8,xUKWlpRC,1,3,,,,0
+1082800800,Shakhtyor Soligorsk,Partizan Minsk,AT53cBWn,zVJMgvaS,3,3,,,,0
+1082800800,Neman,Vitebsk,Y74BTQZ8,jy73afvM,1,1,,,,0
+1082800800,Energetik-BGU,Dnepr Mogilev,UotIUo8H,n3EODL5E,2,0,,,,0
+1082800800,Darida,Torpedo Minsk,,0QIR4uLh,0,1,,,,0
+1082800800,Belshina,Naftan,xYOcPFCn,E7NOD7nb,0,0,,,,0
+1082800800,BATE,FC Gomel,2uzi9uYj,8IAnrpV2,3,1,,,,0
+1083405600,Zhodino,Energetik-BGU,23zIqwQ6,UotIUo8H,5,2,,,,0
+1083405600,Torpedo Minsk,Slavia Mozyr,0QIR4uLh,KtzYA4l8,1,0,,,,0
+1083405600,Partizan Minsk,BATE,zVJMgvaS,2uzi9uYj,0,3,,,,0
+1083405600,Neman,Belshina,Y74BTQZ8,xYOcPFCn,1,1,,,,0
+1083405600,Naftan,Darida,E7NOD7nb,,1,2,,,,0
+1083405600,FC Gomel,Vitebsk,8IAnrpV2,jy73afvM,2,0,,,,0
+1083405600,Dynamo Brest,Din. Minsk,OSiGCyjG,xUKWlpRC,0,3,,,,0
+1083405600,Dnepr Mogilev,Shakhtyor Soligorsk,n3EODL5E,AT53cBWn,1,1,,,,0
+1083848400,Vitebsk,Partizan Minsk,jy73afvM,zVJMgvaS,2,2,,,,0
+1083852000,Energetik-BGU,Dynamo Brest,UotIUo8H,OSiGCyjG,1,1,,,,0
+1083853800,Shakhtyor Soligorsk,Zhodino,AT53cBWn,23zIqwQ6,2,1,,,,0
+1083855600,Slavia Mozyr,Naftan,KtzYA4l8,E7NOD7nb,2,0,,,,0
+1083855600,Din. Minsk,Torpedo Minsk,xUKWlpRC,0QIR4uLh,0,1,,,,0
+1083855600,Darida,Neman,,Y74BTQZ8,1,0,,,,0
+1083855600,Belshina,FC Gomel,xYOcPFCn,8IAnrpV2,1,4,,,,0
+1083855600,BATE,Dnepr Mogilev,2uzi9uYj,n3EODL5E,1,0,,,,0
+1084269600,Zhodino,BATE,23zIqwQ6,2uzi9uYj,0,2,,,,0
+1084269600,Partizan Minsk,Belshina,zVJMgvaS,xYOcPFCn,2,1,,,,0
+1084269600,Neman,Slavia Mozyr,Y74BTQZ8,KtzYA4l8,1,0,,,,0
+1084269600,Naftan,Din. Minsk,E7NOD7nb,xUKWlpRC,1,3,,,,0
+1084269600,FC Gomel,Darida,8IAnrpV2,,1,1,,,,0
+1084269600,Dynamo Brest,Torpedo Minsk,OSiGCyjG,0QIR4uLh,3,1,,,,0
+1084269600,Dnepr Mogilev,Vitebsk,n3EODL5E,jy73afvM,1,0,,,,0
+1084284000,Energetik-BGU,Shakhtyor Soligorsk,UotIUo8H,AT53cBWn,0,0,,,,0
+1084978800,Din. Minsk,Neman,xUKWlpRC,Y74BTQZ8,1,0,,,,0
+1084978800,BATE,Energetik-BGU,2uzi9uYj,UotIUo8H,2,3,,,,0
+1085061600,Torpedo Minsk,Naftan,0QIR4uLh,E7NOD7nb,2,1,,,,0
+1085063400,Shakhtyor Soligorsk,Dynamo Brest,AT53cBWn,OSiGCyjG,5,2,,,,0
+1085065200,Vitebsk,Zhodino,jy73afvM,23zIqwQ6,0,0,,,,0
+1085065200,Darida,Partizan Minsk,,zVJMgvaS,2,0,,,,0
+1085065200,Belshina,Dnepr Mogilev,xYOcPFCn,n3EODL5E,0,1,,,,0
+1085067000,Slavia Mozyr,FC Gomel,KtzYA4l8,8IAnrpV2,1,0,,,,0
+1086530400,Partizan Minsk,Slavia Mozyr,zVJMgvaS,KtzYA4l8,1,4,,,,0
+1086534000,Zhodino,Belshina,23zIqwQ6,xYOcPFCn,3,0,,,,0
+1086534000,Dnepr Mogilev,Darida,n3EODL5E,,0,1,,,,0
+1086618600,Shakhtyor Soligorsk,BATE,AT53cBWn,2uzi9uYj,5,1,,,,0
+1086620400,Neman,Torpedo Minsk,Y74BTQZ8,0QIR4uLh,2,2,,,,0
+1086620400,Energetik-BGU,Vitebsk,UotIUo8H,jy73afvM,1,4,,,,0
+1086620400,Dynamo Brest,Naftan,OSiGCyjG,E7NOD7nb,3,0,,,,0
+1086622200,FC Gomel,Din. Minsk,8IAnrpV2,xUKWlpRC,2,0,,,,0
+1086966000,Darida,Zhodino,,23zIqwQ6,1,2,,,,0
+1087045200,Vitebsk,Shakhtyor Soligorsk,jy73afvM,AT53cBWn,0,3,,,,0
+1087045200,BATE,Dynamo Brest,2uzi9uYj,OSiGCyjG,2,1,,,,0
+1087047000,Din. Minsk,Partizan Minsk,xUKWlpRC,zVJMgvaS,1,0,,,,0
+1087048800,Naftan,Neman,E7NOD7nb,Y74BTQZ8,3,1,,,,0
+1087048800,Belshina,Energetik-BGU,xYOcPFCn,UotIUo8H,4,1,,,,0
+1087052400,Torpedo Minsk,FC Gomel,0QIR4uLh,8IAnrpV2,2,4,,,,0
+1087052400,Slavia Mozyr,Dnepr Mogilev,KtzYA4l8,n3EODL5E,2,0,,,,0
+1087392600,Partizan Minsk,Torpedo Minsk,zVJMgvaS,0QIR4uLh,0,3,,,,0
+1087394400,Energetik-BGU,Darida,UotIUo8H,,1,1,,,,0
+1087396200,Shakhtyor Soligorsk,Belshina,AT53cBWn,xYOcPFCn,2,0,,,,0
+1087396200,BATE,Vitebsk,2uzi9uYj,jy73afvM,3,2,,,,0
+1087398000,Zhodino,Slavia Mozyr,23zIqwQ6,KtzYA4l8,3,1,,,,0
+1087398000,Dynamo Brest,Neman,OSiGCyjG,Y74BTQZ8,2,0,,,,0
+1087398000,Dnepr Mogilev,Din. Minsk,n3EODL5E,xUKWlpRC,0,1,,,,0
+1087399800,FC Gomel,Naftan,8IAnrpV2,E7NOD7nb,2,2,,,,0
+1087984800,Zhodino,Din. Minsk,23zIqwQ6,xUKWlpRC,0,1,,,,0
+1087999200,Belshina,BATE,xYOcPFCn,2uzi9uYj,0,5,,,,0
+1088001000,Vitebsk,Dynamo Brest,jy73afvM,OSiGCyjG,2,3,,,,0
+1088002800,Torpedo Minsk,Dnepr Mogilev,0QIR4uLh,n3EODL5E,5,1,,,,0
+1088002800,Slavia Mozyr,Energetik-BGU,KtzYA4l8,UotIUo8H,0,0,,,,0
+1088002800,Naftan,Partizan Minsk,E7NOD7nb,zVJMgvaS,2,2,,,,0
+1088004600,Neman,FC Gomel,Y74BTQZ8,8IAnrpV2,4,1,,,,0
+1088089200,Darida,Shakhtyor Soligorsk,,AT53cBWn,2,2,,,,0
+1088521200,Partizan Minsk,Neman,zVJMgvaS,Y74BTQZ8,0,2,,,,0
+1088604000,Energetik-BGU,Din. Minsk,UotIUo8H,xUKWlpRC,0,3,,,,0
+1088605800,Vitebsk,Belshina,jy73afvM,xYOcPFCn,2,1,,,,0
+1088605800,Shakhtyor Soligorsk,Slavia Mozyr,AT53cBWn,KtzYA4l8,2,1,,,,0
+1088607600,Dynamo Brest,FC Gomel,OSiGCyjG,8IAnrpV2,0,1,,,,0
+1088607600,Dnepr Mogilev,Naftan,n3EODL5E,E7NOD7nb,0,3,,,,0
+1088607600,BATE,Darida,2uzi9uYj,,4,1,,,,0
+1088611200,Zhodino,Torpedo Minsk,23zIqwQ6,0QIR4uLh,1,0,,,,0
+1089036000,Energetik-BGU,Torpedo Minsk,UotIUo8H,0QIR4uLh,1,0,,,,0
+1089039600,Slavia Mozyr,BATE,KtzYA4l8,2uzi9uYj,0,1,,,,0
+1089039600,Naftan,Zhodino,E7NOD7nb,23zIqwQ6,2,3,,,,0
+1089039600,Darida,Vitebsk,,jy73afvM,0,3,,,,0
+1089039600,Belshina,Dynamo Brest,xYOcPFCn,OSiGCyjG,0,0,,,,0
+1089041400,Neman,Dnepr Mogilev,Y74BTQZ8,n3EODL5E,2,1,,,,0
+1089041400,FC Gomel,Partizan Minsk,8IAnrpV2,zVJMgvaS,2,1,,,,0
+1089212400,Din. Minsk,Shakhtyor Soligorsk,xUKWlpRC,AT53cBWn,1,0,,,,0
+1089367200,Zhodino,Neman,23zIqwQ6,Y74BTQZ8,1,0,,,,0
+1089367200,Vitebsk,Slavia Mozyr,jy73afvM,KtzYA4l8,2,1,,,,0
+1089367200,Energetik-BGU,Naftan,UotIUo8H,E7NOD7nb,2,4,,,,0
+1089367200,Dynamo Brest,Partizan Minsk,OSiGCyjG,zVJMgvaS,4,0,,,,0
+1089367200,Belshina,Darida,xYOcPFCn,,2,2,,,,0
+1089388800,Dnepr Mogilev,FC Gomel,n3EODL5E,8IAnrpV2,1,2,,,,0
+1089556200,Shakhtyor Soligorsk,Torpedo Minsk,AT53cBWn,0QIR4uLh,0,0,,,,0
+1090072800,Neman,Energetik-BGU,Y74BTQZ8,UotIUo8H,2,0,,,,0
+1090072800,Darida,Dynamo Brest,,OSiGCyjG,0,1,,,,0
+1090076400,Slavia Mozyr,Belshina,KtzYA4l8,xYOcPFCn,2,1,,,,0
+1090076400,Partizan Minsk,Dnepr Mogilev,zVJMgvaS,n3EODL5E,0,1,,,,0
+1090144800,Torpedo Minsk,BATE,0QIR4uLh,2uzi9uYj,0,3,,,,0
+1090144800,Naftan,Shakhtyor Soligorsk,E7NOD7nb,AT53cBWn,0,1,,,,0
+1090422000,Din. Minsk,Vitebsk,xUKWlpRC,jy73afvM,2,1,,,,0
+1090767600,FC Gomel,Zhodino,8IAnrpV2,23zIqwQ6,3,0,,,,0
+1091372400,Partizan Minsk,Zhodino,zVJMgvaS,23zIqwQ6,0,5,,,,0
+1091372400,FC Gomel,Energetik-BGU,8IAnrpV2,UotIUo8H,0,0,,,,0
+1091372400,Dynamo Brest,Dnepr Mogilev,OSiGCyjG,n3EODL5E,3,1,,,,0
+1091376000,Din. Minsk,Belshina,xUKWlpRC,xYOcPFCn,5,0,,,,0
+1091460600,Torpedo Minsk,Vitebsk,0QIR4uLh,jy73afvM,2,1,,,,0
+1091462400,Darida,Slavia Mozyr,,KtzYA4l8,3,0,,,,0
+1091545200,Neman,Shakhtyor Soligorsk,Y74BTQZ8,AT53cBWn,1,2,,,,0
+1091545200,Naftan,BATE,E7NOD7nb,2uzi9uYj,0,2,,,,0
+1091887200,Energetik-BGU,Partizan Minsk,UotIUo8H,zVJMgvaS,3,0,,,,0
+1091890800,Zhodino,Dnepr Mogilev,23zIqwQ6,n3EODL5E,3,0,,,,0
+1091890800,Slavia Mozyr,Dynamo Brest,KtzYA4l8,OSiGCyjG,1,0,,,,0
+1091890800,Darida,Din. Minsk,,xUKWlpRC,0,4,,,,0
+1091890800,Belshina,Torpedo Minsk,xYOcPFCn,0QIR4uLh,0,1,,,,0
+1091975400,Shakhtyor Soligorsk,FC Gomel,AT53cBWn,8IAnrpV2,2,1,,,,0
+1091977200,Vitebsk,Naftan,jy73afvM,E7NOD7nb,1,0,,,,0
+1091977200,BATE,Neman,2uzi9uYj,Y74BTQZ8,1,0,,,,0
+1092322800,BATE,Din. Minsk,2uzi9uYj,xUKWlpRC,1,1,,,,0
+1093183200,FC Gomel,BATE,8IAnrpV2,2uzi9uYj,0,1,,,,0
+1093183200,Dynamo Brest,Zhodino,OSiGCyjG,23zIqwQ6,2,2,,,,0
+1093185000,Torpedo Minsk,Darida,0QIR4uLh,,1,0,,,,0
+1093186800,Vitebsk,Neman,jy73afvM,Y74BTQZ8,1,2,,,,0
+1093186800,Partizan Minsk,Shakhtyor Soligorsk,zVJMgvaS,AT53cBWn,1,4,,,,0
+1093186800,Naftan,Belshina,E7NOD7nb,xYOcPFCn,3,0,,,,0
+1093186800,Dnepr Mogilev,Energetik-BGU,n3EODL5E,UotIUo8H,2,1,,,,0
+1093186800,Din. Minsk,Slavia Mozyr,xUKWlpRC,KtzYA4l8,4,2,,,,0
+1093528800,Energetik-BGU,Zhodino,UotIUo8H,23zIqwQ6,0,2,,,,0
+1093530600,Shakhtyor Soligorsk,Dnepr Mogilev,AT53cBWn,n3EODL5E,1,0,,,,0
+1093530600,Darida,Naftan,,E7NOD7nb,1,3,,,,0
+1093530600,Belshina,Neman,xYOcPFCn,Y74BTQZ8,0,3,,,,0
+1093530600,BATE,Partizan Minsk,2uzi9uYj,zVJMgvaS,3,0,,,,0
+1093532400,Vitebsk,FC Gomel,jy73afvM,8IAnrpV2,0,1,,,,0
+1093532400,Slavia Mozyr,Torpedo Minsk,KtzYA4l8,0QIR4uLh,2,2,,,,0
+1093532400,Din. Minsk,Dynamo Brest,xUKWlpRC,OSiGCyjG,3,0,,,,0
+1093874400,Zhodino,Shakhtyor Soligorsk,23zIqwQ6,AT53cBWn,1,2,,,,0
+1093874400,Torpedo Minsk,Din. Minsk,0QIR4uLh,xUKWlpRC,2,0,,,,0
+1093874400,FC Gomel,Belshina,8IAnrpV2,xYOcPFCn,4,1,,,,0
+1093874400,Dynamo Brest,Energetik-BGU,OSiGCyjG,UotIUo8H,2,2,,,,0
+1093876200,Neman,Darida,Y74BTQZ8,,2,2,,,,0
+1093876200,Naftan,Slavia Mozyr,E7NOD7nb,KtzYA4l8,3,1,,,,0
+1093876200,Dnepr Mogilev,BATE,n3EODL5E,2uzi9uYj,0,1,,,,0
+1093878000,Partizan Minsk,Vitebsk,zVJMgvaS,jy73afvM,6,0,,,,0
+1094994000,BATE,Zhodino,2uzi9uYj,23zIqwQ6,2,1,,,,0
+1094995800,Torpedo Minsk,Dynamo Brest,0QIR4uLh,OSiGCyjG,2,3,,,,0
+1094995800,Shakhtyor Soligorsk,Energetik-BGU,AT53cBWn,UotIUo8H,1,0,,,,0
+1094995800,Darida,FC Gomel,,8IAnrpV2,1,1,,,,0
+1094997600,Vitebsk,Dnepr Mogilev,jy73afvM,n3EODL5E,0,1,,,,0
+1094997600,Slavia Mozyr,Neman,KtzYA4l8,Y74BTQZ8,1,3,,,,0
+1094997600,Belshina,Partizan Minsk,xYOcPFCn,zVJMgvaS,1,2,,,,0
+1095001200,Din. Minsk,Naftan,xUKWlpRC,E7NOD7nb,6,1,,,,0
+1095343200,Partizan Minsk,Darida,zVJMgvaS,,2,0,,,,0
+1095426000,Naftan,Torpedo Minsk,E7NOD7nb,0QIR4uLh,2,2,,,,0
+1095426000,FC Gomel,Slavia Mozyr,8IAnrpV2,KtzYA4l8,2,1,,,,0
+1095426000,Energetik-BGU,BATE,UotIUo8H,2uzi9uYj,0,2,,,,0
+1095429600,Zhodino,Vitebsk,23zIqwQ6,jy73afvM,4,1,,,,0
+1095429600,Neman,Din. Minsk,Y74BTQZ8,xUKWlpRC,0,2,,,,0
+1095429600,Dynamo Brest,Shakhtyor Soligorsk,OSiGCyjG,AT53cBWn,0,0,,,,0
+1095429600,Dnepr Mogilev,Belshina,n3EODL5E,xYOcPFCn,2,0,,,,0
+1095771600,Torpedo Minsk,Neman,0QIR4uLh,Y74BTQZ8,1,2,,,,0
+1095771600,Naftan,Dynamo Brest,E7NOD7nb,OSiGCyjG,3,1,,,,0
+1095771600,Belshina,Zhodino,xYOcPFCn,23zIqwQ6,0,1,,,,0
+1095771600,BATE,Shakhtyor Soligorsk,2uzi9uYj,AT53cBWn,0,1,,,,0
+1095773400,Slavia Mozyr,Partizan Minsk,KtzYA4l8,zVJMgvaS,1,1,,,,0
+1095773400,Darida,Dnepr Mogilev,,n3EODL5E,1,1,,,,0
+1095778800,Vitebsk,Energetik-BGU,jy73afvM,UotIUo8H,2,1,,,,0
+1095778800,Din. Minsk,FC Gomel,xUKWlpRC,8IAnrpV2,1,0,,,,0
+1096462800,Zhodino,Darida,23zIqwQ6,,2,0,,,,0
+1096462800,Partizan Minsk,Din. Minsk,zVJMgvaS,xUKWlpRC,0,0,,,,0
+1096462800,FC Gomel,Torpedo Minsk,8IAnrpV2,0QIR4uLh,0,0,,,,0
+1096462800,Dynamo Brest,BATE,OSiGCyjG,2uzi9uYj,1,1,,,,0
+1096464600,Shakhtyor Soligorsk,Vitebsk,AT53cBWn,jy73afvM,4,1,,,,0
+1096466400,Neman,Naftan,Y74BTQZ8,E7NOD7nb,0,2,,,,0
+1096466400,Dnepr Mogilev,Slavia Mozyr,n3EODL5E,KtzYA4l8,3,1,,,,0
+1096552800,Energetik-BGU,Belshina,UotIUo8H,xYOcPFCn,2,1,,,,0
+1096806600,Torpedo Minsk,Partizan Minsk,0QIR4uLh,zVJMgvaS,0,0,,,,0
+1096808400,Slavia Mozyr,Zhodino,KtzYA4l8,23zIqwQ6,0,2,,,,0
+1096808400,Neman,Dynamo Brest,Y74BTQZ8,OSiGCyjG,0,1,,,,0
+1096808400,Naftan,FC Gomel,E7NOD7nb,8IAnrpV2,1,0,,,,0
+1096812000,Vitebsk,BATE,jy73afvM,2uzi9uYj,0,1,,,,0
+1096815600,Din. Minsk,Dnepr Mogilev,xUKWlpRC,n3EODL5E,2,1,,,,0
+1096893000,Darida,Energetik-BGU,,UotIUo8H,3,1,,,,0
+1096894800,Belshina,Shakhtyor Soligorsk,xYOcPFCn,AT53cBWn,1,2,,,,0
+1097928000,Energetik-BGU,Slavia Mozyr,UotIUo8H,KtzYA4l8,2,0,,,,0
+1098014400,FC Gomel,Neman,8IAnrpV2,Y74BTQZ8,1,0,,,,0
+1098014400,Dynamo Brest,Vitebsk,OSiGCyjG,jy73afvM,0,1,,,,0
+1098014400,BATE,Belshina,2uzi9uYj,xYOcPFCn,2,1,,,,0
+1098016200,Shakhtyor Soligorsk,Darida,AT53cBWn,,4,1,,,,0
+1098018000,Partizan Minsk,Naftan,zVJMgvaS,E7NOD7nb,2,1,,,,0
+1098021600,Dnepr Mogilev,Torpedo Minsk,n3EODL5E,0QIR4uLh,1,0,,,,0
+1098025200,Din. Minsk,Zhodino,xUKWlpRC,23zIqwQ6,2,1,,,,0
+1098360000,Torpedo Minsk,Zhodino,0QIR4uLh,23zIqwQ6,1,0,,,,0
+1098360000,Slavia Mozyr,Shakhtyor Soligorsk,KtzYA4l8,AT53cBWn,0,5,,,,0
+1098360000,Neman,Partizan Minsk,Y74BTQZ8,zVJMgvaS,0,0,,,,0
+1098360000,Naftan,Dnepr Mogilev,E7NOD7nb,n3EODL5E,0,2,,,,0
+1098360000,FC Gomel,Dynamo Brest,8IAnrpV2,OSiGCyjG,1,1,,,,0
+1098360000,Darida,BATE,,2uzi9uYj,2,3,,,,0
+1098360000,Belshina,Vitebsk,xYOcPFCn,jy73afvM,2,1,,,,0
+1098370800,Din. Minsk,Energetik-BGU,xUKWlpRC,UotIUo8H,4,0,,,,0
+1098705600,Zhodino,Naftan,23zIqwQ6,E7NOD7nb,3,1,,,,0
+1098705600,Vitebsk,Darida,jy73afvM,,1,3,,,,0
+1098705600,Torpedo Minsk,Energetik-BGU,0QIR4uLh,UotIUo8H,0,1,,,,0
+1098705600,Shakhtyor Soligorsk,Din. Minsk,AT53cBWn,xUKWlpRC,0,1,,,,0
+1098705600,Partizan Minsk,FC Gomel,zVJMgvaS,8IAnrpV2,5,2,,,,0
+1098705600,Dynamo Brest,Belshina,OSiGCyjG,xYOcPFCn,2,2,,,,0
+1098705600,BATE,Slavia Mozyr,2uzi9uYj,KtzYA4l8,4,0,,,,0
+1098709200,Dnepr Mogilev,Neman,n3EODL5E,Y74BTQZ8,3,2,,,,0
+1099229400,Torpedo Minsk,Shakhtyor Soligorsk,0QIR4uLh,AT53cBWn,0,0,,,,0
+1099229400,Slavia Mozyr,Vitebsk,KtzYA4l8,jy73afvM,3,1,,,,0
+1099229400,Partizan Minsk,Dynamo Brest,zVJMgvaS,OSiGCyjG,1,2,,,,0
+1099229400,Neman,Zhodino,Y74BTQZ8,23zIqwQ6,2,1,,,,0
+1099229400,Naftan,Energetik-BGU,E7NOD7nb,UotIUo8H,5,1,,,,0
+1099229400,FC Gomel,Dnepr Mogilev,8IAnrpV2,n3EODL5E,0,4,,,,0
+1099229400,Din. Minsk,BATE,xUKWlpRC,2uzi9uYj,2,0,,,,0
+1099229400,Darida,Belshina,,xYOcPFCn,1,0,,,,0
+1099832400,Zhodino,FC Gomel,23zIqwQ6,8IAnrpV2,4,0,,,,0
+1099832400,Vitebsk,Din. Minsk,jy73afvM,xUKWlpRC,1,3,,,,0
+1099832400,Shakhtyor Soligorsk,Naftan,AT53cBWn,E7NOD7nb,1,0,,,,0
+1099832400,Energetik-BGU,Neman,UotIUo8H,Y74BTQZ8,0,3,,,,0
+1099832400,Dynamo Brest,Darida,OSiGCyjG,,0,3,,,,0
+1099832400,Dnepr Mogilev,Partizan Minsk,n3EODL5E,zVJMgvaS,1,1,,,,0
+1099832400,Belshina,Slavia Mozyr,xYOcPFCn,KtzYA4l8,0,0,,,,0
+1099832400,BATE,Torpedo Minsk,2uzi9uYj,0QIR4uLh,3,1,,,,0
+1100178000,Vitebsk,Partizan Minsk,jy73afvM,zVJMgvaS,1,4,,,,0

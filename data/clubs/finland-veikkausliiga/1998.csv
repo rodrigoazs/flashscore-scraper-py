@@ -1,138 +1,138 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-894060000,TPS,Rovaniemi,0,0,,,,0
-894060000,HJK,VPS,1,1,,,,0
-894060000,Haka,FinnPa Helsinki,1,1,,,,0
-894146400,Jazz Pori,Jaro,0,0,,,,0
-894232800,MyPa,PK-35,0,2,,,,0
-894405600,VPS,Rovaniemi,0,2,,,,0
-894405600,FinnPa Helsinki,HJK,1,2,,,,0
-894664800,PK-35,TPS,3,1,,,,0
-894664800,Jaro,MyPa,4,3,,,,0
-894751200,Rovaniemi,HJK,0,1,,,,0
-894751200,FinnPa Helsinki,Jazz Pori,4,2,,,,0
-894837600,VPS,Haka,3,0,,,,0
-895010400,TPS,Jaro,3,0,,,,0
-895010400,MyPa,FinnPa Helsinki,3,0,,,,0
-895010400,Jazz Pori,Haka,0,4,,,,0
-895010400,HJK,PK-35,0,0,,,,0
-895269600,Jazz Pori,VPS,0,1,,,,0
-895269600,Jaro,HJK,0,1,,,,0
-895356000,PK-35,Rovaniemi,1,1,,,,0
-895356000,Haka,MyPa,2,1,,,,0
-895442400,FinnPa Helsinki,TPS,1,1,,,,0
-895615200,VPS,PK-35,2,1,,,,0
-895615200,TPS,Haka,1,2,,,,0
-895615200,Rovaniemi,Jaro,0,1,,,,0
-895615200,MyPa,Jazz Pori,1,0,,,,0
-895874400,MyPa,VPS,0,3,,,,0
-895874400,Haka,HJK,2,2,,,,0
-895874400,FinnPa Helsinki,Rovaniemi,1,2,,,,0
-895960800,Jazz Pori,TPS,0,0,,,,0
-895960800,Jaro,PK-35,0,3,,,,0
-896392800,TPS,PK-35,1,1,,,,0
-896479200,Rovaniemi,Haka,1,1,,,,0
-896479200,HJK,Jazz Pori,1,0,,,,0
-896565600,VPS,Jaro,3,0,,,,0
-896652000,TPS,MyPa,2,2,,,,0
-896652000,PK-35,FinnPa Helsinki,1,0,,,,0
-896738400,HJK,Haka,1,1,,,,0
-897256800,Jazz Pori,Rovaniemi,2,1,,,,0
-897343200,TPS,VPS,1,2,,,,0
-897343200,MyPa,HJK,1,1,,,,0
-897343200,Haka,PK-35,0,0,,,,0
-897343200,FinnPa Helsinki,Jaro,6,2,,,,0
-897775200,Rovaniemi,TPS,2,0,,,,0
-897861600,PK-35,Jazz Pori,2,2,,,,0
-898034400,VPS,FinnPa Helsinki,3,1,,,,0
-898034400,Rovaniemi,MyPa,0,2,,,,0
-898034400,Jaro,Haka,0,4,,,,0
-898034400,HJK,TPS,1,2,,,,0
-898552800,FinnPa Helsinki,Haka,1,3,,,,0
-898639200,VPS,HJK,1,1,,,,0
-898639200,PK-35,MyPa,2,0,,,,0
-898639200,Jaro,Jazz Pori,1,0,,,,0
-898898400,MyPa,Jaro,2,0,,,,0
-898898400,Haka,VPS,2,1,,,,0
-898984800,Jazz Pori,FinnPa Helsinki,5,1,,,,0
-898984800,HJK,Rovaniemi,2,0,,,,0
-899244000,Rovaniemi,VPS,2,1,,,,0
-899244000,Jaro,TPS,5,0,,,,0
-899244000,Haka,Jazz Pori,2,3,,,,0
-899244000,FinnPa Helsinki,MyPa,2,2,,,,0
-899330400,PK-35,HJK,0,1,,,,0
-899503200,VPS,Jazz Pori,4,0,,,,0
-899589600,MyPa,Haka,0,0,,,,0
-899589600,HJK,Jaro,1,1,,,,0
-899676000,Rovaniemi,PK-35,1,1,,,,0
-899762400,TPS,FinnPa Helsinki,1,0,,,,0
-900108000,PK-35,VPS,1,1,,,,0
-900108000,Jazz Pori,MyPa,1,2,,,,0
-900194400,HJK,FinnPa Helsinki,2,4,,,,0
-900280800,Jaro,Rovaniemi,1,1,,,,0
-900453600,VPS,MyPa,3,2,,,,0
-900453600,TPS,Jazz Pori,1,1,,,,0
-900453600,Rovaniemi,FinnPa Helsinki,1,1,,,,0
-900540000,PK-35,Jaro,1,0,,,,0
-900712800,Jazz Pori,HJK,2,1,,,,0
-900712800,Haka,Rovaniemi,4,2,,,,0
-900799200,Jaro,VPS,0,1,,,,0
-900885600,MyPa,TPS,0,1,,,,0
-901144800,Haka,TPS,1,0,,,,0
-901317600,VPS,TPS,0,2,,,,0
-901317600,Jaro,FinnPa Helsinki,0,0,,,,0
-901317600,HJK,MyPa,1,1,,,,0
-901490400,Rovaniemi,Jazz Pori,1,1,,,,0
-901490400,PK-35,Haka,5,1,,,,0
-901922400,Jazz Pori,PK-35,1,1,,,,0
-901922400,FinnPa Helsinki,VPS,2,2,,,,0
-902008800,MyPa,Rovaniemi,2,2,,,,0
-902095200,TPS,HJK,1,1,,,,0
-902181600,Haka,Jaro,1,1,,,,0
-902181600,FinnPa Helsinki,PK-35,0,0,,,,0
-902527200,VPS,Jazz Pori,0,0,,,,0
-902527200,TPS,HJK,0,1,,,,0
-902613600,PK-35,Jaro,2,1,,,,0
-902613600,MyPa,FinnPa Helsinki,2,1,,,,0
-902613600,Haka,Rovaniemi,0,0,,,,0
-903045600,FinnPa Helsinki,VPS,0,0,,,,0
-903132000,Rovaniemi,TPS,3,3,,,,0
-903132000,Jazz Pori,PK-35,4,1,,,,0
-903132000,HJK,MyPa,0,0,,,,0
-903218400,Jaro,Haka,1,2,,,,0
-903736800,VPS,Rovaniemi,4,0,,,,0
-903736800,Jazz Pori,HJK,2,1,,,,0
-903736800,Haka,MyPa,4,0,,,,0
-903909600,TPS,Jaro,1,1,,,,0
-903909600,PK-35,FinnPa Helsinki,1,0,,,,0
-904341600,MyPa,Jazz Pori,1,3,,,,0
-904428000,Jaro,VPS,1,1,,,,0
-904428000,FinnPa Helsinki,Haka,2,2,,,,0
-904514400,TPS,PK-35,0,2,,,,0
-904514400,HJK,Rovaniemi,0,2,,,,0
-905205600,Jazz Pori,FinnPa Helsinki,1,0,,,,0
-905292000,VPS,MyPa,2,4,,,,0
-905292000,Rovaniemi,PK-35,2,1,,,,0
-905292000,HJK,Jaro,4,2,,,,0
-905292000,Haka,TPS,0,1,,,,0
-905551200,VPS,TPS,0,0,,,,0
-905551200,FinnPa Helsinki,HJK,4,2,,,,0
-905637600,PK-35,MyPa,1,0,,,,0
-905637600,Jaro,Rovaniemi,0,0,,,,0
-905637600,Haka,Jazz Pori,3,2,,,,0
-906156000,PK-35,VPS,1,1,,,,0
-906242400,Rovaniemi,FinnPa Helsinki,0,0,,,,0
-906242400,MyPa,Jaro,3,0,,,,0
-906328800,TPS,Jazz Pori,1,0,,,,0
-906328800,HJK,Haka,0,1,,,,0
-906760800,HJK,VPS,3,1,,,,0
-906760800,Haka,PK-35,3,1,,,,0
-906847200,MyPa,Rovaniemi,1,1,,,,0
-906847200,Jazz Pori,Jaro,5,1,,,,0
-906847200,FinnPa Helsinki,TPS,2,0,,,,0
-907365600,VPS,Haka,1,0,,,,0
-907365600,TPS,MyPa,1,0,,,,0
-907365600,Rovaniemi,Jazz Pori,0,0,,,,0
-907365600,PK-35,HJK,1,1,,,,0
-907365600,Jaro,FinnPa Helsinki,2,2,,,,0
-908028000,TPV,FinnPa Helsinki,1,1,,,,0
-908373600,FinnPa Helsinki,TPV,2,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+894060000,TPS,Rovaniemi,GlTeTYJC,zVgW5cY1,0,0,,,,0
+894060000,HJK,VPS,xO7wlFSD,WYtEUtB2,1,1,,,,0
+894060000,Haka,FinnPa Helsinki,KtjRAU38,r5Kwu0uS,1,1,,,,0
+894146400,Jazz Pori,Jaro,2ZlfMMDL,hGuhahGg,0,0,,,,0
+894232800,MyPa,PK-35,hGuhahGg,fXc0KYv8,0,2,,,,0
+894405600,VPS,Rovaniemi,WYtEUtB2,zVgW5cY1,0,2,,,,0
+894405600,FinnPa Helsinki,HJK,r5Kwu0uS,xO7wlFSD,1,2,,,,0
+894664800,PK-35,TPS,fXc0KYv8,GlTeTYJC,3,1,,,,0
+894664800,Jaro,MyPa,hGuhahGg,hGuhahGg,4,3,,,,0
+894751200,Rovaniemi,HJK,zVgW5cY1,xO7wlFSD,0,1,,,,0
+894751200,FinnPa Helsinki,Jazz Pori,r5Kwu0uS,2ZlfMMDL,4,2,,,,0
+894837600,VPS,Haka,WYtEUtB2,KtjRAU38,3,0,,,,0
+895010400,TPS,Jaro,GlTeTYJC,hGuhahGg,3,0,,,,0
+895010400,MyPa,FinnPa Helsinki,hGuhahGg,r5Kwu0uS,3,0,,,,0
+895010400,Jazz Pori,Haka,2ZlfMMDL,KtjRAU38,0,4,,,,0
+895010400,HJK,PK-35,xO7wlFSD,fXc0KYv8,0,0,,,,0
+895269600,Jazz Pori,VPS,2ZlfMMDL,WYtEUtB2,0,1,,,,0
+895269600,Jaro,HJK,hGuhahGg,xO7wlFSD,0,1,,,,0
+895356000,PK-35,Rovaniemi,fXc0KYv8,zVgW5cY1,1,1,,,,0
+895356000,Haka,MyPa,KtjRAU38,hGuhahGg,2,1,,,,0
+895442400,FinnPa Helsinki,TPS,r5Kwu0uS,GlTeTYJC,1,1,,,,0
+895615200,VPS,PK-35,WYtEUtB2,fXc0KYv8,2,1,,,,0
+895615200,TPS,Haka,GlTeTYJC,KtjRAU38,1,2,,,,0
+895615200,Rovaniemi,Jaro,zVgW5cY1,hGuhahGg,0,1,,,,0
+895615200,MyPa,Jazz Pori,hGuhahGg,2ZlfMMDL,1,0,,,,0
+895874400,MyPa,VPS,hGuhahGg,WYtEUtB2,0,3,,,,0
+895874400,Haka,HJK,KtjRAU38,xO7wlFSD,2,2,,,,0
+895874400,FinnPa Helsinki,Rovaniemi,r5Kwu0uS,zVgW5cY1,1,2,,,,0
+895960800,Jazz Pori,TPS,2ZlfMMDL,GlTeTYJC,0,0,,,,0
+895960800,Jaro,PK-35,hGuhahGg,fXc0KYv8,0,3,,,,0
+896392800,TPS,PK-35,GlTeTYJC,fXc0KYv8,1,1,,,,0
+896479200,Rovaniemi,Haka,zVgW5cY1,KtjRAU38,1,1,,,,0
+896479200,HJK,Jazz Pori,xO7wlFSD,2ZlfMMDL,1,0,,,,0
+896565600,VPS,Jaro,WYtEUtB2,hGuhahGg,3,0,,,,0
+896652000,TPS,MyPa,GlTeTYJC,hGuhahGg,2,2,,,,0
+896652000,PK-35,FinnPa Helsinki,fXc0KYv8,r5Kwu0uS,1,0,,,,0
+896738400,HJK,Haka,xO7wlFSD,KtjRAU38,1,1,,,,0
+897256800,Jazz Pori,Rovaniemi,2ZlfMMDL,zVgW5cY1,2,1,,,,0
+897343200,TPS,VPS,GlTeTYJC,WYtEUtB2,1,2,,,,0
+897343200,MyPa,HJK,hGuhahGg,xO7wlFSD,1,1,,,,0
+897343200,Haka,PK-35,KtjRAU38,fXc0KYv8,0,0,,,,0
+897343200,FinnPa Helsinki,Jaro,r5Kwu0uS,hGuhahGg,6,2,,,,0
+897775200,Rovaniemi,TPS,zVgW5cY1,GlTeTYJC,2,0,,,,0
+897861600,PK-35,Jazz Pori,fXc0KYv8,2ZlfMMDL,2,2,,,,0
+898034400,VPS,FinnPa Helsinki,WYtEUtB2,r5Kwu0uS,3,1,,,,0
+898034400,Rovaniemi,MyPa,zVgW5cY1,hGuhahGg,0,2,,,,0
+898034400,Jaro,Haka,hGuhahGg,KtjRAU38,0,4,,,,0
+898034400,HJK,TPS,xO7wlFSD,GlTeTYJC,1,2,,,,0
+898552800,FinnPa Helsinki,Haka,r5Kwu0uS,KtjRAU38,1,3,,,,0
+898639200,VPS,HJK,WYtEUtB2,xO7wlFSD,1,1,,,,0
+898639200,PK-35,MyPa,fXc0KYv8,hGuhahGg,2,0,,,,0
+898639200,Jaro,Jazz Pori,hGuhahGg,2ZlfMMDL,1,0,,,,0
+898898400,MyPa,Jaro,hGuhahGg,hGuhahGg,2,0,,,,0
+898898400,Haka,VPS,KtjRAU38,WYtEUtB2,2,1,,,,0
+898984800,Jazz Pori,FinnPa Helsinki,2ZlfMMDL,r5Kwu0uS,5,1,,,,0
+898984800,HJK,Rovaniemi,xO7wlFSD,zVgW5cY1,2,0,,,,0
+899244000,Rovaniemi,VPS,zVgW5cY1,WYtEUtB2,2,1,,,,0
+899244000,Jaro,TPS,hGuhahGg,GlTeTYJC,5,0,,,,0
+899244000,Haka,Jazz Pori,KtjRAU38,2ZlfMMDL,2,3,,,,0
+899244000,FinnPa Helsinki,MyPa,r5Kwu0uS,hGuhahGg,2,2,,,,0
+899330400,PK-35,HJK,fXc0KYv8,xO7wlFSD,0,1,,,,0
+899503200,VPS,Jazz Pori,WYtEUtB2,2ZlfMMDL,4,0,,,,0
+899589600,MyPa,Haka,hGuhahGg,KtjRAU38,0,0,,,,0
+899589600,HJK,Jaro,xO7wlFSD,hGuhahGg,1,1,,,,0
+899676000,Rovaniemi,PK-35,zVgW5cY1,fXc0KYv8,1,1,,,,0
+899762400,TPS,FinnPa Helsinki,GlTeTYJC,r5Kwu0uS,1,0,,,,0
+900108000,PK-35,VPS,fXc0KYv8,WYtEUtB2,1,1,,,,0
+900108000,Jazz Pori,MyPa,2ZlfMMDL,hGuhahGg,1,2,,,,0
+900194400,HJK,FinnPa Helsinki,xO7wlFSD,r5Kwu0uS,2,4,,,,0
+900280800,Jaro,Rovaniemi,hGuhahGg,zVgW5cY1,1,1,,,,0
+900453600,VPS,MyPa,WYtEUtB2,hGuhahGg,3,2,,,,0
+900453600,TPS,Jazz Pori,GlTeTYJC,2ZlfMMDL,1,1,,,,0
+900453600,Rovaniemi,FinnPa Helsinki,zVgW5cY1,r5Kwu0uS,1,1,,,,0
+900540000,PK-35,Jaro,fXc0KYv8,hGuhahGg,1,0,,,,0
+900712800,Jazz Pori,HJK,2ZlfMMDL,xO7wlFSD,2,1,,,,0
+900712800,Haka,Rovaniemi,KtjRAU38,zVgW5cY1,4,2,,,,0
+900799200,Jaro,VPS,hGuhahGg,WYtEUtB2,0,1,,,,0
+900885600,MyPa,TPS,hGuhahGg,GlTeTYJC,0,1,,,,0
+901144800,Haka,TPS,KtjRAU38,GlTeTYJC,1,0,,,,0
+901317600,VPS,TPS,WYtEUtB2,GlTeTYJC,0,2,,,,0
+901317600,Jaro,FinnPa Helsinki,hGuhahGg,r5Kwu0uS,0,0,,,,0
+901317600,HJK,MyPa,xO7wlFSD,hGuhahGg,1,1,,,,0
+901490400,Rovaniemi,Jazz Pori,zVgW5cY1,2ZlfMMDL,1,1,,,,0
+901490400,PK-35,Haka,fXc0KYv8,KtjRAU38,5,1,,,,0
+901922400,Jazz Pori,PK-35,2ZlfMMDL,fXc0KYv8,1,1,,,,0
+901922400,FinnPa Helsinki,VPS,r5Kwu0uS,WYtEUtB2,2,2,,,,0
+902008800,MyPa,Rovaniemi,hGuhahGg,zVgW5cY1,2,2,,,,0
+902095200,TPS,HJK,GlTeTYJC,xO7wlFSD,1,1,,,,0
+902181600,Haka,Jaro,KtjRAU38,hGuhahGg,1,1,,,,0
+902181600,FinnPa Helsinki,PK-35,r5Kwu0uS,fXc0KYv8,0,0,,,,0
+902527200,VPS,Jazz Pori,WYtEUtB2,2ZlfMMDL,0,0,,,,0
+902527200,TPS,HJK,GlTeTYJC,xO7wlFSD,0,1,,,,0
+902613600,PK-35,Jaro,fXc0KYv8,hGuhahGg,2,1,,,,0
+902613600,MyPa,FinnPa Helsinki,hGuhahGg,r5Kwu0uS,2,1,,,,0
+902613600,Haka,Rovaniemi,KtjRAU38,zVgW5cY1,0,0,,,,0
+903045600,FinnPa Helsinki,VPS,r5Kwu0uS,WYtEUtB2,0,0,,,,0
+903132000,Rovaniemi,TPS,zVgW5cY1,GlTeTYJC,3,3,,,,0
+903132000,Jazz Pori,PK-35,2ZlfMMDL,fXc0KYv8,4,1,,,,0
+903132000,HJK,MyPa,xO7wlFSD,hGuhahGg,0,0,,,,0
+903218400,Jaro,Haka,hGuhahGg,KtjRAU38,1,2,,,,0
+903736800,VPS,Rovaniemi,WYtEUtB2,zVgW5cY1,4,0,,,,0
+903736800,Jazz Pori,HJK,2ZlfMMDL,xO7wlFSD,2,1,,,,0
+903736800,Haka,MyPa,KtjRAU38,hGuhahGg,4,0,,,,0
+903909600,TPS,Jaro,GlTeTYJC,hGuhahGg,1,1,,,,0
+903909600,PK-35,FinnPa Helsinki,fXc0KYv8,r5Kwu0uS,1,0,,,,0
+904341600,MyPa,Jazz Pori,hGuhahGg,2ZlfMMDL,1,3,,,,0
+904428000,Jaro,VPS,hGuhahGg,WYtEUtB2,1,1,,,,0
+904428000,FinnPa Helsinki,Haka,r5Kwu0uS,KtjRAU38,2,2,,,,0
+904514400,TPS,PK-35,GlTeTYJC,fXc0KYv8,0,2,,,,0
+904514400,HJK,Rovaniemi,xO7wlFSD,zVgW5cY1,0,2,,,,0
+905205600,Jazz Pori,FinnPa Helsinki,2ZlfMMDL,r5Kwu0uS,1,0,,,,0
+905292000,VPS,MyPa,WYtEUtB2,hGuhahGg,2,4,,,,0
+905292000,Rovaniemi,PK-35,zVgW5cY1,fXc0KYv8,2,1,,,,0
+905292000,HJK,Jaro,xO7wlFSD,hGuhahGg,4,2,,,,0
+905292000,Haka,TPS,KtjRAU38,GlTeTYJC,0,1,,,,0
+905551200,VPS,TPS,WYtEUtB2,GlTeTYJC,0,0,,,,0
+905551200,FinnPa Helsinki,HJK,r5Kwu0uS,xO7wlFSD,4,2,,,,0
+905637600,PK-35,MyPa,fXc0KYv8,hGuhahGg,1,0,,,,0
+905637600,Jaro,Rovaniemi,hGuhahGg,zVgW5cY1,0,0,,,,0
+905637600,Haka,Jazz Pori,KtjRAU38,2ZlfMMDL,3,2,,,,0
+906156000,PK-35,VPS,fXc0KYv8,WYtEUtB2,1,1,,,,0
+906242400,Rovaniemi,FinnPa Helsinki,zVgW5cY1,r5Kwu0uS,0,0,,,,0
+906242400,MyPa,Jaro,hGuhahGg,hGuhahGg,3,0,,,,0
+906328800,TPS,Jazz Pori,GlTeTYJC,2ZlfMMDL,1,0,,,,0
+906328800,HJK,Haka,xO7wlFSD,KtjRAU38,0,1,,,,0
+906760800,HJK,VPS,xO7wlFSD,WYtEUtB2,3,1,,,,0
+906760800,Haka,PK-35,KtjRAU38,fXc0KYv8,3,1,,,,0
+906847200,MyPa,Rovaniemi,hGuhahGg,zVgW5cY1,1,1,,,,0
+906847200,Jazz Pori,Jaro,2ZlfMMDL,hGuhahGg,5,1,,,,0
+906847200,FinnPa Helsinki,TPS,r5Kwu0uS,GlTeTYJC,2,0,,,,0
+907365600,VPS,Haka,WYtEUtB2,KtjRAU38,1,0,,,,0
+907365600,TPS,MyPa,GlTeTYJC,hGuhahGg,1,0,,,,0
+907365600,Rovaniemi,Jazz Pori,zVgW5cY1,2ZlfMMDL,0,0,,,,0
+907365600,PK-35,HJK,fXc0KYv8,xO7wlFSD,1,1,,,,0
+907365600,Jaro,FinnPa Helsinki,hGuhahGg,r5Kwu0uS,2,2,,,,0
+908028000,TPV,FinnPa Helsinki,QyGb2mBG,r5Kwu0uS,1,1,,,,0
+908373600,FinnPa Helsinki,TPV,r5Kwu0uS,QyGb2mBG,2,2,,,,0

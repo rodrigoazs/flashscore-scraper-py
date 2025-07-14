@@ -1,46 +1,46 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1251295200,Vlaznimi,Bregalnica Stip,0,0,Pen,1,0,0
-1251295200,Vellazerimi,Pelister,0,3,,,,0
-1251295200,Prevalec,Teteks,0,4,,,,0
-1251295200,Oktomvri,Vardar,3,1,,,,0
-1251295200,Ohrid,Turnovo,3,0,,,,0
-1251295200,Lepenec,Fortuna Skopje,0,3,Awrd,,,0
-1251295200,Kozuf Gevgelija,Rabotnicki,0,5,,,,0
-1251295200,Karbinci,Makedonija GP,1,4,,,,0
-1251295200,Gostivar,Lok. Skopje,0,3,Awrd,,,0
-1251295200,FK Skopje,Shkupi,2,1,,,,0
-1251295200,Drita,Napredok,1,0,,,,0
-1251295200,Dobrusevo,Sileks,1,13,,,,0
-1251295200,Bregalnica Delcevo,Pobeda,0,2,,,,0
-1251295200,Belasica,Milano Kumanovo,3,1,,,,0
-1251295200,Babuna,Met. Skopje,1,3,,,,0
-1251295200,Acev,Renova,0,11,,,,0
-1253624400,FK Skopje,Oktomvri,3,1,,,,0
-1253710800,Vlaznimi,Drita,0,1,,,,0
-1253710800,Sileks,Makedonija GP,1,1,,,,0
-1253710800,Pelister,Ohrid,2,0,,,,0
-1253710800,Met. Skopje,Pobeda,1,0,,,,0
-1253710800,Lok. Skopje,Renova,0,3,Awrd,,,0
-1253710800,Fortuna Skopje,Rabotnicki,0,6,,,,0
-1253710800,Belasica,Teteks,1,3,,,,0
-1254229200,Oktomvri,FK Skopje,1,0,,,,0
-1254315600,Teteks,Belasica,1,0,,,,0
-1254315600,Renova,Lok. Skopje,3,0,Awrd,,,0
-1254315600,Rabotnicki,Fortuna Skopje,3,0,Awrd,,,0
-1254315600,Pobeda,Met. Skopje,1,0,Pen,1,1,0
-1254315600,Ohrid,Pelister,0,3,Awrd,,,0
-1254315600,Makedonija GP,Sileks,2,1,,,,0
-1254315600,Drita,Vlaznimi,1,1,,,,0
-1256731200,Rabotnicki,Renova,4,0,,,,0
-1256731200,Pelister,Drita,2,2,,,,0
-1256731200,Makedonija GP,Teteks,2,0,,,,0
-1256731200,FK Skopje,Met. Skopje,0,0,,,,0
-1259150400,Renova,Rabotnicki,0,1,,,,0
-1259150400,Met. Skopje,FK Skopje,2,2,,,,0
-1259150400,Drita,Pelister,0,1,,,,0
-1259236800,Teteks,Makedonija GP,3,0,Awrd,,,0
-1270648800,Teteks,FK Skopje,0,0,,,,0
-1270648800,Pelister,Rabotnicki,1,0,,,,0
-1273069800,Rabotnicki,Pelister,1,0,Pen,2,0,0
-1273069800,FK Skopje,Teteks,1,2,,,,0
-1274882400,Rabotnicki,Teteks,2,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1251295200,Vlaznimi,Bregalnica Stip,O2t4ZCwt,86OeMIIr,0,0,Pen,1,0,0
+1251295200,Vellazerimi,Pelister,EVFY8njN,2JKzUeUK,0,3,,,,0
+1251295200,Prevalec,Teteks,KjHAKige,tOvmJnVr,0,4,,,,0
+1251295200,Oktomvri,Vardar,ILReCEDO,86OeMIIr,3,1,,,,0
+1251295200,Ohrid,Turnovo,UuidxQyg,ILReCEDO,3,0,,,,0
+1251295200,Lepenec,Fortuna Skopje,Am6XCEDd,8hFLbQW3,0,3,Awrd,,,0
+1251295200,Kozuf Gevgelija,Rabotnicki,lt4sJRnd,Cdxq7Y31,0,5,,,,0
+1251295200,Karbinci,Makedonija GP,Iq62HygS,n5NSVHa8,1,4,,,,0
+1251295200,Gostivar,Lok. Skopje,E3JIMV6l,0jQg0Qea,0,3,Awrd,,,0
+1251295200,FK Skopje,Shkupi,pCTkNqKp,CIHFv9fg,2,1,,,,0
+1251295200,Drita,Napredok,2JKzUeUK,WrtPD2cR,1,0,,,,0
+1251295200,Dobrusevo,Sileks,,Ys5PBeU0,1,13,,,,0
+1251295200,Bregalnica Delcevo,Pobeda,fFzddrH7,8lHNgCuQ,0,2,,,,0
+1251295200,Belasica,Milano Kumanovo,fFzddrH7,COn47dFf,3,1,,,,0
+1251295200,Babuna,Met. Skopje,Wd7TDfbj,QTF8oS5s,1,3,,,,0
+1251295200,Acev,Renova,Am6XCEDd,WrjrBuU2,0,11,,,,0
+1253624400,FK Skopje,Oktomvri,pCTkNqKp,ILReCEDO,3,1,,,,0
+1253710800,Vlaznimi,Drita,O2t4ZCwt,2JKzUeUK,0,1,,,,0
+1253710800,Sileks,Makedonija GP,Ys5PBeU0,n5NSVHa8,1,1,,,,0
+1253710800,Pelister,Ohrid,2JKzUeUK,UuidxQyg,2,0,,,,0
+1253710800,Met. Skopje,Pobeda,QTF8oS5s,8lHNgCuQ,1,0,,,,0
+1253710800,Lok. Skopje,Renova,0jQg0Qea,WrjrBuU2,0,3,Awrd,,,0
+1253710800,Fortuna Skopje,Rabotnicki,8hFLbQW3,Cdxq7Y31,0,6,,,,0
+1253710800,Belasica,Teteks,fFzddrH7,tOvmJnVr,1,3,,,,0
+1254229200,Oktomvri,FK Skopje,ILReCEDO,pCTkNqKp,1,0,,,,0
+1254315600,Teteks,Belasica,tOvmJnVr,fFzddrH7,1,0,,,,0
+1254315600,Renova,Lok. Skopje,WrjrBuU2,0jQg0Qea,3,0,Awrd,,,0
+1254315600,Rabotnicki,Fortuna Skopje,Cdxq7Y31,8hFLbQW3,3,0,Awrd,,,0
+1254315600,Pobeda,Met. Skopje,8lHNgCuQ,QTF8oS5s,1,0,Pen,1,1,0
+1254315600,Ohrid,Pelister,UuidxQyg,2JKzUeUK,0,3,Awrd,,,0
+1254315600,Makedonija GP,Sileks,n5NSVHa8,Ys5PBeU0,2,1,,,,0
+1254315600,Drita,Vlaznimi,2JKzUeUK,O2t4ZCwt,1,1,,,,0
+1256731200,Rabotnicki,Renova,Cdxq7Y31,WrjrBuU2,4,0,,,,0
+1256731200,Pelister,Drita,2JKzUeUK,2JKzUeUK,2,2,,,,0
+1256731200,Makedonija GP,Teteks,n5NSVHa8,tOvmJnVr,2,0,,,,0
+1256731200,FK Skopje,Met. Skopje,pCTkNqKp,QTF8oS5s,0,0,,,,0
+1259150400,Renova,Rabotnicki,WrjrBuU2,Cdxq7Y31,0,1,,,,0
+1259150400,Met. Skopje,FK Skopje,QTF8oS5s,pCTkNqKp,2,2,,,,0
+1259150400,Drita,Pelister,2JKzUeUK,2JKzUeUK,0,1,,,,0
+1259236800,Teteks,Makedonija GP,tOvmJnVr,n5NSVHa8,3,0,Awrd,,,0
+1270648800,Teteks,FK Skopje,tOvmJnVr,pCTkNqKp,0,0,,,,0
+1270648800,Pelister,Rabotnicki,2JKzUeUK,Cdxq7Y31,1,0,,,,0
+1273069800,Rabotnicki,Pelister,Cdxq7Y31,2JKzUeUK,1,0,Pen,2,0,0
+1273069800,FK Skopje,Teteks,pCTkNqKp,tOvmJnVr,1,2,,,,0
+1274882400,Rabotnicki,Teteks,Cdxq7Y31,tOvmJnVr,2,3,,,,0

@@ -1,47 +1,47 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1331960400,Pocheon,Ulsan University,2,0,,,,0
-1331964000,Seoul United,Hannam University,2,4,,,,0
-1331964000,Icheon,Hongik,3,2,,,,0
-1331964000,Chuncheon,Korea University,1,2,,,,0
-1331964000,Cheongju,Ajou,3,1,,,,0
-1332036000,Sungkyunkwan,Seoul Martyrs,8,0,,,,0
-1332046800,Yangju,Dongguk,3,1,,,,0
-1332046800,Bucheon FC 1995,Asan,0,4,,,,0
-1335592800,Yongin City,Asan,0,4,,,,0
-1335592800,Mokpo,Sungkyunkwan,5,1,,,,0
-1335592800,Korea University,Pocheon,4,2,,,,0
-1335592800,Icheon,Hummel,0,2,,,,0
-1335592800,Hannam University,Gyeongju Citizen,1,1,Pen,1,2,0
-1335592800,Cheongju,Goyang Zaicro FC,0,0,AET,1,0,0
-1335607200,Gimhae,Yangju,1,1,Pen,2,1,0
-1337767200,Seongnam,Suwon FC,5,1,,,,0
-1337767200,Jeonbuk,Cheonan City,3,1,,,,0
-1337767200,Jeju SK,Daejeon Korail,2,1,,,,0
-1337767200,Hummel,Gwangju FC,2,4,,,,0
-1337767200,Gimcheon Sangmu,Ulsan Mipo,2,1,,,,0
-1337767200,Gangwon,Korea University,1,0,,,,0
-1337767200,Daejeon,Gyeongju Citizen,2,1,,,,0
-1337767200,Daegu,Asan,3,1,,,,0
-1337767200,Busan Kyotong,Gyeongnam,1,1,Pen,2,3,0
-1337769000,Ulsan HD,Gyeongju KHNP,1,0,,,,0
-1337769000,Suwon Bluewings,Gangneung,5,2,,,,0
-1337769000,Seoul,Mokpo,3,0,,,,0
-1337769000,Pohang,Cheongju,4,0,,,,0
-1337769000,Jeonnam,Changwon,0,0,AET,1,0,0
-1337769000,Incheon,Gimhae,3,0,,,,0
-1337769000,Busan,Goyang,0,1,,,,0
-1340186400,Seongnam,Ulsan HD,1,2,,,,0
-1340186400,Jeonbuk,Jeonnam,1,0,,,,0
-1340186400,Jeju SK,Daegu,2,0,,,,0
-1340186400,Daejeon,Gimcheon Sangmu,1,1,Pen,3,2,0
-1340188200,Seoul,Suwon Bluewings,0,2,,,,0
-1340188200,Pohang,Gwangju FC,3,1,,,,0
-1340188200,Incheon,Goyang,2,2,Pen,2,3,0
-1340188200,Gyeongnam,Gangwon,1,0,,,,0
-1343817000,Ulsan HD,Goyang,6,1,,,,0
-1343817000,Pohang,Jeonbuk,3,2,,,,0
-1343817000,Gyeongnam,Suwon Bluewings,1,1,Pen,2,1,0
-1343817000,Daejeon,Jeju SK,1,2,,,,0
-1346493600,Ulsan HD,Gyeongnam,0,3,,,,0
-1346493600,Pohang,Jeju SK,2,1,,,,0
-1350709200,Pohang,Gyeongnam,0,0,AET,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1331960400,Pocheon,Ulsan University,xS3omX98,IeQyHoE9,2,0,,,,0
+1331964000,Seoul United,Hannam University,Ic5ewgVd,xAjs8R0r,2,4,,,,0
+1331964000,Icheon,Hongik,xS3omX98,rHbMwKnT,3,2,,,,0
+1331964000,Chuncheon,Korea University,C8xz9kft,xS3omX98,1,2,,,,0
+1331964000,Cheongju,Ajou,fDezaw8A,tKMqLog4,3,1,,,,0
+1332036000,Sungkyunkwan,Seoul Martyrs,AD7xRhgf,lW2VrJHR,8,0,,,,0
+1332046800,Yangju,Dongguk,lC4X4PZR,lWjmsesl,3,1,,,,0
+1332046800,Bucheon FC 1995,Asan,WnvCfUUh,l6HzCrRi,0,4,,,,0
+1335592800,Yongin City,Asan,WpVyfe72,l6HzCrRi,0,4,,,,0
+1335592800,Mokpo,Sungkyunkwan,zqF6QHPD,AD7xRhgf,5,1,,,,0
+1335592800,Korea University,Pocheon,xS3omX98,xS3omX98,4,2,,,,0
+1335592800,Icheon,Hummel,xS3omX98,MiifrrOt,0,2,,,,0
+1335592800,Hannam University,Gyeongju Citizen,xAjs8R0r,neObYusP,1,1,Pen,1,2,0
+1335592800,Cheongju,Goyang Zaicro FC,fDezaw8A,MiifrrOt,0,0,AET,1,0,0
+1335607200,Gimhae,Yangju,AyUugFM8,lC4X4PZR,1,1,Pen,2,1,0
+1337767200,Seongnam,Suwon FC,l04KlBA6,C8xz9kft,5,1,,,,0
+1337767200,Jeonbuk,Cheonan City,fm8Q2TnU,l2Dt0o2j,3,1,,,,0
+1337767200,Jeju SK,Daejeon Korail,nFQt27sT,WpVyfe72,2,1,,,,0
+1337767200,Hummel,Gwangju FC,MiifrrOt,82pY9Pwe,2,4,,,,0
+1337767200,Gimcheon Sangmu,Ulsan Mipo,UNadZKxs,h22eRuJ9,2,1,,,,0
+1337767200,Gangwon,Korea University,tjoPM7VE,xS3omX98,1,0,,,,0
+1337767200,Daejeon,Gyeongju Citizen,l6HzCrRi,neObYusP,2,1,,,,0
+1337767200,Daegu,Asan,AkeugwZe,l6HzCrRi,3,1,,,,0
+1337767200,Busan Kyotong,Gyeongnam,AyUugFM8,OlLDanjn,1,1,Pen,2,3,0
+1337769000,Ulsan HD,Gyeongju KHNP,0hHJPkl1,nml9t5he,1,0,,,,0
+1337769000,Suwon Bluewings,Gangneung,nuOc3CG5,WpVyfe72,5,2,,,,0
+1337769000,Seoul,Mokpo,8rKfsneA,zqF6QHPD,3,0,,,,0
+1337769000,Pohang,Cheongju,lG6iYHm8,fDezaw8A,4,0,,,,0
+1337769000,Jeonnam,Changwon,0fjMSYzR,AyUugFM8,0,0,AET,1,0,0
+1337769000,Incheon,Gimhae,U904kONG,AyUugFM8,3,0,,,,0
+1337769000,Busan,Goyang,23xlOhqr,,0,1,,,,0
+1340186400,Seongnam,Ulsan HD,l04KlBA6,0hHJPkl1,1,2,,,,0
+1340186400,Jeonbuk,Jeonnam,fm8Q2TnU,0fjMSYzR,1,0,,,,0
+1340186400,Jeju SK,Daegu,nFQt27sT,AkeugwZe,2,0,,,,0
+1340186400,Daejeon,Gimcheon Sangmu,l6HzCrRi,UNadZKxs,1,1,Pen,3,2,0
+1340188200,Seoul,Suwon Bluewings,8rKfsneA,nuOc3CG5,0,2,,,,0
+1340188200,Pohang,Gwangju FC,lG6iYHm8,82pY9Pwe,3,1,,,,0
+1340188200,Incheon,Goyang,U904kONG,,2,2,Pen,2,3,0
+1340188200,Gyeongnam,Gangwon,OlLDanjn,tjoPM7VE,1,0,,,,0
+1343817000,Ulsan HD,Goyang,0hHJPkl1,,6,1,,,,0
+1343817000,Pohang,Jeonbuk,lG6iYHm8,fm8Q2TnU,3,2,,,,0
+1343817000,Gyeongnam,Suwon Bluewings,OlLDanjn,nuOc3CG5,1,1,Pen,2,1,0
+1343817000,Daejeon,Jeju SK,l6HzCrRi,nFQt27sT,1,2,,,,0
+1346493600,Ulsan HD,Gyeongnam,0hHJPkl1,OlLDanjn,0,3,,,,0
+1346493600,Pohang,Jeju SK,lG6iYHm8,nFQt27sT,2,1,,,,0
+1350709200,Pohang,Gyeongnam,lG6iYHm8,OlLDanjn,0,0,AET,1,0,0

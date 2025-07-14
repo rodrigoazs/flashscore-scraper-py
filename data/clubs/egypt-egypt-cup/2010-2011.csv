@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1291807800,Al-Sekka,El Gaish,0,1,,,,0
-1291817700,Wadi Degla,Fayoum,2,1,,,,0
-1291817700,Misr Lel Makkasa,Al Nasr,0,2,,,,0
-1291894200,Tanta,Petrojet,1,3,,,,0
-1291894200,El Gouna,Alaab Damanhour,2,1,,,,0
-1291894200,Beni Suef,El-Entag El-Harby,0,0,Pen,1,0,0
-1291894200,Al-Rebat,Enppi,1,2,,,,0
-1291904100,Suez Cement,Arab Contractors,0,2,,,,0
-1291980600,Asyut Petroleum,Al Masry,1,0,,,,0
-1291990500,Zamalek,Bani Ebeid,6,0,,,,0
-1293622200,Sokar,Haras El Hodood,0,2,,,,0
-1293632100,El-Shorta,Markaz Shabab,1,1,AET,2,1,0
-1293632100,Al Ittihad,Matroh,3,1,,,,0
-1293708600,Kafr El Sheikh,El Ismaily,1,2,,,,0
-1293718500,Smouha,El Sharqiya Zagazig,3,2,,,,0
-1315328400,Al Ahly,Kima Aswan,4,0,,,,0
-1316532600,Smouha,Haras El Hodood,0,1,,,,0
-1316532600,Petrojet,El-Shorta,1,1,AET,1,2,0
-1316532600,El Ismaily,Beni Suef,4,0,,,,0
-1316543400,Wadi Degla,Zamalek,1,4,,,,0
-1316610000,El Gouna,Asyut Petroleum,3,3,Pen,4,3,0
-1316619000,Arab Contractors,El Gaish,0,0,AET,1,0,0
-1316619000,Al Ittihad,Al Nasr,0,0,Pen,0,1,0
-1316629800,Enppi,Al Ahly,1,0,,,,0
-1316966400,Zamalek,El Gouna,2,2,AET,3,2,0
-1316973600,Haras El Hodood,Al Nasr,0,0,AET,1,0,0
-1317049200,El-Shorta,Enppi,0,0,Pen,0,1,0
-1317061800,Arab Contractors,El Ismaily,3,1,,,,0
-1317481200,Enppi,Arab Contractors,1,1,Pen,3,2,0
-1317492000,Zamalek,Haras El Hodood,2,1,,,,0
-1318352400,Zamalek,Enppi,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1291807800,Al-Sekka,El Gaish,d8SflmrH,zcdwYkPa,0,1,,,,0
+1291817700,Wadi Degla,Fayoum,nDyPqWH0,6k0NZmTN,2,1,,,,0
+1291817700,Misr Lel Makkasa,Al Nasr,vRYp4Iam,rD8SY36b,0,2,,,,0
+1291894200,Tanta,Petrojet,UTpZ7Xnm,QJAe2ryT,1,3,,,,0
+1291894200,El Gouna,Alaab Damanhour,rFudGJm8,UPjOlVr9,2,1,,,,0
+1291894200,Beni Suef,El-Entag El-Harby,0pkaQl1P,jm1g2SD5,0,0,Pen,1,0,0
+1291894200,Al-Rebat,Enppi,,UXviHTBE,1,2,,,,0
+1291904100,Suez Cement,Arab Contractors,O8ysYrgb,vJb36ZBF,0,2,,,,0
+1291980600,Asyut Petroleum,Al Masry,xYpJaFv3,K8vlWhPS,1,0,,,,0
+1291990500,Zamalek,Bani Ebeid,EJgyrHTR,GnG1AZ6d,6,0,,,,0
+1293622200,Sokar,Haras El Hodood,,WOiN3YjQ,0,2,,,,0
+1293632100,El-Shorta,Markaz Shabab,CAZaZe1D,,1,1,AET,2,1,0
+1293632100,Al Ittihad,Matroh,bgfz00t5,OtT6FUK3,3,1,,,,0
+1293708600,Kafr El Sheikh,El Ismaily,Mspxaqeq,hjU5IpqO,1,2,,,,0
+1293718500,Smouha,El Sharqiya Zagazig,Y1Z3w2bI,0Gyb9L24,3,2,,,,0
+1315328400,Al Ahly,Kima Aswan,CWnyifXm,42aEOwr5,4,0,,,,0
+1316532600,Smouha,Haras El Hodood,Y1Z3w2bI,WOiN3YjQ,0,1,,,,0
+1316532600,Petrojet,El-Shorta,QJAe2ryT,CAZaZe1D,1,1,AET,1,2,0
+1316532600,El Ismaily,Beni Suef,hjU5IpqO,0pkaQl1P,4,0,,,,0
+1316543400,Wadi Degla,Zamalek,nDyPqWH0,EJgyrHTR,1,4,,,,0
+1316610000,El Gouna,Asyut Petroleum,rFudGJm8,xYpJaFv3,3,3,Pen,4,3,0
+1316619000,Arab Contractors,El Gaish,vJb36ZBF,zcdwYkPa,0,0,AET,1,0,0
+1316619000,Al Ittihad,Al Nasr,bgfz00t5,rD8SY36b,0,0,Pen,0,1,0
+1316629800,Enppi,Al Ahly,UXviHTBE,CWnyifXm,1,0,,,,0
+1316966400,Zamalek,El Gouna,EJgyrHTR,rFudGJm8,2,2,AET,3,2,0
+1316973600,Haras El Hodood,Al Nasr,WOiN3YjQ,rD8SY36b,0,0,AET,1,0,0
+1317049200,El-Shorta,Enppi,CAZaZe1D,UXviHTBE,0,0,Pen,0,1,0
+1317061800,Arab Contractors,El Ismaily,vJb36ZBF,hjU5IpqO,3,1,,,,0
+1317481200,Enppi,Arab Contractors,UXviHTBE,vJb36ZBF,1,1,Pen,3,2,0
+1317492000,Zamalek,Haras El Hodood,EJgyrHTR,WOiN3YjQ,2,1,,,,0
+1318352400,Zamalek,Enppi,EJgyrHTR,UXviHTBE,1,2,,,,0

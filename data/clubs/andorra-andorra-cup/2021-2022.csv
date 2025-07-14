@@ -1,14 +1,14 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1610791200,Inter Escaldes,Sant Julia,3,0,,,,0
-1610791200,FC Rangers,UE Engordany,0,5,,,,0
-1610805600,UE Santa Coloma,Encamp,6,2,,,,0
-1610805600,Ordino,FC Santa Coloma,0,2,,,,0
-1610820000,Carroi,La Massana,2,1,,,,0
-1610820000,Atletic America,Penya,0,2,,,,0
-1611399600,Extremenya,Carroi,1,0,,,,0
-1611399600,Atletic Escaldes,UE Santa Coloma,2,0,,,,0
-1611414000,Penya,UE Engordany,0,0,AET,0,3,0
-1611414000,Inter Escaldes,FC Santa Coloma,0,0,AET,1,0,0
-1617734700,UE Engordany,Extremenya,1,1,Pen,1,2,0
-1617821100,Atletic Escaldes,Inter Escaldes,2,2,Pen,3,2,0
-1622300400,Atletic Escaldes,Extremenya,4,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1610791200,Inter Escaldes,Sant Julia,tKbrPWjF,McUMVQPk,3,0,,,,0
+1610791200,FC Rangers,UE Engordany,UotWH3iq,MHnvH5pK,0,5,,,,0
+1610805600,UE Santa Coloma,Encamp,2aQZ1RRP,8pVQYYp7,6,2,,,,0
+1610805600,Ordino,FC Santa Coloma,byaNU0dt,Uik4ihaC,0,2,,,,0
+1610820000,Carroi,La Massana,Kd6FFBdj,byaNU0dt,2,1,,,,0
+1610820000,Atletic America,Penya,WWmUWnbE,xScRTKBn,0,2,,,,0
+1611399600,Extremenya,Carroi,tAX7qMR3,Kd6FFBdj,1,0,,,,0
+1611399600,Atletic Escaldes,UE Santa Coloma,WnxS8ZvA,2aQZ1RRP,2,0,,,,0
+1611414000,Penya,UE Engordany,xScRTKBn,MHnvH5pK,0,0,AET,0,3,0
+1611414000,Inter Escaldes,FC Santa Coloma,tKbrPWjF,Uik4ihaC,0,0,AET,1,0,0
+1617734700,UE Engordany,Extremenya,MHnvH5pK,tAX7qMR3,1,1,Pen,1,2,0
+1617821100,Atletic Escaldes,Inter Escaldes,WnxS8ZvA,tKbrPWjF,2,2,Pen,3,2,0
+1622300400,Atletic Escaldes,Extremenya,WnxS8ZvA,tAX7qMR3,4,1,,,,0

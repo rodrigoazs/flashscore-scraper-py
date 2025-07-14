@@ -1,27 +1,27 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1427634000,Taraz-Karatau 2,Shakhtar Bulat,0,2,,,,0
-1427634000,Maqtaaral,FK Akzhayik,0,1,,,,0
-1427634000,FK Kyran,Kaspij Aktau,1,2,,,,0
-1427634000,Ekibastuz,Bayterek Astana,4,0,,,,0
-1427634000,Baykonur Kyzylorda,Kyzylzhar,0,1,,,,0
-1428832800,Vostok Oskemen,FK Akzhayik,2,2,Pen,2,3,0
-1428832800,Spartak Semey,Kyzylzhar,1,0,,,,0
-1428832800,Kaspij Aktau,CSKA Almaty,1,1,Pen,1,2,0
-1428832800,Ekibastuz,Shakhtar Bulat,2,0,,,,0
-1430218800,Kaisar Kyzylorda,Spartak Semey,1,0,,,,0
-1430298000,Ekibastuz,FC Astana,2,3,,,,0
-1430301600,Shakhter Karagandy,Okzhetpes,1,1,AET,1,2,0
-1430305200,Ordabasy,Taraz,0,1,,,,0
-1430308800,Tobol,CSKA Almaty,2,1,,,,0
-1430308800,FK Akzhayik,Aktobe,0,5,,,,0
-1430308800,Atyrau,Zhetysu Taldykorgan,0,1,,,,0
-1430312400,Kairat Almaty,Ertis Pavlodar,0,0,Pen,1,0,0
-1432119600,Tobol,Zhetysu Taldykorgan,2,0,,,,0
-1432123200,Okzhetpes,Aktobe,2,3,,,,0
-1432123200,Kaisar Kyzylorda,FC Astana,1,1,AET,1,2,0
-1432126800,Kairat Almaty,Taraz,4,1,,,,0
-1433250000,Aktobe,FC Astana,0,2,,,,0
-1433253600,Tobol,Kairat Almaty,0,3,,,,0
-1443009600,FC Astana,Aktobe,1,1,,,,0
-1443016800,Kairat Almaty,Tobol,2,1,,,,0
-1448096400,FC Astana,Kairat Almaty,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1427634000,Taraz-Karatau 2,Shakhtar Bulat,WKTwFEIi,vkVDbpph,0,2,,,,0
+1427634000,Maqtaaral,FK Akzhayik,IkFuhJvJ,6uZPCvr9,0,1,,,,0
+1427634000,FK Kyran,Kaspij Aktau,04q84ADf,b3cZyVv7,1,2,,,,0
+1427634000,Ekibastuz,Bayterek Astana,x6rBrmDU,fTyBejVG,4,0,,,,0
+1427634000,Baykonur Kyzylorda,Kyzylzhar,SGQAnOSp,QiWrXtNo,0,1,,,,0
+1428832800,Vostok Oskemen,FK Akzhayik,UTlVqN6H,6uZPCvr9,2,2,Pen,2,3,0
+1428832800,Spartak Semey,Kyzylzhar,hlqScORF,QiWrXtNo,1,0,,,,0
+1428832800,Kaspij Aktau,CSKA Almaty,b3cZyVv7,rgfSCcdq,1,1,Pen,1,2,0
+1428832800,Ekibastuz,Shakhtar Bulat,x6rBrmDU,vkVDbpph,2,0,,,,0
+1430218800,Kaisar Kyzylorda,Spartak Semey,6TGNpzQl,hlqScORF,1,0,,,,0
+1430298000,Ekibastuz,FC Astana,x6rBrmDU,llrJz3e1,2,3,,,,0
+1430301600,Shakhter Karagandy,Okzhetpes,AFnoRjlN,fX1V1Bj4,1,1,AET,1,2,0
+1430305200,Ordabasy,Taraz,rB9GKJTe,M1habVsD,0,1,,,,0
+1430308800,Tobol,CSKA Almaty,2u4B89Vd,rgfSCcdq,2,1,,,,0
+1430308800,FK Akzhayik,Aktobe,6uZPCvr9,M1habVsD,0,5,,,,0
+1430308800,Atyrau,Zhetysu Taldykorgan,4lQxqw7K,KIZqh8Pq,0,1,,,,0
+1430312400,Kairat Almaty,Ertis Pavlodar,rwQpsSWo,YB20ndi2,0,0,Pen,1,0,0
+1432119600,Tobol,Zhetysu Taldykorgan,2u4B89Vd,KIZqh8Pq,2,0,,,,0
+1432123200,Okzhetpes,Aktobe,fX1V1Bj4,M1habVsD,2,3,,,,0
+1432123200,Kaisar Kyzylorda,FC Astana,6TGNpzQl,llrJz3e1,1,1,AET,1,2,0
+1432126800,Kairat Almaty,Taraz,rwQpsSWo,M1habVsD,4,1,,,,0
+1433250000,Aktobe,FC Astana,M1habVsD,llrJz3e1,0,2,,,,0
+1433253600,Tobol,Kairat Almaty,2u4B89Vd,rwQpsSWo,0,3,,,,0
+1443009600,FC Astana,Aktobe,llrJz3e1,M1habVsD,1,1,,,,0
+1443016800,Kairat Almaty,Tobol,rwQpsSWo,2u4B89Vd,2,1,,,,0
+1448096400,FC Astana,Kairat Almaty,llrJz3e1,rwQpsSWo,1,2,,,,0

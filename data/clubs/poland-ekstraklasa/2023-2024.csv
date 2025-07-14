@@ -1,307 +1,307 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1689955200,Warta Poznan,Pogon Szczecin,0,1,,,,0
-1689964200,Legia,LKS Lodz,3,0,,,,0
-1690030800,Stal Mielec,Cracovia,2,2,,,,0
-1690039800,Rakow,Jagiellonia,3,0,,,,0
-1690048800,Piast Gliwice,Lech Poznan,1,2,,,,0
-1690117200,Gornik Zabrze,Radomiak Radom,0,2,,,,0
-1690126200,Zaglebie,Ruch Chorzow,2,1,,,,0
-1690135200,Widzew Lodz,Puszcza,3,2,,,,0
-1690218000,Korona Kielce,Slask Wroclaw,1,1,,,,0
-1690569000,Ruch Chorzow,LKS Lodz,2,0,,,,0
-1690635600,Warta Poznan,Gornik Zabrze,2,0,,,,0
-1690644600,Jagiellonia,Puszcza,4,1,,,,0
-1690653600,Slask Wroclaw,Zaglebie,1,2,,,,0
-1690722000,Stal Mielec,Piast Gliwice,0,0,,,,0
-1690731000,Lech Poznan,Radomiak Radom,2,0,,,,0
-1690740000,Pogon Szczecin,Widzew Lodz,2,1,,,,0
-1691164800,Jagiellonia,Widzew Lodz,2,1,,,,0
-1691173800,LKS Lodz,Korona Kielce,2,1,,,,0
-1691240400,Rakow,Warta Poznan,2,2,,,,0
-1691249400,Gornik Zabrze,Piast Gliwice,0,0,,,,0
-1691258400,Radomiak Radom,Cracovia,0,1,,,,0
-1691335800,Zaglebie,Lech Poznan,1,1,,,,0
-1691344800,Legia,Ruch Chorzow,3,0,,,,0
-1691427600,Puszcza,Stal Mielec,1,0,,,,0
-1691769600,Cracovia,Zaglebie,2,1,,,,0
-1691778600,Piast Gliwice,Rakow,2,1,,,,0
-1691845200,Stal Mielec,Slask Wroclaw,3,1,,,,0
-1691854200,Korona Kielce,Gornik Zabrze,0,1,,,,0
-1691863200,Widzew Lodz,LKS Lodz,1,0,,,,0
-1691931600,Pogon Szczecin,Radomiak Radom,0,2,,,,0
-1691940600,Puszcza,Legia,1,1,,,,0
-1692032400,Warta Poznan,Ruch Chorzow,2,2,,,,0
-1692374400,Zaglebie,Puszcza,1,0,,,,0
-1692383400,Gornik Zabrze,Widzew Lodz,1,1,,,,0
-1692450000,Radomiak Radom,Warta Poznan,3,2,,,,0
-1692459000,Rakow,Stal Mielec,2,0,,,,0
-1692468000,Ruch Chorzow,Jagiellonia,0,1,,,,0
-1692536400,LKS Lodz,Pogon Szczecin,1,0,,,,0
-1692545400,Slask Wroclaw,Lech Poznan,3,1,,,,0
-1692554400,Legia,Korona Kielce,1,0,,,,0
-1692637200,Cracovia,Piast Gliwice,1,1,,,,0
-1692979200,Stal Mielec,Radomiak Radom,2,0,,,,0
-1692988200,Widzew Lodz,Slask Wroclaw,0,2,,,,0
-1693054800,Warta Poznan,Cracovia,0,0,,,,0
-1693063800,Puszcza,LKS Lodz,2,1,,,,0
-1693072800,Piast Gliwice,Ruch Chorzow,0,0,,,,0
-1693141200,Korona Kielce,Zaglebie,2,0,,,,0
-1693150200,Jagiellonia,Gornik Zabrze,4,1,,,,0
-1693413000,Pogon Szczecin,Slask Wroclaw,0,2,,,,0
-1693584000,LKS Lodz,Warta Poznan,0,2,,,,0
-1693593000,Ruch Chorzow,Stal Mielec,1,1,,,,0
-1693659600,Radomiak Radom,Piast Gliwice,1,1,,,,0
-1693668600,Cracovia,Korona Kielce,0,0,,,,0
-1693677600,Lech Poznan,Gornik Zabrze,1,1,,,,0
-1693737000,Slask Wroclaw,Jagiellonia,2,1,,,,0
-1693746000,Zaglebie,Pogon Szczecin,1,0,,,,0
-1693755000,Legia,Widzew Lodz,3,1,,,,0
-1693764000,Rakow,Puszcza,2,0,,,,0
-1694793600,Puszcza,Slask Wroclaw,1,3,,,,0
-1694802600,Gornik Zabrze,Ruch Chorzow,1,0,,,,0
-1694869200,Pogon Szczecin,Korona Kielce,3,1,,,,0
-1694878200,Rakow,LKS Lodz,1,0,,,,0
-1694887200,Piast Gliwice,Legia,1,1,,,,0
-1694946600,Jagiellonia,Radomiak Radom,3,2,,,,0
-1694955600,Widzew Lodz,Cracovia,2,0,,,,0
-1694964600,Warta Poznan,Lech Poznan,0,2,,,,0
-1695056400,Stal Mielec,Zaglebie,4,2,,,,0
-1695398400,Korona Kielce,Widzew Lodz,1,1,,,,0
-1695407400,LKS Lodz,Jagiellonia,2,2,,,,0
-1695465000,Radomiak Radom,Puszcza,1,1,,,,0
-1695474000,Slask Wroclaw,Piast Gliwice,1,0,,,,0
-1695483000,Cracovia,Pogon Szczecin,1,5,,,,0
-1695492000,Lech Poznan,Stal Mielec,2,1,,,,0
-1695551400,Zaglebie,Warta Poznan,1,0,,,,0
-1695560400,Ruch Chorzow,Rakow,3,5,,,,0
-1695569400,Legia,Gornik Zabrze,2,1,,,,0
-1695837600,Pogon Szczecin,Legia,3,4,,,,0
-1695924000,Lech Poznan,Rakow,4,1,,,,0
-1696003200,Stal Mielec,Korona Kielce,2,3,,,,0
-1696012200,Piast Gliwice,Widzew Lodz,3,2,,,,0
-1696078800,LKS Lodz,Cracovia,0,2,,,,0
-1696087800,Puszcza,Ruch Chorzow,2,2,,,,0
-1696096800,Warta Poznan,Slask Wroclaw,0,1,,,,0
-1696165200,Rakow,Radomiak Radom,3,0,,,,0
-1696174200,Pogon Szczecin,Lech Poznan,5,0,,,,0
-1696183200,Jagiellonia,Legia,2,0,,,,0
-1696266000,Gornik Zabrze,Zaglebie,0,2,,,,0
-1696608000,Korona Kielce,Warta Poznan,1,1,,,,0
-1696617600,Lech Poznan,Puszcza,4,1,,,,0
-1696674600,Radomiak Radom,LKS Lodz,3,0,,,,0
-1696683600,Widzew Lodz,Stal Mielec,1,0,,,,0
-1696692600,Zaglebie,Piast Gliwice,1,1,,,,0
-1696701600,Ruch Chorzow,Pogon Szczecin,0,3,,,,0
-1696761000,Slask Wroclaw,Gornik Zabrze,1,1,,,,0
-1696770000,Cracovia,Jagiellonia,2,4,,,,0
-1696779000,Legia,Rakow,1,2,,,,0
-1697817600,Piast Gliwice,Pogon Szczecin,0,0,,,,0
-1697826600,Jagiellonia,Zaglebie,3,0,,,,0
-1697893200,Puszcza,Cracovia,1,1,,,,0
-1697902200,Slask Wroclaw,Legia,4,0,,,,0
-1697911200,Lech Poznan,LKS Lodz,3,1,,,,0
-1697970600,Radomiak Radom,Korona Kielce,1,1,,,,0
-1697988600,Gornik Zabrze,Rakow,2,1,,,,0
-1698080400,Stal Mielec,Warta Poznan,0,1,,,,0
-1698163200,Lech Poznan,Jagiellonia,3,3,,,,0
-1698422400,Korona Kielce,Puszcza,5,3,,,,0
-1698431400,LKS Lodz,Gornik Zabrze,0,5,,,,0
-1698489000,Warta Poznan,Piast Gliwice,1,1,,,,0
-1698498000,Pogon Szczecin,Jagiellonia,2,1,,,,0
-1698507000,Cracovia,Lech Poznan,1,1,,,,0
-1698516000,Ruch Chorzow,Slask Wroclaw,2,2,,,,0
-1698579000,Zaglebie,Radomiak Radom,2,3,,,,0
-1698588000,Legia,Stal Mielec,1,3,,,,0
-1698597000,Rakow,Widzew Lodz,1,1,,,,0
-1699030800,Piast Gliwice,Korona Kielce,0,0,,,,0
-1699039800,Jagiellonia,Stal Mielec,4,0,,,,0
-1699106400,Puszcza,Pogon Szczecin,0,2,,,,0
-1699115400,Widzew Lodz,Warta Poznan,0,1,,,,0
-1699124400,Lech Poznan,Ruch Chorzow,2,0,,,,0
-1699183800,Slask Wroclaw,LKS Lodz,2,1,,,,0
-1699192800,Rakow,Zaglebie,5,0,,,,0
-1699201800,Radomiak Radom,Legia,0,1,,,,0
-1699293600,Gornik Zabrze,Cracovia,1,0,,,,0
-1699635600,Warta Poznan,Puszcza,0,2,,,,0
-1699644600,Cracovia,Slask Wroclaw,0,1,,,,0
-1699711200,LKS Lodz,Piast Gliwice,3,3,,,,0
-1699720200,Zaglebie,Widzew Lodz,1,1,,,,0
-1699729200,Korona Kielce,Jagiellonia,2,2,,,,0
-1699788600,Stal Mielec,Gornik Zabrze,2,1,,,,0
-1699797600,Pogon Szczecin,Rakow,1,1,,,,0
-1699806600,Legia,Lech Poznan,0,0,,,,0
-1699898400,Ruch Chorzow,Radomiak Radom,0,0,,,,0
-1700325000,Widzew Lodz,Ruch Chorzow,2,1,,,,0
-1700845200,LKS Lodz,Zaglebie,0,2,,,,0
-1700854200,Jagiellonia,Piast Gliwice,0,0,,,,0
-1700920800,Rakow,Cracovia,1,1,,,,0
-1700929800,Pogon Szczecin,Stal Mielec,2,3,,,,0
-1700938800,Legia,Warta Poznan,2,2,,,,0
-1700998200,Puszcza,Gornik Zabrze,2,1,,,,0
-1701007200,Ruch Chorzow,Korona Kielce,1,1,,,,0
-1701016200,Lech Poznan,Widzew Lodz,1,3,,,,0
-1701108000,Radomiak Radom,Slask Wroclaw,0,1,,,,0
-1701450000,Warta Poznan,Jagiellonia,1,2,,,,0
-1701459000,Gornik Zabrze,Pogon Szczecin,1,0,,,,0
-1701534600,Widzew Lodz,Radomiak Radom,0,3,,,,0
-1701543600,Korona Kielce,Lech Poznan,0,1,,,,0
-1701603000,Cracovia,Ruch Chorzow,4,4,,,,0
-1701612000,Zaglebie,Legia,0,3,,,,0
-1701621000,Slask Wroclaw,Rakow,1,1,,,,0
-1702054800,Ruch Chorzow,Zaglebie,2,2,,,,0
-1702063800,Pogon Szczecin,Warta Poznan,3,3,,,,0
-1702130400,Radomiak Radom,Gornik Zabrze,1,1,,,,0
-1702139400,Cracovia,Stal Mielec,2,2,,,,0
-1702148400,Slask Wroclaw,Korona Kielce,0,0,,,,0
-1702207800,Lech Poznan,Piast Gliwice,0,1,,,,0
-1702216800,LKS Lodz,Legia,1,1,,,,0
-1702225800,Jagiellonia,Rakow,4,2,,,,0
-1702317600,Puszcza,Widzew Lodz,1,0,,,,0
-1702659600,Gornik Zabrze,Warta Poznan,3,0,,,,0
-1702668600,Zaglebie,Slask Wroclaw,1,2,,,,0
-1702735200,Puszcza,Jagiellonia,3,3,,,,0
-1702744200,Widzew Lodz,Pogon Szczecin,1,2,,,,0
-1702753200,Radomiak Radom,Lech Poznan,2,2,,,,0
-1702812600,LKS Lodz,Ruch Chorzow,1,1,,,,0
-1702821600,Rakow,Korona Kielce,1,0,,,,0
-1702830600,Legia,Cracovia,2,0,,,,0
-1702922400,Piast Gliwice,Stal Mielec,3,0,,,,0
-1703095200,Cracovia,Legia,2,0,,,,0
-1707498000,Stal Mielec,Puszcza,2,1,,,,0
-1707507000,Ruch Chorzow,Legia,0,1,,,,0
-1707573600,Cracovia,Radomiak Radom,6,0,,,,0
-1707582600,Piast Gliwice,Gornik Zabrze,1,3,,,,0
-1707591600,Lech Poznan,Zaglebie,2,0,,,,0
-1707651000,Warta Poznan,Rakow,2,1,,,,0
-1707660000,Widzew Lodz,Jagiellonia,1,3,,,,0
-1707669000,Slask Wroclaw,Pogon Szczecin,0,1,,,,0
-1707760800,Korona Kielce,LKS Lodz,2,1,,,,0
-1708102800,Radomiak Radom,Pogon Szczecin,0,4,,,,0
-1708111800,Slask Wroclaw,Stal Mielec,0,1,,,,0
-1708178400,Ruch Chorzow,Warta Poznan,0,0,,,,0
-1708187400,Jagiellonia,Lech Poznan,1,2,,,,0
-1708196400,Rakow,Piast Gliwice,3,1,,,,0
-1708255800,Zaglebie,Cracovia,1,1,,,,0
-1708264800,Legia,Puszcza,1,1,,,,0
-1708273800,LKS Lodz,Widzew Lodz,0,2,,,,0
-1708365600,Gornik Zabrze,Korona Kielce,3,1,,,,0
-1708707600,Piast Gliwice,Cracovia,0,0,,,,0
-1708716600,Pogon Szczecin,LKS Lodz,4,2,,,,0
-1708783200,Jagiellonia,Ruch Chorzow,1,1,,,,0
-1708792200,Lech Poznan,Slask Wroclaw,0,0,,,,0
-1708801200,Stal Mielec,Rakow,0,0,,,,0
-1708860600,Puszcza,Zaglebie,2,2,,,,0
-1708869600,Widzew Lodz,Gornik Zabrze,3,1,,,,0
-1708878600,Korona Kielce,Legia,3,3,,,,0
-1708970400,Warta Poznan,Radomiak Radom,0,0,,,,0
-1709141400,Stal Mielec,LKS Lodz,1,0,,,,0
-1709312400,Cracovia,Warta Poznan,0,1,,,,0
-1709321400,Ruch Chorzow,Piast Gliwice,3,0,,,,0
-1709388000,Gornik Zabrze,Jagiellonia,2,1,,,,0
-1709397000,Slask Wroclaw,Widzew Lodz,2,1,,,,0
-1709406000,Legia,Pogon Szczecin,1,1,,,,0
-1709465400,LKS Lodz,Puszcza,3,2,,,,0
-1709474400,Zaglebie,Korona Kielce,1,0,,,,0
-1709483400,Rakow,Lech Poznan,4,0,,,,0
-1709575200,Radomiak Radom,Stal Mielec,2,1,,,,0
-1709917200,Piast Gliwice,Radomiak Radom,2,3,,,,0
-1709926200,Jagiellonia,Slask Wroclaw,3,1,,,,0
-1709992800,Korona Kielce,Cracovia,1,1,,,,0
-1710001800,Puszcza,Rakow,1,1,,,,0
-1710010800,Gornik Zabrze,Lech Poznan,0,0,,,,0
-1710070200,Stal Mielec,Ruch Chorzow,3,1,,,,0
-1710079200,Pogon Szczecin,Zaglebie,0,2,,,,0
-1710088200,Widzew Lodz,Legia,1,0,,,,0
-1710180000,Warta Poznan,LKS Lodz,0,1,,,,0
-1710264600,Piast Gliwice,Puszcza,1,0,,,,0
-1710351000,Korona Kielce,Rakow,0,2,,,,0
-1710522000,Zaglebie,Stal Mielec,0,0,,,,0
-1710531000,Lech Poznan,Warta Poznan,2,0,,,,0
-1710588600,Cracovia,Widzew Lodz,2,2,,,,0
-1710597600,Radomiak Radom,Jagiellonia,0,2,,,,0
-1710606600,Ruch Chorzow,Gornik Zabrze,1,2,,,,0
-1710615600,Slask Wroclaw,Puszcza,0,0,,,,0
-1710675000,Korona Kielce,Pogon Szczecin,2,2,,,,0
-1710684000,LKS Lodz,Rakow,1,1,,,,0
-1710693000,Legia,Piast Gliwice,3,1,,,,0
-1711798200,Rakow,Ruch Chorzow,1,1,,,,0
-1711807200,Jagiellonia,LKS Lodz,6,0,,,,0
-1711816200,Piast Gliwice,Slask Wroclaw,2,2,,,,0
-1711825200,Pogon Szczecin,Cracovia,3,1,,,,0
-1711967400,Puszcza,Radomiak Radom,1,1,,,,0
-1711976400,Stal Mielec,Lech Poznan,0,0,,,,0
-1711985400,Widzew Lodz,Korona Kielce,3,1,,,,0
-1711994400,Gornik Zabrze,Legia,1,3,,,,0
-1712077200,Warta Poznan,Zaglebie,1,1,,,,0
-1712332800,Cracovia,LKS Lodz,2,2,,,,0
-1712341800,Radomiak Radom,Rakow,2,1,,,,0
-1712408400,Korona Kielce,Stal Mielec,1,0,,,,0
-1712417400,Ruch Chorzow,Puszcza,0,0,,,,0
-1712426400,Slask Wroclaw,Warta Poznan,2,1,,,,0
-1712485800,Widzew Lodz,Piast Gliwice,1,0,,,,0
-1712494800,Lech Poznan,Pogon Szczecin,1,0,,,,0
-1712503800,Legia,Jagiellonia,1,1,,,,0
-1712595600,Zaglebie,Gornik Zabrze,1,2,,,,0
-1712937600,Warta Poznan,Korona Kielce,1,0,,,,0
-1712946600,Pogon Szczecin,Ruch Chorzow,5,0,,,,0
-1713013200,Stal Mielec,Widzew Lodz,0,0,,,,0
-1713022200,Puszcza,Lech Poznan,2,1,,,,0
-1713031200,Rakow,Legia,1,1,,,,0
-1713090600,LKS Lodz,Radomiak Radom,3,2,,,,0
-1713099600,Jagiellonia,Cracovia,1,3,,,,0
-1713108600,Gornik Zabrze,Slask Wroclaw,2,0,,,,0
-1713200400,Piast Gliwice,Zaglebie,2,0,,,,0
-1713542400,Korona Kielce,Radomiak Radom,4,0,,,,0
-1713551400,Rakow,Gornik Zabrze,0,1,,,,0
-1713618000,Pogon Szczecin,Piast Gliwice,0,2,,,,0
-1713627000,Ruch Chorzow,Widzew Lodz,2,3,,,,0
-1713636000,Zaglebie,Jagiellonia,1,2,,,,0
-1713695400,Cracovia,Puszcza,0,1,,,,0
-1713704400,LKS Lodz,Lech Poznan,2,3,,,,0
-1713713400,Legia,Slask Wroclaw,0,0,,,,0
-1713805200,Warta Poznan,Stal Mielec,5,2,,,,0
-1714147200,Piast Gliwice,Warta Poznan,2,0,,,,0
-1714156200,Jagiellonia,Pogon Szczecin,2,2,,,,0
-1714222800,Gornik Zabrze,LKS Lodz,4,1,,,,0
-1714231800,Slask Wroclaw,Ruch Chorzow,2,3,,,,0
-1714240800,Widzew Lodz,Rakow,0,1,,,,0
-1714300200,Radomiak Radom,Zaglebie,3,4,,,,0
-1714309200,Stal Mielec,Legia,1,3,,,,0
-1714318200,Lech Poznan,Cracovia,0,0,,,,0
-1714410000,Puszcza,Korona Kielce,1,1,,,,0
-1714752000,Cracovia,Gornik Zabrze,5,0,,,,0
-1714761000,Ruch Chorzow,Lech Poznan,2,1,,,,0
-1714827600,LKS Lodz,Slask Wroclaw,1,2,,,,0
-1714836600,Zaglebie,Rakow,2,0,,,,0
-1714845600,Stal Mielec,Jagiellonia,3,2,,,,0
-1714905000,Warta Poznan,Widzew Lodz,2,1,,,,0
-1714914000,Korona Kielce,Piast Gliwice,1,1,,,,0
-1714923000,Legia,Radomiak Radom,0,3,,,,0
-1715014800,Pogon Szczecin,Puszcza,1,0,,,,0
-1715356800,Piast Gliwice,LKS Lodz,4,0,,,,0
-1715365800,Slask Wroclaw,Cracovia,4,0,,,,0
-1715432400,Gornik Zabrze,Stal Mielec,1,1,,,,0
-1715441400,Jagiellonia,Korona Kielce,3,0,,,,0
-1715450400,Rakow,Pogon Szczecin,2,1,,,,0
-1715509800,Puszcza,Warta Poznan,1,0,,,,0
-1715518800,Widzew Lodz,Zaglebie,1,3,,,,0
-1715527800,Lech Poznan,Legia,1,2,,,,0
-1715619600,Radomiak Radom,Ruch Chorzow,0,2,,,,0
-1715961600,Stal Mielec,Pogon Szczecin,0,0,,,,0
-1715970600,Gornik Zabrze,Puszcza,1,1,,,,0
-1716037200,Korona Kielce,Ruch Chorzow,2,0,,,,0
-1716046200,Slask Wroclaw,Radomiak Radom,2,0,,,,0
-1716055200,Piast Gliwice,Jagiellonia,1,1,,,,0
-1716114600,Cracovia,Rakow,2,0,,,,0
-1716123600,Warta Poznan,Legia,0,1,,,,0
-1716132600,Widzew Lodz,Lech Poznan,1,1,,,,0
-1716224400,Zaglebie,LKS Lodz,2,1,,,,0
-1716651000,Ruch Chorzow,Cracovia,2,0,,,,0
-1716651000,Rakow,Slask Wroclaw,1,2,,,,0
-1716651000,Radomiak Radom,Widzew Lodz,1,3,,,,0
-1716651000,Puszcza,Piast Gliwice,1,0,,,,0
-1716651000,Pogon Szczecin,Gornik Zabrze,1,0,,,,0
-1716651000,LKS Lodz,Stal Mielec,3,2,,,,0
-1716651000,Legia,Zaglebie,2,1,,,,0
-1716651000,Lech Poznan,Korona Kielce,1,2,,,,0
-1716651000,Jagiellonia,Warta Poznan,3,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1689955200,Warta Poznan,Pogon Szczecin,YwLXAjZC,vLZ2ZgBC,0,1,,,,0
+1689964200,Legia,LKS Lodz,rgYuXGKm,CrgYOGj7,3,0,,,,0
+1690030800,Stal Mielec,Cracovia,tfVka94A,bsOodOxd,2,2,,,,0
+1690039800,Rakow,Jagiellonia,KpIcOmKL,MgIRKEyG,3,0,,,,0
+1690048800,Piast Gliwice,Lech Poznan,lIeLr2US,lCvEmFL0,1,2,,,,0
+1690117200,Gornik Zabrze,Radomiak Radom,WtiGCgXQ,A9opURNC,0,2,,,,0
+1690126200,Zaglebie,Ruch Chorzow,Ykwr8Dur,2FYvdV3F,2,1,,,,0
+1690135200,Widzew Lodz,Puszcza,UTb1DTGS,6PG8meHs,3,2,,,,0
+1690218000,Korona Kielce,Slask Wroclaw,QwHphoES,CrPl0Jrc,1,1,,,,0
+1690569000,Ruch Chorzow,LKS Lodz,2FYvdV3F,CrgYOGj7,2,0,,,,0
+1690635600,Warta Poznan,Gornik Zabrze,YwLXAjZC,WtiGCgXQ,2,0,,,,0
+1690644600,Jagiellonia,Puszcza,MgIRKEyG,6PG8meHs,4,1,,,,0
+1690653600,Slask Wroclaw,Zaglebie,CrPl0Jrc,Ykwr8Dur,1,2,,,,0
+1690722000,Stal Mielec,Piast Gliwice,tfVka94A,lIeLr2US,0,0,,,,0
+1690731000,Lech Poznan,Radomiak Radom,lCvEmFL0,A9opURNC,2,0,,,,0
+1690740000,Pogon Szczecin,Widzew Lodz,vLZ2ZgBC,UTb1DTGS,2,1,,,,0
+1691164800,Jagiellonia,Widzew Lodz,MgIRKEyG,UTb1DTGS,2,1,,,,0
+1691173800,LKS Lodz,Korona Kielce,CrgYOGj7,QwHphoES,2,1,,,,0
+1691240400,Rakow,Warta Poznan,KpIcOmKL,YwLXAjZC,2,2,,,,0
+1691249400,Gornik Zabrze,Piast Gliwice,WtiGCgXQ,lIeLr2US,0,0,,,,0
+1691258400,Radomiak Radom,Cracovia,A9opURNC,bsOodOxd,0,1,,,,0
+1691335800,Zaglebie,Lech Poznan,Ykwr8Dur,lCvEmFL0,1,1,,,,0
+1691344800,Legia,Ruch Chorzow,rgYuXGKm,2FYvdV3F,3,0,,,,0
+1691427600,Puszcza,Stal Mielec,6PG8meHs,tfVka94A,1,0,,,,0
+1691769600,Cracovia,Zaglebie,bsOodOxd,Ykwr8Dur,2,1,,,,0
+1691778600,Piast Gliwice,Rakow,lIeLr2US,KpIcOmKL,2,1,,,,0
+1691845200,Stal Mielec,Slask Wroclaw,tfVka94A,CrPl0Jrc,3,1,,,,0
+1691854200,Korona Kielce,Gornik Zabrze,QwHphoES,WtiGCgXQ,0,1,,,,0
+1691863200,Widzew Lodz,LKS Lodz,UTb1DTGS,CrgYOGj7,1,0,,,,0
+1691931600,Pogon Szczecin,Radomiak Radom,vLZ2ZgBC,A9opURNC,0,2,,,,0
+1691940600,Puszcza,Legia,6PG8meHs,rgYuXGKm,1,1,,,,0
+1692032400,Warta Poznan,Ruch Chorzow,YwLXAjZC,2FYvdV3F,2,2,,,,0
+1692374400,Zaglebie,Puszcza,Ykwr8Dur,6PG8meHs,1,0,,,,0
+1692383400,Gornik Zabrze,Widzew Lodz,WtiGCgXQ,UTb1DTGS,1,1,,,,0
+1692450000,Radomiak Radom,Warta Poznan,A9opURNC,YwLXAjZC,3,2,,,,0
+1692459000,Rakow,Stal Mielec,KpIcOmKL,tfVka94A,2,0,,,,0
+1692468000,Ruch Chorzow,Jagiellonia,2FYvdV3F,MgIRKEyG,0,1,,,,0
+1692536400,LKS Lodz,Pogon Szczecin,CrgYOGj7,vLZ2ZgBC,1,0,,,,0
+1692545400,Slask Wroclaw,Lech Poznan,CrPl0Jrc,lCvEmFL0,3,1,,,,0
+1692554400,Legia,Korona Kielce,rgYuXGKm,QwHphoES,1,0,,,,0
+1692637200,Cracovia,Piast Gliwice,bsOodOxd,lIeLr2US,1,1,,,,0
+1692979200,Stal Mielec,Radomiak Radom,tfVka94A,A9opURNC,2,0,,,,0
+1692988200,Widzew Lodz,Slask Wroclaw,UTb1DTGS,CrPl0Jrc,0,2,,,,0
+1693054800,Warta Poznan,Cracovia,YwLXAjZC,bsOodOxd,0,0,,,,0
+1693063800,Puszcza,LKS Lodz,6PG8meHs,CrgYOGj7,2,1,,,,0
+1693072800,Piast Gliwice,Ruch Chorzow,lIeLr2US,2FYvdV3F,0,0,,,,0
+1693141200,Korona Kielce,Zaglebie,QwHphoES,Ykwr8Dur,2,0,,,,0
+1693150200,Jagiellonia,Gornik Zabrze,MgIRKEyG,WtiGCgXQ,4,1,,,,0
+1693413000,Pogon Szczecin,Slask Wroclaw,vLZ2ZgBC,CrPl0Jrc,0,2,,,,0
+1693584000,LKS Lodz,Warta Poznan,CrgYOGj7,YwLXAjZC,0,2,,,,0
+1693593000,Ruch Chorzow,Stal Mielec,2FYvdV3F,tfVka94A,1,1,,,,0
+1693659600,Radomiak Radom,Piast Gliwice,A9opURNC,lIeLr2US,1,1,,,,0
+1693668600,Cracovia,Korona Kielce,bsOodOxd,QwHphoES,0,0,,,,0
+1693677600,Lech Poznan,Gornik Zabrze,lCvEmFL0,WtiGCgXQ,1,1,,,,0
+1693737000,Slask Wroclaw,Jagiellonia,CrPl0Jrc,MgIRKEyG,2,1,,,,0
+1693746000,Zaglebie,Pogon Szczecin,Ykwr8Dur,vLZ2ZgBC,1,0,,,,0
+1693755000,Legia,Widzew Lodz,rgYuXGKm,UTb1DTGS,3,1,,,,0
+1693764000,Rakow,Puszcza,KpIcOmKL,6PG8meHs,2,0,,,,0
+1694793600,Puszcza,Slask Wroclaw,6PG8meHs,CrPl0Jrc,1,3,,,,0
+1694802600,Gornik Zabrze,Ruch Chorzow,WtiGCgXQ,2FYvdV3F,1,0,,,,0
+1694869200,Pogon Szczecin,Korona Kielce,vLZ2ZgBC,QwHphoES,3,1,,,,0
+1694878200,Rakow,LKS Lodz,KpIcOmKL,CrgYOGj7,1,0,,,,0
+1694887200,Piast Gliwice,Legia,lIeLr2US,rgYuXGKm,1,1,,,,0
+1694946600,Jagiellonia,Radomiak Radom,MgIRKEyG,A9opURNC,3,2,,,,0
+1694955600,Widzew Lodz,Cracovia,UTb1DTGS,bsOodOxd,2,0,,,,0
+1694964600,Warta Poznan,Lech Poznan,YwLXAjZC,lCvEmFL0,0,2,,,,0
+1695056400,Stal Mielec,Zaglebie,tfVka94A,Ykwr8Dur,4,2,,,,0
+1695398400,Korona Kielce,Widzew Lodz,QwHphoES,UTb1DTGS,1,1,,,,0
+1695407400,LKS Lodz,Jagiellonia,CrgYOGj7,MgIRKEyG,2,2,,,,0
+1695465000,Radomiak Radom,Puszcza,A9opURNC,6PG8meHs,1,1,,,,0
+1695474000,Slask Wroclaw,Piast Gliwice,CrPl0Jrc,lIeLr2US,1,0,,,,0
+1695483000,Cracovia,Pogon Szczecin,bsOodOxd,vLZ2ZgBC,1,5,,,,0
+1695492000,Lech Poznan,Stal Mielec,lCvEmFL0,tfVka94A,2,1,,,,0
+1695551400,Zaglebie,Warta Poznan,Ykwr8Dur,YwLXAjZC,1,0,,,,0
+1695560400,Ruch Chorzow,Rakow,2FYvdV3F,KpIcOmKL,3,5,,,,0
+1695569400,Legia,Gornik Zabrze,rgYuXGKm,WtiGCgXQ,2,1,,,,0
+1695837600,Pogon Szczecin,Legia,vLZ2ZgBC,rgYuXGKm,3,4,,,,0
+1695924000,Lech Poznan,Rakow,lCvEmFL0,KpIcOmKL,4,1,,,,0
+1696003200,Stal Mielec,Korona Kielce,tfVka94A,QwHphoES,2,3,,,,0
+1696012200,Piast Gliwice,Widzew Lodz,lIeLr2US,UTb1DTGS,3,2,,,,0
+1696078800,LKS Lodz,Cracovia,CrgYOGj7,bsOodOxd,0,2,,,,0
+1696087800,Puszcza,Ruch Chorzow,6PG8meHs,2FYvdV3F,2,2,,,,0
+1696096800,Warta Poznan,Slask Wroclaw,YwLXAjZC,CrPl0Jrc,0,1,,,,0
+1696165200,Rakow,Radomiak Radom,KpIcOmKL,A9opURNC,3,0,,,,0
+1696174200,Pogon Szczecin,Lech Poznan,vLZ2ZgBC,lCvEmFL0,5,0,,,,0
+1696183200,Jagiellonia,Legia,MgIRKEyG,rgYuXGKm,2,0,,,,0
+1696266000,Gornik Zabrze,Zaglebie,WtiGCgXQ,Ykwr8Dur,0,2,,,,0
+1696608000,Korona Kielce,Warta Poznan,QwHphoES,YwLXAjZC,1,1,,,,0
+1696617600,Lech Poznan,Puszcza,lCvEmFL0,6PG8meHs,4,1,,,,0
+1696674600,Radomiak Radom,LKS Lodz,A9opURNC,CrgYOGj7,3,0,,,,0
+1696683600,Widzew Lodz,Stal Mielec,UTb1DTGS,tfVka94A,1,0,,,,0
+1696692600,Zaglebie,Piast Gliwice,Ykwr8Dur,lIeLr2US,1,1,,,,0
+1696701600,Ruch Chorzow,Pogon Szczecin,2FYvdV3F,vLZ2ZgBC,0,3,,,,0
+1696761000,Slask Wroclaw,Gornik Zabrze,CrPl0Jrc,WtiGCgXQ,1,1,,,,0
+1696770000,Cracovia,Jagiellonia,bsOodOxd,MgIRKEyG,2,4,,,,0
+1696779000,Legia,Rakow,rgYuXGKm,KpIcOmKL,1,2,,,,0
+1697817600,Piast Gliwice,Pogon Szczecin,lIeLr2US,vLZ2ZgBC,0,0,,,,0
+1697826600,Jagiellonia,Zaglebie,MgIRKEyG,Ykwr8Dur,3,0,,,,0
+1697893200,Puszcza,Cracovia,6PG8meHs,bsOodOxd,1,1,,,,0
+1697902200,Slask Wroclaw,Legia,CrPl0Jrc,rgYuXGKm,4,0,,,,0
+1697911200,Lech Poznan,LKS Lodz,lCvEmFL0,CrgYOGj7,3,1,,,,0
+1697970600,Radomiak Radom,Korona Kielce,A9opURNC,QwHphoES,1,1,,,,0
+1697988600,Gornik Zabrze,Rakow,WtiGCgXQ,KpIcOmKL,2,1,,,,0
+1698080400,Stal Mielec,Warta Poznan,tfVka94A,YwLXAjZC,0,1,,,,0
+1698163200,Lech Poznan,Jagiellonia,lCvEmFL0,MgIRKEyG,3,3,,,,0
+1698422400,Korona Kielce,Puszcza,QwHphoES,6PG8meHs,5,3,,,,0
+1698431400,LKS Lodz,Gornik Zabrze,CrgYOGj7,WtiGCgXQ,0,5,,,,0
+1698489000,Warta Poznan,Piast Gliwice,YwLXAjZC,lIeLr2US,1,1,,,,0
+1698498000,Pogon Szczecin,Jagiellonia,vLZ2ZgBC,MgIRKEyG,2,1,,,,0
+1698507000,Cracovia,Lech Poznan,bsOodOxd,lCvEmFL0,1,1,,,,0
+1698516000,Ruch Chorzow,Slask Wroclaw,2FYvdV3F,CrPl0Jrc,2,2,,,,0
+1698579000,Zaglebie,Radomiak Radom,Ykwr8Dur,A9opURNC,2,3,,,,0
+1698588000,Legia,Stal Mielec,rgYuXGKm,tfVka94A,1,3,,,,0
+1698597000,Rakow,Widzew Lodz,KpIcOmKL,UTb1DTGS,1,1,,,,0
+1699030800,Piast Gliwice,Korona Kielce,lIeLr2US,QwHphoES,0,0,,,,0
+1699039800,Jagiellonia,Stal Mielec,MgIRKEyG,tfVka94A,4,0,,,,0
+1699106400,Puszcza,Pogon Szczecin,6PG8meHs,vLZ2ZgBC,0,2,,,,0
+1699115400,Widzew Lodz,Warta Poznan,UTb1DTGS,YwLXAjZC,0,1,,,,0
+1699124400,Lech Poznan,Ruch Chorzow,lCvEmFL0,2FYvdV3F,2,0,,,,0
+1699183800,Slask Wroclaw,LKS Lodz,CrPl0Jrc,CrgYOGj7,2,1,,,,0
+1699192800,Rakow,Zaglebie,KpIcOmKL,Ykwr8Dur,5,0,,,,0
+1699201800,Radomiak Radom,Legia,A9opURNC,rgYuXGKm,0,1,,,,0
+1699293600,Gornik Zabrze,Cracovia,WtiGCgXQ,bsOodOxd,1,0,,,,0
+1699635600,Warta Poznan,Puszcza,YwLXAjZC,6PG8meHs,0,2,,,,0
+1699644600,Cracovia,Slask Wroclaw,bsOodOxd,CrPl0Jrc,0,1,,,,0
+1699711200,LKS Lodz,Piast Gliwice,CrgYOGj7,lIeLr2US,3,3,,,,0
+1699720200,Zaglebie,Widzew Lodz,Ykwr8Dur,UTb1DTGS,1,1,,,,0
+1699729200,Korona Kielce,Jagiellonia,QwHphoES,MgIRKEyG,2,2,,,,0
+1699788600,Stal Mielec,Gornik Zabrze,tfVka94A,WtiGCgXQ,2,1,,,,0
+1699797600,Pogon Szczecin,Rakow,vLZ2ZgBC,KpIcOmKL,1,1,,,,0
+1699806600,Legia,Lech Poznan,rgYuXGKm,lCvEmFL0,0,0,,,,0
+1699898400,Ruch Chorzow,Radomiak Radom,2FYvdV3F,A9opURNC,0,0,,,,0
+1700325000,Widzew Lodz,Ruch Chorzow,UTb1DTGS,2FYvdV3F,2,1,,,,0
+1700845200,LKS Lodz,Zaglebie,CrgYOGj7,Ykwr8Dur,0,2,,,,0
+1700854200,Jagiellonia,Piast Gliwice,MgIRKEyG,lIeLr2US,0,0,,,,0
+1700920800,Rakow,Cracovia,KpIcOmKL,bsOodOxd,1,1,,,,0
+1700929800,Pogon Szczecin,Stal Mielec,vLZ2ZgBC,tfVka94A,2,3,,,,0
+1700938800,Legia,Warta Poznan,rgYuXGKm,YwLXAjZC,2,2,,,,0
+1700998200,Puszcza,Gornik Zabrze,6PG8meHs,WtiGCgXQ,2,1,,,,0
+1701007200,Ruch Chorzow,Korona Kielce,2FYvdV3F,QwHphoES,1,1,,,,0
+1701016200,Lech Poznan,Widzew Lodz,lCvEmFL0,UTb1DTGS,1,3,,,,0
+1701108000,Radomiak Radom,Slask Wroclaw,A9opURNC,CrPl0Jrc,0,1,,,,0
+1701450000,Warta Poznan,Jagiellonia,YwLXAjZC,MgIRKEyG,1,2,,,,0
+1701459000,Gornik Zabrze,Pogon Szczecin,WtiGCgXQ,vLZ2ZgBC,1,0,,,,0
+1701534600,Widzew Lodz,Radomiak Radom,UTb1DTGS,A9opURNC,0,3,,,,0
+1701543600,Korona Kielce,Lech Poznan,QwHphoES,lCvEmFL0,0,1,,,,0
+1701603000,Cracovia,Ruch Chorzow,bsOodOxd,2FYvdV3F,4,4,,,,0
+1701612000,Zaglebie,Legia,Ykwr8Dur,rgYuXGKm,0,3,,,,0
+1701621000,Slask Wroclaw,Rakow,CrPl0Jrc,KpIcOmKL,1,1,,,,0
+1702054800,Ruch Chorzow,Zaglebie,2FYvdV3F,Ykwr8Dur,2,2,,,,0
+1702063800,Pogon Szczecin,Warta Poznan,vLZ2ZgBC,YwLXAjZC,3,3,,,,0
+1702130400,Radomiak Radom,Gornik Zabrze,A9opURNC,WtiGCgXQ,1,1,,,,0
+1702139400,Cracovia,Stal Mielec,bsOodOxd,tfVka94A,2,2,,,,0
+1702148400,Slask Wroclaw,Korona Kielce,CrPl0Jrc,QwHphoES,0,0,,,,0
+1702207800,Lech Poznan,Piast Gliwice,lCvEmFL0,lIeLr2US,0,1,,,,0
+1702216800,LKS Lodz,Legia,CrgYOGj7,rgYuXGKm,1,1,,,,0
+1702225800,Jagiellonia,Rakow,MgIRKEyG,KpIcOmKL,4,2,,,,0
+1702317600,Puszcza,Widzew Lodz,6PG8meHs,UTb1DTGS,1,0,,,,0
+1702659600,Gornik Zabrze,Warta Poznan,WtiGCgXQ,YwLXAjZC,3,0,,,,0
+1702668600,Zaglebie,Slask Wroclaw,Ykwr8Dur,CrPl0Jrc,1,2,,,,0
+1702735200,Puszcza,Jagiellonia,6PG8meHs,MgIRKEyG,3,3,,,,0
+1702744200,Widzew Lodz,Pogon Szczecin,UTb1DTGS,vLZ2ZgBC,1,2,,,,0
+1702753200,Radomiak Radom,Lech Poznan,A9opURNC,lCvEmFL0,2,2,,,,0
+1702812600,LKS Lodz,Ruch Chorzow,CrgYOGj7,2FYvdV3F,1,1,,,,0
+1702821600,Rakow,Korona Kielce,KpIcOmKL,QwHphoES,1,0,,,,0
+1702830600,Legia,Cracovia,rgYuXGKm,bsOodOxd,2,0,,,,0
+1702922400,Piast Gliwice,Stal Mielec,lIeLr2US,tfVka94A,3,0,,,,0
+1703095200,Cracovia,Legia,bsOodOxd,rgYuXGKm,2,0,,,,0
+1707498000,Stal Mielec,Puszcza,tfVka94A,6PG8meHs,2,1,,,,0
+1707507000,Ruch Chorzow,Legia,2FYvdV3F,rgYuXGKm,0,1,,,,0
+1707573600,Cracovia,Radomiak Radom,bsOodOxd,A9opURNC,6,0,,,,0
+1707582600,Piast Gliwice,Gornik Zabrze,lIeLr2US,WtiGCgXQ,1,3,,,,0
+1707591600,Lech Poznan,Zaglebie,lCvEmFL0,Ykwr8Dur,2,0,,,,0
+1707651000,Warta Poznan,Rakow,YwLXAjZC,KpIcOmKL,2,1,,,,0
+1707660000,Widzew Lodz,Jagiellonia,UTb1DTGS,MgIRKEyG,1,3,,,,0
+1707669000,Slask Wroclaw,Pogon Szczecin,CrPl0Jrc,vLZ2ZgBC,0,1,,,,0
+1707760800,Korona Kielce,LKS Lodz,QwHphoES,CrgYOGj7,2,1,,,,0
+1708102800,Radomiak Radom,Pogon Szczecin,A9opURNC,vLZ2ZgBC,0,4,,,,0
+1708111800,Slask Wroclaw,Stal Mielec,CrPl0Jrc,tfVka94A,0,1,,,,0
+1708178400,Ruch Chorzow,Warta Poznan,2FYvdV3F,YwLXAjZC,0,0,,,,0
+1708187400,Jagiellonia,Lech Poznan,MgIRKEyG,lCvEmFL0,1,2,,,,0
+1708196400,Rakow,Piast Gliwice,KpIcOmKL,lIeLr2US,3,1,,,,0
+1708255800,Zaglebie,Cracovia,Ykwr8Dur,bsOodOxd,1,1,,,,0
+1708264800,Legia,Puszcza,rgYuXGKm,6PG8meHs,1,1,,,,0
+1708273800,LKS Lodz,Widzew Lodz,CrgYOGj7,UTb1DTGS,0,2,,,,0
+1708365600,Gornik Zabrze,Korona Kielce,WtiGCgXQ,QwHphoES,3,1,,,,0
+1708707600,Piast Gliwice,Cracovia,lIeLr2US,bsOodOxd,0,0,,,,0
+1708716600,Pogon Szczecin,LKS Lodz,vLZ2ZgBC,CrgYOGj7,4,2,,,,0
+1708783200,Jagiellonia,Ruch Chorzow,MgIRKEyG,2FYvdV3F,1,1,,,,0
+1708792200,Lech Poznan,Slask Wroclaw,lCvEmFL0,CrPl0Jrc,0,0,,,,0
+1708801200,Stal Mielec,Rakow,tfVka94A,KpIcOmKL,0,0,,,,0
+1708860600,Puszcza,Zaglebie,6PG8meHs,Ykwr8Dur,2,2,,,,0
+1708869600,Widzew Lodz,Gornik Zabrze,UTb1DTGS,WtiGCgXQ,3,1,,,,0
+1708878600,Korona Kielce,Legia,QwHphoES,rgYuXGKm,3,3,,,,0
+1708970400,Warta Poznan,Radomiak Radom,YwLXAjZC,A9opURNC,0,0,,,,0
+1709141400,Stal Mielec,LKS Lodz,tfVka94A,CrgYOGj7,1,0,,,,0
+1709312400,Cracovia,Warta Poznan,bsOodOxd,YwLXAjZC,0,1,,,,0
+1709321400,Ruch Chorzow,Piast Gliwice,2FYvdV3F,lIeLr2US,3,0,,,,0
+1709388000,Gornik Zabrze,Jagiellonia,WtiGCgXQ,MgIRKEyG,2,1,,,,0
+1709397000,Slask Wroclaw,Widzew Lodz,CrPl0Jrc,UTb1DTGS,2,1,,,,0
+1709406000,Legia,Pogon Szczecin,rgYuXGKm,vLZ2ZgBC,1,1,,,,0
+1709465400,LKS Lodz,Puszcza,CrgYOGj7,6PG8meHs,3,2,,,,0
+1709474400,Zaglebie,Korona Kielce,Ykwr8Dur,QwHphoES,1,0,,,,0
+1709483400,Rakow,Lech Poznan,KpIcOmKL,lCvEmFL0,4,0,,,,0
+1709575200,Radomiak Radom,Stal Mielec,A9opURNC,tfVka94A,2,1,,,,0
+1709917200,Piast Gliwice,Radomiak Radom,lIeLr2US,A9opURNC,2,3,,,,0
+1709926200,Jagiellonia,Slask Wroclaw,MgIRKEyG,CrPl0Jrc,3,1,,,,0
+1709992800,Korona Kielce,Cracovia,QwHphoES,bsOodOxd,1,1,,,,0
+1710001800,Puszcza,Rakow,6PG8meHs,KpIcOmKL,1,1,,,,0
+1710010800,Gornik Zabrze,Lech Poznan,WtiGCgXQ,lCvEmFL0,0,0,,,,0
+1710070200,Stal Mielec,Ruch Chorzow,tfVka94A,2FYvdV3F,3,1,,,,0
+1710079200,Pogon Szczecin,Zaglebie,vLZ2ZgBC,Ykwr8Dur,0,2,,,,0
+1710088200,Widzew Lodz,Legia,UTb1DTGS,rgYuXGKm,1,0,,,,0
+1710180000,Warta Poznan,LKS Lodz,YwLXAjZC,CrgYOGj7,0,1,,,,0
+1710264600,Piast Gliwice,Puszcza,lIeLr2US,6PG8meHs,1,0,,,,0
+1710351000,Korona Kielce,Rakow,QwHphoES,KpIcOmKL,0,2,,,,0
+1710522000,Zaglebie,Stal Mielec,Ykwr8Dur,tfVka94A,0,0,,,,0
+1710531000,Lech Poznan,Warta Poznan,lCvEmFL0,YwLXAjZC,2,0,,,,0
+1710588600,Cracovia,Widzew Lodz,bsOodOxd,UTb1DTGS,2,2,,,,0
+1710597600,Radomiak Radom,Jagiellonia,A9opURNC,MgIRKEyG,0,2,,,,0
+1710606600,Ruch Chorzow,Gornik Zabrze,2FYvdV3F,WtiGCgXQ,1,2,,,,0
+1710615600,Slask Wroclaw,Puszcza,CrPl0Jrc,6PG8meHs,0,0,,,,0
+1710675000,Korona Kielce,Pogon Szczecin,QwHphoES,vLZ2ZgBC,2,2,,,,0
+1710684000,LKS Lodz,Rakow,CrgYOGj7,KpIcOmKL,1,1,,,,0
+1710693000,Legia,Piast Gliwice,rgYuXGKm,lIeLr2US,3,1,,,,0
+1711798200,Rakow,Ruch Chorzow,KpIcOmKL,2FYvdV3F,1,1,,,,0
+1711807200,Jagiellonia,LKS Lodz,MgIRKEyG,CrgYOGj7,6,0,,,,0
+1711816200,Piast Gliwice,Slask Wroclaw,lIeLr2US,CrPl0Jrc,2,2,,,,0
+1711825200,Pogon Szczecin,Cracovia,vLZ2ZgBC,bsOodOxd,3,1,,,,0
+1711967400,Puszcza,Radomiak Radom,6PG8meHs,A9opURNC,1,1,,,,0
+1711976400,Stal Mielec,Lech Poznan,tfVka94A,lCvEmFL0,0,0,,,,0
+1711985400,Widzew Lodz,Korona Kielce,UTb1DTGS,QwHphoES,3,1,,,,0
+1711994400,Gornik Zabrze,Legia,WtiGCgXQ,rgYuXGKm,1,3,,,,0
+1712077200,Warta Poznan,Zaglebie,YwLXAjZC,Ykwr8Dur,1,1,,,,0
+1712332800,Cracovia,LKS Lodz,bsOodOxd,CrgYOGj7,2,2,,,,0
+1712341800,Radomiak Radom,Rakow,A9opURNC,KpIcOmKL,2,1,,,,0
+1712408400,Korona Kielce,Stal Mielec,QwHphoES,tfVka94A,1,0,,,,0
+1712417400,Ruch Chorzow,Puszcza,2FYvdV3F,6PG8meHs,0,0,,,,0
+1712426400,Slask Wroclaw,Warta Poznan,CrPl0Jrc,YwLXAjZC,2,1,,,,0
+1712485800,Widzew Lodz,Piast Gliwice,UTb1DTGS,lIeLr2US,1,0,,,,0
+1712494800,Lech Poznan,Pogon Szczecin,lCvEmFL0,vLZ2ZgBC,1,0,,,,0
+1712503800,Legia,Jagiellonia,rgYuXGKm,MgIRKEyG,1,1,,,,0
+1712595600,Zaglebie,Gornik Zabrze,Ykwr8Dur,WtiGCgXQ,1,2,,,,0
+1712937600,Warta Poznan,Korona Kielce,YwLXAjZC,QwHphoES,1,0,,,,0
+1712946600,Pogon Szczecin,Ruch Chorzow,vLZ2ZgBC,2FYvdV3F,5,0,,,,0
+1713013200,Stal Mielec,Widzew Lodz,tfVka94A,UTb1DTGS,0,0,,,,0
+1713022200,Puszcza,Lech Poznan,6PG8meHs,lCvEmFL0,2,1,,,,0
+1713031200,Rakow,Legia,KpIcOmKL,rgYuXGKm,1,1,,,,0
+1713090600,LKS Lodz,Radomiak Radom,CrgYOGj7,A9opURNC,3,2,,,,0
+1713099600,Jagiellonia,Cracovia,MgIRKEyG,bsOodOxd,1,3,,,,0
+1713108600,Gornik Zabrze,Slask Wroclaw,WtiGCgXQ,CrPl0Jrc,2,0,,,,0
+1713200400,Piast Gliwice,Zaglebie,lIeLr2US,Ykwr8Dur,2,0,,,,0
+1713542400,Korona Kielce,Radomiak Radom,QwHphoES,A9opURNC,4,0,,,,0
+1713551400,Rakow,Gornik Zabrze,KpIcOmKL,WtiGCgXQ,0,1,,,,0
+1713618000,Pogon Szczecin,Piast Gliwice,vLZ2ZgBC,lIeLr2US,0,2,,,,0
+1713627000,Ruch Chorzow,Widzew Lodz,2FYvdV3F,UTb1DTGS,2,3,,,,0
+1713636000,Zaglebie,Jagiellonia,Ykwr8Dur,MgIRKEyG,1,2,,,,0
+1713695400,Cracovia,Puszcza,bsOodOxd,6PG8meHs,0,1,,,,0
+1713704400,LKS Lodz,Lech Poznan,CrgYOGj7,lCvEmFL0,2,3,,,,0
+1713713400,Legia,Slask Wroclaw,rgYuXGKm,CrPl0Jrc,0,0,,,,0
+1713805200,Warta Poznan,Stal Mielec,YwLXAjZC,tfVka94A,5,2,,,,0
+1714147200,Piast Gliwice,Warta Poznan,lIeLr2US,YwLXAjZC,2,0,,,,0
+1714156200,Jagiellonia,Pogon Szczecin,MgIRKEyG,vLZ2ZgBC,2,2,,,,0
+1714222800,Gornik Zabrze,LKS Lodz,WtiGCgXQ,CrgYOGj7,4,1,,,,0
+1714231800,Slask Wroclaw,Ruch Chorzow,CrPl0Jrc,2FYvdV3F,2,3,,,,0
+1714240800,Widzew Lodz,Rakow,UTb1DTGS,KpIcOmKL,0,1,,,,0
+1714300200,Radomiak Radom,Zaglebie,A9opURNC,Ykwr8Dur,3,4,,,,0
+1714309200,Stal Mielec,Legia,tfVka94A,rgYuXGKm,1,3,,,,0
+1714318200,Lech Poznan,Cracovia,lCvEmFL0,bsOodOxd,0,0,,,,0
+1714410000,Puszcza,Korona Kielce,6PG8meHs,QwHphoES,1,1,,,,0
+1714752000,Cracovia,Gornik Zabrze,bsOodOxd,WtiGCgXQ,5,0,,,,0
+1714761000,Ruch Chorzow,Lech Poznan,2FYvdV3F,lCvEmFL0,2,1,,,,0
+1714827600,LKS Lodz,Slask Wroclaw,CrgYOGj7,CrPl0Jrc,1,2,,,,0
+1714836600,Zaglebie,Rakow,Ykwr8Dur,KpIcOmKL,2,0,,,,0
+1714845600,Stal Mielec,Jagiellonia,tfVka94A,MgIRKEyG,3,2,,,,0
+1714905000,Warta Poznan,Widzew Lodz,YwLXAjZC,UTb1DTGS,2,1,,,,0
+1714914000,Korona Kielce,Piast Gliwice,QwHphoES,lIeLr2US,1,1,,,,0
+1714923000,Legia,Radomiak Radom,rgYuXGKm,A9opURNC,0,3,,,,0
+1715014800,Pogon Szczecin,Puszcza,vLZ2ZgBC,6PG8meHs,1,0,,,,0
+1715356800,Piast Gliwice,LKS Lodz,lIeLr2US,CrgYOGj7,4,0,,,,0
+1715365800,Slask Wroclaw,Cracovia,CrPl0Jrc,bsOodOxd,4,0,,,,0
+1715432400,Gornik Zabrze,Stal Mielec,WtiGCgXQ,tfVka94A,1,1,,,,0
+1715441400,Jagiellonia,Korona Kielce,MgIRKEyG,QwHphoES,3,0,,,,0
+1715450400,Rakow,Pogon Szczecin,KpIcOmKL,vLZ2ZgBC,2,1,,,,0
+1715509800,Puszcza,Warta Poznan,6PG8meHs,YwLXAjZC,1,0,,,,0
+1715518800,Widzew Lodz,Zaglebie,UTb1DTGS,Ykwr8Dur,1,3,,,,0
+1715527800,Lech Poznan,Legia,lCvEmFL0,rgYuXGKm,1,2,,,,0
+1715619600,Radomiak Radom,Ruch Chorzow,A9opURNC,2FYvdV3F,0,2,,,,0
+1715961600,Stal Mielec,Pogon Szczecin,tfVka94A,vLZ2ZgBC,0,0,,,,0
+1715970600,Gornik Zabrze,Puszcza,WtiGCgXQ,6PG8meHs,1,1,,,,0
+1716037200,Korona Kielce,Ruch Chorzow,QwHphoES,2FYvdV3F,2,0,,,,0
+1716046200,Slask Wroclaw,Radomiak Radom,CrPl0Jrc,A9opURNC,2,0,,,,0
+1716055200,Piast Gliwice,Jagiellonia,lIeLr2US,MgIRKEyG,1,1,,,,0
+1716114600,Cracovia,Rakow,bsOodOxd,KpIcOmKL,2,0,,,,0
+1716123600,Warta Poznan,Legia,YwLXAjZC,rgYuXGKm,0,1,,,,0
+1716132600,Widzew Lodz,Lech Poznan,UTb1DTGS,lCvEmFL0,1,1,,,,0
+1716224400,Zaglebie,LKS Lodz,Ykwr8Dur,CrgYOGj7,2,1,,,,0
+1716651000,Ruch Chorzow,Cracovia,2FYvdV3F,bsOodOxd,2,0,,,,0
+1716651000,Rakow,Slask Wroclaw,KpIcOmKL,CrPl0Jrc,1,2,,,,0
+1716651000,Radomiak Radom,Widzew Lodz,A9opURNC,UTb1DTGS,1,3,,,,0
+1716651000,Puszcza,Piast Gliwice,6PG8meHs,lIeLr2US,1,0,,,,0
+1716651000,Pogon Szczecin,Gornik Zabrze,vLZ2ZgBC,WtiGCgXQ,1,0,,,,0
+1716651000,LKS Lodz,Stal Mielec,CrgYOGj7,tfVka94A,3,2,,,,0
+1716651000,Legia,Zaglebie,rgYuXGKm,Ykwr8Dur,2,1,,,,0
+1716651000,Lech Poznan,Korona Kielce,lCvEmFL0,QwHphoES,1,2,,,,0
+1716651000,Jagiellonia,Warta Poznan,MgIRKEyG,YwLXAjZC,3,0,,,,0

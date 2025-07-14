@@ -1,17 +1,17 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-960760800,Yokohama F. Marinos,Sanfrecce Hiroshima,4,1,,,,0
-962748000,Vissel Kobe,Shimizu S-Pulse,2,0,,,,0
-962748000,Verdy,Cerezo Osaka,1,0,,,,0
-962748000,Sanfrecce Hiroshima,Yokohama F. Marinos,1,0,,,,0
-962748000,Kyoto,FC Tokyo,1,1,,,,0
-962748000,Kawasaki Frontale,Kashiwa Reysol,1,0,,,,0
-962748000,Gamba Osaka,Iwata,0,1,,,,0
-962748000,Chiba,Nagoya Grampus,1,1,,,,0
-962748000,Avispa Fukuoka,Kashima Antlers,1,1,,,,0
-963352800,Verdy,Cerezo Osaka,1,0,,,,0
-963352800,Shimizu S-Pulse,Vissel Kobe,4,0,,,,0
-963352800,Nagoya Grampus,Chiba,2,1,,,,0
-963352800,Kashiwa Reysol,Kawasaki Frontale,1,1,,,,0
-963352800,Kashima Antlers,Avispa Fukuoka,3,2,,,,0
-963352800,Iwata,Gamba Osaka,1,2,,,,0
-963352800,FC Tokyo,Kyoto,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+960760800,Yokohama F. Marinos,Sanfrecce Hiroshima,plFsSE3r,pSNkZ1lS,4,1,,,,0
+962748000,Vissel Kobe,Shimizu S-Pulse,4SU3kZUI,Uc4CHyL0,2,0,,,,0
+962748000,Verdy,Cerezo Osaka,GjpDcRDi,8l3GGez7,1,0,,,,0
+962748000,Sanfrecce Hiroshima,Yokohama F. Marinos,pSNkZ1lS,plFsSE3r,1,0,,,,0
+962748000,Kyoto,FC Tokyo,z735vIvR,YwiAOSxC,1,1,,,,0
+962748000,Kawasaki Frontale,Kashiwa Reysol,j758IH5f,A1NlaOLn,1,0,,,,0
+962748000,Gamba Osaka,Iwata,pCXiuGSm,j758IH5f,0,1,,,,0
+962748000,Chiba,Nagoya Grampus,z735vIvR,n9XchkvQ,1,1,,,,0
+962748000,Avispa Fukuoka,Kashima Antlers,Eq74Jcjl,4SARfF5k,1,1,,,,0
+963352800,Verdy,Cerezo Osaka,GjpDcRDi,8l3GGez7,1,0,,,,0
+963352800,Shimizu S-Pulse,Vissel Kobe,Uc4CHyL0,4SU3kZUI,4,0,,,,0
+963352800,Nagoya Grampus,Chiba,n9XchkvQ,z735vIvR,2,1,,,,0
+963352800,Kashiwa Reysol,Kawasaki Frontale,A1NlaOLn,j758IH5f,1,1,,,,0
+963352800,Kashima Antlers,Avispa Fukuoka,4SARfF5k,Eq74Jcjl,3,2,,,,0
+963352800,Iwata,Gamba Osaka,j758IH5f,pCXiuGSm,1,2,,,,0
+963352800,FC Tokyo,Kyoto,YwiAOSxC,z735vIvR,0,1,,,,0

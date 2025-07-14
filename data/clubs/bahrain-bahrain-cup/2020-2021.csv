@@ -1,37 +1,37 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1604242800,Al-Hidd,East Riffa,1,1,,,,0
-1604242800,Al-Budaiya,Qalali,3,2,,,,0
-1604329200,Malkia,Sitra,3,2,,,,0
-1604329200,Al-Hala,Isa Town,0,1,,,,0
-1604415600,Al-Muharraq,Manama Club,2,0,,,,0
-1604761200,Isa Town,Al-Muharraq,2,2,,,,0
-1604761200,Bahrain SC,Al-Hidd,1,0,,,,0
-1604761200,Al-Shabbab,Al-Ittihad,1,1,,,,0
-1604761200,Al-Hala,Al-Ittifaq,2,1,,,,0
-1604847600,Sitra,Al Riffa,1,1,,,,0
-1605882600,Qalali,Al-Najma,2,3,,,,0
-1605882600,East Riffa,Al-Shabbab,3,1,,,,0
-1605882600,Busaiteen,Al-Budaiya,1,0,,,,0
-1605882600,Al-Ittihad,Bahrain SC,0,3,,,,0
-1605969000,Tadamun Buri,Sitra,1,3,,,,0
-1605969000,Manama Club,Al-Hala,2,1,,,,0
-1605969000,Al-Ittifaq,Isa Town,0,4,,,,0
-1605969000,Al-Ahli Manama,Malkia,1,4,,,,0
-1615735800,Al-Shabbab,Bahrain SC,1,1,,,,0
-1615908600,Malkia,Tadamun Buri,0,0,,,,0
-1616081400,Al-Najma,Busaiteen,2,1,,,,0
-1616167800,East Riffa,Al-Ittihad,5,0,,,,0
-1616167800,Al-Hidd,Al-Shabbab,2,3,,,,0
-1616254200,Manama Club,Al-Ittifaq,4,1,,,,0
-1616254200,Al-Muharraq,Al-Hala,2,0,,,,0
-1616254200,Al-Ahli Manama,Tadamun Buri,4,0,,,,0
-1616599800,Qalali,Busaiteen,1,0,,,,0
-1616599800,Bahrain SC,East Riffa,1,4,,,,0
-1616599800,Al-Ittihad,Al-Hidd,0,3,,,,0
-1616686200,Sitra,Al-Ahli Manama,0,2,,,,0
-1616686200,Isa Town,Manama Club,1,2,,,,0
-1616686200,Al-Najma,Al-Budaiya,0,1,,,,0
-1616686200,Al-Ittifaq,Al-Muharraq,2,3,,,,0
-1617113100,East Riffa,Malkia,1,1,Pen,2,1,0
-1617122400,Al-Muharraq,Al-Budaiya,3,1,,,,0
-1621180800,East Riffa,Al-Muharraq,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1604242800,Al-Hidd,East Riffa,pWyQgjIm,lCxMaEY9,1,1,,,,0
+1604242800,Al-Budaiya,Qalali,4GEBOr8J,IFdtAhip,3,2,,,,0
+1604329200,Malkia,Sitra,lOfXOjoE,WtHWM9YK,3,2,,,,0
+1604329200,Al-Hala,Isa Town,lCxMaEY9,WjlX6iM6,0,1,,,,0
+1604415600,Al-Muharraq,Manama Club,ALwI0fJ3,2Jlfd3kF,2,0,,,,0
+1604761200,Isa Town,Al-Muharraq,WjlX6iM6,ALwI0fJ3,2,2,,,,0
+1604761200,Bahrain SC,Al-Hidd,lCxMaEY9,pWyQgjIm,1,0,,,,0
+1604761200,Al-Shabbab,Al-Ittihad,xfd2nhF6,lCOyRsCp,1,1,,,,0
+1604761200,Al-Hala,Al-Ittifaq,lCxMaEY9,SMLhMD1s,2,1,,,,0
+1604847600,Sitra,Al Riffa,WtHWM9YK,lCxMaEY9,1,1,,,,0
+1605882600,Qalali,Al-Najma,IFdtAhip,Cr3ympLj,2,3,,,,0
+1605882600,East Riffa,Al-Shabbab,lCxMaEY9,xfd2nhF6,3,1,,,,0
+1605882600,Busaiteen,Al-Budaiya,WnOlbjXd,4GEBOr8J,1,0,,,,0
+1605882600,Al-Ittihad,Bahrain SC,lCOyRsCp,lCxMaEY9,0,3,,,,0
+1605969000,Tadamun Buri,Sitra,SMLhMD1s,WtHWM9YK,1,3,,,,0
+1605969000,Manama Club,Al-Hala,2Jlfd3kF,lCxMaEY9,2,1,,,,0
+1605969000,Al-Ittifaq,Isa Town,SMLhMD1s,WjlX6iM6,0,4,,,,0
+1605969000,Al-Ahli Manama,Malkia,OfjJDLff,lOfXOjoE,1,4,,,,0
+1615735800,Al-Shabbab,Bahrain SC,xfd2nhF6,lCxMaEY9,1,1,,,,0
+1615908600,Malkia,Tadamun Buri,lOfXOjoE,SMLhMD1s,0,0,,,,0
+1616081400,Al-Najma,Busaiteen,Cr3ympLj,WnOlbjXd,2,1,,,,0
+1616167800,East Riffa,Al-Ittihad,lCxMaEY9,lCOyRsCp,5,0,,,,0
+1616167800,Al-Hidd,Al-Shabbab,pWyQgjIm,xfd2nhF6,2,3,,,,0
+1616254200,Manama Club,Al-Ittifaq,2Jlfd3kF,SMLhMD1s,4,1,,,,0
+1616254200,Al-Muharraq,Al-Hala,ALwI0fJ3,lCxMaEY9,2,0,,,,0
+1616254200,Al-Ahli Manama,Tadamun Buri,OfjJDLff,SMLhMD1s,4,0,,,,0
+1616599800,Qalali,Busaiteen,IFdtAhip,WnOlbjXd,1,0,,,,0
+1616599800,Bahrain SC,East Riffa,lCxMaEY9,lCxMaEY9,1,4,,,,0
+1616599800,Al-Ittihad,Al-Hidd,lCOyRsCp,pWyQgjIm,0,3,,,,0
+1616686200,Sitra,Al-Ahli Manama,WtHWM9YK,OfjJDLff,0,2,,,,0
+1616686200,Isa Town,Manama Club,WjlX6iM6,2Jlfd3kF,1,2,,,,0
+1616686200,Al-Najma,Al-Budaiya,Cr3ympLj,4GEBOr8J,0,1,,,,0
+1616686200,Al-Ittifaq,Al-Muharraq,SMLhMD1s,ALwI0fJ3,2,3,,,,0
+1617113100,East Riffa,Malkia,lCxMaEY9,lOfXOjoE,1,1,Pen,2,1,0
+1617122400,Al-Muharraq,Al-Budaiya,ALwI0fJ3,4GEBOr8J,3,1,,,,0
+1621180800,East Riffa,Al-Muharraq,lCxMaEY9,ALwI0fJ3,1,2,,,,0

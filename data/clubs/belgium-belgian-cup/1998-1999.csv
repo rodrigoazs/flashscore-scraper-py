@@ -1,18 +1,18 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-912553200,St. Truiden,Club Brugge KV,4,0,,,,0
-912553200,Lokeren,KFC Lommel SK,1,2,,,,0
-912553200,Lierse,KRC Zuid-West-Vlaanderen,0,0,,,,0
-912553200,KSK Beveren,St. Liege,2,3,,,,0
-912553200,Antwerp,Anderlecht,1,2,,,,0
-915490800,Westerlo,Beerschot AC,3,4,,,,0
-919465200,Lokeren,Westerlo,3,0,,,,0
-919465200,KRC Harelbeke,St. Liege,1,3,,,,0
-919551600,Kortrijk,Lierse,0,6,,,,0
-919724400,St. Truiden,Genk,0,1,,,,0
-922230000,KSK Beveren,Beerschot AC,4,5,,,,0
-922230000,Anderlecht,Lierse,3,1,,,,0
-922402800,KFC Lommel SK,St. Truiden,1,3,,,,0
-922575600,Genk,Club Brugge KV,3,2,,,,0
-923608800,Genk,Lierse,2,4,,,,0
-923781600,Lokeren,St. Liege,0,2,,,,0
-928015200,St. Liege,Lierse,1,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+912553200,St. Truiden,Club Brugge KV,OCiVKiPK,44lq3LsP,4,0,,,,0
+912553200,Lokeren,KFC Lommel SK,Iw55ueQk,,1,2,,,,0
+912553200,Lierse,KRC Zuid-West-Vlaanderen,xQnxBzcF,,0,0,,,,0
+912553200,KSK Beveren,St. Liege,tt0jGfcU,tjZYJCwg,2,3,,,,0
+912553200,Antwerp,Anderlecht,vuxu3x67,YVlGNJGc,1,2,,,,0
+915490800,Westerlo,Beerschot AC,ht99hStl,dvLIfKqM,3,4,,,,0
+919465200,Lokeren,Westerlo,Iw55ueQk,ht99hStl,3,0,,,,0
+919465200,KRC Harelbeke,St. Liege,lrorTzcq,tjZYJCwg,1,3,,,,0
+919551600,Kortrijk,Lierse,nB6CAUfs,xQnxBzcF,0,6,,,,0
+919724400,St. Truiden,Genk,OCiVKiPK,YB0frRRP,0,1,,,,0
+922230000,KSK Beveren,Beerschot AC,tt0jGfcU,dvLIfKqM,4,5,,,,0
+922230000,Anderlecht,Lierse,YVlGNJGc,xQnxBzcF,3,1,,,,0
+922402800,KFC Lommel SK,St. Truiden,,OCiVKiPK,1,3,,,,0
+922575600,Genk,Club Brugge KV,YB0frRRP,44lq3LsP,3,2,,,,0
+923608800,Genk,Lierse,YB0frRRP,xQnxBzcF,2,4,,,,0
+923781600,Lokeren,St. Liege,Iw55ueQk,tjZYJCwg,0,2,,,,0
+928015200,St. Liege,Lierse,tjZYJCwg,xQnxBzcF,1,3,,,,0

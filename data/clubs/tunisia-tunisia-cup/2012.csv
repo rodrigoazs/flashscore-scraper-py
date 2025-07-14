@@ -1,48 +1,48 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1336827600,Metlaoui,Sporting Ben Arous,2,0,,,,0
-1336827600,CS Sfaxien,Stade Gabesien,1,2,,,,0
-1336827600,CS Sfaxien,AS Gabes,1,2,,,,0
-1336914000,Oued Ellil,HSKK,0,0,Pen,1,0,0
-1336914000,Mateur,Moknine,3,1,,,,0
-1336914000,LPTA Tozeur,Sbeitla,4,0,,,,0
-1336914000,Korba,Msaken,3,2,,,,0
-1336914000,Kalaa,Stade Nabeulien,4,3,,,,0
-1336914000,JS Omrane,MS Manouba,2,0,,,,0
-1336914000,Hilalien,OC Kerkennah,2,2,AET,3,2,0
-1336914000,Hammamet,EO Goulette Kram,4,2,,,,0
-1336914000,Grombalia Sports,Messadine,4,2,,,,0
-1336914000,Espoir Bouchama,Union Ksibet Mediouni,3,1,,,,0
-1336914000,CO Transports,Jendouba Sport,2,0,,,,0
-1336914000,Club Nafta,Kasserine,2,2,,,,0
-1336914000,Ben Guerdane,Olympique Kef,2,1,,,,0
-1336914000,AS Djerba,Aigle Teboulba,2,1,,,,0
-1339077600,CS Sfaxien,AS Djerba,4,3,,,,0
-1339164000,Zarzis,JS Kairouan,1,1,AET,2,1,0
-1339164000,Olympique Beja,Hammam-Lif,1,1,Pen,2,1,0
-1339250400,Metlaoui,JS Omrane,2,1,,,,0
-1339250400,Hilalien,Club Africain,1,1,AET,3,1,0
-1339250400,EGS Gafsa,Espoir Bouchama,4,0,,,,0
-1339250400,CO Transports,Grombalia Sports,1,1,AET,2,1,0
-1339250400,AS Marsa,Kalaa,2,1,,,,0
-1339336800,Stade Tunisien,LPTA Tozeur,5,0,,,,0
-1339336800,Mateur,Oued Ellil,1,0,,,,0
-1339336800,Hammamet,Hamam-Sousse,1,1,Pen,1,2,0
-1339336800,ES Beni-Khalled,Monastir,0,0,Pen,1,0,0
-1339336800,Club Nafta,Korba,0,0,Pen,1,2,0
-1339336800,AS Gabes,Ben Guerdane,3,2,,,,0
-1340202600,CA Bizertin,Esperance Tunis,0,3,,,,0
-1340461800,Zarzis,Hamam-Sousse,2,0,,,,0
-1340461800,Stade Tunisien,CS Sfaxien,1,2,,,,0
-1340461800,Olympique Beja,ES Beni-Khalled,2,2,AET,4,2,0
-1340461800,Metlaoui,AS Marsa,3,0,WO,,,0
-1340461800,Korba,CO Transports,1,1,Pen,2,1,0
-1340461800,Hilalien,EGS Gafsa,2,0,,,,0
-1340461800,Etoile Sahel,AS Gabes,3,0,,,,0
-1340463600,Esperance Tunis,Mateur,2,0,,,,0
-1340722800,Zarzis,CS Sfaxien,0,3,,,,0
-1340722800,Korba,Hilalien,0,0,Pen,0,1,0
-1340722800,Etoile Sahel,Olympique Beja,2,1,,,,0
-1340722800,Esperance Tunis,Metlaoui,0,0,Pen,1,0,0
-1340982000,Hilalien,Etoile Sahel,1,1,Pen,1,2,0
-1340982000,CS Sfaxien,Esperance Tunis,1,1,Pen,2,1,0
-1344704400,CS Sfaxien,Etoile Sahel,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1336827600,Metlaoui,Sporting Ben Arous,bNN2piW2,Gx7siOZg,2,0,,,,0
+1336827600,CS Sfaxien,Stade Gabesien,8QjOsK1t,b3uqjdCG,1,2,,,,0
+1336827600,CS Sfaxien,AS Gabes,8QjOsK1t,EgOnwaeL,1,2,,,,0
+1336914000,Oued Ellil,HSKK,O22fUmx2,n1oCCiBU,0,0,Pen,1,0,0
+1336914000,Mateur,Moknine,,QJK5cIQ7,3,1,,,,0
+1336914000,LPTA Tozeur,Sbeitla,YDgm7WW0,8IKC4dk0,4,0,,,,0
+1336914000,Korba,Msaken,xn8wh4Km,OMKvAEwD,3,2,,,,0
+1336914000,Kalaa,Stade Nabeulien,GjCwVWmD,Gx7siOZg,4,3,,,,0
+1336914000,JS Omrane,MS Manouba,n1oCCiBU,,2,0,,,,0
+1336914000,Hilalien,OC Kerkennah,4E7tTbYc,xtN7tOLM,2,2,AET,3,2,0
+1336914000,Hammamet,EO Goulette Kram,xn8wh4Km,hAnDbxIP,4,2,,,,0
+1336914000,Grombalia Sports,Messadine,vZhtxHcd,,4,2,,,,0
+1336914000,Espoir Bouchama,Union Ksibet Mediouni,,Y3QCyThc,3,1,,,,0
+1336914000,CO Transports,Jendouba Sport,Y9XrgGum,xn8wh4Km,2,0,,,,0
+1336914000,Club Nafta,Kasserine,,h0aVzwOp,2,2,,,,0
+1336914000,Ben Guerdane,Olympique Kef,bNN2piW2,G26ZPsda,2,1,,,,0
+1336914000,AS Djerba,Aigle Teboulba,KYuuicg3,pEKLWfdn,2,1,,,,0
+1339077600,CS Sfaxien,AS Djerba,8QjOsK1t,KYuuicg3,4,3,,,,0
+1339164000,Zarzis,JS Kairouan,Eua5PHRE,beBXmIt1,1,1,AET,2,1,0
+1339164000,Olympique Beja,Hammam-Lif,I5FjZXgm,25iFJh20,1,1,Pen,2,1,0
+1339250400,Metlaoui,JS Omrane,bNN2piW2,n1oCCiBU,2,1,,,,0
+1339250400,Hilalien,Club Africain,4E7tTbYc,bob4M53H,1,1,AET,3,1,0
+1339250400,EGS Gafsa,Espoir Bouchama,6kIbSAtS,,4,0,,,,0
+1339250400,CO Transports,Grombalia Sports,Y9XrgGum,vZhtxHcd,1,1,AET,2,1,0
+1339250400,AS Marsa,Kalaa,zgzLiH7t,GjCwVWmD,2,1,,,,0
+1339336800,Stade Tunisien,LPTA Tozeur,GOX2DTa1,YDgm7WW0,5,0,,,,0
+1339336800,Mateur,Oued Ellil,,O22fUmx2,1,0,,,,0
+1339336800,Hammamet,Hamam-Sousse,xn8wh4Km,OIM3sMvL,1,1,Pen,1,2,0
+1339336800,ES Beni-Khalled,Monastir,j3c9OysL,OlRcOd3K,0,0,Pen,1,0,0
+1339336800,Club Nafta,Korba,,xn8wh4Km,0,0,Pen,1,2,0
+1339336800,AS Gabes,Ben Guerdane,EgOnwaeL,bNN2piW2,3,2,,,,0
+1340202600,CA Bizertin,Esperance Tunis,KnNw8eel,QwBpoY8M,0,3,,,,0
+1340461800,Zarzis,Hamam-Sousse,Eua5PHRE,OIM3sMvL,2,0,,,,0
+1340461800,Stade Tunisien,CS Sfaxien,GOX2DTa1,8QjOsK1t,1,2,,,,0
+1340461800,Olympique Beja,ES Beni-Khalled,I5FjZXgm,j3c9OysL,2,2,AET,4,2,0
+1340461800,Metlaoui,AS Marsa,bNN2piW2,zgzLiH7t,3,0,WO,,,0
+1340461800,Korba,CO Transports,xn8wh4Km,Y9XrgGum,1,1,Pen,2,1,0
+1340461800,Hilalien,EGS Gafsa,4E7tTbYc,6kIbSAtS,2,0,,,,0
+1340461800,Etoile Sahel,AS Gabes,8flds5zI,EgOnwaeL,3,0,,,,0
+1340463600,Esperance Tunis,Mateur,QwBpoY8M,,2,0,,,,0
+1340722800,Zarzis,CS Sfaxien,Eua5PHRE,8QjOsK1t,0,3,,,,0
+1340722800,Korba,Hilalien,xn8wh4Km,4E7tTbYc,0,0,Pen,0,1,0
+1340722800,Etoile Sahel,Olympique Beja,8flds5zI,I5FjZXgm,2,1,,,,0
+1340722800,Esperance Tunis,Metlaoui,QwBpoY8M,bNN2piW2,0,0,Pen,1,0,0
+1340982000,Hilalien,Etoile Sahel,4E7tTbYc,8flds5zI,1,1,Pen,1,2,0
+1340982000,CS Sfaxien,Esperance Tunis,8QjOsK1t,QwBpoY8M,1,1,Pen,2,1,0
+1344704400,CS Sfaxien,Etoile Sahel,8QjOsK1t,8flds5zI,0,1,,,,0

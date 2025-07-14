@@ -1,21 +1,21 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1238252400,TB Tvoroyri,Nolsoy,6,0,,,,0
-1238252400,Royn Hvalba,Undri,1,2,,,,0
-1238263200,Midvagur,Skala Itrottarfelag,4,1,,,,0
-1239278400,Hoyvik,Undri,4,0,,,,0
-1239282000,VB Vagur,Streymur,0,4,,,,0
-1239282000,TB Tvoroyri,B36 Torshavn,0,0,Pen,1,0,0
-1239285600,Vikingur,Midvagur,5,0,,,,0
-1239285600,Sandur,IF Fuglafjordur,0,1,,,,0
-1239285600,Klaksvik,07 Vestur Sorvagur,0,3,,,,0
-1239285600,HB Torshavn,NSI Runavik,2,1,,,,0
-1239292800,AB Argir,Toftir,3,2,,,,0
-1241015400,TB Tvoroyri,AB Argir,1,1,Pen,1,2,0
-1241024400,Vikingur,HB Torshavn,2,1,,,,0
-1241026200,Streymur,Hoyvik,1,0,,,,0
-1241028000,07 Vestur Sorvagur,IF Fuglafjordur,0,3,,,,0
-1242234000,IF Fuglafjordur,Vikingur,0,1,,,,0
-1242234000,AB Argir,Streymur,1,1,,,,0
-1243530000,Vikingur,IF Fuglafjordur,5,0,,,,0
-1243530000,Streymur,AB Argir,4,1,,,,0
-1248876000,Streymur,Vikingur,2,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1238252400,TB Tvoroyri,Nolsoy,4QTKNxoo,,6,0,,,,0
+1238252400,Royn Hvalba,Undri,pKFzfwwe,6TGWfJNl,1,2,,,,0
+1238263200,Midvagur,Skala Itrottarfelag,pKFzfwwe,GA2XvLc7,4,1,,,,0
+1239278400,Hoyvik,Undri,dKh1wFlc,6TGWfJNl,4,0,,,,0
+1239282000,VB Vagur,Streymur,IazCAdFa,S6wQRveL,0,4,,,,0
+1239282000,TB Tvoroyri,B36 Torshavn,4QTKNxoo,ljgDYnD5,0,0,Pen,1,0,0
+1239285600,Vikingur,Midvagur,xScZ0U2I,pKFzfwwe,5,0,,,,0
+1239285600,Sandur,IF Fuglafjordur,QTeOMRab,nTLUUUol,0,1,,,,0
+1239285600,Klaksvik,07 Vestur Sorvagur,GnA0fkqU,S6wQRveL,0,3,,,,0
+1239285600,HB Torshavn,NSI Runavik,lGvMSKuF,hhkDzDYF,2,1,,,,0
+1239292800,AB Argir,Toftir,ljgDYnD5,Sdd6AGnq,3,2,,,,0
+1241015400,TB Tvoroyri,AB Argir,4QTKNxoo,ljgDYnD5,1,1,Pen,1,2,0
+1241024400,Vikingur,HB Torshavn,xScZ0U2I,lGvMSKuF,2,1,,,,0
+1241026200,Streymur,Hoyvik,S6wQRveL,dKh1wFlc,1,0,,,,0
+1241028000,07 Vestur Sorvagur,IF Fuglafjordur,S6wQRveL,nTLUUUol,0,3,,,,0
+1242234000,IF Fuglafjordur,Vikingur,nTLUUUol,xScZ0U2I,0,1,,,,0
+1242234000,AB Argir,Streymur,ljgDYnD5,S6wQRveL,1,1,,,,0
+1243530000,Vikingur,IF Fuglafjordur,xScZ0U2I,nTLUUUol,5,0,,,,0
+1243530000,Streymur,AB Argir,S6wQRveL,ljgDYnD5,4,1,,,,0
+1248876000,Streymur,Vikingur,S6wQRveL,xScZ0U2I,2,3,,,,0

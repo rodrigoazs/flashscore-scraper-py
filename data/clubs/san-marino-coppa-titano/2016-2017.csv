@@ -1,53 +1,53 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1473792300,Tre Fiori,Murata,4,2,,,,0
-1473878700,Tre Penne,Virtus,1,0,,,,0
-1473878700,Libertas,Cailungo,0,0,,,,0
-1473878700,Juvenes/Dogana,Fiorentino,0,2,,,,0
-1473878700,Folgore,Domagnano,6,1,,,,0
-1473878700,Faetano,San Giovanni,4,1,,,,0
-1473878700,Cosmos,Pennarossa,0,3,,,,0
-1475001900,San Giovanni,Tre Penne,0,4,,,,0
-1475088300,Virtus,Faetano,0,2,,,,0
-1475088300,Pennarossa,Libertas,1,1,,,,0
-1475088300,Murata,La Fiorita,3,2,,,,0
-1475088300,Fiorentino,Folgore,1,4,,,,0
-1475088300,Domagnano,Juvenes/Dogana,1,3,,,,0
-1479843900,Domagnano,Fiorentino,1,3,,,,0
-1479930300,Virtus,San Giovanni,3,0,,,,0
-1479930300,Tre Penne,Faetano,3,0,,,,0
-1479930300,Libertas,Cosmos,2,1,,,,0
-1479930300,La Fiorita,Tre Fiori,2,2,,,,0
-1479930300,Folgore,Juvenes/Dogana,2,0,,,,0
-1479930300,Cailungo,Pennarossa,1,0,,,,0
-1480535100,Murata,Tre Fiori,1,1,,,,0
-1480535100,Cailungo,Cosmos,2,1,,,,0
-1485612000,Tre Penne,San Giovanni,3,0,,,,0
-1485612000,Faetano,Virtus,2,3,,,,0
-1485612000,Domagnano,Juvenes/Dogana,2,1,,,,0
-1485612000,Cosmos,Cailungo,0,2,,,,0
-1485698400,Tre Fiori,La Fiorita,1,2,,,,0
-1485698400,Libertas,Pennarossa,6,0,,,,0
-1485698400,Folgore,Fiorentino,1,0,,,,0
-1486496700,San Giovanni,Faetano,0,2,,,,0
-1486496700,Fiorentino,Juvenes/Dogana,2,0,,,,0
-1486496700,Cailungo,Libertas,0,2,,,,0
-1486583100,Virtus,Tre Penne,0,6,,,,0
-1486583100,Pennarossa,Cosmos,4,1,,,,0
-1486583100,La Fiorita,Murata,4,1,,,,0
-1486583100,Domagnano,Folgore,2,1,,,,0
-1488397500,La Fiorita,Murata,4,1,,,,0
-1489002300,Murata,Tre Fiori,1,2,,,,0
-1489520700,Juvenes/Dogana,Folgore,1,2,,,,0
-1489520700,Fiorentino,Domagnano,1,1,,,,0
-1489607100,Tre Fiori,La Fiorita,3,2,,,,0
-1489607100,San Giovanni,Virtus,1,0,,,,0
-1489607100,Pennarossa,Cailungo,3,1,,,,0
-1489607100,Faetano,Tre Penne,1,5,,,,0
-1489607100,Cosmos,Libertas,0,1,,,,0
-1492627500,Tre Fiori,Pennarossa,3,1,,,,0
-1492627500,La Fiorita,Libertas,3,1,,,,0
-1492713900,Tre Penne,Fiorentino,2,1,,,,0
-1492713900,Faetano,Folgore,2,1,,,,0
-1492866000,Tre Fiori,La Fiorita,0,3,,,,0
-1492952400,Tre Penne,Faetano,2,1,,,,0
-1493232300,La Fiorita,Tre Penne,0,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1473792300,Tre Fiori,Murata,4nHGwTWE,zHvNYsXt,4,2,,,,0
+1473878700,Tre Penne,Virtus,YVxpougo,KEDg48Us,1,0,,,,0
+1473878700,Libertas,Cailungo,tMgHdBpr,xfd2nhF6,0,0,,,,0
+1473878700,Juvenes/Dogana,Fiorentino,8AW7ex2o,h8gApWqJ,0,2,,,,0
+1473878700,Folgore,Domagnano,h8gApWqJ,lMD1XBvn,6,1,,,,0
+1473878700,Faetano,San Giovanni,AwNhcAn3,IHc0M2Zm,4,1,,,,0
+1473878700,Cosmos,Pennarossa,2LkHQV7j,lE5HhTyt,0,3,,,,0
+1475001900,San Giovanni,Tre Penne,IHc0M2Zm,YVxpougo,0,4,,,,0
+1475088300,Virtus,Faetano,KEDg48Us,AwNhcAn3,0,2,,,,0
+1475088300,Pennarossa,Libertas,lE5HhTyt,tMgHdBpr,1,1,,,,0
+1475088300,Murata,La Fiorita,zHvNYsXt,IqhLeVal,3,2,,,,0
+1475088300,Fiorentino,Folgore,h8gApWqJ,h8gApWqJ,1,4,,,,0
+1475088300,Domagnano,Juvenes/Dogana,lMD1XBvn,8AW7ex2o,1,3,,,,0
+1479843900,Domagnano,Fiorentino,lMD1XBvn,h8gApWqJ,1,3,,,,0
+1479930300,Virtus,San Giovanni,KEDg48Us,IHc0M2Zm,3,0,,,,0
+1479930300,Tre Penne,Faetano,YVxpougo,AwNhcAn3,3,0,,,,0
+1479930300,Libertas,Cosmos,tMgHdBpr,2LkHQV7j,2,1,,,,0
+1479930300,La Fiorita,Tre Fiori,IqhLeVal,4nHGwTWE,2,2,,,,0
+1479930300,Folgore,Juvenes/Dogana,h8gApWqJ,8AW7ex2o,2,0,,,,0
+1479930300,Cailungo,Pennarossa,xfd2nhF6,lE5HhTyt,1,0,,,,0
+1480535100,Murata,Tre Fiori,zHvNYsXt,4nHGwTWE,1,1,,,,0
+1480535100,Cailungo,Cosmos,xfd2nhF6,2LkHQV7j,2,1,,,,0
+1485612000,Tre Penne,San Giovanni,YVxpougo,IHc0M2Zm,3,0,,,,0
+1485612000,Faetano,Virtus,AwNhcAn3,KEDg48Us,2,3,,,,0
+1485612000,Domagnano,Juvenes/Dogana,lMD1XBvn,8AW7ex2o,2,1,,,,0
+1485612000,Cosmos,Cailungo,2LkHQV7j,xfd2nhF6,0,2,,,,0
+1485698400,Tre Fiori,La Fiorita,4nHGwTWE,IqhLeVal,1,2,,,,0
+1485698400,Libertas,Pennarossa,tMgHdBpr,lE5HhTyt,6,0,,,,0
+1485698400,Folgore,Fiorentino,h8gApWqJ,h8gApWqJ,1,0,,,,0
+1486496700,San Giovanni,Faetano,IHc0M2Zm,AwNhcAn3,0,2,,,,0
+1486496700,Fiorentino,Juvenes/Dogana,h8gApWqJ,8AW7ex2o,2,0,,,,0
+1486496700,Cailungo,Libertas,xfd2nhF6,tMgHdBpr,0,2,,,,0
+1486583100,Virtus,Tre Penne,KEDg48Us,YVxpougo,0,6,,,,0
+1486583100,Pennarossa,Cosmos,lE5HhTyt,2LkHQV7j,4,1,,,,0
+1486583100,La Fiorita,Murata,IqhLeVal,zHvNYsXt,4,1,,,,0
+1486583100,Domagnano,Folgore,lMD1XBvn,h8gApWqJ,2,1,,,,0
+1488397500,La Fiorita,Murata,IqhLeVal,zHvNYsXt,4,1,,,,0
+1489002300,Murata,Tre Fiori,zHvNYsXt,4nHGwTWE,1,2,,,,0
+1489520700,Juvenes/Dogana,Folgore,8AW7ex2o,h8gApWqJ,1,2,,,,0
+1489520700,Fiorentino,Domagnano,h8gApWqJ,lMD1XBvn,1,1,,,,0
+1489607100,Tre Fiori,La Fiorita,4nHGwTWE,IqhLeVal,3,2,,,,0
+1489607100,San Giovanni,Virtus,IHc0M2Zm,KEDg48Us,1,0,,,,0
+1489607100,Pennarossa,Cailungo,lE5HhTyt,xfd2nhF6,3,1,,,,0
+1489607100,Faetano,Tre Penne,AwNhcAn3,YVxpougo,1,5,,,,0
+1489607100,Cosmos,Libertas,2LkHQV7j,tMgHdBpr,0,1,,,,0
+1492627500,Tre Fiori,Pennarossa,4nHGwTWE,lE5HhTyt,3,1,,,,0
+1492627500,La Fiorita,Libertas,IqhLeVal,tMgHdBpr,3,1,,,,0
+1492713900,Tre Penne,Fiorentino,YVxpougo,h8gApWqJ,2,1,,,,0
+1492713900,Faetano,Folgore,AwNhcAn3,h8gApWqJ,2,1,,,,0
+1492866000,Tre Fiori,La Fiorita,4nHGwTWE,IqhLeVal,0,3,,,,0
+1492952400,Tre Penne,Faetano,YVxpougo,AwNhcAn3,2,1,,,,0
+1493232300,La Fiorita,Tre Penne,IqhLeVal,YVxpougo,0,2,,,,0

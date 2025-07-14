@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1477477800,Shahrdari Tabriz,Gilanmehr Fuman F.C.,0,1,,,,0
-1477909800,Qashqai Shiraz,Bargh,0,1,,,,0
-1477909800,Malavan,Tractor,0,1,,,,0
-1477909800,Machine Sazi,Khooneh Be Khooneh,2,1,,,,0
-1477911600,Naft Omidiyeh,Shahrdari Mahshahr,1,2,,,,0
-1477913400,Saipa,Baderan Tehran,2,1,,,,0
-1477919100,Esteghlal F.C.,Mes Kerman,0,0,AET,1,0,0
-1478088000,Paykan,Aluminium Arak,0,1,,,,0
-1478165400,Naft Tehran,Nassaji Mazandaran,1,0,,,,0
-1478169000,Saba Qom,Shohada Garrus Bijar,4,0,,,,0
-1478169000,Naft Gachsaran,Rah Ahan,-,-,WO,,,0
-1478169000,Foolad Yazd,Foolad,1,1,AET,1,2,0
-1478174400,Gol Reyhan Alborz,Zob Ahan,0,1,,,,0
-1478255400,Mes Rafsanjan,Gostaresh,-,-,WO,,,0
-1478259000,Sepahan,Pars Janoobi Jam,1,0,,,,0
-1478259000,Naft M.I.S,Shahr Khodrou,1,0,,,,0
-1479379500,Naft Tehran,Gilanmehr Fuman F.C.,4,0,,,,0
-1479380400,Foolad,Naft Gachsaran,0,0,Pen,0,1,0
-1479463200,Tractor,Bargh,2,0,,,,0
-1479463200,Aluminium Arak,Sepahan,0,0,AET,1,2,0
-1479466800,Shahrdari Mahshahr,Gostaresh,-,-,WO,,,0
-1479466800,Naft M.I.S,Saipa,1,2,,,,0
-1479473400,Esteghlal F.C.,Saba Qom,0,0,Pen,1,0,0
-1479474000,Zob Ahan,Machine Sazi,2,2,AET,3,2,0
-1482228000,Sepahan,Saipa,2,0,,,,0
-1482229800,Naft Gachsaran,Tractor,1,3,,,,0
-1482238200,Naft Tehran,Esteghlal F.C.,1,1,AET,3,2,0
-1482314400,Gostaresh,Zob Ahan,0,2,,,,0
-1483092000,Sepahan,Naft Tehran,0,1,,,,0
-1483182000,Zob Ahan,Tractor,1,1,AET,2,3,0
-1494518400,Tractor,Naft Tehran,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1477477800,Shahrdari Tabriz,Gilanmehr Fuman F.C.,GGcVAB7B,4dbmvfta,0,1,,,,0
+1477909800,Qashqai Shiraz,Bargh,KfiIS6NI,KjyPABje,0,1,,,,0
+1477909800,Malavan,Tractor,EJBKv3VB,YLLRGqLF,0,1,,,,0
+1477909800,Machine Sazi,Khooneh Be Khooneh,ABSRMhBO,WKTNNYeI,2,1,,,,0
+1477911600,Naft Omidiyeh,Shahrdari Mahshahr,rmciwEe5,z7TdeQ8H,1,2,,,,0
+1477913400,Saipa,Baderan Tehran,KjyPABje,zuNMbFy3,2,1,,,,0
+1477919100,Esteghlal F.C.,Mes Kerman,Sdd6AGnq,l4dyMVd3,0,0,AET,1,0,0
+1478088000,Paykan,Aluminium Arak,O0JEb7ZB,Ag1cN3MS,0,1,,,,0
+1478165400,Naft Tehran,Nassaji Mazandaran,tQoe3auG,pnfsJZrF,1,0,,,,0
+1478169000,Saba Qom,Shohada Garrus Bijar,jVX7vgsb,,4,0,,,,0
+1478169000,Naft Gachsaran,Rah Ahan,UD4xtNqD,bV1dJy3I,-,-,WO,,,0
+1478169000,Foolad Yazd,Foolad,UD4xtNqD,0YznNYwc,1,1,AET,1,2,0
+1478174400,Gol Reyhan Alborz,Zob Ahan,IittCzZ9,WCTWdLSD,0,1,,,,0
+1478255400,Mes Rafsanjan,Gostaresh,ptFFGDID,pnfsJZrF,-,-,WO,,,0
+1478259000,Sepahan,Pars Janoobi Jam,bTzLAEkQ,zuNMbFy3,1,0,,,,0
+1478259000,Naft M.I.S,Shahr Khodrou,ABSRMhBO,WKTNNYeI,1,0,,,,0
+1479379500,Naft Tehran,Gilanmehr Fuman F.C.,tQoe3auG,4dbmvfta,4,0,,,,0
+1479380400,Foolad,Naft Gachsaran,0YznNYwc,UD4xtNqD,0,0,Pen,0,1,0
+1479463200,Tractor,Bargh,YLLRGqLF,KjyPABje,2,0,,,,0
+1479463200,Aluminium Arak,Sepahan,Ag1cN3MS,bTzLAEkQ,0,0,AET,1,2,0
+1479466800,Shahrdari Mahshahr,Gostaresh,z7TdeQ8H,pnfsJZrF,-,-,WO,,,0
+1479466800,Naft M.I.S,Saipa,ABSRMhBO,KjyPABje,1,2,,,,0
+1479473400,Esteghlal F.C.,Saba Qom,Sdd6AGnq,jVX7vgsb,0,0,Pen,1,0,0
+1479474000,Zob Ahan,Machine Sazi,WCTWdLSD,ABSRMhBO,2,2,AET,3,2,0
+1482228000,Sepahan,Saipa,bTzLAEkQ,KjyPABje,2,0,,,,0
+1482229800,Naft Gachsaran,Tractor,UD4xtNqD,YLLRGqLF,1,3,,,,0
+1482238200,Naft Tehran,Esteghlal F.C.,tQoe3auG,Sdd6AGnq,1,1,AET,3,2,0
+1482314400,Gostaresh,Zob Ahan,pnfsJZrF,WCTWdLSD,0,2,,,,0
+1483092000,Sepahan,Naft Tehran,bTzLAEkQ,tQoe3auG,0,1,,,,0
+1483182000,Zob Ahan,Tractor,WCTWdLSD,YLLRGqLF,1,1,AET,2,3,0
+1494518400,Tractor,Naft Tehran,YLLRGqLF,tQoe3auG,0,1,,,,0

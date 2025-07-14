@@ -1,43 +1,43 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1654938000,Persis Solo,PSS Sleman,0,0,,,,0
-1654954200,Arema FC,PSM Makassar,0,1,,,,0
-1655024400,Persikabo 1973,Persik Kediri,0,1,,,,0
-1655040600,Persib Bandung,Bali United,1,1,,,,0
-1655110800,PSIS Semarang,Persita,6,1,,,,0
-1655127000,FC Bhayangkara,Persebaya,1,1,,,,0
-1655197200,Barito Putera,RANS Nusantara,1,1,,,,0
-1655213400,Borneo,Madura United,1,0,,,,0
-1655283600,PSM Makassar,Persikabo 1973,0,1,,,,0
-1655299800,Persik Kediri,Arema FC,0,1,,,,0
-1655370000,Persita,PSS Sleman,0,2,,,,0
-1655386200,Bali United,FC Bhayangkara,1,2,,,,0
-1655456400,Dewa United,PSIS Semarang,2,2,,,,0
-1655472600,Persebaya,Persib Bandung,1,3,,,,0
-1655542800,RANS Nusantara,Madura United,0,0,,,,0
-1655559000,Persija Jakarta,Barito Putera,0,2,,,,0
-1655629200,PSM Makassar,Persik Kediri,0,0,,,,0
-1655645400,Persikabo 1973,Arema FC,0,1,,,,0
-1655715600,Persita,Dewa United,2,1,,,,0
-1655731800,Bali United,Persebaya,1,0,,,,0
-1655802000,Persis Solo,PSIS Semarang,1,2,,,,0
-1655818200,FC Bhayangkara,Persib Bandung,0,1,,,,0
-1655888400,Borneo,Barito Putera,0,0,,,,0
-1655904600,RANS Nusantara,Persija Jakarta,5,1,,,,0
-1656061200,Dewa United,Persis Solo,1,1,,,,0
-1656077400,PSIS Semarang,PSS Sleman,5,2,,,,0
-1656147600,Barito Putera,Madura United,1,1,,,,0
-1656163800,Persija Jakarta,Borneo,1,2,,,,0
-1656320400,PSS Sleman,Dewa United,1,0,,,,0
-1656336600,Persis Solo,Persita,0,1,,,,0
-1656406800,Borneo,RANS Nusantara,3,0,,,,0
-1656423000,Madura United,Persija Jakarta,2,1,,,,0
-1656682200,Persib Bandung,PSS Sleman,1,1,Pen,1,2,0
-1656750600,Arema FC,Barito Putera,0,0,Pen,1,0,0
-1656837000,PSIS Semarang,FC Bhayangkara,1,1,Pen,2,1,0
-1656855000,Borneo,PSM Makassar,2,1,,,,0
-1657184400,PSIS Semarang,Arema FC,0,2,,,,0
-1657200600,PSS Sleman,Borneo,0,2,,,,0
-1657528200,Arema FC,PSIS Semarang,2,1,,,,0
-1657546200,Borneo,PSS Sleman,4,0,,,,0
-1657803600,Arema FC,Borneo,1,0,,,,0
-1658062800,Borneo,Arema FC,0,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1654938000,Persis Solo,PSS Sleman,UHp0ZgHn,SlfZ6qG2,0,0,,,,0
+1654954200,Arema FC,PSM Makassar,nm2W7Uxp,KMc81nfp,0,1,,,,0
+1655024400,Persikabo 1973,Persik Kediri,MwO4PyNh,fudV7NWp,0,1,,,,0
+1655040600,Persib Bandung,Bali United,vXPj9hic,pdceGY5b,1,1,,,,0
+1655110800,PSIS Semarang,Persita,l4Qyy5IA,l4Qyy5IA,6,1,,,,0
+1655127000,FC Bhayangkara,Persebaya,UBTLvuxH,jaJfGoOS,1,1,,,,0
+1655197200,Barito Putera,RANS Nusantara,2sRnFBPj,Olo3Iiyd,1,1,,,,0
+1655213400,Borneo,Madura United,lSvymcJg,dEkqbGa9,1,0,,,,0
+1655283600,PSM Makassar,Persikabo 1973,KMc81nfp,MwO4PyNh,0,1,,,,0
+1655299800,Persik Kediri,Arema FC,fudV7NWp,nm2W7Uxp,0,1,,,,0
+1655370000,Persita,PSS Sleman,l4Qyy5IA,SlfZ6qG2,0,2,,,,0
+1655386200,Bali United,FC Bhayangkara,pdceGY5b,UBTLvuxH,1,2,,,,0
+1655456400,Dewa United,PSIS Semarang,lrspFRA0,l4Qyy5IA,2,2,,,,0
+1655472600,Persebaya,Persib Bandung,jaJfGoOS,vXPj9hic,1,3,,,,0
+1655542800,RANS Nusantara,Madura United,Olo3Iiyd,dEkqbGa9,0,0,,,,0
+1655559000,Persija Jakarta,Barito Putera,65biHEjh,2sRnFBPj,0,2,,,,0
+1655629200,PSM Makassar,Persik Kediri,KMc81nfp,fudV7NWp,0,0,,,,0
+1655645400,Persikabo 1973,Arema FC,MwO4PyNh,nm2W7Uxp,0,1,,,,0
+1655715600,Persita,Dewa United,l4Qyy5IA,lrspFRA0,2,1,,,,0
+1655731800,Bali United,Persebaya,pdceGY5b,jaJfGoOS,1,0,,,,0
+1655802000,Persis Solo,PSIS Semarang,UHp0ZgHn,l4Qyy5IA,1,2,,,,0
+1655818200,FC Bhayangkara,Persib Bandung,UBTLvuxH,vXPj9hic,0,1,,,,0
+1655888400,Borneo,Barito Putera,lSvymcJg,2sRnFBPj,0,0,,,,0
+1655904600,RANS Nusantara,Persija Jakarta,Olo3Iiyd,65biHEjh,5,1,,,,0
+1656061200,Dewa United,Persis Solo,lrspFRA0,UHp0ZgHn,1,1,,,,0
+1656077400,PSIS Semarang,PSS Sleman,l4Qyy5IA,SlfZ6qG2,5,2,,,,0
+1656147600,Barito Putera,Madura United,2sRnFBPj,dEkqbGa9,1,1,,,,0
+1656163800,Persija Jakarta,Borneo,65biHEjh,lSvymcJg,1,2,,,,0
+1656320400,PSS Sleman,Dewa United,SlfZ6qG2,lrspFRA0,1,0,,,,0
+1656336600,Persis Solo,Persita,UHp0ZgHn,l4Qyy5IA,0,1,,,,0
+1656406800,Borneo,RANS Nusantara,lSvymcJg,Olo3Iiyd,3,0,,,,0
+1656423000,Madura United,Persija Jakarta,dEkqbGa9,65biHEjh,2,1,,,,0
+1656682200,Persib Bandung,PSS Sleman,vXPj9hic,SlfZ6qG2,1,1,Pen,1,2,0
+1656750600,Arema FC,Barito Putera,nm2W7Uxp,2sRnFBPj,0,0,Pen,1,0,0
+1656837000,PSIS Semarang,FC Bhayangkara,l4Qyy5IA,UBTLvuxH,1,1,Pen,2,1,0
+1656855000,Borneo,PSM Makassar,lSvymcJg,KMc81nfp,2,1,,,,0
+1657184400,PSIS Semarang,Arema FC,l4Qyy5IA,nm2W7Uxp,0,2,,,,0
+1657200600,PSS Sleman,Borneo,SlfZ6qG2,lSvymcJg,0,2,,,,0
+1657528200,Arema FC,PSIS Semarang,nm2W7Uxp,l4Qyy5IA,2,1,,,,0
+1657546200,Borneo,PSS Sleman,lSvymcJg,SlfZ6qG2,4,0,,,,0
+1657803600,Arema FC,Borneo,nm2W7Uxp,lSvymcJg,1,0,,,,0
+1658062800,Borneo,Arema FC,lSvymcJg,nm2W7Uxp,0,0,,,,0

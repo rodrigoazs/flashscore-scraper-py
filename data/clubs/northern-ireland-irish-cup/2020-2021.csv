@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1587996000,Queens Univ.,Bangor FC,-,-,WO,,,0
-1587996000,Larne,Newry City,-,-,WO,,,0
-1587996000,Institute,PSNI,-,-,WO,,,0
-1587996000,H&W Welders,St. James' Swifts,-,-,WO,,,0
-1587996000,Glentoran,Dundela,-,-,WO,,,0
-1587996000,Ards,Dollingstown,-,-,WO,,,0
-1588013100,Warrenpoint,Ballyclare,2,1,,,,0
-1588013100,Linfield,Annagh,2,0,,,,0
-1588013100,Glenavon,Dungannon,1,2,,,,0
-1588013100,Coleraine,Crusaders,0,1,,,,0
-1588013100,Cliftonville,Portstewart,5,1,,,,0
-1588013100,Carrick Rangers,Belfast Celtic,3,0,,,,0
-1588013100,Ballymena,Portadown,4,1,,,,0
-1588339800,Knockbreda,Newington,2,1,,,,0
-1588341600,Loughgall,Banbridge,1,1,Pen,2,1,0
-1588341600,Ballinamallard,Dergview,2,2,Pen,2,3,0
-1588946400,Loughgall,Warrenpoint,1,0,,,,0
-1588946400,Linfield,Dungannon,5,2,,,,0
-1588946400,Larne,Dollingstown,8,1,,,,0
-1588946400,Knockbreda,Crusaders,0,5,,,,0
-1588946400,Dergview,St. James' Swifts,2,0,,,,0
-1588946400,Carrick Rangers,Bangor FC,2,2,Pen,3,2,0
-1588946400,Ballymena,PSNI,5,0,,,,0
-1588955400,Glentoran,Cliftonville,1,0,,,,0
-1589222700,Loughgall,Linfield,1,3,,,,0
-1589222700,Larne,Carrick Rangers,2,1,,,,0
-1589222700,Glentoran,Crusaders,0,1,,,,0
-1589222700,Ballymena,Dergview,5,0,,,,0
-1589814000,Larne,Crusaders,1,1,Pen,2,1,0
-1589828400,Ballymena,Linfield,0,3,,,,0
-1590086700,Larne,Linfield,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1587996000,Queens Univ.,Bangor FC,K4pLpL0b,Ia6rz2Nr,-,-,WO,,,0
+1587996000,Larne,Newry City,6DWdsjIR,MFZ0SgDq,-,-,WO,,,0
+1587996000,Institute,PSNI,zaBJ6qAa,dQmISPG5,-,-,WO,,,0
+1587996000,H&W Welders,St. James' Swifts,MHEAETHP,bHO8x8za,-,-,WO,,,0
+1587996000,Glentoran,Dundela,l2qiVD1D,ncsUUjaJ,-,-,WO,,,0
+1587996000,Ards,Dollingstown,vmx8DHXQ,EgfJi8CI,-,-,WO,,,0
+1588013100,Warrenpoint,Ballyclare,vmx8DHXQ,jcMcJGzT,2,1,,,,0
+1588013100,Linfield,Annagh,GUrKqyjt,0hisEehN,2,0,,,,0
+1588013100,Glenavon,Dungannon,M5KEPeqR,xOaZHl96,1,2,,,,0
+1588013100,Coleraine,Crusaders,l2RHTltM,6BBVz3Rq,0,1,,,,0
+1588013100,Cliftonville,Portstewart,OGT1hbmr,lMaYesoj,5,1,,,,0
+1588013100,Carrick Rangers,Belfast Celtic,xOaZHl96,W0Ju8hMp,3,0,,,,0
+1588013100,Ballymena,Portadown,S0fpxPRE,C6HCzrGT,4,1,,,,0
+1588339800,Knockbreda,Newington,bmudod0I,tdOZ8ytr,2,1,,,,0
+1588341600,Loughgall,Banbridge,0dw4EcIK,M5v0Fw3E,1,1,Pen,2,1,0
+1588341600,Ballinamallard,Dergview,0dw4EcIK,vmx8DHXQ,2,2,Pen,2,3,0
+1588946400,Loughgall,Warrenpoint,0dw4EcIK,vmx8DHXQ,1,0,,,,0
+1588946400,Linfield,Dungannon,GUrKqyjt,xOaZHl96,5,2,,,,0
+1588946400,Larne,Dollingstown,6DWdsjIR,EgfJi8CI,8,1,,,,0
+1588946400,Knockbreda,Crusaders,bmudod0I,6BBVz3Rq,0,5,,,,0
+1588946400,Dergview,St. James' Swifts,vmx8DHXQ,bHO8x8za,2,0,,,,0
+1588946400,Carrick Rangers,Bangor FC,xOaZHl96,Ia6rz2Nr,2,2,Pen,3,2,0
+1588946400,Ballymena,PSNI,S0fpxPRE,dQmISPG5,5,0,,,,0
+1588955400,Glentoran,Cliftonville,l2qiVD1D,OGT1hbmr,1,0,,,,0
+1589222700,Loughgall,Linfield,0dw4EcIK,GUrKqyjt,1,3,,,,0
+1589222700,Larne,Carrick Rangers,6DWdsjIR,xOaZHl96,2,1,,,,0
+1589222700,Glentoran,Crusaders,l2qiVD1D,6BBVz3Rq,0,1,,,,0
+1589222700,Ballymena,Dergview,S0fpxPRE,vmx8DHXQ,5,0,,,,0
+1589814000,Larne,Crusaders,6DWdsjIR,6BBVz3Rq,1,1,Pen,2,1,0
+1589828400,Ballymena,Linfield,S0fpxPRE,GUrKqyjt,0,3,,,,0
+1590086700,Larne,Linfield,6DWdsjIR,GUrKqyjt,1,2,,,,0

@@ -1,18 +1,18 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1219773600,Vaduz C,Balzers B,1,8,,,,0
-1219774500,Triesen,Eschen/Mauren B,3,4,,,,0
-1219858200,Eschen/Mauren C,Vaduz B,0,6,,,,0
-1219860000,Triesenberg B,Balzers C,5,0,,,,0
-1219860900,Triesen C,Schaan Azzurri,1,5,,,,0
-1219947300,Triesen B,Ruggell B,0,2,,,,0
-1221672600,Triesenberg B,Schaan Azzurri,1,6,,,,0
-1221674400,Vaduz B,Eschen/Mauren B,3,0,Awrd,,,0
-1221674400,Ruggell B,Schaan,1,12,,,,0
-1221845400,Triesenberg,Balzers B,2,5,,,,0
-1224612000,Ruggell,Eschen/Mauren,0,5,,,,0
-1224698400,Balzers B,Vaduz,0,8,,,,0
-1225218600,Schaan Azzurri,Balzers,0,1,,,,0
-1225306800,Vaduz B,Schaan,0,8,,,,0
-1240939800,Schaan,Eschen/Mauren,0,5,,,,0
-1241026200,Balzers,Vaduz,0,5,,,,0
-1242918000,Vaduz,Eschen/Mauren,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1219773600,Vaduz C,Balzers B,8lZ1htWt,rZP2ek0r,1,8,,,,0
+1219774500,Triesen,Eschen/Mauren B,AqjFtxfn,63sgPibG,3,4,,,,0
+1219858200,Eschen/Mauren C,Vaduz B,pftcOBDM,nwXfkVLG,0,6,,,,0
+1219860000,Triesenberg B,Balzers C,63sgPibG,EaLcN4la,5,0,,,,0
+1219860900,Triesen C,Schaan Azzurri,n305pudD,A3617qmi,1,5,,,,0
+1219947300,Triesen B,Ruggell B,6VgECcu6,Kx0DT1dm,0,2,,,,0
+1221672600,Triesenberg B,Schaan Azzurri,63sgPibG,A3617qmi,1,6,,,,0
+1221674400,Vaduz B,Eschen/Mauren B,nwXfkVLG,63sgPibG,3,0,Awrd,,,0
+1221674400,Ruggell B,Schaan,Kx0DT1dm,dfVpJtn3,1,12,,,,0
+1221845400,Triesenberg,Balzers B,63sgPibG,rZP2ek0r,2,5,,,,0
+1224612000,Ruggell,Eschen/Mauren,AeSpr1Bt,nqbWG6PS,0,5,,,,0
+1224698400,Balzers B,Vaduz,rZP2ek0r,65Q3Hm59,0,8,,,,0
+1225218600,Schaan Azzurri,Balzers,A3617qmi,ANK4q4Op,0,1,,,,0
+1225306800,Vaduz B,Schaan,nwXfkVLG,dfVpJtn3,0,8,,,,0
+1240939800,Schaan,Eschen/Mauren,dfVpJtn3,nqbWG6PS,0,5,,,,0
+1241026200,Balzers,Vaduz,ANK4q4Op,65Q3Hm59,0,5,,,,0
+1242918000,Vaduz,Eschen/Mauren,65Q3Hm59,nqbWG6PS,2,1,,,,0

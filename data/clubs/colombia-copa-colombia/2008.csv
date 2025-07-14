@@ -1,7 +1,7 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1225312200,Tigres,Once Caldas,0,1,,,,0
-1225312200,Envigado,La Equidad,0,0,,,,0
-1225931400,Once Caldas,Tigres,0,0,,,,0
-1226001600,La Equidad,Envigado,4,1,,,,0
-1226521800,La Equidad,Once Caldas,1,0,,,,0
-1227230100,Once Caldas,La Equidad,3,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1225312200,Tigres,Once Caldas,r7qn5qKU,tnwDCzLD,0,1,,,,0
+1225312200,Envigado,La Equidad,2XZjQRJG,tGWvEQkr,0,0,,,,0
+1225931400,Once Caldas,Tigres,tnwDCzLD,r7qn5qKU,0,0,,,,0
+1226001600,La Equidad,Envigado,tGWvEQkr,2XZjQRJG,4,1,,,,0
+1226521800,La Equidad,Once Caldas,tGWvEQkr,tnwDCzLD,1,0,,,,0
+1227230100,Once Caldas,La Equidad,tnwDCzLD,tGWvEQkr,3,3,,,,0

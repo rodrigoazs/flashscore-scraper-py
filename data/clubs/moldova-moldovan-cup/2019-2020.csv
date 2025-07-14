@@ -1,54 +1,54 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1556892000,Unirea Ungheni,Zaria Balti,3,0,,,,0
-1556978400,Vasieni,Tighina,0,3,,,,0
-1556978400,Speranis,Sparta Chisinau,5,0,,,,0
-1556978400,Soroca,Floresti,0,0,AET,2,3,0
-1556978400,Slobozia,Cahul,0,0,Pen,2,1,0
-1556978400,Riscani,FCM Ungheni,1,4,,,,0
-1556978400,Pleseni,Sireti,1,2,,,,0
-1556978400,Pepeni,Singerei,0,0,Pen,1,2,0
-1556978400,Olimp Comrat,Dacia Buiucani,1,0,,,,0
-1556978400,Maiak Chirsova,Sparta Selemet,1,0,,,,0
-1556978400,Intersport Sanatauca,Iskra Ribnita,0,1,,,,0
-1556978400,Ialoveni,Victoria,0,2,,,,0
-1556978400,Fulger Ialoveni,Sucleia,2,3,,,,0
-1556978400,Flacara Mingir,Real Succes,0,0,AET,0,3,0
-1556978400,Falesti,Drochia,1,1,Pen,2,3,0
-1556978400,Edinet,Granicerul,5,2,,,,0
-1558706400,Unirea Ungheni,Victoria,1,4,,,,0
-1558789200,Speranis,Sucleia,2,2,AET,3,2,0
-1558792800,Tighina,Real Succes,5,0,,,,0
-1558792800,Slobozia,Sireti,1,2,,,,0
-1558792800,Maiak Chirsova,Olimp Comrat,2,0,,,,0
-1558792800,FCM Ungheni,Singerei,3,1,,,,0
-1558792800,Edinet,Floresti,1,1,Pen,2,1,0
-1558792800,Drochia,Iskra Ribnita,1,1,Pen,2,1,0
-1561474800,Speranta Nisporeni,Drochia,6,1,,,,0
-1561474800,Edinet,Milsami,1,3,,,,0
-1561478400,Sheriff Tiraspol,Sireti,12,0,,,,0
-1561482000,Petrocub,Tighina,7,0,,,,0
-1561561200,Speranis,Zimbru Chisinau,2,4,,,,0
-1561561200,Sf.Gheorghe,FCM Ungheni,1,0,,,,0
-1561561200,Dinamo-Auto,Maiak Chirsova,8,0,,,,0
-1561561200,Codru Lozova,Victoria,7,1,,,,0
-1562338800,Victoria,Codru Lozova,0,3,,,,0
-1562338800,Tighina,Petrocub,0,2,,,,0
-1562338800,Drochia,Speranta Nisporeni,0,3,,,,0
-1562342400,Sireti,Sheriff Tiraspol,0,15,,,,0
-1562342400,Milsami,Edinet,6,1,,,,0
-1562425200,FCM Ungheni,Sf.Gheorghe,0,2,,,,0
-1562511600,Zimbru Chisinau,Speranis,5,1,,,,0
-1562511600,Maiak Chirsova,Dinamo-Auto,0,3,,,,0
-1569330000,Zimbru Chisinau,Petrocub,1,2,,,,0
-1569340800,Milsami,Sf.Gheorghe,0,1,,,,0
-1569416400,Codru Lozova,Speranta Nisporeni,2,2,,,,0
-1569427200,Sheriff Tiraspol,Dinamo-Auto,1,0,,,,0
-1572346800,Speranta Nisporeni,Codru Lozova,5,0,,,,0
-1572346800,Dinamo-Auto,Sheriff Tiraspol,0,5,,,,0
-1572433200,Sf.Gheorghe,Milsami,0,0,,,,0
-1572449400,Petrocub,Zimbru Chisinau,3,1,,,,0
-1592748000,Sf.Gheorghe,Speranta Nisporeni,5,2,,,,0
-1592845200,Petrocub,Sheriff Tiraspol,1,0,,,,0
-1593093600,Speranta Nisporeni,Sf.Gheorghe,2,2,,,,0
-1593104400,Sheriff Tiraspol,Petrocub,2,1,,,,0
-1593540000,Petrocub,Sf.Gheorghe,0,0,Pen,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1556892000,Unirea Ungheni,Zaria Balti,htukpewo,hEC4Vnse,3,0,,,,0
+1556978400,Vasieni,Tighina,MN77Zwsf,bThpLBvc,0,3,,,,0
+1556978400,Speranis,Sparta Chisinau,jqkjMnqI,bNHbjWAE,5,0,,,,0
+1556978400,Soroca,Floresti,bTrpXaCE,CSpFv788,0,0,AET,2,3,0
+1556978400,Slobozia,Cahul,02A1xhNG,StxbsfGB,0,0,Pen,2,1,0
+1556978400,Riscani,FCM Ungheni,vg95yCxN,6LUIdcYb,1,4,,,,0
+1556978400,Pleseni,Sireti,vg95yCxN,UmLdVP3G,1,2,,,,0
+1556978400,Pepeni,Singerei,GIhTcNKT,Iq89zWiT,0,0,Pen,1,2,0
+1556978400,Olimp Comrat,Dacia Buiucani,ChjnNSTB,jDSW8vGo,1,0,,,,0
+1556978400,Maiak Chirsova,Sparta Selemet,vg95yCxN,nHw4XhBH,1,0,,,,0
+1556978400,Intersport Sanatauca,Iskra Ribnita,Iq89zWiT,Iq89zWiT,0,1,,,,0
+1556978400,Ialoveni,Victoria,rX83zKRm,GKgzQUqg,0,2,,,,0
+1556978400,Fulger Ialoveni,Sucleia,MN77Zwsf,MN77Zwsf,2,3,,,,0
+1556978400,Flacara Mingir,Real Succes,rknUGlF7,lvTfNEmR,0,0,AET,0,3,0
+1556978400,Falesti,Drochia,GKgzQUqg,0xHu3Dom,1,1,Pen,2,3,0
+1556978400,Edinet,Granicerul,ddlFUp3p,vg95yCxN,5,2,,,,0
+1558706400,Unirea Ungheni,Victoria,htukpewo,GKgzQUqg,1,4,,,,0
+1558789200,Speranis,Sucleia,jqkjMnqI,MN77Zwsf,2,2,AET,3,2,0
+1558792800,Tighina,Real Succes,bThpLBvc,lvTfNEmR,5,0,,,,0
+1558792800,Slobozia,Sireti,02A1xhNG,UmLdVP3G,1,2,,,,0
+1558792800,Maiak Chirsova,Olimp Comrat,vg95yCxN,ChjnNSTB,2,0,,,,0
+1558792800,FCM Ungheni,Singerei,6LUIdcYb,Iq89zWiT,3,1,,,,0
+1558792800,Edinet,Floresti,ddlFUp3p,CSpFv788,1,1,Pen,2,1,0
+1558792800,Drochia,Iskra Ribnita,0xHu3Dom,Iq89zWiT,1,1,Pen,2,1,0
+1561474800,Speranta Nisporeni,Drochia,bNXyIOQ7,0xHu3Dom,6,1,,,,0
+1561474800,Edinet,Milsami,ddlFUp3p,G6lyZe2l,1,3,,,,0
+1561478400,Sheriff Tiraspol,Sireti,zVD8QVhN,UmLdVP3G,12,0,,,,0
+1561482000,Petrocub,Tighina,0KH3wM5q,bThpLBvc,7,0,,,,0
+1561561200,Speranis,Zimbru Chisinau,jqkjMnqI,QcBOsqL0,2,4,,,,0
+1561561200,Sf.Gheorghe,FCM Ungheni,E5dQHTcd,6LUIdcYb,1,0,,,,0
+1561561200,Dinamo-Auto,Maiak Chirsova,GKJk5gu7,vg95yCxN,8,0,,,,0
+1561561200,Codru Lozova,Victoria,Iq89zWiT,GKgzQUqg,7,1,,,,0
+1562338800,Victoria,Codru Lozova,GKgzQUqg,Iq89zWiT,0,3,,,,0
+1562338800,Tighina,Petrocub,bThpLBvc,0KH3wM5q,0,2,,,,0
+1562338800,Drochia,Speranta Nisporeni,0xHu3Dom,bNXyIOQ7,0,3,,,,0
+1562342400,Sireti,Sheriff Tiraspol,UmLdVP3G,zVD8QVhN,0,15,,,,0
+1562342400,Milsami,Edinet,G6lyZe2l,ddlFUp3p,6,1,,,,0
+1562425200,FCM Ungheni,Sf.Gheorghe,6LUIdcYb,E5dQHTcd,0,2,,,,0
+1562511600,Zimbru Chisinau,Speranis,QcBOsqL0,jqkjMnqI,5,1,,,,0
+1562511600,Maiak Chirsova,Dinamo-Auto,vg95yCxN,GKJk5gu7,0,3,,,,0
+1569330000,Zimbru Chisinau,Petrocub,QcBOsqL0,0KH3wM5q,1,2,,,,0
+1569340800,Milsami,Sf.Gheorghe,G6lyZe2l,E5dQHTcd,0,1,,,,0
+1569416400,Codru Lozova,Speranta Nisporeni,Iq89zWiT,bNXyIOQ7,2,2,,,,0
+1569427200,Sheriff Tiraspol,Dinamo-Auto,zVD8QVhN,GKJk5gu7,1,0,,,,0
+1572346800,Speranta Nisporeni,Codru Lozova,bNXyIOQ7,Iq89zWiT,5,0,,,,0
+1572346800,Dinamo-Auto,Sheriff Tiraspol,GKJk5gu7,zVD8QVhN,0,5,,,,0
+1572433200,Sf.Gheorghe,Milsami,E5dQHTcd,G6lyZe2l,0,0,,,,0
+1572449400,Petrocub,Zimbru Chisinau,0KH3wM5q,QcBOsqL0,3,1,,,,0
+1592748000,Sf.Gheorghe,Speranta Nisporeni,E5dQHTcd,bNXyIOQ7,5,2,,,,0
+1592845200,Petrocub,Sheriff Tiraspol,0KH3wM5q,zVD8QVhN,1,0,,,,0
+1593093600,Speranta Nisporeni,Sf.Gheorghe,bNXyIOQ7,E5dQHTcd,2,2,,,,0
+1593104400,Sheriff Tiraspol,Petrocub,zVD8QVhN,0KH3wM5q,2,1,,,,0
+1593540000,Petrocub,Sf.Gheorghe,0KH3wM5q,E5dQHTcd,0,0,Pen,1,0,0

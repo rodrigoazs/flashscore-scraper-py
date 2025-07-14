@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1279706400,Jeonbuk,Gangneung,2,1,,,,0
-1279706400,Jeju SK,Ulsan HD,1,0,,,,0
-1279706400,Gyeongnam,Jeonnam,4,7,,,,0
-1279706400,Gimcheon Sangmu,Pohang,1,1,AET,2,1,0
-1279706400,Daejeon,Seongnam,0,3,,,,0
-1279706400,Busan,Seoul,2,1,,,,0
-1279708200,Suwon Bluewings,Suwon FC,4,1,,,,0
-1279708200,Incheon,Gyeongju KHNP,2,0,,,,0
-1282125600,Jeonnam,Gimcheon Sangmu,2,1,,,,0
-1282127400,Suwon Bluewings,Jeonbuk,2,0,,,,0
-1282127400,Seongnam,Jeju SK,0,2,,,,0
-1282129200,Busan,Incheon,1,1,AET,2,1,0
-1285754400,Suwon Bluewings,Jeju SK,0,0,Pen,1,0,0
-1285754400,Busan,Jeonnam,1,1,AET,3,2,0
-1287961200,Busan,Suwon Bluewings,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1279706400,Jeonbuk,Gangneung,fm8Q2TnU,WpVyfe72,2,1,,,,0
+1279706400,Jeju SK,Ulsan HD,nFQt27sT,0hHJPkl1,1,0,,,,0
+1279706400,Gyeongnam,Jeonnam,OlLDanjn,0fjMSYzR,4,7,,,,0
+1279706400,Gimcheon Sangmu,Pohang,UNadZKxs,lG6iYHm8,1,1,AET,2,1,0
+1279706400,Daejeon,Seongnam,l6HzCrRi,l04KlBA6,0,3,,,,0
+1279706400,Busan,Seoul,23xlOhqr,8rKfsneA,2,1,,,,0
+1279708200,Suwon Bluewings,Suwon FC,nuOc3CG5,C8xz9kft,4,1,,,,0
+1279708200,Incheon,Gyeongju KHNP,U904kONG,nml9t5he,2,0,,,,0
+1282125600,Jeonnam,Gimcheon Sangmu,0fjMSYzR,UNadZKxs,2,1,,,,0
+1282127400,Suwon Bluewings,Jeonbuk,nuOc3CG5,fm8Q2TnU,2,0,,,,0
+1282127400,Seongnam,Jeju SK,l04KlBA6,nFQt27sT,0,2,,,,0
+1282129200,Busan,Incheon,23xlOhqr,U904kONG,1,1,AET,2,1,0
+1285754400,Suwon Bluewings,Jeju SK,nuOc3CG5,nFQt27sT,0,0,Pen,1,0,0
+1285754400,Busan,Jeonnam,23xlOhqr,0fjMSYzR,1,1,AET,3,2,0
+1287961200,Busan,Suwon Bluewings,23xlOhqr,nuOc3CG5,0,1,,,,0

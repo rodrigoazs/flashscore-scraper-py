@@ -1,22 +1,22 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1516618800,Al-Ittihad Aleppo,Foutoua,2,4,,,,0
-1516878000,Tishreen,Musfat Baniyas,11,0,,,,0
-1516878000,Jableh,Al Wahda,0,6,,,,0
-1516878000,Herafio Halab,Al Jaish,0,2,,,,0
-1516878000,Al Shorta,Wathbah,1,3,,,,0
-1516878000,Al Karamah,Al Salamiyah,9,0,,,,0
-1516964400,Al Nawaeir,Al-Sahel,1,0,,,,0
-1516964400,Al Majd,Al Taliya,1,5,,,,0
-1522321200,Al Nawaeir,Foutoua,1,0,,,,0
-1522411200,Al Wahda,Wathbah,1,0,,,,0
-1522429200,Tishreen,Al Karamah,2,0,,,,0
-1525687200,Foutoua,Al Nawaeir,0,3,Awrd,,,0
-1526990400,Al Jaish,Al Taliya,2,1,,,,0
-1527188400,Wathbah,Al Wahda,3,1,,,,0
-1527274800,Al Karamah,Tishreen,1,0,,,,0
-1527339600,Al Taliya,Al Jaish,2,1,Pen,3,1,0
-1527858000,Al Nawaeir,Wathbah,1,1,,,,0
-1527879600,Tishreen,Al Taliya,1,1,,,,0
-1529071200,Al Taliya,Tishreen,0,0,,,,0
-1529083800,Wathbah,Al Nawaeir,3,1,,,,0
-1530207000,Al Taliya,Wathbah,1,1,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1516618800,Al-Ittihad Aleppo,Foutoua,MH0Vdx1R,SjuCZONf,2,4,,,,0
+1516878000,Tishreen,Musfat Baniyas,0dNGO5kF,rRFzdAnI,11,0,,,,0
+1516878000,Jableh,Al Wahda,xMpp7wKs,ID9vdxZP,0,6,,,,0
+1516878000,Herafio Halab,Al Jaish,ImbzAecn,AwNhcAn3,0,2,,,,0
+1516878000,Al Shorta,Wathbah,pf2RcIoL,0b0qm28q,1,3,,,,0
+1516878000,Al Karamah,Al Salamiyah,zgpeJZUE,,9,0,,,,0
+1516964400,Al Nawaeir,Al-Sahel,MH0Vdx1R,zgpeJZUE,1,0,,,,0
+1516964400,Al Majd,Al Taliya,MH0Vdx1R,pf2RcIoL,1,5,,,,0
+1522321200,Al Nawaeir,Foutoua,MH0Vdx1R,SjuCZONf,1,0,,,,0
+1522411200,Al Wahda,Wathbah,ID9vdxZP,0b0qm28q,1,0,,,,0
+1522429200,Tishreen,Al Karamah,0dNGO5kF,zgpeJZUE,2,0,,,,0
+1525687200,Foutoua,Al Nawaeir,SjuCZONf,MH0Vdx1R,0,3,Awrd,,,0
+1526990400,Al Jaish,Al Taliya,AwNhcAn3,pf2RcIoL,2,1,,,,0
+1527188400,Wathbah,Al Wahda,0b0qm28q,ID9vdxZP,3,1,,,,0
+1527274800,Al Karamah,Tishreen,zgpeJZUE,0dNGO5kF,1,0,,,,0
+1527339600,Al Taliya,Al Jaish,pf2RcIoL,AwNhcAn3,2,1,Pen,3,1,0
+1527858000,Al Nawaeir,Wathbah,MH0Vdx1R,0b0qm28q,1,1,,,,0
+1527879600,Tishreen,Al Taliya,0dNGO5kF,pf2RcIoL,1,1,,,,0
+1529071200,Al Taliya,Tishreen,pf2RcIoL,0dNGO5kF,0,0,,,,0
+1529083800,Wathbah,Al Nawaeir,0b0qm28q,MH0Vdx1R,3,1,,,,0
+1530207000,Al Taliya,Wathbah,pf2RcIoL,0b0qm28q,1,1,Pen,1,2,0

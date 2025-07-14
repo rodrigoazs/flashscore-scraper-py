@@ -1,61 +1,61 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1039215600,Stranraer,Whitehill Welfare,1,1,,,,0
-1039215600,Selkirk,Cowdenbeath,1,4,,,,0
-1039215600,Preston Athletic,Hamilton,0,1,,,,0
-1039215600,Forfar Athletic,Huntly,3,1,,,,0
-1039215600,East Stirlingshire,Threave Rovers,1,1,,,,0
-1039273200,Stenhousemuir,Brechin,4,1,,,,0
-1039273200,Raith,Dumbarton,1,0,,,,0
-1039273200,Montrose,Berwick,2,1,,,,0
-1039820400,Whitehill Welfare,Stranraer,2,3,,,,0
-1039820400,Threave Rovers,East Stirlingshire,2,1,,,,0
-1041634800,Keith,Cowdenbeath,1,3,,,,0
-1041692400,Queen's Park,Albion Rovers,1,1,,,,0
-1042297200,Peterhead,Elgin City,1,0,,,,0
-1042486200,Stranraer,Stirling,4,1,,,,0
-1042486200,Forfar Athletic,Stenhousemuir,3,1,,,,0
-1042487100,Raith,Montrose,3,1,,,,0
-1042488000,Morton,Deveronvale,4,3,,,,0
-1042498800,Airdrieonians,Threave Rovers,1,0,,,,0
-1042573500,Albion Rovers,Queen's Park,0,2,,,,0
-1042659900,Hamilton,East Fife,1,1,,,,0
-1043091900,East Fife,Hamilton,2,2,AET,2,3,0
-1043506800,Ross County,Morton,1,2,,,,0
-1043506800,Queen's Park,Hamilton,2,2,,,,0
-1043506800,Queen of South,Aberdeen,0,0,,,,0
-1043506800,Partick Thistle,Dundee FC,0,2,,,,0
-1043506800,Livingston,Dunfermline,1,1,,,,0
-1043506800,Kilmarnock,Motherwell,0,1,,,,0
-1043506800,Inverness,Raith,2,0,,,,0
-1043506800,Gretna,Clyde,1,2,,,,0
-1043506800,Forfar Athletic,Stranraer,2,2,,,,0
-1043506800,Falkirk,Hearts,4,0,,,,0
-1043506800,Dundee Utd,Hibernian,2,3,,,,0
-1043506800,Cowdenbeath,Alloa,2,3,,,,0
-1043506800,Celtic,St. Mirren,3,0,,,,0
-1043506800,Ayr,Peterhead,2,0,,,,0
-1043506800,Airdrieonians,St Johnstone,1,1,,,,0
-1043516100,Arbroath,Rangers,0,3,,,,0
-1044387000,Dunfermline,Livingston,2,0,,,,0
-1044387900,St Johnstone,Airdrieonians,1,1,,,,0
-1044905400,Hamilton,Queen's Park,3,2,,,,0
-1045510200,Stranraer,Forfar Athletic,1,0,,,,0
-1045597500,Aberdeen,Queen of South,4,1,,,,0
-1045926000,Morton,Stranraer,0,2,,,,0
-1045926000,Inverness,Hamilton,6,1,,,,0
-1045926000,Dundee FC,Aberdeen,2,0,,,,0
-1045926000,Clyde,Motherwell,0,2,,,,0
-1045926000,Ayr,Rangers,0,1,,,,0
-1045926000,Alloa,Falkirk,0,2,,,,0
-1045935300,Dunfermline,Hibernian,1,1,,,,0
-1046012400,Celtic,St Johnstone,3,0,,,,0
-1046979900,Hibernian,Dunfermline,0,2,,,,0
-1048345200,Stranraer,Motherwell,0,4,,,,0
-1048345200,Falkirk,Dundee FC,1,1,,,,0
-1048431600,Dunfermline,Rangers,1,1,,,,0
-1048443300,Inverness,Celtic,1,0,,,,0
-1049913900,Rangers,Dunfermline,3,0,,,,0
-1049913900,Dundee FC,Falkirk,1,1,AET,4,1,0
-1050751800,Rangers,Motherwell,4,3,,,,0
-1050847200,Dundee FC,Inverness,1,0,,,,0
-1054389600,Rangers,Dundee FC,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1039215600,Stranraer,Whitehill Welfare,4M7UJcW5,MX4SMmJT,1,1,,,,0
+1039215600,Selkirk,Cowdenbeath,jm9EMzbd,4SnLNmG8,1,4,,,,0
+1039215600,Preston Athletic,Hamilton,nwcq2Drl,tYZ13jc5,0,1,,,,0
+1039215600,Forfar Athletic,Huntly,4SnLNmG8,I5qPSqos,3,1,,,,0
+1039215600,East Stirlingshire,Threave Rovers,x4XgfYjj,j7cmbvO8,1,1,,,,0
+1039273200,Stenhousemuir,Brechin,O2l6wJsK,QylHOT02,4,1,,,,0
+1039273200,Raith,Dumbarton,jTpNdhFI,4SnLNmG8,1,0,,,,0
+1039273200,Montrose,Berwick,4SnLNmG8,4SnLNmG8,2,1,,,,0
+1039820400,Whitehill Welfare,Stranraer,MX4SMmJT,4M7UJcW5,2,3,,,,0
+1039820400,Threave Rovers,East Stirlingshire,j7cmbvO8,x4XgfYjj,2,1,,,,0
+1041634800,Keith,Cowdenbeath,nwcq2Drl,4SnLNmG8,1,3,,,,0
+1041692400,Queen's Park,Albion Rovers,b3iJIZkd,QyEyGyc2,1,1,,,,0
+1042297200,Peterhead,Elgin City,QylHOT02,tjoPM7VE,1,0,,,,0
+1042486200,Stranraer,Stirling,4M7UJcW5,4SnLNmG8,4,1,,,,0
+1042486200,Forfar Athletic,Stenhousemuir,4SnLNmG8,O2l6wJsK,3,1,,,,0
+1042487100,Raith,Montrose,jTpNdhFI,4SnLNmG8,3,1,,,,0
+1042488000,Morton,Deveronvale,bDGTe4kB,001iJFE0,4,3,,,,0
+1042498800,Airdrieonians,Threave Rovers,AB4EluEP,j7cmbvO8,1,0,,,,0
+1042573500,Albion Rovers,Queen's Park,QyEyGyc2,b3iJIZkd,0,2,,,,0
+1042659900,Hamilton,East Fife,tYZ13jc5,4SnLNmG8,1,1,,,,0
+1043091900,East Fife,Hamilton,4SnLNmG8,tYZ13jc5,2,2,AET,2,3,0
+1043506800,Ross County,Morton,Q3IZ4oST,bDGTe4kB,1,2,,,,0
+1043506800,Queen's Park,Hamilton,b3iJIZkd,tYZ13jc5,2,2,,,,0
+1043506800,Queen of South,Aberdeen,vLBOqDG6,SQqfdcHF,0,0,,,,0
+1043506800,Partick Thistle,Dundee FC,bDGTe4kB,YRhqOgYr,0,2,,,,0
+1043506800,Livingston,Dunfermline,2gmAxwcQ,vZ6gsKf8,1,1,,,,0
+1043506800,Kilmarnock,Motherwell,xAfKntqE,xGFNNID8,0,1,,,,0
+1043506800,Inverness,Raith,O2l6wJsK,jTpNdhFI,2,0,,,,0
+1043506800,Gretna,Clyde,Y11yEfjj,O2l6wJsK,1,2,,,,0
+1043506800,Forfar Athletic,Stranraer,4SnLNmG8,4M7UJcW5,2,2,,,,0
+1043506800,Falkirk,Hearts,EVwfgUro,GlTeTYJC,4,0,,,,0
+1043506800,Dundee Utd,Hibernian,hEvkcVY1,CS2l9ZrP,2,3,,,,0
+1043506800,Cowdenbeath,Alloa,4SnLNmG8,QylHOT02,2,3,,,,0
+1043506800,Celtic,St. Mirren,xGFNNID8,tOCheaQB,3,0,,,,0
+1043506800,Ayr,Peterhead,Q59cxq9h,QylHOT02,2,0,,,,0
+1043506800,Airdrieonians,St Johnstone,AB4EluEP,CdY02UC4,1,1,,,,0
+1043516100,Arbroath,Rangers,E94hWz6b,fFCBVa82,0,3,,,,0
+1044387000,Dunfermline,Livingston,vZ6gsKf8,2gmAxwcQ,2,0,,,,0
+1044387900,St Johnstone,Airdrieonians,CdY02UC4,AB4EluEP,1,1,,,,0
+1044905400,Hamilton,Queen's Park,tYZ13jc5,b3iJIZkd,3,2,,,,0
+1045510200,Stranraer,Forfar Athletic,4M7UJcW5,4SnLNmG8,1,0,,,,0
+1045597500,Aberdeen,Queen of South,SQqfdcHF,vLBOqDG6,4,1,,,,0
+1045926000,Morton,Stranraer,bDGTe4kB,4M7UJcW5,0,2,,,,0
+1045926000,Inverness,Hamilton,O2l6wJsK,tYZ13jc5,6,1,,,,0
+1045926000,Dundee FC,Aberdeen,YRhqOgYr,SQqfdcHF,2,0,,,,0
+1045926000,Clyde,Motherwell,O2l6wJsK,xGFNNID8,0,2,,,,0
+1045926000,Ayr,Rangers,Q59cxq9h,fFCBVa82,0,1,,,,0
+1045926000,Alloa,Falkirk,QylHOT02,EVwfgUro,0,2,,,,0
+1045935300,Dunfermline,Hibernian,vZ6gsKf8,CS2l9ZrP,1,1,,,,0
+1046012400,Celtic,St Johnstone,xGFNNID8,CdY02UC4,3,0,,,,0
+1046979900,Hibernian,Dunfermline,CS2l9ZrP,vZ6gsKf8,0,2,,,,0
+1048345200,Stranraer,Motherwell,4M7UJcW5,xGFNNID8,0,4,,,,0
+1048345200,Falkirk,Dundee FC,EVwfgUro,YRhqOgYr,1,1,,,,0
+1048431600,Dunfermline,Rangers,vZ6gsKf8,fFCBVa82,1,1,,,,0
+1048443300,Inverness,Celtic,O2l6wJsK,xGFNNID8,1,0,,,,0
+1049913900,Rangers,Dunfermline,fFCBVa82,vZ6gsKf8,3,0,,,,0
+1049913900,Dundee FC,Falkirk,YRhqOgYr,EVwfgUro,1,1,AET,4,1,0
+1050751800,Rangers,Motherwell,fFCBVa82,xGFNNID8,4,3,,,,0
+1050847200,Dundee FC,Inverness,YRhqOgYr,O2l6wJsK,1,0,,,,0
+1054389600,Rangers,Dundee FC,fFCBVa82,YRhqOgYr,1,0,,,,0

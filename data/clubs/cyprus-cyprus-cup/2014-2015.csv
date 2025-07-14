@@ -1,40 +1,40 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1414584000,Zakakiou,Doxa,2,3,,,,0
-1414584000,Pafos,Othellos Athienou,0,3,,,,0
-1414584000,Karmiotissa,Paralimni,2,1,,,,0
-1414584000,Erimis,Anagennisi Derynia,3,3,AET,3,4,0
-1414584000,ENAD,Anorthosis,2,4,,,,0
-1414584000,Elpida Xylofagou,Nea Salamis,1,4,,,,0
-1414584000,Ayia Napa,Parekklisia,3,1,,,,0
-1414584000,APEP,Ol. Nicosia,0,1,,,,0
-1414587600,Voroklinis,Omonia Aradippou,0,0,Pen,1,0,0
-1415188800,Achnas,Aris,3,0,,,,0
-1420635600,Karmiotissa,Anagennisi Derynia,2,1,,,,0
-1420642800,Doxa,Ermis,1,3,,,,0
-1420642800,Apollon,Othellos Athienou,1,1,,,,0
-1420650000,AEK Larnaca,Nea Salamis,1,0,,,,0
-1421236800,Anagennisi Derynia,Karmiotissa,0,1,,,,0
-1421240400,Voroklinis,Anorthosis,1,2,,,,0
-1421240400,Ol. Nicosia,APOEL,0,1,,,,0
-1421244000,Ermis,Doxa,2,0,,,,0
-1421247600,Omonia,Ayia Napa,4,0,,,,0
-1421251200,Nea Salamis,AEK Larnaca,0,1,,,,0
-1421254800,AEL Limassol,Achnas,1,0,,,,0
-1422453600,Achnas,AEL Limassol,2,2,,,,0
-1422460800,Othellos Athienou,Apollon,2,1,,,,0
-1422464400,APOEL,Ol. Nicosia,3,0,,,,0
-1423062000,Anorthosis,Voroklinis,2,0,,,,0
-1423069200,Ayia Napa,Omonia,0,5,,,,0
-1423666800,Othellos Athienou,AEK Larnaca,1,1,,,,0
-1423666800,Omonia,Karmiotissa,2,0,,,,0
-1424268000,AEK Larnaca,Othellos Athienou,4,0,,,,0
-1424271600,Karmiotissa,Omonia,0,5,,,,0
-1424275200,AEL Limassol,Ermis,1,0,,,,0
-1425483000,Anorthosis,APOEL,0,0,,,,0
-1425488400,Ermis,AEL Limassol,1,1,,,,0
-1426087800,APOEL,Anorthosis,2,0,,,,0
-1428501600,APOEL,Omonia,3,0,,,,0
-1428508800,AEK Larnaca,AEL Limassol,2,2,,,,0
-1429711200,Omonia,APOEL,0,0,,,,0
-1429714800,AEL Limassol,AEK Larnaca,1,1,,,,0
-1432137600,APOEL,AEL Limassol,4,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1414584000,Zakakiou,Doxa,fevv2dQD,nsVKnzpo,2,3,,,,0
+1414584000,Pafos,Othellos Athienou,dOOzPK2E,6sbsCvif,0,3,,,,0
+1414584000,Karmiotissa,Paralimni,lb9Frd2K,p2SoLYBg,2,1,,,,0
+1414584000,Erimis,Anagennisi Derynia,YTiR8NgD,2sFyMeUm,3,3,AET,3,4,0
+1414584000,ENAD,Anorthosis,4ljzTv36,pEI2BJMo,2,4,,,,0
+1414584000,Elpida Xylofagou,Nea Salamis,0tg48odm,AoqqSdQE,1,4,,,,0
+1414584000,Ayia Napa,Parekklisia,AoqqSdQE,MyH8dzNu,3,1,,,,0
+1414584000,APEP,Ol. Nicosia,lpWfqvHN,l2Xtf5Mh,0,1,,,,0
+1414587600,Voroklinis,Omonia Aradippou,YBtjZ6B0,lULddU19,0,0,Pen,1,0,0
+1415188800,Achnas,Aris,zFems01k,GxoBo0zo,3,0,,,,0
+1420635600,Karmiotissa,Anagennisi Derynia,lb9Frd2K,2sFyMeUm,2,1,,,,0
+1420642800,Doxa,Ermis,nsVKnzpo,zTKhjTI3,1,3,,,,0
+1420642800,Apollon,Othellos Athienou,x4Xh4Pu0,6sbsCvif,1,1,,,,0
+1420650000,AEK Larnaca,Nea Salamis,rgYuXGKm,AoqqSdQE,1,0,,,,0
+1421236800,Anagennisi Derynia,Karmiotissa,2sFyMeUm,lb9Frd2K,0,1,,,,0
+1421240400,Voroklinis,Anorthosis,YBtjZ6B0,pEI2BJMo,1,2,,,,0
+1421240400,Ol. Nicosia,APOEL,l2Xtf5Mh,dM5j1Xkq,0,1,,,,0
+1421244000,Ermis,Doxa,zTKhjTI3,nsVKnzpo,2,0,,,,0
+1421247600,Omonia,Ayia Napa,8GeT5Kmk,AoqqSdQE,4,0,,,,0
+1421251200,Nea Salamis,AEK Larnaca,AoqqSdQE,rgYuXGKm,0,1,,,,0
+1421254800,AEL Limassol,Achnas,jZcv4JNH,zFems01k,1,0,,,,0
+1422453600,Achnas,AEL Limassol,zFems01k,jZcv4JNH,2,2,,,,0
+1422460800,Othellos Athienou,Apollon,6sbsCvif,x4Xh4Pu0,2,1,,,,0
+1422464400,APOEL,Ol. Nicosia,dM5j1Xkq,l2Xtf5Mh,3,0,,,,0
+1423062000,Anorthosis,Voroklinis,pEI2BJMo,YBtjZ6B0,2,0,,,,0
+1423069200,Ayia Napa,Omonia,AoqqSdQE,8GeT5Kmk,0,5,,,,0
+1423666800,Othellos Athienou,AEK Larnaca,6sbsCvif,rgYuXGKm,1,1,,,,0
+1423666800,Omonia,Karmiotissa,8GeT5Kmk,lb9Frd2K,2,0,,,,0
+1424268000,AEK Larnaca,Othellos Athienou,rgYuXGKm,6sbsCvif,4,0,,,,0
+1424271600,Karmiotissa,Omonia,lb9Frd2K,8GeT5Kmk,0,5,,,,0
+1424275200,AEL Limassol,Ermis,jZcv4JNH,zTKhjTI3,1,0,,,,0
+1425483000,Anorthosis,APOEL,pEI2BJMo,dM5j1Xkq,0,0,,,,0
+1425488400,Ermis,AEL Limassol,zTKhjTI3,jZcv4JNH,1,1,,,,0
+1426087800,APOEL,Anorthosis,dM5j1Xkq,pEI2BJMo,2,0,,,,0
+1428501600,APOEL,Omonia,dM5j1Xkq,8GeT5Kmk,3,0,,,,0
+1428508800,AEK Larnaca,AEL Limassol,rgYuXGKm,jZcv4JNH,2,2,,,,0
+1429711200,Omonia,APOEL,8GeT5Kmk,dM5j1Xkq,0,0,,,,0
+1429714800,AEL Limassol,AEK Larnaca,jZcv4JNH,rgYuXGKm,1,1,,,,0
+1432137600,APOEL,AEL Limassol,dM5j1Xkq,jZcv4JNH,4,2,,,,0

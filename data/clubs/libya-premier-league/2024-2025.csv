@@ -1,0 +1,356 @@
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1733922000,Wefaq Ajdabiya,Al Nasr,rLtMngvn,8hmaPcYe,0,1,,,,0
+1733923800,Abu Salim,Olympic Azzaweya,4YRfenCj,tKK7S7KS,0,1,,,,0
+1733929200,Al Tahaddi,Khaleej Sirte,xUU6QNkK,hGmL9lJC,2,0,,,,0
+1733931000,Al-Tirsana,Shabab Al-Ghar,AD9YOedP,MTfvSSZs,2,2,,,,0
+1734006600,Al-Suqoor,Al-Anwar,WbMnDqvp,UNk9hvUA,1,1,,,,0
+1734008400,Al Ansar,Al Akhdar,dUF10lea,fFGnXfBc,1,3,,,,0
+1734010200,Al Nahda,Al Bashaer,QFS8aRMI,CjeghYbS,0,2,,,,0
+1734017400,Al-Ittihad,Al-Majd,dlMwRnhD,b3FCoaEs,2,1,,,,0
+1734094800,Al Mahdia,Al Hilal Benghazi,KpfSNRof,8IzCPxmc,0,2,,,,0
+1734096600,Al-Khmes,Al Watan,vaADpjaO,UT6BVMsQ,1,0,,,,0
+1734102000,Al Ahly Benghazi,Al Taawun,QHFBrDj7,4CQGUUNF,2,0,,,,0
+1734103800,Abi Al Ashar,Al Dahra,4CQGUUNF,CpWC5ltf,0,0,,,,0
+1734181200,Al Sadaqa,Al Branes,vD5rrcwQ,t4hTa6tL,2,0,,,,0
+1734181200,Al Murooj,Al-Andalus,6ofPMRKb,dKAAhb8r,2,2,,,,0
+1734183000,Asaria,Al Madina,fZbJUB9H,4CQGUUNF,1,1,,,,0
+1734190200,Al Malaab El Libby,Al Ahly Tripoli,bDC4nYhM,EmmZhJCB,0,3,,,,0
+1734440400,Al-Anwar,Wefaq Ajdabiya,UNk9hvUA,rLtMngvn,2,1,,,,0
+1734440400,Al Akhdar,Al-Suqoor,fFGnXfBc,WbMnDqvp,2,1,,,,0
+1734442200,Olympic Azzaweya,Al-Ittihad,tKK7S7KS,dlMwRnhD,1,0,,,,0
+1734449400,Asswehly,Abu Salim,4CQGUUNF,4YRfenCj,3,1,,,,0
+1734526800,Khaleej Sirte,Al Ansar,hGmL9lJC,dUF10lea,2,0,Awrd,,,0
+1734526800,Al Borouq,Al Tahaddi,tvNoCWyL,xUU6QNkK,0,0,,,,0
+1734528600,Al-Majd,Al-Tirsana,b3FCoaEs,AD9YOedP,0,2,,,,0
+1734535800,Shabab Al-Ghar,Al Nahda,MTfvSSZs,QFS8aRMI,2,0,,,,0
+1734611400,Al-Andalus,Al Sadaqa,dKAAhb8r,vD5rrcwQ,2,0,,,,0
+1734613200,Al Branes,Al Mahdia,t4hTa6tL,KpfSNRof,2,0,Awrd,,,0
+1734615000,Al Watan,Abi Al Ashar,UT6BVMsQ,4CQGUUNF,2,0,,,,0
+1734622200,Al Ahly Tripoli,Asaria,EmmZhJCB,fZbJUB9H,5,0,,,,0
+1734699600,Al Taawun,Al Hilal Benghazi,4CQGUUNF,8IzCPxmc,2,1,,,,0
+1734701400,Al Dahra,Al Malaab El Libby,CpWC5ltf,bDC4nYhM,0,0,,,,0
+1734706800,Al Ahly Benghazi,Al Murooj,QHFBrDj7,6ofPMRKb,3,0,,,,0
+1734714000,Al Madina,Al Ittihad Misurata,4CQGUUNF,pOiFu7J9,3,1,,,,0
+1734958800,Al Ansar,Al Borouq,dUF10lea,tvNoCWyL,1,0,,,,0
+1734960600,Al Bashaer,Shabab Al-Ghar,CjeghYbS,MTfvSSZs,0,0,,,,0
+1734967800,Al-Ittihad,Asswehly,dlMwRnhD,4CQGUUNF,0,1,,,,0
+1734973200,Al Nasr,Al-Anwar,8hmaPcYe,UNk9hvUA,3,1,,,,0
+1735043400,Al-Suqoor,Khaleej Sirte,WbMnDqvp,hGmL9lJC,2,1,,,,0
+1735045200,Wefaq Ajdabiya,Al Akhdar,rLtMngvn,fFGnXfBc,0,2,Awrd,,,0
+1735047000,Al Nahda,Al-Majd,QFS8aRMI,b3FCoaEs,3,4,,,,0
+1735054200,Al-Tirsana,Olympic Azzaweya,AD9YOedP,tKK7S7KS,2,2,,,,0
+1735131600,Al Murooj,Al Taawun,6ofPMRKb,4CQGUUNF,3,2,,,,0
+1735133400,Abi Al Ashar,Al-Khmes,4CQGUUNF,vaADpjaO,0,1,,,,0
+1735140600,Al Ittihad Misurata,Al Ahly Tripoli,pOiFu7J9,EmmZhJCB,0,2,,,,0
+1735146000,Al Hilal Benghazi,Al Branes,8IzCPxmc,t4hTa6tL,3,0,,,,0
+1735218000,Al Sadaqa,Al Ahly Benghazi,vD5rrcwQ,QHFBrDj7,1,1,,,,0
+1735218000,Al Mahdia,Al-Andalus,KpfSNRof,dKAAhb8r,0,0,,,,0
+1735219800,Asaria,Al Dahra,fZbJUB9H,CpWC5ltf,1,0,,,,0
+1735227000,Al Malaab El Libby,Al Watan,bDC4nYhM,UT6BVMsQ,2,2,,,,0
+1735390800,Al Borouq,Al-Suqoor,tvNoCWyL,WbMnDqvp,2,3,,,,0
+1735392600,Olympic Azzaweya,Al Nahda,tKK7S7KS,QFS8aRMI,4,0,,,,0
+1735392600,Al-Majd,Al Bashaer,b3FCoaEs,CjeghYbS,2,1,,,,0
+1735399800,Al Tahaddi,Al Ansar,xUU6QNkK,dUF10lea,3,0,,,,0
+1735477200,Khaleej Sirte,Wefaq Ajdabiya,hGmL9lJC,rLtMngvn,1,0,,,,0
+1735477200,Al Akhdar,Al Nasr,fFGnXfBc,8hmaPcYe,1,0,,,,0
+1735479000,Abu Salim,Al-Ittihad,4YRfenCj,dlMwRnhD,1,0,,,,0
+1735486200,Asswehly,Al-Tirsana,4CQGUUNF,AD9YOedP,1,0,,,,0
+1735563600,Al Taawun,Al Branes,4CQGUUNF,t4hTa6tL,4,1,,,,0
+1735563600,Al Murooj,Al Sadaqa,6ofPMRKb,vD5rrcwQ,1,0,,,,0
+1735565400,Al-Khmes,Al Malaab El Libby,vaADpjaO,bDC4nYhM,0,0,,,,0
+1735572600,Al Ahly Tripoli,Al Madina,EmmZhJCB,4CQGUUNF,2,0,,,,0
+1735648200,Al-Andalus,Al Hilal Benghazi,dKAAhb8r,8IzCPxmc,1,3,,,,0
+1735651800,Al Watan,Asaria,UT6BVMsQ,fZbJUB9H,1,0,,,,0
+1735659000,Al Dahra,Al Ittihad Misurata,CpWC5ltf,pOiFu7J9,0,1,,,,0
+1735664400,Al Ahly Benghazi,Al Mahdia,QHFBrDj7,KpfSNRof,5,0,,,,0
+1735822800,Al-Anwar,Al Akhdar,UNk9hvUA,fFGnXfBc,1,2,,,,0
+1735824600,Al Nahda,Asswehly,QFS8aRMI,4CQGUUNF,0,2,,,,0
+1735830000,Al Nasr,Khaleej Sirte,8hmaPcYe,hGmL9lJC,2,0,,,,0
+1735831800,Al-Tirsana,Abu Salim,AD9YOedP,4YRfenCj,1,1,,,,0
+1735907400,Al-Suqoor,Al Tahaddi,WbMnDqvp,xUU6QNkK,3,0,,,,0
+1735909200,Wefaq Ajdabiya,Al Borouq,rLtMngvn,tvNoCWyL,1,1,,,,0
+1735911000,Shabab Al-Ghar,Al-Majd,MTfvSSZs,b3FCoaEs,1,0,,,,0
+1735918200,Al Bashaer,Olympic Azzaweya,CjeghYbS,tKK7S7KS,1,2,,,,0
+1736082000,Al Sadaqa,Al Taawun,vD5rrcwQ,4CQGUUNF,2,1,,,,0
+1736082000,Al Mahdia,Al Murooj,KpfSNRof,6ofPMRKb,2,1,,,,0
+1736083800,Al Malaab El Libby,Abi Al Ashar,bDC4nYhM,4CQGUUNF,0,0,,,,0
+1736096400,Al Madina,Al Dahra,4CQGUUNF,CpWC5ltf,2,0,,,,0
+1736168400,Al Branes,Al-Andalus,t4hTa6tL,dKAAhb8r,1,2,,,,0
+1736170200,Asaria,Al-Khmes,fZbJUB9H,vaADpjaO,0,2,,,,0
+1736177400,Al Ittihad Misurata,Al Watan,pOiFu7J9,UT6BVMsQ,1,0,,,,0
+1736182800,Al Hilal Benghazi,Al Ahly Benghazi,8IzCPxmc,QHFBrDj7,0,1,,,,0
+1736341200,Khaleej Sirte,Al-Anwar,hGmL9lJC,UNk9hvUA,2,0,,,,0
+1736343000,Olympic Azzaweya,Shabab Al-Ghar,tKK7S7KS,MTfvSSZs,1,1,,,,0
+1736348400,Al Tahaddi,Wefaq Ajdabiya,xUU6QNkK,rLtMngvn,0,0,,,,0
+1736350200,Al-Ittihad,Al-Tirsana,dlMwRnhD,AD9YOedP,1,0,,,,0
+1736427600,Al Borouq,Al Nasr,tvNoCWyL,8hmaPcYe,0,2,,,,0
+1736427600,Al Ansar,Al-Suqoor,dUF10lea,WbMnDqvp,1,1,,,,0
+1736429400,Abu Salim,Al Nahda,4YRfenCj,QFS8aRMI,1,0,,,,0
+1736438400,Asswehly,Al Bashaer,4CQGUUNF,CjeghYbS,0,0,,,,0
+1736523000,Al Dahra,Al Ahly Tripoli,CpWC5ltf,EmmZhJCB,0,4,,,,0
+1736530200,Al-Khmes,Al Ittihad Misurata,vaADpjaO,pOiFu7J9,0,1,,,,0
+1736602200,Al Watan,Al Madina,UT6BVMsQ,4CQGUUNF,0,3,,,,0
+1736602200,Abi Al Ashar,Asaria,4CQGUUNF,fZbJUB9H,2,1,,,,0
+1736859600,Wefaq Ajdabiya,Al Ansar,rLtMngvn,dUF10lea,2,1,,,,0
+1736859600,Al Akhdar,Khaleej Sirte,fFGnXfBc,hGmL9lJC,4,1,,,,0
+1736861400,Al-Majd,Olympic Azzaweya,b3FCoaEs,tKK7S7KS,1,2,,,,0
+1736868600,Shabab Al-Ghar,Asswehly,MTfvSSZs,4CQGUUNF,1,2,,,,0
+1736946000,Al-Anwar,Al Borouq,UNk9hvUA,tvNoCWyL,1,1,,,,0
+1736947800,Al Nahda,Al-Ittihad,QFS8aRMI,dlMwRnhD,0,4,,,,0
+1736955000,Al Bashaer,Abu Salim,CjeghYbS,4YRfenCj,0,1,,,,0
+1736960400,Al Nasr,Al Tahaddi,8hmaPcYe,xUU6QNkK,0,0,,,,0
+1737032400,Al Sadaqa,Al Mahdia,vD5rrcwQ,KpfSNRof,2,1,,,,0
+1737034200,Asaria,Al Malaab El Libby,fZbJUB9H,bDC4nYhM,2,1,,,,0
+1737041400,Al Madina,Al-Khmes,4CQGUUNF,vaADpjaO,2,0,,,,0
+1737046800,Al Ahly Benghazi,Al Branes,QHFBrDj7,t4hTa6tL,4,0,,,,0
+1737118800,Al Taawun,Al-Andalus,4CQGUUNF,dKAAhb8r,1,0,,,,0
+1737118800,Al Murooj,Al Hilal Benghazi,6ofPMRKb,8IzCPxmc,0,1,,,,0
+1737127800,Al Ittihad Misurata,Abi Al Ashar,pOiFu7J9,4CQGUUNF,2,0,,,,0
+1737127800,Al Ahly Tripoli,Al Watan,EmmZhJCB,UT6BVMsQ,3,0,,,,0
+1737376200,Al-Suqoor,Wefaq Ajdabiya,WbMnDqvp,rLtMngvn,1,0,,,,0
+1737378000,Al Borouq,Al Akhdar,tvNoCWyL,fFGnXfBc,0,0,,,,0
+1737379800,Al-Tirsana,Al Nahda,AD9YOedP,QFS8aRMI,3,2,,,,0
+1737387000,Al-Ittihad,Al Bashaer,dlMwRnhD,CjeghYbS,1,0,,,,0
+1737464400,Al Ansar,Al Nasr,dUF10lea,8hmaPcYe,1,1,,,,0
+1737466200,Abu Salim,Shabab Al-Ghar,4YRfenCj,MTfvSSZs,1,2,,,,0
+1737471600,Al Tahaddi,Al-Anwar,xUU6QNkK,UNk9hvUA,2,0,,,,0
+1737473400,Asswehly,Al-Majd,4CQGUUNF,b3FCoaEs,7,1,,,,0
+1737549000,Al-Andalus,Al Ahly Benghazi,dKAAhb8r,QHFBrDj7,1,2,,,,0
+1737550800,Al Branes,Al Murooj,t4hTa6tL,6ofPMRKb,0,0,,,,0
+1737552600,Al Watan,Al Dahra,UT6BVMsQ,CpWC5ltf,3,0,,,,0
+1737559800,Al Malaab El Libby,Al Ittihad Misurata,bDC4nYhM,pOiFu7J9,0,0,,,,0
+1737637200,Al Mahdia,Al Taawun,KpfSNRof,4CQGUUNF,0,3,,,,0
+1737639000,Al-Khmes,Al Ahly Tripoli,vaADpjaO,EmmZhJCB,0,3,,,,0
+1737644400,Al Hilal Benghazi,Al Sadaqa,8IzCPxmc,vD5rrcwQ,2,1,,,,0
+1737646200,Abi Al Ashar,Al Madina,4CQGUUNF,4CQGUUNF,0,1,,,,0
+1737810000,Al-Anwar,Al Ansar,UNk9hvUA,dUF10lea,4,3,,,,0
+1737811800,Al-Majd,Abu Salim,b3FCoaEs,4YRfenCj,1,2,,,,0
+1737817200,Al Nasr,Al-Suqoor,8hmaPcYe,WbMnDqvp,2,0,,,,0
+1737819000,Al Bashaer,Al-Tirsana,CjeghYbS,AD9YOedP,3,1,,,,0
+1737896400,Khaleej Sirte,Al Borouq,hGmL9lJC,tvNoCWyL,4,3,,,,0
+1737896400,Al Akhdar,Al Tahaddi,fFGnXfBc,xUU6QNkK,1,3,,,,0
+1737898200,Olympic Azzaweya,Asswehly,tKK7S7KS,4CQGUUNF,3,3,,,,0
+1737905400,Shabab Al-Ghar,Al-Ittihad,MTfvSSZs,dlMwRnhD,0,0,,,,0
+1737984600,Al Ittihad Misurata,Asaria,pOiFu7J9,fZbJUB9H,2,0,,,,0
+1737991800,Al Madina,Al Malaab El Libby,4CQGUUNF,bDC4nYhM,2,4,,,,0
+1738071000,Al Dahra,Al-Khmes,CpWC5ltf,vaADpjaO,1,0,,,,0
+1738078200,Al Ahly Tripoli,Abi Al Ashar,EmmZhJCB,4CQGUUNF,2,0,,,,0
+1738674000,Al-Anwar,Al-Suqoor,UNk9hvUA,WbMnDqvp,2,1,,,,0
+1738674000,Al Akhdar,Al Ansar,fFGnXfBc,dUF10lea,4,1,,,,0
+1738675800,Al-Majd,Al-Ittihad,b3FCoaEs,dlMwRnhD,1,1,,,,0
+1738684800,Al Bashaer,Al Nahda,CjeghYbS,QFS8aRMI,2,0,Awrd,,,0
+1738760400,Khaleej Sirte,Al Tahaddi,hGmL9lJC,xUU6QNkK,0,0,,,,0
+1738762200,Olympic Azzaweya,Abu Salim,tKK7S7KS,4YRfenCj,1,0,,,,0
+1738769400,Al Nasr,Wefaq Ajdabiya,8hmaPcYe,rLtMngvn,0,0,,,,0
+1738771200,Shabab Al-Ghar,Al-Tirsana,MTfvSSZs,AD9YOedP,0,0,,,,0
+1738845000,Al-Andalus,Al Murooj,dKAAhb8r,6ofPMRKb,2,0,,,,0
+1738846800,Al Branes,Al Sadaqa,t4hTa6tL,vD5rrcwQ,0,1,,,,0
+1738848600,Al Madina,Asaria,4CQGUUNF,fZbJUB9H,2,1,,,,0
+1738857600,Al Ahly Tripoli,Al Malaab El Libby,EmmZhJCB,bDC4nYhM,3,0,,,,0
+1738933200,Al Taawun,Al Ahly Benghazi,4CQGUUNF,QHFBrDj7,1,0,,,,0
+1738935000,Al Watan,Al-Khmes,UT6BVMsQ,vaADpjaO,1,0,,,,0
+1738942200,Al Hilal Benghazi,Al Mahdia,8IzCPxmc,KpfSNRof,4,2,,,,0
+1738944000,Al Dahra,Abi Al Ashar,CpWC5ltf,4CQGUUNF,0,0,,,,0
+1739106000,Al Ansar,Khaleej Sirte,dUF10lea,hGmL9lJC,0,2,Awrd,,,0
+1739107800,Al-Tirsana,Al-Majd,AD9YOedP,b3FCoaEs,0,0,,,,0
+1739107800,Al Nahda,Shabab Al-Ghar,QFS8aRMI,MTfvSSZs,0,1,,,,0
+1739115000,Al Tahaddi,Al Borouq,xUU6QNkK,tvNoCWyL,2,2,,,,0
+1739190600,Al-Suqoor,Al Akhdar,WbMnDqvp,fFGnXfBc,0,0,,,,0
+1739194200,Abu Salim,Asswehly,4YRfenCj,4CQGUUNF,0,1,,,,0
+1739201400,Wefaq Ajdabiya,Al-Anwar,rLtMngvn,UNk9hvUA,3,0,,,,0
+1739203200,Al-Ittihad,Olympic Azzaweya,dlMwRnhD,tKK7S7KS,0,2,,,,0
+1739278800,Al Murooj,Al Ahly Benghazi,6ofPMRKb,QHFBrDj7,1,4,,,,0
+1739280600,Al Ittihad Misurata,Al Madina,pOiFu7J9,4CQGUUNF,1,3,,,,0
+1739287800,Al Hilal Benghazi,Al Taawun,8IzCPxmc,4CQGUUNF,1,0,,,,0
+1739289600,Al Malaab El Libby,Al Dahra,bDC4nYhM,CpWC5ltf,1,1,,,,0
+1739365200,Al Sadaqa,Al-Andalus,vD5rrcwQ,dKAAhb8r,3,1,,,,0
+1739365200,Al Mahdia,Al Branes,KpfSNRof,t4hTa6tL,3,3,,,,0
+1739367000,Asaria,Al Ahly Tripoli,fZbJUB9H,EmmZhJCB,1,2,,,,0
+1739376000,Abi Al Ashar,Al Watan,4CQGUUNF,UT6BVMsQ,1,3,,,,0
+1739538000,Khaleej Sirte,Al-Suqoor,hGmL9lJC,WbMnDqvp,1,1,,,,0
+1739538000,Al Akhdar,Wefaq Ajdabiya,fFGnXfBc,rLtMngvn,2,0,,,,0
+1739539800,Olympic Azzaweya,Al-Tirsana,tKK7S7KS,AD9YOedP,1,0,,,,0
+1739539800,Al-Majd,Al Nahda,b3FCoaEs,QFS8aRMI,3,0,,,,0
+1739624400,Al-Anwar,Al Nasr,UNk9hvUA,8hmaPcYe,2,1,,,,0
+1739624400,Al Borouq,Al Ansar,tvNoCWyL,dUF10lea,1,0,,,,0
+1739626200,Shabab Al-Ghar,Al Bashaer,MTfvSSZs,CjeghYbS,2,2,,,,0
+1739635200,Asswehly,Al-Ittihad,4CQGUUNF,dlMwRnhD,1,1,,,,0
+1739709000,Al-Andalus,Al Mahdia,dKAAhb8r,KpfSNRof,2,0,,,,0
+1739712600,Al Watan,Al Malaab El Libby,UT6BVMsQ,bDC4nYhM,0,2,,,,0
+1739719800,Al Ahly Benghazi,Al Sadaqa,QHFBrDj7,vD5rrcwQ,2,0,,,,0
+1739721600,Al Dahra,Asaria,CpWC5ltf,fZbJUB9H,2,1,,,,0
+1739883600,Al Taawun,Al Murooj,4CQGUUNF,6ofPMRKb,2,2,,,,0
+1739883600,Al Branes,Al Hilal Benghazi,t4hTa6tL,8IzCPxmc,0,4,,,,0
+1739894400,Al-Khmes,Abi Al Ashar,vaADpjaO,4CQGUUNF,0,1,,,,0
+1739970000,Wefaq Ajdabiya,Khaleej Sirte,rLtMngvn,hGmL9lJC,1,0,,,,0
+1739971800,Al-Tirsana,Asswehly,AD9YOedP,4CQGUUNF,1,2,,,,0
+1739977200,Al Nasr,Al Akhdar,8hmaPcYe,fFGnXfBc,1,0,,,,0
+1739980800,Al Ahly Tripoli,Al Ittihad Misurata,EmmZhJCB,pOiFu7J9,0,0,,,,0
+1740056400,Al-Suqoor,Al Borouq,WbMnDqvp,tvNoCWyL,0,2,Awrd,,,0
+1740056400,Al Ansar,Al Tahaddi,dUF10lea,xUU6QNkK,1,0,,,,0
+1740058200,Al Nahda,Olympic Azzaweya,QFS8aRMI,tKK7S7KS,0,2,,,,0
+1740058200,Al Bashaer,Al-Majd,CjeghYbS,b3FCoaEs,1,2,,,,0
+1740070800,Al-Ittihad,Abu Salim,dlMwRnhD,4YRfenCj,3,0,,,,0
+1740229200,Al Mahdia,Al Ahly Benghazi,KpfSNRof,QHFBrDj7,0,4,,,,0
+1740231000,Asaria,Al Watan,fZbJUB9H,UT6BVMsQ,2,2,,,,0
+1740238200,Al Hilal Benghazi,Al-Andalus,8IzCPxmc,dKAAhb8r,3,1,,,,0
+1740315600,Al Sadaqa,Al Murooj,vD5rrcwQ,6ofPMRKb,1,0,,,,0
+1740315600,Al Branes,Al Taawun,t4hTa6tL,4CQGUUNF,0,1,,,,0
+1740317400,Al Malaab El Libby,Al-Khmes,bDC4nYhM,vaADpjaO,2,0,,,,0
+1740326400,Al Ittihad Misurata,Al Dahra,pOiFu7J9,CpWC5ltf,0,1,,,,0
+1740330000,Al Madina,Al Ahly Tripoli,4CQGUUNF,EmmZhJCB,1,1,,,,0
+1740402000,Al Borouq,Wefaq Ajdabiya,tvNoCWyL,rLtMngvn,1,0,,,,0
+1740403800,Olympic Azzaweya,Al Bashaer,tKK7S7KS,CjeghYbS,3,1,,,,0
+1740403800,Al-Majd,Shabab Al-Ghar,b3FCoaEs,MTfvSSZs,1,0,,,,0
+1740411000,Al Tahaddi,Al-Suqoor,xUU6QNkK,WbMnDqvp,3,0,,,,0
+1740488400,Khaleej Sirte,Al Nasr,hGmL9lJC,8hmaPcYe,0,1,,,,0
+1740488400,Al Akhdar,Al-Anwar,fFGnXfBc,UNk9hvUA,0,1,,,,0
+1740499200,Asswehly,Al Nahda,4CQGUUNF,QFS8aRMI,4,0,,,,0
+1740499200,Abu Salim,Al-Tirsana,4YRfenCj,AD9YOedP,2,1,,,,0
+1740661200,Al-Andalus,Al Branes,dKAAhb8r,t4hTa6tL,2,1,,,,0
+1740661200,Al Ahly Benghazi,Al Hilal Benghazi,QHFBrDj7,8IzCPxmc,1,2,,,,0
+1740672000,Al-Khmes,Asaria,vaADpjaO,fZbJUB9H,2,0,Awrd,,,0
+1740672000,Abi Al Ashar,Al Malaab El Libby,4CQGUUNF,bDC4nYhM,1,1,,,,0
+1740747600,Al Taawun,Al Sadaqa,4CQGUUNF,vD5rrcwQ,1,1,,,,0
+1740747600,Al Murooj,Al Mahdia,6ofPMRKb,KpfSNRof,1,0,,,,0
+1740749400,Al Watan,Al Ittihad Misurata,UT6BVMsQ,pOiFu7J9,1,1,,,,0
+1740758400,Al Dahra,Al Madina,CpWC5ltf,4CQGUUNF,0,2,,,,0
+1741294800,Al-Tirsana,Al-Ittihad,AD9YOedP,dlMwRnhD,0,3,,,,0
+1741294800,Al-Suqoor,Al Ansar,WbMnDqvp,dUF10lea,2,1,,,,0
+1741294800,Al Nasr,Al Borouq,8hmaPcYe,tvNoCWyL,1,1,,,,0
+1741294800,Al Nahda,Abu Salim,QFS8aRMI,4YRfenCj,0,3,,,,0
+1741381200,Wefaq Ajdabiya,Al Tahaddi,rLtMngvn,xUU6QNkK,0,0,,,,0
+1741381200,Shabab Al-Ghar,Olympic Azzaweya,MTfvSSZs,tKK7S7KS,0,0,,,,0
+1741381200,Al-Anwar,Khaleej Sirte,UNk9hvUA,hGmL9lJC,2,2,,,,0
+1741381200,Al Bashaer,Asswehly,CjeghYbS,4CQGUUNF,1,3,,,,0
+1741467600,Asaria,Abi Al Ashar,fZbJUB9H,4CQGUUNF,1,2,,,,0
+1741467600,Al Madina,Al Watan,4CQGUUNF,UT6BVMsQ,1,1,,,,0
+1741554000,Al Ittihad Misurata,Al-Khmes,pOiFu7J9,vaADpjaO,2,1,,,,0
+1741554000,Al Ahly Tripoli,Al Dahra,EmmZhJCB,CpWC5ltf,1,1,,,,0
+1741640400,Al-Andalus,Al Taawun,dKAAhb8r,4CQGUUNF,1,1,,,,0
+1741640400,Al Mahdia,Al Sadaqa,KpfSNRof,vD5rrcwQ,0,1,,,,0
+1741640400,Al Hilal Benghazi,Al Murooj,8IzCPxmc,6ofPMRKb,3,2,,,,0
+1741640400,Al Branes,Al Ahly Benghazi,t4hTa6tL,QHFBrDj7,0,1,,,,0
+1741813200,Al-Ittihad,Al Nahda,dlMwRnhD,QFS8aRMI,4,0,,,,0
+1741813200,Al Tahaddi,Al Nasr,xUU6QNkK,8hmaPcYe,3,3,,,,0
+1741813200,Al Borouq,Al-Anwar,tvNoCWyL,UNk9hvUA,0,0,,,,0
+1741813200,Abu Salim,Al Bashaer,4YRfenCj,CjeghYbS,1,2,,,,0
+1741899600,Khaleej Sirte,Al Akhdar,hGmL9lJC,fFGnXfBc,1,1,,,,0
+1741899600,Asswehly,Shabab Al-Ghar,4CQGUUNF,MTfvSSZs,2,1,,,,0
+1741899600,Al Ansar,Wefaq Ajdabiya,dUF10lea,rLtMngvn,2,0,,,,0
+1741986000,Olympic Azzaweya,Al-Majd,tKK7S7KS,b3FCoaEs,3,2,,,,0
+1741986000,Al Watan,Al Ahly Tripoli,UT6BVMsQ,EmmZhJCB,0,2,Awrd,,,0
+1742070600,Abi Al Ashar,Al Ittihad Misurata,4CQGUUNF,pOiFu7J9,1,1,,,,0
+1742072400,Al-Khmes,Al Madina,vaADpjaO,4CQGUUNF,0,1,,,,0
+1742074200,Al Malaab El Libby,Asaria,bDC4nYhM,fZbJUB9H,0,0,,,,0
+1743775200,Wefaq Ajdabiya,Al-Suqoor,rLtMngvn,WbMnDqvp,1,0,,,,0
+1743775200,Al-Anwar,Al Tahaddi,UNk9hvUA,xUU6QNkK,1,2,,,,0
+1743775200,Al Nasr,Al Ansar,8hmaPcYe,dUF10lea,1,0,,,,0
+1743775200,Al Akhdar,Al Borouq,fFGnXfBc,tvNoCWyL,0,0,,,,0
+1743863400,Shabab Al-Ghar,Abu Salim,MTfvSSZs,4YRfenCj,4,4,,,,0
+1743863400,Al-Majd,Asswehly,b3FCoaEs,4CQGUUNF,2,2,,,,0
+1743863400,Al Nahda,Al-Tirsana,QFS8aRMI,AD9YOedP,0,7,,,,0
+1743863400,Al Bashaer,Al-Ittihad,CjeghYbS,dlMwRnhD,1,1,,,,0
+1743949800,Al Madina,Abi Al Ashar,4CQGUUNF,4CQGUUNF,2,2,,,,0
+1743949800,Al Ittihad Misurata,Al Malaab El Libby,pOiFu7J9,bDC4nYhM,0,0,,,,0
+1743949800,Al Dahra,Al Watan,CpWC5ltf,UT6BVMsQ,3,3,,,,0
+1743949800,Al Ahly Tripoli,Al-Khmes,EmmZhJCB,vaADpjaO,4,1,,,,0
+1744034400,Al Taawun,Al Mahdia,4CQGUUNF,KpfSNRof,0,0,,,,0
+1744034400,Al Sadaqa,Al Hilal Benghazi,vD5rrcwQ,8IzCPxmc,1,1,,,,0
+1744034400,Al Murooj,Al Branes,6ofPMRKb,t4hTa6tL,1,3,,,,0
+1744034400,Al Ahly Benghazi,Al-Andalus,QHFBrDj7,dKAAhb8r,1,0,,,,0
+1744207200,Al-Suqoor,Al Nasr,WbMnDqvp,8hmaPcYe,0,1,,,,0
+1744207200,Al Tahaddi,Al Akhdar,xUU6QNkK,fFGnXfBc,0,3,,,,0
+1744207200,Al Borouq,Khaleej Sirte,tvNoCWyL,hGmL9lJC,0,0,,,,0
+1744207200,Al Ansar,Al-Anwar,dUF10lea,UNk9hvUA,2,0,,,,0
+1744295400,Asswehly,Olympic Azzaweya,4CQGUUNF,tKK7S7KS,2,0,,,,0
+1744295400,Al-Tirsana,Al Bashaer,AD9YOedP,CjeghYbS,2,2,,,,0
+1744295400,Al-Ittihad,Shabab Al-Ghar,dlMwRnhD,MTfvSSZs,3,1,,,,0
+1744295400,Abu Salim,Al-Majd,4YRfenCj,b3FCoaEs,2,4,,,,0
+1744381800,Asaria,Al Ittihad Misurata,fZbJUB9H,pOiFu7J9,2,1,,,,0
+1744381800,Al-Khmes,Al Dahra,vaADpjaO,CpWC5ltf,3,2,,,,0
+1744381800,Abi Al Ashar,Al Ahly Tripoli,4CQGUUNF,EmmZhJCB,0,1,,,,0
+1744396200,Al Malaab El Libby,Al Madina,bDC4nYhM,4CQGUUNF,0,1,,,,0
+1745073000,Al Sadaqa,Al Hilal Benghazi,vD5rrcwQ,8IzCPxmc,0,1,,,,0
+1745073000,Al Akhdar,Al Ahly Benghazi,fFGnXfBc,QHFBrDj7,0,0,,,,0
+1745082000,Al Nasr,Al Tahaddi,8hmaPcYe,xUU6QNkK,1,0,,,,0
+1745163000,Al Ittihad Misurata,Al Madina,pOiFu7J9,4CQGUUNF,1,1,,,,0
+1745170200,Al-Ittihad,Olympic Azzaweya,dlMwRnhD,tKK7S7KS,1,0,,,,0
+1745256600,Al Ahly Tripoli,Asswehly,EmmZhJCB,4CQGUUNF,1,1,,,,0
+1745420400,Al Nasr,Al Sadaqa,8hmaPcYe,vD5rrcwQ,1,1,,,,0
+1745431200,Al Ahly Benghazi,Al Hilal Benghazi,QHFBrDj7,8IzCPxmc,1,1,,,,0
+1745510400,Al Tahaddi,Al Akhdar,xUU6QNkK,fFGnXfBc,0,0,,,,0
+1745595000,Olympic Azzaweya,Al Madina,tKK7S7KS,4CQGUUNF,5,0,,,,0
+1745602200,Asswehly,Al-Ittihad,4CQGUUNF,dlMwRnhD,4,1,,,,0
+1745602200,Al Ahly Tripoli,Al Ittihad Misurata,EmmZhJCB,pOiFu7J9,3,1,,,,0
+1745850600,Al Sadaqa,Al Ahly Benghazi,vD5rrcwQ,QHFBrDj7,1,3,,,,0
+1745850600,Al Akhdar,Al Nasr,fFGnXfBc,8hmaPcYe,2,1,,,,0
+1745861400,Al Hilal Benghazi,Al Tahaddi,8IzCPxmc,xUU6QNkK,2,1,,,,0
+1745940600,Al-Ittihad,Al Ahly Tripoli,dlMwRnhD,EmmZhJCB,0,0,,,,0
+1745940600,Al Ittihad Misurata,Olympic Azzaweya,pOiFu7J9,tKK7S7KS,1,0,,,,0
+1745949600,Al Madina,Asswehly,4CQGUUNF,4CQGUUNF,4,2,,,,0
+1746282600,Al Akhdar,Al Sadaqa,fFGnXfBc,vD5rrcwQ,2,2,,,,0
+1746284400,Al Tahaddi,Al Ahly Benghazi,xUU6QNkK,QHFBrDj7,2,5,,,,0
+1746295200,Al Nasr,Al Hilal Benghazi,8hmaPcYe,8IzCPxmc,2,2,,,,0
+1746372600,Asswehly,Olympic Azzaweya,4CQGUUNF,tKK7S7KS,1,1,,,,0
+1746381600,Al Ahly Tripoli,Al Madina,EmmZhJCB,4CQGUUNF,3,1,,,,0
+1746455400,Al Murooj,Al Ansar,6ofPMRKb,dUF10lea,1,0,,,,0
+1746455400,Al Branes,Khaleej Sirte,t4hTa6tL,hGmL9lJC,1,1,,,,0
+1746468000,Al-Ittihad,Al Ittihad Misurata,dlMwRnhD,pOiFu7J9,2,1,,,,0
+1746630000,Al Tahaddi,Al Sadaqa,xUU6QNkK,vD5rrcwQ,0,1,,,,0
+1746640800,Al Hilal Benghazi,Al Akhdar,8IzCPxmc,fFGnXfBc,1,1,,,,0
+1746723600,Al Ahly Benghazi,Al Nasr,QHFBrDj7,8hmaPcYe,1,1,,,,0
+1746804600,Olympic Azzaweya,Al Ahly Tripoli,tKK7S7KS,EmmZhJCB,2,2,,,,0
+1746804600,Asswehly,Al Ittihad Misurata,4CQGUUNF,pOiFu7J9,1,1,,,,0
+1746813600,Al Madina,Al-Ittihad,4CQGUUNF,dlMwRnhD,2,1,,,,0
+1746887400,Khaleej Sirte,Al Murooj,hGmL9lJC,6ofPMRKb,2,1,,,,0
+1746887400,Al Ansar,Al Branes,dUF10lea,t4hTa6tL,2,1,,,,0
+1746977400,Al Dahra,Abi Al Ashar,CpWC5ltf,4CQGUUNF,1,1,,,,0
+1746977400,Al Bashaer,Al-Tirsana,CjeghYbS,AD9YOedP,2,2,,,,0
+1747319400,Al Branes,Al Murooj,t4hTa6tL,6ofPMRKb,0,1,,,,0
+1747319400,Al Ansar,Khaleej Sirte,dUF10lea,hGmL9lJC,0,1,,,,0
+1747753200,Khaleej Sirte,Al Ansar,hGmL9lJC,dUF10lea,1,1,,,,0
+1747753200,Al Murooj,Al Branes,6ofPMRKb,t4hTa6tL,2,0,,,,0
+1747926000,Al Sadaqa,Al Tahaddi,vD5rrcwQ,xUU6QNkK,1,0,,,,0
+1747926000,Al Akhdar,Al Hilal Benghazi,fFGnXfBc,8IzCPxmc,2,1,,,,0
+1747936800,Al Nasr,Al Ahly Benghazi,8hmaPcYe,QHFBrDj7,0,3,,,,0
+1748185200,Khaleej Sirte,Al Branes,hGmL9lJC,t4hTa6tL,1,0,,,,0
+1748185200,Al Ansar,Al Murooj,dUF10lea,6ofPMRKb,1,1,,,,0
+1748444400,Al Ahly Benghazi,Al Akhdar,QHFBrDj7,fFGnXfBc,2,1,,,,0
+1748530800,Al Murooj,Khaleej Sirte,6ofPMRKb,hGmL9lJC,3,2,,,,0
+1748530800,Al Branes,Al Ansar,t4hTa6tL,dUF10lea,1,2,,,,0
+1748541600,Al Hilal Benghazi,Al Sadaqa,8IzCPxmc,vD5rrcwQ,2,1,,,,0
+1748628000,Al Tahaddi,Al Nasr,xUU6QNkK,8hmaPcYe,1,2,,,,0
+1748629800,Al-Ittihad,Al Madina,dlMwRnhD,4CQGUUNF,1,0,,,,0
+1748791800,Al Ittihad Misurata,Asswehly,pOiFu7J9,4CQGUUNF,0,0,,,,0
+1749061800,Al Ahly Tripoli,Olympic Azzaweya,EmmZhJCB,tKK7S7KS,4,1,,,,0
+1749571200,Olympic Azzaweya,Al-Ittihad,tKK7S7KS,dlMwRnhD,0,1,,,,0
+1749580200,Asswehly,Al Ahly Tripoli,4CQGUUNF,EmmZhJCB,2,2,,,,0
+1749580200,Al Madina,Al Ittihad Misurata,4CQGUUNF,pOiFu7J9,1,3,,,,0
+1749916800,Al Madina,Olympic Azzaweya,4CQGUUNF,tKK7S7KS,3,0,,,,0
+1749916800,Al Ittihad Misurata,Al Ahly Tripoli,pOiFu7J9,EmmZhJCB,0,4,,,,0
+1749925800,Al-Ittihad,Asswehly,dlMwRnhD,4CQGUUNF,1,4,,,,0
+1749999600,Al Sadaqa,Al Nasr,vD5rrcwQ,8hmaPcYe,1,1,,,,0
+1749999600,Al Akhdar,Al Tahaddi,fFGnXfBc,xUU6QNkK,2,1,,,,0
+1750010400,Al Hilal Benghazi,Al Ahly Benghazi,8IzCPxmc,QHFBrDj7,2,2,,,,0
+1750260600,Olympic Azzaweya,Al Ittihad Misurata,tKK7S7KS,pOiFu7J9,1,1,,,,0
+1750260600,Asswehly,Al Madina,4CQGUUNF,4CQGUUNF,1,0,,,,0
+1750260600,Al Ahly Tripoli,Al-Ittihad,EmmZhJCB,dlMwRnhD,0,1,Abn,,,0
+1750345200,Al Ahly Benghazi,Al Sadaqa,QHFBrDj7,vD5rrcwQ,3,0,,,,0
+1750356000,Al Tahaddi,Al Hilal Benghazi,xUU6QNkK,8IzCPxmc,2,6,,,,0
+1750356000,Al Nasr,Al Akhdar,8hmaPcYe,fFGnXfBc,0,0,,,,0
+1750433400,Abi Al Ashar,Al Bashaer,4CQGUUNF,CjeghYbS,2,0,,,,0
+1750444200,Al-Tirsana,Al Dahra,AD9YOedP,CpWC5ltf,2,0,,,,0
+1750606200,Olympic Azzaweya,Asswehly,tKK7S7KS,4CQGUUNF,0,3,,,,0
+1750690800,Al Sadaqa,Al Akhdar,vD5rrcwQ,fFGnXfBc,0,2,,,,0
+1750690800,Al Hilal Benghazi,Al Nasr,8IzCPxmc,8hmaPcYe,2,1,,,,0
+1750701600,Al Ahly Benghazi,Al Tahaddi,QHFBrDj7,xUU6QNkK,3,0,,,,0
+1750779000,Al Bashaer,Al Dahra,CjeghYbS,CpWC5ltf,1,1,,,,0
+1750779000,Abi Al Ashar,Al-Tirsana,4CQGUUNF,AD9YOedP,0,0,,,,0
+1750791600,Al Ittihad Misurata,Al-Ittihad,pOiFu7J9,dlMwRnhD,0,1,,,,0
+1751128200,Al-Tirsana,Abi Al Ashar,AD9YOedP,4CQGUUNF,0,1,,,,0
+1751137200,Al Dahra,Al Bashaer,CpWC5ltf,CjeghYbS,2,2,,,,0
+1751470200,Al-Tirsana,Al Bashaer,AD9YOedP,CjeghYbS,4,3,,,,0
+1751470200,Abi Al Ashar,Al Dahra,4CQGUUNF,CpWC5ltf,3,2,,,,0
+1751817600,Al Bashaer,Abi Al Ashar,CjeghYbS,4CQGUUNF,1,0,,,,0
+1751826600,Al-Tirsana,Al Dahra,AD9YOedP,CpWC5ltf,4,2,,,,0

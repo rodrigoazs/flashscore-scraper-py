@@ -1,56 +1,56 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1678946400,FK Akzhayik,AKAS,5,0,,,,0
-1678957200,Altai,Jas Qyran,0,2,,,,0
-1679032800,Taraz,Arys,0,1,,,,0
-1679043600,Yelimay Semey,Zhenis,0,1,,,,0
-1679119200,FK Kyran,Ulytau,0,1,,,,0
-1679130000,Akademiya Ontustik,SD Family,2,3,,,,0
-1679205600,Turan,Turkistan,4,0,,,,0
-1679216400,Khan Tengri,Zhetisay,5,0,,,,0
-1679292000,AKAS,Altai,0,3,,,,0
-1679302800,FK Akzhayik,Jas Qyran,5,2,,,,0
-1679378400,Taraz,Zhenis,2,2,,,,0
-1679389200,Arys,Yelimay Semey,0,3,,,,0
-1679464800,FK Kyran,SD Family,1,0,,,,0
-1679475600,Ulytau,Akademiya Ontustik,2,4,,,,0
-1679551200,Turkistan,Khan Tengri,1,3,,,,0
-1679562000,Turan,Zhetisay,4,0,,,,0
-1679637600,Jas Qyran,AKAS,3,0,,,,0
-1679648400,Altai,FK Akzhayik,1,5,,,,0
-1679724000,Zhenis,Arys,3,3,,,,0
-1679734800,Yelimay Semey,Taraz,2,0,,,,0
-1679810400,SD Family,Ulytau,2,2,,,,0
-1679821200,Akademiya Ontustik,FK Kyran,5,3,,,,0
-1679896800,Zhetisay,Turkistan,0,1,,,,0
-1679907600,Khan Tengri,Turan,3,4,,,,0
-1680166800,FK Akzhayik,Akademiya Ontustik,7,1,,,,0
-1680253200,Turan,Yelimay Semey,1,1,AET,2,1,0
-1681894800,Kyzylzhar,Zhetysu Taldykorgan,3,0,,,,0
-1681894800,Kaspij Aktau,Turan,0,1,,,,0
-1681902000,Shakhter Karagandy,Okzhetpes,1,0,,,,0
-1681902000,Aktobe,Atyrau,2,2,,,,0
-1681909200,Kairat Almaty,FK Akzhayik,2,1,,,,0
-1681912800,Tobol,Aksu,2,0,,,,0
-1681916400,Ordabasy,Maqtaaral,1,2,,,,0
-1681916400,FC Astana,Kaisar Kyzylorda,5,1,,,,0
-1682751600,Okzhetpes,Shakhter Karagandy,0,5,,,,0
-1682758800,Zhetysu Taldykorgan,Kyzylzhar,0,0,,,,0
-1682773200,Atyrau,Aktobe,0,0,Pen,1,0,0
-1682780400,Maqtaaral,Ordabasy,1,4,,,,0
-1682841600,Aksu,Tobol,2,1,,,,0
-1682848800,Turan,Kaspij Aktau,0,1,AET,2,1,0
-1682856000,FK Akzhayik,Kairat Almaty,0,0,,,,0
-1682863200,Kaisar Kyzylorda,FC Astana,0,2,,,,0
-1684321200,FC Astana,Turan,2,0,,,,0
-1684328400,Tobol,Shakhter Karagandy,2,0,,,,0
-1684328400,Kairat Almaty,Atyrau,1,1,,,,0
-1684335600,Ordabasy,Kyzylzhar,2,0,,,,0
-1686135600,Turan,FC Astana,1,1,,,,1
-1686135600,Kyzylzhar,Ordabasy,1,0,,,,0
-1686142800,Shakhter Karagandy,Tobol,1,0,,,,0
-1686142800,Atyrau,Kairat Almaty,2,1,,,,0
-1687957200,FC Astana,Ordabasy,1,0,,,,0
-1687964400,Tobol,Atyrau,1,0,,,,0
-1688655600,Ordabasy,FC Astana,1,0,AET,2,0,0
-1688821200,Atyrau,Tobol,0,1,,,,0
-1699092000,Ordabasy,Tobol,0,1,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1678946400,FK Akzhayik,AKAS,6uZPCvr9,UZc4kSZk,5,0,,,,0
+1678957200,Altai,Jas Qyran,n5RUMA8S,jXrnFei7,0,2,,,,0
+1679032800,Taraz,Arys,M1habVsD,Gv4otix6,0,1,,,,0
+1679043600,Yelimay Semey,Zhenis,8hqmhCmi,zLEZgZeE,0,1,,,,0
+1679119200,FK Kyran,Ulytau,04q84ADf,C40O5CgS,0,1,,,,0
+1679130000,Akademiya Ontustik,SD Family,lCMwzUIt,OfbzFuAn,2,3,,,,0
+1679205600,Turan,Turkistan,dl2G0TZc,Uu7jVChs,4,0,,,,0
+1679216400,Khan Tengri,Zhetisay,lfR4j0PM,YyO6o6hI,5,0,,,,0
+1679292000,AKAS,Altai,UZc4kSZk,n5RUMA8S,0,3,,,,0
+1679302800,FK Akzhayik,Jas Qyran,6uZPCvr9,jXrnFei7,5,2,,,,0
+1679378400,Taraz,Zhenis,M1habVsD,zLEZgZeE,2,2,,,,0
+1679389200,Arys,Yelimay Semey,Gv4otix6,8hqmhCmi,0,3,,,,0
+1679464800,FK Kyran,SD Family,04q84ADf,OfbzFuAn,1,0,,,,0
+1679475600,Ulytau,Akademiya Ontustik,C40O5CgS,lCMwzUIt,2,4,,,,0
+1679551200,Turkistan,Khan Tengri,Uu7jVChs,lfR4j0PM,1,3,,,,0
+1679562000,Turan,Zhetisay,dl2G0TZc,YyO6o6hI,4,0,,,,0
+1679637600,Jas Qyran,AKAS,jXrnFei7,UZc4kSZk,3,0,,,,0
+1679648400,Altai,FK Akzhayik,n5RUMA8S,6uZPCvr9,1,5,,,,0
+1679724000,Zhenis,Arys,zLEZgZeE,Gv4otix6,3,3,,,,0
+1679734800,Yelimay Semey,Taraz,8hqmhCmi,M1habVsD,2,0,,,,0
+1679810400,SD Family,Ulytau,OfbzFuAn,C40O5CgS,2,2,,,,0
+1679821200,Akademiya Ontustik,FK Kyran,lCMwzUIt,04q84ADf,5,3,,,,0
+1679896800,Zhetisay,Turkistan,YyO6o6hI,Uu7jVChs,0,1,,,,0
+1679907600,Khan Tengri,Turan,lfR4j0PM,dl2G0TZc,3,4,,,,0
+1680166800,FK Akzhayik,Akademiya Ontustik,6uZPCvr9,lCMwzUIt,7,1,,,,0
+1680253200,Turan,Yelimay Semey,dl2G0TZc,8hqmhCmi,1,1,AET,2,1,0
+1681894800,Kyzylzhar,Zhetysu Taldykorgan,QiWrXtNo,KIZqh8Pq,3,0,,,,0
+1681894800,Kaspij Aktau,Turan,b3cZyVv7,dl2G0TZc,0,1,,,,0
+1681902000,Shakhter Karagandy,Okzhetpes,AFnoRjlN,fX1V1Bj4,1,0,,,,0
+1681902000,Aktobe,Atyrau,M1habVsD,4lQxqw7K,2,2,,,,0
+1681909200,Kairat Almaty,FK Akzhayik,rwQpsSWo,6uZPCvr9,2,1,,,,0
+1681912800,Tobol,Aksu,2u4B89Vd,2Zjn5Or7,2,0,,,,0
+1681916400,Ordabasy,Maqtaaral,rB9GKJTe,IkFuhJvJ,1,2,,,,0
+1681916400,FC Astana,Kaisar Kyzylorda,llrJz3e1,6TGNpzQl,5,1,,,,0
+1682751600,Okzhetpes,Shakhter Karagandy,fX1V1Bj4,AFnoRjlN,0,5,,,,0
+1682758800,Zhetysu Taldykorgan,Kyzylzhar,KIZqh8Pq,QiWrXtNo,0,0,,,,0
+1682773200,Atyrau,Aktobe,4lQxqw7K,M1habVsD,0,0,Pen,1,0,0
+1682780400,Maqtaaral,Ordabasy,IkFuhJvJ,rB9GKJTe,1,4,,,,0
+1682841600,Aksu,Tobol,2Zjn5Or7,2u4B89Vd,2,1,,,,0
+1682848800,Turan,Kaspij Aktau,dl2G0TZc,b3cZyVv7,0,1,AET,2,1,0
+1682856000,FK Akzhayik,Kairat Almaty,6uZPCvr9,rwQpsSWo,0,0,,,,0
+1682863200,Kaisar Kyzylorda,FC Astana,6TGNpzQl,llrJz3e1,0,2,,,,0
+1684321200,FC Astana,Turan,llrJz3e1,dl2G0TZc,2,0,,,,0
+1684328400,Tobol,Shakhter Karagandy,2u4B89Vd,AFnoRjlN,2,0,,,,0
+1684328400,Kairat Almaty,Atyrau,rwQpsSWo,4lQxqw7K,1,1,,,,0
+1684335600,Ordabasy,Kyzylzhar,rB9GKJTe,QiWrXtNo,2,0,,,,0
+1686135600,Turan,FC Astana,dl2G0TZc,llrJz3e1,1,1,,,,1
+1686135600,Kyzylzhar,Ordabasy,QiWrXtNo,rB9GKJTe,1,0,,,,0
+1686142800,Shakhter Karagandy,Tobol,AFnoRjlN,2u4B89Vd,1,0,,,,0
+1686142800,Atyrau,Kairat Almaty,4lQxqw7K,rwQpsSWo,2,1,,,,0
+1687957200,FC Astana,Ordabasy,llrJz3e1,rB9GKJTe,1,0,,,,0
+1687964400,Tobol,Atyrau,2u4B89Vd,4lQxqw7K,1,0,,,,0
+1688655600,Ordabasy,FC Astana,rB9GKJTe,llrJz3e1,1,0,AET,2,0,0
+1688821200,Atyrau,Tobol,4lQxqw7K,2u4B89Vd,0,1,,,,0
+1699092000,Ordabasy,Tobol,rB9GKJTe,2u4B89Vd,0,1,,,,1

@@ -1,14 +1,14 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1683118800,TOP Junior,Vital'O,0,3,,,,0
-1683118800,Le Messager Ngozi,Musongati,1,0,,,,0
-1683118800,Bumamuru,Rukinzo,1,0,,,,0
-1683118800,Bujumbura C.,Aigle Noir,1,4,,,,0
-1684069200,Vital'O,TOP Junior,3,2,,,,0
-1684069200,Rukinzo,Bumamuru,0,1,,,,0
-1684069200,Musongati,Le Messager Ngozi,1,0,Pen,2,0,0
-1684069200,Aigle Noir,Bujumbura C.,1,0,,,,0
-1684933200,Musongati,Bumamuru,0,0,,,,0
-1684933200,Aigle Noir,Vital'O,1,1,,,,0
-1685278800,Vital'O,Aigle Noir,0,1,,,,0
-1685278800,Bumamuru,Musongati,4,1,,,,0
-1685797200,Bumamuru,Aigle Noir,1,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1683118800,TOP Junior,Vital'O,buLdzQes,2V6jtVbj,0,3,,,,0
+1683118800,Le Messager Ngozi,Musongati,Q1R2BVUa,MLhiODrg,1,0,,,,0
+1683118800,Bumamuru,Rukinzo,6obZXPrB,6ozUJqCk,1,0,,,,0
+1683118800,Bujumbura C.,Aigle Noir,2PXHjwMP,r3aaqYj0,1,4,,,,0
+1684069200,Vital'O,TOP Junior,2V6jtVbj,buLdzQes,3,2,,,,0
+1684069200,Rukinzo,Bumamuru,6ozUJqCk,6obZXPrB,0,1,,,,0
+1684069200,Musongati,Le Messager Ngozi,MLhiODrg,Q1R2BVUa,1,0,Pen,2,0,0
+1684069200,Aigle Noir,Bujumbura C.,r3aaqYj0,2PXHjwMP,1,0,,,,0
+1684933200,Musongati,Bumamuru,MLhiODrg,6obZXPrB,0,0,,,,0
+1684933200,Aigle Noir,Vital'O,r3aaqYj0,2V6jtVbj,1,1,,,,0
+1685278800,Vital'O,Aigle Noir,2V6jtVbj,r3aaqYj0,0,1,,,,0
+1685278800,Bumamuru,Musongati,6obZXPrB,MLhiODrg,4,1,,,,0
+1685797200,Bumamuru,Aigle Noir,6obZXPrB,r3aaqYj0,1,3,,,,0

@@ -1,15 +1,15 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1708952400,Police,AS Kigali,2,1,,,,0
-1708952400,Amagaju,Mukura Victory Sports,2,0,,,,0
-1708963200,Rayon Sport,Gorilla,2,2,,,,0
-1709049600,Gasogi United,APR,0,1,,,,0
-1709557200,Mukura Victory Sports,Amagaju,2,0,Pen,3,0,0
-1709647200,AS Kigali,Police,2,2,,,,0
-1709658000,APR,Gasogi United,0,0,,,,0
-1709740800,Gorilla,Rayon Sport,0,1,,,,0
-1713186000,Police,APR,1,1,,,,0
-1713790800,Mukura Victory Sports,Rayon Sport,1,1,,,,0
-1714485600,APR,Police,1,0,,,,0
-1714498200,Rayon Sport,Mukura Victory Sports,1,0,,,,0
-1714741200,Police,Mukura Victory Sports,1,0,,,,0
-1714833000,Rayon Sport,APR,0,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1708952400,Police,AS Kigali,WnYHA9YO,IDNyF73o,2,1,,,,0
+1708952400,Amagaju,Mukura Victory Sports,8Y2rT0sN,zPEUrgl4,2,0,,,,0
+1708963200,Rayon Sport,Gorilla,bDYixleJ,rJ5YDcQg,2,2,,,,0
+1709049600,Gasogi United,APR,6HIFuJk4,tr1EvBpR,0,1,,,,0
+1709557200,Mukura Victory Sports,Amagaju,zPEUrgl4,8Y2rT0sN,2,0,Pen,3,0,0
+1709647200,AS Kigali,Police,IDNyF73o,WnYHA9YO,2,2,,,,0
+1709658000,APR,Gasogi United,tr1EvBpR,6HIFuJk4,0,0,,,,0
+1709740800,Gorilla,Rayon Sport,rJ5YDcQg,bDYixleJ,0,1,,,,0
+1713186000,Police,APR,WnYHA9YO,tr1EvBpR,1,1,,,,0
+1713790800,Mukura Victory Sports,Rayon Sport,zPEUrgl4,bDYixleJ,1,1,,,,0
+1714485600,APR,Police,tr1EvBpR,WnYHA9YO,1,0,,,,0
+1714498200,Rayon Sport,Mukura Victory Sports,bDYixleJ,zPEUrgl4,1,0,,,,0
+1714741200,Police,Mukura Victory Sports,WnYHA9YO,zPEUrgl4,1,0,,,,0
+1714833000,Rayon Sport,APR,bDYixleJ,tr1EvBpR,0,2,,,,0

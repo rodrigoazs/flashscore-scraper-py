@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1055368800,Kuopio,Tampere Utd,1,1,AET,1,2,0
-1055431800,Jazz Pori,AC Allianssi,1,2,,,,0
-1056319200,TPV,KuPS,0,4,,,,0
-1056380400,TuTo,Hameenlinna,0,3,,,,0
-1056382200,Zulimanit,TP-47,0,3,,,,0
-1056382200,YPA,Rovaniemi,0,4,,,,0
-1056382200,Salamat,KaPa,2,1,,,,0
-1056382200,KuPS,Inter Turku,2,2,AET,2,3,0
-1056382200,HJK,Haka,2,2,AET,3,2,0
-1056382200,HauPa,Honka,1,4,,,,0
-1056382200,HaNa,Jaro,0,10,,,,0
-1056382200,Futura,KooTeePee,1,1,Pen,1,2,0
-1056382200,AC Oulu,Viikingit,1,3,,,,0
-1056384000,TPS,MyPa,0,2,,,,0
-1056384000,Rauma,Narpes Kraft,1,3,,,,0
-1056384000,JaPS,Abo,2,1,,,,0
-1057505400,Salamat,MyPa,0,2,,,,0
-1057505400,KooTeePee,Narpes Kraft,2,0,,,,0
-1057505400,JaPS,Jaro,0,3,,,,0
-1057505400,Honka,Inter Turku,0,4,,,,0
-1057505400,HJK,Viikingit,6,3,,,,0
-1057505400,Hameenlinna,KuPS,2,0,,,,0
-1060183800,TP-47,AC Allianssi,1,1,AET,1,2,0
-1060183800,Tampere Utd,Rovaniemi,3,1,,,,0
-1060529400,MyPa,Tampere Utd,0,2,,,,0
-1060529400,KooTeePee,Hameenlinna,5,1,,,,0
-1060529400,Jaro,AC Allianssi,1,2,,,,0
-1060529400,HJK,Inter Turku,1,1,,,,0
-1065627000,HJK,KooTeePee,1,1,AET,2,1,0
-1065713400,Tampere Utd,AC Allianssi,2,2,AET,2,3,0
-1067698800,HJK,AC Allianssi,1,1,AET,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1055368800,Kuopio,Tampere Utd,UBw2W0Kg,IFb9tqla,1,1,AET,1,2,0
+1055431800,Jazz Pori,AC Allianssi,2ZlfMMDL,Q7vqi4KT,1,2,,,,0
+1056319200,TPV,KuPS,QyGb2mBG,MPMRnwYF,0,4,,,,0
+1056380400,TuTo,Hameenlinna,MyuyPuLa,0GLVocmM,0,3,,,,0
+1056382200,Zulimanit,TP-47,fBA5su8K,86OeMIIr,0,3,,,,0
+1056382200,YPA,Rovaniemi,v3b841Xb,zVgW5cY1,0,4,,,,0
+1056382200,Salamat,KaPa,rV1Bz6Y8,nTLUUUol,2,1,,,,0
+1056382200,KuPS,Inter Turku,MPMRnwYF,lGvMSKuF,2,2,AET,2,3,0
+1056382200,HJK,Haka,xO7wlFSD,KtjRAU38,2,2,AET,3,2,0
+1056382200,HauPa,Honka,z3Bu3VS3,MVJgU4O3,1,4,,,,0
+1056382200,HaNa,Jaro,,hGuhahGg,0,10,,,,0
+1056382200,Futura,KooTeePee,OMIIvzhg,6cxUQbAR,1,1,Pen,1,2,0
+1056382200,AC Oulu,Viikingit,6cxUQbAR,42ZyYd5s,1,3,,,,0
+1056384000,TPS,MyPa,GlTeTYJC,hGuhahGg,0,2,,,,0
+1056384000,Rauma,Narpes Kraft,jykKskr8,2DHMwf7a,1,3,,,,0
+1056384000,JaPS,Abo,dObvuURo,S6wQRveL,2,1,,,,0
+1057505400,Salamat,MyPa,rV1Bz6Y8,hGuhahGg,0,2,,,,0
+1057505400,KooTeePee,Narpes Kraft,6cxUQbAR,2DHMwf7a,2,0,,,,0
+1057505400,JaPS,Jaro,dObvuURo,hGuhahGg,0,3,,,,0
+1057505400,Honka,Inter Turku,MVJgU4O3,lGvMSKuF,0,4,,,,0
+1057505400,HJK,Viikingit,xO7wlFSD,42ZyYd5s,6,3,,,,0
+1057505400,Hameenlinna,KuPS,0GLVocmM,MPMRnwYF,2,0,,,,0
+1060183800,TP-47,AC Allianssi,86OeMIIr,Q7vqi4KT,1,1,AET,1,2,0
+1060183800,Tampere Utd,Rovaniemi,IFb9tqla,zVgW5cY1,3,1,,,,0
+1060529400,MyPa,Tampere Utd,hGuhahGg,IFb9tqla,0,2,,,,0
+1060529400,KooTeePee,Hameenlinna,6cxUQbAR,0GLVocmM,5,1,,,,0
+1060529400,Jaro,AC Allianssi,hGuhahGg,Q7vqi4KT,1,2,,,,0
+1060529400,HJK,Inter Turku,xO7wlFSD,lGvMSKuF,1,1,,,,0
+1065627000,HJK,KooTeePee,xO7wlFSD,6cxUQbAR,1,1,AET,2,1,0
+1065713400,Tampere Utd,AC Allianssi,IFb9tqla,Q7vqi4KT,2,2,AET,2,3,0
+1067698800,HJK,AC Allianssi,xO7wlFSD,Q7vqi4KT,1,1,AET,2,1,0

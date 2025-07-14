@@ -1,39 +1,39 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1063663200,Sloboda Varazdin,Istra 1961,2,6,,,,0
-1063663200,Primorac Biograd,Hajduk Split,0,2,,,,0
-1063663200,Mosor,Zapresic,1,0,,,,0
-1063749600,Zagorec K.,Sibenik,1,0,,,,0
-1063749600,Vukovar 1991,Slaven Belupo,0,1,,,,0
-1063749600,Valpovka,Varazdin,0,2,,,,0
-1063749600,Sloga NG,NK Zagreb,0,2,,,,0
-1063749600,Segesta,Zadar,1,4,,,,0
-1063749600,Nehaj Senj,Rijeka,1,7,,,,0
-1063749600,Nehaj Senj,Dragovoljac,1,1,AET,2,1,0
-1063749600,Metalac Osijek,Cibalia,1,1,AET,1,2,0
-1063749600,Croatia Sesvete,NK Pomorac,3,0,,,,0
-1063749600,Bjelovar,Belisce,3,1,,,,0
-1063807200,Virovitica,Osijek,1,2,,,,0
-1063807200,Lucko,D. Zagreb,0,3,,,,0
-1063807200,Koprivnica,NK Kamen Ingrad,0,2,,,,0
-1067346000,Bjelovar,D. Zagreb,1,4,,,,0
-1067353200,Hajduk Split,Zadar,3,1,,,,0
-1067432400,Zagorec K.,Varazdin,0,3,,,,0
-1067432400,Osijek,Mosor,3,2,,,,0
-1067432400,Cibalia,Neretva,3,3,AET,4,3,0
-1067439600,Croatia Sesvete,Istra 1961,2,4,,,,0
-1067443200,Rijeka,NK Zagreb,3,0,,,,0
-1067443200,NK Kamen Ingrad,Slaven Belupo,2,0,,,,0
-1079452800,NK Kamen Ingrad,Rijeka,2,3,,,,0
-1079530200,Cibalia,Hajduk Split,0,0,,,,0
-1079533800,Istra 1961,Varazdin,2,0,,,,0
-1079539200,Osijek,D. Zagreb,0,2,,,,0
-1080052200,Hajduk Split,Cibalia,0,1,,,,0
-1080144000,Rijeka,NK Kamen Ingrad,2,0,,,,0
-1080147600,Varazdin,Istra 1961,5,0,,,,0
-1080147600,D. Zagreb,Osijek,3,1,,,,0
-1081261800,Cibalia,Varazdin,1,3,,,,0
-1081353600,D. Zagreb,Rijeka,4,2,,,,0
-1081958400,Varazdin,Cibalia,5,1,,,,0
-1081958400,Rijeka,D. Zagreb,1,0,,,,0
-1083773700,Varazdin,D. Zagreb,1,1,,,,0
-1084983300,D. Zagreb,Varazdin,0,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1063663200,Sloboda Varazdin,Istra 1961,vXilBiDU,S0dWTsz4,2,6,,,,0
+1063663200,Primorac Biograd,Hajduk Split,dp8KDfVH,Mc6FcsjL,0,2,,,,0
+1063663200,Mosor,Zapresic,Ay40k8Ga,fuSaShZI,1,0,,,,0
+1063749600,Zagorec K.,Sibenik,I7IhpUKs,YgThBW79,1,0,,,,0
+1063749600,Vukovar 1991,Slaven Belupo,QmEhB75o,xluSzFWQ,0,1,,,,0
+1063749600,Valpovka,Varazdin,jTAJdVjq,CCW2Z0Rb,0,2,,,,0
+1063749600,Sloga NG,NK Zagreb,2eO85Pc4,dGpvXbgG,0,2,,,,0
+1063749600,Segesta,Zadar,nZALE08p,EBDRDbzn,1,4,,,,0
+1063749600,Nehaj Senj,Rijeka,b3DnZCVj,YDFGOnMF,1,7,,,,0
+1063749600,Nehaj Senj,Dragovoljac,b3DnZCVj,r9KVUYrB,1,1,AET,2,1,0
+1063749600,Metalac Osijek,Cibalia,ADPFYGqn,x4Xh4Pu0,1,1,AET,1,2,0
+1063749600,Croatia Sesvete,NK Pomorac,CUo8A66t,OYlPxDI8,3,0,,,,0
+1063749600,Bjelovar,Belisce,UPhyZXn8,ER5SBYaU,3,1,,,,0
+1063807200,Virovitica,Osijek,hYUQW0Q6,x4Xh4Pu0,1,2,,,,0
+1063807200,Lucko,D. Zagreb,bDYl55Qg,GU4hlIMk,0,3,,,,0
+1063807200,Koprivnica,NK Kamen Ingrad,hIpnkcid,dW800F74,0,2,,,,0
+1067346000,Bjelovar,D. Zagreb,UPhyZXn8,GU4hlIMk,1,4,,,,0
+1067353200,Hajduk Split,Zadar,Mc6FcsjL,EBDRDbzn,3,1,,,,0
+1067432400,Zagorec K.,Varazdin,I7IhpUKs,CCW2Z0Rb,0,3,,,,0
+1067432400,Osijek,Mosor,x4Xh4Pu0,Ay40k8Ga,3,2,,,,0
+1067432400,Cibalia,Neretva,x4Xh4Pu0,dp8KDfVH,3,3,AET,4,3,0
+1067439600,Croatia Sesvete,Istra 1961,CUo8A66t,S0dWTsz4,2,4,,,,0
+1067443200,Rijeka,NK Zagreb,YDFGOnMF,dGpvXbgG,3,0,,,,0
+1067443200,NK Kamen Ingrad,Slaven Belupo,dW800F74,xluSzFWQ,2,0,,,,0
+1079452800,NK Kamen Ingrad,Rijeka,dW800F74,YDFGOnMF,2,3,,,,0
+1079530200,Cibalia,Hajduk Split,x4Xh4Pu0,Mc6FcsjL,0,0,,,,0
+1079533800,Istra 1961,Varazdin,S0dWTsz4,CCW2Z0Rb,2,0,,,,0
+1079539200,Osijek,D. Zagreb,x4Xh4Pu0,GU4hlIMk,0,2,,,,0
+1080052200,Hajduk Split,Cibalia,Mc6FcsjL,x4Xh4Pu0,0,1,,,,0
+1080144000,Rijeka,NK Kamen Ingrad,YDFGOnMF,dW800F74,2,0,,,,0
+1080147600,Varazdin,Istra 1961,CCW2Z0Rb,S0dWTsz4,5,0,,,,0
+1080147600,D. Zagreb,Osijek,GU4hlIMk,x4Xh4Pu0,3,1,,,,0
+1081261800,Cibalia,Varazdin,x4Xh4Pu0,CCW2Z0Rb,1,3,,,,0
+1081353600,D. Zagreb,Rijeka,GU4hlIMk,YDFGOnMF,4,2,,,,0
+1081958400,Varazdin,Cibalia,CCW2Z0Rb,x4Xh4Pu0,5,1,,,,0
+1081958400,Rijeka,D. Zagreb,YDFGOnMF,GU4hlIMk,1,0,,,,0
+1083773700,Varazdin,D. Zagreb,CCW2Z0Rb,GU4hlIMk,1,1,,,,0
+1084983300,D. Zagreb,Varazdin,GU4hlIMk,CCW2Z0Rb,0,0,,,,0

@@ -1,34 +1,34 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1652347800,Newcastle Jets,Perth Glory,3,1,,,,0
-1652434200,WS Wanderers,Brisbane Roar,1,3,,,,0
-1658395800,Mindil Aces,Avondale FC,0,6,,,,0
-1658395800,Bonnyrigg White Eagles,Oakleigh Cannons,0,5,,,,0
-1658395800,Bentleigh Greens,Broadmeadow,1,1,AET,2,1,0
-1658399400,Armadale,Modbury Jets,2,5,,,,0
-1658914200,Wollongong United,Green Gully,2,3,,,,0
-1658914200,Heidelberg Utd,Brisbane Roar,1,3,,,,0
-1658914200,Brisbane City,Cockburn City,3,1,,,,0
-1658914200,Adelaide City,Logan Lightning,1,0,,,,0
-1659166200,Magpies Crusaders,Macarthur FC,0,6,,,,0
-1659173400,Newcastle Jets,Adelaide United,0,2,,,,0
-1659247200,Sydney FC,Central Coast Mariners,3,3,Pen,4,3,0
-1659432600,Newcastle Olympic,Melbourne City,0,1,,,,0
-1659519000,Western United,Melbourne Victory,2,1,,,,0
-1659519000,Sydney Utd,Monaro Panthers,3,0,,,,0
-1659519000,Peninsula,NWS Spirit,4,1,,,,0
-1659519000,Devonport,Wellington Phoenix,0,4,,,,0
-1660123800,Modbury Jets,Macarthur FC,0,4,,,,0
-1660123800,Bentleigh Greens,Sydney FC,1,2,,,,0
-1660449600,Sydney Utd,Western United,1,1,Pen,2,1,0
-1660456800,Peninsula,Green Gully,2,1,,,,0
-1660728600,Oakleigh Cannons,Brisbane City,3,3,AET,5,3,0
-1660728600,Melbourne City,Wellington Phoenix,1,2,,,,0
-1660728600,Avondale FC,Brisbane Roar,1,1,Pen,2,3,0
-1660728600,Adelaide City,Adelaide United,1,1,Pen,2,3,0
-1661662800,Peninsula,Sydney Utd,0,1,,,,0
-1661938200,Oakleigh Cannons,Sydney FC,2,1,,,,0
-1661938200,Macarthur FC,Wellington Phoenix,2,0,,,,0
-1661938200,Adelaide United,Brisbane Roar,1,2,,,,0
-1662868800,Sydney Utd,Brisbane Roar,2,2,AET,3,2,0
-1663147800,Oakleigh Cannons,Macarthur FC,2,5,,,,0
-1664617500,Sydney Utd,Macarthur FC,0,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1652347800,Newcastle Jets,Perth Glory,AowXufJO,8p3P7cak,3,1,,,,0
+1652434200,WS Wanderers,Brisbane Roar,ELjhZ8l9,OlyE5V4J,1,3,,,,0
+1658395800,Mindil Aces,Avondale FC,h6bm5yZ0,GhHvM1Vf,0,6,,,,0
+1658395800,Bonnyrigg White Eagles,Oakleigh Cannons,fgoTRsRB,CWd68m3F,0,5,,,,0
+1658395800,Bentleigh Greens,Broadmeadow,hf8k38gO,CQwpIV87,1,1,AET,2,1,0
+1658399400,Armadale,Modbury Jets,Mmm1EEVD,A3YCUXH5,2,5,,,,0
+1658914200,Wollongong United,Green Gully,SpjLOX5Q,dIVgk6uj,2,3,,,,0
+1658914200,Heidelberg Utd,Brisbane Roar,jFwEofz6,OlyE5V4J,1,3,,,,0
+1658914200,Brisbane City,Cockburn City,nyGl4dZp,Oj6QqlfH,3,1,,,,0
+1658914200,Adelaide City,Logan Lightning,xI4FzQJf,t4xgt3Tg,1,0,,,,0
+1659166200,Magpies Crusaders,Macarthur FC,plstAnv3,YLT3ZeZm,0,6,,,,0
+1659173400,Newcastle Jets,Adelaide United,AowXufJO,j7XSkexg,0,2,,,,0
+1659247200,Sydney FC,Central Coast Mariners,WU4sOyqK,WloyQSJM,3,3,Pen,4,3,0
+1659432600,Newcastle Olympic,Melbourne City,2DNXrlCE,rL2rkgzd,0,1,,,,0
+1659519000,Western United,Melbourne Victory,G689Zsd3,jm1g2SD5,2,1,,,,0
+1659519000,Sydney Utd,Monaro Panthers,v59iEWvF,QeUbqFAI,3,0,,,,0
+1659519000,Peninsula,NWS Spirit,2DNXrlCE,xAC8j8lC,4,1,,,,0
+1659519000,Devonport,Wellington Phoenix,IVIHHed1,rL2rkgzd,0,4,,,,0
+1660123800,Modbury Jets,Macarthur FC,A3YCUXH5,YLT3ZeZm,0,4,,,,0
+1660123800,Bentleigh Greens,Sydney FC,hf8k38gO,WU4sOyqK,1,2,,,,0
+1660449600,Sydney Utd,Western United,v59iEWvF,G689Zsd3,1,1,Pen,2,1,0
+1660456800,Peninsula,Green Gully,2DNXrlCE,dIVgk6uj,2,1,,,,0
+1660728600,Oakleigh Cannons,Brisbane City,CWd68m3F,nyGl4dZp,3,3,AET,5,3,0
+1660728600,Melbourne City,Wellington Phoenix,rL2rkgzd,rL2rkgzd,1,2,,,,0
+1660728600,Avondale FC,Brisbane Roar,GhHvM1Vf,OlyE5V4J,1,1,Pen,2,3,0
+1660728600,Adelaide City,Adelaide United,xI4FzQJf,j7XSkexg,1,1,Pen,2,3,0
+1661662800,Peninsula,Sydney Utd,2DNXrlCE,v59iEWvF,0,1,,,,0
+1661938200,Oakleigh Cannons,Sydney FC,CWd68m3F,WU4sOyqK,2,1,,,,0
+1661938200,Macarthur FC,Wellington Phoenix,YLT3ZeZm,rL2rkgzd,2,0,,,,0
+1661938200,Adelaide United,Brisbane Roar,j7XSkexg,OlyE5V4J,1,2,,,,0
+1662868800,Sydney Utd,Brisbane Roar,v59iEWvF,OlyE5V4J,2,2,AET,3,2,0
+1663147800,Oakleigh Cannons,Macarthur FC,CWd68m3F,YLT3ZeZm,2,5,,,,0
+1664617500,Sydney Utd,Macarthur FC,v59iEWvF,YLT3ZeZm,0,2,,,,0

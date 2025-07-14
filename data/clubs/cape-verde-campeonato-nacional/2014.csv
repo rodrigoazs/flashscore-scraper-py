@@ -1,37 +1,37 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1396717200,Verdun,Academica do Fogo,2,2,,,,0
-1396717200,Mindelense,Academica Boavista,4,0,,,,0
-1396801800,SC Atletico,Academico 83,1,0,,,,0
-1396801800,FC Derby,Desportivo Nhagar,1,1,,,,0
-1396801800,Academica Porto Novo,Sporting Praia,0,0,,,,0
-1396803600,Sporting da Brava,Paulense,1,1,,,,0
-1397322000,Paulense,Sporting Praia,0,1,,,,0
-1397322000,Mindelense,SC Atletico,1,0,,,,0
-1397322000,Desportivo Nhagar,Sporting da Brava,1,1,,,,0
-1397322000,Academico 83,Verdun,2,1,,,,0
-1397322000,Academica do Fogo,Academica Boavista,2,0,,,,0
-1397408400,Academica Porto Novo,FC Derby,2,1,,,,0
-1397926800,Sporting Praia,Sporting da Brava,3,0,,,,0
-1397926800,SC Atletico,Academica do Fogo,1,1,,,,0
-1397926800,FC Derby,Paulense,0,1,,,,0
-1397926800,Academico 83,Mindelense,0,2,,,,0
-1397926800,Academica Boavista,Verdun,1,0,,,,0
-1398013200,Desportivo Nhagar,Academica Porto Novo,1,0,,,,0
-1398531600,Verdun,SC Atletico,0,1,,,,0
-1398531600,Sporting Praia,Desportivo Nhagar,2,1,,,,0
-1398531600,Paulense,Academica Porto Novo,0,0,,,,0
-1398531600,Academica do Fogo,Mindelense,2,1,,,,0
-1398531600,Academica Boavista,Academico 83,1,3,,,,0
-1398618000,Sporting da Brava,FC Derby,1,2,,,,0
-1399136400,SC Atletico,Academica Boavista,0,1,,,,0
-1399136400,Mindelense,Verdun,1,0,,,,0
-1399136400,Academico 83,Academica do Fogo,0,3,,,,0
-1399221000,FC Derby,Sporting Praia,0,1,,,,0
-1399221000,Desportivo Nhagar,Paulense,2,1,,,,0
-1399221000,Academica Porto Novo,Sporting da Brava,5,0,,,,0
-1399741200,Academica do Fogo,Sporting Praia,0,0,,,,0
-1399741200,Academica Porto Novo,Mindelense,0,0,,,,0
-1400344200,Sporting Praia,Academica do Fogo,2,2,,,,0
-1400344200,Mindelense,Academica Porto Novo,3,0,,,,0
-1400949000,Mindelense,Academica do Fogo,2,1,,,,0
-1401553800,Academica do Fogo,Mindelense,0,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1396717200,Verdun,Academica do Fogo,nPXeakM3,AqxDH6wm,2,2,,,,0
+1396717200,Mindelense,Academica Boavista,QNEfHZk3,AqxDH6wm,4,0,,,,0
+1396801800,SC Atletico,Academico 83,0O5bjg08,AqxDH6wm,1,0,,,,0
+1396801800,FC Derby,Desportivo Nhagar,QNEfHZk3,nPXeakM3,1,1,,,,0
+1396801800,Academica Porto Novo,Sporting Praia,AqxDH6wm,AqxDH6wm,0,0,,,,0
+1396803600,Sporting da Brava,Paulense,OnWab9yA,nPXeakM3,1,1,,,,0
+1397322000,Paulense,Sporting Praia,nPXeakM3,AqxDH6wm,0,1,,,,0
+1397322000,Mindelense,SC Atletico,QNEfHZk3,0O5bjg08,1,0,,,,0
+1397322000,Desportivo Nhagar,Sporting da Brava,nPXeakM3,OnWab9yA,1,1,,,,0
+1397322000,Academico 83,Verdun,AqxDH6wm,nPXeakM3,2,1,,,,0
+1397322000,Academica do Fogo,Academica Boavista,AqxDH6wm,AqxDH6wm,2,0,,,,0
+1397408400,Academica Porto Novo,FC Derby,AqxDH6wm,QNEfHZk3,2,1,,,,0
+1397926800,Sporting Praia,Sporting da Brava,AqxDH6wm,OnWab9yA,3,0,,,,0
+1397926800,SC Atletico,Academica do Fogo,0O5bjg08,AqxDH6wm,1,1,,,,0
+1397926800,FC Derby,Paulense,QNEfHZk3,nPXeakM3,0,1,,,,0
+1397926800,Academico 83,Mindelense,AqxDH6wm,QNEfHZk3,0,2,,,,0
+1397926800,Academica Boavista,Verdun,AqxDH6wm,nPXeakM3,1,0,,,,0
+1398013200,Desportivo Nhagar,Academica Porto Novo,nPXeakM3,AqxDH6wm,1,0,,,,0
+1398531600,Verdun,SC Atletico,nPXeakM3,0O5bjg08,0,1,,,,0
+1398531600,Sporting Praia,Desportivo Nhagar,AqxDH6wm,nPXeakM3,2,1,,,,0
+1398531600,Paulense,Academica Porto Novo,nPXeakM3,AqxDH6wm,0,0,,,,0
+1398531600,Academica do Fogo,Mindelense,AqxDH6wm,QNEfHZk3,2,1,,,,0
+1398531600,Academica Boavista,Academico 83,AqxDH6wm,AqxDH6wm,1,3,,,,0
+1398618000,Sporting da Brava,FC Derby,OnWab9yA,QNEfHZk3,1,2,,,,0
+1399136400,SC Atletico,Academica Boavista,0O5bjg08,AqxDH6wm,0,1,,,,0
+1399136400,Mindelense,Verdun,QNEfHZk3,nPXeakM3,1,0,,,,0
+1399136400,Academico 83,Academica do Fogo,AqxDH6wm,AqxDH6wm,0,3,,,,0
+1399221000,FC Derby,Sporting Praia,QNEfHZk3,AqxDH6wm,0,1,,,,0
+1399221000,Desportivo Nhagar,Paulense,nPXeakM3,nPXeakM3,2,1,,,,0
+1399221000,Academica Porto Novo,Sporting da Brava,AqxDH6wm,OnWab9yA,5,0,,,,0
+1399741200,Academica do Fogo,Sporting Praia,AqxDH6wm,AqxDH6wm,0,0,,,,0
+1399741200,Academica Porto Novo,Mindelense,AqxDH6wm,QNEfHZk3,0,0,,,,0
+1400344200,Sporting Praia,Academica do Fogo,AqxDH6wm,AqxDH6wm,2,2,,,,0
+1400344200,Mindelense,Academica Porto Novo,QNEfHZk3,AqxDH6wm,3,0,,,,0
+1400949000,Mindelense,Academica do Fogo,QNEfHZk3,AqxDH6wm,2,1,,,,0
+1401553800,Academica do Fogo,Mindelense,AqxDH6wm,QNEfHZk3,0,0,,,,0

@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1161687600,Unirea Urziceni,Daco-Getica Bucuresti,0,0,AET,2,1,0
-1161687600,Unirea Alba-Iulia,Sporting Vaslui,0,0,Pen,1,0,0
-1161687600,Somesul Satu-Mare,CFR Cluj,0,4,,,,0
-1161687600,Progresul Bucuresti,CSM Bacau,2,1,,,,0
-1161687600,Pandurii,Jiul Petrosani,0,0,Pen,1,0,0
-1161687600,Farul Constanta,Gloria Buzau,4,1,,,,0
-1161711900,Din. Bucuresti,F. Constanta 2,3,1,,,,0
-1161765000,FC Arges,CSM Bacau II,1,0,,,,0
-1161774000,UTA Arad,CS Otopeni,1,1,AET,4,1,0
-1161774000,Poli Iasi,U. Cluj,2,1,,,,0
-1161774000,Gloria Bistrita,Caracal,1,1,Pen,1,2,0
-1161774000,FC Rapid Bucuresti,Ramnicu Valcea,4,0,,,,0
-1161774000,Corvinul,Otelul,0,0,AET,1,5,0
-1161774000,Ceahlaul,U Craiova 1948,1,2,,,,0
-1161777600,FC Timisoara II,Timisoara,1,3,,,,0
-1161798300,FCSB,Forex Brasov,3,0,,,,0
-1162897200,UTA Arad,FC Arges,0,2,,,,0
-1162897200,Progresul Bucuresti,Caracal,2,2,AET,3,2,0
-1162983600,Unirea Urziceni,Otelul,1,2,,,,0
-1162983600,Timisoara,CFR Cluj,2,0,,,,0
-1162983600,Poli Iasi,Farul Constanta,1,0,,,,0
-1162983600,Pandurii,Din. Bucuresti,0,0,AET,1,0,0
-1163011500,FC Rapid Bucuresti,U Craiova 1948,1,0,,,,0
-1163097900,FCSB,Unirea Alba-Iulia,2,1,,,,0
-1172664000,Pandurii,Progresul Bucuresti,2,2,AET,3,2,0
-1172678400,Timisoara,Poli Iasi,2,1,,,,0
-1172688300,FC Rapid Bucuresti,FC Arges,0,0,AET,2,0,0
-1172774700,FCSB,Otelul,2,2,Pen,4,3,0
-1176918300,Timisoara,FCSB,1,0,,,,0
-1177004700,Pandurii,FC Rapid Bucuresti,0,2,,,,0
-1180201500,FC Rapid Bucuresti,Timisoara,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1161687600,Unirea Urziceni,Daco-Getica Bucuresti,OUUX0e6e,2cDKpg10,0,0,AET,2,1,0
+1161687600,Unirea Alba-Iulia,Sporting Vaslui,IoB8Kie3,EJgv6Oot,0,0,Pen,1,0,0
+1161687600,Somesul Satu-Mare,CFR Cluj,j9pBsCSG,OUUX0e6e,0,4,,,,0
+1161687600,Progresul Bucuresti,CSM Bacau,j9pqhlf5,O6EGoZof,2,1,,,,0
+1161687600,Pandurii,Jiul Petrosani,vZ6gsKf8,GAvHz8iS,0,0,Pen,1,0,0
+1161687600,Farul Constanta,Gloria Buzau,8r67AZON,4vwRarIs,4,1,,,,0
+1161711900,Din. Bucuresti,F. Constanta 2,EyedO184,8r67AZON,3,1,,,,0
+1161765000,FC Arges,CSM Bacau II,O6EGoZof,WpXUFkI0,1,0,,,,0
+1161774000,UTA Arad,CS Otopeni,Gz6u3B3U,2cDKpg10,1,1,AET,4,1,0
+1161774000,Poli Iasi,U. Cluj,MewIvT6n,v1mKniN8,2,1,,,,0
+1161774000,Gloria Bistrita,Caracal,2cDKpg10,MTIYl1Ir,1,1,Pen,1,2,0
+1161774000,FC Rapid Bucuresti,Ramnicu Valcea,8vn2oaqs,pS9wGfem,4,0,,,,0
+1161774000,Corvinul,Otelul,GzAEvNpm,lAmyV7fK,0,0,AET,1,5,0
+1161774000,Ceahlaul,U Craiova 1948,IitiGvgF,AB4EluEP,1,2,,,,0
+1161777600,FC Timisoara II,Timisoara,lGKHmEoM,0SFoBykb,1,3,,,,0
+1161798300,FCSB,Forex Brasov,SCh1iPaa,2X3IGakG,3,0,,,,0
+1162897200,UTA Arad,FC Arges,Gz6u3B3U,O6EGoZof,0,2,,,,0
+1162897200,Progresul Bucuresti,Caracal,j9pqhlf5,MTIYl1Ir,2,2,AET,3,2,0
+1162983600,Unirea Urziceni,Otelul,OUUX0e6e,lAmyV7fK,1,2,,,,0
+1162983600,Timisoara,CFR Cluj,0SFoBykb,OUUX0e6e,2,0,,,,0
+1162983600,Poli Iasi,Farul Constanta,MewIvT6n,8r67AZON,1,0,,,,0
+1162983600,Pandurii,Din. Bucuresti,vZ6gsKf8,EyedO184,0,0,AET,1,0,0
+1163011500,FC Rapid Bucuresti,U Craiova 1948,8vn2oaqs,AB4EluEP,1,0,,,,0
+1163097900,FCSB,Unirea Alba-Iulia,SCh1iPaa,IoB8Kie3,2,1,,,,0
+1172664000,Pandurii,Progresul Bucuresti,vZ6gsKf8,j9pqhlf5,2,2,AET,3,2,0
+1172678400,Timisoara,Poli Iasi,0SFoBykb,MewIvT6n,2,1,,,,0
+1172688300,FC Rapid Bucuresti,FC Arges,8vn2oaqs,O6EGoZof,0,0,AET,2,0,0
+1172774700,FCSB,Otelul,SCh1iPaa,lAmyV7fK,2,2,Pen,4,3,0
+1176918300,Timisoara,FCSB,0SFoBykb,SCh1iPaa,1,0,,,,0
+1177004700,Pandurii,FC Rapid Bucuresti,vZ6gsKf8,8vn2oaqs,0,2,,,,0
+1180201500,FC Rapid Bucuresti,Timisoara,8vn2oaqs,0SFoBykb,2,0,,,,0

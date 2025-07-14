@@ -1,62 +1,62 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1475328600,North East Utd,Kerala Blasters,1,0,,,,0
-1475415000,ATK,Chennaiyin,2,2,,,,0
-1475501400,Pune City,Mumbai City,0,1,,,,0
-1475587800,North East Utd,Goa,2,0,,,,0
-1475674200,Kerala Blasters,ATK,0,1,,,,0
-1475760600,Chennaiyin,Odisha FC,1,3,,,,0
-1475847000,Mumbai City,North East Utd,1,0,,,,0
-1475933400,Goa,Pune City,1,2,,,,0
-1476019800,Kerala Blasters,Odisha FC,0,0,,,,0
-1476192600,Mumbai City,ATK,1,1,,,,0
-1476279000,Pune City,North East Utd,0,1,,,,0
-1476365400,Chennaiyin,Goa,2,0,,,,0
-1476451800,Kerala Blasters,Mumbai City,1,0,,,,0
-1476538200,Odisha FC,North East Utd,1,1,,,,0
-1476624600,ATK,Goa,1,1,,,,0
-1476711000,Pune City,Kerala Blasters,1,1,,,,0
-1476797400,Odisha FC,Mumbai City,3,3,,,,0
-1476970200,North East Utd,Chennaiyin,0,1,,,,0
-1477056600,Mumbai City,Goa,0,1,,,,0
-1477143000,ATK,Odisha FC,1,0,,,,0
-1477229400,Pune City,Chennaiyin,1,1,,,,0
-1477315800,Goa,Kerala Blasters,1,2,,,,0
-1477402200,ATK,Mumbai City,0,1,,,,0
-1477575000,Odisha FC,Pune City,1,1,,,,0
-1477661400,North East Utd,ATK,1,2,,,,0
-1477747800,Chennaiyin,Kerala Blasters,0,0,,,,0
-1477834200,Goa,Odisha FC,0,2,,,,0
-1478093400,Chennaiyin,Mumbai City,1,1,,,,0
-1478179800,Pune City,Goa,0,1,,,,0
-1478266200,Odisha FC,Kerala Blasters,2,0,,,,0
-1478352600,North East Utd,Mumbai City,0,1,,,,0
-1478439000,Pune City,ATK,2,1,,,,0
-1478611800,Kerala Blasters,Goa,2,1,,,,0
-1478698200,Odisha FC,Chennaiyin,4,1,,,,0
-1478784600,Mumbai City,Pune City,0,1,,,,0
-1478871000,Goa,North East Utd,2,1,,,,0
-1478957400,Kerala Blasters,Chennaiyin,3,1,,,,0
-1479043800,Odisha FC,ATK,2,2,,,,0
-1479216600,Chennaiyin,Pune City,2,0,,,,0
-1479303000,Goa,Mumbai City,0,0,,,,0
-1479389400,ATK,North East Utd,1,1,,,,0
-1479475800,Pune City,Odisha FC,4,3,,,,0
-1479562200,Mumbai City,Kerala Blasters,5,0,,,,0
-1479648600,Chennaiyin,ATK,1,1,,,,0
-1479821400,North East Utd,Pune City,1,0,,,,0
-1479907800,Mumbai City,Chennaiyin,2,0,,,,0
-1479994200,Goa,ATK,1,2,,,,0
-1480080600,Kerala Blasters,Pune City,2,1,,,,0
-1480167000,Chennaiyin,North East Utd,3,3,,,,0
-1480253400,Odisha FC,Goa,5,1,,,,0
-1480426200,ATK,Kerala Blasters,1,1,,,,0
-1480512600,North East Utd,Odisha FC,2,1,,,,0
-1480599000,Goa,Chennaiyin,5,4,,,,0
-1480685400,ATK,Pune City,0,0,,,,0
-1480771800,Mumbai City,Odisha FC,0,0,,,,0
-1480858200,Kerala Blasters,North East Utd,1,0,,,,0
-1481376600,ATK,Mumbai City,3,2,,,,0
-1481463000,Kerala Blasters,Odisha FC,1,0,,,,0
-1481635800,Mumbai City,ATK,0,0,,,,0
-1481722200,Odisha FC,Kerala Blasters,2,1,Pen,2,2,0
-1482067800,Kerala Blasters,ATK,1,1,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1475328600,North East Utd,Kerala Blasters,URNmjRbg,f5R8609I,1,0,,,,0
+1475415000,ATK,Chennaiyin,v7SnINll,AkyQ8yz9,2,2,,,,0
+1475501400,Pune City,Mumbai City,GGNjqQuH,bk07S9TB,0,1,,,,0
+1475587800,North East Utd,Goa,URNmjRbg,GdaqjtST,2,0,,,,0
+1475674200,Kerala Blasters,ATK,f5R8609I,v7SnINll,0,1,,,,0
+1475760600,Chennaiyin,Odisha FC,AkyQ8yz9,COxht5b5,1,3,,,,0
+1475847000,Mumbai City,North East Utd,bk07S9TB,URNmjRbg,1,0,,,,0
+1475933400,Goa,Pune City,GdaqjtST,GGNjqQuH,1,2,,,,0
+1476019800,Kerala Blasters,Odisha FC,f5R8609I,COxht5b5,0,0,,,,0
+1476192600,Mumbai City,ATK,bk07S9TB,v7SnINll,1,1,,,,0
+1476279000,Pune City,North East Utd,GGNjqQuH,URNmjRbg,0,1,,,,0
+1476365400,Chennaiyin,Goa,AkyQ8yz9,GdaqjtST,2,0,,,,0
+1476451800,Kerala Blasters,Mumbai City,f5R8609I,bk07S9TB,1,0,,,,0
+1476538200,Odisha FC,North East Utd,COxht5b5,URNmjRbg,1,1,,,,0
+1476624600,ATK,Goa,v7SnINll,GdaqjtST,1,1,,,,0
+1476711000,Pune City,Kerala Blasters,GGNjqQuH,f5R8609I,1,1,,,,0
+1476797400,Odisha FC,Mumbai City,COxht5b5,bk07S9TB,3,3,,,,0
+1476970200,North East Utd,Chennaiyin,URNmjRbg,AkyQ8yz9,0,1,,,,0
+1477056600,Mumbai City,Goa,bk07S9TB,GdaqjtST,0,1,,,,0
+1477143000,ATK,Odisha FC,v7SnINll,COxht5b5,1,0,,,,0
+1477229400,Pune City,Chennaiyin,GGNjqQuH,AkyQ8yz9,1,1,,,,0
+1477315800,Goa,Kerala Blasters,GdaqjtST,f5R8609I,1,2,,,,0
+1477402200,ATK,Mumbai City,v7SnINll,bk07S9TB,0,1,,,,0
+1477575000,Odisha FC,Pune City,COxht5b5,GGNjqQuH,1,1,,,,0
+1477661400,North East Utd,ATK,URNmjRbg,v7SnINll,1,2,,,,0
+1477747800,Chennaiyin,Kerala Blasters,AkyQ8yz9,f5R8609I,0,0,,,,0
+1477834200,Goa,Odisha FC,GdaqjtST,COxht5b5,0,2,,,,0
+1478093400,Chennaiyin,Mumbai City,AkyQ8yz9,bk07S9TB,1,1,,,,0
+1478179800,Pune City,Goa,GGNjqQuH,GdaqjtST,0,1,,,,0
+1478266200,Odisha FC,Kerala Blasters,COxht5b5,f5R8609I,2,0,,,,0
+1478352600,North East Utd,Mumbai City,URNmjRbg,bk07S9TB,0,1,,,,0
+1478439000,Pune City,ATK,GGNjqQuH,v7SnINll,2,1,,,,0
+1478611800,Kerala Blasters,Goa,f5R8609I,GdaqjtST,2,1,,,,0
+1478698200,Odisha FC,Chennaiyin,COxht5b5,AkyQ8yz9,4,1,,,,0
+1478784600,Mumbai City,Pune City,bk07S9TB,GGNjqQuH,0,1,,,,0
+1478871000,Goa,North East Utd,GdaqjtST,URNmjRbg,2,1,,,,0
+1478957400,Kerala Blasters,Chennaiyin,f5R8609I,AkyQ8yz9,3,1,,,,0
+1479043800,Odisha FC,ATK,COxht5b5,v7SnINll,2,2,,,,0
+1479216600,Chennaiyin,Pune City,AkyQ8yz9,GGNjqQuH,2,0,,,,0
+1479303000,Goa,Mumbai City,GdaqjtST,bk07S9TB,0,0,,,,0
+1479389400,ATK,North East Utd,v7SnINll,URNmjRbg,1,1,,,,0
+1479475800,Pune City,Odisha FC,GGNjqQuH,COxht5b5,4,3,,,,0
+1479562200,Mumbai City,Kerala Blasters,bk07S9TB,f5R8609I,5,0,,,,0
+1479648600,Chennaiyin,ATK,AkyQ8yz9,v7SnINll,1,1,,,,0
+1479821400,North East Utd,Pune City,URNmjRbg,GGNjqQuH,1,0,,,,0
+1479907800,Mumbai City,Chennaiyin,bk07S9TB,AkyQ8yz9,2,0,,,,0
+1479994200,Goa,ATK,GdaqjtST,v7SnINll,1,2,,,,0
+1480080600,Kerala Blasters,Pune City,f5R8609I,GGNjqQuH,2,1,,,,0
+1480167000,Chennaiyin,North East Utd,AkyQ8yz9,URNmjRbg,3,3,,,,0
+1480253400,Odisha FC,Goa,COxht5b5,GdaqjtST,5,1,,,,0
+1480426200,ATK,Kerala Blasters,v7SnINll,f5R8609I,1,1,,,,0
+1480512600,North East Utd,Odisha FC,URNmjRbg,COxht5b5,2,1,,,,0
+1480599000,Goa,Chennaiyin,GdaqjtST,AkyQ8yz9,5,4,,,,0
+1480685400,ATK,Pune City,v7SnINll,GGNjqQuH,0,0,,,,0
+1480771800,Mumbai City,Odisha FC,bk07S9TB,COxht5b5,0,0,,,,0
+1480858200,Kerala Blasters,North East Utd,f5R8609I,URNmjRbg,1,0,,,,0
+1481376600,ATK,Mumbai City,v7SnINll,bk07S9TB,3,2,,,,0
+1481463000,Kerala Blasters,Odisha FC,f5R8609I,COxht5b5,1,0,,,,0
+1481635800,Mumbai City,ATK,bk07S9TB,v7SnINll,0,0,,,,0
+1481722200,Odisha FC,Kerala Blasters,COxht5b5,f5R8609I,2,1,Pen,2,2,0
+1482067800,Kerala Blasters,ATK,f5R8609I,v7SnINll,1,1,Pen,1,2,0

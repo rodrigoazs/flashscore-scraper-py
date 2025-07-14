@@ -1,18 +1,18 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1612526400,KF Ulpiana,Arberia,1,1,AET,2,1,0
-1612526400,KF Onix Banje,Kek-U,0,3,Awrd,,,0
-1612526400,Gjilani,Dukagjini,2,1,,,,0
-1612526400,2 Korriku,Ramiz Sadiku,1,6,,,,0
-1612612800,Fushe Kosova,Drita,0,5,,,,0
-1612612800,FC Ballkani,Malisheva,1,0,,,,0
-1612614600,Prishtina,Drenica,1,1,AET,2,1,0
-1612699200,Ferizaj,KF Llapi,0,2,,,,0
-1615896000,KF Llapi,Gjilani,2,0,,,,0
-1615896000,FC Ballkani,Prishtina,1,1,AET,1,2,0
-1615896000,Drita,KF Ulpiana,3,0,,,,0
-1615982400,Ramiz Sadiku,Kek-U,2,1,,,,0
-1617796800,Prishtina,KF Llapi,2,1,,,,0
-1617796800,Drita,Ramiz Sadiku,3,0,,,,0
-1618315200,Ramiz Sadiku,Drita,2,2,,,,0
-1618315200,KF Llapi,Prishtina,2,0,,,,0
-1622052000,KF Llapi,Drita,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1612526400,KF Ulpiana,Arberia,WrUSA5rl,2TgamYuE,1,1,AET,2,1,0
+1612526400,KF Onix Banje,Kek-U,hIAbDzBo,rPUFqLhp,0,3,Awrd,,,0
+1612526400,Gjilani,Dukagjini,bTGS2SK0,xYhfP1f5,2,1,,,,0
+1612526400,2 Korriku,Ramiz Sadiku,2TgamYuE,hIAbDzBo,1,6,,,,0
+1612612800,Fushe Kosova,Drita,pvIKZGji,pQYARHdo,0,5,,,,0
+1612612800,FC Ballkani,Malisheva,8Ce4Unrd,GlZoDEhC,1,0,,,,0
+1612614600,Prishtina,Drenica,WYS0PwEj,0End9Hsj,1,1,AET,2,1,0
+1612699200,Ferizaj,KF Llapi,614g3exf,0nUxLTUs,0,2,,,,0
+1615896000,KF Llapi,Gjilani,0nUxLTUs,bTGS2SK0,2,0,,,,0
+1615896000,FC Ballkani,Prishtina,8Ce4Unrd,WYS0PwEj,1,1,AET,1,2,0
+1615896000,Drita,KF Ulpiana,pQYARHdo,WrUSA5rl,3,0,,,,0
+1615982400,Ramiz Sadiku,Kek-U,hIAbDzBo,rPUFqLhp,2,1,,,,0
+1617796800,Prishtina,KF Llapi,WYS0PwEj,0nUxLTUs,2,1,,,,0
+1617796800,Drita,Ramiz Sadiku,pQYARHdo,hIAbDzBo,3,0,,,,0
+1618315200,Ramiz Sadiku,Drita,hIAbDzBo,pQYARHdo,2,2,,,,0
+1618315200,KF Llapi,Prishtina,0nUxLTUs,WYS0PwEj,2,0,,,,0
+1622052000,KF Llapi,Drita,0nUxLTUs,pQYARHdo,2,1,,,,0

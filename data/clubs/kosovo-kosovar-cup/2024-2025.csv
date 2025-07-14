@@ -1,34 +1,34 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1733223600,Rahoveci,Drita,0,3,,,,0
-1733310000,Vushtrria,Kek-U,1,0,,,,0
-1733310000,Vjosa,Drenica,0,5,,,,0
-1733310000,Trepca 89,Suhareka,1,1,AET,1,3,0
-1733310000,TOP Futbolli,Prishtina,1,5,,,,0
-1733310000,Rilindja,FC Ballkani,1,1,Pen,2,1,0
-1733310000,Mitrovica,Vellaznimi,3,4,,,,0
-1733310000,Kika,Trepca Mitrovice,2,6,,,,0
-1733310000,Istogu,Feronikeli,1,2,,,,0
-1733310000,Gjilani,Liria,4,1,,,,0
-1733310000,Fushe Kosova,Malisheva,0,5,,,,0
-1733310000,Flamurtari,KF Llapi,0,5,,,,0
-1733310000,Ferizaj,Ramiz Sadiku,4,0,,,,0
-1733310000,Dukagjini,Dardania,6,2,,,,0
-1733310000,Besa Peja,Prishtina e Re,1,2,,,,0
-1733310000,2 Korriku,Dinamo Ferizaj,1,1,Pen,1,2,0
-1739273400,Trepca Mitrovice,Drenica,0,0,Pen,0,1,0
-1739359800,Vellaznimi,Gjilani,2,1,,,,0
-1739359800,KF Llapi,Vushtrria,2,0,,,,0
-1739359800,Drita,Dukagjini,0,0,Pen,1,0,0
-1739359800,Dinamo Ferizaj,Malisheva,0,2,,,,0
-1739376000,Prishtina,Suhareka,4,0,,,,0
-1739446200,Feronikeli,Prishtina e Re,0,2,,,,0
-1739446200,Ferizaj,Rilindja,1,0,,,,0
-1740571200,Malisheva,KF Llapi,0,1,,,,0
-1740571200,Drenica,Ferizaj,1,0,,,,0
-1740657600,Vellaznimi,Prishtina,0,4,,,,0
-1740657600,Prishtina e Re,Drita,0,4,,,,0
-1744203600,Drita,Prishtina,0,1,,,,0
-1744290000,KF Llapi,Drenica,2,0,,,,0
-1745413200,Drenica,KF Llapi,0,2,,,,0
-1745431200,Prishtina,Drita,3,0,,,,0
-1747936800,Prishtina,KF Llapi,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1733223600,Rahoveci,Drita,06Y4RDSk,pQYARHdo,0,3,,,,0
+1733310000,Vushtrria,Kek-U,WE4tuyNt,rPUFqLhp,1,0,,,,0
+1733310000,Vjosa,Drenica,2qhVVn7E,0End9Hsj,0,5,,,,0
+1733310000,Trepca 89,Suhareka,UTS9Qru3,OSDHDuZB,1,1,AET,1,3,0
+1733310000,TOP Futbolli,Prishtina,zZ5fur1b,WYS0PwEj,1,5,,,,0
+1733310000,Rilindja,FC Ballkani,SK4bIiZg,8Ce4Unrd,1,1,Pen,2,1,0
+1733310000,Mitrovica,Vellaznimi,274ASUpR,KtWhArAg,3,4,,,,0
+1733310000,Kika,Trepca Mitrovice,Qy0aDFAm,dA9Dhnsn,2,6,,,,0
+1733310000,Istogu,Feronikeli,rcGIhuMU,Shb6oJcl,1,2,,,,0
+1733310000,Gjilani,Liria,bTGS2SK0,pbSUCRoq,4,1,,,,0
+1733310000,Fushe Kosova,Malisheva,pvIKZGji,GlZoDEhC,0,5,,,,0
+1733310000,Flamurtari,KF Llapi,jo6FMO7U,0nUxLTUs,0,5,,,,0
+1733310000,Ferizaj,Ramiz Sadiku,614g3exf,hIAbDzBo,4,0,,,,0
+1733310000,Dukagjini,Dardania,xYhfP1f5,GU8ySbKA,6,2,,,,0
+1733310000,Besa Peja,Prishtina e Re,bZqqDge8,ILJxbLre,1,2,,,,0
+1733310000,2 Korriku,Dinamo Ferizaj,2TgamYuE,OnWo0DoT,1,1,Pen,1,2,0
+1739273400,Trepca Mitrovice,Drenica,dA9Dhnsn,0End9Hsj,0,0,Pen,0,1,0
+1739359800,Vellaznimi,Gjilani,KtWhArAg,bTGS2SK0,2,1,,,,0
+1739359800,KF Llapi,Vushtrria,0nUxLTUs,WE4tuyNt,2,0,,,,0
+1739359800,Drita,Dukagjini,pQYARHdo,xYhfP1f5,0,0,Pen,1,0,0
+1739359800,Dinamo Ferizaj,Malisheva,OnWo0DoT,GlZoDEhC,0,2,,,,0
+1739376000,Prishtina,Suhareka,WYS0PwEj,OSDHDuZB,4,0,,,,0
+1739446200,Feronikeli,Prishtina e Re,Shb6oJcl,ILJxbLre,0,2,,,,0
+1739446200,Ferizaj,Rilindja,614g3exf,SK4bIiZg,1,0,,,,0
+1740571200,Malisheva,KF Llapi,GlZoDEhC,0nUxLTUs,0,1,,,,0
+1740571200,Drenica,Ferizaj,0End9Hsj,614g3exf,1,0,,,,0
+1740657600,Vellaznimi,Prishtina,KtWhArAg,WYS0PwEj,0,4,,,,0
+1740657600,Prishtina e Re,Drita,ILJxbLre,pQYARHdo,0,4,,,,0
+1744203600,Drita,Prishtina,pQYARHdo,WYS0PwEj,0,1,,,,0
+1744290000,KF Llapi,Drenica,0nUxLTUs,0End9Hsj,2,0,,,,0
+1745413200,Drenica,KF Llapi,0End9Hsj,0nUxLTUs,0,2,,,,0
+1745431200,Prishtina,Drita,WYS0PwEj,pQYARHdo,3,0,,,,0
+1747936800,Prishtina,KF Llapi,WYS0PwEj,0nUxLTUs,1,0,,,,0

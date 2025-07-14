@@ -1,83 +1,83 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-714249900,Valletta,Maccabi Tel Aviv,1,2,,,,0
-714249900,Shelbourne,Tavriya,0,0,,,,0
-714249900,O. Ljubljana,Norma Tallinn,3,0,,,,0
-714249900,Klaksvik,Skonto,1,3,,,,0
-715459500,Tavriya,Shelbourne,2,1,,,,0
-715459500,Skonto,Klaksvik,3,0,,,,0
-715459500,Norma Tallinn,O. Ljubljana,0,2,,,,0
-715459500,Maccabi Tel Aviv,Valletta,1,0,,,,0
-716669100,Vikingur Reykjavik,CSKA Moscow,0,1,,,,0
-716669100,Union Luxembourg,FC Porto,1,4,,,,0
-716669100,Stuttgart,Leeds,3,0,,,,0
-716669100,Slovan Bratislava,Ferencvaros,4,1,,,,0
-716669100,Sion,Tavriya,4,1,,,,0
-716669100,Rangers,Lyngby,2,0,,,,0
-716669100,PSV,Zalgiris,6,0,,,,0
-716669100,Maccabi Tel Aviv,Club Brugge KV,0,1,,,,0
-716669100,Lech Poznan,Skonto,2,0,,,,0
-716669100,Lahti/69,Din. Bucuresti,1,0,,,,0
-716669100,Goteborg,Besiktas,2,0,,,,0
-716669100,Glentoran,Marseille,0,5,,,,0
-716669100,Barcelona,Viking,1,0,,,,0
-716669100,Austria Vienna,CSKA Sofia,3,1,,,,0
-716669100,AEK Athens FC,APOEL,1,1,,,,0
-716669100,AC Milan,O. Ljubljana,4,0,,,,0
-717882300,Zalgiris,PSV,0,2,,,,0
-717882300,Viking,Barcelona,0,0,,,,0
-717882300,Tavriya,Sion,1,3,,,,0
-717882300,Skonto,Lech Poznan,0,0,,,,0
-717882300,O. Ljubljana,AC Milan,0,3,,,,0
-717882300,Marseille,Glentoran,3,0,,,,0
-717882300,Lyngby,Rangers,0,1,,,,0
-717882300,Leeds,Stuttgart,3,0,Awrd,,,0
-717882300,Ferencvaros,Slovan Bratislava,0,0,,,,0
-717882300,FC Porto,Union Luxembourg,5,0,,,,0
-717882300,Din. Bucuresti,Lahti/69,1,0,AET,2,0,0
-717882300,CSKA Sofia,Austria Vienna,3,2,,,,0
-717882300,CSKA Moscow,Vikingur Reykjavik,4,2,,,,0
-717882300,Club Brugge KV,Maccabi Tel Aviv,3,0,,,,0
-717882300,Besiktas,Goteborg,2,1,,,,0
-717882300,APOEL,AEK Athens FC,2,2,,,,0
-718659900,Leeds,Stuttgart,2,1,,,,0
-719696700,Slovan Bratislava,AC Milan,0,1,,,,0
-719696700,Sion,FC Porto,2,2,,,,0
-719696700,Rangers,Leeds,2,1,,,,0
-719696700,Goteborg,Lech Poznan,1,0,,,,0
-719696700,Din. Bucuresti,Marseille,0,0,,,,0
-719696700,CSKA Moscow,Barcelona,1,1,,,,0
-719696700,Club Brugge KV,Austria Vienna,2,0,,,,0
-719696700,AEK Athens FC,PSV,1,0,,,,0
-720906300,PSV,AEK Athens FC,3,0,,,,0
-720906300,Marseille,Din. Bucuresti,2,0,,,,0
-720906300,Leeds,Rangers,1,2,,,,0
-720906300,Lech Poznan,Goteborg,0,3,,,,0
-720906300,FC Porto,Sion,4,0,,,,0
-720906300,Barcelona,CSKA Moscow,2,3,,,,0
-720906300,Austria Vienna,Club Brugge KV,3,1,,,,0
-720906300,AC Milan,Slovan Bratislava,4,0,,,,0
-722720700,Rangers,Marseille,2,2,,,,0
-722720700,FC Porto,PSV,2,2,,,,0
-722720700,Club Brugge KV,CSKA Moscow,1,0,,,,0
-722720700,AC Milan,Goteborg,4,0,,,,0
-723930300,PSV,AC Milan,1,2,,,,0
-723930300,Marseille,Club Brugge KV,3,0,,,,0
-723930300,Goteborg,FC Porto,1,0,,,,0
-723930300,CSKA Moscow,Rangers,0,1,,,,0
-731187900,PSV,Goteborg,1,3,,,,0
-731187900,FC Porto,AC Milan,0,1,,,,0
-731187900,CSKA Moscow,Marseille,1,1,,,,0
-731187900,Club Brugge KV,Rangers,1,1,,,,0
-732397500,Rangers,Club Brugge KV,2,1,,,,0
-732397500,Marseille,CSKA Moscow,6,0,,,,0
-732397500,Goteborg,PSV,3,0,,,,0
-732397500,AC Milan,FC Porto,1,0,,,,0
-734208300,PSV,FC Porto,0,1,,,,0
-734208300,Marseille,Rangers,1,1,,,,0
-734208300,Goteborg,AC Milan,0,1,,,,0
-734208300,CSKA Moscow,Club Brugge KV,1,2,,,,0
-735417900,Rangers,CSKA Moscow,0,0,,,,0
-735417900,FC Porto,Goteborg,2,0,,,,0
-735417900,Club Brugge KV,Marseille,0,1,,,,0
-735417900,AC Milan,PSV,2,0,,,,0
-738440100,Marseille,AC Milan,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+714249900,Valletta,Maccabi Tel Aviv,WrjrBuU2,EgfVDm2G,1,2,,,,0
+714249900,Shelbourne,Tavriya,z7L3x1Ya,4GQ6kuAf,0,0,,,,0
+714249900,O. Ljubljana,Norma Tallinn,zc0A80Mi,KzRpHwza,3,0,,,,0
+714249900,Klaksvik,Skonto,GnA0fkqU,MaoY8XU2,1,3,,,,0
+715459500,Tavriya,Shelbourne,4GQ6kuAf,z7L3x1Ya,2,1,,,,0
+715459500,Skonto,Klaksvik,MaoY8XU2,GnA0fkqU,3,0,,,,0
+715459500,Norma Tallinn,O. Ljubljana,KzRpHwza,zc0A80Mi,0,2,,,,0
+715459500,Maccabi Tel Aviv,Valletta,EgfVDm2G,WrjrBuU2,1,0,,,,0
+716669100,Vikingur Reykjavik,CSKA Moscow,ATBUwpjA,nHLPS3jD,0,1,,,,0
+716669100,Union Luxembourg,FC Porto,lQPuHXzh,Kth3Rz1C,1,4,,,,0
+716669100,Stuttgart,Leeds,f1Z3XxZa,O4P6Zhap,3,0,,,,0
+716669100,Slovan Bratislava,Ferencvaros,pEAU6ugI,U3aHptUA,4,1,,,,0
+716669100,Sion,Tavriya,QsLBSppP,4GQ6kuAf,4,1,,,,0
+716669100,Rangers,Lyngby,fFCBVa82,j9C0y7Tm,2,0,,,,0
+716669100,PSV,Zalgiris,j5zA1baQ,CK4bnx4C,6,0,,,,0
+716669100,Maccabi Tel Aviv,Club Brugge KV,EgfVDm2G,44lq3LsP,0,1,,,,0
+716669100,Lech Poznan,Skonto,lCvEmFL0,MaoY8XU2,2,0,,,,0
+716669100,Lahti/69,Din. Bucuresti,tGlVXFkM,EyedO184,1,0,,,,0
+716669100,Goteborg,Besiktas,jqs0yJHC,UcWWlFia,2,0,,,,0
+716669100,Glentoran,Marseille,l2qiVD1D,voNnDKJK,0,5,,,,0
+716669100,Barcelona,Viking,fcDVLdrL,xvniPjZd,1,0,,,,0
+716669100,Austria Vienna,CSKA Sofia,lUkqx2Vt,fRtHs98a,3,1,,,,0
+716669100,AEK Athens FC,APOEL,Aq4Rjd2q,dM5j1Xkq,1,1,,,,0
+716669100,AC Milan,O. Ljubljana,fL3dmxxd,zc0A80Mi,4,0,,,,0
+717882300,Zalgiris,PSV,CK4bnx4C,j5zA1baQ,0,2,,,,0
+717882300,Viking,Barcelona,xvniPjZd,fcDVLdrL,0,0,,,,0
+717882300,Tavriya,Sion,4GQ6kuAf,QsLBSppP,1,3,,,,0
+717882300,Skonto,Lech Poznan,MaoY8XU2,lCvEmFL0,0,0,,,,0
+717882300,O. Ljubljana,AC Milan,zc0A80Mi,fL3dmxxd,0,3,,,,0
+717882300,Marseille,Glentoran,voNnDKJK,l2qiVD1D,3,0,,,,0
+717882300,Lyngby,Rangers,j9C0y7Tm,fFCBVa82,0,1,,,,0
+717882300,Leeds,Stuttgart,O4P6Zhap,f1Z3XxZa,3,0,Awrd,,,0
+717882300,Ferencvaros,Slovan Bratislava,U3aHptUA,pEAU6ugI,0,0,,,,0
+717882300,FC Porto,Union Luxembourg,Kth3Rz1C,lQPuHXzh,5,0,,,,0
+717882300,Din. Bucuresti,Lahti/69,EyedO184,tGlVXFkM,1,0,AET,2,0,0
+717882300,CSKA Sofia,Austria Vienna,fRtHs98a,lUkqx2Vt,3,2,,,,0
+717882300,CSKA Moscow,Vikingur Reykjavik,nHLPS3jD,ATBUwpjA,4,2,,,,0
+717882300,Club Brugge KV,Maccabi Tel Aviv,44lq3LsP,EgfVDm2G,3,0,,,,0
+717882300,Besiktas,Goteborg,UcWWlFia,jqs0yJHC,2,1,,,,0
+717882300,APOEL,AEK Athens FC,dM5j1Xkq,Aq4Rjd2q,2,2,,,,0
+718659900,Leeds,Stuttgart,O4P6Zhap,f1Z3XxZa,2,1,,,,0
+719696700,Slovan Bratislava,AC Milan,pEAU6ugI,fL3dmxxd,0,1,,,,0
+719696700,Sion,FC Porto,QsLBSppP,Kth3Rz1C,2,2,,,,0
+719696700,Rangers,Leeds,fFCBVa82,O4P6Zhap,2,1,,,,0
+719696700,Goteborg,Lech Poznan,jqs0yJHC,lCvEmFL0,1,0,,,,0
+719696700,Din. Bucuresti,Marseille,EyedO184,voNnDKJK,0,0,,,,0
+719696700,CSKA Moscow,Barcelona,nHLPS3jD,fcDVLdrL,1,1,,,,0
+719696700,Club Brugge KV,Austria Vienna,44lq3LsP,lUkqx2Vt,2,0,,,,0
+719696700,AEK Athens FC,PSV,Aq4Rjd2q,j5zA1baQ,1,0,,,,0
+720906300,PSV,AEK Athens FC,j5zA1baQ,Aq4Rjd2q,3,0,,,,0
+720906300,Marseille,Din. Bucuresti,voNnDKJK,EyedO184,2,0,,,,0
+720906300,Leeds,Rangers,O4P6Zhap,fFCBVa82,1,2,,,,0
+720906300,Lech Poznan,Goteborg,lCvEmFL0,jqs0yJHC,0,3,,,,0
+720906300,FC Porto,Sion,Kth3Rz1C,QsLBSppP,4,0,,,,0
+720906300,Barcelona,CSKA Moscow,fcDVLdrL,nHLPS3jD,2,3,,,,0
+720906300,Austria Vienna,Club Brugge KV,lUkqx2Vt,44lq3LsP,3,1,,,,0
+720906300,AC Milan,Slovan Bratislava,fL3dmxxd,pEAU6ugI,4,0,,,,0
+722720700,Rangers,Marseille,fFCBVa82,voNnDKJK,2,2,,,,0
+722720700,FC Porto,PSV,Kth3Rz1C,j5zA1baQ,2,2,,,,0
+722720700,Club Brugge KV,CSKA Moscow,44lq3LsP,nHLPS3jD,1,0,,,,0
+722720700,AC Milan,Goteborg,fL3dmxxd,jqs0yJHC,4,0,,,,0
+723930300,PSV,AC Milan,j5zA1baQ,fL3dmxxd,1,2,,,,0
+723930300,Marseille,Club Brugge KV,voNnDKJK,44lq3LsP,3,0,,,,0
+723930300,Goteborg,FC Porto,jqs0yJHC,Kth3Rz1C,1,0,,,,0
+723930300,CSKA Moscow,Rangers,nHLPS3jD,fFCBVa82,0,1,,,,0
+731187900,PSV,Goteborg,j5zA1baQ,jqs0yJHC,1,3,,,,0
+731187900,FC Porto,AC Milan,Kth3Rz1C,fL3dmxxd,0,1,,,,0
+731187900,CSKA Moscow,Marseille,nHLPS3jD,voNnDKJK,1,1,,,,0
+731187900,Club Brugge KV,Rangers,44lq3LsP,fFCBVa82,1,1,,,,0
+732397500,Rangers,Club Brugge KV,fFCBVa82,44lq3LsP,2,1,,,,0
+732397500,Marseille,CSKA Moscow,voNnDKJK,nHLPS3jD,6,0,,,,0
+732397500,Goteborg,PSV,jqs0yJHC,j5zA1baQ,3,0,,,,0
+732397500,AC Milan,FC Porto,fL3dmxxd,Kth3Rz1C,1,0,,,,0
+734208300,PSV,FC Porto,j5zA1baQ,Kth3Rz1C,0,1,,,,0
+734208300,Marseille,Rangers,voNnDKJK,fFCBVa82,1,1,,,,0
+734208300,Goteborg,AC Milan,jqs0yJHC,fL3dmxxd,0,1,,,,0
+734208300,CSKA Moscow,Club Brugge KV,nHLPS3jD,44lq3LsP,1,2,,,,0
+735417900,Rangers,CSKA Moscow,fFCBVa82,nHLPS3jD,0,0,,,,0
+735417900,FC Porto,Goteborg,Kth3Rz1C,jqs0yJHC,2,0,,,,0
+735417900,Club Brugge KV,Marseille,44lq3LsP,voNnDKJK,0,1,,,,0
+735417900,AC Milan,PSV,fL3dmxxd,j5zA1baQ,2,0,,,,0
+738440100,Marseille,AC Milan,voNnDKJK,fL3dmxxd,1,0,,,,0

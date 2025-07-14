@@ -1,14 +1,14 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1015282800,Progresul Bucuresti,U. Cluj,4,0,,,,0
-1015282800,Poli Iasi,Astra,1,2,,,,0
-1015282800,FC Arges,CSM Bacau,5,1,,,,0
-1015282800,Farul Constanta,Din. Bucuresti,0,1,,,,0
-1017698400,U. Cluj,Progresul Bucuresti,0,1,,,,0
-1017698400,Din. Bucuresti,Farul Constanta,2,2,,,,0
-1017698400,CSM Bacau,FC Arges,0,0,,,,0
-1017698400,Astra,Poli Iasi,1,0,,,,0
-1019512800,Progresul Bucuresti,FC Arges,4,0,,,,0
-1019512800,Astra,Din. Bucuresti,2,1,,,,0
-1021327200,FC Arges,Progresul Bucuresti,2,1,,,,0
-1021327200,Din. Bucuresti,Astra,1,1,AET,3,1,0
-1022796000,Din. Bucuresti,Progresul Bucuresti,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1015282800,Progresul Bucuresti,U. Cluj,j9pqhlf5,v1mKniN8,4,0,,,,0
+1015282800,Poli Iasi,Astra,MewIvT6n,27dTQEV9,1,2,,,,0
+1015282800,FC Arges,CSM Bacau,O6EGoZof,O6EGoZof,5,1,,,,0
+1015282800,Farul Constanta,Din. Bucuresti,8r67AZON,EyedO184,0,1,,,,0
+1017698400,U. Cluj,Progresul Bucuresti,v1mKniN8,j9pqhlf5,0,1,,,,0
+1017698400,Din. Bucuresti,Farul Constanta,EyedO184,8r67AZON,2,2,,,,0
+1017698400,CSM Bacau,FC Arges,O6EGoZof,O6EGoZof,0,0,,,,0
+1017698400,Astra,Poli Iasi,27dTQEV9,MewIvT6n,1,0,,,,0
+1019512800,Progresul Bucuresti,FC Arges,j9pqhlf5,O6EGoZof,4,0,,,,0
+1019512800,Astra,Din. Bucuresti,27dTQEV9,EyedO184,2,1,,,,0
+1021327200,FC Arges,Progresul Bucuresti,O6EGoZof,j9pqhlf5,2,1,,,,0
+1021327200,Din. Bucuresti,Astra,EyedO184,27dTQEV9,1,1,AET,3,1,0
+1022796000,Din. Bucuresti,Progresul Bucuresti,EyedO184,j9pqhlf5,1,0,,,,0

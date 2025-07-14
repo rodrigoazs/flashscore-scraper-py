@@ -1,42 +1,42 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1654300800,Ind. Juniors,Delfin,1,1,Pen,1,2,0
-1654362000,Vargas Torres,Tecnico U.,2,2,Pen,3,2,0
-1654448400,La Union,Macara,2,0,,,,0
-1654461000,Manta,LDU Quito,0,1,,,,0
-1654905600,CD Penarol,Orense,2,4,,,,0
-1654966800,Portoviejo,Nueve de Octubre,0,1,,,,0
-1654979400,Bonita Banana,Dep. Cuenca,1,1,Pen,2,1,0
-1655053200,Leones del Norte,Aucas,1,4,,,,0
-1655064000,Insutec,Gualaceo,0,2,,,,0
-1656102600,Samborondon,Ind. del Valle,0,2,,,,0
-1656617400,CD Aampetra,U. Catolica,2,0,,,,0
-1656781200,Chacaritas,Cumbaya,0,2,,,,0
-1656792000,Imbabura,Guayaquil City,1,1,Pen,2,1,0
-1656802800,EL Nacional,Barcelona SC,2,1,,,,0
-1656867600,Vargas Torres,CD Aampetra,0,0,Pen,1,0,0
-1656878400,La Union,Ind. del Valle,0,0,Pen,0,1,0
-1656889200,Olmedo,Mushuc Runa,1,2,,,,0
-1656979200,Nueve de Octubre,Orense,1,1,Pen,2,1,0
-1657054800,Delfin,Gualaceo,2,0,,,,0
-1657472400,Bonita Banana,EL Nacional,1,1,Pen,1,2,0
-1657742400,Manabita,Emelec,0,5,,,,0
-1658275200,Imbabura,LDU Quito,2,1,,,,0
-1658361600,Mushuc Runa,Cumbaya,1,0,,,,0
-1658880000,Emelec,Aucas,0,2,,,,0
-1658966400,Imbabura,Ind. del Valle,1,3,,,,0
-1659556800,Vargas Torres,Mushuc Runa,0,1,,,,0
-1659571200,EL Nacional,Delfin,3,1,,,,0
-1659657600,Nueve de Octubre,Aucas,2,0,,,,0
-1660780800,Nueve de Octubre,Mushuc Runa,2,0,,,,0
-1660950000,Ind. del Valle,EL Nacional,3,1,,,,0
-1661464800,Mushuc Runa,Ind. del Valle,2,4,,,,0
-1662681600,EL Nacional,Nueve de Octubre,2,0,,,,0
-1663200000,Ind. del Valle,Nueve de Octubre,1,0,,,,0
-1663369200,EL Nacional,Mushuc Runa,1,0,,,,0
-1663804800,Nueve de Octubre,Ind. del Valle,4,1,,,,0
-1663891200,Mushuc Runa,EL Nacional,3,2,,,,0
-1665014400,Mushuc Runa,Nueve de Octubre,2,1,,,,0
-1665172800,EL Nacional,Ind. del Valle,0,2,,,,0
-1667428200,Nueve de Octubre,EL Nacional,0,0,,,,0
-1667428200,Ind. del Valle,Mushuc Runa,1,1,,,,0
-1667952000,Ind. del Valle,Nueve de Octubre,3,1,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1654300800,Ind. Juniors,Delfin,0xyuHYu9,AZbnrnmj,1,1,Pen,1,2,0
+1654362000,Vargas Torres,Tecnico U.,zuHa8DRd,dGIIEbtB,2,2,Pen,3,2,0
+1654448400,La Union,Macara,vyUHqUld,0rjUYb4J,2,0,,,,0
+1654461000,Manta,LDU Quito,YqMYOJSQ,dldy8uVh,0,1,,,,0
+1654905600,CD Penarol,Orense,zuHa8DRd,4zwgEgF1,2,4,,,,0
+1654966800,Portoviejo,Nueve de Octubre,zuHa8DRd,zctKNuQ3,0,1,,,,0
+1654979400,Bonita Banana,Dep. Cuenca,zuHa8DRd,UcMAfaUd,1,1,Pen,2,1,0
+1655053200,Leones del Norte,Aucas,I15DvptJ,Wz8yaA21,1,4,,,,0
+1655064000,Insutec,Gualaceo,dEghDFK9,prEX8oa0,0,2,,,,0
+1656102600,Samborondon,Ind. del Valle,tCChkIP3,OnCKiY2r,0,2,,,,0
+1656617400,CD Aampetra,U. Catolica,4ABPm27t,Kt2BHCfq,2,0,,,,0
+1656781200,Chacaritas,Cumbaya,v9mSQ5xD,j1jXpj8j,0,2,,,,0
+1656792000,Imbabura,Guayaquil City,2gmAxwcQ,xtXtvCe4,1,1,Pen,2,1,0
+1656802800,EL Nacional,Barcelona SC,YqMYOJSQ,WErjuywa,2,1,,,,0
+1656867600,Vargas Torres,CD Aampetra,zuHa8DRd,4ABPm27t,0,0,Pen,1,0,0
+1656878400,La Union,Ind. del Valle,vyUHqUld,OnCKiY2r,0,0,Pen,0,1,0
+1656889200,Olmedo,Mushuc Runa,nTaOSVvL,fwqiIuZs,1,2,,,,0
+1656979200,Nueve de Octubre,Orense,zctKNuQ3,4zwgEgF1,1,1,Pen,2,1,0
+1657054800,Delfin,Gualaceo,AZbnrnmj,prEX8oa0,2,0,,,,0
+1657472400,Bonita Banana,EL Nacional,zuHa8DRd,YqMYOJSQ,1,1,Pen,1,2,0
+1657742400,Manabita,Emelec,vcgWQFBk,ru7B2xn1,0,5,,,,0
+1658275200,Imbabura,LDU Quito,2gmAxwcQ,dldy8uVh,2,1,,,,0
+1658361600,Mushuc Runa,Cumbaya,fwqiIuZs,j1jXpj8j,1,0,,,,0
+1658880000,Emelec,Aucas,ru7B2xn1,Wz8yaA21,0,2,,,,0
+1658966400,Imbabura,Ind. del Valle,2gmAxwcQ,OnCKiY2r,1,3,,,,0
+1659556800,Vargas Torres,Mushuc Runa,zuHa8DRd,fwqiIuZs,0,1,,,,0
+1659571200,EL Nacional,Delfin,YqMYOJSQ,AZbnrnmj,3,1,,,,0
+1659657600,Nueve de Octubre,Aucas,zctKNuQ3,Wz8yaA21,2,0,,,,0
+1660780800,Nueve de Octubre,Mushuc Runa,zctKNuQ3,fwqiIuZs,2,0,,,,0
+1660950000,Ind. del Valle,EL Nacional,OnCKiY2r,YqMYOJSQ,3,1,,,,0
+1661464800,Mushuc Runa,Ind. del Valle,fwqiIuZs,OnCKiY2r,2,4,,,,0
+1662681600,EL Nacional,Nueve de Octubre,YqMYOJSQ,zctKNuQ3,2,0,,,,0
+1663200000,Ind. del Valle,Nueve de Octubre,OnCKiY2r,zctKNuQ3,1,0,,,,0
+1663369200,EL Nacional,Mushuc Runa,YqMYOJSQ,fwqiIuZs,1,0,,,,0
+1663804800,Nueve de Octubre,Ind. del Valle,zctKNuQ3,OnCKiY2r,4,1,,,,0
+1663891200,Mushuc Runa,EL Nacional,fwqiIuZs,YqMYOJSQ,3,2,,,,0
+1665014400,Mushuc Runa,Nueve de Octubre,fwqiIuZs,zctKNuQ3,2,1,,,,0
+1665172800,EL Nacional,Ind. del Valle,YqMYOJSQ,OnCKiY2r,0,2,,,,0
+1667428200,Nueve de Octubre,EL Nacional,zctKNuQ3,YqMYOJSQ,0,0,,,,0
+1667428200,Ind. del Valle,Mushuc Runa,OnCKiY2r,fwqiIuZs,1,1,,,,0
+1667952000,Ind. del Valle,Nueve de Octubre,OnCKiY2r,zctKNuQ3,3,1,,,,1

@@ -1,46 +1,46 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1691251200,Catanzaro,Foggia,1,0,,,,0
-1691337600,Reggiana,Pescara,6,2,,,,0
-1691344800,FeralpiSalo,L.R. Vicenza,2,1,,,,0
-1691346600,Cesena,Entella,2,2,Pen,3,2,0
-1691768700,Frosinone,Pisa,1,0,,,,0
-1691769600,Udinese,Catanzaro,4,1,,,,0
-1691780400,Genoa,Modena,4,3,,,,0
-1691781300,Bologna,Cesena,2,0,,,,0
-1691855100,Empoli,Cittadella,1,2,,,,0
-1691856000,Bari,Parma,0,3,,,,0
-1691866800,Verona,Ascoli,3,1,,,,0
-1691867700,Cagliari,Palermo,0,0,AET,2,1,0
-1691941500,Salernitana,Ternana,1,0,,,,0
-1691942400,Cosenza,Sassuolo,2,2,AET,2,5,0
-1691953200,Lecce,Como,1,0,,,,0
-1691954100,Monza,Reggiana,1,2,,,,0
-1692027900,Cremonese,Crotone,1,1,AET,3,1,0
-1692028800,Sampdoria,Sudtirol,1,1,Pen,2,1,0
-1692039600,Spezia,Venezia,2,2,Pen,3,2,0
-1692040500,Torino,FeralpiSalo,2,1,,,,0
-1698760800,Cremonese,Cittadella,1,1,AET,2,1,0
-1698771600,Salernitana,Sampdoria,4,0,,,,0
-1698782400,Bologna,Verona,2,0,,,,0
-1698847200,Genoa,Reggiana,1,1,AET,2,1,0
-1698858000,Lecce,Parma,2,4,,,,0
-1698868800,Udinese,Cagliari,1,1,AET,1,2,0
-1698944400,Sassuolo,Spezia,0,0,Pen,1,0,0
-1698955200,Torino,Frosinone,1,1,AET,1,2,0
-1701806400,Lazio,Genoa,1,0,,,,0
-1701892800,Fiorentina,Parma,2,2,Pen,3,2,0
-1703016000,Napoli,Frosinone,0,4,,,,0
-1703102400,Inter,Bologna,0,0,AET,1,2,0
-1704225600,AC Milan,Cagliari,4,1,,,,0
-1704301200,Atalanta,Sassuolo,3,1,,,,0
-1704312000,AS Roma,Cremonese,2,1,,,,0
-1704398400,Juventus,Salernitana,6,1,,,,0
-1704830400,Fiorentina,Bologna,0,0,Pen,1,0,0
-1704906000,Lazio,AS Roma,1,0,,,,0
-1704916800,AC Milan,Atalanta,1,2,,,,0
-1705003200,Juventus,Frosinone,4,0,,,,0
-1712084400,Juventus,Lazio,2,0,,,,0
-1712170800,Fiorentina,Atalanta,1,0,,,,0
-1713898800,Lazio,Juventus,2,1,,,,0
-1713985200,Atalanta,Fiorentina,4,1,,,,0
-1715799600,Atalanta,Juventus,0,1,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1691251200,Catanzaro,Foggia,O6dImjhL,v9LWknvd,1,0,,,,0
+1691337600,Reggiana,Pescara,xpwwMV0F,0YEZEho5,6,2,,,,0
+1691344800,FeralpiSalo,L.R. Vicenza,vFhT6NNo,nPPuzM9e,2,1,,,,0
+1691346600,Cesena,Entella,YB20ndi2,boEYzhiI,2,2,Pen,3,2,0
+1691768700,Frosinone,Pisa,t4GQxEM5,GMOw3SI3,1,0,,,,0
+1691769600,Udinese,Catanzaro,SYw7EcY6,O6dImjhL,4,1,,,,0
+1691780400,Genoa,Modena,hCD6m1R3,OY47DkeT,4,3,,,,0
+1691781300,Bologna,Cesena,McvX4bye,YB20ndi2,2,0,,,,0
+1691855100,Empoli,Cittadella,KbH8aCLf,x89Kdsb3,1,2,,,,0
+1691856000,Bari,Parma,dYPMS6QG,fydXzLY6,0,3,,,,0
+1691866800,Verona,Ascoli,Kxh373f3,CEqXYiD6,3,1,,,,0
+1691867700,Cagliari,Palermo,McvX4bye,fL3dmxxd,0,0,AET,2,1,0
+1691941500,Salernitana,Ternana,dvgFSUQH,4h8hml0s,1,0,,,,0
+1691942400,Cosenza,Sassuolo,j5ryYBSC,0lwy4Ij1,2,2,AET,2,5,0
+1691953200,Lecce,Como,McvX4bye,hpmw8K1h,1,0,,,,0
+1691954100,Monza,Reggiana,nedmW6cD,xpwwMV0F,1,2,,,,0
+1692027900,Cremonese,Crotone,t4GQxEM5,Ma1dQfp5,1,1,AET,3,1,0
+1692028800,Sampdoria,Sudtirol,WdmUvPiG,UJeBD3ZT,1,1,Pen,2,1,0
+1692039600,Spezia,Venezia,SEcuqyiS,AX567M6G,2,2,Pen,3,2,0
+1692040500,Torino,FeralpiSalo,0lwy4Ij1,vFhT6NNo,2,1,,,,0
+1698760800,Cremonese,Cittadella,t4GQxEM5,x89Kdsb3,1,1,AET,2,1,0
+1698771600,Salernitana,Sampdoria,dvgFSUQH,WdmUvPiG,4,0,,,,0
+1698782400,Bologna,Verona,McvX4bye,Kxh373f3,2,0,,,,0
+1698847200,Genoa,Reggiana,hCD6m1R3,xpwwMV0F,1,1,AET,2,1,0
+1698858000,Lecce,Parma,McvX4bye,fydXzLY6,2,4,,,,0
+1698868800,Udinese,Cagliari,SYw7EcY6,McvX4bye,1,1,AET,1,2,0
+1698944400,Sassuolo,Spezia,0lwy4Ij1,SEcuqyiS,0,0,Pen,1,0,0
+1698955200,Torino,Frosinone,0lwy4Ij1,t4GQxEM5,1,1,AET,1,2,0
+1701806400,Lazio,Genoa,fL3dmxxd,hCD6m1R3,1,0,,,,0
+1701892800,Fiorentina,Parma,6XKdgOM6,fydXzLY6,2,2,Pen,3,2,0
+1703016000,Napoli,Frosinone,Qcs4tGVj,t4GQxEM5,0,4,,,,0
+1703102400,Inter,Bologna,jDrBQiMS,McvX4bye,0,0,AET,1,2,0
+1704225600,AC Milan,Cagliari,fL3dmxxd,McvX4bye,4,1,,,,0
+1704301200,Atalanta,Sassuolo,rg6usZns,0lwy4Ij1,3,1,,,,0
+1704312000,AS Roma,Cremonese,GtNb9h2q,t4GQxEM5,2,1,,,,0
+1704398400,Juventus,Salernitana,EXzXDYgS,dvgFSUQH,6,1,,,,0
+1704830400,Fiorentina,Bologna,6XKdgOM6,McvX4bye,0,0,Pen,1,0,0
+1704906000,Lazio,AS Roma,fL3dmxxd,GtNb9h2q,1,0,,,,0
+1704916800,AC Milan,Atalanta,fL3dmxxd,rg6usZns,1,2,,,,0
+1705003200,Juventus,Frosinone,EXzXDYgS,t4GQxEM5,4,0,,,,0
+1712084400,Juventus,Lazio,EXzXDYgS,fL3dmxxd,2,0,,,,0
+1712170800,Fiorentina,Atalanta,6XKdgOM6,rg6usZns,1,0,,,,0
+1713898800,Lazio,Juventus,fL3dmxxd,EXzXDYgS,2,1,,,,0
+1713985200,Atalanta,Fiorentina,rg6usZns,6XKdgOM6,4,1,,,,0
+1715799600,Atalanta,Juventus,rg6usZns,EXzXDYgS,0,1,,,,1

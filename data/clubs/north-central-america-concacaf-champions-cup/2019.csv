@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1550624400,Saprissa,Tigres UANL,1,0,,,,0
-1550624400,Independiente,Toronto FC,4,0,,,,0
-1550631600,Guastatoya,Houston Dynamo,0,1,,,,0
-1550710800,Marathon,Santos Laguna,2,6,,,,0
-1550710800,Atletico Pantoja,New York Red Bulls,0,2,,,,0
-1550718000,Alianza FC,Monterrey,0,0,,,,0
-1550797200,Sporting Kansas City,Toluca,3,0,,,,0
-1550804400,Herediano,Atlanta Utd,3,1,,,,0
-1551229200,Toronto FC,Independiente,1,1,,,,0
-1551229200,Houston Dynamo,Guastatoya,2,1,,,,0
-1551236400,Tigres UANL,Saprissa,5,1,,,,0
-1551315600,Santos Laguna,Marathon,5,0,,,,0
-1551315600,New York Red Bulls,Atletico Pantoja,3,0,,,,0
-1551322800,Monterrey,Alianza FC,1,0,,,,0
-1551402000,Atlanta Utd,Herediano,4,0,,,,0
-1551409200,Toluca,Sporting Kansas City,0,2,,,,0
-1551834000,New York Red Bulls,Santos Laguna,0,2,,,,0
-1551841200,Houston Dynamo,Tigres UANL,0,2,,,,0
-1551920400,Independiente,Sporting Kansas City,2,1,,,,0
-1551927600,Monterrey,Atlanta Utd,3,0,,,,0
-1552438800,Santos Laguna,New York Red Bulls,4,2,,,,0
-1552446000,Tigres UANL,Houston Dynamo,1,0,,,,0
-1552521600,Atlanta Utd,Monterrey,1,0,,,,0
-1552608000,Sporting Kansas City,Independiente,3,0,,,,0
-1554343200,Tigres UANL,Santos Laguna,3,0,,,,0
-1554429600,Monterrey,Sporting Kansas City,5,0,,,,0
-1554940800,Santos Laguna,Tigres UANL,3,2,,,,0
-1555030800,Sporting Kansas City,Monterrey,2,5,,,,0
-1556071200,Tigres UANL,Monterrey,0,1,,,,0
-1556762400,Monterrey,Tigres UANL,1,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1550624400,Saprissa,Tigres UANL,tnwDCzLD,zgtUoENa,1,0,,,,0
+1550624400,Independiente,Toronto FC,nXJKIqpI,tnwDCzLD,4,0,,,,0
+1550631600,Guastatoya,Houston Dynamo,YeG1eJ2o,YLT3ZeZm,0,1,,,,0
+1550710800,Marathon,Santos Laguna,IJKf4CSg,bmPslben,2,6,,,,0
+1550710800,Atletico Pantoja,New York Red Bulls,AHFMV5v8,h8cXfa4q,0,2,,,,0
+1550718000,Alianza FC,Monterrey,dfRdOmGt,MVPKYVvK,0,0,,,,0
+1550797200,Sporting Kansas City,Toluca,88w2wUnG,0pHVJYjM,3,0,,,,0
+1550804400,Herediano,Atlanta Utd,zJ9gvDHG,MeFN3n19,3,1,,,,0
+1551229200,Toronto FC,Independiente,tnwDCzLD,nXJKIqpI,1,1,,,,0
+1551229200,Houston Dynamo,Guastatoya,YLT3ZeZm,YeG1eJ2o,2,1,,,,0
+1551236400,Tigres UANL,Saprissa,zgtUoENa,tnwDCzLD,5,1,,,,0
+1551315600,Santos Laguna,Marathon,bmPslben,IJKf4CSg,5,0,,,,0
+1551315600,New York Red Bulls,Atletico Pantoja,h8cXfa4q,AHFMV5v8,3,0,,,,0
+1551322800,Monterrey,Alianza FC,MVPKYVvK,dfRdOmGt,1,0,,,,0
+1551402000,Atlanta Utd,Herediano,MeFN3n19,zJ9gvDHG,4,0,,,,0
+1551409200,Toluca,Sporting Kansas City,0pHVJYjM,88w2wUnG,0,2,,,,0
+1551834000,New York Red Bulls,Santos Laguna,h8cXfa4q,bmPslben,0,2,,,,0
+1551841200,Houston Dynamo,Tigres UANL,YLT3ZeZm,zgtUoENa,0,2,,,,0
+1551920400,Independiente,Sporting Kansas City,nXJKIqpI,88w2wUnG,2,1,,,,0
+1551927600,Monterrey,Atlanta Utd,MVPKYVvK,MeFN3n19,3,0,,,,0
+1552438800,Santos Laguna,New York Red Bulls,bmPslben,h8cXfa4q,4,2,,,,0
+1552446000,Tigres UANL,Houston Dynamo,zgtUoENa,YLT3ZeZm,1,0,,,,0
+1552521600,Atlanta Utd,Monterrey,MeFN3n19,MVPKYVvK,1,0,,,,0
+1552608000,Sporting Kansas City,Independiente,88w2wUnG,nXJKIqpI,3,0,,,,0
+1554343200,Tigres UANL,Santos Laguna,zgtUoENa,bmPslben,3,0,,,,0
+1554429600,Monterrey,Sporting Kansas City,MVPKYVvK,88w2wUnG,5,0,,,,0
+1554940800,Santos Laguna,Tigres UANL,bmPslben,zgtUoENa,3,2,,,,0
+1555030800,Sporting Kansas City,Monterrey,88w2wUnG,MVPKYVvK,2,5,,,,0
+1556071200,Tigres UANL,Monterrey,zgtUoENa,MVPKYVvK,0,1,,,,0
+1556762400,Monterrey,Tigres UANL,MVPKYVvK,zgtUoENa,1,1,,,,0

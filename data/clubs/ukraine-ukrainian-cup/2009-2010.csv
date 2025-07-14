@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1250341200,Stal Kamianske,Tavriya,0,4,,,,0
-1250341200,FC Poltava,Kalinine,0,2,,,,0
-1250343000,Sverdlovsk,Mariupol,1,3,,,,0
-1250344800,Yednist,Nyva Ternopil,2,1,,,,0
-1250344800,Stal Alchevsk,Ch. Odesa,1,0,,,,0
-1250344800,Naftovik-Ukrnafta,Met. Donetsk,1,1,Pen,1,2,0
-1250344800,Mykolaiv,Krymteplytsia,0,1,,,,0
-1250344800,Hoverla Uzhhorod,Dnipro,2,3,,,,0
-1250344800,FK Kharkov,Karpaty,1,5,,,,0
-1250344800,FC Odesa,Shakhtar Donetsk,1,6,,,,0
-1250344800,Energetik,Metalist Kharkiv,0,1,,,,0
-1250344800,CSKA Kiev,Obolon,3,3,Pen,3,4,0
-1250344800,Arsenal Kiev,Dyn. Kyiv,1,2,,,,0
-1250348400,Oleksandriya,Volyn Lutsk,2,2,AET,2,3,0
-1250348400,Kryvbas Krivoy Rog,FK Zorya Luhansk,5,0,,,,0
-1250352000,Vorskla Poltava,Met. Zaporizhya,2,2,AET,2,3,0
-1252756800,Yednist,Shakhtar Donetsk,1,3,,,,0
-1252760400,Stal Alchevsk,Obolon,0,3,,,,0
-1252760400,Kalinine,Dnipro,1,2,,,,0
-1252767600,Volyn Lutsk,Kryvbas Krivoy Rog,2,1,,,,0
-1252767600,Tavriya,Mariupol,4,2,,,,0
-1252767600,Met. Donetsk,Karpaty,2,1,,,,0
-1252767600,Krymteplytsia,Met. Zaporizhya,1,2,,,,0
-1252771200,Metalist Kharkiv,Dyn. Kyiv,0,1,,,,0
-1256745600,Volyn Lutsk,Met. Zaporizhya,1,1,AET,2,1,0
-1256745600,Tavriya,Obolon,4,0,,,,0
-1256749200,Dnipro,Met. Donetsk,1,1,AET,1,2,0
-1256751000,Shakhtar Donetsk,Dyn. Kyiv,2,0,,,,0
-1269446400,Volyn Lutsk,Tavriya,1,2,,,,0
-1269446400,Met. Donetsk,Shakhtar Donetsk,2,1,,,,0
-1274018400,Tavriya,Met. Donetsk,2,2,AET,3,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1250341200,Stal Kamianske,Tavriya,l2uSt4RN,4GQ6kuAf,0,4,,,,0
+1250341200,FC Poltava,Kalinine,6ys9CWQj,O8ZhMZ0N,0,2,,,,0
+1250343000,Sverdlovsk,Mariupol,86UWjElr,GzrDrkgg,1,3,,,,0
+1250344800,Yednist,Nyva Ternopil,6iPlRaUe,KnXbm55p,2,1,,,,0
+1250344800,Stal Alchevsk,Ch. Odesa,tMsKdV02,4bedUOPH,1,0,,,,0
+1250344800,Naftovik-Ukrnafta,Met. Donetsk,jBRZbXzO,f5csGSwJ,1,1,Pen,1,2,0
+1250344800,Mykolaiv,Krymteplytsia,xfISJPfp,rqFmgHAc,0,1,,,,0
+1250344800,Hoverla Uzhhorod,Dnipro,YVQtLWA9,xbUiUE46,2,3,,,,0
+1250344800,FK Kharkov,Karpaty,0ASkidMO,va8daTel,1,5,,,,0
+1250344800,FC Odesa,Shakhtar Donetsk,vFGnzEvs,YmCZKGcR,1,6,,,,0
+1250344800,Energetik,Metalist Kharkiv,AgPpKjQF,MgWJDIOI,0,1,,,,0
+1250344800,CSKA Kiev,Obolon,,QanlLhoo,3,3,Pen,3,4,0
+1250344800,Arsenal Kiev,Dyn. Kyiv,tneUjJf7,M1Cjh44S,1,2,,,,0
+1250348400,Oleksandriya,Volyn Lutsk,WhuO7nt3,f5csGSwJ,2,2,AET,2,3,0
+1250348400,Kryvbas Krivoy Rog,FK Zorya Luhansk,ncFcQ5qn,lxvkDsJf,5,0,,,,0
+1250352000,Vorskla Poltava,Met. Zaporizhya,SOzPeLV8,YVQtLWA9,2,2,AET,2,3,0
+1252756800,Yednist,Shakhtar Donetsk,6iPlRaUe,YmCZKGcR,1,3,,,,0
+1252760400,Stal Alchevsk,Obolon,tMsKdV02,QanlLhoo,0,3,,,,0
+1252760400,Kalinine,Dnipro,O8ZhMZ0N,xbUiUE46,1,2,,,,0
+1252767600,Volyn Lutsk,Kryvbas Krivoy Rog,f5csGSwJ,ncFcQ5qn,2,1,,,,0
+1252767600,Tavriya,Mariupol,4GQ6kuAf,GzrDrkgg,4,2,,,,0
+1252767600,Met. Donetsk,Karpaty,f5csGSwJ,va8daTel,2,1,,,,0
+1252767600,Krymteplytsia,Met. Zaporizhya,rqFmgHAc,YVQtLWA9,1,2,,,,0
+1252771200,Metalist Kharkiv,Dyn. Kyiv,MgWJDIOI,M1Cjh44S,0,1,,,,0
+1256745600,Volyn Lutsk,Met. Zaporizhya,f5csGSwJ,YVQtLWA9,1,1,AET,2,1,0
+1256745600,Tavriya,Obolon,4GQ6kuAf,QanlLhoo,4,0,,,,0
+1256749200,Dnipro,Met. Donetsk,xbUiUE46,f5csGSwJ,1,1,AET,1,2,0
+1256751000,Shakhtar Donetsk,Dyn. Kyiv,YmCZKGcR,M1Cjh44S,2,0,,,,0
+1269446400,Volyn Lutsk,Tavriya,f5csGSwJ,4GQ6kuAf,1,2,,,,0
+1269446400,Met. Donetsk,Shakhtar Donetsk,f5csGSwJ,YmCZKGcR,2,1,,,,0
+1274018400,Tavriya,Met. Donetsk,4GQ6kuAf,f5csGSwJ,2,2,AET,3,2,0

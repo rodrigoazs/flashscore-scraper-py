@@ -1,61 +1,61 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1269684000,Dordoi Bishkek,Sher-Ak-Dan,9,0,,,,0
-1269766800,Abdish-Ata,Kyrgyzaltyn,9,0,,,,0
-1270285200,Alga,Kyrgyzaltyn,3,0,,,,0
-1270371600,Abdish-Ata,Dordoi Bishkek,4,3,,,,0
-1272186000,Dordoi Bishkek,Kyrgyzaltyn,2,0,,,,0
-1272272400,Abdish-Ata,Neftchi Kochkor-Ata,0,0,,,,0
-1272531600,Sher-Ak-Dan,Neftchi Kochkor-Ata,1,1,,,,0
-1272790800,Dordoi Bishkek,Neftchi Kochkor-Ata,1,1,,,,0
-1273050000,Dordoi Bishkek,Alga,0,2,,,,0
-1273136400,Abdish-Ata,Sher-Ak-Dan,4,1,,,,0
-1273568400,Sher-Ak-Dan,Alga,1,3,,,,0
-1274000400,Neftchi Kochkor-Ata,Kyrgyzaltyn,3,0,,,,0
-1274000400,Abdish-Ata,Alga,1,1,,,,0
-1274259600,Alga,Neftchi Kochkor-Ata,0,1,,,,0
-1274346000,Sher-Ak-Dan,Kyrgyzaltyn,0,0,,,,0
-1275123600,Neftchi Kochkor-Ata,Alga,2,0,,,,0
-1275210000,Sher-Ak-Dan,Dordoi Bishkek,0,6,,,,0
-1275210000,Kyrgyzaltyn,Abdish-Ata,0,3,,,,0
-1275728400,Kyrgyzaltyn,Neftchi Kochkor-Ata,0,3,,,,0
-1275728400,Dordoi Bishkek,Abdish-Ata,1,0,,,,0
-1275728400,Alga,Sher-Ak-Dan,3,3,,,,0
-1276246800,Kyrgyzaltyn,Dordoi Bishkek,0,5,,,,0
-1276333200,Alga,Abdish-Ata,2,2,,,,0
-1276938000,Sher-Ak-Dan,Abdish-Ata,3,6,,,,0
-1276938000,Kyrgyzaltyn,Alga,1,0,,,,0
-1277542800,Kyrgyzaltyn,Sher-Ak-Dan,0,2,,,,0
-1277629200,Alga,Dordoi Bishkek,0,1,,,,0
-1279702800,Neftchi Kochkor-Ata,Sher-Ak-Dan,1,0,,,,0
-1280221200,Neftchi Kochkor-Ata,Dordoi Bishkek,2,2,,,,0
-1280307600,Kyrgyzaltyn,Sher-Ak-Dan,0,2,,,,0
-1280566800,Dordoi Bishkek,Sher-Ak-Dan,1,0,,,,0
-1280653200,Neftchi Kochkor-Ata,Kyrgyzaltyn,3,2,,,,0
-1281862800,Dordoi Bishkek,Alga,3,1,,,,0
-1281862800,Abdish-Ata,Neftchi Kochkor-Ata,3,0,,,,0
-1282208400,Kyrgyzaltyn,Neftchi Kochkor-Ata,1,1,,,,0
-1282208400,Alga,Sher-Ak-Dan,1,0,,,,0
-1282813200,Abdish-Ata,Kyrgyzaltyn,0,0,,,,0
-1283677200,Sher-Ak-Dan,Neftchi Kochkor-Ata,0,5,,,,0
-1283677200,Dordoi Bishkek,Kyrgyzaltyn,1,0,,,,0
-1283677200,Abdish-Ata,Alga,5,0,,,,0
-1284282000,Sher-Ak-Dan,Kyrgyzaltyn,2,1,,,,0
-1284282000,Dordoi Bishkek,Neftchi Kochkor-Ata,1,2,,,,0
-1284282000,Alga,Abdish-Ata,0,3,,,,0
-1284800400,Dordoi Bishkek,Kyrgyzaltyn,2,1,,,,0
-1284886800,Neftchi Kochkor-Ata,Abdish-Ata,2,0,,,,0
-1285146000,Sher-Ak-Dan,Alga,1,0,,,,0
-1285491600,Alga,Neftchi Kochkor-Ata,1,1,,,,0
-1285837200,Kyrgyzaltyn,Abdish-Ata,0,9,,,,0
-1286096400,Sher-Ak-Dan,Abdish-Ata,1,6,,,,0
-1286096400,Neftchi Kochkor-Ata,Dordoi Bishkek,1,0,,,,0
-1286614800,Neftchi Kochkor-Ata,Alga,2,1,,,,0
-1286614800,Dordoi Bishkek,Abdish-Ata,2,2,,,,0
-1286960400,Alga,Dordoi Bishkek,1,4,,,,0
-1286960400,Abdish-Ata,Sher-Ak-Dan,4,2,,,,0
-1287306000,Sher-Ak-Dan,Dordoi Bishkek,0,3,,,,0
-1287306000,Neftchi Kochkor-Ata,Abdish-Ata,1,1,,,,0
-1287306000,Kyrgyzaltyn,Alga,0,3,,,,0
-1287910800,Neftchi Kochkor-Ata,Sher-Ak-Dan,4,0,,,,0
-1287910800,Alga,Kyrgyzaltyn,4,2,,,,0
-1287910800,Abdish-Ata,Dordoi Bishkek,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1269684000,Dordoi Bishkek,Sher-Ak-Dan,ILBgbXn2,MBTMu3tc,9,0,,,,0
+1269766800,Abdish-Ata,Kyrgyzaltyn,AZ8zeUpO,0nEyHENO,9,0,,,,0
+1270285200,Alga,Kyrgyzaltyn,AFCOSfcG,0nEyHENO,3,0,,,,0
+1270371600,Abdish-Ata,Dordoi Bishkek,AZ8zeUpO,ILBgbXn2,4,3,,,,0
+1272186000,Dordoi Bishkek,Kyrgyzaltyn,ILBgbXn2,0nEyHENO,2,0,,,,0
+1272272400,Abdish-Ata,Neftchi Kochkor-Ata,AZ8zeUpO,ShQkXI9I,0,0,,,,0
+1272531600,Sher-Ak-Dan,Neftchi Kochkor-Ata,MBTMu3tc,ShQkXI9I,1,1,,,,0
+1272790800,Dordoi Bishkek,Neftchi Kochkor-Ata,ILBgbXn2,ShQkXI9I,1,1,,,,0
+1273050000,Dordoi Bishkek,Alga,ILBgbXn2,AFCOSfcG,0,2,,,,0
+1273136400,Abdish-Ata,Sher-Ak-Dan,AZ8zeUpO,MBTMu3tc,4,1,,,,0
+1273568400,Sher-Ak-Dan,Alga,MBTMu3tc,AFCOSfcG,1,3,,,,0
+1274000400,Neftchi Kochkor-Ata,Kyrgyzaltyn,ShQkXI9I,0nEyHENO,3,0,,,,0
+1274000400,Abdish-Ata,Alga,AZ8zeUpO,AFCOSfcG,1,1,,,,0
+1274259600,Alga,Neftchi Kochkor-Ata,AFCOSfcG,ShQkXI9I,0,1,,,,0
+1274346000,Sher-Ak-Dan,Kyrgyzaltyn,MBTMu3tc,0nEyHENO,0,0,,,,0
+1275123600,Neftchi Kochkor-Ata,Alga,ShQkXI9I,AFCOSfcG,2,0,,,,0
+1275210000,Sher-Ak-Dan,Dordoi Bishkek,MBTMu3tc,ILBgbXn2,0,6,,,,0
+1275210000,Kyrgyzaltyn,Abdish-Ata,0nEyHENO,AZ8zeUpO,0,3,,,,0
+1275728400,Kyrgyzaltyn,Neftchi Kochkor-Ata,0nEyHENO,ShQkXI9I,0,3,,,,0
+1275728400,Dordoi Bishkek,Abdish-Ata,ILBgbXn2,AZ8zeUpO,1,0,,,,0
+1275728400,Alga,Sher-Ak-Dan,AFCOSfcG,MBTMu3tc,3,3,,,,0
+1276246800,Kyrgyzaltyn,Dordoi Bishkek,0nEyHENO,ILBgbXn2,0,5,,,,0
+1276333200,Alga,Abdish-Ata,AFCOSfcG,AZ8zeUpO,2,2,,,,0
+1276938000,Sher-Ak-Dan,Abdish-Ata,MBTMu3tc,AZ8zeUpO,3,6,,,,0
+1276938000,Kyrgyzaltyn,Alga,0nEyHENO,AFCOSfcG,1,0,,,,0
+1277542800,Kyrgyzaltyn,Sher-Ak-Dan,0nEyHENO,MBTMu3tc,0,2,,,,0
+1277629200,Alga,Dordoi Bishkek,AFCOSfcG,ILBgbXn2,0,1,,,,0
+1279702800,Neftchi Kochkor-Ata,Sher-Ak-Dan,ShQkXI9I,MBTMu3tc,1,0,,,,0
+1280221200,Neftchi Kochkor-Ata,Dordoi Bishkek,ShQkXI9I,ILBgbXn2,2,2,,,,0
+1280307600,Kyrgyzaltyn,Sher-Ak-Dan,0nEyHENO,MBTMu3tc,0,2,,,,0
+1280566800,Dordoi Bishkek,Sher-Ak-Dan,ILBgbXn2,MBTMu3tc,1,0,,,,0
+1280653200,Neftchi Kochkor-Ata,Kyrgyzaltyn,ShQkXI9I,0nEyHENO,3,2,,,,0
+1281862800,Dordoi Bishkek,Alga,ILBgbXn2,AFCOSfcG,3,1,,,,0
+1281862800,Abdish-Ata,Neftchi Kochkor-Ata,AZ8zeUpO,ShQkXI9I,3,0,,,,0
+1282208400,Kyrgyzaltyn,Neftchi Kochkor-Ata,0nEyHENO,ShQkXI9I,1,1,,,,0
+1282208400,Alga,Sher-Ak-Dan,AFCOSfcG,MBTMu3tc,1,0,,,,0
+1282813200,Abdish-Ata,Kyrgyzaltyn,AZ8zeUpO,0nEyHENO,0,0,,,,0
+1283677200,Sher-Ak-Dan,Neftchi Kochkor-Ata,MBTMu3tc,ShQkXI9I,0,5,,,,0
+1283677200,Dordoi Bishkek,Kyrgyzaltyn,ILBgbXn2,0nEyHENO,1,0,,,,0
+1283677200,Abdish-Ata,Alga,AZ8zeUpO,AFCOSfcG,5,0,,,,0
+1284282000,Sher-Ak-Dan,Kyrgyzaltyn,MBTMu3tc,0nEyHENO,2,1,,,,0
+1284282000,Dordoi Bishkek,Neftchi Kochkor-Ata,ILBgbXn2,ShQkXI9I,1,2,,,,0
+1284282000,Alga,Abdish-Ata,AFCOSfcG,AZ8zeUpO,0,3,,,,0
+1284800400,Dordoi Bishkek,Kyrgyzaltyn,ILBgbXn2,0nEyHENO,2,1,,,,0
+1284886800,Neftchi Kochkor-Ata,Abdish-Ata,ShQkXI9I,AZ8zeUpO,2,0,,,,0
+1285146000,Sher-Ak-Dan,Alga,MBTMu3tc,AFCOSfcG,1,0,,,,0
+1285491600,Alga,Neftchi Kochkor-Ata,AFCOSfcG,ShQkXI9I,1,1,,,,0
+1285837200,Kyrgyzaltyn,Abdish-Ata,0nEyHENO,AZ8zeUpO,0,9,,,,0
+1286096400,Sher-Ak-Dan,Abdish-Ata,MBTMu3tc,AZ8zeUpO,1,6,,,,0
+1286096400,Neftchi Kochkor-Ata,Dordoi Bishkek,ShQkXI9I,ILBgbXn2,1,0,,,,0
+1286614800,Neftchi Kochkor-Ata,Alga,ShQkXI9I,AFCOSfcG,2,1,,,,0
+1286614800,Dordoi Bishkek,Abdish-Ata,ILBgbXn2,AZ8zeUpO,2,2,,,,0
+1286960400,Alga,Dordoi Bishkek,AFCOSfcG,ILBgbXn2,1,4,,,,0
+1286960400,Abdish-Ata,Sher-Ak-Dan,AZ8zeUpO,MBTMu3tc,4,2,,,,0
+1287306000,Sher-Ak-Dan,Dordoi Bishkek,MBTMu3tc,ILBgbXn2,0,3,,,,0
+1287306000,Neftchi Kochkor-Ata,Abdish-Ata,ShQkXI9I,AZ8zeUpO,1,1,,,,0
+1287306000,Kyrgyzaltyn,Alga,0nEyHENO,AFCOSfcG,0,3,,,,0
+1287910800,Neftchi Kochkor-Ata,Sher-Ak-Dan,ShQkXI9I,MBTMu3tc,4,0,,,,0
+1287910800,Alga,Kyrgyzaltyn,AFCOSfcG,0nEyHENO,4,2,,,,0
+1287910800,Abdish-Ata,Dordoi Bishkek,AZ8zeUpO,ILBgbXn2,1,2,,,,0

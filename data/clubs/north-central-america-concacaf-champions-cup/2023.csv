@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1678230000,Violette,Austin FC,3,0,,,,0
-1678237200,Alianza FC,Philadelphia Union,0,0,,,,0
-1678244400,Tigres UANL,Orlando City,0,0,,,,0
-1678316400,Tauro,Club Leon,0,1,,,,0
-1678323600,Olimpia,Atlas,4,1,,,,0
-1678330800,Vancouver Whitecaps,Real Espana,5,0,,,,0
-1678410000,Motagua,Pachuca,0,0,,,,0
-1678417200,Alajuelense,Los Angeles FC,0,3,,,,0
-1678838400,Philadelphia Union,Alianza FC,4,0,,,,0
-1678838400,Austin FC,Violette,2,0,,,,0
-1678846500,Atlas,Olimpia,4,0,,,,0
-1678917600,Real Espana,Vancouver Whitecaps,3,2,,,,0
-1678925700,Orlando City,Tigres UANL,1,1,,,,0
-1678933800,Los Angeles FC,Alajuelense,1,2,,,,0
-1679011200,Club Leon,Tauro,2,0,,,,0
-1679019300,Pachuca,Motagua,1,1,,,,0
-1680652800,Philadelphia Union,Atlas,1,0,,,,0
-1680660000,Club Leon,Violette,5,0,,,,0
-1680739200,Motagua,Tigres UANL,0,1,,,,0
-1680746400,Vancouver Whitecaps,Los Angeles FC,0,3,,,,0
-1681257600,Violette,Club Leon,2,1,,,,0
-1681265700,Los Angeles FC,Vancouver Whitecaps,3,0,,,,0
-1681351200,Atlas,Philadelphia Union,2,2,,,,0
-1681437600,Tigres UANL,Motagua,5,0,,,,0
-1682474400,Tigres UANL,Club Leon,2,1,,,,0
-1682557200,Philadelphia Union,Los Angeles FC,1,1,,,,0
-1683079200,Los Angeles FC,Philadelphia Union,3,0,,,,0
-1683165600,Club Leon,Tigres UANL,3,1,,,,0
-1685584800,Club Leon,Los Angeles FC,2,1,,,,0
-1685926800,Los Angeles FC,Club Leon,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1678230000,Violette,Austin FC,hE6BPRI3,29w5okaj,3,0,,,,0
+1678237200,Alianza FC,Philadelphia Union,dfRdOmGt,juuH5vx4,0,0,,,,0
+1678244400,Tigres UANL,Orlando City,zgtUoENa,AFpqya1j,0,0,,,,0
+1678316400,Tauro,Club Leon,vTLj5hDm,Uc00R8BH,0,1,,,,0
+1678323600,Olimpia,Atlas,WvziCH8E,OtymR74A,4,1,,,,0
+1678330800,Vancouver Whitecaps,Real Espana,nJrkMuTE,dQeZ4aH3,5,0,,,,0
+1678410000,Motagua,Pachuca,dtCxYreO,zFZbB1JF,0,0,,,,0
+1678417200,Alajuelense,Los Angeles FC,4v3Y4ReF,nJbaxYrp,0,3,,,,0
+1678838400,Philadelphia Union,Alianza FC,juuH5vx4,dfRdOmGt,4,0,,,,0
+1678838400,Austin FC,Violette,29w5okaj,hE6BPRI3,2,0,,,,0
+1678846500,Atlas,Olimpia,OtymR74A,WvziCH8E,4,0,,,,0
+1678917600,Real Espana,Vancouver Whitecaps,dQeZ4aH3,nJrkMuTE,3,2,,,,0
+1678925700,Orlando City,Tigres UANL,AFpqya1j,zgtUoENa,1,1,,,,0
+1678933800,Los Angeles FC,Alajuelense,nJbaxYrp,4v3Y4ReF,1,2,,,,0
+1679011200,Club Leon,Tauro,Uc00R8BH,vTLj5hDm,2,0,,,,0
+1679019300,Pachuca,Motagua,zFZbB1JF,dtCxYreO,1,1,,,,0
+1680652800,Philadelphia Union,Atlas,juuH5vx4,OtymR74A,1,0,,,,0
+1680660000,Club Leon,Violette,Uc00R8BH,hE6BPRI3,5,0,,,,0
+1680739200,Motagua,Tigres UANL,dtCxYreO,zgtUoENa,0,1,,,,0
+1680746400,Vancouver Whitecaps,Los Angeles FC,nJrkMuTE,nJbaxYrp,0,3,,,,0
+1681257600,Violette,Club Leon,hE6BPRI3,Uc00R8BH,2,1,,,,0
+1681265700,Los Angeles FC,Vancouver Whitecaps,nJbaxYrp,nJrkMuTE,3,0,,,,0
+1681351200,Atlas,Philadelphia Union,OtymR74A,juuH5vx4,2,2,,,,0
+1681437600,Tigres UANL,Motagua,zgtUoENa,dtCxYreO,5,0,,,,0
+1682474400,Tigres UANL,Club Leon,zgtUoENa,Uc00R8BH,2,1,,,,0
+1682557200,Philadelphia Union,Los Angeles FC,juuH5vx4,nJbaxYrp,1,1,,,,0
+1683079200,Los Angeles FC,Philadelphia Union,nJbaxYrp,juuH5vx4,3,0,,,,0
+1683165600,Club Leon,Tigres UANL,Uc00R8BH,zgtUoENa,3,1,,,,0
+1685584800,Club Leon,Los Angeles FC,Uc00R8BH,nJbaxYrp,2,1,,,,0
+1685926800,Los Angeles FC,Club Leon,nJbaxYrp,Uc00R8BH,0,1,,,,0

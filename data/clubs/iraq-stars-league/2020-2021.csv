@@ -1,381 +1,381 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1603627200,Al Shorta,Al Zawraa,1,1,,,,0
-1603627200,Al Diwaniya,Al Najaf,1,0,,,,0
-1603638000,Al Wasat,Al Simawa,5,1,,,,0
-1603638000,Al Minaa,Al-Hudod,0,0,,,,0
-1603641600,Al Quwa Al Jawiya,Al Kahraba,1,0,,,,0
-1603713600,Baghdad,Erbil,0,2,,,,0
-1603713600,Al Naft,Alsinaat Alkahrabaiya,2,0,,,,0
-1603724400,Al Talaba,Naft Al-Basra,0,0,,,,0
-1603800000,Zakho,Al Karkh,0,0,,,,0
-1603800000,Al-Qassim,Naft Missan,3,3,,,,0
-1604057400,Al Simawa,Al Minaa,1,0,,,,0
-1604057400,Al Kahraba,Al-Hudod,2,2,,,,0
-1604063700,Al Zawraa,Al Naft,1,1,,,,0
-1604075400,Al Shorta,Baghdad,2,0,,,,0
-1604142000,Alsinaat Alkahrabaiya,Al Talaba,0,3,,,,0
-1604142000,Al Najaf,Al Wasat,0,3,Awrd,,,0
-1604150100,Erbil,Zakho,1,1,,,,0
-1604160000,Naft Al-Basra,Al Quwa Al Jawiya,1,2,,,,0
-1604230200,Naft Missan,Al Diwaniya,0,0,,,,0
-1604230200,Al Karkh,Al-Qassim,2,1,,,,0
-1604489400,Al Simawa,Al Najaf,0,1,,,,0
-1604500200,Al Minaa,Al Kahraba,1,3,,,,0
-1604575800,Zakho,Al Shorta,0,0,,,,0
-1604583000,Al Quwa Al Jawiya,Alsinaat Alkahrabaiya,2,0,,,,0
-1604595600,Al Talaba,Al Zawraa,0,2,,,,0
-1604662200,Al-Qassim,Erbil,0,0,,,,0
-1604662200,Al-Hudod,Naft Al-Basra,1,1,,,,0
-1604662200,Al Naft,Baghdad,0,1,,,,0
-1604662200,Al Diwaniya,Al Karkh,0,2,,,,0
-1604673000,Al Wasat,Naft Missan,0,1,,,,0
-1606042800,Zakho,Al Naft,1,1,,,,0
-1606042800,Erbil,Al Diwaniya,1,0,,,,0
-1606042800,Al Kahraba,Naft Al-Basra,1,1,,,,0
-1606055400,Al Shorta,Al-Qassim,1,0,,,,0
-1606129200,Naft Missan,Al Simawa,0,0,,,,0
-1606129200,Baghdad,Al Talaba,0,1,,,,0
-1606129200,Alsinaat Alkahrabaiya,Al-Hudod,0,0,,,,0
-1606129200,Al Najaf,Al Minaa,1,0,,,,0
-1606141800,Al Zawraa,Al Quwa Al Jawiya,1,1,,,,0
-1606215600,Al Karkh,Al Wasat,0,1,,,,0
-1606474800,Al Talaba,Zakho,1,1,,,,0
-1606474800,Al Kahraba,Alsinaat Alkahrabaiya,1,1,,,,0
-1606474800,Al Diwaniya,Al Shorta,2,0,,,,0
-1606482900,Al-Qassim,Al Naft,0,2,,,,0
-1606561200,Al-Hudod,Al Zawraa,1,2,,,,0
-1606561200,Al Simawa,Al Karkh,1,0,,,,0
-1606561200,Al Quwa Al Jawiya,Baghdad,0,1,,,,0
-1606561200,Al Najaf,Naft Missan,0,0,,,,0
-1606569300,Al Wasat,Erbil,1,0,,,,0
-1606577400,Naft Al-Basra,Al Minaa,1,2,,,,0
-1606820400,Al Naft,Al Diwaniya,1,1,,,,0
-1606906800,Baghdad,Al-Hudod,0,1,,,,0
-1606906800,Al Talaba,Al-Qassim,1,0,,,,0
-1606914900,Al Zawraa,Al Kahraba,2,2,,,,0
-1606923000,Al Minaa,Naft Missan,1,0,,,,0
-1606993200,Zakho,Al Quwa Al Jawiya,1,0,,,,0
-1606993200,Erbil,Al Simawa,2,0,,,,0
-1606993200,Alsinaat Alkahrabaiya,Naft Al-Basra,1,0,,,,0
-1607001300,Al Shorta,Al Wasat,1,1,,,,0
-1607338800,Alsinaat Alkahrabaiya,Al Minaa,0,0,,,,0
-1607338800,Al Kahraba,Baghdad,0,1,,,,0
-1607338800,Al Diwaniya,Al Talaba,1,1,,,,0
-1607346900,Al Wasat,Al Naft,1,0,,,,0
-1607425200,Naft Missan,Al Karkh,2,1,,,,0
-1607425200,Al-Hudod,Zakho,1,2,,,,0
-1607425200,Al Simawa,Al Shorta,0,3,,,,0
-1607425200,Al Najaf,Erbil,0,0,,,,0
-1607433300,Naft Al-Basra,Al Zawraa,0,0,,,,0
-1607441400,Al Quwa Al Jawiya,Al-Qassim,1,1,,,,0
-1607770800,Al Naft,Al Simawa,3,1,,,,0
-1607770800,Al Diwaniya,Al Quwa Al Jawiya,0,0,,,,0
-1607778900,Al Minaa,Al Karkh,2,2,,,,0
-1607787000,Al Talaba,Al Wasat,2,2,,,,0
-1607857200,Zakho,Al Kahraba,1,3,,,,0
-1607857200,Erbil,Naft Missan,0,1,,,,0
-1607857200,Baghdad,Naft Al-Basra,3,0,,,,0
-1607857200,Al-Qassim,Al-Hudod,2,0,,,,0
-1607865300,Al Zawraa,Alsinaat Alkahrabaiya,1,0,,,,0
-1607877000,Al Shorta,Al Najaf,0,0,,,,0
-1608202800,Al-Hudod,Al Diwaniya,1,1,,,,0
-1608202800,Al Simawa,Al Talaba,1,1,,,,0
-1608202800,Al Karkh,Erbil,2,0,,,,0
-1608210900,Al Wasat,Al Quwa Al Jawiya,0,1,,,,0
-1608289200,Naft Missan,Al Shorta,1,1,,,,0
-1608289200,Alsinaat Alkahrabaiya,Baghdad,0,0,,,,0
-1608289200,Al Kahraba,Al-Qassim,1,0,,,,0
-1608297300,Al Minaa,Al Zawraa,0,0,,,,0
-1608305400,Al Najaf,Al Naft,2,0,,,,0
-1608312600,Naft Al-Basra,Zakho,1,0,,,,0
-1608634800,Al-Hudod,Al Wasat,1,2,,,,0
-1608634800,Al Diwaniya,Al Kahraba,0,0,,,,0
-1608642900,Al Talaba,Al Najaf,0,2,,,,0
-1608656400,Al Quwa Al Jawiya,Al Simawa,5,1,,,,0
-1608721200,Zakho,Alsinaat Alkahrabaiya,1,0,,,,0
-1608721200,Erbil,Al Minaa,2,2,,,,0
-1608721200,Baghdad,Al Zawraa,1,1,,,,0
-1608721200,Al-Qassim,Naft Al-Basra,1,2,,,,0
-1608729300,Al Naft,Naft Missan,2,3,,,,0
-1608742800,Al Shorta,Al Karkh,1,0,,,,0
-1609066800,Al Simawa,Al-Hudod,0,0,,,,0
-1609066800,Al Kahraba,Al Wasat,0,1,,,,0
-1609074900,Al Najaf,Al Quwa Al Jawiya,0,0,,,,0
-1609153200,Alsinaat Alkahrabaiya,Al-Qassim,1,1,,,,0
-1609153200,Al Karkh,Al Naft,0,2,,,,0
-1609161300,Erbil,Al Shorta,0,1,,,,0
-1609168500,Naft Missan,Al Talaba,0,0,,,,0
-1609175700,Naft Al-Basra,Al Diwaniya,0,1,,,,0
-1609239600,Al Minaa,Baghdad,0,1,,,,0
-1609247700,Al Zawraa,Zakho,0,1,,,,0
-1609498800,Al-Hudod,Al Najaf,2,1,,,,0
-1609498800,Al Simawa,Al Kahraba,1,0,,,,0
-1609506000,Al Quwa Al Jawiya,Naft Missan,3,1,,,,0
-1609513200,Al Wasat,Naft Al-Basra,2,1,,,,0
-1609520400,Al Talaba,Al Karkh,1,2,,,,0
-1609580700,Al-Qassim,Al Zawraa,0,2,,,,0
-1609587000,Baghdad,Zakho,0,0,,,,0
-1609587000,Al Diwaniya,Alsinaat Alkahrabaiya,2,2,,,,0
-1609587900,Al Naft,Erbil,1,1,,,,0
-1609596000,Al Shorta,Al Minaa,4,2,,,,0
-1609930800,Alsinaat Alkahrabaiya,Al Wasat,1,1,,,,0
-1609930800,Al Naft,Al Shorta,2,2,,,,0
-1609930800,Al Karkh,Al Quwa Al Jawiya,0,2,,,,0
-1609938900,Al Zawraa,Al Diwaniya,3,0,,,,0
-1609946100,Al Najaf,Al Kahraba,1,1,,,,0
-1610017200,Zakho,Al Minaa,2,1,,,,0
-1610017200,Al-Qassim,Baghdad,3,1,,,,0
-1610025300,Erbil,Al Talaba,5,0,,,,0
-1610031600,Naft Al-Basra,Al Simawa,2,1,,,,0
-1610038800,Naft Missan,Al-Hudod,3,2,,,,0
-1610362800,Al Karkh,Al Najaf,1,2,,,,0
-1610790300,Al Kahraba,Naft Missan,1,0,,,,0
-1610794800,Baghdad,Al Diwaniya,1,1,,,,0
-1610794800,Al Simawa,Alsinaat Alkahrabaiya,2,0,,,,0
-1610797500,Zakho,Al-Qassim,1,1,,,,0
-1610806500,Al Minaa,Al Naft,0,1,,,,0
-1610880300,Naft Al-Basra,Al Najaf,0,3,,,,0
-1610881200,Al-Hudod,Al Karkh,0,0,,,,0
-1610888400,Al Quwa Al Jawiya,Erbil,3,0,,,,0
-1610896500,Al Wasat,Al Zawraa,0,2,,,,0
-1610904600,Al Talaba,Al Shorta,0,1,,,,0
-1611226800,Baghdad,Al Wasat,1,1,,,,0
-1611226800,Al-Qassim,Al Minaa,1,2,,,,0
-1611226800,Al Karkh,Al Kahraba,1,0,,,,0
-1611226800,Al Diwaniya,Zakho,0,0,,,,0
-1611244800,Naft Missan,Naft Al-Basra,1,1,,,,0
-1611309600,Al Naft,Al Talaba,1,0,,,,0
-1611313200,Alsinaat Alkahrabaiya,Al Najaf,0,1,,,,0
-1611317700,Al Zawraa,Al Simawa,1,0,,,,0
-1611325800,Erbil,Al-Hudod,1,1,,,,0
-1611333900,Al Shorta,Al Quwa Al Jawiya,0,0,,,,0
-1612000800,Al Simawa,Baghdad,0,0,,,,0
-1612004400,Alsinaat Alkahrabaiya,Naft Missan,0,0,,,,0
-1612008000,Al-Qassim,Al Diwaniya,0,0,,,,0
-1612008900,Al Kahraba,Erbil,2,2,,,,0
-1612017000,Naft Al-Basra,Al Karkh,1,0,,,,0
-1612087200,Al-Hudod,Al Shorta,0,2,,,,0
-1612090800,Zakho,Al Wasat,1,1,,,,0
-1612095300,Al Minaa,Al Talaba,1,0,,,,0
-1612103400,Al Quwa Al Jawiya,Al Naft,4,1,,,,0
-1612111500,Al Najaf,Al Zawraa,0,1,,,,0
-1612432800,Al Karkh,Alsinaat Alkahrabaiya,1,0,,,,0
-1612436400,Erbil,Naft Al-Basra,0,1,,,,0
-1612440900,Al Talaba,Al Quwa Al Jawiya,0,1,,,,0
-1612449000,Al Minaa,Al Diwaniya,2,0,,,,0
-1612457100,Al Shorta,Al Kahraba,0,0,,,,0
-1612519200,Zakho,Al Simawa,2,0,,,,0
-1612522800,Al Naft,Al-Hudod,0,0,,,,0
-1612527300,Baghdad,Al Najaf,0,1,,,,0
-1612535400,Al Zawraa,Naft Missan,1,1,,,,0
-1612543500,Al Wasat,Al-Qassim,2,3,,,,0
-1612782000,Alsinaat Alkahrabaiya,Erbil,2,0,,,,0
-1612791000,Al Quwa Al Jawiya,Al Minaa,2,1,,,,0
-1612868400,Al-Hudod,Al Talaba,2,2,,,,0
-1612868400,Al Simawa,Al-Qassim,1,1,,,,0
-1612868400,Al Diwaniya,Al Wasat,0,0,,,,0
-1612872900,Al Karkh,Al Zawraa,1,1,,,,0
-1612876500,Al Najaf,Zakho,1,1,,,,0
-1612884600,Naft Missan,Baghdad,1,0,,,,0
-1612954800,Al Kahraba,Al Naft,0,1,,,,0
-1612962900,Naft Al-Basra,Al Shorta,0,1,,,,0
-1613214000,Naft Missan,Zakho,1,1,,,,0
-1613214000,Al-Qassim,Al Najaf,1,1,,,,0
-1613214000,Al Diwaniya,Al Simawa,1,0,,,,0
-1613222100,Al Zawraa,Erbil,2,1,,,,0
-1613234700,Al Quwa Al Jawiya,Al-Hudod,2,1,,,,0
-1613300400,Baghdad,Al Karkh,1,0,,,,0
-1613300400,Al Shorta,Alsinaat Alkahrabaiya,1,1,,,,0
-1613300400,Al Naft,Naft Al-Basra,1,1,,,,0
-1613308500,Al Wasat,Al Minaa,1,1,,,,0
-1613321100,Al Talaba,Al Kahraba,3,1,,,,0
-1614076200,Al Kahraba,Al Quwa Al Jawiya,0,1,,,,0
-1614078000,Alsinaat Alkahrabaiya,Al Naft,0,0,,,,0
-1614078000,Al Simawa,Al Wasat,0,0,,,,0
-1614078000,Al Karkh,Zakho,1,1,,,,0
-1614083400,Naft Missan,Al-Qassim,0,1,,,,0
-1614090600,Al Najaf,Al Diwaniya,2,0,,,,0
-1614160800,Erbil,Baghdad,2,2,,,,0
-1614164400,Al-Hudod,Al Minaa,1,1,,,,0
-1614168000,Naft Al-Basra,Al Talaba,1,1,,,,0
-1614175200,Al Zawraa,Al Shorta,1,0,,,,0
-1614508200,Al Naft,Al Zawraa,0,0,,,,0
-1614510000,Al-Qassim,Al Karkh,0,0,,,,0
-1614510000,Al Diwaniya,Naft Missan,1,1,,,,0
-1614515400,Al Talaba,Alsinaat Alkahrabaiya,1,2,,,,0
-1614522600,Al Wasat,Al Najaf,0,1,,,,0
-1614596400,Zakho,Erbil,1,1,,,,0
-1614596400,Baghdad,Al Shorta,1,1,,,,0
-1614596400,Al-Hudod,Al Kahraba,1,1,,,,0
-1614603600,Al Quwa Al Jawiya,Naft Al-Basra,3,2,,,,0
-1614610800,Al Minaa,Al Simawa,3,1,,,,0
-1614854700,Al Karkh,Al Diwaniya,2,1,,,,0
-1614862800,Al Zawraa,Al Talaba,0,0,,,,0
-1614870900,Naft Missan,Al Wasat,0,1,,,,0
-1614941100,Alsinaat Alkahrabaiya,Al Quwa Al Jawiya,2,1,,,,0
-1614942000,Naft Al-Basra,Al-Hudod,3,2,,,,0
-1614942000,Erbil,Al-Qassim,5,1,,,,0
-1614942000,Baghdad,Al Naft,1,1,,,,0
-1614942000,Al Kahraba,Al Minaa,2,2,,,,0
-1614949200,Al Shorta,Zakho,2,1,,,,0
-1614957300,Al Najaf,Al Simawa,1,0,,,,0
-1615287600,Al Wasat,Al Karkh,0,0,,,,0
-1615287600,Al Simawa,Naft Missan,1,2,,,,0
-1615287600,Al Naft,Zakho,1,0,,,,0
-1615295700,Al Talaba,Baghdad,1,2,,,,0
-1615458600,Al-Qassim,Al Shorta,0,2,,,,0
-1615460400,Naft Al-Basra,Al Kahraba,2,2,,,,0
-1615460400,Al-Hudod,Alsinaat Alkahrabaiya,1,1,,,,0
-1615460400,Al Diwaniya,Erbil,0,0,,,,0
-1615467600,Al Quwa Al Jawiya,Al Zawraa,2,0,,,,0
-1615474800,Al Minaa,Al Najaf,0,2,,,,0
-1615719600,Zakho,Al Talaba,2,1,,,,0
-1615719600,Al Karkh,Al Simawa,0,0,,,,0
-1615806000,Baghdad,Al Quwa Al Jawiya,0,1,,,,0
-1615806000,Al Naft,Al-Qassim,0,0,,,,0
-1615814100,Al Shorta,Al Diwaniya,5,0,,,,0
-1615822200,Al Minaa,Naft Al-Basra,1,1,,,,0
-1615890600,Erbil,Al Wasat,0,1,,,,0
-1615892400,Alsinaat Alkahrabaiya,Al Kahraba,1,0,,,,0
-1615898700,Al Zawraa,Al-Hudod,3,0,,,,0
-1615906800,Naft Missan,Al Najaf,1,2,,,,0
-1616236200,Al-Qassim,Al Talaba,2,3,,,,0
-1616238000,Al-Hudod,Baghdad,0,2,,,,0
-1616238000,Al Diwaniya,Al Naft,1,0,,,,0
-1616245200,Al Quwa Al Jawiya,Zakho,4,1,,,,0
-1616252400,Naft Al-Basra,Alsinaat Alkahrabaiya,0,0,,,,0
-1616254200,Al Wasat,Al Shorta,1,0,,,,0
-1616322600,Al Kahraba,Al Zawraa,0,0,,,,0
-1616324400,Al Simawa,Erbil,0,1,,,,0
-1616331600,Naft Missan,Al Minaa,0,0,,,,0
-1616340600,Al Najaf,Al Karkh,2,2,,,,0
-1617278400,Erbil,Al Najaf,1,1,,,,0
-1617287400,Al Zawraa,Naft Al-Basra,2,0,,,,0
-1617364800,Zakho,Al-Hudod,1,0,,,,0
-1617364800,Al-Qassim,Al Quwa Al Jawiya,1,2,,,,0
-1617364800,Al Naft,Al Wasat,0,1,,,,0
-1617373800,Al Shorta,Al Simawa,7,0,,,,0
-1617451200,Baghdad,Al Kahraba,1,0,,,,0
-1617451200,Al Minaa,Alsinaat Alkahrabaiya,1,0,,,,0
-1617451200,Al Karkh,Naft Missan,0,1,,,,0
-1617460200,Al Talaba,Al Diwaniya,1,0,,,,0
-1617883200,Al-Hudod,Al-Qassim,2,2,,,,0
-1617886800,Al Simawa,Al Naft,1,1,,,,0
-1617892200,Naft Missan,Erbil,2,3,,,,0
-1617900300,Al Najaf,Al Shorta,3,1,,,,0
-1617969600,Al Karkh,Al Minaa,2,1,,,,0
-1617973200,Al Kahraba,Zakho,1,2,,,,0
-1617978600,Naft Al-Basra,Baghdad,1,0,,,,0
-1617986700,Al Wasat,Al Talaba,1,0,,,,0
-1618318800,Alsinaat Alkahrabaiya,Al Zawraa,0,1,,,,0
-1618578000,Al Naft,Al Najaf,1,0,,,,0
-1618578000,Al Diwaniya,Al-Hudod,1,1,,,,0
-1618596000,Al Talaba,Al Simawa,1,2,,,,0
-1618664400,Zakho,Naft Al-Basra,1,2,,,,0
-1618664400,Al-Qassim,Al Kahraba,1,1,,,,0
-1618686000,Erbil,Al Karkh,0,1,,,,0
-1618750800,Baghdad,Alsinaat Alkahrabaiya,2,1,,,,0
-1618768800,Al Zawraa,Al Minaa,1,1,,,,0
-1619528400,Al Kahraba,Al Diwaniya,3,0,,,,0
-1619550000,Al Najaf,Al Talaba,2,0,,,,0
-1619636400,Al Wasat,Al-Hudod,0,0,,,,0
-1619636400,Al Minaa,Erbil,3,0,,,,0
-1619701200,Alsinaat Alkahrabaiya,Zakho,1,0,,,,0
-1619722800,Naft Al-Basra,Al-Qassim,1,1,,,,0
-1619722800,Al Zawraa,Baghdad,1,0,,,,0
-1620154800,Al Quwa Al Jawiya,Al Diwaniya,0,0,,,,0
-1620241200,Al Shorta,Naft Missan,3,1,,,,0
-1620414000,Al Quwa Al Jawiya,Al Wasat,3,2,,,,0
-1620478800,Al Karkh,Al Shorta,0,3,,,,0
-1620738000,Zakho,Al Zawraa,1,1,,,,0
-1620738000,Baghdad,Al Minaa,0,1,,,,0
-1620738000,Al-Qassim,Alsinaat Alkahrabaiya,1,0,,,,0
-1620738000,Al-Hudod,Al Simawa,0,0,,,,0
-1620738000,Al Diwaniya,Naft Al-Basra,0,0,,,,0
-1620759600,Al Talaba,Naft Missan,1,1,,,,0
-1620824400,Al Naft,Al Karkh,1,1,,,,0
-1620830700,Al Shorta,Erbil,2,1,,,,0
-1620846000,Al Wasat,Al Kahraba,0,0,,,,0
-1620846000,Al Quwa Al Jawiya,Al Najaf,3,4,,,,0
-1621171800,Alsinaat Alkahrabaiya,Al Diwaniya,1,1,,,,0
-1621171800,Al Zawraa,Al-Qassim,2,0,,,,0
-1621171800,Al Kahraba,Al Simawa,1,0,,,,0
-1621180800,Naft Missan,Al Quwa Al Jawiya,0,4,,,,0
-1621189800,Al Minaa,Al Shorta,2,3,,,,0
-1621258200,Zakho,Baghdad,0,2,,,,0
-1621258200,Al Karkh,Al Talaba,2,2,,,,0
-1621267200,Naft Al-Basra,Al Wasat,2,3,,,,0
-1621267200,Erbil,Al Naft,2,1,,,,0
-1621276200,Al Najaf,Al-Hudod,2,1,,,,0
-1622381400,Naft Missan,Al Naft,1,2,,,,0
-1624110300,Al Simawa,Al Quwa Al Jawiya,0,2,,,,0
-1624196700,Al-Hudod,Naft Missan,2,2,,,,0
-1624196700,Al Wasat,Alsinaat Alkahrabaiya,3,2,,,,0
-1624213800,Al Talaba,Erbil,1,1,,,,0
-1624283100,Baghdad,Al-Qassim,0,1,,,,0
-1624283100,Al Kahraba,Al Najaf,0,0,,,,0
-1624283100,Al Diwaniya,Al Zawraa,0,1,,,,0
-1624292100,Al Shorta,Al Naft,1,1,,,,0
-1624300200,Al Minaa,Zakho,3,1,,,,0
-1624455900,Al Simawa,Naft Al-Basra,0,0,,,,0
-1624467600,Al Quwa Al Jawiya,Al Karkh,3,2,,,,0
-1624628700,Naft Missan,Al Kahraba,2,4,,,,0
-1624628700,Al-Qassim,Zakho,2,1,,,,0
-1624628700,Al Naft,Al Minaa,1,1,,,,0
-1624628700,Al Diwaniya,Baghdad,0,1,,,,0
-1624638600,Al Zawraa,Al Wasat,1,1,,,,0
-1624726800,Al Shorta,Al Talaba,2,0,,,,0
-1624801500,Alsinaat Alkahrabaiya,Al Simawa,0,0,,,,0
-1624801500,Al Karkh,Al-Hudod,0,1,,,,0
-1624810500,Al Najaf,Naft Al-Basra,1,1,,,,0
-1624818600,Erbil,Al Quwa Al Jawiya,0,0,,,,0
-1625061600,Zakho,Al Diwaniya,1,1,,,,0
-1625070600,Al Wasat,Baghdad,4,1,,,,0
-1625070600,Al Minaa,Al-Qassim,2,1,,,,0
-1625077800,Al Talaba,Al Naft,0,0,,,,0
-1625148000,Al Simawa,Al Zawraa,1,2,,,,0
-1625148000,Al Kahraba,Al Karkh,1,0,,,,0
-1625157000,Naft Al-Basra,Naft Missan,2,1,,,,0
-1625157000,Al Najaf,Alsinaat Alkahrabaiya,2,1,,,,0
-1625166000,Al Quwa Al Jawiya,Al Shorta,2,0,,,,0
-1625234400,Al-Hudod,Erbil,0,1,,,,0
-1625407200,Al Diwaniya,Al-Qassim,1,1,,,,0
-1625416200,Al Talaba,Al Minaa,4,2,,,,0
-1625423400,Al Wasat,Zakho,1,1,,,,0
-1625493600,Baghdad,Al Simawa,2,1,,,,0
-1625493600,Al Naft,Al Quwa Al Jawiya,1,4,,,,0
-1625493600,Al Karkh,Naft Al-Basra,4,2,,,,0
-1625502600,Naft Missan,Alsinaat Alkahrabaiya,2,2,,,,0
-1625509800,Al Zawraa,Al Najaf,2,0,,,,0
-1625587200,Erbil,Al Kahraba,1,1,,,,0
-1625596200,Al Shorta,Al-Hudod,1,2,,,,0
-1625752800,Al-Qassim,Al Wasat,2,1,,,,0
-1625752800,Al Diwaniya,Al Minaa,1,0,,,,0
-1625839200,Al Simawa,Zakho,0,2,,,,0
-1625839200,Al Quwa Al Jawiya,Al Talaba,1,1,,,,0
-1625848200,Naft Missan,Al Zawraa,0,1,,,,0
-1625855400,Al Najaf,Baghdad,2,1,,,,0
-1625925600,Alsinaat Alkahrabaiya,Al Karkh,3,2,,,,0
-1625925600,Al-Hudod,Al Naft,0,1,,,,0
-1625934600,Naft Al-Basra,Erbil,1,0,,,,0
-1626012000,Al Kahraba,Al Shorta,0,3,,,,0
-1626107400,Al Minaa,Al Quwa Al Jawiya,2,0,,,,0
-1626184800,Zakho,Al Najaf,0,1,,,,0
-1626184800,Al-Qassim,Al Simawa,3,2,,,,0
-1626184800,Al Zawraa,Al Karkh,0,1,,,,0
-1626193800,Al Wasat,Al Diwaniya,0,0,,,,0
-1626271200,Baghdad,Naft Missan,0,0,,,,0
-1626271200,Al Talaba,Al-Hudod,1,1,,,,0
-1626280200,Erbil,Alsinaat Alkahrabaiya,1,0,,,,0
-1626357600,Al Shorta,Naft Al-Basra,1,0,,,,0
-1626357600,Al Naft,Al Kahraba,1,1,,,,0
-1626616800,Al Karkh,Baghdad,0,0,,,,0
-1626625800,Al Minaa,Al Wasat,1,1,,,,0
-1626703200,Zakho,Naft Missan,1,2,,,,0
-1626706800,Naft Al-Basra,Al Naft,0,1,,,,0
-1627308000,Erbil,Al Zawraa,1,3,,,,0
-1627308000,Alsinaat Alkahrabaiya,Al Shorta,1,1,,,,0
-1627308000,Al Simawa,Al Diwaniya,2,3,,,,0
-1627308000,Al Najaf,Al-Qassim,1,0,,,,0
-1627308000,Al Kahraba,Al Talaba,0,1,,,,0
-1627491600,Al-Hudod,Al Quwa Al Jawiya,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1603627200,Al Shorta,Al Zawraa,WnGqjgF8,2g5GC7oP,1,1,,,,0
+1603627200,Al Diwaniya,Al Najaf,2g5GC7oP,xrphp3Rk,1,0,,,,0
+1603638000,Al Wasat,Al Simawa,2g5GC7oP,QPZCV5f1,5,1,,,,0
+1603638000,Al Minaa,Al-Hudod,KptdoeRG,OdNp8VRg,0,0,,,,0
+1603641600,Al Quwa Al Jawiya,Al Kahraba,46X3z1y3,2wVbTlr0,1,0,,,,0
+1603713600,Baghdad,Erbil,bioloqCq,4YgSElVF,0,2,,,,0
+1603713600,Al Naft,Alsinaat Alkahrabaiya,4EDVpa7U,KA9k9NaG,2,0,,,,0
+1603724400,Al Talaba,Naft Al-Basra,2g5GC7oP,bioloqCq,0,0,,,,0
+1603800000,Zakho,Al Karkh,tWncHhCl,2g5GC7oP,0,0,,,,0
+1603800000,Al-Qassim,Naft Missan,EohbEPja,42ir8Rgt,3,3,,,,0
+1604057400,Al Simawa,Al Minaa,QPZCV5f1,KptdoeRG,1,0,,,,0
+1604057400,Al Kahraba,Al-Hudod,2wVbTlr0,OdNp8VRg,2,2,,,,0
+1604063700,Al Zawraa,Al Naft,2g5GC7oP,4EDVpa7U,1,1,,,,0
+1604075400,Al Shorta,Baghdad,WnGqjgF8,bioloqCq,2,0,,,,0
+1604142000,Alsinaat Alkahrabaiya,Al Talaba,KA9k9NaG,2g5GC7oP,0,3,,,,0
+1604142000,Al Najaf,Al Wasat,xrphp3Rk,2g5GC7oP,0,3,Awrd,,,0
+1604150100,Erbil,Zakho,4YgSElVF,tWncHhCl,1,1,,,,0
+1604160000,Naft Al-Basra,Al Quwa Al Jawiya,bioloqCq,46X3z1y3,1,2,,,,0
+1604230200,Naft Missan,Al Diwaniya,42ir8Rgt,2g5GC7oP,0,0,,,,0
+1604230200,Al Karkh,Al-Qassim,2g5GC7oP,EohbEPja,2,1,,,,0
+1604489400,Al Simawa,Al Najaf,QPZCV5f1,xrphp3Rk,0,1,,,,0
+1604500200,Al Minaa,Al Kahraba,KptdoeRG,2wVbTlr0,1,3,,,,0
+1604575800,Zakho,Al Shorta,tWncHhCl,WnGqjgF8,0,0,,,,0
+1604583000,Al Quwa Al Jawiya,Alsinaat Alkahrabaiya,46X3z1y3,KA9k9NaG,2,0,,,,0
+1604595600,Al Talaba,Al Zawraa,2g5GC7oP,2g5GC7oP,0,2,,,,0
+1604662200,Al-Qassim,Erbil,EohbEPja,4YgSElVF,0,0,,,,0
+1604662200,Al-Hudod,Naft Al-Basra,OdNp8VRg,bioloqCq,1,1,,,,0
+1604662200,Al Naft,Baghdad,4EDVpa7U,bioloqCq,0,1,,,,0
+1604662200,Al Diwaniya,Al Karkh,2g5GC7oP,2g5GC7oP,0,2,,,,0
+1604673000,Al Wasat,Naft Missan,2g5GC7oP,42ir8Rgt,0,1,,,,0
+1606042800,Zakho,Al Naft,tWncHhCl,4EDVpa7U,1,1,,,,0
+1606042800,Erbil,Al Diwaniya,4YgSElVF,2g5GC7oP,1,0,,,,0
+1606042800,Al Kahraba,Naft Al-Basra,2wVbTlr0,bioloqCq,1,1,,,,0
+1606055400,Al Shorta,Al-Qassim,WnGqjgF8,EohbEPja,1,0,,,,0
+1606129200,Naft Missan,Al Simawa,42ir8Rgt,QPZCV5f1,0,0,,,,0
+1606129200,Baghdad,Al Talaba,bioloqCq,2g5GC7oP,0,1,,,,0
+1606129200,Alsinaat Alkahrabaiya,Al-Hudod,KA9k9NaG,OdNp8VRg,0,0,,,,0
+1606129200,Al Najaf,Al Minaa,xrphp3Rk,KptdoeRG,1,0,,,,0
+1606141800,Al Zawraa,Al Quwa Al Jawiya,2g5GC7oP,46X3z1y3,1,1,,,,0
+1606215600,Al Karkh,Al Wasat,2g5GC7oP,2g5GC7oP,0,1,,,,0
+1606474800,Al Talaba,Zakho,2g5GC7oP,tWncHhCl,1,1,,,,0
+1606474800,Al Kahraba,Alsinaat Alkahrabaiya,2wVbTlr0,KA9k9NaG,1,1,,,,0
+1606474800,Al Diwaniya,Al Shorta,2g5GC7oP,WnGqjgF8,2,0,,,,0
+1606482900,Al-Qassim,Al Naft,EohbEPja,4EDVpa7U,0,2,,,,0
+1606561200,Al-Hudod,Al Zawraa,OdNp8VRg,2g5GC7oP,1,2,,,,0
+1606561200,Al Simawa,Al Karkh,QPZCV5f1,2g5GC7oP,1,0,,,,0
+1606561200,Al Quwa Al Jawiya,Baghdad,46X3z1y3,bioloqCq,0,1,,,,0
+1606561200,Al Najaf,Naft Missan,xrphp3Rk,42ir8Rgt,0,0,,,,0
+1606569300,Al Wasat,Erbil,2g5GC7oP,4YgSElVF,1,0,,,,0
+1606577400,Naft Al-Basra,Al Minaa,bioloqCq,KptdoeRG,1,2,,,,0
+1606820400,Al Naft,Al Diwaniya,4EDVpa7U,2g5GC7oP,1,1,,,,0
+1606906800,Baghdad,Al-Hudod,bioloqCq,OdNp8VRg,0,1,,,,0
+1606906800,Al Talaba,Al-Qassim,2g5GC7oP,EohbEPja,1,0,,,,0
+1606914900,Al Zawraa,Al Kahraba,2g5GC7oP,2wVbTlr0,2,2,,,,0
+1606923000,Al Minaa,Naft Missan,KptdoeRG,42ir8Rgt,1,0,,,,0
+1606993200,Zakho,Al Quwa Al Jawiya,tWncHhCl,46X3z1y3,1,0,,,,0
+1606993200,Erbil,Al Simawa,4YgSElVF,QPZCV5f1,2,0,,,,0
+1606993200,Alsinaat Alkahrabaiya,Naft Al-Basra,KA9k9NaG,bioloqCq,1,0,,,,0
+1607001300,Al Shorta,Al Wasat,WnGqjgF8,2g5GC7oP,1,1,,,,0
+1607338800,Alsinaat Alkahrabaiya,Al Minaa,KA9k9NaG,KptdoeRG,0,0,,,,0
+1607338800,Al Kahraba,Baghdad,2wVbTlr0,bioloqCq,0,1,,,,0
+1607338800,Al Diwaniya,Al Talaba,2g5GC7oP,2g5GC7oP,1,1,,,,0
+1607346900,Al Wasat,Al Naft,2g5GC7oP,4EDVpa7U,1,0,,,,0
+1607425200,Naft Missan,Al Karkh,42ir8Rgt,2g5GC7oP,2,1,,,,0
+1607425200,Al-Hudod,Zakho,OdNp8VRg,tWncHhCl,1,2,,,,0
+1607425200,Al Simawa,Al Shorta,QPZCV5f1,WnGqjgF8,0,3,,,,0
+1607425200,Al Najaf,Erbil,xrphp3Rk,4YgSElVF,0,0,,,,0
+1607433300,Naft Al-Basra,Al Zawraa,bioloqCq,2g5GC7oP,0,0,,,,0
+1607441400,Al Quwa Al Jawiya,Al-Qassim,46X3z1y3,EohbEPja,1,1,,,,0
+1607770800,Al Naft,Al Simawa,4EDVpa7U,QPZCV5f1,3,1,,,,0
+1607770800,Al Diwaniya,Al Quwa Al Jawiya,2g5GC7oP,46X3z1y3,0,0,,,,0
+1607778900,Al Minaa,Al Karkh,KptdoeRG,2g5GC7oP,2,2,,,,0
+1607787000,Al Talaba,Al Wasat,2g5GC7oP,2g5GC7oP,2,2,,,,0
+1607857200,Zakho,Al Kahraba,tWncHhCl,2wVbTlr0,1,3,,,,0
+1607857200,Erbil,Naft Missan,4YgSElVF,42ir8Rgt,0,1,,,,0
+1607857200,Baghdad,Naft Al-Basra,bioloqCq,bioloqCq,3,0,,,,0
+1607857200,Al-Qassim,Al-Hudod,EohbEPja,OdNp8VRg,2,0,,,,0
+1607865300,Al Zawraa,Alsinaat Alkahrabaiya,2g5GC7oP,KA9k9NaG,1,0,,,,0
+1607877000,Al Shorta,Al Najaf,WnGqjgF8,xrphp3Rk,0,0,,,,0
+1608202800,Al-Hudod,Al Diwaniya,OdNp8VRg,2g5GC7oP,1,1,,,,0
+1608202800,Al Simawa,Al Talaba,QPZCV5f1,2g5GC7oP,1,1,,,,0
+1608202800,Al Karkh,Erbil,2g5GC7oP,4YgSElVF,2,0,,,,0
+1608210900,Al Wasat,Al Quwa Al Jawiya,2g5GC7oP,46X3z1y3,0,1,,,,0
+1608289200,Naft Missan,Al Shorta,42ir8Rgt,WnGqjgF8,1,1,,,,0
+1608289200,Alsinaat Alkahrabaiya,Baghdad,KA9k9NaG,bioloqCq,0,0,,,,0
+1608289200,Al Kahraba,Al-Qassim,2wVbTlr0,EohbEPja,1,0,,,,0
+1608297300,Al Minaa,Al Zawraa,KptdoeRG,2g5GC7oP,0,0,,,,0
+1608305400,Al Najaf,Al Naft,xrphp3Rk,4EDVpa7U,2,0,,,,0
+1608312600,Naft Al-Basra,Zakho,bioloqCq,tWncHhCl,1,0,,,,0
+1608634800,Al-Hudod,Al Wasat,OdNp8VRg,2g5GC7oP,1,2,,,,0
+1608634800,Al Diwaniya,Al Kahraba,2g5GC7oP,2wVbTlr0,0,0,,,,0
+1608642900,Al Talaba,Al Najaf,2g5GC7oP,xrphp3Rk,0,2,,,,0
+1608656400,Al Quwa Al Jawiya,Al Simawa,46X3z1y3,QPZCV5f1,5,1,,,,0
+1608721200,Zakho,Alsinaat Alkahrabaiya,tWncHhCl,KA9k9NaG,1,0,,,,0
+1608721200,Erbil,Al Minaa,4YgSElVF,KptdoeRG,2,2,,,,0
+1608721200,Baghdad,Al Zawraa,bioloqCq,2g5GC7oP,1,1,,,,0
+1608721200,Al-Qassim,Naft Al-Basra,EohbEPja,bioloqCq,1,2,,,,0
+1608729300,Al Naft,Naft Missan,4EDVpa7U,42ir8Rgt,2,3,,,,0
+1608742800,Al Shorta,Al Karkh,WnGqjgF8,2g5GC7oP,1,0,,,,0
+1609066800,Al Simawa,Al-Hudod,QPZCV5f1,OdNp8VRg,0,0,,,,0
+1609066800,Al Kahraba,Al Wasat,2wVbTlr0,2g5GC7oP,0,1,,,,0
+1609074900,Al Najaf,Al Quwa Al Jawiya,xrphp3Rk,46X3z1y3,0,0,,,,0
+1609153200,Alsinaat Alkahrabaiya,Al-Qassim,KA9k9NaG,EohbEPja,1,1,,,,0
+1609153200,Al Karkh,Al Naft,2g5GC7oP,4EDVpa7U,0,2,,,,0
+1609161300,Erbil,Al Shorta,4YgSElVF,WnGqjgF8,0,1,,,,0
+1609168500,Naft Missan,Al Talaba,42ir8Rgt,2g5GC7oP,0,0,,,,0
+1609175700,Naft Al-Basra,Al Diwaniya,bioloqCq,2g5GC7oP,0,1,,,,0
+1609239600,Al Minaa,Baghdad,KptdoeRG,bioloqCq,0,1,,,,0
+1609247700,Al Zawraa,Zakho,2g5GC7oP,tWncHhCl,0,1,,,,0
+1609498800,Al-Hudod,Al Najaf,OdNp8VRg,xrphp3Rk,2,1,,,,0
+1609498800,Al Simawa,Al Kahraba,QPZCV5f1,2wVbTlr0,1,0,,,,0
+1609506000,Al Quwa Al Jawiya,Naft Missan,46X3z1y3,42ir8Rgt,3,1,,,,0
+1609513200,Al Wasat,Naft Al-Basra,2g5GC7oP,bioloqCq,2,1,,,,0
+1609520400,Al Talaba,Al Karkh,2g5GC7oP,2g5GC7oP,1,2,,,,0
+1609580700,Al-Qassim,Al Zawraa,EohbEPja,2g5GC7oP,0,2,,,,0
+1609587000,Baghdad,Zakho,bioloqCq,tWncHhCl,0,0,,,,0
+1609587000,Al Diwaniya,Alsinaat Alkahrabaiya,2g5GC7oP,KA9k9NaG,2,2,,,,0
+1609587900,Al Naft,Erbil,4EDVpa7U,4YgSElVF,1,1,,,,0
+1609596000,Al Shorta,Al Minaa,WnGqjgF8,KptdoeRG,4,2,,,,0
+1609930800,Alsinaat Alkahrabaiya,Al Wasat,KA9k9NaG,2g5GC7oP,1,1,,,,0
+1609930800,Al Naft,Al Shorta,4EDVpa7U,WnGqjgF8,2,2,,,,0
+1609930800,Al Karkh,Al Quwa Al Jawiya,2g5GC7oP,46X3z1y3,0,2,,,,0
+1609938900,Al Zawraa,Al Diwaniya,2g5GC7oP,2g5GC7oP,3,0,,,,0
+1609946100,Al Najaf,Al Kahraba,xrphp3Rk,2wVbTlr0,1,1,,,,0
+1610017200,Zakho,Al Minaa,tWncHhCl,KptdoeRG,2,1,,,,0
+1610017200,Al-Qassim,Baghdad,EohbEPja,bioloqCq,3,1,,,,0
+1610025300,Erbil,Al Talaba,4YgSElVF,2g5GC7oP,5,0,,,,0
+1610031600,Naft Al-Basra,Al Simawa,bioloqCq,QPZCV5f1,2,1,,,,0
+1610038800,Naft Missan,Al-Hudod,42ir8Rgt,OdNp8VRg,3,2,,,,0
+1610362800,Al Karkh,Al Najaf,2g5GC7oP,xrphp3Rk,1,2,,,,0
+1610790300,Al Kahraba,Naft Missan,2wVbTlr0,42ir8Rgt,1,0,,,,0
+1610794800,Baghdad,Al Diwaniya,bioloqCq,2g5GC7oP,1,1,,,,0
+1610794800,Al Simawa,Alsinaat Alkahrabaiya,QPZCV5f1,KA9k9NaG,2,0,,,,0
+1610797500,Zakho,Al-Qassim,tWncHhCl,EohbEPja,1,1,,,,0
+1610806500,Al Minaa,Al Naft,KptdoeRG,4EDVpa7U,0,1,,,,0
+1610880300,Naft Al-Basra,Al Najaf,bioloqCq,xrphp3Rk,0,3,,,,0
+1610881200,Al-Hudod,Al Karkh,OdNp8VRg,2g5GC7oP,0,0,,,,0
+1610888400,Al Quwa Al Jawiya,Erbil,46X3z1y3,4YgSElVF,3,0,,,,0
+1610896500,Al Wasat,Al Zawraa,2g5GC7oP,2g5GC7oP,0,2,,,,0
+1610904600,Al Talaba,Al Shorta,2g5GC7oP,WnGqjgF8,0,1,,,,0
+1611226800,Baghdad,Al Wasat,bioloqCq,2g5GC7oP,1,1,,,,0
+1611226800,Al-Qassim,Al Minaa,EohbEPja,KptdoeRG,1,2,,,,0
+1611226800,Al Karkh,Al Kahraba,2g5GC7oP,2wVbTlr0,1,0,,,,0
+1611226800,Al Diwaniya,Zakho,2g5GC7oP,tWncHhCl,0,0,,,,0
+1611244800,Naft Missan,Naft Al-Basra,42ir8Rgt,bioloqCq,1,1,,,,0
+1611309600,Al Naft,Al Talaba,4EDVpa7U,2g5GC7oP,1,0,,,,0
+1611313200,Alsinaat Alkahrabaiya,Al Najaf,KA9k9NaG,xrphp3Rk,0,1,,,,0
+1611317700,Al Zawraa,Al Simawa,2g5GC7oP,QPZCV5f1,1,0,,,,0
+1611325800,Erbil,Al-Hudod,4YgSElVF,OdNp8VRg,1,1,,,,0
+1611333900,Al Shorta,Al Quwa Al Jawiya,WnGqjgF8,46X3z1y3,0,0,,,,0
+1612000800,Al Simawa,Baghdad,QPZCV5f1,bioloqCq,0,0,,,,0
+1612004400,Alsinaat Alkahrabaiya,Naft Missan,KA9k9NaG,42ir8Rgt,0,0,,,,0
+1612008000,Al-Qassim,Al Diwaniya,EohbEPja,2g5GC7oP,0,0,,,,0
+1612008900,Al Kahraba,Erbil,2wVbTlr0,4YgSElVF,2,2,,,,0
+1612017000,Naft Al-Basra,Al Karkh,bioloqCq,2g5GC7oP,1,0,,,,0
+1612087200,Al-Hudod,Al Shorta,OdNp8VRg,WnGqjgF8,0,2,,,,0
+1612090800,Zakho,Al Wasat,tWncHhCl,2g5GC7oP,1,1,,,,0
+1612095300,Al Minaa,Al Talaba,KptdoeRG,2g5GC7oP,1,0,,,,0
+1612103400,Al Quwa Al Jawiya,Al Naft,46X3z1y3,4EDVpa7U,4,1,,,,0
+1612111500,Al Najaf,Al Zawraa,xrphp3Rk,2g5GC7oP,0,1,,,,0
+1612432800,Al Karkh,Alsinaat Alkahrabaiya,2g5GC7oP,KA9k9NaG,1,0,,,,0
+1612436400,Erbil,Naft Al-Basra,4YgSElVF,bioloqCq,0,1,,,,0
+1612440900,Al Talaba,Al Quwa Al Jawiya,2g5GC7oP,46X3z1y3,0,1,,,,0
+1612449000,Al Minaa,Al Diwaniya,KptdoeRG,2g5GC7oP,2,0,,,,0
+1612457100,Al Shorta,Al Kahraba,WnGqjgF8,2wVbTlr0,0,0,,,,0
+1612519200,Zakho,Al Simawa,tWncHhCl,QPZCV5f1,2,0,,,,0
+1612522800,Al Naft,Al-Hudod,4EDVpa7U,OdNp8VRg,0,0,,,,0
+1612527300,Baghdad,Al Najaf,bioloqCq,xrphp3Rk,0,1,,,,0
+1612535400,Al Zawraa,Naft Missan,2g5GC7oP,42ir8Rgt,1,1,,,,0
+1612543500,Al Wasat,Al-Qassim,2g5GC7oP,EohbEPja,2,3,,,,0
+1612782000,Alsinaat Alkahrabaiya,Erbil,KA9k9NaG,4YgSElVF,2,0,,,,0
+1612791000,Al Quwa Al Jawiya,Al Minaa,46X3z1y3,KptdoeRG,2,1,,,,0
+1612868400,Al-Hudod,Al Talaba,OdNp8VRg,2g5GC7oP,2,2,,,,0
+1612868400,Al Simawa,Al-Qassim,QPZCV5f1,EohbEPja,1,1,,,,0
+1612868400,Al Diwaniya,Al Wasat,2g5GC7oP,2g5GC7oP,0,0,,,,0
+1612872900,Al Karkh,Al Zawraa,2g5GC7oP,2g5GC7oP,1,1,,,,0
+1612876500,Al Najaf,Zakho,xrphp3Rk,tWncHhCl,1,1,,,,0
+1612884600,Naft Missan,Baghdad,42ir8Rgt,bioloqCq,1,0,,,,0
+1612954800,Al Kahraba,Al Naft,2wVbTlr0,4EDVpa7U,0,1,,,,0
+1612962900,Naft Al-Basra,Al Shorta,bioloqCq,WnGqjgF8,0,1,,,,0
+1613214000,Naft Missan,Zakho,42ir8Rgt,tWncHhCl,1,1,,,,0
+1613214000,Al-Qassim,Al Najaf,EohbEPja,xrphp3Rk,1,1,,,,0
+1613214000,Al Diwaniya,Al Simawa,2g5GC7oP,QPZCV5f1,1,0,,,,0
+1613222100,Al Zawraa,Erbil,2g5GC7oP,4YgSElVF,2,1,,,,0
+1613234700,Al Quwa Al Jawiya,Al-Hudod,46X3z1y3,OdNp8VRg,2,1,,,,0
+1613300400,Baghdad,Al Karkh,bioloqCq,2g5GC7oP,1,0,,,,0
+1613300400,Al Shorta,Alsinaat Alkahrabaiya,WnGqjgF8,KA9k9NaG,1,1,,,,0
+1613300400,Al Naft,Naft Al-Basra,4EDVpa7U,bioloqCq,1,1,,,,0
+1613308500,Al Wasat,Al Minaa,2g5GC7oP,KptdoeRG,1,1,,,,0
+1613321100,Al Talaba,Al Kahraba,2g5GC7oP,2wVbTlr0,3,1,,,,0
+1614076200,Al Kahraba,Al Quwa Al Jawiya,2wVbTlr0,46X3z1y3,0,1,,,,0
+1614078000,Alsinaat Alkahrabaiya,Al Naft,KA9k9NaG,4EDVpa7U,0,0,,,,0
+1614078000,Al Simawa,Al Wasat,QPZCV5f1,2g5GC7oP,0,0,,,,0
+1614078000,Al Karkh,Zakho,2g5GC7oP,tWncHhCl,1,1,,,,0
+1614083400,Naft Missan,Al-Qassim,42ir8Rgt,EohbEPja,0,1,,,,0
+1614090600,Al Najaf,Al Diwaniya,xrphp3Rk,2g5GC7oP,2,0,,,,0
+1614160800,Erbil,Baghdad,4YgSElVF,bioloqCq,2,2,,,,0
+1614164400,Al-Hudod,Al Minaa,OdNp8VRg,KptdoeRG,1,1,,,,0
+1614168000,Naft Al-Basra,Al Talaba,bioloqCq,2g5GC7oP,1,1,,,,0
+1614175200,Al Zawraa,Al Shorta,2g5GC7oP,WnGqjgF8,1,0,,,,0
+1614508200,Al Naft,Al Zawraa,4EDVpa7U,2g5GC7oP,0,0,,,,0
+1614510000,Al-Qassim,Al Karkh,EohbEPja,2g5GC7oP,0,0,,,,0
+1614510000,Al Diwaniya,Naft Missan,2g5GC7oP,42ir8Rgt,1,1,,,,0
+1614515400,Al Talaba,Alsinaat Alkahrabaiya,2g5GC7oP,KA9k9NaG,1,2,,,,0
+1614522600,Al Wasat,Al Najaf,2g5GC7oP,xrphp3Rk,0,1,,,,0
+1614596400,Zakho,Erbil,tWncHhCl,4YgSElVF,1,1,,,,0
+1614596400,Baghdad,Al Shorta,bioloqCq,WnGqjgF8,1,1,,,,0
+1614596400,Al-Hudod,Al Kahraba,OdNp8VRg,2wVbTlr0,1,1,,,,0
+1614603600,Al Quwa Al Jawiya,Naft Al-Basra,46X3z1y3,bioloqCq,3,2,,,,0
+1614610800,Al Minaa,Al Simawa,KptdoeRG,QPZCV5f1,3,1,,,,0
+1614854700,Al Karkh,Al Diwaniya,2g5GC7oP,2g5GC7oP,2,1,,,,0
+1614862800,Al Zawraa,Al Talaba,2g5GC7oP,2g5GC7oP,0,0,,,,0
+1614870900,Naft Missan,Al Wasat,42ir8Rgt,2g5GC7oP,0,1,,,,0
+1614941100,Alsinaat Alkahrabaiya,Al Quwa Al Jawiya,KA9k9NaG,46X3z1y3,2,1,,,,0
+1614942000,Naft Al-Basra,Al-Hudod,bioloqCq,OdNp8VRg,3,2,,,,0
+1614942000,Erbil,Al-Qassim,4YgSElVF,EohbEPja,5,1,,,,0
+1614942000,Baghdad,Al Naft,bioloqCq,4EDVpa7U,1,1,,,,0
+1614942000,Al Kahraba,Al Minaa,2wVbTlr0,KptdoeRG,2,2,,,,0
+1614949200,Al Shorta,Zakho,WnGqjgF8,tWncHhCl,2,1,,,,0
+1614957300,Al Najaf,Al Simawa,xrphp3Rk,QPZCV5f1,1,0,,,,0
+1615287600,Al Wasat,Al Karkh,2g5GC7oP,2g5GC7oP,0,0,,,,0
+1615287600,Al Simawa,Naft Missan,QPZCV5f1,42ir8Rgt,1,2,,,,0
+1615287600,Al Naft,Zakho,4EDVpa7U,tWncHhCl,1,0,,,,0
+1615295700,Al Talaba,Baghdad,2g5GC7oP,bioloqCq,1,2,,,,0
+1615458600,Al-Qassim,Al Shorta,EohbEPja,WnGqjgF8,0,2,,,,0
+1615460400,Naft Al-Basra,Al Kahraba,bioloqCq,2wVbTlr0,2,2,,,,0
+1615460400,Al-Hudod,Alsinaat Alkahrabaiya,OdNp8VRg,KA9k9NaG,1,1,,,,0
+1615460400,Al Diwaniya,Erbil,2g5GC7oP,4YgSElVF,0,0,,,,0
+1615467600,Al Quwa Al Jawiya,Al Zawraa,46X3z1y3,2g5GC7oP,2,0,,,,0
+1615474800,Al Minaa,Al Najaf,KptdoeRG,xrphp3Rk,0,2,,,,0
+1615719600,Zakho,Al Talaba,tWncHhCl,2g5GC7oP,2,1,,,,0
+1615719600,Al Karkh,Al Simawa,2g5GC7oP,QPZCV5f1,0,0,,,,0
+1615806000,Baghdad,Al Quwa Al Jawiya,bioloqCq,46X3z1y3,0,1,,,,0
+1615806000,Al Naft,Al-Qassim,4EDVpa7U,EohbEPja,0,0,,,,0
+1615814100,Al Shorta,Al Diwaniya,WnGqjgF8,2g5GC7oP,5,0,,,,0
+1615822200,Al Minaa,Naft Al-Basra,KptdoeRG,bioloqCq,1,1,,,,0
+1615890600,Erbil,Al Wasat,4YgSElVF,2g5GC7oP,0,1,,,,0
+1615892400,Alsinaat Alkahrabaiya,Al Kahraba,KA9k9NaG,2wVbTlr0,1,0,,,,0
+1615898700,Al Zawraa,Al-Hudod,2g5GC7oP,OdNp8VRg,3,0,,,,0
+1615906800,Naft Missan,Al Najaf,42ir8Rgt,xrphp3Rk,1,2,,,,0
+1616236200,Al-Qassim,Al Talaba,EohbEPja,2g5GC7oP,2,3,,,,0
+1616238000,Al-Hudod,Baghdad,OdNp8VRg,bioloqCq,0,2,,,,0
+1616238000,Al Diwaniya,Al Naft,2g5GC7oP,4EDVpa7U,1,0,,,,0
+1616245200,Al Quwa Al Jawiya,Zakho,46X3z1y3,tWncHhCl,4,1,,,,0
+1616252400,Naft Al-Basra,Alsinaat Alkahrabaiya,bioloqCq,KA9k9NaG,0,0,,,,0
+1616254200,Al Wasat,Al Shorta,2g5GC7oP,WnGqjgF8,1,0,,,,0
+1616322600,Al Kahraba,Al Zawraa,2wVbTlr0,2g5GC7oP,0,0,,,,0
+1616324400,Al Simawa,Erbil,QPZCV5f1,4YgSElVF,0,1,,,,0
+1616331600,Naft Missan,Al Minaa,42ir8Rgt,KptdoeRG,0,0,,,,0
+1616340600,Al Najaf,Al Karkh,xrphp3Rk,2g5GC7oP,2,2,,,,0
+1617278400,Erbil,Al Najaf,4YgSElVF,xrphp3Rk,1,1,,,,0
+1617287400,Al Zawraa,Naft Al-Basra,2g5GC7oP,bioloqCq,2,0,,,,0
+1617364800,Zakho,Al-Hudod,tWncHhCl,OdNp8VRg,1,0,,,,0
+1617364800,Al-Qassim,Al Quwa Al Jawiya,EohbEPja,46X3z1y3,1,2,,,,0
+1617364800,Al Naft,Al Wasat,4EDVpa7U,2g5GC7oP,0,1,,,,0
+1617373800,Al Shorta,Al Simawa,WnGqjgF8,QPZCV5f1,7,0,,,,0
+1617451200,Baghdad,Al Kahraba,bioloqCq,2wVbTlr0,1,0,,,,0
+1617451200,Al Minaa,Alsinaat Alkahrabaiya,KptdoeRG,KA9k9NaG,1,0,,,,0
+1617451200,Al Karkh,Naft Missan,2g5GC7oP,42ir8Rgt,0,1,,,,0
+1617460200,Al Talaba,Al Diwaniya,2g5GC7oP,2g5GC7oP,1,0,,,,0
+1617883200,Al-Hudod,Al-Qassim,OdNp8VRg,EohbEPja,2,2,,,,0
+1617886800,Al Simawa,Al Naft,QPZCV5f1,4EDVpa7U,1,1,,,,0
+1617892200,Naft Missan,Erbil,42ir8Rgt,4YgSElVF,2,3,,,,0
+1617900300,Al Najaf,Al Shorta,xrphp3Rk,WnGqjgF8,3,1,,,,0
+1617969600,Al Karkh,Al Minaa,2g5GC7oP,KptdoeRG,2,1,,,,0
+1617973200,Al Kahraba,Zakho,2wVbTlr0,tWncHhCl,1,2,,,,0
+1617978600,Naft Al-Basra,Baghdad,bioloqCq,bioloqCq,1,0,,,,0
+1617986700,Al Wasat,Al Talaba,2g5GC7oP,2g5GC7oP,1,0,,,,0
+1618318800,Alsinaat Alkahrabaiya,Al Zawraa,KA9k9NaG,2g5GC7oP,0,1,,,,0
+1618578000,Al Naft,Al Najaf,4EDVpa7U,xrphp3Rk,1,0,,,,0
+1618578000,Al Diwaniya,Al-Hudod,2g5GC7oP,OdNp8VRg,1,1,,,,0
+1618596000,Al Talaba,Al Simawa,2g5GC7oP,QPZCV5f1,1,2,,,,0
+1618664400,Zakho,Naft Al-Basra,tWncHhCl,bioloqCq,1,2,,,,0
+1618664400,Al-Qassim,Al Kahraba,EohbEPja,2wVbTlr0,1,1,,,,0
+1618686000,Erbil,Al Karkh,4YgSElVF,2g5GC7oP,0,1,,,,0
+1618750800,Baghdad,Alsinaat Alkahrabaiya,bioloqCq,KA9k9NaG,2,1,,,,0
+1618768800,Al Zawraa,Al Minaa,2g5GC7oP,KptdoeRG,1,1,,,,0
+1619528400,Al Kahraba,Al Diwaniya,2wVbTlr0,2g5GC7oP,3,0,,,,0
+1619550000,Al Najaf,Al Talaba,xrphp3Rk,2g5GC7oP,2,0,,,,0
+1619636400,Al Wasat,Al-Hudod,2g5GC7oP,OdNp8VRg,0,0,,,,0
+1619636400,Al Minaa,Erbil,KptdoeRG,4YgSElVF,3,0,,,,0
+1619701200,Alsinaat Alkahrabaiya,Zakho,KA9k9NaG,tWncHhCl,1,0,,,,0
+1619722800,Naft Al-Basra,Al-Qassim,bioloqCq,EohbEPja,1,1,,,,0
+1619722800,Al Zawraa,Baghdad,2g5GC7oP,bioloqCq,1,0,,,,0
+1620154800,Al Quwa Al Jawiya,Al Diwaniya,46X3z1y3,2g5GC7oP,0,0,,,,0
+1620241200,Al Shorta,Naft Missan,WnGqjgF8,42ir8Rgt,3,1,,,,0
+1620414000,Al Quwa Al Jawiya,Al Wasat,46X3z1y3,2g5GC7oP,3,2,,,,0
+1620478800,Al Karkh,Al Shorta,2g5GC7oP,WnGqjgF8,0,3,,,,0
+1620738000,Zakho,Al Zawraa,tWncHhCl,2g5GC7oP,1,1,,,,0
+1620738000,Baghdad,Al Minaa,bioloqCq,KptdoeRG,0,1,,,,0
+1620738000,Al-Qassim,Alsinaat Alkahrabaiya,EohbEPja,KA9k9NaG,1,0,,,,0
+1620738000,Al-Hudod,Al Simawa,OdNp8VRg,QPZCV5f1,0,0,,,,0
+1620738000,Al Diwaniya,Naft Al-Basra,2g5GC7oP,bioloqCq,0,0,,,,0
+1620759600,Al Talaba,Naft Missan,2g5GC7oP,42ir8Rgt,1,1,,,,0
+1620824400,Al Naft,Al Karkh,4EDVpa7U,2g5GC7oP,1,1,,,,0
+1620830700,Al Shorta,Erbil,WnGqjgF8,4YgSElVF,2,1,,,,0
+1620846000,Al Wasat,Al Kahraba,2g5GC7oP,2wVbTlr0,0,0,,,,0
+1620846000,Al Quwa Al Jawiya,Al Najaf,46X3z1y3,xrphp3Rk,3,4,,,,0
+1621171800,Alsinaat Alkahrabaiya,Al Diwaniya,KA9k9NaG,2g5GC7oP,1,1,,,,0
+1621171800,Al Zawraa,Al-Qassim,2g5GC7oP,EohbEPja,2,0,,,,0
+1621171800,Al Kahraba,Al Simawa,2wVbTlr0,QPZCV5f1,1,0,,,,0
+1621180800,Naft Missan,Al Quwa Al Jawiya,42ir8Rgt,46X3z1y3,0,4,,,,0
+1621189800,Al Minaa,Al Shorta,KptdoeRG,WnGqjgF8,2,3,,,,0
+1621258200,Zakho,Baghdad,tWncHhCl,bioloqCq,0,2,,,,0
+1621258200,Al Karkh,Al Talaba,2g5GC7oP,2g5GC7oP,2,2,,,,0
+1621267200,Naft Al-Basra,Al Wasat,bioloqCq,2g5GC7oP,2,3,,,,0
+1621267200,Erbil,Al Naft,4YgSElVF,4EDVpa7U,2,1,,,,0
+1621276200,Al Najaf,Al-Hudod,xrphp3Rk,OdNp8VRg,2,1,,,,0
+1622381400,Naft Missan,Al Naft,42ir8Rgt,4EDVpa7U,1,2,,,,0
+1624110300,Al Simawa,Al Quwa Al Jawiya,QPZCV5f1,46X3z1y3,0,2,,,,0
+1624196700,Al-Hudod,Naft Missan,OdNp8VRg,42ir8Rgt,2,2,,,,0
+1624196700,Al Wasat,Alsinaat Alkahrabaiya,2g5GC7oP,KA9k9NaG,3,2,,,,0
+1624213800,Al Talaba,Erbil,2g5GC7oP,4YgSElVF,1,1,,,,0
+1624283100,Baghdad,Al-Qassim,bioloqCq,EohbEPja,0,1,,,,0
+1624283100,Al Kahraba,Al Najaf,2wVbTlr0,xrphp3Rk,0,0,,,,0
+1624283100,Al Diwaniya,Al Zawraa,2g5GC7oP,2g5GC7oP,0,1,,,,0
+1624292100,Al Shorta,Al Naft,WnGqjgF8,4EDVpa7U,1,1,,,,0
+1624300200,Al Minaa,Zakho,KptdoeRG,tWncHhCl,3,1,,,,0
+1624455900,Al Simawa,Naft Al-Basra,QPZCV5f1,bioloqCq,0,0,,,,0
+1624467600,Al Quwa Al Jawiya,Al Karkh,46X3z1y3,2g5GC7oP,3,2,,,,0
+1624628700,Naft Missan,Al Kahraba,42ir8Rgt,2wVbTlr0,2,4,,,,0
+1624628700,Al-Qassim,Zakho,EohbEPja,tWncHhCl,2,1,,,,0
+1624628700,Al Naft,Al Minaa,4EDVpa7U,KptdoeRG,1,1,,,,0
+1624628700,Al Diwaniya,Baghdad,2g5GC7oP,bioloqCq,0,1,,,,0
+1624638600,Al Zawraa,Al Wasat,2g5GC7oP,2g5GC7oP,1,1,,,,0
+1624726800,Al Shorta,Al Talaba,WnGqjgF8,2g5GC7oP,2,0,,,,0
+1624801500,Alsinaat Alkahrabaiya,Al Simawa,KA9k9NaG,QPZCV5f1,0,0,,,,0
+1624801500,Al Karkh,Al-Hudod,2g5GC7oP,OdNp8VRg,0,1,,,,0
+1624810500,Al Najaf,Naft Al-Basra,xrphp3Rk,bioloqCq,1,1,,,,0
+1624818600,Erbil,Al Quwa Al Jawiya,4YgSElVF,46X3z1y3,0,0,,,,0
+1625061600,Zakho,Al Diwaniya,tWncHhCl,2g5GC7oP,1,1,,,,0
+1625070600,Al Wasat,Baghdad,2g5GC7oP,bioloqCq,4,1,,,,0
+1625070600,Al Minaa,Al-Qassim,KptdoeRG,EohbEPja,2,1,,,,0
+1625077800,Al Talaba,Al Naft,2g5GC7oP,4EDVpa7U,0,0,,,,0
+1625148000,Al Simawa,Al Zawraa,QPZCV5f1,2g5GC7oP,1,2,,,,0
+1625148000,Al Kahraba,Al Karkh,2wVbTlr0,2g5GC7oP,1,0,,,,0
+1625157000,Naft Al-Basra,Naft Missan,bioloqCq,42ir8Rgt,2,1,,,,0
+1625157000,Al Najaf,Alsinaat Alkahrabaiya,xrphp3Rk,KA9k9NaG,2,1,,,,0
+1625166000,Al Quwa Al Jawiya,Al Shorta,46X3z1y3,WnGqjgF8,2,0,,,,0
+1625234400,Al-Hudod,Erbil,OdNp8VRg,4YgSElVF,0,1,,,,0
+1625407200,Al Diwaniya,Al-Qassim,2g5GC7oP,EohbEPja,1,1,,,,0
+1625416200,Al Talaba,Al Minaa,2g5GC7oP,KptdoeRG,4,2,,,,0
+1625423400,Al Wasat,Zakho,2g5GC7oP,tWncHhCl,1,1,,,,0
+1625493600,Baghdad,Al Simawa,bioloqCq,QPZCV5f1,2,1,,,,0
+1625493600,Al Naft,Al Quwa Al Jawiya,4EDVpa7U,46X3z1y3,1,4,,,,0
+1625493600,Al Karkh,Naft Al-Basra,2g5GC7oP,bioloqCq,4,2,,,,0
+1625502600,Naft Missan,Alsinaat Alkahrabaiya,42ir8Rgt,KA9k9NaG,2,2,,,,0
+1625509800,Al Zawraa,Al Najaf,2g5GC7oP,xrphp3Rk,2,0,,,,0
+1625587200,Erbil,Al Kahraba,4YgSElVF,2wVbTlr0,1,1,,,,0
+1625596200,Al Shorta,Al-Hudod,WnGqjgF8,OdNp8VRg,1,2,,,,0
+1625752800,Al-Qassim,Al Wasat,EohbEPja,2g5GC7oP,2,1,,,,0
+1625752800,Al Diwaniya,Al Minaa,2g5GC7oP,KptdoeRG,1,0,,,,0
+1625839200,Al Simawa,Zakho,QPZCV5f1,tWncHhCl,0,2,,,,0
+1625839200,Al Quwa Al Jawiya,Al Talaba,46X3z1y3,2g5GC7oP,1,1,,,,0
+1625848200,Naft Missan,Al Zawraa,42ir8Rgt,2g5GC7oP,0,1,,,,0
+1625855400,Al Najaf,Baghdad,xrphp3Rk,bioloqCq,2,1,,,,0
+1625925600,Alsinaat Alkahrabaiya,Al Karkh,KA9k9NaG,2g5GC7oP,3,2,,,,0
+1625925600,Al-Hudod,Al Naft,OdNp8VRg,4EDVpa7U,0,1,,,,0
+1625934600,Naft Al-Basra,Erbil,bioloqCq,4YgSElVF,1,0,,,,0
+1626012000,Al Kahraba,Al Shorta,2wVbTlr0,WnGqjgF8,0,3,,,,0
+1626107400,Al Minaa,Al Quwa Al Jawiya,KptdoeRG,46X3z1y3,2,0,,,,0
+1626184800,Zakho,Al Najaf,tWncHhCl,xrphp3Rk,0,1,,,,0
+1626184800,Al-Qassim,Al Simawa,EohbEPja,QPZCV5f1,3,2,,,,0
+1626184800,Al Zawraa,Al Karkh,2g5GC7oP,2g5GC7oP,0,1,,,,0
+1626193800,Al Wasat,Al Diwaniya,2g5GC7oP,2g5GC7oP,0,0,,,,0
+1626271200,Baghdad,Naft Missan,bioloqCq,42ir8Rgt,0,0,,,,0
+1626271200,Al Talaba,Al-Hudod,2g5GC7oP,OdNp8VRg,1,1,,,,0
+1626280200,Erbil,Alsinaat Alkahrabaiya,4YgSElVF,KA9k9NaG,1,0,,,,0
+1626357600,Al Shorta,Naft Al-Basra,WnGqjgF8,bioloqCq,1,0,,,,0
+1626357600,Al Naft,Al Kahraba,4EDVpa7U,2wVbTlr0,1,1,,,,0
+1626616800,Al Karkh,Baghdad,2g5GC7oP,bioloqCq,0,0,,,,0
+1626625800,Al Minaa,Al Wasat,KptdoeRG,2g5GC7oP,1,1,,,,0
+1626703200,Zakho,Naft Missan,tWncHhCl,42ir8Rgt,1,2,,,,0
+1626706800,Naft Al-Basra,Al Naft,bioloqCq,4EDVpa7U,0,1,,,,0
+1627308000,Erbil,Al Zawraa,4YgSElVF,2g5GC7oP,1,3,,,,0
+1627308000,Alsinaat Alkahrabaiya,Al Shorta,KA9k9NaG,WnGqjgF8,1,1,,,,0
+1627308000,Al Simawa,Al Diwaniya,QPZCV5f1,2g5GC7oP,2,3,,,,0
+1627308000,Al Najaf,Al-Qassim,xrphp3Rk,EohbEPja,1,0,,,,0
+1627308000,Al Kahraba,Al Talaba,2wVbTlr0,2g5GC7oP,0,1,,,,0
+1627491600,Al-Hudod,Al Quwa Al Jawiya,OdNp8VRg,46X3z1y3,1,2,,,,0

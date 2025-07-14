@@ -1,56 +1,56 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1347975000,Ittihad Kalba,Al Wasl,2,4,,,,0
-1347975300,Al Shaab,Dubai Club,0,2,,,,0
-1347984900,Al Shabab,Shabab Al-Ahli Dubai,1,1,,,,0
-1348061700,Al Dhafra,Bani Yas,1,2,,,,0
-1348061700,Ajman,Dibba Al Fujairah,6,1,,,,0
-1348071300,Al Nasr,Al Wahda,0,3,,,,0
-1349788200,Dubai Club,Al Ain,2,4,,,,0
-1349798400,Bani Yas,Al Jazira,2,3,,,,0
-1349874900,Al Wahda,Al Shaab,6,1,,,,0
-1349884800,Al Wasl,Al Dhafra,0,4,,,,0
-1350220200,Shabab Al-Ahli Dubai,Ajman,1,2,,,,0
-1350220800,Al Dhafra,Ittihad Kalba,1,0,,,,0
-1350230400,Al Ain,Al Wahda,0,0,,,,0
-1350306600,Dibba Al Fujairah,Al Shabab,0,3,,,,0
-1350306600,Al Shaab,Al Nasr,1,1,,,,0
-1350316800,Al Jazira,Al Wasl,2,3,,,,0
-1352724600,Al Wahda,Dubai Club,2,1,,,,0
-1352736000,Al Shabab,Ajman,3,2,,,,0
-1352810700,Dibba Al Fujairah,Shabab Al-Ahli Dubai,3,0,,,,0
-1352810700,Al Wasl,Bani Yas,1,0,,,,0
-1352822400,Ittihad Kalba,Al Jazira,2,2,,,,0
-1352822400,Al Nasr,Al Ain,0,0,,,,0
-1356612600,Dubai Club,Al Nasr,0,4,,,,0
-1356624000,Bani Yas,Ittihad Kalba,2,1,,,,0
-1356699000,Al Ain,Al Shaab,2,0,,,,0
-1356710400,Al Jazira,Al Dhafra,1,0,,,,0
-1357217700,Dibba Al Fujairah,Ajman,1,3,,,,0
-1357217700,Al Wasl,Ittihad Kalba,0,1,,,,0
-1357228800,Al Wahda,Al Nasr,2,1,,,,0
-1357304100,Dubai Club,Al Shaab,1,1,,,,0
-1357304400,Bani Yas,Al Dhafra,4,2,,,,0
-1357315200,Shabab Al-Ahli Dubai,Al Shabab,0,0,,,,0
-1357822800,Al Ain,Dubai Club,2,1,,,,0
-1357823400,Al Dhafra,Al Wasl,3,2,,,,0
-1357833600,Al Shaab,Al Wahda,1,2,,,,0
-1357833600,Al Jazira,Bani Yas,2,2,,,,0
-1358341500,Al Nasr,Al Shaab,6,1,,,,0
-1358341500,Ajman,Shabab Al-Ahli Dubai,2,0,,,,0
-1358352000,Al Wasl,Al Jazira,1,5,,,,0
-1358427900,Ittihad Kalba,Al Dhafra,1,1,,,,0
-1358427900,Al Shabab,Dibba Al Fujairah,2,1,,,,0
-1358438400,Al Wahda,Al Ain,0,1,,,,0
-1359724800,Dubai Club,Al Wahda,2,3,,,,0
-1359724800,Al Ain,Al Nasr,1,1,,,,0
-1359734400,Bani Yas,Al Wasl,1,2,,,,0
-1359734400,Al Jazira,Ittihad Kalba,4,1,,,,0
-1363527900,Ittihad Kalba,Bani Yas,2,1,,,,0
-1363527900,Al Shaab,Al Ain,1,3,,,,0
-1363527900,Al Nasr,Dubai Club,0,2,,,,0
-1363527900,Al Dhafra,Al Jazira,4,4,,,,0
-1363537800,Shabab Al-Ahli Dubai,Dibba Al Fujairah,2,1,,,,0
-1363537800,Ajman,Al Shabab,1,3,,,,0
-1364219100,Al Shabab,Ajman,1,2,,,,0
-1364229000,Al Wahda,Al Jazira,1,2,,,,0
-1368546000,Ajman,Al Jazira,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1347975000,Ittihad Kalba,Al Wasl,lUHDtcYu,K8vlWhPS,2,4,,,,0
+1347975300,Al Shaab,Dubai Club,bTQFt8Qf,tfgRvFmA,0,2,,,,0
+1347984900,Al Shabab,Shabab Al-Ahli Dubai,Ymrd2ee2,8zUcYY2j,1,1,,,,0
+1348061700,Al Dhafra,Bani Yas,Uy7I7TU5,OfEmUdKC,1,2,,,,0
+1348061700,Ajman,Dibba Al Fujairah,prt8JLTG,COCcK4Lc,6,1,,,,0
+1348071300,Al Nasr,Al Wahda,K8vlWhPS,YXHWp1ah,0,3,,,,0
+1349788200,Dubai Club,Al Ain,tfgRvFmA,OKa9P8WR,2,4,,,,0
+1349798400,Bani Yas,Al Jazira,OfEmUdKC,lWIXXvLm,2,3,,,,0
+1349874900,Al Wahda,Al Shaab,YXHWp1ah,bTQFt8Qf,6,1,,,,0
+1349884800,Al Wasl,Al Dhafra,K8vlWhPS,Uy7I7TU5,0,4,,,,0
+1350220200,Shabab Al-Ahli Dubai,Ajman,8zUcYY2j,prt8JLTG,1,2,,,,0
+1350220800,Al Dhafra,Ittihad Kalba,Uy7I7TU5,lUHDtcYu,1,0,,,,0
+1350230400,Al Ain,Al Wahda,OKa9P8WR,YXHWp1ah,0,0,,,,0
+1350306600,Dibba Al Fujairah,Al Shabab,COCcK4Lc,Ymrd2ee2,0,3,,,,0
+1350306600,Al Shaab,Al Nasr,bTQFt8Qf,K8vlWhPS,1,1,,,,0
+1350316800,Al Jazira,Al Wasl,lWIXXvLm,K8vlWhPS,2,3,,,,0
+1352724600,Al Wahda,Dubai Club,YXHWp1ah,tfgRvFmA,2,1,,,,0
+1352736000,Al Shabab,Ajman,Ymrd2ee2,prt8JLTG,3,2,,,,0
+1352810700,Dibba Al Fujairah,Shabab Al-Ahli Dubai,COCcK4Lc,8zUcYY2j,3,0,,,,0
+1352810700,Al Wasl,Bani Yas,K8vlWhPS,OfEmUdKC,1,0,,,,0
+1352822400,Ittihad Kalba,Al Jazira,lUHDtcYu,lWIXXvLm,2,2,,,,0
+1352822400,Al Nasr,Al Ain,K8vlWhPS,OKa9P8WR,0,0,,,,0
+1356612600,Dubai Club,Al Nasr,tfgRvFmA,K8vlWhPS,0,4,,,,0
+1356624000,Bani Yas,Ittihad Kalba,OfEmUdKC,lUHDtcYu,2,1,,,,0
+1356699000,Al Ain,Al Shaab,OKa9P8WR,bTQFt8Qf,2,0,,,,0
+1356710400,Al Jazira,Al Dhafra,lWIXXvLm,Uy7I7TU5,1,0,,,,0
+1357217700,Dibba Al Fujairah,Ajman,COCcK4Lc,prt8JLTG,1,3,,,,0
+1357217700,Al Wasl,Ittihad Kalba,K8vlWhPS,lUHDtcYu,0,1,,,,0
+1357228800,Al Wahda,Al Nasr,YXHWp1ah,K8vlWhPS,2,1,,,,0
+1357304100,Dubai Club,Al Shaab,tfgRvFmA,bTQFt8Qf,1,1,,,,0
+1357304400,Bani Yas,Al Dhafra,OfEmUdKC,Uy7I7TU5,4,2,,,,0
+1357315200,Shabab Al-Ahli Dubai,Al Shabab,8zUcYY2j,Ymrd2ee2,0,0,,,,0
+1357822800,Al Ain,Dubai Club,OKa9P8WR,tfgRvFmA,2,1,,,,0
+1357823400,Al Dhafra,Al Wasl,Uy7I7TU5,K8vlWhPS,3,2,,,,0
+1357833600,Al Shaab,Al Wahda,bTQFt8Qf,YXHWp1ah,1,2,,,,0
+1357833600,Al Jazira,Bani Yas,lWIXXvLm,OfEmUdKC,2,2,,,,0
+1358341500,Al Nasr,Al Shaab,K8vlWhPS,bTQFt8Qf,6,1,,,,0
+1358341500,Ajman,Shabab Al-Ahli Dubai,prt8JLTG,8zUcYY2j,2,0,,,,0
+1358352000,Al Wasl,Al Jazira,K8vlWhPS,lWIXXvLm,1,5,,,,0
+1358427900,Ittihad Kalba,Al Dhafra,lUHDtcYu,Uy7I7TU5,1,1,,,,0
+1358427900,Al Shabab,Dibba Al Fujairah,Ymrd2ee2,COCcK4Lc,2,1,,,,0
+1358438400,Al Wahda,Al Ain,YXHWp1ah,OKa9P8WR,0,1,,,,0
+1359724800,Dubai Club,Al Wahda,tfgRvFmA,YXHWp1ah,2,3,,,,0
+1359724800,Al Ain,Al Nasr,OKa9P8WR,K8vlWhPS,1,1,,,,0
+1359734400,Bani Yas,Al Wasl,OfEmUdKC,K8vlWhPS,1,2,,,,0
+1359734400,Al Jazira,Ittihad Kalba,lWIXXvLm,lUHDtcYu,4,1,,,,0
+1363527900,Ittihad Kalba,Bani Yas,lUHDtcYu,OfEmUdKC,2,1,,,,0
+1363527900,Al Shaab,Al Ain,bTQFt8Qf,OKa9P8WR,1,3,,,,0
+1363527900,Al Nasr,Dubai Club,K8vlWhPS,tfgRvFmA,0,2,,,,0
+1363527900,Al Dhafra,Al Jazira,Uy7I7TU5,lWIXXvLm,4,4,,,,0
+1363537800,Shabab Al-Ahli Dubai,Dibba Al Fujairah,8zUcYY2j,COCcK4Lc,2,1,,,,0
+1363537800,Ajman,Al Shabab,prt8JLTG,Ymrd2ee2,1,3,,,,0
+1364219100,Al Shabab,Ajman,Ymrd2ee2,prt8JLTG,1,2,,,,0
+1364229000,Al Wahda,Al Jazira,YXHWp1ah,lWIXXvLm,1,2,,,,0
+1368546000,Ajman,Al Jazira,prt8JLTG,lWIXXvLm,2,1,,,,0

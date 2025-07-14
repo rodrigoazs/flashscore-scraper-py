@@ -1,42 +1,42 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1682096400,Morabeza,Mindelo,2,1,,,,0
-1682182800,Sanjoanenses,Vulcanico Clube,0,1,,,,0
-1682182800,Palmeira,Belo Horizonte,3,0,,,,0
-1682182800,Mindelense,Santo Crucifixo,0,0,,,,0
-1682269200,Juventude,Travadores,3,2,,,,0
-1682269200,Figueirense,Varandinha,2,2,,,,0
-1682784000,Vulcanico Clube,Palmeira,3,2,,,,0
-1682787600,Varandinha,Morabeza,1,1,,,,0
-1682787600,Travadores,Mindelense,0,1,,,,0
-1682787600,Santo Crucifixo,Juventude,2,0,,,,0
-1682787600,Belo Horizonte,Sanjoanenses,1,1,,,,0
-1682874000,Mindelo,Figueirense,2,1,,,,0
-1683910800,Morabeza,Figueirense,1,0,,,,0
-1683997200,Santo Crucifixo,Travadores,0,1,,,,0
-1683997200,Palmeira,Sanjoanenses,2,1,,,,0
-1683997200,Mindelense,Juventude,0,0,,,,0
-1684083600,Mindelo,Varandinha,2,0,,,,0
-1684083600,Belo Horizonte,Vulcanico Clube,0,0,,,,0
-1684602000,Vulcanico Clube,Belo Horizonte,3,1,,,,0
-1684602000,Travadores,Santo Crucifixo,4,0,,,,0
-1684688400,Varandinha,Mindelo,1,2,,,,0
-1684688400,Sanjoanenses,Palmeira,2,1,,,,0
-1684688400,Juventude,Mindelense,0,3,,,,0
-1684688400,Figueirense,Morabeza,0,0,,,,0
-1685896200,Sanjoanenses,Belo Horizonte,2,3,,,,0
-1685896200,Palmeira,Vulcanico Clube,1,0,,,,0
-1685896200,Morabeza,Varandinha,0,0,,,,0
-1685896200,Mindelense,Travadores,1,0,,,,0
-1685896200,Juventude,Santo Crucifixo,0,2,,,,0
-1685896200,Figueirense,Mindelo,1,4,,,,0
-1686502800,Vulcanico Clube,Sanjoanenses,1,1,,,,0
-1686502800,Varandinha,Figueirense,2,4,,,,0
-1686502800,Travadores,Juventude,3,1,,,,0
-1686502800,Santo Crucifixo,Mindelense,0,1,,,,0
-1686502800,Mindelo,Morabeza,2,2,,,,0
-1686502800,Belo Horizonte,Palmeira,0,1,,,,0
-1687624200,Palmeira,Mindelense,2,2,,,,0
-1687624200,Mindelo,Vulcanico Clube,2,2,,,,0
-1688229000,Vulcanico Clube,Mindelo,3,6,,,,0
-1688229000,Mindelense,Palmeira,1,2,,,,0
-1688833800,Mindelo,Palmeira,1,1,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1682096400,Morabeza,Mindelo,6q1Mq45N,hYhfntFh,2,1,,,,0
+1682182800,Sanjoanenses,Vulcanico Clube,t0fjynzG,zR7bJ3TR,0,1,,,,0
+1682182800,Palmeira,Belo Horizonte,6q1Mq45N,l23EoQzB,3,0,,,,0
+1682182800,Mindelense,Santo Crucifixo,QNEfHZk3,h4ajIpaq,0,0,,,,0
+1682269200,Juventude,Travadores,GhenpCWi,bHGsg7FM,3,2,,,,0
+1682269200,Figueirense,Varandinha,vBSAac3t,SCbeiVjK,2,2,,,,0
+1682784000,Vulcanico Clube,Palmeira,zR7bJ3TR,6q1Mq45N,3,2,,,,0
+1682787600,Varandinha,Morabeza,SCbeiVjK,6q1Mq45N,1,1,,,,0
+1682787600,Travadores,Mindelense,bHGsg7FM,QNEfHZk3,0,1,,,,0
+1682787600,Santo Crucifixo,Juventude,h4ajIpaq,GhenpCWi,2,0,,,,0
+1682787600,Belo Horizonte,Sanjoanenses,l23EoQzB,t0fjynzG,1,1,,,,0
+1682874000,Mindelo,Figueirense,hYhfntFh,vBSAac3t,2,1,,,,0
+1683910800,Morabeza,Figueirense,6q1Mq45N,vBSAac3t,1,0,,,,0
+1683997200,Santo Crucifixo,Travadores,h4ajIpaq,bHGsg7FM,0,1,,,,0
+1683997200,Palmeira,Sanjoanenses,6q1Mq45N,t0fjynzG,2,1,,,,0
+1683997200,Mindelense,Juventude,QNEfHZk3,GhenpCWi,0,0,,,,0
+1684083600,Mindelo,Varandinha,hYhfntFh,SCbeiVjK,2,0,,,,0
+1684083600,Belo Horizonte,Vulcanico Clube,l23EoQzB,zR7bJ3TR,0,0,,,,0
+1684602000,Vulcanico Clube,Belo Horizonte,zR7bJ3TR,l23EoQzB,3,1,,,,0
+1684602000,Travadores,Santo Crucifixo,bHGsg7FM,h4ajIpaq,4,0,,,,0
+1684688400,Varandinha,Mindelo,SCbeiVjK,hYhfntFh,1,2,,,,0
+1684688400,Sanjoanenses,Palmeira,t0fjynzG,6q1Mq45N,2,1,,,,0
+1684688400,Juventude,Mindelense,GhenpCWi,QNEfHZk3,0,3,,,,0
+1684688400,Figueirense,Morabeza,vBSAac3t,6q1Mq45N,0,0,,,,0
+1685896200,Sanjoanenses,Belo Horizonte,t0fjynzG,l23EoQzB,2,3,,,,0
+1685896200,Palmeira,Vulcanico Clube,6q1Mq45N,zR7bJ3TR,1,0,,,,0
+1685896200,Morabeza,Varandinha,6q1Mq45N,SCbeiVjK,0,0,,,,0
+1685896200,Mindelense,Travadores,QNEfHZk3,bHGsg7FM,1,0,,,,0
+1685896200,Juventude,Santo Crucifixo,GhenpCWi,h4ajIpaq,0,2,,,,0
+1685896200,Figueirense,Mindelo,vBSAac3t,hYhfntFh,1,4,,,,0
+1686502800,Vulcanico Clube,Sanjoanenses,zR7bJ3TR,t0fjynzG,1,1,,,,0
+1686502800,Varandinha,Figueirense,SCbeiVjK,vBSAac3t,2,4,,,,0
+1686502800,Travadores,Juventude,bHGsg7FM,GhenpCWi,3,1,,,,0
+1686502800,Santo Crucifixo,Mindelense,h4ajIpaq,QNEfHZk3,0,1,,,,0
+1686502800,Mindelo,Morabeza,hYhfntFh,6q1Mq45N,2,2,,,,0
+1686502800,Belo Horizonte,Palmeira,l23EoQzB,6q1Mq45N,0,1,,,,0
+1687624200,Palmeira,Mindelense,6q1Mq45N,QNEfHZk3,2,2,,,,0
+1687624200,Mindelo,Vulcanico Clube,hYhfntFh,zR7bJ3TR,2,2,,,,0
+1688229000,Vulcanico Clube,Mindelo,zR7bJ3TR,hYhfntFh,3,6,,,,0
+1688229000,Mindelense,Palmeira,QNEfHZk3,6q1Mq45N,1,2,,,,0
+1688833800,Mindelo,Palmeira,hYhfntFh,6q1Mq45N,1,1,Pen,1,2,0

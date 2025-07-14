@@ -1,480 +1,480 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1341329400,Vikingur (Fai),FC Gomel (Blr),0,6,,,,0
-1341329400,Shkendija (Mkd),Portadown (Nir),0,0,,,,0
-1341500400,Khazar Lenkoran (Aze),Kalju (Est),2,2,,,,0
-1341502200,Renova (Mkd),Libertas (San),4,0,,,,0
-1341502200,Narva (Est),Shamakhi (Aze),0,5,,,,0
-1341502200,KuPS (Fin),Llanelli (Wal),2,1,,,,0
-1341502200,Jagodina (Srb),Ordabasy (Kaz),0,1,,,,0
-1341503100,Levadia (Est),Siauliai (Ltu),1,0,,,,0
-1341504000,Rudar (Mne),Shirak Gyumri (Arm),0,1,,,,0
-1341504000,Pyunik Yerevan (Arm),Zeta (Mne),0,3,,,,0
-1341504000,JJK Jyvaskyla (Fin),Stabaek (Nor),2,0,,,,0
-1341504000,FK Baku (Aze),Mura (Slo),0,0,,,,0
-1341504000,Elfsborg (Swe),Floriana (Mlt),8,0,,,,0
-1341505800,Suduva (Ltu),FC Daugava (Lat),0,1,,,,0
-1341505800,Differdange (Lux),NSI Runavik (Fai),3,0,,,,0
-1341505800,Dacia Chisinau (Mda),Celje (Slo),1,0,,,,0
-1341507600,Torpedo Kutaisi (Geo),Aktobe (Kaz),1,1,,,,0
-1341507600,KF Tirana (Alb),Grevenmacher (Lux),2,0,,,,0
-1341507600,Birkirkara (Mlt),Met. Skopje (Mkd),2,2,,,,0
-1341509400,FK Sarajevo (Bih),Hibernians (Mlt),5,2,,,,0
-1341509400,FC Santa Coloma (And),Osijek (Cro),0,1,,,,0
-1341510300,Twente (Ned),UE Santa Coloma (And),6,0,,,,0
-1341511200,Streymur (Fai),Syunik (Arm),3,1,,,,0
-1341511200,O. Ljubljana (Slo),Jeunesse Esch (Lux),3,0,,,,0
-1341511200,Lech Poznan (Pol),Zhetysu Taldykorgan (Kaz),2,0,,,,0
-1341512100,MTK Budapest (Hun),Senica (Svk),1,1,,,,0
-1341513000,Teuta (Alb),Rustavi (Geo),0,3,,,,0
-1341513000,La Fiorita (San),FK Liepaja (Lat),0,2,,,,0
-1341513000,Flamurtari (Alb),Honved (Hun),0,1,,,,0
-1341513000,Druids (Wal),MyPa (Fin),0,0,,,,0
-1341513900,St. Patricks (Irl),Vestmannaeyjar (Ice),1,0,,,,0
-1341513900,Cliftonville (Nir),Kalmar (Swe),1,0,,,,0
-1341513900,Bohemians (Irl),Thor Akureyri (Ice),0,0,,,,0
-1341513900,Bangor City (Wal),Zimbru Chisinau (Mda),0,0,,,,0
-1341514800,Crusaders (Nir),Rosenborg (Nor),0,3,,,,0
-1341515100,Borac Banja Luka (Bih),Celik Niksic (Mne),2,2,,,,0
-1341515700,Hafnarfjordur (Ice),Eschen/Mauren (Lie),2,1,,,,0
-1341934200,Floriana (Mlt),Elfsborg (Swe),0,4,,,,0
-1341935100,Kalju (Est),Khazar Lenkoran (Aze),0,2,,,,0
-1341935100,Grevenmacher (Lux),KF Tirana (Alb),0,0,,,,0
-1341945900,Portadown (Nir),Shkendija (Mkd),2,1,,,,0
-1342094400,Zhetysu Taldykorgan (Kaz),Lech Poznan (Pol),1,1,,,,0
-1342101600,Shirak Gyumri (Arm),Rudar (Mne),1,1,,,,0
-1342101600,Rustavi (Geo),Teuta (Alb),6,1,,,,0
-1342101600,Ordabasy (Kaz),Jagodina (Srb),0,0,,,,0
-1342105200,Syunik (Arm),Streymur (Fai),2,0,,,,0
-1342105200,Met. Skopje (Mkd),Birkirkara (Mlt),0,0,,,,0
-1342105200,Aktobe (Kaz),Torpedo Kutaisi (Geo),1,0,,,,0
-1342107000,Celik Niksic (Mne),Borac Banja Luka (Bih),1,1,,,,0
-1342108800,Siauliai (Ltu),Levadia (Est),2,1,,,,0
-1342108800,Shamakhi (Aze),Narva (Est),2,0,,,,0
-1342108800,Jeunesse Esch (Lux),O. Ljubljana (Slo),0,3,,,,0
-1342108800,FK Liepaja (Lat),La Fiorita (San),4,0,,,,0
-1342108800,FC Gomel (Blr),Vikingur (Fai),4,0,,,,0
-1342108800,FC Daugava (Lat),Suduva (Ltu),2,3,,,,0
-1342110600,Zimbru Chisinau (Mda),Bangor City (Wal),2,1,,,,0
-1342110600,MyPa (Fin),Druids (Wal),5,0,,,,0
-1342112400,Stabaek (Nor),JJK Jyvaskyla (Fin),3,2,,,,0
-1342112400,Rosenborg (Nor),Crusaders (Nir),1,0,,,,0
-1342112400,Kalmar (Swe),Cliftonville (Nir),4,0,,,,0
-1342114200,UE Santa Coloma (And),Twente (Ned),0,3,,,,0
-1342114200,Senica (Svk),MTK Budapest (Hun),2,1,,,,0
-1342114200,NSI Runavik (Fai),Differdange (Lux),0,3,,,,0
-1342114200,Llanelli (Wal),KuPS (Fin),1,1,,,,0
-1342114200,Hibernians (Mlt),FK Sarajevo (Bih),4,4,,,,0
-1342114200,Eschen/Mauren (Lie),Hafnarfjordur (Ice),0,1,,,,0
-1342116000,Zeta (Mne),Pyunik Yerevan (Arm),1,2,,,,0
-1342116000,Osijek (Cro),FC Santa Coloma (And),3,1,,,,0
-1342116000,Mura (Slo),FK Baku (Aze),2,0,,,,0
-1342116000,Celje (Slo),Dacia Chisinau (Mda),0,1,,,,0
-1342117800,Thor Akureyri (Ice),Bohemians (Irl),5,1,,,,0
-1342117800,Libertas (San),Renova (Mkd),0,4,,,,0
-1342117800,Honved (Hun),Flamurtari (Alb),2,0,,,,0
-1342121400,Vestmannaeyjar (Ice),St. Patricks (Irl),1,0,AET,2,1,0
-1342710000,Naftan (Blr),Crvena zvezda (Srb),3,4,,,,0
-1342710000,Milsami (Mda),Aktobe (Kaz),4,2,,,,0
-1342710000,Khazar Lenkoran (Aze),Lech Poznan (Pol),1,1,,,,0
-1342710000,FK Liepaja (Lat),Legia (Pol),2,2,,,,0
-1342710000,FK Anzi Makhackala (Rus),Honved (Hun),1,0,,,,0
-1342711800,Renova (Mkd),FC Gomel (Blr),0,2,,,,0
-1342711800,Lok. Plovdiv (Bul),Vitesse (Ned),4,4,,,,0
-1342712700,Levadia (Est),Anorthosis (Cyp),1,3,,,,0
-1342713600,Shamakhi (Aze),Asteras Tripolis (Gre),1,1,,,,0
-1342713600,Rustavi (Geo),Plzen (Cze),1,3,,,,0
-1342713600,O. Ljubljana (Slo),Tromso (Nor),0,0,,,,0
-1342713600,JJK Jyvaskyla (Fin),Zeta (Mne),3,2,,,,0
-1342715400,Shakhtyor Soligorsk (Blr),Ried (Aut),1,1,,,,0
-1342715400,Differdange (Lux),Gent (Bel),0,1,,,,0
-1342717200,Trnava (Svk),Sligo Rovers (Irl),3,1,,,,0
-1342717200,Slaven Belupo (Cro),Portadown (Nir),6,0,,,,0
-1342717200,Ruch Chorzow (Pol),Met. Skopje (Mkd),3,1,,,,0
-1342717200,Rosenborg (Nor),Ordabasy (Kaz),2,2,,,,0
-1342717200,Mlada Boleslav (Cze),Thor Akureyri (Ice),3,0,,,,0
-1342717200,Met. Donetsk (Ukr),Celik Niksic (Mne),7,0,,,,0
-1342717200,Levski Sofia (Bul),FK Sarajevo (Bih),1,0,,,,0
-1342717200,KF Tirana (Alb),Aalesund (Nor),1,1,,,,0
-1342717200,Eskisehirspor (Tur),St Johnstone (Sco),2,0,,,,0
-1342717200,Bnei Yehuda (Isr),Shirak Gyumri (Arm),2,0,,,,0
-1342717200,APOEL (Cyp),Senica (Svk),2,0,,,,0
-1342717200,AIK (Swe),Hafnarfjordur (Ice),1,1,,,,0
-1342717200,Aarhus (Den),Dila Gori (Geo),1,2,,,,0
-1342718100,Dacia Chisinau (Mda),Elfsborg (Swe),1,0,,,,0
-1342719000,Zalgiris (Ltu),Admira (Aut),1,1,,,,0
-1342719000,Young Boys (Sui),Zimbru Chisinau (Mda),1,0,,,,0
-1342719000,FC Rapid Bucuresti (Rou),MyPa (Fin),3,1,,,,0
-1342719900,Twente (Ned),Inter Turku (Fin),1,1,,,,0
-1342719900,Servette (Sui),Syunik (Arm),2,0,,,,0
-1342720800,Osijek (Cro),Kalmar (Swe),1,3,,,,0
-1342720800,Netanya (Isr),KuPS (Fin),1,2,,,,0
-1342720800,Mura (Slo),CSKA Sofia (Bul),0,0,,,,0
-1342721700,Slovan Bratislava (Svk),Fehervar FC (Hun),1,1,,,,0
-1342722600,Vojvodina (Srb),Suduva (Ltu),1,1,,,,0
-1342722600,Hajduk Split (Cro),Skonto (Lat),2,0,,,,0
-1342724400,Siroki Brijeg (Bih),St. Patricks (Irl),1,1,,,,0
-1343309400,Shirak Gyumri (Arm),Bnei Yehuda (Isr),0,1,,,,0
-1343311200,Ordabasy (Kaz),Rosenborg (Nor),1,2,,,,0
-1343311200,Dila Gori (Geo),Aarhus (Den),3,1,,,,0
-1343314800,Syunik (Arm),Servette (Sui),1,3,,,,0
-1343314800,Met. Skopje (Mkd),Ruch Chorzow (Pol),0,3,,,,0
-1343316600,KuPS (Fin),Netanya (Isr),0,1,,,,0
-1343316600,Celik Niksic (Mne),Met. Donetsk (Ukr),2,4,,,,0
-1343318400,Inter Turku (Fin),Twente (Ned),0,5,,,,0
-1343318400,FC Gomel (Blr),Renova (Mkd),0,1,,,,0
-1343318400,Elfsborg (Swe),Dacia Chisinau (Mda),2,0,,,,0
-1343318400,Aktobe (Kaz),Milsami (Mda),3,0,,,,0
-1343320200,Suduva (Ltu),Vojvodina (Srb),0,4,,,,0
-1343320200,MyPa (Fin),FC Rapid Bucuresti (Rou),0,2,,,,0
-1343320200,Honved (Hun),FK Anzi Makhackala (Rus),0,4,,,,0
-1343322000,Tromso (Nor),O. Ljubljana (Slo),0,0,AET,1,0,0
-1343322000,Ried (Aut),Shakhtyor Soligorsk (Blr),0,0,,,,0
-1343322000,Kalmar (Swe),Osijek (Cro),3,0,,,,0
-1343322000,CSKA Sofia (Bul),Mura (Slo),1,1,,,,0
-1343322000,Asteras Tripolis (Gre),Shamakhi (Aze),1,1,Pen,2,1,0
-1343322000,Anorthosis (Cyp),Levadia (Est),3,0,,,,0
-1343322000,Aalesund (Nor),KF Tirana (Alb),5,0,,,,0
-1343322900,Zimbru Chisinau (Mda),Young Boys (Sui),1,0,Pen,1,1,0
-1343323800,Senica (Svk),APOEL (Cyp),0,1,,,,0
-1343323800,Gent (Bel),Differdange (Lux),3,2,,,,0
-1343325600,Zeta (Mne),JJK Jyvaskyla (Fin),1,0,,,,0
-1343325600,Vitesse (Ned),Lok. Plovdiv (Bul),3,1,,,,0
-1343325600,Sligo Rovers (Irl),Trnava (Svk),1,1,,,,0
-1343325600,Plzen (Cze),Rustavi (Geo),2,0,,,,0
-1343325600,Lech Poznan (Pol),Khazar Lenkoran (Aze),1,0,,,,0
-1343327400,Skonto (Lat),Hajduk Split (Cro),1,0,,,,0
-1343327400,Legia (Pol),FK Liepaja (Lat),5,1,,,,0
-1343327400,Fehervar FC (Hun),Slovan Bratislava (Svk),0,0,,,,0
-1343327400,Crvena zvezda (Srb),Naftan (Blr),3,3,,,,0
-1343328300,St. Patricks (Irl),Siroki Brijeg (Bih),1,1,AET,2,1,0
-1343328300,St Johnstone (Sco),Eskisehirspor (Tur),1,1,,,,0
-1343328300,Portadown (Nir),Slaven Belupo (Cro),2,4,,,,0
-1343329200,FK Sarajevo (Bih),Levski Sofia (Bul),3,1,,,,0
-1343329500,Admira (Aut),Zalgiris (Ltu),5,1,,,,0
-1343330100,Thor Akureyri (Ice),Mlada Boleslav (Cze),0,1,,,,0
-1343330100,Hafnarfjordur (Ice),AIK (Swe),0,1,,,,0
-1343919600,FK Anzi Makhackala (Rus),Vitesse (Ned),2,0,,,,0
-1343921400,KuPS (Fin),Bursaspor (Tur),1,0,,,,0
-1343923200,Dila Gori (Geo),Anorthosis (Cyp),0,1,,,,0
-1343923200,Arsenal Kiev (Ukr),Mura (Slo),3,0,,,,0
-1343926800,Tromso (Nor),Met. Donetsk (Ukr),1,1,,,,0
-1343926800,Ruch Chorzow (Pol),Plzen (Cze),0,2,,,,0
-1343926800,Ried (Aut),Legia (Pol),2,1,,,,0
-1343926800,Kalmar (Swe),Young Boys (Sui),1,0,,,,0
-1343926800,Bnei Yehuda (Isr),PAOK (Gre),0,2,,,,0
-1343926800,APOEL (Cyp),Aalesund (Nor),2,1,,,,0
-1343926800,AIK (Swe),Lech Poznan (Pol),3,0,,,,0
-1343928600,Heerenveen (Ned),FC Rapid Bucuresti (Rou),4,0,,,,0
-1343929500,Twente (Ned),Mlada Boleslav (Cze),2,0,,,,0
-1343929500,Servette (Sui),Rosenborg (Nor),1,1,,,,0
-1343929500,FCSB (Rou),Trnava (Svk),0,1,,,,0
-1343930400,Genk (Bel),Aktobe (Kaz),2,1,,,,0
-1343930400,FC Gomel (Blr),Liverpool (Eng),0,1,,,,0
-1343930400,Asteras Tripolis (Gre),Maritimo (Por),1,1,,,,0
-1343931300,Horsens (Den),Elfsborg (Swe),1,1,,,,0
-1343932200,Fehervar FC (Hun),Gent (Bel),1,0,,,,0
-1343932200,Crvena zvezda (Srb),Omonia (Cyp),0,0,,,,0
-1343933100,St. Patricks (Irl),Hannover (Ger),0,3,,,,0
-1343933100,Hajduk Split (Cro),Inter (Ita),0,3,,,,0
-1343933100,Eskisehirspor (Tur),Marseille (Fra),1,1,,,,0
-1343933100,Dundee Utd (Sco),Dynamo Moscow (Rus),2,2,,,,0
-1343934000,Vojvodina (Srb),SK Rapid (Aut),2,1,,,,0
-1343934000,FK Sarajevo (Bih),Zeta (Mne),2,1,,,,0
-1343934000,Ath Bilbao (Esp),Slaven Belupo (Cro),3,1,,,,0
-1343934300,Admira (Aut),Sparta Prague (Cze),0,2,,,,0
-1344528000,Omonia (Cyp),Crvena zvezda (Srb),0,0,Pen,0,1,0
-1344528000,Elfsborg (Swe),Horsens (Den),2,3,,,,0
-1344528000,Dynamo Moscow (Rus),Dundee Utd (Sco),5,0,,,,0
-1344528000,Aktobe (Kaz),Genk (Bel),1,2,,,,0
-1344530700,Slaven Belupo (Cro),Ath Bilbao (Esp),2,1,,,,0
-1344531600,Rosenborg (Nor),Servette (Sui),0,0,,,,0
-1344531600,Mlada Boleslav (Cze),Twente (Ned),0,2,,,,0
-1344531600,Met. Donetsk (Ukr),Tromso (Nor),0,1,,,,0
-1344531600,Legia (Pol),Ried (Aut),3,1,,,,0
-1344531600,Anorthosis (Cyp),Dila Gori (Geo),0,3,,,,0
-1344531600,Aalesund (Nor),APOEL (Cyp),0,1,,,,0
-1344533400,Young Boys (Sui),Kalmar (Swe),3,0,,,,0
-1344533400,Trnava (Svk),FCSB (Rou),0,3,,,,0
-1344533400,Gent (Bel),Fehervar FC (Hun),0,3,,,,0
-1344535200,Zeta (Mne),FK Sarajevo (Bih),1,0,,,,0
-1344535200,Vitesse (Ned),FK Anzi Makhackala (Rus),0,2,,,,0
-1344535200,Sparta Prague (Cze),Admira (Aut),2,2,,,,0
-1344535200,Plzen (Cze),Ruch Chorzow (Pol),5,0,,,,0
-1344535200,PAOK (Gre),Bnei Yehuda (Isr),4,1,,,,0
-1344535200,Mura (Slo),Arsenal Kiev (Ukr),0,2,,,,0
-1344535200,Lech Poznan (Pol),AIK (Swe),1,0,,,,0
-1344537000,Hannover (Ger),St. Patricks (Irl),2,0,,,,0
-1344537000,FC Rapid Bucuresti (Rou),Heerenveen (Ned),1,0,,,,0
-1344537000,Bursaspor (Tur),KuPS (Fin),6,0,,,,0
-1344537900,Marseille (Fra),Eskisehirspor (Tur),3,0,,,,0
-1344537900,Inter (Ita),Hajduk Split (Cro),0,2,,,,0
-1344538800,Maritimo (Por),Asteras Tripolis (Gre),0,0,,,,0
-1344539100,SK Rapid (Aut),Vojvodina (Srb),2,0,,,,0
-1344539100,Liverpool (Eng),FC Gomel (Blr),3,0,,,,0
-1345652100,Stuttgart (Ger),Dynamo Moscow (Rus),2,0,,,,0
-1345737600,Neftci Baku (Aze),APOEL (Cyp),1,1,,,,0
-1345737600,FK Anzi Makhackala (Rus),AZ Alkmaar (Ned),1,0,,,,0
-1345739400,Tromso (Nor),Partizan (Srb),3,2,,,,0
-1345740300,Ekranas (Ltu),FCSB (Rou),0,2,,,,0
-1345741200,Sheriff Tiraspol (Mda),Marseille (Fra),1,2,,,,0
-1345741200,Molde (Nor),Heerenveen (Ned),2,0,,,,0
-1345741200,Liberec (Cze),Dnipro (Ukr),2,2,,,,0
-1345741200,Legia (Pol),Rosenborg (Nor),1,1,,,,0
-1345741200,Atromitos (Gre),Newcastle (Eng),1,1,,,,0
-1345741200,AIK (Swe),CSKA Moscow (Rus),0,1,,,,0
-1345743000,Luzern (Sui),Genk (Bel),2,1,,,,0
-1345743000,Din. Bucuresti (Rou),Metalist Kharkiv (Ukr),0,2,,,,0
-1345743000,Bursaspor (Tur),Twente (Ned),3,1,,,,0
-1345744800,Trabzonspor (Tur),Fehervar FC (Hun),0,0,,,,0
-1345744800,Feyenoord (Ned),Sparta Prague (Cze),2,2,,,,0
-1345744800,Dudelange (Lux),Hapoel Tel Aviv (Isr),1,3,,,,0
-1345745700,Midtjylland (Den),Young Boys (Sui),0,3,,,,0
-1345746600,PAOK (Gre),SK Rapid (Aut),2,1,,,,0
-1345746600,Lokeren (Bel),Plzen (Cze),2,1,,,,0
-1345746600,Debrecen (Hun),Club Brugge KV (Bel),0,3,,,,0
-1345747500,Sporting Vaslui (Rou),Inter (Ita),0,2,,,,0
-1345747500,Slask Wroclaw (Pol),Hannover (Ger),3,5,,,,0
-1345747500,Motherwell (Sco),Levante (Esp),0,2,,,,0
-1345747500,Hearts (Sco),Liverpool (Eng),0,1,,,,0
-1345748400,Zeta (Mne),PSV (Ned),0,5,,,,0
-1345748400,Mura (Slo),Lazio (Ita),0,2,,,,0
-1345748400,Maritimo (Por),Dila Gori (Geo),1,0,,,,0
-1345748400,Horsens (Den),Sporting CP (Por),1,1,,,,0
-1345748400,Crvena zvezda (Srb),Bordeaux (Fra),0,0,,,,0
-1345748400,Ath Bilbao (Esp),HJK (Fin),6,0,,,,0
-1346169600,Dynamo Moscow (Rus),Stuttgart (Ger),1,1,,,,0
-1346342400,Dnipro (Ukr),Liberec (Cze),4,2,,,,0
-1346342400,Dila Gori (Geo),Maritimo (Por),0,2,,,,0
-1346346000,Rosenborg (Nor),Legia (Pol),2,1,,,,0
-1346346000,PSV (Ned),Zeta (Mne),9,0,,,,0
-1346346000,HJK (Fin),Ath Bilbao (Esp),3,3,,,,0
-1346346000,Heerenveen (Ned),Molde (Nor),1,2,,,,0
-1346346000,Hapoel Tel Aviv (Isr),Dudelange (Lux),4,0,,,,0
-1346346000,CSKA Moscow (Rus),AIK (Swe),0,2,,,,0
-1346346000,APOEL (Cyp),Neftci Baku (Aze),1,3,,,,0
-1346347800,Young Boys (Sui),Midtjylland (Den),0,2,,,,0
-1346347800,Sparta Prague (Cze),Feyenoord (Ned),2,0,,,,0
-1346347800,FCSB (Rou),Ekranas (Ltu),3,0,,,,0
-1346349600,Metalist Kharkiv (Ukr),Din. Bucuresti (Rou),2,1,,,,0
-1346349600,Genk (Bel),Luzern (Sui),2,0,,,,0
-1346350500,Plzen (Cze),Lokeren (Bel),1,0,,,,0
-1346351400,Marseille (Fra),Sheriff Tiraspol (Mda),0,0,,,,0
-1346351400,Fehervar FC (Hun),Trabzonspor (Tur),0,0,Pen,1,0,0
-1346351400,Club Brugge KV (Bel),Debrecen (Hun),4,1,,,,0
-1346351400,Bordeaux (Fra),Crvena zvezda (Srb),3,2,,,,0
-1346352300,SK Rapid (Aut),PAOK (Gre),3,0,,,,0
-1346352300,Partizan (Srb),Tromso (Nor),1,0,,,,0
-1346352300,Levante (Esp),Motherwell (Sco),1,0,,,,0
-1346352300,Inter (Ita),Sporting Vaslui (Rou),2,2,,,,0
-1346352300,Hannover (Ger),Slask Wroclaw (Pol),5,1,,,,0
-1346353200,Twente (Ned),Bursaspor (Tur),3,1,AET,4,1,0
-1346353200,Newcastle (Eng),Atromitos (Gre),1,0,,,,0
-1346353200,Lazio (Ita),Mura (Slo),3,1,,,,0
-1346353200,AZ Alkmaar (Ned),FK Anzi Makhackala (Rus),0,5,,,,0
-1346353500,Liverpool (Eng),Hearts (Sco),1,1,,,,0
-1346355000,Sporting CP (Por),Horsens (Den),5,0,,,,0
-1348160400,Young Boys,Liverpool,3,5,,,,0
-1348160400,Udinese,FK Anzi Makhackala,1,1,,,,0
-1348160400,Stuttgart,FCSB,2,2,,,,0
-1348160400,Plzen,Academica,3,1,,,,0
-1348160400,Napoli,AIK,4,0,,,,0
-1348160400,Maritimo,Newcastle,0,0,,,,0
-1348160400,Hapoel Tel Aviv,Atl. Madrid,0,3,,,,0
-1348160400,Fenerbahce,Marseille,2,2,,,,0
-1348160400,FC Copenhagen,Molde,2,1,,,,0
-1348160400,Dnipro,PSV,2,0,,,,0
-1348160400,Bordeaux,Club Brugge KV,4,0,,,,0
-1348160400,AEL Limassol,B. Monchengladbach,0,0,,,,0
-1348167900,Twente,Hannover,2,2,,,,0
-1348167900,Tottenham,Lazio,0,0,,,,0
-1348167900,Sporting CP,Basel,0,0,,,,0
-1348167900,SK Rapid,Rosenborg,1,2,,,,0
-1348167900,Partizan,Neftci Baku,0,0,,,,0
-1348167900,Maribor,Panathinaikos,3,0,,,,0
-1348167900,Lyon,Sparta Prague,2,1,,,,0
-1348167900,Levante,Helsingborg,1,0,,,,0
-1348167900,Inter,Rubin Kazan,2,2,,,,0
-1348167900,Genk,Fehervar FC,3,0,,,,0
-1348167900,Bayer Leverkusen,Metalist Kharkiv,0,0,,,,0
-1348167900,Ath Bilbao,Kiryat Shmona,1,1,,,,0
-1349366400,Rubin Kazan,Partizan,2,0,,,,0
-1349366400,Neftci Baku,Inter,1,3,,,,0
-1349366400,FK Anzi Makhackala,Young Boys,2,0,,,,0
-1349370000,Sparta Prague,Ath Bilbao,3,1,,,,0
-1349370000,Rosenborg,Bayer Leverkusen,0,1,,,,0
-1349370000,Panathinaikos,Tottenham,1,1,,,,0
-1349370000,Metalist Kharkiv,SK Rapid,2,0,,,,0
-1349370000,Lazio,Maribor,1,0,,,,0
-1349370000,Kiryat Shmona,Lyon,3,4,,,,0
-1349370000,Helsingborg,Twente,2,2,,,,0
-1349370000,Hannover,Levante,2,1,,,,0
-1349370000,Fehervar FC,Sporting CP,3,0,,,,0
-1349370000,Basel,Genk,2,2,,,,0
-1349377500,PSV,Napoli,3,0,,,,0
-1349377500,Newcastle,Bordeaux,3,0,,,,0
-1349377500,Molde,Stuttgart,2,0,,,,0
-1349377500,Marseille,AEL Limassol,5,1,,,,0
-1349377500,Liverpool,Udinese,2,3,,,,0
-1349377500,FCSB,FC Copenhagen,1,0,,,,0
-1349377500,Club Brugge KV,Maritimo,2,0,,,,0
-1349377500,B. Monchengladbach,Fenerbahce,2,4,,,,0
-1349377500,Atl. Madrid,Plzen,1,0,,,,0
-1349377500,AIK,Dnipro,2,3,,,,0
-1349377500,Academica,Hapoel Tel Aviv,1,1,,,,0
-1351180800,Rubin Kazan,Neftci Baku,1,0,,,,0
-1351184400,Sparta Prague,Kiryat Shmona,3,1,,,,0
-1351184400,SK Rapid,Bayer Leverkusen,0,4,,,,0
-1351184400,Rosenborg,Metalist Kharkiv,1,2,,,,0
-1351184400,Panathinaikos,Lazio,1,1,,,,0
-1351184400,Maribor,Tottenham,1,1,,,,0
-1351184400,Lyon,Ath Bilbao,2,1,,,,0
-1351184400,Levante,Twente,3,0,,,,0
-1351184400,Inter,Partizan,1,0,,,,0
-1351184400,Helsingborg,Hannover,1,2,,,,0
-1351184400,Genk,Sporting CP,2,1,,,,0
-1351184400,Fehervar FC,Basel,2,1,,,,0
-1351191900,Young Boys,Udinese,3,1,,,,0
-1351191900,Stuttgart,FC Copenhagen,0,0,,,,0
-1351191900,PSV,AIK,1,1,,,,0
-1351191900,Newcastle,Club Brugge KV,1,0,,,,0
-1351191900,Maritimo,Bordeaux,1,1,,,,0
-1351191900,Liverpool,FK Anzi Makhackala,1,0,,,,0
-1351191900,Hapoel Tel Aviv,Plzen,1,2,,,,0
-1351191900,FCSB,Molde,2,0,,,,0
-1351191900,Dnipro,Napoli,3,1,,,,0
-1351191900,B. Monchengladbach,Marseille,2,0,,,,0
-1351191900,Atl. Madrid,Academica,2,1,,,,0
-1351191900,AEL Limassol,Fenerbahce,0,1,,,,0
-1352394000,Neftci Baku,Rubin Kazan,0,1,,,,0
-1352394000,FK Anzi Makhackala,Liverpool,1,0,,,,0
-1352397600,Udinese,Young Boys,2,3,,,,0
-1352397600,Plzen,Hapoel Tel Aviv,4,0,,,,0
-1352397600,Napoli,Dnipro,4,2,,,,0
-1352397600,Molde,FCSB,1,2,,,,0
-1352397600,Marseille,B. Monchengladbach,2,2,,,,0
-1352397600,Fenerbahce,AEL Limassol,2,0,,,,0
-1352397600,FC Copenhagen,Stuttgart,0,2,,,,0
-1352397600,Club Brugge KV,Newcastle,2,2,,,,0
-1352397600,Bordeaux,Maritimo,1,0,,,,0
-1352397600,AIK,PSV,1,0,,,,0
-1352397600,Academica,Atl. Madrid,2,0,,,,0
-1352405100,Twente,Levante,0,0,,,,0
-1352405100,Tottenham,Maribor,3,1,,,,0
-1352405100,Sporting CP,Genk,1,1,,,,0
-1352405100,Partizan,Inter,1,3,,,,0
-1352405100,Metalist Kharkiv,Rosenborg,3,1,,,,0
-1352405100,Lazio,Panathinaikos,3,0,,,,0
-1352405100,Kiryat Shmona,Sparta Prague,1,1,,,,0
-1352405100,Hannover,Helsingborg,3,2,,,,0
-1352405100,Bayer Leverkusen,SK Rapid,3,0,,,,0
-1352405100,Basel,Fehervar FC,1,0,,,,0
-1352405100,Ath Bilbao,Lyon,2,3,,,,0
-1353603600,Rubin Kazan,Inter,3,0,,,,0
-1353603600,Neftci Baku,Partizan,1,1,,,,0
-1353603600,FK Anzi Makhackala,Udinese,2,0,,,,0
-1353607200,Sparta Prague,Lyon,1,1,,,,0
-1353607200,Rosenborg,SK Rapid,3,2,,,,0
-1353607200,Panathinaikos,Maribor,1,0,,,,0
-1353607200,Metalist Kharkiv,Bayer Leverkusen,2,0,,,,0
-1353607200,Lazio,Tottenham,0,0,,,,0
-1353607200,Helsingborg,Levante,1,3,,,,0
-1353607200,Hannover,Twente,0,0,,,,0
-1353607200,Fehervar FC,Genk,0,1,,,,0
-1353607200,Basel,Sporting CP,3,0,,,,0
-1353614700,PSV,Dnipro,1,2,,,,0
-1353614700,Newcastle,Maritimo,1,1,,,,0
-1353614700,Molde,FC Copenhagen,1,2,,,,0
-1353614700,Marseille,Fenerbahce,0,1,,,,0
-1353614700,Liverpool,Young Boys,2,2,,,,0
-1353614700,FCSB,Stuttgart,1,5,,,,0
-1353614700,Club Brugge KV,Bordeaux,1,2,,,,0
-1353614700,B. Monchengladbach,AEL Limassol,2,0,,,,0
-1353614700,Atl. Madrid,Hapoel Tel Aviv,1,0,,,,0
-1353614700,AIK,Napoli,1,2,,,,0
-1353614700,Academica,Plzen,1,1,,,,0
-1354125600,Kiryat Shmona,Ath Bilbao,0,2,,,,0
-1354816800,Young Boys,FK Anzi Makhackala,3,1,,,,0
-1354816800,Udinese,Liverpool,0,1,,,,0
-1354816800,Stuttgart,Molde,0,1,,,,0
-1354816800,Plzen,Atl. Madrid,1,0,,,,0
-1354816800,Napoli,PSV,1,3,,,,0
-1354816800,Maritimo,Club Brugge KV,2,1,,,,0
-1354816800,Hapoel Tel Aviv,Academica,2,0,,,,0
-1354816800,Fenerbahce,B. Monchengladbach,0,3,,,,0
-1354816800,FC Copenhagen,FCSB,1,1,,,,0
-1354816800,Dnipro,AIK,4,0,,,,0
-1354816800,Bordeaux,Newcastle,2,0,,,,0
-1354816800,AEL Limassol,Marseille,3,0,,,,0
-1354824300,Twente,Helsingborg,1,3,,,,0
-1354824300,Tottenham,Panathinaikos,3,1,,,,0
-1354824300,SK Rapid,Metalist Kharkiv,1,0,,,,0
-1354824300,Partizan,Rubin Kazan,1,1,,,,0
-1354824300,Maribor,Lazio,1,4,,,,0
-1354824300,Lyon,Kiryat Shmona,2,0,,,,0
-1354824300,Levante,Hannover,2,2,,,,0
-1354824300,Inter,Neftci Baku,2,2,,,,0
-1354824300,Genk,Basel,0,0,,,,0
-1354824300,Bayer Leverkusen,Rosenborg,1,0,,,,0
-1354824300,Ath Bilbao,Sparta Prague,0,0,,,,0
-1354910700,Sporting CP,Fehervar FC,2,1,,,,0
-1360861200,Zenit,Liverpool,2,0,,,,0
-1360861200,FK Anzi Makhackala,Hannover,3,1,,,,0
-1360864800,Sparta Prague,Chelsea,0,1,,,,0
-1360864800,Napoli,Plzen,0,3,,,,0
-1360864800,Levante,Olympiacos Piraeus,3,0,,,,0
-1360864800,Dyn. Kyiv,Bordeaux,1,1,,,,0
-1360864800,Bayer Leverkusen,Benfica,0,1,,,,0
-1360864800,BATE,Fenerbahce,0,0,,,,0
-1360864800,Ajax,FCSB,2,0,,,,0
-1360872300,Tottenham,Lyon,2,1,,,,0
-1360872300,Stuttgart,Genk,1,1,,,,0
-1360872300,Newcastle,Metalist Kharkiv,0,0,,,,0
-1360872300,Inter,CFR Cluj,2,0,,,,0
-1360872300,Basel,Dnipro,2,0,,,,0
-1360872300,B. Monchengladbach,Lazio,3,3,,,,0
-1360872300,Atl. Madrid,Rubin Kazan,0,2,,,,0
-1361466000,Rubin Kazan,Atl. Madrid,0,1,,,,0
-1361469600,Metalist Kharkiv,Newcastle,0,1,,,,0
-1361469600,Lyon,Tottenham,1,1,,,,0
-1361469600,Lazio,B. Monchengladbach,2,0,,,,0
-1361469600,Genk,Stuttgart,0,2,,,,0
-1361469600,Dnipro,Basel,1,1,,,,0
-1361469600,CFR Cluj,Inter,0,3,,,,0
-1361477100,Plzen,Napoli,2,0,,,,0
-1361477100,Olympiacos Piraeus,Levante,0,1,,,,0
-1361477100,Liverpool,Zenit,3,1,,,,0
-1361477100,Hannover,FK Anzi Makhackala,1,1,,,,0
-1361477100,Fenerbahce,BATE,1,0,,,,0
-1361477100,FCSB,Ajax,2,0,Pen,3,0,0
-1361477100,Chelsea,Sparta Prague,1,1,,,,0
-1361477100,Bordeaux,Dyn. Kyiv,1,0,,,,0
-1361477100,Benfica,Bayer Leverkusen,2,1,,,,0
-1362675600,FK Anzi Makhackala,Newcastle,0,0,,,,0
-1362679200,Stuttgart,Lazio,0,2,,,,0
-1362679200,Plzen,Fenerbahce,0,1,,,,0
-1362679200,FCSB,Chelsea,1,0,,,,0
-1362686700,Tottenham,Inter,3,0,,,,0
-1362686700,Levante,Rubin Kazan,0,0,,,,0
-1362686700,Benfica,Bordeaux,1,0,,,,0
-1362686700,Basel,Zenit,2,0,,,,0
-1363280400,Zenit,Basel,1,0,,,,0
-1363280400,Rubin Kazan,Levante,0,0,AET,2,0,0
-1363284000,Inter,Tottenham,3,0,AET,4,1,0
-1363291500,Newcastle,FK Anzi Makhackala,1,0,,,,0
-1363291500,Lazio,Stuttgart,3,1,,,,0
-1363291500,Fenerbahce,Plzen,1,1,,,,0
-1363291500,Chelsea,FCSB,3,1,,,,0
-1363291500,Bordeaux,Benfica,2,3,,,,0
-1365102300,Tottenham,Basel,2,2,,,,0
-1365102300,Fenerbahce,Lazio,2,0,,,,0
-1365102300,Chelsea,Rubin Kazan,3,1,,,,0
-1365102300,Benfica,Newcastle,3,1,,,,0
-1365696000,Rubin Kazan,Chelsea,3,2,,,,0
-1365707100,Newcastle,Benfica,1,1,,,,0
-1365707100,Lazio,Fenerbahce,1,1,,,,0
-1365707100,Basel,Tottenham,2,2,Pen,3,2,0
-1366916700,Fenerbahce,Benfica,1,0,,,,0
-1366916700,Basel,Chelsea,1,2,,,,0
-1367521500,Chelsea,Basel,3,1,,,,0
-1367521500,Benfica,Fenerbahce,3,1,,,,0
-1368643500,Benfica,Chelsea,1,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1341329400,Vikingur (Fai),FC Gomel (Blr),xScZ0U2I,8IAnrpV2,0,6,,,,0
+1341329400,Shkendija (Mkd),Portadown (Nir),f3OURrqn,C6HCzrGT,0,0,,,,0
+1341500400,Khazar Lenkoran (Aze),Kalju (Est),x4Xh4Pu0,2PLiHUjM,2,2,,,,0
+1341502200,Renova (Mkd),Libertas (San),WrjrBuU2,tMgHdBpr,4,0,,,,0
+1341502200,Narva (Est),Shamakhi (Aze),xv6lkb7q,M9hXKgAI,0,5,,,,0
+1341502200,KuPS (Fin),Llanelli (Wal),tE5VOoRI,zcb1Gz6r,2,1,,,,0
+1341502200,Jagodina (Srb),Ordabasy (Kaz),Mot7ytA3,rB9GKJTe,0,1,,,,0
+1341503100,Levadia (Est),Siauliai (Ltu),x28DBGvr,zasGo2ad,1,0,,,,0
+1341504000,Rudar (Mne),Shirak Gyumri (Arm),KfNVySaO,2ajBCmYJ,0,1,,,,0
+1341504000,Pyunik Yerevan (Arm),Zeta (Mne),zkO8QgRo,vLDFhvIU,0,3,,,,0
+1341504000,JJK Jyvaskyla (Fin),Stabaek (Nor),xv6lkb7q,A1TIJ1Y1,2,0,,,,0
+1341504000,FK Baku (Aze),Mura (Slo),bDYl55Qg,UcUjoAI7,0,0,,,,0
+1341504000,Elfsborg (Swe),Floriana (Mlt),tl2CILaH,xGkXZymr,8,0,,,,0
+1341505800,Suduva (Ltu),FC Daugava (Lat),zeD1tvmN,v3b841Xb,0,1,,,,0
+1341505800,Differdange (Lux),NSI Runavik (Fai),GlTeTYJC,hhkDzDYF,3,0,,,,0
+1341505800,Dacia Chisinau (Mda),Celje (Slo),G6lyZe2l,juuH5vx4,1,0,,,,0
+1341507600,Torpedo Kutaisi (Geo),Aktobe (Kaz),6FX7qLsb,M1habVsD,1,1,,,,0
+1341507600,KF Tirana (Alb),Grevenmacher (Lux),4n770DLk,YB20ndi2,2,0,,,,0
+1341507600,Birkirkara (Mlt),Met. Skopje (Mkd),rDY9klCL,QTF8oS5s,2,2,,,,0
+1341509400,FK Sarajevo (Bih),Hibernians (Mlt),0E8MOvRd,WrjrBuU2,5,2,,,,0
+1341509400,FC Santa Coloma (And),Osijek (Cro),Uik4ihaC,x4Xh4Pu0,0,1,,,,0
+1341510300,Twente (Ned),UE Santa Coloma (And),4vob7cTR,2aQZ1RRP,6,0,,,,0
+1341511200,Streymur (Fai),Syunik (Arm),S6wQRveL,ji1LkT8q,3,1,,,,0
+1341511200,O. Ljubljana (Slo),Jeunesse Esch (Lux),zc0A80Mi,IqhLeVal,3,0,,,,0
+1341511200,Lech Poznan (Pol),Zhetysu Taldykorgan (Kaz),lCvEmFL0,KIZqh8Pq,2,0,,,,0
+1341512100,MTK Budapest (Hun),Senica (Svk),06r6gWo9,G6ERMxTE,1,1,,,,0
+1341513000,Teuta (Alb),Rustavi (Geo),lriBSRvS,WvdjqzuG,0,3,,,,0
+1341513000,La Fiorita (San),FK Liepaja (Lat),IqhLeVal,tfJgPT4F,0,2,,,,0
+1341513000,Flamurtari (Alb),Honved (Hun),2wkwcX52,0bbECxUd,0,1,,,,0
+1341513000,Druids (Wal),MyPa (Fin),SMBaWRPd,hGuhahGg,0,0,,,,0
+1341513900,St. Patricks (Irl),Vestmannaeyjar (Ice),QajnhZH5,GhaBLUZO,1,0,,,,0
+1341513900,Cliftonville (Nir),Kalmar (Swe),OGT1hbmr,CSvriyX1,1,0,,,,0
+1341513900,Bohemians (Irl),Thor Akureyri (Ice),CncX9yM3,88ByecJ3,0,0,,,,0
+1341513900,Bangor City (Wal),Zimbru Chisinau (Mda),UNZg5BP0,QcBOsqL0,0,0,,,,0
+1341514800,Crusaders (Nir),Rosenborg (Nor),6BBVz3Rq,nq6bPf0N,0,3,,,,0
+1341515100,Borac Banja Luka (Bih),Celik Niksic (Mne),pYGu6ZOp,bRJp42Nu,2,2,,,,0
+1341515700,Hafnarfjordur (Ice),Eschen/Mauren (Lie),K4lZsY9J,nqbWG6PS,2,1,,,,0
+1341934200,Floriana (Mlt),Elfsborg (Swe),xGkXZymr,tl2CILaH,0,4,,,,0
+1341935100,Kalju (Est),Khazar Lenkoran (Aze),2PLiHUjM,x4Xh4Pu0,0,2,,,,0
+1341935100,Grevenmacher (Lux),KF Tirana (Alb),YB20ndi2,4n770DLk,0,0,,,,0
+1341945900,Portadown (Nir),Shkendija (Mkd),C6HCzrGT,f3OURrqn,2,1,,,,0
+1342094400,Zhetysu Taldykorgan (Kaz),Lech Poznan (Pol),KIZqh8Pq,lCvEmFL0,1,1,,,,0
+1342101600,Shirak Gyumri (Arm),Rudar (Mne),2ajBCmYJ,KfNVySaO,1,1,,,,0
+1342101600,Rustavi (Geo),Teuta (Alb),WvdjqzuG,lriBSRvS,6,1,,,,0
+1342101600,Ordabasy (Kaz),Jagodina (Srb),rB9GKJTe,Mot7ytA3,0,0,,,,0
+1342105200,Syunik (Arm),Streymur (Fai),ji1LkT8q,S6wQRveL,2,0,,,,0
+1342105200,Met. Skopje (Mkd),Birkirkara (Mlt),QTF8oS5s,rDY9klCL,0,0,,,,0
+1342105200,Aktobe (Kaz),Torpedo Kutaisi (Geo),M1habVsD,6FX7qLsb,1,0,,,,0
+1342107000,Celik Niksic (Mne),Borac Banja Luka (Bih),bRJp42Nu,pYGu6ZOp,1,1,,,,0
+1342108800,Siauliai (Ltu),Levadia (Est),zasGo2ad,x28DBGvr,2,1,,,,0
+1342108800,Shamakhi (Aze),Narva (Est),M9hXKgAI,xv6lkb7q,2,0,,,,0
+1342108800,Jeunesse Esch (Lux),O. Ljubljana (Slo),IqhLeVal,zc0A80Mi,0,3,,,,0
+1342108800,FK Liepaja (Lat),La Fiorita (San),tfJgPT4F,IqhLeVal,4,0,,,,0
+1342108800,FC Gomel (Blr),Vikingur (Fai),8IAnrpV2,xScZ0U2I,4,0,,,,0
+1342108800,FC Daugava (Lat),Suduva (Ltu),v3b841Xb,zeD1tvmN,2,3,,,,0
+1342110600,Zimbru Chisinau (Mda),Bangor City (Wal),QcBOsqL0,UNZg5BP0,2,1,,,,0
+1342110600,MyPa (Fin),Druids (Wal),hGuhahGg,SMBaWRPd,5,0,,,,0
+1342112400,Stabaek (Nor),JJK Jyvaskyla (Fin),A1TIJ1Y1,xv6lkb7q,3,2,,,,0
+1342112400,Rosenborg (Nor),Crusaders (Nir),nq6bPf0N,6BBVz3Rq,1,0,,,,0
+1342112400,Kalmar (Swe),Cliftonville (Nir),CSvriyX1,OGT1hbmr,4,0,,,,0
+1342114200,UE Santa Coloma (And),Twente (Ned),2aQZ1RRP,4vob7cTR,0,3,,,,0
+1342114200,Senica (Svk),MTK Budapest (Hun),G6ERMxTE,06r6gWo9,2,1,,,,0
+1342114200,NSI Runavik (Fai),Differdange (Lux),hhkDzDYF,GlTeTYJC,0,3,,,,0
+1342114200,Llanelli (Wal),KuPS (Fin),zcb1Gz6r,tE5VOoRI,1,1,,,,0
+1342114200,Hibernians (Mlt),FK Sarajevo (Bih),WrjrBuU2,0E8MOvRd,4,4,,,,0
+1342114200,Eschen/Mauren (Lie),Hafnarfjordur (Ice),nqbWG6PS,K4lZsY9J,0,1,,,,0
+1342116000,Zeta (Mne),Pyunik Yerevan (Arm),vLDFhvIU,zkO8QgRo,1,2,,,,0
+1342116000,Osijek (Cro),FC Santa Coloma (And),x4Xh4Pu0,Uik4ihaC,3,1,,,,0
+1342116000,Mura (Slo),FK Baku (Aze),UcUjoAI7,bDYl55Qg,2,0,,,,0
+1342116000,Celje (Slo),Dacia Chisinau (Mda),juuH5vx4,G6lyZe2l,0,1,,,,0
+1342117800,Thor Akureyri (Ice),Bohemians (Irl),88ByecJ3,CncX9yM3,5,1,,,,0
+1342117800,Libertas (San),Renova (Mkd),tMgHdBpr,WrjrBuU2,0,4,,,,0
+1342117800,Honved (Hun),Flamurtari (Alb),0bbECxUd,2wkwcX52,2,0,,,,0
+1342121400,Vestmannaeyjar (Ice),St. Patricks (Irl),GhaBLUZO,QajnhZH5,1,0,AET,2,1,0
+1342710000,Naftan (Blr),Crvena zvezda (Srb),E7NOD7nb,4OAEfiPE,3,4,,,,0
+1342710000,Milsami (Mda),Aktobe (Kaz),G6lyZe2l,M1habVsD,4,2,,,,0
+1342710000,Khazar Lenkoran (Aze),Lech Poznan (Pol),x4Xh4Pu0,lCvEmFL0,1,1,,,,0
+1342710000,FK Liepaja (Lat),Legia (Pol),tfJgPT4F,rgYuXGKm,2,2,,,,0
+1342710000,FK Anzi Makhackala (Rus),Honved (Hun),UZNHUPL0,0bbECxUd,1,0,,,,0
+1342711800,Renova (Mkd),FC Gomel (Blr),WrjrBuU2,8IAnrpV2,0,2,,,,0
+1342711800,Lok. Plovdiv (Bul),Vitesse (Ned),KtjRAU38,hxcLpNd6,4,4,,,,0
+1342712700,Levadia (Est),Anorthosis (Cyp),x28DBGvr,pEI2BJMo,1,3,,,,0
+1342713600,Shamakhi (Aze),Asteras Tripolis (Gre),M9hXKgAI,SKrEYwI8,1,1,,,,0
+1342713600,Rustavi (Geo),Plzen (Cze),WvdjqzuG,bVBL6l7j,1,3,,,,0
+1342713600,O. Ljubljana (Slo),Tromso (Nor),zc0A80Mi,G8POEjDp,0,0,,,,0
+1342713600,JJK Jyvaskyla (Fin),Zeta (Mne),xv6lkb7q,vLDFhvIU,3,2,,,,0
+1342715400,Shakhtyor Soligorsk (Blr),Ried (Aut),AT53cBWn,baDxm2ON,1,1,,,,0
+1342715400,Differdange (Lux),Gent (Bel),GlTeTYJC,ETUaLGDL,0,1,,,,0
+1342717200,Trnava (Svk),Sligo Rovers (Irl),M5OsNcYB,4zJqyaPk,3,1,,,,0
+1342717200,Slaven Belupo (Cro),Portadown (Nir),xluSzFWQ,C6HCzrGT,6,0,,,,0
+1342717200,Ruch Chorzow (Pol),Met. Skopje (Mkd),2FYvdV3F,QTF8oS5s,3,1,,,,0
+1342717200,Rosenborg (Nor),Ordabasy (Kaz),nq6bPf0N,rB9GKJTe,2,2,,,,0
+1342717200,Mlada Boleslav (Cze),Thor Akureyri (Ice),CzkWjcLk,88ByecJ3,3,0,,,,0
+1342717200,Met. Donetsk (Ukr),Celik Niksic (Mne),f5csGSwJ,bRJp42Nu,7,0,,,,0
+1342717200,Levski Sofia (Bul),FK Sarajevo (Bih),OvIM8T6I,0E8MOvRd,1,0,,,,0
+1342717200,KF Tirana (Alb),Aalesund (Nor),4n770DLk,QBQwYJis,1,1,,,,0
+1342717200,Eskisehirspor (Tur),St Johnstone (Sco),MB1nlDk2,CdY02UC4,2,0,,,,0
+1342717200,Bnei Yehuda (Isr),Shirak Gyumri (Arm),8zGbtM5N,2ajBCmYJ,2,0,,,,0
+1342717200,APOEL (Cyp),Senica (Svk),dM5j1Xkq,G6ERMxTE,2,0,,,,0
+1342717200,AIK (Swe),Hafnarfjordur (Ice),2c38J1pB,K4lZsY9J,1,1,,,,0
+1342717200,Aarhus (Den),Dila Gori (Geo),hGuhahGg,WfpuTxB8,1,2,,,,0
+1342718100,Dacia Chisinau (Mda),Elfsborg (Swe),G6lyZe2l,tl2CILaH,1,0,,,,0
+1342719000,Zalgiris (Ltu),Admira (Aut),CK4bnx4C,IeGa2GZS,1,1,,,,0
+1342719000,Young Boys (Sui),Zimbru Chisinau (Mda),KGWqWzzf,QcBOsqL0,1,0,,,,0
+1342719000,FC Rapid Bucuresti (Rou),MyPa (Fin),8vn2oaqs,hGuhahGg,3,1,,,,0
+1342719900,Twente (Ned),Inter Turku (Fin),4vob7cTR,lGvMSKuF,1,1,,,,0
+1342719900,Servette (Sui),Syunik (Arm),vJvKsfHT,ji1LkT8q,2,0,,,,0
+1342720800,Osijek (Cro),Kalmar (Swe),x4Xh4Pu0,CSvriyX1,1,3,,,,0
+1342720800,Netanya (Isr),KuPS (Fin),vk5aQxpF,tE5VOoRI,1,2,,,,0
+1342720800,Mura (Slo),CSKA Sofia (Bul),UcUjoAI7,fRtHs98a,0,0,,,,0
+1342721700,Slovan Bratislava (Svk),Videoton (Hun),pEAU6ugI,r9YXWu9h,1,1,,,,0
+1342722600,Vojvodina (Srb),Suduva (Ltu),W6nj7k39,zeD1tvmN,1,1,,,,0
+1342722600,Hajduk Split (Cro),Skonto (Lat),Mc6FcsjL,MaoY8XU2,2,0,,,,0
+1342724400,Siroki Brijeg (Bih),St. Patricks (Irl),AyQfPETk,QajnhZH5,1,1,,,,0
+1343309400,Shirak Gyumri (Arm),Bnei Yehuda (Isr),2ajBCmYJ,8zGbtM5N,0,1,,,,0
+1343311200,Ordabasy (Kaz),Rosenborg (Nor),rB9GKJTe,nq6bPf0N,1,2,,,,0
+1343311200,Dila Gori (Geo),Aarhus (Den),WfpuTxB8,hGuhahGg,3,1,,,,0
+1343314800,Syunik (Arm),Servette (Sui),ji1LkT8q,vJvKsfHT,1,3,,,,0
+1343314800,Met. Skopje (Mkd),Ruch Chorzow (Pol),QTF8oS5s,2FYvdV3F,0,3,,,,0
+1343316600,KuPS (Fin),Netanya (Isr),tE5VOoRI,vk5aQxpF,0,1,,,,0
+1343316600,Celik Niksic (Mne),Met. Donetsk (Ukr),bRJp42Nu,f5csGSwJ,2,4,,,,0
+1343318400,Inter Turku (Fin),Twente (Ned),lGvMSKuF,4vob7cTR,0,5,,,,0
+1343318400,FC Gomel (Blr),Renova (Mkd),8IAnrpV2,WrjrBuU2,0,1,,,,0
+1343318400,Elfsborg (Swe),Dacia Chisinau (Mda),tl2CILaH,G6lyZe2l,2,0,,,,0
+1343318400,Aktobe (Kaz),Milsami (Mda),M1habVsD,G6lyZe2l,3,0,,,,0
+1343320200,Suduva (Ltu),Vojvodina (Srb),zeD1tvmN,W6nj7k39,0,4,,,,0
+1343320200,MyPa (Fin),FC Rapid Bucuresti (Rou),hGuhahGg,8vn2oaqs,0,2,,,,0
+1343320200,Honved (Hun),FK Anzi Makhackala (Rus),0bbECxUd,UZNHUPL0,0,4,,,,0
+1343322000,Tromso (Nor),O. Ljubljana (Slo),G8POEjDp,zc0A80Mi,0,0,AET,1,0,0
+1343322000,Ried (Aut),Shakhtyor Soligorsk (Blr),baDxm2ON,AT53cBWn,0,0,,,,0
+1343322000,Kalmar (Swe),Osijek (Cro),CSvriyX1,x4Xh4Pu0,3,0,,,,0
+1343322000,CSKA Sofia (Bul),Mura (Slo),fRtHs98a,UcUjoAI7,1,1,,,,0
+1343322000,Asteras Tripolis (Gre),Shamakhi (Aze),SKrEYwI8,M9hXKgAI,1,1,Pen,2,1,0
+1343322000,Anorthosis (Cyp),Levadia (Est),pEI2BJMo,x28DBGvr,3,0,,,,0
+1343322000,Aalesund (Nor),KF Tirana (Alb),QBQwYJis,4n770DLk,5,0,,,,0
+1343322900,Zimbru Chisinau (Mda),Young Boys (Sui),QcBOsqL0,KGWqWzzf,1,0,Pen,1,1,0
+1343323800,Senica (Svk),APOEL (Cyp),G6ERMxTE,dM5j1Xkq,0,1,,,,0
+1343323800,Gent (Bel),Differdange (Lux),ETUaLGDL,GlTeTYJC,3,2,,,,0
+1343325600,Zeta (Mne),JJK Jyvaskyla (Fin),vLDFhvIU,xv6lkb7q,1,0,,,,0
+1343325600,Vitesse (Ned),Lok. Plovdiv (Bul),hxcLpNd6,KtjRAU38,3,1,,,,0
+1343325600,Sligo Rovers (Irl),Trnava (Svk),4zJqyaPk,M5OsNcYB,1,1,,,,0
+1343325600,Plzen (Cze),Rustavi (Geo),bVBL6l7j,WvdjqzuG,2,0,,,,0
+1343325600,Lech Poznan (Pol),Khazar Lenkoran (Aze),lCvEmFL0,x4Xh4Pu0,1,0,,,,0
+1343327400,Videoton (Hun),Slovan Bratislava (Svk),r9YXWu9h,pEAU6ugI,0,0,,,,0
+1343327400,Skonto (Lat),Hajduk Split (Cro),MaoY8XU2,Mc6FcsjL,1,0,,,,0
+1343327400,Legia (Pol),FK Liepaja (Lat),rgYuXGKm,tfJgPT4F,5,1,,,,0
+1343327400,Crvena zvezda (Srb),Naftan (Blr),4OAEfiPE,E7NOD7nb,3,3,,,,0
+1343328300,St. Patricks (Irl),Siroki Brijeg (Bih),QajnhZH5,AyQfPETk,1,1,AET,2,1,0
+1343328300,St Johnstone (Sco),Eskisehirspor (Tur),CdY02UC4,MB1nlDk2,1,1,,,,0
+1343328300,Portadown (Nir),Slaven Belupo (Cro),C6HCzrGT,xluSzFWQ,2,4,,,,0
+1343329200,FK Sarajevo (Bih),Levski Sofia (Bul),0E8MOvRd,OvIM8T6I,3,1,,,,0
+1343329500,Admira (Aut),Zalgiris (Ltu),IeGa2GZS,CK4bnx4C,5,1,,,,0
+1343330100,Thor Akureyri (Ice),Mlada Boleslav (Cze),88ByecJ3,CzkWjcLk,0,1,,,,0
+1343330100,Hafnarfjordur (Ice),AIK (Swe),K4lZsY9J,2c38J1pB,0,1,,,,0
+1343919600,FK Anzi Makhackala (Rus),Vitesse (Ned),UZNHUPL0,hxcLpNd6,2,0,,,,0
+1343921400,KuPS (Fin),Bursaspor (Tur),tE5VOoRI,YmCZKGcR,1,0,,,,0
+1343923200,Dila Gori (Geo),Anorthosis (Cyp),WfpuTxB8,pEI2BJMo,0,1,,,,0
+1343923200,Arsenal Kiev (Ukr),Mura (Slo),tneUjJf7,UcUjoAI7,3,0,,,,0
+1343926800,Tromso (Nor),Met. Donetsk (Ukr),G8POEjDp,f5csGSwJ,1,1,,,,0
+1343926800,Ruch Chorzow (Pol),Plzen (Cze),2FYvdV3F,bVBL6l7j,0,2,,,,0
+1343926800,Ried (Aut),Legia (Pol),baDxm2ON,rgYuXGKm,2,1,,,,0
+1343926800,Kalmar (Swe),Young Boys (Sui),CSvriyX1,KGWqWzzf,1,0,,,,0
+1343926800,Bnei Yehuda (Isr),PAOK (Gre),8zGbtM5N,pvWT1yik,0,2,,,,0
+1343926800,APOEL (Cyp),Aalesund (Nor),dM5j1Xkq,QBQwYJis,2,1,,,,0
+1343926800,AIK (Swe),Lech Poznan (Pol),2c38J1pB,lCvEmFL0,3,0,,,,0
+1343928600,Heerenveen (Ned),FC Rapid Bucuresti (Rou),4vob7cTR,8vn2oaqs,4,0,,,,0
+1343929500,Twente (Ned),Mlada Boleslav (Cze),4vob7cTR,CzkWjcLk,2,0,,,,0
+1343929500,Servette (Sui),Rosenborg (Nor),vJvKsfHT,nq6bPf0N,1,1,,,,0
+1343929500,FCSB (Rou),Trnava (Svk),SCh1iPaa,M5OsNcYB,0,1,,,,0
+1343930400,Genk (Bel),Aktobe (Kaz),YB0frRRP,M1habVsD,2,1,,,,0
+1343930400,FC Gomel (Blr),Liverpool (Eng),8IAnrpV2,KCp4zq5F,0,1,,,,0
+1343930400,Asteras Tripolis (Gre),Maritimo (Por),SKrEYwI8,MyFeHWzn,1,1,,,,0
+1343931300,Horsens (Den),Elfsborg (Swe),hGuhahGg,tl2CILaH,1,1,,,,0
+1343932200,Videoton (Hun),Gent (Bel),r9YXWu9h,ETUaLGDL,1,0,,,,0
+1343932200,Crvena zvezda (Srb),Omonia (Cyp),4OAEfiPE,8GeT5Kmk,0,0,,,,0
+1343933100,St. Patricks (Irl),Hannover (Ger),QajnhZH5,n7lWn9DL,0,3,,,,0
+1343933100,Hajduk Split (Cro),Inter (Ita),Mc6FcsjL,jDrBQiMS,0,3,,,,0
+1343933100,Eskisehirspor (Tur),Marseille (Fra),MB1nlDk2,voNnDKJK,1,1,,,,0
+1343933100,Dundee Utd (Sco),Dynamo Moscow (Rus),hEvkcVY1,WrST4g30,2,2,,,,0
+1343934000,Vojvodina (Srb),SK Rapid (Aut),W6nj7k39,QNSj0PU1,2,1,,,,0
+1343934000,FK Sarajevo (Bih),Zeta (Mne),0E8MOvRd,vLDFhvIU,2,1,,,,0
+1343934000,Ath Bilbao (Esp),Slaven Belupo (Cro),vJb36ZBF,xluSzFWQ,3,1,,,,0
+1343934300,Admira (Aut),Sparta Prague (Cze),IeGa2GZS,lWOFh0RD,0,2,,,,0
+1344528000,Omonia (Cyp),Crvena zvezda (Srb),8GeT5Kmk,4OAEfiPE,0,0,Pen,0,1,0
+1344528000,Elfsborg (Swe),Horsens (Den),tl2CILaH,hGuhahGg,2,3,,,,0
+1344528000,Dynamo Moscow (Rus),Dundee Utd (Sco),WrST4g30,hEvkcVY1,5,0,,,,0
+1344528000,Aktobe (Kaz),Genk (Bel),M1habVsD,YB0frRRP,1,2,,,,0
+1344530700,Slaven Belupo (Cro),Ath Bilbao (Esp),xluSzFWQ,vJb36ZBF,2,1,,,,0
+1344531600,Rosenborg (Nor),Servette (Sui),nq6bPf0N,vJvKsfHT,0,0,,,,0
+1344531600,Mlada Boleslav (Cze),Twente (Ned),CzkWjcLk,4vob7cTR,0,2,,,,0
+1344531600,Met. Donetsk (Ukr),Tromso (Nor),f5csGSwJ,G8POEjDp,0,1,,,,0
+1344531600,Legia (Pol),Ried (Aut),rgYuXGKm,baDxm2ON,3,1,,,,0
+1344531600,Anorthosis (Cyp),Dila Gori (Geo),pEI2BJMo,WfpuTxB8,0,3,,,,0
+1344531600,Aalesund (Nor),APOEL (Cyp),QBQwYJis,dM5j1Xkq,0,1,,,,0
+1344533400,Young Boys (Sui),Kalmar (Swe),KGWqWzzf,CSvriyX1,3,0,,,,0
+1344533400,Trnava (Svk),FCSB (Rou),M5OsNcYB,SCh1iPaa,0,3,,,,0
+1344533400,Gent (Bel),Videoton (Hun),ETUaLGDL,r9YXWu9h,0,3,,,,0
+1344535200,Zeta (Mne),FK Sarajevo (Bih),vLDFhvIU,0E8MOvRd,1,0,,,,0
+1344535200,Vitesse (Ned),FK Anzi Makhackala (Rus),hxcLpNd6,UZNHUPL0,0,2,,,,0
+1344535200,Sparta Prague (Cze),Admira (Aut),lWOFh0RD,IeGa2GZS,2,2,,,,0
+1344535200,Plzen (Cze),Ruch Chorzow (Pol),bVBL6l7j,2FYvdV3F,5,0,,,,0
+1344535200,PAOK (Gre),Bnei Yehuda (Isr),pvWT1yik,8zGbtM5N,4,1,,,,0
+1344535200,Mura (Slo),Arsenal Kiev (Ukr),UcUjoAI7,tneUjJf7,0,2,,,,0
+1344535200,Lech Poznan (Pol),AIK (Swe),lCvEmFL0,2c38J1pB,1,0,,,,0
+1344537000,Hannover (Ger),St. Patricks (Irl),n7lWn9DL,QajnhZH5,2,0,,,,0
+1344537000,FC Rapid Bucuresti (Rou),Heerenveen (Ned),8vn2oaqs,4vob7cTR,1,0,,,,0
+1344537000,Bursaspor (Tur),KuPS (Fin),YmCZKGcR,tE5VOoRI,6,0,,,,0
+1344537900,Marseille (Fra),Eskisehirspor (Tur),voNnDKJK,MB1nlDk2,3,0,,,,0
+1344537900,Inter (Ita),Hajduk Split (Cro),jDrBQiMS,Mc6FcsjL,0,2,,,,0
+1344538800,Maritimo (Por),Asteras Tripolis (Gre),MyFeHWzn,SKrEYwI8,0,0,,,,0
+1344539100,SK Rapid (Aut),Vojvodina (Srb),QNSj0PU1,W6nj7k39,2,0,,,,0
+1344539100,Liverpool (Eng),FC Gomel (Blr),KCp4zq5F,8IAnrpV2,3,0,,,,0
+1345652100,Stuttgart (Ger),Dynamo Moscow (Rus),f1Z3XxZa,WrST4g30,2,0,,,,0
+1345737600,Neftci Baku (Aze),APOEL (Cyp),C4C6wm62,dM5j1Xkq,1,1,,,,0
+1345737600,FK Anzi Makhackala (Rus),AZ Alkmaar (Ned),UZNHUPL0,4vob7cTR,1,0,,,,0
+1345739400,Tromso (Nor),Partizan (Srb),G8POEjDp,prjDOVbf,3,2,,,,0
+1345740300,Ekranas (Ltu),FCSB (Rou),KGWqWzzf,SCh1iPaa,0,2,,,,0
+1345741200,Sheriff Tiraspol (Mda),Marseille (Fra),zVD8QVhN,voNnDKJK,1,2,,,,0
+1345741200,Molde (Nor),Heerenveen (Ned),baDaGjjh,4vob7cTR,2,0,,,,0
+1345741200,Liberec (Cze),Dnipro (Ukr),GpqMVQ8j,xbUiUE46,2,2,,,,0
+1345741200,Legia (Pol),Rosenborg (Nor),rgYuXGKm,nq6bPf0N,1,1,,,,0
+1345741200,Atromitos (Gre),Newcastle (Eng),2ahZzWpF,ImMEe0UF,1,1,,,,0
+1345741200,AIK (Swe),CSKA Moscow (Rus),2c38J1pB,nHLPS3jD,0,1,,,,0
+1345743000,Luzern (Sui),Genk (Bel),n7K4dyrM,YB0frRRP,2,1,,,,0
+1345743000,Din. Bucuresti (Rou),Metalist Kharkiv (Ukr),EyedO184,MgWJDIOI,0,2,,,,0
+1345743000,Bursaspor (Tur),Twente (Ned),YmCZKGcR,4vob7cTR,3,1,,,,0
+1345744800,Trabzonspor (Tur),Videoton (Hun),MobtE80i,r9YXWu9h,0,0,,,,0
+1345744800,Feyenoord (Ned),Sparta Prague (Cze),Wz6bfhxO,lWOFh0RD,2,2,,,,0
+1345744800,Dudelange (Lux),Hapoel Tel Aviv (Isr),rkYlaIFp,UeZOJs03,1,3,,,,0
+1345745700,Midtjylland (Den),Young Boys (Sui),nw9UOsY3,KGWqWzzf,0,3,,,,0
+1345746600,PAOK (Gre),SK Rapid (Aut),pvWT1yik,QNSj0PU1,2,1,,,,0
+1345746600,Lokeren (Bel),Plzen (Cze),Iw55ueQk,bVBL6l7j,2,1,,,,0
+1345746600,Debrecen (Hun),Club Brugge KV (Bel),CMHdHsML,44lq3LsP,0,3,,,,0
+1345747500,Sporting Vaslui (Rou),Inter (Ita),EJgv6Oot,jDrBQiMS,0,2,,,,0
+1345747500,Slask Wroclaw (Pol),Hannover (Ger),CrPl0Jrc,n7lWn9DL,3,5,,,,0
+1345747500,Motherwell (Sco),Levante (Esp),xGFNNID8,8toS1iya,0,2,,,,0
+1345747500,Hearts (Sco),Liverpool (Eng),GlTeTYJC,KCp4zq5F,0,1,,,,0
+1345748400,Zeta (Mne),PSV (Ned),vLDFhvIU,j5zA1baQ,0,5,,,,0
+1345748400,Mura (Slo),Lazio (Ita),UcUjoAI7,fL3dmxxd,0,2,,,,0
+1345748400,Maritimo (Por),Dila Gori (Geo),MyFeHWzn,WfpuTxB8,1,0,,,,0
+1345748400,Horsens (Den),Sporting CP (Por),hGuhahGg,Ys9o4HYr,1,1,,,,0
+1345748400,Crvena zvezda (Srb),Bordeaux (Fra),4OAEfiPE,6BghNX0a,0,0,,,,0
+1345748400,Ath Bilbao (Esp),HJK (Fin),vJb36ZBF,xO7wlFSD,6,0,,,,0
+1346169600,Dynamo Moscow (Rus),Stuttgart (Ger),WrST4g30,f1Z3XxZa,1,1,,,,0
+1346342400,Dnipro (Ukr),Liberec (Cze),xbUiUE46,GpqMVQ8j,4,2,,,,0
+1346342400,Dila Gori (Geo),Maritimo (Por),WfpuTxB8,MyFeHWzn,0,2,,,,0
+1346346000,Rosenborg (Nor),Legia (Pol),nq6bPf0N,rgYuXGKm,2,1,,,,0
+1346346000,PSV (Ned),Zeta (Mne),j5zA1baQ,vLDFhvIU,9,0,,,,0
+1346346000,HJK (Fin),Ath Bilbao (Esp),xO7wlFSD,vJb36ZBF,3,3,,,,0
+1346346000,Heerenveen (Ned),Molde (Nor),4vob7cTR,baDaGjjh,1,2,,,,0
+1346346000,Hapoel Tel Aviv (Isr),Dudelange (Lux),UeZOJs03,rkYlaIFp,4,0,,,,0
+1346346000,CSKA Moscow (Rus),AIK (Swe),nHLPS3jD,2c38J1pB,0,2,,,,0
+1346346000,APOEL (Cyp),Neftci Baku (Aze),dM5j1Xkq,C4C6wm62,1,3,,,,0
+1346347800,Young Boys (Sui),Midtjylland (Den),KGWqWzzf,nw9UOsY3,0,2,,,,0
+1346347800,Sparta Prague (Cze),Feyenoord (Ned),lWOFh0RD,Wz6bfhxO,2,0,,,,0
+1346347800,FCSB (Rou),Ekranas (Ltu),SCh1iPaa,KGWqWzzf,3,0,,,,0
+1346349600,Metalist Kharkiv (Ukr),Din. Bucuresti (Rou),MgWJDIOI,EyedO184,2,1,,,,0
+1346349600,Genk (Bel),Luzern (Sui),YB0frRRP,n7K4dyrM,2,0,,,,0
+1346350500,Plzen (Cze),Lokeren (Bel),bVBL6l7j,Iw55ueQk,1,0,,,,0
+1346351400,Videoton (Hun),Trabzonspor (Tur),r9YXWu9h,MobtE80i,0,0,Pen,1,0,0
+1346351400,Marseille (Fra),Sheriff Tiraspol (Mda),voNnDKJK,zVD8QVhN,0,0,,,,0
+1346351400,Club Brugge KV (Bel),Debrecen (Hun),44lq3LsP,CMHdHsML,4,1,,,,0
+1346351400,Bordeaux (Fra),Crvena zvezda (Srb),6BghNX0a,4OAEfiPE,3,2,,,,0
+1346352300,SK Rapid (Aut),PAOK (Gre),QNSj0PU1,pvWT1yik,3,0,,,,0
+1346352300,Partizan (Srb),Tromso (Nor),prjDOVbf,G8POEjDp,1,0,,,,0
+1346352300,Levante (Esp),Motherwell (Sco),8toS1iya,xGFNNID8,1,0,,,,0
+1346352300,Inter (Ita),Sporting Vaslui (Rou),jDrBQiMS,EJgv6Oot,2,2,,,,0
+1346352300,Hannover (Ger),Slask Wroclaw (Pol),n7lWn9DL,CrPl0Jrc,5,1,,,,0
+1346353200,Twente (Ned),Bursaspor (Tur),4vob7cTR,YmCZKGcR,3,1,AET,4,1,0
+1346353200,Newcastle (Eng),Atromitos (Gre),ImMEe0UF,2ahZzWpF,1,0,,,,0
+1346353200,Lazio (Ita),Mura (Slo),fL3dmxxd,UcUjoAI7,3,1,,,,0
+1346353200,AZ Alkmaar (Ned),FK Anzi Makhackala (Rus),4vob7cTR,UZNHUPL0,0,5,,,,0
+1346353500,Liverpool (Eng),Hearts (Sco),KCp4zq5F,GlTeTYJC,1,1,,,,0
+1346355000,Sporting CP (Por),Horsens (Den),Ys9o4HYr,hGuhahGg,5,0,,,,0
+1348160400,Young Boys,Liverpool,KGWqWzzf,KCp4zq5F,3,5,,,,0
+1348160400,Udinese,FK Anzi Makhackala,SYw7EcY6,UZNHUPL0,1,1,,,,0
+1348160400,Stuttgart,FCSB,f1Z3XxZa,SCh1iPaa,2,2,,,,0
+1348160400,Plzen,Academica,bVBL6l7j,jXCM4Mcr,3,1,,,,0
+1348160400,Napoli,AIK,Qcs4tGVj,2c38J1pB,4,0,,,,0
+1348160400,Maritimo,Newcastle,MyFeHWzn,ImMEe0UF,0,0,,,,0
+1348160400,Hapoel Tel Aviv,Atl. Madrid,UeZOJs03,nLBjwR1F,0,3,,,,0
+1348160400,Fenerbahce,Marseille,dENdyFfa,voNnDKJK,2,2,,,,0
+1348160400,FC Copenhagen,Molde,xv6lkb7q,baDaGjjh,2,1,,,,0
+1348160400,Dnipro,PSV,xbUiUE46,j5zA1baQ,2,0,,,,0
+1348160400,Bordeaux,Club Brugge KV,6BghNX0a,44lq3LsP,4,0,,,,0
+1348160400,AEL Limassol,B. Monchengladbach,jZcv4JNH,ncmj9JbF,0,0,,,,0
+1348167900,Twente,Hannover,4vob7cTR,n7lWn9DL,2,2,,,,0
+1348167900,Tottenham,Lazio,Ig5FKJZ5,fL3dmxxd,0,0,,,,0
+1348167900,Sporting CP,Basel,Ys9o4HYr,fPZDBkJI,0,0,,,,0
+1348167900,SK Rapid,Rosenborg,QNSj0PU1,nq6bPf0N,1,2,,,,0
+1348167900,Partizan,Neftci Baku,prjDOVbf,C4C6wm62,0,0,,,,0
+1348167900,Maribor,Panathinaikos,88sMeCH2,GM4Cu0wi,3,0,,,,0
+1348167900,Lyon,Sparta Prague,GU4hlIMk,lWOFh0RD,2,1,,,,0
+1348167900,Levante,Helsingborg,8toS1iya,2TRrus0k,1,0,,,,0
+1348167900,Inter,Rubin Kazan,jDrBQiMS,Cj3YnyW9,2,2,,,,0
+1348167900,Genk,Videoton,YB0frRRP,r9YXWu9h,3,0,,,,0
+1348167900,Bayer Leverkusen,Metalist Kharkiv,WrjrBuU2,MgWJDIOI,0,0,,,,0
+1348167900,Ath Bilbao,Kiryat Shmona,vJb36ZBF,AudDKFGO,1,1,,,,0
+1349366400,Rubin Kazan,Partizan,Cj3YnyW9,prjDOVbf,2,0,,,,0
+1349366400,Neftci Baku,Inter,C4C6wm62,jDrBQiMS,1,3,,,,0
+1349366400,FK Anzi Makhackala,Young Boys,UZNHUPL0,KGWqWzzf,2,0,,,,0
+1349370000,Videoton,Sporting CP,r9YXWu9h,Ys9o4HYr,3,0,,,,0
+1349370000,Sparta Prague,Ath Bilbao,lWOFh0RD,vJb36ZBF,3,1,,,,0
+1349370000,Rosenborg,Bayer Leverkusen,nq6bPf0N,WrjrBuU2,0,1,,,,0
+1349370000,Panathinaikos,Tottenham,GM4Cu0wi,Ig5FKJZ5,1,1,,,,0
+1349370000,Metalist Kharkiv,SK Rapid,MgWJDIOI,QNSj0PU1,2,0,,,,0
+1349370000,Lazio,Maribor,fL3dmxxd,88sMeCH2,1,0,,,,0
+1349370000,Kiryat Shmona,Lyon,AudDKFGO,GU4hlIMk,3,4,,,,0
+1349370000,Helsingborg,Twente,2TRrus0k,4vob7cTR,2,2,,,,0
+1349370000,Hannover,Levante,n7lWn9DL,8toS1iya,2,1,,,,0
+1349370000,Basel,Genk,fPZDBkJI,YB0frRRP,2,2,,,,0
+1349377500,PSV,Napoli,j5zA1baQ,Qcs4tGVj,3,0,,,,0
+1349377500,Newcastle,Bordeaux,ImMEe0UF,6BghNX0a,3,0,,,,0
+1349377500,Molde,Stuttgart,baDaGjjh,f1Z3XxZa,2,0,,,,0
+1349377500,Marseille,AEL Limassol,voNnDKJK,jZcv4JNH,5,1,,,,0
+1349377500,Liverpool,Udinese,KCp4zq5F,SYw7EcY6,2,3,,,,0
+1349377500,FCSB,FC Copenhagen,SCh1iPaa,xv6lkb7q,1,0,,,,0
+1349377500,Club Brugge KV,Maritimo,44lq3LsP,MyFeHWzn,2,0,,,,0
+1349377500,B. Monchengladbach,Fenerbahce,ncmj9JbF,dENdyFfa,2,4,,,,0
+1349377500,Atl. Madrid,Plzen,nLBjwR1F,bVBL6l7j,1,0,,,,0
+1349377500,AIK,Dnipro,2c38J1pB,xbUiUE46,2,3,,,,0
+1349377500,Academica,Hapoel Tel Aviv,jXCM4Mcr,UeZOJs03,1,1,,,,0
+1351180800,Rubin Kazan,Neftci Baku,Cj3YnyW9,C4C6wm62,1,0,,,,0
+1351184400,Videoton,Basel,r9YXWu9h,fPZDBkJI,2,1,,,,0
+1351184400,Sparta Prague,Kiryat Shmona,lWOFh0RD,AudDKFGO,3,1,,,,0
+1351184400,SK Rapid,Bayer Leverkusen,QNSj0PU1,WrjrBuU2,0,4,,,,0
+1351184400,Rosenborg,Metalist Kharkiv,nq6bPf0N,MgWJDIOI,1,2,,,,0
+1351184400,Panathinaikos,Lazio,GM4Cu0wi,fL3dmxxd,1,1,,,,0
+1351184400,Maribor,Tottenham,88sMeCH2,Ig5FKJZ5,1,1,,,,0
+1351184400,Lyon,Ath Bilbao,GU4hlIMk,vJb36ZBF,2,1,,,,0
+1351184400,Levante,Twente,8toS1iya,4vob7cTR,3,0,,,,0
+1351184400,Inter,Partizan,jDrBQiMS,prjDOVbf,1,0,,,,0
+1351184400,Helsingborg,Hannover,2TRrus0k,n7lWn9DL,1,2,,,,0
+1351184400,Genk,Sporting CP,YB0frRRP,Ys9o4HYr,2,1,,,,0
+1351191900,Young Boys,Udinese,KGWqWzzf,SYw7EcY6,3,1,,,,0
+1351191900,Stuttgart,FC Copenhagen,f1Z3XxZa,xv6lkb7q,0,0,,,,0
+1351191900,PSV,AIK,j5zA1baQ,2c38J1pB,1,1,,,,0
+1351191900,Newcastle,Club Brugge KV,ImMEe0UF,44lq3LsP,1,0,,,,0
+1351191900,Maritimo,Bordeaux,MyFeHWzn,6BghNX0a,1,1,,,,0
+1351191900,Liverpool,FK Anzi Makhackala,KCp4zq5F,UZNHUPL0,1,0,,,,0
+1351191900,Hapoel Tel Aviv,Plzen,UeZOJs03,bVBL6l7j,1,2,,,,0
+1351191900,FCSB,Molde,SCh1iPaa,baDaGjjh,2,0,,,,0
+1351191900,Dnipro,Napoli,xbUiUE46,Qcs4tGVj,3,1,,,,0
+1351191900,B. Monchengladbach,Marseille,ncmj9JbF,voNnDKJK,2,0,,,,0
+1351191900,Atl. Madrid,Academica,nLBjwR1F,jXCM4Mcr,2,1,,,,0
+1351191900,AEL Limassol,Fenerbahce,jZcv4JNH,dENdyFfa,0,1,,,,0
+1352394000,Neftci Baku,Rubin Kazan,C4C6wm62,Cj3YnyW9,0,1,,,,0
+1352394000,FK Anzi Makhackala,Liverpool,UZNHUPL0,KCp4zq5F,1,0,,,,0
+1352397600,Udinese,Young Boys,SYw7EcY6,KGWqWzzf,2,3,,,,0
+1352397600,Plzen,Hapoel Tel Aviv,bVBL6l7j,UeZOJs03,4,0,,,,0
+1352397600,Napoli,Dnipro,Qcs4tGVj,xbUiUE46,4,2,,,,0
+1352397600,Molde,FCSB,baDaGjjh,SCh1iPaa,1,2,,,,0
+1352397600,Marseille,B. Monchengladbach,voNnDKJK,ncmj9JbF,2,2,,,,0
+1352397600,Fenerbahce,AEL Limassol,dENdyFfa,jZcv4JNH,2,0,,,,0
+1352397600,FC Copenhagen,Stuttgart,xv6lkb7q,f1Z3XxZa,0,2,,,,0
+1352397600,Club Brugge KV,Newcastle,44lq3LsP,ImMEe0UF,2,2,,,,0
+1352397600,Bordeaux,Maritimo,6BghNX0a,MyFeHWzn,1,0,,,,0
+1352397600,AIK,PSV,2c38J1pB,j5zA1baQ,1,0,,,,0
+1352397600,Academica,Atl. Madrid,jXCM4Mcr,nLBjwR1F,2,0,,,,0
+1352405100,Twente,Levante,4vob7cTR,8toS1iya,0,0,,,,0
+1352405100,Tottenham,Maribor,Ig5FKJZ5,88sMeCH2,3,1,,,,0
+1352405100,Sporting CP,Genk,Ys9o4HYr,YB0frRRP,1,1,,,,0
+1352405100,Partizan,Inter,prjDOVbf,jDrBQiMS,1,3,,,,0
+1352405100,Metalist Kharkiv,Rosenborg,MgWJDIOI,nq6bPf0N,3,1,,,,0
+1352405100,Lazio,Panathinaikos,fL3dmxxd,GM4Cu0wi,3,0,,,,0
+1352405100,Kiryat Shmona,Sparta Prague,AudDKFGO,lWOFh0RD,1,1,,,,0
+1352405100,Hannover,Helsingborg,n7lWn9DL,2TRrus0k,3,2,,,,0
+1352405100,Bayer Leverkusen,SK Rapid,WrjrBuU2,QNSj0PU1,3,0,,,,0
+1352405100,Basel,Videoton,fPZDBkJI,r9YXWu9h,1,0,,,,0
+1352405100,Ath Bilbao,Lyon,vJb36ZBF,GU4hlIMk,2,3,,,,0
+1353603600,Rubin Kazan,Inter,Cj3YnyW9,jDrBQiMS,3,0,,,,0
+1353603600,Neftci Baku,Partizan,C4C6wm62,prjDOVbf,1,1,,,,0
+1353603600,FK Anzi Makhackala,Udinese,UZNHUPL0,SYw7EcY6,2,0,,,,0
+1353607200,Videoton,Genk,r9YXWu9h,YB0frRRP,0,1,,,,0
+1353607200,Sparta Prague,Lyon,lWOFh0RD,GU4hlIMk,1,1,,,,0
+1353607200,Rosenborg,SK Rapid,nq6bPf0N,QNSj0PU1,3,2,,,,0
+1353607200,Panathinaikos,Maribor,GM4Cu0wi,88sMeCH2,1,0,,,,0
+1353607200,Metalist Kharkiv,Bayer Leverkusen,MgWJDIOI,WrjrBuU2,2,0,,,,0
+1353607200,Lazio,Tottenham,fL3dmxxd,Ig5FKJZ5,0,0,,,,0
+1353607200,Helsingborg,Levante,2TRrus0k,8toS1iya,1,3,,,,0
+1353607200,Hannover,Twente,n7lWn9DL,4vob7cTR,0,0,,,,0
+1353607200,Basel,Sporting CP,fPZDBkJI,Ys9o4HYr,3,0,,,,0
+1353614700,PSV,Dnipro,j5zA1baQ,xbUiUE46,1,2,,,,0
+1353614700,Newcastle,Maritimo,ImMEe0UF,MyFeHWzn,1,1,,,,0
+1353614700,Molde,FC Copenhagen,baDaGjjh,xv6lkb7q,1,2,,,,0
+1353614700,Marseille,Fenerbahce,voNnDKJK,dENdyFfa,0,1,,,,0
+1353614700,Liverpool,Young Boys,KCp4zq5F,KGWqWzzf,2,2,,,,0
+1353614700,FCSB,Stuttgart,SCh1iPaa,f1Z3XxZa,1,5,,,,0
+1353614700,Club Brugge KV,Bordeaux,44lq3LsP,6BghNX0a,1,2,,,,0
+1353614700,B. Monchengladbach,AEL Limassol,ncmj9JbF,jZcv4JNH,2,0,,,,0
+1353614700,Atl. Madrid,Hapoel Tel Aviv,nLBjwR1F,UeZOJs03,1,0,,,,0
+1353614700,AIK,Napoli,2c38J1pB,Qcs4tGVj,1,2,,,,0
+1353614700,Academica,Plzen,jXCM4Mcr,bVBL6l7j,1,1,,,,0
+1354125600,Kiryat Shmona,Ath Bilbao,AudDKFGO,vJb36ZBF,0,2,,,,0
+1354816800,Young Boys,FK Anzi Makhackala,KGWqWzzf,UZNHUPL0,3,1,,,,0
+1354816800,Udinese,Liverpool,SYw7EcY6,KCp4zq5F,0,1,,,,0
+1354816800,Stuttgart,Molde,f1Z3XxZa,baDaGjjh,0,1,,,,0
+1354816800,Plzen,Atl. Madrid,bVBL6l7j,nLBjwR1F,1,0,,,,0
+1354816800,Napoli,PSV,Qcs4tGVj,j5zA1baQ,1,3,,,,0
+1354816800,Maritimo,Club Brugge KV,MyFeHWzn,44lq3LsP,2,1,,,,0
+1354816800,Hapoel Tel Aviv,Academica,UeZOJs03,jXCM4Mcr,2,0,,,,0
+1354816800,Fenerbahce,B. Monchengladbach,dENdyFfa,ncmj9JbF,0,3,,,,0
+1354816800,FC Copenhagen,FCSB,xv6lkb7q,SCh1iPaa,1,1,,,,0
+1354816800,Dnipro,AIK,xbUiUE46,2c38J1pB,4,0,,,,0
+1354816800,Bordeaux,Newcastle,6BghNX0a,ImMEe0UF,2,0,,,,0
+1354816800,AEL Limassol,Marseille,jZcv4JNH,voNnDKJK,3,0,,,,0
+1354824300,Twente,Helsingborg,4vob7cTR,2TRrus0k,1,3,,,,0
+1354824300,Tottenham,Panathinaikos,Ig5FKJZ5,GM4Cu0wi,3,1,,,,0
+1354824300,SK Rapid,Metalist Kharkiv,QNSj0PU1,MgWJDIOI,1,0,,,,0
+1354824300,Partizan,Rubin Kazan,prjDOVbf,Cj3YnyW9,1,1,,,,0
+1354824300,Maribor,Lazio,88sMeCH2,fL3dmxxd,1,4,,,,0
+1354824300,Lyon,Kiryat Shmona,GU4hlIMk,AudDKFGO,2,0,,,,0
+1354824300,Levante,Hannover,8toS1iya,n7lWn9DL,2,2,,,,0
+1354824300,Inter,Neftci Baku,jDrBQiMS,C4C6wm62,2,2,,,,0
+1354824300,Genk,Basel,YB0frRRP,fPZDBkJI,0,0,,,,0
+1354824300,Bayer Leverkusen,Rosenborg,WrjrBuU2,nq6bPf0N,1,0,,,,0
+1354824300,Ath Bilbao,Sparta Prague,vJb36ZBF,lWOFh0RD,0,0,,,,0
+1354910700,Sporting CP,Videoton,Ys9o4HYr,r9YXWu9h,2,1,,,,0
+1360861200,Zenit,Liverpool,QPqvtC2B,KCp4zq5F,2,0,,,,0
+1360861200,FK Anzi Makhackala,Hannover,UZNHUPL0,n7lWn9DL,3,1,,,,0
+1360864800,Sparta Prague,Chelsea,lWOFh0RD,IROrZEJb,0,1,,,,0
+1360864800,Napoli,Plzen,Qcs4tGVj,bVBL6l7j,0,3,,,,0
+1360864800,Levante,Olympiacos Piraeus,8toS1iya,lzmp9FUJ,3,0,,,,0
+1360864800,Dyn. Kyiv,Bordeaux,M1Cjh44S,6BghNX0a,1,1,,,,0
+1360864800,Bayer Leverkusen,Benfica,WrjrBuU2,GEKimEim,0,1,,,,0
+1360864800,BATE,Fenerbahce,2uzi9uYj,dENdyFfa,0,0,,,,0
+1360864800,Ajax,FCSB,bZZPiwAI,SCh1iPaa,2,0,,,,0
+1360872300,Tottenham,Lyon,Ig5FKJZ5,GU4hlIMk,2,1,,,,0
+1360872300,Stuttgart,Genk,f1Z3XxZa,YB0frRRP,1,1,,,,0
+1360872300,Newcastle,Metalist Kharkiv,ImMEe0UF,MgWJDIOI,0,0,,,,0
+1360872300,Inter,CFR Cluj,jDrBQiMS,OUUX0e6e,2,0,,,,0
+1360872300,Basel,Dnipro,fPZDBkJI,xbUiUE46,2,0,,,,0
+1360872300,B. Monchengladbach,Lazio,ncmj9JbF,fL3dmxxd,3,3,,,,0
+1360872300,Atl. Madrid,Rubin Kazan,nLBjwR1F,Cj3YnyW9,0,2,,,,0
+1361466000,Rubin Kazan,Atl. Madrid,Cj3YnyW9,nLBjwR1F,0,1,,,,0
+1361469600,Metalist Kharkiv,Newcastle,MgWJDIOI,ImMEe0UF,0,1,,,,0
+1361469600,Lyon,Tottenham,GU4hlIMk,Ig5FKJZ5,1,1,,,,0
+1361469600,Lazio,B. Monchengladbach,fL3dmxxd,ncmj9JbF,2,0,,,,0
+1361469600,Genk,Stuttgart,YB0frRRP,f1Z3XxZa,0,2,,,,0
+1361469600,Dnipro,Basel,xbUiUE46,fPZDBkJI,1,1,,,,0
+1361469600,CFR Cluj,Inter,OUUX0e6e,jDrBQiMS,0,3,,,,0
+1361477100,Plzen,Napoli,bVBL6l7j,Qcs4tGVj,2,0,,,,0
+1361477100,Olympiacos Piraeus,Levante,lzmp9FUJ,8toS1iya,0,1,,,,0
+1361477100,Liverpool,Zenit,KCp4zq5F,QPqvtC2B,3,1,,,,0
+1361477100,Hannover,FK Anzi Makhackala,n7lWn9DL,UZNHUPL0,1,1,,,,0
+1361477100,Fenerbahce,BATE,dENdyFfa,2uzi9uYj,1,0,,,,0
+1361477100,FCSB,Ajax,SCh1iPaa,bZZPiwAI,2,0,Pen,3,0,0
+1361477100,Chelsea,Sparta Prague,IROrZEJb,lWOFh0RD,1,1,,,,0
+1361477100,Bordeaux,Dyn. Kyiv,6BghNX0a,M1Cjh44S,1,0,,,,0
+1361477100,Benfica,Bayer Leverkusen,GEKimEim,WrjrBuU2,2,1,,,,0
+1362675600,FK Anzi Makhackala,Newcastle,UZNHUPL0,ImMEe0UF,0,0,,,,0
+1362679200,Stuttgart,Lazio,f1Z3XxZa,fL3dmxxd,0,2,,,,0
+1362679200,Plzen,Fenerbahce,bVBL6l7j,dENdyFfa,0,1,,,,0
+1362679200,FCSB,Chelsea,SCh1iPaa,IROrZEJb,1,0,,,,0
+1362686700,Tottenham,Inter,Ig5FKJZ5,jDrBQiMS,3,0,,,,0
+1362686700,Levante,Rubin Kazan,8toS1iya,Cj3YnyW9,0,0,,,,0
+1362686700,Benfica,Bordeaux,GEKimEim,6BghNX0a,1,0,,,,0
+1362686700,Basel,Zenit,fPZDBkJI,QPqvtC2B,2,0,,,,0
+1363280400,Zenit,Basel,QPqvtC2B,fPZDBkJI,1,0,,,,0
+1363280400,Rubin Kazan,Levante,Cj3YnyW9,8toS1iya,0,0,AET,2,0,0
+1363284000,Inter,Tottenham,jDrBQiMS,Ig5FKJZ5,3,0,AET,4,1,0
+1363291500,Newcastle,FK Anzi Makhackala,ImMEe0UF,UZNHUPL0,1,0,,,,0
+1363291500,Lazio,Stuttgart,fL3dmxxd,f1Z3XxZa,3,1,,,,0
+1363291500,Fenerbahce,Plzen,dENdyFfa,bVBL6l7j,1,1,,,,0
+1363291500,Chelsea,FCSB,IROrZEJb,SCh1iPaa,3,1,,,,0
+1363291500,Bordeaux,Benfica,6BghNX0a,GEKimEim,2,3,,,,0
+1365102300,Tottenham,Basel,Ig5FKJZ5,fPZDBkJI,2,2,,,,0
+1365102300,Fenerbahce,Lazio,dENdyFfa,fL3dmxxd,2,0,,,,0
+1365102300,Chelsea,Rubin Kazan,IROrZEJb,Cj3YnyW9,3,1,,,,0
+1365102300,Benfica,Newcastle,GEKimEim,ImMEe0UF,3,1,,,,0
+1365696000,Rubin Kazan,Chelsea,Cj3YnyW9,IROrZEJb,3,2,,,,0
+1365707100,Newcastle,Benfica,ImMEe0UF,GEKimEim,1,1,,,,0
+1365707100,Lazio,Fenerbahce,fL3dmxxd,dENdyFfa,1,1,,,,0
+1365707100,Basel,Tottenham,fPZDBkJI,Ig5FKJZ5,2,2,Pen,3,2,0
+1366916700,Fenerbahce,Benfica,dENdyFfa,GEKimEim,1,0,,,,0
+1366916700,Basel,Chelsea,fPZDBkJI,IROrZEJb,1,2,,,,0
+1367521500,Chelsea,Basel,IROrZEJb,fPZDBkJI,3,1,,,,0
+1367521500,Benfica,Fenerbahce,GEKimEim,dENdyFfa,3,1,,,,0
+1368643500,Benfica,Chelsea,GEKimEim,IROrZEJb,1,2,,,,0

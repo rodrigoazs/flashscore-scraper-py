@@ -1,14 +1,14 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1681858800,Forge,FC Laval,3,0,,,,0
-1681858800,CF Montreal,Vaughan,2,0,,,,0
-1681938000,HFX Wanderers,Atl. Ottawa,1,3,,,,0
-1681948800,York Utd,Vancouver FC,1,0,,,,0
-1681957800,TSS Rovers,Valour,3,1,,,,0
-1682042400,Pacific FC,Cavalry,1,1,Pen,2,1,0
-1683673200,Toronto FC,CF Montreal,1,2,,,,0
-1683673200,Forge,Atl. Ottawa,1,1,Pen,2,1,0
-1683761400,York Utd,Vancouver Whitecaps,1,4,,,,0
-1683772200,Pacific FC,TSS Rovers,2,0,,,,0
-1684969200,CF Montreal,Forge,2,0,,,,0
-1684980000,Pacific FC,Vancouver Whitecaps,0,3,,,,0
-1686189600,Vancouver Whitecaps,CF Montreal,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1681858800,Forge,FC Laval,hxk14kfC,bPSpu7a2,3,0,,,,0
+1681858800,CF Montreal,Vaughan,APghxIAJ,vmpDLEkF,2,0,,,,0
+1681938000,HFX Wanderers,Atl. Ottawa,0MS9u0Q7,dWKqqmhs,1,3,,,,0
+1681948800,York Utd,Vancouver FC,WSm5399I,bPSmUInH,1,0,,,,0
+1681957800,TSS Rovers,Valour,fixvwhcD,AJtosphk,3,1,,,,0
+1682042400,Pacific FC,Cavalry,WSm5399I,WSm5399I,1,1,Pen,2,1,0
+1683673200,Toronto FC,CF Montreal,tnwDCzLD,APghxIAJ,1,2,,,,0
+1683673200,Forge,Atl. Ottawa,hxk14kfC,dWKqqmhs,1,1,Pen,2,1,0
+1683761400,York Utd,Vancouver Whitecaps,WSm5399I,nJrkMuTE,1,4,,,,0
+1683772200,Pacific FC,TSS Rovers,WSm5399I,fixvwhcD,2,0,,,,0
+1684969200,CF Montreal,Forge,APghxIAJ,hxk14kfC,2,0,,,,0
+1684980000,Pacific FC,Vancouver Whitecaps,WSm5399I,nJrkMuTE,0,3,,,,0
+1686189600,Vancouver Whitecaps,CF Montreal,nJrkMuTE,APghxIAJ,2,1,,,,0

@@ -1,78 +1,78 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-807993900,Salzburg,FCSB,0,0,,,,0
-807993900,Rosenborg,Besiktas,3,0,,,,0
-807993900,Rangers,Anorthosis,1,0,,,,0
-807993900,Panathinaikos,Hajduk Split,0,0,,,,0
-807993900,Legia,Goteborg,1,0,,,,0
-807993900,Grasshoppers,Maccabi Tel Aviv,1,1,,,,0
-807993900,Dyn. Kyiv,Aalborg,1,0,,,,0
-807993900,Anderlecht,Ferencvaros,0,1,,,,0
-809203500,Maccabi Tel Aviv,Grasshoppers,0,1,,,,0
-809203500,Hajduk Split,Panathinaikos,1,1,,,,0
-809203500,Goteborg,Legia,1,2,,,,0
-809203500,Ferencvaros,Anderlecht,1,1,,,,0
-809203500,FCSB,Salzburg,1,0,,,,0
-809203500,Besiktas,Rosenborg,3,1,,,,0
-809203500,Anorthosis,Rangers,0,0,,,,0
-809203500,Aalborg,Dyn. Kyiv,1,3,,,,0
-811017900,Nantes,FC Porto,0,0,,,,0
-811017900,Legia,Rosenborg,3,1,,,,0
-811017900,Grasshoppers,Ferencvaros,0,3,,,,0
-811017900,FCSB,Rangers,1,0,,,,0
-811017900,Dortmund,Juventus,1,3,,,,0
-811017900,Blackburn,Spartak Moscow,0,1,,,,0
-811017900,Ajax,Real Madrid,1,0,,,,0
-812231100,Spartak Moscow,Legia,2,1,,,,0
-812231100,Rosenborg,Blackburn,2,1,,,,0
-812231100,Real Madrid,Grasshoppers,2,0,,,,0
-812231100,Rangers,Dortmund,2,2,,,,0
-812231100,Panathinaikos,Nantes,3,1,,,,0
-812231100,Juventus,FCSB,3,0,,,,0
-812231100,Ferencvaros,Ajax,1,5,,,,0
-812231100,FC Porto,Aalborg,2,0,,,,0
-814045500,Rosenborg,Spartak Moscow,2,4,,,,0
-814045500,Real Madrid,Ferencvaros,6,1,,,,0
-814045500,Nantes,Aalborg,3,1,,,,0
-814045500,Legia,Blackburn,1,0,,,,0
-814045500,Juventus,Rangers,4,1,,,,0
-814045500,FC Porto,Panathinaikos,0,1,,,,0
-814045500,Dortmund,FCSB,1,0,,,,0
-814045500,Ajax,Grasshoppers,3,0,,,,0
-814650300,Aalborg,Panathinaikos,2,1,,,,0
-815255100,Spartak Moscow,Rosenborg,4,1,,,,0
-815255100,Rangers,Juventus,0,4,,,,0
-815255100,Panathinaikos,FC Porto,0,0,,,,0
-815255100,Grasshoppers,Ajax,0,0,,,,0
-815255100,Ferencvaros,Real Madrid,1,1,,,,0
-815255100,FCSB,Dortmund,0,0,,,,0
-815255100,Blackburn,Legia,0,0,,,,0
-815255100,Aalborg,Nantes,0,2,,,,0
-817069500,Spartak Moscow,Blackburn,3,0,,,,0
-817069500,Rosenborg,Legia,4,0,,,,0
-817069500,Real Madrid,Ajax,0,2,,,,0
-817069500,Rangers,FCSB,1,1,,,,0
-817069500,Panathinaikos,Aalborg,2,0,,,,0
-817069500,Juventus,Dortmund,1,2,,,,0
-817069500,Ferencvaros,Grasshoppers,3,3,,,,0
-817069500,FC Porto,Nantes,2,2,,,,0
-818279100,Nantes,Panathinaikos,0,0,,,,0
-818279100,Legia,Spartak Moscow,0,1,,,,0
-818279100,Grasshoppers,Real Madrid,0,2,,,,0
-818279100,FCSB,Juventus,0,0,,,,0
-818279100,Dortmund,Rangers,2,2,,,,0
-818279100,Blackburn,Rosenborg,4,1,,,,0
-818279100,Ajax,Ferencvaros,4,0,,,,0
-818279100,Aalborg,FC Porto,2,2,,,,0
-826055100,Real Madrid,Juventus,1,0,,,,0
-826055100,Nantes,Spartak Moscow,2,0,,,,0
-826055100,Legia,Panathinaikos,0,0,,,,0
-826055100,Dortmund,Ajax,0,2,,,,0
-827351100,Spartak Moscow,Nantes,2,2,,,,0
-827351100,Panathinaikos,Legia,3,0,,,,0
-827351100,Juventus,Real Madrid,2,0,,,,0
-827351100,Ajax,Dortmund,1,0,,,,0
-828557100,Juventus,Nantes,2,0,,,,0
-828557100,Ajax,Panathinaikos,0,1,,,,0
-829766700,Panathinaikos,Ajax,0,3,,,,0
-829766700,Nantes,Juventus,3,2,,,,0
-832790700,Ajax,Juventus,1,1,Pen,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+807993900,Salzburg,FCSB,McAr23w3,SCh1iPaa,0,0,,,,0
+807993900,Rosenborg,Besiktas,nq6bPf0N,UcWWlFia,3,0,,,,0
+807993900,Rangers,Anorthosis,fFCBVa82,pEI2BJMo,1,0,,,,0
+807993900,Panathinaikos,Hajduk Split,GM4Cu0wi,Mc6FcsjL,0,0,,,,0
+807993900,Legia,Goteborg,rgYuXGKm,jqs0yJHC,1,0,,,,0
+807993900,Grasshoppers,Maccabi Tel Aviv,WdBesfPo,EgfVDm2G,1,1,,,,0
+807993900,Dyn. Kyiv,Aalborg,M1Cjh44S,jDG0G1yS,1,0,,,,0
+807993900,Anderlecht,Ferencvaros,YVlGNJGc,U3aHptUA,0,1,,,,0
+809203500,Maccabi Tel Aviv,Grasshoppers,EgfVDm2G,WdBesfPo,0,1,,,,0
+809203500,Hajduk Split,Panathinaikos,Mc6FcsjL,GM4Cu0wi,1,1,,,,0
+809203500,Goteborg,Legia,jqs0yJHC,rgYuXGKm,1,2,,,,0
+809203500,Ferencvaros,Anderlecht,U3aHptUA,YVlGNJGc,1,1,,,,0
+809203500,FCSB,Salzburg,SCh1iPaa,McAr23w3,1,0,,,,0
+809203500,Besiktas,Rosenborg,UcWWlFia,nq6bPf0N,3,1,,,,0
+809203500,Anorthosis,Rangers,pEI2BJMo,fFCBVa82,0,0,,,,0
+809203500,Aalborg,Dyn. Kyiv,jDG0G1yS,M1Cjh44S,1,3,,,,0
+811017900,Nantes,FC Porto,YBWLmubi,Kth3Rz1C,0,0,,,,0
+811017900,Legia,Rosenborg,rgYuXGKm,nq6bPf0N,3,1,,,,0
+811017900,Grasshoppers,Ferencvaros,WdBesfPo,U3aHptUA,0,3,,,,0
+811017900,FCSB,Rangers,SCh1iPaa,fFCBVa82,1,0,,,,0
+811017900,Dortmund,Juventus,WrjrBuU2,EXzXDYgS,1,3,,,,0
+811017900,Blackburn,Spartak Moscow,ImMEe0UF,jqo4GJye,0,1,,,,0
+811017900,Ajax,Real Madrid,bZZPiwAI,fcDVLdrL,1,0,,,,0
+812231100,Spartak Moscow,Legia,jqo4GJye,rgYuXGKm,2,1,,,,0
+812231100,Rosenborg,Blackburn,nq6bPf0N,ImMEe0UF,2,1,,,,0
+812231100,Real Madrid,Grasshoppers,fcDVLdrL,WdBesfPo,2,0,,,,0
+812231100,Rangers,Dortmund,fFCBVa82,WrjrBuU2,2,2,,,,0
+812231100,Panathinaikos,Nantes,GM4Cu0wi,YBWLmubi,3,1,,,,0
+812231100,Juventus,FCSB,EXzXDYgS,SCh1iPaa,3,0,,,,0
+812231100,Ferencvaros,Ajax,U3aHptUA,bZZPiwAI,1,5,,,,0
+812231100,FC Porto,Aalborg,Kth3Rz1C,jDG0G1yS,2,0,,,,0
+814045500,Rosenborg,Spartak Moscow,nq6bPf0N,jqo4GJye,2,4,,,,0
+814045500,Real Madrid,Ferencvaros,fcDVLdrL,U3aHptUA,6,1,,,,0
+814045500,Nantes,Aalborg,YBWLmubi,jDG0G1yS,3,1,,,,0
+814045500,Legia,Blackburn,rgYuXGKm,ImMEe0UF,1,0,,,,0
+814045500,Juventus,Rangers,EXzXDYgS,fFCBVa82,4,1,,,,0
+814045500,FC Porto,Panathinaikos,Kth3Rz1C,GM4Cu0wi,0,1,,,,0
+814045500,Dortmund,FCSB,WrjrBuU2,SCh1iPaa,1,0,,,,0
+814045500,Ajax,Grasshoppers,bZZPiwAI,WdBesfPo,3,0,,,,0
+814650300,Aalborg,Panathinaikos,jDG0G1yS,GM4Cu0wi,2,1,,,,0
+815255100,Spartak Moscow,Rosenborg,jqo4GJye,nq6bPf0N,4,1,,,,0
+815255100,Rangers,Juventus,fFCBVa82,EXzXDYgS,0,4,,,,0
+815255100,Panathinaikos,FC Porto,GM4Cu0wi,Kth3Rz1C,0,0,,,,0
+815255100,Grasshoppers,Ajax,WdBesfPo,bZZPiwAI,0,0,,,,0
+815255100,Ferencvaros,Real Madrid,U3aHptUA,fcDVLdrL,1,1,,,,0
+815255100,FCSB,Dortmund,SCh1iPaa,WrjrBuU2,0,0,,,,0
+815255100,Blackburn,Legia,ImMEe0UF,rgYuXGKm,0,0,,,,0
+815255100,Aalborg,Nantes,jDG0G1yS,YBWLmubi,0,2,,,,0
+817069500,Spartak Moscow,Blackburn,jqo4GJye,ImMEe0UF,3,0,,,,0
+817069500,Rosenborg,Legia,nq6bPf0N,rgYuXGKm,4,0,,,,0
+817069500,Real Madrid,Ajax,fcDVLdrL,bZZPiwAI,0,2,,,,0
+817069500,Rangers,FCSB,fFCBVa82,SCh1iPaa,1,1,,,,0
+817069500,Panathinaikos,Aalborg,GM4Cu0wi,jDG0G1yS,2,0,,,,0
+817069500,Juventus,Dortmund,EXzXDYgS,WrjrBuU2,1,2,,,,0
+817069500,Ferencvaros,Grasshoppers,U3aHptUA,WdBesfPo,3,3,,,,0
+817069500,FC Porto,Nantes,Kth3Rz1C,YBWLmubi,2,2,,,,0
+818279100,Nantes,Panathinaikos,YBWLmubi,GM4Cu0wi,0,0,,,,0
+818279100,Legia,Spartak Moscow,rgYuXGKm,jqo4GJye,0,1,,,,0
+818279100,Grasshoppers,Real Madrid,WdBesfPo,fcDVLdrL,0,2,,,,0
+818279100,FCSB,Juventus,SCh1iPaa,EXzXDYgS,0,0,,,,0
+818279100,Dortmund,Rangers,WrjrBuU2,fFCBVa82,2,2,,,,0
+818279100,Blackburn,Rosenborg,ImMEe0UF,nq6bPf0N,4,1,,,,0
+818279100,Ajax,Ferencvaros,bZZPiwAI,U3aHptUA,4,0,,,,0
+818279100,Aalborg,FC Porto,jDG0G1yS,Kth3Rz1C,2,2,,,,0
+826055100,Real Madrid,Juventus,fcDVLdrL,EXzXDYgS,1,0,,,,0
+826055100,Nantes,Spartak Moscow,YBWLmubi,jqo4GJye,2,0,,,,0
+826055100,Legia,Panathinaikos,rgYuXGKm,GM4Cu0wi,0,0,,,,0
+826055100,Dortmund,Ajax,WrjrBuU2,bZZPiwAI,0,2,,,,0
+827351100,Spartak Moscow,Nantes,jqo4GJye,YBWLmubi,2,2,,,,0
+827351100,Panathinaikos,Legia,GM4Cu0wi,rgYuXGKm,3,0,,,,0
+827351100,Juventus,Real Madrid,EXzXDYgS,fcDVLdrL,2,0,,,,0
+827351100,Ajax,Dortmund,bZZPiwAI,WrjrBuU2,1,0,,,,0
+828557100,Juventus,Nantes,EXzXDYgS,YBWLmubi,2,0,,,,0
+828557100,Ajax,Panathinaikos,bZZPiwAI,GM4Cu0wi,0,1,,,,0
+829766700,Panathinaikos,Ajax,GM4Cu0wi,bZZPiwAI,0,3,,,,0
+829766700,Nantes,Juventus,YBWLmubi,EXzXDYgS,3,2,,,,0
+832790700,Ajax,Juventus,bZZPiwAI,EXzXDYgS,1,1,Pen,1,2,0

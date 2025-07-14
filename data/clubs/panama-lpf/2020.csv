@@ -1,53 +1,53 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1603407600,Tauro,Arabe Unido,1,1,,,,0
-1603569600,San Francisco,Chiriqui,1,1,,,,0
-1603580400,Potros del Este,Miguelito,2,1,,,,0
-1603656000,Plaza Amador,Deportivo Universitario,0,0,,,,0
-1603663200,Independiente,Alianza,1,1,,,,0
-1604005200,Arabe Unido,Miguelito,1,2,,,,0
-1604012400,Alianza,Tauro,2,2,,,,0
-1604088000,Independiente,Potros del Este,2,0,,,,0
-1604098800,Plaza Amador,San Francisco,0,0,,,,0
-1604174400,Chiriqui,Deportivo Universitario,0,0,,,,0
-1604692800,Miguelito,Chiriqui,0,0,,,,0
-1604779200,Potros del Este,Deportivo Universitario,3,0,,,,0
-1604790000,Plaza Amador,Arabe Unido,0,2,,,,0
-1604869200,Tauro,Independiente,0,3,,,,0
-1604880000,San Francisco,Alianza,0,0,,,,0
-1605211200,Chiriqui,Plaza Amador,1,2,,,,0
-1605222000,Tauro,Potros del Este,0,0,,,,0
-1605384000,Deportivo Universitario,San Francisco,0,1,,,,0
-1605387600,Arabe Unido,Independiente,2,0,,,,0
-1605394800,Alianza,Miguelito,1,0,,,,0
-1605729600,Independiente,Deportivo Universitario,4,0,,,,0
-1605729600,Arabe Unido,Chiriqui,0,0,,,,0
-1605733200,Miguelito,San Francisco,1,2,,,,0
-1605740400,Plaza Amador,Tauro,0,1,,,,0
-1605826800,Potros del Este,Alianza,1,1,,,,0
-1605988800,Deportivo Universitario,Tauro,1,4,,,,0
-1605996000,Miguelito,Plaza Amador,0,1,,,,0
-1606075200,Chiriqui,Potros del Este,3,3,,,,0
-1606086000,Alianza,Arabe Unido,5,2,,,,0
-1606248000,Deportivo Universitario,Miguelito,1,4,,,,0
-1606334400,Potros del Este,Arabe Unido,1,1,,,,0
-1606334400,Chiriqui,Alianza,1,2,,,,0
-1606348800,Independiente,Plaza Amador,0,0,,,,0
-1606593600,San Francisco,Arabe Unido,3,0,,,,0
-1606593600,Independiente,Chiriqui,2,0,,,,0
-1606608000,Tauro,Miguelito,1,2,,,,0
-1606680000,Alianza,Deportivo Universitario,0,0,,,,0
-1606690800,Potros del Este,Plaza Amador,1,1,,,,0
-1606856400,San Francisco,Independiente,1,1,,,,0
-1607115600,Tauro,San Francisco,1,0,,,,0
-1607378400,San Francisco,Potros del Este,0,0,,,,0
-1607378400,Plaza Amador,Alianza,1,0,,,,0
-1607378400,Miguelito,Independiente,0,2,,,,0
-1607378400,Chiriqui,Tauro,0,1,,,,0
-1607378400,Arabe Unido,Deportivo Universitario,2,1,,,,0
-1607634000,Alianza,Potros del Este,1,4,,,,0
-1607720400,San Francisco,Plaza Amador,1,0,,,,0
-1607893200,Potros del Este,Independiente,1,2,,,,0
-1607979600,San Francisco,Tauro,2,0,,,,0
-1608152400,Independiente,Potros del Este,0,0,,,,0
-1608238800,Tauro,San Francisco,2,2,,,,0
-1608494400,Independiente,San Francisco,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1603407600,Tauro,Arabe Unido,vTLj5hDm,IJKf4CSg,1,1,,,,0
+1603569600,San Francisco,Chiriqui,vTLj5hDm,Mgz9D9Hf,1,1,,,,0
+1603580400,Potros del Este,Miguelito,hnpkfR09,xlqSvAq8,2,1,,,,0
+1603656000,Plaza Amador,Deportivo Universitario,Mgz9D9Hf,zFs1klv8,0,0,,,,0
+1603663200,Independiente,Alianza,nXJKIqpI,r3y5Ek2l,1,1,,,,0
+1604005200,Arabe Unido,Miguelito,IJKf4CSg,xlqSvAq8,1,2,,,,0
+1604012400,Alianza,Tauro,r3y5Ek2l,vTLj5hDm,2,2,,,,0
+1604088000,Independiente,Potros del Este,nXJKIqpI,hnpkfR09,2,0,,,,0
+1604098800,Plaza Amador,San Francisco,Mgz9D9Hf,vTLj5hDm,0,0,,,,0
+1604174400,Chiriqui,Deportivo Universitario,Mgz9D9Hf,zFs1klv8,0,0,,,,0
+1604692800,Miguelito,Chiriqui,xlqSvAq8,Mgz9D9Hf,0,0,,,,0
+1604779200,Potros del Este,Deportivo Universitario,hnpkfR09,zFs1klv8,3,0,,,,0
+1604790000,Plaza Amador,Arabe Unido,Mgz9D9Hf,IJKf4CSg,0,2,,,,0
+1604869200,Tauro,Independiente,vTLj5hDm,nXJKIqpI,0,3,,,,0
+1604880000,San Francisco,Alianza,vTLj5hDm,r3y5Ek2l,0,0,,,,0
+1605211200,Chiriqui,Plaza Amador,Mgz9D9Hf,Mgz9D9Hf,1,2,,,,0
+1605222000,Tauro,Potros del Este,vTLj5hDm,hnpkfR09,0,0,,,,0
+1605384000,Deportivo Universitario,San Francisco,zFs1klv8,vTLj5hDm,0,1,,,,0
+1605387600,Arabe Unido,Independiente,IJKf4CSg,nXJKIqpI,2,0,,,,0
+1605394800,Alianza,Miguelito,r3y5Ek2l,xlqSvAq8,1,0,,,,0
+1605729600,Independiente,Deportivo Universitario,nXJKIqpI,zFs1klv8,4,0,,,,0
+1605729600,Arabe Unido,Chiriqui,IJKf4CSg,Mgz9D9Hf,0,0,,,,0
+1605733200,Miguelito,San Francisco,xlqSvAq8,vTLj5hDm,1,2,,,,0
+1605740400,Plaza Amador,Tauro,Mgz9D9Hf,vTLj5hDm,0,1,,,,0
+1605826800,Potros del Este,Alianza,hnpkfR09,r3y5Ek2l,1,1,,,,0
+1605988800,Deportivo Universitario,Tauro,zFs1klv8,vTLj5hDm,1,4,,,,0
+1605996000,Miguelito,Plaza Amador,xlqSvAq8,Mgz9D9Hf,0,1,,,,0
+1606075200,Chiriqui,Potros del Este,Mgz9D9Hf,hnpkfR09,3,3,,,,0
+1606086000,Alianza,Arabe Unido,r3y5Ek2l,IJKf4CSg,5,2,,,,0
+1606248000,Deportivo Universitario,Miguelito,zFs1klv8,xlqSvAq8,1,4,,,,0
+1606334400,Potros del Este,Arabe Unido,hnpkfR09,IJKf4CSg,1,1,,,,0
+1606334400,Chiriqui,Alianza,Mgz9D9Hf,r3y5Ek2l,1,2,,,,0
+1606348800,Independiente,Plaza Amador,nXJKIqpI,Mgz9D9Hf,0,0,,,,0
+1606593600,San Francisco,Arabe Unido,vTLj5hDm,IJKf4CSg,3,0,,,,0
+1606593600,Independiente,Chiriqui,nXJKIqpI,Mgz9D9Hf,2,0,,,,0
+1606608000,Tauro,Miguelito,vTLj5hDm,xlqSvAq8,1,2,,,,0
+1606680000,Alianza,Deportivo Universitario,r3y5Ek2l,zFs1klv8,0,0,,,,0
+1606690800,Potros del Este,Plaza Amador,hnpkfR09,Mgz9D9Hf,1,1,,,,0
+1606856400,San Francisco,Independiente,vTLj5hDm,nXJKIqpI,1,1,,,,0
+1607115600,Tauro,San Francisco,vTLj5hDm,vTLj5hDm,1,0,,,,0
+1607378400,San Francisco,Potros del Este,vTLj5hDm,hnpkfR09,0,0,,,,0
+1607378400,Plaza Amador,Alianza,Mgz9D9Hf,r3y5Ek2l,1,0,,,,0
+1607378400,Miguelito,Independiente,xlqSvAq8,nXJKIqpI,0,2,,,,0
+1607378400,Chiriqui,Tauro,Mgz9D9Hf,vTLj5hDm,0,1,,,,0
+1607378400,Arabe Unido,Deportivo Universitario,IJKf4CSg,zFs1klv8,2,1,,,,0
+1607634000,Alianza,Potros del Este,r3y5Ek2l,hnpkfR09,1,4,,,,0
+1607720400,San Francisco,Plaza Amador,vTLj5hDm,Mgz9D9Hf,1,0,,,,0
+1607893200,Potros del Este,Independiente,hnpkfR09,nXJKIqpI,1,2,,,,0
+1607979600,San Francisco,Tauro,vTLj5hDm,vTLj5hDm,2,0,,,,0
+1608152400,Independiente,Potros del Este,nXJKIqpI,hnpkfR09,0,0,,,,0
+1608238800,Tauro,San Francisco,vTLj5hDm,vTLj5hDm,2,2,,,,0
+1608494400,Independiente,San Francisco,nXJKIqpI,vTLj5hDm,3,1,,,,0

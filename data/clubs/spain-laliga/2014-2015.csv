@@ -1,381 +1,381 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1408813200,Malaga,Ath Bilbao,1,0,,,,0
-1408820400,Sevilla,Valencia,1,1,,,,0
-1408820400,Granada CF,Dep. La Coruna,2,1,,,,0
-1408827600,Almeria,Espanyol,1,1,,,,0
-1408899600,Eibar,Real Sociedad,1,0,,,,0
-1408906800,Celta Vigo,Getafe,3,1,,,,0
-1408906800,Barcelona,Elche,3,0,,,,0
-1408914000,Levante,Villarreal,0,2,,,,0
-1408989600,Real Madrid,Cordoba,2,0,,,,0
-1408996800,Rayo Vallecano,Atl. Madrid,0,0,,,,0
-1409335200,Getafe,Almeria,1,0,,,,0
-1409342400,Valencia,Malaga,3,0,,,,0
-1409418000,Cordoba,Celta Vigo,1,1,,,,0
-1409418000,Ath Bilbao,Levante,3,0,,,,0
-1409425200,Atl. Madrid,Eibar,2,1,,,,0
-1409432400,Espanyol,Sevilla,1,2,,,,0
-1409504400,Villarreal,Barcelona,0,1,,,,0
-1409511600,Real Sociedad,Real Madrid,4,2,,,,0
-1409511600,Dep. La Coruna,Rayo Vallecano,2,2,,,,0
-1409518800,Elche,Granada CF,1,1,,,,0
-1410548400,Almeria,Cordoba,1,1,,,,0
-1410616800,Barcelona,Ath Bilbao,2,0,,,,0
-1410624000,Malaga,Levante,0,0,,,,0
-1410631200,Real Madrid,Atl. Madrid,1,2,,,,0
-1410638400,Celta Vigo,Real Sociedad,2,2,,,,0
-1410688800,Rayo Vallecano,Elche,2,3,,,,0
-1410706800,Valencia,Espanyol,3,1,,,,0
-1410714000,Sevilla,Getafe,2,0,,,,0
-1410721200,Granada CF,Villarreal,0,0,,,,0
-1410806700,Eibar,Dep. La Coruna,0,1,,,,0
-1411153200,Elche,Eibar,0,2,,,,0
-1411221600,Dep. La Coruna,Real Madrid,2,8,,,,0
-1411228800,Ath Bilbao,Granada CF,0,1,,,,0
-1411236000,Atl. Madrid,Celta Vigo,2,2,,,,0
-1411243200,Espanyol,Malaga,2,2,,,,0
-1411293600,Real Sociedad,Almeria,1,2,,,,0
-1411311600,Villarreal,Rayo Vallecano,4,2,,,,0
-1411318800,Cordoba,Sevilla,1,3,,,,0
-1411326000,Levante,Barcelona,0,5,,,,0
-1411411500,Getafe,Valencia,0,3,,,,0
-1411495200,Real Madrid,Elche,5,1,,,,0
-1411502400,Celta Vigo,Dep. La Coruna,2,1,,,,0
-1411581600,Rayo Vallecano,Ath Bilbao,2,1,,,,0
-1411581600,Eibar,Villarreal,1,1,,,,0
-1411581600,Almeria,Atl. Madrid,0,1,,,,0
-1411588800,Sevilla,Real Sociedad,1,0,,,,0
-1411588800,Malaga,Barcelona,0,0,,,,0
-1411588800,Granada CF,Levante,0,1,,,,0
-1411668000,Espanyol,Getafe,2,0,,,,0
-1411675200,Valencia,Cordoba,3,0,,,,0
-1411758000,Elche,Celta Vigo,0,1,,,,0
-1411826400,Villarreal,Real Madrid,0,2,,,,0
-1411833600,Barcelona,Granada CF,6,0,,,,0
-1411840800,Atl. Madrid,Sevilla,4,0,,,,0
-1411848000,Levante,Rayo Vallecano,0,2,,,,0
-1411848000,Ath Bilbao,Eibar,0,0,,,,0
-1411898400,Getafe,Malaga,1,0,,,,0
-1411916400,Dep. La Coruna,Almeria,0,1,,,,0
-1411923600,Real Sociedad,Valencia,1,1,,,,0
-1411930800,Cordoba,Espanyol,0,0,,,,0
-1412362800,Getafe,Cordoba,1,1,,,,0
-1412431200,Valencia,Atl. Madrid,3,1,,,,0
-1412438400,Rayo Vallecano,Barcelona,0,2,,,,0
-1412445600,Eibar,Levante,3,3,,,,0
-1412452800,Malaga,Granada CF,2,1,,,,0
-1412452800,Almeria,Elche,2,2,,,,0
-1412503200,Sevilla,Dep. La Coruna,4,1,,,,0
-1412521200,Celta Vigo,Villarreal,1,3,,,,0
-1412528400,Espanyol,Real Sociedad,2,0,,,,0
-1412535600,Real Madrid,Ath Bilbao,5,0,,,,0
-1413572400,Granada CF,Rayo Vallecano,0,1,,,,0
-1413640800,Levante,Real Madrid,0,5,,,,0
-1413648000,Ath Bilbao,Celta Vigo,1,1,,,,0
-1413655200,Barcelona,Eibar,3,0,,,,0
-1413662400,Cordoba,Malaga,1,2,,,,0
-1413712800,Atl. Madrid,Espanyol,2,0,,,,0
-1413730800,Dep. La Coruna,Valencia,3,0,,,,0
-1413738000,Elche,Sevilla,0,2,,,,0
-1413745200,Villarreal,Almeria,2,0,,,,0
-1413830700,Real Sociedad,Getafe,1,2,,,,0
-1414177200,Celta Vigo,Levante,3,0,,,,0
-1414245600,Almeria,Ath Bilbao,0,1,,,,0
-1414252800,Real Madrid,Barcelona,3,1,,,,0
-1414260000,Valencia,Elche,3,1,,,,0
-1414267200,Eibar,Granada CF,1,1,,,,0
-1414267200,Cordoba,Real Sociedad,1,1,,,,0
-1414321200,Malaga,Rayo Vallecano,4,0,,,,0
-1414339200,Espanyol,Dep. La Coruna,0,0,,,,0
-1414346400,Sevilla,Villarreal,2,1,,,,0
-1414353600,Getafe,Atl. Madrid,0,1,,,,0
-1414784700,Dep. La Coruna,Getafe,1,2,,,,0
-1414854000,Granada CF,Real Madrid,0,4,,,,0
-1414861200,Atl. Madrid,Cordoba,4,2,,,,0
-1414868400,Barcelona,Celta Vigo,0,1,,,,0
-1414875600,Real Sociedad,Malaga,0,1,,,,0
-1414926000,Ath Bilbao,Sevilla,1,0,,,,0
-1414944000,Villarreal,Valencia,1,3,,,,0
-1414951200,Levante,Almeria,2,1,,,,0
-1414958400,Elche,Espanyol,2,1,,,,0
-1415043900,Rayo Vallecano,Eibar,2,3,,,,0
-1415389500,Cordoba,Dep. La Coruna,0,0,,,,0
-1415458800,Almeria,Barcelona,1,2,,,,0
-1415466000,Getafe,Elche,0,0,,,,0
-1415473200,Real Madrid,Rayo Vallecano,5,1,,,,0
-1415480400,Malaga,Eibar,2,1,,,,0
-1415480400,Celta Vigo,Granada CF,0,0,,,,0
-1415530800,Sevilla,Levante,1,1,,,,0
-1415548800,Espanyol,Villarreal,1,1,,,,0
-1415556000,Valencia,Ath Bilbao,0,0,,,,0
-1415563200,Real Sociedad,Atl. Madrid,2,1,,,,0
-1416599100,Ath Bilbao,Espanyol,3,1,,,,0
-1416668400,Atl. Madrid,Malaga,3,1,,,,0
-1416675600,Eibar,Real Madrid,0,4,,,,0
-1416682800,Barcelona,Sevilla,5,1,,,,0
-1416690000,Dep. La Coruna,Real Sociedad,0,0,,,,0
-1416740400,Rayo Vallecano,Celta Vigo,1,0,,,,0
-1416758400,Levante,Valencia,2,1,,,,0
-1416765600,Elche,Cordoba,2,2,,,,0
-1416772800,Villarreal,Getafe,2,1,,,,0
-1416858300,Granada CF,Almeria,0,0,,,,0
-1417203900,Real Sociedad,Elche,3,0,,,,0
-1417273200,Getafe,Ath Bilbao,1,2,,,,0
-1417280400,Espanyol,Levante,2,1,,,,0
-1417287600,Malaga,Real Madrid,1,2,,,,0
-1417294800,Celta Vigo,Eibar,0,1,,,,0
-1417345200,Atl. Madrid,Dep. La Coruna,2,0,,,,0
-1417363200,Sevilla,Granada CF,5,1,,,,0
-1417370400,Cordoba,Villarreal,0,2,,,,0
-1417377600,Valencia,Barcelona,0,1,,,,0
-1417463100,Almeria,Rayo Vallecano,0,1,,,,0
-1417878000,Elche,Atl. Madrid,0,2,,,,0
-1417885200,Ath Bilbao,Cordoba,0,1,,,,0
-1417892400,Real Madrid,Celta Vigo,3,0,,,,0
-1417899600,Dep. La Coruna,Malaga,0,1,,,,0
-1417950000,Rayo Vallecano,Sevilla,0,1,,,,0
-1417968000,Barcelona,Espanyol,5,1,,,,0
-1417975200,Villarreal,Real Sociedad,4,0,,,,0
-1417982400,Granada CF,Valencia,1,1,,,,0
-1418054400,Eibar,Almeria,5,2,,,,0
-1418061600,Levante,Getafe,1,1,,,,0
-1418413500,Almeria,Real Madrid,1,4,,,,0
-1418482800,Getafe,Barcelona,0,0,,,,0
-1418490000,Valencia,Rayo Vallecano,3,0,,,,0
-1418497200,Cordoba,Levante,0,0,,,,0
-1418504400,Malaga,Celta Vigo,1,0,,,,0
-1418554800,Espanyol,Granada CF,2,1,,,,0
-1418572800,Sevilla,Eibar,0,0,,,,0
-1418580000,Atl. Madrid,Villarreal,0,1,,,,0
-1418587200,Real Sociedad,Ath Bilbao,1,1,,,,0
-1418672700,Dep. La Coruna,Elche,1,0,,,,0
-1419018300,Celta Vigo,Almeria,0,1,,,,0
-1419087600,Barcelona,Cordoba,5,0,,,,0
-1419094800,Levante,Real Sociedad,1,1,,,,0
-1419102000,Eibar,Valencia,0,1,,,,0
-1419109200,Rayo Vallecano,Espanyol,1,3,,,,0
-1419159600,Villarreal,Dep. La Coruna,3,0,,,,0
-1419177600,Granada CF,Getafe,1,1,,,,0
-1419184800,Elche,Malaga,1,2,,,,0
-1419192000,Ath Bilbao,Atl. Madrid,1,4,,,,0
-1420297200,Atl. Madrid,Levante,3,1,,,,0
-1420304400,Sevilla,Celta Vigo,1,0,,,,0
-1420311600,Elche,Villarreal,2,2,,,,0
-1420318800,Malaga,Almeria,1,2,,,,0
-1420318800,Dep. La Coruna,Ath Bilbao,1,0,,,,0
-1420369200,Getafe,Rayo Vallecano,1,2,,,,0
-1420387200,Valencia,Real Madrid,2,1,,,,0
-1420394400,Espanyol,Eibar,1,2,,,,0
-1420401600,Real Sociedad,Barcelona,1,0,,,,0
-1420487100,Cordoba,Granada CF,2,0,,,,0
-1420832700,Levante,Dep. La Coruna,0,0,,,,0
-1420902000,Real Madrid,Espanyol,3,0,,,,0
-1420909200,Malaga,Villarreal,1,1,,,,0
-1420916400,Celta Vigo,Valencia,1,1,,,,0
-1420923600,Eibar,Getafe,2,1,,,,0
-1420974000,Almeria,Sevilla,0,2,,,,0
-1420992000,Ath Bilbao,Elche,1,2,,,,0
-1420999200,Granada CF,Real Sociedad,1,1,,,,0
-1421006400,Barcelona,Atl. Madrid,3,1,,,,0
-1421091900,Rayo Vallecano,Cordoba,0,1,,,,0
-1421437500,Cordoba,Eibar,1,1,,,,0
-1421506800,Real Sociedad,Rayo Vallecano,0,1,,,,0
-1421514000,Valencia,Almeria,3,2,,,,0
-1421521200,Villarreal,Ath Bilbao,2,0,,,,0
-1421528400,Espanyol,Celta Vigo,1,0,,,,0
-1421578800,Getafe,Real Madrid,0,3,,,,0
-1421596800,Atl. Madrid,Granada CF,2,0,,,,0
-1421604000,Dep. La Coruna,Barcelona,0,4,,,,0
-1421611200,Sevilla,Malaga,2,0,,,,0
-1421611200,Elche,Levante,1,0,,,,0
-1422111600,Cordoba,Real Madrid,1,2,,,,0
-1422118800,Elche,Barcelona,0,6,,,,0
-1422126000,Atl. Madrid,Rayo Vallecano,3,1,,,,0
-1422133200,Villarreal,Levante,1,0,,,,0
-1422133200,Real Sociedad,Eibar,1,0,,,,0
-1422183600,Dep. La Coruna,Granada CF,2,2,,,,0
-1422201600,Ath Bilbao,Malaga,1,1,,,,0
-1422208800,Espanyol,Almeria,3,0,,,,0
-1422216000,Valencia,Sevilla,3,1,,,,0
-1422301500,Getafe,Celta Vigo,2,1,,,,0
-1422647100,Rayo Vallecano,Dep. La Coruna,1,2,,,,0
-1422716400,Real Madrid,Real Sociedad,4,1,,,,0
-1422723600,Eibar,Atl. Madrid,1,3,,,,0
-1422730800,Granada CF,Elche,1,0,,,,0
-1422738000,Celta Vigo,Cordoba,1,0,,,,0
-1422788400,Levante,Ath Bilbao,0,2,,,,0
-1422806400,Almeria,Getafe,1,0,,,,0
-1422813600,Sevilla,Espanyol,3,2,,,,0
-1422820800,Barcelona,Villarreal,3,2,,,,0
-1422906300,Malaga,Valencia,1,0,,,,0
-1423079100,Real Madrid,Sevilla,2,1,,,,0
-1423251900,Dep. La Coruna,Eibar,2,0,,,,0
-1423321200,Atl. Madrid,Real Madrid,4,0,,,,0
-1423328400,Villarreal,Granada CF,2,0,,,,0
-1423335600,Levante,Malaga,4,1,,,,0
-1423342800,Real Sociedad,Celta Vigo,1,1,,,,0
-1423393200,Cordoba,Almeria,1,2,,,,0
-1423411200,Getafe,Sevilla,2,1,,,,0
-1423418400,Espanyol,Valencia,1,2,,,,0
-1423425600,Ath Bilbao,Barcelona,2,5,,,,0
-1423511100,Elche,Rayo Vallecano,2,0,,,,0
-1423856700,Almeria,Real Sociedad,2,2,,,,0
-1423926000,Sevilla,Cordoba,3,0,,,,0
-1423933200,Real Madrid,Dep. La Coruna,2,0,,,,0
-1423940400,Granada CF,Ath Bilbao,0,0,,,,0
-1423947600,Malaga,Espanyol,0,2,,,,0
-1423998000,Valencia,Getafe,1,0,,,,0
-1424016000,Barcelona,Levante,5,0,,,,0
-1424023200,Rayo Vallecano,Villarreal,2,0,,,,0
-1424030400,Celta Vigo,Atl. Madrid,2,0,,,,0
-1424115900,Eibar,Elche,0,1,,,,0
-1424461500,Getafe,Espanyol,2,1,,,,0
-1424530800,Barcelona,Malaga,0,1,,,,0
-1424538000,Cordoba,Valencia,1,2,,,,0
-1424545200,Atl. Madrid,Almeria,3,0,,,,0
-1424552400,Dep. La Coruna,Celta Vigo,0,2,,,,0
-1424602800,Real Sociedad,Sevilla,4,3,,,,0
-1424620800,Ath Bilbao,Rayo Vallecano,1,0,,,,0
-1424628000,Villarreal,Eibar,1,0,,,,0
-1424635200,Elche,Real Madrid,0,2,,,,0
-1424720700,Levante,Granada CF,2,1,,,,0
-1425066300,Espanyol,Cordoba,1,0,,,,0
-1425135600,Granada CF,Barcelona,1,3,,,,0
-1425142800,Rayo Vallecano,Levante,4,2,,,,0
-1425150000,Almeria,Dep. La Coruna,0,0,,,,0
-1425157200,Malaga,Getafe,3,2,,,,0
-1425207600,Valencia,Real Sociedad,2,0,,,,0
-1425225600,Eibar,Ath Bilbao,0,1,,,,0
-1425232800,Sevilla,Atl. Madrid,0,0,,,,0
-1425240000,Real Madrid,Villarreal,1,1,,,,0
-1425325500,Celta Vigo,Elche,1,1,,,,0
-1425671100,Levante,Eibar,2,1,,,,0
-1425740400,Dep. La Coruna,Sevilla,3,4,,,,0
-1425747600,Ath Bilbao,Real Madrid,1,0,,,,0
-1425754800,Elche,Almeria,1,0,,,,0
-1425762000,Granada CF,Malaga,1,0,,,,0
-1425812400,Barcelona,Rayo Vallecano,6,1,,,,0
-1425830400,Real Sociedad,Espanyol,1,0,,,,0
-1425837600,Villarreal,Celta Vigo,4,1,,,,0
-1425844800,Atl. Madrid,Valencia,1,1,,,,0
-1425930300,Cordoba,Getafe,1,2,,,,0
-1426275900,Valencia,Dep. La Coruna,2,0,,,,0
-1426345200,Espanyol,Atl. Madrid,0,0,,,,0
-1426352400,Eibar,Barcelona,0,2,,,,0
-1426359600,Rayo Vallecano,Granada CF,3,1,,,,0
-1426366800,Celta Vigo,Ath Bilbao,1,2,,,,0
-1426417200,Almeria,Villarreal,0,0,,,,0
-1426435200,Malaga,Cordoba,2,0,,,,0
-1426442400,Sevilla,Elche,3,0,,,,0
-1426449600,Real Madrid,Levante,2,0,,,,0
-1426535100,Getafe,Real Sociedad,0,1,,,,0
-1426880700,Elche,Valencia,0,4,,,,0
-1426950000,Atl. Madrid,Getafe,2,0,,,,0
-1426957200,Rayo Vallecano,Malaga,1,0,,,,0
-1426964400,Levante,Celta Vigo,0,1,,,,0
-1426971600,Granada CF,Eibar,0,0,,,,0
-1426971600,Ath Bilbao,Almeria,2,1,,,,0
-1427022000,Dep. La Coruna,Espanyol,0,0,,,,0
-1427040000,Villarreal,Sevilla,0,2,,,,0
-1427047200,Real Sociedad,Cordoba,3,1,,,,0
-1427054400,Barcelona,Real Madrid,2,1,,,,0
-1428086700,Eibar,Rayo Vallecano,1,2,,,,0
-1428156000,Sevilla,Ath Bilbao,2,0,,,,0
-1428163200,Cordoba,Atl. Madrid,0,2,,,,0
-1428170400,Almeria,Levante,1,4,,,,0
-1428177600,Malaga,Real Sociedad,1,1,,,,0
-1428228000,Real Madrid,Granada CF,9,1,,,,0
-1428246000,Valencia,Villarreal,0,0,,,,0
-1428253200,Getafe,Dep. La Coruna,2,1,,,,0
-1428260400,Celta Vigo,Barcelona,0,1,,,,0
-1428343200,Espanyol,Elche,1,1,,,,0
-1428429600,Atl. Madrid,Real Sociedad,2,0,,,,0
-1428436800,Levante,Sevilla,1,2,,,,0
-1428436800,Eibar,Malaga,1,0,,,,0
-1428516000,Dep. La Coruna,Cordoba,1,1,,,,0
-1428516000,Barcelona,Almeria,4,0,,,,0
-1428523200,Rayo Vallecano,Real Madrid,0,2,,,,0
-1428523200,Granada CF,Celta Vigo,1,1,,,,0
-1428602400,Ath Bilbao,Valencia,1,1,,,,0
-1428609600,Villarreal,Espanyol,0,3,,,,0
-1428609600,Elche,Getafe,0,1,,,,0
-1428760800,Real Madrid,Eibar,3,0,,,,0
-1428768000,Malaga,Atl. Madrid,2,2,,,,0
-1428775200,Sevilla,Barcelona,2,2,,,,0
-1428782400,Celta Vigo,Rayo Vallecano,6,1,,,,0
-1428782400,Almeria,Granada CF,3,0,,,,0
-1428832800,Getafe,Villarreal,1,1,,,,0
-1428850800,Espanyol,Ath Bilbao,1,0,,,,0
-1428858000,Real Sociedad,Dep. La Coruna,2,2,,,,0
-1428865200,Cordoba,Elche,0,2,,,,0
-1428949800,Valencia,Levante,3,0,,,,0
-1429296300,Levante,Espanyol,2,2,,,,0
-1429365600,Barcelona,Valencia,2,0,,,,0
-1429372800,Dep. La Coruna,Atl. Madrid,1,2,,,,0
-1429380000,Real Madrid,Malaga,3,1,,,,0
-1429387200,Ath Bilbao,Getafe,4,0,,,,0
-1429437600,Rayo Vallecano,Almeria,2,0,,,,0
-1429455600,Granada CF,Sevilla,1,1,,,,0
-1429462800,Villarreal,Cordoba,0,0,,,,0
-1429470000,Eibar,Celta Vigo,0,1,,,,0
-1429555500,Elche,Real Sociedad,1,0,,,,0
-1429901100,Cordoba,Ath Bilbao,0,1,,,,0
-1429970400,Espanyol,Barcelona,0,2,,,,0
-1429977600,Atl. Madrid,Elche,3,0,,,,0
-1429984800,Getafe,Levante,0,1,,,,0
-1429992000,Real Sociedad,Villarreal,0,0,,,,0
-1430042400,Malaga,Dep. La Coruna,1,1,,,,0
-1430060400,Almeria,Eibar,2,0,,,,0
-1430067600,Sevilla,Rayo Vallecano,2,0,,,,0
-1430074800,Celta Vigo,Real Madrid,2,4,,,,0
-1430160300,Valencia,Granada CF,4,0,,,,0
-1430244000,Barcelona,Getafe,6,0,,,,0
-1430251200,Levante,Cordoba,1,0,,,,0
-1430251200,Ath Bilbao,Real Sociedad,1,1,,,,0
-1430330400,Real Madrid,Almeria,3,0,,,,0
-1430330400,Eibar,Sevilla,1,3,,,,0
-1430330400,Celta Vigo,Malaga,1,0,,,,0
-1430337600,Villarreal,Atl. Madrid,0,1,,,,0
-1430337600,Elche,Dep. La Coruna,4,0,,,,0
-1430416800,Rayo Vallecano,Valencia,1,1,,,,0
-1430424000,Granada CF,Espanyol,1,2,,,,0
-1430505900,Real Sociedad,Levante,3,0,,,,0
-1430575200,Cordoba,Barcelona,0,8,,,,0
-1430582400,Atl. Madrid,Ath Bilbao,0,0,,,,0
-1430589600,Sevilla,Real Madrid,2,3,,,,0
-1430596800,Dep. La Coruna,Villarreal,1,1,,,,0
-1430647200,Espanyol,Rayo Vallecano,1,1,,,,0
-1430665200,Getafe,Granada CF,1,2,,,,0
-1430672400,Valencia,Eibar,3,1,,,,0
-1430679600,Malaga,Elche,1,2,,,,0
-1430765100,Almeria,Celta Vigo,2,2,,,,0
-1431110700,Eibar,Espanyol,0,2,,,,0
-1431180000,Granada CF,Cordoba,2,0,,,,0
-1431187200,Barcelona,Real Sociedad,2,0,,,,0
-1431194400,Real Madrid,Valencia,2,2,,,,0
-1431201600,Ath Bilbao,Dep. La Coruna,1,1,,,,0
-1431252000,Levante,Atl. Madrid,2,2,,,,0
-1431270000,Villarreal,Elche,1,0,,,,0
-1431277200,Almeria,Malaga,1,2,,,,0
-1431284400,Celta Vigo,Sevilla,1,1,,,,0
-1431369900,Rayo Vallecano,Getafe,2,0,,,,0
-1431882000,Villarreal,Malaga,2,1,,,,0
-1431882000,Valencia,Celta Vigo,1,1,,,,0
-1431882000,Sevilla,Almeria,2,1,,,,0
-1431882000,Real Sociedad,Granada CF,0,3,,,,0
-1431882000,Getafe,Eibar,1,1,,,,0
-1431882000,Espanyol,Real Madrid,1,4,,,,0
-1431882000,Elche,Ath Bilbao,2,3,,,,0
-1431882000,Dep. La Coruna,Levante,2,0,,,,0
-1431882000,Cordoba,Rayo Vallecano,1,2,,,,0
-1431882000,Atl. Madrid,Barcelona,0,1,,,,0
-1432391400,Levante,Elche,0,0,,,,0
-1432398600,Rayo Vallecano,Real Sociedad,2,4,,,,0
-1432398600,Malaga,Sevilla,2,3,,,,0
-1432398600,Granada CF,Atl. Madrid,0,0,,,,0
-1432398600,Eibar,Cordoba,3,0,,,,0
-1432398600,Celta Vigo,Espanyol,3,2,,,,0
-1432398600,Barcelona,Dep. La Coruna,2,2,,,,0
-1432398600,Ath Bilbao,Villarreal,4,0,,,,0
-1432398600,Almeria,Valencia,2,3,,,,0
-1432405800,Real Madrid,Getafe,7,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1408813200,Malaga,Ath Bilbao,I5Xd92rn,vJb36ZBF,1,0,,,,0
+1408820400,Sevilla,Valencia,tIT0KyhE,MHrRLNUo,1,1,,,,0
+1408820400,Granada CF,Dep. La Coruna,YmCZKGcR,G2YIZIXN,2,1,,,,0
+1408827600,Almeria,Espanyol,nDyT2xMM,8GL0cHSF,1,1,,,,0
+1408899600,Eibar,Real Sociedad,4U3vjZKk,vJb36ZBF,1,0,,,,0
+1408906800,Celta Vigo,Getafe,SOY3p1Si,YmCZKGcR,3,1,,,,0
+1408906800,Barcelona,Elche,fcDVLdrL,YmCZKGcR,3,0,,,,0
+1408914000,Levante,Villarreal,8toS1iya,GSuwY3p9,0,2,,,,0
+1408989600,Real Madrid,Cordoba,fcDVLdrL,8GkSmkbF,2,0,,,,0
+1408996800,Rayo Vallecano,Atl. Madrid,EPWyZtpb,nLBjwR1F,0,0,,,,0
+1409335200,Getafe,Almeria,YmCZKGcR,nDyT2xMM,1,0,,,,0
+1409342400,Valencia,Malaga,MHrRLNUo,I5Xd92rn,3,0,,,,0
+1409418000,Cordoba,Celta Vigo,8GkSmkbF,SOY3p1Si,1,1,,,,0
+1409418000,Ath Bilbao,Levante,vJb36ZBF,8toS1iya,3,0,,,,0
+1409425200,Atl. Madrid,Eibar,nLBjwR1F,4U3vjZKk,2,1,,,,0
+1409432400,Espanyol,Sevilla,8GL0cHSF,tIT0KyhE,1,2,,,,0
+1409504400,Villarreal,Barcelona,GSuwY3p9,fcDVLdrL,0,1,,,,0
+1409511600,Real Sociedad,Real Madrid,vJb36ZBF,fcDVLdrL,4,2,,,,0
+1409511600,Dep. La Coruna,Rayo Vallecano,G2YIZIXN,EPWyZtpb,2,2,,,,0
+1409518800,Elche,Granada CF,YmCZKGcR,YmCZKGcR,1,1,,,,0
+1410548400,Almeria,Cordoba,nDyT2xMM,8GkSmkbF,1,1,,,,0
+1410616800,Barcelona,Ath Bilbao,fcDVLdrL,vJb36ZBF,2,0,,,,0
+1410624000,Malaga,Levante,I5Xd92rn,8toS1iya,0,0,,,,0
+1410631200,Real Madrid,Atl. Madrid,fcDVLdrL,nLBjwR1F,1,2,,,,0
+1410638400,Celta Vigo,Real Sociedad,SOY3p1Si,vJb36ZBF,2,2,,,,0
+1410688800,Rayo Vallecano,Elche,EPWyZtpb,YmCZKGcR,2,3,,,,0
+1410706800,Valencia,Espanyol,MHrRLNUo,8GL0cHSF,3,1,,,,0
+1410714000,Sevilla,Getafe,tIT0KyhE,YmCZKGcR,2,0,,,,0
+1410721200,Granada CF,Villarreal,YmCZKGcR,GSuwY3p9,0,0,,,,0
+1410806700,Eibar,Dep. La Coruna,4U3vjZKk,G2YIZIXN,0,1,,,,0
+1411153200,Elche,Eibar,YmCZKGcR,4U3vjZKk,0,2,,,,0
+1411221600,Dep. La Coruna,Real Madrid,G2YIZIXN,fcDVLdrL,2,8,,,,0
+1411228800,Ath Bilbao,Granada CF,vJb36ZBF,YmCZKGcR,0,1,,,,0
+1411236000,Atl. Madrid,Celta Vigo,nLBjwR1F,SOY3p1Si,2,2,,,,0
+1411243200,Espanyol,Malaga,8GL0cHSF,I5Xd92rn,2,2,,,,0
+1411293600,Real Sociedad,Almeria,vJb36ZBF,nDyT2xMM,1,2,,,,0
+1411311600,Villarreal,Rayo Vallecano,GSuwY3p9,EPWyZtpb,4,2,,,,0
+1411318800,Cordoba,Sevilla,8GkSmkbF,tIT0KyhE,1,3,,,,0
+1411326000,Levante,Barcelona,8toS1iya,fcDVLdrL,0,5,,,,0
+1411411500,Getafe,Valencia,YmCZKGcR,MHrRLNUo,0,3,,,,0
+1411495200,Real Madrid,Elche,fcDVLdrL,YmCZKGcR,5,1,,,,0
+1411502400,Celta Vigo,Dep. La Coruna,SOY3p1Si,G2YIZIXN,2,1,,,,0
+1411581600,Rayo Vallecano,Ath Bilbao,EPWyZtpb,vJb36ZBF,2,1,,,,0
+1411581600,Eibar,Villarreal,4U3vjZKk,GSuwY3p9,1,1,,,,0
+1411581600,Almeria,Atl. Madrid,nDyT2xMM,nLBjwR1F,0,1,,,,0
+1411588800,Sevilla,Real Sociedad,tIT0KyhE,vJb36ZBF,1,0,,,,0
+1411588800,Malaga,Barcelona,I5Xd92rn,fcDVLdrL,0,0,,,,0
+1411588800,Granada CF,Levante,YmCZKGcR,8toS1iya,0,1,,,,0
+1411668000,Espanyol,Getafe,8GL0cHSF,YmCZKGcR,2,0,,,,0
+1411675200,Valencia,Cordoba,MHrRLNUo,8GkSmkbF,3,0,,,,0
+1411758000,Elche,Celta Vigo,YmCZKGcR,SOY3p1Si,0,1,,,,0
+1411826400,Villarreal,Real Madrid,GSuwY3p9,fcDVLdrL,0,2,,,,0
+1411833600,Barcelona,Granada CF,fcDVLdrL,YmCZKGcR,6,0,,,,0
+1411840800,Atl. Madrid,Sevilla,nLBjwR1F,tIT0KyhE,4,0,,,,0
+1411848000,Levante,Rayo Vallecano,8toS1iya,EPWyZtpb,0,2,,,,0
+1411848000,Ath Bilbao,Eibar,vJb36ZBF,4U3vjZKk,0,0,,,,0
+1411898400,Getafe,Malaga,YmCZKGcR,I5Xd92rn,1,0,,,,0
+1411916400,Dep. La Coruna,Almeria,G2YIZIXN,nDyT2xMM,0,1,,,,0
+1411923600,Real Sociedad,Valencia,vJb36ZBF,MHrRLNUo,1,1,,,,0
+1411930800,Cordoba,Espanyol,8GkSmkbF,8GL0cHSF,0,0,,,,0
+1412362800,Getafe,Cordoba,YmCZKGcR,8GkSmkbF,1,1,,,,0
+1412431200,Valencia,Atl. Madrid,MHrRLNUo,nLBjwR1F,3,1,,,,0
+1412438400,Rayo Vallecano,Barcelona,EPWyZtpb,fcDVLdrL,0,2,,,,0
+1412445600,Eibar,Levante,4U3vjZKk,8toS1iya,3,3,,,,0
+1412452800,Malaga,Granada CF,I5Xd92rn,YmCZKGcR,2,1,,,,0
+1412452800,Almeria,Elche,nDyT2xMM,YmCZKGcR,2,2,,,,0
+1412503200,Sevilla,Dep. La Coruna,tIT0KyhE,G2YIZIXN,4,1,,,,0
+1412521200,Celta Vigo,Villarreal,SOY3p1Si,GSuwY3p9,1,3,,,,0
+1412528400,Espanyol,Real Sociedad,8GL0cHSF,vJb36ZBF,2,0,,,,0
+1412535600,Real Madrid,Ath Bilbao,fcDVLdrL,vJb36ZBF,5,0,,,,0
+1413572400,Granada CF,Rayo Vallecano,YmCZKGcR,EPWyZtpb,0,1,,,,0
+1413640800,Levante,Real Madrid,8toS1iya,fcDVLdrL,0,5,,,,0
+1413648000,Ath Bilbao,Celta Vigo,vJb36ZBF,SOY3p1Si,1,1,,,,0
+1413655200,Barcelona,Eibar,fcDVLdrL,4U3vjZKk,3,0,,,,0
+1413662400,Cordoba,Malaga,8GkSmkbF,I5Xd92rn,1,2,,,,0
+1413712800,Atl. Madrid,Espanyol,nLBjwR1F,8GL0cHSF,2,0,,,,0
+1413730800,Dep. La Coruna,Valencia,G2YIZIXN,MHrRLNUo,3,0,,,,0
+1413738000,Elche,Sevilla,YmCZKGcR,tIT0KyhE,0,2,,,,0
+1413745200,Villarreal,Almeria,GSuwY3p9,nDyT2xMM,2,0,,,,0
+1413830700,Real Sociedad,Getafe,vJb36ZBF,YmCZKGcR,1,2,,,,0
+1414177200,Celta Vigo,Levante,SOY3p1Si,8toS1iya,3,0,,,,0
+1414245600,Almeria,Ath Bilbao,nDyT2xMM,vJb36ZBF,0,1,,,,0
+1414252800,Real Madrid,Barcelona,fcDVLdrL,fcDVLdrL,3,1,,,,0
+1414260000,Valencia,Elche,MHrRLNUo,YmCZKGcR,3,1,,,,0
+1414267200,Eibar,Granada CF,4U3vjZKk,YmCZKGcR,1,1,,,,0
+1414267200,Cordoba,Real Sociedad,8GkSmkbF,vJb36ZBF,1,1,,,,0
+1414321200,Malaga,Rayo Vallecano,I5Xd92rn,EPWyZtpb,4,0,,,,0
+1414339200,Espanyol,Dep. La Coruna,8GL0cHSF,G2YIZIXN,0,0,,,,0
+1414346400,Sevilla,Villarreal,tIT0KyhE,GSuwY3p9,2,1,,,,0
+1414353600,Getafe,Atl. Madrid,YmCZKGcR,nLBjwR1F,0,1,,,,0
+1414784700,Dep. La Coruna,Getafe,G2YIZIXN,YmCZKGcR,1,2,,,,0
+1414854000,Granada CF,Real Madrid,YmCZKGcR,fcDVLdrL,0,4,,,,0
+1414861200,Atl. Madrid,Cordoba,nLBjwR1F,8GkSmkbF,4,2,,,,0
+1414868400,Barcelona,Celta Vigo,fcDVLdrL,SOY3p1Si,0,1,,,,0
+1414875600,Real Sociedad,Malaga,vJb36ZBF,I5Xd92rn,0,1,,,,0
+1414926000,Ath Bilbao,Sevilla,vJb36ZBF,tIT0KyhE,1,0,,,,0
+1414944000,Villarreal,Valencia,GSuwY3p9,MHrRLNUo,1,3,,,,0
+1414951200,Levante,Almeria,8toS1iya,nDyT2xMM,2,1,,,,0
+1414958400,Elche,Espanyol,YmCZKGcR,8GL0cHSF,2,1,,,,0
+1415043900,Rayo Vallecano,Eibar,EPWyZtpb,4U3vjZKk,2,3,,,,0
+1415389500,Cordoba,Dep. La Coruna,8GkSmkbF,G2YIZIXN,0,0,,,,0
+1415458800,Almeria,Barcelona,nDyT2xMM,fcDVLdrL,1,2,,,,0
+1415466000,Getafe,Elche,YmCZKGcR,YmCZKGcR,0,0,,,,0
+1415473200,Real Madrid,Rayo Vallecano,fcDVLdrL,EPWyZtpb,5,1,,,,0
+1415480400,Malaga,Eibar,I5Xd92rn,4U3vjZKk,2,1,,,,0
+1415480400,Celta Vigo,Granada CF,SOY3p1Si,YmCZKGcR,0,0,,,,0
+1415530800,Sevilla,Levante,tIT0KyhE,8toS1iya,1,1,,,,0
+1415548800,Espanyol,Villarreal,8GL0cHSF,GSuwY3p9,1,1,,,,0
+1415556000,Valencia,Ath Bilbao,MHrRLNUo,vJb36ZBF,0,0,,,,0
+1415563200,Real Sociedad,Atl. Madrid,vJb36ZBF,nLBjwR1F,2,1,,,,0
+1416599100,Ath Bilbao,Espanyol,vJb36ZBF,8GL0cHSF,3,1,,,,0
+1416668400,Atl. Madrid,Malaga,nLBjwR1F,I5Xd92rn,3,1,,,,0
+1416675600,Eibar,Real Madrid,4U3vjZKk,fcDVLdrL,0,4,,,,0
+1416682800,Barcelona,Sevilla,fcDVLdrL,tIT0KyhE,5,1,,,,0
+1416690000,Dep. La Coruna,Real Sociedad,G2YIZIXN,vJb36ZBF,0,0,,,,0
+1416740400,Rayo Vallecano,Celta Vigo,EPWyZtpb,SOY3p1Si,1,0,,,,0
+1416758400,Levante,Valencia,8toS1iya,MHrRLNUo,2,1,,,,0
+1416765600,Elche,Cordoba,YmCZKGcR,8GkSmkbF,2,2,,,,0
+1416772800,Villarreal,Getafe,GSuwY3p9,YmCZKGcR,2,1,,,,0
+1416858300,Granada CF,Almeria,YmCZKGcR,nDyT2xMM,0,0,,,,0
+1417203900,Real Sociedad,Elche,vJb36ZBF,YmCZKGcR,3,0,,,,0
+1417273200,Getafe,Ath Bilbao,YmCZKGcR,vJb36ZBF,1,2,,,,0
+1417280400,Espanyol,Levante,8GL0cHSF,8toS1iya,2,1,,,,0
+1417287600,Malaga,Real Madrid,I5Xd92rn,fcDVLdrL,1,2,,,,0
+1417294800,Celta Vigo,Eibar,SOY3p1Si,4U3vjZKk,0,1,,,,0
+1417345200,Atl. Madrid,Dep. La Coruna,nLBjwR1F,G2YIZIXN,2,0,,,,0
+1417363200,Sevilla,Granada CF,tIT0KyhE,YmCZKGcR,5,1,,,,0
+1417370400,Cordoba,Villarreal,8GkSmkbF,GSuwY3p9,0,2,,,,0
+1417377600,Valencia,Barcelona,MHrRLNUo,fcDVLdrL,0,1,,,,0
+1417463100,Almeria,Rayo Vallecano,nDyT2xMM,EPWyZtpb,0,1,,,,0
+1417878000,Elche,Atl. Madrid,YmCZKGcR,nLBjwR1F,0,2,,,,0
+1417885200,Ath Bilbao,Cordoba,vJb36ZBF,8GkSmkbF,0,1,,,,0
+1417892400,Real Madrid,Celta Vigo,fcDVLdrL,SOY3p1Si,3,0,,,,0
+1417899600,Dep. La Coruna,Malaga,G2YIZIXN,I5Xd92rn,0,1,,,,0
+1417950000,Rayo Vallecano,Sevilla,EPWyZtpb,tIT0KyhE,0,1,,,,0
+1417968000,Barcelona,Espanyol,fcDVLdrL,8GL0cHSF,5,1,,,,0
+1417975200,Villarreal,Real Sociedad,GSuwY3p9,vJb36ZBF,4,0,,,,0
+1417982400,Granada CF,Valencia,YmCZKGcR,MHrRLNUo,1,1,,,,0
+1418054400,Eibar,Almeria,4U3vjZKk,nDyT2xMM,5,2,,,,0
+1418061600,Levante,Getafe,8toS1iya,YmCZKGcR,1,1,,,,0
+1418413500,Almeria,Real Madrid,nDyT2xMM,fcDVLdrL,1,4,,,,0
+1418482800,Getafe,Barcelona,YmCZKGcR,fcDVLdrL,0,0,,,,0
+1418490000,Valencia,Rayo Vallecano,MHrRLNUo,EPWyZtpb,3,0,,,,0
+1418497200,Cordoba,Levante,8GkSmkbF,8toS1iya,0,0,,,,0
+1418504400,Malaga,Celta Vigo,I5Xd92rn,SOY3p1Si,1,0,,,,0
+1418554800,Espanyol,Granada CF,8GL0cHSF,YmCZKGcR,2,1,,,,0
+1418572800,Sevilla,Eibar,tIT0KyhE,4U3vjZKk,0,0,,,,0
+1418580000,Atl. Madrid,Villarreal,nLBjwR1F,GSuwY3p9,0,1,,,,0
+1418587200,Real Sociedad,Ath Bilbao,vJb36ZBF,vJb36ZBF,1,1,,,,0
+1418672700,Dep. La Coruna,Elche,G2YIZIXN,YmCZKGcR,1,0,,,,0
+1419018300,Celta Vigo,Almeria,SOY3p1Si,nDyT2xMM,0,1,,,,0
+1419087600,Barcelona,Cordoba,fcDVLdrL,8GkSmkbF,5,0,,,,0
+1419094800,Levante,Real Sociedad,8toS1iya,vJb36ZBF,1,1,,,,0
+1419102000,Eibar,Valencia,4U3vjZKk,MHrRLNUo,0,1,,,,0
+1419109200,Rayo Vallecano,Espanyol,EPWyZtpb,8GL0cHSF,1,3,,,,0
+1419159600,Villarreal,Dep. La Coruna,GSuwY3p9,G2YIZIXN,3,0,,,,0
+1419177600,Granada CF,Getafe,YmCZKGcR,YmCZKGcR,1,1,,,,0
+1419184800,Elche,Malaga,YmCZKGcR,I5Xd92rn,1,2,,,,0
+1419192000,Ath Bilbao,Atl. Madrid,vJb36ZBF,nLBjwR1F,1,4,,,,0
+1420297200,Atl. Madrid,Levante,nLBjwR1F,8toS1iya,3,1,,,,0
+1420304400,Sevilla,Celta Vigo,tIT0KyhE,SOY3p1Si,1,0,,,,0
+1420311600,Elche,Villarreal,YmCZKGcR,GSuwY3p9,2,2,,,,0
+1420318800,Malaga,Almeria,I5Xd92rn,nDyT2xMM,1,2,,,,0
+1420318800,Dep. La Coruna,Ath Bilbao,G2YIZIXN,vJb36ZBF,1,0,,,,0
+1420369200,Getafe,Rayo Vallecano,YmCZKGcR,EPWyZtpb,1,2,,,,0
+1420387200,Valencia,Real Madrid,MHrRLNUo,fcDVLdrL,2,1,,,,0
+1420394400,Espanyol,Eibar,8GL0cHSF,4U3vjZKk,1,2,,,,0
+1420401600,Real Sociedad,Barcelona,vJb36ZBF,fcDVLdrL,1,0,,,,0
+1420487100,Cordoba,Granada CF,8GkSmkbF,YmCZKGcR,2,0,,,,0
+1420832700,Levante,Dep. La Coruna,8toS1iya,G2YIZIXN,0,0,,,,0
+1420902000,Real Madrid,Espanyol,fcDVLdrL,8GL0cHSF,3,0,,,,0
+1420909200,Malaga,Villarreal,I5Xd92rn,GSuwY3p9,1,1,,,,0
+1420916400,Celta Vigo,Valencia,SOY3p1Si,MHrRLNUo,1,1,,,,0
+1420923600,Eibar,Getafe,4U3vjZKk,YmCZKGcR,2,1,,,,0
+1420974000,Almeria,Sevilla,nDyT2xMM,tIT0KyhE,0,2,,,,0
+1420992000,Ath Bilbao,Elche,vJb36ZBF,YmCZKGcR,1,2,,,,0
+1420999200,Granada CF,Real Sociedad,YmCZKGcR,vJb36ZBF,1,1,,,,0
+1421006400,Barcelona,Atl. Madrid,fcDVLdrL,nLBjwR1F,3,1,,,,0
+1421091900,Rayo Vallecano,Cordoba,EPWyZtpb,8GkSmkbF,0,1,,,,0
+1421437500,Cordoba,Eibar,8GkSmkbF,4U3vjZKk,1,1,,,,0
+1421506800,Real Sociedad,Rayo Vallecano,vJb36ZBF,EPWyZtpb,0,1,,,,0
+1421514000,Valencia,Almeria,MHrRLNUo,nDyT2xMM,3,2,,,,0
+1421521200,Villarreal,Ath Bilbao,GSuwY3p9,vJb36ZBF,2,0,,,,0
+1421528400,Espanyol,Celta Vigo,8GL0cHSF,SOY3p1Si,1,0,,,,0
+1421578800,Getafe,Real Madrid,YmCZKGcR,fcDVLdrL,0,3,,,,0
+1421596800,Atl. Madrid,Granada CF,nLBjwR1F,YmCZKGcR,2,0,,,,0
+1421604000,Dep. La Coruna,Barcelona,G2YIZIXN,fcDVLdrL,0,4,,,,0
+1421611200,Sevilla,Malaga,tIT0KyhE,I5Xd92rn,2,0,,,,0
+1421611200,Elche,Levante,YmCZKGcR,8toS1iya,1,0,,,,0
+1422111600,Cordoba,Real Madrid,8GkSmkbF,fcDVLdrL,1,2,,,,0
+1422118800,Elche,Barcelona,YmCZKGcR,fcDVLdrL,0,6,,,,0
+1422126000,Atl. Madrid,Rayo Vallecano,nLBjwR1F,EPWyZtpb,3,1,,,,0
+1422133200,Villarreal,Levante,GSuwY3p9,8toS1iya,1,0,,,,0
+1422133200,Real Sociedad,Eibar,vJb36ZBF,4U3vjZKk,1,0,,,,0
+1422183600,Dep. La Coruna,Granada CF,G2YIZIXN,YmCZKGcR,2,2,,,,0
+1422201600,Ath Bilbao,Malaga,vJb36ZBF,I5Xd92rn,1,1,,,,0
+1422208800,Espanyol,Almeria,8GL0cHSF,nDyT2xMM,3,0,,,,0
+1422216000,Valencia,Sevilla,MHrRLNUo,tIT0KyhE,3,1,,,,0
+1422301500,Getafe,Celta Vigo,YmCZKGcR,SOY3p1Si,2,1,,,,0
+1422647100,Rayo Vallecano,Dep. La Coruna,EPWyZtpb,G2YIZIXN,1,2,,,,0
+1422716400,Real Madrid,Real Sociedad,fcDVLdrL,vJb36ZBF,4,1,,,,0
+1422723600,Eibar,Atl. Madrid,4U3vjZKk,nLBjwR1F,1,3,,,,0
+1422730800,Granada CF,Elche,YmCZKGcR,YmCZKGcR,1,0,,,,0
+1422738000,Celta Vigo,Cordoba,SOY3p1Si,8GkSmkbF,1,0,,,,0
+1422788400,Levante,Ath Bilbao,8toS1iya,vJb36ZBF,0,2,,,,0
+1422806400,Almeria,Getafe,nDyT2xMM,YmCZKGcR,1,0,,,,0
+1422813600,Sevilla,Espanyol,tIT0KyhE,8GL0cHSF,3,2,,,,0
+1422820800,Barcelona,Villarreal,fcDVLdrL,GSuwY3p9,3,2,,,,0
+1422906300,Malaga,Valencia,I5Xd92rn,MHrRLNUo,1,0,,,,0
+1423079100,Real Madrid,Sevilla,fcDVLdrL,tIT0KyhE,2,1,,,,0
+1423251900,Dep. La Coruna,Eibar,G2YIZIXN,4U3vjZKk,2,0,,,,0
+1423321200,Atl. Madrid,Real Madrid,nLBjwR1F,fcDVLdrL,4,0,,,,0
+1423328400,Villarreal,Granada CF,GSuwY3p9,YmCZKGcR,2,0,,,,0
+1423335600,Levante,Malaga,8toS1iya,I5Xd92rn,4,1,,,,0
+1423342800,Real Sociedad,Celta Vigo,vJb36ZBF,SOY3p1Si,1,1,,,,0
+1423393200,Cordoba,Almeria,8GkSmkbF,nDyT2xMM,1,2,,,,0
+1423411200,Getafe,Sevilla,YmCZKGcR,tIT0KyhE,2,1,,,,0
+1423418400,Espanyol,Valencia,8GL0cHSF,MHrRLNUo,1,2,,,,0
+1423425600,Ath Bilbao,Barcelona,vJb36ZBF,fcDVLdrL,2,5,,,,0
+1423511100,Elche,Rayo Vallecano,YmCZKGcR,EPWyZtpb,2,0,,,,0
+1423856700,Almeria,Real Sociedad,nDyT2xMM,vJb36ZBF,2,2,,,,0
+1423926000,Sevilla,Cordoba,tIT0KyhE,8GkSmkbF,3,0,,,,0
+1423933200,Real Madrid,Dep. La Coruna,fcDVLdrL,G2YIZIXN,2,0,,,,0
+1423940400,Granada CF,Ath Bilbao,YmCZKGcR,vJb36ZBF,0,0,,,,0
+1423947600,Malaga,Espanyol,I5Xd92rn,8GL0cHSF,0,2,,,,0
+1423998000,Valencia,Getafe,MHrRLNUo,YmCZKGcR,1,0,,,,0
+1424016000,Barcelona,Levante,fcDVLdrL,8toS1iya,5,0,,,,0
+1424023200,Rayo Vallecano,Villarreal,EPWyZtpb,GSuwY3p9,2,0,,,,0
+1424030400,Celta Vigo,Atl. Madrid,SOY3p1Si,nLBjwR1F,2,0,,,,0
+1424115900,Eibar,Elche,4U3vjZKk,YmCZKGcR,0,1,,,,0
+1424461500,Getafe,Espanyol,YmCZKGcR,8GL0cHSF,2,1,,,,0
+1424530800,Barcelona,Malaga,fcDVLdrL,I5Xd92rn,0,1,,,,0
+1424538000,Cordoba,Valencia,8GkSmkbF,MHrRLNUo,1,2,,,,0
+1424545200,Atl. Madrid,Almeria,nLBjwR1F,nDyT2xMM,3,0,,,,0
+1424552400,Dep. La Coruna,Celta Vigo,G2YIZIXN,SOY3p1Si,0,2,,,,0
+1424602800,Real Sociedad,Sevilla,vJb36ZBF,tIT0KyhE,4,3,,,,0
+1424620800,Ath Bilbao,Rayo Vallecano,vJb36ZBF,EPWyZtpb,1,0,,,,0
+1424628000,Villarreal,Eibar,GSuwY3p9,4U3vjZKk,1,0,,,,0
+1424635200,Elche,Real Madrid,YmCZKGcR,fcDVLdrL,0,2,,,,0
+1424720700,Levante,Granada CF,8toS1iya,YmCZKGcR,2,1,,,,0
+1425066300,Espanyol,Cordoba,8GL0cHSF,8GkSmkbF,1,0,,,,0
+1425135600,Granada CF,Barcelona,YmCZKGcR,fcDVLdrL,1,3,,,,0
+1425142800,Rayo Vallecano,Levante,EPWyZtpb,8toS1iya,4,2,,,,0
+1425150000,Almeria,Dep. La Coruna,nDyT2xMM,G2YIZIXN,0,0,,,,0
+1425157200,Malaga,Getafe,I5Xd92rn,YmCZKGcR,3,2,,,,0
+1425207600,Valencia,Real Sociedad,MHrRLNUo,vJb36ZBF,2,0,,,,0
+1425225600,Eibar,Ath Bilbao,4U3vjZKk,vJb36ZBF,0,1,,,,0
+1425232800,Sevilla,Atl. Madrid,tIT0KyhE,nLBjwR1F,0,0,,,,0
+1425240000,Real Madrid,Villarreal,fcDVLdrL,GSuwY3p9,1,1,,,,0
+1425325500,Celta Vigo,Elche,SOY3p1Si,YmCZKGcR,1,1,,,,0
+1425671100,Levante,Eibar,8toS1iya,4U3vjZKk,2,1,,,,0
+1425740400,Dep. La Coruna,Sevilla,G2YIZIXN,tIT0KyhE,3,4,,,,0
+1425747600,Ath Bilbao,Real Madrid,vJb36ZBF,fcDVLdrL,1,0,,,,0
+1425754800,Elche,Almeria,YmCZKGcR,nDyT2xMM,1,0,,,,0
+1425762000,Granada CF,Malaga,YmCZKGcR,I5Xd92rn,1,0,,,,0
+1425812400,Barcelona,Rayo Vallecano,fcDVLdrL,EPWyZtpb,6,1,,,,0
+1425830400,Real Sociedad,Espanyol,vJb36ZBF,8GL0cHSF,1,0,,,,0
+1425837600,Villarreal,Celta Vigo,GSuwY3p9,SOY3p1Si,4,1,,,,0
+1425844800,Atl. Madrid,Valencia,nLBjwR1F,MHrRLNUo,1,1,,,,0
+1425930300,Cordoba,Getafe,8GkSmkbF,YmCZKGcR,1,2,,,,0
+1426275900,Valencia,Dep. La Coruna,MHrRLNUo,G2YIZIXN,2,0,,,,0
+1426345200,Espanyol,Atl. Madrid,8GL0cHSF,nLBjwR1F,0,0,,,,0
+1426352400,Eibar,Barcelona,4U3vjZKk,fcDVLdrL,0,2,,,,0
+1426359600,Rayo Vallecano,Granada CF,EPWyZtpb,YmCZKGcR,3,1,,,,0
+1426366800,Celta Vigo,Ath Bilbao,SOY3p1Si,vJb36ZBF,1,2,,,,0
+1426417200,Almeria,Villarreal,nDyT2xMM,GSuwY3p9,0,0,,,,0
+1426435200,Malaga,Cordoba,I5Xd92rn,8GkSmkbF,2,0,,,,0
+1426442400,Sevilla,Elche,tIT0KyhE,YmCZKGcR,3,0,,,,0
+1426449600,Real Madrid,Levante,fcDVLdrL,8toS1iya,2,0,,,,0
+1426535100,Getafe,Real Sociedad,YmCZKGcR,vJb36ZBF,0,1,,,,0
+1426880700,Elche,Valencia,YmCZKGcR,MHrRLNUo,0,4,,,,0
+1426950000,Atl. Madrid,Getafe,nLBjwR1F,YmCZKGcR,2,0,,,,0
+1426957200,Rayo Vallecano,Malaga,EPWyZtpb,I5Xd92rn,1,0,,,,0
+1426964400,Levante,Celta Vigo,8toS1iya,SOY3p1Si,0,1,,,,0
+1426971600,Granada CF,Eibar,YmCZKGcR,4U3vjZKk,0,0,,,,0
+1426971600,Ath Bilbao,Almeria,vJb36ZBF,nDyT2xMM,2,1,,,,0
+1427022000,Dep. La Coruna,Espanyol,G2YIZIXN,8GL0cHSF,0,0,,,,0
+1427040000,Villarreal,Sevilla,GSuwY3p9,tIT0KyhE,0,2,,,,0
+1427047200,Real Sociedad,Cordoba,vJb36ZBF,8GkSmkbF,3,1,,,,0
+1427054400,Barcelona,Real Madrid,fcDVLdrL,fcDVLdrL,2,1,,,,0
+1428086700,Eibar,Rayo Vallecano,4U3vjZKk,EPWyZtpb,1,2,,,,0
+1428156000,Sevilla,Ath Bilbao,tIT0KyhE,vJb36ZBF,2,0,,,,0
+1428163200,Cordoba,Atl. Madrid,8GkSmkbF,nLBjwR1F,0,2,,,,0
+1428170400,Almeria,Levante,nDyT2xMM,8toS1iya,1,4,,,,0
+1428177600,Malaga,Real Sociedad,I5Xd92rn,vJb36ZBF,1,1,,,,0
+1428228000,Real Madrid,Granada CF,fcDVLdrL,YmCZKGcR,9,1,,,,0
+1428246000,Valencia,Villarreal,MHrRLNUo,GSuwY3p9,0,0,,,,0
+1428253200,Getafe,Dep. La Coruna,YmCZKGcR,G2YIZIXN,2,1,,,,0
+1428260400,Celta Vigo,Barcelona,SOY3p1Si,fcDVLdrL,0,1,,,,0
+1428343200,Espanyol,Elche,8GL0cHSF,YmCZKGcR,1,1,,,,0
+1428429600,Atl. Madrid,Real Sociedad,nLBjwR1F,vJb36ZBF,2,0,,,,0
+1428436800,Levante,Sevilla,8toS1iya,tIT0KyhE,1,2,,,,0
+1428436800,Eibar,Malaga,4U3vjZKk,I5Xd92rn,1,0,,,,0
+1428516000,Dep. La Coruna,Cordoba,G2YIZIXN,8GkSmkbF,1,1,,,,0
+1428516000,Barcelona,Almeria,fcDVLdrL,nDyT2xMM,4,0,,,,0
+1428523200,Rayo Vallecano,Real Madrid,EPWyZtpb,fcDVLdrL,0,2,,,,0
+1428523200,Granada CF,Celta Vigo,YmCZKGcR,SOY3p1Si,1,1,,,,0
+1428602400,Ath Bilbao,Valencia,vJb36ZBF,MHrRLNUo,1,1,,,,0
+1428609600,Villarreal,Espanyol,GSuwY3p9,8GL0cHSF,0,3,,,,0
+1428609600,Elche,Getafe,YmCZKGcR,YmCZKGcR,0,1,,,,0
+1428760800,Real Madrid,Eibar,fcDVLdrL,4U3vjZKk,3,0,,,,0
+1428768000,Malaga,Atl. Madrid,I5Xd92rn,nLBjwR1F,2,2,,,,0
+1428775200,Sevilla,Barcelona,tIT0KyhE,fcDVLdrL,2,2,,,,0
+1428782400,Celta Vigo,Rayo Vallecano,SOY3p1Si,EPWyZtpb,6,1,,,,0
+1428782400,Almeria,Granada CF,nDyT2xMM,YmCZKGcR,3,0,,,,0
+1428832800,Getafe,Villarreal,YmCZKGcR,GSuwY3p9,1,1,,,,0
+1428850800,Espanyol,Ath Bilbao,8GL0cHSF,vJb36ZBF,1,0,,,,0
+1428858000,Real Sociedad,Dep. La Coruna,vJb36ZBF,G2YIZIXN,2,2,,,,0
+1428865200,Cordoba,Elche,8GkSmkbF,YmCZKGcR,0,2,,,,0
+1428949800,Valencia,Levante,MHrRLNUo,8toS1iya,3,0,,,,0
+1429296300,Levante,Espanyol,8toS1iya,8GL0cHSF,2,2,,,,0
+1429365600,Barcelona,Valencia,fcDVLdrL,MHrRLNUo,2,0,,,,0
+1429372800,Dep. La Coruna,Atl. Madrid,G2YIZIXN,nLBjwR1F,1,2,,,,0
+1429380000,Real Madrid,Malaga,fcDVLdrL,I5Xd92rn,3,1,,,,0
+1429387200,Ath Bilbao,Getafe,vJb36ZBF,YmCZKGcR,4,0,,,,0
+1429437600,Rayo Vallecano,Almeria,EPWyZtpb,nDyT2xMM,2,0,,,,0
+1429455600,Granada CF,Sevilla,YmCZKGcR,tIT0KyhE,1,1,,,,0
+1429462800,Villarreal,Cordoba,GSuwY3p9,8GkSmkbF,0,0,,,,0
+1429470000,Eibar,Celta Vigo,4U3vjZKk,SOY3p1Si,0,1,,,,0
+1429555500,Elche,Real Sociedad,YmCZKGcR,vJb36ZBF,1,0,,,,0
+1429901100,Cordoba,Ath Bilbao,8GkSmkbF,vJb36ZBF,0,1,,,,0
+1429970400,Espanyol,Barcelona,8GL0cHSF,fcDVLdrL,0,2,,,,0
+1429977600,Atl. Madrid,Elche,nLBjwR1F,YmCZKGcR,3,0,,,,0
+1429984800,Getafe,Levante,YmCZKGcR,8toS1iya,0,1,,,,0
+1429992000,Real Sociedad,Villarreal,vJb36ZBF,GSuwY3p9,0,0,,,,0
+1430042400,Malaga,Dep. La Coruna,I5Xd92rn,G2YIZIXN,1,1,,,,0
+1430060400,Almeria,Eibar,nDyT2xMM,4U3vjZKk,2,0,,,,0
+1430067600,Sevilla,Rayo Vallecano,tIT0KyhE,EPWyZtpb,2,0,,,,0
+1430074800,Celta Vigo,Real Madrid,SOY3p1Si,fcDVLdrL,2,4,,,,0
+1430160300,Valencia,Granada CF,MHrRLNUo,YmCZKGcR,4,0,,,,0
+1430244000,Barcelona,Getafe,fcDVLdrL,YmCZKGcR,6,0,,,,0
+1430251200,Levante,Cordoba,8toS1iya,8GkSmkbF,1,0,,,,0
+1430251200,Ath Bilbao,Real Sociedad,vJb36ZBF,vJb36ZBF,1,1,,,,0
+1430330400,Real Madrid,Almeria,fcDVLdrL,nDyT2xMM,3,0,,,,0
+1430330400,Eibar,Sevilla,4U3vjZKk,tIT0KyhE,1,3,,,,0
+1430330400,Celta Vigo,Malaga,SOY3p1Si,I5Xd92rn,1,0,,,,0
+1430337600,Villarreal,Atl. Madrid,GSuwY3p9,nLBjwR1F,0,1,,,,0
+1430337600,Elche,Dep. La Coruna,YmCZKGcR,G2YIZIXN,4,0,,,,0
+1430416800,Rayo Vallecano,Valencia,EPWyZtpb,MHrRLNUo,1,1,,,,0
+1430424000,Granada CF,Espanyol,YmCZKGcR,8GL0cHSF,1,2,,,,0
+1430505900,Real Sociedad,Levante,vJb36ZBF,8toS1iya,3,0,,,,0
+1430575200,Cordoba,Barcelona,8GkSmkbF,fcDVLdrL,0,8,,,,0
+1430582400,Atl. Madrid,Ath Bilbao,nLBjwR1F,vJb36ZBF,0,0,,,,0
+1430589600,Sevilla,Real Madrid,tIT0KyhE,fcDVLdrL,2,3,,,,0
+1430596800,Dep. La Coruna,Villarreal,G2YIZIXN,GSuwY3p9,1,1,,,,0
+1430647200,Espanyol,Rayo Vallecano,8GL0cHSF,EPWyZtpb,1,1,,,,0
+1430665200,Getafe,Granada CF,YmCZKGcR,YmCZKGcR,1,2,,,,0
+1430672400,Valencia,Eibar,MHrRLNUo,4U3vjZKk,3,1,,,,0
+1430679600,Malaga,Elche,I5Xd92rn,YmCZKGcR,1,2,,,,0
+1430765100,Almeria,Celta Vigo,nDyT2xMM,SOY3p1Si,2,2,,,,0
+1431110700,Eibar,Espanyol,4U3vjZKk,8GL0cHSF,0,2,,,,0
+1431180000,Granada CF,Cordoba,YmCZKGcR,8GkSmkbF,2,0,,,,0
+1431187200,Barcelona,Real Sociedad,fcDVLdrL,vJb36ZBF,2,0,,,,0
+1431194400,Real Madrid,Valencia,fcDVLdrL,MHrRLNUo,2,2,,,,0
+1431201600,Ath Bilbao,Dep. La Coruna,vJb36ZBF,G2YIZIXN,1,1,,,,0
+1431252000,Levante,Atl. Madrid,8toS1iya,nLBjwR1F,2,2,,,,0
+1431270000,Villarreal,Elche,GSuwY3p9,YmCZKGcR,1,0,,,,0
+1431277200,Almeria,Malaga,nDyT2xMM,I5Xd92rn,1,2,,,,0
+1431284400,Celta Vigo,Sevilla,SOY3p1Si,tIT0KyhE,1,1,,,,0
+1431369900,Rayo Vallecano,Getafe,EPWyZtpb,YmCZKGcR,2,0,,,,0
+1431882000,Villarreal,Malaga,GSuwY3p9,I5Xd92rn,2,1,,,,0
+1431882000,Valencia,Celta Vigo,MHrRLNUo,SOY3p1Si,1,1,,,,0
+1431882000,Sevilla,Almeria,tIT0KyhE,nDyT2xMM,2,1,,,,0
+1431882000,Real Sociedad,Granada CF,vJb36ZBF,YmCZKGcR,0,3,,,,0
+1431882000,Getafe,Eibar,YmCZKGcR,4U3vjZKk,1,1,,,,0
+1431882000,Espanyol,Real Madrid,8GL0cHSF,fcDVLdrL,1,4,,,,0
+1431882000,Elche,Ath Bilbao,YmCZKGcR,vJb36ZBF,2,3,,,,0
+1431882000,Dep. La Coruna,Levante,G2YIZIXN,8toS1iya,2,0,,,,0
+1431882000,Cordoba,Rayo Vallecano,8GkSmkbF,EPWyZtpb,1,2,,,,0
+1431882000,Atl. Madrid,Barcelona,nLBjwR1F,fcDVLdrL,0,1,,,,0
+1432391400,Levante,Elche,8toS1iya,YmCZKGcR,0,0,,,,0
+1432398600,Rayo Vallecano,Real Sociedad,EPWyZtpb,vJb36ZBF,2,4,,,,0
+1432398600,Malaga,Sevilla,I5Xd92rn,tIT0KyhE,2,3,,,,0
+1432398600,Granada CF,Atl. Madrid,YmCZKGcR,nLBjwR1F,0,0,,,,0
+1432398600,Eibar,Cordoba,4U3vjZKk,8GkSmkbF,3,0,,,,0
+1432398600,Celta Vigo,Espanyol,SOY3p1Si,8GL0cHSF,3,2,,,,0
+1432398600,Barcelona,Dep. La Coruna,fcDVLdrL,G2YIZIXN,2,2,,,,0
+1432398600,Ath Bilbao,Villarreal,vJb36ZBF,GSuwY3p9,4,0,,,,0
+1432398600,Almeria,Valencia,nDyT2xMM,MHrRLNUo,2,3,,,,0
+1432405800,Real Madrid,Getafe,fcDVLdrL,YmCZKGcR,7,3,,,,0

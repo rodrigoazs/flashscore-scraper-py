@@ -1,48 +1,48 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1660656600,Mohammedan,Goa,3,1,,,,0
-1660726800,Jamshedpur,Bengaluru FC,1,2,,,,0
-1660737600,North East Utd,Odisha FC,0,6,,,,0
-1660815000,Mumbai City,Indian Navy,4,1,,,,0
-1660825800,Neroca FC,TRAU FC,3,1,,,,0
-1660901400,Goa,Indian Air Force,1,0,,,,0
-1660912200,Sudeva Delhi,Kerala Blasters,1,1,,,,0
-1660987800,Chennaiyin,Army Red,2,2,,,,0
-1660998600,Mohun Bagan,Rajasthan United,2,3,,,,0
-1661074200,North East Utd,Army Green,1,3,,,,0
-1661085000,Mohammedan,Jamshedpur,3,0,,,,0
-1661160600,TRAU FC,Hyderabad,0,2,,,,0
-1661171400,East Bengal,Indian Navy,0,0,,,,0
-1661247000,Odisha FC,Kerala Blasters,2,0,,,,0
-1661257800,Bengaluru FC,Indian Air Force,4,0,,,,0
-1661333400,Army Red,Neroca FC,0,0,,,,0
-1661344200,Mohun Bagan,Mumbai City,1,1,,,,0
-1661419800,Army Green,Sudeva Delhi,0,0,,,,0
-1661430600,East Bengal,Rajasthan United,0,0,,,,0
-1661506200,Hyderabad,Chennaiyin,3,1,,,,0
-1661517000,Jamshedpur,Goa,1,0,,,,0
-1661592600,Mohammedan,Indian Air Force,2,0,,,,0
-1661603400,North East Utd,Kerala Blasters,0,3,,,,0
-1661679000,TRAU FC,Army Red,2,1,,,,0
-1661689800,East Bengal,Mohun Bagan,0,1,,,,0
-1661765400,Mumbai City,Rajasthan United,5,1,,,,0
-1661776200,Odisha FC,Sudeva Delhi,3,0,,,,0
-1661851800,Bengaluru FC,Goa,2,2,,,,0
-1661862600,Neroca FC,Hyderabad,0,3,,,,0
-1661938200,Kerala Blasters,Army Green,2,0,,,,0
-1661949000,Mohun Bagan,Indian Navy,2,0,,,,0
-1662024600,Jamshedpur,Indian Air Force,2,1,,,,0
-1662035400,TRAU FC,Chennaiyin,1,4,,,,0
-1662111000,North East Utd,Sudeva Delhi,2,0,,,,0
-1662121800,Mohammedan,Bengaluru FC,1,1,,,,0
-1662197400,Army Red,Hyderabad,1,0,,,,0
-1662208200,East Bengal,Mumbai City,4,3,,,,0
-1662283800,Army Green,Odisha FC,0,1,,,,0
-1662370200,Rajasthan United,Indian Navy,2,0,,,,0
-1662381000,Neroca FC,Chennaiyin,0,2,,,,0
-1662726600,Mohammedan,Kerala Blasters,3,0,,,,0
-1662813000,Odisha FC,Bengaluru FC,0,0,AET,1,2,0
-1662899400,Mumbai City,Chennaiyin,2,2,AET,5,3,0
-1662985800,Hyderabad,Rajasthan United,3,1,,,,0
-1663158600,Mohammedan,Mumbai City,0,1,,,,0
-1663245000,Bengaluru FC,Hyderabad,1,0,,,,0
-1663504200,Bengaluru FC,Mumbai City,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1660656600,Mohammedan,Goa,8E48ZVwH,GdaqjtST,3,1,,,,0
+1660726800,Jamshedpur,Bengaluru FC,4xbRHIEb,vXXubWbe,1,2,,,,0
+1660737600,North East Utd,Odisha FC,URNmjRbg,COxht5b5,0,6,,,,0
+1660815000,Mumbai City,Indian Navy,bk07S9TB,Mi9OXNrn,4,1,,,,0
+1660825800,Neroca FC,TRAU FC,EVwfgUro,06K6DenA,3,1,,,,0
+1660901400,Goa,Indian Air Force,GdaqjtST,h2fDsePe,1,0,,,,0
+1660912200,Sudeva Delhi,Kerala Blasters,zuex8Vc3,f5R8609I,1,1,,,,0
+1660987800,Chennaiyin,Army Red,AkyQ8yz9,rJ5YDcQg,2,2,,,,0
+1660998600,Mohun Bagan,Rajasthan United,6mJliLLj,dCbRX2m8,2,3,,,,0
+1661074200,North East Utd,Army Green,URNmjRbg,rJ5YDcQg,1,3,,,,0
+1661085000,Mohammedan,Jamshedpur,8E48ZVwH,4xbRHIEb,3,0,,,,0
+1661160600,TRAU FC,Hyderabad,06K6DenA,6auKd00m,0,2,,,,0
+1661171400,East Bengal,Indian Navy,UszV04Qg,Mi9OXNrn,0,0,,,,0
+1661247000,Odisha FC,Kerala Blasters,COxht5b5,f5R8609I,2,0,,,,0
+1661257800,Bengaluru FC,Indian Air Force,vXXubWbe,h2fDsePe,4,0,,,,0
+1661333400,Army Red,Neroca FC,rJ5YDcQg,EVwfgUro,0,0,,,,0
+1661344200,Mohun Bagan,Mumbai City,6mJliLLj,bk07S9TB,1,1,,,,0
+1661419800,Army Green,Sudeva Delhi,rJ5YDcQg,zuex8Vc3,0,0,,,,0
+1661430600,East Bengal,Rajasthan United,UszV04Qg,dCbRX2m8,0,0,,,,0
+1661506200,Hyderabad,Chennaiyin,6auKd00m,AkyQ8yz9,3,1,,,,0
+1661517000,Jamshedpur,Goa,4xbRHIEb,GdaqjtST,1,0,,,,0
+1661592600,Mohammedan,Indian Air Force,8E48ZVwH,h2fDsePe,2,0,,,,0
+1661603400,North East Utd,Kerala Blasters,URNmjRbg,f5R8609I,0,3,,,,0
+1661679000,TRAU FC,Army Red,06K6DenA,rJ5YDcQg,2,1,,,,0
+1661689800,East Bengal,Mohun Bagan,UszV04Qg,6mJliLLj,0,1,,,,0
+1661765400,Mumbai City,Rajasthan United,bk07S9TB,dCbRX2m8,5,1,,,,0
+1661776200,Odisha FC,Sudeva Delhi,COxht5b5,zuex8Vc3,3,0,,,,0
+1661851800,Bengaluru FC,Goa,vXXubWbe,GdaqjtST,2,2,,,,0
+1661862600,Neroca FC,Hyderabad,EVwfgUro,6auKd00m,0,3,,,,0
+1661938200,Kerala Blasters,Army Green,f5R8609I,rJ5YDcQg,2,0,,,,0
+1661949000,Mohun Bagan,Indian Navy,6mJliLLj,Mi9OXNrn,2,0,,,,0
+1662024600,Jamshedpur,Indian Air Force,4xbRHIEb,h2fDsePe,2,1,,,,0
+1662035400,TRAU FC,Chennaiyin,06K6DenA,AkyQ8yz9,1,4,,,,0
+1662111000,North East Utd,Sudeva Delhi,URNmjRbg,zuex8Vc3,2,0,,,,0
+1662121800,Mohammedan,Bengaluru FC,8E48ZVwH,vXXubWbe,1,1,,,,0
+1662197400,Army Red,Hyderabad,rJ5YDcQg,6auKd00m,1,0,,,,0
+1662208200,East Bengal,Mumbai City,UszV04Qg,bk07S9TB,4,3,,,,0
+1662283800,Army Green,Odisha FC,rJ5YDcQg,COxht5b5,0,1,,,,0
+1662370200,Rajasthan United,Indian Navy,dCbRX2m8,Mi9OXNrn,2,0,,,,0
+1662381000,Neroca FC,Chennaiyin,EVwfgUro,AkyQ8yz9,0,2,,,,0
+1662726600,Mohammedan,Kerala Blasters,8E48ZVwH,f5R8609I,3,0,,,,0
+1662813000,Odisha FC,Bengaluru FC,COxht5b5,vXXubWbe,0,0,AET,1,2,0
+1662899400,Mumbai City,Chennaiyin,bk07S9TB,AkyQ8yz9,2,2,AET,5,3,0
+1662985800,Hyderabad,Rajasthan United,6auKd00m,dCbRX2m8,3,1,,,,0
+1663158600,Mohammedan,Mumbai City,8E48ZVwH,bk07S9TB,0,1,,,,0
+1663245000,Bengaluru FC,Hyderabad,vXXubWbe,6auKd00m,1,0,,,,0
+1663504200,Bengaluru FC,Mumbai City,vXXubWbe,bk07S9TB,2,1,,,,0

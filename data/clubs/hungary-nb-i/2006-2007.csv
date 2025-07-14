@@ -1,241 +1,241 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1154102400,Vac,Paks,0,2,,,,0
-1154188800,Gyor,Honved,2,0,,,,0
-1154196000,MTK Budapest,REAC,4,0,,,,0
-1154196000,Kaposvar,Vasas,0,1,,,,0
-1154196000,Debrecen,Pecsi MFC,2,1,,,,0
-1154273400,DVTK,Ujpest,1,0,,,,0
-1154275200,Tatabanya,Sopron,2,0,,,,0
-1154368800,Fehervar FC,Zalaegerszegi,2,3,,,,0
-1154710800,Zalaegerszegi,MTK Budapest,1,0,,,,0
-1154791800,REAC,DVTK,0,2,,,,0
-1154800800,Vasas,Vac,2,2,,,,0
-1154800800,Sopron,Fehervar FC,2,1,,,,0
-1154800800,Pecsi MFC,Tatabanya,3,3,,,,0
-1154800800,Honved,Kaposvar,2,2,,,,0
-1154878200,Ujpest,Gyor,2,0,,,,0
-1154878200,Paks,Debrecen,0,0,,,,0
-1155920400,DVTK,Zalaegerszegi,1,4,,,,0
-1156001400,Tatabanya,Paks,3,0,,,,0
-1156006800,Vac,Kaposvar,0,1,,,,0
-1156006800,MTK Budapest,Sopron,4,1,,,,0
-1156006800,Honved,Ujpest,1,1,,,,0
-1156006800,Fehervar FC,Pecsi MFC,2,2,,,,0
-1156086000,Gyor,REAC,2,2,,,,0
-1156176000,Debrecen,Vasas,3,0,,,,0
-1156525200,Kaposvar,Debrecen,1,2,,,,0
-1156604400,Pecsi MFC,MTK Budapest,0,1,,,,0
-1156606200,REAC,Ujpest,1,2,,,,0
-1156611600,Zalaegerszegi,Gyor,2,2,,,,0
-1156611600,Vac,Honved,3,1,,,,0
-1156611600,Sopron,DVTK,1,0,,,,0
-1156692600,Paks,Fehervar FC,0,2,,,,0
-1156780800,Vasas,Tatabanya,2,0,,,,0
-1157734800,DVTK,Pecsi MFC,1,3,,,,0
-1157806800,Ujpest,Zalaegerszegi,0,1,,,,0
-1157812200,Tatabanya,Kaposvar,4,2,,,,0
-1157821200,Fehervar FC,Vasas,2,0,,,,0
-1157898600,REAC,Honved,3,4,,,,0
-1157898600,Gyor,Sopron,2,0,,,,0
-1157907600,MTK Budapest,Paks,1,0,,,,0
-1157990400,Debrecen,Vac,4,0,,,,0
-1158339600,Debrecen,Honved,2,1,,,,0
-1158411600,Vasas,MTK Budapest,1,5,,,,0
-1158415200,Paks,DVTK,2,1,,,,0
-1158426000,Zalaegerszegi,REAC,3,0,,,,0
-1158426000,Pecsi MFC,Gyor,0,0,,,,0
-1158426000,Kaposvar,Fehervar FC,1,0,,,,0
-1158510600,Vac,Tatabanya,2,2,,,,0
-1158595200,Sopron,Ujpest,0,2,,,,0
-1158944400,DVTK,Vasas,1,2,,,,0
-1159012800,Gyor,Paks,2,1,,,,0
-1159016400,Tatabanya,Debrecen,2,1,,,,0
-1159020000,REAC,Sopron,1,3,,,,0
-1159030800,MTK Budapest,Kaposvar,2,0,,,,0
-1159030800,Fehervar FC,Vac,1,0,,,,0
-1159106400,Ujpest,Pecsi MFC,1,0,,,,0
-1159200000,Honved,Zalaegerszegi,1,2,,,,0
-1159549200,Vasas,Gyor,3,2,,,,0
-1159624800,Tatabanya,Honved,1,2,,,,0
-1159624800,Pecsi MFC,REAC,2,2,,,,0
-1159624800,Paks,Ujpest,1,1,,,,0
-1159632000,Vac,MTK Budapest,2,3,,,,0
-1159632000,Kaposvar,DVTK,1,2,,,,0
-1159632000,Debrecen,Fehervar FC,3,1,,,,0
-1159804800,Sopron,Zalaegerszegi,1,2,,,,0
-1160758800,Fehervar FC,Tatabanya,2,0,,,,0
-1160827200,DVTK,Vac,1,0,,,,0
-1160830800,REAC,Paks,4,3,,,,0
-1160830800,MTK Budapest,Debrecen,1,0,,,,0
-1160830800,Gyor,Kaposvar,3,1,,,,0
-1160841600,Zalaegerszegi,Pecsi MFC,4,1,,,,0
-1160841600,Honved,Sopron,2,0,,,,0
-1161014400,Ujpest,Vasas,2,0,,,,0
-1161363600,Debrecen,DVTK,1,1,,,,0
-1161433800,Tatabanya,MTK Budapest,2,4,,,,0
-1161433800,Paks,Zalaegerszegi,2,0,,,,0
-1161435600,Pecsi MFC,Sopron,0,0,,,,0
-1161446400,Vasas,REAC,1,0,,,,0
-1161446400,Vac,Gyor,0,0,,,,0
-1161446400,Fehervar FC,Honved,1,0,,,,0
-1161619200,Kaposvar,Ujpest,1,0,,,,0
-1161968400,MTK Budapest,Fehervar FC,0,1,,,,0
-1162038600,REAC,Kaposvar,1,1,,,,0
-1162040400,Gyor,Debrecen,0,0,,,,0
-1162051200,Ujpest,Vac,1,0,,,,0
-1162051200,Sopron,Paks,1,3,,,,0
-1162051200,Honved,Pecsi MFC,0,1,,,,0
-1162137600,DVTK,Tatabanya,3,1,,,,0
-1162227600,Zalaegerszegi,Vasas,1,0,,,,0
-1162576800,Fehervar FC,DVTK,2,0,,,,0
-1162643400,Tatabanya,Gyor,2,1,,,,0
-1162643400,Paks,Pecsi MFC,0,1,,,,0
-1162656000,Vasas,Sopron,0,0,,,,0
-1162656000,Vac,REAC,0,1,,,,0
-1162656000,MTK Budapest,Honved,2,2,,,,0
-1162656000,Kaposvar,Zalaegerszegi,3,1,,,,0
-1162832400,Debrecen,Ujpest,0,2,,,,0
-1163181600,Ujpest,Tatabanya,2,0,,,,0
-1163248200,REAC,Debrecen,1,3,,,,0
-1163248200,Gyor,Fehervar FC,2,0,,,,0
-1163260800,Zalaegerszegi,Vac,1,1,,,,0
-1163260800,Sopron,Kaposvar,1,0,,,,0
-1163260800,Pecsi MFC,Vasas,2,1,,,,0
-1163260800,DVTK,MTK Budapest,0,1,,,,0
-1163437200,Honved,Paks,0,0,,,,0
-1163782800,Vasas,Paks,0,1,,,,0
-1163786400,Fehervar FC,Ujpest,3,2,,,,0
-1163851200,Tatabanya,REAC,2,3,,,,0
-1163858400,Debrecen,Zalaegerszegi,3,1,,,,0
-1163862000,Vac,Sopron,1,2,,,,0
-1163862000,Kaposvar,Pecsi MFC,1,2,,,,0
-1163862000,DVTK,Honved,2,1,,,,0
-1164042000,MTK Budapest,Gyor,1,0,,,,0
-1164391200,Ujpest,MTK Budapest,2,3,,,,0
-1164456000,REAC,Fehervar FC,2,0,,,,0
-1164456000,Paks,Kaposvar,1,0,,,,0
-1164463200,Zalaegerszegi,Tatabanya,1,0,,,,0
-1164466800,Sopron,Debrecen,1,6,,,,0
-1164466800,Pecsi MFC,Vac,1,1,,,,0
-1164466800,DVTK,Gyor,4,3,,,,0
-1164646800,Honved,Vasas,0,1,,,,0
-1164996000,Zalaegerszegi,Fehervar FC,2,1,,,,0
-1165062600,REAC,MTK Budapest,0,0,,,,0
-1165062600,Paks,Vac,0,0,,,,0
-1165068000,Vasas,Kaposvar,1,0,,,,0
-1165068000,Sopron,Tatabanya,1,0,,,,0
-1165068000,Pecsi MFC,Debrecen,0,2,,,,0
-1165068000,Honved,Gyor,4,1,,,,0
-1165251600,Ujpest,DVTK,0,3,,,,0
-1165593600,Kaposvar,Honved,1,2,,,,0
-1165600800,MTK Budapest,Zalaegerszegi,2,0,,,,0
-1165753800,Tatabanya,Pecsi MFC,4,0,,,,0
-1165753800,Gyor,Ujpest,0,3,,,,0
-1165759200,Fehervar FC,Sopron,3,1,,,,0
-1165759200,DVTK,REAC,1,0,,,,0
-1165759200,Debrecen,Paks,1,0,,,,0
-1165856400,Vac,Vasas,0,1,,,,0
-1172253600,Vasas,Debrecen,0,1,,,,0
-1172322000,REAC,Gyor,2,0,,,,0
-1172322000,Paks,Tatabanya,0,1,,,,0
-1172325600,Zalaegerszegi,DVTK,2,2,,,,0
-1172325600,Sopron,MTK Budapest,0,3,,,,0
-1172325600,Pecsi MFC,Fehervar FC,2,0,,,,0
-1172325600,Kaposvar,Vac,3,0,,,,0
-1172509200,Ujpest,Honved,4,2,,,,0
-1172858400,MTK Budapest,Pecsi MFC,0,0,,,,0
-1172930400,Tatabanya,Vasas,1,3,,,,0
-1172930400,Gyor,Zalaegerszegi,2,1,,,,0
-1172934000,Ujpest,REAC,0,0,,,,0
-1172934000,Honved,Vac,6,0,,,,0
-1172934000,Fehervar FC,Paks,1,1,,,,0
-1172934000,DVTK,Sopron,0,2,,,,0
-1173114000,Debrecen,Kaposvar,1,0,,,,0
-1173463200,Vasas,Fehervar FC,2,2,,,,0
-1173533400,Paks,MTK Budapest,3,1,,,,0
-1173538800,Vac,Debrecen,1,3,,,,0
-1173538800,Sopron,Gyor,0,1,,,,0
-1173538800,Pecsi MFC,DVTK,1,0,,,,0
-1173538800,Kaposvar,Tatabanya,4,0,,,,0
-1173538800,Honved,REAC,2,1,,,,0
-1173718800,Zalaegerszegi,Ujpest,2,0,,,,0
-1174068000,Honved,Debrecen,2,1,,,,0
-1174140000,Tatabanya,Vac,1,2,,,,0
-1174140000,REAC,Zalaegerszegi,2,1,,,,0
-1174140000,DVTK,Paks,2,1,,,,0
-1174143600,Ujpest,Sopron,1,0,,,,0
-1174143600,Fehervar FC,Kaposvar,1,2,,,,0
-1174230000,Gyor,Pecsi MFC,0,0,,,,0
-1174323600,MTK Budapest,Vasas,2,2,,,,0
-1175274000,Debrecen,Tatabanya,2,0,,,,0
-1175346000,Pecsi MFC,Ujpest,0,1,,,,0
-1175346000,Paks,Gyor,2,2,,,,0
-1175349600,Vasas,DVTK,2,2,,,,0
-1175349600,Vac,Fehervar FC,0,2,,,,0
-1175349600,Sopron,REAC,2,3,,,,0
-1175349600,Kaposvar,MTK Budapest,1,0,,,,0
-1175529600,Zalaegerszegi,Honved,3,2,,,,0
-1175878800,Fehervar FC,Debrecen,0,4,,,,0
-1175949000,Gyor,Vasas,0,2,,,,0
-1175956200,REAC,Pecsi MFC,1,0,,,,0
-1175958000,Zalaegerszegi,Sopron,1,3,,,,0
-1175958000,Honved,Tatabanya,2,0,,,,0
-1175958000,DVTK,Kaposvar,1,1,,,,0
-1176037200,MTK Budapest,Vac,3,0,,,,0
-1176134400,Ujpest,Paks,3,2,,,,0
-1176483600,Vasas,Ujpest,1,2,,,,0
-1176555600,Debrecen,MTK Budapest,3,0,,,,0
-1176562800,Vac,DVTK,1,0,,,,0
-1176562800,Tatabanya,Fehervar FC,3,2,,,,0
-1176562800,Sopron,Honved,1,1,,,,0
-1176562800,Pecsi MFC,Zalaegerszegi,1,1,,,,0
-1176562800,Paks,REAC,1,1,,,,0
-1176562800,Kaposvar,Gyor,2,1,,,,0
-1177088400,DVTK,Debrecen,1,5,,,,0
-1177160400,MTK Budapest,Tatabanya,4,0,,,,0
-1177167600,REAC,Vasas,1,3,,,,0
-1177167600,Gyor,Vac,1,0,,,,0
-1177171200,Zalaegerszegi,Paks,4,0,,,,0
-1177171200,Ujpest,Kaposvar,0,0,,,,0
-1177171200,Sopron,Pecsi MFC,3,1,,,,0
-1177171200,Honved,Fehervar FC,1,1,,,,0
-1177693200,Vac,Ujpest,3,1,,,,0
-1177768800,Vasas,Zalaegerszegi,4,0,,,,0
-1177768800,Tatabanya,DVTK,5,3,,,,0
-1177768800,Paks,Sopron,1,0,,,,0
-1177776000,Pecsi MFC,Honved,1,1,,,,0
-1177776000,Kaposvar,REAC,3,1,,,,0
-1177776000,Debrecen,Gyor,3,0,,,,0
-1177855200,Fehervar FC,MTK Budapest,5,3,,,,0
-1178298000,Ujpest,Debrecen,2,0,,,,0
-1178370000,Honved,MTK Budapest,2,1,,,,0
-1178379000,REAC,Vac,4,0,,,,0
-1178379000,Gyor,Tatabanya,0,0,,,,0
-1178380800,Sopron,Vasas,1,0,,,,0
-1178380800,Pecsi MFC,Paks,0,2,,,,0
-1178380800,DVTK,Fehervar FC,2,1,,,,0
-1178553600,Zalaegerszegi,Kaposvar,2,1,,,,0
-1178640000,MTK Budapest,DVTK,4,2,,,,0
-1178902800,Fehervar FC,Gyor,2,1,,,,0
-1178974800,Tatabanya,Ujpest,3,2,,,,0
-1178983800,Paks,Honved,1,2,,,,0
-1178985600,Vasas,Pecsi MFC,3,3,,,,0
-1178985600,Vac,Zalaegerszegi,0,5,,,,0
-1178985600,Kaposvar,Sopron,2,2,,,,0
-1179158400,Debrecen,REAC,4,1,,,,0
-1179507600,Zalaegerszegi,Debrecen,0,1,,,,0
-1179590400,REAC,Tatabanya,2,4,,,,0
-1179590400,Paks,Vasas,4,2,,,,0
-1179594000,Sopron,Vac,3,1,,,,0
-1179594000,Pecsi MFC,Kaposvar,2,3,,,,0
-1179594000,Honved,DVTK,1,1,,,,0
-1179763200,Ujpest,Fehervar FC,0,2,,,,0
-1179849600,Gyor,MTK Budapest,3,4,,,,0
-1180112400,Vasas,Honved,3,1,,,,0
-1180130400,Gyor,DVTK,4,0,,,,0
-1180191600,Debrecen,Sopron,2,1,,,,0
-1180195200,Vac,Pecsi MFC,1,1,,,,0
-1180195200,Tatabanya,Zalaegerszegi,0,3,,,,0
-1180195200,Kaposvar,Paks,2,0,,,,0
-1180195200,Fehervar FC,REAC,2,2,,,,0
-1180371600,MTK Budapest,Ujpest,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1154102400,Vac,Paks,U5xeyX8K,KQLmg0CN,0,2,,,,0
+1154188800,Gyor,Honved,E54OB8CP,0bbECxUd,2,0,,,,0
+1154196000,MTK Budapest,REAC,06r6gWo9,xMKkVy4d,4,0,,,,0
+1154196000,Kaposvar,Vasas,vZ6gsKf8,vZxvDf2E,0,1,,,,0
+1154196000,Debrecen,Pecsi MFC,CMHdHsML,IP5ctvAE,2,1,,,,0
+1154273400,DVTK,Ujpest,QwVphY9e,fRhD1w4R,1,0,,,,0
+1154275200,Tatabanya,Sopron,YXyLZhye,QHmm1BRu,2,0,,,,0
+1154368800,Videoton,Zalaegerszegi,r9YXWu9h,K6VrDp5l,2,3,,,,0
+1154710800,Zalaegerszegi,MTK Budapest,K6VrDp5l,06r6gWo9,1,0,,,,0
+1154791800,REAC,DVTK,xMKkVy4d,QwVphY9e,0,2,,,,0
+1154800800,Vasas,Vac,vZxvDf2E,U5xeyX8K,2,2,,,,0
+1154800800,Sopron,Videoton,QHmm1BRu,r9YXWu9h,2,1,,,,0
+1154800800,Pecsi MFC,Tatabanya,IP5ctvAE,YXyLZhye,3,3,,,,0
+1154800800,Honved,Kaposvar,0bbECxUd,vZ6gsKf8,2,2,,,,0
+1154878200,Ujpest,Gyor,fRhD1w4R,E54OB8CP,2,0,,,,0
+1154878200,Paks,Debrecen,KQLmg0CN,CMHdHsML,0,0,,,,0
+1155920400,DVTK,Zalaegerszegi,QwVphY9e,K6VrDp5l,1,4,,,,0
+1156001400,Tatabanya,Paks,YXyLZhye,KQLmg0CN,3,0,,,,0
+1156006800,Videoton,Pecsi MFC,r9YXWu9h,IP5ctvAE,2,2,,,,0
+1156006800,Vac,Kaposvar,U5xeyX8K,vZ6gsKf8,0,1,,,,0
+1156006800,MTK Budapest,Sopron,06r6gWo9,QHmm1BRu,4,1,,,,0
+1156006800,Honved,Ujpest,0bbECxUd,fRhD1w4R,1,1,,,,0
+1156086000,Gyor,REAC,E54OB8CP,xMKkVy4d,2,2,,,,0
+1156176000,Debrecen,Vasas,CMHdHsML,vZxvDf2E,3,0,,,,0
+1156525200,Kaposvar,Debrecen,vZ6gsKf8,CMHdHsML,1,2,,,,0
+1156604400,Pecsi MFC,MTK Budapest,IP5ctvAE,06r6gWo9,0,1,,,,0
+1156606200,REAC,Ujpest,xMKkVy4d,fRhD1w4R,1,2,,,,0
+1156611600,Zalaegerszegi,Gyor,K6VrDp5l,E54OB8CP,2,2,,,,0
+1156611600,Vac,Honved,U5xeyX8K,0bbECxUd,3,1,,,,0
+1156611600,Sopron,DVTK,QHmm1BRu,QwVphY9e,1,0,,,,0
+1156692600,Paks,Videoton,KQLmg0CN,r9YXWu9h,0,2,,,,0
+1156780800,Vasas,Tatabanya,vZxvDf2E,YXyLZhye,2,0,,,,0
+1157734800,DVTK,Pecsi MFC,QwVphY9e,IP5ctvAE,1,3,,,,0
+1157806800,Ujpest,Zalaegerszegi,fRhD1w4R,K6VrDp5l,0,1,,,,0
+1157812200,Tatabanya,Kaposvar,YXyLZhye,vZ6gsKf8,4,2,,,,0
+1157821200,Videoton,Vasas,r9YXWu9h,vZxvDf2E,2,0,,,,0
+1157898600,REAC,Honved,xMKkVy4d,0bbECxUd,3,4,,,,0
+1157898600,Gyor,Sopron,E54OB8CP,QHmm1BRu,2,0,,,,0
+1157907600,MTK Budapest,Paks,06r6gWo9,KQLmg0CN,1,0,,,,0
+1157990400,Debrecen,Vac,CMHdHsML,U5xeyX8K,4,0,,,,0
+1158339600,Debrecen,Honved,CMHdHsML,0bbECxUd,2,1,,,,0
+1158411600,Vasas,MTK Budapest,vZxvDf2E,06r6gWo9,1,5,,,,0
+1158415200,Paks,DVTK,KQLmg0CN,QwVphY9e,2,1,,,,0
+1158426000,Zalaegerszegi,REAC,K6VrDp5l,xMKkVy4d,3,0,,,,0
+1158426000,Pecsi MFC,Gyor,IP5ctvAE,E54OB8CP,0,0,,,,0
+1158426000,Kaposvar,Videoton,vZ6gsKf8,r9YXWu9h,1,0,,,,0
+1158510600,Vac,Tatabanya,U5xeyX8K,YXyLZhye,2,2,,,,0
+1158595200,Sopron,Ujpest,QHmm1BRu,fRhD1w4R,0,2,,,,0
+1158944400,DVTK,Vasas,QwVphY9e,vZxvDf2E,1,2,,,,0
+1159012800,Gyor,Paks,E54OB8CP,KQLmg0CN,2,1,,,,0
+1159016400,Tatabanya,Debrecen,YXyLZhye,CMHdHsML,2,1,,,,0
+1159020000,REAC,Sopron,xMKkVy4d,QHmm1BRu,1,3,,,,0
+1159030800,Videoton,Vac,r9YXWu9h,U5xeyX8K,1,0,,,,0
+1159030800,MTK Budapest,Kaposvar,06r6gWo9,vZ6gsKf8,2,0,,,,0
+1159106400,Ujpest,Pecsi MFC,fRhD1w4R,IP5ctvAE,1,0,,,,0
+1159200000,Honved,Zalaegerszegi,0bbECxUd,K6VrDp5l,1,2,,,,0
+1159549200,Vasas,Gyor,vZxvDf2E,E54OB8CP,3,2,,,,0
+1159624800,Tatabanya,Honved,YXyLZhye,0bbECxUd,1,2,,,,0
+1159624800,Pecsi MFC,REAC,IP5ctvAE,xMKkVy4d,2,2,,,,0
+1159624800,Paks,Ujpest,KQLmg0CN,fRhD1w4R,1,1,,,,0
+1159632000,Vac,MTK Budapest,U5xeyX8K,06r6gWo9,2,3,,,,0
+1159632000,Kaposvar,DVTK,vZ6gsKf8,QwVphY9e,1,2,,,,0
+1159632000,Debrecen,Videoton,CMHdHsML,r9YXWu9h,3,1,,,,0
+1159804800,Sopron,Zalaegerszegi,QHmm1BRu,K6VrDp5l,1,2,,,,0
+1160758800,Videoton,Tatabanya,r9YXWu9h,YXyLZhye,2,0,,,,0
+1160827200,DVTK,Vac,QwVphY9e,U5xeyX8K,1,0,,,,0
+1160830800,REAC,Paks,xMKkVy4d,KQLmg0CN,4,3,,,,0
+1160830800,MTK Budapest,Debrecen,06r6gWo9,CMHdHsML,1,0,,,,0
+1160830800,Gyor,Kaposvar,E54OB8CP,vZ6gsKf8,3,1,,,,0
+1160841600,Zalaegerszegi,Pecsi MFC,K6VrDp5l,IP5ctvAE,4,1,,,,0
+1160841600,Honved,Sopron,0bbECxUd,QHmm1BRu,2,0,,,,0
+1161014400,Ujpest,Vasas,fRhD1w4R,vZxvDf2E,2,0,,,,0
+1161363600,Debrecen,DVTK,CMHdHsML,QwVphY9e,1,1,,,,0
+1161433800,Tatabanya,MTK Budapest,YXyLZhye,06r6gWo9,2,4,,,,0
+1161433800,Paks,Zalaegerszegi,KQLmg0CN,K6VrDp5l,2,0,,,,0
+1161435600,Pecsi MFC,Sopron,IP5ctvAE,QHmm1BRu,0,0,,,,0
+1161446400,Videoton,Honved,r9YXWu9h,0bbECxUd,1,0,,,,0
+1161446400,Vasas,REAC,vZxvDf2E,xMKkVy4d,1,0,,,,0
+1161446400,Vac,Gyor,U5xeyX8K,E54OB8CP,0,0,,,,0
+1161619200,Kaposvar,Ujpest,vZ6gsKf8,fRhD1w4R,1,0,,,,0
+1161968400,MTK Budapest,Videoton,06r6gWo9,r9YXWu9h,0,1,,,,0
+1162038600,REAC,Kaposvar,xMKkVy4d,vZ6gsKf8,1,1,,,,0
+1162040400,Gyor,Debrecen,E54OB8CP,CMHdHsML,0,0,,,,0
+1162051200,Ujpest,Vac,fRhD1w4R,U5xeyX8K,1,0,,,,0
+1162051200,Sopron,Paks,QHmm1BRu,KQLmg0CN,1,3,,,,0
+1162051200,Honved,Pecsi MFC,0bbECxUd,IP5ctvAE,0,1,,,,0
+1162137600,DVTK,Tatabanya,QwVphY9e,YXyLZhye,3,1,,,,0
+1162227600,Zalaegerszegi,Vasas,K6VrDp5l,vZxvDf2E,1,0,,,,0
+1162576800,Videoton,DVTK,r9YXWu9h,QwVphY9e,2,0,,,,0
+1162643400,Tatabanya,Gyor,YXyLZhye,E54OB8CP,2,1,,,,0
+1162643400,Paks,Pecsi MFC,KQLmg0CN,IP5ctvAE,0,1,,,,0
+1162656000,Vasas,Sopron,vZxvDf2E,QHmm1BRu,0,0,,,,0
+1162656000,Vac,REAC,U5xeyX8K,xMKkVy4d,0,1,,,,0
+1162656000,MTK Budapest,Honved,06r6gWo9,0bbECxUd,2,2,,,,0
+1162656000,Kaposvar,Zalaegerszegi,vZ6gsKf8,K6VrDp5l,3,1,,,,0
+1162832400,Debrecen,Ujpest,CMHdHsML,fRhD1w4R,0,2,,,,0
+1163181600,Ujpest,Tatabanya,fRhD1w4R,YXyLZhye,2,0,,,,0
+1163248200,REAC,Debrecen,xMKkVy4d,CMHdHsML,1,3,,,,0
+1163248200,Gyor,Videoton,E54OB8CP,r9YXWu9h,2,0,,,,0
+1163260800,Zalaegerszegi,Vac,K6VrDp5l,U5xeyX8K,1,1,,,,0
+1163260800,Sopron,Kaposvar,QHmm1BRu,vZ6gsKf8,1,0,,,,0
+1163260800,Pecsi MFC,Vasas,IP5ctvAE,vZxvDf2E,2,1,,,,0
+1163260800,DVTK,MTK Budapest,QwVphY9e,06r6gWo9,0,1,,,,0
+1163437200,Honved,Paks,0bbECxUd,KQLmg0CN,0,0,,,,0
+1163782800,Vasas,Paks,vZxvDf2E,KQLmg0CN,0,1,,,,0
+1163786400,Videoton,Ujpest,r9YXWu9h,fRhD1w4R,3,2,,,,0
+1163851200,Tatabanya,REAC,YXyLZhye,xMKkVy4d,2,3,,,,0
+1163858400,Debrecen,Zalaegerszegi,CMHdHsML,K6VrDp5l,3,1,,,,0
+1163862000,Vac,Sopron,U5xeyX8K,QHmm1BRu,1,2,,,,0
+1163862000,Kaposvar,Pecsi MFC,vZ6gsKf8,IP5ctvAE,1,2,,,,0
+1163862000,DVTK,Honved,QwVphY9e,0bbECxUd,2,1,,,,0
+1164042000,MTK Budapest,Gyor,06r6gWo9,E54OB8CP,1,0,,,,0
+1164391200,Ujpest,MTK Budapest,fRhD1w4R,06r6gWo9,2,3,,,,0
+1164456000,REAC,Videoton,xMKkVy4d,r9YXWu9h,2,0,,,,0
+1164456000,Paks,Kaposvar,KQLmg0CN,vZ6gsKf8,1,0,,,,0
+1164463200,Zalaegerszegi,Tatabanya,K6VrDp5l,YXyLZhye,1,0,,,,0
+1164466800,Sopron,Debrecen,QHmm1BRu,CMHdHsML,1,6,,,,0
+1164466800,Pecsi MFC,Vac,IP5ctvAE,U5xeyX8K,1,1,,,,0
+1164466800,DVTK,Gyor,QwVphY9e,E54OB8CP,4,3,,,,0
+1164646800,Honved,Vasas,0bbECxUd,vZxvDf2E,0,1,,,,0
+1164996000,Zalaegerszegi,Videoton,K6VrDp5l,r9YXWu9h,2,1,,,,0
+1165062600,REAC,MTK Budapest,xMKkVy4d,06r6gWo9,0,0,,,,0
+1165062600,Paks,Vac,KQLmg0CN,U5xeyX8K,0,0,,,,0
+1165068000,Vasas,Kaposvar,vZxvDf2E,vZ6gsKf8,1,0,,,,0
+1165068000,Sopron,Tatabanya,QHmm1BRu,YXyLZhye,1,0,,,,0
+1165068000,Pecsi MFC,Debrecen,IP5ctvAE,CMHdHsML,0,2,,,,0
+1165068000,Honved,Gyor,0bbECxUd,E54OB8CP,4,1,,,,0
+1165251600,Ujpest,DVTK,fRhD1w4R,QwVphY9e,0,3,,,,0
+1165593600,Kaposvar,Honved,vZ6gsKf8,0bbECxUd,1,2,,,,0
+1165600800,MTK Budapest,Zalaegerszegi,06r6gWo9,K6VrDp5l,2,0,,,,0
+1165753800,Tatabanya,Pecsi MFC,YXyLZhye,IP5ctvAE,4,0,,,,0
+1165753800,Gyor,Ujpest,E54OB8CP,fRhD1w4R,0,3,,,,0
+1165759200,Videoton,Sopron,r9YXWu9h,QHmm1BRu,3,1,,,,0
+1165759200,DVTK,REAC,QwVphY9e,xMKkVy4d,1,0,,,,0
+1165759200,Debrecen,Paks,CMHdHsML,KQLmg0CN,1,0,,,,0
+1165856400,Vac,Vasas,U5xeyX8K,vZxvDf2E,0,1,,,,0
+1172253600,Vasas,Debrecen,vZxvDf2E,CMHdHsML,0,1,,,,0
+1172322000,REAC,Gyor,xMKkVy4d,E54OB8CP,2,0,,,,0
+1172322000,Paks,Tatabanya,KQLmg0CN,YXyLZhye,0,1,,,,0
+1172325600,Zalaegerszegi,DVTK,K6VrDp5l,QwVphY9e,2,2,,,,0
+1172325600,Sopron,MTK Budapest,QHmm1BRu,06r6gWo9,0,3,,,,0
+1172325600,Pecsi MFC,Videoton,IP5ctvAE,r9YXWu9h,2,0,,,,0
+1172325600,Kaposvar,Vac,vZ6gsKf8,U5xeyX8K,3,0,,,,0
+1172509200,Ujpest,Honved,fRhD1w4R,0bbECxUd,4,2,,,,0
+1172858400,MTK Budapest,Pecsi MFC,06r6gWo9,IP5ctvAE,0,0,,,,0
+1172930400,Tatabanya,Vasas,YXyLZhye,vZxvDf2E,1,3,,,,0
+1172930400,Gyor,Zalaegerszegi,E54OB8CP,K6VrDp5l,2,1,,,,0
+1172934000,Videoton,Paks,r9YXWu9h,KQLmg0CN,1,1,,,,0
+1172934000,Ujpest,REAC,fRhD1w4R,xMKkVy4d,0,0,,,,0
+1172934000,Honved,Vac,0bbECxUd,U5xeyX8K,6,0,,,,0
+1172934000,DVTK,Sopron,QwVphY9e,QHmm1BRu,0,2,,,,0
+1173114000,Debrecen,Kaposvar,CMHdHsML,vZ6gsKf8,1,0,,,,0
+1173463200,Vasas,Videoton,vZxvDf2E,r9YXWu9h,2,2,,,,0
+1173533400,Paks,MTK Budapest,KQLmg0CN,06r6gWo9,3,1,,,,0
+1173538800,Vac,Debrecen,U5xeyX8K,CMHdHsML,1,3,,,,0
+1173538800,Sopron,Gyor,QHmm1BRu,E54OB8CP,0,1,,,,0
+1173538800,Pecsi MFC,DVTK,IP5ctvAE,QwVphY9e,1,0,,,,0
+1173538800,Kaposvar,Tatabanya,vZ6gsKf8,YXyLZhye,4,0,,,,0
+1173538800,Honved,REAC,0bbECxUd,xMKkVy4d,2,1,,,,0
+1173718800,Zalaegerszegi,Ujpest,K6VrDp5l,fRhD1w4R,2,0,,,,0
+1174068000,Honved,Debrecen,0bbECxUd,CMHdHsML,2,1,,,,0
+1174140000,Tatabanya,Vac,YXyLZhye,U5xeyX8K,1,2,,,,0
+1174140000,REAC,Zalaegerszegi,xMKkVy4d,K6VrDp5l,2,1,,,,0
+1174140000,DVTK,Paks,QwVphY9e,KQLmg0CN,2,1,,,,0
+1174143600,Videoton,Kaposvar,r9YXWu9h,vZ6gsKf8,1,2,,,,0
+1174143600,Ujpest,Sopron,fRhD1w4R,QHmm1BRu,1,0,,,,0
+1174230000,Gyor,Pecsi MFC,E54OB8CP,IP5ctvAE,0,0,,,,0
+1174323600,MTK Budapest,Vasas,06r6gWo9,vZxvDf2E,2,2,,,,0
+1175274000,Debrecen,Tatabanya,CMHdHsML,YXyLZhye,2,0,,,,0
+1175346000,Pecsi MFC,Ujpest,IP5ctvAE,fRhD1w4R,0,1,,,,0
+1175346000,Paks,Gyor,KQLmg0CN,E54OB8CP,2,2,,,,0
+1175349600,Vasas,DVTK,vZxvDf2E,QwVphY9e,2,2,,,,0
+1175349600,Vac,Videoton,U5xeyX8K,r9YXWu9h,0,2,,,,0
+1175349600,Sopron,REAC,QHmm1BRu,xMKkVy4d,2,3,,,,0
+1175349600,Kaposvar,MTK Budapest,vZ6gsKf8,06r6gWo9,1,0,,,,0
+1175529600,Zalaegerszegi,Honved,K6VrDp5l,0bbECxUd,3,2,,,,0
+1175878800,Videoton,Debrecen,r9YXWu9h,CMHdHsML,0,4,,,,0
+1175949000,Gyor,Vasas,E54OB8CP,vZxvDf2E,0,2,,,,0
+1175956200,REAC,Pecsi MFC,xMKkVy4d,IP5ctvAE,1,0,,,,0
+1175958000,Zalaegerszegi,Sopron,K6VrDp5l,QHmm1BRu,1,3,,,,0
+1175958000,Honved,Tatabanya,0bbECxUd,YXyLZhye,2,0,,,,0
+1175958000,DVTK,Kaposvar,QwVphY9e,vZ6gsKf8,1,1,,,,0
+1176037200,MTK Budapest,Vac,06r6gWo9,U5xeyX8K,3,0,,,,0
+1176134400,Ujpest,Paks,fRhD1w4R,KQLmg0CN,3,2,,,,0
+1176483600,Vasas,Ujpest,vZxvDf2E,fRhD1w4R,1,2,,,,0
+1176555600,Debrecen,MTK Budapest,CMHdHsML,06r6gWo9,3,0,,,,0
+1176562800,Vac,DVTK,U5xeyX8K,QwVphY9e,1,0,,,,0
+1176562800,Tatabanya,Videoton,YXyLZhye,r9YXWu9h,3,2,,,,0
+1176562800,Sopron,Honved,QHmm1BRu,0bbECxUd,1,1,,,,0
+1176562800,Pecsi MFC,Zalaegerszegi,IP5ctvAE,K6VrDp5l,1,1,,,,0
+1176562800,Paks,REAC,KQLmg0CN,xMKkVy4d,1,1,,,,0
+1176562800,Kaposvar,Gyor,vZ6gsKf8,E54OB8CP,2,1,,,,0
+1177088400,DVTK,Debrecen,QwVphY9e,CMHdHsML,1,5,,,,0
+1177160400,MTK Budapest,Tatabanya,06r6gWo9,YXyLZhye,4,0,,,,0
+1177167600,REAC,Vasas,xMKkVy4d,vZxvDf2E,1,3,,,,0
+1177167600,Gyor,Vac,E54OB8CP,U5xeyX8K,1,0,,,,0
+1177171200,Zalaegerszegi,Paks,K6VrDp5l,KQLmg0CN,4,0,,,,0
+1177171200,Ujpest,Kaposvar,fRhD1w4R,vZ6gsKf8,0,0,,,,0
+1177171200,Sopron,Pecsi MFC,QHmm1BRu,IP5ctvAE,3,1,,,,0
+1177171200,Honved,Videoton,0bbECxUd,r9YXWu9h,1,1,,,,0
+1177693200,Vac,Ujpest,U5xeyX8K,fRhD1w4R,3,1,,,,0
+1177768800,Vasas,Zalaegerszegi,vZxvDf2E,K6VrDp5l,4,0,,,,0
+1177768800,Tatabanya,DVTK,YXyLZhye,QwVphY9e,5,3,,,,0
+1177768800,Paks,Sopron,KQLmg0CN,QHmm1BRu,1,0,,,,0
+1177776000,Pecsi MFC,Honved,IP5ctvAE,0bbECxUd,1,1,,,,0
+1177776000,Kaposvar,REAC,vZ6gsKf8,xMKkVy4d,3,1,,,,0
+1177776000,Debrecen,Gyor,CMHdHsML,E54OB8CP,3,0,,,,0
+1177855200,Videoton,MTK Budapest,r9YXWu9h,06r6gWo9,5,3,,,,0
+1178298000,Ujpest,Debrecen,fRhD1w4R,CMHdHsML,2,0,,,,0
+1178370000,Honved,MTK Budapest,0bbECxUd,06r6gWo9,2,1,,,,0
+1178379000,REAC,Vac,xMKkVy4d,U5xeyX8K,4,0,,,,0
+1178379000,Gyor,Tatabanya,E54OB8CP,YXyLZhye,0,0,,,,0
+1178380800,Sopron,Vasas,QHmm1BRu,vZxvDf2E,1,0,,,,0
+1178380800,Pecsi MFC,Paks,IP5ctvAE,KQLmg0CN,0,2,,,,0
+1178380800,DVTK,Videoton,QwVphY9e,r9YXWu9h,2,1,,,,0
+1178553600,Zalaegerszegi,Kaposvar,K6VrDp5l,vZ6gsKf8,2,1,,,,0
+1178640000,MTK Budapest,DVTK,06r6gWo9,QwVphY9e,4,2,,,,0
+1178902800,Videoton,Gyor,r9YXWu9h,E54OB8CP,2,1,,,,0
+1178974800,Tatabanya,Ujpest,YXyLZhye,fRhD1w4R,3,2,,,,0
+1178983800,Paks,Honved,KQLmg0CN,0bbECxUd,1,2,,,,0
+1178985600,Vasas,Pecsi MFC,vZxvDf2E,IP5ctvAE,3,3,,,,0
+1178985600,Vac,Zalaegerszegi,U5xeyX8K,K6VrDp5l,0,5,,,,0
+1178985600,Kaposvar,Sopron,vZ6gsKf8,QHmm1BRu,2,2,,,,0
+1179158400,Debrecen,REAC,CMHdHsML,xMKkVy4d,4,1,,,,0
+1179507600,Zalaegerszegi,Debrecen,K6VrDp5l,CMHdHsML,0,1,,,,0
+1179590400,REAC,Tatabanya,xMKkVy4d,YXyLZhye,2,4,,,,0
+1179590400,Paks,Vasas,KQLmg0CN,vZxvDf2E,4,2,,,,0
+1179594000,Sopron,Vac,QHmm1BRu,U5xeyX8K,3,1,,,,0
+1179594000,Pecsi MFC,Kaposvar,IP5ctvAE,vZ6gsKf8,2,3,,,,0
+1179594000,Honved,DVTK,0bbECxUd,QwVphY9e,1,1,,,,0
+1179763200,Ujpest,Videoton,fRhD1w4R,r9YXWu9h,0,2,,,,0
+1179849600,Gyor,MTK Budapest,E54OB8CP,06r6gWo9,3,4,,,,0
+1180112400,Vasas,Honved,vZxvDf2E,0bbECxUd,3,1,,,,0
+1180130400,Gyor,DVTK,E54OB8CP,QwVphY9e,4,0,,,,0
+1180191600,Debrecen,Sopron,CMHdHsML,QHmm1BRu,2,1,,,,0
+1180195200,Videoton,REAC,r9YXWu9h,xMKkVy4d,2,2,,,,0
+1180195200,Vac,Pecsi MFC,U5xeyX8K,IP5ctvAE,1,1,,,,0
+1180195200,Tatabanya,Zalaegerszegi,YXyLZhye,K6VrDp5l,0,3,,,,0
+1180195200,Kaposvar,Paks,vZ6gsKf8,KQLmg0CN,2,0,,,,0
+1180371600,MTK Budapest,Ujpest,06r6gWo9,fRhD1w4R,2,0,,,,0

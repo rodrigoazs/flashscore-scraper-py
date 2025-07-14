@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1602871200,Hesperange,Blo Weiss Itzig,4,0,,,,0
-1602946800,Pratzerthal/Redange,Fola,0,4,,,,0
-1602948600,FC Koerich/Simmern,Bissen,2,4,,,,0
-1602950400,Jeunesse Gilsdorf,Ettelbruck,1,2,,,,0
-1602950400,Cebra,UNA Strassen,2,3,,,,0
-1602954000,US Feulen,Hostert,0,1,,,,0
-1602954000,FC Ehlerange,Berbourg,4,3,,,,0
-1602957600,Diekirch,Mondorf,0,6,,,,0
-1603026000,Echternach,Mertert/Wasserbillig,1,3,,,,0
-1603029600,Union Tetange,Yellow Boys,3,4,,,,0
-1603029600,Syra Mensdorf,FC Mamer,1,0,,,,0
-1603029600,Steinfort,Jeunesse Junglinster,1,3,,,,0
-1603029600,Rupensia,Jeunesse Canach,0,4,,,,0
-1603029600,Racing Troisvierges,Racing Luxembourg,0,11,,,,0
-1603029600,Oberkorn,Esch,1,1,Pen,2,1,0
-1603029600,Norden,Luxembourg City,1,2,,,,0
-1603029600,Mertzig,Dudelange,0,5,,,,0
-1603029600,Lorentzweiler,Marisca Mersch,2,0,,,,0
-1603029600,Kischpelt Wilwerwiltz,Rumelange,0,10,,,,0
-1603029600,Kehlen,Niedercorn,0,2,,,,0
-1603029600,Jeunesse Schieren,Union Titus Petange,1,2,,,,0
-1603029600,Jeunesse Esch,FC Noertzange HF,6,0,,,,0
-1603029600,Harlange/Tarchamps,Wiltz,0,8,,,,0
-1603029600,Grevenmacher,Kaerjeng,2,3,,,,0
-1603029600,FC Schengen,Differdange,1,5,,,,0
-1603029600,FC Munsbach,Alisontia Steinsel,2,4,,,,0
-1603029600,Erpeldange,Schifflange,1,3,,,,0
-1603029600,Avenir Beggen,Mondercange,2,2,AET,3,2,0
-1603029600,AS Wincrange,Rodange,0,2,,,,0
-1603029600,AS Luxembourg/Porto,Victoria Rosport,2,5,,,,0
-1603036800,CS Sanem,Bettembourg,1,0,AET,2,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1602871200,Hesperange,Blo Weiss Itzig,Y72Z4YSk,Kz5IDlTA,4,0,,,,0
+1602946800,Pratzerthal/Redange,Fola,vaMG6d3e,fogO2tc3,0,4,,,,0
+1602948600,FC Koerich/Simmern,Bissen,fT5ojrk0,xp9MKGr2,2,4,,,,0
+1602950400,Jeunesse Gilsdorf,Ettelbruck,CzqPmx9e,OhFbPUqL,1,2,,,,0
+1602950400,Cebra,UNA Strassen,MXzoK4LR,OtNCFOTr,2,3,,,,0
+1602954000,US Feulen,Hostert,pz0F7SsB,IoJOCMD1,0,1,,,,0
+1602954000,FC Ehlerange,Berbourg,j3RBXZ30,0xFRLamp,4,3,,,,0
+1602957600,Diekirch,Mondorf,f3h4W85q,86hNCjlr,0,6,,,,0
+1603026000,Echternach,Mertert/Wasserbillig,nHkIJjVl,nwDEYiZu,1,3,,,,0
+1603029600,Union Tetange,Yellow Boys,OtNCFOTr,f3h4W85q,3,4,,,,0
+1603029600,Syra Mensdorf,FC Mamer,QsTjdSdp,2NQ14SpH,1,0,,,,0
+1603029600,Steinfort,Jeunesse Junglinster,pM4tNHHL,WUWsH3n4,1,3,,,,0
+1603029600,Rupensia,Jeunesse Canach,vaMG6d3e,d4EgGGA5,0,4,,,,0
+1603029600,Racing Troisvierges,Racing Luxembourg,CzqPmx9e,fBhtpSEp,0,11,,,,0
+1603029600,Oberkorn,Esch,bBeRDcSa,QelqBqRP,1,1,Pen,2,1,0
+1603029600,Norden,Luxembourg City,AoZtJYyP,p0TgvuMN,1,2,,,,0
+1603029600,Mertzig,Dudelange,K4zaWlZi,rkYlaIFp,0,5,,,,0
+1603029600,Lorentzweiler,Marisca Mersch,8lNiiAUO,OWRc58VA,2,0,,,,0
+1603029600,Kischpelt Wilwerwiltz,Rumelange,CzqPmx9e,IkoY0gOk,0,10,,,,0
+1603029600,Kehlen,Niedercorn,fsTNCgLS,2qE2OlaR,0,2,,,,0
+1603029600,Jeunesse Schieren,Union Titus Petange,4nNPhgjh,xxoWnbHs,1,2,,,,0
+1603029600,Jeunesse Esch,FC Noertzange HF,IqhLeVal,vaMG6d3e,6,0,,,,0
+1603029600,Harlange/Tarchamps,Wiltz,IoJOCMD1,j9bYxxH3,0,8,,,,0
+1603029600,Grevenmacher,Kaerjeng,YB20ndi2,YB20ndi2,2,3,,,,0
+1603029600,FC Schengen,Differdange,08NC7xlk,GlTeTYJC,1,5,,,,0
+1603029600,FC Munsbach,Alisontia Steinsel,pQQ8YvJf,niOXdtjs,2,4,,,,0
+1603029600,Erpeldange,Schifflange,tOKKD2be,xj4ilfwQ,1,3,,,,0
+1603029600,Avenir Beggen,Mondercange,4jwwMQjF,pWmUeo8b,2,2,AET,3,2,0
+1603029600,AS Wincrange,Rodange,nNnLv1aO,KGjmUYRB,0,2,,,,0
+1603029600,AS Luxembourg/Porto,Victoria Rosport,MHO88IYr,faxfJZUP,2,5,,,,0
+1603036800,CS Sanem,Bettembourg,8QjEKWFr,ObKhLZVC,1,0,AET,2,0,0

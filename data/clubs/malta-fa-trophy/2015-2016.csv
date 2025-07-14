@@ -1,65 +1,65 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1441465200,Oratory,Marsaskala,5,1,,,,0
-1441990800,Kercem Ajax,Kalkara,6,0,,,,0
-1441992600,St. Venera,Xaghra,5,3,,,,0
-1442070000,Luqa,Xewkija,0,4,,,,0
-1442070000,Gharb,Xbiex,0,4,,,,0
-1442070000,Attard,Victoria Wanderers,1,1,AET,1,3,0
-1442077200,Qala Saints,Victoria Hotspurs,0,5,,,,0
-1442078100,Mtarfa,Santa Lucia,1,0,,,,0
-1442078100,Ghaxaq,Marsaxlokk,1,1,AET,1,2,0
-1442156400,Xghajra,Ghajnsielem,0,1,,,,0
-1442156400,Nadur,Mdina,1,0,,,,0
-1442163600,St. Lawrence,Oratory,0,0,AET,1,0,0
-1442164500,Dingli Swallows,Munxar,2,0,,,,0
-1445616000,Zebbug,Qrendi,4,1,,,,0
-1445616000,Gudja,San Gwann,0,1,,,,0
-1445624100,Rabat Ajax,Msida,4,1,,,,0
-1445624100,Gzira,Sirens,6,0,,,,0
-1445691600,Zurrieq,Gharghur,1,1,Pen,1,2,0
-1445691600,Zejtun,Marsaxlokk,1,0,,,,0
-1445691600,Siggiewi,Fgura,0,3,,,,0
-1445691600,Marsa,Xewkija,2,4,,,,0
-1445699700,Swieqi,Xbiex,2,1,,,,0
-1445699700,St. Venera,Birzebbuga,2,1,,,,0
-1445699700,Melita,Mgarr,3,1,,,,0
-1445699700,Kirkop,Mtarfa,3,2,,,,0
-1445778000,Ghajnsielem,Dingli Swallows,1,1,AET,2,1,0
-1445781600,Vittoriosa,Kercem Ajax,2,0,,,,0
-1445781600,Mqabba FC,Victoria Hotspurs,5,3,,,,0
-1445781600,Lija,Mellieha,2,1,,,,0
-1445785200,Victoria Wanderers,St. Lawrence,2,4,,,,0
-1445789700,Zabbar,Nadur,6,1,,,,0
-1445789700,Senglea,Pieta,1,2,,,,0
-1445789700,Hamrun,St. George's FC,0,1,,,,0
-1448994600,St. George's FC,Mqabba FC,1,0,,,,0
-1449075600,Zabbar,Gzira,0,3,,,,0
-1449075600,St. Venera,Gharghur,0,2,,,,0
-1449083700,Rabat Ajax,Melita,1,4,,,,0
-1449083700,Pieta,Zejtun,4,1,,,,0
-1449680400,Pembroke,San Gwann,3,0,,,,0
-1449680400,Floriana,St. Lawrence,3,0,,,,0
-1449688500,Birkirkara,Kirkop,6,0,,,,0
-1449688500,Balzan,Fgura,2,1,,,,0
-1450198800,Swieqi,St. Andrews,2,4,,,,0
-1450206900,Mosta,Hibernians,1,2,,,,0
-1450285200,Zebbug,Tarxien,1,4,,,,1
-1450285200,Qormi,Ghajnsielem,1,0,,,,1
-1450293300,Vittoriosa,Sliema,0,1,,,,0
-1450293300,Naxxar,Lija,0,1,,,,0
-1452103200,Xewkija,Valletta,1,3,,,,0
-1453222800,Balzan,Melita,2,0,,,,0
-1453230900,Qormi,Tarxien,1,1,AET,1,4,0
-1453309200,St. Andrews,Gzira,1,1,Pen,2,1,0
-1453309200,Gharghur,Sliema,1,2,,,,0
-1453309200,Floriana,Lija,2,1,,,,0
-1453317300,Pieta,St. George's FC,3,2,,,,0
-1453317300,Hibernians,Pembroke,1,2,,,,0
-1453319100,Birkirkara,Valletta,1,0,,,,0
-1461081600,Sliema,St. Andrews,2,1,,,,0
-1461088800,Balzan,Tarxien,0,0,AET,1,0,0
-1461168000,Pembroke,Pieta,1,1,AET,3,1,0
-1461175200,Birkirkara,Floriana,2,0,,,,0
-1462633200,Sliema,Birkirkara,1,0,,,,0
-1462719600,Balzan,Pembroke,1,1,AET,3,1,0
-1463238000,Balzan,Sliema,0,0,Pen,0,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1441465200,Oratory,Marsaskala,MPUUyBpO,O0mnUy35,5,1,,,,0
+1441990800,Kercem Ajax,Kalkara,AsZNUoUm,80RnGd7a,6,0,,,,0
+1441992600,St. Venera,Xaghra,I32lP2Mq,2TJ3K3yC,5,3,,,,0
+1442070000,Luqa,Xewkija,zVZ6Di06,zo0dNtid,0,4,,,,0
+1442070000,Gharb,Xbiex,vZvWdGfO,GfGMTrES,0,4,,,,0
+1442070000,Attard,Victoria Wanderers,MyLf3SJl,zo0dNtid,1,1,AET,1,3,0
+1442077200,Qala Saints,Victoria Hotspurs,zo0dNtid,GfGMTrES,0,5,,,,0
+1442078100,Mtarfa,Santa Lucia,KEF0ddo2,zojvecAo,1,0,,,,0
+1442078100,Ghaxaq,Marsaxlokk,zTlXCn7a,bZmYBGs9,1,1,AET,1,2,0
+1442156400,Xghajra,Ghajnsielem,KpWL4iMD,8nQv3C5f,0,1,,,,0
+1442156400,Nadur,Mdina,hbK7bybG,QFOooHzF,1,0,,,,0
+1442163600,St. Lawrence,Oratory,GfGMTrES,MPUUyBpO,0,0,AET,1,0,0
+1442164500,Dingli Swallows,Munxar,0nd54dGc,dSlJV65d,2,0,,,,0
+1445616000,Zebbug,Qrendi,baoyosxj,rFRrBGjd,4,1,,,,0
+1445616000,Gudja,San Gwann,fN02vDNP,tnFQZaTd,0,1,,,,0
+1445624100,Rabat Ajax,Msida,lE5HhTyt,fN02vDNP,4,1,,,,0
+1445624100,Gzira,Sirens,dWnUZWVt,vXHIUObM,6,0,,,,0
+1445691600,Zurrieq,Gharghur,zRR91HRC,hMnLrfkL,1,1,Pen,1,2,0
+1445691600,Zejtun,Marsaxlokk,dWnUZWVt,bZmYBGs9,1,0,,,,0
+1445691600,Siggiewi,Fgura,UuwISvvr,vwe93GV3,0,3,,,,0
+1445691600,Marsa,Xewkija,ITgD2zoA,zo0dNtid,2,4,,,,0
+1445699700,Swieqi,Xbiex,df1hOMyj,GfGMTrES,2,1,,,,0
+1445699700,St. Venera,Birzebbuga,I32lP2Mq,dWnUZWVt,2,1,,,,0
+1445699700,Melita,Mgarr,4zR8yCNE,dKhH1f0G,3,1,,,,0
+1445699700,Kirkop,Mtarfa,ITgD2zoA,KEF0ddo2,3,2,,,,0
+1445778000,Ghajnsielem,Dingli Swallows,8nQv3C5f,0nd54dGc,1,1,AET,2,1,0
+1445781600,Vittoriosa,Kercem Ajax,zL0Qxgws,AsZNUoUm,2,0,,,,0
+1445781600,Mqabba FC,Victoria Hotspurs,fPa9VyEn,GfGMTrES,5,3,,,,0
+1445781600,Lija,Mellieha,dWnUZWVt,4pE1F2O7,2,1,,,,0
+1445785200,Victoria Wanderers,St. Lawrence,zo0dNtid,GfGMTrES,2,4,,,,0
+1445789700,Zabbar,Nadur,zPYfuFCs,hbK7bybG,6,1,,,,0
+1445789700,Senglea,Pieta,tnFQZaTd,Ct4j2I6k,1,2,,,,0
+1445789700,Hamrun,St. George's FC,j3L7suLi,dWnUZWVt,0,1,,,,0
+1448994600,St. George's FC,Mqabba FC,dWnUZWVt,fPa9VyEn,1,0,,,,0
+1449075600,Zabbar,Gzira,zPYfuFCs,dWnUZWVt,0,3,,,,0
+1449075600,St. Venera,Gharghur,I32lP2Mq,hMnLrfkL,0,2,,,,0
+1449083700,Rabat Ajax,Melita,lE5HhTyt,4zR8yCNE,1,4,,,,0
+1449083700,Pieta,Zejtun,Ct4j2I6k,dWnUZWVt,4,1,,,,0
+1449680400,Pembroke,San Gwann,IgJv7Agg,tnFQZaTd,3,0,,,,0
+1449680400,Floriana,St. Lawrence,xGkXZymr,GfGMTrES,3,0,,,,0
+1449688500,Birkirkara,Kirkop,rDY9klCL,ITgD2zoA,6,0,,,,0
+1449688500,Balzan,Fgura,8SwKCrBK,vwe93GV3,2,1,,,,0
+1450198800,Swieqi,St. Andrews,df1hOMyj,zNoYYjom,2,4,,,,0
+1450206900,Mosta,Hibernians,xGkXZymr,WrjrBuU2,1,2,,,,0
+1450285200,Zebbug,Tarxien,baoyosxj,6BT6bC1D,1,4,,,,1
+1450285200,Qormi,Ghajnsielem,fPa9VyEn,8nQv3C5f,1,0,,,,1
+1450293300,Vittoriosa,Sliema,zL0Qxgws,YFbDUeTh,0,1,,,,0
+1450293300,Naxxar,Lija,UyZzkm66,dWnUZWVt,0,1,,,,0
+1452103200,Xewkija,Valletta,zo0dNtid,WrjrBuU2,1,3,,,,0
+1453222800,Balzan,Melita,8SwKCrBK,4zR8yCNE,2,0,,,,0
+1453230900,Qormi,Tarxien,fPa9VyEn,6BT6bC1D,1,1,AET,1,4,0
+1453309200,St. Andrews,Gzira,zNoYYjom,dWnUZWVt,1,1,Pen,2,1,0
+1453309200,Gharghur,Sliema,hMnLrfkL,YFbDUeTh,1,2,,,,0
+1453309200,Floriana,Lija,xGkXZymr,dWnUZWVt,2,1,,,,0
+1453317300,Pieta,St. George's FC,Ct4j2I6k,dWnUZWVt,3,2,,,,0
+1453317300,Hibernians,Pembroke,WrjrBuU2,IgJv7Agg,1,2,,,,0
+1453319100,Birkirkara,Valletta,rDY9klCL,WrjrBuU2,1,0,,,,0
+1461081600,Sliema,St. Andrews,YFbDUeTh,zNoYYjom,2,1,,,,0
+1461088800,Balzan,Tarxien,8SwKCrBK,6BT6bC1D,0,0,AET,1,0,0
+1461168000,Pembroke,Pieta,IgJv7Agg,Ct4j2I6k,1,1,AET,3,1,0
+1461175200,Birkirkara,Floriana,rDY9klCL,xGkXZymr,2,0,,,,0
+1462633200,Sliema,Birkirkara,YFbDUeTh,rDY9klCL,1,0,,,,0
+1462719600,Balzan,Pembroke,8SwKCrBK,IgJv7Agg,1,1,AET,3,1,0
+1463238000,Balzan,Sliema,8SwKCrBK,YFbDUeTh,0,0,Pen,0,1,0

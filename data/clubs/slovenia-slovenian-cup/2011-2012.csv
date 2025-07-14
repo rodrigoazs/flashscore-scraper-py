@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1314122400,Krsko Posavje,Nafta,0,2,,,,0
-1314198000,Verzej,Odranci,2,3,,,,0
-1314198000,Portoroz Piran,Sencur,1,6,,,,0
-1314198000,NK Krka,Tolmin,2,2,Pen,3,4,0
-1314198000,Marles Hise,Zavrc,0,6,,,,0
-1314198000,Malecnik,Interblock,1,2,,,,0
-1314198000,Ilirska Bistrica,Rudar,1,2,,,,0
-1314198000,Hotiza,ND Gorica,0,5,,,,0
-1314198000,Grad,Celje,1,3,,,,0
-1314198000,Britof,Triglav,1,2,,,,0
-1315319400,Triglav,Celje,0,1,,,,0
-1316008800,Zavrc,Domzale,5,0,,,,0
-1316008800,Sentjur,Rudar,0,10,,,,0
-1316008800,Sencur,Nafta,1,0,,,,0
-1316008800,Odranci,Interblock,0,7,,,,0
-1316010600,Tolmin,ND Gorica,1,2,,,,0
-1316016000,Koper,O. Ljubljana,2,0,,,,0
-1318080600,NK Adria,Maribor,0,2,,,,0
-1318953600,Rudar,ND Gorica,2,1,,,,0
-1319029200,Sencur,Koper,0,0,,,,0
-1319029200,Interblock,Celje,2,0,,,,0
-1319558400,ND Gorica,Rudar,1,1,,,,0
-1319634000,Zavrc,Maribor,3,3,,,,0
-1319641200,Celje,Interblock,7,0,,,,0
-1320249600,Koper,Sencur,2,2,,,,0
-1321462800,Maribor,Zavrc,1,0,,,,0
-1334156400,Sencur,Celje,1,1,,,,0
-1334160000,Rudar,Maribor,2,4,,,,0
-1334759400,Celje,Sencur,1,1,Pen,2,1,0
-1334763000,Maribor,Rudar,4,2,,,,0
-1337798700,Celje,Maribor,1,1,Pen,2,3,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1314122400,Krsko Posavje,Nafta,Mm59Ckwm,lMVQNkcq,0,2,,,,0
+1314198000,Verzej,Odranci,r3uHKOhm,2yjk7j71,2,3,,,,0
+1314198000,Portoroz Piran,Sencur,,2yjk7j71,1,6,,,,0
+1314198000,NK Krka,Tolmin,WGDgkDs1,WUxnvDKb,2,2,Pen,3,4,0
+1314198000,Marles Hise,Zavrc,AXk6EDbU,AT1C7n8d,0,6,,,,0
+1314198000,Malecnik,Interblock,AXk6EDbU,2yjk7j71,1,2,,,,0
+1314198000,Ilirska Bistrica,Rudar,Wti2FgqO,fcDVLdrL,1,2,,,,0
+1314198000,Hotiza,ND Gorica,KQicL3Ju,CltD6KMc,0,5,,,,0
+1314198000,Grad,Celje,4SGcbe6P,juuH5vx4,1,3,,,,0
+1314198000,Britof,Triglav,2gmAxwcQ,SObuJ8lK,1,2,,,,0
+1315319400,Triglav,Celje,SObuJ8lK,juuH5vx4,0,1,,,,0
+1316008800,Zavrc,Domzale,AT1C7n8d,8GL0cHSF,5,0,,,,0
+1316008800,Sentjur,Rudar,CKf3x4SI,fcDVLdrL,0,10,,,,0
+1316008800,Sencur,Nafta,2yjk7j71,lMVQNkcq,1,0,,,,0
+1316008800,Odranci,Interblock,2yjk7j71,2yjk7j71,0,7,,,,0
+1316010600,Tolmin,ND Gorica,WUxnvDKb,CltD6KMc,1,2,,,,0
+1316016000,Koper,O. Ljubljana,Ukh5nnRo,zc0A80Mi,2,0,,,,0
+1318080600,NK Adria,Maribor,Ygi8VSKk,88sMeCH2,0,2,,,,0
+1318953600,Rudar,ND Gorica,fcDVLdrL,CltD6KMc,2,1,,,,0
+1319029200,Sencur,Koper,2yjk7j71,Ukh5nnRo,0,0,,,,0
+1319029200,Interblock,Celje,2yjk7j71,juuH5vx4,2,0,,,,0
+1319558400,ND Gorica,Rudar,CltD6KMc,fcDVLdrL,1,1,,,,0
+1319634000,Zavrc,Maribor,AT1C7n8d,88sMeCH2,3,3,,,,0
+1319641200,Celje,Interblock,juuH5vx4,2yjk7j71,7,0,,,,0
+1320249600,Koper,Sencur,Ukh5nnRo,2yjk7j71,2,2,,,,0
+1321462800,Maribor,Zavrc,88sMeCH2,AT1C7n8d,1,0,,,,0
+1334156400,Sencur,Celje,2yjk7j71,juuH5vx4,1,1,,,,0
+1334160000,Rudar,Maribor,fcDVLdrL,88sMeCH2,2,4,,,,0
+1334759400,Celje,Sencur,juuH5vx4,2yjk7j71,1,1,Pen,2,1,0
+1334763000,Maribor,Rudar,88sMeCH2,fcDVLdrL,4,2,,,,0
+1337798700,Celje,Maribor,juuH5vx4,88sMeCH2,1,1,Pen,2,3,0

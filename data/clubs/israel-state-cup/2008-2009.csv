@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1202904000,Hapoel Bnei Lod,Hapoel Petah Tikva,0,1,,,,0
-1202990400,Ramat Hasharon,M. Ironi Kiryat,0,1,,,,0
-1202990400,Hapoel Afula,Ashkelon,0,1,,,,0
-1202990400,Hap. Ramat Gan,Maccabi Haifa,0,0,AET,0,1,0
-1202990400,H. Raanana,Sakhnin,0,1,,,,0
-1202990400,H. Bney Tamra,SC Dimona,1,1,AET,2,1,0
-1202992200,Maccabi Netivot,H. Akko,0,3,,,,0
-1202999400,Bnei Yehuda,Hapoel Umm al-Fahm,0,0,Pen,1,0,0
-1203001200,Nes Tziona,Nof Hagalil,1,1,Pen,2,1,0
-1203001200,M. Nazareth,Hapoel Haifa,2,1,,,,0
-1203001200,Hapoel Kfar Saba,M. Herzliya,2,2,AET,3,2,0
-1203001200,Hapoel Jerusalem,SC Ashdod,1,1,AET,1,4,0
-1203001200,Hak. Ramat Gan,H. Beer Sheva,1,1,AET,3,1,0
-1203004800,Netanya,Maccabi Petah Tikva,1,0,,,,0
-1203101100,Kiryat Shmona,Beitar Jerusalem,3,4,,,,0
-1203187500,Hapoel Tel Aviv,Maccabi Tel Aviv,2,0,,,,0
-1205171100,Netanya,H. Bney Tamra,1,0,,,,0
-1205257500,Beitar Jerusalem,H. Akko,2,0,,,,0
-1205347500,Hapoel Tel Aviv,Maccabi Haifa,1,1,Pen,1,2,0
-1205755200,M. Ironi Kiryat,Hak. Ramat Gan,1,2,,,,0
-1205775900,SC Ashdod,Nes Tziona,1,0,,,,0
-1205775900,M. Nazareth,Ashkelon,2,2,AET,4,2,0
-1205775900,Hapoel Petah Tikva,Hapoel Kfar Saba,1,2,,,,0
-1205859600,Bnei Yehuda,Sakhnin,0,2,,,,0
-1208874600,Netanya,Sakhnin,0,0,AET,1,0,0
-1208879100,Hapoel Kfar Saba,Beitar Jerusalem,1,2,,,,0
-1208882700,SC Ashdod,Hak. Ramat Gan,2,2,Pen,2,3,0
-1208886600,M. Nazareth,Maccabi Haifa,0,4,,,,0
-1210690800,Beitar Jerusalem,Hak. Ramat Gan,2,1,,,,0
-1210699800,Maccabi Haifa,Netanya,1,1,Pen,2,1,0
-1211817600,Beitar Jerusalem,Maccabi Haifa,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1202904000,Hapoel Bnei Lod,Hapoel Petah Tikva,v3ztUZ4H,hQ0m0v0m,0,1,,,,0
+1202990400,Ramat Hasharon,M. Ironi Kiryat,KzDWWehh,8EhW4HYL,0,1,,,,0
+1202990400,Hapoel Afula,Ashkelon,zqa7zUmG,29ebI4SF,0,1,,,,0
+1202990400,Hap. Ramat Gan,Maccabi Haifa,dzZG4p8r,Q5Dpg1h8,0,0,AET,0,1,0
+1202990400,H. Raanana,Sakhnin,b5r6zrF0,Au2PKzWK,0,1,,,,0
+1202990400,H. Bney Tamra,SC Dimona,nFbmzQMS,Ui3hsFy7,1,1,AET,2,1,0
+1202992200,Maccabi Netivot,H. Akko,,dYcEa0DE,0,3,,,,0
+1202999400,Bnei Yehuda,Hapoel Umm al-Fahm,8zGbtM5N,hGL449YS,0,0,Pen,1,0,0
+1203001200,Nes Tziona,Nof Hagalil,6JVdM2JI,b75Ac5A1,1,1,Pen,2,1,0
+1203001200,M. Nazareth,Hapoel Haifa,QX9Y1TqM,ImdO7J3k,2,1,,,,0
+1203001200,Hapoel Kfar Saba,M. Herzliya,29ebI4SF,jVy11PZ2,2,2,AET,3,2,0
+1203001200,Hapoel Jerusalem,SC Ashdod,f91goBvL,n3SolM0c,1,1,AET,1,4,0
+1203001200,Hak. Ramat Gan,H. Beer Sheva,f91goBvL,A3ON3kaq,1,1,AET,3,1,0
+1203004800,Netanya,Maccabi Petah Tikva,vk5aQxpF,OSwHqMzP,1,0,,,,0
+1203101100,Kiryat Shmona,Beitar Jerusalem,AudDKFGO,llM9Ws6j,3,4,,,,0
+1203187500,Hapoel Tel Aviv,Maccabi Tel Aviv,UeZOJs03,EgfVDm2G,2,0,,,,0
+1205171100,Netanya,H. Bney Tamra,vk5aQxpF,nFbmzQMS,1,0,,,,0
+1205257500,Beitar Jerusalem,H. Akko,llM9Ws6j,dYcEa0DE,2,0,,,,0
+1205347500,Hapoel Tel Aviv,Maccabi Haifa,UeZOJs03,Q5Dpg1h8,1,1,Pen,1,2,0
+1205755200,M. Ironi Kiryat,Hak. Ramat Gan,8EhW4HYL,f91goBvL,1,2,,,,0
+1205775900,SC Ashdod,Nes Tziona,n3SolM0c,6JVdM2JI,1,0,,,,0
+1205775900,M. Nazareth,Ashkelon,QX9Y1TqM,29ebI4SF,2,2,AET,4,2,0
+1205775900,Hapoel Petah Tikva,Hapoel Kfar Saba,hQ0m0v0m,29ebI4SF,1,2,,,,0
+1205859600,Bnei Yehuda,Sakhnin,8zGbtM5N,Au2PKzWK,0,2,,,,0
+1208874600,Netanya,Sakhnin,vk5aQxpF,Au2PKzWK,0,0,AET,1,0,0
+1208879100,Hapoel Kfar Saba,Beitar Jerusalem,29ebI4SF,llM9Ws6j,1,2,,,,0
+1208882700,SC Ashdod,Hak. Ramat Gan,n3SolM0c,f91goBvL,2,2,Pen,2,3,0
+1208886600,M. Nazareth,Maccabi Haifa,QX9Y1TqM,Q5Dpg1h8,0,4,,,,0
+1210690800,Beitar Jerusalem,Hak. Ramat Gan,llM9Ws6j,f91goBvL,2,1,,,,0
+1210699800,Maccabi Haifa,Netanya,Q5Dpg1h8,vk5aQxpF,1,1,Pen,2,1,0
+1211817600,Beitar Jerusalem,Maccabi Haifa,llM9Ws6j,Q5Dpg1h8,2,1,,,,0

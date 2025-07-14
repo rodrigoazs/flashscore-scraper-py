@@ -1,8 +1,8 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-981396000,Trabzonspor,Denizlispor,0,1,,,,0
-981451800,Erzurumspor,Kocaelispor,0,0,AET,0,1,0
-981459000,Istanbulspor AS,Adanaspor AS,1,2,,,,0
-981482400,Gaziantepspor,Besiktas,2,2,AET,2,3,0
-983894400,Kocaelispor,Adanaspor AS,1,0,,,,0
-983901600,Denizlispor,Besiktas,0,1,,,,0
-986319000,Besiktas,Kocaelispor,0,4,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+981396000,Trabzonspor,Denizlispor,MobtE80i,0vUmEzqC,0,1,,,,0
+981451800,Erzurumspor,Kocaelispor,,pfQVcl7E,0,0,AET,0,1,0
+981459000,Istanbulspor AS,Adanaspor AS,0GXEkkAD,0vUmEzqC,1,2,,,,0
+981482400,Gaziantepspor,Besiktas,vVd6drcE,UcWWlFia,2,2,AET,2,3,0
+983894400,Kocaelispor,Adanaspor AS,pfQVcl7E,0vUmEzqC,1,0,,,,0
+983901600,Denizlispor,Besiktas,0vUmEzqC,UcWWlFia,0,1,,,,0
+986319000,Besiktas,Kocaelispor,UcWWlFia,pfQVcl7E,0,4,,,,0

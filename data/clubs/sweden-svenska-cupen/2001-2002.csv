@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-987026400,Trelleborg,Sundsvall,2,0,,,,0
-987026400,Soderhamns,GAIS,0,2,,,,0
-987026400,Orebro,AIK,1,1,AET,1,2,0
-987026400,IFK Lulea,Friska Viljor,0,1,,,,0
-987026400,Hammarby,Orgryte,0,2,,,,0
-987026400,Hacken,Malmo FF,0,1,,,,0
-987026400,Elfsborg,Frolunda,1,0,,,,0
-987026400,Djurgarden,Goteborg,1,2,,,,0
-988322400,Orgryte,Elfsborg,1,3,,,,0
-988322400,Goteborg,Malmo FF,1,2,,,,0
-988322400,GAIS,Friska Viljor,3,0,,,,0
-988322400,AIK,Trelleborg,3,2,,,,0
-989445600,Malmo FF,AIK,0,2,,,,0
-989445600,Elfsborg,GAIS,2,1,,,,0
-990741600,AIK,Elfsborg,1,1,AET,1,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+987026400,Trelleborg,Sundsvall,Y551C19F,rFwxlpm5,2,0,,,,0
+987026400,Soderhamns,GAIS,AqOsTzyU,2c38J1pB,0,2,,,,0
+987026400,Orebro,AIK,Kv1GHuFN,2c38J1pB,1,1,AET,1,2,0
+987026400,IFK Lulea,Friska Viljor,0fjl5Krp,j7XJywqn,0,1,,,,0
+987026400,Hammarby,Orgryte,EamQtThn,KQTvUQwK,0,2,,,,0
+987026400,Hacken,Malmo FF,Ew0jDlyt,YmCZKGcR,0,1,,,,0
+987026400,Elfsborg,Frolunda,tl2CILaH,0tVbG58r,1,0,,,,0
+987026400,Djurgarden,Goteborg,lvoaqOtj,jqs0yJHC,1,2,,,,0
+988322400,Orgryte,Elfsborg,KQTvUQwK,tl2CILaH,1,3,,,,0
+988322400,Goteborg,Malmo FF,jqs0yJHC,YmCZKGcR,1,2,,,,0
+988322400,GAIS,Friska Viljor,2c38J1pB,j7XJywqn,3,0,,,,0
+988322400,AIK,Trelleborg,2c38J1pB,Y551C19F,3,2,,,,0
+989445600,Malmo FF,AIK,YmCZKGcR,2c38J1pB,0,2,,,,0
+989445600,Elfsborg,GAIS,tl2CILaH,2c38J1pB,2,1,,,,0
+990741600,AIK,Elfsborg,2c38J1pB,tl2CILaH,1,1,AET,1,2,0

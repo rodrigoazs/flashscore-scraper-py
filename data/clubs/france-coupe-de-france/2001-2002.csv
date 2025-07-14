@@ -1,31 +1,31 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-979858800,Strasbourg,Troyes,0,0,AET,1,0,0
-979858800,Sedan,AC Ajaccio,1,0,,,,0
-979858800,Saint Priest,Nancy,0,2,,,,0
-979858800,Rennes,Lorient,1,2,,,,0
-979858800,Moulins-Yzeure,PSG,0,1,,,,0
-979858800,Montagnarde,La Roche,4,2,,,,0
-979858800,Maur Lusi,Bordeaux,2,0,,,,0
-979858800,Lyon,Chateauroux,0,2,,,,0
-979858800,Louhans Cuiseaux,Guingamp,2,0,,,,0
-979858800,Libourne,Metz,1,1,AET,2,1,0
-979858800,Lens,Marseille,0,1,,,,0
-979858800,Laval,Nimes,0,1,,,,0
-979858800,Issy,Amiens,0,1,,,,0
-979858800,Change,Reims,0,3,,,,0
-979858800,Bastia,Sochaux,1,1,AET,2,1,0
-981727200,Libourne,Chateauroux,2,0,,,,0
-981738000,Montagnarde,Monaco,0,1,,,,0
-981745200,Strasbourg,Creteil,1,1,AET,2,1,0
-981745200,Reims,Sedan,4,4,AET,4,5,0
-981745200,Bastia,Nancy,2,0,,,,0
-981745200,Amiens,Nimes,0,2,,,,0
-981828000,Louhans Cuiseaux,Lorient,2,3,,,,0
-981834300,PSG,Marseille,2,1,,,,0
-984146400,Libourne,Bastia,0,0,AET,0,1,0
-984153600,PSG,Lorient,0,1,,,,0
-984166200,Sedan,Strasbourg,1,0,,,,0
-984247200,Nimes,Monaco,1,1,AET,2,1,0
-985964400,Bastia,Sedan,0,0,AET,1,0,0
-986054400,Lorient,Nimes,1,0,,,,0
-989606700,Bastia,Lorient,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+979858800,Strasbourg,Troyes,lAc5wKNp,McvX4bye,0,0,AET,1,0,0
+979858800,Sedan,AC Ajaccio,0Ga51msj,MVq2a615,1,0,,,,0
+979858800,Saint Priest,Nancy,xK3gbnpg,Q15G9lAm,0,2,,,,0
+979858800,Rennes,Lorient,Y5eozcI6,GU4hlIMk,1,2,,,,0
+979858800,Moulins-Yzeure,PSG,rc8mg6sD,A7UDDuOO,0,1,,,,0
+979858800,Montagnarde,La Roche,C2RyIDLo,x0Z5iGig,4,2,,,,0
+979858800,Maur Lusi,Bordeaux,,6BghNX0a,2,0,,,,0
+979858800,Lyon,Chateauroux,GU4hlIMk,pztT5vMl,0,2,,,,0
+979858800,Louhans Cuiseaux,Guingamp,6LQsEVBO,nDL04Hmj,2,0,,,,0
+979858800,Libourne,Metz,8fhU9hrJ,pztT5vMl,1,1,AET,2,1,0
+979858800,Lens,Marseille,rTEFAmVL,voNnDKJK,0,1,,,,0
+979858800,Laval,Nimes,bXUw9eb2,8Cw7lB45,0,1,,,,0
+979858800,Issy,Amiens,rqilgiPM,lriTEOfc,0,1,,,,0
+979858800,Change,Reims,MVq2a615,x6KhF69U,0,3,,,,0
+979858800,Bastia,Sochaux,h6Qq9yDN,GU4hlIMk,1,1,AET,2,1,0
+981727200,Libourne,Chateauroux,8fhU9hrJ,pztT5vMl,2,0,,,,0
+981738000,Montagnarde,Monaco,C2RyIDLo,44KQTmnj,0,1,,,,0
+981745200,Strasbourg,Creteil,lAc5wKNp,CIougUva,1,1,AET,2,1,0
+981745200,Reims,Sedan,x6KhF69U,0Ga51msj,4,4,AET,4,5,0
+981745200,Bastia,Nancy,h6Qq9yDN,Q15G9lAm,2,0,,,,0
+981745200,Amiens,Nimes,lriTEOfc,8Cw7lB45,0,2,,,,0
+981828000,Louhans Cuiseaux,Lorient,6LQsEVBO,GU4hlIMk,2,3,,,,0
+981834300,PSG,Marseille,A7UDDuOO,voNnDKJK,2,1,,,,0
+984146400,Libourne,Bastia,8fhU9hrJ,h6Qq9yDN,0,0,AET,0,1,0
+984153600,PSG,Lorient,A7UDDuOO,GU4hlIMk,0,1,,,,0
+984166200,Sedan,Strasbourg,0Ga51msj,lAc5wKNp,1,0,,,,0
+984247200,Nimes,Monaco,8Cw7lB45,44KQTmnj,1,1,AET,2,1,0
+985964400,Bastia,Sedan,h6Qq9yDN,0Ga51msj,0,0,AET,1,0,0
+986054400,Lorient,Nimes,GU4hlIMk,8Cw7lB45,1,0,,,,0
+989606700,Bastia,Lorient,h6Qq9yDN,GU4hlIMk,0,1,,,,0

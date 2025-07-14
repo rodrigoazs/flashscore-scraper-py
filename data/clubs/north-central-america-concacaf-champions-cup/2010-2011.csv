@@ -1,79 +1,79 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1280275200,Toronto FC,Motagua,1,0,,,,0
-1280275200,San Juan Jabloteh,Santos Laguna,0,1,,,,0
-1280282400,San Francisco,Cruz Azul,2,3,,,,0
-1280282400,Los Angeles Galaxy,Puerto Rico,1,4,,,,0
-1280361600,Tauro,Marathon,0,3,,,,0
-1280368800,Seattle Sounders,Metapan,1,0,,,,0
-1280368800,Brujas,Joe Public,2,2,,,,0
-1280455200,FAS,Xelaju,1,1,,,,0
-1280880000,Motagua,Toronto FC,2,2,,,,0
-1280880000,Cruz Azul,San Francisco,6,0,,,,0
-1280887200,Metapan,Seattle Sounders,1,1,,,,0
-1280966400,Puerto Rico,Los Angeles Galaxy,1,2,,,,0
-1280973600,Santos Laguna,San Juan Jabloteh,5,0,,,,0
-1280973600,Marathon,Tauro,1,2,,,,0
-1281052800,Joe Public,Brujas,4,2,,,,0
-1281060000,Xelaju,FAS,0,2,,,,0
-1282089600,Toronto FC,Cruz Azul,2,1,,,,0
-1282089600,Puerto Rico,Olimpia,1,1,,,,0
-1282096800,Monterrey,Saprissa,1,0,,,,0
-1282176000,Joe Public,Santos Laguna,2,5,,,,0
-1282176000,Columbus Crew,Municipal,1,0,,,,0
-1282183200,Real Salt Lake,Arabe Unido,2,1,,,,0
-1282183200,FAS,Toluca,0,0,,,,0
-1282269600,Marathon,Seattle Sounders,2,1,,,,0
-1282694400,Arabe Unido,Toronto FC,1,0,,,,0
-1282701600,Santos Laguna,Columbus Crew,1,0,,,,0
-1282780800,Puerto Rico,FAS,4,1,,,,0
-1282780800,Cruz Azul,Real Salt Lake,5,4,,,,0
-1282788000,Seattle Sounders,Monterrey,0,2,,,,0
-1282867200,Toluca,Olimpia,4,0,,,,0
-1282874400,Saprissa,Marathon,4,1,,,,0
-1282874400,Municipal,Joe Public,1,1,,,,0
-1284508800,Monterrey,Marathon,2,0,,,,0
-1284508800,Columbus Crew,Joe Public,3,0,,,,0
-1284516000,Saprissa,Seattle Sounders,2,0,,,,0
-1284516000,Municipal,Santos Laguna,2,2,,,,0
-1284595200,Toluca,Puerto Rico,3,0,,,,0
-1284602400,Real Salt Lake,Toronto FC,4,1,,,,0
-1284602400,Arabe Unido,Cruz Azul,0,6,,,,0
-1284681600,Olimpia,FAS,2,0,,,,0
-1285113600,Columbus Crew,Santos Laguna,1,0,,,,0
-1285120800,Cruz Azul,Toronto FC,0,0,,,,0
-1285200000,Monterrey,Seattle Sounders,3,2,,,,0
-1285200000,Arabe Unido,Real Salt Lake,2,3,,,,0
-1285207200,Marathon,Saprissa,2,1,,,,0
-1285207200,FAS,Puerto Rico,0,0,,,,0
-1285286400,Joe Public,Municipal,2,3,,,,0
-1285293600,Olimpia,Toluca,2,1,,,,0
-1285718400,Toronto FC,Real Salt Lake,1,1,,,,0
-1285718400,Cruz Azul,Arabe Unido,2,0,,,,0
-1285725600,Saprissa,Monterrey,2,2,,,,0
-1285804800,Puerto Rico,Toluca,3,2,,,,0
-1285812000,Seattle Sounders,Marathon,2,0,,,,0
-1285812000,Santos Laguna,Joe Public,5,1,,,,0
-1285812000,Municipal,Columbus Crew,2,1,,,,0
-1285898400,FAS,Olimpia,1,4,,,,0
-1287532800,Toronto FC,Arabe Unido,1,0,,,,0
-1287532800,Santos Laguna,Municipal,6,1,,,,0
-1287540000,Seattle Sounders,Saprissa,1,2,,,,0
-1287540000,Real Salt Lake,Cruz Azul,3,1,,,,0
-1287619200,Toluca,FAS,5,0,,,,0
-1287626400,Olimpia,Puerto Rico,3,0,,,,0
-1287626400,Marathon,Monterrey,0,1,,,,0
-1287705600,Joe Public,Columbus Crew,1,4,,,,0
-1298422800,Columbus Crew,Real Salt Lake,0,0,,,,0
-1298430000,Cruz Azul,Santos Laguna,2,0,,,,0
-1298509200,Toluca,Monterrey,0,1,,,,0
-1298595600,Saprissa,Olimpia,1,0,,,,0
-1299027600,Santos Laguna,Cruz Azul,1,3,,,,0
-1299034800,Real Salt Lake,Columbus Crew,4,1,,,,0
-1299114000,Monterrey,Toluca,1,0,,,,0
-1299200400,Olimpia,Saprissa,1,2,,,,0
-1300240800,Real Salt Lake,Saprissa,2,0,,,,0
-1300327200,Monterrey,Cruz Azul,2,1,,,,0
-1302055200,Saprissa,Real Salt Lake,2,1,,,,0
-1302134400,Cruz Azul,Monterrey,1,1,,,,0
-1303351200,Monterrey,Real Salt Lake,2,2,,,,0
-1303956000,Real Salt Lake,Monterrey,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1280275200,Toronto FC,Motagua,tnwDCzLD,dtCxYreO,1,0,,,,0
+1280275200,San Juan Jabloteh,Santos Laguna,fmULZ56k,bmPslben,0,1,,,,0
+1280282400,San Francisco,Cruz Azul,vTLj5hDm,nqhLBCKD,2,3,,,,0
+1280282400,Los Angeles Galaxy,Puerto Rico,nqhLBCKD,IJKf4CSg,1,4,,,,0
+1280361600,Tauro,Marathon,vTLj5hDm,IJKf4CSg,0,3,,,,0
+1280368800,Seattle Sounders,Metapan,Q7Ql2Qbi,IJKf4CSg,1,0,,,,0
+1280368800,Brujas,Joe Public,IJKf4CSg,z1I22jc6,2,2,,,,0
+1280455200,FAS,Xelaju,IJKf4CSg,COG61ACC,1,1,,,,0
+1280880000,Motagua,Toronto FC,dtCxYreO,tnwDCzLD,2,2,,,,0
+1280880000,Cruz Azul,San Francisco,nqhLBCKD,vTLj5hDm,6,0,,,,0
+1280887200,Metapan,Seattle Sounders,IJKf4CSg,Q7Ql2Qbi,1,1,,,,0
+1280966400,Puerto Rico,Los Angeles Galaxy,IJKf4CSg,nqhLBCKD,1,2,,,,0
+1280973600,Santos Laguna,San Juan Jabloteh,bmPslben,fmULZ56k,5,0,,,,0
+1280973600,Marathon,Tauro,IJKf4CSg,vTLj5hDm,1,2,,,,0
+1281052800,Joe Public,Brujas,z1I22jc6,IJKf4CSg,4,2,,,,0
+1281060000,Xelaju,FAS,COG61ACC,IJKf4CSg,0,2,,,,0
+1282089600,Toronto FC,Cruz Azul,tnwDCzLD,nqhLBCKD,2,1,,,,0
+1282089600,Puerto Rico,Olimpia,IJKf4CSg,WvziCH8E,1,1,,,,0
+1282096800,Monterrey,Saprissa,MVPKYVvK,tnwDCzLD,1,0,,,,0
+1282176000,Joe Public,Santos Laguna,z1I22jc6,bmPslben,2,5,,,,0
+1282176000,Columbus Crew,Municipal,OrE2LMh8,vTLj5hDm,1,0,,,,0
+1282183200,Real Salt Lake,Arabe Unido,vgy39tSd,IJKf4CSg,2,1,,,,0
+1282183200,FAS,Toluca,IJKf4CSg,0pHVJYjM,0,0,,,,0
+1282269600,Marathon,Seattle Sounders,IJKf4CSg,Q7Ql2Qbi,2,1,,,,0
+1282694400,Arabe Unido,Toronto FC,IJKf4CSg,tnwDCzLD,1,0,,,,0
+1282701600,Santos Laguna,Columbus Crew,bmPslben,OrE2LMh8,1,0,,,,0
+1282780800,Puerto Rico,FAS,IJKf4CSg,IJKf4CSg,4,1,,,,0
+1282780800,Cruz Azul,Real Salt Lake,nqhLBCKD,vgy39tSd,5,4,,,,0
+1282788000,Seattle Sounders,Monterrey,Q7Ql2Qbi,MVPKYVvK,0,2,,,,0
+1282867200,Toluca,Olimpia,0pHVJYjM,WvziCH8E,4,0,,,,0
+1282874400,Saprissa,Marathon,tnwDCzLD,IJKf4CSg,4,1,,,,0
+1282874400,Municipal,Joe Public,vTLj5hDm,z1I22jc6,1,1,,,,0
+1284508800,Monterrey,Marathon,MVPKYVvK,IJKf4CSg,2,0,,,,0
+1284508800,Columbus Crew,Joe Public,OrE2LMh8,z1I22jc6,3,0,,,,0
+1284516000,Saprissa,Seattle Sounders,tnwDCzLD,Q7Ql2Qbi,2,0,,,,0
+1284516000,Municipal,Santos Laguna,vTLj5hDm,bmPslben,2,2,,,,0
+1284595200,Toluca,Puerto Rico,0pHVJYjM,IJKf4CSg,3,0,,,,0
+1284602400,Real Salt Lake,Toronto FC,vgy39tSd,tnwDCzLD,4,1,,,,0
+1284602400,Arabe Unido,Cruz Azul,IJKf4CSg,nqhLBCKD,0,6,,,,0
+1284681600,Olimpia,FAS,WvziCH8E,IJKf4CSg,2,0,,,,0
+1285113600,Columbus Crew,Santos Laguna,OrE2LMh8,bmPslben,1,0,,,,0
+1285120800,Cruz Azul,Toronto FC,nqhLBCKD,tnwDCzLD,0,0,,,,0
+1285200000,Monterrey,Seattle Sounders,MVPKYVvK,Q7Ql2Qbi,3,2,,,,0
+1285200000,Arabe Unido,Real Salt Lake,IJKf4CSg,vgy39tSd,2,3,,,,0
+1285207200,Marathon,Saprissa,IJKf4CSg,tnwDCzLD,2,1,,,,0
+1285207200,FAS,Puerto Rico,IJKf4CSg,IJKf4CSg,0,0,,,,0
+1285286400,Joe Public,Municipal,z1I22jc6,vTLj5hDm,2,3,,,,0
+1285293600,Olimpia,Toluca,WvziCH8E,0pHVJYjM,2,1,,,,0
+1285718400,Toronto FC,Real Salt Lake,tnwDCzLD,vgy39tSd,1,1,,,,0
+1285718400,Cruz Azul,Arabe Unido,nqhLBCKD,IJKf4CSg,2,0,,,,0
+1285725600,Saprissa,Monterrey,tnwDCzLD,MVPKYVvK,2,2,,,,0
+1285804800,Puerto Rico,Toluca,IJKf4CSg,0pHVJYjM,3,2,,,,0
+1285812000,Seattle Sounders,Marathon,Q7Ql2Qbi,IJKf4CSg,2,0,,,,0
+1285812000,Santos Laguna,Joe Public,bmPslben,z1I22jc6,5,1,,,,0
+1285812000,Municipal,Columbus Crew,vTLj5hDm,OrE2LMh8,2,1,,,,0
+1285898400,FAS,Olimpia,IJKf4CSg,WvziCH8E,1,4,,,,0
+1287532800,Toronto FC,Arabe Unido,tnwDCzLD,IJKf4CSg,1,0,,,,0
+1287532800,Santos Laguna,Municipal,bmPslben,vTLj5hDm,6,1,,,,0
+1287540000,Seattle Sounders,Saprissa,Q7Ql2Qbi,tnwDCzLD,1,2,,,,0
+1287540000,Real Salt Lake,Cruz Azul,vgy39tSd,nqhLBCKD,3,1,,,,0
+1287619200,Toluca,FAS,0pHVJYjM,IJKf4CSg,5,0,,,,0
+1287626400,Olimpia,Puerto Rico,WvziCH8E,IJKf4CSg,3,0,,,,0
+1287626400,Marathon,Monterrey,IJKf4CSg,MVPKYVvK,0,1,,,,0
+1287705600,Joe Public,Columbus Crew,z1I22jc6,OrE2LMh8,1,4,,,,0
+1298422800,Columbus Crew,Real Salt Lake,OrE2LMh8,vgy39tSd,0,0,,,,0
+1298430000,Cruz Azul,Santos Laguna,nqhLBCKD,bmPslben,2,0,,,,0
+1298509200,Toluca,Monterrey,0pHVJYjM,MVPKYVvK,0,1,,,,0
+1298595600,Saprissa,Olimpia,tnwDCzLD,WvziCH8E,1,0,,,,0
+1299027600,Santos Laguna,Cruz Azul,bmPslben,nqhLBCKD,1,3,,,,0
+1299034800,Real Salt Lake,Columbus Crew,vgy39tSd,OrE2LMh8,4,1,,,,0
+1299114000,Monterrey,Toluca,MVPKYVvK,0pHVJYjM,1,0,,,,0
+1299200400,Olimpia,Saprissa,WvziCH8E,tnwDCzLD,1,2,,,,0
+1300240800,Real Salt Lake,Saprissa,vgy39tSd,tnwDCzLD,2,0,,,,0
+1300327200,Monterrey,Cruz Azul,MVPKYVvK,nqhLBCKD,2,1,,,,0
+1302055200,Saprissa,Real Salt Lake,tnwDCzLD,vgy39tSd,2,1,,,,0
+1302134400,Cruz Azul,Monterrey,nqhLBCKD,MVPKYVvK,1,1,,,,0
+1303351200,Monterrey,Real Salt Lake,MVPKYVvK,vgy39tSd,2,2,,,,0
+1303956000,Real Salt Lake,Monterrey,vgy39tSd,MVPKYVvK,0,1,,,,0

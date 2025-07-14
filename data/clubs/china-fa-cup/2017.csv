@@ -1,71 +1,71 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1489820400,Zhaoqing Hengtai,Nantong Zhiyun,1,2,,,,0
-1489820400,Shanghai JuJu,Jiangxi Lushan,0,0,Pen,0,1,0
-1489820400,Jiangsu Yancheng,Hangzhou Ange,3,1,,,,0
-1489822200,Liuzhou Ranko,Shanghai Jiading Huilong,1,1,Pen,1,2,0
-1489908600,Dingnan Ganlian,Qingdao Kunpeng,2,2,Pen,3,2,0
-1490421600,Heilongjiang Tianfeng,Shaanxi Changan,0,1,,,,0
-1490423400,Yinchuan,Liaoning Tieren,2,1,,,,0
-1490425200,Shanghai Sunfun,Hainan Boying,2,2,Pen,3,2,0
-1490425200,Kunshan,Hebei Zhuoao,0,2,,,,0
-1490425200,Beijing Technology,Qingdao Hainiu,0,2,,,,0
-1490427000,Suzhou Dongwu,Sichuan Annapurna,1,0,,,,0
-1490427000,Hubei Istar,Dalian Chanjoy,0,2,,,,0
-1490428800,Chengdu Rongcheng,Inner Mongolia,2,0,,,,0
-1490432400,Shenzhen Ledman,Shenyan Dongjin,2,0,,,,0
-1490441400,Guangdong Tigers,Hunan Billows,3,3,Pen,4,3,0
-1490511600,Dalian Tongshun,Jilin Baijia,1,1,Pen,1,2,0
-1492498800,Dingnan Ganlian,Baoding Yingli Yitong,1,0,,,,0
-1492585200,Yinchuan,Cangzhou,0,1,,,,0
-1492585200,Shanghai Sunfun,Xinjiang Tianshan,2,0,,,,0
-1492585200,Qingdao Hainiu,Shenzhen,1,2,,,,0
-1492585200,Jiangxi Lushan,Beijing Sport University,1,0,,,,0
-1492585200,Hebei Zhuoao,Nei Mongol,0,2,,,,0
-1492587000,Jilin Baijia,Shaoxing Keqiao Yuejia,1,1,Pen,2,1,0
-1492587000,Dalian Chanjoy,Yunnan Feihu F.C.,2,3,,,,0
-1492587000,Chengdu Rongcheng,Beijing Renhe,1,3,,,,0
-1492588800,Shenzhen Ledman,Zhejiang Professional,0,1,,,,0
-1492601400,Suzhou Dongwu,Meizhou Hakka,2,0,,,,0
-1492601400,Shaanxi Changan,Qingdao FC,0,1,,,,0
-1492601700,Nantong Zhiyun,Shanghai Shenxin,1,2,,,,0
-1492671600,Jiangsu Yancheng,Dalian Pro,0,0,Pen,0,1,0
-1492687800,Guangdong Tigers,Dalian Transcend,4,1,,,,0
-1492689600,Shanghai Jiading Huilong,Wuhan FC,2,1,,,,0
-1493708400,Yunnan Feihu F.C.,Shanghai Shenhua,0,3,,,,0
-1493708400,Jilin Baijia,Shandong Taishan,1,4,,,,0
-1493722800,Guangdong Tigers,Guangzhou FC,1,2,,,,0
-1493724600,Suzhou Dongwu,Yanbian Longding,1,1,Pen,2,1,0
-1493724600,Shenzhen,Hebei,0,1,,,,0
-1493724900,Zhejiang Professional,Liaoning,4,3,,,,0
-1493724900,Qingdao FC,Guangzhou City,1,4,,,,0
-1493724900,Nei Mongol,Changchun Yatai,2,1,,,,0
-1493724900,Jiangxi Lushan,Jiangsu Suning,0,1,,,,0
-1493726400,Shanghai Jiading Huilong,Tianjin Jinmen Tiger,0,2,,,,0
-1493794800,Shanghai Sunfun,Henan Songshan Longmen,1,5,,,,0
-1493794800,Dingnan Ganlian,Chongqing Liangjiang Athletic,1,0,,,,0
-1493796600,Dalian Pro,Tianjin Tianhai,0,2,,,,0
-1493796600,Beijing Renhe,Beijing Guoan,0,5,,,,0
-1493811300,Shanghai Shenxin,Guizhou,5,3,,,,0
-1493811300,Cangzhou,Shanghai Port,0,2,,,,0
-1498030200,Dingnan Ganlian,Tianjin Tianhai,1,2,,,,0
-1498032000,Zhejiang Professional,Shanghai Shenxin,1,1,Pen,1,2,0
-1498039200,Suzhou Dongwu,Shanghai Port,1,1,Pen,1,2,0
-1498039200,Nei Mongol,Guangzhou City,0,0,Pen,0,1,0
-1498044900,Tianjin Jinmen Tiger,Shandong Taishan,0,1,,,,0
-1498044900,Jiangsu Suning,Henan Songshan Longmen,1,0,,,,0
-1498046400,Shanghai Shenhua,Beijing Guoan,1,0,,,,0
-1498046400,Guangzhou FC,Hebei,1,0,,,,0
-1500377700,Jiangsu Suning,Shanghai Shenxin,2,2,,,,0
-1500458400,Tianjin Tianhai,Shanghai Port,3,0,,,,0
-1500465600,Shandong Taishan,Shanghai Shenhua,1,3,,,,0
-1500465600,Guangzhou City,Guangzhou FC,4,2,,,,0
-1501587300,Shanghai Shenxin,Jiangsu Suning,2,1,,,,0
-1501588800,Guangzhou FC,Guangzhou City,7,2,,,,0
-1501673700,Shanghai Shenhua,Shandong Taishan,0,0,,,,0
-1501760100,Shanghai Port,Tianjin Tianhai,4,0,,,,0
-1502796900,Shanghai Shenhua,Shanghai Shenxin,1,0,,,,0
-1502883300,Shanghai Port,Guangzhou FC,2,1,,,,0
-1506684900,Shanghai Shenxin,Shanghai Shenhua,0,1,,,,0
-1506771300,Guangzhou FC,Shanghai Port,1,4,,,,0
-1511091300,Shanghai Shenhua,Shanghai Port,1,0,,,,0
-1511697600,Shanghai Port,Shanghai Shenhua,3,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1489820400,Zhaoqing Hengtai,Nantong Zhiyun,,AFj2pKq5,1,2,,,,0
+1489820400,Shanghai JuJu,Jiangxi Lushan,AFj2pKq5,WtcR44US,0,0,Pen,0,1,0
+1489820400,Jiangsu Yancheng,Hangzhou Ange,WOibo0Ub,,3,1,,,,0
+1489822200,Liuzhou Ranko,Shanghai Jiading Huilong,prhXSujC,YXqJI795,1,1,Pen,1,2,0
+1489908600,Dingnan Ganlian,Qingdao Kunpeng,dUDnJpEs,EHnQZYp6,2,2,Pen,3,2,0
+1490421600,Heilongjiang Tianfeng,Shaanxi Changan,vcPMgt5C,2afEtDjQ,0,1,,,,0
+1490423400,Yinchuan,Liaoning Tieren,Um7O4Ftb,MsnJHNUl,2,1,,,,0
+1490425200,Shanghai Sunfun,Hainan Boying,h20YmyKJ,MqDOFeqd,2,2,Pen,3,2,0
+1490425200,Kunshan,Hebei Zhuoao,biBdGpko,WOibo0Ub,0,2,,,,0
+1490425200,Beijing Technology,Qingdao Hainiu,IwoOwT3M,h4caPP9m,0,2,,,,0
+1490427000,Suzhou Dongwu,Sichuan Annapurna,l6k6qvaB,AFj2pKq5,1,0,,,,0
+1490427000,Hubei Istar,Dalian Chanjoy,vcPMgt5C,drPUKQtU,0,2,,,,0
+1490428800,Chengdu Rongcheng,Inner Mongolia,OOoISEmk,WOibo0Ub,2,0,,,,0
+1490432400,Shenzhen Ledman,Shenyan Dongjin,StGBQogq,MXCHmeIM,2,0,,,,0
+1490441400,Guangdong Tigers,Hunan Billows,Wt5EQBD6,GAl6qbUk,3,3,Pen,4,3,0
+1490511600,Dalian Tongshun,Jilin Baijia,8QjEKWFr,WOibo0Ub,1,1,Pen,1,2,0
+1492498800,Dingnan Ganlian,Baoding Yingli Yitong,dUDnJpEs,drPUKQtU,1,0,,,,0
+1492585200,Yinchuan,Cangzhou,Um7O4Ftb,MTEwiRTq,0,1,,,,0
+1492585200,Shanghai Sunfun,Xinjiang Tianshan,h20YmyKJ,Str9E0eP,2,0,,,,0
+1492585200,Qingdao Hainiu,Shenzhen,h4caPP9m,A1TBw3zO,1,2,,,,0
+1492585200,Jiangxi Lushan,Beijing Sport University,WtcR44US,4GUSfyLN,1,0,,,,0
+1492585200,Hebei Zhuoao,Nei Mongol,WOibo0Ub,SGW5FGTc,0,2,,,,0
+1492587000,Jilin Baijia,Shaoxing Keqiao Yuejia,WOibo0Ub,QZnlcN79,1,1,Pen,2,1,0
+1492587000,Dalian Chanjoy,Yunnan Feihu F.C.,drPUKQtU,td2gHRa2,2,3,,,,0
+1492587000,Chengdu Rongcheng,Beijing Renhe,OOoISEmk,x60uiMCN,1,3,,,,0
+1492588800,Shenzhen Ledman,Zhejiang Professional,StGBQogq,j1jME9Xt,0,1,,,,0
+1492601400,Suzhou Dongwu,Meizhou Hakka,l6k6qvaB,69CHvUVa,2,0,,,,0
+1492601400,Shaanxi Changan,Qingdao FC,2afEtDjQ,IcVGZjaT,0,1,,,,0
+1492601700,Nantong Zhiyun,Shanghai Shenxin,AFj2pKq5,fgNUPaDK,1,2,,,,0
+1492671600,Jiangsu Yancheng,Dalian Pro,WOibo0Ub,f151I1Xc,0,0,Pen,0,1,0
+1492687800,Guangdong Tigers,Dalian Transcend,Wt5EQBD6,xCsW9vcb,4,1,,,,0
+1492689600,Shanghai Jiading Huilong,Wuhan FC,YXqJI795,pbC5VOeU,2,1,,,,0
+1493708400,Yunnan Feihu F.C.,Shanghai Shenhua,td2gHRa2,xEhCoufj,0,3,,,,0
+1493708400,Jilin Baijia,Shandong Taishan,WOibo0Ub,Of01Mw8S,1,4,,,,0
+1493722800,Guangdong Tigers,Guangzhou FC,Wt5EQBD6,fgNUPaDK,1,2,,,,0
+1493724600,Suzhou Dongwu,Yanbian Longding,l6k6qvaB,MDOGhig8,1,1,Pen,2,1,0
+1493724600,Shenzhen,Hebei,A1TBw3zO,lMgch5pg,0,1,,,,0
+1493724900,Zhejiang Professional,Liaoning,j1jME9Xt,fgNUPaDK,4,3,,,,0
+1493724900,Qingdao FC,Guangzhou City,IcVGZjaT,niM2dYV4,1,4,,,,0
+1493724900,Nei Mongol,Changchun Yatai,SGW5FGTc,G2OQQubE,2,1,,,,0
+1493724900,Jiangxi Lushan,Jiangsu Suning,WtcR44US,tnFE8H64,0,1,,,,0
+1493726400,Shanghai Jiading Huilong,Tianjin Jinmen Tiger,YXqJI795,A5sD8c6B,0,2,,,,0
+1493794800,Shanghai Sunfun,Henan Songshan Longmen,h20YmyKJ,fgNUPaDK,1,5,,,,0
+1493794800,Dingnan Ganlian,Chongqing Liangjiang Athletic,dUDnJpEs,IwoOwT3M,1,0,,,,0
+1493796600,Dalian Pro,Tianjin Tianhai,f151I1Xc,vTDpGngO,0,2,,,,0
+1493796600,Beijing Renhe,Beijing Guoan,x60uiMCN,fgNUPaDK,0,5,,,,0
+1493811300,Shanghai Shenxin,Guizhou,fgNUPaDK,OhFbPUqL,5,3,,,,0
+1493811300,Cangzhou,Shanghai Port,MTEwiRTq,4Iubiv1h,0,2,,,,0
+1498030200,Dingnan Ganlian,Tianjin Tianhai,dUDnJpEs,vTDpGngO,1,2,,,,0
+1498032000,Zhejiang Professional,Shanghai Shenxin,j1jME9Xt,fgNUPaDK,1,1,Pen,1,2,0
+1498039200,Suzhou Dongwu,Shanghai Port,l6k6qvaB,4Iubiv1h,1,1,Pen,1,2,0
+1498039200,Nei Mongol,Guangzhou City,SGW5FGTc,niM2dYV4,0,0,Pen,0,1,0
+1498044900,Tianjin Jinmen Tiger,Shandong Taishan,A5sD8c6B,Of01Mw8S,0,1,,,,0
+1498044900,Jiangsu Suning,Henan Songshan Longmen,tnFE8H64,fgNUPaDK,1,0,,,,0
+1498046400,Shanghai Shenhua,Beijing Guoan,xEhCoufj,fgNUPaDK,1,0,,,,0
+1498046400,Guangzhou FC,Hebei,fgNUPaDK,lMgch5pg,1,0,,,,0
+1500377700,Jiangsu Suning,Shanghai Shenxin,tnFE8H64,fgNUPaDK,2,2,,,,0
+1500458400,Tianjin Tianhai,Shanghai Port,vTDpGngO,4Iubiv1h,3,0,,,,0
+1500465600,Shandong Taishan,Shanghai Shenhua,Of01Mw8S,xEhCoufj,1,3,,,,0
+1500465600,Guangzhou City,Guangzhou FC,niM2dYV4,fgNUPaDK,4,2,,,,0
+1501587300,Shanghai Shenxin,Jiangsu Suning,fgNUPaDK,tnFE8H64,2,1,,,,0
+1501588800,Guangzhou FC,Guangzhou City,fgNUPaDK,niM2dYV4,7,2,,,,0
+1501673700,Shanghai Shenhua,Shandong Taishan,xEhCoufj,Of01Mw8S,0,0,,,,0
+1501760100,Shanghai Port,Tianjin Tianhai,4Iubiv1h,vTDpGngO,4,0,,,,0
+1502796900,Shanghai Shenhua,Shanghai Shenxin,xEhCoufj,fgNUPaDK,1,0,,,,0
+1502883300,Shanghai Port,Guangzhou FC,4Iubiv1h,fgNUPaDK,2,1,,,,0
+1506684900,Shanghai Shenxin,Shanghai Shenhua,fgNUPaDK,xEhCoufj,0,1,,,,0
+1506771300,Guangzhou FC,Shanghai Port,fgNUPaDK,4Iubiv1h,1,4,,,,0
+1511091300,Shanghai Shenhua,Shanghai Port,xEhCoufj,4Iubiv1h,1,0,,,,0
+1511697600,Shanghai Port,Shanghai Shenhua,4Iubiv1h,xEhCoufj,3,2,,,,0

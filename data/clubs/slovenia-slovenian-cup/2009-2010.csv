@@ -1,36 +1,36 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1251903600,Zeleznicar,NK Serdica,8,4,,,,0
-1251903600,NK Kalcer,NK Kranj,2,1,,,,0
-1253109600,Zrece,Celje,0,8,,,,0
-1253109600,Zeleznicar,Drava,0,3,,,,0
-1253109600,Triglav,Aluminij,1,1,AET,2,1,0
-1253109600,Stojnci,Bela Krajina,1,0,,,,0
-1253109600,Odranci,Dravinja,1,1,AET,2,1,0
-1253109600,NK Kalcer,O. Ljubljana,1,5,,,,0
-1253109600,Jadran Dekani,Nafta,0,4,,,,0
-1253109600,Idrija,Koper,0,4,,,,0
-1253109600,Gostilna Lobnik Slivnica,Mura,0,5,,,,0
-1253109600,Dravograd,Domzale,0,5,,,,0
-1253109600,Crensovci,Tolmin,1,1,Pen,2,1,0
-1253109600,Ankaran,Primorje,0,0,Pen,0,1,0
-1256040000,Crensovci,ND Gorica,0,5,,,,0
-1256126400,Triglav,Primorje,4,0,,,,0
-1256126400,Stojnci,Nafta,2,6,,,,0
-1256126400,Odranci,Interblock,0,2,,,,0
-1256126400,O. Ljubljana,Maribor,0,1,,,,0
-1256126400,Mura,Celje,3,5,,,,0
-1256126400,Koper,Rudar,2,4,,,,0
-1256126400,Drava,Domzale,2,3,,,,0
-1268834400,Maribor,Triglav,5,1,,,,0
-1268834400,Interblock,Nafta,1,1,,,,0
-1268845200,Domzale,ND Gorica,1,1,,,,0
-1268852400,Rudar,Celje,0,1,,,,0
-1269439200,Triglav,Maribor,2,2,,,,0
-1269439200,Nafta,Interblock,3,0,,,,0
-1269446400,ND Gorica,Domzale,0,1,,,,0
-1269446400,Celje,Rudar,1,0,,,,0
-1271181600,Maribor,Celje,4,1,,,,0
-1271257200,Nafta,Domzale,1,1,,,,0
-1271863800,Domzale,Nafta,3,0,,,,0
-1271863800,Celje,Maribor,3,3,,,,0
-1273341600,Maribor,Domzale,2,2,AET,3,2,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1251903600,Zeleznicar,NK Serdica,AXk6EDbU,t8vsrRD6,8,4,,,,0
+1251903600,NK Kalcer,NK Kranj,2kBoB439,E37YyVsM,2,1,,,,0
+1253109600,Zrece,Celje,ttAkAOIF,juuH5vx4,0,8,,,,0
+1253109600,Zeleznicar,Drava,AXk6EDbU,4YZxDhVh,0,3,,,,0
+1253109600,Triglav,Aluminij,SObuJ8lK,8MCIbRV4,1,1,AET,2,1,0
+1253109600,Stojnci,Bela Krajina,jiX5wV89,zk01QcC8,1,0,,,,0
+1253109600,Odranci,Dravinja,2yjk7j71,Eua5PHRE,1,1,AET,2,1,0
+1253109600,NK Kalcer,O. Ljubljana,2kBoB439,zc0A80Mi,1,5,,,,0
+1253109600,Jadran Dekani,Nafta,n3UXADzS,lMVQNkcq,0,4,,,,0
+1253109600,Idrija,Koper,2kBoB439,Ukh5nnRo,0,4,,,,0
+1253109600,Gostilna Lobnik Slivnica,Mura,2kBoB439,UcUjoAI7,0,5,,,,0
+1253109600,Dravograd,Domzale,86fuGK70,8GL0cHSF,0,5,,,,0
+1253109600,Crensovci,Tolmin,KU5NrJbm,WUxnvDKb,1,1,Pen,2,1,0
+1253109600,Ankaran,Primorje,vcT321w1,ttIVL12M,0,0,Pen,0,1,0
+1256040000,Crensovci,ND Gorica,KU5NrJbm,CltD6KMc,0,5,,,,0
+1256126400,Triglav,Primorje,SObuJ8lK,ttIVL12M,4,0,,,,0
+1256126400,Stojnci,Nafta,jiX5wV89,lMVQNkcq,2,6,,,,0
+1256126400,Odranci,Interblock,2yjk7j71,2yjk7j71,0,2,,,,0
+1256126400,O. Ljubljana,Maribor,zc0A80Mi,88sMeCH2,0,1,,,,0
+1256126400,Mura,Celje,UcUjoAI7,juuH5vx4,3,5,,,,0
+1256126400,Koper,Rudar,Ukh5nnRo,fcDVLdrL,2,4,,,,0
+1256126400,Drava,Domzale,4YZxDhVh,8GL0cHSF,2,3,,,,0
+1268834400,Maribor,Triglav,88sMeCH2,SObuJ8lK,5,1,,,,0
+1268834400,Interblock,Nafta,2yjk7j71,lMVQNkcq,1,1,,,,0
+1268845200,Domzale,ND Gorica,8GL0cHSF,CltD6KMc,1,1,,,,0
+1268852400,Rudar,Celje,fcDVLdrL,juuH5vx4,0,1,,,,0
+1269439200,Triglav,Maribor,SObuJ8lK,88sMeCH2,2,2,,,,0
+1269439200,Nafta,Interblock,lMVQNkcq,2yjk7j71,3,0,,,,0
+1269446400,ND Gorica,Domzale,CltD6KMc,8GL0cHSF,0,1,,,,0
+1269446400,Celje,Rudar,juuH5vx4,fcDVLdrL,1,0,,,,0
+1271181600,Maribor,Celje,88sMeCH2,juuH5vx4,4,1,,,,0
+1271257200,Nafta,Domzale,lMVQNkcq,8GL0cHSF,1,1,,,,0
+1271863800,Domzale,Nafta,8GL0cHSF,lMVQNkcq,3,0,,,,0
+1271863800,Celje,Maribor,juuH5vx4,88sMeCH2,3,3,,,,0
+1273341600,Maribor,Domzale,88sMeCH2,8GL0cHSF,2,2,AET,3,2,0

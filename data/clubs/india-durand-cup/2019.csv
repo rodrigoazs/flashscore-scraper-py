@@ -1,27 +1,27 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1564749000,Mohun Bagan,Mohammedan,2,0,,,,0
-1564824600,East Bengal,Army Red,2,0,,,,0
-1564997400,Bengaluru FC,Army Red,1,1,,,,0
-1565010000,Indian Navy,ATK,1,1,,,,0
-1565083800,East Bengal,Jamshedpur,6,0,,,,0
-1565170200,Real Kashmir,Chennai City,1,0,,,,0
-1565256600,Mohun Bagan,ATK,2,1,,,,0
-1565256600,Gokulam,Chennaiyin,4,0,,,,0
-1565256600,Goa,Army Green,1,0,,,,0
-1565343000,TRAU FC,Indian Air Force,0,1,,,,0
-1565343000,Army Red,Jamshedpur,2,2,,,,0
-1565429400,Mohammedan,Indian Navy,6,2,,,,0
-1565429400,Army Green,Real Kashmir,0,4,,,,0
-1565775000,Indian Air Force,Gokulam,0,3,,,,0
-1565775000,Chennai City,Goa,1,2,,,,0
-1565785800,East Bengal,Bengaluru FC,2,1,,,,0
-1565958600,Mohammedan,ATK,0,1,,,,0
-1566034200,Jamshedpur,Bengaluru FC,3,3,,,,0
-1566034200,Goa,Real Kashmir,0,0,,,,0
-1566046800,Mohun Bagan,Indian Navy,1,0,,,,0
-1566120600,TRAU FC,Gokulam,1,4,,,,0
-1566120600,Chennaiyin,Indian Air Force,0,0,,,,0
-1566120600,Chennai City,Army Green,2,1,,,,0
-1566379800,East Bengal,Gokulam,1,1,Pen,1,2,0
-1566396000,Mohun Bagan,Real Kashmir,1,1,AET,3,1,0
-1566646200,Gokulam,Mohun Bagan,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1564749000,Mohun Bagan,Mohammedan,6mJliLLj,8E48ZVwH,2,0,,,,0
+1564824600,East Bengal,Army Red,UszV04Qg,rJ5YDcQg,2,0,,,,0
+1564997400,Bengaluru FC,Army Red,vXXubWbe,rJ5YDcQg,1,1,,,,0
+1565010000,Indian Navy,ATK,Mi9OXNrn,v7SnINll,1,1,,,,0
+1565083800,East Bengal,Jamshedpur,UszV04Qg,4xbRHIEb,6,0,,,,0
+1565170200,Real Kashmir,Chennai City,Kbij2jAj,I7bGlZ7I,1,0,,,,0
+1565256600,Mohun Bagan,ATK,6mJliLLj,v7SnINll,2,1,,,,0
+1565256600,Gokulam,Chennaiyin,CMiScAzU,AkyQ8yz9,4,0,,,,0
+1565256600,Goa,Army Green,GdaqjtST,rJ5YDcQg,1,0,,,,0
+1565343000,TRAU FC,Indian Air Force,06K6DenA,h2fDsePe,0,1,,,,0
+1565343000,Army Red,Jamshedpur,rJ5YDcQg,4xbRHIEb,2,2,,,,0
+1565429400,Mohammedan,Indian Navy,8E48ZVwH,Mi9OXNrn,6,2,,,,0
+1565429400,Army Green,Real Kashmir,rJ5YDcQg,Kbij2jAj,0,4,,,,0
+1565775000,Indian Air Force,Gokulam,h2fDsePe,CMiScAzU,0,3,,,,0
+1565775000,Chennai City,Goa,I7bGlZ7I,GdaqjtST,1,2,,,,0
+1565785800,East Bengal,Bengaluru FC,UszV04Qg,vXXubWbe,2,1,,,,0
+1565958600,Mohammedan,ATK,8E48ZVwH,v7SnINll,0,1,,,,0
+1566034200,Jamshedpur,Bengaluru FC,4xbRHIEb,vXXubWbe,3,3,,,,0
+1566034200,Goa,Real Kashmir,GdaqjtST,Kbij2jAj,0,0,,,,0
+1566046800,Mohun Bagan,Indian Navy,6mJliLLj,Mi9OXNrn,1,0,,,,0
+1566120600,TRAU FC,Gokulam,06K6DenA,CMiScAzU,1,4,,,,0
+1566120600,Chennaiyin,Indian Air Force,AkyQ8yz9,h2fDsePe,0,0,,,,0
+1566120600,Chennai City,Army Green,I7bGlZ7I,rJ5YDcQg,2,1,,,,0
+1566379800,East Bengal,Gokulam,UszV04Qg,CMiScAzU,1,1,Pen,1,2,0
+1566396000,Mohun Bagan,Real Kashmir,6mJliLLj,Kbij2jAj,1,1,AET,3,1,0
+1566646200,Gokulam,Mohun Bagan,CMiScAzU,6mJliLLj,2,1,,,,0

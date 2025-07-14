@@ -1,22 +1,22 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1150236000,Fjardabyggd,Sindri,3,2,,,,0
-1150322400,Throttur,Kopavogur,2,1,,,,0
-1150322400,IR Reykjavik,Leiknir,0,2,,,,0
-1150322400,Afturelding,Njardvik,1,2,,,,0
-1150488000,KA Akureyri,Thor Akureyri,2,1,,,,0
-1150488000,Haukar,Fram,1,5,,,,0
-1151859600,Njardvik,KR Reykjavik,0,1,,,,0
-1151859600,KA Akureyri,Breidablik,3,2,,,,0
-1151859600,Hafnarfjordur,Vikingur Reykjavik,1,2,,,,0
-1151859600,Fram,Akranes,2,2,AET,2,3,0
-1151859600,Fjardabyggd,Valur,0,2,,,,0
-1151952600,Throttur,Grindavik,2,1,,,,0
-1151952600,Fylkir,Vestmannaeyjar,1,2,,,,0
-1152213300,Leiknir,Keflavik,0,3,,,,0
-1153682100,Valur,Vikingur Reykjavik,1,2,,,,0
-1153682100,KA Akureyri,Throttur,1,5,,,,0
-1153682100,Akranes,Keflavik,3,4,,,,0
-1153768500,KR Reykjavik,Vestmannaeyjar,1,1,Pen,2,1,0
-1156795200,Vikingur Reykjavik,Keflavik,0,4,,,,0
-1156881600,Throttur,KR Reykjavik,0,0,AET,0,1,0
-1159635600,Keflavik,KR Reykjavik,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1150236000,Fjardabyggd,Sindri,EB9Z0sEO,0EjcWZNN,3,2,,,,0
+1150322400,Throttur,Kopavogur,zw0oiUbh,rgYuXGKm,2,1,,,,0
+1150322400,IR Reykjavik,Leiknir,rgYuXGKm,GvStD1NM,0,2,,,,0
+1150322400,Afturelding,Njardvik,xYrsq4Q9,KImYSWWm,1,2,,,,0
+1150488000,KA Akureyri,Thor Akureyri,IP5ctvAE,88ByecJ3,2,1,,,,0
+1150488000,Haukar,Fram,AZnOPGmc,fL3dmxxd,1,5,,,,0
+1151859600,Njardvik,KR Reykjavik,KImYSWWm,GYYKuYKt,0,1,,,,0
+1151859600,KA Akureyri,Breidablik,IP5ctvAE,UPMdbcD9,3,2,,,,0
+1151859600,Hafnarfjordur,Vikingur Reykjavik,K4lZsY9J,ATBUwpjA,1,2,,,,0
+1151859600,Fram,Akranes,fL3dmxxd,4hhcealo,2,2,AET,2,3,0
+1151859600,Fjardabyggd,Valur,EB9Z0sEO,juoTB6Rh,0,2,,,,0
+1151952600,Throttur,Grindavik,zw0oiUbh,UakDSYpT,2,1,,,,0
+1151952600,Fylkir,Vestmannaeyjar,YFWSwCkg,GhaBLUZO,1,2,,,,0
+1152213300,Leiknir,Keflavik,GvStD1NM,OhPjY7JU,0,3,,,,0
+1153682100,Valur,Vikingur Reykjavik,juoTB6Rh,ATBUwpjA,1,2,,,,0
+1153682100,KA Akureyri,Throttur,IP5ctvAE,zw0oiUbh,1,5,,,,0
+1153682100,Akranes,Keflavik,4hhcealo,OhPjY7JU,3,4,,,,0
+1153768500,KR Reykjavik,Vestmannaeyjar,GYYKuYKt,GhaBLUZO,1,1,Pen,2,1,0
+1156795200,Vikingur Reykjavik,Keflavik,ATBUwpjA,OhPjY7JU,0,4,,,,0
+1156881600,Throttur,KR Reykjavik,zw0oiUbh,GYYKuYKt,0,0,AET,0,1,0
+1159635600,Keflavik,KR Reykjavik,OhPjY7JU,GYYKuYKt,2,0,,,,0

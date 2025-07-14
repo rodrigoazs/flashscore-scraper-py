@@ -1,15 +1,15 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1110330000,Sporting Kansas City,Saprissa,0,0,,,,0
-1110330000,Olimpia,UNAM Pumas,1,1,,,,0
-1110330000,Monterrey,Municipal,2,1,,,,0
-1110330000,DC United,Harbour View,2,1,,,,0
-1110934800,Saprissa,Sporting Kansas City,1,1,Pen,1,2,0
-1111021200,UNAM Pumas,Olimpia,1,1,AET,2,1,0
-1111021200,Municipal,Monterrey,0,0,,,,0
-1111021200,Harbour View,DC United,1,2,,,,0
-1112745600,DC United,UNAM Pumas,1,1,,,,0
-1112832000,Saprissa,Monterrey,2,2,,,,0
-1113350400,UNAM Pumas,DC United,5,0,,,,0
-1113350400,Monterrey,Saprissa,1,1,Pen,1,2,0
-1115164800,Saprissa,UNAM Pumas,2,0,,,,0
-1115769600,UNAM Pumas,Saprissa,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1110330000,Sporting Kansas City,Saprissa,88w2wUnG,tnwDCzLD,0,0,,,,0
+1110330000,Olimpia,UNAM Pumas,WvziCH8E,WdwQoCtd,1,1,,,,0
+1110330000,Monterrey,Municipal,MVPKYVvK,vTLj5hDm,2,1,,,,0
+1110330000,DC United,Harbour View,QqhL41wo,KCGGnOpC,2,1,,,,0
+1110934800,Saprissa,Sporting Kansas City,tnwDCzLD,88w2wUnG,1,1,Pen,1,2,0
+1111021200,UNAM Pumas,Olimpia,WdwQoCtd,WvziCH8E,1,1,AET,2,1,0
+1111021200,Municipal,Monterrey,vTLj5hDm,MVPKYVvK,0,0,,,,0
+1111021200,Harbour View,DC United,KCGGnOpC,QqhL41wo,1,2,,,,0
+1112745600,DC United,UNAM Pumas,QqhL41wo,WdwQoCtd,1,1,,,,0
+1112832000,Saprissa,Monterrey,tnwDCzLD,MVPKYVvK,2,2,,,,0
+1113350400,UNAM Pumas,DC United,WdwQoCtd,QqhL41wo,5,0,,,,0
+1113350400,Monterrey,Saprissa,MVPKYVvK,tnwDCzLD,1,1,Pen,1,2,0
+1115164800,Saprissa,UNAM Pumas,tnwDCzLD,WdwQoCtd,2,0,,,,0
+1115769600,UNAM Pumas,Saprissa,WdwQoCtd,tnwDCzLD,2,1,,,,0

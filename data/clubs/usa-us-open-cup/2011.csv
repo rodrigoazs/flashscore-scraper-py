@@ -1,49 +1,49 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1301450400,Portland Timbers,Chivas USA,2,0,,,,0
-1301527800,Chicago Fire,Colorado Rapids,2,1,,,,0
-1302132600,DC United,Philadelphia Union,1,1,Pen,3,2,0
-1302134400,Houston Dynamo,Sporting Kansas City,0,0,AET,0,1,0
-1303860600,DC United,New England Revolution,2,3,,,,0
-1304476200,Portland Timbers,San Jose Earthquakes,0,0,AET,0,1,0
-1306290600,San Jose Earthquakes,Chicago Fire,2,2,Pen,2,3,0
-1306369800,Sporting Kansas City,New England Revolution,5,0,,,,0
-1308092400,Richmond Kickers,Dayton,4,1,,,,0
-1308092400,Pittsburgh,Chattanooga,2,2,AET,3,2,0
-1308092400,Penn,Reading,2,1,,,,0
-1308092400,North Carolina Fusion U23,Charlotte Eagles,1,3,,,,0
-1308092400,FC New York,Western Mass Pioneers,3,0,,,,0
-1308094200,Wilmington Hammerheads,Florida Kraze,4,0,,,,0
-1308094200,Orlando City,New Stars,4,0,,,,0
-1308094200,New York Pancyprian,Brooklyn Italians,2,1,,,,0
-1308094200,Charleston,Regals,2,0,,,,0
-1308094500,Rochester New York,Phoenix SC,2,1,,,,0
-1308096000,Orange County SC,Hollywood United,3,1,,,,0
-1308096000,Madison,AAC Eagles,4,0,,,,0
-1308097800,Menace,Chicago Premier,0,1,,,,0
-1308099600,Real Colorado,Defenders DV8,5,0,,,,0
-1308103200,Chivas Patriots,Kitsap Pumas,0,0,Pen,0,1,0
-1308103500,Ventura,Doxa Italia,3,1,,,,0
-1308610800,Menace,Chicago Fire,0,1,,,,0
-1308697200,Richmond Kickers,Pittsburgh,4,1,,,,0
-1308697200,Penn,Rochester New York,0,1,,,,0
-1308699000,Wilmington Hammerheads,Charlotte Eagles,2,2,AET,3,2,0
-1308699000,New York Pancyprian,FC New York,0,0,Pen,0,1,0
-1308699000,Charleston,Orlando City,0,1,,,,0
-1308708000,Kitsap Pumas,Real Colorado,3,1,,,,0
-1308708300,Ventura,Orange County SC,0,1,,,,0
-1308776400,Madison,Chicago Premier,0,2,,,,0
-1309303800,Columbus Crew,Richmond Kickers,1,2,,,,0
-1309304100,Rochester New York,Chicago Fire,0,1,,,,0
-1309305600,New York Red Bulls,FC New York,2,1,,,,0
-1309307400,Sporting Kansas City,Chicago Premier,3,0,,,,0
-1309309200,Real Salt Lake,Wilmington Hammerheads,2,0,,,,0
-1309309200,FC Dallas,Orlando City,3,2,,,,0
-1309312800,Seattle Sounders,Kitsap Pumas,2,1,,,,0
-1309314600,Los Angeles Galaxy,Orange County SC,2,1,,,,0
-1310508300,Chicago Fire,New York Red Bulls,4,0,,,,0
-1310517000,Sporting Kansas City,Richmond Kickers,0,2,,,,0
-1310518800,FC Dallas,Real Salt Lake,2,0,,,,0
-1310608800,Seattle Sounders,Los Angeles Galaxy,3,1,,,,0
-1314750600,Chicago Fire,Richmond Kickers,2,1,,,,0
-1314756000,Seattle Sounders,FC Dallas,1,0,,,,0
-1317780000,Seattle Sounders,Chicago Fire,2,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1301450400,Portland Timbers,Chivas USA,xf2WUeO1,W2EojdRP,2,0,,,,0
+1301527800,Chicago Fire,Colorado Rapids,0lw00xPr,fyzFgPy8,2,1,,,,0
+1302132600,DC United,Philadelphia Union,QqhL41wo,juuH5vx4,1,1,Pen,3,2,0
+1302134400,Houston Dynamo,Sporting Kansas City,YLT3ZeZm,88w2wUnG,0,0,AET,0,1,0
+1303860600,DC United,New England Revolution,QqhL41wo,KI53uaQC,2,3,,,,0
+1304476200,Portland Timbers,San Jose Earthquakes,xf2WUeO1,GpqxHjf5,0,0,AET,0,1,0
+1306290600,San Jose Earthquakes,Chicago Fire,GpqxHjf5,0lw00xPr,2,2,Pen,2,3,0
+1306369800,Sporting Kansas City,New England Revolution,88w2wUnG,KI53uaQC,5,0,,,,0
+1308092400,Richmond Kickers,Dayton,QPDlz5Uc,Khprt4Oa,4,1,,,,0
+1308092400,Pittsburgh,Chattanooga,z5dOqhXs,z5dOqhXs,2,2,AET,3,2,0
+1308092400,Penn,Reading,QH5WAnm2,MZgO346h,2,1,,,,0
+1308092400,North Carolina Fusion U23,Charlotte Eagles,jN3NLZxo,S6gH6Tkg,1,3,,,,0
+1308092400,FC New York,Western Mass Pioneers,,Q7fOexKT,3,0,,,,0
+1308094200,Wilmington Hammerheads,Florida Kraze,KGIw5tHD,,4,0,,,,0
+1308094200,Orlando City,New Stars,AFpqya1j,vTV0kalG,4,0,,,,0
+1308094200,New York Pancyprian,Brooklyn Italians,QafwInI8,jJgWsW1f,2,1,,,,0
+1308094200,Charleston,Regals,xIOhFH4B,,2,0,,,,0
+1308094500,Rochester New York,Phoenix SC,63scElQr,,2,1,,,,0
+1308096000,Orange County SC,Hollywood United,6VXkf3Mu,,3,1,,,,0
+1308096000,Madison,AAC Eagles,zPOmWvvR,O8NBwB8m,4,0,,,,0
+1308097800,Menace,Chicago Premier,U9hzsjH0,Gb4sBH4F,0,1,,,,0
+1308099600,Real Colorado,Defenders DV8,nTPwJtB3,,5,0,,,,0
+1308103200,Chivas Patriots,Kitsap Pumas,xlm9PPxh,OUSepk9i,0,0,Pen,0,1,0
+1308103500,Ventura,Doxa Italia,OWiGAxTI,OE4aEvJm,3,1,,,,0
+1308610800,Menace,Chicago Fire,U9hzsjH0,0lw00xPr,0,1,,,,0
+1308697200,Richmond Kickers,Pittsburgh,QPDlz5Uc,z5dOqhXs,4,1,,,,0
+1308697200,Penn,Rochester New York,QH5WAnm2,63scElQr,0,1,,,,0
+1308699000,Wilmington Hammerheads,Charlotte Eagles,KGIw5tHD,S6gH6Tkg,2,2,AET,3,2,0
+1308699000,New York Pancyprian,FC New York,QafwInI8,,0,0,Pen,0,1,0
+1308699000,Charleston,Orlando City,xIOhFH4B,AFpqya1j,0,1,,,,0
+1308708000,Kitsap Pumas,Real Colorado,OUSepk9i,nTPwJtB3,3,1,,,,0
+1308708300,Ventura,Orange County SC,OWiGAxTI,6VXkf3Mu,0,1,,,,0
+1308776400,Madison,Chicago Premier,zPOmWvvR,Gb4sBH4F,0,2,,,,0
+1309303800,Columbus Crew,Richmond Kickers,OrE2LMh8,QPDlz5Uc,1,2,,,,0
+1309304100,Rochester New York,Chicago Fire,63scElQr,0lw00xPr,0,1,,,,0
+1309305600,New York Red Bulls,FC New York,h8cXfa4q,,2,1,,,,0
+1309307400,Sporting Kansas City,Chicago Premier,88w2wUnG,Gb4sBH4F,3,0,,,,0
+1309309200,Real Salt Lake,Wilmington Hammerheads,vgy39tSd,KGIw5tHD,2,0,,,,0
+1309309200,FC Dallas,Orlando City,W2EojdRP,AFpqya1j,3,2,,,,0
+1309312800,Seattle Sounders,Kitsap Pumas,Q7Ql2Qbi,OUSepk9i,2,1,,,,0
+1309314600,Los Angeles Galaxy,Orange County SC,nqhLBCKD,6VXkf3Mu,2,1,,,,0
+1310508300,Chicago Fire,New York Red Bulls,0lw00xPr,h8cXfa4q,4,0,,,,0
+1310517000,Sporting Kansas City,Richmond Kickers,88w2wUnG,QPDlz5Uc,0,2,,,,0
+1310518800,FC Dallas,Real Salt Lake,W2EojdRP,vgy39tSd,2,0,,,,0
+1310608800,Seattle Sounders,Los Angeles Galaxy,Q7Ql2Qbi,nqhLBCKD,3,1,,,,0
+1314750600,Chicago Fire,Richmond Kickers,0lw00xPr,QPDlz5Uc,2,1,,,,0
+1314756000,Seattle Sounders,FC Dallas,Q7Ql2Qbi,W2EojdRP,1,0,,,,0
+1317780000,Seattle Sounders,Chicago Fire,Q7Ql2Qbi,0lw00xPr,2,0,,,,0

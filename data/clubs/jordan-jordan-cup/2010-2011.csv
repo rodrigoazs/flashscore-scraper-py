@@ -1,22 +1,22 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1283698800,Shabab Al Hussein,Al Ramtha,0,3,,,,0
-1283698800,Al Wehdat,Karem,4,0,,,,0
-1283698800,Al Arabi Irbid,That Ras,3,0,,,,0
-1283785200,Shabab Al Ordon,Mansheyat,2,2,Pen,2,3,0
-1283785200,Al Jazeera Amman,Al Jalil,4,1,,,,0
-1283785200,Al Hussein,Al-Faisaly Amman,0,1,,,,0
-1283871600,Al Yarmouk,Al Ahli,1,0,,,,0
-1283871600,Al Buqaa,Kfarsoum,0,0,Pen,0,1,0
-1288800000,Al-Faisaly Amman,Al Arabi Irbid,2,3,,,,0
-1288800000,Al Ramtha,Mansheyat,0,0,,,,0
-1288886400,Kfarsoum,Al Jazeera Amman,0,0,,,,0
-1288886400,Al Wehdat,Al Yarmouk,2,0,,,,0
-1289145600,Mansheyat,Al Ramtha,0,0,Pen,1,0,0
-1289145600,Al Arabi Irbid,Al-Faisaly Amman,0,1,,,,0
-1289232000,Al Yarmouk,Al Wehdat,1,1,,,,0
-1289232000,Al Jazeera Amman,Kfarsoum,0,1,,,,0
-1304089500,Mansheyat,Al Arabi Irbid,1,0,,,,0
-1304686800,Al Arabi Irbid,Mansheyat,2,1,,,,0
-1304780400,Al Wehdat,Kfarsoum,3,0,,,,0
-1305464400,Kfarsoum,Al Wehdat,0,1,,,,0
-1305903600,Al Wehdat,Mansheyat,3,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1283698800,Shabab Al Hussein,Al Ramtha,MiZySpmS,riw7cLfq,0,3,,,,0
+1283698800,Al Wehdat,Karem,hWTOO0Lo,,4,0,,,,0
+1283698800,Al Arabi Irbid,That Ras,phHdbrII,Kbahu3Cr,3,0,,,,0
+1283785200,Shabab Al Ordon,Mansheyat,dvq5wjeM,f3xNbTKG,2,2,Pen,2,3,0
+1283785200,Al Jazeera Amman,Al Jalil,WdX72eig,O0L3N4eq,4,1,,,,0
+1283785200,Al Hussein,Al-Faisaly Amman,WnrX0gmJ,K8APFB8k,0,1,,,,0
+1283871600,Al Yarmouk,Al Ahli,h8oUYh0C,6ucmGLnJ,1,0,,,,0
+1283871600,Al Buqaa,Kfarsoum,SUoVDTGC,GG7llnuC,0,0,Pen,0,1,0
+1288800000,Al-Faisaly Amman,Al Arabi Irbid,K8APFB8k,phHdbrII,2,3,,,,0
+1288800000,Al Ramtha,Mansheyat,riw7cLfq,f3xNbTKG,0,0,,,,0
+1288886400,Kfarsoum,Al Jazeera Amman,GG7llnuC,WdX72eig,0,0,,,,0
+1288886400,Al Wehdat,Al Yarmouk,hWTOO0Lo,h8oUYh0C,2,0,,,,0
+1289145600,Mansheyat,Al Ramtha,f3xNbTKG,riw7cLfq,0,0,Pen,1,0,0
+1289145600,Al Arabi Irbid,Al-Faisaly Amman,phHdbrII,K8APFB8k,0,1,,,,0
+1289232000,Al Yarmouk,Al Wehdat,h8oUYh0C,hWTOO0Lo,1,1,,,,0
+1289232000,Al Jazeera Amman,Kfarsoum,WdX72eig,GG7llnuC,0,1,,,,0
+1304089500,Mansheyat,Al Arabi Irbid,f3xNbTKG,phHdbrII,1,0,,,,0
+1304686800,Al Arabi Irbid,Mansheyat,phHdbrII,f3xNbTKG,2,1,,,,0
+1304780400,Al Wehdat,Kfarsoum,hWTOO0Lo,GG7llnuC,3,0,,,,0
+1305464400,Kfarsoum,Al Wehdat,GG7llnuC,hWTOO0Lo,0,1,,,,0
+1305903600,Al Wehdat,Mansheyat,hWTOO0Lo,f3xNbTKG,3,1,,,,0

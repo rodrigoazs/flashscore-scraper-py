@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1489563000,Norchi D. T.,Loco. Tbilisi,1,0,,,,0
-1489563000,Gagra,Meshakhte Tkibuli,2,0,,,,0
-1489575600,Zugdidi,Tskhinvali,2,2,AET,3,2,0
-1489575600,Skuri Tsalenjikha,Bolnisi,1,3,,,,0
-1489575600,Sapovnela Terjola,Torpedo Kutaisi,0,2,,,,0
-1489575600,Samgurali II,Dila Gori,0,4,,,,0
-1489575600,Samegrelo,Guria,1,1,Pen,1,2,0
-1489575600,Kolkheti 1913,Dinamo Batumi,1,0,,,,0
-1489575600,Gori,Shukura,1,1,Pen,2,1,0
-1489575600,FC Lesitchine,Chikhura,0,7,,,,0
-1489575600,FC Gareji Sagarejo,Khoni,0,1,,,,0
-1489575600,Chiatura,Samgurali,1,1,AET,1,4,0
-1489575600,Algeti Marneuli,Dinamo Tbilisi,0,2,,,,0
-1489578300,WIT Georgia,Samtredia,1,2,,,,0
-1489578300,Rustavi,Merani Martvili,1,0,,,,0
-1489590000,Shevardeni Tbilisi,Iberia 1999,3,0,Awrd,,,0
-1493121600,Rustavi,Zugdidi,3,2,,,,0
-1493121600,Khoni,Bolnisi,1,0,,,,0
-1493121600,Gagra,Chikhura,0,2,,,,0
-1493121600,Dila Gori,Kolkheti 1913,1,0,,,,0
-1493208000,Shevardeni Tbilisi,Guria,2,0,,,,0
-1493208000,Samgurali,Dinamo Tbilisi,0,2,,,,0
-1493208000,Gori,Norchi D. T.,0,0,Pen,0,1,0
-1493222400,Torpedo Kutaisi,Samtredia,2,0,,,,0
-1505217600,Khoni,Norchi D. T.,2,2,Pen,3,2,0
-1505232000,Shevardeni Tbilisi,Torpedo Kutaisi,1,2,,,,0
-1505304000,Rustavi,Dinamo Tbilisi,0,0,Pen,0,1,0
-1505304000,Chikhura,Dila Gori,3,0,,,,0
-1509530400,Khoni,Chikhura,0,5,,,,0
-1509548400,Torpedo Kutaisi,Dinamo Tbilisi,0,0,Pen,1,0,0
-1512213300,Chikhura,Torpedo Kutaisi,0,0,Pen,1,0,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1489563000,Norchi D. T.,Loco. Tbilisi,S8U1i0Mh,0diXU30c,1,0,,,,0
+1489563000,Gagra,Meshakhte Tkibuli,KrkUCdS2,0rzO71d9,2,0,,,,0
+1489575600,Zugdidi,Tskhinvali,2qEOAq7a,bZmYBGs9,2,2,AET,3,2,0
+1489575600,Skuri Tsalenjikha,Bolnisi,vmjyUNF3,OEhZqrON,1,3,,,,0
+1489575600,Sapovnela Terjola,Torpedo Kutaisi,vmjyUNF3,6FX7qLsb,0,2,,,,0
+1489575600,Samgurali II,Dila Gori,vNrBGz1N,WfpuTxB8,0,4,,,,0
+1489575600,Samegrelo,Guria,x6Ei2vs6,dxlxqBhr,1,1,Pen,1,2,0
+1489575600,Kolkheti 1913,Dinamo Batumi,bZmYBGs9,vZdRBggj,1,0,,,,0
+1489575600,Gori,Shukura,6aT5jKya,0diXU30c,1,1,Pen,2,1,0
+1489575600,FC Lesitchine,Chikhura,,rThaYtoQ,0,7,,,,0
+1489575600,FC Gareji Sagarejo,Khoni,nHkIJjVl,MDldbWw3,0,1,,,,0
+1489575600,Chiatura,Samgurali,0diXU30c,thxdQveD,1,1,AET,1,4,0
+1489575600,Algeti Marneuli,Dinamo Tbilisi,25itZqnH,MqwiOmp3,0,2,,,,0
+1489578300,WIT Georgia,Samtredia,0WLerOuQ,8lqbyXv8,1,2,,,,0
+1489578300,Rustavi,Merani Martvili,WvdjqzuG,drR8zYr0,1,0,,,,0
+1489590000,Shevardeni Tbilisi,Iberia 1999,6aT5jKya,rVsp3mPF,3,0,Awrd,,,0
+1493121600,Rustavi,Zugdidi,WvdjqzuG,2qEOAq7a,3,2,,,,0
+1493121600,Khoni,Bolnisi,MDldbWw3,OEhZqrON,1,0,,,,0
+1493121600,Gagra,Chikhura,KrkUCdS2,rThaYtoQ,0,2,,,,0
+1493121600,Dila Gori,Kolkheti 1913,WfpuTxB8,bZmYBGs9,1,0,,,,0
+1493208000,Shevardeni Tbilisi,Guria,6aT5jKya,dxlxqBhr,2,0,,,,0
+1493208000,Samgurali,Dinamo Tbilisi,thxdQveD,MqwiOmp3,0,2,,,,0
+1493208000,Gori,Norchi D. T.,6aT5jKya,S8U1i0Mh,0,0,Pen,0,1,0
+1493222400,Torpedo Kutaisi,Samtredia,6FX7qLsb,8lqbyXv8,2,0,,,,0
+1505217600,Khoni,Norchi D. T.,MDldbWw3,S8U1i0Mh,2,2,Pen,3,2,0
+1505232000,Shevardeni Tbilisi,Torpedo Kutaisi,6aT5jKya,6FX7qLsb,1,2,,,,0
+1505304000,Rustavi,Dinamo Tbilisi,WvdjqzuG,MqwiOmp3,0,0,Pen,0,1,0
+1505304000,Chikhura,Dila Gori,rThaYtoQ,WfpuTxB8,3,0,,,,0
+1509530400,Khoni,Chikhura,MDldbWw3,rThaYtoQ,0,5,,,,0
+1509548400,Torpedo Kutaisi,Dinamo Tbilisi,6FX7qLsb,MqwiOmp3,0,0,Pen,1,0,0
+1512213300,Chikhura,Torpedo Kutaisi,rThaYtoQ,6FX7qLsb,0,0,Pen,1,0,1

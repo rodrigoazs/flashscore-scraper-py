@@ -1,40 +1,40 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1284552000,Viisoara,Unirea Ungheni,2,1,,,,0
-1284552000,Victoria,Intersport,2,3,,,,0
-1284552000,Trachia Taraclia,Speranta,1,4,,,,0
-1284552000,Saksan,Cahul,2,3,,,,0
-1284552000,Ratus,Dinamo-Auto,3,0,,,,0
-1284552000,Orhei Star,Real Succes,2,3,,,,0
-1284552000,Falesti,Mipan,2,5,,,,0
-1284552000,Drochia,Lokomotiva Balti,0,1,,,,0
-1284552000,Alifomix Cania,Dacia Buiucani,0,3,,,,0
-1284559200,Dava,Ursidos Chisinau,1,5,,,,0
-1285156800,Viisoara,Costuleni,0,6,,,,0
-1285156800,Ursidos Chisinau,Bender,2,0,,,,0
-1285156800,Ratus,Speranta,4,1,,,,0
-1285156800,Mipan,FC Tiraspol,0,5,,,,0
-1285156800,Intersport,Otaci,0,2,,,,0
-1285156800,Dacia Buiucani,Sf.Gheorghe,0,3,,,,0
-1285156800,Cahul,Univer Comrat,0,0,Pen,1,0,0
-1285164000,Lokomotiva Balti,Real Succes,0,1,,,,0
-1288177200,Zaria Balti,Sf.Gheorghe,1,0,,,,0
-1288177200,Ratus,Academia Chisinau,0,4,,,,0
-1288177200,Otaci,Dacia Chisinau,1,4,,,,0
-1288177200,FC Tiraspol,Milsami,1,1,Pen,2,1,0
-1288177200,Cahul,Zimbru Chisinau,0,0,Pen,2,1,0
-1288188000,Real Succes,Rapid Ghidighici,0,3,,,,0
-1288263600,Ursidos Chisinau,Iskra-Stal,0,1,,,,0
-1288263600,Sheriff Tiraspol,Costuleni,3,0,,,,0
-1289390400,Zaria Balti,Academia Chisinau,2,0,,,,0
-1289390400,FC Tiraspol,Sheriff Tiraspol,2,3,,,,0
-1289390400,Cahul,Dacia Chisinau,0,0,,,,0
-1289401200,Iskra-Stal,Rapid Ghidighici,1,1,,,,0
-1290596400,Sheriff Tiraspol,FC Tiraspol,2,0,,,,0
-1290596400,Academia Chisinau,Zaria Balti,0,1,,,,0
-1290610800,Rapid Ghidighici,Iskra-Stal,0,2,,,,0
-1290614400,Dacia Chisinau,Cahul,7,0,,,,0
-1303304400,Dacia Chisinau,Zaria Balti,0,1,,,,0
-1303308000,Sheriff Tiraspol,Iskra-Stal,1,0,,,,0
-1304514000,Zaria Balti,Dacia Chisinau,2,1,,,,0
-1304514000,Iskra-Stal,Sheriff Tiraspol,3,0,,,,0
-1306425600,Iskra-Stal,Zaria Balti,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1284552000,Viisoara,Unirea Ungheni,,htukpewo,2,1,,,,0
+1284552000,Victoria,Intersport,GKgzQUqg,fm2mZQfT,2,3,,,,0
+1284552000,Trachia Taraclia,Speranta,fm2mZQfT,IXiuiz49,1,4,,,,0
+1284552000,Saksan,Cahul,xtLCk61r,StxbsfGB,2,3,,,,0
+1284552000,Ratus,Dinamo-Auto,,GKJk5gu7,3,0,,,,0
+1284552000,Orhei Star,Real Succes,,lvTfNEmR,2,3,,,,0
+1284552000,Falesti,Mipan,GKgzQUqg,,2,5,,,,0
+1284552000,Drochia,Lokomotiva Balti,0xHu3Dom,,0,1,,,,0
+1284552000,Alifomix Cania,Dacia Buiucani,,jDSW8vGo,0,3,,,,0
+1284559200,Dava,Ursidos Chisinau,G2WWmvHT,,1,5,,,,0
+1285156800,Viisoara,Costuleni,,G6lyZe2l,0,6,,,,0
+1285156800,Ursidos Chisinau,Bender,,,2,0,,,,0
+1285156800,Ratus,Speranta,,IXiuiz49,4,1,,,,0
+1285156800,Mipan,FC Tiraspol,,G6lyZe2l,0,5,,,,0
+1285156800,Intersport,Otaci,fm2mZQfT,xGkXZymr,0,2,,,,0
+1285156800,Dacia Buiucani,Sf.Gheorghe,jDSW8vGo,E5dQHTcd,0,3,,,,0
+1285156800,Cahul,Univer Comrat,StxbsfGB,nyAR0wsT,0,0,Pen,1,0,0
+1285164000,Lokomotiva Balti,Real Succes,,lvTfNEmR,0,1,,,,0
+1288177200,Zaria Balti,Sf.Gheorghe,hEC4Vnse,E5dQHTcd,1,0,,,,0
+1288177200,Ratus,Academia Chisinau,,G6lyZe2l,0,4,,,,0
+1288177200,Otaci,Dacia Chisinau,xGkXZymr,G6lyZe2l,1,4,,,,0
+1288177200,FC Tiraspol,Milsami,G6lyZe2l,G6lyZe2l,1,1,Pen,2,1,0
+1288177200,Cahul,Zimbru Chisinau,StxbsfGB,QcBOsqL0,0,0,Pen,2,1,0
+1288188000,Real Succes,Rapid Ghidighici,lvTfNEmR,YN0lXg6t,0,3,,,,0
+1288263600,Ursidos Chisinau,Iskra-Stal,,G6lyZe2l,0,1,,,,0
+1288263600,Sheriff Tiraspol,Costuleni,zVD8QVhN,G6lyZe2l,3,0,,,,0
+1289390400,Zaria Balti,Academia Chisinau,hEC4Vnse,G6lyZe2l,2,0,,,,0
+1289390400,FC Tiraspol,Sheriff Tiraspol,G6lyZe2l,zVD8QVhN,2,3,,,,0
+1289390400,Cahul,Dacia Chisinau,StxbsfGB,G6lyZe2l,0,0,,,,0
+1289401200,Iskra-Stal,Rapid Ghidighici,G6lyZe2l,YN0lXg6t,1,1,,,,0
+1290596400,Sheriff Tiraspol,FC Tiraspol,zVD8QVhN,G6lyZe2l,2,0,,,,0
+1290596400,Academia Chisinau,Zaria Balti,G6lyZe2l,hEC4Vnse,0,1,,,,0
+1290610800,Rapid Ghidighici,Iskra-Stal,YN0lXg6t,G6lyZe2l,0,2,,,,0
+1290614400,Dacia Chisinau,Cahul,G6lyZe2l,StxbsfGB,7,0,,,,0
+1303304400,Dacia Chisinau,Zaria Balti,G6lyZe2l,hEC4Vnse,0,1,,,,0
+1303308000,Sheriff Tiraspol,Iskra-Stal,zVD8QVhN,G6lyZe2l,1,0,,,,0
+1304514000,Zaria Balti,Dacia Chisinau,hEC4Vnse,G6lyZe2l,2,1,,,,0
+1304514000,Iskra-Stal,Sheriff Tiraspol,G6lyZe2l,zVD8QVhN,3,0,,,,0
+1306425600,Iskra-Stal,Zaria Balti,G6lyZe2l,hEC4Vnse,2,1,,,,0

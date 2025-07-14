@@ -1,34 +1,34 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1502805600,Sampion Celje,Tolmin,0,0,Pen,1,0,0
-1502805600,Hotiza,NK Krka,1,2,,,,0
-1502805600,Beltinci,Aluminij,0,3,,,,0
-1502892000,Videm,Radomlje,1,6,,,,0
-1502892000,Tabor Sezana,Rudar,3,1,,,,0
-1502892000,Mura,NK Kranj,5,2,,,,0
-1502892000,Ilirija,Krsko Posavje,0,0,Pen,0,1,0
-1502892000,Drava,Brda,2,1,,,,0
-1502892000,Akumulator Mezica,Jadran Dekani,1,4,,,,0
-1502895600,Sostanj,Triglav,-,-,WO,,,0
-1502899200,Nafta,Celje,1,2,,,,0
-1502899200,Koper,Korotan,3,0,,,,0
-1504620000,Tabor Sezana,Maribor,0,3,,,,0
-1504706400,NK Krka,Krsko Posavje,2,2,AET,3,2,0
-1504713600,Koper,Triglav,1,4,,,,0
-1505829600,Jadran Dekani,Aluminij,0,7,,,,0
-1505844000,Radomlje,O. Ljubljana,1,6,,,,0
-1505905200,Drava,Celje,0,3,,,,0
-1505912400,Mura,Domzale,3,1,,,,0
-1505916000,Sampion Celje,ND Gorica,0,3,,,,0
-1508245200,Triglav,ND Gorica,0,1,,,,0
-1508253300,Celje,Mura,4,0,,,,0
-1508342400,Aluminij,NK Krka,0,0,,,,0
-1508846400,Mura,Celje,0,1,,,,0
-1508932800,NK Krka,Aluminij,0,3,,,,0
-1508944500,ND Gorica,Triglav,1,0,,,,0
-1510416900,O. Ljubljana,Maribor,3,0,,,,0
-1511982900,Maribor,O. Ljubljana,1,1,,,,0
-1522768500,ND Gorica,Aluminij,1,2,,,,0
-1522857600,O. Ljubljana,Celje,2,1,,,,0
-1523459700,Celje,O. Ljubljana,0,1,,,,0
-1523546100,Aluminij,ND Gorica,2,2,,,,0
-1527704100,Aluminij,O. Ljubljana,1,6,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1502805600,Sampion Celje,Tolmin,I1V0Gz9n,WUxnvDKb,0,0,Pen,1,0,0
+1502805600,Hotiza,NK Krka,KQicL3Ju,WGDgkDs1,1,2,,,,0
+1502805600,Beltinci,Aluminij,EB9Z0sEO,8MCIbRV4,0,3,,,,0
+1502892000,Videm,Radomlje,x8FWPl6b,On6HHpDI,1,6,,,,0
+1502892000,Tabor Sezana,Rudar,Qwe4rAuT,fcDVLdrL,3,1,,,,0
+1502892000,Mura,NK Kranj,UcUjoAI7,E37YyVsM,5,2,,,,0
+1502892000,Ilirija,Krsko Posavje,GYzACV3C,Mm59Ckwm,0,0,Pen,0,1,0
+1502892000,Drava,Brda,4YZxDhVh,hf6xykcS,2,1,,,,0
+1502892000,Akumulator Mezica,Jadran Dekani,GdXAQvBM,n3UXADzS,1,4,,,,0
+1502895600,Sostanj,Triglav,rcOViRFE,SObuJ8lK,-,-,WO,,,0
+1502899200,Nafta,Celje,lMVQNkcq,juuH5vx4,1,2,,,,0
+1502899200,Koper,Korotan,Ukh5nnRo,Me9Dm1LT,3,0,,,,0
+1504620000,Tabor Sezana,Maribor,Qwe4rAuT,88sMeCH2,0,3,,,,0
+1504706400,NK Krka,Krsko Posavje,WGDgkDs1,Mm59Ckwm,2,2,AET,3,2,0
+1504713600,Koper,Triglav,Ukh5nnRo,SObuJ8lK,1,4,,,,0
+1505829600,Jadran Dekani,Aluminij,n3UXADzS,8MCIbRV4,0,7,,,,0
+1505844000,Radomlje,O. Ljubljana,On6HHpDI,zc0A80Mi,1,6,,,,0
+1505905200,Drava,Celje,4YZxDhVh,juuH5vx4,0,3,,,,0
+1505912400,Mura,Domzale,UcUjoAI7,8GL0cHSF,3,1,,,,0
+1505916000,Sampion Celje,ND Gorica,I1V0Gz9n,CltD6KMc,0,3,,,,0
+1508245200,Triglav,ND Gorica,SObuJ8lK,CltD6KMc,0,1,,,,0
+1508253300,Celje,Mura,juuH5vx4,UcUjoAI7,4,0,,,,0
+1508342400,Aluminij,NK Krka,8MCIbRV4,WGDgkDs1,0,0,,,,0
+1508846400,Mura,Celje,UcUjoAI7,juuH5vx4,0,1,,,,0
+1508932800,NK Krka,Aluminij,WGDgkDs1,8MCIbRV4,0,3,,,,0
+1508944500,ND Gorica,Triglav,CltD6KMc,SObuJ8lK,1,0,,,,0
+1510416900,O. Ljubljana,Maribor,zc0A80Mi,88sMeCH2,3,0,,,,0
+1511982900,Maribor,O. Ljubljana,88sMeCH2,zc0A80Mi,1,1,,,,0
+1522768500,ND Gorica,Aluminij,CltD6KMc,8MCIbRV4,1,2,,,,0
+1522857600,O. Ljubljana,Celje,zc0A80Mi,juuH5vx4,2,1,,,,0
+1523459700,Celje,O. Ljubljana,juuH5vx4,zc0A80Mi,0,1,,,,0
+1523546100,Aluminij,ND Gorica,8MCIbRV4,CltD6KMc,2,2,,,,0
+1527704100,Aluminij,O. Ljubljana,8MCIbRV4,zc0A80Mi,1,6,,,,0

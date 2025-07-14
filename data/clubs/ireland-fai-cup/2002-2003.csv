@@ -1,36 +1,36 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1027618200,Limerick,Waterford,1,1,,,,0
-1027622700,Dundalk,Shamrock Rovers,2,2,,,,0
-1027709100,UC Dublin,Kildare County,2,1,,,,0
-1027709100,St. Patricks,Galway,2,2,,,,0
-1027709100,Glenmore Dundrum,Cork City,0,9,,,,0
-1027709100,Bray,Glebe North,2,0,,,,0
-1027709100,Bohemians,Garda,6,0,,,,0
-1027709100,Athlone,Kilkenny City,0,0,,,,0
-1027710000,Drogheda,Derry City,1,3,,,,0
-1027792800,Shelbourne,Rockmount,8,0,,,,0
-1027794600,Monaghan United,Midleton,1,0,,,,0
-1027794600,Finn Harps,Leeds Cork,1,0,,,,0
-1027863000,Malahide Utd,Cobh Ramblers,0,1,,,,0
-1027863000,Greystones United,Sligo Rovers,0,1,,,,0
-1027863000,Fairview Rangers,Dublin City,4,1,,,,0
-1027864800,CIE Ranch,Longford,1,5,,,,0
-1028054700,Shamrock Rovers,Dundalk,1,1,AET,2,1,0
-1028141100,Galway,St. Patricks,0,0,AET,0,1,0
-1029437100,Derry City,Waterford,3,0,,,,0
-1029523500,St. Patricks,Shelbourne,2,1,,,,0
-1029523500,Bohemians,UC Dublin,2,0,,,,0
-1029524400,Sligo Rovers,Bray,0,2,,,,0
-1029609900,Kilkenny City,Longford,1,0,,,,0
-1029675600,Monaghan United,Cork City,1,1,,,,0
-1029677400,Fairview Rangers,Finn Harps,0,2,,,,0
-1029680100,Shamrock Rovers,Cobh Ramblers,2,0,,,,0
-1029869100,Cork City,Monaghan United,3,0,,,,0
-1031251500,Derry City,St. Patricks,3,1,,,,0
-1031335200,Kilkenny City,Shamrock Rovers,0,1,,,,0
-1031337900,Bray,Bohemians,0,4,,,,0
-1031425200,Finn Harps,Cork City,1,1,,,,0
-1031608800,Cork City,Finn Harps,2,0,,,,0
-1033757100,Cork City,Derry City,0,1,,,,0
-1033912800,Shamrock Rovers,Bohemians,2,0,,,,0
-1035730800,Shamrock Rovers,Derry City,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1027618200,Limerick,Waterford,U3TbWtrm,hCFsixCJ,1,1,,,,0
+1027622700,Dundalk,Shamrock Rovers,4zJqyaPk,pOsOhLO3,2,2,,,,0
+1027709100,UC Dublin,Kildare County,fL3dmxxd,p2U3O2VB,2,1,,,,0
+1027709100,St. Patricks,Galway,QajnhZH5,fL3dmxxd,2,2,,,,0
+1027709100,Glenmore Dundrum,Cork City,,z33Ic0oD,0,9,,,,0
+1027709100,Bray,Glebe North,xjjGj3mS,SAaGxh8G,2,0,,,,0
+1027709100,Bohemians,Garda,CncX9yM3,,6,0,,,,0
+1027709100,Athlone,Kilkenny City,4zJqyaPk,rshoGQnL,0,0,,,,0
+1027710000,Drogheda,Derry City,4zJqyaPk,IL54TYSm,1,3,,,,0
+1027792800,Shelbourne,Rockmount,z7L3x1Ya,0YIjZSLa,8,0,,,,0
+1027794600,Monaghan United,Midleton,dG41ubPK,fwspaozs,1,0,,,,0
+1027794600,Finn Harps,Leeds Cork,IiGT6zfM,lK0CwYhA,1,0,,,,0
+1027863000,Malahide Utd,Cobh Ramblers,QLFZFYpo,4lGqH9wM,0,1,,,,0
+1027863000,Greystones United,Sligo Rovers,,4zJqyaPk,0,1,,,,0
+1027863000,Fairview Rangers,Dublin City,dULPyXFh,EZc4bvX9,4,1,,,,0
+1027864800,CIE Ranch,Longford,SAaGxh8G,4zJqyaPk,1,5,,,,0
+1028054700,Shamrock Rovers,Dundalk,pOsOhLO3,4zJqyaPk,1,1,AET,2,1,0
+1028141100,Galway,St. Patricks,fL3dmxxd,QajnhZH5,0,0,AET,0,1,0
+1029437100,Derry City,Waterford,IL54TYSm,hCFsixCJ,3,0,,,,0
+1029523500,St. Patricks,Shelbourne,QajnhZH5,z7L3x1Ya,2,1,,,,0
+1029523500,Bohemians,UC Dublin,CncX9yM3,fL3dmxxd,2,0,,,,0
+1029524400,Sligo Rovers,Bray,4zJqyaPk,xjjGj3mS,0,2,,,,0
+1029609900,Kilkenny City,Longford,rshoGQnL,4zJqyaPk,1,0,,,,0
+1029675600,Monaghan United,Cork City,dG41ubPK,z33Ic0oD,1,1,,,,0
+1029677400,Fairview Rangers,Finn Harps,dULPyXFh,IiGT6zfM,0,2,,,,0
+1029680100,Shamrock Rovers,Cobh Ramblers,pOsOhLO3,4lGqH9wM,2,0,,,,0
+1029869100,Cork City,Monaghan United,z33Ic0oD,dG41ubPK,3,0,,,,0
+1031251500,Derry City,St. Patricks,IL54TYSm,QajnhZH5,3,1,,,,0
+1031335200,Kilkenny City,Shamrock Rovers,rshoGQnL,pOsOhLO3,0,1,,,,0
+1031337900,Bray,Bohemians,xjjGj3mS,CncX9yM3,0,4,,,,0
+1031425200,Finn Harps,Cork City,IiGT6zfM,z33Ic0oD,1,1,,,,0
+1031608800,Cork City,Finn Harps,z33Ic0oD,IiGT6zfM,2,0,,,,0
+1033757100,Cork City,Derry City,z33Ic0oD,IL54TYSm,0,1,,,,0
+1033912800,Shamrock Rovers,Bohemians,pOsOhLO3,CncX9yM3,2,0,,,,0
+1035730800,Shamrock Rovers,Derry City,pOsOhLO3,IL54TYSm,0,1,,,,0

@@ -1,33 +1,33 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1635346800,San Martin,Los Caimanes,0,0,,,,0
-1635357600,Estrella Azul,Dep. Maristas,1,1,,,,0
-1635366600,Parachique,Alfonso Ugarte,2,2,,,,0
-1635375600,AD Tarma,Credicoop San Cristobal,1,1,,,,0
-1635692400,San Martin,Dep. Maristas,1,3,,,,0
-1635703200,Estrella Azul,Alfonso Ugarte,1,2,,,,0
-1635712200,Parachique,Credicoop San Cristobal,2,2,,,,0
-1635721200,AD Tarma,Los Caimanes,2,2,,,,0
-1635953400,Estrella Azul,Los Caimanes,0,2,,,,0
-1635962400,Parachique,AD Tarma,3,4,,,,0
-1635971400,San Martin,Alfonso Ugarte,1,1,,,,0
-1635980400,Credicoop San Cristobal,Dep. Maristas,4,2,,,,0
-1636299000,San Martin,Credicoop San Cristobal,0,3,,,,0
-1636308000,AD Tarma,Alfonso Ugarte,1,2,,,,0
-1636317000,Estrella Azul,Parachique,0,1,,,,0
-1636326000,Dep. Maristas,Los Caimanes,0,0,,,,0
-1636558200,San Martin,AD Tarma,0,2,,,,0
-1636567200,Parachique,Dep. Maristas,1,2,,,,0
-1636576200,Estrella Azul,Credicoop San Cristobal,0,2,,,,0
-1636585200,Alfonso Ugarte,Los Caimanes,4,0,,,,0
-1636903800,Alfonso Ugarte,Dep. Maristas,2,2,,,,0
-1636912800,Estrella Azul,AD Tarma,0,4,,,,0
-1636921800,Credicoop San Cristobal,Los Caimanes,1,1,,,,0
-1636930800,San Martin,Parachique,4,1,,,,0
-1637163000,San Martin,Estrella Azul,5,2,,,,0
-1637172000,Parachique,Los Caimanes,1,2,,,,0
-1637181000,AD Tarma,Dep. Maristas,2,1,,,,0
-1637190000,Credicoop San Cristobal,Alfonso Ugarte,0,0,,,,0
-1637596800,Credicoop San Cristobal,Dep. Maristas,5,0,,,,0
-1637607600,Alfonso Ugarte,Los Caimanes,3,1,,,,0
-1637866800,Credicoop San Cristobal,Alfonso Ugarte,0,1,,,,0
-1638210600,AD Tarma,Alfonso Ugarte,0,0,Pen,1,0,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1635346800,San Martin,Los Caimanes,h0RY0f23,fq6L9f9f,0,0,,,,0
+1635357600,Estrella Azul,Dep. Maristas,WjQx0EH9,h0RY0f23,1,1,,,,0
+1635366600,Parachique,Alfonso Ugarte,h0RY0f23,YZ4P8EO0,2,2,,,,0
+1635375600,AD Tarma,Credicoop San Cristobal,z942qmGf,OOyg0u8R,1,1,,,,0
+1635692400,San Martin,Dep. Maristas,h0RY0f23,h0RY0f23,1,3,,,,0
+1635703200,Estrella Azul,Alfonso Ugarte,WjQx0EH9,YZ4P8EO0,1,2,,,,0
+1635712200,Parachique,Credicoop San Cristobal,h0RY0f23,OOyg0u8R,2,2,,,,0
+1635721200,AD Tarma,Los Caimanes,z942qmGf,fq6L9f9f,2,2,,,,0
+1635953400,Estrella Azul,Los Caimanes,WjQx0EH9,fq6L9f9f,0,2,,,,0
+1635962400,Parachique,AD Tarma,h0RY0f23,z942qmGf,3,4,,,,0
+1635971400,San Martin,Alfonso Ugarte,h0RY0f23,YZ4P8EO0,1,1,,,,0
+1635980400,Credicoop San Cristobal,Dep. Maristas,OOyg0u8R,h0RY0f23,4,2,,,,0
+1636299000,San Martin,Credicoop San Cristobal,h0RY0f23,OOyg0u8R,0,3,,,,0
+1636308000,AD Tarma,Alfonso Ugarte,z942qmGf,YZ4P8EO0,1,2,,,,0
+1636317000,Estrella Azul,Parachique,WjQx0EH9,h0RY0f23,0,1,,,,0
+1636326000,Dep. Maristas,Los Caimanes,h0RY0f23,fq6L9f9f,0,0,,,,0
+1636558200,San Martin,AD Tarma,h0RY0f23,z942qmGf,0,2,,,,0
+1636567200,Parachique,Dep. Maristas,h0RY0f23,h0RY0f23,1,2,,,,0
+1636576200,Estrella Azul,Credicoop San Cristobal,WjQx0EH9,OOyg0u8R,0,2,,,,0
+1636585200,Alfonso Ugarte,Los Caimanes,YZ4P8EO0,fq6L9f9f,4,0,,,,0
+1636903800,Alfonso Ugarte,Dep. Maristas,YZ4P8EO0,h0RY0f23,2,2,,,,0
+1636912800,Estrella Azul,AD Tarma,WjQx0EH9,z942qmGf,0,4,,,,0
+1636921800,Credicoop San Cristobal,Los Caimanes,OOyg0u8R,fq6L9f9f,1,1,,,,0
+1636930800,San Martin,Parachique,h0RY0f23,h0RY0f23,4,1,,,,0
+1637163000,San Martin,Estrella Azul,h0RY0f23,WjQx0EH9,5,2,,,,0
+1637172000,Parachique,Los Caimanes,h0RY0f23,fq6L9f9f,1,2,,,,0
+1637181000,AD Tarma,Dep. Maristas,z942qmGf,h0RY0f23,2,1,,,,0
+1637190000,Credicoop San Cristobal,Alfonso Ugarte,OOyg0u8R,YZ4P8EO0,0,0,,,,0
+1637596800,Credicoop San Cristobal,Dep. Maristas,OOyg0u8R,h0RY0f23,5,0,,,,0
+1637607600,Alfonso Ugarte,Los Caimanes,YZ4P8EO0,fq6L9f9f,3,1,,,,0
+1637866800,Credicoop San Cristobal,Alfonso Ugarte,OOyg0u8R,YZ4P8EO0,0,1,,,,0
+1638210600,AD Tarma,Alfonso Ugarte,z942qmGf,YZ4P8EO0,0,0,Pen,1,0,0

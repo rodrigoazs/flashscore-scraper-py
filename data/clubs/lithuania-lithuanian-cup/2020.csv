@@ -1,33 +1,33 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1592323200,Silute,Dziugas Telsiai,1,3,,,,0
-1592323200,BFA Vilnius,Nevezis Kedainiai,1,0,,,,0
-1592332200,Ateitis Vilnius,FK Minija,0,4,,,,0
-1592409600,Tauras Taurage,Rosa,4,0,,,,0
-1592409600,Juventa Siauliai,Vidzgiris Alytus,2,2,Pen,2,3,0
-1592409600,Ekranas,Dainava Alytus,1,1,Pen,1,2,0
-1592496000,Marijampole City,Neptunas,5,1,,,,0
-1592654400,Utenis,Atlantas,1,1,Pen,2,1,0
-1592737200,Tera Vilnius,Atmosfera,2,4,,,,0
-1593364500,Viltis Vilnius,Saned J.,11,0,,,,0
-1593442800,Vidzgiris Alytus,FK Minija,2,6,,,,0
-1593446400,Babrungas,Tauras Taurage,2,1,,,,0
-1593522000,Vilniaus Vytis,Dziugas Telsiai,1,0,,,,0
-1593532800,Utenis,Sveikata,0,2,,,,0
-1593532800,Marijampole City,BFA Vilnius,2,3,,,,0
-1593535500,FSK Radviliskis,Jonava,1,5,,,,0
-1593536400,Dainava Alytus,Atmosfera,3,0,,,,0
-1594137600,Babrungas,Hegelmann,1,4,,,,0
-1594141200,Siauliai FA,Zalgiris,0,2,,,,0
-1594738800,Jonava,FK Panevezys,0,3,,,,0
-1594742400,Sveikata,Kauno Zalgiris,0,4,,,,0
-1594746000,Riteriai,Banga,2,0,,,,0
-1594825200,Viltis Vilnius,Vilniaus Vytis,0,4,,,,0
-1594828800,FK Minija,Suduva,0,3,,,,0
-1594836000,BFA Vilnius,Dainava Alytus,1,2,,,,0
-1597159800,Hegelmann,FK Panevezys,0,3,,,,0
-1597163400,Dainava Alytus,Riteriai,0,2,,,,0
-1599840000,Vilniaus Vytis,Suduva,0,3,,,,0
-1599926400,Zalgiris,Kauno Zalgiris,2,1,,,,0
-1602936000,Zalgiris,Suduva,0,0,AET,1,2,0
-1603206000,FK Panevezys,Riteriai,4,0,,,,0
-1603539780,FK Panevezys,Suduva,1,1,Pen,2,1,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1592323200,Silute,Dziugas Telsiai,xt573lo2,YZpdiAPs,1,3,,,,0
+1592323200,BFA Vilnius,Nevezis Kedainiai,nLTNpDG5,xlaz5QOI,1,0,,,,0
+1592332200,Ateitis Vilnius,FK Minija,6onaoiI2,tp21ECEq,0,4,,,,0
+1592409600,Tauras Taurage,Rosa,xGkXZymr,hlwzEwBT,4,0,,,,0
+1592409600,Juventa Siauliai,Vidzgiris Alytus,zFZktadb,Kdtl94vp,2,2,Pen,2,3,0
+1592409600,Ekranas,Dainava Alytus,KGWqWzzf,x28DBGvr,1,1,Pen,1,2,0
+1592496000,Marijampole City,Neptunas,OU4xNqTS,hlwzEwBT,5,1,,,,0
+1592654400,Utenis,Atlantas,GIIj2pH0,tGWvEQkr,1,1,Pen,2,1,0
+1592737200,Tera Vilnius,Atmosfera,pU2mHM9O,rTGcipPd,2,4,,,,0
+1593364500,Viltis Vilnius,Saned J.,zJTyhWme,ltW8vcQ7,11,0,,,,0
+1593442800,Vidzgiris Alytus,FK Minija,Kdtl94vp,tp21ECEq,2,6,,,,0
+1593446400,Babrungas,Tauras Taurage,AkoReUjd,xGkXZymr,2,1,,,,0
+1593522000,Vilniaus Vytis,Dziugas Telsiai,nZzLtO34,YZpdiAPs,1,0,,,,0
+1593532800,Utenis,Sveikata,GIIj2pH0,2wXXcSAf,0,2,,,,0
+1593532800,Marijampole City,BFA Vilnius,OU4xNqTS,nLTNpDG5,2,3,,,,0
+1593535500,FSK Radviliskis,Jonava,2XgxU84O,2PkRYezG,1,5,,,,0
+1593536400,Dainava Alytus,Atmosfera,x28DBGvr,rTGcipPd,3,0,,,,0
+1594137600,Babrungas,Hegelmann,AkoReUjd,x6Y6RKeG,1,4,,,,0
+1594141200,Siauliai FA,Zalgiris,8j4GrWnF,CK4bnx4C,0,2,,,,0
+1594738800,Jonava,FK Panevezys,2PkRYezG,OlLDanjn,0,3,,,,0
+1594742400,Sveikata,Kauno Zalgiris,2wXXcSAf,hjhLeNs8,0,4,,,,0
+1594746000,Riteriai,Banga,jJXyKvW1,tGWvEQkr,2,0,,,,0
+1594825200,Viltis Vilnius,Vilniaus Vytis,zJTyhWme,nZzLtO34,0,4,,,,0
+1594828800,FK Minija,Suduva,tp21ECEq,zeD1tvmN,0,3,,,,0
+1594836000,BFA Vilnius,Dainava Alytus,nLTNpDG5,x28DBGvr,1,2,,,,0
+1597159800,Hegelmann,FK Panevezys,x6Y6RKeG,OlLDanjn,0,3,,,,0
+1597163400,Dainava Alytus,Riteriai,x28DBGvr,jJXyKvW1,0,2,,,,0
+1599840000,Vilniaus Vytis,Suduva,nZzLtO34,zeD1tvmN,0,3,,,,0
+1599926400,Zalgiris,Kauno Zalgiris,CK4bnx4C,hjhLeNs8,2,1,,,,0
+1602936000,Zalgiris,Suduva,CK4bnx4C,zeD1tvmN,0,0,AET,1,2,0
+1603206000,FK Panevezys,Riteriai,OlLDanjn,jJXyKvW1,4,0,,,,0
+1603539780,FK Panevezys,Suduva,OlLDanjn,zeD1tvmN,1,1,Pen,2,1,0

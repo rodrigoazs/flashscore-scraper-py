@@ -1,32 +1,32 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1695567600,Al Taawon,Al Qadisiya,2,0,,,,0
-1695567600,Al Ettifaq,Jeddah,4,0,,,,0
-1695578400,Al Shabab,Al Batin,1,1,AET,2,1,0
-1695578400,Al Hazem,Al Arabi,3,1,,,,0
-1695654000,Al Najma,Al Raed,2,1,,,,0
-1695654000,Al Jabalain,Al Hilal,0,1,,,,0
-1695664800,Ohod,Al Nassr,1,5,,,,0
-1695664800,Damac,Al-Qaisumah,2,1,,,,0
-1695740400,Al Riyadh,Al Fayha,1,2,,,,0
-1695740400,Al Ain,Al Ahli SC,2,3,,,,0
-1695751200,Al-Faisaly,Al Taee,2,0,,,,0
-1695751200,Al Kholood,Al Ittihad,1,1,Pen,1,2,0
-1695826800,Al Orubah,Al Wehda,0,2,,,,0
-1695826800,Al Fateh,Al Okhdood,3,1,,,,0
-1695837600,Al Khaleej,Al Adalah,2,0,,,,0
-1695837600,Abha,Hajer,0,0,AET,1,0,0
-1698668100,Al Najma,Al-Faisaly,0,3,,,,0
-1698677100,Al Khaleej,Damac,1,1,Pen,2,1,0
-1698688800,Al Hilal,Al Hazem,3,0,,,,0
-1698754500,Al Taawon,Al Wehda,2,0,,,,0
-1698754500,Al Fateh,Al Shabab,1,1,AET,1,2,0
-1698763500,Al Nassr,Al Ettifaq,0,0,AET,1,0,0
-1698763500,Al Fayha,Al Ittihad,0,3,,,,0
-1698775200,Al Ahli SC,Abha,1,2,,,,0
-1702297800,Abha,Al Khaleej,1,2,,,,0
-1702305900,Al Hilal,Al Taawon,3,0,,,,0
-1702317600,Al Shabab,Al Nassr,2,5,,,,0
-1707059700,Al-Faisaly,Al Ittihad,0,4,,,,0
-1714500000,Al Ittihad,Al Hilal,1,2,,,,0
-1714586400,Al Nassr,Al Khaleej,3,1,,,,0
-1717178400,Al Hilal,Al Nassr,1,1,Pen,2,1,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1695567600,Al Taawon,Al Qadisiya,zwr48VYG,OvCAgTwF,2,0,,,,0
+1695567600,Al Ettifaq,Jeddah,ve6EavVg,2FIz1kNF,4,0,,,,0
+1695578400,Al Shabab,Al Batin,S4ItXNi7,pSPK8Cih,1,1,AET,2,1,0
+1695578400,Al Hazem,Al Arabi,I5wzarII,IuMgP94j,3,1,,,,0
+1695654000,Al Najma,Al Raed,lQBgfCk0,8WX8K8kE,2,1,,,,0
+1695654000,Al Jabalain,Al Hilal,dOSHi8Gq,joUWHZ1t,0,1,,,,0
+1695664800,Ohod,Al Nassr,jeFu6Qy4,dr3R7wGl,1,5,,,,0
+1695664800,Damac,Al-Qaisumah,29Hb7UEa,vcaWAyrt,2,1,,,,0
+1695740400,Al Riyadh,Al Fayha,n3tWGHwr,z58zJYcl,1,2,,,,0
+1695740400,Al Ain,Al Ahli SC,jVqNvGUb,S6sY6w76,2,3,,,,0
+1695751200,Al-Faisaly,Al Taee,t0G26lU5,GQAvU1Ht,2,0,,,,0
+1695751200,Al Kholood,Al Ittihad,GIQhrZPQ,jeFu6Qy4,1,1,Pen,1,2,0
+1695826800,Al Orubah,Al Wehda,jLvfDNRl,h0wZ9zwk,0,2,,,,0
+1695826800,Al Fateh,Al Okhdood,ll4pyUYI,nsNrUNVC,3,1,,,,0
+1695837600,Al Khaleej,Al Adalah,W6U2Bfuk,CATmi5yJ,2,0,,,,0
+1695837600,Abha,Hajer,E9j3kB6r,82fcjrKD,0,0,AET,1,0,0
+1698668100,Al Najma,Al-Faisaly,lQBgfCk0,t0G26lU5,0,3,,,,0
+1698677100,Al Khaleej,Damac,W6U2Bfuk,29Hb7UEa,1,1,Pen,2,1,0
+1698688800,Al Hilal,Al Hazem,joUWHZ1t,I5wzarII,3,0,,,,0
+1698754500,Al Taawon,Al Wehda,zwr48VYG,h0wZ9zwk,2,0,,,,0
+1698754500,Al Fateh,Al Shabab,ll4pyUYI,S4ItXNi7,1,1,AET,1,2,0
+1698763500,Al Nassr,Al Ettifaq,dr3R7wGl,ve6EavVg,0,0,AET,1,0,0
+1698763500,Al Fayha,Al Ittihad,z58zJYcl,jeFu6Qy4,0,3,,,,0
+1698775200,Al Ahli SC,Abha,S6sY6w76,E9j3kB6r,1,2,,,,0
+1702297800,Abha,Al Khaleej,E9j3kB6r,W6U2Bfuk,1,2,,,,0
+1702305900,Al Hilal,Al Taawon,joUWHZ1t,zwr48VYG,3,0,,,,0
+1702317600,Al Shabab,Al Nassr,S4ItXNi7,dr3R7wGl,2,5,,,,0
+1707059700,Al-Faisaly,Al Ittihad,t0G26lU5,jeFu6Qy4,0,4,,,,0
+1714500000,Al Ittihad,Al Hilal,jeFu6Qy4,joUWHZ1t,1,2,,,,0
+1714586400,Al Nassr,Al Khaleej,dr3R7wGl,W6U2Bfuk,3,1,,,,0
+1717178400,Al Hilal,Al Nassr,joUWHZ1t,dr3R7wGl,1,1,Pen,2,1,1

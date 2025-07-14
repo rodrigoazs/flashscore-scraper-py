@@ -1,42 +1,42 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1652540400,Academica Boavista,Morabeza,0,0,,,,0
-1652547600,Ultramarina,Varandinha,1,0,,,,0
-1652547600,Rosariense,Sporting Praia,2,1,,,,0
-1652547600,Palmeira,Academica Porto Novo,2,1,,,,0
-1652547600,Botafogo,Mindelo,2,4,,,,0
-1652634000,Mindelense,Barreirense,0,1,,,,0
-1653152400,Sporting Praia,Ultramarina,4,2,,,,0
-1653152400,Mindelo,Mindelense,1,2,,,,0
-1653152400,Academica Porto Novo,Academica Boavista,0,0,,,,0
-1653238800,Varandinha,Rosariense,0,1,,,,0
-1653238800,Morabeza,Palmeira,1,1,,,,0
-1653238800,Barreirense,Botafogo,0,1,,,,0
-1653757200,Varandinha,Sporting Praia,2,0,,,,0
-1653757200,Ultramarina,Rosariense,0,3,,,,0
-1653757200,Mindelense,Botafogo,0,0,,,,0
-1653757200,Academica Boavista,Palmeira,1,0,,,,0
-1653843600,Morabeza,Academica Porto Novo,1,1,,,,0
-1653843600,Barreirense,Mindelo,1,1,,,,0
-1654362000,Sporting Praia,Varandinha,2,0,,,,0
-1654362000,Rosariense,Ultramarina,1,0,,,,0
-1654362000,Palmeira,Academica Boavista,2,0,,,,0
-1654362000,Mindelo,Barreirense,4,2,,,,0
-1654448400,Botafogo,Mindelense,3,0,,,,0
-1654448400,Academica Porto Novo,Morabeza,1,0,,,,0
-1654966800,Ultramarina,Sporting Praia,0,2,,,,0
-1654966800,Rosariense,Varandinha,1,1,,,,0
-1654966800,Palmeira,Morabeza,1,0,,,,0
-1654966800,Mindelense,Mindelo,0,1,,,,0
-1654966800,Botafogo,Barreirense,1,1,,,,0
-1654966800,Academica Boavista,Academica Porto Novo,1,0,,,,0
-1655658000,Varandinha,Ultramarina,1,0,,,,0
-1655658000,Sporting Praia,Rosariense,1,4,,,,0
-1655658000,Morabeza,Academica Boavista,3,0,,,,0
-1655658000,Mindelo,Botafogo,1,1,,,,0
-1655658000,Barreirense,Mindelense,0,1,,,,0
-1655658000,Academica Porto Novo,Palmeira,2,4,,,,0
-1656176400,Mindelo,Rosariense,2,2,,,,0
-1656262800,Botafogo,Palmeira,0,0,,,,0
-1656781200,Rosariense,Mindelo,0,4,,,,0
-1656865800,Palmeira,Botafogo,1,0,,,,0
-1657384200,Mindelo,Palmeira,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1652540400,Academica Boavista,Morabeza,AqxDH6wm,6q1Mq45N,0,0,,,,0
+1652547600,Ultramarina,Varandinha,QNEfHZk3,SCbeiVjK,1,0,,,,0
+1652547600,Rosariense,Sporting Praia,tbcfRqC5,AqxDH6wm,2,1,,,,0
+1652547600,Palmeira,Academica Porto Novo,6q1Mq45N,AqxDH6wm,2,1,,,,0
+1652547600,Botafogo,Mindelo,ttGPKEJ3,hYhfntFh,2,4,,,,0
+1652634000,Mindelense,Barreirense,QNEfHZk3,AB4An6L4,0,1,,,,0
+1653152400,Sporting Praia,Ultramarina,AqxDH6wm,QNEfHZk3,4,2,,,,0
+1653152400,Mindelo,Mindelense,hYhfntFh,QNEfHZk3,1,2,,,,0
+1653152400,Academica Porto Novo,Academica Boavista,AqxDH6wm,AqxDH6wm,0,0,,,,0
+1653238800,Varandinha,Rosariense,SCbeiVjK,tbcfRqC5,0,1,,,,0
+1653238800,Morabeza,Palmeira,6q1Mq45N,6q1Mq45N,1,1,,,,0
+1653238800,Barreirense,Botafogo,AB4An6L4,ttGPKEJ3,0,1,,,,0
+1653757200,Varandinha,Sporting Praia,SCbeiVjK,AqxDH6wm,2,0,,,,0
+1653757200,Ultramarina,Rosariense,QNEfHZk3,tbcfRqC5,0,3,,,,0
+1653757200,Mindelense,Botafogo,QNEfHZk3,ttGPKEJ3,0,0,,,,0
+1653757200,Academica Boavista,Palmeira,AqxDH6wm,6q1Mq45N,1,0,,,,0
+1653843600,Morabeza,Academica Porto Novo,6q1Mq45N,AqxDH6wm,1,1,,,,0
+1653843600,Barreirense,Mindelo,AB4An6L4,hYhfntFh,1,1,,,,0
+1654362000,Sporting Praia,Varandinha,AqxDH6wm,SCbeiVjK,2,0,,,,0
+1654362000,Rosariense,Ultramarina,tbcfRqC5,QNEfHZk3,1,0,,,,0
+1654362000,Palmeira,Academica Boavista,6q1Mq45N,AqxDH6wm,2,0,,,,0
+1654362000,Mindelo,Barreirense,hYhfntFh,AB4An6L4,4,2,,,,0
+1654448400,Botafogo,Mindelense,ttGPKEJ3,QNEfHZk3,3,0,,,,0
+1654448400,Academica Porto Novo,Morabeza,AqxDH6wm,6q1Mq45N,1,0,,,,0
+1654966800,Ultramarina,Sporting Praia,QNEfHZk3,AqxDH6wm,0,2,,,,0
+1654966800,Rosariense,Varandinha,tbcfRqC5,SCbeiVjK,1,1,,,,0
+1654966800,Palmeira,Morabeza,6q1Mq45N,6q1Mq45N,1,0,,,,0
+1654966800,Mindelense,Mindelo,QNEfHZk3,hYhfntFh,0,1,,,,0
+1654966800,Botafogo,Barreirense,ttGPKEJ3,AB4An6L4,1,1,,,,0
+1654966800,Academica Boavista,Academica Porto Novo,AqxDH6wm,AqxDH6wm,1,0,,,,0
+1655658000,Varandinha,Ultramarina,SCbeiVjK,QNEfHZk3,1,0,,,,0
+1655658000,Sporting Praia,Rosariense,AqxDH6wm,tbcfRqC5,1,4,,,,0
+1655658000,Morabeza,Academica Boavista,6q1Mq45N,AqxDH6wm,3,0,,,,0
+1655658000,Mindelo,Botafogo,hYhfntFh,ttGPKEJ3,1,1,,,,0
+1655658000,Barreirense,Mindelense,AB4An6L4,QNEfHZk3,0,1,,,,0
+1655658000,Academica Porto Novo,Palmeira,AqxDH6wm,6q1Mq45N,2,4,,,,0
+1656176400,Mindelo,Rosariense,hYhfntFh,tbcfRqC5,2,2,,,,0
+1656262800,Botafogo,Palmeira,ttGPKEJ3,6q1Mq45N,0,0,,,,0
+1656781200,Rosariense,Mindelo,tbcfRqC5,hYhfntFh,0,4,,,,0
+1656865800,Palmeira,Botafogo,6q1Mq45N,ttGPKEJ3,1,0,,,,0
+1657384200,Mindelo,Palmeira,hYhfntFh,6q1Mq45N,1,0,,,,0

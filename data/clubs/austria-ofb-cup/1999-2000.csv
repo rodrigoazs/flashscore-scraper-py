@@ -1,16 +1,16 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-921106800,Simmeringer,Salzburg,0,1,,,,0
-921106800,Salzburg (Am),Admira,1,3,,,,0
-921106800,Leoben,FC Karnten,3,1,,,,0
-921106800,Grazer AK,SV Worgl,3,1,,,,0
-921106800,First Vienna,Wacker Innsbruck,0,1,,,,0
-921106800,Braunau,SC Untersiebenbrunn,2,1,,,,0
-921106800,Austria Vienna,LASK,1,0,,,,0
-921106800,ASKO Pasching,Tirol,5,1,,,,0
-924386400,Salzburg,Admira,5,0,,,,0
-924386400,Grazer AK,Braunau,2,1,,,,0
-924386400,Austria Vienna,Leoben,1,0,,,,0
-924386400,ASKO Pasching,Wacker Innsbruck,2,0,,,,0
-925596000,Salzburg,Austria Vienna,3,2,,,,0
-925596000,ASKO Pasching,Grazer AK,0,1,,,,0
-926805600,Salzburg,Grazer AK,2,3,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+921106800,Simmeringer,Salzburg,dU7MVRq0,McAr23w3,0,1,,,,0
+921106800,Salzburg (Am),Admira,tQDaUEkO,IeGa2GZS,1,3,,,,0
+921106800,Leoben,FC Karnten,n1a1DvMn,6mXP2Hyq,3,1,,,,0
+921106800,Grazer AK,SV Worgl,6ThU2T3B,z18FMthg,3,1,,,,0
+921106800,First Vienna,Wacker Innsbruck,rXAAgEQl,UsfS2kBR,0,1,,,,0
+921106800,Braunau,SC Untersiebenbrunn,8YW7FR6D,zH6zs5F4,2,1,,,,0
+921106800,Austria Vienna,LASK,lUkqx2Vt,CbaUQRYa,1,0,,,,0
+921106800,ASKO Pasching,Tirol,f1RS4uQs,OlTuEPoj,5,1,,,,0
+924386400,Salzburg,Admira,McAr23w3,IeGa2GZS,5,0,,,,0
+924386400,Grazer AK,Braunau,6ThU2T3B,8YW7FR6D,2,1,,,,0
+924386400,Austria Vienna,Leoben,lUkqx2Vt,n1a1DvMn,1,0,,,,0
+924386400,ASKO Pasching,Wacker Innsbruck,f1RS4uQs,UsfS2kBR,2,0,,,,0
+925596000,Salzburg,Austria Vienna,McAr23w3,lUkqx2Vt,3,2,,,,0
+925596000,ASKO Pasching,Grazer AK,f1RS4uQs,6ThU2T3B,0,1,,,,0
+926805600,Salzburg,Grazer AK,McAr23w3,6ThU2T3B,2,3,,,,0

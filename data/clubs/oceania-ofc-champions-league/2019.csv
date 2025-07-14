@@ -1,38 +1,38 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1548549000,Pago (Asa),Lotohaapai (Ton),1,5,,,,0
-1548559800,Tupapa (Coi),Kiwi (Sam),4,1,,,,0
-1548808200,Kiwi (Sam),Pago (Asa),4,3,,,,0
-1548819000,Tupapa (Coi),Lotohaapai (Ton),4,1,,,,0
-1549067400,Lotohaapai (Ton),Kiwi (Sam),1,9,,,,0
-1549078200,Tupapa (Coi),Pago (Asa),2,1,,,,0
-1549760400,Central Sport (Tah),Henderson Eels (Sol),3,2,,,,0
-1549767600,Lae City (Pap),Tefana (Tah),3,3,,,,0
-1549771200,Morobe Wawens (Pap),Lautoka (Fij),0,5,,,,0
-1549778400,Malampa Revivors (Van),Hienghene (Nca),0,5,,,,0
-1550019600,Morobe Wawens (Pap),Central Sport (Tah),0,7,,,,0
-1550026800,Malampa Revivors (Van),Lae City (Pap),2,4,,,,0
-1550030400,Lautoka (Fij),Henderson Eels (Sol),5,6,,,,0
-1550037600,Hienghene (Nca),Tefana (Tah),1,0,,,,0
-1550278800,Henderson Eels (Sol),Morobe Wawens (Pap),7,0,,,,0
-1550286000,Tefana (Tah),Malampa Revivors (Van),3,3,,,,0
-1550289600,Lautoka (Fij),Central Sport (Tah),2,2,,,,0
-1550296800,Hienghene (Nca),Lae City (Pap),1,1,,,,0
-1550890800,Team Wellington (Nzl),Ba (Fij),2,0,,,,0
-1550901600,Kiwi (Sam),Erakor Golden Star (Van),0,2,,,,0
-1550973600,Auckland City (Nzl),Magenta (Nca),2,1,,,,0
-1550984400,Tupapa (Coi),Solomon Warriors (Sol),1,10,,,,0
-1551150000,Kiwi (Sam),Team Wellington (Nzl),0,13,,,,0
-1551160800,Erakor Golden Star (Van),Ba (Fij),1,1,,,,0
-1551232800,Tupapa (Coi),Auckland City (Nzl),0,15,,,,0
-1551243600,Solomon Warriors (Sol),Magenta (Nca),0,3,,,,0
-1551409200,Ba (Fij),Kiwi (Sam),5,1,,,,0
-1551420000,Erakor Golden Star (Van),Team Wellington (Nzl),0,3,,,,0
-1551492000,Magenta (Nca),Tupapa (Coi),10,1,,,,0
-1551502800,Solomon Warriors (Sol),Auckland City (Nzl),0,6,,,,0
-1554512400,Auckland City (Nzl),Lae City (Pap),4,0,,,,0
-1554530400,Hienghene (Nca),Ba (Fij),1,1,AET,2,1,0
-1554602400,Team Wellington (Nzl),Henderson Eels (Sol),6,1,,,,0
-1554699600,Central Sport (Tah),Magenta (Nca),0,8,,,,0
-1556420400,Hienghene (Nca),Team Wellington (Nzl),2,0,,,,0
-1556433000,Magenta (Nca),Auckland City (Nzl),2,1,,,,0
-1557554400,Magenta (Nca),Hienghene (Nca),0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1548549000,Pago (Asa),Lotohaapai (Ton),rTO80Z66,6Ld0aIU5,1,5,,,,0
+1548559800,Tupapa (Coi),Kiwi (Sam),WUCWRIXm,b3m5aK21,4,1,,,,0
+1548808200,Kiwi (Sam),Pago (Asa),b3m5aK21,rTO80Z66,4,3,,,,0
+1548819000,Tupapa (Coi),Lotohaapai (Ton),WUCWRIXm,6Ld0aIU5,4,1,,,,0
+1549067400,Lotohaapai (Ton),Kiwi (Sam),6Ld0aIU5,b3m5aK21,1,9,,,,0
+1549078200,Tupapa (Coi),Pago (Asa),WUCWRIXm,rTO80Z66,2,1,,,,0
+1549760400,Central Sport (Tah),Henderson Eels (Sol),f9uVWIaa,fuCXqOCS,3,2,,,,0
+1549767600,Lae City (Pap),Tefana (Tah),OfQt6HMB,23Iqqnkk,3,3,,,,0
+1549771200,Morobe Wawens (Pap),Lautoka (Fij),jesEVRhB,YajMy4UH,0,5,,,,0
+1549778400,Malampa Revivors (Van),Hienghene (Nca),tE1csI3A,0Mr6bQGB,0,5,,,,0
+1550019600,Morobe Wawens (Pap),Central Sport (Tah),jesEVRhB,f9uVWIaa,0,7,,,,0
+1550026800,Malampa Revivors (Van),Lae City (Pap),tE1csI3A,OfQt6HMB,2,4,,,,0
+1550030400,Lautoka (Fij),Henderson Eels (Sol),YajMy4UH,fuCXqOCS,5,6,,,,0
+1550037600,Hienghene (Nca),Tefana (Tah),0Mr6bQGB,23Iqqnkk,1,0,,,,0
+1550278800,Henderson Eels (Sol),Morobe Wawens (Pap),fuCXqOCS,jesEVRhB,7,0,,,,0
+1550286000,Tefana (Tah),Malampa Revivors (Van),23Iqqnkk,tE1csI3A,3,3,,,,0
+1550289600,Lautoka (Fij),Central Sport (Tah),YajMy4UH,f9uVWIaa,2,2,,,,0
+1550296800,Hienghene (Nca),Lae City (Pap),0Mr6bQGB,OfQt6HMB,1,1,,,,0
+1550890800,Team Wellington (Nzl),Ba (Fij),vRIfvk00,tE1csI3A,2,0,,,,0
+1550901600,Kiwi (Sam),Erakor Golden Star (Van),b3m5aK21,UJPiD5Ui,0,2,,,,0
+1550973600,Auckland City (Nzl),Magenta (Nca),E7VNOejE,QsL6ehoB,2,1,,,,0
+1550984400,Tupapa (Coi),Solomon Warriors (Sol),WUCWRIXm,0SkIuSnk,1,10,,,,0
+1551150000,Kiwi (Sam),Team Wellington (Nzl),b3m5aK21,vRIfvk00,0,13,,,,0
+1551160800,Erakor Golden Star (Van),Ba (Fij),UJPiD5Ui,tE1csI3A,1,1,,,,0
+1551232800,Tupapa (Coi),Auckland City (Nzl),WUCWRIXm,E7VNOejE,0,15,,,,0
+1551243600,Solomon Warriors (Sol),Magenta (Nca),0SkIuSnk,QsL6ehoB,0,3,,,,0
+1551409200,Ba (Fij),Kiwi (Sam),tE1csI3A,b3m5aK21,5,1,,,,0
+1551420000,Erakor Golden Star (Van),Team Wellington (Nzl),UJPiD5Ui,vRIfvk00,0,3,,,,0
+1551492000,Magenta (Nca),Tupapa (Coi),QsL6ehoB,WUCWRIXm,10,1,,,,0
+1551502800,Solomon Warriors (Sol),Auckland City (Nzl),0SkIuSnk,E7VNOejE,0,6,,,,0
+1554512400,Auckland City (Nzl),Lae City (Pap),E7VNOejE,OfQt6HMB,4,0,,,,0
+1554530400,Hienghene (Nca),Ba (Fij),0Mr6bQGB,tE1csI3A,1,1,AET,2,1,0
+1554602400,Team Wellington (Nzl),Henderson Eels (Sol),vRIfvk00,fuCXqOCS,6,1,,,,0
+1554699600,Central Sport (Tah),Magenta (Nca),f9uVWIaa,QsL6ehoB,0,8,,,,0
+1556420400,Hienghene (Nca),Team Wellington (Nzl),0Mr6bQGB,vRIfvk00,2,0,,,,0
+1556433000,Magenta (Nca),Auckland City (Nzl),QsL6ehoB,E7VNOejE,2,1,,,,0
+1557554400,Magenta (Nca),Hienghene (Nca),QsL6ehoB,0Mr6bQGB,0,1,,,,0

@@ -1,30 +1,30 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1405184400,Limon Black Star,Carmelita,0,2,,,,0
-1405202400,Belen,CS Uruguay,1,0,,,,0
-1405213200,Jaco Rays,Puma Generalena,1,1,,,,0
-1405213200,Cartagines,Zeledon,3,1,,,,0
-1405216800,Cariari Pococi,Saprissa,0,7,,,,0
-1405386000,AD Santos,Limon,1,0,,,,0
-1405562400,San Carlos,Herediano,0,1,,,,0
-1405562400,Guanacasteca,Alajuelense,0,3,,,,0
-1405807200,Belen,San Carlos,1,2,,,,0
-1405818000,Limon,Cariari Pococi,2,1,,,,0
-1405818000,Jaco Rays,Cartagines,1,2,,,,0
-1405875600,Zeledon,Puma Generalena,1,1,,,,0
-1405890000,Guanacasteca,Carmelita,1,0,,,,0
-1405890000,CS Uruguay,Herediano,1,3,,,,0
-1406167200,Saprissa,AD Santos,4,2,,,,0
-1406167200,Alajuelense,Limon Black Star,1,0,,,,0
-1406422800,AD Santos,Cariari Pococi,1,2,,,,0
-1406480400,Zeledon,Jaco Rays,2,0,,,,0
-1406480400,Limon Black Star,Guanacasteca,5,0,,,,0
-1406480400,Herediano,Belen,2,0,,,,0
-1406480400,CS Uruguay,San Carlos,1,1,,,,0
-1406480400,Cartagines,Puma Generalena,2,2,,,,0
-1406498400,Limon,Saprissa,2,4,,,,0
-1406505600,Carmelita,Alajuelense,2,1,,,,0
-1406772000,Alajuelense,Cartagines,1,2,,,,0
-1406858400,Herediano,Saprissa,1,1,,,,0
-1407085200,Saprissa,Herediano,1,1,Pen,2,1,0
-1407103200,Cartagines,Alajuelense,2,1,,,,0
-1407690000,Cartagines,Saprissa,3,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1405184400,Limon Black Star,Carmelita,ltnbwDR0,pM8Qrp2m,0,2,,,,0
+1405202400,Belen,CS Uruguay,86CUQIrb,Y9L9uDAq,1,0,,,,0
+1405213200,Jaco Rays,Puma Generalena,0GHGAd9r,z5lWWNk2,1,1,,,,0
+1405213200,Cartagines,Zeledon,YB0DoGZt,YB0DoGZt,3,1,,,,0
+1405216800,Cariari Pococi,Saprissa,dCzfrT6j,tnwDCzLD,0,7,,,,0
+1405386000,AD Santos,Limon,zPYfw7JB,AkmfvgCf,1,0,,,,0
+1405562400,San Carlos,Herediano,6XjLWQsI,zJ9gvDHG,0,1,,,,0
+1405562400,Guanacasteca,Alajuelense,W2jaDLZ8,4v3Y4ReF,0,3,,,,0
+1405807200,Belen,San Carlos,86CUQIrb,6XjLWQsI,1,2,,,,0
+1405818000,Limon,Cariari Pococi,AkmfvgCf,dCzfrT6j,2,1,,,,0
+1405818000,Jaco Rays,Cartagines,0GHGAd9r,YB0DoGZt,1,2,,,,0
+1405875600,Zeledon,Puma Generalena,YB0DoGZt,z5lWWNk2,1,1,,,,0
+1405890000,Guanacasteca,Carmelita,W2jaDLZ8,pM8Qrp2m,1,0,,,,0
+1405890000,CS Uruguay,Herediano,Y9L9uDAq,zJ9gvDHG,1,3,,,,0
+1406167200,Saprissa,AD Santos,tnwDCzLD,zPYfw7JB,4,2,,,,0
+1406167200,Alajuelense,Limon Black Star,4v3Y4ReF,ltnbwDR0,1,0,,,,0
+1406422800,AD Santos,Cariari Pococi,zPYfw7JB,dCzfrT6j,1,2,,,,0
+1406480400,Zeledon,Jaco Rays,YB0DoGZt,0GHGAd9r,2,0,,,,0
+1406480400,Limon Black Star,Guanacasteca,ltnbwDR0,W2jaDLZ8,5,0,,,,0
+1406480400,Herediano,Belen,zJ9gvDHG,86CUQIrb,2,0,,,,0
+1406480400,CS Uruguay,San Carlos,Y9L9uDAq,6XjLWQsI,1,1,,,,0
+1406480400,Cartagines,Puma Generalena,YB0DoGZt,z5lWWNk2,2,2,,,,0
+1406498400,Limon,Saprissa,AkmfvgCf,tnwDCzLD,2,4,,,,0
+1406505600,Carmelita,Alajuelense,pM8Qrp2m,4v3Y4ReF,2,1,,,,0
+1406772000,Alajuelense,Cartagines,4v3Y4ReF,YB0DoGZt,1,2,,,,0
+1406858400,Herediano,Saprissa,zJ9gvDHG,tnwDCzLD,1,1,,,,0
+1407085200,Saprissa,Herediano,tnwDCzLD,zJ9gvDHG,1,1,Pen,2,1,0
+1407103200,Cartagines,Alajuelense,YB0DoGZt,4v3Y4ReF,2,1,,,,0
+1407690000,Cartagines,Saprissa,YB0DoGZt,tnwDCzLD,3,2,,,,0

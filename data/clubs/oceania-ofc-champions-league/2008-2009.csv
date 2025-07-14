@@ -1,15 +1,15 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1225580400,Auckland City,Waitakere United,2,2,,,,0
-1225634400,Ba,Koloale,0,0,,,,0
-1227308400,Waitakere United,Port Vila Sharks,3,0,,,,0
-1227362400,Koloale,Hekari Utd,3,1,,,,0
-1229122800,Port Vila Sharks,Auckland City,0,2,,,,0
-1229176800,Hekari Utd,Ba,1,2,,,,0
-1234620000,Ba,Hekari Utd,1,3,,,,0
-1234620000,Auckland City,Port Vila Sharks,8,1,,,,0
-1236434400,Port Vila Sharks,Waitakere United,2,3,,,,0
-1236434400,Hekari Utd,Koloale,1,0,,,,0
-1238248800,Koloale,Ba,1,0,,,,0
-1238936400,Waitakere United,Auckland City,1,3,,,,0
-1240664400,Koloale,Auckland City,2,7,,,,0
-1241355600,Auckland City,Koloale,2,2,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1225580400,Auckland City,Waitakere United,E7VNOejE,bTzLAEkQ,2,2,,,,0
+1225634400,Ba,Koloale,tE1csI3A,CIcJSoci,0,0,,,,0
+1227308400,Waitakere United,Port Vila Sharks,bTzLAEkQ,,3,0,,,,0
+1227362400,Koloale,Hekari Utd,CIcJSoci,EFVWv0e5,3,1,,,,0
+1229122800,Port Vila Sharks,Auckland City,,E7VNOejE,0,2,,,,0
+1229176800,Hekari Utd,Ba,EFVWv0e5,tE1csI3A,1,2,,,,0
+1234620000,Ba,Hekari Utd,tE1csI3A,EFVWv0e5,1,3,,,,0
+1234620000,Auckland City,Port Vila Sharks,E7VNOejE,,8,1,,,,0
+1236434400,Port Vila Sharks,Waitakere United,,bTzLAEkQ,2,3,,,,0
+1236434400,Hekari Utd,Koloale,EFVWv0e5,CIcJSoci,1,0,,,,0
+1238248800,Koloale,Ba,CIcJSoci,tE1csI3A,1,0,,,,0
+1238936400,Waitakere United,Auckland City,bTzLAEkQ,E7VNOejE,1,3,,,,0
+1240664400,Koloale,Auckland City,CIcJSoci,E7VNOejE,2,7,,,,0
+1241355600,Auckland City,Koloale,E7VNOejE,CIcJSoci,2,2,,,,0

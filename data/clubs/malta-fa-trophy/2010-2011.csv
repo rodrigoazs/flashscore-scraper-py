@@ -1,21 +1,21 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1289413800,Pieta,Msida,6,0,,,,0
-1289581200,Lija,Floriana,0,3,,,,0
-1289581200,Dingli Swallows,Mosta,3,3,AET,3,5,0
-1289588400,Marsaxlokk,Mqabba FC,1,0,,,,0
-1289589300,Hamrun,Melita,5,0,,,,0
-1289653200,Hibernians,Pieta,4,0,,,,0
-1289661300,Balzan,Tarxien,1,3,,,,0
-1289739600,Victoria Hotspurs,Vittoriosa,2,4,,,,0
-1289739600,St. George's FC,St. Andrews,1,2,,,,0
-1295456400,Hibernians,St. Andrews,3,2,,,,0
-1295456400,Floriana,Mosta,0,0,AET,1,0,0
-1295463600,Marsaxlokk,Vittoriosa,0,3,,,,0
-1295463600,Hamrun,Tarxien,2,2,AET,2,3,0
-1300539600,Sliema,Birkirkara,2,2,Pen,3,4,0
-1300549800,Valletta,Hibernians,0,0,AET,1,0,0
-1300626000,Tarxien,Vittoriosa,4,2,,,,0
-1300633200,Qormi,Floriana,1,1,Pen,1,2,0
-1305385200,Tarxien,Valletta,0,0,AET,0,1,0
-1305471600,Birkirkara,Floriana,1,2,,,,0
-1306076400,Valletta,Floriana,0,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1289413800,Pieta,Msida,Ct4j2I6k,fN02vDNP,6,0,,,,0
+1289581200,Lija,Floriana,dWnUZWVt,xGkXZymr,0,3,,,,0
+1289581200,Dingli Swallows,Mosta,0nd54dGc,xGkXZymr,3,3,AET,3,5,0
+1289588400,Marsaxlokk,Mqabba FC,bZmYBGs9,fPa9VyEn,1,0,,,,0
+1289589300,Hamrun,Melita,j3L7suLi,4zR8yCNE,5,0,,,,0
+1289653200,Hibernians,Pieta,WrjrBuU2,Ct4j2I6k,4,0,,,,0
+1289661300,Balzan,Tarxien,8SwKCrBK,6BT6bC1D,1,3,,,,0
+1289739600,Victoria Hotspurs,Vittoriosa,GfGMTrES,zL0Qxgws,2,4,,,,0
+1289739600,St. George's FC,St. Andrews,dWnUZWVt,zNoYYjom,1,2,,,,0
+1295456400,Hibernians,St. Andrews,WrjrBuU2,zNoYYjom,3,2,,,,0
+1295456400,Floriana,Mosta,xGkXZymr,xGkXZymr,0,0,AET,1,0,0
+1295463600,Marsaxlokk,Vittoriosa,bZmYBGs9,zL0Qxgws,0,3,,,,0
+1295463600,Hamrun,Tarxien,j3L7suLi,6BT6bC1D,2,2,AET,2,3,0
+1300539600,Sliema,Birkirkara,YFbDUeTh,rDY9klCL,2,2,Pen,3,4,0
+1300549800,Valletta,Hibernians,WrjrBuU2,WrjrBuU2,0,0,AET,1,0,0
+1300626000,Tarxien,Vittoriosa,6BT6bC1D,zL0Qxgws,4,2,,,,0
+1300633200,Qormi,Floriana,fPa9VyEn,xGkXZymr,1,1,Pen,1,2,0
+1305385200,Tarxien,Valletta,6BT6bC1D,WrjrBuU2,0,0,AET,0,1,0
+1305471600,Birkirkara,Floriana,rDY9klCL,xGkXZymr,1,2,,,,0
+1306076400,Valletta,Floriana,WrjrBuU2,xGkXZymr,0,1,,,,0

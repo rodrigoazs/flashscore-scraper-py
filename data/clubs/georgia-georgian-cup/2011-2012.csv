@@ -1,54 +1,54 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1313586000,Zugdidi,Chkherimela,0,1,,,,0
-1313586000,WIT Georgia,STU Tbilisi,2,1,,,,0
-1313586000,Tskhinvali,Zooveti Tbilisi,4,0,,,,0
-1313586000,Torpedo Kutaisi,Meskheti,2,0,,,,0
-1313586000,Samtredia,Sulori Vani,1,1,,,,0
-1313586000,Merani Martvili,Skuri Tsalenjikha,0,0,,,,0
-1313586000,Khobi,Kolkheti 1913,2,1,,,,0
-1313586000,Guria,Chiatura,0,0,,,,0
-1313586000,Dinamo Batumi,FC Ozurgeti,3,0,,,,0
-1313586000,Chikhura,Loco. Tbilisi,5,0,,,,0
-1313586000,Bolnisi,Norchi D. T.,1,1,,,,0
-1313586000,Aieti Sokhumi,Dila Gori,0,2,,,,0
-1315913400,Skuri Tsalenjikha,Merani Martvili,0,1,,,,0
-1315913400,Norchi D. T.,Bolnisi,1,1,Pen,1,2,0
-1315913400,Meskheti,Torpedo Kutaisi,1,6,,,,0
-1315913400,Loco. Tbilisi,Chikhura,2,2,,,,0
-1315913400,Kolkheti 1913,Khobi,1,0,,,,0
-1315913400,Dila Gori,Aieti Sokhumi,3,0,,,,0
-1315994400,Zooveti Tbilisi,Tskhinvali,2,2,,,,0
-1315999800,Sulori Vani,Samtredia,3,0,,,,0
-1315999800,STU Tbilisi,WIT Georgia,0,6,,,,0
-1315999800,FC Ozurgeti,Dinamo Batumi,0,4,,,,0
-1315999800,Chkherimela,Zugdidi,1,3,,,,0
-1315999800,Chiatura,Guria,2,1,,,,0
-1317211200,Zugdidi,Bolnisi,3,0,,,,0
-1317211200,Sulori Vani,Gagra,1,2,,,,0
-1317211200,Merani Martvili,Tskhinvali,2,0,,,,0
-1317211200,Dinamo Tbilisi,Dila Gori,2,2,,,,0
-1317211200,Dinamo Batumi,Torpedo Kutaisi,0,2,,,,0
-1317211200,Chikhura,Rustavi,1,1,,,,0
-1317211200,Chiatura,WIT Georgia,2,3,,,,0
-1317218400,Zestafoni,Kolkheti 1913,2,1,,,,0
-1320227400,Tskhinvali,Merani Martvili,1,1,,,,0
-1320228000,WIT Georgia,Chiatura,2,0,,,,0
-1320228000,Torpedo Kutaisi,Dinamo Batumi,1,1,,,,0
-1320228000,Rustavi,Chikhura,2,0,,,,0
-1320228000,Kolkheti 1913,Zestafoni,0,0,,,,0
-1320228000,Gagra,Sulori Vani,4,0,,,,0
-1320228000,Dila Gori,Dinamo Tbilisi,0,0,,,,0
-1320228000,Bolnisi,Zugdidi,1,2,,,,0
-1322128800,Zugdidi,Dila Gori,2,2,,,,0
-1322128800,Rustavi,WIT Georgia,1,0,,,,0
-1322128800,Gagra,Merani Martvili,4,0,,,,0
-1322143200,Torpedo Kutaisi,Zestafoni,1,1,,,,0
-1323250200,WIT Georgia,Rustavi,1,2,,,,0
-1323250200,Merani Martvili,Gagra,2,0,,,,0
-1323252600,Dila Gori,Zugdidi,5,2,,,,0
-1323262800,Zestafoni,Torpedo Kutaisi,2,1,,,,0
-1334066400,Zestafoni,Rustavi,1,1,,,,0
-1334066400,Gagra,Dila Gori,1,2,,,,0
-1334750400,Rustavi,Zestafoni,0,1,,,,0
-1334750400,Dila Gori,Gagra,0,1,,,,0
-1338044400,Dila Gori,Zestafoni,4,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1313586000,Zugdidi,Chkherimela,2qEOAq7a,jBBn9u8I,0,1,,,,0
+1313586000,WIT Georgia,STU Tbilisi,0WLerOuQ,0diXU30c,2,1,,,,0
+1313586000,Tskhinvali,Zooveti Tbilisi,bZmYBGs9,,4,0,,,,0
+1313586000,Torpedo Kutaisi,Meskheti,6FX7qLsb,YwXPAdIi,2,0,,,,0
+1313586000,Samtredia,Sulori Vani,8lqbyXv8,0diXU30c,1,1,,,,0
+1313586000,Merani Martvili,Skuri Tsalenjikha,drR8zYr0,vmjyUNF3,0,0,,,,0
+1313586000,Khobi,Kolkheti 1913,vmjyUNF3,bZmYBGs9,2,1,,,,0
+1313586000,Guria,Chiatura,dxlxqBhr,0diXU30c,0,0,,,,0
+1313586000,Dinamo Batumi,FC Ozurgeti,vZdRBggj,z1UcXQtj,3,0,,,,0
+1313586000,Chikhura,Loco. Tbilisi,rThaYtoQ,0diXU30c,5,0,,,,0
+1313586000,Bolnisi,Norchi D. T.,OEhZqrON,S8U1i0Mh,1,1,,,,0
+1313586000,Aieti Sokhumi,Dila Gori,,WfpuTxB8,0,2,,,,0
+1315913400,Skuri Tsalenjikha,Merani Martvili,vmjyUNF3,drR8zYr0,0,1,,,,0
+1315913400,Norchi D. T.,Bolnisi,S8U1i0Mh,OEhZqrON,1,1,Pen,1,2,0
+1315913400,Meskheti,Torpedo Kutaisi,YwXPAdIi,6FX7qLsb,1,6,,,,0
+1315913400,Loco. Tbilisi,Chikhura,0diXU30c,rThaYtoQ,2,2,,,,0
+1315913400,Kolkheti 1913,Khobi,bZmYBGs9,vmjyUNF3,1,0,,,,0
+1315913400,Dila Gori,Aieti Sokhumi,WfpuTxB8,,3,0,,,,0
+1315994400,Zooveti Tbilisi,Tskhinvali,,bZmYBGs9,2,2,,,,0
+1315999800,Sulori Vani,Samtredia,0diXU30c,8lqbyXv8,3,0,,,,0
+1315999800,STU Tbilisi,WIT Georgia,0diXU30c,0WLerOuQ,0,6,,,,0
+1315999800,FC Ozurgeti,Dinamo Batumi,z1UcXQtj,vZdRBggj,0,4,,,,0
+1315999800,Chkherimela,Zugdidi,jBBn9u8I,2qEOAq7a,1,3,,,,0
+1315999800,Chiatura,Guria,0diXU30c,dxlxqBhr,2,1,,,,0
+1317211200,Zugdidi,Bolnisi,2qEOAq7a,OEhZqrON,3,0,,,,0
+1317211200,Sulori Vani,Gagra,0diXU30c,KrkUCdS2,1,2,,,,0
+1317211200,Merani Martvili,Tskhinvali,drR8zYr0,bZmYBGs9,2,0,,,,0
+1317211200,Dinamo Tbilisi,Dila Gori,MqwiOmp3,WfpuTxB8,2,2,,,,0
+1317211200,Dinamo Batumi,Torpedo Kutaisi,vZdRBggj,6FX7qLsb,0,2,,,,0
+1317211200,Chikhura,Rustavi,rThaYtoQ,WvdjqzuG,1,1,,,,0
+1317211200,Chiatura,WIT Georgia,0diXU30c,0WLerOuQ,2,3,,,,0
+1317218400,Zestafoni,Kolkheti 1913,GU4hlIMk,bZmYBGs9,2,1,,,,0
+1320227400,Tskhinvali,Merani Martvili,bZmYBGs9,drR8zYr0,1,1,,,,0
+1320228000,WIT Georgia,Chiatura,0WLerOuQ,0diXU30c,2,0,,,,0
+1320228000,Torpedo Kutaisi,Dinamo Batumi,6FX7qLsb,vZdRBggj,1,1,,,,0
+1320228000,Rustavi,Chikhura,WvdjqzuG,rThaYtoQ,2,0,,,,0
+1320228000,Kolkheti 1913,Zestafoni,bZmYBGs9,GU4hlIMk,0,0,,,,0
+1320228000,Gagra,Sulori Vani,KrkUCdS2,0diXU30c,4,0,,,,0
+1320228000,Dila Gori,Dinamo Tbilisi,WfpuTxB8,MqwiOmp3,0,0,,,,0
+1320228000,Bolnisi,Zugdidi,OEhZqrON,2qEOAq7a,1,2,,,,0
+1322128800,Zugdidi,Dila Gori,2qEOAq7a,WfpuTxB8,2,2,,,,0
+1322128800,Rustavi,WIT Georgia,WvdjqzuG,0WLerOuQ,1,0,,,,0
+1322128800,Gagra,Merani Martvili,KrkUCdS2,drR8zYr0,4,0,,,,0
+1322143200,Torpedo Kutaisi,Zestafoni,6FX7qLsb,GU4hlIMk,1,1,,,,0
+1323250200,WIT Georgia,Rustavi,0WLerOuQ,WvdjqzuG,1,2,,,,0
+1323250200,Merani Martvili,Gagra,drR8zYr0,KrkUCdS2,2,0,,,,0
+1323252600,Dila Gori,Zugdidi,WfpuTxB8,2qEOAq7a,5,2,,,,0
+1323262800,Zestafoni,Torpedo Kutaisi,GU4hlIMk,6FX7qLsb,2,1,,,,0
+1334066400,Zestafoni,Rustavi,GU4hlIMk,WvdjqzuG,1,1,,,,0
+1334066400,Gagra,Dila Gori,KrkUCdS2,WfpuTxB8,1,2,,,,0
+1334750400,Rustavi,Zestafoni,WvdjqzuG,GU4hlIMk,0,1,,,,0
+1334750400,Dila Gori,Gagra,WfpuTxB8,KrkUCdS2,0,1,,,,0
+1338044400,Dila Gori,Zestafoni,WfpuTxB8,GU4hlIMk,4,1,,,,0

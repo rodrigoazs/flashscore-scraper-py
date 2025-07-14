@@ -1,62 +1,62 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-369499500,Niedercorn,Glentoran,1,1,,,,0
-369499500,Hibernians,Crvena zvezda,1,2,,,,0
-369500400,Widzew Lodz,Anderlecht,1,4,,,,0
-369500400,Universitatea Craiova,Olympiacos Piraeus,3,0,,,,0
-369504000,Dyn. Kyiv,Trabzonspor,1,0,,,,0
-369505800,OPS,Liverpool,0,1,,,,0
-369507600,Kjobenhavns BK,Athlone,1,1,,,,0
-369507600,Ferencvaros,Ostrava,3,2,,,,0
-369507600,CSKA Sofia,Real Sociedad,1,0,,,,0
-369509400,Start,AZ Alkmaar,1,3,,,,0
-369509400,Oster,Bayern Munich,0,1,,,,0
-369509400,Celtic,Juventus,1,0,,,,0
-369509400,Aston Villa,Valur,5,0,,,,0
-369511200,BFC Dynamo,Zurich,2,0,,,,0
-369511200,Austria Vienna,Partizani,3,1,,,,0
-369514800,Benfica,Omonia,3,0,,,,0
-370702800,Valur,Aston Villa,0,2,,,,0
-370702800,Trabzonspor,Dyn. Kyiv,1,1,,,,0
-370702800,Glentoran,Niedercorn,4,0,,,,0
-370702800,Athlone,Kjobenhavns BK,2,2,,,,0
-370706400,Crvena zvezda,Hibernians,8,1,,,,0
-370710000,Partizani,Austria Vienna,1,0,,,,0
-370713600,Ostrava,Ferencvaros,3,0,,,,0
-370719000,Liverpool,OPS,7,0,,,,0
-370722600,Olympiacos Piraeus,Universitatea Craiova,2,0,,,,0
-370724400,Zurich,BFC Dynamo,3,1,,,,0
-370724400,Real Sociedad,CSKA Sofia,0,0,,,,0
-370724400,Bayern Munich,Oster,5,0,,,,0
-370724400,Anderlecht,Widzew Lodz,2,1,,,,0
-370725300,AZ Alkmaar,Start,1,0,,,,0
-370726200,Omonia,Benfica,0,1,,,,0
-370726200,Juventus,Celtic,2,0,,,,0
-372531600,Ostrava,Crvena zvezda,3,1,,,,0
-372531600,Austria Vienna,Dyn. Kyiv,0,1,,,,0
-372533400,CSKA Sofia,Glentoran,2,0,,,,0
-372535200,Kjobenhavns BK,Universitatea Craiova,1,0,,,,0
-372538800,BFC Dynamo,Aston Villa,1,2,,,,0
-372538800,Anderlecht,Juventus,3,1,,,,0
-372539700,AZ Alkmaar,Liverpool,2,2,,,,0
-372542400,Benfica,Bayern Munich,0,0,,,,0
-373741200,Universitatea Craiova,Kjobenhavns BK,4,1,,,,0
-373741200,Dyn. Kyiv,Austria Vienna,1,1,,,,0
-373741200,Crvena zvezda,Ostrava,3,0,,,,0
-373746600,Glentoran,CSKA Sofia,2,0,AET,2,1,0
-373746600,Aston Villa,BFC Dynamo,0,1,,,,0
-373748400,Bayern Munich,Benfica,4,1,,,,0
-373750200,Liverpool,AZ Alkmaar,3,2,,,,0
-373750200,Juventus,Anderlecht,1,1,,,,0
-384012000,Universitatea Craiova,Bayern Munich,0,2,,,,0
-384019200,Dyn. Kyiv,Aston Villa,0,0,,,,0
-384028200,Liverpool,CSKA Sofia,1,0,,,,0
-384030000,Anderlecht,Crvena zvezda,2,1,,,,0
-385225200,Crvena zvezda,Anderlecht,1,2,,,,0
-385230600,CSKA Sofia,Liverpool,1,0,AET,2,0,0
-385237800,Aston Villa,Dyn. Kyiv,2,0,,,,0
-385239600,Bayern Munich,Universitatea Craiova,1,1,,,,0
-387039600,CSKA Sofia,Bayern Munich,4,3,,,,0
-387052200,Aston Villa,Anderlecht,1,0,,,,0
-388260000,Bayern Munich,CSKA Sofia,4,0,,,,0
-388260000,Anderlecht,Aston Villa,0,0,,,,0
-391284900,Aston Villa,Bayern Munich,1,0,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+369499500,Niedercorn,Glentoran,2qE2OlaR,l2qiVD1D,1,1,,,,0
+369499500,Hibernians,Crvena zvezda,WrjrBuU2,4OAEfiPE,1,2,,,,0
+369500400,Widzew Lodz,Anderlecht,UTb1DTGS,YVlGNJGc,1,4,,,,0
+369500400,Universitatea Craiova,Olympiacos Piraeus,0bWyIK0K,lzmp9FUJ,3,0,,,,0
+369504000,Dyn. Kyiv,Trabzonspor,M1Cjh44S,MobtE80i,1,0,,,,0
+369505800,OPS,Liverpool,42ZyYd5s,KCp4zq5F,0,1,,,,0
+369507600,Kjobenhavns BK,Athlone,AXquovrd,4zJqyaPk,1,1,,,,0
+369507600,Ferencvaros,Ostrava,U3aHptUA,KGvKypjo,3,2,,,,0
+369507600,CSKA Sofia,Real Sociedad,fRtHs98a,vJb36ZBF,1,0,,,,0
+369509400,Start,AZ Alkmaar,rVeeU3I0,4vob7cTR,1,3,,,,0
+369509400,Oster,Bayern Munich,OhPYORgk,SvLFaVNH,0,1,,,,0
+369509400,Celtic,Juventus,xGFNNID8,EXzXDYgS,1,0,,,,0
+369509400,Aston Villa,Valur,jwz95gs0,juoTB6Rh,5,0,,,,0
+369511200,BFC Dynamo,Zurich,KlQEi9GE,zFgN5luK,2,0,,,,0
+369511200,Austria Vienna,Partizani,lUkqx2Vt,4praOw3K,3,1,,,,0
+369514800,Benfica,Omonia,GEKimEim,8GeT5Kmk,3,0,,,,0
+370702800,Valur,Aston Villa,juoTB6Rh,jwz95gs0,0,2,,,,0
+370702800,Trabzonspor,Dyn. Kyiv,MobtE80i,M1Cjh44S,1,1,,,,0
+370702800,Glentoran,Niedercorn,l2qiVD1D,2qE2OlaR,4,0,,,,0
+370702800,Athlone,Kjobenhavns BK,4zJqyaPk,AXquovrd,2,2,,,,0
+370706400,Crvena zvezda,Hibernians,4OAEfiPE,WrjrBuU2,8,1,,,,0
+370710000,Partizani,Austria Vienna,4praOw3K,lUkqx2Vt,1,0,,,,0
+370713600,Ostrava,Ferencvaros,KGvKypjo,U3aHptUA,3,0,,,,0
+370719000,Liverpool,OPS,KCp4zq5F,42ZyYd5s,7,0,,,,0
+370722600,Olympiacos Piraeus,Universitatea Craiova,lzmp9FUJ,0bWyIK0K,2,0,,,,0
+370724400,Zurich,BFC Dynamo,zFgN5luK,KlQEi9GE,3,1,,,,0
+370724400,Real Sociedad,CSKA Sofia,vJb36ZBF,fRtHs98a,0,0,,,,0
+370724400,Bayern Munich,Oster,SvLFaVNH,OhPYORgk,5,0,,,,0
+370724400,Anderlecht,Widzew Lodz,YVlGNJGc,UTb1DTGS,2,1,,,,0
+370725300,AZ Alkmaar,Start,4vob7cTR,rVeeU3I0,1,0,,,,0
+370726200,Omonia,Benfica,8GeT5Kmk,GEKimEim,0,1,,,,0
+370726200,Juventus,Celtic,EXzXDYgS,xGFNNID8,2,0,,,,0
+372531600,Ostrava,Crvena zvezda,KGvKypjo,4OAEfiPE,3,1,,,,0
+372531600,Austria Vienna,Dyn. Kyiv,lUkqx2Vt,M1Cjh44S,0,1,,,,0
+372533400,CSKA Sofia,Glentoran,fRtHs98a,l2qiVD1D,2,0,,,,0
+372535200,Kjobenhavns BK,Universitatea Craiova,AXquovrd,0bWyIK0K,1,0,,,,0
+372538800,BFC Dynamo,Aston Villa,KlQEi9GE,jwz95gs0,1,2,,,,0
+372538800,Anderlecht,Juventus,YVlGNJGc,EXzXDYgS,3,1,,,,0
+372539700,AZ Alkmaar,Liverpool,4vob7cTR,KCp4zq5F,2,2,,,,0
+372542400,Benfica,Bayern Munich,GEKimEim,SvLFaVNH,0,0,,,,0
+373741200,Universitatea Craiova,Kjobenhavns BK,0bWyIK0K,AXquovrd,4,1,,,,0
+373741200,Dyn. Kyiv,Austria Vienna,M1Cjh44S,lUkqx2Vt,1,1,,,,0
+373741200,Crvena zvezda,Ostrava,4OAEfiPE,KGvKypjo,3,0,,,,0
+373746600,Glentoran,CSKA Sofia,l2qiVD1D,fRtHs98a,2,0,AET,2,1,0
+373746600,Aston Villa,BFC Dynamo,jwz95gs0,KlQEi9GE,0,1,,,,0
+373748400,Bayern Munich,Benfica,SvLFaVNH,GEKimEim,4,1,,,,0
+373750200,Liverpool,AZ Alkmaar,KCp4zq5F,4vob7cTR,3,2,,,,0
+373750200,Juventus,Anderlecht,EXzXDYgS,YVlGNJGc,1,1,,,,0
+384012000,Universitatea Craiova,Bayern Munich,0bWyIK0K,SvLFaVNH,0,2,,,,0
+384019200,Dyn. Kyiv,Aston Villa,M1Cjh44S,jwz95gs0,0,0,,,,0
+384028200,Liverpool,CSKA Sofia,KCp4zq5F,fRtHs98a,1,0,,,,0
+384030000,Anderlecht,Crvena zvezda,YVlGNJGc,4OAEfiPE,2,1,,,,0
+385225200,Crvena zvezda,Anderlecht,4OAEfiPE,YVlGNJGc,1,2,,,,0
+385230600,CSKA Sofia,Liverpool,fRtHs98a,KCp4zq5F,1,0,AET,2,0,0
+385237800,Aston Villa,Dyn. Kyiv,jwz95gs0,M1Cjh44S,2,0,,,,0
+385239600,Bayern Munich,Universitatea Craiova,SvLFaVNH,0bWyIK0K,1,1,,,,0
+387039600,CSKA Sofia,Bayern Munich,fRtHs98a,SvLFaVNH,4,3,,,,0
+387052200,Aston Villa,Anderlecht,jwz95gs0,YVlGNJGc,1,0,,,,0
+388260000,Bayern Munich,CSKA Sofia,SvLFaVNH,fRtHs98a,4,0,,,,0
+388260000,Anderlecht,Aston Villa,YVlGNJGc,jwz95gs0,0,0,,,,0
+391284900,Aston Villa,Bayern Munich,jwz95gs0,SvLFaVNH,1,0,,,,0

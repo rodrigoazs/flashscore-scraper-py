@@ -1,24 +1,24 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1413968400,MOIK Baku,Bilajary,1,0,,,,0
-1413968400,Lokbatan,Zira,1,0,,,,0
-1417597200,Neftci Baku,Lokbatan,3,0,,,,0
-1417597200,ANSAD Neftcala,Shuvalan,1,2,,,,0
-1417604400,Sumqayit,FK Baku,0,0,Pen,0,1,0
-1417604400,Gabala,Agsu,3,0,,,,0
-1417606200,Qarabag,MOIK Baku,4,2,,,,0
-1417611600,Zaqatala,Ravan,6,0,,,,0
-1417615200,Sahdag Qusar,Shamakhi,0,3,,,,0
-1417615200,Khazar Lenkoran,Araz,-,-,WO,,,0
-1425474000,Shamakhi,Khazar Lenkoran,2,0,,,,0
-1425474000,Qarabag,FK Baku,3,0,,,,0
-1425474000,Neftci Baku,Shuvalan,0,0,,,,0
-1425481200,Gabala,Zaqatala,0,3,,,,0
-1426244400,Shuvalan,Neftci Baku,0,1,,,,0
-1426244400,FK Baku,Qarabag,1,4,,,,0
-1426251600,Zaqatala,Gabala,0,0,,,,0
-1426251600,Khazar Lenkoran,Shamakhi,0,3,,,,0
-1428930000,Qarabag,Zaqatala,1,0,,,,0
-1428933600,Neftci Baku,Shamakhi,2,0,,,,0
-1429621200,Zaqatala,Qarabag,0,0,,,,0
-1429624800,Shamakhi,Neftci Baku,2,1,,,,0
-1433347200,Qarabag,Neftci Baku,3,1,,,,1
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1413968400,MOIK Baku,Bilajary,OvMLJ256,pr6s8tgp,1,0,,,,0
+1413968400,Lokbatan,Zira,GbduZDiN,nalsMvvG,1,0,,,,0
+1417597200,Neftci Baku,Lokbatan,C4C6wm62,GbduZDiN,3,0,,,,0
+1417597200,ANSAD Neftcala,Shuvalan,rsvgpmog,OOatBJ62,1,2,,,,0
+1417604400,Sumqayit,FK Baku,bTtBKGFR,bDYl55Qg,0,0,Pen,0,1,0
+1417604400,Gabala,Agsu,Kt8HTC4e,fuWDWqMk,3,0,,,,0
+1417606200,Qarabag,MOIK Baku,W0XY6C3I,OvMLJ256,4,2,,,,0
+1417611600,Zaqatala,Ravan,GSwuEtYe,txbJkCjs,6,0,,,,0
+1417615200,Sahdag Qusar,Shamakhi,lCd4PKLe,M9hXKgAI,0,3,,,,0
+1417615200,Khazar Lenkoran,Araz,x4Xh4Pu0,lx8sGPaF,-,-,WO,,,0
+1425474000,Shamakhi,Khazar Lenkoran,M9hXKgAI,x4Xh4Pu0,2,0,,,,0
+1425474000,Qarabag,FK Baku,W0XY6C3I,bDYl55Qg,3,0,,,,0
+1425474000,Neftci Baku,Shuvalan,C4C6wm62,OOatBJ62,0,0,,,,0
+1425481200,Gabala,Zaqatala,Kt8HTC4e,GSwuEtYe,0,3,,,,0
+1426244400,Shuvalan,Neftci Baku,OOatBJ62,C4C6wm62,0,1,,,,0
+1426244400,FK Baku,Qarabag,bDYl55Qg,W0XY6C3I,1,4,,,,0
+1426251600,Zaqatala,Gabala,GSwuEtYe,Kt8HTC4e,0,0,,,,0
+1426251600,Khazar Lenkoran,Shamakhi,x4Xh4Pu0,M9hXKgAI,0,3,,,,0
+1428930000,Qarabag,Zaqatala,W0XY6C3I,GSwuEtYe,1,0,,,,0
+1428933600,Neftci Baku,Shamakhi,C4C6wm62,M9hXKgAI,2,0,,,,0
+1429621200,Zaqatala,Qarabag,GSwuEtYe,W0XY6C3I,0,0,,,,0
+1429624800,Shamakhi,Neftci Baku,M9hXKgAI,C4C6wm62,2,1,,,,0
+1433347200,Qarabag,Neftci Baku,W0XY6C3I,C4C6wm62,3,1,,,,1

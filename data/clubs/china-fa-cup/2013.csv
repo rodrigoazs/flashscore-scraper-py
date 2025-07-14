@@ -1,43 +1,43 @@
-timestamp,home_team,away_team,home_score,away_score,part,home_part,away_part,neutral
-1366785000,Shenyang Zhongze,Beijing Sport University,0,0,Pen,1,0,0
-1366786800,Tianjin Tianhai,Guizhou,2,1,,,,0
-1366786800,Hunan Billows,Beijing Technology,3,1,,,,0
-1366786800,Chengdu Tiancheng,Dali Ruilong,0,0,Pen,0,1,0
-1366788600,Guangdong,Shenyan Dongjin,2,0,,,,0
-1366788600,Chongqing FC,Qingdao Kunpeng,2,1,,,,0
-1366788600,Cangzhou,Hebei,1,0,,,,0
-1366803000,Shenzhen,Qinghai Senke,3,0,,,,0
-1366803000,Henan Songshan Longmen,Shaanxi Youth,1,0,,,,0
-1366803000,Chongqing Liangjiang Athletic,Xinjiang Youth,4,1,,,,0
-1366875000,Wuhan Hongxing,Yanbian Longding,3,0,,,,0
-1367910000,Shaoxing Keqiao Yuejia,Xinjiang Tianshan,3,0,,,,0
-1369134000,Dalian Pro,Tianjin Tianhai,2,0,,,,0
-1369135800,Guangzhou City,Chongqing FC,4,1,,,,0
-1369136700,Shanghai Port,Chongqing Liangjiang Athletic,2,2,Pen,3,2,0
-1369206000,Liaoning,Shenyang Zhongze,1,1,Pen,2,1,0
-1369207800,Shanghai Shenxin,Hunan Billows,2,0,,,,0
-1369207800,Qingdao Hainiu,Shaoxing Keqiao Yuejia,5,2,,,,0
-1369207800,Changchun Yatai,Henan Songshan Longmen,1,0,,,,0
-1369222200,Wuhan FC,Guangdong,0,0,Pen,0,1,0
-1369222200,Tianjin Jinmen Tiger,Shenzhen,2,1,,,,0
-1369222500,Zhejiang Professional,Wuhan Hongxing,1,0,,,,0
-1369222500,Shandong Taishan,Cangzhou,3,1,,,,0
-1369223100,Shanghai Shenhua,Dali Ruilong,2,3,,,,0
-1373441400,Tianjin Jinmen Tiger,Liaoning,0,5,,,,0
-1373441400,Qingdao Hainiu,Shanghai Port,0,0,Pen,1,0,0
-1373454000,Dalian Pro,Shandong Taishan,1,0,,,,0
-1373455800,Beijing Renhe,Changchun Yatai,1,0,,,,0
-1373455800,Beijing Guoan,Guangdong,5,1,,,,0
-1373456100,Zhejiang Professional,Shanghai Shenxin,2,0,,,,0
-1373456400,Jiangsu Suning,Guangzhou City,4,1,,,,0
-1373457600,Guangzhou FC,Dali Ruilong,7,1,,,,0
-1375873200,Beijing Renhe,Liaoning,4,0,,,,0
-1375875600,Jiangsu Suning,Dalian Pro,1,2,,,,0
-1375875900,Beijing Guoan,Qingdao Hainiu,5,2,,,,0
-1375876800,Guangzhou FC,Zhejiang Professional,2,2,Pen,3,2,0
-1382526000,Dalian Pro,Beijing Renhe,1,2,,,,0
-1383724800,Beijing Renhe,Dalian Pro,2,1,,,,0
-1385204400,Beijing Guoan,Guangzhou FC,0,1,,,,0
-1385553600,Guangzhou FC,Beijing Guoan,6,3,,,,0
-1385884800,Beijing Renhe,Guangzhou FC,2,0,,,,0
-1386403200,Guangzhou FC,Beijing Renhe,2,1,,,,0
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1366785000,Shenyang Zhongze,Beijing Sport University,llGdPdE6,4GUSfyLN,0,0,Pen,1,0,0
+1366786800,Tianjin Tianhai,Guizhou,vTDpGngO,OhFbPUqL,2,1,,,,0
+1366786800,Hunan Billows,Beijing Technology,GAl6qbUk,IwoOwT3M,3,1,,,,0
+1366786800,Chengdu Tiancheng,Dali Ruilong,fgNUPaDK,W28mlHsp,0,0,Pen,0,1,0
+1366788600,Guangdong,Shenyan Dongjin,vmnKv9lG,MXCHmeIM,2,0,,,,0
+1366788600,Chongqing FC,Qingdao Kunpeng,vmnKv9lG,EHnQZYp6,2,1,,,,0
+1366788600,Cangzhou,Hebei,MTEwiRTq,lMgch5pg,1,0,,,,0
+1366803000,Shenzhen,Qinghai Senke,A1TBw3zO,,3,0,,,,0
+1366803000,Henan Songshan Longmen,Shaanxi Youth,fgNUPaDK,,1,0,,,,0
+1366803000,Chongqing Liangjiang Athletic,Xinjiang Youth,IwoOwT3M,,4,1,,,,0
+1366875000,Wuhan Hongxing,Yanbian Longding,,MDOGhig8,3,0,,,,0
+1367910000,Shaoxing Keqiao Yuejia,Xinjiang Tianshan,QZnlcN79,Str9E0eP,3,0,,,,0
+1369134000,Dalian Pro,Tianjin Tianhai,f151I1Xc,vTDpGngO,2,0,,,,0
+1369135800,Guangzhou City,Chongqing FC,niM2dYV4,vmnKv9lG,4,1,,,,0
+1369136700,Shanghai Port,Chongqing Liangjiang Athletic,4Iubiv1h,IwoOwT3M,2,2,Pen,3,2,0
+1369206000,Liaoning,Shenyang Zhongze,fgNUPaDK,llGdPdE6,1,1,Pen,2,1,0
+1369207800,Shanghai Shenxin,Hunan Billows,fgNUPaDK,GAl6qbUk,2,0,,,,0
+1369207800,Qingdao Hainiu,Shaoxing Keqiao Yuejia,h4caPP9m,QZnlcN79,5,2,,,,0
+1369207800,Changchun Yatai,Henan Songshan Longmen,G2OQQubE,fgNUPaDK,1,0,,,,0
+1369222200,Wuhan FC,Guangdong,pbC5VOeU,vmnKv9lG,0,0,Pen,0,1,0
+1369222200,Tianjin Jinmen Tiger,Shenzhen,A5sD8c6B,A1TBw3zO,2,1,,,,0
+1369222500,Zhejiang Professional,Wuhan Hongxing,j1jME9Xt,,1,0,,,,0
+1369222500,Shandong Taishan,Cangzhou,Of01Mw8S,MTEwiRTq,3,1,,,,0
+1369223100,Shanghai Shenhua,Dali Ruilong,xEhCoufj,W28mlHsp,2,3,,,,0
+1373441400,Tianjin Jinmen Tiger,Liaoning,A5sD8c6B,fgNUPaDK,0,5,,,,0
+1373441400,Qingdao Hainiu,Shanghai Port,h4caPP9m,4Iubiv1h,0,0,Pen,1,0,0
+1373454000,Dalian Pro,Shandong Taishan,f151I1Xc,Of01Mw8S,1,0,,,,0
+1373455800,Beijing Renhe,Changchun Yatai,x60uiMCN,G2OQQubE,1,0,,,,0
+1373455800,Beijing Guoan,Guangdong,fgNUPaDK,vmnKv9lG,5,1,,,,0
+1373456100,Zhejiang Professional,Shanghai Shenxin,j1jME9Xt,fgNUPaDK,2,0,,,,0
+1373456400,Jiangsu Suning,Guangzhou City,tnFE8H64,niM2dYV4,4,1,,,,0
+1373457600,Guangzhou FC,Dali Ruilong,fgNUPaDK,W28mlHsp,7,1,,,,0
+1375873200,Beijing Renhe,Liaoning,x60uiMCN,fgNUPaDK,4,0,,,,0
+1375875600,Jiangsu Suning,Dalian Pro,tnFE8H64,f151I1Xc,1,2,,,,0
+1375875900,Beijing Guoan,Qingdao Hainiu,fgNUPaDK,h4caPP9m,5,2,,,,0
+1375876800,Guangzhou FC,Zhejiang Professional,fgNUPaDK,j1jME9Xt,2,2,Pen,3,2,0
+1382526000,Dalian Pro,Beijing Renhe,f151I1Xc,x60uiMCN,1,2,,,,0
+1383724800,Beijing Renhe,Dalian Pro,x60uiMCN,f151I1Xc,2,1,,,,0
+1385204400,Beijing Guoan,Guangzhou FC,fgNUPaDK,fgNUPaDK,0,1,,,,0
+1385553600,Guangzhou FC,Beijing Guoan,fgNUPaDK,fgNUPaDK,6,3,,,,0
+1385884800,Beijing Renhe,Guangzhou FC,x60uiMCN,fgNUPaDK,2,0,,,,0
+1386403200,Guangzhou FC,Beijing Renhe,fgNUPaDK,x60uiMCN,2,1,,,,0
