@@ -1,0 +1,366 @@
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+640303200,Guyana,Trinidad & Tobago,YB0DoGZt,0tVbG58r,0,4,,,,0
+641426400,Cuba,Guatemala,fomCGwjD,MPdGWDGc,0,1,,,,0
+642117600,Trinidad & Tobago,Guyana,0tVbG58r,YB0DoGZt,1,0,,,,0
+642463200,Jamaica,Puerto Rico,IPF97VQ3,YFbDUeTh,1,0,,,,0
+642722400,Guatemala,Cuba,MPdGWDGc,fomCGwjD,1,1,,,,0
+643240800,Northern Ireland,Malta,fazrR153,zXtZbqMA,3,0,,,,0
+643932000,Puerto Rico,Jamaica,YFbDUeTh,IPF97VQ3,1,2,,,,0
+644364000,Libya,Burkina Faso,YFbDUeTh,tv3f3Ec6,3,0,,,,0
+645746400,Antigua and Barbuda,Netherlands Antilles,0tVbG58r,2Br3Y4Cm,0,1,,,,0
+646956000,Burkina Faso,Libya,tv3f3Ec6,YFbDUeTh,2,0,,,,0
+648079200,Uganda,Malawi,jcdLSZc5,8vfTQDSH,1,0,,,,0
+648165600,Costa Rica,Panama,KfXjzrxU,6yXdouA1,1,1,,,,0
+648770400,Jamaica,USA,IPF97VQ3,MPdHoKT3,0,0,,,,0
+649202400,Netherlands Antilles,Antigua and Barbuda,2Br3Y4Cm,0tVbG58r,0,1,AET,3,1,0
+649288800,Malawi,Uganda,8vfTQDSH,jcdLSZc5,3,1,,,,0
+649375200,Panama,Costa Rica,6yXdouA1,KfXjzrxU,0,2,,,,0
+649807200,Tunisia,Guinea,SGdPrEJa,8vfTQDSH,5,0,,,,0
+649980000,Ghana,Liberia,8vfTQDSH,xlL4vXdH,0,0,,,,0
+649980000,Angola,Sudan,UPCpX5dK,8vfTQDSH,0,0,,,,0
+650498400,USA,Jamaica,MPdHoKT3,IPF97VQ3,5,1,,,,0
+651189600,Liberia,Ghana,xlL4vXdH,8vfTQDSH,2,0,,,,0
+651189600,Guinea,Tunisia,8vfTQDSH,SGdPrEJa,3,0,,,,0
+652053600,Iceland,SSSR,vokh4vbj,GzOibfo6,1,1,,,,0
+652053600,Finland,Germany,08oJ2RMo,fB4vYUZp,0,4,,,,0
+653263200,Norway,Scotland,8doAmYTm,lfZlm1uk,1,2,,,,0
+653263200,Northern Ireland,Ireland,fazrR153,fazrR153,0,0,,,,0
+653263200,Netherlands,Wales,fazrR153,YkZoQLK9,1,0,,,,0
+653868000,Luxembourg,Switzerland,jovscNjN,88LAtdNt,1,4,,,,0
+654472800,France,Norway,U3HPIwDq,8doAmYTm,1,0,,,,0
+654735600,Netherlands Antilles,El Salvador,2Br3Y4Cm,raJr9r28,0,1,,,,0
+655426800,Guatemala,Canada,MPdGWDGc,EqLGVN18,1,0,,,,0
+655686000,Turkey,Iceland,Cfuwb3yH,vokh4vbj,1,1,,,,0
+655945200,Canada,Guatemala,EqLGVN18,MPdGWDGc,3,2,,,,0
+656031600,El Salvador,Netherlands Antilles,raJr9r28,2Br3Y4Cm,5,0,,,,0
+656204400,Luxembourg,Czechoslovakia,jovscNjN,xGizwPkt,0,2,,,,0
+656290800,Wales,Finland,YkZoQLK9,08oJ2RMo,2,2,,,,0
+656290800,SSSR,Austria,GzOibfo6,6cnthjRG,2,0,,,,0
+656290800,Scotland,Yugoslavia,lfZlm1uk,bgQq0GGg,1,1,,,,0
+656290800,Poland,Albania,vZG58BBc,vZG58BBc,1,0,,,,0
+656290800,Hungary,Northern Ireland,Uywods6T,fazrR153,1,0,,,,0
+656290800,Greece,Denmark,IPNevN3m,2kmuAQ93,1,1,,,,0
+656290800,Germany,Netherlands,fB4vYUZp,fazrR153,0,0,,,,0
+656290800,German Democratic Republic,Iceland,dAHoPNkM,vokh4vbj,2,0,,,,0
+656290800,England,Sweden,Iyld3bDd,Uywods6T,0,0,,,,0
+656290800,Bulgaria,Romania,Iyld3bDd,tKviOc0q,1,3,,,,0
+656290800,Belgium,Switzerland,dtrVaP64,88LAtdNt,1,0,,,,0
+656550000,Cyprus,France,vZG58BBc,U3HPIwDq,1,1,,,,0
+657241200,Trinidad & Tobago,Honduras,0tVbG58r,U9vpe29F,0,0,,,,0
+657500400,Romania,Greece,tKviOc0q,IPNevN3m,3,0,,,,0
+657500400,Denmark,Bulgaria,2kmuAQ93,Iyld3bDd,1,1,,,,0
+657500400,Cyprus,Norway,vZG58BBc,8doAmYTm,0,3,,,,0
+657500400,Austria,Turkey,6cnthjRG,Cfuwb3yH,3,2,,,,0
+657759600,Albania,Sweden,vZG58BBc,Uywods6T,1,2,,,,0
+658278000,Sudan,Angola,8vfTQDSH,UPCpX5dK,1,2,,,,0
+658450800,Honduras,Trinidad & Tobago,U9vpe29F,0tVbG58r,1,1,,,,0
+658710000,Spain,Ireland,0E8Iihe1,fazrR153,2,0,,,,0
+658710000,Portugal,Luxembourg,vZG58BBc,jovscNjN,1,0,,,,0
+658710000,Czechoslovakia,Belgium,xGizwPkt,dtrVaP64,0,0,,,,0
+658969200,Yugoslavia,France,bgQq0GGg,U3HPIwDq,3,2,,,,0
+659574000,Fiji,Australia,nRdGpyH6,YNb3oHYR,1,0,,,,0
+659919600,Turkey,German Democratic Republic,Cfuwb3yH,dAHoPNkM,3,1,,,,0
+660178800,Australia,Fiji,YNb3oHYR,nRdGpyH6,5,1,,,,0
+660870000,Yugoslavia,Cyprus,bgQq0GGg,vZG58BBc,4,0,,,,0
+660870000,Malta,Hungary,zXtZbqMA,Uywods6T,2,2,,,,0
+660870000,Chinese Taipei,New Zealand,251yRjVj,zmDbXBOa,0,4,,,,0
+661215600,New Zealand,Chinese Taipei,zmDbXBOa,251yRjVj,4,1,,,,0
+661734000,Spain,Northern Ireland,0E8Iihe1,fazrR153,4,0,,,,0
+631580400,Qatar,Jordan,UPMdbcD9,4EsvakLH,1,0,,,,0
+631580400,Pakistan,Kuwait,vafZSxgs,2ybyvrpo,0,1,,,,0
+631580400,Oman,Iraq,baDaGjjh,4EsvakLH,1,1,,,,0
+631580400,Egypt,Liberia,j9fRtEHh,xlL4vXdH,2,0,,,,0
+631580400,Algeria,Zimbabwe,YFbDUeTh,xlL4vXdH,3,0,,,,0
+631666800,Nigeria,Gabon,CEPH9Bbd,dfyLfadl,1,0,,,,0
+631666800,Kenya,Malawi,8vfTQDSH,8vfTQDSH,1,1,,,,0
+631753200,Morocco,Zambia,hOurGDLS,xlL4vXdH,1,0,,,,0
+631753200,D.R. Congo,Tunisia,YFbDUeTh,SGdPrEJa,3,1,,,,0
+631753200,Cameroon,Angola,GvSfArk7,UPCpX5dK,1,1,,,,0
+632185200,Oman,Qatar,baDaGjjh,UPMdbcD9,0,0,,,,0
+632185200,Kuwait,United Arab Emirates,2ybyvrpo,CrPl0Jrc,3,2,,,,0
+632185200,Jordan,Iraq,4EsvakLH,4EsvakLH,0,1,,,,0
+632790000,United Arab Emirates,Pakistan,CrPl0Jrc,vafZSxgs,5,0,,,,0
+632790000,Qatar,Iraq,UPMdbcD9,4EsvakLH,1,0,,,,0
+632790000,Jordan,Oman,4EsvakLH,baDaGjjh,2,0,,,,0
+632876400,Malawi,Egypt,8vfTQDSH,j9fRtEHh,1,1,,,,0
+632962800,Malta,Spain,zXtZbqMA,0E8Iihe1,0,2,,,,0
+632962800,Zimbabwe,Ivory Coast,xlL4vXdH,zTSy144G,0,0,,,,0
+632962800,Zambia,D.R. Congo,xlL4vXdH,YFbDUeTh,4,2,,,,0
+632962800,Tunisia,Morocco,SGdPrEJa,hOurGDLS,2,1,,,,0
+632962800,Liberia,Kenya,xlL4vXdH,8vfTQDSH,0,0,,,,0
+632962800,Gabon,Cameroon,dfyLfadl,GvSfArk7,1,3,,,,0
+632962800,Angola,Nigeria,UPCpX5dK,CEPH9Bbd,2,2,,,,0
+633394800,Kuwait,Pakistan,2ybyvrpo,vafZSxgs,2,0,,,,0
+633394800,Jordan,Qatar,4EsvakLH,UPMdbcD9,1,1,,,,0
+633394800,Iraq,Oman,4EsvakLH,baDaGjjh,3,1,,,,0
+633999600,United Arab Emirates,Kuwait,CrPl0Jrc,2ybyvrpo,1,0,,,,0
+633999600,Qatar,Oman,UPMdbcD9,baDaGjjh,3,0,,,,0
+633999600,Iraq,Jordan,4EsvakLH,4EsvakLH,4,0,,,,0
+634431600,Northern Ireland,Spain,fazrR153,0E8Iihe1,0,2,,,,0
+634431600,Cyprus,Scotland,vZG58BBc,lfZlm1uk,2,3,,,,0
+634604400,Pakistan,United Arab Emirates,vafZSxgs,CrPl0Jrc,1,4,,,,0
+634604400,Oman,Jordan,baDaGjjh,4EsvakLH,0,2,,,,0
+634604400,Iraq,Qatar,4EsvakLH,UPMdbcD9,2,2,,,,0
+635036400,Portugal,Belgium,vZG58BBc,dtrVaP64,1,1,,,,0
+635382000,Thailand,Bangladesh,UknO2XLh,Au8oKy8P,1,0,,,,0
+635727600,Thailand,Iran,UknO2XLh,h2ICxBRT,0,3,,,,0
+635727600,China,Bangladesh,QNrz0V5B,Au8oKy8P,2,0,,,,0
+636073200,Bangladesh,Iran,Au8oKy8P,h2ICxBRT,1,2,,,,0
+636159600,Thailand,China,UknO2XLh,QNrz0V5B,0,3,,,,0
+636505200,Bangladesh,China,Au8oKy8P,QNrz0V5B,0,2,,,,0
+636591600,Israel,New Zealand,2ybyvrpo,zmDbXBOa,1,0,,,,0
+636850800,Scotland,France,lfZlm1uk,U3HPIwDq,2,0,,,,0
+636850800,Hungary,Ireland,Uywods6T,fazrR153,0,0,,,,0
+636850800,Albania,England,vZG58BBc,Iyld3bDd,0,2,,,,0
+636850800,Bangladesh,Thailand,Au8oKy8P,UknO2XLh,3,1,,,,0
+637023600,Yemen,Syria,48fOrFoJ,pMAPH8AH,0,1,,,,0
+637196400,Australia,New Zealand,YNb3oHYR,zmDbXBOa,4,1,,,,0
+637455600,Saudi Arabia,Syria,KtpTLRpL,pMAPH8AH,5,4,,,,0
+637628400,Iran,Bangladesh,h2ICxBRT,Au8oKy8P,1,0,,,,0
+637801200,Guatemala,Costa Rica,MPdGWDGc,KfXjzrxU,1,0,,,,0
+637801200,Israel,Australia,2ybyvrpo,YNb3oHYR,1,1,,,,0
+637887600,Yemen,Saudi Arabia,48fOrFoJ,KtpTLRpL,0,1,,,,0
+638146800,Spain,Malta,0E8Iihe1,zXtZbqMA,4,0,,,,0
+638319600,Syria,Yemen,pMAPH8AH,48fOrFoJ,2,0,,,,0
+638748000,Syria,Saudi Arabia,pMAPH8AH,KtpTLRpL,0,0,,,,0
+639007200,Costa Rica,Guatemala,KfXjzrxU,MPdGWDGc,2,1,,,,0
+639007200,New Zealand,Australia,zmDbXBOa,YNb3oHYR,2,0,,,,0
+639266400,Saudi Arabia,Yemen,KtpTLRpL,48fOrFoJ,1,0,,,,0
+639612000,New Zealand,Israel,zmDbXBOa,2ybyvrpo,2,2,,,,0
+639871200,Hungary,Malta,Uywods6T,zXtZbqMA,1,1,,,,0
+639871200,German Democratic Republic,Turkey,dAHoPNkM,Cfuwb3yH,0,2,,,,0
+640216800,Costa Rica,USA,KfXjzrxU,MPdHoKT3,1,0,,,,0
+640216800,Australia,Israel,YNb3oHYR,2ybyvrpo,1,1,,,,0
+641080800,SSSR,German Democratic Republic,GzOibfo6,dAHoPNkM,3,0,,,,0
+641080800,Scotland,Cyprus,lfZlm1uk,vZG58BBc,2,1,,,,0
+641080800,Portugal,Switzerland,vZG58BBc,88LAtdNt,3,1,,,,0
+641080800,Netherlands,Germany,fazrR153,fB4vYUZp,1,1,,,,0
+641080800,Malta,Northern Ireland,zXtZbqMA,fazrR153,0,2,,,,0
+641080800,Ireland,Spain,fazrR153,0E8Iihe1,1,0,,,,0
+641080800,Greece,Romania,IPNevN3m,tKviOc0q,0,0,,,,0
+641080800,England,Albania,Iyld3bDd,vZG58BBc,5,0,,,,0
+641080800,Bulgaria,Denmark,Iyld3bDd,2kmuAQ93,0,2,,,,0
+641340000,France,Yugoslavia,U3HPIwDq,bgQq0GGg,0,0,,,,0
+641340000,Belgium,Czechoslovakia,dtrVaP64,xGizwPkt,2,1,,,,0
+641426400,USA,Costa Rica,MPdHoKT3,KfXjzrxU,1,0,,,,0
+642031200,Sweden,Poland,Uywods6T,vZG58BBc,2,1,,,,0
+642204000,Czechoslovakia,Luxembourg,xGizwPkt,jovscNjN,4,0,,,,0
+642290400,Turkey,SSSR,Cfuwb3yH,GzOibfo6,0,1,,,,0
+642549600,USA,Trinidad & Tobago,MPdHoKT3,0tVbG58r,1,1,,,,0
+642895200,Romania,Bulgaria,tKviOc0q,Iyld3bDd,1,0,,,,0
+642895200,Denmark,Greece,2kmuAQ93,IPNevN3m,7,1,,,,0
+643154400,German Democratic Republic,Austria,dAHoPNkM,6cnthjRG,1,1,,,,0
+643240800,Norway,Cyprus,8doAmYTm,vZG58BBc,3,1,,,,0
+643240800,Indonesia,North Korea,QBz8eAFI,8toS1iya,0,0,,,,0
+643327200,Hong Kong,Japan,48fOrFoJ,8toS1iya,0,0,,,,0
+643413600,South Korea,Singapore,63aNArwB,QNrz0V5B,3,0,,,,0
+643413600,Nepal,Malaysia,OEMVS5jc,QHeKqeWC,0,2,,,,0
+643586400,South Korea,Nepal,63aNArwB,OEMVS5jc,9,0,,,,0
+643586400,Malaysia,Singapore,QHeKqeWC,QNrz0V5B,1,0,,,,0
+643759200,South Korea,Malaysia,63aNArwB,QHeKqeWC,3,0,,,,0
+643759200,Nepal,Singapore,OEMVS5jc,QNrz0V5B,0,3,,,,0
+643759200,Hong Kong,North Korea,48fOrFoJ,8toS1iya,1,2,,,,0
+643845600,Trinidad & Tobago,Costa Rica,0tVbG58r,KfXjzrxU,1,1,,,,0
+643845600,Ireland,Malta,fazrR153,zXtZbqMA,2,0,,,,0
+643845600,Indonesia,Japan,QBz8eAFI,8toS1iya,0,0,,,,0
+644018400,Iran,Thailand,h2ICxBRT,UknO2XLh,3,0,,,,0
+644104800,Wales,Germany,YkZoQLK9,fB4vYUZp,0,0,,,,0
+644104800,SSSR,Iceland,GzOibfo6,vokh4vbj,1,1,,,,0
+644104800,Finland,Netherlands,08oJ2RMo,fazrR153,0,1,,,,0
+644191200,Luxembourg,Belgium,jovscNjN,dtrVaP64,0,5,,,,0
+644364000,England,Poland,Iyld3bDd,vZG58BBc,3,0,,,,0
+644364000,Singapore,Malaysia,QNrz0V5B,QHeKqeWC,2,2,,,,0
+644364000,Nepal,South Korea,OEMVS5jc,63aNArwB,0,4,,,,0
+644450400,Ireland,Hungary,fazrR153,Uywods6T,2,0,,,,0
+644450400,Japan,North Korea,8toS1iya,8toS1iya,2,1,,,,0
+644450400,Hong Kong,Indonesia,48fOrFoJ,QBz8eAFI,1,1,,,,0
+644536800,Singapore,Nepal,QNrz0V5B,OEMVS5jc,7,0,,,,0
+644536800,Malaysia,South Korea,QHeKqeWC,63aNArwB,0,3,,,,0
+644709600,Switzerland,Czechoslovakia,88LAtdNt,xGizwPkt,0,1,,,,0
+644709600,Singapore,South Korea,QNrz0V5B,63aNArwB,0,3,,,,0
+644709600,Malaysia,Nepal,QHeKqeWC,OEMVS5jc,3,0,,,,0
+644968800,Nigeria,Cameroon,CEPH9Bbd,GvSfArk7,2,0,,,,0
+644968800,Kenya,Egypt,8vfTQDSH,j9fRtEHh,0,0,,,,0
+645055200,Costa Rica,Trinidad & Tobago,KfXjzrxU,0tVbG58r,1,0,,,,0
+645055200,Japan,Indonesia,8toS1iya,QBz8eAFI,5,0,,,,0
+645055200,Zambia,Tunisia,xlL4vXdH,SGdPrEJa,1,0,,,,0
+645055200,Liberia,Malawi,xlL4vXdH,8vfTQDSH,1,0,,,,0
+645055200,Ivory Coast,Algeria,zTSy144G,YFbDUeTh,0,0,,,,0
+645055200,D.R. Congo,Morocco,YFbDUeTh,hOurGDLS,0,0,,,,0
+645055200,Angola,Gabon,UPCpX5dK,dfyLfadl,2,0,,,,0
+645314400,Norway,Yugoslavia,8doAmYTm,bgQq0GGg,1,2,,,,0
+645314400,Iceland,Austria,vokh4vbj,6cnthjRG,0,0,,,,0
+645573600,USA,Guatemala,MPdHoKT3,MPdGWDGc,2,1,,,,0
+645660000,Japan,Hong Kong,8toS1iya,48fOrFoJ,0,0,,,,0
+646178400,Malawi,Kenya,8vfTQDSH,8vfTQDSH,1,0,,,,0
+646264800,El Salvador,Costa Rica,raJr9r28,KfXjzrxU,2,4,,,,0
+646264800,North Korea,Japan,8toS1iya,8toS1iya,2,0,,,,0
+646264800,Indonesia,Hong Kong,QBz8eAFI,48fOrFoJ,3,2,,,,0
+646264800,Zimbabwe,Algeria,xlL4vXdH,YFbDUeTh,1,2,,,,0
+646264800,Zambia,Morocco,xlL4vXdH,hOurGDLS,2,1,,,,0
+646264800,Tunisia,D.R. Congo,SGdPrEJa,YFbDUeTh,1,0,,,,0
+646264800,Liberia,Egypt,xlL4vXdH,j9fRtEHh,1,0,,,,0
+646264800,Gabon,Nigeria,dfyLfadl,CEPH9Bbd,2,1,,,,0
+646264800,Angola,Cameroon,UPCpX5dK,GvSfArk7,1,2,,,,0
+646869600,North Korea,Hong Kong,8toS1iya,48fOrFoJ,4,1,,,,0
+647474400,North Korea,Indonesia,8toS1iya,QBz8eAFI,2,1,,,,0
+647992800,China,Iran,QNrz0V5B,h2ICxBRT,2,0,,,,0
+648079200,Costa Rica,El Salvador,KfXjzrxU,raJr9r28,1,0,,,,0
+648597600,Iran,China,h2ICxBRT,QNrz0V5B,3,2,,,,0
+649202400,China,Thailand,QNrz0V5B,UknO2XLh,2,0,,,,0
+649288800,Venezuela,Brazil,jclZerLL,88LAtdNt,0,4,,,,0
+649288800,Trinidad & Tobago,El Salvador,0tVbG58r,raJr9r28,2,0,,,,0
+649893600,Venezuela,Chile,jclZerLL,dYPS3tqD,1,3,,,,0
+650412000,Nigeria,Angola,CEPH9Bbd,UPCpX5dK,1,0,,,,0
+650412000,Kenya,Liberia,8vfTQDSH,xlL4vXdH,1,0,,,,0
+650412000,Egypt,Malawi,j9fRtEHh,8vfTQDSH,1,0,,,,0
+650498400,Chile,Brazil,dYPS3tqD,88LAtdNt,1,1,,,,0
+650498400,El Salvador,Trinidad & Tobago,raJr9r28,0tVbG58r,0,0,,,,0
+650498400,Morocco,Tunisia,hOurGDLS,SGdPrEJa,0,0,,,,0
+650498400,Ivory Coast,Zimbabwe,zTSy144G,xlL4vXdH,5,0,,,,0
+650498400,D.R. Congo,Zambia,YFbDUeTh,xlL4vXdH,1,0,,,,0
+650498400,Cameroon,Gabon,GvSfArk7,dfyLfadl,2,1,,,,0
+651103200,Colombia,Ecuador,C6kVdO5F,IPF97VQ3,2,0,,,,0
+651103200,Brazil,Venezuela,88LAtdNt,jclZerLL,6,0,,,,0
+651103200,Bolivia,Peru,Ik5Zg8Xj,6aZroxFP,2,1,,,,0
+651103200,Guatemala,Trinidad & Tobago,MPdGWDGc,0tVbG58r,0,1,,,,0
+651362400,Austria,Iceland,6cnthjRG,vokh4vbj,2,1,,,,0
+651535200,Algeria,Ivory Coast,YFbDUeTh,zTSy144G,1,0,,,,0
+651621600,Malawi,Liberia,8vfTQDSH,xlL4vXdH,0,0,,,,0
+651621600,Egypt,Kenya,j9fRtEHh,8vfTQDSH,2,0,,,,0
+651708000,Peru,Uruguay,6aZroxFP,WdZ4jMrq,0,2,,,,0
+651708000,Paraguay,Colombia,I5qbBI7s,C6kVdO5F,2,1,,,,0
+651708000,Chile,Venezuela,dYPS3tqD,jclZerLL,5,0,,,,0
+651708000,Tunisia,Zambia,SGdPrEJa,xlL4vXdH,1,0,,,,0
+651708000,Morocco,D.R. Congo,hOurGDLS,YFbDUeTh,1,1,,,,0
+651708000,Gabon,Angola,dfyLfadl,UPCpX5dK,1,0,,,,0
+651708000,Cameroon,Nigeria,GvSfArk7,CEPH9Bbd,1,0,,,,0
+652312800,Ecuador,Colombia,IPF97VQ3,C6kVdO5F,0,0,,,,0
+652312800,Brazil,Chile,88LAtdNt,dYPS3tqD,2,0,Awrd,,,0
+652312800,Bolivia,Uruguay,Ik5Zg8Xj,WdZ4jMrq,2,1,,,,0
+652312800,Trinidad & Tobago,Guatemala,0tVbG58r,MPdGWDGc,2,1,,,,0
+652485600,Norway,France,8doAmYTm,U3HPIwDq,1,1,,,,0
+652572000,Yugoslavia,Scotland,bgQq0GGg,lfZlm1uk,3,1,,,,0
+652572000,Sweden,England,Uywods6T,Iyld3bDd,0,0,,,,0
+652572000,Northern Ireland,Hungary,fazrR153,Uywods6T,1,2,,,,0
+652572000,Iceland,German Democratic Republic,vokh4vbj,dAHoPNkM,0,3,,,,0
+652572000,Finland,Wales,08oJ2RMo,YkZoQLK9,1,0,,,,0
+652572000,Belgium,Portugal,dtrVaP64,vZG58BBc,3,0,,,,0
+652572000,Austria,SSSR,6cnthjRG,GzOibfo6,0,0,,,,0
+652917600,Peru,Bolivia,6aZroxFP,Ik5Zg8Xj,1,2,,,,0
+652917600,Paraguay,Ecuador,I5qbBI7s,IPF97VQ3,2,1,,,,0
+653522400,Uruguay,Bolivia,WdZ4jMrq,Ik5Zg8Xj,2,0,,,,0
+653522400,Colombia,Paraguay,C6kVdO5F,I5qbBI7s,2,1,,,,0
+653522400,El Salvador,USA,raJr9r28,MPdHoKT3,0,1,,,,0
+653781600,Switzerland,Portugal,88LAtdNt,vZG58BBc,1,2,,,,0
+653781600,Iceland,Turkey,vokh4vbj,Cfuwb3yH,2,1,,,,0
+654127200,Uruguay,Peru,WdZ4jMrq,6aZroxFP,2,0,,,,0
+654127200,Ecuador,Paraguay,IPF97VQ3,I5qbBI7s,3,1,,,,0
+654994800,Germany,Finland,fB4vYUZp,08oJ2RMo,6,1,,,,0
+655167600,Czechoslovakia,Portugal,xGizwPkt,vZG58BBc,2,1,,,,0
+655340400,Guatemala,USA,MPdGWDGc,MPdHoKT3,0,0,,,,0
+655340400,Sweden,Albania,Uywods6T,vZG58BBc,3,1,,,,0
+655340400,German Democratic Republic,SSSR,dAHoPNkM,GzOibfo6,2,1,,,,0
+655340400,Cameroon,Tunisia,GvSfArk7,SGdPrEJa,2,0,,,,0
+655340400,Algeria,Egypt,YFbDUeTh,j9fRtEHh,0,0,,,,0
+655599600,Yugoslavia,Norway,bgQq0GGg,8doAmYTm,1,0,,,,0
+655599600,Wales,Netherlands,YkZoQLK9,fazrR153,1,2,,,,0
+655599600,Switzerland,Belgium,88LAtdNt,dtrVaP64,2,2,,,,0
+655599600,Poland,England,vZG58BBc,Iyld3bDd,0,0,,,,0
+655599600,Luxembourg,Portugal,jovscNjN,vZG58BBc,0,3,,,,0
+655599600,Ireland,Northern Ireland,fazrR153,fazrR153,3,0,,,,0
+655599600,Hungary,Spain,Uywods6T,0E8Iihe1,2,2,,,,0
+655599600,France,Scotland,U3HPIwDq,lfZlm1uk,3,0,,,,0
+655599600,Denmark,Romania,2kmuAQ93,tKviOc0q,3,0,,,,0
+655599600,Bulgaria,Greece,Iyld3bDd,IPNevN3m,4,0,,,,0
+655686000,United Arab Emirates,North Korea,CrPl0Jrc,8toS1iya,0,0,,,,0
+655686000,China,Saudi Arabia,QNrz0V5B,KtpTLRpL,2,1,,,,0
+655772400,South Korea,Qatar,63aNArwB,UPMdbcD9,0,0,,,,0
+655945200,Colombia,Israel,C6kVdO5F,2ybyvrpo,1,0,,,,0
+656031600,South Korea,North Korea,63aNArwB,8toS1iya,1,0,,,,0
+656031600,Qatar,Saudi Arabia,UPMdbcD9,KtpTLRpL,1,1,,,,0
+656118000,China,United Arab Emirates,QNrz0V5B,CrPl0Jrc,1,2,,,,0
+656377200,North Korea,Qatar,8toS1iya,UPMdbcD9,2,0,,,,0
+656377200,China,South Korea,QNrz0V5B,63aNArwB,0,1,,,,0
+656463600,Saudi Arabia,United Arab Emirates,KtpTLRpL,CrPl0Jrc,0,0,,,,0
+656722800,United Arab Emirates,Qatar,CrPl0Jrc,UPMdbcD9,1,1,,,,0
+656722800,North Korea,China,8toS1iya,QNrz0V5B,0,1,,,,0
+656809200,Turkey,Austria,Cfuwb3yH,6cnthjRG,3,0,,,,0
+656809200,Poland,Sweden,vZG58BBc,Uywods6T,0,2,,,,0
+656809200,Czechoslovakia,Switzerland,xGizwPkt,88LAtdNt,3,0,,,,0
+656809200,Belgium,Luxembourg,dtrVaP64,jovscNjN,1,1,,,,0
+656809200,Saudi Arabia,South Korea,KtpTLRpL,63aNArwB,0,2,,,,0
+657068400,Cyprus,Yugoslavia,vZG58BBc,bgQq0GGg,1,2,,,,0
+657068400,United Arab Emirates,South Korea,CrPl0Jrc,63aNArwB,1,1,,,,0
+657068400,Saudi Arabia,North Korea,KtpTLRpL,8toS1iya,2,0,,,,0
+657068400,Qatar,China,UPMdbcD9,QNrz0V5B,2,1,,,,0
+657241200,Israel,Colombia,2ybyvrpo,C6kVdO5F,0,0,,,,0
+657759600,USA,El Salvador,MPdHoKT3,raJr9r28,0,0,,,,0
+658623600,Switzerland,Luxembourg,88LAtdNt,jovscNjN,2,1,,,,0
+658623600,SSSR,Turkey,GzOibfo6,Cfuwb3yH,2,0,,,,0
+658623600,Spain,Hungary,0E8Iihe1,Uywods6T,4,0,,,,0
+658623600,Scotland,Norway,lfZlm1uk,8doAmYTm,1,1,,,,0
+658623600,Romania,Denmark,tKviOc0q,2kmuAQ93,3,1,,,,0
+658623600,Portugal,Czechoslovakia,vZG58BBc,xGizwPkt,0,0,,,,0
+658623600,Netherlands,Finland,fazrR153,08oJ2RMo,3,0,,,,0
+658623600,Malta,Ireland,zXtZbqMA,fazrR153,0,2,,,,0
+658623600,Greece,Bulgaria,IPNevN3m,Iyld3bDd,1,0,,,,0
+658623600,Germany,Wales,fB4vYUZp,YkZoQLK9,2,1,,,,0
+658623600,Austria,German Democratic Republic,6cnthjRG,dAHoPNkM,3,0,,,,0
+658623600,Albania,Poland,vZG58BBc,vZG58BBc,1,2,,,,0
+658796400,Egypt,Algeria,j9fRtEHh,YFbDUeTh,1,0,,,,0
+658882800,France,Cyprus,U3HPIwDq,vZG58BBc,2,0,,,,0
+658969200,Trinidad & Tobago,USA,0tVbG58r,MPdHoKT3,0,1,,,,0
+658969200,Tunisia,Cameroon,SGdPrEJa,GvSfArk7,0,1,,,,0
+644860800,Argentina,Cameroon,AmY8ktbk,GvSfArk7,0,1,,,,0
+644943600,United Arab Emirates,Colombia,CrPl0Jrc,C6kVdO5F,0,2,,,,0
+644943600,SSSR,Romania,GzOibfo6,tKviOc0q,0,2,,,,0
+644958000,Italy,Austria,KfXjzrxU,6cnthjRG,1,0,,,,0
+645030000,USA,Czechoslovakia,MPdHoKT3,xGizwPkt,1,5,,,,0
+645044400,Germany,Yugoslavia,fB4vYUZp,bgQq0GGg,4,1,,,,0
+645044400,Brazil,Sweden,88LAtdNt,Uywods6T,2,1,,,,0
+645116400,Costa Rica,Scotland,KfXjzrxU,lfZlm1uk,1,0,,,,0
+645130800,England,Ireland,Iyld3bDd,fazrR153,1,1,,,,0
+645202800,Belgium,South Korea,dtrVaP64,63aNArwB,2,0,,,,0
+645217200,Netherlands,Egypt,fazrR153,j9fRtEHh,1,1,,,,0
+645289200,Uruguay,Spain,WdZ4jMrq,0E8Iihe1,0,0,,,,0
+645303600,Argentina,SSSR,AmY8ktbk,GzOibfo6,2,0,,,,0
+645375600,Yugoslavia,Colombia,bgQq0GGg,C6kVdO5F,1,0,,,,0
+645375600,Cameroon,Romania,GvSfArk7,tKviOc0q,2,1,,,,0
+645390000,Italy,USA,KfXjzrxU,MPdHoKT3,1,0,,,,0
+645462000,Austria,Czechoslovakia,6cnthjRG,xGizwPkt,0,1,,,,0
+645476400,Germany,United Arab Emirates,fB4vYUZp,CrPl0Jrc,5,1,,,,0
+645548400,Brazil,Costa Rica,88LAtdNt,KfXjzrxU,1,0,,,,0
+645562800,Sweden,Scotland,Uywods6T,lfZlm1uk,1,2,,,,0
+645562800,England,Netherlands,Iyld3bDd,fazrR153,0,0,,,,0
+645634800,Ireland,Egypt,fazrR153,j9fRtEHh,0,0,,,,0
+645649200,South Korea,Spain,63aNArwB,0E8Iihe1,1,3,,,,0
+645649200,Belgium,Uruguay,dtrVaP64,WdZ4jMrq,3,1,,,,0
+645735600,Cameroon,SSSR,GvSfArk7,GzOibfo6,0,4,,,,0
+645735600,Argentina,Romania,AmY8ktbk,tKviOc0q,1,1,,,,0
+645807600,Yugoslavia,United Arab Emirates,bgQq0GGg,CrPl0Jrc,4,1,,,,0
+645807600,Germany,Colombia,fB4vYUZp,C6kVdO5F,1,1,,,,0
+645822000,Italy,Czechoslovakia,KfXjzrxU,xGizwPkt,2,0,,,,0
+645822000,Austria,USA,6cnthjRG,MPdHoKT3,2,1,,,,0
+645908400,Sweden,Costa Rica,Uywods6T,KfXjzrxU,1,2,,,,0
+645908400,Brazil,Scotland,88LAtdNt,lfZlm1uk,1,0,,,,0
+645980400,South Korea,Uruguay,63aNArwB,WdZ4jMrq,0,1,,,,0
+645980400,Belgium,Spain,dtrVaP64,0E8Iihe1,1,2,,,,0
+645994800,Ireland,Netherlands,fazrR153,fazrR153,1,1,,,,0
+645994800,England,Egypt,Iyld3bDd,j9fRtEHh,1,0,,,,0
+646153200,Cameroon,Colombia,GvSfArk7,C6kVdO5F,0,0,AET,2,1,0
+646167600,Czechoslovakia,Costa Rica,xGizwPkt,KfXjzrxU,4,1,,,,0
+646239600,Brazil,Argentina,88LAtdNt,AmY8ktbk,0,1,,,,0
+646254000,Germany,Netherlands,fB4vYUZp,fazrR153,2,1,,,,0
+646326000,Ireland,Romania,fazrR153,tKviOc0q,0,0,Pen,1,0,0
+646340400,Italy,Uruguay,KfXjzrxU,WdZ4jMrq,2,0,,,,0
+646412400,Spain,Yugoslavia,0E8Iihe1,bgQq0GGg,1,1,AET,1,2,0
+646426800,England,Belgium,Iyld3bDd,dtrVaP64,0,0,AET,1,0,0
+646758000,Yugoslavia,Argentina,bgQq0GGg,AmY8ktbk,0,0,Pen,0,1,0
+646772400,Italy,Ireland,KfXjzrxU,fazrR153,1,0,,,,0
+646844400,Germany,Czechoslovakia,fB4vYUZp,xGizwPkt,1,0,,,,0
+646858800,England,Cameroon,Iyld3bDd,GvSfArk7,2,2,AET,3,2,0
+647028000,Italy,Argentina,KfXjzrxU,AmY8ktbk,1,1,Pen,1,2,0
+647114400,Germany,England,fB4vYUZp,Iyld3bDd,1,1,Pen,2,1,0
+647373600,Italy,England,KfXjzrxU,Iyld3bDd,2,1,,,,0
+647460000,Germany,Argentina,fB4vYUZp,AmY8ktbk,1,0,,,,0

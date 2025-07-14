@@ -659,15 +659,16 @@ if __name__ == "__main__":
                 time.sleep(5)
         for year_str, url in update_archive:
             filename = os.path.join(folder, f"{year_str}.csv")
-            if not os.path.exists(filename):
+            temp_filename = os.path.join(folder, f"{year_str}_temp.csv")
+            if not os.path.exists(filename) and not os.path.exists(temp_filename):
                 print(f"Extracting results for {url} for season {year_str}...")
                 url = f"{MAIN_URL}{url}results/"
                 extract_results(url, filename, year_str)
                 time.sleep(5)
             else:
                 print(f"Updating results for {url} for season {year_str}...")
-                temp_filename = os.path.join(folder, f"{year_str}_temp.csv")
-                os.rename(filename, temp_filename)
+                if os.path.exists(filename):
+                    os.rename(filename, temp_filename)
                 url = f"{MAIN_URL}{url}results/"
                 extract_results(url, filename, year_str)
                 temp_df = pd.read_csv(temp_filename)

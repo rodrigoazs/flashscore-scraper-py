@@ -1,7 +1,7 @@
 timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
 1739577600,Deportes Iquique,Coquimbo,2NbwlzJD,hMng3olL,0,3,,,,0
-1739653200,Palestino,Cobresal,zPORy6uL,p8NClxtb,2,1,,,,0
 1739653200,O'Higgins,Huachipato,fRWXW3MH,xIMey4eD,0,0,,,,0
+1739653200,Palestino,Cobresal,zPORy6uL,p8NClxtb,2,1,,,,0
 1739662200,U. De Chile,Nublense,fuSaShZI,dveS6wJe,5,0,,,,0
 1739718000,La Serena,Colo Colo,Mkzo6oBm,tnwDCzLD,1,3,,,,0
 1739748600,Limache,Everton,EawjMZXB,YoHxOTu3,1,1,,,,0
@@ -17,16 +17,16 @@ timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,hom
 1740438000,Colo Colo,O'Higgins,tnwDCzLD,fRWXW3MH,0,1,,,,0
 1740783600,Limache,Coquimbo,EawjMZXB,hMng3olL,1,2,,,,0
 1740841200,La Serena,U. Espanola,Mkzo6oBm,W0oo6a6a,1,0,,,,0
-1740862800,U. Catolica,Deportes Iquique,nRWWeW7h,2NbwlzJD,1,0,,,,0
 1740862800,Palestino,A. Italiano,zPORy6uL,6kEqxN0C,0,2,,,,0
+1740862800,U. Catolica,Deportes Iquique,nRWWeW7h,2NbwlzJD,1,0,,,,0
 1740871800,Everton,Nublense,YoHxOTu3,dveS6wJe,1,2,,,,0
 1740927600,Huachipato,Colo Colo,xIMey4eD,tnwDCzLD,2,1,,,,0
 1740949200,Cobresal,U. De Chile,p8NClxtb,fuSaShZI,2,1,,,,0
 1740958200,Union La Calera,O'Higgins,WYtEUtB2,fRWXW3MH,2,2,,,,0
 1741388400,Union La Calera,Huachipato,WYtEUtB2,xIMey4eD,1,0,,,,0
 1741467600,Nublense,U. Catolica,dveS6wJe,nRWWeW7h,1,1,,,,0
-1741476600,Deportes Iquique,Palestino,2NbwlzJD,zPORy6uL,1,3,,,,0
 1741476600,A. Italiano,Limache,6kEqxN0C,EawjMZXB,3,1,,,,0
+1741476600,Deportes Iquique,Palestino,2NbwlzJD,zPORy6uL,1,3,,,,0
 1741532400,Coquimbo,Cobresal,hMng3olL,p8NClxtb,1,1,,,,0
 1741554000,O'Higgins,La Serena,fRWXW3MH,Mkzo6oBm,1,1,,,,0
 1741563000,Colo Colo,Everton,tnwDCzLD,YoHxOTu3,2,0,,,,0
@@ -59,8 +59,8 @@ timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,hom
 1745166600,Everton,Union La Calera,YoHxOTu3,WYtEUtB2,1,1,,,,0
 1745175600,O'Higgins,Palestino,fRWXW3MH,zPORy6uL,1,0,,,,0
 1745193600,Nublense,Coquimbo,dveS6wJe,hMng3olL,0,0,,,,0
-1745618400,Union La Calera,A. Italiano,WYtEUtB2,6kEqxN0C,1,0,,,,0
 1745618400,Nublense,La Serena,dveS6wJe,Mkzo6oBm,2,0,,,,0
+1745618400,Union La Calera,A. Italiano,WYtEUtB2,6kEqxN0C,1,0,,,,0
 1745627400,U. Catolica,Everton,nRWWeW7h,YoHxOTu3,6,0,,,,0
 1745690400,Cobresal,Limache,p8NClxtb,EawjMZXB,3,1,,,,0
 1745697600,Colo Colo,Coquimbo,tnwDCzLD,hMng3olL,2,0,,,,0
@@ -118,3 +118,4 @@ timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,hom
 1750636800,Everton,O'Higgins,YoHxOTu3,fRWXW3MH,0,1,,,,0
 1751742000,U. Espanola,U. De Chile,W0oo6a6a,fuSaShZI,0,2,,,,0
 1751828400,U. Catolica,Colo Colo,nRWWeW7h,tnwDCzLD,2,0,,,,0
+1752346800,U. De Chile,Colo Colo,fuSaShZI,tnwDCzLD,2,1,,,,0

@@ -1,0 +1,877 @@
+timestamp,home_team,away_team,home_logo,away_logo,home_score,away_score,part,home_part,away_part,neutral
+1157569200,Argentina,Chile,AmY8ktbk,dYPS3tqD,2,2,,,,0
+1157576400,Ecuador,Venezuela,IPF97VQ3,jclZerLL,2,0,,,,0
+1157592000,Peru,Paraguay,6aZroxFP,I5qbBI7s,4,1,,,,0
+1157655600,Uruguay,Bolivia,WdZ4jMrq,Ik5Zg8Xj,5,0,,,,0
+1157663700,Colombia,Brazil,C6kVdO5F,88LAtdNt,1,2,,,,0
+1157842800,Venezuela,Argentina,jclZerLL,AmY8ktbk,0,3,,,,0
+1157854200,Chile,Peru,dYPS3tqD,6aZroxFP,2,1,,,,0
+1157922000,Bolivia,Colombia,Ik5Zg8Xj,C6kVdO5F,4,0,,,,0
+1157932800,Paraguay,Uruguay,I5qbBI7s,WdZ4jMrq,4,1,,,,0
+1157939100,Brazil,Ecuador,88LAtdNt,IPF97VQ3,1,0,,,,0
+1160496000,Guinea Bissau,Mali,8vfTQDSH,MBizNLYC,1,2,,,,0
+1160564400,Seychelles,Zambia,vXFf6tnR,xlL4vXdH,0,4,,,,0
+1160566200,Madagascar,Benin,vZOiu3ls,jcdLSZc5,1,1,,,,0
+1160571600,Tanzania,Kenya,YFbDUeTh,8vfTQDSH,0,0,,,,0
+1160571600,Botswana,Lesotho,nVhXPXsO,MkIn82HE,4,1,,,,0
+1160573400,Uganda,Mauritius,jcdLSZc5,jcdLSZc5,3,0,,,,0
+1160577000,Equatorial Guinea,Togo,MkIn82HE,lGdKQ3Zm,1,0,,,,0
+1160578800,Niger,Algeria,lz5VK0UG,YFbDUeTh,0,1,,,,0
+1160582400,Sao Tome and Principe,Libya,vXFf6tnR,YFbDUeTh,0,1,,,,0
+1160658000,Zimbabwe,Mauritania,xlL4vXdH,jDOcXSYS,3,0,,,,0
+1160658000,Ethiopia,Malawi,8vfTQDSH,8vfTQDSH,1,3,,,,0
+1160658000,Eswatini,Cape Verde,8vfTQDSH,GvK8wiCN,1,1,,,,0
+1160658900,Burundi,Gabon,jcdLSZc5,dfyLfadl,0,0,,,,0
+1160661600,Rwanda,Namibia,MBizNLYC,jcdLSZc5,3,0,,,,0
+1160663400,Congo,Sierra Leone,8vfTQDSH,8vfTQDSH,1,0,,,,0
+1160663400,Chad,Angola,lGdKQ3Zm,UPCpX5dK,3,1,,,,0
+1160670600,Guinea,Mozambique,8vfTQDSH,bZwMpPQJ,1,0,,,,0
+1160672400,Sudan,Eritrea,8vfTQDSH,MkIn82HE,3,0,,,,0
+1160672400,Gambia,Liberia,jcdLSZc5,xlL4vXdH,2,0,,,,0
+1163521800,Mauritania,Zimbabwe,jDOcXSYS,xlL4vXdH,2,1,,,,0
+1163534400,Mali,Guinea Bissau,MBizNLYC,8vfTQDSH,2,0,,,,0
+1163536200,Algeria,Niger,YFbDUeTh,lz5VK0UG,6,0,,,,0
+1163595600,Zambia,Seychelles,xlL4vXdH,vXFf6tnR,1,1,,,,0
+1163595600,Malawi,Ethiopia,8vfTQDSH,8vfTQDSH,0,0,,,,0
+1163595600,Kenya,Tanzania,8vfTQDSH,YFbDUeTh,3,0,,,,0
+1163599200,Namibia,Rwanda,jcdLSZc5,MBizNLYC,1,1,,,,0
+1163602800,Gabon,Burundi,dfyLfadl,jcdLSZc5,4,1,,,,0
+1163610000,Uruguay,Chile,WdZ4jMrq,dYPS3tqD,2,1,,,,0
+1163624400,Colombia,Venezuela,C6kVdO5F,jclZerLL,0,1,,,,0
+1163629200,Paraguay,Ecuador,I5qbBI7s,IPF97VQ3,2,1,,,,0
+1163637000,Argentina,Bolivia,AmY8ktbk,Ik5Zg8Xj,3,0,,,,0
+1163680200,Mauritius,Uganda,jcdLSZc5,jcdLSZc5,3,0,AET,3,1,0
+1163682000,Lesotho,Botswana,MkIn82HE,nVhXPXsO,0,0,,,,0
+1163682000,Eritrea,Sudan,MkIn82HE,8vfTQDSH,0,0,,,,0
+1163683800,Mozambique,Guinea,bZwMpPQJ,8vfTQDSH,3,4,,,,0
+1163689200,Somalia,Ghana,tt2M10fr,8vfTQDSH,0,5,,,,0
+1163689200,Benin,Madagascar,jcdLSZc5,vZOiu3ls,3,2,,,,0
+1163689200,Angola,Chad,UPCpX5dK,lGdKQ3Zm,2,0,,,,0
+1163691000,Togo,Equatorial Guinea,lGdKQ3Zm,MkIn82HE,2,0,,,,0
+1163692800,Liberia,Gambia,xlL4vXdH,jcdLSZc5,3,0,,,,0
+1163694600,Sierra Leone,Congo,8vfTQDSH,8vfTQDSH,1,1,,,,0
+1163696400,Cape Verde,Eswatini,GvK8wiCN,8vfTQDSH,3,0,,,,0
+1163707200,Libya,Sao Tome and Principe,YFbDUeTh,vXFf6tnR,8,0,,,,0
+1163710800,Peru,Brazil,6aZroxFP,88LAtdNt,1,1,,,,0
+1163890800,Venezuela,Bolivia,jclZerLL,Ik5Zg8Xj,2,1,,,,0
+1163898300,Chile,Paraguay,dYPS3tqD,I5qbBI7s,0,1,,,,0
+1163944800,Turkmenistan,Afghanistan,MLbn53jJ,dCIdRhFh,11,0,,,,0
+1163952000,Ghana,Somalia,8vfTQDSH,tt2M10fr,2,0,,,,0
+1163970000,Ecuador,Peru,IPF97VQ3,6aZroxFP,0,0,,,,0
+1163976600,Brazil,Uruguay,88LAtdNt,WdZ4jMrq,3,3,,,,0
+1163984400,Colombia,Argentina,C6kVdO5F,AmY8ktbk,1,1,,,,0
+1164186000,Afghanistan,Turkmenistan,dCIdRhFh,MLbn53jJ,0,2,,,,0
+1164261600,Chinese Taipei,Macau,251yRjVj,z3H0QCUb,3,0,,,,0
+1164531600,Bangladesh,Tajikistan,Au8oKy8P,r5trb9zO,0,2,,,,0
+1164776400,Mongolia,Maldives,OEMVS5jc,ldlFLEPm,0,1,,,,0
+1164783600,Macau,Chinese Taipei,z3H0QCUb,251yRjVj,1,3,,,,0
+1164794400,Pakistan,Kyrgyzstan,vafZSxgs,vZOmLBBe,0,2,,,,0
+1164794400,Laos,Sri Lanka,QHeKqeWC,OEMVS5jc,0,0,,,,0
+1164877200,Tajikistan,Bangladesh,r5trb9zO,Au8oKy8P,2,0,,,,0
+1165132800,Kyrgyzstan,Pakistan,vZOmLBBe,vafZSxgs,4,0,,,,0
+1165142100,Maldives,Mongolia,ldlFLEPm,OEMVS5jc,12,0,,,,0
+1165149000,Sri Lanka,Laos,OEMVS5jc,QHeKqeWC,3,0,,,,0
+1140256800,Vietnam,Maldives,QHeKqeWC,ldlFLEPm,4,0,,,,0
+1140256800,South Korea,Lebanon,63aNArwB,QNrz0V5B,2,0,,,,0
+1140256800,Kyrgyzstan,Tajikistan,vZOmLBBe,r5trb9zO,1,2,,,,0
+1140258000,Japan,Oman,8toS1iya,baDaGjjh,1,0,,,,0
+1140258600,India,Singapore,YB0DoGZt,QNrz0V5B,1,0,,,,0
+1140262200,China,Kuwait,QNrz0V5B,2ybyvrpo,1,0,,,,0
+1140264000,Uzbekistan,Iraq,MeuncTkU,4EsvakLH,1,1,,,,0
+1140266700,Malaysia,Hong Kong,QHeKqeWC,48fOrFoJ,1,3,,,,0
+1140267600,Yemen,North Korea,48fOrFoJ,8toS1iya,1,1,,,,0
+1140271200,Turkmenistan,Sri Lanka,MLbn53jJ,OEMVS5jc,2,0,,,,0
+1140271200,Jordan,Laos,4EsvakLH,QHeKqeWC,5,0,,,,0
+1140275700,United Arab Emirates,Thailand,CrPl0Jrc,UknO2XLh,1,0,,,,0
+1140276600,Palestine,Chinese Taipei,zmDbXBOa,251yRjVj,8,0,,,,0
+1140276600,Iran,Qatar,h2ICxBRT,UPMdbcD9,3,1,,,,0
+1140276600,Bahrain,Syria,2ybyvrpo,pMAPH8AH,2,1,,,,0
+1140282900,Saudi Arabia,Indonesia,KtpTLRpL,QBz8eAFI,3,0,,,,0
+1140292800,Antigua and Barbuda,Netherlands Antilles,0tVbG58r,2Br3Y4Cm,2,0,,,,0
+1140303600,United States Virgin Islands,Saint Kitts and Nevis,fPa9VyEn,YFbDUeTh,0,4,,,,0
+1140312600,Haiti,Turks and Caicos Islands,GY05WHbt,K8pq8VEU,5,0,,,,0
+1140570000,Turks and Caicos Islands,Haiti,K8pq8VEU,GY05WHbt,0,2,,,,0
+1140638400,British Virgin Islands,Saint Lucia,tIou9BaO,YFbDUeTh,0,1,,,,0
+1140652800,Cayman Islands,Cuba,0tVbG58r,fomCGwjD,1,2,,,,0
+1141081200,Grenada,Guyana,bXrXKo0R,YB0DoGZt,5,0,,,,0
+1141081200,Aruba,Suriname,2RnyAipI,0tVbG58r,1,2,,,,0
+1141153200,Bermuda,Montserrat,0tVbG58r,tIou9BaO,13,0,,,,0
+1142362800,Guyana,Grenada,YB0DoGZt,bXrXKo0R,1,3,,,,0
+1142796600,Dominican Republic,Anguilla,raJr9r28,2RnyAipI,0,0,,,,0
+1142967600,Montserrat,Bermuda,tIou9BaO,0tVbG58r,0,7,,,,0
+1142969400,Anguilla,Dominican Republic,2RnyAipI,raJr9r28,0,6,,,,0
+1143414000,Dominica,Bahamas,dERAD3h1,za3FNdZi,1,1,,,,0
+1143482400,Cuba,Cayman Islands,fomCGwjD,0tVbG58r,3,0,,,,0
+1143486000,Suriname,Aruba,0tVbG58r,2RnyAipI,8,1,,,,0
+1143572400,Bahamas,Dominica,za3FNdZi,dERAD3h1,1,3,,,,0
+1143576000,Saint Lucia,British Virgin Islands,YFbDUeTh,tIou9BaO,9,0,,,,0
+1143748800,Bolivia,Chile,Ik5Zg8Xj,dYPS3tqD,0,2,,,,0
+1143761400,Argentina,Ecuador,AmY8ktbk,IPF97VQ3,1,0,,,,0
+1143788400,North Korea,United Arab Emirates,8toS1iya,CrPl0Jrc,0,0,,,,0
+1143788400,Chinese Taipei,Uzbekistan,251yRjVj,MeuncTkU,0,1,,,,0
+1143799200,Vietnam,Lebanon,QHeKqeWC,QNrz0V5B,0,2,,,,0
+1143799200,Tajikistan,Bahrain,r5trb9zO,2ybyvrpo,0,0,,,,0
+1143799200,Laos,Iran,QHeKqeWC,h2ICxBRT,0,7,,,,0
+1143799200,Kyrgyzstan,Syria,vZOmLBBe,pMAPH8AH,1,1,,,,0
+1143802800,Maldives,South Korea,ldlFLEPm,63aNArwB,0,0,,,,0
+1143806400,Singapore,Japan,QNrz0V5B,8toS1iya,1,2,,,,0
+1143806400,Hong Kong,China,48fOrFoJ,QNrz0V5B,0,1,,,,0
+1143807300,India,Oman,YB0DoGZt,baDaGjjh,1,5,,,,0
+1143808200,Sri Lanka,Saudi Arabia,OEMVS5jc,KtpTLRpL,0,1,,,,0
+1143809100,Malaysia,Kuwait,QHeKqeWC,2ybyvrpo,0,2,,,,0
+1143810000,Yemen,Thailand,48fOrFoJ,UknO2XLh,0,3,,,,0
+1143813600,Turkmenistan,Indonesia,MLbn53jJ,QBz8eAFI,3,1,,,,0
+1143813900,Palestine,Iraq,zmDbXBOa,4EsvakLH,1,1,,,,0
+1143819000,Jordan,Qatar,4EsvakLH,UPMdbcD9,1,0,,,,0
+1143837600,Uruguay,Venezuela,WdZ4jMrq,jclZerLL,0,3,,,,0
+1143846000,Saint Kitts and Nevis,United States Virgin Islands,YFbDUeTh,fPa9VyEn,7,0,,,,0
+1143847800,Netherlands Antilles,Antigua and Barbuda,2Br3Y4Cm,0tVbG58r,3,0,,,,0
+1143848700,Paraguay,Brazil,I5qbBI7s,88LAtdNt,0,0,,,,0
+1143859500,Peru,Colombia,6aZroxFP,C6kVdO5F,0,2,,,,0
+1149192000,Bolivia,Paraguay,Ik5Zg8Xj,I5qbBI7s,2,1,,,,0
+1149198000,Uruguay,Peru,WdZ4jMrq,6aZroxFP,1,3,,,,0
+1149202800,Venezuela,Chile,jclZerLL,dYPS3tqD,0,1,,,,0
+1149282000,Ecuador,Colombia,IPF97VQ3,C6kVdO5F,2,1,,,,0
+1149284700,Brazil,Argentina,88LAtdNt,AmY8ktbk,3,1,,,,0
+1149512400,Zambia,Togo,xlL4vXdH,lGdKQ3Zm,1,0,,,,0
+1149512400,South Africa,Cape Verde,xQxQqqtQ,GvK8wiCN,2,1,,,,0
+1149512400,Malawi,Morocco,8vfTQDSH,hOurGDLS,1,1,,,,0
+1149519600,Nigeria,Rwanda,CEPH9Bbd,MBizNLYC,2,0,,,,0
+1149519600,Gabon,Zimbabwe,dfyLfadl,xlL4vXdH,1,1,,,,0
+1149525000,Senegal,Congo,lQcLqf4g,8vfTQDSH,2,0,,,,0
+1149527700,Tunisia,Botswana,SGdPrEJa,nVhXPXsO,4,1,,,,0
+1149530400,Burkina Faso,Ghana,tv3f3Ec6,8vfTQDSH,1,0,,,,0
+1149530400,Algeria,Angola,YFbDUeTh,UPCpX5dK,0,0,,,,0
+1149541200,Ecuador,Bolivia,IPF97VQ3,Ik5Zg8Xj,3,2,,,,0
+1149598800,Uganda,D.R. Congo,jcdLSZc5,YFbDUeTh,1,0,,,,0
+1149604200,Cameroon,Benin,GvSfArk7,jcdLSZc5,2,1,,,,0
+1149609600,Liberia,Mali,xlL4vXdH,MBizNLYC,1,0,,,,0
+1149609600,Ivory Coast,Libya,zTSy144G,YFbDUeTh,2,0,,,,0
+1149613200,Sudan,Egypt,8vfTQDSH,j9fRtEHh,0,3,,,,0
+1149616800,Argentina,Paraguay,AmY8ktbk,I5qbBI7s,0,0,,,,0
+1149624000,Peru,Venezuela,6aZroxFP,jclZerLL,0,0,,,,0
+1149631800,Colombia,Uruguay,C6kVdO5F,WdZ4jMrq,5,0,,,,0
+1149636600,Chile,Brazil,dYPS3tqD,88LAtdNt,1,1,,,,0
+1149847200,South Korea,Vietnam,63aNArwB,QHeKqeWC,2,0,,,,0
+1149848400,Japan,India,8toS1iya,YB0DoGZt,7,0,,,,0
+1149852600,China,Malaysia,QNrz0V5B,QHeKqeWC,4,0,,,,0
+1149854400,Thailand,North Korea,UknO2XLh,8toS1iya,1,4,,,,0
+1149854400,Indonesia,Sri Lanka,QBz8eAFI,OEMVS5jc,1,0,,,,0
+1149861600,Uzbekistan,Palestine,MeuncTkU,zmDbXBOa,3,0,,,,0
+1149861600,Iran,Jordan,h2ICxBRT,4EsvakLH,0,1,,,,0
+1149862500,Syria,Tajikistan,pMAPH8AH,r5trb9zO,2,1,,,,0
+1149865200,Iraq,Chinese Taipei,4EsvakLH,251yRjVj,6,1,,,,0
+1149867900,Oman,Singapore,baDaGjjh,QNrz0V5B,7,0,,,,0
+1149868800,United Arab Emirates,Yemen,CrPl0Jrc,48fOrFoJ,3,0,,,,0
+1149869700,Bahrain,Kyrgyzstan,2ybyvrpo,vZOmLBBe,5,0,,,,0
+1149870600,Qatar,Laos,UPMdbcD9,QHeKqeWC,5,0,,,,0
+1149874200,Lebanon,Maldives,QNrz0V5B,ldlFLEPm,3,0,,,,0
+1149874200,Kuwait,Hong Kong,2ybyvrpo,48fOrFoJ,4,0,,,,0
+1149876000,Saudi Arabia,Turkmenistan,KtpTLRpL,MLbn53jJ,3,0,,,,0
+1150140600,Suriname,Guatemala,0tVbG58r,MPdGWDGc,1,1,,,,0
+1150140600,Cuba,Costa Rica,fomCGwjD,KfXjzrxU,2,2,,,,0
+1150156800,Netherlands Antilles,Honduras,2Br3Y4Cm,U9vpe29F,1,2,,,,0
+1150158600,Haiti,Jamaica,GY05WHbt,IPF97VQ3,1,1,,,,0
+1150218000,USA,Grenada,MPdHoKT3,bXrXKo0R,3,0,,,,0
+1150227000,Dominican Republic,Trinidad & Tobago,raJr9r28,0tVbG58r,0,2,,,,0
+1150230600,Canada,Belize,EqLGVN18,bXrXKo0R,4,0,,,,0
+1150232400,Panama,Saint Lucia,6yXdouA1,YFbDUeTh,4,0,,,,0
+1150232400,Nicaragua,Saint Vincent and the Grenadines,EPEwybjP,6yXdouA1,2,2,,,,0
+1150232400,El Salvador,Bermuda,raJr9r28,0tVbG58r,2,1,,,,0
+1150243200,Barbados,Saint Kitts and Nevis,EPEwybjP,YFbDUeTh,0,2,,,,0
+1150498800,Belize,Canada,bXrXKo0R,EqLGVN18,0,4,,,,0
+1150651800,Libya,Cameroon,YFbDUeTh,GvSfArk7,0,0,,,,0
+1150722000,Botswana,Malawi,nVhXPXsO,8vfTQDSH,2,0,,,,0
+1150725600,Rwanda,Gabon,MBizNLYC,dfyLfadl,3,1,,,,0
+1150736400,Cape Verde,Uganda,GvK8wiCN,jcdLSZc5,1,0,,,,0
+1150743600,Mali,Zambia,MBizNLYC,xlL4vXdH,1,1,,,,0
+1150761600,Saint Kitts and Nevis,Barbados,YFbDUeTh,EPEwybjP,3,2,,,,0
+1150761600,Dominica,Mexico,dERAD3h1,IPF97VQ3,0,10,,,,0
+1150767000,Honduras,Netherlands Antilles,U9vpe29F,2Br3Y4Cm,4,0,,,,0
+1150808400,Zimbabwe,Algeria,xlL4vXdH,YFbDUeTh,1,1,,,,0
+1150813800,D.R. Congo,Burkina Faso,YFbDUeTh,tv3f3Ec6,3,2,,,,0
+1150813800,Congo,Liberia,8vfTQDSH,xlL4vXdH,3,0,,,,0
+1150813800,Angola,Nigeria,UPCpX5dK,CEPH9Bbd,1,0,,,,0
+1150815600,Ghana,South Africa,8vfTQDSH,xQxQqqtQ,3,0,,,,0
+1150815600,Benin,Sudan,jcdLSZc5,8vfTQDSH,1,1,,,,0
+1150819200,Togo,Senegal,lGdKQ3Zm,lQcLqf4g,3,1,,,,0
+1150821000,Guinea,Tunisia,8vfTQDSH,SGdPrEJa,2,1,,,,0
+1150822800,Guatemala,Suriname,MPdGWDGc,0tVbG58r,3,1,,,,0
+1150822800,Costa Rica,Cuba,KfXjzrxU,fomCGwjD,1,1,,,,0
+1150822800,Egypt,Ivory Coast,j9fRtEHh,zTSy144G,1,2,,,,0
+1150830000,Saint Vincent and the Grenadines,Nicaragua,6yXdouA1,EPEwybjP,4,1,,,,0
+1150833600,Trinidad & Tobago,Dominican Republic,0tVbG58r,raJr9r28,4,0,,,,0
+1150833600,Grenada,USA,bXrXKo0R,MPdHoKT3,2,3,,,,0
+1150837200,Saint Lucia,Panama,YFbDUeTh,6yXdouA1,0,3,,,,0
+1150840800,Bermuda,El Salvador,0tVbG58r,raJr9r28,2,2,,,,0
+1150844400,Jamaica,Haiti,IPF97VQ3,GY05WHbt,3,0,,,,0
+1151427600,Mexico,Dominica,IPF97VQ3,dERAD3h1,8,0,,,,0
+1151931600,South Africa,Burkina Faso,xQxQqqtQ,tv3f3Ec6,2,0,,,,0
+1151931600,Malawi,Guinea,8vfTQDSH,8vfTQDSH,1,1,,,,0
+1151931600,Botswana,Morocco,nVhXPXsO,hOurGDLS,0,1,,,,0
+1151933400,Uganda,Ghana,jcdLSZc5,8vfTQDSH,1,1,,,,0
+1151935200,Rwanda,Zimbabwe,MBizNLYC,xlL4vXdH,0,2,,,,0
+1151938800,Nigeria,Algeria,CEPH9Bbd,YFbDUeTh,1,0,,,,0
+1151938800,Gabon,Angola,dfyLfadl,UPCpX5dK,2,2,,,,0
+1151944200,Senegal,Zambia,lQcLqf4g,xlL4vXdH,1,0,,,,0
+1151946000,Sudan,Libya,8vfTQDSH,YFbDUeTh,0,1,,,,0
+1151946000,Cape Verde,D.R. Congo,GvK8wiCN,YFbDUeTh,1,1,,,,0
+1152023400,Congo,Mali,8vfTQDSH,MBizNLYC,1,0,,,,0
+1152023400,Cameroon,Ivory Coast,GvSfArk7,zTSy144G,2,0,,,,0
+1152025200,Benin,Egypt,jcdLSZc5,j9fRtEHh,3,3,,,,0
+1152028800,Liberia,Togo,xlL4vXdH,lGdKQ3Zm,0,0,,,,0
+1155922200,Romania,Finland,tKviOc0q,08oJ2RMo,2,1,,,,0
+1155924000,North Macedonia,Armenia,zXtZbqMA,dtrVaP64,3,0,,,,0
+1155924900,Slovakia,Luxembourg,byN2hxSj,jovscNjN,3,1,,,,0
+1155924900,Liechtenstein,Estonia,08oJ2RMo,YkZoQLK9,1,2,,,,0
+1155931200,Saint Vincent and the Grenadines,Trinidad & Tobago,6yXdouA1,0tVbG58r,0,2,,,,0
+1155942000,Jamaica,USA,IPF97VQ3,MPdHoKT3,1,1,,,,0
+1155951000,El Salvador,Panama,raJr9r28,6yXdouA1,2,1,,,,0
+1155952800,Costa Rica,Honduras,KfXjzrxU,U9vpe29F,2,5,,,,0
+1155952800,Canada,Guatemala,EqLGVN18,MPdGWDGc,0,2,,,,0
+1157302800,Libya,Benin,YFbDUeTh,jcdLSZc5,4,1,,,,0
+1157374800,Zambia,Liberia,xlL4vXdH,xlL4vXdH,1,0,,,,0
+1157378400,Northern Ireland,Poland,fazrR153,vZG58BBc,0,3,,,,0
+1157378400,Ireland,Cyprus,fazrR153,vZG58BBc,3,0,,,,0
+1157378400,Finland,Andorra,08oJ2RMo,vapN1oxh,3,0,,,,0
+1157382000,Russia,Slovakia,dtrVaP64,byN2hxSj,1,1,,,,0
+1157382000,Iceland,Bulgaria,vokh4vbj,Iyld3bDd,1,3,,,,0
+1157382000,Estonia,Luxembourg,YkZoQLK9,jovscNjN,4,0,,,,0
+1157382000,Kenya,Malawi,8vfTQDSH,8vfTQDSH,3,2,,,,0
+1157383800,Switzerland,Faroe Islands,88LAtdNt,fazrR153,6,0,,,,0
+1157385600,Azerbaijan,Wales,dtrVaP64,YkZoQLK9,1,1,,,,0
+1157389200,Turkey,Georgia,Cfuwb3yH,zXtZbqMA,1,1,,,,0
+1157390100,Latvia,Portugal,zXtZbqMA,vZG58BBc,0,2,,,,0
+1157391000,Romania,North Macedonia,tKviOc0q,zXtZbqMA,2,1,,,,0
+1157392800,Denmark,Ukraine,2kmuAQ93,IPF97VQ3,1,1,,,,0
+1157392800,Burkina Faso,Uganda,tv3f3Ec6,jcdLSZc5,2,0,,,,0
+1157393700,Slovenia,Moldova,IuvzgF4s,vapN1oxh,3,0,,,,0
+1157393700,Belgium,Lithuania,dtrVaP64,08oJ2RMo,1,1,,,,0
+1157394600,San Marino,Serbia and Montenegro,fazrR153,zc8wEAfR,0,3,,,,0
+1157394600,Croatia,Hungary,zXtZbqMA,Uywods6T,3,0,,,,0
+1157394600,Austria,England,6cnthjRG,Iyld3bDd,2,2,,,,0
+1157395500,Malta,Sweden,zXtZbqMA,Uywods6T,0,7,,,,0
+1157395500,Italy,Norway,KfXjzrxU,8doAmYTm,2,1,,,,0
+1157395500,France,Israel,U3HPIwDq,2ybyvrpo,0,0,,,,0
+1157395500,Albania,Greece,vZG58BBc,IPNevN3m,2,1,,,,0
+1157398200,Morocco,Tunisia,hOurGDLS,SGdPrEJa,1,1,,,,0
+1157400000,USA,El Salvador,MPdHoKT3,raJr9r28,2,0,,,,0
+1157414400,Peru,Argentina,6aZroxFP,AmY8ktbk,1,3,,,,0
+1157414400,Saint Kitts and Nevis,Trinidad & Tobago,YFbDUeTh,0tVbG58r,1,2,,,,0
+1157414400,Jamaica,Panama,IPF97VQ3,6yXdouA1,1,2,,,,0
+1157418000,Canada,Honduras,EqLGVN18,U9vpe29F,1,1,,,,0
+1157461200,Zimbabwe,Nigeria,xlL4vXdH,CEPH9Bbd,0,3,,,,0
+1157466600,D.R. Congo,South Africa,YFbDUeTh,xQxQqqtQ,1,0,,,,0
+1157466600,Angola,Rwanda,UPCpX5dK,MBizNLYC,1,0,,,,0
+1157468400,Ghana,Cape Verde,8vfTQDSH,GvK8wiCN,2,0,,,,0
+1157472000,Togo,Congo,lGdKQ3Zm,8vfTQDSH,1,0,,,,0
+1157472000,Ivory Coast,Sudan,zTSy144G,8vfTQDSH,5,0,,,,0
+1157473800,Guinea,Botswana,8vfTQDSH,nVhXPXsO,4,0,,,,0
+1157475600,Mali,Senegal,MBizNLYC,lQcLqf4g,2,2,,,,0
+1157475600,Egypt,Cameroon,j9fRtEHh,GvSfArk7,3,2,,,,0
+1157479200,Guatemala,Costa Rica,MPdGWDGc,KfXjzrxU,2,1,,,,0
+1157480100,Uruguay,Ecuador,WdZ4jMrq,IPF97VQ3,1,0,,,,0
+1157483700,Algeria,Gabon,YFbDUeTh,dfyLfadl,0,3,,,,0
+1157487000,Brazil,Bolivia,88LAtdNt,Ik5Zg8Xj,3,1,,,,0
+1157494800,Paraguay,Venezuela,I5qbBI7s,jclZerLL,1,0,,,,0
+1157504400,Chile,Colombia,dYPS3tqD,C6kVdO5F,0,0,,,,0
+1157698800,North Korea,Thailand,8toS1iya,UknO2XLh,4,1,,,,0
+1157698800,Chinese Taipei,Iraq,251yRjVj,4EsvakLH,1,4,,,,0
+1157709600,Vietnam,South Korea,QHeKqeWC,63aNArwB,1,2,,,,0
+1157709600,Laos,Qatar,QHeKqeWC,UPMdbcD9,1,6,,,,0
+1157713200,Tajikistan,Syria,r5trb9zO,pMAPH8AH,0,1,,,,0
+1157713200,Maldives,Lebanon,ldlFLEPm,QNrz0V5B,2,5,,,,0
+1157713200,Kyrgyzstan,Bahrain,vZOmLBBe,2ybyvrpo,1,2,,,,0
+1157715000,Singapore,Oman,QNrz0V5B,baDaGjjh,0,2,,,,0
+1157716800,India,Japan,YB0DoGZt,8toS1iya,0,4,,,,0
+1157716800,Hong Kong,Kuwait,48fOrFoJ,2ybyvrpo,0,2,,,,0
+1157718600,Sri Lanka,Indonesia,OEMVS5jc,QBz8eAFI,2,2,,,,0
+1157719500,Malaysia,China,QHeKqeWC,QNrz0V5B,0,1,,,,0
+1157720400,Yemen,United Arab Emirates,48fOrFoJ,CrPl0Jrc,3,1,,,,0
+1157724000,Kazakhstan,Ukraine,Cfuwb3yH,IPF97VQ3,1,2,,,,0
+1157724000,Andorra,Romania,vapN1oxh,tKviOc0q,1,5,,,,0
+1157724000,Turkmenistan,Saudi Arabia,MLbn53jJ,KtpTLRpL,0,1,,,,0
+1157729400,Palestine,Uzbekistan,zmDbXBOa,MeuncTkU,0,3,,,,0
+1157731200,Lithuania,San Marino,08oJ2RMo,fazrR153,4,0,,,,0
+1157731200,Georgia,Albania,zXtZbqMA,vZG58BBc,2,0,,,,0
+1157731200,Armenia,Finland,dtrVaP64,08oJ2RMo,0,2,,,,0
+1157733000,Faroe Islands,France,fazrR153,U3HPIwDq,0,2,,,,0
+1157734800,Jordan,Iran,4EsvakLH,h2ICxBRT,0,2,,,,0
+1157737800,Israel,Cyprus,2ybyvrpo,vZG58BBc,2,1,,,,0
+1157738400,Norway,Belarus,8doAmYTm,Cfuwb3yH,1,1,,,,0
+1157738400,Luxembourg,Latvia,jovscNjN,zXtZbqMA,3,4,,,,0
+1157739300,Sweden,Croatia,Uywods6T,zXtZbqMA,0,1,,,,0
+1157739300,Slovakia,Liechtenstein,byN2hxSj,08oJ2RMo,7,0,,,,0
+1157739300,Bosnia & Herzegovina,Spain,Cfuwb3yH,0E8Iihe1,1,1,,,,0
+1157740200,Switzerland,Ireland,88LAtdNt,fazrR153,1,1,,,,0
+1157740200,Poland,England,vZG58BBc,Iyld3bDd,1,2,,,,0
+1157740200,Netherlands,Czech Republic,fazrR153,b1xaMyVe,2,0,,,,0
+1157740200,Austria,Azerbaijan,6cnthjRG,dtrVaP64,2,0,,,,0
+1157741100,Moldova,Italy,vapN1oxh,KfXjzrxU,0,1,,,,0
+1157741100,Greece,Turkey,IPNevN3m,Cfuwb3yH,0,0,,,,0
+1157742000,Wales,Northern Ireland,YkZoQLK9,fazrR153,2,2,,,,0
+1157742000,Scotland,Slovenia,lfZlm1uk,IuvzgF4s,0,0,,,,0
+1157742900,Hungary,Iceland,Uywods6T,vokh4vbj,3,2,,,,0
+1157746500,Portugal,Estonia,vZG58BBc,YkZoQLK9,4,0,,,,0
+1157752800,Trinidad & Tobago,Mexico,0tVbG58r,IPF97VQ3,1,3,,,,0
+1157763600,Panama,USA,6yXdouA1,MPdHoKT3,1,1,,,,0
+1157765400,Honduras,Guatemala,U9vpe29F,MPdGWDGc,2,2,,,,0
+1157765400,El Salvador,Jamaica,raJr9r28,IPF97VQ3,0,3,,,,0
+1157767200,Costa Rica,Canada,KfXjzrxU,EqLGVN18,1,0,,,,0
+1157914800,Saint Vincent and the Grenadines,Saint Kitts and Nevis,6yXdouA1,YFbDUeTh,1,0,,,,0
+1160172000,Mexico,Saint Vincent and the Grenadines,IPF97VQ3,6yXdouA1,7,0,,,,0
+1160326800,Libya,Egypt,YFbDUeTh,j9fRtEHh,2,1,,,,0
+1160397000,Sri Lanka,Turkmenistan,OEMVS5jc,MLbn53jJ,2,2,,,,0
+1160398800,Malawi,Tunisia,8vfTQDSH,SGdPrEJa,2,2,,,,0
+1160402400,Scotland,Norway,lfZlm1uk,8doAmYTm,0,1,,,,0
+1160402400,Finland,Armenia,08oJ2RMo,dtrVaP64,3,1,,,,0
+1160402400,England,Wales,Iyld3bDd,YkZoQLK9,2,0,,,,0
+1160402400,Rwanda,Algeria,MBizNLYC,YFbDUeTh,1,1,,,,0
+1160402400,Botswana,Kenya,nVhXPXsO,8vfTQDSH,2,1,,,,0
+1160406000,Sweden,Hungary,Uywods6T,Uywods6T,3,0,,,,0
+1160406000,Luxembourg,Russia,jovscNjN,dtrVaP64,0,4,,,,0
+1160406000,Czech Republic,Romania,b1xaMyVe,tKviOc0q,1,0,,,,0
+1160406000,Gabon,Nigeria,dfyLfadl,CEPH9Bbd,1,1,,,,0
+1160407800,Slovakia,Latvia,byN2hxSj,zXtZbqMA,4,1,,,,0
+1160409600,Belarus,Moldova,Cfuwb3yH,vapN1oxh,4,0,,,,0
+1160410500,Ukraine,Greece,IPF97VQ3,IPNevN3m,1,1,,,,0
+1160410500,Malta,Iceland,zXtZbqMA,vokh4vbj,0,0,,,,0
+1160411400,Azerbaijan,Northern Ireland,dtrVaP64,fazrR153,0,0,,,,0
+1160413200,Turkey,Kazakhstan,Cfuwb3yH,Cfuwb3yH,4,0,,,,0
+1160413200,Cape Verde,Burkina Faso,GvK8wiCN,tv3f3Ec6,1,0,,,,0
+1160414100,Liechtenstein,Portugal,08oJ2RMo,vZG58BBc,2,2,,,,0
+1160414100,Cyprus,Faroe Islands,vZG58BBc,fazrR153,2,2,,,,0
+1160415000,Sudan,Cameroon,8vfTQDSH,GvSfArk7,1,1,,,,0
+1160416800,Argentina,Uruguay,AmY8ktbk,WdZ4jMrq,4,2,,,,0
+1160417100,Israel,Switzerland,2ybyvrpo,88LAtdNt,2,2,,,,0
+1160417700,Croatia,Bulgaria,zXtZbqMA,Iyld3bDd,2,2,,,,0
+1160417700,Bosnia & Herzegovina,Serbia and Montenegro,Cfuwb3yH,zc8wEAfR,0,0,,,,0
+1160418600,North Macedonia,Netherlands,zXtZbqMA,fazrR153,2,2,,,,0
+1160418600,Austria,Poland,6cnthjRG,vZG58BBc,1,3,,,,0
+1160419500,Albania,Denmark,vZG58BBc,2kmuAQ93,0,2,,,,0
+1160420400,Slovenia,Italy,IuvzgF4s,KfXjzrxU,1,0,,,,0
+1160420400,France,Ireland,U3HPIwDq,fazrR153,0,0,,,,0
+1160423100,Spain,Belgium,0E8Iihe1,dtrVaP64,2,0,,,,0
+1160424000,Bolivia,Peru,Ik5Zg8Xj,6aZroxFP,1,0,,,,0
+1160427600,Honduras,Canada,U9vpe29F,EqLGVN18,1,1,,,,0
+1160431800,Colombia,Paraguay,C6kVdO5F,I5qbBI7s,1,1,,,,0
+1160442000,Venezuela,Brazil,jclZerLL,88LAtdNt,2,5,,,,0
+1160442000,Panama,Jamaica,6yXdouA1,IPF97VQ3,1,1,,,,0
+1160442000,El Salvador,USA,raJr9r28,MPdHoKT3,0,2,,,,0
+1160443800,Costa Rica,Guatemala,KfXjzrxU,MPdGWDGc,5,0,,,,0
+1160487000,Uganda,South Africa,jcdLSZc5,xQxQqqtQ,0,1,,,,0
+1160490600,Congo,Zambia,8vfTQDSH,xlL4vXdH,2,3,,,,0
+1160490600,Angola,Zimbabwe,UPCpX5dK,xlL4vXdH,1,0,,,,0
+1160492400,Ghana,D.R. Congo,8vfTQDSH,YFbDUeTh,0,0,,,,0
+1160492400,Benin,Ivory Coast,jcdLSZc5,zTSy144G,0,1,,,,0
+1160496000,Togo,Mali,lGdKQ3Zm,MBizNLYC,1,0,,,,0
+1160496000,Liberia,Senegal,xlL4vXdH,lQcLqf4g,0,3,,,,0
+1160497800,Guinea,Morocco,8vfTQDSH,hOurGDLS,1,1,,,,0
+1160508600,Trinidad & Tobago,Saint Kitts and Nevis,0tVbG58r,YFbDUeTh,5,1,,,,0
+1160510400,Saint Vincent and the Grenadines,Mexico,6yXdouA1,IPF97VQ3,0,1,,,,0
+1160518200,Ecuador,Chile,IPF97VQ3,dYPS3tqD,2,0,,,,0
+1160654400,Indonesia,Saudi Arabia,QBz8eAFI,KtpTLRpL,1,3,,,,0
+1160683200,Bolivia,Uruguay,Ik5Zg8Xj,WdZ4jMrq,0,0,,,,0
+1160721000,North Korea,Yemen,8toS1iya,48fOrFoJ,2,1,,,,0
+1160733600,Tajikistan,Kyrgyzstan,r5trb9zO,vZOmLBBe,2,1,,,,0
+1160733600,Laos,Jordan,QHeKqeWC,4EsvakLH,2,3,,,,0
+1160736300,Maldives,Vietnam,ldlFLEPm,QHeKqeWC,3,0,,,,0
+1160739000,Singapore,India,QNrz0V5B,YB0DoGZt,2,0,,,,0
+1160740800,Thailand,United Arab Emirates,UknO2XLh,CrPl0Jrc,3,0,,,,0
+1160740800,Hong Kong,Malaysia,48fOrFoJ,QHeKqeWC,2,0,,,,0
+1160744400,Kazakhstan,Albania,Cfuwb3yH,vZG58BBc,0,1,,,,0
+1160744400,Andorra,North Macedonia,vapN1oxh,zXtZbqMA,1,0,,,,0
+1160749800,Oman,Japan,baDaGjjh,8toS1iya,0,1,,,,0
+1160751600,Latvia,Estonia,zXtZbqMA,YkZoQLK9,2,2,,,,0
+1160751600,Bulgaria,Malta,Iyld3bDd,zXtZbqMA,4,1,,,,0
+1160751600,Lebanon,South Korea,QNrz0V5B,63aNArwB,1,1,,,,0
+1160751600,Iraq,Uzbekistan,4EsvakLH,MeuncTkU,1,2,,,,0
+1160752800,Armenia,Czech Republic,dtrVaP64,b1xaMyVe,0,3,,,,0
+1160755200,Syria,Bahrain,pMAPH8AH,2ybyvrpo,2,2,,,,0
+1160755200,Kuwait,China,2ybyvrpo,QNrz0V5B,1,0,,,,0
+1160756100,Ukraine,Georgia,IPF97VQ3,zXtZbqMA,2,0,,,,0
+1160757000,Azerbaijan,England,dtrVaP64,Iyld3bDd,0,1,,,,0
+1160757000,Qatar,Iran,UPMdbcD9,h2ICxBRT,2,3,,,,0
+1160758800,Norway,Slovenia,8doAmYTm,IuvzgF4s,3,0,,,,0
+1160762400,Serbia and Montenegro,San Marino,zc8wEAfR,fazrR153,5,0,,,,0
+1160762400,Moldova,Scotland,vapN1oxh,lfZlm1uk,1,1,,,,0
+1160762400,Luxembourg,Liechtenstein,jovscNjN,08oJ2RMo,0,4,,,,0
+1160762400,Denmark,Turkey,2kmuAQ93,Cfuwb3yH,1,1,,,,0
+1160763000,Iceland,Sweden,vokh4vbj,Uywods6T,1,4,,,,0
+1160764200,Netherlands,Finland,fazrR153,08oJ2RMo,3,1,,,,0
+1160764200,Ireland,Faroe Islands,fazrR153,fazrR153,2,0,,,,0
+1160765100,Cyprus,France,vZG58BBc,U3HPIwDq,0,2,,,,0
+1160766000,Wales,Poland,YkZoQLK9,vZG58BBc,2,3,,,,0
+1160766000,Northern Ireland,Austria,fazrR153,6cnthjRG,3,3,,,,0
+1160766000,Italy,Belarus,KfXjzrxU,Cfuwb3yH,4,3,,,,0
+1160766900,Lithuania,Spain,08oJ2RMo,0E8Iihe1,0,0,,,,0
+1160770500,Portugal,Russia,vZG58BBc,dtrVaP64,7,1,,,,0
+1160773200,Paraguay,Peru,I5qbBI7s,6aZroxFP,1,1,,,,0
+1160782200,USA,Panama,MPdHoKT3,6yXdouA1,6,0,,,,0
+1160784000,Chile,Argentina,dYPS3tqD,AmY8ktbk,0,0,,,,0
+1160784000,Saint Kitts and Nevis,Saint Vincent and the Grenadines,YFbDUeTh,6yXdouA1,0,3,,,,0
+1160784000,Jamaica,El Salvador,IPF97VQ3,raJr9r28,0,0,,,,0
+1160786700,Brazil,Colombia,88LAtdNt,C6kVdO5F,0,0,,,,0
+1160789400,Mexico,Trinidad & Tobago,IPF97VQ3,0tVbG58r,3,0,,,,0
+1160791200,Guatemala,Honduras,MPdGWDGc,U9vpe29F,1,0,,,,0
+1160791200,Canada,Costa Rica,EqLGVN18,KfXjzrxU,1,3,,,,0
+1160812800,Chinese Taipei,Palestine,251yRjVj,zmDbXBOa,0,1,,,,0
+1160866800,Venezuela,Ecuador,jclZerLL,IPF97VQ3,3,1,,,,0
+1163464200,Saint Kitts and Nevis,Mexico,YFbDUeTh,IPF97VQ3,0,5,,,,0
+1163694600,Iraq,Palestine,4EsvakLH,zmDbXBOa,4,1,,,,0
+1163758800,Japan,Singapore,8toS1iya,QNrz0V5B,1,0,,,,0
+1163761200,Uzbekistan,Chinese Taipei,MeuncTkU,251yRjVj,6,1,,,,0
+1163761200,South Korea,Maldives,63aNArwB,ldlFLEPm,2,0,,,,0
+1163763000,Thailand,Yemen,UknO2XLh,48fOrFoJ,1,1,,,,0
+1163764800,Indonesia,Turkmenistan,QBz8eAFI,MLbn53jJ,3,1,,,,0
+1163768400,Kuwait,Malaysia,2ybyvrpo,QHeKqeWC,6,1,,,,0
+1163768400,China,Hong Kong,QNrz0V5B,48fOrFoJ,7,0,,,,0
+1163768400,Kenya,Guinea,8vfTQDSH,8vfTQDSH,2,1,,,,0
+1163772000,Oman,India,baDaGjjh,YB0DoGZt,0,0,,,,0
+1163773800,United Arab Emirates,North Korea,CrPl0Jrc,8toS1iya,1,0,,,,0
+1163775600,Armenia,Romania,dtrVaP64,tKviOc0q,1,1,,,,0
+1163775600,Syria,Kyrgyzstan,pMAPH8AH,vZOmLBBe,0,1,,,,0
+1163775600,Bahrain,Tajikistan,2ybyvrpo,r5trb9zO,4,0,,,,0
+1163779200,Russia,Estonia,dtrVaP64,YkZoQLK9,4,0,,,,0
+1163779200,Qatar,Jordan,UPMdbcD9,4EsvakLH,2,0,,,,0
+1163779200,Lebanon,Vietnam,QNrz0V5B,QHeKqeWC,0,0,,,,0
+1163781000,North Macedonia,Czech Republic,zXtZbqMA,b1xaMyVe,0,2,,,,0
+1163781000,Iran,Laos,h2ICxBRT,QHeKqeWC,7,0,,,,0
+1163782800,Cyprus,Israel,vZG58BBc,2ybyvrpo,1,2,,,,0
+1163782800,Saudi Arabia,Sri Lanka,KtpTLRpL,OEMVS5jc,3,0,,,,0
+1163786400,Liechtenstein,Latvia,08oJ2RMo,zXtZbqMA,1,3,,,,0
+1163786400,Georgia,Denmark,zXtZbqMA,2kmuAQ93,2,2,,,,0
+1163788200,Turkey,Ukraine,Cfuwb3yH,IPF97VQ3,0,3,,,,0
+1163788200,Malta,Hungary,zXtZbqMA,Uywods6T,0,2,,,,0
+1163790000,Luxembourg,Portugal,jovscNjN,vZG58BBc,0,5,,,,0
+1163790000,Greece,Kazakhstan,IPNevN3m,Cfuwb3yH,3,1,,,,0
+1163790900,Belgium,Serbia and Montenegro,dtrVaP64,zc8wEAfR,0,2,,,,0
+1163791800,San Marino,Lithuania,fazrR153,08oJ2RMo,0,1,,,,0
+1163791800,Andorra,Netherlands,vapN1oxh,fazrR153,0,3,,,,0
+1163797200,Ecuador,Brazil,IPF97VQ3,88LAtdNt,1,0,,,,0
+1163803500,Uruguay,Paraguay,WdZ4jMrq,I5qbBI7s,1,0,,,,0
+1163804400,Colombia,Bolivia,C6kVdO5F,Ik5Zg8Xj,1,0,,,,0
+1163804400,Trinidad & Tobago,Saint Vincent and the Grenadines,0tVbG58r,6yXdouA1,2,1,,,,0
+1163804400,Honduras,Costa Rica,U9vpe29F,KfXjzrxU,0,0,,,,0
+1163806200,Panama,El Salvador,6yXdouA1,raJr9r28,3,0,,,,0
+1163809800,USA,Jamaica,MPdHoKT3,IPF97VQ3,1,1,,,,0
+1163810700,Argentina,Venezuela,AmY8ktbk,jclZerLL,3,2,,,,0
+1163811600,Peru,Chile,6aZroxFP,dYPS3tqD,2,1,,,,0
+1163816100,Guatemala,Canada,MPdGWDGc,EqLGVN18,0,1,,,,0
+1163818800,Mexico,Saint Kitts and Nevis,IPF97VQ3,YFbDUeTh,8,0,,,,0
+1139481000,Japan,North Korea,8toS1iya,8toS1iya,2,1,,,,0
+1139481900,Uzbekistan,Saudi Arabia,MeuncTkU,KtpTLRpL,1,1,,,,0
+1139483100,South Korea,Kuwait,63aNArwB,2ybyvrpo,2,0,,,,0
+1139497200,North Macedonia,Andorra,zXtZbqMA,vapN1oxh,0,0,,,,0
+1139499300,Bahrain,Iran,2ybyvrpo,h2ICxBRT,0,0,,,,0
+1139510700,Albania,Ukraine,vZG58BBc,IPF97VQ3,0,2,,,,0
+1139513400,Trinidad & Tobago,USA,0tVbG58r,MPdHoKT3,1,2,,,,0
+1139513400,Greece,Denmark,IPNevN3m,2kmuAQ93,2,1,,,,0
+1139513400,Morocco,Kenya,hOurGDLS,8vfTQDSH,5,1,,,,0
+1139517900,Spain,San Marino,0E8Iihe1,fazrR153,5,0,,,,0
+1139529600,Panama,Guatemala,6yXdouA1,MPdGWDGc,0,0,,,,0
+1139536800,Costa Rica,Mexico,KfXjzrxU,IPF97VQ3,1,2,,,,0
+1143268500,North Korea,Bahrain,8toS1iya,2ybyvrpo,1,2,,,,0
+1143297300,Iran,Japan,h2ICxBRT,8toS1iya,2,1,,,,0
+1143305100,Saudi Arabia,South Korea,KtpTLRpL,63aNArwB,2,0,,,,0
+1143305100,Kuwait,Uzbekistan,2ybyvrpo,MeuncTkU,2,1,,,,0
+1143374400,Zambia,Congo,xlL4vXdH,8vfTQDSH,2,0,,,,0
+1143374400,Kenya,Botswana,8vfTQDSH,nVhXPXsO,1,0,,,,0
+1143377100,South Africa,Uganda,xQxQqqtQ,jcdLSZc5,2,1,,,,0
+1143378000,Armenia,Andorra,dtrVaP64,vapN1oxh,2,1,,,,0
+1143381600,Wales,Austria,YkZoQLK9,6cnthjRG,0,2,,,,0
+1143381600,England,Northern Ireland,Iyld3bDd,fazrR153,4,0,,,,0
+1143383400,Bulgaria,Sweden,Iyld3bDd,Uywods6T,0,3,,,,0
+1143385200,Liechtenstein,Russia,08oJ2RMo,dtrVaP64,1,2,,,,0
+1143385200,Estonia,Slovakia,YkZoQLK9,byN2hxSj,1,2,,,,0
+1143385200,Czech Republic,Finland,b1xaMyVe,08oJ2RMo,4,3,,,,0
+1143387000,Senegal,Liberia,lQcLqf4g,xlL4vXdH,6,1,,,,0
+1143388800,Poland,Azerbaijan,vZG58BBc,dtrVaP64,8,0,,,,0
+1143388800,Croatia,Iceland,zXtZbqMA,vokh4vbj,4,0,,,,0
+1143390600,Georgia,Greece,zXtZbqMA,IPNevN3m,1,3,,,,0
+1143391800,Israel,Ireland,2ybyvrpo,fazrR153,1,1,,,,0
+1143392400,Turkey,Albania,Cfuwb3yH,vZG58BBc,2,0,,,,0
+1143392400,Romania,Netherlands,tKviOc0q,fazrR153,0,2,,,,0
+1143392400,Nigeria,Gabon,CEPH9Bbd,dfyLfadl,2,0,,,,0
+1143392400,Burkina Faso,Cape Verde,tv3f3Ec6,GvK8wiCN,1,2,,,,0
+1143393300,Tunisia,Malawi,SGdPrEJa,8vfTQDSH,7,0,,,,0
+1143396000,Denmark,Kazakhstan,2kmuAQ93,Cfuwb3yH,3,0,,,,0
+1143396900,Belgium,Bosnia & Herzegovina,dtrVaP64,Cfuwb3yH,4,1,,,,0
+1143397800,Morocco,Guinea,hOurGDLS,8vfTQDSH,1,0,,,,0
+1143399600,Bolivia,Argentina,Ik5Zg8Xj,AmY8ktbk,1,2,,,,0
+1143399600,Italy,Scotland,KfXjzrxU,lfZlm1uk,2,0,,,,0
+1143399600,France,Switzerland,U3HPIwDq,88LAtdNt,0,0,,,,0
+1143410400,Venezuela,Colombia,jclZerLL,C6kVdO5F,0,0,,,,0
+1143414000,Chile,Uruguay,dYPS3tqD,WdZ4jMrq,1,1,,,,0
+1143414000,Costa Rica,Panama,KfXjzrxU,6yXdouA1,2,1,,,,0
+1143421200,Guatemala,Trinidad & Tobago,MPdGWDGc,0tVbG58r,5,1,,,,0
+1143464400,Zimbabwe,Angola,xlL4vXdH,UPCpX5dK,2,0,,,,0
+1143469800,D.R. Congo,Ghana,YFbDUeTh,8vfTQDSH,1,1,,,,0
+1143469800,Cameroon,Sudan,GvSfArk7,8vfTQDSH,2,1,,,,0
+1143475200,Ivory Coast,Benin,zTSy144G,jcdLSZc5,3,0,,,,0
+1143478800,Mexico,USA,IPF97VQ3,MPdHoKT3,2,1,,,,0
+1143478800,Egypt,Libya,j9fRtEHh,YFbDUeTh,4,1,,,,0
+1143482400,Mali,Togo,MBizNLYC,lGdKQ3Zm,1,2,,,,0
+1143482400,Algeria,Rwanda,YFbDUeTh,MBizNLYC,1,0,,,,0
+1143489600,Brazil,Peru,88LAtdNt,6aZroxFP,1,0,,,,0
+1143493200,Ecuador,Paraguay,IPF97VQ3,I5qbBI7s,5,2,,,,0
+1143662400,Bolivia,Venezuela,Ik5Zg8Xj,jclZerLL,3,1,,,,0
+1143700500,North Korea,Iran,8toS1iya,h2ICxBRT,0,2,,,,0
+1143714600,Japan,Bahrain,8toS1iya,2ybyvrpo,1,0,,,,0
+1143716700,South Korea,Uzbekistan,63aNArwB,MeuncTkU,2,1,,,,0
+1143730200,Andorra,Czech Republic,vapN1oxh,b1xaMyVe,0,4,,,,0
+1143730800,Estonia,Russia,YkZoQLK9,dtrVaP64,1,1,,,,0
+1143734400,Latvia,Luxembourg,zXtZbqMA,jovscNjN,4,0,,,,0
+1143734400,Croatia,Malta,zXtZbqMA,zXtZbqMA,3,0,,,,0
+1143735300,Ukraine,Denmark,IPF97VQ3,2kmuAQ93,1,0,,,,0
+1143736200,Georgia,Turkey,zXtZbqMA,Cfuwb3yH,2,5,,,,0
+1143737100,Kuwait,Saudi Arabia,2ybyvrpo,KtpTLRpL,0,0,,,,0
+1143738000,Slovakia,Portugal,byN2hxSj,vZG58BBc,1,1,,,,0
+1143740700,Moldova,Norway,vapN1oxh,8doAmYTm,0,0,,,,0
+1143741600,Poland,Northern Ireland,vZG58BBc,fazrR153,1,0,,,,0
+1143741600,North Macedonia,Romania,zXtZbqMA,tKviOc0q,1,2,,,,0
+1143741600,Bosnia & Herzegovina,Lithuania,Cfuwb3yH,08oJ2RMo,1,1,,,,0
+1143742500,Slovenia,Belarus,IuvzgF4s,Cfuwb3yH,1,1,,,,0
+1143743400,Switzerland,Cyprus,88LAtdNt,vZG58BBc,1,0,,,,0
+1143743400,San Marino,Belgium,fazrR153,dtrVaP64,1,2,,,,0
+1143743400,Netherlands,Armenia,fazrR153,dtrVaP64,2,0,,,,0
+1143743400,Greece,Albania,IPNevN3m,vZG58BBc,2,0,,,,0
+1143743400,Austria,Wales,6cnthjRG,YkZoQLK9,1,0,,,,0
+1143744300,Hungary,Bulgaria,Uywods6T,Iyld3bDd,1,1,,,,0
+1143744300,England,Azerbaijan,Iyld3bDd,dtrVaP64,2,0,,,,0
+1143744600,Israel,France,2ybyvrpo,U3HPIwDq,1,1,,,,0
+1143745200,Serbia and Montenegro,Spain,zc8wEAfR,0E8Iihe1,0,0,,,,0
+1143750600,Trinidad & Tobago,Costa Rica,0tVbG58r,KfXjzrxU,0,0,,,,0
+1143752400,Paraguay,Chile,I5qbBI7s,dYPS3tqD,2,1,,,,0
+1143759600,Uruguay,Brazil,WdZ4jMrq,88LAtdNt,1,1,,,,0
+1143759600,Argentina,Colombia,AmY8ktbk,C6kVdO5F,1,0,,,,0
+1143759600,USA,Guatemala,MPdHoKT3,MPdGWDGc,2,0,,,,0
+1143766800,Peru,Ecuador,6aZroxFP,IPF97VQ3,2,2,,,,0
+1143768600,Panama,Mexico,6yXdouA1,IPF97VQ3,1,1,,,,0
+1149339600,Uzbekistan,South Korea,MeuncTkU,63aNArwB,1,1,,,,0
+1149345000,Iran,North Korea,h2ICxBRT,8toS1iya,1,0,,,,0
+1149352200,Bahrain,Japan,2ybyvrpo,8toS1iya,0,1,,,,0
+1149354000,Libya,Ivory Coast,YFbDUeTh,zTSy144G,0,0,,,,0
+1149357900,Saudi Arabia,Kuwait,KtpTLRpL,2ybyvrpo,3,0,,,,0
+1149426000,Botswana,Tunisia,nVhXPXsO,SGdPrEJa,1,3,,,,0
+1149429600,Scotland,Moldova,lfZlm1uk,vapN1oxh,2,0,,,,0
+1149429600,Russia,Latvia,dtrVaP64,zXtZbqMA,2,0,,,,0
+1149433200,Estonia,Liechtenstein,YkZoQLK9,08oJ2RMo,2,0,,,,0
+1149433200,Czech Republic,Andorra,b1xaMyVe,vapN1oxh,8,1,,,,0
+1149433200,Bulgaria,Croatia,Iyld3bDd,zXtZbqMA,1,3,,,,0
+1149433200,Azerbaijan,Poland,dtrVaP64,vZG58BBc,0,3,,,,0
+1149433200,Armenia,North Macedonia,dtrVaP64,zXtZbqMA,1,2,,,,0
+1149433200,Benin,Cameroon,jcdLSZc5,GvSfArk7,1,4,,,,0
+1149434100,Sweden,Malta,Uywods6T,zXtZbqMA,6,0,,,,0
+1149435000,Faroe Islands,Switzerland,fazrR153,88LAtdNt,1,3,,,,0
+1149437700,Ukraine,Kazakhstan,IPF97VQ3,Cfuwb3yH,2,0,,,,0
+1149440400,Belarus,Slovenia,Cfuwb3yH,IuvzgF4s,1,1,,,,0
+1149440400,Cape Verde,South Africa,GvK8wiCN,xQxQqqtQ,1,2,,,,0
+1149444000,Turkey,Greece,Cfuwb3yH,IPNevN3m,0,0,,,,0
+1149444300,Iceland,Hungary,vokh4vbj,Uywods6T,2,3,,,,0
+1149444900,Serbia and Montenegro,Belgium,zc8wEAfR,dtrVaP64,0,0,,,,0
+1149445800,San Marino,Bosnia & Herzegovina,fazrR153,Cfuwb3yH,1,3,,,,0
+1149445800,Norway,Italy,8doAmYTm,KfXjzrxU,0,0,,,,0
+1149445800,Netherlands,Romania,fazrR153,tKviOc0q,2,0,,,,0
+1149445800,Ireland,Israel,fazrR153,2ybyvrpo,2,2,,,,0
+1149445800,Albania,Georgia,vZG58BBc,zXtZbqMA,3,2,,,,0
+1149446700,Portugal,Slovakia,vZG58BBc,byN2hxSj,2,0,,,,0
+1149449400,Spain,Lithuania,0E8Iihe1,08oJ2RMo,1,0,,,,0
+1149451200,Colombia,Peru,C6kVdO5F,6aZroxFP,5,0,,,,0
+1149451200,Morocco,Malawi,hOurGDLS,8vfTQDSH,4,1,,,,0
+1149454800,Ecuador,Argentina,IPF97VQ3,AmY8ktbk,2,0,,,,0
+1149456600,Trinidad & Tobago,Panama,0tVbG58r,6yXdouA1,2,0,,,,0
+1149463800,USA,Costa Rica,MPdHoKT3,KfXjzrxU,3,0,,,,0
+1149466200,Venezuela,Uruguay,jclZerLL,WdZ4jMrq,1,1,,,,0
+1149469200,Chile,Bolivia,dYPS3tqD,Ik5Zg8Xj,3,1,,,,0
+1149469200,Guatemala,Mexico,MPdGWDGc,IPF97VQ3,0,2,,,,0
+1149512400,Zimbabwe,Gabon,xlL4vXdH,dfyLfadl,1,0,,,,0
+1149516000,Rwanda,Nigeria,MBizNLYC,CEPH9Bbd,1,1,,,,0
+1149517800,D.R. Congo,Uganda,YFbDUeTh,jcdLSZc5,4,0,,,,0
+1149517800,Congo,Senegal,8vfTQDSH,lQcLqf4g,0,0,,,,0
+1149517800,Angola,Algeria,UPCpX5dK,YFbDUeTh,2,1,,,,0
+1149519600,Ghana,Burkina Faso,8vfTQDSH,tv3f3Ec6,2,1,,,,0
+1149521400,Togo,Zambia,lGdKQ3Zm,xlL4vXdH,4,1,,,,0
+1149525000,Guinea,Kenya,8vfTQDSH,8vfTQDSH,1,0,,,,0
+1149526800,Mali,Liberia,MBizNLYC,xlL4vXdH,4,1,,,,0
+1149530400,Egypt,Sudan,j9fRtEHh,8vfTQDSH,6,1,,,,0
+1149534000,Brazil,Paraguay,88LAtdNt,I5qbBI7s,4,1,,,,0
+1149728400,Peru,Uruguay,6aZroxFP,WdZ4jMrq,0,0,,,,0
+1149762900,North Korea,Japan,8toS1iya,8toS1iya,0,2,,,,0
+1149777300,Iran,Bahrain,h2ICxBRT,2ybyvrpo,1,0,,,,0
+1149778800,Kazakhstan,Turkey,Cfuwb3yH,Cfuwb3yH,0,6,,,,0
+1149778800,Czech Republic,North Macedonia,b1xaMyVe,zXtZbqMA,6,1,,,,0
+1149780600,Latvia,Liechtenstein,zXtZbqMA,08oJ2RMo,1,0,,,,0
+1149786900,Estonia,Portugal,YkZoQLK9,vZG58BBc,0,1,,,,0
+1149787800,Romania,Armenia,tKviOc0q,dtrVaP64,3,0,,,,0
+1149788700,Kuwait,South Korea,2ybyvrpo,63aNArwB,0,4,,,,0
+1149789600,Luxembourg,Slovakia,jovscNjN,byN2hxSj,0,4,,,,0
+1149789600,Finland,Netherlands,08oJ2RMo,fazrR153,0,4,,,,0
+1149789600,Denmark,Albania,2kmuAQ93,vZG58BBc,3,1,,,,0
+1149789600,Belarus,Scotland,Cfuwb3yH,lfZlm1uk,0,0,,,,0
+1149789900,Iceland,Malta,vokh4vbj,zXtZbqMA,4,1,,,,0
+1149789900,Saudi Arabia,Uzbekistan,KtpTLRpL,MeuncTkU,3,0,,,,0
+1149791400,Greece,Ukraine,IPNevN3m,IPF97VQ3,0,1,,,,0
+1149791400,Faroe Islands,Ireland,fazrR153,fazrR153,0,2,,,,0
+1149796800,Colombia,Ecuador,C6kVdO5F,IPF97VQ3,3,0,,,,0
+1149796800,Spain,Bosnia & Herzegovina,0E8Iihe1,Cfuwb3yH,1,1,,,,0
+1149807900,Paraguay,Bolivia,I5qbBI7s,Ik5Zg8Xj,4,1,,,,0
+1149811200,Chile,Venezuela,dYPS3tqD,jclZerLL,2,1,,,,0
+1149811200,Mexico,Trinidad & Tobago,IPF97VQ3,0tVbG58r,2,0,,,,0
+1149813900,Argentina,Brazil,AmY8ktbk,88LAtdNt,3,1,,,,0
+1149816600,Panama,USA,6yXdouA1,MPdHoKT3,0,3,,,,0
+1149818400,Costa Rica,Guatemala,KfXjzrxU,MPdGWDGc,3,2,,,,0
+1150046100,Tunisia,Guinea,SGdPrEJa,8vfTQDSH,2,0,,,,0
+1150635600,Zambia,Mali,xlL4vXdH,MBizNLYC,2,1,,,,0
+1150635600,Malawi,Botswana,8vfTQDSH,nVhXPXsO,1,3,,,,0
+1150635600,Kenya,Morocco,8vfTQDSH,hOurGDLS,0,0,,,,0
+1150637400,Uganda,Cape Verde,jcdLSZc5,GvK8wiCN,1,0,,,,0
+1150637400,South Africa,Ghana,xQxQqqtQ,8vfTQDSH,0,2,,,,0
+1150641000,Gabon,Rwanda,dfyLfadl,MBizNLYC,3,0,,,,0
+1150642800,Nigeria,Angola,CEPH9Bbd,UPCpX5dK,1,1,,,,0
+1150650000,Senegal,Togo,lQcLqf4g,lGdKQ3Zm,2,2,,,,0
+1150653600,Burkina Faso,D.R. Congo,tv3f3Ec6,YFbDUeTh,2,0,,,,0
+1150727400,Cameroon,Libya,GvSfArk7,YFbDUeTh,1,0,,,,0
+1150732800,Liberia,Congo,xlL4vXdH,8vfTQDSH,0,2,,,,0
+1150732800,Ivory Coast,Egypt,zTSy144G,j9fRtEHh,2,0,,,,0
+1150745400,Algeria,Zimbabwe,YFbDUeTh,xlL4vXdH,2,2,,,,0
+1155810600,Japan,Iran,8toS1iya,h2ICxBRT,2,1,,,,0
+1155812700,South Korea,Saudi Arabia,63aNArwB,KtpTLRpL,0,1,,,,0
+1155816000,Kazakhstan,Georgia,Cfuwb3yH,zXtZbqMA,1,2,,,,0
+1155819900,Uzbekistan,Kuwait,MeuncTkU,2ybyvrpo,3,2,,,,0
+1155826800,Latvia,Russia,zXtZbqMA,dtrVaP64,1,1,,,,0
+1155832500,Bahrain,North Korea,2ybyvrpo,8toS1iya,2,3,,,,0
+1155835800,Sudan,Benin,8vfTQDSH,jcdLSZc5,1,0,,,,0
+1155837600,North Macedonia,Finland,zXtZbqMA,08oJ2RMo,0,3,,,,0
+1155837600,Faroe Islands,Cyprus,fazrR153,vZG58BBc,0,3,,,,0
+1155838500,Liechtenstein,Slovakia,08oJ2RMo,byN2hxSj,0,0,,,,0
+1155839400,Romania,Andorra,tKviOc0q,vapN1oxh,2,0,,,,0
+1155840300,Tunisia,Kenya,SGdPrEJa,8vfTQDSH,1,0,,,,0
+1155859200,USA,Trinidad & Tobago,MPdHoKT3,0tVbG58r,1,0,,,,0
+1155866400,Mexico,Costa Rica,IPF97VQ3,KfXjzrxU,2,0,,,,0
+1155866400,Guatemala,Panama,MPdGWDGc,6yXdouA1,2,1,,,,0
+1157216400,Libya,Sudan,YFbDUeTh,8vfTQDSH,0,0,,,,0
+1157275800,Australia,Solomon Islands,YNb3oHYR,IJIsQ3zG,7,0,,,,0
+1157288400,Zambia,Senegal,xlL4vXdH,lQcLqf4g,0,1,,,,0
+1157288400,Kenya,Tunisia,8vfTQDSH,SGdPrEJa,0,2,,,,0
+1157292000,Wales,England,YkZoQLK9,Iyld3bDd,0,1,,,,0
+1157292000,Northern Ireland,Azerbaijan,fazrR153,dtrVaP64,2,0,,,,0
+1157292000,Andorra,Finland,vapN1oxh,08oJ2RMo,0,0,,,,0
+1157295600,Russia,Liechtenstein,dtrVaP64,08oJ2RMo,2,0,,,,0
+1157295600,Estonia,Latvia,YkZoQLK9,zXtZbqMA,2,1,,,,0
+1157296500,Sweden,Bulgaria,Uywods6T,Iyld3bDd,3,0,,,,0
+1157297400,Switzerland,Israel,88LAtdNt,2ybyvrpo,1,1,,,,0
+1157299200,Moldova,Belarus,vapN1oxh,Cfuwb3yH,2,0,,,,0
+1157300100,Georgia,Ukraine,zXtZbqMA,IPF97VQ3,1,1,,,,0
+1157301000,Scotland,Italy,lfZlm1uk,KfXjzrxU,1,1,,,,0
+1157302800,Armenia,Netherlands,dtrVaP64,fazrR153,0,1,,,,0
+1157306400,Turkey,Denmark,Cfuwb3yH,2kmuAQ93,2,2,,,,0
+1157306400,Romania,Czech Republic,tKviOc0q,b1xaMyVe,2,0,,,,0
+1157306400,Bosnia & Herzegovina,Belgium,Cfuwb3yH,dtrVaP64,1,0,,,,0
+1157306400,Albania,Kazakhstan,vZG58BBc,Cfuwb3yH,2,1,,,,0
+1157306400,Mali,Congo,MBizNLYC,8vfTQDSH,2,0,,,,0
+1157306400,Burkina Faso,South Africa,tv3f3Ec6,xQxQqqtQ,3,1,,,,0
+1157306700,Iceland,Croatia,vokh4vbj,zXtZbqMA,1,3,,,,0
+1157308200,Serbia and Montenegro,Lithuania,zc8wEAfR,08oJ2RMo,2,0,,,,0
+1157308200,Poland,Austria,vZG58BBc,6cnthjRG,3,2,,,,0
+1157309100,Slovenia,Norway,IuvzgF4s,8doAmYTm,2,3,,,,0
+1157309100,Hungary,Malta,Uywods6T,zXtZbqMA,4,0,,,,0
+1157310000,Bolivia,Ecuador,Ik5Zg8Xj,IPF97VQ3,1,2,,,,0
+1157310000,France,Faroe Islands,U3HPIwDq,fazrR153,3,0,,,,0
+1157313600,Morocco,Botswana,hOurGDLS,nVhXPXsO,1,0,,,,0
+1157314500,Portugal,Luxembourg,vZG58BBc,jovscNjN,6,0,,,,0
+1157315400,Trinidad & Tobago,Guatemala,0tVbG58r,MPdGWDGc,3,2,,,,0
+1157317200,Paraguay,Argentina,I5qbBI7s,AmY8ktbk,1,0,,,,0
+1157324400,Venezuela,Peru,jclZerLL,6aZroxFP,4,1,,,,0
+1157326200,USA,Mexico,MPdHoKT3,IPF97VQ3,2,0,,,,0
+1157331600,Panama,Costa Rica,6yXdouA1,KfXjzrxU,1,3,,,,0
+1157374800,Zimbabwe,Rwanda,xlL4vXdH,MBizNLYC,3,1,,,,0
+1157378400,Angola,Gabon,UPCpX5dK,dfyLfadl,3,0,,,,0
+1157380200,D.R. Congo,Cape Verde,YFbDUeTh,GvK8wiCN,2,1,,,,0
+1157383800,Togo,Liberia,lGdKQ3Zm,xlL4vXdH,3,0,,,,0
+1157385600,Ivory Coast,Cameroon,zTSy144G,GvSfArk7,2,3,,,,0
+1157387400,Guinea,Malawi,8vfTQDSH,8vfTQDSH,3,1,,,,0
+1157387400,Ghana,Uganda,8vfTQDSH,jcdLSZc5,2,0,,,,0
+1157391000,Egypt,Benin,j9fRtEHh,jcdLSZc5,4,1,,,,0
+1157396400,Brazil,Chile,88LAtdNt,dYPS3tqD,5,0,,,,0
+1157398200,Algeria,Nigeria,YFbDUeTh,CEPH9Bbd,2,5,,,,0
+1157404800,Uruguay,Colombia,WdZ4jMrq,C6kVdO5F,3,2,,,,0
+1157508000,Solomon Islands,Australia,IJIsQ3zG,YNb3oHYR,1,2,,,,0
+1157634000,Kazakhstan,Greece,Cfuwb3yH,IPNevN3m,1,2,,,,0
+1157641200,Russia,Portugal,dtrVaP64,vZG58BBc,0,0,,,,0
+1157643000,Czech Republic,Armenia,b1xaMyVe,dtrVaP64,4,1,,,,0
+1157644800,Latvia,Slovakia,zXtZbqMA,byN2hxSj,1,1,,,,0
+1157644800,Finland,North Macedonia,08oJ2RMo,zXtZbqMA,5,1,,,,0
+1157644800,Bulgaria,Iceland,Iyld3bDd,vokh4vbj,3,2,,,,0
+1157644800,Azerbaijan,Austria,dtrVaP64,6cnthjRG,0,0,,,,0
+1157645700,Ukraine,Turkey,IPF97VQ3,Cfuwb3yH,0,1,,,,0
+1157647500,Malta,Croatia,zXtZbqMA,zXtZbqMA,1,1,,,,0
+1157648400,Norway,Scotland,8doAmYTm,lfZlm1uk,1,2,,,,0
+1157648400,Lithuania,Bosnia & Herzegovina,08oJ2RMo,Cfuwb3yH,0,1,,,,0
+1157648400,Faroe Islands,Israel,fazrR153,2ybyvrpo,0,2,,,,0
+1157648400,Belarus,Italy,Cfuwb3yH,KfXjzrxU,1,4,,,,0
+1157650200,Liechtenstein,Luxembourg,08oJ2RMo,jovscNjN,3,0,,,,0
+1157652000,Denmark,Georgia,2kmuAQ93,zXtZbqMA,6,1,,,,0
+1157652900,Moldova,Slovenia,vapN1oxh,IuvzgF4s,1,2,,,,0
+1157652900,Cyprus,Switzerland,vZG58BBc,88LAtdNt,1,3,,,,0
+1157653800,Poland,Wales,vZG58BBc,YkZoQLK9,1,0,,,,0
+1157653800,Netherlands,Andorra,fazrR153,vapN1oxh,4,0,,,,0
+1157653800,Belgium,San Marino,dtrVaP64,fazrR153,8,0,,,,0
+1157654700,Northern Ireland,England,fazrR153,Iyld3bDd,1,0,,,,0
+1157654700,Ireland,France,fazrR153,U3HPIwDq,0,1,,,,0
+1157654700,Hungary,Sweden,Uywods6T,Uywods6T,0,1,,,,0
+1157659200,Spain,Serbia and Montenegro,0E8Iihe1,zc8wEAfR,1,1,,,,0
+1157680800,Mexico,Panama,IPF97VQ3,6yXdouA1,5,0,,,,0
+1157680800,Guatemala,USA,MPdGWDGc,MPdHoKT3,0,0,,,,0
+1157680800,Costa Rica,Trinidad & Tobago,KfXjzrxU,0tVbG58r,2,0,,,,0
+1159718400,Liberia,Zambia,xlL4vXdH,xlL4vXdH,0,5,,,,0
+1160309100,Uzbekistan,Bahrain,MeuncTkU,2ybyvrpo,1,1,,,,0
+1160312400,Northern Ireland,Wales,fazrR153,YkZoQLK9,2,3,,,,0
+1160312400,Malawi,Kenya,8vfTQDSH,8vfTQDSH,3,0,,,,0
+1160316000,Scotland,Belarus,lfZlm1uk,Cfuwb3yH,0,1,,,,0
+1160316000,Finland,Romania,08oJ2RMo,tKviOc0q,0,1,,,,0
+1160316000,Rwanda,Angola,MBizNLYC,UPCpX5dK,0,1,,,,0
+1160316000,Nigeria,Zimbabwe,CEPH9Bbd,xlL4vXdH,5,1,,,,0
+1160316000,Botswana,Guinea,nVhXPXsO,8vfTQDSH,1,2,,,,0
+1160317800,Gabon,Algeria,dfyLfadl,YFbDUeTh,0,0,,,,0
+1160319600,Slovakia,Estonia,byN2hxSj,YkZoQLK9,1,0,,,,0
+1160319600,Russia,Luxembourg,dtrVaP64,jovscNjN,5,1,,,,0
+1160319600,England,Austria,Iyld3bDd,6cnthjRG,1,0,,,,0
+1160319600,Bulgaria,Hungary,Iyld3bDd,Uywods6T,2,0,,,,0
+1160319600,Uganda,Burkina Faso,jcdLSZc5,tv3f3Ec6,2,2,,,,0
+1160319600,Sudan,Ivory Coast,8vfTQDSH,zTSy144G,1,3,,,,0
+1160319600,South Africa,D.R. Congo,xQxQqqtQ,YFbDUeTh,2,2,,,,0
+1160319600,Senegal,Mali,lQcLqf4g,MBizNLYC,3,0,,,,0
+1160319600,Congo,Togo,8vfTQDSH,lGdKQ3Zm,2,3,,,,0
+1160319600,Cape Verde,Ghana,GvK8wiCN,8vfTQDSH,0,4,,,,0
+1160319600,Cameroon,Egypt,GvSfArk7,j9fRtEHh,1,1,,,,0
+1160323200,Georgia,Kazakhstan,zXtZbqMA,Cfuwb3yH,0,0,,,,0
+1160324100,Ukraine,Albania,IPF97VQ3,vZG58BBc,2,2,,,,0
+1160326800,Lithuania,Serbia and Montenegro,08oJ2RMo,zc8wEAfR,0,2,,,,0
+1160326800,Cyprus,Ireland,vZG58BBc,fazrR153,0,1,,,,0
+1160330400,Denmark,Greece,2kmuAQ93,IPNevN3m,1,0,,,,0
+1160330400,Bosnia & Herzegovina,San Marino,Cfuwb3yH,fazrR153,3,0,,,,0
+1160331000,Israel,Faroe Islands,2ybyvrpo,fazrR153,2,1,,,,0
+1160331300,Norway,Moldova,8doAmYTm,vapN1oxh,1,0,,,,0
+1160331300,Croatia,Sweden,zXtZbqMA,Uywods6T,1,0,,,,0
+1160332200,Czech Republic,Netherlands,b1xaMyVe,fazrR153,0,2,,,,0
+1160333100,Switzerland,France,88LAtdNt,U3HPIwDq,1,1,,,,0
+1160333100,Belgium,Spain,dtrVaP64,0E8Iihe1,0,2,,,,0
+1160334000,Italy,Slovenia,KfXjzrxU,IuvzgF4s,1,0,,,,0
+1160336700,Tunisia,Morocco,SGdPrEJa,hOurGDLS,2,2,,,,0
+1160338500,Portugal,Liechtenstein,vZG58BBc,08oJ2RMo,2,1,,,,0
+1160341200,Venezuela,Paraguay,jclZerLL,I5qbBI7s,0,1,,,,0
+1160341200,Ecuador,Uruguay,IPF97VQ3,WdZ4jMrq,0,0,,,,0
+1160341200,Colombia,Chile,C6kVdO5F,dYPS3tqD,1,1,,,,0
+1160355600,Panama,Trinidad & Tobago,6yXdouA1,0tVbG58r,0,1,,,,0
+1160355600,Mexico,Guatemala,IPF97VQ3,MPdGWDGc,5,2,,,,0
+1160355600,Costa Rica,USA,KfXjzrxU,MPdHoKT3,3,0,,,,0
+1160406000,Benin,Libya,jcdLSZc5,YFbDUeTh,1,0,,,,0
+1160424000,Bolivia,Brazil,Ik5Zg8Xj,88LAtdNt,1,1,,,,0
+1160431800,Argentina,Peru,AmY8ktbk,6aZroxFP,2,0,,,,0
+1160661600,Andorra,Armenia,vapN1oxh,dtrVaP64,0,3,,,,0
+1160667000,Finland,Czech Republic,08oJ2RMo,b1xaMyVe,0,3,,,,0
+1160668800,Kazakhstan,Denmark,Cfuwb3yH,2kmuAQ93,1,2,,,,0
+1160668800,Greece,Georgia,IPNevN3m,zXtZbqMA,1,0,,,,0
+1160668800,Albania,Turkey,vZG58BBc,Cfuwb3yH,0,1,,,,0
+1160672400,Malta,Bulgaria,zXtZbqMA,Iyld3bDd,1,1,,,,0
+1160674200,Sweden,Iceland,Uywods6T,vokh4vbj,3,1,,,,0
+1160674200,Netherlands,North Macedonia,fazrR153,zXtZbqMA,0,0,,,,0
+1160674200,Hungary,Croatia,Uywods6T,zXtZbqMA,0,0,,,,0
+1160676900,Luxembourg,Estonia,jovscNjN,YkZoQLK9,0,2,,,,0
+1160677800,Slovenia,Scotland,IuvzgF4s,lfZlm1uk,0,3,,,,0
+1160677800,Slovakia,Russia,byN2hxSj,dtrVaP64,0,0,,,,0
+1160677800,Serbia and Montenegro,Bosnia & Herzegovina,zc8wEAfR,Cfuwb3yH,1,0,,,,0
+1160677800,San Marino,Spain,fazrR153,0E8Iihe1,0,6,,,,0
+1160677800,Portugal,Latvia,vZG58BBc,zXtZbqMA,3,0,,,,0
+1160677800,Lithuania,Belgium,08oJ2RMo,dtrVaP64,1,1,,,,0
+1160677800,Italy,Moldova,KfXjzrxU,vapN1oxh,2,1,,,,0
+1160677800,Belarus,Norway,Cfuwb3yH,8doAmYTm,0,1,,,,0
+1160677800,Austria,Northern Ireland,6cnthjRG,fazrR153,2,0,,,,0
+1160678700,Wales,Azerbaijan,YkZoQLK9,dtrVaP64,2,0,,,,0
+1160678700,Ireland,Switzerland,fazrR153,88LAtdNt,0,0,,,,0
+1160678700,France,Cyprus,U3HPIwDq,vZG58BBc,4,0,,,,0
+1160678700,England,Poland,Iyld3bDd,vZG58BBc,2,1,,,,0
+1160679600,Bahrain,Uzbekistan,2ybyvrpo,MeuncTkU,0,0,,,,0
+1160697600,USA,Panama,MPdHoKT3,6yXdouA1,2,0,,,,0
+1160697600,Trinidad & Tobago,Mexico,0tVbG58r,IPF97VQ3,2,1,,,,0
+1160697600,Guatemala,Costa Rica,MPdGWDGc,KfXjzrxU,3,1,,,,0
+1160699400,Uruguay,Argentina,WdZ4jMrq,AmY8ktbk,1,0,,,,0
+1160699400,Paraguay,Colombia,I5qbBI7s,C6kVdO5F,0,1,,,,0
+1160699400,Chile,Ecuador,dYPS3tqD,IPF97VQ3,0,0,,,,0
+1160699400,Brazil,Venezuela,88LAtdNt,jclZerLL,3,0,,,,0
+1160701200,Peru,Bolivia,6aZroxFP,Ik5Zg8Xj,4,1,,,,0
+1163356200,Norway,Czech Republic,8doAmYTm,b1xaMyVe,0,1,,,,0
+1163360700,Switzerland,Turkey,88LAtdNt,Cfuwb3yH,2,0,,,,0
+1163361600,Uruguay,Australia,WdZ4jMrq,YNb3oHYR,1,0,,,,0
+1163365200,Spain,Slovakia,0E8Iihe1,byN2hxSj,5,1,,,,0
+1163370600,Trinidad & Tobago,Bahrain,0tVbG58r,2ybyvrpo,1,1,,,,0
+1163667600,Australia,Uruguay,YNb3oHYR,WdZ4jMrq,1,0,Pen,2,0,0
+1163692800,Bahrain,Trinidad & Tobago,2ybyvrpo,0tVbG58r,0,1,,,,0
+1163700900,Turkey,Switzerland,Cfuwb3yH,88LAtdNt,4,2,,,,0
+1163704500,Slovakia,Spain,byN2hxSj,0E8Iihe1,1,1,,,,0
+1163704500,Czech Republic,Norway,b1xaMyVe,8doAmYTm,1,0,,,,0
+1149868800,Germany,Costa Rica,fB4vYUZp,KfXjzrxU,4,2,,,,0
+1149879600,Poland,Ecuador,vZG58BBc,IPF97VQ3,0,2,,,,0
+1149944400,England,Paraguay,Iyld3bDd,I5qbBI7s,1,0,,,,0
+1149955200,Trinidad & Tobago,Sweden,0tVbG58r,Uywods6T,0,0,,,,0
+1149966000,Argentina,Ivory Coast,AmY8ktbk,zTSy144G,2,1,,,,0
+1150030800,Serbia and Montenegro,Netherlands,zc8wEAfR,fazrR153,0,1,,,,0
+1150041600,Mexico,Iran,IPF97VQ3,h2ICxBRT,3,1,,,,0
+1150052400,Angola,Portugal,UPCpX5dK,vZG58BBc,0,1,,,,0
+1150117200,Australia,Japan,YNb3oHYR,8toS1iya,3,1,,,,0
+1150128000,USA,Czech Republic,MPdHoKT3,b1xaMyVe,0,3,,,,0
+1150138800,Italy,Ghana,KfXjzrxU,8vfTQDSH,2,0,,,,0
+1150203600,South Korea,Togo,63aNArwB,lGdKQ3Zm,2,1,,,,0
+1150214400,France,Switzerland,U3HPIwDq,88LAtdNt,0,0,,,,0
+1150225200,Brazil,Croatia,88LAtdNt,zXtZbqMA,1,0,,,,0
+1150290000,Spain,Ukraine,0E8Iihe1,IPF97VQ3,4,0,,,,0
+1150300800,Tunisia,Saudi Arabia,SGdPrEJa,KtpTLRpL,2,2,,,,0
+1150311600,Germany,Poland,fB4vYUZp,vZG58BBc,1,0,,,,0
+1150376400,Ecuador,Costa Rica,IPF97VQ3,KfXjzrxU,3,0,,,,0
+1150387200,England,Trinidad & Tobago,Iyld3bDd,0tVbG58r,2,0,,,,0
+1150398000,Sweden,Paraguay,Uywods6T,I5qbBI7s,1,0,,,,0
+1150462800,Argentina,Serbia and Montenegro,AmY8ktbk,zc8wEAfR,6,0,,,,0
+1150473600,Netherlands,Ivory Coast,fazrR153,zTSy144G,2,1,,,,0
+1150484400,Mexico,Angola,IPF97VQ3,UPCpX5dK,0,0,,,,0
+1150549200,Portugal,Iran,vZG58BBc,h2ICxBRT,2,0,,,,0
+1150560000,Czech Republic,Ghana,b1xaMyVe,8vfTQDSH,0,2,,,,0
+1150570800,Italy,USA,KfXjzrxU,MPdHoKT3,1,1,,,,0
+1150635600,Japan,Croatia,8toS1iya,zXtZbqMA,0,0,,,,0
+1150646400,Brazil,Australia,88LAtdNt,YNb3oHYR,2,0,,,,0
+1150657200,France,South Korea,U3HPIwDq,63aNArwB,1,1,,,,0
+1150722000,Togo,Switzerland,lGdKQ3Zm,88LAtdNt,0,2,,,,0
+1150732800,Saudi Arabia,Ukraine,KtpTLRpL,IPF97VQ3,0,4,,,,0
+1150743600,Spain,Tunisia,0E8Iihe1,SGdPrEJa,3,1,,,,0
+1150812000,Ecuador,Germany,IPF97VQ3,fB4vYUZp,0,3,,,,0
+1150812000,Costa Rica,Poland,KfXjzrxU,vZG58BBc,1,2,,,,0
+1150830000,Sweden,England,Uywods6T,Iyld3bDd,2,2,,,,0
+1150830000,Paraguay,Trinidad & Tobago,I5qbBI7s,0tVbG58r,2,0,,,,0
+1150898400,Portugal,Mexico,vZG58BBc,IPF97VQ3,2,1,,,,0
+1150898400,Iran,Angola,h2ICxBRT,UPCpX5dK,1,1,,,,0
+1150916400,Netherlands,Argentina,fazrR153,AmY8ktbk,0,0,,,,0
+1150916400,Ivory Coast,Serbia and Montenegro,zTSy144G,zc8wEAfR,3,2,,,,0
+1150984800,Ghana,USA,8vfTQDSH,MPdHoKT3,2,1,,,,0
+1150984800,Czech Republic,Italy,b1xaMyVe,KfXjzrxU,0,2,,,,0
+1151002800,Japan,Brazil,8toS1iya,88LAtdNt,1,4,,,,0
+1151002800,Croatia,Australia,zXtZbqMA,YNb3oHYR,2,2,,,,0
+1151071200,Ukraine,Tunisia,IPF97VQ3,SGdPrEJa,1,0,,,,0
+1151071200,Saudi Arabia,Spain,KtpTLRpL,0E8Iihe1,0,1,,,,0
+1151089200,Togo,France,lGdKQ3Zm,U3HPIwDq,0,2,,,,0
+1151089200,Switzerland,South Korea,88LAtdNt,63aNArwB,2,0,,,,0
+1151161200,Germany,Sweden,fB4vYUZp,Uywods6T,2,0,,,,0
+1151175600,Argentina,Mexico,AmY8ktbk,IPF97VQ3,1,1,AET,2,1,0
+1151247600,England,Ecuador,Iyld3bDd,IPF97VQ3,1,0,,,,0
+1151262000,Portugal,Netherlands,vZG58BBc,fazrR153,1,0,,,,0
+1151334000,Italy,Australia,KfXjzrxU,YNb3oHYR,1,0,,,,0
+1151348400,Switzerland,Ukraine,88LAtdNt,IPF97VQ3,0,0,Pen,0,1,0
+1151420400,Brazil,Ghana,88LAtdNt,8vfTQDSH,3,0,,,,0
+1151434800,Spain,France,0E8Iihe1,U3HPIwDq,1,3,,,,0
+1151679600,Germany,Argentina,fB4vYUZp,AmY8ktbk,1,1,Pen,2,1,0
+1151694000,Italy,Ukraine,KfXjzrxU,IPF97VQ3,3,0,,,,0
+1151766000,England,Portugal,Iyld3bDd,vZG58BBc,0,0,Pen,0,1,0
+1151780400,Brazil,France,88LAtdNt,U3HPIwDq,0,1,,,,0
+1152039600,Germany,Italy,fB4vYUZp,KfXjzrxU,0,0,AET,0,2,0
+1152126000,Portugal,France,vZG58BBc,U3HPIwDq,0,1,,,,0
+1152385200,Germany,Portugal,fB4vYUZp,vZG58BBc,3,1,,,,0
+1152468000,Italy,France,KfXjzrxU,U3HPIwDq,1,1,Pen,2,1,0

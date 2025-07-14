@@ -144,3 +144,5 @@ __azurite_db*__.json
 # EDA files
 *.jar
 *.pdf
+
+matches.csv
